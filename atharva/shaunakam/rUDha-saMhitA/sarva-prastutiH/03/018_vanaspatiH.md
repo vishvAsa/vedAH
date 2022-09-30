@@ -33,13 +33,16 @@ A jealous wife's incantation against a rival
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधां॒ बल॑वत्तमाम्।  
-यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म्॥१॥  
+यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/01_imAM_khanAmyoShadhim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधां॒ बल॑वत्तमाम्। यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म् ॥
+इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधां॒ बल॑वत्तमाम्।  
+यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/01_imAM_khanAmyoShadhim.md">
@@ -64,7 +67,7 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 </details>
 <details><summary>पदपाठः</summary>
 
-इमाम्। खनामि। ओषधिम्। वीरुधाम्। बलवत्ऽतमाम्। यया। सऽपत्नीम्। बाधते। यया। सम्ऽविन्दते। पतिम्। १८.१।
+इ॒माम्। ख॒ना॒मि॒। ओष॑धिम्। वी॒रुधा॑म्। बल॑वत्ऽतमाम्। यया॑। स॒ऽपत्नी॑म्। बाध॑ते। यया॑। स॒म्ऽवि॒न्दते॑। पति॑म्। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति ।  
-स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥२॥  
+उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति।  
+स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति। स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥
+उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति।  
+स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/02_uttAnaparNe_subhage.md">
@@ -126,7 +132,7 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्तानऽपर्णे। सुऽभगे। देवऽजूते। सहस्वति। सऽपत्नीम्। मे। परा। नुद। पतिम्। मे। केवलम्। कृधि। १८.२।
+उत्ता॑नऽपर्णे। सुऽभ॑गे। देव॑ऽजूते। सह॑स्वति। स॒ऽपत्नी॑म्। मे॒। परा॑। नु॒द॒। पति॑म्। मे॒। केव॑लम्। कृ॒धि॒। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/03_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन् र॑मसे॒ पतौ॑ ।  
-परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥३॥  
+न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन्र॑मसे॒ पतौ॑।  
+परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/03_nahi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन्र॑मसे॒ पतौ॑। परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥
+न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन्र॑मसे॒ पतौ॑।  
+परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/03_nahi_te.md">
@@ -198,7 +207,7 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 </details>
 <details><summary>पदपाठः</summary>
 
-नहि। ते। नाम। जग्राह। नो इति। अस्मिन्। रमसे। पतौ। पराम्। एव। पराऽवतम्। सऽपत्नीम्। गमयामसि। १८.३।
+न॒हि। ते॒। नाम॑। ज॒ग्राह॑। नो इति॑। अ॒स्मिन्। र॒म॒से॒। पतौ॑। परा॑म्। ए॒व। प॒रा॒ऽवत॑म्। स॒ऽपत्नी॑म्। ग॒म॒या॒म॒सि॒। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,14 +238,17 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः ।  
-अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥४॥  
+उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः।  
+अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः। अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥
+उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः।  
+अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/04_uttarAhamuttara_uttareduttarAbhyaH.md">
@@ -263,7 +275,7 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतरा। अहम्। उत्ऽतरे। उत्ऽतरा। इत्। उत्ऽतराभ्यः। अधः। सऽपत्नी। या। मम। अधरा। सा। अधराभ्यः। १८.४।
+उत्ऽत॑रा। अ॒हम्। उ॒त्ऽत॒रे॒। उत्ऽत॑रा। इत्। उत्ऽत॑राभ्यः। अ॒धः। स॒ऽपत्नी॑। या। मम॑। अध॑रा। सा। अध॑राभ्यः। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -294,14 +306,17 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः ।  
-उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥५॥  
+अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः।  
+उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः। उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥
+अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः।  
+उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/05_ahamasmi_sahamAnAtho.md">
@@ -322,7 +337,7 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। अस्मि। सहमाना। अथो इति। त्वम्। असि। ससहिः। उभे इति। सहस्वती इति। भूत्वा। सऽपत्नीम्। मे। सहावहै। १८.५।
+अ॒हम्। अ॒स्मि॒। सह॑माना। अथो॒ इति॑। त्वम्। अ॒सि॒। स॒स॒हिः। उ॒भे इति॑। सह॑स्वती॒ इति॑। भू॒त्वा। स॒ऽपत्नी॑म्। मे॒। स॒हा॒व॒है॒। १८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -354,13 +369,16 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि ते॑ऽधां॒ सह॑माना॒मुप॑ तेऽधां॒ सही॑यसीम्।  
-मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥६॥
+मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/018_vanaspatiH/06_abhi_te-dhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि ते॑ऽधां॒ सह॑माना॒मुप॑ तेऽधां॒ सही॑यसीम्। मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥
+अ॒भि ते॑ऽधां॒ सह॑माना॒मुप॑ तेऽधां॒ सही॑यसीम्।  
+मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/018_vanaspatiH/06_abhi_te-dhAm.md">
@@ -390,7 +408,7 @@ I've girt thee with the conquering Plant, beneath thee laid the mightiest one. A
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। ते। अधाम्। सहमानाम्। उप। ते। अधाम्। सहीयसीम्। माम्। अनु। प्र। ते। मनः। वत्सम्। गौःऽइव। धावतु। पथा। वाःऽइव। धावतु। १८.६।
+अ॒भि। ते॒। अ॒धा॒म्। सह॑मानाम्। उप॑। ते॒। अ॒धा॒म्। सही॑यसीम्। माम्। अनु॑। प्र। ते॒। मनः॑। व॒त्सम्। गौःऽइ॑व। धा॒व॒तु॒। प॒था। वाःऽइ॑व। धा॒व॒तु॒। १८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

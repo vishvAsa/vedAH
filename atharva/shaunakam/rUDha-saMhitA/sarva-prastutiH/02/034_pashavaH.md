@@ -37,13 +37,16 @@ A prayer accompanying an animal sacrifice
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ईशे॑ पशु॒पतिः॑ पशू॒नां चतु॑ष्पदामु॒त यो द्वि॒पदा॑म्।  
-निष्क्री॑तः॒ स य॒ज्ञियं॑ भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानं सचन्ताम्॥१॥  
+निष्क्री॑तः॒ स य॒ज्ञियं॑ भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानं सचन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/01_ya_Ishe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य ईशे॑ पशु॒पतिः॑ पशू॒नां चतु॑ष्पदामु॒त यो द्वि॒पदा॑म्। निष्क्री॑तः॒ स य॒ज्ञियं॑ भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानं सचन्ताम् ॥
+य ईशे॑ पशु॒पतिः॑ पशू॒नां चतु॑ष्पदामु॒त यो द्वि॒पदा॑म्।  
+निष्क्री॑तः॒ स य॒ज्ञियं॑ भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानं सचन्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/01_ya_Ishe.md">
@@ -83,7 +86,7 @@ May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ईशे। पशुऽपतिः। पशूनाम्। चतुःऽपदाम्। उत। यः। द्विऽपदाम्। निःऽक्रीतः। सः। यज्ञियम्। भागम्। एतु। रायः। पोषाः। यजमानम्। सचन्ताम्। ३४.१।
+यः। ईशे॑। प॒शु॒ऽपतिः॑। प॒शू॒नाम्। चतुः॑ऽपदाम्। उ॒त। यः। द्वि॒ऽपदा॑म्। निःऽक्री॑तः। सः। य॒ज्ञिय॑म्। भा॒गम्। ए॒तु॒। रा॒यः। पोषाः॑। यज॑मानम्। स॒च॒न्ता॒म्। ३४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -114,14 +117,17 @@ May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒मु॒ञ्चन्तो॒ भुव॑नस्य॒ रेतो॑ गा॒तुं ध॑त्त॒ यज॑मानाय देवाः ।  
-उ॒पाकृ॑तं शशमा॒नं यदस्था॑त् प्रि॒यं दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥२॥  
+प्र॑मु॒ञ्चन्तो॒ भुव॑नस्य॒ रेतो॑ गा॒तुं ध॑त्त॒ यज॑मानाय देवाः।  
+उ॒पाकृ॑तं शशमा॒नं यदस्था॑त्प्रि॒यम्दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॑मु॒ञ्चन्तो॒ भुव॑नस्य॒ रेतो॑ गा॒तुं ध॑त्त॒ यज॑मानाय देवाः। उ॒पाकृ॑तं शशमा॒नं यदस्था॑त्प्रि॒यम्दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥
+प्र॑मु॒ञ्चन्तो॒ भुव॑नस्य॒ रेतो॑ गा॒तुं ध॑त्त॒ यज॑मानाय देवाः।  
+उ॒पाकृ॑तं शशमा॒नं यदस्था॑त्प्रि॒यम्दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
@@ -153,7 +159,7 @@ Loosing the seed of future-time existence, give good success, O Gods, to him who
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रऽमुञ्चन्तः। भुवनस्‍य। रेतः। गातुम्। धत्त। यजमानाय। देवाः। उपऽआकृतम्। शशमानम्। यत्। अस्थात्। प्रियम्। देवानाम्। अपि। एतु। पाथः। ३४.२।
+प्र॒ऽमु॒ञ्चन्तः॑। भुव॑नस्‍य। रेतः॑। गा॒तुम्। ध॒त्त॒। यज॑मानाय। देवाः॒। उ॒प॒ऽआकृ॑तम्। श॒श॒मा॒नम्। यत्। अस्था॑त्। प्रि॒यम्। दे॒वाना॑म्। अपि॑। ए॒तु॒। पाथः॑। ३४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -184,14 +190,17 @@ Loosing the seed of future-time existence, give good success, O Gods, to him who
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ब॒ध्यमा॑न॒मनु॒ दीध्या॑ना अ॒न्वैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च ।  
-अ॒ग्निष्टानग्रे॒ प्र मु॑मोक्तु दे॒वो वि॒श्वक॑र्मा प्र॒जया॑ संररा॒णः ॥३॥  
+ये ब॒ध्यमा॑न॒मनु॒ दीध्या॑ना अ॒न्वैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च।  
+अ॒ग्निष्टानग्रे॒ प्र मु॑मोक्तु दे॒वो वि॒श्वक॑र्मा प्र॒जया॑ संररा॒णः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/03_ye_badhyamAnamanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ब॒ध्यमा॑न॒मनु॒ दीध्या॑ना अ॒न्वैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च। अ॒ग्निष्टानग्रे॒ प्र मु॑मोक्तु दे॒वो वि॒श्वक॑र्मा प्र॒जया॑ संररा॒णः ॥
+ये ब॒ध्यमा॑न॒मनु॒ दीध्या॑ना अ॒न्वैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च।  
+अ॒ग्निष्टानग्रे॒ प्र मु॑मोक्तु दे॒वो वि॒श्वक॑र्मा प्र॒जया॑ संररा॒णः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
@@ -224,7 +233,7 @@ Those who are looking, deep in meditation, on the bound ani- mal with eye and sp
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। बध्यमानम्। अनु। दीध्यानाः। अनुऽऐक्षन्त। मनसा। चक्षुषा। च। अग्निः। तान्। अग्रे। प्र। मुमोक्तु। देवः। विश्वऽकर्मा। प्रऽजया। सम्ऽरराणः। ३४.३।
+ये। ब॒ध्यमा॑नम्। अनु॑। दीध्या॑नाः। अ॒नु॒ऽऐक्ष॑न्त। मन॑सा। चक्षु॑षा। च॒। अ॒ग्निः। तान्। अग्रे॑। प्र। मु॒मो॒क्तु॒। दे॒वः। वि॒श्वऽक॑र्मा। प्र॒ऽजया॑। स॒म्ऽर॒रा॒णः। ३४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -255,14 +264,17 @@ Those who are looking, deep in meditation, on the bound ani- mal with eye and sp
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/04_ye_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा विरू॑पाः सन्तो॑ बहु॒धैक॑रूपाः ।  
-वा॒युष्टानग्रे॒ प्र मु॑मोक्तु दे॒वः प्र॒जाप॑तिः प्र॒जया॑ संररा॒णः ॥४॥  
+ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒ विरू॑पाः॒ सन्तो॑ बहु॒धैक॑रूपाः।  
+वा॒युष्टानग्रे॒ प्र मु॑मोक्तु दे॒वः प्र॒जाप॑तिः प्र॒जया॑ संररा॒णः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/04_ye_grAmyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒ विरू॑पाः॒ सन्तो॑ बहु॒धैक॑रूपाः। वा॒युष्टानग्रे॒ प्र मु॑मोक्तु दे॒वः प्र॒जाप॑तिः प्र॒जया॑ संररा॒णः ॥
+ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒ विरू॑पाः॒ सन्तो॑ बहु॒धैक॑रूपाः।  
+वा॒युष्टानग्रे॒ प्र मु॑मोक्तु दे॒वः प्र॒जाप॑तिः प्र॒जया॑ संररा॒णः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/04_ye_grAmyAH.md">
@@ -288,7 +300,7 @@ Tame animals of every shape, though varied in colour, manifold. alike in nature 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। ग्राम्याः। पशवः। विश्वऽरूपाः। विऽरूपाः। सन्तः। बहुऽधा। एकऽरूपाः। वायुः। तान्। अग्रे। प्र। मुमोक्तु। देवः। प्रजाऽपतिः। प्रऽजया। सम्ऽरराणः। ३४.४।
+ये। ग्रा॒म्याः। प॒शवः॑। वि॒श्वऽरू॑पाः। विऽरू॑पाः। सन्तः॑। ब॒हु॒ऽधा। एक॑ऽरूपाः। वा॒युः। तान्। अग्रे॑। प्र। मु॒मो॒क्तु॒। दे॒वः। प्र॒जाऽप॑तिः। प्र॒ऽजया॑। स॒म्ऽर॒रा॒णः। ३४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -319,14 +331,17 @@ Tame animals of every shape, though varied in colour, manifold. alike in nature 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जा॒नन्तः॒ प्रति॑ गृह्णन्तु॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्यः॒ पर्या॒चर॑न्तम्।  
-दिवं॑ गच्छ॒ प्रति॑ तिष्ठा॒ शरी॑रैः स्व॒र्गं या॑हि प॒थिभि॑र्देव॒यानैः॑ ॥५॥
+प्र॑जा॒नन्तः॒ प्रति॑ गृह्णन्तु॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्यः॒ पर्या॒चर॑न्तम्।  
+दिवं॑ गछ॒ प्रति॑ तिष्ठा॒ शरी॑रैः स्व॒र्गं या॑हि प॒थिभि॑र्देव॒यानैः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॑जा॒नन्तः॒ प्रति॑ गृह्णन्तु॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्यः॒ पर्या॒चर॑न्तम्। दिवं॑ गछ॒ प्रति॑ तिष्ठा॒ शरी॑रैः स्व॒र्गं या॑हि प॒थिभि॑र्देव॒यानैः॑ ॥
+प्र॑जा॒नन्तः॒ प्रति॑ गृह्णन्तु॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्यः॒ पर्या॒चर॑न्तम्।  
+दिवं॑ गछ॒ प्रति॑ तिष्ठा॒ शरी॑रैः स्व॒र्गं या॑हि प॒थिभि॑र्देव॒यानैः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/05_prajAnantaH_prati.md">
@@ -358,7 +373,7 @@ Let those who know receive before all others the vital breath proceeding from th
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रऽजानन्तः। प्रति। गृह्णन्तु। पूर्वे। प्राणम्। अङ्गेभ्यः। परि। आऽचरन्तम्। दिवम्। गच्छ। प्रति। तिष्ठ। शरीरैः। स्वःऽगम्। याहि। पथिऽभिः। देवऽयानैः। ३४.५।
+प्र॒ऽजा॒नन्तः॑। प्रति॑। गृ॒ह्ण॒न्तु॒। पूर्वे॑। प्रा॒णम्। अङ्गे॑भ्यः। परि॑। आ॒ऽचर॑न्तम्। दिव॑म्। ग॒च्छ॒। प्रति॑। ति॒ष्ठ॒। शरी॑रैः। स्वः॒ऽगम्। या॒हि॒। प॒थिऽभिः॑। दे॒व॒ऽयानैः॑। ३४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

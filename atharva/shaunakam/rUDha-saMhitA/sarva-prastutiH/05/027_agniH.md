@@ -39,14 +39,17 @@ An Apri or Propitiatory hymn
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/01_UrdhvA_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चीष्य॒ग्नेः ।  
-द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥१॥  
+ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चींष्य॒ग्नेः।  
+द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/01_UrdhvA_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चींष्य॒ग्नेः। द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥
+ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चींष्य॒ग्नेः।  
+द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/01_UrdhvA_asya.md">
@@ -106,7 +109,7 @@ Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! S
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वाः। अस्य। सम्ऽइधः। भवन्ति। ऊर्ध्वा। शुक्रा। शोचीषि। अग्नेः। द्युमत्ऽतमा। सुऽप्रतीकः। सऽसूनुः। तनूऽनपात्। असुरः। भूरिऽपाणिः। २७.१।
+ऊ॒र्ध्वाः। अ॒स्य॒। स॒म्ऽइधः॑। भ॒व॒न्ति॒। ऊ॒र्ध्वा। शु॒क्रा। शो॒चीषि॑। अ॒ग्नेः। द्यु॒मत्ऽत॑मा। सु॒ऽप्रती॑कः। सऽसू॑नुः। तनू॒ऽनपा॑त्। असु॑रः। भूरि॑ऽपाणिः। २७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -137,13 +140,15 @@ Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! S
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/02_devo_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥२॥  
+दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/02_devo_deveShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/02_devo_deveShu.md">
@@ -158,7 +163,7 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 </details>
 <details><summary>पदपाठः</summary>
 
-देवः। देवेषु। देवः। पथः। अनक्ति। मध्वा। घृतेन। २७.२।
+दे॒वः। दे॒वेषु॑। दे॒वः। प॒थः। अ॒न॒क्ति॒। मध्वा॑। घृ॒तेन॑। २७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -189,13 +194,15 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/03_madhvA_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मध्वा॑ य॒ज्ञं न॑क्षति प्रैणा॒नो नरा॒शंसो॑ अ॒ग्निः सु॒कृद् दे॒वः स॑वि॒ता वि॒श्ववा॑रः ॥३॥  
+मध्वा॑ य॒ज्ञं न॑क्षति प्रैणा॒नो नरा॒शंसो॑ अ॒ग्निः सु॒कृद्दे॒वः स॑वि॒ता वि॒श्ववा॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/03_madhvA_yajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 मध्वा॑ य॒ज्ञं न॑क्षति प्रैणा॒नो नरा॒शंसो॑ अ॒ग्निः सु॒कृद्दे॒वः स॑वि॒ता वि॒श्ववा॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/03_madhvA_yajnam.md">
@@ -222,7 +229,7 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 </details>
 <details><summary>पदपाठः</summary>
 
-मध्वा। यज्ञम्। नक्षति। प्रैणानः। नराशंसः। अग्निः। सुऽकृत्। देवः। सविता। विश्वऽवारः। २७.३।
+मध्वा॑। य॒ज्ञम्। न॒क्ष॒ति॒। प्रै॒णा॒नः। नरा॒शंसः॑। अ॒ग्निः। सु॒ऽकृत्। दे॒वः। स॒वि॒ता। वि॒श्वऽवा॑रः। २७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -253,13 +260,15 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/04_achChAyameti_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अछा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥४॥  
+अच्छा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/04_achChAyameti_shavasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अच्छा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/04_achChAyameti_shavasA.md">
@@ -414,7 +423,7 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 </details>
 <details><summary>पदपाठः</summary>
 
-अच्छ। अयम्। एति। शवसा। घृता। चित्। ईडानः। वह्नि। नमसा। २७.४।
+अच्छ॑। अ॒यम्। ए॒ति॒। शव॑सा। घृ॒ता। चि॒त्। ईडा॑नः। वह्नि॑। नम॑सा। २७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -445,13 +454,15 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/05_agniH_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः स्रुचो॑ अध्व॒रेषु॑ प्र॒यक्षु॒ स य॑क्षदस्य महि॒मान॑म॒ग्नेः ॥५॥  
+अ॒ग्निः स्रुचो॑ अध्व॒रेषु॑ प्र॒यक्षु॒ स य॑क्षदस्य महि॒मान॑म॒ग्नेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/05_agniH_srucho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒ग्निः स्रुचो॑ अध्व॒रेषु॑ प्र॒यक्षु॒ स य॑क्षदस्य महि॒मान॑म॒ग्नेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/05_agniH_srucho.md">
@@ -466,7 +477,7 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। स्रुचः। अध्वरेषु। प्रऽयक्षु। सः। यक्षत्। अस्य। महिमानम्। अग्नेः। २७.५।
+अ॒ग्निः। स्रुचः॑। अ॒ध्व॒रेषु॑। प्र॒ऽयक्षु॑। सः। य॒क्ष॒त्। अ॒स्य॒। म॒हि॒मान॑म्। अ॒ग्नेः। २७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -497,13 +508,15 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/06_tarI_mandrAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒री म॒न्द्रासु॑ प्र॒यक्षु॒ वस॑व॒श्चाति॑ष्ठन् वसु॒धात॑रश्च ॥६॥  
+त॒री म॒न्द्रासु॑ प्र॒यक्षु॒ वस॑व॒श्चाति॑ष्ठन्वसु॒धात॑रश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/06_tarI_mandrAsu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 त॒री म॒न्द्रासु॑ प्र॒यक्षु॒ वस॑व॒श्चाति॑ष्ठन्वसु॒धात॑रश्च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/06_tarI_mandrAsu.md">
@@ -518,7 +531,7 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 </details>
 <details><summary>पदपाठः</summary>
 
-तरी। मन्द्रासु। प्रऽयक्षु। वसवः। च। अतिष्ठन्। वसुऽधातरः। च। २७.६।
+त॒री। म॒न्द्रासु॑। प्र॒ऽयक्षु॑। वस॑वः। च॒। अति॑ष्ठन्। व॒सु॒ऽधात॑रः। च॒। २७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -549,13 +562,15 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/07_dvAro_devIranvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वारो॑ दे॒वीरन्व॑स्य॒ विश्वे॑ व्र॒तं र॑क्षन्ति वि॒श्वहा॑ ॥७॥  
+द्वारो॑ दे॒वीरन्व॑स्य॒ विश्वे॑ व्र॒तं र॑क्षन्ति वि॒श्वहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/07_dvAro_devIranvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 द्वारो॑ दे॒वीरन्व॑स्य॒ विश्वे॑ व्र॒तं र॑क्षन्ति वि॒श्वहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/07_dvAro_devIranvasya.md">
@@ -570,7 +585,7 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 </details>
 <details><summary>पदपाठः</summary>
 
-द्वारः। देवीः। अनु। अस्य। विश्वे। व्रतम्। रक्षन्ति। विश्वहा। २७.७।
+द्वारः॑। दे॒वीः। अनु॑। अ॒स्य॒। विश्वे॑। व्र॒तम्। र॒क्ष॒न्ति॒। वि॒श्वहा॑। २७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -601,14 +616,17 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रु॒व्यच॑सा॒ऽग्नेर्धाम्ना॒ पत्य॑माने ।  
-आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्ते॒मं य॒ज्ञम॑वतामध्व॒रं नः। ॥८॥  
+उ॑रु॒व्यच॑सा॒ग्नेर्धाम्ना॒ पत्य॑माने।  
+आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्तेमं य॒ज्ञम॑वतामध्व॒रं नः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑रु॒व्यच॑सा॒ग्नेर्धाम्ना॒ पत्य॑माने। आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्तेमं य॒ज्ञम॑वतामध्व॒रं नः॑ ॥
+उ॑रु॒व्यच॑सा॒ग्नेर्धाम्ना॒ पत्य॑माने।  
+आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्तेमं य॒ज्ञम॑वतामध्व॒रं नः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
@@ -624,7 +642,7 @@ Far-reaching, ruling by the Law of Agni, May Dawn and Night, the holy, speeding 
 </details>
 <details><summary>पदपाठः</summary>
 
-उरुऽव्यचसा। अग्नेः। धाम्ना। पत्यमाने इति। आ। सुस्वयन्ती इति। यजते इति। उपाके इति। उषसानक्ता। इमम्। यज्ञम्। अवताम्। अध्वरम्। नः। २७.८।
+उ॒रु॒ऽव्यच॑सा। अ॒ग्नेः। धाम्ना॑। पत्य॑माने॒ इति॑। आ। सु॒स्वय॑न्ती॒ इति॑। य॒ज॒ते॒ इति॑। उ॒पाके॒ इति॑। उ॒षसा॒नक्ता॑। इ॒मम्। य॒ज्ञम्। अ॒व॒ता॒म्। अ॒ध्व॒रम्। नः॒। २७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -655,14 +673,17 @@ Far-reaching, ruling by the Law of Agni, May Dawn and Night, the holy, speeding 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/09_daivA_hotAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒नता॑ नः॒ स्विऽष्टये ।  
-ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना॑॥९॥  
+दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒णता॑ नः॒ स्वि॑ष्टये।  
+ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/09_daivA_hotAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒णता॑ नः॒ स्वि॑ष्टये। ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना ॥
+दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒णता॑ नः॒ स्वि॑ष्टये।  
+ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/09_daivA_hotAra.md">
@@ -678,7 +699,7 @@ Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, 
 </details>
 <details><summary>पदपाठः</summary>
 
-दैवाः। होतारः। ऊर्ध्वम्‌। अध्वरम्। नः। अग्नेः। जिह्वया। अभि। गृणत। गृणत। नः। सुऽइष्टये। तिस्रः। देवीः। बर्हिः। आ। इदम्। सदन्ताम्। इडा। सरस्वती। मही। भारती। गृणाना। २७.९।
+दैवाः॑। होता॑रः। ऊ॒र्ध्वम्‌। अ॒ध्व॒रम्। नः॒। अ॒ग्नेः। जि॒ह्वया॑। अ॒भि। गृ॒ण॒त॒। गृ॒णत॑। नः॒। सुऽइ॑ष्टये। ति॒स्रः। दे॒वीः। ब॒र्हिः। आ। इ॒दम्। स॒द॒न्ता॒म्। इडा॑। सर॑स्वती। म॒ही। भार॑ती। गृ॒णा॒ना। २७.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -710,13 +731,16 @@ Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तन्न॑स्तु॒रीप॒मद्भु॑तं पुरु॒क्षु।  
-देव॑ त्वष्टा रा॒यस्पोषं॒ वि ष्य॒ नाभि॑म॒स्य ॥१०॥  
+देव॑ त्वष्टा रा॒यस्पो॑षं॒ वि ष्य॒ नाभि॑मस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तन्न॑स्तु॒रीप॒मद्भु॑तं पुरु॒क्षु। देव॑ त्वष्टा रा॒यस्पो॑षं॒ वि ष्य॒ नाभि॑मस्य ॥
+तन्न॑स्तु॒रीप॒मद्भु॑तं पुरु॒क्षु।  
+देव॑ त्वष्टा रा॒यस्पो॑षं॒ वि ष्य॒ नाभि॑मस्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
@@ -745,7 +769,7 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 </details>
 <details><summary>पदपाठः</summary>
 
-तत्। नः। तुरीषम्। अत्ऽभुतम्। पुरुऽक्षु। देव। त्वष्टः। रायः। पोषम्। वि। स्य। नाभिम्। अस्य। २७.१०।
+तत्। नः॒। तु॒रीष॑म्। अत्ऽभु॑तम्। पु॒रु॒ऽक्षु। देव॑। त्व॒ष्टः॒। रा॒यः। पोष॑म्। वि। स्य॒। नाभि॑म्। अ॒स्य। २७.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -776,14 +800,17 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः ।  
-त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥११॥  
+वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः।  
+त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः। त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥
+वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः।  
+त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/11_vanaspate-va_sRjA.md">
@@ -808,7 +835,7 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 </details>
 <details><summary>पदपाठः</summary>
 
-वनस्पते। अव। सृज। रराणः। त्मना। देवेभ्यः। अग्निः। हव्यम्। शमिता। स्वदयतु। २७.११।
+वन॑स्पते। अव॑। सृ॒ज॒। ररा॑णः। त्मना॑। दे॒वेभ्यः॑। अ॒ग्निः। ह॒व्यम्। श॒मि॒ता। स्व॒द॒य॒तु॒। २७.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -839,14 +866,17 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/12_agne_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ स्वाहा॑ कृणुहि जातवेदः ।  
-इन्द्रा॑य य॒ज्ञं विश्वे॑ दे॒वा ह॒विरि॒दं जु॑षन्ताम्॥१२॥
+अ॑ग्ने॒ स्वाहा॑ कृणुहि जातवेदः।  
+इन्द्रा॑य य॒ज्ञं विश्वे॑ दे॒वा ह॒विरि॒दं जु॑षन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/12_agne_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑ग्ने॒ स्वाहा॑ कृणुहि जातवेदः। इन्द्रा॑य य॒ज्ञं विश्वे॑ दे॒वा ह॒विरि॒दं जु॑षन्ताम् ॥
+अ॑ग्ने॒ स्वाहा॑ कृणुहि जातवेदः।  
+इन्द्रा॑य य॒ज्ञं विश्वे॑ दे॒वा ह॒विरि॒दं जु॑षन्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/12_agne_svAhA.md">
@@ -869,7 +899,7 @@ Vanaspati, rejoicing, of thyself send God-ward! Let Agni, Im- molator, sweeten o
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। स्वाहा। कृणुहि। जातऽवेदः। इन्द्राय। यज्ञम्। विश्वे। देवाः। हविः। इदम्। जुषन्ताम्। २७.१२।
+अग्ने॑। स्वाहा॑। कृ॒णु॒हि॒। जा॒त॒ऽवे॒दः॒। इन्द्रा॑य। य॒ज्ञम्। विश्वे॑। दे॒वाः। ह॒विः। इ॒दम्। जु॒ष॒न्ता॒म्। २७.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

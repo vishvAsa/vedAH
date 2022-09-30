@@ -36,14 +36,17 @@ A prayer for the prosperity of an institutor of sacrifice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/01_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑ ।  
-इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्येण ह॒विषा॑ जुहोमि ॥१॥  
+सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑।  
+इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/01_saM_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑। इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
+सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑।  
+इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/01_saM_sam.md">
@@ -74,7 +77,7 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। सिन्धवः। सम्। वाताः। सम्। पतत्रिणः। इमम्। यज्ञम्। प्रऽदिवः। मे। जुषन्ताम्। सम्ऽस्राव्येण। हविषा। जुहोमि।
+सम्। सम्। स्र॒व॒न्तु॒। सिन्ध॑वः। सम्। वाताः॑। सम्। प॒त॒त्रिणः॑। इ॒मम्। य॒ज्ञम्। प्र॒ऽदिवः॑। मे॒। जु॒ष॒न्ता॒म्। स॒म्ऽस्रा॒व्येण। ह॒विषा॑। जु॒हो॒मि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः ।  
-इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन् ति॑ष्ठतु॒ या र॒यिः ॥२॥  
+इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः।  
+इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन्ति॑ष्ठतु॒ या र॒यिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः। इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन्ति॑ष्ठतु॒ या र॒यिः ॥
+इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः।  
+इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन्ति॑ष्ठतु॒ या र॒यिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/02_ihaiva_havamA.md">
@@ -136,7 +142,7 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। एव। हवम्। आ। यात। मे। इह। समऽस्रावणाः। उत। इम्। वर्धयत। गिरः। इह। आ। एतु। सर्वः। यः। पशुः। अस्मिन्। तिष्ठतु। या। रयिः।
+इ॒ह। ए॒व। हव॑म्। आ। या॒त॒। मे॒। इ॒ह। स॒मऽस्रा॒व॒णाः॒। उ॒त। इ॒म्। व॒र्ध॒य॒त॒। गि॒रः॒। इ॒ह। आ। ए॒तु॒। सर्वः॑। यः। प॒शुः। अ॒स्मिन्। ति॒ष्ठ॒तु॒। या। र॒यिः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,14 +173,17 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/03_ye_nadInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः ।  
-तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥३॥  
+ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः।  
+तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/03_ye_nadInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः। तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
+ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः।  
+तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/03_ye_nadInAm.md">
@@ -195,7 +204,7 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। नदीनाम्। सम्ऽस्रवन्ति। उत्सास ः। सदम्। अक्षिताः। तेर्भिः। मे। सर्वैः। सम्ऽस्रावैः। धनम्। सम्। स्रावयामसि।
+ये। न॒दीना॑म्। स॒म्ऽस्रव॑न्ति। उत्सा॑स ः। सद॑म्। अक्षि॑ताः। तेर्भिः॑। मे॒। सर्वैः॑। स॒म्ऽस्रा॒वैः। धन॑म्। सम्। स्रा॒व॒या॒म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च ।  
-तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥४॥
+ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च।  
+तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च। तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
+ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च।  
+तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/04_ye_sarpiShaH.md">
@@ -256,7 +268,7 @@ All streams of melted butter, and all streams of water and of milk With all thes
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। सर्पिषः। सम्ऽस्रवन्ति। क्षीरस्य। च। उदकस्य। च। तेर्भिः। मे। सर्वैः। सम्ऽस्रावैः। धनम्। सम्। स्रावयामसि।
+ये। स॒र्पिषः॑। स॒म्ऽस्रव॑न्ति। क्षी॒रस्य॑। च॒। उ॒द॒कस्य॑। च॒। तेर्भिः॑। मे॒। सर्वैः॑। स॒म्ऽस्रा॒वैः। धन॑म्। सम्। स्रा॒व॒या॒म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

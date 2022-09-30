@@ -37,13 +37,16 @@ A charm to strengthen hair and promote its growth
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा यास्ति॒स्रः पृ॑थि॒वीस्तासां॑ ह॒ भूमि॑रुत्त॒मा।  
-तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम्॥१॥  
+तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/021_keshavardhanI_auShadhiH/01_imA_yAstisraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मा यास्ति॒स्रः पृ॑थि॒वीस्तासां॑ ह॒ भूमि॑रुत्त॒मा। तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम् ॥
+इ॒मा यास्ति॒स्रः पृ॑थि॒वीस्तासां॑ ह॒ भूमि॑रुत्त॒मा।  
+तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/021_keshavardhanI_auShadhiH/01_imA_yAstisraH.md">
@@ -64,7 +67,7 @@ Of all the three terrestrial realms the ground is verily the best. I from the sk
 </details>
 <details><summary>पदपाठः</summary>
 
-इमाः। याः। तिस्रः। पृथिवी। तासाम्। ह। भूमिः। उत्ऽतमा। तासाम्। अधि। त्वचः। अहम्। भेषजम्। सम्। ऊं इति। जग्रभम्। २१.१।
+इ॒माः। याः। ति॒स्रः। पृ॒थि॒वी। तासा॑म्। ह॒। भूमिः॑। उ॒त्ऽत॒मा। तासा॑म्। अधि॑। त्व॒चः। अ॒हम्। भे॒ष॒जम्। सम्। ऊं॒ इति॑। ज॒ग्र॒भ॒म्। २१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,13 +99,16 @@ Of all the three terrestrial realms the ground is verily the best. I from the sk
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रेष्ठ॑मसि भेष॒जानां॒ वसि॑ष्ठं॒ वीरु॑धानाम्।  
-सोमो॒ भग॑ इव॒ यामे॑षु॒ दे॒वेषु॒ वरु॑णो॒ यथा॑ ॥२॥  
+सोमो॒ भग॑ इव॒ यामे॑षु दे॒वेषु॒ वरु॑णो॒ यथा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/021_keshavardhanI_auShadhiH/02_shreShThamasi_bheShajAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्रेष्ठ॑मसि भेष॒जानां॒ वसि॑ष्ठं॒ वीरु॑धानाम्। सोमो॒ भग॑ इव॒ यामे॑षु दे॒वेषु॒ वरु॑णो॒ यथा॑ ॥
+श्रेष्ठ॑मसि भेष॒जानां॒ वसि॑ष्ठं॒ वीरु॑धानाम्।  
+सोमो॒ भग॑ इव॒ यामे॑षु दे॒वेषु॒ वरु॑णो॒ यथा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/021_keshavardhanI_auShadhiH/02_shreShThamasi_bheShajAnAm.md">
@@ -126,7 +132,7 @@ Thou art the best of medicines, most excellent of Plants art thou, As Soma 'mid 
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रेष्ठम्। असि। भेषजानाम्। वसिष्ठम्। वीरुधानाम्। सोमः। भगःऽइव। यामेषु। देवेषु। वरुणः। यथा। २१.२।
+श्रेष्ठ॑म्। अ॒सि॒। भे॒ष॒जाना॑म्। वसि॑ष्ठम्। वीरु॑धानाम्। सोमः॑। भगः॑ऽइव। यामे॑षु। दे॒वेषु॑। वरु॑णः। यथा॑। २१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Thou art the best of medicines, most excellent of Plants art thou, As Soma 'mid 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/021_keshavardhanI_auShadhiH/03_revatIranAdhRShaH_siShAsavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रेव॑ती॒रना॑धृषः सिषा॒सवः॑ सिषासथ ।  
-उ॒त स्थ के॑श॒दृंह॑णी॒रथो॑ ह केश॒वर्ध॑नीः ॥३॥
+रेव॑ती॒रना॑धृषः सिषा॒सवः॑ सिषासथ।  
+उ॒त स्थ के॑श॒दृंह॑णी॒रथो॑ ह केश॒वर्ध॑नीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/021_keshavardhanI_auShadhiH/03_revatIranAdhRShaH_siShAsavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रेव॑ती॒रना॑धृषः सिषा॒सवः॑ सिषासथ। उ॒त स्थ के॑श॒दृंह॑णी॒रथो॑ ह केश॒वर्ध॑नीः ॥
+रेव॑ती॒रना॑धृषः सिषा॒सवः॑ सिषासथ।  
+उ॒त स्थ के॑श॒दृंह॑णी॒रथो॑ ह केश॒वर्ध॑नीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/021_keshavardhanI_auShadhiH/03_revatIranAdhRShaH_siShAsavaH.md">
@@ -180,7 +189,7 @@ Endowed with wealth, denying not, give freely fain to give your gifts! Ye stay t
 </details>
 <details><summary>पदपाठः</summary>
 
-रेवतीः। अनाधृषः। सिसासवः। सिसासथ। उत। स्थ। केशऽदृंहणीः। अथो इति। ह। केशऽवर्धनी। २१.३।
+रेव॑तीः। अना॑धृषः। सि॒सा॒सवः॑। सि॒सा॒स॒थ॒। उ॒त। स्थ। के॒श॒ऽदृंह॑णीः। अथो॒ इति॑। ह॒। के॒श॒ऽवर्ध॑नी। २१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

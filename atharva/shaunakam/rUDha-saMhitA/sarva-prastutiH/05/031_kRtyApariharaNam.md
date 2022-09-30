@@ -36,14 +36,17 @@ A counter-charm against the incantations of an enemy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्मि॒श्रधा॑न्ये ।  
-आ॒मे मां॒से कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥१॥  
+यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्मि॒श्रधा॑न्ये।  
+आ॒मे मां॒से कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/01_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्मि॒श्रधा॑न्ये। आ॒मे मां॒से कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्मि॒श्रधा॑न्ये।  
+आ॒मे मां॒से कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/01_yAM_te.md">
@@ -66,7 +69,7 @@ The spell that they have cast for thee on unbaked dish or ming- led meal, The wi
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। आमे। पात्रे। याम्। चक्रुः। मिश्रऽधान्ये। आमे। मांसे। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.१।
+याम्। ते॒। च॒क्रुः। आ॒मे। पात्रे॑। याम्। च॒क्रुः। मि॒श्रऽधा॑न्ये। आ॒मे। मां॒से। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ The spell that they have cast for thee on unbaked dish or ming- led meal, The wi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/02_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ च॒क्रुः कृ॑क॒वाका॑व॒जे वा॒ यां कु॑री॒रिणि॑ ।  
-अव्यां॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥२॥  
+यां ते॑ च॒क्रुः कृ॑क॒वाका॑व॒जे वा॒ यां कु॑री॒रिणि॑।  
+अव्यां॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/02_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुः कृ॑क॒वाका॑व॒जे वा॒ यां कु॑री॒रिणि॑। अव्यां॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुः कृ॑क॒वाका॑व॒जे वा॒ यां कु॑री॒रिणि॑।  
+अव्यां॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/02_yAM_te.md">
@@ -125,7 +131,7 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। कृकवाकौ। अजे। वा। याम्। कुरीरिणि। अव्याम्। ते। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.२।
+याम्। ते॒। च॒क्रुः। कृ॒क॒वाकौ॑। अ॒जे। वा॒। याम्। कु॒री॒रिणि॑। अव्या॑म्। ते॒। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,14 +162,17 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/03_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति ।  
-ग॒र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥३॥  
+यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति।  
+ग॑र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/03_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति। ग॑र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति।  
+ग॑र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/03_yAM_te.md">
@@ -183,7 +192,7 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। एकऽशफे। पशूनाम्। उभयादति। गर्दभे। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.३।
+याम्। ते॒। च॒क्रुः। एक॑ऽशफे। प॒शू॒नाम्। उ॒भ॒याद॑ति। ग॒र्द॒भे। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -215,13 +224,16 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुर॑मू॒लायां॑ वल॒गं वा॑ नरा॒च्याम्।  
-क्षेत्रे॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥४॥  
+क्षेत्रे॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/04_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुर॑मू॒लायां॑ वल॒गं वा॑ नरा॒च्याम्। क्षेत्रे॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुर॑मू॒लायां॑ वल॒गं वा॑ नरा॒च्याम्।  
+क्षेत्रे॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/04_yAM_te.md">
@@ -242,7 +254,7 @@ The secret spell upon thy plants Amula or Narachi, spell That they have cast upo
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। अमूलायाम्। वलगम्। वा। नराच्याम्। क्षेत्रे। ते। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.४।
+याम्। ते॒। च॒क्रुः। अ॒मू॒लाया॑म्। व॒ल॒गम्। वा॒। न॒रा॒च्याम्। क्षेत्रे॑। ते॒। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -273,14 +285,17 @@ The secret spell upon thy plants Amula or Narachi, spell That they have cast upo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/05_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑ ।  
-शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥५॥  
+यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑।  
+शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/05_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑। शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑।  
+शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/05_yAM_te.md">
@@ -300,7 +315,7 @@ The spell that wicked men have cast on thine original household- fire, And on th
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। गार्हऽपत्ये। पूर्वऽअग्नौ। उत। दुःऽचितः। शालायाम्। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.५।
+याम्। ते॒। च॒क्रुः। गार्ह॑ऽपत्ये। पू॒र्व॒ऽअ॒ग्नौ। उ॒त। दुः॒ऽचितः॑। शाला॑याम्। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -331,14 +346,17 @@ The spell that wicked men have cast on thine original household- fire, And on th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/06_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने ।  
-अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥६॥  
+यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने।  
+अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/06_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने। अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने।  
+अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/06_yAM_te.md">
@@ -358,7 +376,7 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। सभायाम्। याम्। चक्रुः। अधिऽदेवने। अक्षेषु। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.६।
+याम्। ते॒। च॒क्रुः। स॒भाया॑म्। याम्। च॒क्रुः। अ॒धि॒ऽदेव॑ने। अ॒क्षेषु॑। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -390,13 +408,16 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुः सेना॑यां॒ यां च॒क्रुरि॑ष्वायु॒धे।  
-दु॒न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥७॥  
+दु॑न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/07_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुः सेना॑यां॒ यां च॒क्रुरि॑ष्वायु॒धे। दु॑न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुः सेना॑यां॒ यां च॒क्रुरि॑ष्वायु॒धे।  
+दु॑न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/07_yAM_te.md">
@@ -418,7 +439,7 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। सेनायाम्। याम्। चक्रुः। इषुआयुधे। दुन्दुभौ। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.७।
+याम्। ते॒। च॒क्रुः। सेना॑याम्। याम्। च॒क्रुः॒। इ॒षु॒आ॒यु॒धे। दु॒न्दु॒भौ। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -449,14 +470,17 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/08_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः ।  
-सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम्॥८॥  
+यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः।  
+सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/08_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः। सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः।  
+सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/08_yAM_te.md">
@@ -479,7 +503,7 @@ Charm they have laid within thy well or buried in the burning- ground, Charm the
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। कृत्याम्। कूपे। अवऽदधुः। श्मशाने। वा। निऽचख्नुः। सद्मनि। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.८।
+याम्। ते॒। कृ॒त्याम्। कूपे॑। अ॒व॒ऽद॒धुः। श्म॒शा॒ने। वा॒। नि॒ऽच॒ख्नुः। सद्म॑नि। कृ॒त्याम्। याम्। च॒क्रुः। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -511,13 +535,16 @@ Charm they have laid within thy well or buried in the burning- ground, Charm the
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुः पु॑रुषा॒स्थे अ॒ग्नौ संक॑सुके च॒ याम्।  
-म्रो॒कं नि॑र्दा॒हं क्र॒व्यादं॒ पुनः॒ प्रति॑ हरामि॒ ताम्॥९॥  
+म्रो॒कं नि॑र्दा॒हं क्र॒व्यादं॒ पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/09_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुः पु॑रुषा॒स्थे अ॒ग्नौ संक॑सुके च॒ याम्। म्रो॒कं नि॑र्दा॒हं क्र॒व्यादं॒ पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+यां ते॑ च॒क्रुः पु॑रुषा॒स्थे अ॒ग्नौ संक॑सुके च॒ याम्।  
+म्रो॒कं नि॑र्दा॒हं क्र॒व्यादं॒ पुनः॒ प्रति॑ हरामि॒ ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/09_yAM_te.md">
@@ -540,7 +567,7 @@ The spell that they have wrought for thee in flickering fire of human bones,-- M
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। पुरुषऽअस्ये। अग्नौ। सम्ऽकसुके। च। याम्। भ्रोकम्। निःऽदाहम्। क्रव्यऽअदम्। पुनः। प्रति। हरामि। ताम्। ३१.९।
+याम्। ते॒। च॒क्रुः। पु॒रु॒ष॒ऽअ॒स्ये। अ॒ग्नौ। सम्ऽक॑सुके। च॒। याम्। भ्रो॒कम्। निः॒ऽदा॒हम्। क्र॒व्य॒ऽअद॑म्। पुनः॑। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -571,14 +598,17 @@ The spell that they have wrought for thee in flickering fire of human bones,-- M
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑थे॒ना ज॑भारैणां॒ तां प॒थेतः प्र हि॑ण्मसि ।  
-अधी॑रो मर्या॒धीरे॑भ्यः॒ सं ज॑भा॒राचि॑त्त्या ॥१०॥  
+अप॑थे॒ना ज॑भारैणां॒ तां प॒थेतः प्र हि॑ण्मसि।  
+अधी॑रो मर्या॒धीरे॑भ्यः॒ सं ज॑भा॒राचि॑त्त्या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अप॑थे॒ना ज॑भारैणां॒ तां प॒थेतः प्र हि॑ण्मसि। अधी॑रो मर्या॒धीरे॑भ्यः॒ सं ज॑भा॒राचि॑त्त्या ॥
+अप॑थे॒ना ज॑भारैणां॒ तां प॒थेतः प्र हि॑ण्मसि।  
+अधी॑रो मर्या॒धीरे॑भ्यः॒ सं ज॑भा॒राचि॑त्त्या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
@@ -605,7 +635,7 @@ He brought this by no proper path, by the right path we drive it back. The fool 
 </details>
 <details><summary>पदपाठः</summary>
 
-अपथेन। आ। जभार। एनाम्। ताम्। पथा। इतः। प्र। हिण्मसि। अधीरः। मर्याऽधीरेभ्यः। सम्। जभार। अचित्त्या। ३१.१०।
+अप॑थेन। आ। ज॒भा॒र॒। ए॒ना॒म्। ताम्। प॒था। इ॒तः। प्र। हि॒ण्म॒सि॒। अधी॑रः। म॒र्या॒ऽधीरे॑भ्यः। सम्। ज॒भा॒र॒। अचि॑त्त्या। ३१.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -637,13 +667,16 @@ He brought this by no proper path, by the right path we drive it back. The fool 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
-च॒कार॑ भ॒द्रम॒स्मभ्य॑मभ॒गो भग॑वद्भ्यः ॥११॥  
+च॒कार॑ भ॒द्रम॒स्मभ्य॑मभ॒गो भग॑वद्भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्। च॒कार॑ भ॒द्रम॒स्मभ्य॑मभ॒गो भग॑वद्भ्यः ॥
+यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
+च॒कार॑ भ॒द्रम॒स्मभ्य॑मभ॒गो भग॑वद्भ्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
@@ -667,7 +700,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिन्। चकार। भद्रम्। अस्मभ्यम्। अभगः। भगवत्ऽभ्यः। ३१.११।
+यः। च॒कार॑। न। श॒शाक॑। कर्तु॑म्। श॒श्रे। पाद॑म्। अ॒ङ्गुरि॑न्। च॒कार॑। भ॒द्रम्। अ॒स्मभ्य॑म्। अ॒भ॒गः। भग॑वत्ऽभ्यः। ३१.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -698,14 +731,17 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒त्या॒कृतं॑ वल॒गिनं॑ मू॒लिनं॑ शपथे॒य्यऽम्।  
-इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेना॒ग्निर्वि॑ध्यत्व॒स्तया॑ ॥१२॥
+कृ॑त्या॒कृतं वल॒गिनं॑ मू॒लिनं॑ शपथे॒य्य॑म्।  
+इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेना॒ग्निर्वि॑ध्यत्व॒स्तया॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कृ॑त्या॒कृतं वल॒गिनं॑ मू॒लिनं॑ शपथे॒य्य॑म्। इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेना॒ग्निर्वि॑ध्यत्व॒स्तया॑ ॥
+कृ॑त्या॒कृतं वल॒गिनं॑ मू॒लिनं॑ शपथे॒य्य॑म्।  
+इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेना॒ग्निर्वि॑ध्यत्व॒स्तया॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
@@ -733,7 +769,7 @@ May Indra slay with mighty bolt, may Agni with his missible pierce. The sorcerer
 </details>
 <details><summary>पदपाठः</summary>
 
-कृत्याऽकृतम्। वलगिनम्। मूलिनम्। शपथेय्य᳡म्। इन्द्रः। तम्। हन्तु। महता। वधेन। अग्निः। विध्यतु। अस्तया। ३१.१२।
+कृ॒त्या॒ऽकृत॑म्। व॒ल॒गिन॑म्। मू॒लिन॑म्। श॒प॒थे॒य्य᳡म्। इन्द्रः॑। तम्। ह॒न्तु॒। म॒ह॒ता। व॒धेन॑। अ॒ग्निः। वि॒ध्य॒तु॒। अ॒स्तया॑। ३१.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः ।  
-सं॒जा॒ना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥१॥
+प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः।  
+सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/019_prajAH/01_prajApatirjanayati_prajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः। सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
+प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः।  
+सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
@@ -76,7 +79,7 @@ Prajapati engenders earthly creatures: may the benevolent Ordainer form them, Ha
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। जनयति। प्रऽजाः। इमाः। धाताः। दधातु। सुऽमनस्यमानाः। सम्ऽजानानाः। सम्ऽमनसः। सऽयोनयः। मयि। पुष्टम्। पुष्टऽपतिः। दधातु। २०.१।
+प्र॒जाऽप॑तिः। ज॒न॒य॒ति॒। प्र॒ऽजाः। इ॒माः। धा॒ताः। द॒धा॒तु॒। सु॒ऽम॒न॒स्यमा॑नाः। स॒म्ऽजा॒ना॒नाः। सम्ऽम॑नसः। सऽयो॑नयः। मयि॑। पु॒ष्टम्। पु॒ष्ट॒ऽपतिः॑। द॒धा॒तु॒। २०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

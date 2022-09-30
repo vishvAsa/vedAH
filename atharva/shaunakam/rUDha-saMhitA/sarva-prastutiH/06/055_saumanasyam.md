@@ -36,14 +36,17 @@ A prayer for general protection and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/01_ye_panthAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति ।  
-तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑ ॥१॥  
+ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति।  
+तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/055_saumanasyam/01_ye_panthAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति। तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑ ॥
+ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति।  
+तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/055_saumanasyam/01_ye_panthAno.md">
@@ -71,7 +74,7 @@ Of all the many God-frequented pathways that traverse realms between the earth a
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। पन्थानः। बहवः। देवऽयानाः। अन्तरा। द्यावापृथिवी इति। सम्ऽचरन्ति। तेषाम्। अज्यानिम्। यतमः। वहाति। तस्मै। मा। देवाः। परि। धत्त। इह। सर्वे। ५५.१।
+ये। पन्था॑नः। ब॒हवः॑। दे॒व॒ऽयानाः॑। अ॒न्त॒रा। द्यावा॑पृथि॒वी इति॑। स॒म्ऽचर॑न्ति। तेषा॑म्। अज्या॑निम्। य॒त॒मः। वहा॑ति। तस्मै॑। मा॒। दे॒वाः॒। परि॑। ध॒त्त॒। इ॒ह। सर्वे॑। ५५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Of all the many God-frequented pathways that traverse realms between the earth a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/02_grIShmo_hemantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद् व॒र्षाः स्वि॒ते नो॑ दधात ।  
-आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद् वः॑ शर॒णे स्या॑म ॥२॥  
+ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद्व॒र्षाः स्वि॒ते नो॑ दधात।  
+आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद्वः॑ शर॒णे स्या॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/055_saumanasyam/02_grIShmo_hemantaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद्व॒र्षाः स्वि॒ते नो॑ दधात। आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद्वः॑ शर॒णे स्या॑म ॥
+ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद्व॒र्षाः स्वि॒ते नो॑ दधात।  
+आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद्वः॑ शर॒णे स्या॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/055_saumanasyam/02_grIShmo_hemantaH.md">
@@ -134,7 +140,7 @@ Maintain us in well-being Summer, Winter Dew-time and Spring, Autumn, and Rainy 
 </details>
 <details><summary>पदपाठः</summary>
 
-ग्रीष्मः। हेमन्तः। शिशिरः। वसन्तः। शरत्। वर्षाः। सुऽइते। नः। दधात। आ। नः। गोषु। भजत। आ। प्रऽजायाम्। निऽवाते। इत्। वः। शरणे। स्याम। ५५.२।
+ग्री॒ष्मः। हे॒म॒न्तः। शिशि॑रः। व॒स॒न्तः। श॒रत्। व॒र्षाः। सु॒ऽइ॒ते। नः॒। द॒धा॒त॒। आ। नः॒। गोषु॑। भज॑त। आ। प्र॒ऽजाया॑म्। नि॒ऽवा॒ते। इत्। वः॒। श॒र॒णे। स्या॒म॒। ५५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Maintain us in well-being Summer, Winter Dew-time and Spring, Autumn, and Rainy 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/055_saumanasyam/03_idAvatsarAya_parivatsarAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दा॒व॒त्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑ ।  
-तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥३॥
+इ॑दावत्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑।  
+तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/055_saumanasyam/03_idAvatsarAya_parivatsarAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॑दावत्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑। तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+इ॑दावत्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑।  
+तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/055_saumanasyam/03_idAvatsarAya_parivatsarAya.md">
@@ -204,7 +213,7 @@ Pay to the Year your lofty adoration, to the first Year, the second, and the pre
 </details>
 <details><summary>पदपाठः</summary>
 
-इदावत्सराय। परिऽवत्सराय। सम्ऽवत्सराय। कृणुत। बृहत्। नमः। तेषाम्। वयम्। सुऽमतौ। यज्ञियानाम्। अपि। भद्रे। सौमनसे। स्याम। ५५.३।
+इ॒दा॒व॒त्स॒राय॑। प॒रि॒ऽव॒त्स॒राय॑। स॒म्ऽव॒त्स॒राय॑। कृ॒णु॒त॒। बृ॒हत्। नमः॑। तेषा॑म्। व॒यम्। सु॒ऽम॒तौ। य॒ज्ञिया॑नाम्। अपि॑। भ॒द्रे। सौ॒म॒न॒से। स्या॒म॒। ५५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

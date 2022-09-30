@@ -32,14 +32,17 @@ Translated: Griffith, i. 297.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥१॥  
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि। तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
@@ -58,7 +61,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। देवाः। कुष्ठम्। अवन्वत। ९५.१।
+अ॒श्व॒त्थः। दे॒व॒ऽसद॑नः। तृ॒तीय॑स्याम्। इ॒तः। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -89,14 +92,17 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥२॥  
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि। तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
@@ -120,7 +126,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ९५.२।
+हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,13 +158,16 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त।  
-गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥३॥
+गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त। गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥
+गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त।  
+गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
@@ -187,7 +196,7 @@ Thou art the infant of the plants, the infant of the Snowy Hills: The germ of ev
 </details>
 <details><summary>पदपाठः</summary>
 
-गर्भः। असि। ओषधीनाम्। गर्भः। हिमऽवताम्। उत। गर्भः। विश्वस्य। भूतस्य। इमम्। मे। अगदम्। कृधि। ९५.३।
+गर्भः॑। अ॒सि॒। ओष॑धीनाम्। गर्भः॑। हि॒मऽव॑ताम्। उ॒त। गर्भः॑। विश्व॑स्य। भू॒तस्य॑। इ॒मम्। मे॒। अ॒ग॒दम्। कृ॒धि॒। ९५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

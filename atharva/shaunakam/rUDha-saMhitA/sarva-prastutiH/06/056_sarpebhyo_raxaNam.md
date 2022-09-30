@@ -36,14 +36,17 @@ A charm against snakes
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ देवा॒ अहि॑र्वधी॒त् सतो॑कान्त्स॒हपु॑रुषान्।  
-सम्य॑तं॒ न वि ष्प॑रद् व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑॥१॥  
+मा नो॑ देवा॒ अहि॑र्वधी॒त्सतो॑कान्त्स॒हपू॑रुषान्।  
+संय॑तं॒ न वि ष्प॑र॒द्व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा नो॑ देवा॒ अहि॑र्वधी॒त्सतो॑कान्त्स॒हपू॑रुषान्। संय॑तं॒ न वि ष्प॑र॒द्व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑।
+मा नो॑ देवा॒ अहि॑र्वधी॒त्सतो॑कान्त्स॒हपू॑रुषान्।  
+संय॑तं॒ न वि ष्प॑र॒द्व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑।  
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
@@ -69,7 +72,7 @@ Let not the serpent slay us, O Gods, with our children and our folk. Let it not 
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। नः। देवाः। अहिः। वधीत्। सऽतोकान्। सहऽपुरुषान्। सम्ऽयतम्। न। वि। स्परत्। विऽआत्तम्। न। सम्। यतम्। नमः। देवऽजनेभ्यः। ५६.१।
+मा। नः॒। दे॒वाः॒। अहिः॑। व॒धी॒त्। सऽतो॑कान्। स॒हऽपु॑रुषान्। सम्ऽय॑तम्। न। वि। स्प॒र॒त्। वि॒ऽआत्त॑म्। न। सम्। य॒त॒म्। नमः॑। दे॒व॒ऽज॒नेभ्यः॑। ५६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Let not the serpent slay us, O Gods, with our children and our folk. Let it not 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये ।  
-स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥२॥  
+नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये।  
+स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये। स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥
+नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये।  
+स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
@@ -129,7 +135,7 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। अस्तु। असिताय। नमः। तिरश्चिऽराजये। स्वजाय। बभ्रवे। नमः। नमः। देवऽजनेभ्यः। ५६.२।
+नमः॑। अ॒स्तु॒। अ॒सि॒ताय॑। नमः॑। तिर॑श्चिऽराजये। स्व॒जाय॑। ब॒भ्रवे॑। नमः॑। नमः॑। दे॒व॒ऽज॒नेभ्यः॑। ५६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑ ।  
-सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्यऽम्॥३॥
+सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑।  
+सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्य᳡म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑। सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्य᳡म् ॥
+सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑।  
+सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्य᳡म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
@@ -192,7 +201,7 @@ I close together fangs with fang, I close together jaws with jaw. I close togeth
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। ते। हन्मि। दता। दतः। सम्। ऊं इति। ते। हन्वा। हनू इति। सम्। ते। जिह्वया। जिह्वाम्। सम्। ऊं इति। आस्ना। अहे। आस्य᳡म्। ५६.३।
+सम्। ते॒। ह॒न्मि॒। द॒ता। द॒तः। सम्। ऊं॒ इति॑। ते॒। हन्वा॑। हनू॒ इति॑। सम्। ते॒। जि॒ह्वया॑। जि॒ह्वाम्। सम्। ऊं॒ इति॑। आ॒स्ना। अ॒हे॒। आ॒स्य᳡म्। ५६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

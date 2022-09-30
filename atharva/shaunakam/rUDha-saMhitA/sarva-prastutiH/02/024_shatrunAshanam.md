@@ -32,14 +32,17 @@ A charm against the magic arts of fiends
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥१॥  
+शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
@@ -70,7 +73,7 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 </details>
 <details><summary>पदपाठः</summary>
 
-शेरभक। शेरभ। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.१।
+शेर॑भक। शेर॑भ। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥२॥  
+शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
@@ -126,7 +132,7 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 </details>
 <details><summary>पदपाठः</summary>
 
-शेवृधक। शेवृध। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.२।
+शेवृ॑धक। शेवृ॑ध। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥३॥  
+म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
@@ -182,7 +191,7 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 </details>
 <details><summary>पदपाठः</summary>
 
-म्रोक। अनुऽम्रोक। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.३।
+म्रोक॑। अनु॑ऽम्रोक। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -213,14 +222,17 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥४॥  
+सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
@@ -238,7 +250,7 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 </details>
 <details><summary>पदपाठः</summary>
 
-सर्प। अनुऽसर्प। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.४।
+सर्प॑। अनु॑ऽसर्प। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नः। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -269,14 +281,17 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥५॥  
+जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
@@ -295,7 +310,7 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-जूर्णि। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनीः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.५।
+जूर्णि॑। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नीः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -326,14 +341,17 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥६॥  
+उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/06_upabde_punarvo.md">
@@ -351,7 +369,7 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-उपब्दे। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनीः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.६।
+उप॑ब्दे। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नीः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -382,14 +400,17 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥७॥  
+अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
@@ -407,7 +428,7 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 </details>
 <details><summary>पदपाठः</summary>
 
-अर्जुनि। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनीः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.७।
+अर्जु॑नि। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नीः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -438,14 +459,17 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भरू॑जि पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः ।  
-यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥८॥
+भरू॑जि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भरू॑जि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः। यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+भरू॑जि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
+यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
@@ -474,7 +498,7 @@ Back, O, Bharuji! fall your charms, your weapon, ye Kimidinis. Eat your possesso
 </details>
 <details><summary>पदपाठः</summary>
 
-भरूजि। पुनः। वः। यन्तु। यातवः। पुनः। हेतिः। किमीदिनीः। यस्य। स्थ। तम्। अत्त। यः। वः। प्रऽअहैत्। तम्। अत्त। स्वा। मांसानि। अत्त। २४.८।
+भरू॑जि। पुनः॑। वः॒। य॒न्तु॒। या॒तवः॑। पुनः॑। हे॒तिः। कि॒मी॒दि॒नीः॒। यस्य॑। स्थ। तम्। अ॒त्त॒। यः। वः॒। प्र॒ऽअहै॑त्। तम्। अ॒त्त॒। स्वा। मां॒सानि॑। अ॒त्त॒। २४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

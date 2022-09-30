@@ -36,14 +36,17 @@ A prayer to Soma, the Maruts, Mitra, and Varuna, for protection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदा॑रसृद् भवतु देव सोमा॒स्मिन् य॒ज्ञे म॑रुतो मृ॒डता॑ नः ।  
-मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद् वृजि॒ना द्वेष्या॒ या॥१॥  
+अदा॑रसृद्भवतु देव सोमा॒स्मिन्य॒ज्ञे म॑रुतो मृ॒डता॑ नः।  
+मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अदा॑रसृद्भवतु देव सोमा॒स्मिन्य॒ज्ञे म॑रुतो मृ॒डता॑ नः। मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
+अदा॑रसृद्भवतु देव सोमा॒स्मिन्य॒ज्ञे म॑रुतो मृ॒डता॑ नः।  
+मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
@@ -76,7 +79,7 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 <details><summary>पदपाठः</summary>
 
-अदारऽसृत्। भवतु। देव। सोम। अस्मिन्। यज्ञे। मरुतः। मृडत। नः। मा। नः। विदत्। अभिऽभाः। मो इति। अशस्तिः। मा। नः। विदत्। वृजिना। द्वेष्या। या।
+अदा॑रऽसृत्। भ॒व॒तु॒। दे॒व॒। सो॒म॒। अ॒स्मिन्। य॒ज्ञे। म॒रु॒तः॒। मृ॒डत॑। नः॒। मा। नः॒। वि॒द॒त्। अ॒भि॒ऽभाः। मो इति॑। अश॑स्तिः। मा। नः॒। वि॒द॒त्। वृ॒जि॒ना। द्वेष्या॑। या। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +110,17 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य सेन्यो॑ व॒धोऽघा॒यूना॑मु॒दीर॑ते ।  
-यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥२॥  
+यो अ॒द्य सेन्यो॑ व॒धो ऽघा॒यूना॑मु॒दीर॑ते।  
+यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/02_yo_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒द्य सेन्यो॑ व॒धो ऽघा॒यूना॑मु॒दीर॑ते। यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥
+यो अ॒द्य सेन्यो॑ व॒धो ऽघा॒यूना॑मु॒दीर॑ते।  
+यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/02_yo_adya.md">
@@ -139,7 +145,7 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अद्य। सेन्यः। वधः। अघऽयूनाम्। उत्ऽईरते। युवम्। तम्। मित्रावरुणौ। अस्मत्। यवयतम्। परि।
+यः। अ॒द्य। सेन्यः॑। व॒धः। अ॒घ॒ऽयूना॑म्। उ॒त्ऽईर॑ते। यु॒वम्। तम्। मि॒त्रा॒व॒रु॒णौ॒। अ॒स्मत्। य॒व॒य॒त॒म्। परि॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒तश्च॒ यद॒मुत॑श्च॒ यद् व॒धं व॑रुण यावय ।  
-वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम्॥३॥  
+इ॒तश्च॒ यद॒मुत॑श्च॒ यद्व॒धं व॑रुण यावय।  
+वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒तश्च॒ यद॒मुत॑श्च॒ यद्व॒धं व॑रुण यावय। वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
+इ॒तश्च॒ यद॒मुत॑श्च॒ यद्व॒धं व॑रुण यावय।  
+वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
@@ -203,7 +212,7 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 </details>
 <details><summary>पदपाठः</summary>
 
-इतः। च। यत्। अमुतः। च। यत्। वधम्। वरुण। यवय। वि। महत्। शर्म। यच्छ। वरीयः। यवय। वधम्।
+इ॒तः। च॒। यत्। अ॒मुतः॑। च॒। यत्। व॒धम्। व॒रु॒ण॒। य॒व॒य॒। वि। म॒हत्। शर्म॑। य॒च्छ॒। वरी॑यः। य॒व॒य॒। व॒धम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -234,14 +243,17 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः ।  
-न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न॥४॥
+शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः।  
+न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः। न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न ॥
+शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः।  
+न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
@@ -267,7 +279,7 @@ A mighty Ruler thus art thou, unconquered, vanquisher of foes, Even thou whose f
 </details>
 <details><summary>पदपाठः</summary>
 
-शासः। इत्था। महान्। असि। अमित्रऽसहः। अस्तृतः। न। यस्य। हन्यते। सखा। न। जीयते। कदा। चन।
+शा॒सः। इ॒त्था। म॒हान्। अ॒सि॒। अ॒मि॒त्र॒ऽस॒हः। अ॒स्तृ॒तः। न। यस्य॑। ह॒न्यते॑। सखा॑। न। जी॒यते॑। क॒दा। च॒न। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

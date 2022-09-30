@@ -36,13 +36,15 @@ To Savitar, or Yama invested with Savitar's attributes
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/022_jyotiH/01_ayaM_sahasramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं स॒हस्र॒मा नो॑ दृ॒शे क॑वी॒नां म॒तिर्ज्योति॒र्विध॑र्मणि ॥१॥  
+अ॒यं स॒हस्र॒मा नो॑ दृ॒शे क॑वी॒नां म॒तिर्ज्योति॒र्विध॑र्मणि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/022_jyotiH/01_ayaM_sahasramA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒यं स॒हस्र॒मा नो॑ दृ॒शे क॑वी॒नां म॒तिर्ज्योति॒र्विध॑र्मणि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/022_jyotiH/01_ayaM_sahasramA.md">
@@ -68,7 +70,7 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। सहस्रम्। आ। नः। दृशे। कवीनाम्। मतिः। ज्योतिः। विऽधर्मणि। २३.१।
+अ॒यम्। स॒हस्र॑म्। आ। नः॒। दृ॒शे। क॒वी॒नाम्। म॒तिः। ज्योतिः॑। विऽध॑र्मणि। २३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,13 +102,16 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्र॒ध्नः स॒मीची॑रु॒षसः॒ समै॑रयन्।  
-अ॒रे॒पसः॒ सचे॑तसः॒ स्वस॑रे मन्यु॒मत्त॑माश्चि॒ते गोः ॥२॥
+अ॑रे॒पसः॒ सचे॑तसः॒ स्वस॑रे मन्यु॒मत्त॑माश्चि॒ते गोः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्र॒ध्नः स॒मीची॑रु॒षसः॒ समै॑रयन्। अ॑रे॒पसः॒ सचे॑तसः॒ स्वस॑रे मन्यु॒मत्त॑माश्चि॒ते गोः ॥
+ब्र॒ध्नः स॒मीची॑रु॒षसः॒ समै॑रयन्।  
+अ॑रे॒पसः॒ सचे॑तसः॒ स्वस॑रे मन्यु॒मत्त॑माश्चि॒ते गोः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/022_jyotiH/02_bradhnaH_samIchIruShasaH.md">
@@ -134,7 +139,7 @@ The Bright One hath sent forth the Dawns, a closely gathered band, Immaculate, u
 </details>
 <details><summary>पदपाठः</summary>
 
-बध्नः। समीचीः। उषसः। सम्। ऐरयन्। अरेपसः। सऽचेतसः। स्वसरे। मन्युमत्ऽतमाः। चिते। गोः। २३.२।
+ब॒ध्नः। स॒मीचीः॑। उ॒षसः॑। सम्। ऐ॒र॒य॒न्। अ॒रे॒पसः॑। सऽचे॑तसः। स्वस॑रे। म॒न्यु॒मत्ऽत॑माः। चि॒ते। गोः। २३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

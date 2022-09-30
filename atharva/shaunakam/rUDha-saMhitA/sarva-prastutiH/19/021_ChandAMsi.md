@@ -32,21 +32,23 @@ A single line giving the names of the chief Vedic metres
 </details>
 </details>
 </div>
-## ०१ गायत्र्युष्णिगनुष्टुब्बृहती
+## ०१ गायत्र्युष्णिगनुष्टुब्बृहती
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गा॒य॒त्र्यु॑१ष्णिग॑नु॒ष्टुब् बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब् जग॑त्यै ॥१॥
+गा॑य॒त्र्यु१॒॑ष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गा॑य॒त्र्युष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
+गा॑य॒त्र्यु१॒॑ष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
-<details open><summary><h3>०१ गायत्र्युष्णिगनुष्टुब्बृहती ...{Loading}...</h3></summary>
+<details open><summary><h3>०१ गायत्र्युष्णिगनुष्टुब्बृहती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -74,7 +76,7 @@ Gayatri, Ushnih, Anushtup, Brihati, Trishtup, Jagati.
 </details>
 <details><summary>पदपाठः</summary>
 
-गायत्री। उष्णिक्। अनुऽस्तुप्। बृहती। पङ्क्ति। त्रिऽस्तुप्। जगत्यै। २१.१।
+गा॒य॒त्री। उ॒ष्णिक्। अ॒नु॒ऽस्तुप्। बृ॒ह॒ती। प॒ङ्क्ति। त्रि॒ऽस्तुप्। जग॑त्यै। २१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

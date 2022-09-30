@@ -36,14 +36,17 @@ A prayer to Savitar for prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/01_abhi_tyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः क॒विक्र॑तुम्।  
-अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम्॥१॥  
+अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः᳡ क॒विक्र॑तुम्।  
+अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/01_abhi_tyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः᳡ क॒विक्र॑तुम्। अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम् ॥
+अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः᳡ क॒विक्र॑तुम्।  
+अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/01_abhi_tyam.md">
@@ -73,7 +76,7 @@ I praise this God, parent of heaven and earth, exceeding wiser possessed of real
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। त्यम्। देवम्। सवितारम्। ओण्योः᳡। कविऽक्रतुम्। अर्चामि। सत्यऽसवम्। रत्नऽधाम्। अभि। प्रियम्। मतिम्। १५.१।
+अ॒भि। त्यम्। दे॒वम्। स॒वि॒तार॑म्। ओ॒ण्योः᳡। क॒विऽक्र॑तुम्। अर्चा॑मि। स॒त्यऽस॑वम्। र॒त्न॒ऽधाम्। अ॒भि। प्रि॒यम्। म॒तिम्। १५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ I praise this God, parent of heaven and earth, exceeding wiser possessed of real
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त् सवी॑मनि ।  
-हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात् स्वः ॥२॥  
+उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि।  
+हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात्स्वः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि। हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात्स्वः᳡ ॥
+उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि।  
+हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात्स्वः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
@@ -139,7 +145,7 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वाः। यस्य। अमतिः। भाः। अदिद्युतत्। सवीमनि। हिरण्यऽपाणिः। अमिमीत। सुऽक्रतुः। कृपात्। स्वः᳡। १५.२।
+ऊ॒र्ध्वाः। यस्य॑। अ॒मतिः॑। भाः। अदि॑द्युतत्। सवी॑मनि। हिर॑ण्यऽपाणिः। अ॒मि॒मी॒त॒। सु॒ऽक्रतुः॑। कृ॒पात्। स्वः᳡। १५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/03_sAvIrhi_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै ।  
-अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ॥३॥  
+सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै।  
+अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/03_sAvIrhi_deva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै। अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ॥
+सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै।  
+अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/03_sAvIrhi_deva.md">
@@ -201,7 +210,7 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 </details>
 <details><summary>पदपाठः</summary>
 
-सावीः। हि। देव। प्रथमाय। पित्रे। वर्ष्माणम्। अस्मै। वरिमाणम्। अस्मै। अथ। अस्मभ्यम्। सवितः। वार्याणि। दिवःऽदिवः। आ। सुव। भूरि। पश्वः। १५.३।
+सावीः॑। हि। दे॒व॒। प्र॒थ॒माय॑। पि॒त्रे। व॒र्ष्माण॑म्। अ॒स्मै॒। व॒रि॒माण॑म्। अ॒स्मै॒। अथ॑। अ॒स्मभ्य॑म्। स॒वि॒तः॒। वार्या॑णि। दि॒वःऽदि॑वः। आ। सु॒व॒। भूरि॑। प॒श्वः। १५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -232,14 +241,17 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/04_damUnA_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द् रत्नं॒ दक्षं पि॒तृभ्य॒ आयूं॑षि ।  
-पिबा॒त् सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित् क्रमते अस्य॒ धर्म॑णि ॥४॥
+दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द्रत्नं॑ पि॒तृभ्य॒ आयूं॑षि।  
+पिबा॒त्सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित्क्रमते अस्य॒ धर्म॑णि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/04_damUnA_devaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द्रत्नं॑ पि॒तृभ्य॒ आयूं॑षि। पिबा॒त्सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित्क्रमते अस्य॒ धर्म॑णि ॥
+दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द्रत्नं॑ पि॒तृभ्य॒ आयूं॑षि।  
+पिबा॒त्सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित्क्रमते अस्य॒ धर्म॑णि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/04_damUnA_devaH.md">
@@ -267,7 +279,7 @@ Savitar, God, our household friend, most precious, hath sent our fathers life an
 </details>
 <details><summary>पदपाठः</summary>
 
-दमूनाः। देवः। सविता। वरेण्यः। दधत्। रत्नम्। दक्षम्। पितृऽभ्यः। आयूंषि। पिबात्। सोमम्। ममदत्। एनम्। इष्टे। परिऽज्मा। चित्। क्रमते। अस्य। धर्मणि। १५.४।
+दमू॑नाः। दे॒वः। स॒वि॒ता। वरे॑ण्यः। दध॑त्। रत्न॑म्। दक्ष॑म्। पि॒तृऽभ्यः॑। आयूं॑षि। पिबा॑त्। सोम॑म्। म॒मद॑त्। ए॒न॒म्। इ॒ष्टे। परि॑ऽज्मा। चि॒त्। क्र॒म॒ते॒। अ॒स्य॒। धर्म॑णि। १५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ To Surya the Sun-God
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/01_AyaM_gauH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
-पि॒तरं॑ च प्र॒यन्त्स्वः ॥१॥  
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः।  
+पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/031_gauH/01_AyaM_gauH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः। पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः।  
+पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/01_AyaM_gauH.md">
@@ -68,7 +71,7 @@ This spotted Bull hath come and sat before his mother in the east. Advancing to 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अयम्। गौः। पृश्निः। अक्रमीत्। असदत्। मातरम्। पुरः। पितरम्। च। प्रऽयन्। स्वः᳡। ३१.१।
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒ऽयन्। स्वः᳡। ३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ This spotted Bull hath come and sat before his mother in the east. Advancing to 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/02_antashcharati_rochanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः ।  
-व्यऽख्यन्महि॒षः स्वः ॥२॥  
+अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः।  
+व्य᳡ख्यन्महि॒षः स्वः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/031_gauH/02_antashcharati_rochanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः। व्य᳡ख्यन्महि॒षः स्वः᳡ ॥
+अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः।  
+व्य᳡ख्यन्महि॒षः स्वः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/02_antashcharati_rochanA.md">
@@ -141,7 +147,7 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तः। चरति। रोचना। अस्य। प्राणात्। अपानतः। वि। अख्यत्। महिषः। स्वः᳡। ३१.२।
+अ॒न्तः। च॒र॒ति॒। रो॒च॒ना। अ॒स्य। प्रा॒णात्। अ॒पा॒न॒तः। वि। अ॒ख्य॒त्। म॒हि॒षः। स्वः᳡। ३१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +178,17 @@ As expiration from his breath his radiance penetrates within. The Bull shines ou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/031_gauH/03_triMshaddhAmA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रिं॒शद् धामा॒ वि रा॑जति॒ वाक् प॑त॒ङ्गो अ॑शिश्रियत्।  
-प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥३॥
+त्रिं॒शद्धामा॒ वि रा॑जति॒ वाक्प॑त॒ङ्गो अ॑शि॒श्रिय॑त्।  
+प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/031_gauH/03_triMshaddhAmA_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रिं॒शद्धामा॒ वि रा॑जति॒ वाक्प॑त॒ङ्गो अ॑शि॒श्रिय॑त्। प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥
+त्रिं॒शद्धामा॒ वि रा॑जति॒ वाक्प॑त॒ङ्गो अ॑शि॒श्रिय॑त्।  
+प्रति॒ वस्तो॒रह॒र्द्युभिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/031_gauH/03_triMshaddhAmA_vi.md">
@@ -225,7 +234,7 @@ He rules supreme through thirty realms--One winged with song hath made him mount
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिंशत्। धाम। व‍ि। राजति। वाक्। पतङ्गः। अशिश्रियत्। प्रति। वस्तोः। अहः। द्युऽभिः। ३१.३।
+त्रिं॒शत्। धाम॑। व‍ि। रा॒ज॒ति॒। वाक्। प॒त॒ङ्गः। अ॒शि॒श्रि॒य॒त्। प्रति॑। वस्तोः॑। अहः॑। द्युऽभिः॑। ३१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

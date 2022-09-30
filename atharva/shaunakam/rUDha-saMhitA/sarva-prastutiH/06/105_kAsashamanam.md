@@ -32,14 +32,17 @@ Translated: Ludwig, p. 510; Zimmer, p. 385; Griffith, i.302; Bloomfield, 8, 513.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/01_yathA_mano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ मनो॑ मनस्के॒तः॑ प॑रा॒पत॑त्याशु॒मत्।  
-ए॒वा त्वं कासे॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्यऽम्॥१॥  
+यथा॒ मनो॑ मनस्के॒तैः प॑रा॒पत॑त्याशु॒मत्।  
+ए॒वा त्वं का॑से॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्य᳡म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/01_yathA_mano.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ मनो॑ मनस्के॒तैः प॑रा॒पत॑त्याशु॒मत्। ए॒वा त्वं का॑से॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्य᳡म् ॥
+यथा॒ मनो॑ मनस्के॒तैः प॑रा॒पत॑त्याशु॒मत्।  
+ए॒वा त्वं का॑से॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्य᳡म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/01_yathA_mano.md">
@@ -79,7 +82,7 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। मनः। मनःऽकेतैः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। मनसः। अनु। प्रऽवाय्य᳡म्। १०५.१।
+यथा॑। मनः॑। म॒नः॒ऽके॒तैः। प॒रा॒ऽपत॑ति। आ॒शु॒ऽमत्। ए॒व। त्वम्। का॒से॒। प्र। प॒त॒। मन॑सः। अनु॑। प्र॒ऽवा॒य्य᳡म्। १०५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -111,13 +114,16 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ बाणः॒ सुसं॑शितः परा॒पत॑त्याशु॒मत्।  
-ए॒वा त्वं कासे॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म्॥२॥  
+ए॒वा त्वं का॑से॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/02_yathA_bANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ बाणः॒ सुसं॑शितः परा॒पत॑त्याशु॒मत्। ए॒वा त्वं का॑से॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म् ॥
+यथा॒ बाणः॒ सुसं॑शितः परा॒पत॑त्याशु॒मत्।  
+ए॒वा त्वं का॑से॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/02_yathA_bANaH.md">
@@ -133,7 +139,7 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। बाणः। सुऽसंशितः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। पृथिव्याः। अनु। सम्ऽवतम्। १०५.२।
+यथा॑। बाणः॑। सुऽसं॑शितः। प॒रा॒ऽपत॑ति। आ॒शु॒ऽमत्। ए॒व। त्वम्। का॒से॒। प्र। प॒त॒। पृ॒थि॒व्याः। अनु॑। स॒म्ऽवत॑म्। १०५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +171,16 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्।  
-ए॒वा त्वं कासे॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम्॥३॥
+ए॒वा त्वं का॑से॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/03_yathA_sUryasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्। ए॒वा त्वं का॑से॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम् ॥
+यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्।  
+ए॒वा त्वं का॑से॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/03_yathA_sUryasya.md">
@@ -193,7 +202,7 @@ Rapidly as the beams of light, the rays of Surya, fly away, So, Cough! fly rapid
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। सूर्यस्य। रश्मयः। पराऽपतन्ति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। समुद्रस्य। अनु। विऽक्षरम्। १०५.३।
+यथा॑। सूर्य॑स्य। र॒श्मयः॑। प॒रा॒ऽपत॑न्ति। आ॒शु॒ऽमत्। ए॒व। त्वम्। का॒से॒। प्र। प॒त॒। स॒मु॒द्रस्य॑। अनु॑। वि॒ऽक्ष॒रम्। १०५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

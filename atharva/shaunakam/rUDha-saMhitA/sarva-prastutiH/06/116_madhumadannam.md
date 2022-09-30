@@ -32,14 +32,17 @@ Translated: Ludwig, p. 443; Griffith, i. 309.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑ ।  
-वै॒व॒स्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म्॥१॥  
+यद्या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑।  
+वै॑वस्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑। वै॑वस्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म् ॥
+यद्या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑।  
+वै॑वस्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
@@ -68,7 +71,7 @@ The wealth which husbandmen aforetime, digging, like men who find their food wit
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। यामम्। यक्रुः। निऽखनन्तः। अग्रे। कार्षीवणाः। अन्नऽविदः। न। विद्यया। वैवस्वते। राजनि। तत्। जुहोमि। अथ। यज्ञियम्। मधुऽमत्। अस्तु। नः। अन्नम्। ११६.१।
+यत्। या॒मम्। य॒क्रुः। नि॒ऽखन॑न्तः। अग्रे॑। कार्षी॑वणाः। अ॒न्न॒ऽविदः॑। न। वि॒द्यया॑। वै॒व॒स्व॒ते। राज॑नि। तत्। जु॒हो॒मि॒। अथ॑। य॒ज्ञिय॑म्। मधु॑ऽमत्। अ॒स्तु॒। नः॒। अन्न॑म्। ११६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ The wealth which husbandmen aforetime, digging, like men who find their food wit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒व॒स्व॒तः कृ॑णवद् भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति ।  
-मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न् यद् वा॑ पि॒ताप॑राद्धो जिही॒डे॥२॥  
+वै॑वस्व॒तः कृ॑णवद्भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति।  
+मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न्यद्वा॑ पि॒ताऽप॑राद्धो जिही॒डे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑वस्व॒तः कृ॑णवद्भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति। मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न्यद्वा॑ पि॒ताऽप॑राद्धो जिही॒डे ॥
+वै॑वस्व॒तः कृ॑णवद्भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति।  
+मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न्यद्वा॑ पि॒ताऽप॑राद्धो जिही॒डे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
@@ -131,7 +137,7 @@ May he, Vaivasvata, prepare our portion; May he whose share is mead with mead be
 </details>
 <details><summary>पदपाठः</summary>
 
-वैवस्वतः। कृणवत्। भागऽधेयम्। मधुऽभागः। मधुना। सम्। सृजाति। मातुः। यत्। एनः। इषितम्। नः। आऽअगन्। यत्। वा। पिता। अपऽराध्दः। जिहीडे। ११६.२।
+वै॒व॒स्व॒तः। कृ॒ण॒व॒त्। भा॒ग॒ऽधेय॑म्। मधु॑ऽभागः। मधु॑ना। सम्। सृ॒जा॒ति॒। मा॒तुः। यत्। एनः॑। इ॒षि॒तम्। नः॒। आ॒ऽअग॑न्। यत्। वा॒। पि॒ता। अप॑ऽराध्दः। जि॒ही॒डे। ११६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,13 +169,16 @@ May he, Vaivasvata, prepare our portion; May he whose share is mead with mead be
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्।  
-याव॑न्तो अ॒स्मान् पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥३॥
+याव॑न्तो अ॒स्मान्पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्। याव॑न्तो अ॒स्मान्पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥
+यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्।  
+याव॑न्तो अ॒स्मान्पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
@@ -197,7 +206,7 @@ Whether this sin into our heart hath entered regarding mother, father, son or br
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। इदम्। मातुः। यदि। वा। पितुः। नः। परि। भ्रातुः। पुत्रात्। चेतसः। एनः। आऽअगन्। यावन्तः। अस्मान्। पितरः। सचन्ते। तेषाम्। सर्वेषाम्। शिवः। अस्तु। मन्युः। ११६.३।
+यदि॑। इ॒दम्। मा॒तुः। यदि॑। वा॒। पि॒तुः। नः॒। परि॑। भ्रातुः॑। पु॒त्रात्। चेत॑सः। एनः॑। आ॒ऽअग॑न्। याव॑न्तः। अ॒स्मान्। पि॒तरः॑। सच॑न्ते। तेषा॑म्। सर्वे॑षाम्। शि॒वः। अ॒स्तु॒। म॒न्युः। ११६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

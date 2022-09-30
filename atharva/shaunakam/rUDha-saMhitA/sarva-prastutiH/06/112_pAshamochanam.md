@@ -32,14 +32,17 @@ Translated: Ludwig, p. 469; Grill, 15, 171; Griffith, i. 306; Bloomfield, AJP. x
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/112_pAshamochanam/01_mA_jyeShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त् परि॑ पाह्येनम्।  
-स ग्राह्याः॒ पाशा॒न् वि चृ॑त प्रजा॒नन् तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥१॥  
+मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
+स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/01_mA_jyeShTham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त्परि॑ पाह्येनम्। स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
+मा ज्ये॒ष्ठं व॑धीद॒यम॑ग्न ए॒षां मू॑ल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
+स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्तुभ्यं॑ दे॒वा अनु॑ जानन्तु॒ विश्वे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/01_mA_jyeShTham.md">
@@ -65,7 +68,7 @@ Let not this one, O Agni, wound the highest of these: preserve thou him from utt
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। ज्येष्ठम्। वधीत्। अयम्। अग्ने। एषाम्। मूलऽबर्हणात्। परि। पाहि। एनम्। सः। ग्राह्याः। पाशान्। वि। चृत। प्रऽजानन्। तुभ्यम्। देवाः। अनु। जानन्तु। विश्वे। ११२.१।
+मा। ज्ये॒ष्ठम्। व॒धी॒त्। अ॒यम्। अ॒ग्ने॒। ए॒षाम्। मू॒ल॒ऽबर्ह॑णात्। परि॑। पा॒हि॒। ए॒न॒म्। सः। ग्राह्याः॑। पाशा॑न्। वि। चृ॒त॒। प्र॒ऽजा॒नन्। तुभ्य॑म्। दे॒वाः। अनु॑। जा॒न॒न्तु॒। विश्वे॑। ११२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,13 +100,16 @@ Let not this one, O Agni, wound the highest of these: preserve thou him from utt
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्।  
-स ग्राह्याः॒ पाशा॒न् वि चृ॑त प्रजा॒नन् पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न्॥२॥  
+स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/02_unmuncha_pAshAMstvamagna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्। स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न् ॥
+उन्मु॑ञ्च॒ पाशां॒स्त्वम॑ग्न ए॒षां त्रय॑स्त्रि॒भिरुत्सि॑ता॒ येभि॒रास॑न्।  
+स ग्राह्याः॒ पाशा॒न्वि चृ॑त प्रजा॒नन्पि॑तापु॒त्रौ मा॒तरं॑ मुञ्च॒ सर्वा॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/02_unmuncha_pAshAMstvamagna.md">
@@ -128,7 +134,7 @@ Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the th
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। मुञ्च। पाशान्। त्वम्। अग्ने। एषाम्। त्रयः। त्र‍िऽभिः। उत्सिताः। येभिः। आसन्। सः। ग्राह्याः। पाशान्। वि। चृत। प्रऽजानन्। पितापुत्रौ। मातरम्। मुञ्च। सर्वान्। ११२.२।
+उत्। मु॒ञ्च॒। पाशा॑न्। त्वम्। अ॒ग्ने॒। ए॒षाम्। त्रयः॑। त्र‍ि॒ऽभिः। उत्सि॑ताः। येभिः॑। आस॑न्। सः। ग्राह्याः॑। पाशा॑न्। वि। चृ॒त॒। प्र॒ऽजा॒नन्। पि॒ता॒पु॒त्रौ। मा॒तर॑म्। मु॒ञ्च॒। सर्वा॑न्। ११२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ Rend thou the; bonds of these asunder, Agni! the, threefold noose whereby the th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गे॑अङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च ।  
-वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन् दुरि॒तानि॑ मृक्ष्व ॥३॥
+येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गेअ॑ङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च।  
+वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गेअ॑ङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च। वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+येभिः॒ पाशैः॒ परि॑वित्तो॒ विब॒द्धोऽङ्गेअ॑ङ्ग॒ आर्पि॑त॒ उत्सि॑तश्च।  
+वि ते मु॑च्यन्तं वि॒मुचो॒ हि सन्ति॑ भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/112_pAshamochanam/03_yebhiH_pAshaiH.md">
@@ -199,7 +208,7 @@ The elder brother's bonds, still left unwedded, fettered in every limb and bound
 </details>
 <details><summary>पदपाठः</summary>
 
-येभिः। पाशैः। परिऽवित्तः। विऽबध्दः। अङ्गेऽअङ्गे। आर्पितः। उत्सितः। च। वि। ते। मुच्यताम्। विऽमुचः। हि। सन्ति। भ्रूणऽघ्नि। पूषन्। दुःऽइतानि। मृक्ष्व। ११२.३।
+येभिः॑। पाशैः॑। परि॑ऽवित्तः। विऽब॑ध्दः। अङ्गे॑ऽअङ्गे। आर्पि॑तः। उत्सि॑तः। च॒। वि। ते। मु॒च्य॒ता॒म्। वि॒ऽमुचः॑। हि। सन्ति॑। भ्रू॒ण॒ऽघ्नि। पू॒ष॒न्। दुः॒ऽइ॒तानि॑। मृ॒क्ष्व॒। ११२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

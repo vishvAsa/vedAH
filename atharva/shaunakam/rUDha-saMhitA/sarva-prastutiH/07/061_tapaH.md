@@ -36,14 +36,17 @@ A prayer for sacred knowledge and its fruits
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/01_yadagne_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑ ।  
-प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥१॥  
+यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑।  
+प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/01_yadagne_tapasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑। प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥
+यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑।  
+प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/01_yadagne_tapasA.md">
@@ -68,7 +71,7 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अग्ने। तपसा। तपः। उपऽतप्यामहे। तपः। प्रियाः। श्रुतस्य। भूयास्म। आयुष्मन्तः। सुऽमेधसः। ६३.१।
+यत्। अ॒ग्ने॒। तप॑सा। तपः॑। उ॒प॒ऽत॒प्याम॑हे। तपः॑। प्रि॒याः। श्रु॒तस्य॑। भू॒या॒स्म॒। आयु॑ष्मन्तः। सु॒ऽमे॒धसः॑। ६३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑ ।  
-श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥२॥
+अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑।  
+श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑। श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥
+अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑।  
+श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/02_agne_tapastapyAmaha.md">
@@ -128,7 +134,7 @@ Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। तपः। तप्यामहे। उप। तप्यामहे। तपः। श्रुतानि। शृण्वन्तः। वयम्। आयुष्मन्तः। सुऽमेधसः। ६३.२।
+अग्ने॑। तपः॑। त॒प्या॒म॒हे॒। उप॑। त॒प्या॒म॒हे॒। तपः॑। श्रु॒तानि॑। शृ॒ण्वन्तः॑। व॒यम्। आयु॑ष्मन्तः। सु॒ऽमे॒धसः॑। ६३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

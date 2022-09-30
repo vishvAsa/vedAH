@@ -36,14 +36,17 @@ A prayer to Pushan for protection and the recovery of lost property
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः ।  
-उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन्॥१॥  
+प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः।  
+उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः। उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन् ॥
+प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः।  
+उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
@@ -65,7 +68,7 @@ Pushan was born to move on distant pathways, on roads remote from earth, remote 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रऽपथे। पथाम्। अजनिष्ट। पूषा। प्रऽपथे। दिवः। प्रऽपथे। पृथिव्याः। उभे  इति। अभि। प्रियतमे  इति प्रियऽतमे। सधऽस्थे इति सधऽस्थे। आ। च। परा। च। चरति। प्रऽजानन्। १०.१।
+प्रऽप॑थे। प॒थाम्। अ॒ज॒नि॒ष्ट॒। पू॒षा। प्रऽप॑थे। दि॒वः। प्रऽप॑थे। पृ॒थि॒व्याः। उ॒भे इति॑। अ॒भि। प्रि॒यत॑मे॒ इति॑ प्रि॒यऽत॑मे। स॒धऽस्थे इति॑ स॒धऽस्थे॑। आ। च॒। परा॑। च॒। च॒र॒ति॒। प्र॒ऽजा॒नन्। १०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Pushan was born to move on distant pathways, on roads remote from earth, remote 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॑ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
-स्व॒स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन् पु॒र ए॑तु प्रजा॒नन्॥२॥  
+पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
+स्व॑स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत्। स्व॑स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥
+पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
+स्व॑स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
@@ -126,7 +132,7 @@ Pushan knows all these realms: may he conduct us by ways that are most free from
 </details>
 <details><summary>पदपाठः</summary>
 
-पूषा। इमाः। आशाः। अनु। वेद। सर्वाः। सः। अस्मान्। अभयऽतमेन। नेषत्। स्वस्तिऽदाः। आघृणिः। सर्वऽवीरः। अप्रऽयुच्छन्। पुरः। एतु। प्रऽजानन्। १०.२।
+पू॒षा। इ॒माः। आशाः॑। अनु॑। वे॒द॒। सर्वाः॑। सः। अ॒स्मान्। अ॑भयऽतमेन। ने॒ष॒त्। स्व॒स्ति॒ऽदाः। आघृ॑णिः। सर्व॑ऽवीरः। अप्र॑ऽयुच्छन्। पु॒रः। ए॒तु॒। प्र॒ऽजा॒नन्। १०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,13 +164,16 @@ Pushan knows all these realms: may he conduct us by ways that are most free from
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम क॒दा च॒न।  
-स्तो॒तार॑स्त इ॒ह स्म॑सि ॥३॥  
+स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम क॒दा च॒न। स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
+पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम क॒दा च॒न।  
+स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
@@ -187,7 +196,7 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 </details>
 <details><summary>पदपाठः</summary>
 
-पूषन्। तव। व्रते। वयम्। न। रिष्येम। कदा। चन। स्तोतारः। ते। इह। स्मसि। १०.३।
+पूष॑न्। तव॑। व्र॒ते। व॒यम्। न। रि॒ष्ये॒म। क॒दा। च॒न। स्तो॒तारः॑। ते॒। इ॒ह। स्म॒सि॒। १०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -219,13 +228,16 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्।  
-पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥४॥
+पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/04_pari_pUShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्। पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥
+परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्।  
+पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/04_pari_pUShA.md">
@@ -249,7 +261,7 @@ From out the distance, far and wide, may Pushan stretch his right hand forth. Le
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। पूषा। परस्तात्। हस्तम्। दधातु। दक्ष‍िणम्। पुनः। नः। नष्टम्। आ। अजतु। सम्। नष्टेन। गमेमहि। १०.४।
+परि॑। पू॒षा। प॒रस्ता॑त्। हस्त॑म्। द॒धा॒तु॒। दक्ष‍ि॑णम्। पुनः॑। नः॒। न॒ष्टम्। आ। अ॒जतु॒। सम्। न॒ष्टेन॑। ग॒मे॒म॒हि॒। १०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

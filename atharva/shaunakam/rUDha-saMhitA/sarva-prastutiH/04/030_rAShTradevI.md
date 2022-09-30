@@ -52,8 +52,11 @@ A glorification of vak or speech
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः। अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा ॥
+अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वदे॑वैः।  
+अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमि॑न्द्रा॒ग्नी अ॒हम॒श्विनो॒भा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
@@ -75,7 +78,7 @@ I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. 
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। रुद्रेभिः। वसुऽभिः। चरामि। अहम्। आदित्यैः। उत। विश्वऽदेवैः। अहम्। मित्रावरुणा। उभा। बिभर्मि। अहम्। इन्द्राग्नी इति। अहम्। अश्विना। उभा। ३०.१।
+अ॒हम्। रु॒द्रेभिः॑। वसु॑ऽभिः। च॒रा॒मि॒। अ॒हम्। आ॒दि॒त्यैः। उ॒त। वि॒श्वऽदे॑वैः। अ॒हम्। मि॒त्रावरु॑णा। उ॒भा। बि॒भ॒र्मि॒। अ॒हम्। इ॒न्द्रा॒ग्नी इति॑। अ॒हम्। अ॒श्विना॑। उ॒भा। ३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -120,8 +123,11 @@ I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. 
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नाम्। तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शय॑न्तः ॥
+अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नाम्।  
+तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शय॑न्तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
@@ -144,7 +150,7 @@ I am the Queen, the gatherer-up of treasures, most thoughtful, first of those wh
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। राष्ट्री। सम्ऽगमनी। वसूनाम्। चिकितुषी। प्रथमा। यज्ञियानाम्। ताम्। मा। देवाः। वि। अदधुः। पुरुऽत्रा। भूरिऽस्थात्राम्। भूरि। आऽवेशयन्तः। ३०.२।
+अ॒हम्। राष्ट्री॑। स॒म्ऽगम॑नी। वसू॑नाम्। चि॒कि॒तुषी॑। प्र॒थ॒मा। य॒ज्ञिया॑नाम्। ताम्। मा॒। दे॒वाः। वि। अ॒द॒धुः॒। पु॒रु॒ऽत्रा। भूरि॑ऽस्थात्राम्। भूरि॑। आ॒ऽवे॒शय॑न्तः। ३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -189,8 +195,11 @@ I am the Queen, the gatherer-up of treasures, most thoughtful, first of those wh
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/03_ahameva_svayamidam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वाना॑मु॒त मानु॑षाणाम्। यं का॒मये॒ तन्त॑मु॒ग्रं कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तमृषिं॒ तं सु॑मे॒धाम् ॥
+अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वाना॑मु॒त मानु॑षाणाम्।  
+यं का॒मये॒ तन्त॑मु॒ग्रं कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तमृषिं॒ तं सु॑मे॒धाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/03_ahameva_svayamidam.md">
@@ -212,7 +221,7 @@ I, verily, myself announce and utter the word that Gods, and men alike shall wel
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। एव। स्वयम्। इदम्। वदामि। जुष्टम्। देवानाम्। उत। मानुषाणाम्। यम्। कामये। तम्ऽतम्। उग्रम्। कृणोमि। तम्। ब्रह्माणम्। तम्। ऋषिम्। तम्। सुऽमेधाम्। ३०.३।
+अ॒हम्। ए॒व। स्व॒यम्। इ॒दम्। व॒दा॒मि॒। जुष्ट॑म्। दे॒वाना॑म्। उ॒त। मानु॑षाणाम्। यम्। का॒मये॑। तम्ऽत॑म्। उ॒ग्रम्। कृ॒णो॒मि॒। तम्। ब्र॒ह्माण॑म्। तम्। ऋषि॑म्। तम्। सु॒ऽमे॒धाम्। ३०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -257,8 +266,11 @@ I, verily, myself announce and utter the word that Gods, and men alike shall wel
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मया॒ सोऽन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्रा॒णति॒ य ईं॑ शृ॒णोत्यु॒क्तम्। अ॑म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रु॒द्धेयं॑ ते वदामि ॥
+मया॒ सोऽन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्रा॒णति॒ य ईं॑ शृ॒णोत्यु॒क्तम्।  
+अ॑म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रु॒द्धेयं॑ ते वदामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
@@ -292,7 +304,7 @@ Through me alone all eat the food that feeds them, each man who sees, breathes, 
 </details>
 <details><summary>पदपाठः</summary>
 
-मया। सः। अन्नम्। अत्ति। यः। विऽपश्यति। यः। प्राणति। यः। ईम्। शृणोति। उक्तम्। अमन्तवः। माम्। ते। उप। क्षियन्ति। श्रुधि। श्रुत। श्रत्ऽधेयम्। ते। वदामि। ३०.४।
+मया॑। सः। अन्न॑म्। अ॒त्ति॒। यः। वि॒ऽपश्य॑ति। यः। प्रा॒णति॑। यः। ई॒म्। शृ॒णोति॑। उ॒क्तम्। अ॒म॒न्तवः॑। माम्। ते। उप॑। क्षि॒य॒न्ति॒। श्रु॒धि। श्रु॒त॒। श्र॒त्ऽधेय॑म्। ते॒। व॒दा॒मि॒। ३०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -337,8 +349,11 @@ Through me alone all eat the food that feeds them, each man who sees, breathes, 
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/05_ahaM_rudrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हन्त॒वा उ॑। अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
+अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हन्त॒वा उ॑।  
+अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/05_ahaM_rudrAya.md">
@@ -360,7 +375,7 @@ I bend the bow for Rudra that his arrow may strike and slay the hater of devotio
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। रुद्राय। धनुः। आ। तनोमि। ब्रह्मऽद्विषे। शरवे। हन्तवै। ऊं इति। अहम्। जनाय। सऽमदम्। कृणोमि। अहम्। द्यावापृथिवी इत‍ि। आ। विवेश। ३०.५।
+अ॒हम्। रु॒द्राय॑। धनुः॑। आ। त॒नो॒मि॒। ब्र॒ह्म॒ऽद्विषे॑। शर॑वे। हन्त॒वै। ऊं॒ इति॑। अ॒हम्। जना॑य। स॒ऽमद॑म्। कृ॒णो॒मि॒। अ॒हम्। द्यावा॑पृथि॒वी इत‍ि॑। आ। वि॒वे॒श॒। ३०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -406,8 +421,11 @@ I bend the bow for Rudra that his arrow may strike and slay the hater of devotio
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं सोम॑माह॒नसं॑ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भग॑म्। अ॒हं द॑धामि॒ द्रवि॑णा ह॒विष्म॑ते सुप्रा॒व्या॑३॒॑ यज॑मानाय सुन्व॒ते ॥
+अ॒हं सोम॑माह॒नसं॑ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भग॑म्।  
+अ॒हं द॑धामि॒ द्रवि॑णा ह॒विष्म॑ते सुप्रा॒व्या॑३॒॑ यज॑मानाय सुन्व॒ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
@@ -434,7 +452,7 @@ I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bh
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। सोमम्। आहनसम्। बिभर्मि। अहम्। त्वष्टारम्। उत। पूषणम्। भगम्। अहम्। दधामि। द्रविणा। हविष्मते। सुप्रऽअव्या᳡। यजमानाय। सुन्वते। ३०.६।
+अ॒हम्। सोम॑म्। आ॒ह॒नस॑म्। बि॒भ॒र्मि॒। अ॒हम्। त्वष्टा॑रम्। उ॒त। पू॒षण॑म्। भग॑म्। अ॒हम्। द॒धा॒मि॒। द्रवि॑णा। ह॒विष्म॑ते। सु॒प्र॒ऽअ॒व्या᳡। यज॑मानाय। सु॒न्व॒ते। ३०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -479,8 +497,11 @@ I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bh
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/07_ahaM_suve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्वन्तः स॑मु॒द्रे। ततो॒ वि ति॑ष्ठे॒ भुव॑नानि॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑ स्पृशामि ॥
+अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्व१॒॑न्तः स॑मु॒द्रे।  
+ततो॒ वि ति॑ष्ठे॒ भुव॑नानि॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑ स्पृशामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/07_ahaM_suve.md">
@@ -504,7 +525,7 @@ On the world's summit I bring forth the Father: my home is in the waters, in the
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। सुवे। पितरम्। अस्य। मूर्धन्। मम। योनिः। अप्ऽसु। अन्तः। समुद्रे। ततः। वि। तिष्ठे। भुवनानि। विश्वा। उत। अमूम्। द्याम्। वर्ष्मणा। उप। स्पृशामि। ३०.७।
+अ॒हम्। सु॒वे॒। पि॒तर॑म्। अ॒स्य॒। मू॒र्धन्। मम॑। योनिः॑। अ॒प्ऽसु। अ॒न्तः। स॒मु॒द्रे। ततः॑। वि। ति॒ष्ठे॒। भुव॑नानि। विश्वा॑। उ॒त। अ॒मूम्। द्याम्। व॒र्ष्मणा॑। उप॑। स्पृ॒शा॒मि॒। ३०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -549,8 +570,11 @@ On the world's summit I bring forth the Father: my home is in the waters, in the
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हमे॒व वात॑इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑। प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒म्ना सं ब॑भूव ॥
+अ॒हमे॒व वात॑इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑।  
+प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒म्ना सं ब॑भूव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
@@ -578,7 +602,7 @@ I breathe a strong breath like the wind and tempest, the while I hold together a
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। एव। वातःऽइव। प्र। वामि। आऽरभमाणा। भुवनानि। विश्वा। परः। दिवा। परः। एना। पृथिव्या। एतावती। महिम्ना। सम्। बभूव। ३०.८।
+अ॒हम्। ए॒व। वातः॑ऽइव। प्र। वा॒मि॒। आ॒ऽरभ॑माणा। भुव॑नानि। विश्वा॑। प॒रः। दि॒वा। प॒रः। ए॒ना। पृ॒थि॒व्या। ए॒ताव॑ती। म॒हि॒म्ना। सम्। ब॒भू॒व॒। ३०.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

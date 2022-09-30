@@ -23,13 +23,15 @@ title = "००९ अध्यात्मम्"
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् । नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५२॥  
+उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/01_uruH_pRthuH.md">
@@ -53,7 +55,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-उरुः। पृथुः। सुऽभूः। भुवः। इति। त्वा। उप। आस्महे। वयम्। ९.१।
+उ॒रुः। पृ॒थुः। सु॒ऽभूः। भुवः॑। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -84,13 +86,15 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/02_pratho_varo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५३॥  
+प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/02_pratho_varo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/02_pratho_varo.md">
@@ -108,7 +112,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रथः। वरः। व्यचः। लोकः। इति। त्वा। उप। आस्महे। वयम्। ९.२।
+प्रथः॑। वरः॑। व्यचः॑। लो॒कः। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -139,13 +143,15 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम्॥५४॥  
+भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
@@ -173,7 +179,7 @@ possessive.
 </details>
 <details><summary>पदपाठः</summary>
 
-भवत्ऽवसुः। इदत्ऽवसुः। संयत्ऽवसुः। आयत्ऽवसुः। इति। त्वा। उप। आस्महे। वयम्। ९.३।
+भव॑त्ऽवसुः। इ॒दत्ऽव॑सुः। सं॒यत्ऽव॑सुः। आ॒यत्ऽव॑सुः। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -204,13 +210,15 @@ possessive.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/04_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥५५॥  
+नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/04_namaste_astu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/04_namaste_astu.md">
@@ -228,7 +236,7 @@ possessive.
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अस्तु। पश्यत। पश्य। मा। पश्यत। ९.४।
+नमः॑। ते॒। अ॒स्तु॒। प॒श्य॒त॒। पश्य॑। मा॒। प॒श्य॒त॒। ९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -259,13 +267,15 @@ possessive.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥५६॥
+अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
@@ -314,7 +324,7 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्नऽअद्येन। यशसा। तेजसा। ब्राह्मणऽवर्चसेन। ९.५।
+अ॒न्न॒ऽअद्ये॑न। यश॑सा। तेज॑सा। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सेन॑। ९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

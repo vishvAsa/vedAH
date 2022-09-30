@@ -36,14 +36,17 @@ A charm for a wound or bruise
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/01_idamidvA_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दमिद् वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्।  
-येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त्॥१॥  
+इ॒दमिद्वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्।  
+येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/01_idamidvA_u.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दमिद्वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्। येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त् ॥
+इ॒दमिद्वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्।  
+येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/01_idamidvA_u.md">
@@ -66,7 +69,7 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। इत्। वै। ऊं इति। भेषजम्। इदम्। रुद्रस्य। भेषजम्। येन। इषुम्। एकऽतेजनाम्। शतऽशल्याम्। अपऽब्रवत्। ५७.१।
+इ॒दम्। इत्। वै। ऊं॒ इति॑। भे॒ष॒जम्। इ॒दम्। रु॒द्रस्य॑। भे॒ष॒जम्। येन॑। इषु॑म्। एक॑ऽतेजनाम्। श॒तऽश॑ल्याम्। अ॒प॒ऽब्रव॑त्। ५७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॒ला॒षेणा॒भि षि॑ञ्चत जालाषेणोप॑ सिञ्चत ।  
-जा॒ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥२॥  
+जा॑ला॒षेणा॒भि षि॑ञ्चत जाला॒षेणोप॑ सिञ्चत।  
+जा॑ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जा॑ला॒षेणा॒भि षि॑ञ्चत जाला॒षेणोप॑ सिञ्चत। जा॑ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥
+जा॑ला॒षेणा॒भि षि॑ञ्चत जाला॒षेणोप॑ सिञ्चत।  
+जा॑ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
@@ -128,7 +134,7 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 </details>
 <details><summary>पदपाठः</summary>
 
-जालाषेण। अभि। सिञ्चत। जालाषेण। उप। सिञ्चत। जालाषम्। उग्रम्। भेषजम्। तेन। नः। मृड। जीवसे। ५७.२।
+जा॒ला॒षेण॑। अ॒भि। सि॒ञ्च॒त॒। जा॒ला॒षेण॑। उप॑। सि॒ञ्च॒त॒। जा॒ला॒षम्। उ॒ग्रम्। भे॒ष॒जम्। तेन॑। नः॒। मृ॒ड॒। जी॒वसे॑। ५७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,13 +166,16 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्।  
-क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम्॥३॥
+क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/03_shaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्। क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम् ॥
+शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्।  
+क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/03_shaM_cha.md">
@@ -196,7 +205,7 @@ Let it be health and joy to us. Let nothing vex or injure us. Down with the woun
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। च। नः। मयः। च। नः। मा। च। नः। किम्। चन। आममत्। क्षमा। रपः। विश्वम्। नः। अस्तु। भेषजम्। सर्वम्। नः। अस्तु। भेषजम्। ५७.३।
+शम्। च॒। नः॒। मयः॑। च॒। नः॒। मा। च॒। नः॒। किम्। च॒न। आ॒म॒म॒त्। क्ष॒मा। रपः॑। विश्व॑म्। नः॒। अ॒स्तु॒। भे॒ष॒ज॒म्। सर्व॑म्। नः॒। अ॒स्तु॒। भे॒ष॒जम्। ५७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

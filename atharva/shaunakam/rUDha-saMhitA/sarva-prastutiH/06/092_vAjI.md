@@ -32,14 +32,17 @@ Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वात॑रम्हा भव वाजिन् यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः ।  
-यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा॑ प॒त्सु ज॒वं द॑धातु ॥१॥  
+वात॑रंहा भव वाजिन्यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः।  
+यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा प॒त्सु ज॒वं द॑धातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वात॑रंहा भव वाजिन्यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः। यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा प॒त्सु ज॒वं द॑धातु ॥
+वात॑रंहा भव वाजिन्यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः।  
+यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा प॒त्सु ज॒वं द॑धातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/01_vAtaraMhA_bhava.md">
@@ -66,7 +69,7 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 </details>
 <details><summary>पदपाठः</summary>
 
-वातऽरंहाः। भव। वाजिन्। युज्यमानः। इन्द्रस्य। याहि। प्रऽसवे। मनःऽजवाः। युञ्जन्तु। त्वा। मरुतः। विश्वऽवेदसः। आ। ते। त्वष्टा। पत्ऽसु। जवम्। दधातु। ९२.१।
+वात॑ऽरंहाः। भ॒व॒। वा॒जि॒न्। यु॒ज्यमा॑नः। इन्द्र॑स्य। या॒हि॒। प्र॒ऽस॒वे। मनः॑ऽजवाः। यु॒ञ्जन्तु॑। त्वा॒। म॒रुतः॑। वि॒श्वऽवे॑दसः। आ। ते॒। त्वष्टा॑। प॒त्ऽसु। ज॒वम्। द॒धा॒तु॒। ९२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/02_javaste_arvannihito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒वस्ते॑ अर्व॒न् निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त् परी॑त्तः ।  
-तेन॒ त्वं वा॑जि॒न् बल॑वा॒न् बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥२॥  
+ज॒वस्ते॑ अर्व॒न्निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त्परी॑त्तः।  
+तेन॒ त्वं वा॑जि॒न्बल॑वा॒न्बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/02_javaste_arvannihito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज॒वस्ते॑ अर्व॒न्निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त्परी॑त्तः। तेन॒ त्वं वा॑जि॒न्बल॑वा॒न्बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥
+ज॒वस्ते॑ अर्व॒न्निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त्परी॑त्तः।  
+तेन॒ त्वं वा॑जि॒न्बल॑वा॒न्बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/02_javaste_arvannihito.md">
@@ -133,7 +139,7 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 </details>
 <details><summary>पदपाठः</summary>
 
-जवः। ते। अर्वन्। निऽहितः। गुहा। यः। श्येने। वाते। उत। यः। अचरत्। परीत्तः। तेन। त्वम्। वाजिन्। बलऽवान्। बलेन। आजिम्। जय। समने। पारियिष्णुः। ९२.२।
+ज॒वः। ते॒। अ॒र्व॒न्। निऽहि॑तः। गुहा॑। यः। श्ये॒ने। वाते॑। उ॒त। यः। अच॑रत्। परी॑त्तः। तेन॑। त्वम्। वा॒जि॒न्। बल॑ऽवान्। बले॑न। आ॒जिम्। ज॒य॒। सम॑ने। पा॒रि॒यि॒ष्णुः। ९२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,22 +166,25 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 </details>
 </details>
 </div>
-## ०३ तनूष्टे वाजिन्तन्वं
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjintanvaM.md">
+## ०३ तनूष्टे वाजिन्तन्वम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒नूष्टे॑ वाजिन् त॒न्वं॑१ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्।  
-अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वीऽव ज्योतिः॒ स्वमा मि॑मीयात्॥३॥
+त॒नूष्टे॑ वाजिन्त॒न्वं१॒॑ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्।  
+अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वी᳡व॒ ज्योतिः॒ स्वमा मि॑मीयात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/03_tanUShTe_vAjintanvaM.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त॒नूष्टे॑ वाजिन्त॒न्वं नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्। अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वी᳡व॒ ज्योतिः॒ स्वमा मि॑मीयात् ॥
+त॒नूष्टे॑ वाजिन्त॒न्वं१॒॑ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्।  
+अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वी᳡व॒ ज्योतिः॒ स्वमा मि॑मीयात् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/03_tanUShTe_vAjintanvaM.md">
-<details open><summary><h3>०३ तनूष्टे वाजिन्तन्वं ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
+<details open><summary><h3>०३ तनूष्टे वाजिन्तन्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -205,7 +214,7 @@ Bearing thy body, Charger, may thy body run blessing us and winning thee protect
 </details>
 <details><summary>पदपाठः</summary>
 
-तनूः। ते। वाजिन्। तन्व᳡म्। नयन्ती। वामम्। अस्मभ्यम्। धावतु। शर्म। तुभ्यम्। अह्रुतः। महः। धरुणाय। देवः। दिविऽइव। ज्योतिः। स्वम्। आ। मिमीयात्। ९२.३।
+त॒नूः॒। ते॒। वा॒जि॒न्। त॒न्व᳡म्। नय॑न्ती। वा॒मम्। अ॒स्मभ्य॑म्। धाव॑तु। शर्म॑। तुभ्य॑म्। अह्रु॑तः। म॒हः। ध॒रुणा॑य। दे॒वः। दि॒विऽइ॑व। ज्योतिः॑। स्वम्। आ। मि॒मी॒या॒त्। ९२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

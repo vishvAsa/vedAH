@@ -37,14 +37,16 @@ A hymn to Agni for protection and prosperity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रात्रिं॑रात्रि॒मप्र॑यातं॒ भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॒स्मै।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥१॥  
+रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 रात्रिं॑रात्रि॒मप्र॑यातं॒ भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॒स्मै।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥१॥  
+रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
@@ -125,7 +127,7 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 </details>
 <details><summary>पदपाठः</summary>
 
-रात्रिम्ऽरात्रिम्। अप्रऽयातम्। भरन्तः। अश्वायऽइव। तिष्ठते। घासम्। अस्मै। रायः। पोषेण। सम्। इषा। मदन्तः। मा। ते। अग्ने। प्रतिऽवेशाः। रिषाम। ५५.१।
+रात्रि॑म्ऽरात्रिम्। अप्र॑ऽयात॑म्। भर॑न्तः। अश्वा॑यऽइव। तिष्ठ॑ते। घा॒सम्। अ॒स्मै। रा॒यः। पोषे॑ण। सम्। इ॒षा। मद॑न्तः। मा। ते॒। अ॒ग्ने॒। प्रति॑ऽवेशाः। रि॒षा॒म॒। ५५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,15 +158,17 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड ।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥२॥  
+या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड।  
+रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड ।  
-रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥२॥  
+या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड।  
+रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
@@ -180,7 +184,7 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 </details>
 <details><summary>पदपाठः</summary>
 
-या। ते। वसोः। वातः। इषुः। सा। ते। एषा। तया। नः। मृड। रायः। पोषेण। सम्। इषा। मदन्तः। मा। ते। अग्ने। प्रतिऽवेशाः। रिषाम। ५५.२।
+या। ते॒। वसोः॑। वातः॑। इषुः॑। सा। ते॒। ए॒षा। तया॑। नः॒। मृ॒ड॒। रा॒यः। पोषे॑ण। सम्। इ॒षा। मद॑न्तः। मा। ते॒। अ॒ग्ने॒। प्रति॑ऽवेशाः। रि॒षा॒म॒। ५५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -212,14 +216,16 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सा॒यंसा॑यं गृ॒हप॑तिर्नो अ॒ग्निः प्रा॒तःप्रा॑तः सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं पुषेम ॥३॥  
+वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं᳡ पुषेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सा॒यंसा॑यं गृ॒हप॑तिर्नो अ॒ग्निः प्रा॒तःप्रा॑तः सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं पुषेम ॥३॥  
+वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं᳡ पुषेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
@@ -244,7 +250,7 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 </details>
 <details><summary>पदपाठः</summary>
 
-सायम्ऽसायम्। गृहऽपतिः। नः। अग्निः। प्रातःऽप्रातः। सौमनसस्य। दाता। वसोःऽवसोः। वसुऽदानः। एधि। वयम्। त्वा। इन्धानाः। तन्व᳡म्। पुषेम। ५५.३।
+सा॒यम्ऽसा॑यम्। गृ॒हऽप॑तिः। नः॒। अ॒ग्निः। प्रा॒तःऽप्रा॑तः। सौ॒म॒न॒सस्य॑। दा॒ता। वसोः॑ऽवसोः। व॒सु॒ऽदानः॑। ए॒धि॒। व॒यम्। त्वा॒। इन्धा॑नाः। त॒न्व᳡म्। पु॒षे॒म॒। ५५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -276,14 +282,16 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒तःप्रा॑तर्गृ॒हप॑तिर्नो अ॒ग्निः सा॒यंसा॑यं सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥४॥  
+वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्रा॒तःप्रा॑तर्गृ॒हप॑तिर्नो अ॒ग्निः सा॒यंसा॑यं सौमन॒सस्य॑ दा॒ता।  
-वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥४॥  
+वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
@@ -306,7 +314,7 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रातःऽप्रातः। गृहऽपतिः। नः। अग्निः। सायम्ऽसायम्। सौमनसस्य। दाता। वसोःऽवसोः। वसुऽदानः। एधि। इन्धानाः। त्वा। शतम्ऽहिमाः। ऋधेम। ५५.४।
+प्रा॒तःऽप्रा॑तः। गृ॒हऽप॑तिः। नः॒। अ॒ग्निः। सा॒यम्ऽसा॑यम्। सौ॒म॒न॒सस्य॑। दा॒ता। वसोः॑ऽवसोः। व॒सु॒ऽदानः॑। ए॒धि॒। इन्धा॑नाः। त्वा॒। श॒तम्ऽहि॑माः। ऋ॒धे॒म॒। ५५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -338,16 +346,18 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑श्चा द॒ग्धान्न॑स्य भूयासम्।  
-अ॒न्ना॒दायान्न॑पतये रु॒द्राय॒ नमो॑ अ॒ग्नये॑ ।  
-स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥५॥  
+अ॑न्ना॒दाया॑न्नपतये रु॒द्राय॒ नमो॑ अ॒ग्नये॑।  
+स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अप॑श्चा द॒ग्धान्न॑स्य भूयासम्।  
-अ॒न्ना॒दायान्न॑पतये रु॒द्राय॒ नमो॑ अ॒ग्नये॑ ।  
-स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥५॥  
+अ॑न्ना॒दाया॑न्नपतये रु॒द्राय॒ नमो॑ अ॒ग्नये॑।  
+स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
@@ -398,7 +408,7 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 </details>
 <details><summary>पदपाठः</summary>
 
-अपश्चा। दग्धऽअन्नस्य। भूयासम्। अन्नऽअदाय। अन्नऽपतये। रुद्राय। नमः। अग्नये। सभ्यः। सभाम्। मे। पाहि। ये। च। सभ्याः। सभाऽसदः। ५५.५।
+अप॑श्चा। द॒ग्धऽअ॑न्नस्य। भू॒या॒स॒म्। अ॒न्न॒ऽअ॒दाय॑। अन्न॑ऽपतये। रु॒द्राय॑। नमः॑। अ॒ग्नये॑। स॒भ्यः। स॒भाम्। मे॒। पा॒हि॒। ये। च॒। स॒भ्याः। स॒भा॒ऽसदः॑। ५५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -429,14 +439,17 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वामि॑न्द्रा पुरुहूत॒ विश्व॒मायु॒र्व्यश्नवन्।  
-अह॑रहर्ब॒लिमित् ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥६॥
+त्वमि॑न्द्रा पुरुहूत॒ विश्व॒मायु॒र्व्य᳡श्नवत्।  
+अह॑रहर्ब॒लिमित्ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वमि॑न्द्रा पुरुहूत॒ विश्व॒मायु॒र्व्य᳡श्नवत्। अह॑रहर्ब॒लिमित्ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥
+त्वमि॑न्द्रा पुरुहूत॒ विश्व॒मायु॒र्व्य᳡श्नवत्।  
+अह॑रहर्ब॒लिमित्ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
@@ -479,7 +492,7 @@ Protect my company, protect its courteous members, courteous. God! Only through 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्र। पुरुऽहूत। विश्वम्। आयुः। वि। अश्नवत्। अहःऽअहः। बलिम्। इत्। ते। हरन्तः। अश्वायऽइव। तिष्ठते। घासम्। अग्ने। ५५.६।
+त्वम्। इ॒न्द्र॒। पु॒रु॒ऽहू॒त॒। विश्व॑म्। आयुः॑। वि। अ॒श्न॒व॒त्। अहः॑ऽअहः। ब॒लिम्। इत्। ते॒। हर॑न्तः। अश्वा॑यऽइव। तिष्ठ॑ते। घा॒सम्। अ॒ग्ने॒। ५५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

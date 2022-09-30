@@ -36,14 +36,17 @@ A charm to restore or increase virile power
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑ ।  
-ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥१॥  
+यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑।  
+ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑। ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥
+यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑।  
+ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
@@ -70,7 +73,7 @@ Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। असितः। प्रथयते। वशान्। अनु। वपूंषि। कृण्वन्। असुरस्य। मायया। एव। ते। शेपः। सहसा। अयम्। अर्कः। अङ्गेन। अङ्गम्। सम्ऽसमकम्। कृणोतु। ७२.१।
+यथा॑। अ॒सि॒तः। प्र॒थय॑ते। वशा॑न्। अनु॑। वपूं॑षि। कृ॒ण्वन्। असु॑रस्य। मा॒यया॑। ए॒व। ते॒। शेपः॑। सह॑सा। अ॒यम्। अ॒र्कः। अङ्गे॑न। अङ्ग॑म्। सम्ऽस॑मकम्। कृ॒णो॒तु॒। ७२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,13 +105,16 @@ Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ पस॑स्तायाद॒रं वाते॑न स्थूल॒भं कृ॒तम्।  
-याव॒त् पर॑स्वतः॒ पस॒स्ताव॒त् ते वर्धतां॒ पसः॑ ॥२॥  
+याव॑त्पर॒स्वतः॒ पस॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ पस॑स्तायाद॒रं वाते॑न स्थूल॒भं कृ॒तम्। याव॑त्पर॒स्वतः॒ पस॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
+यथा॒ पस॑स्तायाद॒रं वाते॑न स्थूल॒भं कृ॒तम्।  
+याव॑त्पर॒स्वतः॒ पस॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
@@ -132,7 +138,7 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। पसः। तायादरम्। वातेन। स्थूलभम्। कृतम्। यावत्। परस्वतः। पसः। तावत्। ते। वर्धताम्। पसः। ७२.२।
+यथा॑। पसः॑। ता॒या॒द॒रम्। वाते॑न। स्थू॒ल॒भम्। कृ॒तम्। याव॑त्। पर॑स्वतः। पसः॑। ताव॑त्। ते॒। व॒र्ध॒ता॒म्। पसः॑। ७२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या॒व॒द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्।  
-याव॒दश्वस्य वा॒जिन॒स्ताव॑त् ते वर्धतां॒ पसः॑ ॥३॥
+याव॑द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्।  
+याव॒दश्व॑स्य वा॒जिन॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-याव॑द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्। याव॒दश्व॑स्य वा॒जिन॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
+याव॑द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्।  
+याव॒दश्व॑स्य वा॒जिन॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
@@ -199,7 +208,7 @@ Quantum estonagri membrum masculinum, elephanti, asinique, quantum est fortis eq
 </details>
 <details><summary>पदपाठः</summary>
 
-यावत्ऽअङ्गीनम्। पारस्वतम्। हास्तिनम्। गार्दभम्। च। यत्। यावत्। अश्वस्य। वाजिनः। तावत्। ते। वर्धताम्। पसः। ७२.३।
+या॒व॒त्ऽअ॒ङ्गीन॑म्। पार॑स्वतम्। हास्ति॑नम्। गार्द॑भम्। च॒। यत्। याव॑त्। अश्व॑स्य। वा॒जिनः॑। ताव॑त्। ते॒। व॒र्ध॒ता॒म्। पसः॑। ७२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

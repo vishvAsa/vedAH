@@ -37,13 +37,16 @@ A charm to remove pustules or scrofulous swellings (apachitas)
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥१॥  
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि। इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि।  
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/01_pancha_cha.md">
@@ -78,7 +81,7 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 </details>
 <details><summary>पदपाठः</summary>
 
-पञ्च। च। याः। पञ्चाशत्। च। सम्ऽयन्ति। मन्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.१।
+पञ्च॑। च॒। याः। प॒ञ्चा॒शत्। च॒। स॒म्ऽयन्ति॑। मन्याः॑। अ॒भि। इ॒तः। ताः। सर्वाः॑। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,13 +113,16 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥२॥  
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि। इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि।  
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/02_sapta_cha.md">
@@ -137,7 +143,7 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 </details>
 <details><summary>पदपाठः</summary>
 
-सप्त। च। याः। सप्ततिः। च। सम्ऽयन्ति। ग्रैव्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.२।
+स॒प्त। च॒। याः। स॒प्त॒तिः। च॒। स॒म्ऽयन्ति॑। ग्रैव्याः॑। अ॒भि। इ॒तः। ताः। सर्वाः॑। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,13 +175,16 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि।  
-इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥३॥
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/03_nava_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि। इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि।  
+इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/03_nava_cha.md">
@@ -197,7 +206,7 @@ Those nine-and-ninety which, combined, attack the shoulder round about, Let them
 </details>
 <details><summary>पदपाठः</summary>
 
-नव। च। याः। नवतिः। च। सम्ऽयन्ति। स्कन्ध्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.३।
+नव॑। च॒। याः। न॒व॒तिः। च॒। स॒म्ऽयन्ति॑। स्कन्ध्याः॑। अ॒भि। इ॒तः। ताः। सर्वाः॑। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

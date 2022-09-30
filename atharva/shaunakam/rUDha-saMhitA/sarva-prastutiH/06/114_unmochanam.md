@@ -28,14 +28,17 @@ The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the on
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृ॒मा व॒यम्।  
-आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥१॥  
+यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्।  
+आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्। आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
+यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्।  
+आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
@@ -69,7 +72,7 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। देवाः। देवऽहेडनम्। देवासः। चकृमः। वयम्। आदित्याः। तस्मात्। नः। यूयम्। ऋतस्य। ऋतेन। मुञ्चत। ११४.१।
+यत्। दे॒वाः॒। दे॒व॒ऽहेड॑नम्। देवा॑सः। च॒कृ॒मः। व॒यम्। आदि॑त्याः। तस्मा॑त्। नः॒। यू॒यम्। ऋ॒तस्य॑। ऋ॒तेन॑। मु॒ञ्च॒त॒। ११४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तस्य॒र्ते॑ना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑ ।  
-य॒ज्ञं यद् य॑ज्ञवाहसः॒ शिक्ष॑न्तो॒ नोप॑शेकि॒म॥२॥  
+ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑।  
+य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑। य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
+ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑।  
+य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
@@ -136,7 +142,7 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतस्‍य। ऋतेन। आदित्याः। यजत्राः। मुञ्चत। इह। नः। यज्ञम्। यत्। यज्ञऽवाहसः। शिक्षन्तः। न। उपऽशेकिम। ११४.२।
+ऋ॒तस्‍य॑। ऋ॒तेन॑। आ॒दि॒त्याः॒। यज॑त्राः। मु॒ञ्चत॑। इ॒ह। नः॒। य॒ज्ञम्। यत्। य॒ज्ञ॒ऽवा॒ह॒सः॒। शिक्ष॑न्तः। न। उ॒प॒ऽशे॒कि॒म। ११४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,14 +173,17 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः ।  
-अ॒का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकि॒म ॥३॥
+मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः।  
+अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः। अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
+मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः।  
+अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
@@ -200,7 +209,7 @@ With ladle full of fatness we, worshippers, pouring holy oil, Striving, have fai
 </details>
 <details><summary>पदपाठः</summary>
 
-मेदस्वता। यजमानाः। स्रुचा। आज्यानि। जुह्वतः। अकामाः। विश्वे। वः। देवाः। शिक्षन्तः। न। उप। शेकिम। ११४.३।
+मेद॑स्वता। यज॑मानाः। स्रु॒चा। आज्या॑नि। जुह्व॑तः। अ॒का॒माः। वि॒श्वे॒। वः॒। दे॒वाः॒। शिक्ष॑न्तः। न। उप॑। शे॒कि॒म॒। ११४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

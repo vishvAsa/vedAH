@@ -32,13 +32,17 @@ A farmer's song and prayer to speed the plough
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/01_sIrA_yunjanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क्। धीरा॑ दे॒वेषु॑ सुम्न॒यौ॥१॥  
+सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क्।  
+धीरा॑ दे॒वेषु॑ सुम्न॒यौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/01_sIrA_yunjanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क्। धीरा॑ दे॒वेषु॑ सुम्न॒यौ ॥
+सीरा॑ युञ्जन्ति क॒वयो॑ यु॒गा वि त॑न्वते॒ पृथ॑क्।  
+धीरा॑ दे॒वेषु॑ सुम्न॒यौ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/01_sIrA_yunjanti.md">
@@ -69,7 +73,7 @@ Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the
 </details>
 <details><summary>पदपाठः</summary>
 
-सीरा। युञ्जन्ति। कवयः। युगा। वि। तन्वते। पृथक्। धीराः। देवेषु। सुम्नऽयौ। १७.१।
+सीरा॑। यु॒ञ्ज॒न्ति॒। क॒वयः॑। यु॒गा। वि। त॒न्व॒ते॒। पृथ॑क्। धीराः॑। दे॒वेषु॑। सु॒म्न॒ऽयौ। १७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +105,16 @@ Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह बीज॑म्।  
-वि॒राजः॒ श्नुष्टिः॒ सभ॑रा असन्नो॒ नेदी॑य॒ इत् सृ॒ण्यः प॒क्वमा य॑वन्॥२॥  
+वि॒राजः॒ श्नुष्टिः॒ सभ॑रा असन्नो॒ नेदी॑य॒ इत्सृ॒ण्यः॑ प॒क्वमा य॑वन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/02_yunakta_sIrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह बीज॑म्। वि॒राजः॒ श्नुष्टिः॒ सभ॑रा असन्नो॒ नेदी॑य॒ इत्सृ॒ण्यः॑ प॒क्वमा य॑वन् ॥
+यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नोत कृ॒ते योनौ॑ वपते॒ह बीज॑म्।  
+वि॒राजः॒ श्नुष्टिः॒ सभ॑रा असन्नो॒ नेदी॑य॒ इत्सृ॒ण्यः॑ प॒क्वमा य॑वन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/02_yunakta_sIrA.md">
@@ -154,7 +161,7 @@ Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed 
 </details>
 <details><summary>पदपाठः</summary>
 
-युनक्त। सीरा। वि। युगा। तनोत। कृते। योनौ। वपत। इह। बीजम्। विऽराजः। श्नुष्टिः। सऽभराः। असत्। नः। नेदीयः। इत्। सृण्यः᳡। पक्वम्। आ। यवन्। १७.२।
+यु॒नक्त॑। सीरा॑। वि। यु॒गा। त॒नो॒त॒। कृ॒ते। योनौ॑। व॒प॒त॒। इ॒ह। बीज॑म्। वि॒ऽराजः॑। श्नुष्टिः॑। सऽभ॑राः। अ॒स॒त्। नः॒। नेदी॑यः। इत्। सृ॒ण्यः᳡। प॒क्वम्। आ। य॒व॒न्। १७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -185,14 +192,17 @@ Lay on the yokes and fasten well the traces: formed is the furrow, sow the seed 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/03_lAngalaM_pavIravatsushImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-लाङ्ग॑लं पवी॒रव॑त् सु॒शीमं॑ सोम॒सत्स॑रु ।  
-उदिद् व॑पतु॒ गामविं॑ प्र॒स्थाव॑द् रथ॒वाह॑नं॒ पीब॑रीं च प्रफ॒र्व्यऽम्॥३॥  
+लाङ्ग॑लं पवी॒रव॑त्सु॒शीमं॑ सोम॒सत्स॑रु।  
+उदिद्व॑पतु॒ गामविं॑ प्र॒स्थाव॑द्रथ॒वाह॑नं॒ पीब॑रीं च प्रफ॒र्व्य॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/03_lAngalaM_pavIravatsushImam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-लाङ्ग॑लं पवी॒रव॑त्सु॒शीमं॑ सोम॒सत्स॑रु। उदिद्व॑पतु॒ गामविं॑ प्र॒स्थाव॑द्रथ॒वाह॑नं॒ पीब॑रीं च प्रफ॒र्व्य॑म् ॥
+लाङ्ग॑लं पवी॒रव॑त्सु॒शीमं॑ सोम॒सत्स॑रु।  
+उदिद्व॑पतु॒ गामविं॑ प्र॒स्थाव॑द्रथ॒वाह॑नं॒ पीब॑रीं च प्रफ॒र्व्य॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/03_lAngalaM_pavIravatsushImam.md">
@@ -252,7 +262,7 @@ The keen-shared plough that bringeth bliss, furnished with traces and with stilt
 </details>
 <details><summary>पदपाठः</summary>
 
-लाङ्गलम्। पवीरऽवत्। सुऽशीमम्। सोमसत्ऽसरु। उत्। इत्। वपतु। गाम्। अविम्। प्रस्थाऽवत्। रथऽवाहनम्। पीबरीम्। च। प्रऽफर्व्य᳡म्। १७.३।
+लाङ्ग॑लम्। प॒वी॒रऽव॑त्। सु॒ऽशीम॑म्। सो॒म॒सत्ऽस॑रु। उत्। इत्। व॒प॒तु॒। गाम्। अवि॑म्। प्र॒स्थाऽव॑त्। र॒थ॒ऽवाह॑नम्। पीब॑रीम्। च॒। प्र॒ऽफ॒र्व्य᳡म्। १७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -283,14 +293,17 @@ The keen-shared plough that bringeth bliss, furnished with traces and with stilt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/04_indraH_sItAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षाभि र॑क्षतु ।  
-सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म्॥४॥  
+इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षाभि र॑क्षतु।  
+सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/04_indraH_sItAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षाभि र॑क्षतु। सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
+इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षाभि र॑क्षतु।  
+सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/04_indraH_sItAm.md">
@@ -312,7 +325,7 @@ May Indra press the furrow down, may Pushan guard and cherish her. May she, well
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। सीताम्। नि। गृह्णातु। ताम्। पूषा। अभि। रक्षतु। सा। नः। पयस्वती। दुहाम्। उत्तराम्ऽउत्तराम्। समाम्। १७.४।
+इन्द्रः॑। सीता॑म्। नि। गृ॒ह्णा॒तु॒। ताम्। पू॒षा। अ॒भि। र॒क्ष॒तु॒। सा। नः॒। पय॑स्वती। दु॒हा॒म्। उत्त॑राम्ऽउत्तराम्। समा॑म्। १७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -344,13 +357,16 @@ May Indra press the furrow down, may Pushan guard and cherish her. May she, well
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शु॒नं सु॑फा॒ला वि तु॑दन्तु॒ भूमिं॑ शु॒नं की॒नाशा॒ अनु॑ यन्तु वा॒हान्।  
-शुना॑सीरा ह॒विषा॒ तोश॑माना सुपिप्प॒ला ओष॑धीः कर्तम॒स्मै॥५॥  
+शुना॑सीरा ह॒विषा॒ तोश॑माना सुपिप्प॒ला ओष॑धीः कर्तम॒स्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/05_shunaM_suphAlA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शु॒नं सु॑फा॒ला वि तु॑दन्तु॒ भूमिं॑ शु॒नं की॒नाशा॒ अनु॑ यन्तु वा॒हान्। शुना॑सीरा ह॒विषा॒ तोश॑माना सुपिप्प॒ला ओष॑धीः कर्तम॒स्मै ॥
+शु॒नं सु॑फा॒ला वि तु॑दन्तु॒ भूमिं॑ शु॒नं की॒नाशा॒ अनु॑ यन्तु वा॒हान्।  
+शुना॑सीरा ह॒विषा॒ तोश॑माना सुपिप्प॒ला ओष॑धीः कर्तम॒स्मै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/05_shunaM_suphAlA.md">
@@ -385,7 +401,7 @@ Happily let the shares turn up the ploughland, the ploughers happily follow the 
 </details>
 <details><summary>पदपाठः</summary>
 
-शुनम्। सुऽफालाः। वि। तुदन्तु। भूमिम्। शुनम्। कीनाशाः। अनु। यन्तु। वाहान्। शुनासीरा। हविषा। तोशमाना। सुऽपिप्पलाः। ओषधीः। कर्तम्। अस्मै। १७.५।
+शु॒नम्। सु॒ऽफा॒लाः। वि। तु॒द॒न्तु॒। भूमि॑म्। शु॒नम्। की॒नाशाः॑। अनु॑। य॒न्तु॒। वा॒हान्। शुना॑सीरा। ह॒विषा॑। तोश॑माना। सु॒ऽपि॒प्प॒लाः। ओष॑धीः। क॒र्त॒म्। अ॒स्मै। १७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -417,13 +433,16 @@ Happily let the shares turn up the ploughland, the ploughers happily follow the 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लाङ्ग॑लम्।  
-शु॒नं व॑र॒त्रा ब॑ध्य॒न्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥६॥  
+शु॒नं व॑र॒त्रा ब॑ध्यन्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/06_shunaM_vAhAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लाङ्ग॑लम्। शु॒नं व॑र॒त्रा ब॑ध्यन्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥
+शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लाङ्ग॑लम्।  
+शु॒नं व॑र॒त्रा ब॑ध्यन्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/06_shunaM_vAhAH.md">
@@ -451,7 +470,7 @@ Happily work our steers and men! May the plough furrow happily, Happily be the t
 </details>
 <details><summary>पदपाठः</summary>
 
-शुनम्। वाहाः। शुनम्। नरः। शुनम्। कृषतु। लाङ्गलम्। शुनम्। वरत्राः। बध्यन्ताम्। शुनम्। अष्ट्राम्। उत्। इङ्गय। १७.६।
+शु॒नम्। वा॒हाः। शु॒नम्। नरः॑। शु॒नम्। कृ॒ष॒तु॒। लाङ्ग॑लम्। शु॒नम्। व॒र॒त्राः। ब॒ध्य॒न्ता॒म्। शु॒नम्। अष्ट्रा॑म्। उत्। इ॒ङ्ग॒य॒। १७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -483,13 +502,16 @@ Happily work our steers and men! May the plough furrow happily, Happily be the t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शुना॑सीरे॒ह स्म॑ मे जुषेथाम्।  
-यद् दि॒वि च॒क्रथुः॒ पय॒स्तेने॒मामुप॑ सिञ्चतम्॥७॥  
+यद्दि॒वि च॒क्रथुः॒ पय॒स्तेनेमामुप॑ सिञ्चतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/07_shunAsIreha_sma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शुना॑सीरे॒ह स्म॑ मे जुषेथाम्। यद्दि॒वि च॒क्रथुः॒ पय॒स्तेनेमामुप॑ सिञ्चतम् ॥
+शुना॑सीरे॒ह स्म॑ मे जुषेथाम्।  
+यद्दि॒वि च॒क्रथुः॒ पय॒स्तेनेमामुप॑ सिञ्चतम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/07_shunAsIreha_sma.md">
@@ -516,7 +538,7 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 </details>
 <details><summary>पदपाठः</summary>
 
-शुनासीरा। इह। स्म। मे। जुषेथाम्। यत्। दिवि। चक्रथुः। पयः। तेन। इमाम्। उप। सिञ्चतम्। १७.७।
+शुना॑सीरा। इ॒ह। स्म॒। मे॒। जु॒षे॒था॒म्। यत्। दि॒वि। च॒क्रथुः॑। पयः॑। तेन॑। इ॒माम्। उप॑। सि॒ञ्च॒त॒म्। १७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -547,14 +569,17 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/08_sIte_vandAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीते॒ वन्दा॑महे त्वा॒र्वाची॑ सुभगे भव ।  
-यथा॑ नः सु॒मना॒ असो॒ यथा॑ नः सुफ॒ला भुवः॑ ॥८॥  
+सीते॒ वन्दा॑महे त्वा॒र्वाची॑ सुभगे भव।  
+यथा॑ नः सु॒मना॒ असो॒ यथा॑ नः सुफ॒ला भुवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/08_sIte_vandAmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सीते॒ वन्दा॑महे त्वा॒र्वाची॑ सुभगे भव। यथा॑ नः सु॒मना॒ असो॒ यथा॑ नः सुफ॒ला भुवः॑ ॥
+सीते॒ वन्दा॑महे त्वा॒र्वाची॑ सुभगे भव।  
+यथा॑ नः सु॒मना॒ असो॒ यथा॑ नः सुफ॒ला भुवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/08_sIte_vandAmahe.md">
@@ -579,7 +604,7 @@ Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst b
 </details>
 <details><summary>पदपाठः</summary>
 
-सीते। वन्दामहे। त्वा। अर्वाची। सुऽभगे। भव। यथा। नः। सुऽमनाः। असः। यथा। नः। सुऽफला। भुवः। १७.८।
+सीते॑। वन्दा॑महे। त्वा॒। अर्वाची॑। सु॒ऽभ॒गे॒। भ॒व॒। यथा॑। नः॒। सु॒ऽमनाः॑। असः॑। यथा॑। नः॒। सु॒ऽफ॒ला। भुवः॑। १७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -610,14 +635,17 @@ Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/017_kRShiH/09_ghRtena_sItA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑ ।  
-सा नः॑ सीते॒ पय॑सा॒भ्याव॑वृ॒त्स्वोर्ज॑स्वती घृ॒तव॒त् पिन्व॑माना ॥९॥
+घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑।  
+सा नः॑ सीते॒ पय॑सा॒भ्याव॑वृ॒त्स्वोर्ज॑स्वती घृ॒तव॒त्पिन्व॑माना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/017_kRShiH/09_ghRtena_sItA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑। सा नः॑ सीते॒ पय॑सा॒भ्याव॑वृ॒त्स्वोर्ज॑स्वती घृ॒तव॒त्पिन्व॑माना ॥
+घृ॒तेन॒ सीता॒ मधु॑ना॒ सम॑क्ता॒ विश्वै॑र्दे॒वैरनु॑मता म॒रुद्भिः॑।  
+सा नः॑ सीते॒ पय॑सा॒भ्याव॑वृ॒त्स्वोर्ज॑स्वती घृ॒तव॒त्पिन्व॑माना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/017_kRShiH/09_ghRtena_sItA.md">
@@ -643,7 +671,7 @@ Loved by the Visvedevas and the Maruts, let Sita be bedewed. with oil and honey.
 </details>
 <details><summary>पदपाठः</summary>
 
-घृतेन। सीता। मधुना। सम्ऽअक्ता। विश्वैः। देवैः। अनुऽमता। मरुत्ऽभिः। सा। नः। सीते। पयसा। अभिऽआववृत्स्व। ऊर्जस्वती। घृतऽवत्। पिन्वमाना। १७.९।
+घृतेन॑। सीता॑। मधु॑ना। सम्ऽअ॑क्ता। विश्वैः॑। दे॒वैः। अनु॑ऽमता। म॒रुत्ऽभिः॑। सा। नः॒। सी॒ते॒। पय॑सा। अ॒भि॒ऽआव॑वृत्स्व। ऊर्ज॑स्वती। घृ॒तऽव॑त्। पिन्व॑माना। १७.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

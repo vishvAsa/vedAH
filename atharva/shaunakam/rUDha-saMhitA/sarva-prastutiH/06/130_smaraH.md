@@ -32,14 +32,17 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-र॒थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः ।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥१॥  
+र॑थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-र॑थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः। देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+र॑थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
@@ -69,7 +72,7 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 </details>
 <details><summary>पदपाठः</summary>
 
-रथऽजिताम्। राथऽजितेयीनाम्। अप्सरसाम्। अयम्। स्मरः। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.१।
+र॒थ॒ऽजिता॑म्। रा॒थ॒ऽजि॒ते॒यीना॑म्। अ॒प्स॒रसा॑म्। अ॒यम्। स्म॒रः। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/02_asau_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑ ।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥२॥  
+अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/02_asau_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑। देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/02_asau_me.md">
@@ -133,7 +139,7 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 </details>
 <details><summary>पदपाठः</summary>
 
-असौ। मे। स्मरतात्। इति। प्रियः। मे। स्मरतात्। इति। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.२।
+अ॒सौ। मे॒। स्म॒र॒ता॒त्। इति॑। प्रि॒यः। मे॒। स्म॒र॒ता॒त्। इति॑। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +171,16 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥३॥  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/03_yathA_mama.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न। देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/03_yathA_mama.md">
@@ -192,7 +201,7 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। मम। स्मरात्। असौ। न। अमुष्य। अहम्। कदा। चन। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.३।
+यथा॑। मम॑। स्मरा॑त्। अ॒सौ। न। अ॒मुष्य॑। अ॒हम्। क॒दा। च॒न। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,14 +232,17 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/04_unmAdayata_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय ।  
-अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥४॥
+उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय।  
+अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/04_unmAdayata_maruta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय। अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥
+उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय।  
+अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/04_unmAdayata_maruta.md">
@@ -249,7 +261,7 @@ Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni,
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। मादयत। मरुतः। उत्। अन्तरिक्ष। मादय। अग्ने। उत्। मादय। त्वम्। असौ। माम्। अनु। शोचतु। १३०.४।
+उत्। मा॒द॒य॒त॒। म॒रु॒तः॒। उत्। अ॒न्त॒रि॒क्ष॒। मा॒द॒य॒। अग्ने॑। उत्। मा॒द॒य॒। त्वम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to facilitate conception
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/01_parvatAddivo_yonerangAdangAtsamAbhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पर्व॑ताद् दि॒वो योने॒रङ्गा॑दङ्गात् स॒माभृ॑तम्।  
-शेपो॒ गर्भ॑स्य रेतो॒धाः सरौ॑ प॒र्णमि॒वा द॑धत्॥१॥  
+पर्व॑ताद्दि॒वो योने॒रङ्गा॑दङ्गात्स॒माभृ॑तम्।  
+शेपो॒ गर्भ॑स्य रेतो॒धाः सरौ॑ प॒र्णमि॒वा द॑धत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/01_parvatAddivo_yonerangAdangAtsamAbhRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पर्व॑ताद्दि॒वो योने॒रङ्गा॑दङ्गात्स॒माभृ॑तम्। शेपो॒ गर्भ॑स्य रेतो॒धाः सरौ॑ प॒र्णमि॒वा द॑धत् ॥
+पर्व॑ताद्दि॒वो योने॒रङ्गा॑दङ्गात्स॒माभृ॑तम्।  
+शेपो॒ गर्भ॑स्य रेतो॒धाः सरौ॑ प॒र्णमि॒वा द॑धत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/01_parvatAddivo_yonerangAdangAtsamAbhRtam.md">
@@ -72,7 +75,7 @@ Let the man, sower of the germ, lay, as a feather on a shaft. Limb drawn from li
 </details>
 <details><summary>पदपाठः</summary>
 
-पर्वतात्। दिवः। योनेः। अङ्गात्ऽअङ्गात्। सम्ऽआभृतम्। शेपः। गर्भस्य। रेतःऽधा। सरौ। पर्णम्ऽइव। आ। दधत्। २५.१।
+पर्व॑तात्। दि॒वः। योनेः॑। अङ्गा॑त्ऽअङ्गात्। स॒म्ऽआभृ॑तम्। शेपः॑। गर्भ॑स्य। रे॒तः॒ऽधा। सरौ॑। प॒र्णम्ऽइ॑व। आ। द॒ध॒त्। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,13 +107,16 @@ Let the man, sower of the germ, lay, as a feather on a shaft. Limb drawn from li
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
-ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥२॥  
+ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/02_yatheyaM_pRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे। ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥
+यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
+ए॒वा द॑धामि ते॒ गर्भं॒ तस्मै॒ त्वामव॑से हुवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/02_yatheyaM_pRthivI.md">
@@ -135,7 +141,7 @@ Even as this broad earth received the germ of all the things that be, Thus withi
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। भूतानाम्। गर्भम्। आऽदधे। एव। आ। दधामि। ते। गर्भम्। तस्मै। त्वाम्। अवसे। हुवे। २५.२।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। आ। द॒धा॒मि॒। ते॒। गर्भ॑म्। तस्मै॑। त्वाम्। अव॑से। हु॒वे॒। २५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Even as this broad earth received the germ of all the things that be, Thus withi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/03_garbhaM_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गर्भं॑ धेहि सिनीवालि॒ गर्भं॒ धेहि सरस्वति ।  
-गर्भं॑ ते अ॒श्विनो॒भा ध॑त्तां॒ पुष्क॑रस्रजा ॥३॥  
+गर्भं॑ धेहि सिनीवालि॒ गर्भं॑ धेहि सरस्वति।  
+गर्भं॑ ते अ॒श्विनो॒भा ध॑त्तां॒ पुष्क॑रस्रजा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/03_garbhaM_dhehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गर्भं॑ धेहि सिनीवालि॒ गर्भं॑ धेहि सरस्वति। गर्भं॑ ते अ॒श्विनो॒भा ध॑त्तां॒ पुष्क॑रस्रजा ॥
+गर्भं॑ धेहि सिनीवालि॒ गर्भं॑ धेहि सरस्वति।  
+गर्भं॑ ते अ॒श्विनो॒भा ध॑त्तां॒ पुष्क॑रस्रजा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/03_garbhaM_dhehi.md">
@@ -198,7 +207,7 @@ O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asv
 </details>
 <details><summary>पदपाठः</summary>
 
-गर्भम्। धेहि। सिनीवालि। गर्भम्। धेहि। सरस्वति। गर्भम्। ते। अश्विना। उभा। आ। धत्ताम्। पुष्करऽस्रजा। २५.३।
+गर्भ॑म्। धे॒हि॒। सि॒नी॒वा॒लि॒। गर्भ॑म्। धे॒हि॒। स॒र॒स्व॒ति॒। गर्भ॑म्। ते॒। अ॒श्विना॑। उ॒भा। आ। ध॒त्ता॒म्। पुष्क॑रऽस्रजा। २५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,14 +238,17 @@ O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asv
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/04_garbhaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गर्भं॑ ते मि॒त्रावरु॑णौ॒ गर्भं॑ दे॒वो बृह॒स्पतिः॑ ।  
-गर्भं॑ त॒ इन्द्र॑श्चा॒ग्निश्च॒ गर्भं॑ धा॒ता द॑धातु ते ॥४॥  
+गर्भं॑ ते मि॒त्रावरु॑णौ॒ गर्भं॑ दे॒वो बृह॒स्पतिः॑।  
+गर्भं॑ त॒ इन्द्र॑श्चा॒ग्निश्च॒ गर्भं॑ धा॒ता द॑धातु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/04_garbhaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गर्भं॑ ते मि॒त्रावरु॑णौ॒ गर्भं॑ दे॒वो बृह॒स्पतिः॑। गर्भं॑ त॒ इन्द्र॑श्चा॒ग्निश्च॒ गर्भं॑ धा॒ता द॑धातु ते ॥
+गर्भं॑ ते मि॒त्रावरु॑णौ॒ गर्भं॑ दे॒वो बृह॒स्पतिः॑।  
+गर्भं॑ त॒ इन्द्र॑श्चा॒ग्निश्च॒ गर्भं॑ धा॒ता द॑धातु ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/04_garbhaM_te.md">
@@ -257,7 +269,7 @@ Let Mitra-Varuna and God Brihaspati lay the germ in thee. Indra and Agni lay the
 </details>
 <details><summary>पदपाठः</summary>
 
-गर्भम्। ते। मित्रावरुणौ। गर्भम्। देवः। बृहस्पतिः। गर्भम्। ते। इन्द्रः। च। अग्निः। च। गर्भम्। धाता। दधातु। ते। २५.४।
+गर्भ॑म्। ते॒। मि॒त्रावरु॑णौ। गर्भ॑म्। दे॒वः। बृह॒स्पतिः॑। गर्भ॑म्। ते॒। इन्द्रः॑। च॒। अ॒ग्निः। च॒। गर्भ॑म्। धा॒ता। द॒धा॒तु॒। ते॒। २५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -288,14 +300,17 @@ Let Mitra-Varuna and God Brihaspati lay the germ in thee. Indra and Agni lay the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/05_viShNuryoniM_kalpayatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु ।  
-आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥५॥  
+विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु।  
+आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/05_viShNuryoniM_kalpayatu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु। आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
+विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु।  
+आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/05_viShNuryoniM_kalpayatu.md">
@@ -317,7 +332,7 @@ Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati
 </details>
 <details><summary>पदपाठः</summary>
 
-विष्णुः। योनिम्। कल्पयतु। त्वष्टा। रूपाणि। पिशतु। आ। सिञ्चतु। प्रजाऽपतिः। धाता। गर्भम्। दधातु। ते। २५.५।
+विष्णुः॑। योनि॑म्। क॒ल्प॒य॒तु॒। त्वष्टा॑। रू॒पाणि॑। पि॒श॒तु॒। आ। सि॒ञ्च॒तु॒। प्र॒जाऽप॑तिः। धा॒ता। गर्भ॑म्। द॒धा॒तु॒। ते॒। २५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -348,14 +363,17 @@ Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/06_yadveda_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वेद॒ राजा॒ वरु॑णो॒ यद् वा॑ दे॒वी सर॑स्वती ।  
-यदिन्द्रो॑ वृत्र॒हा वेद॒ तद् ग॑र्भ॒कर॑णं पिब ॥६॥  
+यद्वेद॒ राजा॒ वरु॑णो॒ यद्वा॑ दे॒वी सर॑स्वती।  
+यदिन्द्रो॑ वृत्र॒हा वेद॒ तद्ग॑र्भ॒कर॑णं पिब ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/06_yadveda_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्वेद॒ राजा॒ वरु॑णो॒ यद्वा॑ दे॒वी सर॑स्वती। यदिन्द्रो॑ वृत्र॒हा वेद॒ तद्ग॑र्भ॒कर॑णं पिब ॥
+यद्वेद॒ राजा॒ वरु॑णो॒ यद्वा॑ दे॒वी सर॑स्वती।  
+यदिन्द्रो॑ वृत्र॒हा वेद॒ तद्ग॑र्भ॒कर॑णं पिब ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/06_yadveda_rAjA.md">
@@ -377,7 +395,7 @@ Drink thou the procreative draught well-known to Varuna the King, Known to divin
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। वेद। राजा। वरुणः। यत्। वा। देवी। सरस्वती। यत्। इन्द्रः। वृत्रऽहा। वेद। तत्। गर्भऽकरणम्। पिब। २५.६।
+यत्। वेद॑। राजा॑। वरु॑णः। यत्। वा॒। दे॒वी। सर॑स्वती। यत्। इन्द्रः॑। वृ॒त्र॒ऽहा। वेद॑। तत्। ग॒र्भ॒ऽकर॑णम्। पि॒ब॒। २५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -409,13 +427,16 @@ Drink thou the procreative draught well-known to Varuna the King, Known to divin
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॒ वन॒स्पती॑नाम्।  
-गर्भो॒ विश्व॑स्य भू॒तस्य॒ सो अ॑ग्ने॒ गर्भ॒मेह धाः॑ ॥७॥  
+गर्भो॒ विश्व॑स्य भू॒तस्य॒ सो अ॑ग्ने॒ गर्भ॒मेह धाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/07_garbho_asyoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॒ वन॒स्पती॑नाम्। गर्भो॒ विश्व॑स्य भू॒तस्य॒ सो अ॑ग्ने॒ गर्भ॒मेह धाः॑ ॥
+गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॒ वन॒स्पती॑नाम्।  
+गर्भो॒ विश्व॑स्य भू॒तस्य॒ सो अ॑ग्ने॒ गर्भ॒मेह धाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/07_garbho_asyoShadhInAm.md">
@@ -441,7 +462,7 @@ Thou art the germ of plants and herbs, thou art the germ of forest trees, The ge
 </details>
 <details><summary>पदपाठः</summary>
 
-गर्भः। असि। ओषधीनाम्। गर्भः। वनस्पतीनाम्। गर्भः। विश्वस्य। भूतस्य। सः। अग्ने। गर्भम्। आ। इह। धाः। २५.७।
+गर्भः॑। अ॒सि॒। ओष॑धीनाम्। गर्भः॑। वन॒स्पती॑नाम्। गर्भः॑। विश्व॑स्य। भू॒तस्य॑। सः। अ॒ग्ने॒। गर्भ॑म्। आ। इ॒ह। धाः॒। २५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -473,13 +494,16 @@ Thou art the germ of plants and herbs, thou art the germ of forest trees, The ge
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अधि॑ स्कन्द वी॒रय॑स्व॒ गर्भ॒मा धे॑हि॒ योन्या॑म्।  
-वृषा॑सि वृष्ण्यावन् प्र॒जायै॒ त्वा न॑यामसि ॥८॥  
+वृषा॑सि वृष्ण्यावन्प्र॒जायै॒ त्वा न॑यामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/08_adhi_skanda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अधि॑ स्कन्द वी॒रय॑स्व॒ गर्भ॒मा धे॑हि॒ योन्या॑म्। वृषा॑सि वृष्ण्यावन्प्र॒जायै॒ त्वा न॑यामसि ॥
+अधि॑ स्कन्द वी॒रय॑स्व॒ गर्भ॒मा धे॑हि॒ योन्या॑म्।  
+वृषा॑सि वृष्ण्यावन्प्र॒जायै॒ त्वा न॑यामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/08_adhi_skanda.md">
@@ -505,7 +529,7 @@ Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull 
 </details>
 <details><summary>पदपाठः</summary>
 
-अधि। स्कन्द। वीरयस्व। गर्भम्। आ। धेहि। योन्याम्। वृषा। असि। वृष्ण्यऽवन्। प्रऽजायै। त्वा। आ। नयामसि। २५.८।
+अधि॑। स्क॒न्द॒। वी॒रय॑स्व। गर्भ॑म्। आ। धे॒हि॒। योन्या॑म्। वृषा॑। अ॒सि॒। वृ॒ष्ण्य॒ऽव॒न्। प्र॒ऽजायै॑। त्वा॒। आ। न॒या॒म॒सि॒। २५.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -537,13 +561,16 @@ Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि जि॑हीष्व बार्हत्सामे॒ गर्भ॑स्ते॒ योनि॒मा श॑याम्।  
-अदु॑ष्टे दे॒वाः पु॒त्रं सो॑म॒पा उ॑भया॒विन॑म्॥९॥  
+अदु॑ष्टे दे॒वाः पु॒त्रं सो॑म॒पा उ॑भया॒विन॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/09_vi_jihIShva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि जि॑हीष्व बार्हत्सामे॒ गर्भ॑स्ते॒ योनि॒मा श॑याम्। अदु॑ष्टे दे॒वाः पु॒त्रं सो॑म॒पा उ॑भया॒विन॑म् ॥
+वि जि॑हीष्व बार्हत्सामे॒ गर्भ॑स्ते॒ योनि॒मा श॑याम्।  
+अदु॑ष्टे दे॒वाः पु॒त्रं सो॑म॒पा उ॑भया॒विन॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/09_vi_jihIShva.md">
@@ -570,7 +597,7 @@ Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinkin
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। जिहीष्व। बार्हत्ऽसामे। गर्भः। ते। योनिम्। आ। शयाम्। अदुः। ते। देवाः। पुत्रम्। सोमऽपाः। उभयाविनम्। २५.९।
+वि। जि॒ही॒ष्व॒। बा॒र्ह॒त्ऽसा॒मे॒। गर्भः॑। ते॒। योनि॑म्। आ। श॒या॒म्। अदुः॑। ते॒। दे॒वाः। पु॒त्रम्। सो॒म॒ऽपाः। उ॒भ॒या॒विन॑म्। २५.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -601,14 +628,17 @@ Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinkin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/10_dhAtaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धातः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः ।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥१०॥  
+धातः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/10_dhAtaH_shreShThena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धातः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः। पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+धातः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/10_dhAtaH_shreShThena.md">
@@ -638,7 +668,7 @@ O Dhatar, thou Disposer, lay within the body of this dame. A male germ with the 
 </details>
 <details><summary>पदपाठः</summary>
 
-धातः। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१०।
+धातः॑। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -669,14 +699,17 @@ O Dhatar, thou Disposer, lay within the body of this dame. A male germ with the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/11_tvaShTaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वष्टः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः ।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥११॥  
+त्वष्टः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/11_tvaShTaH_shreShThena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वष्टः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः। पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+त्वष्टः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/11_tvaShTaH_shreShThena.md">
@@ -694,7 +727,7 @@ Tvashtar, celestial artist, lay within the body of this dame. A male germ with t
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वष्टः। श्रेष्ठेन। रूपेण। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.११।
+त्वष्टः॑। श्रेष्ठे॑न। रूपेण। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -725,14 +758,17 @@ Tvashtar, celestial artist, lay within the body of this dame. A male germ with t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/12_savitaH_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः ।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥१२॥  
+सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/12_savitaH_shreShThena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः। पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+सवि॑तः॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/12_savitaH_shreShThena.md">
@@ -750,11 +786,11 @@ Savitar, vivifier, lay within the body of this dame A male germ with the noblest
 </details>
 <details><summary>पदपाठः</summary>
 
-सवितः। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१२।
+सवि॑तः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-सवितः। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१२।
+सवि॑तः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -769,14 +805,17 @@ Savitar, vivifier, lay within the body of this dame A male germ with the noblest
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/025_garbhAdhAnam/13_prajApate_shreShThena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः ।  
-पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥१३॥
+प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/025_garbhAdhAnam/13_prajApate_shreShThena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः। पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+प्रजा॑पते॒ श्रेष्ठे॑न रू॒पेणा॒स्या नार्या॑ गवी॒न्योः।  
+पुमां॑सं पु॒त्रमा धे॑हि दश॒मे मा॒सि सूत॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/025_garbhAdhAnam/13_prajApate_shreShThena.md">
@@ -797,11 +836,11 @@ O Lord of Life, Prajapati, within this woman's body lay A male germ with the nob
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपते। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१३।
+प्रजा॑ऽपते। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपते। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१३।
+प्रजा॑ऽपते। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्याः॑। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,13 +36,15 @@ A prayer to an amulet for health and strength
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ।१॥  
+ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/01_ojo-syojo_me.md">
@@ -66,7 +68,7 @@ Power art thou, give me power. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-ओजः। असि। ओजः। मे। दाः। स्वाहा। १७.१।
+ओजः॑। अ॒सि॒। ओजः॑। मे॒। दाः॒। स्वाहा॑। १७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,13 +99,15 @@ Power art thou, give me power. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/02_saho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सहो॑ऽसि॒ सहो॑ मे दाः स्वाहा॑ ॥२॥  
+सहो॑ ऽसि॒ सहो॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/02_saho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सहो॑ ऽसि॒ सहो॑ मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/02_saho-si.md">
@@ -122,7 +126,7 @@ Might art thou, give me might. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-सहः। असि। सहः। मे। दाः। स्वाहा। १७.२।
+सहः॑। अ॒सि॒। सहः॑। मे॒। दाः॒। स्वाहा॑। १७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,13 +157,15 @@ Might art thou, give me might. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/03_balamasi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बल॑मसि॒ बलं॑ मे दाः॒ स्वाहा॑ ॥३॥  
+बल॑मसि॒ बलं॑ दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/03_balamasi_balam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 बल॑मसि॒ बलं॑ दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/03_balamasi_balam.md">
@@ -178,7 +184,7 @@ Strength art thou, give me strength. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-बलम्। असि। बलम्। मे। दाः। स्वाहा। १७.३।
+बल॑म्। अ॒सि॒। बल॑म्। मे॒। दाः॒। स्वाहा॑। १७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -209,13 +215,15 @@ Strength art thou, give me strength. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥४॥  
+आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
@@ -234,7 +242,7 @@ Life art thou, give me life. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-आयुः। असि। आयुः। मे। दाः। स्वाहा। १७.४।
+आयुः॑। अ॒सि॒। आयुः॑। मे॒। दाः॒। स्वाहा॑। १७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -265,13 +273,15 @@ Life art thou, give me life. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥५॥  
+श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
@@ -291,7 +301,7 @@ Ear art thou, give me hearing! Hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रोत्रम्। असि। श्रोत्रम्। मे। दाः। स्वाहा। १७.५।
+श्रोत्र॑म्। अ॒सि॒। श्रोत्र॑म्। मे॒। दाः॒। स्वाहा॑। १७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -322,13 +332,15 @@ Ear art thou, give me hearing! Hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥६॥  
+चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
@@ -346,7 +358,7 @@ Eye art thou, give me eyes. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-चक्षुः। असि। चक्षुः। मे। दाः। स्वाहा। १७.६।
+चक्षुः॑। अ॒सि॒। चक्षुः॑। मे॒। दाः॒। स्वाहा॑। १७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -377,13 +389,15 @@ Eye art thou, give me eyes. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥७॥
+प॑रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प॑रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
@@ -406,7 +420,7 @@ Shield art thou, shield me well. All hail
 </details>
 <details><summary>पदपाठः</summary>
 
-परिऽपानम्। असि। परिऽपानम्। मे। दाः। स्वाहा। १७.७।
+प॒रि॒ऽपान॑म्। अ॒सि॒। प॒रि॒ऽपान॑म्। मे॒। दाः॒। स्वाहा॑। १७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

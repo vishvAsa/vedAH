@@ -32,14 +32,17 @@ A charm against dysentery
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भू॑रिधायसम्।  
-वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम्॥१॥  
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भूरि॑धायसम्।  
+वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भूरि॑धायसम्। वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम् ॥
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भूरि॑धायसम्।  
+वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/01_vidmA_sharasya.md">
@@ -60,7 +63,7 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। पर्जन्यम्। भूरिऽधायसम्। विद्मो इति। सु। अस्य। मातरम्। पृथिवीम्। भूरिऽवर्पसम्।
+वि॒द्म। श॒रस्य॑। पि॒तर॑म्। प॒र्जन्य॑म्। भूरि॑ऽधायसम्। वि॒द्मो इति॑। सु। अ॒स्य॒। मा॒तर॑म्। पृ॒थि॒वीम्। भूरि॑ऽवर्पसम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -91,14 +94,17 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/02_jyAke_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्याऽके॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि ।  
-वी॒डुर्वरी॒योऽरा॑ती॒रप॒ द्वेषां॒स्याऽकृ॑धि ॥२॥  
+ज्या॑के॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि।  
+वी॒डुर्वरी॒यो ऽरा॑ती॒रप॒ द्वेषां॒स्या कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/02_jyAke_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज्या॑के॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि। वी॒डुर्वरी॒यो ऽरा॑ती॒रप॒ द्वेषां॒स्या कृ॑धि ॥
+ज्या॑के॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि।  
+वी॒डुर्वरी॒यो ऽरा॑ती॒रप॒ द्वेषां॒स्या कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/02_jyAke_pari.md">
@@ -121,7 +127,7 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 </details>
 <details><summary>पदपाठः</summary>
 
-ज्याके। परि। नः। नम। अश्मानम्। तन्वम्। कृधि। वीडुः। वरीयः। अरातीः। अप। द्वेषांसि। आ। कृधि।
+ज्याके। परि॑। नः॒। न॒म॒। अश्मा॑नम्। त॒न्वम्। कृ॒धि॒। वी॒डुः। वरी॑यः। अरा॑तीः। अप॑। द्वेषां॑सि। आ। कृ॒धि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,13 +159,16 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्।  
-शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥३॥  
+शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्। शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥
+वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्।  
+शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
@@ -183,7 +192,7 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 </details>
 <details><summary>पदपाठः</summary>
 
-वृक्षम्। यत्। गावः। परिऽसखजानाः। अनुऽस्फुरम्। शरम्। अर्चन्ति। ॠभुम्। शरुम्। अस्मत्। यवय। दिद्युम्। इन्द्र।
+वृ॒क्षम्। यत्। गावः॑। प॒रि॒ऽस॒ख॒जा॒नाः। अ॒नु॒ऽस्फु॒रम्। श॒रम्। अर्च॑न्ति। ॠ॒भुम्। शरु॑म्। अ॒स्मत्। य॒व॒य॒। दि॒द्युम्। इ॒न्द्र॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -215,13 +224,16 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ द्यां च॑ पृथि॒वीं चा॒न्तस्तिष्ठ॑ति॒ तेज॑नम्।  
-ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत्॥४॥
+ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/04_yathA_dyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ द्यां च॑ पृथि॒वीं चा॒न्तस्तिष्ठ॑ति॒ तेज॑नम्। ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत् ॥
+यथा॒ द्यां च॑ पृथि॒वीं चा॒न्तस्तिष्ठ॑ति॒ तेज॑नम्।  
+ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/04_yathA_dyAm.md">
@@ -248,7 +260,7 @@ As in its flight the arrow's point hangs between earth and firmament, So stand t
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। द्याम्। च। पृथिवीम्। च। अन्तः। तिष्ठति। तेजनम्। एव। रोगम्। च। आऽस्रावम्। च। अन्तः। तिष्ठतु। मुञ्जः। इत्।
+यथा॑। द्याम्। च॒। पृ॒थि॒वीम्। च॒। अ॒न्तः। तिष्ठ॑ति। तेज॑नम्। ए॒व। रोग॑म्। च॒। आ॒ऽस्रा॒वम्। च॒। अ॒न्तः। ति॒ष्ठ॒तु॒। मुञ्जः॑। इत्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

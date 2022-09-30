@@ -36,14 +36,17 @@ A charm to remove a woman's sterility, and to assure the birth of boys
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ वे॒हद् ब॒भूवि॑थ ना॒शया॑म॒सि तत् त्वत्।  
-इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥१॥  
+येन॑ वे॒हद्ब॒भूवि॑थ ना॒शया॑मसि॒ तत्त्वत्।  
+इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ वे॒हद्ब॒भूवि॑थ ना॒शया॑मसि॒ तत्त्वत्। इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥
+येन॑ वे॒हद्ब॒भूवि॑थ ना॒शया॑मसि॒ तत्त्वत्।  
+इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
@@ -65,7 +68,7 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। वेहत्। बभूविथ। नाशयामसि। तत्। त्वत्। इदम्। तत्। अन्यत्र। त्वत्। अप। दूरे। नि। दध्मसि। २३.१।
+येन॑। वे॒हत्। ब॒भूवि॑थ। ना॒शया॑मसि। तत्। त्वत्। इ॒दम्। तत्। अ॒न्यत्र॑। त्वत्। अप॑। दू॒रे। नि। द॒ध्म॒सि॒। २३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/02_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न् बाण॑ इवेषु॒धिम्।  
-आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥२॥  
+आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न्बाण॑ इवेषु॒धिम्।  
+आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/02_A_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न्बाण॑ इवेषु॒धिम्। आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥
+आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न्बाण॑ इवेषु॒धिम्।  
+आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/02_A_te.md">
@@ -128,7 +134,7 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। ते। योनिम्। गर्भः। एतु। पुमान्। बाणःऽइव। इषुऽधिम्। आ। वीरः। अत्र। जायताम्। पुत्रः। ते। दशऽमास्यः। २३.२।
+आ। ते॒। योनि॑म्। गर्भः॑। ए॒तु॒। पुमा॑न्। बाणः॑ऽइव। इ॒षु॒ऽधिम्। आ। वी॒रः। अत्र॑। जा॒य॒ता॒म्। पु॒त्रः। ते॒। दश॑ऽमास्यः। २३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,13 +166,16 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुमां॑सं पु॒त्रं ज॑नय॒ तं पुमा॒ननु॑ जायताम्।  
-भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान्॥३॥  
+भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुमां॑सं पु॒त्रं ज॑नय॒ तं पुमा॒ननु॑ जायताम्। भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान् ॥
+पुमां॑सं पु॒त्रं ज॑नय॒ तं पुमा॒ननु॑ जायताम्।  
+भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
@@ -194,7 +203,7 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 </details>
 <details><summary>पदपाठः</summary>
 
-पुमांसम्। पुत्रम्। जनय। तम्। पुमान्। अनु। जायताम्। भवासि। पुत्राणाम्। माता। जातानाम्। जनयाः। च। यान्। २३.३।
+पुमां॑सम्। पु॒त्रम्। ज॒न॒य॒। तम्। पुमा॑न्। अनु॑। जा॒य॒ता॒म्। भवा॑सि। पु॒त्राणा॑म्। मा॒ता। जा॒ताना॑म्। ज॒नयाः॑। च॒। यान्। २३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -225,14 +234,17 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च ।  
-तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥४॥  
+यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च।  
+तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च। तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥
+यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च।  
+तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
@@ -262,7 +274,7 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 </details>
 <details><summary>पदपाठः</summary>
 
-यानि। भद्राणि। बीजानि। ऋषभाः। जनयन्ति। च। तैः। त्वम्। पुत्रम्। विन्दस्व। सा। प्रऽसूः। धेनुका। भव। २३.४।
+यानि॑। भ॒द्राणि॑। बीजा॑नि। ऋ॒ष॒भाः। ज॒नय॑न्ति। च॒। तैः। त्वम्। पु॒त्रम्। वि॒न्द॒स्व॒। सा। प्र॒ऽसूः। धेनु॑का। भ॒व॒। २३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -293,14 +305,17 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते ।  
-वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥५॥  
+कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते।  
+वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते। वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥
+कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते।  
+वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
@@ -327,7 +342,7 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 </details>
 <details><summary>पदपाठः</summary>
 
-कृणोमि। ते। प्राजाऽपत्यम्। आ। योनिम्। गर्भः। एतु। ते। विन्दस्व। त्वम्। पुत्रम्। नारि। यः। तुभ्यम्। शम्। असत्। शम्। ऊं इति। तस्मै। त्वम्। भव। २३.५।
+कृ॒णोमि॑। ते॒। प्रा॒जा॒ऽप॒त्यम्। आ। योनि॑म्। गर्भः॑। ए॒तु॒। ते॒। वि॒न्दस्व॑। त्वम्। पु॒त्रम्। ना॒रि॒। यः। तुभ्य॑म्। शम्। अस॑त्। शम्। ऊं॒ इति॑। तस्मै॑। त्वम्। भव॑। २३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -358,14 +373,17 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यासां॒ द्यौः पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑ ।  
-तास्त्वा॑ पुत्र॒विद्या॑य॒ दैवीः॒ प्राव॒न्त्वोष॑धयः ॥६॥
+यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑।  
+तास्त्वा॑ पुत्र॒विद्या॑य॒ दैवीः॒ प्राव॒न्त्वोष॑धयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑। तास्त्वा॑ पुत्र॒विद्या॑य॒ दैवीः॒ प्राव॒न्त्वोष॑धयः ॥
+यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑।  
+तास्त्वा॑ पुत्र॒विद्या॑य॒ दैवीः॒ प्राव॒न्त्वोष॑धयः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
@@ -394,7 +412,7 @@ May those celestial herbs whose sire was Heaven, the Earth their mother, and the
 </details>
 <details><summary>पदपाठः</summary>
 
-यासाम्। द्यौः। पिता। पृथिवी। माता। समुद्रः। मूलम्। वीरुधाम्। बभूव। ताः। त्वा। पुत्रऽविद्याय। दैवीः। प्र। अवन्तु। ओषधयः। २३.६।
+यासा॑म्। द्यौः। पि॒ता। पृ॒थि॒वी। मा॒ता। स॒मु॒द्रः। मूल॑म्। वी॒रुधा॑म्। ब॒भूव॑। ताः। त्वा॒। पु॒त्र॒ऽविद्या॑य। दैवीः॑। प्र। अ॒व॒न्तु॒। ओष॑धयः। २३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Ludwig, p. 512; Zimmer, p. 393; Grill, 21, 170; Griffith, i. 306; Bl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/01_imaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति ।  
-अतोऽधि॑ ते कृणवद् भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति ॥१॥  
+इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति।  
+अतोऽधि॑ ते कृणवद्भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/01_imaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति। अतोऽधि॑ ते कृणवद्भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति ॥
+इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति।  
+अतोऽधि॑ ते कृणवद्भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/01_imaM_me.md">
@@ -64,7 +67,7 @@ Unbind and loose for me this man, O Agni, who bound and well restrained is chatt
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। मे। अग्ने। पुरुषम्। मुमुग्धि। अयम्। यः। बध्दः। सुऽयतः। लालपीति। अतः। अधि। ते। कृणवत्। भागऽधेयम्। यदा। अनुत्ऽमदितः। असति। १११.१।
+इ॒मम्। मे॒। अ॒ग्ने॒। पुरु॑षम्। मु॒मु॒ग्धि॒। अ॒यम्। यः। ब॒ध्दः। सुऽय॑तः। लाल॑पीति। अतः॑। अधि॑। ते॒। कृ॒ण॒व॒त्। भा॒ग॒ऽधेय॑म्। य॒दा। अनु॑त्ऽमदितः। अस॑ति। १११.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,13 +99,16 @@ Unbind and loose for me this man, O Agni, who bound and well restrained is chatt
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्।  
-कृ॒णोमि॑ वि॒द्वान् भे॑ष॒जं यदानु॑न्मदि॒तोऽस॑सि ॥२॥  
+कृ॑णोमि वि॒द्वान्भे॑ष॒जं यथानु॑न्मदि॒तोऽस॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/02_agniShTe_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्। कृ॑णोमि वि॒द्वान्भे॑ष॒जं यथानु॑न्मदि॒तोऽस॑सि ॥
+अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्।  
+कृ॑णोमि वि॒द्वान्भे॑ष॒जं यथानु॑न्मदि॒तोऽस॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/02_agniShTe_ni.md">
@@ -123,7 +129,7 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। ते। नि। शमयतु। यदि। ते। मनः। उत्ऽयुतम्। कृणोमि। व‍िद्वान्। भेषजम्। यथा। अनुत्ऽमदितः। अससि। १११.२।
+अ॒ग्निः। ते॒। नि। श॒म॒य॒तु॒। यदि॑। ते॒। मनः॑। उत्ऽयु॑तम्। कृ॒णोमि॑। व‍ि॒द्वान्। भे॒ष॒जम्। यथा॑। अनु॑त्ऽमदितः। अस॑सि। १११.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,14 +160,17 @@ Let Agni gently soothe thy mind when fierce excitement troubles it. Well-skilled
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वै॒न॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑ ।  
-कृ॒णोमि॑ वि॒द्वान् भे॑ष॒जं यदानु॑न्मदि॒तोऽस॑ति ॥३॥  
+दे॑वैन॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑।  
+कृ॑णोमि वि॒द्वान्भे॑ष॒जं य॒दानु॑न्मदि॒तोऽस॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॑वैन॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑। कृ॑णोमि वि॒द्वान्भे॑ष॒जं य॒दानु॑न्मदि॒तोऽस॑ति ॥
+दे॑वैन॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑।  
+कृ॑णोमि वि॒द्वान्भे॑ष॒जं य॒दानु॑न्मदि॒तोऽस॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/03_devainasAdunmaditamunmattaM_raxasaspari.md">
@@ -183,7 +192,7 @@ Insane through sin against the Gods, or maddened by a demon's power-- Well-skill
 </details>
 <details><summary>पदपाठः</summary>
 
-देवऽएनसात्। उत्ऽमदितम्। उत्ऽमत्तम्। रक्षसः। परि। कृणोमि। विद्वान्। भेषजम्। यदा। अनुत्ऽमदितः। असति। १११.३।
+दे॒व॒ऽए॒न॒सात्। उत्ऽम॑दितम्। उत्ऽम॑त्तम्। रक्ष॑सः। परि॑। कृ॒णो॒मि॑। वि॒द्वान्। भे॒ष॒जम्। य॒दा। अनु॑त्ऽमदितः। अस॑ति। १११.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -214,14 +223,17 @@ Insane through sin against the Gods, or maddened by a demon's power-- Well-skill
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/111_unmattatAmochanam/04_punastvA_durapsarasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑ ।  
-पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथानु॑न्मदि॒तोऽस॑सि ॥४॥
+पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑।  
+पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथा॑नुन्मदि॒तोऽस॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/111_unmattatAmochanam/04_punastvA_durapsarasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑। पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथा॑नुन्मदि॒तोऽस॑सि ॥
+पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑।  
+पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथा॑नुन्मदि॒तोऽस॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/111_unmattatAmochanam/04_punastvA_durapsarasaH.md">
@@ -247,7 +259,7 @@ May the Apsarases release, Indra and Bhaga let thee go. May all the Gods deliver
 </details>
 <details><summary>पदपाठः</summary>
 
-पुनः। त्वा। दुः। अप्सरसः। पुनः। इन्द्रः। पुनः। भगः। पुनः। त्वा। दुः। विश्वे। देवाः। यथा। अनुत्ऽमदितः। अससि। १११.४।
+पुनः॑। त्वा॒। दुः॒। अ॒प्स॒रसः॑। पुनः॑। इन्द्रः॑। पुनः॑। भगः॑। पुनः॑। त्वा॒। दुः॒। विश्वे॑। दे॒वाः। यथा॑। अनु॑त्ऽमदितः। अस॑सि। १११.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

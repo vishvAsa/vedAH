@@ -23,13 +23,15 @@ title = "००५ अध्यात्मम्"
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/01_kIrtishcha_yashashchAmbhashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-की॒र्तिश्च॒ यश॒श्चाम्भ॑श्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ॥१४॥  
+की॒र्तिश्च॒ यश॒श्चाम्भ॑श्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/01_kIrtishcha_yashashchAmbhashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 की॒र्तिश्च॒ यश॒श्चाम्भ॑श्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/01_kIrtishcha_yashashchAmbhashcha.md">
@@ -50,7 +52,7 @@ having the sense of 'might.'
 </details>
 <details><summary>पदपाठः</summary>
 
-कीर्तिः। च। यशः। च। अम्भः। च। नभः। च। ब्राह्मणऽवर्चसम्। च। अन्नम्। च। अन्नऽअद्यम्। च। ५.१।
+की॒र्तिः। च॒। यशः॑। च॒। अम्भः॑। च॒। नभः॑। च॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सम्। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -81,13 +83,15 @@ having the sense of 'might.'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/02_ya_etam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥१५॥  
+य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/02_ya_etam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/02_ya_etam.md">
@@ -105,7 +109,7 @@ having the sense of 'might.'
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। एतम्। देवम्। एकऽवृतम्। वेद। ५.२।
+यः। ए॒तम्। दे॒वम्। ए॒क॒ऽवृत॑म्। वेद॑। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -136,13 +140,15 @@ having the sense of 'might.'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/03_na_dvitIyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न द्वि॒तीयो॒ न तृ॒तीय॑श्चतु॒र्थो नाप्यु॑च्यते। य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥१६॥  
+न द्वि॒तीयो॒ न तृ॒तीय॑श्चतु॒र्थो नाप्यु॑च्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/03_na_dvitIyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 न द्वि॒तीयो॒ न तृ॒तीय॑श्चतु॒र्थो नाप्यु॑च्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/03_na_dvitIyo.md">
@@ -160,7 +166,7 @@ having the sense of 'might.'
 </details>
 <details><summary>पदपाठः</summary>
 
-न। द्वितीयः। न। तृतीयः। चतुर्थः। न। अपि। उच्यते। ५.३।
+न। द्वि॒तीयः॑। न। तृ॒तीयः॑। च॒तु॒र्थः। न। अपि॑। उ॒च्य॒ते॒। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -191,13 +197,15 @@ having the sense of 'might.'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/04_na_panchamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न प॑ञ्च॒मो न षष्ठः स॑प्त॒मो नाप्यु॑च्यते। य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥१७॥  
+न प॑ञ्च॒मो न ष॒ष्ठः स॑प्त॒मो नाप्यु॑च्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/04_na_panchamo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 न प॑ञ्च॒मो न ष॒ष्ठः स॑प्त॒मो नाप्यु॑च्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/04_na_panchamo.md">
@@ -215,7 +223,7 @@ having the sense of 'might.'
 </details>
 <details><summary>पदपाठः</summary>
 
-न। पञ्चमः। न। षष्ठः। सप्तमः। न। ५.४।
+न। प॒ञ्च॒मः। न। ष॒ष्ठः। स॒प्त॒मः। न। ५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -246,13 +254,15 @@ having the sense of 'might.'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/05_nAShTamo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाष्ट॒मो न न॑व॒मो द॑श॒मो नाप्यु॑च्यते । य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥१८॥  
+नाष्ट॒मो न न॑व॒मो द॑श॒मो नाप्यु॑च्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/05_nAShTamo_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 नाष्ट॒मो न न॑व॒मो द॑श॒मो नाप्यु॑च्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/05_nAShTamo_na.md">
@@ -270,7 +280,7 @@ having the sense of 'might.'
 </details>
 <details><summary>पदपाठः</summary>
 
-न। अष्टमः। न। नवमः। दशमः। न। अपि। उच्यते। ५.५।
+न। अ॒ष्ट॒मः। न। न॒व॒मः। द॒श॒मः। न। अपि॑। उ॒च्य॒ते॒। ५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -301,14 +311,15 @@ having the sense of 'might.'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/06_sa_sarvasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स सर्व॑स्मै॒ वि प॑श्यति॒ यच्च॑ प्रा॒णति॒ यच्च॒ न ।  
-य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥१९॥  
+स सर्व॑स्मै॒ वि प॑श्यति॒ यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/06_sa_sarvasmai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स सर्व॑स्मै॒ वि प॑श्यति॒ यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/06_sa_sarvasmai.md">
@@ -328,7 +339,7 @@ not.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। सर्वस्मै। वि। पश्यति। यत्। च। प्राणति। यत्। च। न। ५.६।
+सः। सर्व॑स्मै। वि। प॒श्य॒ति॒। यत्। च॒। प्रा॒णति॑। यत्। च॒। न। ५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -359,14 +370,15 @@ not.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/07_tamidaM_nigatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व।  
-य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२०॥  
+तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/07_tamidaM_nigatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 तमि॒दं निग॑तं॒ सहः॒ स ए॒ष एक॑ एक॒वृदेक॑ ए॒व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/07_tamidaM_nigatam.md">
@@ -386,7 +398,7 @@ only.
 </details>
 <details><summary>पदपाठः</summary>
 
-तम्। इदम्। निऽगतम्। सहः। सः। एषः। एकः। एकऽवृत्। एकः। एव। ५.७।
+तम्। इ॒दम्। निऽग॑तम्। सहः॑। सः। ए॒षः। एकः॑। ए॒क॒ऽवृत्। एकः॑। ए॒व। ५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -417,13 +429,15 @@ only.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/005_adhyAtmam/08_sarve_asmindevA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वे॑ अस्मिन् दे॒वा ए॑क॒वृतो॑ भवन्ति । य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२१॥
+सर्वे॑ अस्मिन्दे॒वा ए॑क॒वृतो॑ भवन्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/005_adhyAtmam/08_sarve_asmindevA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सर्वे॑ अस्मिन्दे॒वा ए॑क॒वृतो॑ भवन्ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/005_adhyAtmam/08_sarve_asmindevA.md">
@@ -452,7 +466,7 @@ gāyatrī; 25. 1-p. āsurī gāyatrī; 26. ārcy anuṣṭubh; 27, 28. prājāpa
 </details>
 <details><summary>पदपाठः</summary>
 
-सर्वे। अस्मिन्। देवाः। एकऽवृतः। भवन्ति। ५.८।
+सर्वे॑। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृतः॑। भ॒व॒न्ति॒। ५.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

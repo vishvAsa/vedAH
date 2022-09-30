@@ -36,15 +36,17 @@ A prayer for protection from death and misfortune
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/01_apa_nyadhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑ ।  
-सोमो॒ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान् परि॑ पातु मृ॒त्योः ॥१॥  
+अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑।  
+सोमो॑ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान्परि॑ पातु मृ॒त्योः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/01_apa_nyadhuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑ ।  
-सोमो॒ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान् परि॑ पातु मृ॒त्योः ॥१॥  
+अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑।  
+सोमो॑ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान्परि॑ पातु मृ॒त्योः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/01_apa_nyadhuH.md">
@@ -80,7 +82,7 @@ May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrity
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। न्यधुः। पौरुषेयम्। वधम्। यम्। इन्द्राग्नी इति। धाता। सविता। बृहस्पतिः। सोमः। राजा। वरुणः। अश्विना। यमः। पूषा। अस्मान्। परि। पातु। मृत्योः। २०.१।
+अप॑। न्यधुः॑। पौरु॑षेयम्। व॒धम्। यम्। इ॒न्द्रा॒ग्नी इति॑। धा॒ता। स॒वि॒ता। बृह॒स्पतिः॑। सोमः॑। राजा॑। वरु॑णः। अ॒श्विना॑। य॒मः। पू॒षा। अ॒स्मान्। परि॑। पा॒तु॒। मृ॒त्योः। २०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -111,15 +113,17 @@ May Soma, Varuna the King, both Asvins, Yama and Pushan guard us well from Mrity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/02_yAni_chakAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या॑नि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑ ।  
-प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥२॥  
+यानि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑।  
+प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/02_yAni_chakAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या॑नि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑ ।  
-प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥२॥  
+यानि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑।  
+प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/02_yAni_chakAra.md">
@@ -147,7 +151,7 @@ All that the World's Lord made, all that for creatures Prajapati and Matarisvan 
 </details>
 <details><summary>पदपाठः</summary>
 
-यानि। चकार। भुवनस्य। यः। पतिः। प्रजाऽपतिः। मातरिश्वा। प्रऽजाभ्यः। प्रऽदिशः। यानि। वसते। दिशः। च  तानि। मे। वर्माणि। बहुलानि। सन्तु। २०.२।
+यानि॑। च॒कार॑। भुव॑नस्य। यः। पतिः॑। प्र॒जाऽप॑तिः। मा॒त॒रिश्वा॑। प्र॒ऽजाभ्यः॑। प्र॒ऽदिशः॑। यानि॑। व॒स॒ते। दिशः॑। च॒ तानि॑। मे॒। वर्मा॑णि। ब॒हु॒लानि॑। स॒न्तु॒। २०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,23 +178,25 @@ All that the World's Lord made, all that for creatures Prajapati and Matarisvan 
 </details>
 </details>
 </div>
-## ०३ यत् ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/03_yat_te.md">
+## ०३ यत्ते तनूष्वनह्यन्त
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/03_yatte_tanUShvanahyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑ ।  
-इन्द्रो॒ यच्चक्रे वर्म॒ तद॒स्मान् पा॑तु वि॒श्वतः॑ ॥३॥  
+यत्ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑।  
+इन्द्रो॒ यच्च॒क्रे वर्म॒ तद॒स्मान्पा॑तु वि॒श्वतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/03_yat_te.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/03_yatte_tanUShvanahyanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत् ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑ ।  
-इन्द्रो॒ यच्चक्रे वर्म॒ तद॒स्मान् पा॑तु वि॒श्वतः॑ ॥३॥  
+यत्ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑।  
+इन्द्रो॒ यच्च॒क्रे वर्म॒ तद॒स्मान्पा॑तु वि॒श्वतः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/03_yat_te.md">
-<details open><summary><h3>०३ यत् ते ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/03_yatte_tanUShvanahyanta.md">
+<details open><summary><h3>०३ यत्ते तनूष्वनह्यन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -224,7 +230,7 @@ That which the Gods bound on them when they battled for their royal sway. What I
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ते। तनूषु। अनह्यन्त। देवाः। द्युऽराजयः। देहिनः। इन्द्रः। यत्। चक्रे। वर्म। तत्। अस्मान्। पातु। विश्वतः। २०.३।
+यत्। ते। त॒नूषु॑। अन॑ह्यन्त। दे॒वाः। द्युऽरा॑जयः। दे॒हिनः॑। इन्द्रः॑। यत्। च॒क्रे। वर्म॑। तत्। अ॒स्मान्। पा॒तु॒। वि॒श्वतः॑। २०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -255,15 +261,17 @@ That which the Gods bound on them when they battled for their royal sway. What I
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/020_suraxA/04_varma_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑ ।  
-वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न् मा मा प्राप॑त् प्रतीचि॒का॥४॥
+वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑।  
+वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न्मा मा॒ प्राप॑त्प्रतीचि॒का ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/020_suraxA/04_varma_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑ ।  
-वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न् मा मा प्राप॑त् प्रतीचि॒का॥४॥
+वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑।  
+वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न्मा मा॒ प्राप॑त्प्रतीचि॒का ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/020_suraxA/04_varma_me.md">
@@ -299,7 +307,7 @@ My shield is Heaven and Earth, my shield is the bright Day, my shield the Sun. T
 </details>
 <details><summary>पदपाठः</summary>
 
-वर्म। मे। द्यावापृथिवी इति। वर्म। अहः। वर्म। सूर्यः। वर्म। मे। विश्वे। देवाः। क्रन्। मा। मा। प्र। आपत्। प्रतीचिका। २०.४।
+वर्म॑। मे॒। द्यावा॑पृथि॒वी इति॑। वर्म॑। अहः॑। वर्म॑। सूर्यः॑। वर्म॑। मे॒। विश्वे॑। दे॒वाः। क्र॒न्। मा। मा॒। प्र। आ॒प॒त्। प्र॒ती॒चि॒का। २०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

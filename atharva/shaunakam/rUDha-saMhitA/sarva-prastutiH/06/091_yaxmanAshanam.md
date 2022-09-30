@@ -32,14 +32,17 @@ Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः ।  
-तेना॑ ते त॒न्वो॒३रपो॑ ऽपा॒चीन॒मप॑ व्यये ॥१॥  
+इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः।  
+तेना॑ ते त॒न्वो॒३॒॑ रपो॑ऽपा॒चीन॒मप॑ व्यये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः। तेना॑ ते त॒न्वो॒३॒॑ रपो॑ऽपा॒चीन॒मप॑ व्यये ॥
+इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः।  
+तेना॑ ते त॒न्वो॒३॒॑ रपो॑ऽपा॒चीन॒मप॑ व्यये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
@@ -60,7 +63,7 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। यवम्। अष्टाऽयोगैः। षट्ऽयोगेभिः। अचर्कृषुः। तेन। ते। तन्वः᳡। रपः। अपाचीनम्। अप। व्यये। ९१.१।
+इ॒मम्। यव॑म्। अ॒ष्टा॒ऽयो॒गैः। ष॒ट्ऽयो॒गेभिः॑। अ॒च॒र्कृ॒षुः॒। तेन॑। ते॒। त॒न्वः᳡। रपः॑। अ॒पा॒चीन॑म्। अप॑। व्य॒ये॒। ९१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -87,22 +90,25 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 </details>
 </details>
 </div>
-## ०२ न्यग्वातो वाति
+## ०२ न्यग्वातो वाति
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न्य॑१ग्वातो॑ वाति॒ न्यऽक् तपति॑ सूर्यः॑ ।  
-नी॒चीन॑म॒घ्न्या दु॑हे॒ न्यऽग् भवतु ते॒ रपः॑ ॥२॥  
+न्य१॒॑ग्वातो॑ वाति॒ न्य᳡क्तपति॒ सूर्यः॑।  
+नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य᳡ग्भवतु ते॒ रपः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न्यग्वातो॑ वाति॒ न्य᳡क्तपति॒ सूर्यः॑। नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य᳡ग्भवतु ते॒ रपः॑ ॥
+न्य१॒॑ग्वातो॑ वाति॒ न्य᳡क्तपति॒ सूर्यः॑।  
+नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य᳡ग्भवतु ते॒ रपः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
-<details open><summary><h3>०२ न्यग्वातो वाति ...{Loading}...</h3></summary>
+<details open><summary><h3>०२ न्यग्वातो वाति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -121,7 +127,7 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 </details>
 <details><summary>पदपाठः</summary>
 
-न्य᳡क्। वातः। वाति। न्य᳡क्। तपति। सूर्यः। नीचीनम्। अघ्न्या। दुहे। न्य᳡क्। भवतु। ते। रपः। ९१.२।
+न्य᳡क्। वातः॑। वा॒ति॒। न्य᳡क्। त॒प॒ति॒। सूर्यः॑। नी॒चीन॑म्। अ॒घ्न्या। दु॒हे॒। न्य᳡क्। भ॒व॒तु॒। ते॒। रपः॑। ९१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आप॒ इद् वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः ।  
-आपो॑ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम्॥३॥
+आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
+आपो॒ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः। आपो॒ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
+आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
+आपो॒ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/03_Apa_idvA.md">
@@ -182,7 +191,7 @@ The Waters verily bring health, the Waters drive disease away. The Waters cure a
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। इत्। वै। ऊं इति। भेषजीः। आपः। अमीवऽचातनीः। आपः। विश्वस्य। भेषजीः। ताः। ते। कृण्वन्तु। भेषजम्। ९१.३।
+आपः॑। इत्। वै। ऊं॒ इति॑। भे॒ष॒जीः। आपः॑। अ॒मी॒व॒ऽचात॑नीः। आपः॑। विश्व॑स्य। भे॒ष॒जीः। ताः। ते॒। कृ॒ण्व॒न्तु॒। भे॒ष॒जम्। ९१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -35,14 +35,17 @@ Cosmogonical and mystico-theological doctrine
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द् वि सी॑म॒तः सु॒रुचो॑ वे॒न आवः ।  
-स बु॒ध्न्याऽउप॒माअ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि व॑ ॥१॥  
+ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः।  
+स बु॒ध्न्या॑ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः। स बु॒ध्न्या॑ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥
+ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः।  
+स बु॒ध्न्या॑ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
@@ -82,7 +85,7 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 </details>
 <details><summary>पदपाठः</summary>
 
-बह्म। जज्ञानम्। प्रथमम्। पुरस्तात्। वि। सीमतः। सुऽरुचः। वेनः। आवः। सः। बुध्न्याः᳡। उपऽमाः। अस्य। विऽस्थाः। सतः। च। योनिम्। असतः। च। वि। वः। १.१।
+बह्म॑। ज॒ज्ञा॒नम्। प्र॒थ॒मम्। पु॒रस्ता॑त्। वि। सी॒म॒तः। सु॒ऽरुचः॑। वे॒नः। आ॒वः॒। सः। बु॒ध्न्याः᳡। उ॒प॒ऽमाः। अ॒स्य॒। वि॒ऽस्थाः। स॒तः। च॒। योनि॑म्। अस॑तः। च॒। वि। वः॒। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -113,14 +116,17 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः ।  
-तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥२॥  
+इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः।  
+तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः। तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥
+इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः।  
+तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/02_iyaM_pitryA.md">
@@ -157,7 +163,7 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 </details>
 <details><summary>पदपाठः</summary>
 
-इयम्। पित्र्या। राष्ट्री। एतु। अग्रे। प्रथमाय। जनुषे। भुवनेऽस्थाः। तस्मै। एतम्। सुऽरुचम्। ह्वारम्। अह्यम्। घर्मम्। श्रीणन्तु। प्रथमाय। धास्यवे। १.२।
+इ॒यम्। पित्र्या॑। राष्ट्री॑। ए॒तु॒। अग्रे॑। प्र॒थ॒माय॑। ज॒नुषे॑। भु॒व॒ने॒ऽस्थाः। तस्मै॑। ए॒तम्। सु॒ऽरुच॑म्। ह्वा॒रम्। अ॒ह्य॒म्। घ॒र्मम्। श्री॒ण॒न्तु॒। प्र॒थ॒माय॑। धा॒स्यवे॑। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -188,14 +194,17 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/03_pra_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ।  
-ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चै स्व॒धा अ॒भि प्र त॑स्थौ ॥३॥  
+प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति।  
+ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चैः स्व॒धा अ॒भि प्र त॑स्थौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/03_pra_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति। ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चैः स्व॒धा अ॒भि प्र त॑स्थौ ॥
+प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति।  
+ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चैः स्व॒धा अ॒भि प्र त॑स्थौ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/03_pra_yo.md">
@@ -228,7 +237,7 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। यः। जज्ञे। विद्वान्। अस्य। बन्धुः। विश्वा। देवानाम्। जनिम। विवक्ति। ब्रह्म। ब्रह्मणः। उत्। जभार। मध्यात्। नीचैः। उच्चैः। स्वधा। अभि। प्र। तस्थौ। १.३।
+प्र। यः। ज॒ज्ञे। वि॒द्वान्। अ॒स्य॒। बन्धुः॑। विश्वा॑। दे॒वाना॑म्। जनि॑म। वि॒व॒क्ति॒। ब्रह्म॑। ब्रह्म॑णः। उत्। ज॒भा॒र॒। मध्या॑त्। नी॒चैः। उ॒च्चैः। स्व॒धा। अ॒भि। प्र। त॒स्थौ॒। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -260,13 +269,16 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स हि दि॒वः स पृ॑थि॒व्या ऋ॑त॒स्था म॒ही क्षेमं॒ रोद॑सी अस्कभायत्।  
-म॒हान् म॒ही अस्क॑भाय॒द् वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रज॑ ॥४॥  
+म॒हान्म॒ही अस्क॑भाय॒द्वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रजः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/04_sa_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स हि दि॒वः स पृ॑थि॒व्या ऋ॑त॒स्था म॒ही क्षेमं॒ रोद॑सी अस्कभायत्। म॒हान्म॒ही अस्क॑भाय॒द्वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रजः॑ ॥
+स हि दि॒वः स पृ॑थि॒व्या ऋ॑त॒स्था म॒ही क्षेमं॒ रोद॑सी अस्कभायत्।  
+म॒हान्म॒ही अस्क॑भाय॒द्वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रजः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/04_sa_hi.md">
@@ -302,7 +314,7 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। हि। दिवः। सः। पृथिव्याः। ऋतऽस्थाः। मही इति। क्षेमम्। रोदसी  इति। अस्कभायत्। महान्। मही इति। अस्कभायत्। वि। जातः। द्याम्। सद्म। पार्थिवम्। च। रजः। १.४।
+सः। हि। दि॒वः। सः। पृ॒थि॒व्याः। ऋ॒त॒ऽस्थाः। म॒ही इति॑। क्षेम॑म्। रोद॑सी॒ इति॑। अ॒स्क॒भा॒य॒त्। म॒हान्। म॒ही इति॑। अस्क॑भायत्। वि। जा॒तः। द्याम्। सद्म॑। पार्थि॑वम्। च॒। रजः॑। १.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -333,14 +345,17 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्।  
-अह॒र्यच्छुक्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्रा॑ ॥५॥  
+स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं॒ बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्।  
+अह॒र्यच्छु॒क्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्राः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं॒ बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्। अह॒र्यच्छु॒क्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्राः॑ ॥
+स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं॒ बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्।  
+अह॒र्यच्छु॒क्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्राः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
@@ -377,7 +392,7 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। बुध्न्यात्। आष्ट्र। जनुषः। अभि। अग्रम्। बृहस्पतिः। देवता। तस्य। सम्ऽराट्। अहः। यत्। शुक्रम्। ज्योतिषः। जनिष्ट। अथ। द्युऽमन्तः। वि। वसन्तु। विप्राः। १.५।
+सः। बु॒ध्न्यात्। आ॒ष्ट्र॒। ज॒नुषः॑। अ॒भि। अग्र॑म्। बृह॒स्पतिः॑। दे॒वता॑। तस्य॑। स॒म्ऽराट्। अहः॑। यत्। शु॒क्रम्। ज्योति॑षः। जनि॑ष्ट। अथ॑। द्यु॒ऽमन्तः॑। वि। व॒स॒न्तु॒। विप्राः॑। १.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -408,14 +423,17 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नू॒नं तद॑स्य का॒व्यो॑ हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑ ।  
-ए॒ष ज॑ज्ञे ब॒हुभि॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु॥६॥  
+नू॒नं तद॑स्य का॒व्यो हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑।  
+ए॒ष ज॑ज्ञे ब॒हुभिः॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नू॒नं तद॑स्य का॒व्यो हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑। ए॒ष ज॑ज्ञे ब॒हुभिः॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु ॥
+नू॒नं तद॑स्य का॒व्यो हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑।  
+ए॒ष ज॑ज्ञे ब॒हुभिः॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
@@ -445,7 +463,7 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 </details>
 <details><summary>पदपाठः</summary>
 
-नूनम्। तत्। अस्य। काव्यः। हिनोति। महः। देवस्य। पूर्व्यस्य। धाम। एषः। जज्ञे। बहुऽभिः। साकम्। इत्था। पूर्वे। अर्धे। विऽसिते ससन्। नु। १.६।
+नू॒नम्। तत्। अ॒स्य॒। का॒व्यः। हि॒नो॒ति॒। म॒हः। दे॒वस्य॑। पू॒र्व्यस्य॑। धाम॑। ए॒षः। ज॒ज्ञे॒। ब॒हुऽभिः॑। सा॒कम्। इ॒त्था। पूर्वे॑। अर्धे॑। विऽसि॑ते स॒सन्। नु। १.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -476,14 +494,17 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गछा॑त्।  
-त्वं विश्वे॑षां जनि॒ता यथास॑ क॒विर्दे॒वो न दभा॑यत् स्व॒धावा॑न्॥७॥
+योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गच्छा॑त्।  
+त्वं विश्वे॑षां जनि॒ता यथासः॑ क॒विर्दे॒वो न दभा॑यत्स्व॒धावा॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गच्छा॑त्। त्वं विश्वे॑षां जनि॒ता यथासः॑ क॒विर्दे॒वो न दभा॑यत्स्व॒धावा॑न् ॥
+योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गच्छा॑त्।  
+त्वं विश्वे॑षां जनि॒ता यथासः॑ क॒विर्दे॒वो न दभा॑यत्स्व॒धावा॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
@@ -510,7 +531,7 @@ The man who seeks the friend of Gods, Atharvan the father, and Brihaspati, with 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अथर्वाणम्। पितरम्। देवऽबन्धुम्। बृहस्पतिम्। नमसा। अव। च। गच्छात्। त्वम्। विश्वेषाम्। जनिता। यथा। असः। कविः। देवः। न। दभायत्। स्वधाऽवान्। १.७।
+यः। अथ॑र्वाणम्। पि॒तर॑म्। दे॒वऽब॑न्धुम्। बृह॒स्पति॑म्। नम॑सा। अव॑। च॒। गच्छा॑त्। त्वम्। विश्वे॑षाम्। ज॒नि॒ता। यथा॑। असः॑। क॒विः। दे॒वः। न। दभा॑यत्। स्व॒धाऽवा॑न्। १.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

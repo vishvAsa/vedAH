@@ -24,10 +24,7 @@ This verse is, without variation, RV. i. 89. 10 (also VS. xxv. 23; TA. i. 13. 2;
 </details>
 <details><summary>Griffith</summary>
 
-id
-7.6    A prayer to Aditi for help and protection
-7.6    A prayer to Aditi for help and protection
-Name: Comment, dtype: object
+A prayer to Aditi for help and protection
 </details>
 </details>
 </div>
@@ -35,14 +32,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः ।  
-विश्वे॑ दे॒वा अदि॑तिः॒ पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम्॥१॥  
+अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः।  
+विश्वे॑ दे॒वा अदि॑ति॒र्पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः। विश्वे॑ दे॒वा अदि॑ति॒र्पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥
+अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः।  
+विश्वे॑ दे॒वा अदि॑ति॒र्पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/01_aditirdyauraditirantarixamaditirmAtA_sa.md">
@@ -62,14 +62,14 @@ probably by an error) divides the last word *jáni-tvam* in the
 </details>
 <details><summary>Griffith</summary>
 
-id
-7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
-7.6.1    Aditi is sky, and air's mid-region, Aditi is t...
-Name: Comment, dtype: object
+Aditi is sky, and air's mid-region, Aditi is the father, son, and
+mother,
+Aditi all the Gods and the Five Nations, Aditi what is now and
+what is future.
 </details>
 <details><summary>पदपाठः</summary>
 
-अदितिः। द्यौः। अदितिः। अन्तरिक्षम्। अदितिः। माता। सः। पिता। स। पुत्रः। विश्वे। देवाः। अदितिः। पञ्च। जनाः। अदितिः। जातम्। अदितिः। जनित्वम्। ६.१।
+अदि॑तिः। द्यौः। अदि॑तिः। अ॒न्तरि॑क्षम्। अदि॑तिः। मा॒ता। सः। पि॒ता। स। पु॒त्रः। विश्वे॑। दे॒वाः। अदि॑तिः। पञ्च॑। जनाः॑। अदि॑तिः। जा॒तम्। अदि॑तिः। जनि॑त्वम्। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,29 +101,32 @@ Name: Comment, dtype: object
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
-ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
+ऋ॒तस्य॒ पत्नी॒म् अव॑से **हवामहे** ।  
 तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीꣳ+++(=उरुगमनां)+++  
 सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥
 
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md">
+<details open><summary><h5>महीम् ऊ षु ...{Loading}...</h5></summary>
+
+म॒हीम् ऊ॒ षु मा॒तरꣳ॑ सुव्र॒ताना॑म्  
+ऋ॒तस्य॒ पत्नी॒म् अव॑से **हुवेम** ।  
+तु॒वि॒+++(=प्रवृद्ध)+++-क्ष॒त्त्राम् अ॒जर॑न्तीम् उरू॒चीꣳ+++(=उरुगमनां)+++ 
+सु॒शर्मा॑ण॒म् अदि॑तिꣳ+++(=अखण्डनीयां)+++ सु॒प्रणी॑तिम् ॥ 
+</details>
+</div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/006_aditiH/02_mahImU_Shu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे। तु॑विक्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम् ॥
+म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे।  
+तु॑विक्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/02_mahImU_Shu.md">
 <details open><summary><h3>०२ महीमू षु ...{Loading}...</h3></summary>
-<details><summary>भट्टभास्करटीका</summary>
-
-महीं महतीं महनीयां वा मातरं मातृस्थानीयां वा सुव्रतानां शोभनकर्मणां पुरुषाणाम् । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । ऋतस्य सत्यस्य यज्ञस्य वा पत्नीं पालयित्रीं तुविक्षत्रां बहुलां बहुधनां वा । त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । अजरन्तीमविनाशां उरूचीमुरु महतोञ्चतीं बहुप्रकारगातिं वा । 'चौ' इति पूर्वपदस्य दीर्घत्वं उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वम् ।
-
-**सुशर्माणं** सुसुखाम् । 'सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम् ।  
-**अदितिम्** अखण्डनीयां **सुप्रणीतिं** सुखेन शर्मणां प्रणेत्रीम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । तत्र च 'तादौ च' इति गतेः प्रकृतिस्वरत्वम् ।
-
-ईदृशीं महीं देवीमवसे रक्षणाय तस्यास्तर्पणाय वा हुवेम सुष्ठु आह्वयामः । व्यत्ययेन शः । पूर्ववत्सम्प्रसारणम्, 'सुञः' इति सोस्संहितायां षत्वम् । उ इति पादपूरणे । 'अन्येषामपि दृश्यते' इति तस्य संहितायां दीर्घत्वम् ॥
-</details>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -138,23 +141,16 @@ MS. (iv. 10. 1), K. (xxx. 4, 5), (śśS. (ii. 2. 14), their only variant
 being (in all) *huvema* for *havāmahe* at end of **b**; and Ppp. has the  
 same.  
 </details>
-<details><summary>Keith</summary>
-
-The mighty mother of the righteous,  
-The spouse of holy order, let us invoke to aid us,  
-The powerful, the unageing, the wide  
-Aditi, who giveth good protection and good guidance.
-</details>
 <details><summary>Griffith</summary>
 
-id
-7.6.2    We call for help the Queen of Law and Order, g...
-7.6.2    We call for help the Queen of Law and Order, g...
-Name: Comment, dtype: object
+We call for help the Queen of Law and Order, great mother of
+all those whose ways are righteous,
+Far-spread, unwasting strong in her dominion, Aditi wisely lead-
+ing, well protecting.
 </details>
 <details><summary>पदपाठः</summary>
 
-महीम्। ऊं इति। सु। मातरम्। सुऽव्रतानाम्। ऋतस्य। पत्नीम्। अवसे। हवामहे। तुविऽक्षत्राम्। अजरन्तीम्। ऊरूचीम्। सुऽशर्माणम्। अदितिम्। सुऽप्रनीतिम्। ६.२।
+म॒हीम्। ऊं॒ इति॑। सु। मा॒तर॑म्। सु॒ऽव्र॒ताना॑म्। ऋ॒तस्य॑। पत्नी॑म्। अव॑से। ह॒वा॒म॒हे॒। तु॒वि॒ऽक्ष॒त्राम्। अ॒जर॑न्तीम्। ऊ॒रू॒चीम्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रनी॑तिम्। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,6 +175,7 @@ Name: Comment, dtype: object
 
 टिप्पणी:   २−(महीम्) महतीम् (उ) अवधारणे (सु) सुष्ठु। सत्कारेण (मातरम्) मातृसमानहिताम् (सुव्रतानाम्) शोभनकर्मवताम् (ऋतस्य) सत्यधर्मस्य (पत्नीम्) पालयित्रीम् (अवसे) रक्षणाय (हवामहे) आह्वयामः (तुविक्षत्राम्) बहुबलां बहुधनाम् (अजरन्तीम्) अजराम् (उरूचीम्) अ० ३।३।१। बहुविस्तारगताम् (सुशर्म्माणम्) उत्तमगृहयुक्ताम्। बहुसुखवतीम् (अदितिम्) अ० २।२८।४। अदीनां पृथिवीम्-निघ० १।१। (सुप्रणीतिम्) सुष्ठु प्रकृष्टनीतियुक्ताम् ॥
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"></div>
 </details>
 </div>
 ## ०३ सुत्रामाणं पृथिवीम्
@@ -195,8 +192,11 @@ Name: Comment, dtype: object
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्। दैवीं॒ नावं॑ स्वरि॒त्रामना॑गसो॒ अस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥
+सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्।  
+दैवीं॒ नावं॑ स्वरि॒त्रामना॑गसो॒ अस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/03_sutrAmANaM_pRthivIm.md">
@@ -239,13 +239,13 @@ Which leaketh not, let us mount for prosperity.
 </details>
 <details><summary>Griffith</summary>
 
-7.6.3    Sinless may we ascend, for weal, the vessel, r...
-7.6.3    Sinless may we ascend, for weal, the vessel, r...
-Name: Comment, dtype: object
+Sinless may we ascend, for weal, the vessel, rowed with good
+oars, divine, that never leaketh,
+Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protecting.
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽत्रामाणम्। पृथिवीम्। द्याम्। अनेहसम्। सुऽशर्माणम्। अदितिम्। सुऽप्रणीतिम्। दैवीम्। नावम्। सुऽअरित्राम्। अनागसः। अस्रवन्तीम्। आ। रुहेम। स्वस्तये। ७.१।
+सु॒ऽत्रामा॑णम्। पृ॒थि॒वीम्। द्याम्। अ॒ने॒हस॑म्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रणी॑तिम्। दैवी॑म्। नाव॑म्। सु॒ऽअ॒रि॒त्राम्। अना॑गसः। अस्र॑वन्तीम्। आ। रु॒हे॒म॒। स्व॒स्तये॑। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -276,14 +276,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/006_aditiH/04_vAjasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे ।  
-यस्या॑ उ॒पस्थ॑ उ॒र्व॑१न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात्॥४॥
+वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे।  
+यस्या॑ उ॒पस्थ॑ उ॒र्व१॒॑न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/006_aditiH/04_vAjasya_nu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे। यस्या॑ उ॒पस्थ॑ उ॒र्वन्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात् ॥
+वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे।  
+यस्या॑ उ॒पस्थ॑ उ॒र्व१॒॑न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/006_aditiH/04_vAjasya_nu.md">
@@ -315,14 +318,14 @@ has for **c** the **c** of VS. etc., and for **d** *sā no devī suhavā
 </details>
 <details><summary>Griffith</summary>
 
-id
-7.6.4    Let us bring hither, in pursuit of riches, Adi...
-7.6.4    Let us bring hither, in pursuit of riches, Adi...
-Name: Comment, dtype: object
+Let us bring hither, in pursuit of riches, Aditi with our word,
+the mighty mother,
+Her in whose lap the spacious air is lying: may she afford us
+triply-guarding shelter!
 </details>
 <details><summary>पदपाठः</summary>
 
-वाजस्य। नु। प्रऽसवे। मातरम्। महीम्। अदितिम्। नाम। वचसा। करामहे। यस्याः। उपऽस्थे। उरु। अन्तरिक्षम्। सा। नः। शर्म। त्रिऽवरूथम्। नि। यच्छात्। ७.२।
+वाज॑स्य। नु। प्र॒ऽस॒वे। मा॒तर॑म्। म॒हीम्। अदि॑तिम्। नाम॑। वच॑सा। क॒रा॒म॒हे॒। यस्याः॑। उ॒पऽस्थे॑। उ॒रु। अ॒न्तरि॑क्षम्। सा। नः॒। शर्म॑। त्रि॒ऽवरू॑थम्। नि। य॒च्छा॒त्। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

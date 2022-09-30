@@ -36,14 +36,17 @@ To Agni and Vishnu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ना॑विष्णू॒ महि॒ तद् वां॑ महि॒त्व पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑ ।  
-दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात्॥१॥  
+अग्ना॑विष्णू॒ महि॒ तद्वां॑ महि॒त्वं पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑।  
+दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्ना॑विष्णू॒ महि॒ तद्वां॑ महि॒त्वं पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑। दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात् ॥
+अग्ना॑विष्णू॒ महि॒ तद्वां॑ महि॒त्वं पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑।  
+दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/01_agnAviShNU_mahi.md">
@@ -78,7 +81,7 @@ This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नाविष्णू इति। महि। तत्। वाम्। महिऽत्वम्। पाथः। घृतस्य। गुह्यस्य। नाम। दमेऽदमे। सप्त। रत्ना। दधानौ। प्रति। वाम्। जिह्वा। घृतम्। आ। चरण्यात्। ३०.१।
+अग्ना॑विष्णू॒ इति॑। महि॑। तत्। वा॒म्। म॒हि॒ऽत्वम्। पा॒थः। घृ॒तस्य॑। गुह्य॑स्य। नाम॑। दमे॑ऽदमे। स॒प्त। रत्ना॑। दधा॑नौ। प्रति॑। वा॒म्। जि॒ह्वा। घृ॒तम्। आ। च॒र॒ण्या॒त्। ३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,14 +112,17 @@ This is your glorious might, Agni and Vishnu! Ye drink the essence of the mystic
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं॑ वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ।  
-दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात्॥२॥
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ।  
+दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ। दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात् ॥
+अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ।  
+दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/029_agnAviShNU/02_agnAviShNU_mahi.md">
@@ -152,7 +158,7 @@ Ye love the great law, Agni Vishnu! joying, ye feast on mystic essences of butte
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नाविष्णू इति। महि। धाम। प्रियम्। वाम्। वीथः। घृतस्य। गुह्या। जुषाणौ। दमेऽदमे। सुऽस्तुत्या। ववृधानौ। प्रति। वाम्। जिह्वा। घृतम्। उत्। चरण्यात्। ३०.२।
+अग्ना॑विष्णू॒ इति॑। महि॑। धाम॑। प्रि॒यम्। वा॒म्। वी॒थः। घृ॒तस्य॑। गुह्या॑। जु॒षा॒णौ। दमे॑ऽदमे। सु॒ऽस्तु॒त्या। व॒वृ॒धा॒नौ। प्रति॑। वा॒म्। जि॒ह्वा। घृ॒तम्। उत्। च॒र॒ण्या॒त्। ३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

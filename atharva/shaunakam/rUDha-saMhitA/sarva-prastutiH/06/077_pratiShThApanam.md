@@ -36,14 +36,17 @@ A charm to bring the cattle home
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्था॒द् द्यौरस्था॑त् पृथि॒व्यस्था॒द् विश्व॑मि॒दं जग॑त्।  
-आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वां॑ अतिष्ठिपम्॥१॥  
+अस्था॒द् द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
+आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वाँ॑ अतिष्ठिपम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अस्था॒द् द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्। आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वाँ॑ अतिष्ठिपम् ॥
+अस्था॒द् द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
+आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वाँ॑ अतिष्ठिपम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
@@ -70,7 +73,7 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्थात्। द्यौः। अस्थात्। पृथिवी। अस्थात्। विश्वम्। इदम्। जगत्। आऽस्थाने। पर्वताः। अस्थुः। स्थाम्नि। अश्वान्। अतिष्ठिपम्। ७७.१।
+अस्था॑त्। द्यौः। अस्था॑त्। पृ॒थि॒वी। अस्था॑त्। विश्व॑म्। इ॒दम्। जग॑त्। आ॒ऽस्थाने॑। पर्व॑ताः। अ॒स्थुः॒। स्थाम्नि॑। अश्वा॑न्। अ॒ति॒ष्ठि॒प॒म्। ७७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण् न्याय॑नम्।  
-आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥२॥  
+य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण्न्याय॑नम्।  
+आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण्न्याय॑नम्। आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥
+य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण्न्याय॑नम्।  
+आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/02_ya_udAnaT.md">
@@ -132,7 +138,7 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। उत्ऽआनट्। पराऽअयनम्। यः। उत्ऽआनट्। निऽअयनम्। आऽवर्तनम्। निऽवर्तनम्। यः। गोपाः। अपि। तम्। हुवे। ७७.२।
+यः। उ॒त्ऽआन॑ट्। प॒रा॒ऽअय॑नम्। यः। उ॒त्ऽआन॑ट्। नि॒ऽअय॑नम्। आ॒ऽवर्त॑नम्। नि॒ऽवर्त॑नम्। यः। गो॒पाः। अपि॑। तम्। हु॒वे॒। ७७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वतः॑ ।  
-स॒हस्रं॑ त उपा॒वृत॒स्तभि॑र्नः॒ पुन॒रा कृ॑धि ॥३॥
+जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वृतः॑।  
+स॒हस्रं॑ त उपा॒वृत॒स्ताभि॑र्नः॒ पुन॒रा कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वृतः॑। स॒हस्रं॑ त उपा॒वृत॒स्ताभि॑र्नः॒ पुन॒रा कृ॑धि ॥
+जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वृतः॑।  
+स॒हस्रं॑ त उपा॒वृत॒स्ताभि॑र्नः॒ पुन॒रा कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
@@ -195,7 +204,7 @@ O Jatavedas turn them back: a hundred homeward ways be thine! Thou hast a thousa
 </details>
 <details><summary>पदपाठः</summary>
 
-जातऽवेदः। नि। वर्तय। शतम्। ते। सन्तु। आऽवृतः। सहस्रम्। ते। उपऽआवृतः। ताभिः। नः। पुनः। आ। कृधि। ७७.३।
+जात॑ऽवेदः। नि। व॒र्त॒य॒। श॒तम्। ते॒। स॒न्तु॒। आ॒ऽवृतः॑। स॒हस्र॑म्। ते॒। उ॒प॒ऽआ॒वृतः॑। ताभिः॑। नः॒। पुनः॑। आ। कृ॒धि॒। ७७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

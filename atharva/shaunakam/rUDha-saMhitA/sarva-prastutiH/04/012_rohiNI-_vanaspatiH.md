@@ -36,14 +36,17 @@ A charm to mend a broken bone
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रोह॑ण्यसि॒ रोह॑ण्य॒स्थ्नश्छि॒न्नस्य॒ रोह॑णी ।  
-रो॒हये॒दम॑रुन्धति ॥१॥  
+रोह॑ण्यसि॒ रोह॑ण्य॒स्थ्नश्छि॒न्नस्य॒ रोह॑णी।  
+रो॒हये॒दम॑रुन्धति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रोह॑ण्यसि॒ रोह॑ण्य॒स्थ्नश्छि॒न्नस्य॒ रोह॑णी। रो॒हये॒दम॑रुन्धति ॥
+रोह॑ण्यसि॒ रोह॑ण्य॒स्थ्नश्छि॒न्नस्य॒ रोह॑णी।  
+रो॒हये॒दम॑रुन्धति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
@@ -77,7 +80,7 @@ Thou art the healer, making whole, the healer of the broken bone: Make thou this
 </details>
 <details><summary>पदपाठः</summary>
 
-रोहणी। असि। रोहणी। अस्थ्नः। छिन्नस्य। रोहणी। रोहय। इदम्। अरुन्धती। १२.१।
+रोह॑णी। अ॒सि॒। रोह॑णी। अ॒स्थ्नः। छि॒न्नस्य॑। रोह॑णी। रो॒हय॑। इ॒दम्। अ॒रु॒न्ध॒ती॒। १२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +111,17 @@ Thou art the healer, making whole, the healer of the broken bone: Make thou this
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् ते॑ रि॒ष्टं य॑त् ते द्यु॒त्तमस्ति॒ पेष्ट्रं॑ त आ॒त्मनि ।  
-धा॒ता तद् भ॒द्रया॒ पुनः॒ सं द॑ध॒त् परु॑षा॒ परुः॑ ॥२॥  
+यत्ते॑ रि॒ष्टं यत्ते॑ द्यु॒त्तमस्ति॒ पेष्ट्रं॑ त आ॒त्मनि॑।  
+धा॒ता तद्भ॒द्रया॒ पुनः॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्ते॑ रि॒ष्टं यत्ते॑ द्यु॒त्तमस्ति॒ पेष्ट्रं॑ त आ॒त्मनि॑। धा॒ता तद्भ॒द्रया॒ पुनः॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
+यत्ते॑ रि॒ष्टं यत्ते॑ द्यु॒त्तमस्ति॒ पेष्ट्रं॑ त आ॒त्मनि॑।  
+धा॒ता तद्भ॒द्रया॒ पुनः॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
@@ -143,7 +149,7 @@ Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ते। रिष्टम्। यत्। ते। द्युत्तम्। अस्ति। पेष्ट्रम्। ते। आत्मनि। धाता। तत्। भद्रया। पुनः। सम्। दधत्। परुषा। परुः। १२.२।
+यत्। ते॒। रि॒ष्टम्। यत्। ते॒। द्यु॒त्तम्। अस्ति॑। पेष्ट्र॑म्। ते॒। आ॒त्मनि॑। धा॒ता। तत्। भ॒द्रया॑। पुनः॑। सम्। द॒ध॒त्। परु॑षा। परुः॑। १२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,14 +180,17 @@ Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं ते॑ म॒ज्जा म॒ज्ज्ञा भ॑वतु॒ समु॑ ते॒ परु॑षा॒ परुः॑ ।  
-सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥३॥  
+सं ते॑ म॒ज्जा म॒ज्ज्ञा भ॑वतु॒ समु॑ ते॒ परु॑षा॒ परुः॑।  
+सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं ते॑ म॒ज्जा म॒ज्ज्ञा भ॑वतु॒ समु॑ ते॒ परु॑षा॒ परुः॑। सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥
+सं ते॑ म॒ज्जा म॒ज्ज्ञा भ॑वतु॒ समु॑ ते॒ परु॑षा॒ परुः॑।  
+सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
@@ -207,7 +216,7 @@ With marrow be the marrow joined, thy limb united with the limb. Let what hath f
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। ते। मज्जा। मज्ज्ञा। भवतु। सम्। ऊं इति। ते। परुषा। परुः। सम्। ते। मांसस्य। विऽस्रस्तम्। सम्। अस्थि। अपि। रोहतु। १२.३।
+सम्। ते॒। म॒ज्जा। म॒ज्ज्ञा। भ॒व॒तु॒। सम्। ऊं॒ इति॑। ते॒। परु॑षा। परुः॑। सम्। ते॒। मां॒सस्य॑। विऽस्र॑स्तम्। सम्। अस्थि॑। अपि॑। रो॒ह॒तु॒। १२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -238,14 +247,17 @@ With marrow be the marrow joined, thy limb united with the limb. Let what hath f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒ज्जा म॒ज्ज्ञा सं धी॑यतां॒ चर्म॑णा॒ चर्म॑ रोहतु ।  
-असृ॑क् ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥४॥  
+म॒ज्जा म॒ज्ज्ञा सं धी॑यतां॒ चर्म॑णा॒ चर्म॑ रोहतु।  
+असृ॑क्ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒ज्जा म॒ज्ज्ञा सं धी॑यतां॒ चर्म॑णा॒ चर्म॑ रोहतु। असृ॑क्ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥
+म॒ज्जा म॒ज्ज्ञा सं धी॑यतां॒ चर्म॑णा॒ चर्म॑ रोहतु।  
+असृ॑क्ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
@@ -270,7 +282,7 @@ Let marrow close with marrow, let skin grow united with the skin. Let blood and 
 </details>
 <details><summary>पदपाठः</summary>
 
-मज्जा। मज्ज्ञा। सम्। धीयताम्। चर्मणा। चर्म। रोहतु। असृक्। ते। अस्थि। रोहतु। मांसम्। मांसेन। रोहतु। १२.४।
+म॒ज्जा। म॒ज्ज्ञा। सम्। धी॒य॒ता॒म्। चर्म॑णा। चर्म॑। रो॒ह॒तु॒। असृ॑क्। ते॒। अस्थि॑। रो॒ह॒तु॒। मां॒सम्। मां॒सेन॑। रो॒ह॒तु॒। १२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -302,13 +314,16 @@ Let marrow close with marrow, let skin grow united with the skin. Let blood and 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 लोम॒ लोम्ना॒ सं क॑ल्पया त्व॒चा सं क॑ल्पया॒ त्वच॑म्।  
-असृ॑क् ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥५॥  
+असृ॑क्ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-लोम॒ लोम्ना॒ सं क॑ल्पया त्व॒चा सं क॑ल्पया॒ त्वच॑म्। असृ॑क्ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥
+लोम॒ लोम्ना॒ सं क॑ल्पया त्व॒चा सं क॑ल्पया॒ त्वच॑म्।  
+असृ॑क्ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
@@ -332,7 +347,7 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 </details>
 <details><summary>पदपाठः</summary>
 
-लोम। लोम्ना। सम्। कल्पय। त्वचा। सम्। कल्पय। त्वचम्। असृक्। ते। अस्थि। रोहतु। छिन्नम्। सम्। धेहि। ओषधे। १२.५।
+लोम॑। लोम्ना॑। सम्। क॒ल्प॒य॒। त्व॒चा। सम्। क॒ल्प॒य॒। त्वच॑म्। असृ॑क्। ते॒। अस्थि॑। रो॒ह॒तु॒। छि॒न्नम्। सम्। धे॒हि॒। ओ॒ष॒धे॒। १२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -363,14 +378,17 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स उत् ति॑ष्ठ॒ प्रेहि॒ प्र द्र॑व॒ रथः॑ सुच॒क्रः सु॑प॒विः सु॒नाभिः॑।  
-प्रति॑ तिष्ठो॒र्ध्वः ॥६॥  
+स उत्ति॑ष्ठ॒ प्रेहि॒ प्र द्र॑व॒ रथः॑ सुच॒क्रः सु॑प॒विः सु॒नाभिः॒।  
+प्रति॑ तिष्ठो॒र्ध्वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स उत्ति॑ष्ठ॒ प्रेहि॒ प्र द्र॑व॒ रथः॑ सुच॒क्रः सु॑प॒विः सु॒नाभिः॒। प्रति॑ तिष्ठो॒र्ध्वः ॥
+स उत्ति॑ष्ठ॒ प्रेहि॒ प्र द्र॑व॒ रथः॑ सुच॒क्रः सु॑प॒विः सु॒नाभिः॒।  
+प्रति॑ तिष्ठो॒र्ध्वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
@@ -393,7 +411,7 @@ Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! St
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। उत्। तिष्ठ। प्र। इहि। प्र। द्रव। रथः। सुऽचक्रः। सुऽपविः। सुऽनाभिः। प्रति। तिष्ठ। ऊर्ध्वः। १२.६।
+सः। उत्। ति॒ष्ठ॒। प्र। इ॒हि॒। प्र। द्र॒व॒। रथः॑। सु॒ऽच॒क्रः। सु॒ऽप॒विः। सु॒ऽनाभिः॑। प्रति॑। ति॒ष्ठ॒। ऊ॒र्ध्वः। १२.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -424,14 +442,17 @@ Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! St
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ क॒र्तं प॑ति॒त्वा सं॑श॒श्रे यदि॒ वाश्मा॒ प्रहृ॑तो ज॒घान॑ ।  
-ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त् परु॑षा॒ परुः॑ ॥७॥
+यदि॑ क॒र्तं प॑ति॒त्वा सं॑श॒श्रे यदि॒ वाश्मा॒ प्रहृ॑तो ज॒घान॑।  
+ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॑ क॒र्तं प॑ति॒त्वा सं॑श॒श्रे यदि॒ वाश्मा॒ प्रहृ॑तो ज॒घान॑। ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
+यदि॑ क॒र्तं प॑ति॒त्वा सं॑श॒श्रे यदि॒ वाश्मा॒ प्रहृ॑तो ज॒घान॑।  
+ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
@@ -460,7 +481,7 @@ If he be torn and shattered, having fallen into a pit, or a cast stone have stru
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। कर्तम्। पतित्वा। सम्ऽशश्रे। यदि। वा। अश्मा। प्रऽहृतः। जघान। ऋभुः। रथस्यऽइव। अङ्गानि। सम्। दधत्। परुषा। परुः। १२.७।
+यदि॑। क॒र्तम्। प॒ति॒त्वा। स॒म्ऽश॒श्रे। यदि॑। वा॒। अश्मा॑। प्रऽहृ॑तः। ज॒घान॑। ऋ॒भुः। र॑थस्यऽइव। अङ्गा॑नि। सम्। द॒ध॒त्। परु॑षा। परुः॑। १२.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युरे॑नाः स॒माक॑र॒त् त्वष्टा॒ पोषा॑य ध्रियताम्।  
-इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद् रु॒द्रो भू॒म्ने चि॑कित्सतु ॥१॥  
+वा॒युरे॑नाः स॒माक॑र॒त्त्वष्टा॒ पोषा॑य ध्रियताम्।  
+इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद्रु॒द्रो भू॒म्ने चि॑कित्सतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वा॒युरे॑नाः स॒माक॑र॒त्त्वष्टा॒ पोषा॑य ध्रियताम्। इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद्रु॒द्रो भू॒म्ने चि॑कित्सतु ॥
+वा॒युरे॑नाः स॒माक॑र॒त्त्वष्टा॒ पोषा॑य ध्रियताम्।  
+इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद्रु॒द्रो भू॒म्ने चि॑कित्सतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
@@ -64,7 +67,7 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 </details>
 <details><summary>पदपाठः</summary>
 
-वायुः। एनाः। सम्ऽआकरत्। त्वष्टा। पोषाय। ध्रियताम्। इन्द्रः। आभ्यः। अधि। ब्रवत्। रुद्रः। भूम्ने। चिकित्सतु। १४१.१।
+वा॒युः। ए॒नाः॒। स॒म्ऽआक॑रत्। त्वष्टा॑। पोषा॑य। ध्रि॒य॒ता॒म्। इन्द्रः॑। आ॒भ्यः॒। अधि॑। ब्र॒व॒त्। रु॒द्रः। भू॒म्ने। चि॒कि॒त्स॒तु॒। १४१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि ।  
-अक॑र्ताम॒श्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु॥२॥  
+लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि।  
+अक॑र्तामश्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि। अक॑र्तामश्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु ॥
+लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि।  
+अक॑र्तामश्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
@@ -129,7 +135,7 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 </details>
 <details><summary>पदपाठः</summary>
 
-लोहितेन। स्वऽधितिना। मिथुनम्। कर्णयोः। कृधि। अकर्ताम्‌। अश्विना। लक्ष्म। तत्। अस्तु। प्रऽजया। बहु। १४१.२।
+लोहि॑तेन। स्वऽधि॑तिना। मि॒थु॒नम्। कर्ण॑योः। कृ॒धि॒। अक॑र्ताम्‌। अ॒श्विना॑। लक्ष्म॑। तत्। अ॒स्तु॒। प्र॒ऽजया॑। ब॒हु। १४१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्याऽउ॒त।  
-ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥३॥
+यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्या᳡ उ॒त।  
+ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्या᳡ उ॒त। ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥
+यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्या᳡ उ॒त।  
+ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
@@ -186,7 +195,7 @@ Even as Gods and Asuras, even as mortal men have done, Do ye, that these may mul
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। चक्रुः। देवऽअसुराः। यथा। मनुष्याः᳡। उत। एव। सहस्रऽपोषाय। कृणुतम्। लक्ष्म। अश्विना। १४१.३।
+यथा॑। च॒क्रुः॒। दे॒व॒ऽअ॒सु॒राः। यथा॑। म॒नु॒ष्याः᳡। उ॒त। ए॒व। स॒ह॒स्र॒ऽपो॒षाय॑। कृ॒णु॒तम्। लक्ष्म॑। अ॒श्वि॒ना॒। १४१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

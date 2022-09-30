@@ -36,14 +36,17 @@ A hymn to Heaven and Earth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि ।  
-प्र॒ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि।  
+प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/01_manve_vAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि। प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
+म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि।  
+प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/01_manve_vAm.md">
@@ -74,7 +77,7 @@ O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who throu
 </details>
 <details><summary>पदपाठः</summary>
 
-मन्वे। वाम्। द्यावापृथिवी इति। सुऽभोजसौ। सऽचेतसौ। ये इति। अप्रथेथाम्। अमिता। योजनानि। प्रतिस्थे इति  प्रतिऽस्थे। हि। अभवतम्। वसूनाम। ते इति। नः। मुञ्चतम्। अंहसः। २६.१।
+म॒न्वे। वा॒म्। द्या॒वा॒पृ॒थि॒वी॒ इति॑। सु॒ऽभो॒ज॒सौ॒। सऽचे॑तसौ। ये इति॑। अप्र॑थेथाम्। अमि॑ता। योज॑नानि। प्र॒ति॒स्थे इति॑ प्र॒ति॒ऽस्थे। हि। अभ॑वतम्। वसू॑नाम। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who throu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒ति॒ष्ठे ह्यभ॑वत॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥२॥  
+प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची। द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
@@ -137,7 +143,7 @@ Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रतिस्थे इति  प्रतिऽस्थे। हि। अभवतम्। वसूनाम्। प्रवृध्दे इति प्रऽवृध्दे। देवी इति। सुभगे इति सुऽभगे। उरूची इति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.२।
+प्र॒ति॒स्थे इति॑ प्र॒ति॒ऽस्थे। हि। अभ॑वतम्। वसू॑नाम्। प्रवृ॑ध्दे इति॒ प्रऽवृ॑ध्दे। दे॒वी॒ इति॑। सु॒भगे॒ इति॑ सुऽभगे। उ॒रू॒ची॒ इति॑। द्यावा॑पृथिवी॒ इति॑। भव॑तम्। मे॒। स्यो॒ने इति॑। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स॒न्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्येऽ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥३॥  
+अ॑सन्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्ये॑।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑सन्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्ये॑। द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+अ॑सन्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्ये॑।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
@@ -197,7 +206,7 @@ I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by
 </details>
 <details><summary>पदपाठः</summary>
 
-असंतापे  इत्यसम्ऽतापे। सुऽतपसौ। हुवे। अहम्। उर्वी इति। गम्भीरे इति। कविऽभिः। नमस्ये३ इति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.३।
+अ॒सं॒ता॒पे इत्य॑स॒म्ऽता॒पे। सु॒ऽतप॑सौ। हु॒वे॒। अ॒हम्। उ॒र्वी इति॑। ग॒म्भी॒रे इति॑। क॒विऽभिः॑। न॒म॒स्ये॒३॑ इति॑। द्यावा॑पृथिवी॒ इति॑। भव॑तम्। मे॒। स्यो॒ने इति॑। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -228,14 +237,17 @@ I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्याऽन्।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्या॑न्।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्या॑न्। द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्या॑न्।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/04_ye_amRtam.md">
@@ -255,7 +267,7 @@ Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To
 </details>
 <details><summary>पदपाठः</summary>
 
-ये इति। अमृतम्। बिभृथः। ये इति। हवीषि। ये इति। स्रोत्याः। बिभृथः। ये इति। मनुष्या᳡न्। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.४।
+ये इति॑। अ॒मृत॑म्। बि॒भृ॒थः। ये इति॑। ह॒वीषि॑। ये इति॑। स्रो॒त्याः। बि॒भृ॒थः। ये इति॑। म॒नु॒ष्या᳡न्। द्यावा॑पृथिवी॒ इति॑। भव॑तम्। मे॒। स्यो॒ने इति॑। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -286,14 +298,17 @@ Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये उ॒स्रिया॒ बिभृ॒थो ये वन॒स्पती॒न् ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+ये उ॒स्रिया॑ बिभृ॒थो ये वन॒स्पती॒न्ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये उ॒स्रिया॑ बिभृ॒थो ये वन॒स्पती॒न्ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः। द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+ये उ॒स्रिया॑ बिभृ॒थो ये वन॒स्पती॒न्ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/05_ye_usriyA.md">
@@ -315,7 +330,7 @@ Ye by whom cows and forest trees are cherished within whose range all creatures 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये इति। उस्रियाः। बिभृथः। ये इति। वनस्पतीन्। ययोः। वाम्। विश्वा। भुवनानि। अन्तः। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.५।
+ये इति॑। उ॒स्रियाः॑। बि॒भृ॒थः। ये इति॑। वन॒स्पती॑न्। ययोः॑। वा॒म्। विश्वा॑। भुव॑नानि। अ॒न्तः। द्यावा॑पृथिवी॒ इति॑। भव॑तम्। मे॒। स्यो॒ने इति॑। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -346,14 +361,17 @@ Ye by whom cows and forest trees are cherished within whose range all creatures 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति ।  
-द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति॑।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति॑। द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति॑।  
+द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
@@ -375,7 +393,7 @@ Ye who delight in nectar and in fatness, ye without whom men have no strength or
 </details>
 <details><summary>पदपाठः</summary>
 
-ये इति। कीलालेन। तर्पयथः। ये इति। घृतेन। याभ्याम्‌। ऋते। न। किम्। चन। शक्नुवन्ति। द्यावापृथिवी इति। भवतम्। मे। स्योने इति। ते इति। नः। मुञ्चतम्। अंहसः। २६.६।
+ये इति॑। की॒लाले॑न। त॒र्पय॑थः। ये इति॑। घृ॒तेन॑। याभ्या॑म्‌। ऋ॒ते। न। किम्। च॒न। श॒क्नुवन्ति॑। द्यावा॑पृथिवी॒ इति॑। भव॑तम्। मे॒। स्यो॒ने इति॑। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -406,14 +424,17 @@ Ye who delight in nectar and in fatness, ye without whom men have no strength or
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मे॒दम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्।  
-स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥७॥
+यन्मेदम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्।  
+स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यन्मेदम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्। स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
+यन्मेदम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्।  
+स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
@@ -440,7 +461,7 @@ The grief that pains me here, whoever caused it, not sent by fate, hath sprung f
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। मा। इदम्। अभिऽशोचति। येनऽयेन। वा। कृतम्। पौरुषेयात्। न। दैवात्। स्तौमि। द्यावापृथिवी इति। नाथितः। जोहवीमि। ते इति। नः। मुञ्चतम्। अंहसः। २६.७।
+यत्। मा। इ॒दम्। अ॒भि॒ऽशोच॑ति। येन॑ऽयेन। वा॒। कृ॒तम्। पौरु॑षेयात्। न। दैवा॑त्। स्तौमि॑। द्यावा॑पृथि॒वी इति॑। ना॒थि॒तः। जो॒ह॒वी॒मि॒। ते इति॑। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

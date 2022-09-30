@@ -37,13 +37,16 @@ A charm to deprecate Arati or Malignity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ नो॑ भर॒ मा परि॑ ष्ठा अराते॒ मा नो॑ रक्षी॒र्दक्षि॑णां नी॒यमा॑नाम्।  
-नमो॑ वी॒र्त्साया॒ अस॑मृद्धये॒ नमो॑ अ॒स्त्वरा॑तये ॥१॥  
+नमो॑ वी॒र्त्साया॒ अस॑मृद्धये॒ नमो॑ अ॒स्त्वरा॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/01_A_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ नो॑ भर॒ मा परि॑ ष्ठा अराते॒ मा नो॑ रक्षी॒र्दक्षि॑णां नी॒यमा॑नाम्। नमो॑ वी॒र्त्साया॒ अस॑मृद्धये॒ नमो॑ अ॒स्त्वरा॑तये ॥
+आ नो॑ भर॒ मा परि॑ ष्ठा अराते॒ मा नो॑ रक्षी॒र्दक्षि॑णां नी॒यमा॑नाम्।  
+नमो॑ वी॒र्त्साया॒ अस॑मृद्धये॒ नमो॑ अ॒स्त्वरा॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/01_A_no.md">
@@ -65,7 +68,7 @@ Bring thou to us, bar not the way, Arati! Stay not the guerdon that is being bro
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। नः। भर। मा। परि। स्थाः। अराते। मा। नः। रक्षीः। दक्षिणाम्। नीयमानाम्। नमः। विऽईर्त्सायै। असम्ऽऋध्दये। नमः। अस्तु। अरातये। ७.१।
+आ। नः॒। भ॒र॒। मा। परि॑। स्थाः॒। अ॒रा॒ते॒। मा। नः॒। र॒क्षीः॒। दक्षि॑णाम्। नी॒यमा॑नाम्। नमः॑। वि॒ऽई॒र्त्सायै॑। अस॑म्ऽऋध्दये। नमः॑। अ॒स्तु॒। अरा॑तये। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,13 +100,16 @@ Bring thou to us, bar not the way, Arati! Stay not the guerdon that is being bro
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यम॑राते पुरोध॒त्से पुरु॑षं परिरा॒पिण॑म्।  
-नम॑स्ते॒ तस्मै॑ कृण्मो॒ मा व॒निं व्य॑थयी॒र्मम॑ ॥२॥  
+नम॑स्ते॒ तस्मै॑ कृण्मो॒ मा व॒निं व्य॑थयी॒र्मम॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/02_yamarAte_purodhatse.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यम॑राते पुरोध॒त्से पुरु॑षं परिरा॒पिण॑म्। नम॑स्ते॒ तस्मै॑ कृण्मो॒ मा व॒निं व्य॑थयी॒र्मम॑ ॥
+यम॑राते पुरोध॒त्से पुरु॑षं परिरा॒पिण॑म्।  
+नम॑स्ते॒ तस्मै॑ कृण्मो॒ मा व॒निं व्य॑थयी॒र्मम॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/02_yamarAte_purodhatse.md">
@@ -124,7 +130,7 @@ The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, 
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अराते। पुरःऽधत्से। पुरुषम्। परिऽरापिणम्। नमः। ते। तस्मै। कृण्मः। मा। वनिम्। व्यथयीः। मम। ७.२।
+यम्। अ॒रा॒ते॒। पु॒रः॒ऽध॒त्से। पुरु॑षम्। प॒रि॒ऽरा॒पिण॑म्। नमः॑। ते॒। तस्मै॑। कृ॒ण्मः॒। मा। व॒निम्। व्य॒थ॒यीः॒। मम॑। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,13 +162,16 @@ The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र णो॑ व॒निर्दे॒वकृ॑ता॒ दिवा॒ नक्तं॑ च कल्पताम्।  
-अरा॑तिमनु॒प्रेमो॑ व॒यं नमो॑ अ॒स्त्वरा॑तये ॥३॥  
+अरा॑तिमनु॒प्रेमो॑ व॒यं नमो॑ अ॒स्त्वरा॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/03_pra_No.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र णो॑ व॒निर्दे॒वकृ॑ता॒ दिवा॒ नक्तं॑ च कल्पताम्। अरा॑तिमनु॒प्रेमो॑ व॒यं नमो॑ अ॒स्त्वरा॑तये ॥
+प्र णो॑ व॒निर्दे॒वकृ॑ता॒ दिवा॒ नक्तं॑ च कल्पताम्।  
+अरा॑तिमनु॒प्रेमो॑ व॒यं नमो॑ अ॒स्त्वरा॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/03_pra_No.md">
@@ -184,7 +193,7 @@ May our desire which Gods have roused fulfil itself by day and night. We seek to
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। नः। वनिः। देवऽकृता। दिवा। नक्तम्। च। कल्पताम्। अरातिम्। अनुऽप्रेमः। वयम्। नमः। अस्तु। अरातये। ७.३।
+प्र। नः॒। व॒निः। दे॒वऽकृ॑ता। दिवा॑। नक्त॑म्। च॒। क॒ल्प॒ता॒म्। अरा॑तिम्। अ॒नु॒ऽप्रेमः॑। व॒यम्। नमः॑। अ॒स्तु॒। अरा॑तये। ७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -215,14 +224,17 @@ May our desire which Gods have roused fulfil itself by day and night. We seek to
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/04_sarasvatImanumatiM_bhagam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर॑स्वती॒मनु॑मतिं॒ भगं॒ यन्तो॑ हवामहे ।  
-वाचं॑ जु॒ष्टां मधु॑मतीमवादिषं दे॒वानां॑ दे॒वहू॑तिषु ॥४॥  
+सर॑स्वती॒मनु॑मतिं॒ भगं॒ यन्तो॑ हवामहे।  
+वाचं जु॒ष्टां मधु॑मतीमवादिषं दे॒वानां॑ दे॒वहू॑तिषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/04_sarasvatImanumatiM_bhagam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर॑स्वती॒मनु॑मतिं॒ भगं॒ यन्तो॑ हवामहे। वाचं जु॒ष्टां मधु॑मतीमवादिषं दे॒वानां॑ दे॒वहू॑तिषु ॥
+सर॑स्वती॒मनु॑मतिं॒ भगं॒ यन्तो॑ हवामहे।  
+वाचं जु॒ष्टां मधु॑मतीमवादिषं दे॒वानां॑ दे॒वहू॑तिषु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/04_sarasvatImanumatiM_bhagam.md">
@@ -241,7 +253,7 @@ We, suppliant, call on Bhaga, on Sarasvati, Anumati, Pleasant words have I spoke
 </details>
 <details><summary>पदपाठः</summary>
 
-सरस्वतीम्। अनुऽमतिम्। भगम्। यन्तः। हवामहे। वाचम्। जुष्टाम्। मधुऽमतीम्। अवादिषम्। देवानाम्। देवऽहूतिषु। ७.४।
+सर॑स्वतीम्। अनु॑ऽमतिम्। भग॑म्। यन्तः॑। ह॒वा॒म॒हे॒। वाच॑म्। जु॒ष्टाम्। मधु॑ऽमतीम्। अ॒वा॒दि॒ष॒म्। दे॒वाना॑म्। दे॒वऽहू॑तिषु। ७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -272,14 +284,17 @@ We, suppliant, call on Bhaga, on Sarasvati, Anumati, Pleasant words have I spoke
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/05_yaM_yAchAmyaham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑ ।  
-श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥५॥  
+यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑।  
+श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/05_yaM_yAchAmyaham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑। श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥
+यं याचा॑म्य॒हं वा॒चा सर॑स्वत्या मनो॒युजा॑।  
+श्र॒द्धा तम॒द्य वि॑न्दतु द॒त्ता सोमे॑न ब॒भ्रुणा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/05_yaM_yAchAmyaham.md">
@@ -300,7 +315,7 @@ The portion that I crave with speech intelligent and full of power, May faith, p
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। याचामि। अहम्। वाचा। सरस्वत्या। मनःऽयुजा। श्रध्दा। तम्। अद्य। विन्दतु। दत्ता। सोमेन। बभ्रुणा। ७.५।
+यम्। याचा॑मि। अ॒हम्। वा॒चा। सर॑स्वत्या। म॒नः॒ऽयुजा॑। श्र॒ध्दा। तम्। अ॒द्य। वि॒न्द॒तु॒। द॒त्ता। सोमे॑न। ब॒भ्रुणा॑। ७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -331,14 +346,17 @@ The portion that I crave with speech intelligent and full of power, May faith, p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/06_mA_vanim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा व॒निं मा वाचं॑ नो॒ वीर्त्सी॑रु॒भावि॑न्द्रा॒ग्नी आ भ॑रतां नो॒ वसू॑नि ।  
-सर्वे॑ नो अ॒द्य दित्स॒न्तोऽरा॑तिं॒ प्रति॑ हर्यत ॥६॥  
+मा व॒निं मा वाचं॑ नो॒ वीर्त्सी॑रु॒भावि॑न्द्रा॒ग्नी आ भ॑रतां नो॒ वसू॑नि।  
+सर्वे॑ नो अ॒द्य दित्स॒न्तोऽरा॑तिं॒ प्रति॑ हर्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/06_mA_vanim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा व॒निं मा वाचं॑ नो॒ वीर्त्सी॑रु॒भावि॑न्द्रा॒ग्नी आ भ॑रतां नो॒ वसू॑नि। सर्वे॑ नो अ॒द्य दित्स॒न्तोऽरा॑तिं॒ प्रति॑ हर्यत ॥
+मा व॒निं मा वाचं॑ नो॒ वीर्त्सी॑रु॒भावि॑न्द्रा॒ग्नी आ भ॑रतां नो॒ वसू॑नि।  
+सर्वे॑ नो अ॒द्य दित्स॒न्तोऽरा॑तिं॒ प्रति॑ हर्यत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/06_mA_vanim.md">
@@ -364,7 +382,7 @@ Do not thou make our words or wishes fruitless. Let the twain Indra Agni, bring 
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। वनिम्। मा। वाचम्। नः। वि। ईर्त्सीः। उभौ। इन्द्राग्नी इति। आ। भरताम्। नः। वसूनि। सर्वे। नः। अद्य। दित्सन्तः। अरातिम्। प्रति। हर्यत। ७.६।
+मा। व॒निम्। मा। वाच॑म्। नः॒। वि। ई॒र्त्सीः॒। उ॒भौ। इ॒न्द्रा॒ग्नी इति॑। आ। भ॒र॒ता॒म्। नः॒। वसू॑नि। सर्वे॑। नः॒। अ॒द्य। दित्स॑न्तः। अरा॑तिम्। प्रति॑। ह॒र्य॒त॒। ७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -395,14 +413,17 @@ Do not thou make our words or wishes fruitless. Let the twain Indra Agni, bring 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/007_arAtinAshanam/07_paro-pehyasamRddhe_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रोऽपे॑ह्यसमृद्धे॒ वि ते॑ हे॒तिं न॑यामसि ।  
-वेद॑ त्वा॒हं नि॒मीव॑न्तीं नितु॒दन्ती॑मराते ॥७॥  
+प॒रोऽपे॑ह्यसमृद्धे॒ वि ते॑ हे॒तिं न॑यामसि।  
+वेद॑ त्वा॒हं नि॒मीव॑न्तीं नितु॒दन्ती॑मराते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/07_paro-pehyasamRddhe_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒रोऽपे॑ह्यसमृद्धे॒ वि ते॑ हे॒तिं न॑यामसि। वेद॑ त्वा॒हं नि॒मीव॑न्तीं नितु॒दन्ती॑मराते ॥
+प॒रोऽपे॑ह्यसमृद्धे॒ वि ते॑ हे॒तिं न॑यामसि।  
+वेद॑ त्वा॒हं नि॒मीव॑न्तीं नितु॒दन्ती॑मराते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/07_paro-pehyasamRddhe_vi.md">
@@ -422,7 +443,7 @@ Misfortune! go thou far away: we turn thy harmful dart aside. I know thee well, 
 </details>
 <details><summary>पदपाठः</summary>
 
-परः। अप। इहि। असम्ऽऋघ्दे। वि। ते। हेतिम्। नयामसि। वेद। त्वा। अहम्। निऽमीवन्तीम्। निऽतुदन्तीम्। अराते। ७.७।
+प॒रः। अप॑। इ॒हि॒। अ॒स॒म्ऽऋ॒घ्दे॒। वि। ते॒। हे॒तिम्। न॒या॒म॒सि॒। वेद॑। त्वा॒। अ॒हम्। नि॒ऽमीव॑न्तीम्। नि॒ऽतु॒दन्ती॑म्। अ॒रा॒ते॒। ७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -454,13 +475,16 @@ Misfortune! go thou far away: we turn thy harmful dart aside. I know thee well, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒त न॒ग्ना बोभु॑वती स्वप्न॒या स॑चसे॒ जन॑म्।  
-अरा॑ते चि॒त्तं वीर्त्स॒न्त्याकू॑तिं॒ पुरु॑षस्य च ॥८॥  
+अरा॑ते चि॒त्तं वीर्त्स॒न्त्याकू॑तिं॒ पुरु॑षस्य च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/08_uta_nagnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒त न॒ग्ना बोभु॑वती स्वप्न॒या स॑चसे॒ जन॑म्। अरा॑ते चि॒त्तं वीर्त्स॒न्त्याकू॑तिं॒ पुरु॑षस्य च ॥
+उ॒त न॒ग्ना बोभु॑वती स्वप्न॒या स॑चसे॒ जन॑म्।  
+अरा॑ते चि॒त्तं वीर्त्स॒न्त्याकू॑तिं॒ पुरु॑षस्य च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/08_uta_nagnA.md">
@@ -484,7 +508,7 @@ Oft, coming as a naked girl thou hauntest people in their sleep, Baffling the th
 </details>
 <details><summary>पदपाठः</summary>
 
-उत। नग्ना। बोभुवती। स्वप्नऽया। सचसे। जनम्। अराते। चित्तम्। विऽईर्त्सन्ती। आऽकूतिम्। पुरुषस्य। च। ७.८।
+उ॒त। न॒ग्ना। बोभु॑वती। स्व॒प्न॒ऽया। स॒च॒से॒। जन॑म्। अरा॑ते। चि॒त्तम्। वि॒ऽईर्त्स॑न्ती। आऽकू॑तिम्। पुरु॑षस्य। च॒। ७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -516,13 +540,16 @@ Oft, coming as a naked girl thou hauntest people in their sleep, Baffling the th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या म॑ह॒ती म॒होन्मा॑ना॒ विश्वा॒ आशा॑ व्यान॒शे।  
-तस्यै॑ हिरण्यके॒श्यै निरृ॑त्या अकरं॒ नमः॑ ॥९॥  
+तस्यै॑ हिरण्यके॒श्यै निरृ॑त्या अकरं॒ नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/09_yA_mahatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या म॑ह॒ती म॒होन्मा॑ना॒ विश्वा॒ आशा॑ व्यान॒शे। तस्यै॑ हिरण्यके॒श्यै निरृ॑त्या अकरं॒ नमः॑ ॥
+या म॑ह॒ती म॒होन्मा॑ना॒ विश्वा॒ आशा॑ व्यान॒शे।  
+तस्यै॑ हिरण्यके॒श्यै निरृ॑त्या अकरं॒ नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/09_yA_mahatI.md">
@@ -541,7 +568,7 @@ To her the mighty vast in size, who penetrates all points of space, To her mine 
 </details>
 <details><summary>पदपाठः</summary>
 
-या। महती। महाऽउन्माना। विश्वाः। आशाः। व‍िऽआनशे। तस्यै। हिरण्यऽकेश्यै। निःऽऋत्यै। अकरम्। नमः। ७.९।
+या। म॒ह॒ती। म॒हाऽउ॑न्माना। विश्वाः॑। आशाः॑। व‍ि॒ऽआ॒न॒शे। तस्यै॑। हि॒र॒ण्य॒ऽके॒श्यै। निःऽऋ॑त्यै। अ॒क॒र॒म्। नमः॑। ७.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -573,13 +600,16 @@ To her the mighty vast in size, who penetrates all points of space, To her mine 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हिर॑ण्यवर्णा सु॒भगा॒ हिर॑ण्यकशिपुर्म॒ही।  
-तस्यै॒ हिर॑ण्यद्राप॒येऽरा॑त्या अकरं॒ नमः॑ ॥१०॥
+तस्यै॒ हिर॑ण्यद्राप॒येऽरा॑त्या अकरं॒ नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/007_arAtinAshanam/10_hiraNyavarNA_subhagA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हिर॑ण्यवर्णा सु॒भगा॒ हिर॑ण्यकशिपुर्म॒ही। तस्यै॒ हिर॑ण्यद्राप॒येऽरा॑त्या अकरं॒ नमः॑ ॥
+हिर॑ण्यवर्णा सु॒भगा॒ हिर॑ण्यकशिपुर्म॒ही।  
+तस्यै॒ हिर॑ण्यद्राप॒येऽरा॑त्या अकरं॒ नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/007_arAtinAshanam/10_hiraNyavarNA_subhagA.md">
@@ -600,7 +630,7 @@ Auspicious, with her golden hue, pillowed on gold, the mighty one To this Arati 
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णा। सुऽभगा। हिरण्यऽकशिपुः। मही। तस्यै। हिरण्यऽद्रापये। अरात्यै। अकरम्। नमः। ७.१०।
+हिर॑ण्यऽवर्णा। सु॒ऽभगा॑। हिर॑ण्यऽकशिपुः। म॒ही। तस्यै॑। हिर॑ण्यऽद्रापये। अरा॑त्यै। अ॒क॒र॒म्। नमः॑। ७.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm against an opponent in debate
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑न्वोषधे ॥१॥  
+नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि। प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
@@ -74,7 +77,7 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 </details>
 <details><summary>पदपाठः</summary>
 
-न। इत्। शत्रुः। प्राशम्। जयाति। सहमाना। अभिऽभूः। असि। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.१।
+न। इत्। शत्रुः॑। प्राश॑म्। ज॒या॒ति॒। सह॑माना। अ॒भि॒ऽभूः। अ॒सि॒। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒प॒र्णस्त्वान्व॑विन्दत् सूक॒रस्त्वा॑खनन्न॒सा।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥२॥  
+सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा। प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
@@ -135,7 +141,7 @@ The strong-winged bird discovered thee, the boar unearthed thee with his snout. 
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽपर्णः। त्वा। अनु। अविन्दत्। सूकरः। त्वा। अखनत्। नसा। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.२।
+सु॒ऽप॒र्णः। त्वा॒। अनु॑। अ॒वि॒न्द॒त्। सू॒क॒रः। त्वा॒। अ॒ख॒न॒त्। न॒सा। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ The strong-winged bird discovered thee, the boar unearthed thee with his snout. 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/03_indro_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥३॥  
+इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/03_indro_ha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे। प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/03_indro_ha.md">
@@ -196,7 +205,7 @@ Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine a
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। ह। चक्रे। त्वा। बाहौ। असुरेभ्यः। स्तरीतवे। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.३।
+इन्द्रः॑। ह॒। च॒क्रे॒। त्वा॒। बा॒हौ। असु॑रेभ्यः। स्तरी॑तवे। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒टामिन्द्रो॒ व्याऽश्ना॒दसु॑रेभ्य॒ स्तरी॑तवे ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥४॥  
+पा॒टामिन्द्रो॒ व्या॑श्ना॒दसु॑रेभ्य॒ स्तरी॑तवे।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पा॒टामिन्द्रो॒ व्या॑श्ना॒दसु॑रेभ्य॒ स्तरी॑तवे। प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+पा॒टामिन्द्रो॒ व्या॑श्ना॒दसु॑रेभ्य॒ स्तरी॑तवे।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
@@ -268,7 +280,7 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 </details>
 <details><summary>पदपाठः</summary>
 
-पाटाम्। इन्द्रः। वि। आश्नात्। असुरेभ्यः। स्तरीतवे। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.४।
+पा॒टाम्। इन्द्रः॑। वि। आ॒श्ना॒त्। असु॑रेभ्यः। स्तरी॑तवे। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -299,14 +311,17 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व ।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥५॥  
+तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व। प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
@@ -337,7 +352,7 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 </details>
 <details><summary>पदपाठः</summary>
 
-तया। अहम्। शत्रुन्। साक्षे। इन्द्रः। सालावृकान्ऽइव। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.५।
+तया॑। अ॒हम्। शत्रु॑न्। सा॒क्षे॒। इन्द्रः॑। सा॒ला॒वृ॒कान्ऽइ॑व। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -369,13 +384,16 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्।  
-प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे ॥६॥  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्। प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्।  
+प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
@@ -400,7 +418,7 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 </details>
 <details><summary>पदपाठः</summary>
 
-रुद्र। जलाषऽभेषज। नीलऽशिखण्ड। कर्मऽकृत्। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.६।
+रुद्र॑। जला॑षऽभेषज। नील॑ऽशिखण्ड। कर्म॑ऽकृत्। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -431,14 +449,17 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति ।  
-अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥७॥
+तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति।  
+अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति। अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥
+तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति।  
+अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
@@ -461,7 +482,7 @@ Indra, defeat the speech of him who meets us with hostility. Comfort us with thy
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्य। प्राशम्। त्वम्। जहि। यः। नः। इन्द्र। अभिऽदासति। अधि। नः। ब्रूहि। शक्तिऽभिः। प्राशि। माम्। उत्ऽतरम्। कृधि। २७.७।
+तस्य॑। प्राश॑म्। त्वम्। ज॒हि॒। यः। नः॒। इ॒न्द्र॒। अ॒भि॒ऽदास॑ति। अधि॑। नः॒। ब्रू॒हि॒। शक्ति॑ऽभिः। प्रा॒शि। माम्। उत्ऽत॑रम्। कृ॒धि॒। २७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

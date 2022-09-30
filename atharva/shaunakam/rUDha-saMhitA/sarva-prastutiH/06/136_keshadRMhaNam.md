@@ -32,14 +32,17 @@ Translated: Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 536
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे ।  
-तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥१॥  
+दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे।  
+तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे। तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥
+दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे।  
+तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
@@ -61,7 +64,7 @@ Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, N
 </details>
 <details><summary>पदपाठः</summary>
 
-देवी। देव्याम्। अधि। जाता। पृथिव्याम्। असि। ओषधे। ताम्। त्वा। निऽतत्नि। केशेभ्यः। दृंहणाय। खनामसि। १३६.१।
+दे॒वी। दे॒व्याम्। अधि॑। जा॒ता। पृ॒थि॒व्याम्। अ॒सि॒। ओ॒ष॒धे॒। ताम्। त्वा॒। नि॒ऽत॒त्नि॒। केशे॑भ्यः। दृंह॑णाय। ख॒ना॒म॒सि॒। १३६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,13 +95,15 @@ Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, N
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥२॥  
+दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
@@ -120,7 +125,7 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 </details>
 <details><summary>पदपाठः</summary>
 
-दृंह। प्रत्नान्। जनय। अजातान्। जातान्। ऊं इति। वर्षीयसः। कृधि। १३६.२।
+दृंह॑। प्र॒त्नान्। ज॒नय॑। अजा॑तान्। जा॒तान्। ऊं॒ इति॑। वर्षी॑यसः। कृ॒धि॒। १३६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -151,14 +156,17 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑ ।  
-इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥३॥
+यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑।  
+इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑। इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥
+यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑।  
+इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
@@ -179,7 +187,7 @@ Thy hair where it is falling off, and with the roots is torn away, I wet and spr
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। केशः। अवऽपद्यते। सऽमूलः। यः। च। वृश्चते। इदम्। तम्। विश्वऽभेषज्या। अभि। सिञ्चामि। वीरुधा। १३६.३।
+यः। ते॒। केशः॑। अ॒व॒ऽपद्य॑ते। सऽमू॑लः। यः। च॒। वृ॒श्चते॑। इ॒दम्। तम्। वि॒श्वऽभे॑षज्या। अ॒भि। सि॒ञ्चा॒मि॒। वी॒रुधा॑। १३६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

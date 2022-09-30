@@ -36,15 +36,19 @@ A priest's prayer for protection and assistance
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१॥  
+स॑वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां।  
+चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां। चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+स॑वि॒ता प्र॑स॒वाना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां।  
+चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/01_savitA_prasavAnAmadhipatiH.md">
@@ -76,7 +80,7 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 </details>
 <details><summary>पदपाठः</summary>
 
-सविता। प्रऽसवानाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। ब्रह्मणि। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१।
+स॒वि॒ता। प्र॒ऽस॒वाना॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। ब्रह्म॑णि। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,15 +111,17 @@ Savitar, Lord of furthering aids, protect me, in this my prayer, in this mine ac
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥२॥  
+अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+अ॒ग्निर्वन॒स्पती॑ना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/02_agnirvanaspatInAmadhipatiH_sa.md">
@@ -135,7 +141,7 @@ May Agni, Lord of forest trees, protect, me, in, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। वनस्पतीनाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.२।
+अ॒ग्निः। वन॒स्पती॑नाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,15 +172,17 @@ May Agni, Lord of forest trees, protect, me, in, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नि ते मा॑वताम् ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यृं पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥३॥  
+द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नी॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नी॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+द्यावा॑पृथि॒वी दा॑तॄ॒णामधि॑पत्नी॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/03_dyAvApRthivI_dAtRRNAmadhipatnI.md">
@@ -198,7 +206,7 @@ May Heaven and Earth, the Queens of bounties, save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-द्यावापृथिवी इति। दातृणाम्। अधिपत्नी इत्यधिपत्नी। ते। इति। मा। अवताम्। अस्मिन्। ब्रह्मणि। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। । २४.३।
+द्यावा॑पृथि॒वी इति॑। दा॒तृ॒णाम्। अधि॑पत्नी॒ इत्यधि॑पत्नी। ते। इति। मा। अवताम्। अस्मिन्। ब्रह्मणि। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। । २४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,15 +237,17 @@ May Heaven and Earth, the Queens of bounties, save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्र॑ह्मण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥४॥  
+वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+वरु॑णो॒ऽपामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/04_varuNo-pAmadhipatiH_sa.md">
@@ -257,7 +267,7 @@ May Varuna, the Lord of waters, save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-वरुणः। अपाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.४।
+वरु॑णः। अ॒पाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -289,14 +299,16 @@ May Varuna, the Lord of waters, save me.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मि॒त्रावरु॑णौ वृ॒ष्ट्याधि॑पती॒ तौ मा॑वताम्।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥५॥  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मि॒त्रावरु॑णौ वृ॒ष्ट्याधि॑पती॒ तौ मा॑वताम्। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+मि॒त्रावरु॑णौ वृ॒ष्ट्याधि॑पती॒ तौ मा॑वताम्।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/05_mitrAvaruNau_vRShTyAdhipatI.md">
@@ -317,7 +329,7 @@ May Mitra-Varuna, Lords of rain, preserve me.
 </details>
 <details><summary>पदपाठः</summary>
 
-मित्रावरुणौ। वृष्ट्याः। अधिपती इत्यधिऽपती। तौ। मा। अवताम्। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.५।
+मि॒त्रावरु॑णौ। वृ॒ष्ट्याः। अधि॑पती॒ इत्यधि॑ऽपती। तौ। मा॒। अ॒व॒ता॒म्। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -348,15 +360,17 @@ May Mitra-Varuna, Lords of rain, preserve me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतः॒ पर्व॑ता॒नामधि॑पतय॒स्ते मा॑वन्तु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥६॥  
+म॒रुतः॒ पर्व॑ताना॒मधि॑पतय॒स्ते मा॑वन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒रुतः॒ पर्व॑ताना॒मधि॑पतय॒स्ते मा॑वन्तु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+म॒रुतः॒ पर्व॑ताना॒मधि॑पतय॒स्ते मा॑वन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/06_marutaH_parvatAnAmadhipatayaste.md">
@@ -376,7 +390,7 @@ Lords of the mountains, may the Maruts save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-मरुतः। पर्वतानाम्। अधिऽपतयः। ते। मा। अवन्तु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.६।
+म॒रुतः॑। पर्व॑तानाम्। अधि॑ऽपतयः। ते। मा॒। अ॒व॒न्तु। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -407,15 +421,17 @@ Lords of the mountains, may the Maruts save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥७॥  
+सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+सोमो॑ वी॒रुधा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/07_somo_vIrudhAmadhipatiH.md">
@@ -435,7 +451,7 @@ May, Soma, Lord of plants and herbs, protect me.
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमः। वीरुधाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.७।
+सोमः॑। वी॒रुधा॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -466,15 +482,17 @@ May, Soma, Lord of plants and herbs, protect me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्या॑  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥८॥  
+वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+वा॒युर॒न्तरि॑क्ष॒स्याधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/08_vAyurantarixasyAdhipatiH_sa.md">
@@ -493,7 +511,7 @@ May Vayu, Lord of middle air, protect me.
 </details>
 <details><summary>पदपाठः</summary>
 
-वायु। अन्तरिक्षस्य। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.८।
+वा॒यु। अ॒न्तरि॑क्षस्य। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -524,15 +542,17 @@ May Vayu, Lord of middle air, protect me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥९॥  
+सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+सूर्य॒श्चक्षु॑षा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/09_sUryashchaxuShAmadhipatiH_sa.md">
@@ -553,7 +573,7 @@ May Surya, sovran Lord of eyes, protect me.
 </details>
 <details><summary>पदपाठः</summary>
 
-सूर्यः। चक्षुषाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.९।
+सूर्यः॑। चक्षु॑षाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -584,15 +604,17 @@ May Surya, sovran Lord of eyes, protect me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१०॥  
+च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+च॒न्द्रमा॒ नक्ष॑त्राणा॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/10_chandramA_naxatrANAmadhipatiH.md">
@@ -612,7 +634,7 @@ May the Moon, Lord of constellations, save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-चन्द्रमाः। नक्षत्राणाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१०।
+च॒न्द्रमाः॑। नक्ष॑त्राणाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -643,15 +665,17 @@ May the Moon, Lord of constellations, save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्या॒माशिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥११॥  
+इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+इन्द्रो॑ दि॒वोऽधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/11_indro_divo-dhipatiH.md">
@@ -671,7 +695,7 @@ May Indra who is Lord of heaven protect me.
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। दिवः। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.११।
+इन्द्रः॑। दि॒वः। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -702,15 +726,17 @@ May Indra who is Lord of heaven protect me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/12_marutAM_pitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१२॥  
+म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/12_marutAM_pitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+म॒रुतां॑ पि॒ता प॑शू॒नामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/12_marutAM_pitA.md">
@@ -731,7 +757,7 @@ The Maruts' father, Lord of cattle, save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-मरुताम्। पिता। पशूनाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१२।
+म॒रुता॑म्। पि॒ता। प॒शू॒नाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -762,15 +788,17 @@ The Maruts' father, Lord of cattle, save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१३॥  
+मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+मृ॒त्युः प्र॒जाना॒मधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/13_mRtyuH_prajAnAmadhipatiH.md">
@@ -790,7 +818,7 @@ May Mrityu, Lord of living creatures, save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-मृत्युः। प्रऽजानाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१३।
+मृ॒त्युः। प्र॒ऽजाना॑म्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -821,15 +849,17 @@ May Mrityu, Lord of living creatures, save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१४॥  
+य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+य॒मः पि॑तॄ॒णामधि॑पतिः॒ स मा॑वतु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/14_yamaH_pitRRNAmadhipatiH.md">
@@ -853,7 +883,7 @@ May Yama, Regent of the Fathers, save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-यमः। पितृणाम्। अधिऽपतिः। सः। मा। अवतु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१४।
+य॒मः। पि॒तृ॒णाम्। अधि॑ऽपतिः। सः। मा॒। अ॒व॒तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -884,15 +914,17 @@ May Yama, Regent of the Fathers, save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/15_pitaraH_pare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒तरः॒ परे॒ ते मा॑वन्तु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१५॥  
+पि॒तरः॒ परे॑ ते मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/15_pitaraH_pare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पि॒तरः॒ परे॑ ते मावन्तु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+पि॒तरः॒ परे॑ ते मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/15_pitaraH_pare.md">
@@ -910,7 +942,7 @@ May the Forefathers of old time protect me.
 </details>
 <details><summary>पदपाठः</summary>
 
-पितरः। परे। ते। मा। अवन्तु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१५।
+पि॒तरः॑। परे॑। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -941,15 +973,17 @@ May the Forefathers of old time protect me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/16_tatA_avare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒ता अव॑रे॒ ते मा॑वन्तु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां  
-चित्त्या॑मस्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१६॥  
+त॒ता अव॑रे ते मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/16_tatA_avare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त॒ता अव॑रे ते मावन्तु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+त॒ता अव॑रे ते मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/16_tatA_avare.md">
@@ -967,7 +1001,7 @@ May Fathers of succeeding ages save me.
 </details>
 <details><summary>पदपाठः</summary>
 
-तताः। अवरे। ते। मा। अवन्तु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१६।
+त॒ताः। अव॑रे। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -998,15 +1032,17 @@ May Fathers of succeeding ages save me.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तत॑स्तताम॒हास्ते मा॑वन्तु ।  
-अ॒स्मिन् ब्रह्म॑ण्य॒स्मिन् कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑तिष्ठाया॑मस्यां  
-चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥१७॥
+त॒तस्त॑ताम॒हास्ते॑ मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त॒तस्त॑ताम॒हास्ते॑ मावन्तु। अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+त॒तस्त॑ताम॒हास्ते॑ मावन्तु।  
+अ॒स्मिन्ब्रह्म॑ण्य॒स्मिन्कर्म॑ण्य॒स्यां पु॑रो॒धाया॑म॒स्यां प्र॑ति॒ष्ठाया॑म॒स्यां चित्त्या॑म॒स्यामाकू॑त्याम॒स्यामा॒शिष्य॒स्यां दे॒वहू॑त्यां॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/024_brahmakarma/17_tatastatAmahAste_mAvantu.md">
@@ -1033,7 +1069,7 @@ Next may the Fathers of our fathers save me, in this my prayer,. in this mine ac
 </details>
 <details><summary>पदपाठः</summary>
 
-ततः। ततामहाः। ते। मा। अवन्तु। अस्मिन्। कर्मणि। अस्याम्। पुरःऽधायाम्। अस्याम्। प्रतिऽस्थायाम्। अस्याम्। चित्त्याम्। अस्याम्। आऽकूत्याम्। अस्याम्। आऽशिषि। अस्याम्। देवऽहूत्याम्। स्वाहा। २४.१७।
+त॒तः। त॒ता॒म॒हाः। ते। मा॒। अ॒व॒न्तु॒। अ॒स्मिन्। कर्म॑णि। अ॒स्याम्। पु॒रः॒ऽधाया॑म्। अ॒स्याम्। प्र॒ति॒ऽस्थाया॑म्। अ॒स्याम्। चित्त्या॑म्। अ॒स्याम्। आऽकू॑त्याम्। अ॒स्याम्। आ॒ऽशिषि॑। अ॒स्याम्। दे॒वऽहू॑त्याम्। स्वाहा॑। २४.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ An incantation against an enemy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन ।  
-अ॒स्माको॒ती रि॑शादसः ॥१॥  
+सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन।  
+अ॒स्माको॒ती रि॑शादसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/01_sAntapanA_idam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन। अ॒स्माको॒ती रि॑शादसः ॥
+सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन।  
+अ॒स्माको॒ती रि॑शादसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
@@ -68,7 +71,7 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 </details>
 <details><summary>पदपाठः</summary>
 
-साम्ऽतपनाः। इदम्। हविः। मरुतः। तत्। जुजुष्टन। अस्माक। ऊती। रिशादसः। ८२.१।
+साम्ऽत॑पनाः। इ॒दम्। ह॒विः। मरु॑तः। तत्। जु॒जु॒ष्ट॒न॒। अ॒स्माक॑। ऊ॒ती। रि॒शा॒द॒सः॒। ८२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति ।  
-द्रु॒हः पाशा॒न् प्रति॑ मुञ्चतां॒ सस्तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम्॥२॥  
+यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति।  
+द्रु॒हः पाशा॒न्प्रति॑ मुञ्चतां॒ स तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/02_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति। द्रु॒हः पाशा॒न्प्रति॑ मुञ्चतां॒ स तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम् ॥
+यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति।  
+द्रु॒हः पाशा॒न्प्रति॑ मुञ्चतां॒ स तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/02_yo_no.md">
@@ -138,7 +144,7 @@ Maruts, the man who filled with rage against us beyond our thoughts would harm u
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। मर्तः। मरुतः। दुःऽहृणायुः। तिरः। चित्तानि। वसवः। जिघांसति। द्रुहः। पाशान्। प्रत‍ि। मुञ्चताम्। सः। तपिष्ठेन। तपसा। हन्तन। तम्। ८२.२।
+यः। नः॒। मर्तः॑। म॒रु॒तः॒। दुः॒ऽहृ॒णा॒युः। ति॒रः। चि॒त्तानि॑। व॒स॒वः॒। जिघां॑सति। द्रु॒हः। पाशा॑न्। प्रत‍ि॑। मु॒ञ्च॒ता॒म्। सः। तपि॑ष्ठेन। तप॑सा। ह॒न्त॒न॒। तम्। ८२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,14 +175,17 @@ Maruts, the man who filled with rage against us beyond our thoughts would harm u
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-संव॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः ।  
-ते अ॒स्मत् पाशा॒न् प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑ ॥३॥
+सं॒व॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः।  
+ते अ॒स्मत्पाशा॒न्प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒व॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः। ते अ॒स्मत्पाशा॒न्प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑ ॥
+सं॒व॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः।  
+ते अ॒स्मत्पाशा॒न्प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
@@ -201,7 +210,7 @@ Each year come, friends to man, the tuneful Maruts, dwelling in spacious mansion
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽवत्सरीणाः। मरुतः। सुऽअर्काः। उरुऽक्षयाः। सऽगणाः। मानुषासः। ते। अस्मत्। पाशान्। प्र। मुञ्चन्तु। एनसः। साम्ऽतपनाः। मत्सराः। मादयिष्णवः। ८२.३।
+स॒म्ऽव॒त्स॒रीणाः॑। म॒रुतः॑। सु॒ऽअ॒र्काः। उ॒रुऽक्ष॑याः। सऽग॑णाः। मानु॑षासः। ते। अ॒स्मत्। पाशा॑न्। प्र। मु॒ञ्च॒न्तु॒। एन॑सः। सा॒म्ऽत॒प॒नाः। म॒त्स॒राः। मा॒द॒यि॒ष्णवः॑। ८२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

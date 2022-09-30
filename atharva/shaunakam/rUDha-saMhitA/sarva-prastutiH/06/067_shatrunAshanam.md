@@ -36,14 +36,17 @@ A charm for the destruction and plunder of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ व॑र्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः ।  
-मुह्य॑न्त्व॒द्यामूः सेना॑ अ॒मित्रा॑णां परस्त॒राम्॥१॥  
+परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः।  
+मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः। मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
+परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः।  
+मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/01_pari_vartmAni.md">
@@ -64,7 +67,7 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। वर्त्मानि। सर्वतः। इन्द्रः। पूषा। च। सस्रतुः। मुह्यन्तु। अद्य। अमूः। सेनाः। अमित्राणाम्। परःऽतराम्। ६७.१।
+परि॑। वर्त्मा॑नि। स॒र्वतः॑। इन्द्रः॑। पू॒षा। च॒। स॒स्र॒तुः॒। मुह्य॑न्तु। अ॒द्य। अ॒मूः। सेनाः॑। अ॒मित्रा॑णाम्। प॒रः॒ऽत॒राम्। ६७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाहयः॑ ।  
-तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम्॥२॥  
+मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः।  
+तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः। तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
+मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः।  
+तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
@@ -131,7 +137,7 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 </details>
 <details><summary>पदपाठः</summary>
 
-मूढाः। अमित्राः। चरत। अशीर्षाणःऽइव। अहयः। तेषाम्। वः। अग्निऽमूढानाम्। इन्द्रः। हन्तु। वरम्ऽवरम्। ६७.२।
+मू॒ढाः। अ॒मित्राः॑। च॒र॒त॒। अ॒शी॒र्षाणः॑ऽइव। अह॑यः। तेषा॑म्। वः॒। अ॒ग्निऽमू॑ढानाम्। इन्द्रः॑। ह॒न्तु॒। वर॑म्ऽवरम्। ६७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि ।  
-परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥३॥
+ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि।  
+परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि। परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
+ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि।  
+परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/03_aiShu_nahya.md">
@@ -199,7 +208,7 @@ Gird thou a bullock's hide on these, make those as timid as the deer. Let the fo
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। एषु। नह्य। वृषा। अजिनम्। हरिणस्य। भियम्। कृधि। पराङ्। अमित्रः। एषतु। अर्वाची। गौः। उप। एषतु। ६७.३।
+आ। ए॒षु॒। न॒ह्य॒। वृषा॑। अ॒जिन॑म्। ह॒रि॒णस्य॑। भिय॑म्। कृ॒धि॒। परा॑ङ्। अ॒मित्रः॑। एष॑तु। अ॒र्वाची॑। गौः। उप॑। ए॒ष॒तु॒। ६७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

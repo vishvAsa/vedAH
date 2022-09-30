@@ -37,13 +37,16 @@ A sacrificial charm for rain and prosperity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्।  
-अ॒भी॒प॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥१॥
+अ॑भीप॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/039_ApaH/01_divyaM_suparNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्। अ॑भीप॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥
+दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्।  
+अ॑भीप॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/039_ApaH/01_divyaM_suparNam.md">
@@ -76,7 +79,7 @@ May he establish in our home the master of riches, gladdening with rain in seaso
 </details>
 <details><summary>पदपाठः</summary>
 
-दिव्यम्। सुऽपर्णम्। पयसम्। बृहन्तम्। अपाम्। गर्भम्। वृषभम्। ओषधीनाम्। अभीपतः। वृष्ट्या। तर्पयन्तम्। आ। नः। गोऽस्थे। रयिऽस्थाम्। स्थापयति। ४०.१।
+दि॒व्यम्। सु॒ऽप॒र्णम्। प॒य॒सम्। बृ॒हन्त॑म्। अ॒पाम्। गर्भ॑म्। वृ॒ष॒भम्। ओष॑धीनाम्। अ॒भी॒प॒तः। वृ॒ष्ट्या। त॒र्पय॑न्तम्। आ। नः॒। गो॒ऽस्थे। र॒यि॒ऽस्थाम्। स्था॒प॒य॒ति॒। ४०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm for the recovery of one dangerously ill
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/01_vi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि दे॒वा ज॒रसा॑वृत॒न् वि त्वम॑ग्ने॒ अरा॑त्या ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥१॥  
+वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/01_vi_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/01_vi_devA.md">
@@ -70,7 +73,7 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। देवाः। जरसा। अवृतन्। वि। त्वम्। अग्ने। अरात्या। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१।
+वि। दे॒वाः। ज॒रसा॑। अ॒वृ॒त॒न्। वि। त्वम्। अ॒ग्ने॒। अरा॑त्या। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑ ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥२॥  
+व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
@@ -129,7 +135,7 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। आर्त्या। पवमानः। वि। शक्रः। पापऽकृत्यया। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.२।
+वि। आर्त्या॑। पव॑मानः। वि। श॒क्रः। पा॒प॒ऽकृ॒त्यया॑। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याऽप॒स्तृष्ण॑यासरन्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥३॥  
+वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
@@ -193,7 +202,7 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। ग्राम्याः। पशवः। आरण्यैः। वि। आपः। तृष्णया। असरन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.३।
+वि। ग्रा॒म्याः। प॒शवः॑। आ॒र॒ण्यैः। वि। आपः॑। तृष्ण॑या। अ॒स॒र॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -220,22 +229,25 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 </details>
 </details>
 </div>
-## ०४ वी३ मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/04_vI3_me.md">
+## ०४ वी मे
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/04_vI_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वी॒३मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥४॥  
+वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/04_vI3_me.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/04_vI_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/04_vI3_me.md">
-<details open><summary><h3>०४ वी३ मे ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/04_vI_me.md">
+<details open><summary><h3>०४ वी मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -257,7 +269,7 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। इमे इति। द्यावापृथिवी इति। इतः। वि। पन्थानः। दिशम्ऽदिशम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.४।
+वि। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। इ॒तः। वि। पन्था॑नः। दिश॑म्ऽदिशम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -288,14 +300,17 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥५॥  
+त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
@@ -327,7 +342,7 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वष्टा। दुहित्रे। वहतुम्। युनक्ति। इति। इदम्। विश्वम्। भुवनम्। वि। याति। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.५।
+त्वष्टा॑। दु॒हि॒त्रे। व॒ह॒तुम्। यु॒न॒क्ति॒। इति॑। इ॒दम्। विश्व॑म्। भुव॑नम्। वि। या॒ति॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -358,14 +373,17 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥६॥  
+अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
@@ -391,7 +409,7 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। प्राणान्। सम्। दधाति। चन्द्रः। प्राणेन। सम्ऽहितः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.६।
+अ॒ग्निः। प्रा॒णान्। सम्। द॒धा॒ति॒। च॒न्द्रः। प्रा॒णेन॑। सम्ऽहि॑तः। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -423,13 +441,16 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥७॥  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
@@ -450,7 +471,7 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणेन। विश्वतःऽवीर्यम्। देवाः। सूर्यम्। सम्। ऐरयन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.७।
+प्रा॒णेन॑। वि॒श्वतः॑ऽवीर्यम्। दे॒वाः। सूर्य॑म्। सम्। ऐ॒र॒य॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -481,14 +502,17 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥८॥  
+आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
@@ -509,7 +533,7 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 </details>
 <details><summary>पदपाठः</summary>
 
-आयुष्मताम्। आयुःऽकृताम्। प्राणेन। जीव। मा। मृथाः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.८।
+आयु॑ष्मताम्। आ॒युः॒ऽकृता॑म्। प्रा॒णेन॑। जी॒व॒। मा। मृ॒थाः॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -540,14 +564,17 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥९॥  
+प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
@@ -569,7 +596,7 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणेन। प्राणताम्। प्र। अन। इह। एव। भव। मा। मृथाः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.९।
+प्रा॒णेन॑। प्रा॒ण॒ताम्। प्र। अ॒न॒। इ॒ह। ए॒व। भ॒व॒। मा। मृ॒थाः॒। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -600,14 +627,17 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न ।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥१०॥  
+उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
@@ -632,7 +662,7 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। आयुषा। सम्। आयुषा। उत्। ओषधीनाम्। रसेन। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१०।
+उत्। आयु॑षा। सम्। आयु॑षा। उत्। ओष॑धीनाम्। रसे॑न। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -663,14 +693,17 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आप॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
-व्य॑१हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥११॥
+आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्। व्यहं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
+व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
@@ -723,7 +756,7 @@ We as immortal beings have arisen with Parjanya's rain, I free from every evil, 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। पर्जन्यस्य। वृष्ट्या। उत्। अस्थाम। अमृताः। वयम्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.११।
+आ। प॒र्जन्य॑स्य। वृ॒ष्ट्या। उत्। अ॒स्था॒म॒ ॒। अ॒मृताः॑। व॒यम्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

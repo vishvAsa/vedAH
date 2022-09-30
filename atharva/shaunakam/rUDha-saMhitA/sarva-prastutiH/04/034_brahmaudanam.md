@@ -35,14 +35,17 @@ Glorification of the Vishtari sacrifice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-१-८ अथर्वा। ब्रह्मौदनं। त्रिष्टुप्, ४ उत्तमा भुरिक्, ५ व्यवसाना सप्तपदा …………, ब्रह्मा॑स्य शी॒र्षं बृ॒हद॑स्य पृ॒ष्ठं वा॑मदे॒व्यमु॒दर॑मोद॒नस्य॑ ।  
-छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॒सोऽधि॑ य॒ज्ञः ॥१॥  
+ब्रह्मा॑स्य शी॒र्षं बृ॒हद॑स्य पृ॒ष्ठं वा॑मदे॒व्यमु॒दर॑मोद॒नस्य॑।  
+छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॑सोऽधि य॒ज्ञः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रह्मा॑स्य शी॒र्षं बृ॒हद॑स्य पृ॒ष्ठं वा॑मदे॒व्यमु॒दर॑मोद॒नस्य॑। छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॑सोऽधि य॒ज्ञः ॥
+ब्रह्मा॑स्य शी॒र्षं बृ॒हद॑स्य पृ॒ष्ठं वा॑मदे॒व्यमु॒दर॑मोद॒नस्य॑।  
+छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॑सोऽधि य॒ज्ञः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
@@ -68,7 +71,7 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। अस्य। शीर्षम्। बृहत्। अस्य। पृष्ठम्। वामऽदेव्यम्। उदरम्। ओदनस्य। छन्दांसि। पक्षौ। मुखम्। अस्य। सत्यम्। विष्टारी। जातः। तपसः। अधि। यज्ञः। ३४.१।
+ब्रह्म॑। अ॒स्य॒। शी॒र्षम्। बृ॒हत्। अ॒स्य॒। पृ॒ष्ठम्। वा॒म॒ऽदे॒व्यम्। उ॒दर॑म्। ओ॒द॒नस्य॑। छन्दां॑सि। प॒क्षौ। मुख॑म्। अ॒स्य॒। स॒त्यम्। वि॒ष्टा॒री। जा॒तः। तप॑सः। अधि॑। य॒ज्ञः। ३४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्।  
-नैषां शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम्॥२॥  
+अ॑न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्।  
+नैषां॑ शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्। नैषां॑ शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम् ॥
+अ॑न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्।  
+नैषां॑ शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
@@ -135,7 +141,7 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 </details>
 <details><summary>पदपाठः</summary>
 
-अनस्थाः। पूताः। पवनेन। शुध्दाः। शुचयः। शुचिम्। अपि। यन्ति। लोकम्। न। एषाम्। शिश्नम्। प्र। दहति। जातऽवेदाः। स्वःऽगे। लोके। बहु। स्त्रैणम्। एषाम् ३४.२।
+अ॒न॒स्थाः। पू॒ताः। पव॑नेन। शु॒ध्दाः। शुच॑यः। शुचि॑म्। अपि॑। य॒न्ति॒। लो॒कम्। न। ए॒षा॒म्। शि॒श्नम्। प्र। द॒ह॒ति॒। जा॒तऽवे॑दाः। स्वः॒ऽगे। लो॒के। ब॒हु। स्त्रैण॑म्। ए॒षा॒म् ३४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न।  
-आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्मदते सो॒म्येभिः॑ ॥३॥  
+वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न।  
+आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्म॑दते सो॒म्येभिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न। आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्म॑दते सो॒म्येभिः॑ ॥
+वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न।  
+आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्म॑दते सो॒म्येभिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
@@ -199,7 +208,7 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 </details>
 <details><summary>पदपाठः</summary>
 
-विष्टारिणम्। ओदनम्। ये। पचन्ति। न। एनान्। अवर्तिः। सचते। कदा। चन। आस्ते। यमे। उप। याति। देवान्। सम्। गन्धर्वैः। मदते। सोम्येभिः। ३४.३।
+वि॒ष्टा॒रिण॑म्। ओ॒द॒नम्। ये। पच॑न्ति। न। ए॒ना॒न्। अव॑र्तिः। स॒च॒ते॒। क॒दा। च॒न। आस्ते॑। य॒मे। उप॑। या॒ति॒। दे॒वान्। सम्। ग॒न्ध॒र्वैः। म॒द॒ते॒। सो॒म्येभिः॑। ३४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -230,14 +239,17 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न् य॒मः परि॑ मुष्णाति॒ रेतः॑ ।  
-र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥४॥  
+वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न्य॒मः परि॑ मुष्णाति॒ रेतः॑।  
+र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न्य॒मः परि॑ मुष्णाति॒ रेतः॑। र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥
+वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न्य॒मः परि॑ मुष्णाति॒ रेतः॑।  
+र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
@@ -259,7 +271,7 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 </details>
 <details><summary>पदपाठः</summary>
 
-विष्टारिणम्। ओदनम्। ये। पचन्ति। न। एनान्। यमः। परि। मुष्णाति। रेतः। रथी। ह। भूत्वा। रथऽयाने। ईयते। पक्षी। ह। भूत्वा। अति। दिवः। सम्। एति। ३४.४।
+वि॒ष्टा॒रिण॑म्। ओ॒द॒नम्। ये। पच॑न्ति। न। ए॒ना॒न्। य॒मः। परि॑। मु॒ष्णा॒ति॒। रेतः॑। र॒थी। ह॒। भू॒त्वा। र॒थ॒ऽयाने॑। ई॒य॒ते॒। प॒क्षी। ह॒। भू॒त्वा। अति॑। दिवः॑। सम्। ए॒ति॒। ३४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -290,15 +302,19 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ष॒ य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दि॒वमा विवे॑श ।  
-आ॒ण्डीकं॑ कुमु॑दं॒ सं त॑नोति॒ बिसं॑ शा॒लूकं॒ शफ॑को मुला॒ली।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त् पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥५॥  
+ए॒ष य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दिव॒मा वि॑वेश।  
+आ॒ण्डीकं॒ कुमु॑दं॒ सं त॑नोति॒ बिसं॑ शा॒लूकं॒ शफ॑को मुला॒ली।  
+ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒ष य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दिव॒मा वि॑वेश। आ॒ण्डीकं॒ कुमु॑दं॒ सं त॑नोति॒ बिसं॑ शा॒लूकं॒ शफ॑को मुला॒ली। ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+ए॒ष य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दिव॒मा वि॑वेश।  
+आ॒ण्डीकं॒ कुमु॑दं॒ सं त॑नोति॒ बिसं॑ शा॒लूकं॒ शफ॑को मुला॒ली।  
+ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
@@ -348,7 +364,7 @@ Strongest is this, performed, of sacrifices: he hath reached heaven who hath pre
 </details>
 <details><summary>पदपाठः</summary>
 
-एषः। यज्ञानाम्। विऽततः। वहिष्ठः। विष्टारिणम्। पक्त्वा। दिवम्। आ। विवेश। आण्डीकम्। कुमुदम्। सम्। तनोति। बिसम्। शालूकम्। शफकः। मुलाली। एताः। त्वा। धाराः। उप। यन्तु। सर्वाः। स्वःऽगे। लोके। मधुऽमत्। पिन्वमानाः। उप। त्वा। तिष्ठन्तु। पुष्करिणीः। सम्ऽअन्ताः। ३४.५।
+ए॒षः। य॒ज्ञाना॑म्। विऽत॑तः। वहि॑ष्ठः। वि॒ष्टा॒रिण॑म्। प॒क्त्वा। दिव॑म्। आ। वि॒वे॒श॒। आ॒ण्डी॑कम्। कुमु॑दम्। सम्। त॒नो॒ति॒। बिस॑म्। शा॒लूक॑म्। शफ॑कः। मु॒ला॒ली। ए॒ताः। त्वा॒। धाराः॑। उप॑। य॒न्तु॒। सर्वाः॑। स्वः॒ऽगे। लो॒के। मधु॑ऽमत्। पिन्व॑मानाः। उप॑। त्वा॒। ति॒ष्ठ॒न्तु॒। पु॒ष्क॒रिणीः॑। सम्ऽअ॑न्ताः। ३४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -380,13 +396,16 @@ Strongest is this, performed, of sacrifices: he hath reached heaven who hath pre
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तह्र॑दा॒ मधु॑कूलाः॒ सुरो॑दकाः क्षी॒रेण॑ पू॒र्णा उ॑द॒केन॑ द॒ध्ना।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त् पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥६॥  
+ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घृ॒तह्र॑दा॒ मधु॑कूलाः॒ सुरो॑दकाः क्षी॒रेण॑ पू॒र्णा उ॑द॒केन॑ द॒ध्ना। ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+घृ॒तह्र॑दा॒ मधु॑कूलाः॒ सुरो॑दकाः क्षी॒रेण॑ पू॒र्णा उ॑द॒केन॑ द॒ध्ना।  
+ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
@@ -415,7 +434,7 @@ Full lakes of butter with their banks of honey, flowing with wine, and milk and 
 </details>
 <details><summary>पदपाठः</summary>
 
-घृतऽहृदाः। मधुऽकूलाः। सुराऽउदकाः। क्षीरेण। पूर्णाः। उदकेन। दध्ना। एताः। त्वा। धाराः। उप। यन्तु। सर्वाः। स्वःऽगे। लोके। मधुऽमत्। पिन्वमानाः। उप। त्वा। तिष्ठन्तु। पुष्करिणीः। सम्ऽअन्ताः। ३४.६।
+घृ॒तऽहृ॑दाः। मधु॑ऽकूलाः। सुरा॑ऽउदकाः। क्षी॒रेण॑। पू॒र्णाः। उ॒द॒केन॑। द॒ध्ना। ए॒ताः। त्वा॒। धाराः॑। उप॑। य॒न्तु॒। सर्वाः॑। स्वः॒ऽगे। लो॒के। मधु॑ऽमत्। पिन्व॑मानाः। उप॑। त्वा॒। ति॒ष्ठ॒न्तु॒। पु॒ष्क॒रिणीः॑। सम्ऽअ॑न्ताः। ३४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -446,14 +465,17 @@ Full lakes of butter with their banks of honey, flowing with wine, and milk and 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-च॒तुरः॑ कु॒म्भांश्च॑तु॒र्धा द॑दामि क्षी॒रेण॑ पू॒र्नाँ उ॑द॒केन॑ द॒ध्ना।  
-ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त् पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥७॥  
+च॒तुरः॑ कु॒म्भांश्च॑तु॒र्धा द॑दामि क्षी॒रेण॑ पू॒र्णाँ उ॑द॒केन॑ द॒ध्ना।  
+ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-च॒तुरः॑ कु॒म्भांश्च॑तु॒र्धा द॑दामि क्षी॒रेण॑ पू॒र्णाँ उ॑द॒केन॑ द॒ध्ना। ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+च॒तुरः॑ कु॒म्भांश्च॑तु॒र्धा द॑दामि क्षी॒रेण॑ पू॒र्णाँ उ॑द॒केन॑ द॒ध्ना।  
+ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
@@ -478,7 +500,7 @@ I give four pitchers, in four several places, filled to the brim with milk and c
 </details>
 <details><summary>पदपाठः</summary>
 
-चतुरः। कुम्भान्। चतुःऽधा। ददामि। क्षीरेण। पूर्णान्। उदकेन। दध्ना। एताः। त्वा। धाराः। उप। यन्तु। सर्वाः। स्वःऽगे। लोके। मधुऽमत्। पिन्वमानाः। उप। त्वा। तिष्ठन्तु। पुष्करिणीः। सम्ऽअन्ताः। ३४.७।
+च॒तुरः॑। कु॒म्भान्। च॒तुः॒ऽधा। द॒दा॒मि॒। क्षी॒रेण॑। पू॒र्णान्। उ॒द॒केन॑। द॒ध्ना। ए॒ताः। त्वा॒। धाराः॑। उप॑। य॒न्तु॒। सर्वाः॑। स्वः॒ऽगे। लो॒के। मधु॑ऽमत्। पिन्व॑मानाः। उप॑। त्वा॒। ति॒ष्ठ॒न्तु॒। पु॒ष्क॒रिणीः॑। सम्ऽअ॑न्ताः। ३४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -509,14 +531,17 @@ I give four pitchers, in four several places, filled to the brim with milk and c
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्ग॑म्।  
-स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥८॥
+इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्गम्।  
+स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्गम्। स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥
+इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्गम्।  
+स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/08_imamodanaM_ni.md">
@@ -547,7 +572,7 @@ I part this Odana among the Brahmans, Vishtari, conquering worlds and reaching h
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। ओदनम्। नि। दधे। ब्राह्मणेषु। विष्टारिणम्। लोकऽजितम्। स्वःऽगम्। सः। मे। मा। क्षेष्ट। स्वधया। पिन्वमानः। विश्वऽरूपा। धेनुः। कामऽदुघा। मे। अस्तु। ३४.८।
+इ॒मम्। ओ॒द॒नम्। नि। द॒धे॒। ब्रा॒ह्म॒णेषु॑। वि॒ष्टा॒रिण॑म्। लो॒क॒ऽजित॑म्। स्वः॒ऽगम्। सः। मे॒। मा। क्षे॒ष्ट॒। स्व॒धया॑। पिन्व॑मानः। वि॒श्वऽरू॑पा। धे॒नुः। का॒म॒ऽदुघा॑। मे॒। अ॒स्तु॒। ३४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

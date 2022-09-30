@@ -32,22 +32,25 @@ A prayer to Brahmanaspati for protection from wicked men
 </details>
 </details>
 </div>
-## ०१ यो३स्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/01_yo3smAnbrahmaNaspate-devo_abhimanyate.md">
+## ०१ योस्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो॒३स्मा॑न् ब्र॑ह्मणस्प॒तेऽदे॑वो अभि॒मन्य॑ते ।  
-सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते॑॥१॥  
+यो॒३॒॑स्मान्ब्र॑ह्मणस्प॒तेऽदे॑वो अभि॒मन्य॑ते।  
+सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/01_yo3smAnbrahmaNaspate-devo_abhimanyate.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो॒३॒॑स्मान्ब्र॑ह्मणस्प॒तेऽदे॑वो अभि॒मन्य॑ते। सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
+यो॒३॒॑स्मान्ब्र॑ह्मणस्प॒तेऽदे॑वो अभि॒मन्य॑ते।  
+सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/01_yo3smAnbrahmaNaspate-devo_abhimanyate.md">
-<details open><summary><h3>०१ यो३स्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
+<details open><summary><h3>०१ योस्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -63,7 +66,7 @@ The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as p
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अस्मान्। ब्रह्मणः। पते। अदेवः। अभिऽमन्यते। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ६.१।
+यः। अ॒स्मान्। ब्र॒ह्म॒णः॒। प॒ते॒। अदे॑वः। अ॒भि॒ऽमन्य॑ते। सर्व॑म्। तम्। र॒न्ध॒या॒सि॒। मे॒। यज॑मानाय। सु॒न्व॒ते। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,14 +97,17 @@ The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ सोम सुशं॒सिनो॑ दुः॒शंस॑ आ॒दिदे॑शति ।  
-वज्रे॑णास्य॒ मुखे॑ जहि॒ स संपि॑ष्टो॒ अपा॑यति ॥२॥  
+यो नः॑ सोम सुशं॒सिनो॑ दुः॒शंस॑ आ॒दिदे॑शति।  
+वज्रे॑णास्य॒ मुखे॑ जहि॒ स संपि॑ष्टो॒ अपा॑यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/02_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॑ सोम सुशं॒सिनो॑ दुः॒शंस॑ आ॒दिदे॑शति। वज्रे॑णास्य॒ मुखे॑ जहि॒ स संपि॑ष्टो॒ अपा॑यति ॥
+यो नः॑ सोम सुशं॒सिनो॑ दुः॒शंस॑ आ॒दिदे॑शति।  
+वज्रे॑णास्य॒ मुखे॑ जहि॒ स संपि॑ष्टो॒ अपा॑यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/02_yo_naH.md">
@@ -125,7 +131,7 @@ If, Soma, any spiteful man hath aimed at us whose thoughts are kind, Smite with 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। सोम। सुऽशंसिनः। दुःऽशंसः। आऽदिदेशति। वज्रेण। अस्य। मुखे। जहि। सः। सम्ऽपिष्टः। अप। अयति। ६.२।
+यः। नः॒। सो॒म॒। सु॒ऽशं॒सिनः॑। दुः॒ऽशंसः॑। आ॒ऽदिदे॑शति। वज्रे॑ण। अ॒स्य॒। मुखे॑। ज॒हि॒। सः। सम्ऽपि॑ष्टः। अप॑। अय॒ति॒। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,14 +162,17 @@ If, Soma, any spiteful man hath aimed at us whose thoughts are kind, Smite with 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ सोमाभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑ ।  
-अप॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौर्व॑ध॒त्मना॑ ॥३॥
+यो नः॑ सोमाभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑।  
+अप॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौर्व॑ध॒त्मना॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/03_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॑ सोमाभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑। अप॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौर्व॑ध॒त्मना॑ ॥
+यो नः॑ सोमाभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑।  
+अप॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौर्व॑ध॒त्मना॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/03_yo_naH.md">
@@ -196,7 +205,7 @@ Soma, whoever troubleth us, be he a stranger or akin, Deprive him of the strengt
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। सोम। अभिऽदासति। सऽनाभिः। यः। च। निष्ट्यः। अप। तस्य। बलम्। तिर। महीऽइव। द्यौः। वधत्मना। ६.३।
+यः। नः॒। सो॒म॒। अ॒भि॒ऽदास॑ति। सऽना॑भिः। यः। च॒। निष्ट्यः॑। अप॑। तस्य॑। बल॑म्। ति॒र॒। म॒हीऽइ॑व। द्यौः। व॒ध॒त्मना॑। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

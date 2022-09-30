@@ -42,8 +42,10 @@ The hyperbolical glorification of the Vratya or Aryan Non-conformist
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 व्रात्य॑आसी॒दीय॑मान ए॒व स प्र॒जाप॑तिं॒ समै॑रयत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
@@ -63,7 +65,7 @@ There was a roaming Vratya. He roused Prajapati to action.
 </details>
 <details><summary>पदपाठः</summary>
 
-व्रात्यः। आसीत्। ईयमानः। एव। सः। प्रजाऽपतिम्। सम्। ऐरयत्। १.१।
+व्रात्यः॑। आ॒सी॒त्। ईय॑मानः। ए॒व। सः। प्र॒जाऽप॑तिम्। सम्। ऐ॒र॒य॒त्। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,8 +102,10 @@ There was a roaming Vratya. He roused Prajapati to action.
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स प्र॒जाप॑तिःसु॒वर्ण॑मा॒त्मन्न॑पश्य॒त्तत्प्राज॑नयत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
@@ -120,7 +124,7 @@ Prajapati beheld gold in himself and engendered it.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। प्रजाऽपतिः। सुऽवर्णम्। आत्मन्। अपश्यत्। तत्। प्र। अजनयत्। १.२।
+सः। प्र॒जाऽप॑तिः। सु॒ऽवर्ण॑म्। आ॒त्मन्। अ॒प॒श्य॒त्। तत्। प्र। अ॒ज॒न॒य॒त्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -147,29 +151,23 @@ Prajapati beheld gold in himself and engendered it.
 </details>
 </details>
 </div>
-## ०३ तदेकमभवत् तल्ललाममभवत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/03_tadekamabhavat_tallalAmamabhavat.md">
+## ०३ तदेकमभवत्तल्ललाममभवत्तन्महदभवत्तज्ज्येष्ठमभवत्तद्ब्रह्माभवत्तत्तपोऽभवत्तत्सत्यमभवत्तेन
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तद् एक॑म् अभवत्।  
-तल् ल॒लाम॑म्+++(=भूषणम्)+++ अभवत्।  
-तन् म॒हद् अ॑भवत्।  
-तज् ज्ये॒ष्ठम् अ॑भवत्।  
-तद् ब्रह्मा॑भवत्।  
-तत् तपो॑ऽभवत्।  
-तत् स॒त्यम् अ॑भवत्।  
-तेन॒ प्राजा॑यत ॥३॥  
+तदेक॑मभव॒त्तल्ल॒लाम॑मभव॒त्तन्म॒हद॑भव॒त्तज्ज्ये॒ष्ठम॑भव॒त्तद्ब्रह्मा॑भव॒त्तत्तपो॑ऽभव॒त्तत्स॒त्यम॑भव॒त्तेन॒ प्राजा॑यत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/03_tadekamabhavat_tallalAmamabhavat.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तदेक॑मभव॒त् तल्ल॒लाम॑मभव॒त् तन्म॒हद॑भव॒त् तज्ज्ये॒ष्ठम॑भव॒त् तद्  
-ब्रह्मा॑भव॒त् तत् तपो॑ऽभव॒त् तत् स॒त्यम॑भव॒त् तेन॒ प्राजा॑यत ॥३॥  
+तदेक॑मभव॒त्तल्ल॒लाम॑मभव॒त्तन्म॒हद॑भव॒त्तज्ज्ये॒ष्ठम॑भव॒त्तद्ब्रह्मा॑भव॒त्तत्तपो॑ऽभव॒त्तत्स॒त्यम॑भव॒त्तेन॒ प्राजा॑यत ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/03_tadekamabhavat_tallalAmamabhavat.md">
-<details open><summary><h3>०३ तदेकमभवत् तल्ललाममभवत् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
+<details open><summary><h3>०३ तदेकमभवत्तल्ललाममभवत्तन्महदभवत्तज्ज्येष्ठमभवत्तद्ब्रह्माभवत्तत्तपोऽभवत्तत्सत्यमभवत्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -188,7 +186,7 @@ That became unique, that became distinguished, that became great, that became ex
 </details>
 <details><summary>पदपाठः</summary>
 
-तत्। एकम्। अभवत्। तत्। ललामम्। अभवत्। तत्। महत्। अभवत्। तत्। ज्येष्ठम्। अभवत्। तत्। ब्रह्म। अभवत्। तत्। तपः। अभवत्। तत्। सत्यम्। अभवत्। तेन। प्र। अजायत। १.३।
+तत्। एक॑म्। अ॒भ॒व॒त्। तत्। ल॒लाम॑म्। अ॒भ॒व॒त्। तत्। म॒हत्। अ॒भ॒व॒त्। तत्। ज्ये॒ष्ठम्। अ॒भ॒व॒त्। तत्। ब्रह्म॑। अ॒भ॒व॒त्। तत्। तपः॑। अ॒भ॒व॒त्। तत्। स॒त्यम्। अ॒भ॒व॒त्। तेन॑। प्र। अ॒जा॒य॒त॒। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -219,15 +217,15 @@ That became unique, that became distinguished, that became great, that became ex
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सो ऽवर्धत।  
-स म॒हान् अ॑भवत्।  
-स म॑हादे॒वो ऽभवत्॥४॥  
+सो᳡ऽव॑र्धत॒ सम॒हान॑भव॒त्स म॑हादे॒वो᳡ऽभ॑वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोऽव॑र्धत॒ सम॒हान॑भव॒त्स म॑हादे॒वोऽभ॑वत् ॥
+सो᳡ऽव॑र्धत॒ सम॒हान॑भव॒त्स म॑हादे॒वो᳡ऽभ॑वत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
@@ -247,7 +245,7 @@ He grew, he became great, he became Mahadeva.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। अवर्धत। सः। महान्। अभवत्। सः। महाऽदेवः। अभवत्। १.४।
+सः। अ॒व॒र्ध॒त॒। सः। म॒हान्। अ॒भ॒व॒त्। सः। म॒हा॒ऽदे॒वः। अ॒भ॒व॒त्। १.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -278,14 +276,15 @@ He grew, he became great, he became Mahadeva.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स दे॒वाना॑म् ई॒शां +++(पदवीं)+++ पर्यैत्।  
-स ईशा॑नो ऽभवत्॥५॥  
+स दे॒वाना॑मी॒शांपर्यै॒त्स ईशा॑नोऽभवत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स दे॒वाना॑मी॒शांपर्यै॒त्स ईशा॑नोऽभवत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
@@ -305,7 +304,7 @@ He gained the lordship of the Gods. He became Lord.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। देवानाम्। ईशाम्। परि। ऐत्। सः। ईशानः। अभवत्। १.५।
+सः। दे॒वाना॑म्। ई॒शाम्। परि॑। ऐ॒त्। सः। ईशा॑नः। अ॒भ॒व॒त्। १.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -343,8 +342,10 @@ He gained the lordship of the Gods. He became Lord.
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स ए॑कव्रा॒त्योऽभ॑व॒त्स धनु॒राद॑त्त॒ तदे॒वेन्द्र॑ध॒नुः ॥
+स ए॑कव्रा॒त्यो᳡ऽभ॑व॒त्स धनु॒राद॑त्त॒ तदे॒वेन्द्र॑ध॒नुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
@@ -365,7 +366,7 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। एकऽव्रात्यः। अभवत्। सः। धनुः। आ। अदत्त। तत्। एव। इन्द्रऽधनुः। १.६।
+सः। ए॒क॒ऽव्रा॒त्यः। अ॒भ॒व॒त्। सः। धनुः॑। आ। अ॒द॒त्त॒। तत्। ए॒व। इ॒न्द्र॒ऽध॒नुः। १.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -396,14 +397,15 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नील॑म् अस्यो॒दरं॒,  
-लोहि॑तं पृ॒ष्ठम्॥७॥  
+नील॑मस्यो॒दरं॒लोहि॑तं पृ॒ष्ठम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 नील॑मस्यो॒दरं॒लोहि॑तं पृ॒ष्ठम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
@@ -423,7 +425,7 @@ His belly is dark-blue, his back is red.
 </details>
 <details><summary>पदपाठः</summary>
 
-नीलम्। अस्य। उदरम्। लोहितम्। पृष्ठम्। १.७।
+नील॑म्। अ॒स्य॒। उ॒दर॑म्। लोहि॑तम्। पृ॒ष्ठम्। १.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -454,15 +456,15 @@ His belly is dark-blue, his back is red.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नीले॑नै॒वाप्रि॑यं॒ भ्रातृ॑व्यं॒ प्रोर्णो॑ति॒,  
-लोहि॑तेन द्वि॒षन्तं॑ विध्य॒तीति॑  
-ब्रह्मवा॒दिनो॑ वदन्ति ॥८॥
+नीले॑नै॒वाप्रि॑यं॒ भ्रातृ॑व्यं॒ प्रोर्णो॑ति॒ लोहि॑तेन द्वि॒षन्तं॑ विध्य॒तीति॑ब्रह्मवा॒दिनो॑ वदन्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 नीले॑नै॒वाप्रि॑यं॒ भ्रातृ॑व्यं॒ प्रोर्णो॑ति॒ लोहि॑तेन द्वि॒षन्तं॑ विध्य॒तीति॑ब्रह्मवा॒दिनो॑ वदन्ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
@@ -485,7 +487,7 @@ With dark-blue he envelops a detested rival, with red he pierces the man who hat
 </details>
 <details><summary>पदपाठः</summary>
 
-नीलेन। एव। अप्रियम्। भ्रातृव्यम्। प्र। ऊर्णोति। लोहितेन। द्विषन्तम्। विध्यति। इति। ब्रह्मऽवादिनः। वदन्ति। १.८।
+नीले॑न। ए॒व। अप्रि॑यम्। भ्रातृ॑व्यम्। प्र। ऊ॒र्णो॒ति॒। लोहि॑तेन। द्वि॒षन्त॑म्। वि॒ध्य॒ति॒। इति॑। ब्र॒ह्म॒ऽवा॒दिनः॑। व॒द॒न्ति॒। १.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,13 +36,15 @@ A prayer to Agni for aid against an enemy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/01_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत् ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥१॥  
+अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/01_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/01_agne_yatte.md">
@@ -63,7 +65,7 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। तपः। तेन। तम्। प्रति। तप। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.१।
+अग्ने॑। यत्। ते॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,13 +96,15 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/02_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत् ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥२॥  
+अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/02_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/02_agne_yatte.md">
@@ -122,7 +126,7 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। हरः। तेन। तम्। प्रति। हर। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.२।
+अग्ने॑। यत्। ते॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,13 +157,15 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत् ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥३॥  
+अग्ने॒ यत्ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अग्ने॒ यत्ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
@@ -178,7 +184,7 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। अर्चिः। तेन। तम्। प्रति। अर्च। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.३।
+अग्ने॑। यत्। ते॒। अ॒र्चिः। तेन॑। तम्। प्रति॑। अ॒र्च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -209,13 +215,15 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/04_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत् ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥४॥  
+अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/04_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/04_agne_yatte.md">
@@ -234,7 +242,7 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। शोचिः। तेन। तम्। प्रति। शोच। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.४।
+अग्ने॑। यत्। ते॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -265,13 +273,15 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/05_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ यत् ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥५॥
+अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/05_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/05_agne_yatte.md">
@@ -296,7 +306,7 @@ O Agni, with the splendour that is thine darken the man who hates us, whom we ha
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। तेजः। तेन। तम्। अतेजसम्। कृणु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.५।
+अग्ने॑। यत्। ते॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

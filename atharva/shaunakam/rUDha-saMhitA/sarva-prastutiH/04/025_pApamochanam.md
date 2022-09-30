@@ -36,14 +36,17 @@ A hymn of prayer and praise to Vayu and Savitar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद् वि॒शथो॒ यौ च॒ रक्ष॑थः ।  
-यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्वि॒शथो॒ यौ च॒ रक्ष॑थः।  
+यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्वि॒शथो॒ यौ च॒ रक्ष॑थः। यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्वि॒शथो॒ यौ च॒ रक्ष॑थः।  
+यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
@@ -72,7 +75,7 @@ I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the
 </details>
 <details><summary>पदपाठः</summary>
 
-वायोः। सवितुः। विदथानि। मन्महे। यौ। आत्मन्ऽवत्। विशथः। यौ। च। रक्षथः। यौ। विश्वस्य। परिभू इति  परिऽभू। बभूवथुः। तौ। नः। मुञ्चतम्। अंहसः। २५.१।
+वा॒योः। स॒वि॒तुः। वि॒दथा॑नि। म॒न्म॒हे॒। यौ। आ॒त्म॒न्ऽवत्। वि॒शथः॑। यौ। च॒। रक्ष॑थः। यौ। विश्व॑स्य। प॒रि॒भू इति॑ प॒रि॒ऽभू। ब॒भू॒वथुः॑। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे ।  
-ययोः॑ प्रा॒यं नान्वा॑न॒शे कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥२॥  
+ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे।  
+ययोः॑ प्रा॒यं नान्वा॑नशे॒ कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे। ययोः॑ प्रा॒यं नान्वा॑नशे॒ कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥
+ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे।  
+ययोः॑ प्रा॒यं नान्वा॑नशे॒ कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
@@ -137,7 +143,7 @@ Ye who have counted up the earth's expanses, and in the sky smoothed out the air
 </details>
 <details><summary>पदपाठः</summary>
 
-ययोः। सम्ऽख्याता। वरिमा। पार्थिवानि। याभ्याम्। रजः। युपितम्। अन्तरिक्षे। ययोः। प्रऽअयम्। न। अनुऽआनशे। कः। चन। तौ। नः। मुञ्चतम्। अंहसः। २५.२।
+ययोः॑। सम्ऽख्या॑ता। वरि॑मा। पार्थि॑वानि। याभ्या॑म्। रजः॑। यु॒पि॒तम्। अ॒न्तरि॑क्षे। ययोः॑। प्र॒ऽअ॒यम्। न। अ॒नु॒ऽआ॒न॒शे। कः। च॒न। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Ye who have counted up the earth's expanses, and in the sky smoothed out the air
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/03_tava_vrate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो ।  
-यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥३॥  
+तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो।  
+यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/03_tava_vrate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो। यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो।  
+यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/03_tava_vrate.md">
@@ -198,7 +207,7 @@ Beauteously bright! men rest in thy dominion when thou hast risen up and hastene
 </details>
 <details><summary>पदपाठः</summary>
 
-तव। व्रते। नि। विशन्ते। जनासः। त्वयि। उत्ऽइते। प्र। ईरते। चित्रभानो इति  चित्रऽभानो। युवम्। वायो इति। सविता। च। भुवनानि। रक्षथः। तौ। नः। मुञ्चतम्। अंहसः। २५.३।
+तव॑। व्र॒ते। नि। वि॒श॒न्ते॒। जना॑सः। त्वयि॑। उत्ऽइ॑ते। प्र। ई॒र॒ते॒। चि॒त्र॒भा॒नो॒ इति॑ चित्रऽभानो। यु॒वम्। वा॒यो॒ इति॑। स॒वि॒ता। च॒। भुव॑नानि। र॒क्ष॒थः॒। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -230,13 +239,16 @@ Beauteously bright! men rest in thy dominion when thou hast risen up and hastene
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्।  
-सं ह्यू॒३र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+सं ह्यू॒३॒॑र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/04_apeto_vAyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्। सं ह्यू॒३॒॑र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्।  
+सं ह्यू॒३॒॑र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/04_apeto_vAyo.md">
@@ -262,7 +274,7 @@ Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons.
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। इतः। वायो इति। सविता। च। दुःऽकृतम्। अप। रक्षांसि। शिमिदाम्। च। सेधतम्। सम्। हि। ऊर्जया। सृजथः। सम्। बलेन। तौ। नः। मुञ्चतम्। अंहसः। २५.४।
+अप॑। इ॒तः। वा॒यो॒ इति॑। स॒वि॒ता। च॒। दुः॒ऽकृ॒तम्। अप॑। रक्षां॑सि। शिमि॑दाम्। च॒। से॒ध॒त॒म्। सम्। हि। ऊ॒र्जया॑। सृ॒जथः॑। सम्। बले॑न। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -294,13 +306,16 @@ Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्।  
-अ॒य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+अ॑य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/05_rayiM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्। अ॑य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्।  
+अ॑य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/05_rayiM_me.md">
@@ -325,7 +340,7 @@ Of their own selves let Savitar and Vayu send favourable strength and wealth and
 </details>
 <details><summary>पदपाठः</summary>
 
-रयिम्। मे। पोषम्। सविता। उत। वायुः। तनू इति। दक्षम्। आ। सुवताम्। सुऽशेवम्। अयक्ष्मऽतातिम्। महः। इह। धत्तम्। तौ। नः। मुञ्चतम्। अंहसः। २५.५।
+र॒यिम्। मे॒। पोष॑म्। स॒वि॒ता। उ॒त। वा॒युः। त॒नू इति॑। दक्ष॑म्। आ। सु॒व॒ता॒म्। सु॒ऽशेव॑म्। अ॒य॒क्ष्मऽता॑तिम्। महः॑। इ॒ह। ध॒त्त॒म्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -356,14 +371,17 @@ Of their own selves let Savitar and Vayu send favourable strength and wealth and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/06_pra_sumatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः ।  
-अ॒र्वाग् वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः।  
+अ॒र्वाग्वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/06_pra_sumatim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः। अ॒र्वाग्वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः।  
+अ॒र्वाग्वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/06_pra_sumatim.md">
@@ -391,7 +409,7 @@ Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. C
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। सुऽमतिम्। सवितः। वायो  इति। ऊतये। महस्वन्तम्। मत्सरम्। मादयाथः। अर्वाक्। वामस्य। प्रऽवतः। नि। यच्छतम्। तौ। नः। मुञ्चतम्। अंहसः। २५.६।
+प्र। सु॒ऽम॒तिम्। स॒वि॒तः॒। वा॒यो॒ इति॑। ऊ॒तये॑। मह॑स्वन्तम्। म॒त्स॒रम्। मा॒द॒या॒थः॒। अ॒र्वाक्। वा॒मस्य॑। प्र॒ऽवतः॑। नि। य॒च्छ॒त॒म्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -422,14 +440,17 @@ Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. C
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/07_upa_shreShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्।  
-स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
+उ॒प श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्।  
+स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/07_upa_shreShThA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒प श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्। स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥
+उ॒प श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्।  
+स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/07_upa_shreShThA.md">
@@ -456,7 +477,7 @@ Like noblest benisons they have stayed in the God loving man's abode. I glorify 
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। श्रेष्ठाः। नः। आऽशिषः। देवयोः। धामन्। अस्थिरन्। स्तौमि। देवम्। सवितारम्। च। वायुम्। तौ। नः। मुञ्चतम्। अंहसः। २५.७।
+उप॑। श्रेष्ठाः॑। नः॒। आ॒ऽशिषः॑। दे॒वयोः॑। धाम॑न्। अ॒स्थि॒र॒न्। स्तौमि॑। दे॒वम्। स॒वि॒तार॑म्। च॒। वा॒युम्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपि॑ वृश्च पुराण॒वद् व्र॒तते॑रिव गुष्पि॒तम्।  
-ओजो॑ दा॒स्यस्य॑ दम्भय ॥१॥  
+अपि॑ वृश्च पुराण॒वद्व्र॒तते॑रिव गुष्पि॒तम्।  
+ओजो॑ दा॒स्यस्य॑ दम्भय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपि॑ वृश्च पुराण॒वद्व्र॒तते॑रिव गुष्पि॒तम्। ओजो॑ दा॒स्यस्य॑ दम्भय ॥
+अपि॑ वृश्च पुराण॒वद्व्र॒तते॑रिव गुष्पि॒तम्।  
+ओजो॑ दा॒स्यस्य॑ दम्भय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
@@ -69,7 +72,7 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 </details>
 <details><summary>पदपाठः</summary>
 
-अपि। वृश्च। पुराणऽवत्। व्रततेःऽइव। गुष्पितम्। ओजः। दासस्य। दम्भय। ९५.१।
+अपि॑। वृ॒श्च॒। पु॒रा॒ण॒ऽवत्। व्र॒ततेः॑ऽइव। गु॒ष्पि॒तम्। ओजः॑। दा॒सस्य॑। द॒म्भ॒य॒। ९५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै ।  
-म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥२॥  
+व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै।  
+म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै। म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥
+व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै।  
+म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
@@ -136,7 +142,7 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 </details>
 <details><summary>पदपाठः</summary>
 
-वयम्। तत्। अस्य। सम्ऽभृतम्। वसु। इन्द्रेण। वि। भजामहै। म्लापयामि। भ्रजः। शिभ्रम्। वरुणस्य। व्रतेन। ते। ९५.२।
+व॒यम्। तत्। अ॒स्य॒। सम्ऽभृ॑तम्। वसु॑। इन्द्रे॑ण। वि। भ॒जा॒म॒है॒। म्ला॒पया॑मि। भ्र॒जः। शि॒भ्रम्। वरु॑णस्य। व्र॒तेन॑। ते॒। ९५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,8 +180,12 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/03_yathA_shepo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ शेपो॑ अ॒पाया॑तै स्त्री॒षु चास॒दना॑वयाः। अ॑व॒स्थस्य॑ क्न॒दीव॑तः शाङ्कु॒रस्य॑ नितो॒दिनः॑। यदात॑त॒मव॒ तत्त॑नु॒ यदुत्त॑तं॒ नि तत्त॑नु ॥
+यथा॒ शेपो॑ अ॒पाया॑तै स्त्री॒षु चास॒दना॑वयाः।  
+अ॑व॒स्थस्य॑ क्न॒दीव॑तः शाङ्कु॒रस्य॑ नितो॒दिनः॑।  
+यदात॑त॒मव॒ तत्त॑नु॒ यदुत्त॑तं॒ नि तत्त॑नु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
@@ -210,7 +220,7 @@ Ut virga abeat et feminis innocua fiat, (virga) membri humidi, membri quod verbe
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। शेपः। अपऽअयातै। स्त्रीषु। च। असत्। अनावयाः। अवस्थस्य। क्नदिऽवतः। शाङ्कुरस्य। निऽतोदिनः। यत्। आऽततम्। अव। तत्। तनु। यत्। उत्ऽततम्। नि। तत्। तनु। ९५.३।
+यथा॑। शेपः॑। अ॒प॒ऽअया॑तै। स्त्री॒षु। च॒। अस॑त्। अना॑वयाः। अ॒व॒स्थस्य॑। क्न॒दिऽव॑तः। शा॒ङ्कु॒रस्य॑। नि॒ऽतो॒दिनः॑। यत्। आऽत॑तम्। अव॑। तत्। त॒नु॒। यत्। उत्ऽत॑तम्। नि। तत्। त॒नु॒। ९५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

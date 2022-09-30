@@ -37,14 +37,18 @@ In praise of Brahma, Prayer, or Devotion
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-अ॒ग्निर्मा॒ तत्र॑ नयत्व॒ग्निर्मे॒धा द॑धातु मे । अ॒ग्नये॒ स्वाहा॑ ॥१॥  
+अ॒ग्निर्मा॒ तत्र॑ नयत्व॒ग्निर्मे॒धा द॑धातु मे।  
+अ॒ग्नये॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/01_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-अ॒ग्निर्मा॒ तत्र॑ नयत्व॒ग्निर्मे॒धा द॑धातु मे । अ॒ग्नये॒ स्वाहा॑ ॥१॥  
+अ॒ग्निर्मा॒ तत्र॑ नयत्व॒ग्निर्मे॒धा द॑धातु मे।  
+अ॒ग्नये॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/01_yatra_brahmavido.md">
@@ -69,7 +73,7 @@ Whither men versed in Brahma go, with fervour and the cleans- ing rite, Thither 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। अग्निः। मा। तत्र। नयतु। अग्निः। मेधाः। दधातु। मे। अग्नये। स्वाहा। ४३.१।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। अ॒ग्निः। मा॒। तत्र॑। न॒य॒तु॒। अ॒ग्निः। मे॒धाः। द॒धा॒तु॒। मे॒। अ॒ग्नये॑। स्वाहा॑। ४३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +105,18 @@ Whither men versed in Brahma go, with fervour and the cleans- ing rite, Thither 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-वा॒युर्मा॒ तत्र॑ नयतु वा॒युः प्रा॒णान् द॑धातु मे। वा॒यवे॒ स्वाहा॑ ॥२॥  
+वा॒युर्मा॒ तत्र॑ नयतु वा॒युः प्र॒णान्द॑धातु मे।  
+वा॒यवे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/02_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह। वा॒युर्मा॒ तत्र॑ नयतु वा॒युः प्र॒णान्द॑धातु मे। वा॒यवे॒ स्वाहा॑ ॥
+यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
+वा॒युर्मा॒ तत्र॑ नयतु वा॒युः प्र॒णान्द॑धातु मे।  
+वा॒यवे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/02_yatra_brahmavido.md">
@@ -126,7 +135,7 @@ Whither etc. Thither let Vayu lead me, let Vayu vouchsafe me vital breath. All h
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। वायुः। मा। तत्र। नयतु। वायुः। प्राणान्। दधातु। मे। वायवे। स्वाहा। ४३.२।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। वा॒युः। मा॒। तत्र॑। न॒य॒तु॒। वा॒युः। प्रा॒णान्। द॒धा॒तु॒। मे॒। वा॒यवे॑। स्वाहा॑। ४३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +167,18 @@ Whither etc. Thither let Vayu lead me, let Vayu vouchsafe me vital breath. All h
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे । सूर्या॑य॒ स्वाहा॑ ॥३॥  
+सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे।  
+सूर्या॑य॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/03_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे । सूर्या॑य॒ स्वाहा॑ ॥३॥  
+सूर्यो॑ मा॒ तत्र॑ नयतु॒ चक्षुः॒ सूर्यो॑ दधातु मे।  
+सूर्या॑य॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/03_yatra_brahmavido.md">
@@ -184,7 +197,7 @@ Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। सूर्यः। मा। तत्र। नयतु। चक्षुः। सूर्यः। दधातु। मे। सूर्याय। स्वाहा। ४३.३।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। सूर्यः॑। मा॒। तत्र॑। न॒य॒तु॒। चक्षुः॑। सूर्यः॑। द॒धा॒तु॒। मे॒। सूर्या॑य। स्वाहा॑। ४३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -216,14 +229,18 @@ Whither, etc. Thither let Surya lead me, let Surya vouchsafe me power of sight. 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे । च॒न्द्राय॒ स्वाहा॑ ॥४॥  
+च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे।  
+च॒न्द्राय॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/04_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे । च॒न्द्राय॒ स्वाहा॑ ॥४॥  
+च॒न्द्रो मा॒ तत्र॑ नयतु॒ मन॑श्च॒न्द्रो द॑धातु मे।  
+च॒न्द्राय॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/04_yatra_brahmavido.md">
@@ -242,7 +259,7 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। चन्द्रः। मा। तत्र। नयतु। मनः। चन्द्रः। दधातु। मे। चन्द्राय। स्वाहा। ४३.४।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। च॒न्द्रः। मा॒। तत्र॑। न॒य॒तु॒। मनः॑। च॒न्द्रः। द॒धा॒तु॒। मे॒। च॒न्द्राय॑। स्वाहा॑। ४३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -274,14 +291,18 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सोमो॑ मा॒ तत्र॑ नयतु॒ पयः॒ सोमो॑ दधातु मे । सोमा॑य॒ स्वाहा॑ ॥५॥  
+सोमो॑ मा॒ तत्र॑ नयतु॒ पयः॒ सोमो॑ दधातु मे।  
+सोमा॑य॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/05_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-सोमो॑ मा॒ तत्र॑ नयतु॒ पयः॒ सोमो॑ दधातु मे । सोमा॑य॒ स्वाहा॑ ॥५॥  
+सोमो॑ मा॒ तत्र॑ नयतु॒ पयः॒ सोमो॑ दधातु मे।  
+सोमा॑य॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/05_yatra_brahmavido.md">
@@ -302,7 +323,7 @@ Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hai
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। सोमः। मा। तत्र। नयतु। पयः। सोमः। दधातु। मे। सोमाय। स्वाहा। ४३.५।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। सोमः॑। मा॒। तत्र॑। न॒य॒तु॒। पयः॑। सोमः॑। द॒धा॒तु॒। मे॒। सोमा॑य। स्वाहा॑। ४३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -333,15 +354,19 @@ Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hai
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/043_brahmA/06_yatra_brahmavido.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॑ ब्रह्म॒विदो॑ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-इन्द्रो॑ मा॒ तत्र॑ नयतु॒ बल॒मिन्द्रो॑ दधातु मे । इन्द्रा॑य॒ स्वाहा॑ ॥६॥  
+यत्र॑ ब्रह्म॒विदो॑ यान्ति दी॒क्षया॒ तप॑सा स॒ह।  
+इन्द्रो॑ मा॒ तत्र॑ नयतु॒ बल॒मिन्द्रो॑ दधातु मे।  
+इन्द्रा॑य॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/06_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्र॑ ब्रह्म॒विदो॑ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-इन्द्रो॑ मा॒ तत्र॑ नयतु॒ बल॒मिन्द्रो॑ दधातु मे । इन्द्रा॑य॒ स्वाहा॑ ॥६॥  
+यत्र॑ ब्रह्म॒विदो॑ यान्ति दी॒क्षया॒ तप॑सा स॒ह।  
+इन्द्रो॑ मा॒ तत्र॑ नयतु॒ बल॒मिन्द्रो॑ दधातु मे।  
+इन्द्रा॑य॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/06_yatra_brahmavido.md">
@@ -360,7 +385,7 @@ Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hai
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। इन्द्रः। मा। तत्र। नयतु। बलम्। इन्द्रः। दधातु। मे। इन्द्राय। स्वाहा। ४३.६।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। इन्द्रः॑। मा॒। तत्र॑। न॒य॒तु॒। बल॑म्। इन्द्रः॑। द॒धा॒तु॒। मे॒। इन्द्रा॑य। स्वाहा॑। ४३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -392,14 +417,18 @@ Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hai
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-आपो॑ मा॒ तत्र॑ नयत्व॒मृतं॒ मोप॑ तिष्ठतु । अ॒द्भ्यः स्वाहा॑ ॥७॥  
+आपो॑ मा॒ तत्र॑ नयत्व॒मृतं॒ मोप॑ तिष्ठतु।  
+अ॒द्भ्यः स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/07_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-आपो॑ मा॒ तत्र॑ नयत्व॒मृतं॒ मोप॑ तिष्ठतु । अ॒द्भ्यः स्वाहा॑ ॥७॥  
+आपो॑ मा॒ तत्र॑ नयत्व॒मृतं॒ मोप॑ तिष्ठतु।  
+अ॒द्भ्यः स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/07_yatra_brahmavido.md">
@@ -425,7 +454,7 @@ Whither, etc. Thither, let Waters lead me, let the Waters give me deathless life
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। आपः। मा। तत्र। नयतु। अमृतम्। मा। उप। तिष्ठतु। अत्ऽभ्यः। स्वाहा। ४३.७।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। आपः॑। मा॒। तत्र॑। न॒य॒तु॒। अ॒मृत॑म्। मा॒। उप॑। ति॒ष्ठ॒तु॒। अ॒त्ऽभ्यः। स्वाहा॑। ४३.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -457,14 +486,18 @@ Whither, etc. Thither, let Waters lead me, let the Waters give me deathless life
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-ब्र॒ह्मा मा॒ तत्र॑ नयतु ब्र॒ह्मा ब्रह्म॑ दधातु मे । ब्र॒ह्मणे॒ स्वाहा॑ ॥८॥
+ब्र॒ह्मा मा॒ तत्र॑ नयतु ब्र॒ह्मा ब्रह्म॑ दधातु मे।  
+ब्र॒ह्मणे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/043_brahmA/08_yatra_brahmavido.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यत्र॑ ब्रह्म॒विदो॒ यान्ति॑ दी॒क्षया॒ तप॑सा स॒ह।  
-ब्र॒ह्मा मा॒ तत्र॑ नयतु ब्र॒ह्मा ब्रह्म॑ दधातु मे । ब्र॒ह्मणे॒ स्वाहा॑ ॥८॥
+ब्र॒ह्मा मा॒ तत्र॑ नयतु ब्र॒ह्मा ब्रह्म॑ दधातु मे।  
+ब्र॒ह्मणे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/043_brahmA/08_yatra_brahmavido.md">
@@ -485,7 +518,7 @@ Whither, etc. Thither let Brahma lead me, let Brahma give Brahma unto me. All ha
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। ब्रह्मा। मा। तत्र। नयतु। ब्रह्मा। ब्रह्म। दधातु। मे। ब्रह्मणे। स्वाहा। ४३.८।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। ब्र॒ह्मा। मा॒। तत्र॑। न॒य॒तु॒। ब्र॒ह्मा। ब्रह्म॑। द॒धा॒तु॒। मे॒। ब्र॒ह्मणे॑। स्वाहा॑। ४३.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

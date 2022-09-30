@@ -36,14 +36,17 @@ A charm to secure the supremacy of a dethroned King
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भी॒व॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे॑।  
-तेना॒स्मान् ब्र॑ह्मणस्पते॒ऽभि रा॒ष्ट्राय॑ वर्धय ॥१॥  
+अ॑भीव॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे।  
+तेना॒स्मान्ब्र॑ह्मणस्पते॒ ऽभि रा॒ष्ट्राय॑ वर्धय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑भीव॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे। तेना॒स्मान्ब्र॑ह्मणस्पते॒ ऽभि रा॒ष्ट्राय॑ वर्धय ॥
+अ॑भीव॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे।  
+तेना॒स्मान्ब्र॑ह्मणस्पते॒ ऽभि रा॒ष्ट्राय॑ वर्धय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
@@ -69,7 +72,7 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 </details>
 <details><summary>पदपाठः</summary>
 
-अभिऽवर्तेन। मणिना। येन। इन्द्रः। अभिऽववृधे। तेन। अस्मान्। ब्रह्मणः। पते। अभि। राष्ट्राय। वर्धय।
+अ॒भि॒ऽव॒र्तेन॑। म॒णिना॑। येन॑। इन्द्रः॑। अ॒भि॒ऽव॒वृ॒धे। तेन॑। अ॒स्मान्। ब्र॒ह्म॒णः॒। प॒ते॒। अ॒भि। रा॒ष्ट्राय॑। व॒र्ध॒य॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः ।  
-अभि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥२॥  
+अ॑भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः।  
+अ॒भि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः। अ॒भि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥
+अ॑भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः।  
+अ॒भि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
@@ -129,7 +135,7 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 </details>
 <details><summary>पदपाठः</summary>
 
-अभिऽवृत्य। सऽपत्नान्। अभि। याः। नः। अरातयः। अभि। पृतन्यन्तम्। तिष्ठ। अभि। यः। नः। दुरस्यति।
+अ॒भि॒ऽवृत्य॑। स॒ऽपत्ना॑न्। अ॒भि। याः। नः॒। अरा॑तयः। अ॒भि। पृ॒त॒न्यन्त॑म्। ति॒ष्ठ॒। अ॒भि। यः। नः॒। दु॒र॒स्यति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,13 +167,16 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्।  
-अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥३॥  
+अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्। अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥
+अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्।  
+अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
@@ -191,7 +200,7 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। त्वा। देवः। सविता। अभि। सोमः। अवीवृधत्। अभि। त्वा। विश्वा। भूतानि। अभिऽवर्तः। यथा। अससि।
+अ॒भि। त्वा॒। दे॒वः। स॒वि॒ता। अ॒भि। सोमः॑। अ॒वी॒वृ॒ध॒त्। अ॒भि। त्वा॒। विश्वा॑। भू॒तानि॑। अ॒भि॒ऽव॒र्तः। यथा॑। अस॑सि। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,14 +231,17 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भी॒व॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः ।  
-रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥४॥  
+अ॑भीव॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः।  
+रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑भीव॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः। रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥
+अ॑भीव॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः।  
+रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
@@ -252,7 +264,7 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 </details>
 <details><summary>पदपाठः</summary>
 
-अभिऽवर्तः। अभिऽभवः। सपत्नऽक्षयणः। मणिः। राष्ट्राय। मह्यम्। बध्यताम्। सऽपत्नेभ्यः। पराऽभुवे।
+अ॒भि॒ऽव॒र्तः। अ॒भि॒ऽभ॒वः। स॒प॒त्न॒ऽक्षय॑णः। म॒णिः। रा॒ष्ट्रा॒य॑। मह्य॑म्। ब॒ध्य॒ता॒म्। स॒ऽपत्ने॑भ्यः। प॒रा॒ऽभुवे॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -283,14 +295,17 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑ ।  
-यथा॒हं श॑त्रु॒होऽसा॑न्यसपत्नः सपत्नहा॑॥५॥  
+उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑।  
+यथा॒हं श॑त्रु॒हो ऽसा॑न्यसप॒त्नः स॑पत्न॒हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑। यथा॒हं श॑त्रु॒हो ऽसा॑न्यसप॒त्नः स॑पत्न॒हा ॥
+उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑।  
+यथा॒हं श॑त्रु॒हो ऽसा॑न्यसप॒त्नः स॑पत्न॒हा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
@@ -312,7 +327,7 @@ Yon Sun hath mounted up on high, and this my word hath mounted up That I may smi
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। असौ। सूर्यः। अगात्। उत्। इदम्। मामकम्। वचः। यथा। अहम्। शत्रुऽहः। असानि। असपत्नः। सपत्नऽहा। १.२९.५।
+उत्। अ॒सौ। सूर्यः॑। अ॒गा॒त्। उत्। इ॒दम्। मा॒म॒कम्। वचः॑। यथा॑। अ॒हम्। श॒त्रु॒ऽहः। असा॑नि। अ॒स॒प॒त्नः। स॒प॒त्न॒ऽहा। १.२९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -343,14 +358,17 @@ Yon Sun hath mounted up on high, and this my word hath mounted up That I may smi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प॒त्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः ।  
-यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च ॥६॥
+स॑पत्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः।  
+यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑पत्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः। यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च ॥
+स॑पत्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः।  
+यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
@@ -372,7 +390,7 @@ Destroyer of my rivals, strong, victorious, with royal sway, May I be ruler of t
 </details>
 <details><summary>पदपाठः</summary>
 
-सपत्नऽक्षयणः। वृषा। अभिऽराष्ट्रः। विऽससहिः। यथा। अहम्। एषाम्। वीराणाम्। विऽराजानि। जनस्य। च।
+स॒प॒त्न॒ऽक्षय॑णः। वृषा॑। अ॒भिऽरा॑ष्ट्रः। वि॒ऽस॒स॒हिः। यथा॑। अ॒हम्। ए॒षाम्। वी॒राणा॑म्। वि॒ऽराजा॑नि। जन॑स्य। च॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

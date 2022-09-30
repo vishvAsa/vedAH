@@ -36,14 +36,17 @@ The wickedness of oppressing and robbing Brahmans
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/01_naitAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैतां ते॑ दे॒वा अ॑ददु॒स्तुभ्यं॑ नृपते॒ अत्त॑वे ।  
-मा ब्रा॑ह्म॒णस्य॑ राजन्य॒ गां जि॑घत्सो अना॒द्याम्॥१॥  
+नैतां ते॑ दे॒वा अ॑ददु॒स्तुभ्यं॑ नृपते॒ अत्त॑वे।  
+मा ब्रा॑ह्म॒णस्य॑ राजन्य॒ गां जि॑घत्सो अना॒द्याम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/01_naitAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नैतां ते॑ दे॒वा अ॑ददु॒स्तुभ्यं॑ नृपते॒ अत्त॑वे। मा ब्रा॑ह्म॒णस्य॑ राजन्य॒ गां जि॑घत्सो अना॒द्याम् ॥
+नैतां ते॑ दे॒वा अ॑ददु॒स्तुभ्यं॑ नृपते॒ अत्त॑वे।  
+मा ब्रा॑ह्म॒णस्य॑ राजन्य॒ गां जि॑घत्सो अना॒द्याम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/01_naitAM_te.md">
@@ -64,7 +67,7 @@ The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not,
 </details>
 <details><summary>पदपाठः</summary>
 
-न। एताम्। ते। देवाः। अददुः। तुभ्यम्। नृऽपते। अत्तवे। मा। ब्राह्मणस्य। राजन्य। गाम्। जिघत्सः। अनाद्याम्। १८.१।
+न। ए॒ताम्। ते॒। दे॒वाः। अ॒द॒दुः॒। तुभ्य॑म्। नृ॒ऽप॒ते॒। अत्त॑वे। मा। ब्रा॒ह्म॒णस्य॑। रा॒ज॒न्य॒। गाम्। जि॒घ॒त्सः॒। अ॒ना॒द्याम्। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒क्षद्रु॑ग्धो राज॒न्यः पा॒प आ॑त्मपराजि॒तः ।  
-स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॑वानि॒ माश्वः ॥२॥  
+अ॒क्षद्रु॑ग्धो राज॒न्यः॑ पा॒प आ॑त्मपराजि॒तः।  
+स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॒वानि॒ मा श्वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒क्षद्रु॑ग्धो राज॒न्यः॑ पा॒प आ॑त्मपराजि॒तः। स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॒वानि॒ मा श्वः ॥
+अ॒क्षद्रु॑ग्धो राज॒न्यः॑ पा॒प आ॑त्मपराजि॒तः।  
+स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॒वानि॒ मा श्वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
@@ -123,7 +129,7 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 </details>
 <details><summary>पदपाठः</summary>
 
-अक्षऽद्रुग्धः। राजन्यः᳡। पापः। आत्मऽपराजितः। सः। ब्राह्मणस्‍य। गाम्। अद्यात्। अद्य। जीवानि। श्वः। १८.२।
+अ॒क्षऽद्रु॑ग्धः। रा॒ज॒न्यः᳡। पा॒पः। आ॒त्म॒ऽप॒रा॒जि॒तः। सः। ब्रा॒ह्म॒णस्‍य॑। गाम्। अ॒द्या॒त्। अ॒द्य। जी॒वा॒नि॒। श्वः। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,14 +160,17 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आवि॑ष्टिता॒घवि॑षा पृदा॒कूरि॑व॒ चर्म॑णा ।  
-सा ब्रा॑ह्म॒णस्य॑ राजन्य तृ॒ष्टैषा गौर॑ना॒द्या॥३॥  
+आवि॑ष्टिता॒घवि॑षा पृदा॒कूरि॑व॒ चर्म॑णा।  
+सा ब्रा॑ह्म॒णस्य॑ राजन्य तृ॒ष्टैषा गौर॑ना॒द्या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आवि॑ष्टिता॒घवि॑षा पृदा॒कूरि॑व॒ चर्म॑णा। सा ब्रा॑ह्म॒णस्य॑ राजन्य तृ॒ष्टैषा गौर॑ना॒द्या ॥
+आवि॑ष्टिता॒घवि॑षा पृदा॒कूरि॑व॒ चर्म॑णा।  
+सा ब्रा॑ह्म॒णस्य॑ राजन्य तृ॒ष्टैषा गौर॑ना॒द्या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
@@ -182,7 +191,7 @@ The Brahman's cow is like a snake, charged with due poison, clothed with skin. R
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽविष्टिता। अघऽविषा। पृदाकूःऽइव। चर्मणा। सा। ब्राह्मणस्य। राजन्य। तुष्टा। एषा। गौः। अनाद्या। १८.३।
+आऽवि॑ष्टिता। अ॒घऽवि॑षा। पृ॒दा॒कूःऽइ॑व। चर्म॑णा। सा। ब्रा॒ह्म॒णस्य॑। रा॒ज॒न्य॒। तु॒ष्टा। ए॒षा। गौः। अ॒ना॒द्या। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -213,14 +222,17 @@ The Brahman's cow is like a snake, charged with due poison, clothed with skin. R
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/04_nirvai_xatram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्वै क्ष॒त्रं नय॑ति॒ हन्ति॒ वर्चो॒ऽग्निरि॒वार॑ब्धो॒ वि दु॑नोति॒ सर्व॑म्।  
-यो ब्रा॑ह्म॒णं मन्य॑ते॒ अन्न॑मे॒व स वि॒षस्य॑ पिबति तैमा॒तस्य॑ ॥४॥  
+निर्वै क्ष॒त्रं नय॑ति हन्ति॒ वर्चो॒ऽग्निरि॒वार॑ब्धो॒ वि दु॑नोति॒ सर्व॑म्।  
+यो ब्रा॑ह्म॒णं मन्य॑ते॒ अन्न॑मे॒व स वि॒षस्य॑ पिबति तैमा॒तस्य॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/04_nirvai_xatram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्वै क्ष॒त्रं नय॑ति हन्ति॒ वर्चो॒ऽग्निरि॒वार॑ब्धो॒ वि दु॑नोति॒ सर्व॑म्। यो ब्रा॑ह्म॒णं मन्य॑ते॒ अन्न॑मे॒व स वि॒षस्य॑ पिबति तैमा॒तस्य॑ ॥
+निर्वै क्ष॒त्रं नय॑ति हन्ति॒ वर्चो॒ऽग्निरि॒वार॑ब्धो॒ वि दु॑नोति॒ सर्व॑म्।  
+यो ब्रा॑ह्म॒णं मन्य॑ते॒ अन्न॑मे॒व स वि॒षस्य॑ पिबति तैमा॒तस्य॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/04_nirvai_xatram.md">
@@ -246,7 +258,7 @@ She takes away his strength, she mars his splendour, she ruins everything like f
 </details>
 <details><summary>पदपाठः</summary>
 
-निः। वै। क्षत्रम्। नयति। हन्ति। वर्चः। अग्निःऽइव। आऽरब्धः। वि। दुनोति। सर्वम्। यः। ब्राह्मणम्। मन्यते। अन्नम्। एव। सः। विषस्य। पिबति। तैमातस्य। १८.४।
+निः। वै। क्ष॒त्रम्। नय॑ति। हन्ति॑। वर्चः॑। अ॒ग्निःऽइ॑व। आऽर॑ब्धः। वि। दु॒नो॒ति॒। सर्व॑म्। यः। ब्रा॒ह्म॒णम्। मन्य॑ते। अन्न॑म्। ए॒व। सः। वि॒षस्य॑। पि॒ब॒ति॒। तै॒मा॒तस्य॑। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -278,13 +290,16 @@ She takes away his strength, she mars his splendour, she ruins everything like f
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ए॑नं॒ हन्ति॑ मृ॒दुं मन्य॑मानो देवपी॒युर्धन॑कामो॒ न चि॒त्तात्।  
-सं तस्येन्द्रो॒ हृद॑ये॒ऽग्निमि॑न्धे उ॒भे ए॑नं द्विष्टो॒ नभ॑सी॒ चर॑न्तम्॥५॥  
+सं तस्येन्द्रो॒ हृद॑ये॒ऽग्निमि॑न्ध उ॒भे ए॑नं द्विष्टो॒ नभ॑सी॒ चर॑न्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/05_ya_enam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य ए॑नं॒ हन्ति॑ मृ॒दुं मन्य॑मानो देवपी॒युर्धन॑कामो॒ न चि॒त्तात्। सं तस्येन्द्रो॒ हृद॑ये॒ऽग्निमि॑न्ध उ॒भे ए॑नं द्विष्टो॒ नभ॑सी॒ चर॑न्तम् ॥
+य ए॑नं॒ हन्ति॑ मृ॒दुं मन्य॑मानो देवपी॒युर्धन॑कामो॒ न चि॒त्तात्।  
+सं तस्येन्द्रो॒ हृद॑ये॒ऽग्निमि॑न्ध उ॒भे ए॑नं द्विष्टो॒ नभ॑सी॒ चर॑न्तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/05_ya_enam.md">
@@ -308,7 +323,7 @@ Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth throu
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। एनम्। हन्ति। मृदुम्। मन्यमानः। देवऽपीयुः। धनऽकामः। न। चित्तात्। सम्। तस्य। इन्द्रः। हृदये। अग्निम्। इन्धे। उभे इति। एनम्। द्विष्टः। नभसी इति। चरन्तम्। १८.५।
+यः। ए॒न॒म्। हन्ति॑। मृ॒दुम्। मन्य॑मानः। दे॒व॒ऽपी॒युः। धन॑ऽकामः। न। चि॒त्तात्। सम्। तस्य॑। इन्द्रः॑। हृद॑ये। अ॒ग्निम्। इ॒न्धे॒। उ॒भे इति॑। ए॒न॒म्। द्वि॒ष्टः॒। नभ॑सी॒ इति॑। चर॑न्तम्। १८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -339,14 +354,17 @@ Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth throu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/06_na_brAhmaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ब्रा॑ह्म॒णो हिं॑सित॒व्यो॒३ऽग्निः प्रि॒यत॑नोरिव ।  
-सोमो॒ ह्यऽस्य दाया॒द इन्द्रो॑ अस्याभिशस्ति॒पाः ॥६॥  
+न ब्रा॑ह्म॒णो हिं॑सित॒व्यो॒३॒॑ऽग्निः प्रि॒यत॑नोरिव।  
+सोमो॒ ह्य॑स्य दाया॒द इन्द्रो॑ अस्याभिशस्ति॒पाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/06_na_brAhmaNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न ब्रा॑ह्म॒णो हिं॑सित॒व्यो॒३॒॑ऽग्निः प्रि॒यत॑नोरिव। सोमो॒ ह्य॑स्य दाया॒द इन्द्रो॑ अस्याभिशस्ति॒पाः ॥
+न ब्रा॑ह्म॒णो हिं॑सित॒व्यो॒३॒॑ऽग्निः प्रि॒यत॑नोरिव।  
+सोमो॒ ह्य॑स्य दाया॒द इन्द्रो॑ अस्याभिशस्ति॒पाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/06_na_brAhmaNo.md">
@@ -371,7 +389,7 @@ No Brahman must be injured, safe as fire from him who loves himself. For Soma is
 </details>
 <details><summary>पदपाठः</summary>
 
-न। ब्राह्मणः। हिंसितव्यः᳡। अग्निः। प्रियतनोःऽइव। सोमः। हि। अस्य। दायादः। इन्द्रः। अस्य। अभिशस्तिऽपा। १८.६।
+न। ब्रा॒ह्म॒णः। हिं॒सि॒त॒व्यः᳡। अ॒ग्निः। प्रि॒यत॑नोःऽइव। सोमः॑। हि। अ॒स्य॒। दा॒या॒दः। इन्द्रः॑। अ॒स्य॒। अ॒भि॒श॒स्ति॒ऽपा। १८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -402,14 +420,17 @@ No Brahman must be injured, safe as fire from him who loves himself. For Soma is
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तापा॑ष्ठां॒ नि गि॑रति॒ तां न श॑क्नोति निः॒खिद॑म्।  
-अन्नं॒ यो ब्र॒ह्मणां॑ म॒ल्वः स्वा॒द्व॑१द्मीति॒ मन्य॑ते ॥७॥  
+श॒तापा॑ष्ठां॒ नि गि॑रति॒ तां न श॑क्नोति निः॒खिद॑न्।  
+अन्नं॒ यो ब्र॒ह्मणां॑ म॒ल्वः स्वा॒द्व१॒॑द्मीति॒ मन्य॑ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तापा॑ष्ठां॒ नि गि॑रति॒ तां न श॑क्नोति निः॒खिद॑न्। अन्नं॒ यो ब्र॒ह्मणां॑ म॒ल्वः स्वा॒द्वद्मीति॒ मन्य॑ते ॥
+श॒तापा॑ष्ठां॒ नि गि॑रति॒ तां न श॑क्नोति निः॒खिद॑न्।  
+अन्नं॒ यो ब्र॒ह्मणां॑ म॒ल्वः स्वा॒द्व१॒॑द्मीति॒ मन्य॑ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
@@ -433,7 +454,7 @@ The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, 
 </details>
 <details><summary>पदपाठः</summary>
 
-शतऽअपाष्ठम्। नि। गिरति। ताम्। न। शक्नोति। निःऽखिदन्। अन्नम्। यः। ब्रह्मणाम्। मल्वः। स्वादु। अद्मि। इति। मन्यते। १८.७।
+श॒तऽअ॑पाष्ठम्। नि। गि॒र॒ति॒। ताम्। न। श॒क्नो॒ति॒। निः॒ऽखिद॑न्। अन्न॑म्। यः। ब्र॒ह्मणा॑म्। म॒ल्वः। स्वा॒दु। अ॒द्मि॒। इति॑। मन्य॑ते। १८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -464,14 +485,17 @@ The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/08_jihvA_jyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जिह्वा॒ ज्या भव॑ति॒ कुल्म॑लं॒ वाङ्ना॑डी॒का दन्ता॒स्तप॑सा॒भिदि॑ग्धाः ।  
-ते भि॑र्ब्रह्मा वि॑ध्यति देवपी॒यून् हृ॑द्ब॒लैर्धनु॑र्भिर्दे॒वजू॑तैः ॥८॥  
+जि॒ह्वा ज्या भव॑ति॒ कुल्म॑लं॒ वाङ्ना॑डी॒का दन्ता॒स्तप॑सा॒भिदि॑ग्धाः।  
+तेभि॑र्ब्र॒ह्मा वि॑ध्यति देवपी॒यून् हृ॑द्ब॒लैर्धनु॑र्भिर्दे॒वजू॑तैः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/08_jihvA_jyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जि॒ह्वा ज्या भव॑ति॒ कुल्म॑लं॒ वाङ्ना॑डी॒का दन्ता॒स्तप॑सा॒भिदि॑ग्धाः। तेभि॑र्ब्र॒ह्मा वि॑ध्यति देवपी॒यून् हृ॑द्ब॒लैर्धनु॑र्भिर्दे॒वजू॑तैः ॥
+जि॒ह्वा ज्या भव॑ति॒ कुल्म॑लं॒ वाङ्ना॑डी॒का दन्ता॒स्तप॑सा॒भिदि॑ग्धाः।  
+तेभि॑र्ब्र॒ह्मा वि॑ध्यति देवपी॒यून् हृ॑द्ब॒लैर्धनु॑र्भिर्दे॒वजू॑तैः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/08_jihvA_jyA.md">
@@ -496,7 +520,7 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 </details>
 <details><summary>पदपाठः</summary>
 
-जिह्वा। ज्या। भवति। कुल्मलम्। वाक्। नाडीकाः। दन्ताः। तपसा। अभिऽदिग्धाः। तेभिः। ब्रह्मा। विध्यति। देवऽपीयून्। हृत्ऽबलैः। धनुःऽभिः। देवऽजूतैः। १८.८।
+जि॒ह्वा। ज्या। भव॑ति। कुल्म॑लम्। वाक्। ना॒डी॒काः। दन्ताः॑। तप॑सा। अ॒भिऽदि॑ग्धाः। तेभिः॑। ब्र॒ह्मा। वि॒ध्य॒ति॒। दे॒व॒ऽपी॒यून्। हृ॒त्ऽब॒लैः। धनुः॑ऽभिः। दे॒वऽजू॑तैः। १८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -527,14 +551,17 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ती॒क्ष्णेष॑वो ब्राह्म॒णा हे॑ति॒मन्तो॒ यामस्य॑न्ति शर॒व्यां॒३ न सा मृषा॑ ।  
-अ॒नु॒हाय॒ तप॑सा म॒न्युना॑ चो॒त दू॒रादव॑ भिन्दन्त्येनम्॥९॥  
+ती॒क्ष्णेष॑वो ब्राह्म॒णा हे॑ति॒मन्तो॒ यामस्य॑न्ति शर॒व्यां॒३॒॑ न सा मृषा॑।  
+अ॑नु॒हाय॒ तप॑सा म॒न्युना॑ चो॒त दु॒रादव॑ भिन्दन्त्येनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ती॒क्ष्णेष॑वो ब्राह्म॒णा हे॑ति॒मन्तो॒ यामस्य॑न्ति शर॒व्यां॒३॒॑ न सा मृषा॑। अ॑नु॒हाय॒ तप॑सा म॒न्युना॑ चो॒त दु॒रादव॑ भिन्दन्त्येनम् ॥
+ती॒क्ष्णेष॑वो ब्राह्म॒णा हे॑ति॒मन्तो॒ यामस्य॑न्ति शर॒व्यां॒३॒॑ न सा मृषा॑।  
+अ॑नु॒हाय॒ तप॑सा म॒न्युना॑ चो॒त दु॒रादव॑ भिन्दन्त्येनम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
@@ -556,7 +583,7 @@ Keen arrows have the Brahmans, armed with missiles: the shaft, when they dischar
 </details>
 <details><summary>पदपाठः</summary>
 
-तीक्ष्णऽइषवः। ब्राह्मणाः। हेतिऽमन्तः। याम्। अस्यन्ति। शरव्या᳡म्। न। सा। मृषा। अनुऽहाय। तपसा। मन्युना। च। उत। दूरात्। अव। भिन्दन्ति। एनम्। १८.९।
+ती॒क्ष्णऽइ॑षवः। ब्रा॒ह्म॒णाः। हे॒ति॒ऽमन्तः॑। याम्। अस्य॑न्ति। श॒र॒व्या᳡म्। न। सा। मृषा॑। अ॒नु॒ऽहाय॑। तप॑सा। म॒न्युना॑। च॒। उ॒त। दू॒रात्। अव॑। भि॒न्द॒न्ति॒। ए॒न॒म्। १८.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -587,14 +614,17 @@ Keen arrows have the Brahmans, armed with missiles: the shaft, when they dischar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये स॒हस्र॒मरा॑ज॒न्नासन् दशश॒ता उ॒त।  
-ते ब्रा॑ह्म॒णस्य॒ गां ज॒ग्ध्वा वै॑तह॒व्याः परा॑भवन्॥१०॥  
+ये स॒हस्र॒मरा॑ज॒न्नास॑न्दशश॒ता उ॒त।  
+ते ब्रा॑ह्म॒णस्य॒ गां ज॒ग्ध्वा वै॑तह॒व्याः परा॑भवन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये स॒हस्र॒मरा॑ज॒न्नास॑न्दशश॒ता उ॒त। ते ब्रा॑ह्म॒णस्य॒ गां ज॒ग्ध्वा वै॑तह॒व्याः परा॑भवन् ॥
+ये स॒हस्र॒मरा॑ज॒न्नास॑न्दशश॒ता उ॒त।  
+ते ब्रा॑ह्म॒णस्य॒ गां ज॒ग्ध्वा वै॑तह॒व्याः परा॑भवन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
@@ -617,7 +647,7 @@ They who, themselves ten hundred, were the rulers of a thousand men, The Vaitaha
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। सहस्रम्। अराजन्। आसन्। दशऽशताः। उत। ते। ब्राह्मणस्य। गाम्। जग्ध्वा। वैतऽहव्याः। परा। अभवन्। १८.१०।
+ये। स॒हस्र॑म्। अरा॑जन्। आस॑न्। द॒श॒ऽश॒ताः। उ॒त। ते। ब्रा॒ह्म॒णस्य॑। गाम्। ज॒ग्ध्वा। वै॒त॒ऽह॒व्याः। परा॑। अ॒भ॒व॒न्। १८.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -648,14 +678,17 @@ They who, themselves ten hundred, were the rulers of a thousand men, The Vaitaha
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गौरे॒व तान् ह॒न्यमा॑ना वैतह॒व्याँ अवा॑तिरत्।  
-ये केस॑रप्राबन्धायाश्चर॒माजा॒मपे॑चिरन्॥११॥  
+गौरे॒व तान्ह॒न्यमा॑ना वैतह॒व्याँ अवा॑तिरत्।  
+ये केस॑रप्राबन्धायाश्चर॒माजा॒मपे॑चिरन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गौरे॒व तान्ह॒न्यमा॑ना वैतह॒व्याँ अवा॑तिरत्। ये केस॑रप्राबन्धायाश्चर॒माजा॒मपे॑चिरन् ॥
+गौरे॒व तान्ह॒न्यमा॑ना वैतह॒व्याँ अवा॑तिरत्।  
+ये केस॑रप्राबन्धायाश्चर॒माजा॒मपे॑चिरन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
@@ -680,7 +713,7 @@ The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the 
 </details>
 <details><summary>पदपाठः</summary>
 
-गौः। एव। तान्। हन्यमाना। वैतऽहव्यान्। अव। अतिरत्। ये। केसरऽप्राबन्धायाः। चरमऽअजाम्। अपेचिरन्। १८.११।
+गौः। ए॒व। तान्। ह॒न्यमा॑ना। वै॒त॒ऽह॒व्यान्। अव॑। अ॒ति॒र॒त्। ये। केस॑रऽप्राबन्धायाः। च॒र॒म॒ऽअजा॑म्। अपे॑चिरन्। १८.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -711,14 +744,17 @@ The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/12_ekashataM_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑शतं॒ ता ज॒नता॒ या भूमि॒र्व्यऽधूनुत ।  
-प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन्॥१२॥  
+एक॑शतं॒ ता ज॒नता॒ या भूमि॒र्व्य॑धूनुत।  
+प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/12_ekashataM_tA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एक॑शतं॒ ता ज॒नता॒ या भूमि॒र्व्य॑धूनुत। प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन् ॥
+एक॑शतं॒ ता ज॒नता॒ या भूमि॒र्व्य॑धूनुत।  
+प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/12_ekashataM_tA.md">
@@ -740,7 +776,7 @@ One and a hundred were the folk, those whom the earth shook off from her: When t
 </details>
 <details><summary>पदपाठः</summary>
 
-एकऽशतम्। ताः। जनताः। याः। भूमिः। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १८.१२।
+एक॑ऽशतम्। ताः। ज॒नताः॑। याः। भूमिः॑। विऽअ॑धूनुत। प्र॒ऽजाम्। हिं॒सि॒त्वा। ब्राह्म॑णीम्। अ॒स॒म्ऽभ॒व्यम्। परा॑। अ॒भ॒व॒न्। १८.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -771,14 +807,17 @@ One and a hundred were the folk, those whom the earth shook off from her: When t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒व॒पी॒युश्च॑रति॒ मर्त्ये॑षु गरगी॒र्णो भ॑व॒त्यस्थि॑भूयान्।  
-यो ब्रा॑ह्म॒णं दे॒वब॑न्धुं हि॒नस्ति॒ न स पि॑तृ॒याण॒मप्ये॑ति लो॒कम्॥१३॥  
+दे॑वपी॒युश्च॑रति॒ मर्त्ये॑षु गरगी॒र्णो भ॑व॒त्यस्थि॑भूयान्।  
+यो ब्रा॑ह्म॒णं दे॒वब॑न्धुं हि॒नस्ति॒ न स पि॑तृ॒याण॒मप्ये॑ति लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॑वपी॒युश्च॑रति॒ मर्त्ये॑षु गरगी॒र्णो भ॑व॒त्यस्थि॑भूयान्। यो ब्रा॑ह्म॒णं दे॒वब॑न्धुं हि॒नस्ति॒ न स पि॑तृ॒याण॒मप्ये॑ति लो॒कम् ॥
+दे॑वपी॒युश्च॑रति॒ मर्त्ये॑षु गरगी॒र्णो भ॑व॒त्यस्थि॑भूयान्।  
+यो ब्रा॑ह्म॒णं दे॒वब॑न्धुं हि॒नस्ति॒ न स पि॑तृ॒याण॒मप्ये॑ति लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
@@ -803,7 +842,7 @@ Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone i
 </details>
 <details><summary>पदपाठः</summary>
 
-देवऽपीयुः। चरति। मर्त्येषु। गरऽगीर्णः। भवति। अस्थिऽभूयान्। यः। ब्रह्माणम्। देवऽबन्धुम्। हिनस्ति। न। सः। पितृऽयानम्। अपि। एति। लोकम्। १८.१३।
+दे॒व॒ऽपी॒युः। च॒र॒ति॒। मर्त्ये॑षु। ग॒र॒ऽगी॒र्णः। भ॒व॒ति॒। अस्थि॑ऽभूयान्। यः। ब्र॒ह्मा॒णम्। दे॒वऽब॑न्धुम्। हि॒नस्ति॑। न। सः। पि॒तृ॒ऽयान॑म्। अपि॑। ए॒ति॒। लो॒कम्। १८.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -834,14 +873,17 @@ Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/14_agnirvai_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्वै नः॑ पदवा॒यः सोमो॑ दाया॒द उ॑च्यते ।  
-ह॒न्ताभिश॒स्तेन्द्र॒स्तथा॒ तद् वे॒धसो॑ विदुः ॥१४॥  
+अ॒ग्निर्वै नः॑ पदवा॒यः सोमो॑ दाया॒द उ॑च्यते।  
+ह॒न्ताभिश॒स्तेन्द्र॒स्तथा॒ तद्वे॒धसो॑ विदुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/14_agnirvai_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निर्वै नः॑ पदवा॒यः सोमो॑ दाया॒द उ॑च्यते। ह॒न्ताभिश॒स्तेन्द्र॒स्तथा॒ तद्वे॒धसो॑ विदुः ॥
+अ॒ग्निर्वै नः॑ पदवा॒यः सोमो॑ दाया॒द उ॑च्यते।  
+ह॒न्ताभिश॒स्तेन्द्र॒स्तथा॒ तद्वे॒धसो॑ विदुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/14_agnirvai_naH.md">
@@ -865,7 +907,7 @@ Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quell
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। वै। नः। पदऽवायः। सोमः। दायादः। उच्यते। हन्ता। अभिऽशस्ता। इन्द्र। तथा। तत्। वेधसः। विदुः। १८.१४।
+अ॒ग्निः। वै। नः॒। प॒द॒ऽवा॒यः। सोमः॑। दा॒या॒दः। उ॒च्य॒ते॒। ह॒न्ता। अ॒भिऽश॑स्ता। इन्द्र॑। तथा॑। तत्। वे॒धसः॑। वि॒दुः॒। १८.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -896,14 +938,17 @@ Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quell
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इषु॑रिव दि॒ग्धा नृ॑पते पृदा॒कूरि॑व गोपते ।  
-सा ब्रा॑ह्म॒णस्येषु॑र्घो॒रा तया॑ विध्यति॒ पीय॑तः ॥१५॥
+इषु॑रिव दि॒ग्धा नृ॑पते पृदा॒कूरि॑व गोपते।  
+सा ब्रा॑ह्म॒णस्येषु॑र्घो॒रा तया॑ विध्यति॒ पीय॑तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/15_iShuriva_digdhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इषु॑रिव दि॒ग्धा नृ॑पते पृदा॒कूरि॑व गोपते। सा ब्रा॑ह्म॒णस्येषु॑र्घो॒रा तया॑ विध्यति॒ पीय॑तः ॥
+इषु॑रिव दि॒ग्धा नृ॑पते पृदा॒कूरि॑व गोपते।  
+सा ब्रा॑ह्म॒णस्येषु॑र्घो॒रा तया॑ विध्यति॒ पीय॑तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
@@ -927,7 +972,7 @@ Prince! like a poisoned arrow, like a deadly snake, O lord of kine! Dire is the 
 </details>
 <details><summary>पदपाठः</summary>
 
-इषुःऽइव। दिग्धा। नृऽपते। पृदाकूःऽइव। गोऽपते। सा। ब्राह्मणस्य। इषुः। घोरा। तया। विध्यति। पीयतः। १८.१५।
+इषुः॑ऽइव। दि॒ग्धा। नृ॒ऽप॒ते॒। पृ॒दा॒कूःऽइ॑व। गो॒ऽप॒ते॒। सा। ब्रा॒ह्म॒णस्य॑। इषुः॑। घो॒रा। तया॑। वि॒ध्य॒ति॒। पीय॑तः। १८.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A man's love charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं यत् प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्।  
-ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥१॥  
+इ॒दं यत्प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्।  
+ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं यत्प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्। ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥
+इ॒दं यत्प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्।  
+ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
@@ -66,7 +69,7 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। यत्। प्रेण्यः। शिरः। दत्तम्। सोमन। वृष्ण्यम्। ततः। परि। प्रऽजातेन। हार्दिम्। ते। शोचयामसि। ८९.१।
+इ॒दम्। यत्। प्रे॒ण्यः। शिरः॑। द॒त्तम्। सोम॑न। वृष्ण्य॑म्। ततः॑। परि॑। प्रऽजा॑तेन। हार्दि॑म्। ते॒। शो॒च॒या॒म॒सि॒। ८९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑ ।  
-वातं॑ धू॒म इ॑व स॒ध्र्य॑१ङ्मामे॒वान्वे॑तु ते॒ मनः॑ ॥२॥  
+शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑।  
+वातं॑ धू॒म इ॑व स॒ध्र्य१॒॑ङ्मामे॒वान्वे॑तु ये॒ मनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑। वातं॑ धू॒म इ॑व स॒ध्र्यङ्मामे॒वान्वे॑तु ये॒ मनः॑ ॥
+शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑।  
+वातं॑ धू॒म इ॑व स॒ध्र्य१॒॑ङ्मामे॒वान्वे॑तु ये॒ मनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
@@ -126,7 +132,7 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 </details>
 <details><summary>पदपाठः</summary>
 
-शोचयामसि। ते। हार्दिम्। शोचयामसि। ते। मनः। वातम्। धूमःऽइव। सध्र्य᳡ङ्। माम्। एव। अनु। एतु। ते। मनः। ८९.२।
+शो॒चया॑मसि। ते॒। हार्दि॑म्। शो॒चया॑मसि। ते॒। मनः॑। वात॑म्। धू॒मःऽइ॑व। स॒ध्र्य᳡ङ्। माम्। ए॒व। अनु॑। ए॒तु॒। ते॒। मनः॑। ८९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती ।  
-मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम्॥३॥
+मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती।  
+मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती। मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम् ॥
+मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती।  
+मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
@@ -184,7 +193,7 @@ May Varuna and Mitra, may Sarasvati the Goddess, May the centre of the earth, an
 </details>
 <details><summary>पदपाठः</summary>
 
-मह्यम्। त्वा। मित्रावरुणौ। मह्यम्। देवी। सरस्वती। मह्यम्। त्वा। मध्यम्। भूम्याः। उभौ। अन्तौ। सम्। अस्यताम्। ८९.३।
+मह्य॑म्। त्वा॒। मि॒त्रावरु॑णौ। मह्य॑म्। दे॒वी। सर॑स्वती। मह्य॑म्। त्वा॒। मध्य॑म्। भूम्याः॑। उ॒भौ। अन्तौ॑। सम्। अ॒स्य॒ता॒म्। ८९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

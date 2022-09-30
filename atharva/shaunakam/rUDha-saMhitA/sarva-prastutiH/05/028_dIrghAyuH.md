@@ -36,14 +36,17 @@ A charm to ensure general protection and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/01_nava_prANAnnavabhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नव॑ प्रा॒णान् न॒वभिः॒ सं मि॑मीते दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ।  
-हरि॑ते॒ त्रीणि॑ रज॒ते त्रीण्यय॑सि॒ त्रीणि॒ तप॒सावि॑ष्ठितानि ॥१॥  
+नव॑ प्रा॒णान्न॒वभिः॒ सं मि॑मीते दीर्घायु॒त्वाय॑ श॒तशा॑रदाय।  
+हरि॑ते॒ त्रीणि॑ रज॒ते त्रीण्यय॑सि॒ त्रीणि॒ तप॒सावि॑ष्ठितानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/01_nava_prANAnnavabhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नव॑ प्रा॒णान्न॒वभिः॒ सं मि॑मीते दीर्घायु॒त्वाय॑ श॒तशा॑रदाय। हरि॑ते॒ त्रीणि॑ रज॒ते त्रीण्यय॑सि॒ त्रीणि॒ तप॒सावि॑ष्ठितानि ॥
+नव॑ प्रा॒णान्न॒वभिः॒ सं मि॑मीते दीर्घायु॒त्वाय॑ श॒तशा॑रदाय।  
+हरि॑ते॒ त्रीणि॑ रज॒ते त्रीण्यय॑सि॒ त्रीणि॒ तप॒सावि॑ष्ठितानि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/01_nava_prANAnnavabhiH.md">
@@ -69,7 +72,7 @@ For lengthened life, to last through hundred autumns, they equalize with nine th
 </details>
 <details><summary>पदपाठः</summary>
 
-नव। प्राणान्। नवऽभिः। सम्। मिमीते। दीर्घायुऽत्वाय। शतऽशारदाय। हरिते। त्रीणि। रजते। त्रीणि। अयसि। त्रीणि। तपसा। आऽविस्थितानि। २८.१।
+नव॑। प्रा॒णान्। न॒वऽभिः॑। सम्। मि॒मी॒ते॒। दी॒र्घा॒यु॒ऽत्वाय॑। श॒तऽशा॑रदाय। हरि॑ते। त्रीणि॑। र॒ज॒ते॒। त्रीणि॑। अय॑सि। त्रीणि॑। तप॑सा। आऽवि॑स्थितानि। २८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ For lengthened life, to last through hundred autumns, they equalize with nine th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/02_agniH_sUryashchandramA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः सूर्य॑श्च॒न्द्रमा॒ भूमि॒रापो॒ द्यौर॒न्तरि॑क्षं प्र॒दिशो॑ दिश॑श्च ।  
-आ॒र्त॒वा ऋ॒तुभिः॑ संविदा॒ना अ॒नेन॑ मा त्रि॒वृता॑ पारयन्तु ॥२॥  
+अ॒ग्निः सूर्य॑श्च॒न्द्रमा॒ भूमि॒रापो॒ द्यौर॒न्तरि॑क्षं प्र॒दिशो॒ दिश॑श्च।  
+आ॑र्त॒वा ऋ॒तुभिः॑ संविदा॒ना अ॒नेन॑ मा त्रि॒वृता॑ पारयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/02_agniH_sUryashchandramA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निः सूर्य॑श्च॒न्द्रमा॒ भूमि॒रापो॒ द्यौर॒न्तरि॑क्षं प्र॒दिशो॒ दिश॑श्च। आ॑र्त॒वा ऋ॒तुभिः॑ संविदा॒ना अ॒नेन॑ मा त्रि॒वृता॑ पारयन्तु ॥
+अ॒ग्निः सूर्य॑श्च॒न्द्रमा॒ भूमि॒रापो॒ द्यौर॒न्तरि॑क्षं प्र॒दिशो॒ दिश॑श्च।  
+आ॑र्त॒वा ऋ॒तुभिः॑ संविदा॒ना अ॒नेन॑ मा त्रि॒वृता॑ पारयन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/02_agniH_sUryashchandramA.md">
@@ -130,7 +136,7 @@ May Agni, Sun, and Moon, and Earth, and Waters, Sky, Air, the Quarters and the P
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। सूर्यः। चन्द्रमाः। भूमिः। आपः। द्यौः। अन्तरिक्षम्। प्रऽदिशः। दिशः। च। आर्तवाः। ऋतुऽभिः। सम्ऽविदानाः। अनेन। मा। त्रिऽवृता। पारयन्तु। २८.२।
+अ॒ग्निः। सूर्यः॑। च॒न्द्रमाः॑। भूमिः॑। आपः॑। द्यौः। अ॒न्तरि॑क्षम्। प्र॒ऽदिशः॑। दिशः॑। च॒। आ॒र्त॒वाः। ऋ॒तुऽभिः॑। स॒म्ऽवि॒दा॒नाः। अ॒नेन॑। मा॒। त्रि॒ऽवृता॑। पा॒र॒य॒न्तु॒। २८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ May Agni, Sun, and Moon, and Earth, and Waters, Sky, Air, the Quarters and the P
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/03_trayaH_poShastrivRti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रयः॒ पोषा॑स्त्रि॒वृति॑ श्रयन्ताम॒नक्तु॑ पू॒षा पय॑सा घृ॒तेन॑ ।  
-अन्न॑स्य भू॒मा पुरु॑षस्य भू॒मा भू॒मा प॑शू॒नां त इ॒ह श्र॑यन्ताम्॥३॥  
+त्रयः॒ पोष॑स्त्रि॒वृति॑ श्रयन्ताम॒नक्तु॑ पू॒षा पय॑सा घृ॒तेन॑।  
+अन्न॑स्य भू॒मा पुरु॑षस्य भू॒मा भू॒मा प॑शू॒नां त॑ इ॒ह श्र॑यन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/03_trayaH_poShastrivRti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रयः॒ पोष॑स्त्रि॒वृति॑ श्रयन्ताम॒नक्तु॑ पू॒षा पय॑सा घृ॒तेन॑। अन्न॑स्य भू॒मा पुरु॑षस्य भू॒मा भू॒मा प॑शू॒नां त॑ इ॒ह श्र॑यन्ताम् ॥
+त्रयः॒ पोष॑स्त्रि॒वृति॑ श्रयन्ताम॒नक्तु॑ पू॒षा पय॑सा घृ॒तेन॑।  
+अन्न॑स्य भू॒मा पुरु॑षस्य भू॒मा भू॒मा प॑शू॒नां त॑ इ॒ह श्र॑यन्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/03_trayaH_poShastrivRti.md">
@@ -190,7 +199,7 @@ In three-threaded Charm rest triple fulness! Let Pushan cover it with milk and b
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रयः। पोषाः। त्रिऽवृति। श्रयन्ताम्। अनक्तु। पूषा। पयसा। घृतेन। अन्नस्‍य। भूमा। पुरुषस्य। भूमा। भूमा। पशूनाम्। ते। इह। श्रयन्ताम्। २८.३।
+त्रयः॑। पोषाः॑। त्रि॒ऽवृति॑। श्र॒य॒न्ता॒म्। अ॒नक्तु॑। पू॒षा। पय॑सा। घृ॒तेन॑। अन्न॑स्‍य। भू॒मा। पुरु॑षस्य। भू॒मा। भू॒मा। प॒शू॒नाम्। ते। इ॒ह। श्र॒य॒न्ता॒म्। २८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -221,14 +230,17 @@ In three-threaded Charm rest triple fulness! Let Pushan cover it with milk and b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/04_imamAdityA_vasunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ममा॑दित्या॒ वसु॑ना॒ समु॑क्षते॒मम॑ग्ने वर्धय ववृधा॒नः ।  
-इ॒ममि॑न्द्र॒ सं सृ॑ज वी॒र्येऽणा॒स्मिन् त्रि॒वृच्छ्र॑यतां पोषयि॒ष्णु॥४॥  
+इ॒ममा॑दित्या॒ वसु॑ना॒ समु॑क्षते॒मम॑ग्ने वर्धय वावृधा॒नः।  
+इ॒ममि॑न्द्र॒ सं सृ॑ज वी॒र्ये॑णा॒स्मिन्त्रि॒वृच्छ्र॑यतां पोषयि॒ष्णु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/04_imamAdityA_vasunA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒ममा॑दित्या॒ वसु॑ना॒ समु॑क्षते॒मम॑ग्ने वर्धय वावृधा॒नः। इ॒ममि॑न्द्र॒ सं सृ॑ज वी॒र्ये॑णा॒स्मिन्त्रि॒वृच्छ्र॑यतां पोषयि॒ष्णु ॥
+इ॒ममा॑दित्या॒ वसु॑ना॒ समु॑क्षते॒मम॑ग्ने वर्धय वावृधा॒नः।  
+इ॒ममि॑न्द्र॒ सं सृ॑ज वी॒र्ये॑णा॒स्मिन्त्रि॒वृच्छ्र॑यतां पोषयि॒ष्णु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/04_imamAdityA_vasunA.md">
@@ -253,7 +265,7 @@ Enrich this charm, Adityas, with your treasure; magnify this, when magnified, O 
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। आदित्याः। वसुना। सम्। उक्षत। इमम्। अग्ने। वर्धय। ववृधानः। इमम्। इन्द्र। सम्। सृज। वीर्ये᳡ण। अस्मिन्। त्रिऽवृत्। श्रयताम्। पोषयिष्णु। २८.४।
+इ॒मम्। आ॒दि॒त्याः॒। वसु॑ना। सम्। उ॒क्ष॒त॒। इ॒मम्। अ॒ग्ने॒। वर्ध॒य॒। व॒वृ॒धा॒नः। इ॒मम्। इ॒न्द्र॒। सम्। सृ॒ज॒। वी॒र्ये᳡ण। अ॒स्मिन्। त्रि॒ऽवृत्। श्र॒य॒ता॒म्। पो॒ष॒यि॒ष्णु। २८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -284,14 +296,17 @@ Enrich this charm, Adityas, with your treasure; magnify this, when magnified, O 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/05_bhUmiShTvA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूमि॑ष्ट्वा पातु॒ हरि॑तेन विश्व॒भृद॒ग्निः पि॑प॒र्त्वय॑सा स॒जोषाः॑ ।  
-वी॒रुद्भि॑ष्टे अर्जु॑नं संविदा॒नं दक्षं॑ दधातु सुमन॒स्यमा॑नम्॥५॥  
+भूमि॑ष्ट्वा पातु॒ हरि॑तेन विश्व॒भृद॒ग्निः पि॑प॒र्त्वय॑सा स॒जोषाः॑।  
+वी॒रुद्भि॑ष्टे॒ अर्जु॑नं संविदा॒नं दक्षं॑ दधातु सुमन॒स्यमा॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/05_bhUmiShTvA_pAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भूमि॑ष्ट्वा पातु॒ हरि॑तेन विश्व॒भृद॒ग्निः पि॑प॒र्त्वय॑सा स॒जोषाः॑। वी॒रुद्भि॑ष्टे॒ अर्जु॑नं संविदा॒नं दक्षं॑ दधातु सुमन॒स्यमा॑नम् ॥
+भूमि॑ष्ट्वा पातु॒ हरि॑तेन विश्व॒भृद॒ग्निः पि॑प॒र्त्वय॑सा स॒जोषाः॑।  
+वी॒रुद्भि॑ष्टे॒ अर्जु॑नं संविदा॒नं दक्षं॑ दधातु सुमन॒स्यमा॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/05_bhUmiShTvA_pAtu.md">
@@ -314,7 +329,7 @@ With gold let Earth protect thee, and with iron, accordant, all- sustaining Agni
 </details>
 <details><summary>पदपाठः</summary>
 
-भूमिः। त्वा। पातु। हरितेन। विश्वऽभृत्। अग्निः। पिपर्तु। अयसा। सऽजोषाः। वीरुत्ऽभिः। ते। अर्जुनम्। सम्ऽविदानम्। दक्षम्। दधातु। सुऽमनस्यमानम्। २८.५।
+भूमिः॑। त्वा॒। पा॒तु॒। हरि॑तेन। वि॒श्व॒ऽभृत्। अ॒ग्निः। पि॒प॒र्तु॒। अय॑सा। स॒ऽजोषाः॑। वी॒रुत्ऽभिः॑। ते॒। अर्जु॑नम्। स॒म्ऽवि॒दा॒नम्। दक्ष॑म्। द॒धा॒तु। सु॒ऽम॒न॒स्यमान॑म्। २८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -346,13 +361,16 @@ With gold let Earth protect thee, and with iron, accordant, all- sustaining Agni
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रे॒धा जा॒तं जन्म॑ने॒दं हिर॑ण्यम॒ग्नेरेकं॑ प्रि॒यत॑मं बभूव॒ सोम॒स्यैकं॑ हिंसि॒तस्य॒ परा॑पतत्।  
-अ॒पामेकं॑ वे॒धसां॒ रेत॑ आहु॒स्तत् ते हिर॑ण्यं त्रि॒वृद॒स्त्वायु॑षे ॥६॥  
+अ॒पामेकं॑ वे॒धसां॒ रेत॑ आहु॒स्तत्ते॒ हिर॑ण्यं त्रि॒वृद॒स्त्वायु॑षे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/06_tredhA_jAtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रे॒धा जा॒तं जन्म॑ने॒दं हिर॑ण्यम॒ग्नेरेकं॑ प्रि॒यत॑मं बभूव॒ सोम॒स्यैकं॑ हिंसि॒तस्य॒ परा॑पतत्। अ॒पामेकं॑ वे॒धसां॒ रेत॑ आहु॒स्तत्ते॒ हिर॑ण्यं त्रि॒वृद॒स्त्वायु॑षे ॥
+त्रे॒धा जा॒तं जन्म॑ने॒दं हिर॑ण्यम॒ग्नेरेकं॑ प्रि॒यत॑मं बभूव॒ सोम॒स्यैकं॑ हिंसि॒तस्य॒ परा॑पतत्।  
+अ॒पामेकं॑ वे॒धसां॒ रेत॑ आहु॒स्तत्ते॒ हिर॑ण्यं त्रि॒वृद॒स्त्वायु॑षे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/06_tredhA_jAtam.md">
@@ -383,7 +401,7 @@ This gold, born threefold at its first production, grew the one thing that Agni 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रेधा। जातम्। जन्मना। इदम्। हिरण्यम्। अग्नेः। एकम्। प्रियऽतमम्। बभूव। सोमस्य। एकम्। हिंसितस्य। परा। अपतत्। अपाम्। एकम्। वेधसाम्। रेतः। आहुः। तत्। ते। हिरण्यम्। त्रिऽवृत्। अस्तु। आयुषे। २८.६।
+त्रे॒धा। जा॒तम्। जन्म॑ना। इ॒दम्। हिर॑ण्यम्। अ॒ग्नेः। एक॑म्। प्रि॒यऽत॑मम्। ब॒भू॒व॒। सोम॑स्य। एक॑म्। हिं॒सि॒तस्य॑। परा॑। अ॒प॒त॒त्। अ॒पाम्। एक॑म्। वे॒धसा॑म्। रेतः॑। आ॒हुः॒। तत्। ते॒। हिर॑ण्यम्। त्रि॒ऽवृत्। अ॒स्तु॒। आयु॑षे। २८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -414,14 +432,17 @@ This gold, born threefold at its first production, grew the one thing that Agni 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/07_tryAyuShaM_jamadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्र्या॒यु॒षं ज॒मद॑ग्नेः क॒श्यप॑स्य त्र्यायु॒षम्।  
-त्रे॒धामृत॑स्य॒ चक्ष॑णं॒ त्रीण्यायूं॑षि ते ऽकरम्॥७॥  
+त्र्या॑यु॒षं ज॒मद॑ग्नेः क॒श्यप॑स्य त्र्यायु॒षम्।  
+त्रे॒धामृत॑स्य॒ चक्ष॑णं॒ त्रीण्यायूं॑षि तेऽकरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/07_tryAyuShaM_jamadagneH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्र्या॑यु॒षं ज॒मद॑ग्नेः क॒श्यप॑स्य त्र्यायु॒षम्। त्रे॒धामृत॑स्य॒ चक्ष॑णं॒ त्रीण्यायूं॑षि तेऽकरम् ॥
+त्र्या॑यु॒षं ज॒मद॑ग्नेः क॒श्यप॑स्य त्र्यायु॒षम्।  
+त्रे॒धामृत॑स्य॒ चक्ष॑णं॒ त्रीण्यायूं॑षि तेऽकरम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/07_tryAyuShaM_jamadagneH.md">
@@ -447,7 +468,7 @@ Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of imm
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिऽआयुषम्। जमत्ऽअग्नेः। कश्यपस्य। त्रिऽआयुषम्। त्रेधा। अमृतस्य। चक्षणम्। त्रिणि। आयूंषि। ते। अकरम्। २८.७।
+त्रि॒ऽआ॒यु॒षम्। ज॒मत्ऽअ॑ग्नेः। क॒श्यप॑स्य। त्रि॒ऽआ॒यु॒षम्। त्रे॒धा। अ॒मृत॑स्य। चक्ष॑णम्। त्रिणि॑। आयूं॑षि। ते॒। अ॒क॒र॒म्। २८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -478,14 +499,17 @@ Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of imm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/08_trayaH_suparNAstrivRtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रयः॑ सुप॒र्णास्त्रि॒वृता॒ यदाय॑न्नेकाक्ष॒रम॑भिसं॒भूय॑ श॒क्राः ।  
-प्रत्यौ॑हन् मृ॒त्युम॒मृते॑न सा॒कम॑न्त॒र्दधा॑ना दुरि॒तानि॑ विश्वा॑ ॥८॥  
+त्रयः॑ सुप॒र्णास्त्रि॒वृता॒ यदाय॑न्नेकाक्ष॒रम॑भिसं॒भूय॑ श॒क्राः।  
+प्रत्यौ॑हन्मृ॒त्युम॒मृते॑न सा॒कम॑न्त॒र्दधा॑ना दुरि॒तानि॒ विश्वा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/08_trayaH_suparNAstrivRtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रयः॑ सुप॒र्णास्त्रि॒वृता॒ यदाय॑न्नेकाक्ष॒रम॑भिसं॒भूय॑ श॒क्राः। प्रत्यौ॑हन्मृ॒त्युम॒मृते॑न सा॒कम॑न्त॒र्दधा॑ना दुरि॒तानि॒ विश्वा॑ ॥
+त्रयः॑ सुप॒र्णास्त्रि॒वृता॒ यदाय॑न्नेकाक्ष॒रम॑भिसं॒भूय॑ श॒क्राः।  
+प्रत्यौ॑हन्मृ॒त्युम॒मृते॑न सा॒कम॑न्त॒र्दधा॑ना दुरि॒तानि॒ विश्वा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/08_trayaH_suparNAstrivRtA.md">
@@ -509,7 +533,7 @@ When with the three-stringed charm came three strong eagles, sharing the Sacred 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रयः। सुऽपर्णाः। त्रिऽवृता। यत्। आयन्। एकऽअक्षरम्। अभिऽसंभूय। शक्राः। प्रति। औहन्। मृत्युम्। अमृतेन। साकम्। अन्तःऽदधानाः। दुःऽइतानि। विश्वा। २८.८।
+त्रयः॑। सु॒ऽप॒र्णाः। त्रि॒ऽवृता॑। यत्। आय॑न्। ए॒क॒ऽअ॒क्ष॒रम्। अ॒भि॒ऽसं॒भूय॑। श॒क्राः। प्रति॑। औ॒ह॒न्। मृ॒त्युम्। अ॒मृते॑न। सा॒कम्। अ॒न्तः॒ऽदधा॑नाः। दुः॒ऽइ॒तानि॑। विश्वा॑। २८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -540,14 +564,17 @@ When with the three-stringed charm came three strong eagles, sharing the Sacred 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/09_divastvA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वस्त्वा॑ पातु॒ हरि॑तं॒ मध्या॑त् त्वा पा॒त्वर्जु॑नम्।  
-भूम्या॑ अय॒स्मयं॑ पातु॒ प्रागा॑द् देवपु॒रा अ॒यम्॥९॥  
+दि॒वस्त्वा॑ पातु॒ हरि॑तं॒ मध्या॑त्त्वा पा॒त्वर्जु॑नम्।  
+भूम्या॑ अय॒स्मयं॑ पातु॒ प्रागा॑द्देवपु॒रा अ॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/09_divastvA_pAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वस्त्वा॑ पातु॒ हरि॑तं॒ मध्या॑त्त्वा पा॒त्वर्जु॑नम्। भूम्या॑ अय॒स्मयं॑ पातु॒ प्रागा॑द्देवपु॒रा अ॒यम् ॥
+दि॒वस्त्वा॑ पातु॒ हरि॑तं॒ मध्या॑त्त्वा पा॒त्वर्जु॑नम्।  
+भूम्या॑ अय॒स्मयं॑ पातु॒ प्रागा॑द्देवपु॒रा अ॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/09_divastvA_pAtu.md">
@@ -569,7 +596,7 @@ The golden guard thee from the sky, the silvern guard thee from the air, The iro
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवः। त्वा। पातु। हरितम्। मध्यात्। त्वा। पातु। अर्जुनम्। भूम्याः। अयस्मयम्। पातु। प्र। अगात्। देवऽपुराः। अयम्। २८.९।
+दि॒वः। त्वा॒। पा॒तु॒। हरि॑तम्। मध्या॑त्। त्वा॒। पा॒तु॒। अर्जु॑नम्। भूम्याः॑। अ॒य॒स्मय॑म्। पा॒तु॒। प्र। अ॒गा॒त्। दे॒व॒ऽपु॒राः। अ॒यम्। २८.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -600,14 +627,17 @@ The golden guard thee from the sky, the silvern guard thee from the air, The iro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/10_imAstisro_devapurAstAstvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑ ।  
-तास्त्वं बिभ्र॑द् वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥१०॥  
+इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑।  
+तास्त्वं बिभ्र॑द्वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/10_imAstisro_devapurAstAstvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑। तास्त्वं बिभ्र॑द्वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥
+इ॒मास्ति॒स्रो दे॑वपु॒रास्तास्त्वा॑ रक्षन्तु स॒र्वतः॑।  
+तास्त्वं बिभ्र॑द्वर्च॒स्व्युत्त॑रो द्विष॒तां भ॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/10_imAstisro_devapurAstAstvA.md">
@@ -629,7 +659,7 @@ May these three castles of the Gods keep thee secure on every side. Endowed with
 </details>
 <details><summary>पदपाठः</summary>
 
-इमाः। तिस्रः। देवऽपुराः। ताः। त्वा। रक्षन्तु। सर्वतः। ताः। त्वम्। बिभ्रत्। वर्चस्वी। उत्तरः। द्विषताम्। भव। २८.१०।
+इ॒माः। ति॒स्रः। दे॒व॒ऽपु॒राः। ताः। त्वा॒। र॒क्ष॒न्तु॒। स॒र्वतः॑। ताः। त्वम्। बिभ्र॑त्। व॒र्च॒स्वी। उत्त॑रः। द्वि॒ष॒ताम्। भ॒व॒। २८.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -660,14 +690,17 @@ May these three castles of the Gods keep thee secure on every side. Endowed with
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/11_puraM_devAnAmamRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुरं॑ दे॒वाना॑म॒मृतं॒ हिर॑ण्यं॒ य आ॑बे॒धे प्र॑थ॒मो दे॒वो अग्रे॑ ।  
-तस्मै॒ नमो॒ दश॒ प्राचीः॑ कृणो॒म्यनु॑ मन्यतां त्रि॒वृदा॒बधे॑ मे ॥११॥  
+पुरं॑ दे॒वाना॑म॒मृतं॒ हिर॑ण्यं॒ य आ॑बे॒धे प्र॑थ॒मो दे॒वो अग्रे॑।  
+तस्मै॒ नमो॒ दश॒ प्राचीः॑ कृणो॒म्यनु॑ मन्यतां त्रि॒वृदा॒बधे॑ मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/11_puraM_devAnAmamRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुरं॑ दे॒वाना॑म॒मृतं॒ हिर॑ण्यं॒ य आ॑बे॒धे प्र॑थ॒मो दे॒वो अग्रे॑। तस्मै॒ नमो॒ दश॒ प्राचीः॑ कृणो॒म्यनु॑ मन्यतां त्रि॒वृदा॒बधे॑ मे ॥
+पुरं॑ दे॒वाना॑म॒मृतं॒ हिर॑ण्यं॒ य आ॑बे॒धे प्र॑थ॒मो दे॒वो अग्रे॑।  
+तस्मै॒ नमो॒ दश॒ प्राचीः॑ कृणो॒म्यनु॑ मन्यतां त्रि॒वृदा॒बधे॑ मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/11_puraM_devAnAmamRtam.md">
@@ -691,7 +724,7 @@ The God who first bound on in the beginning the deities' im- mortal golden castl
 </details>
 <details><summary>पदपाठः</summary>
 
-पुरम्। देवानाम्। अमृतम्। हिरण्यम्। यः। आऽवेधे। प्रथमः। देवः। अग्रे। तस्मै। नमः। दश। प्राचीः। कृणोमि। अनु। मन्यताम्। त्रिऽवृत्। आऽवधे। मे। २८.११।
+पुर॑म्। दे॒वाना॑म्। अ॒मृतम्। हिर॑ण्यम्। यः। आ॒ऽवे॒धे। प्र॒थ॒मः। दे॒वः। अग्रे॑। तस्मै॑। नमः॑। दश॑। प्राचीः॑। कृ॒णो॒मि॒। अनु॑। म॒न्य॒ता॒म्। त्रि॒ऽवृत्। आ॒ऽवधे॑। मे॒। २८.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -722,14 +755,17 @@ The God who first bound on in the beginning the deities' im- mortal golden castl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/12_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ त्वा॑ चृतत्वर्य॒मा पू॒षा बृह॒स्पतिः॑ ।  
-अह॑र्जातस्य॒ यन्नाम॒ तेन॒ त्वाति॑ चृतामसि ॥१२॥  
+आ त्वा॑ चृतत्वर्य॒मा पू॒षा बृह॒स्पतिः॑।  
+अह॑र्जातस्य॒ यन्नाम॒ तेन॒ त्वाति॑ चृतामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/12_A_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ त्वा॑ चृतत्वर्य॒मा पू॒षा बृह॒स्पतिः॑। अह॑र्जातस्य॒ यन्नाम॒ तेन॒ त्वाति॑ चृतामसि ॥
+आ त्वा॑ चृतत्वर्य॒मा पू॒षा बृह॒स्पतिः॑।  
+अह॑र्जातस्य॒ यन्नाम॒ तेन॒ त्वाति॑ चृतामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/12_A_tvA.md">
@@ -752,7 +788,7 @@ Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। त्वा। चृततु। अर्यमा। आ। पूषा। आ। बृहस्पतिः। अहःऽजातस्य। यत्। नाम। तेन। त्वा। अति। घृतामसि। २८.१२।
+आ। त्वा॒। चृ॒त॒तु॒। अ॒र्य॒मा। आ। पू॒षा। आ। बृह॒स्पतिः॑। अहः॑ऽजातस्य। यत्। नाम॑। तेन॑। त्वा॒। अति॑। घृ॒ता॒म॒सि॒। २८.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -783,14 +819,17 @@ Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/028_dIrghAyuH/13_RtubhiShTvArtavairAyuShe_varchase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा ।  
-सं॒व॒त्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥१३॥  
+ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा।  
+सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/13_RtubhiShTvArtavairAyuShe_varchase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा। सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥
+ऋ॒तुभि॑ष्ट्वार्त॒वैरायु॑षे॒ वर्च॑से त्वा।  
+सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॒ संह॑नु कृण्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/13_RtubhiShTvArtavairAyuShe_varchase.md">
@@ -826,7 +865,7 @@ With Seasons and with Lengths of Time, for vigour and exten- ded life, With all 
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतुऽभिः। त्वा। आर्तवैः। आयुषे। वर्चसे। त्वा। सम्ऽवत्सरस्य। तेजसा। तेन। सम्ऽहनु। कृण्मसि। २८.१३।
+ऋ॒तुऽभिः॑। त्वा॒। आ॒र्त॒वैः। आयु॑षे। वर्च॑से। त्वा॒। स॒म्ऽव॒त्स॒रस्य॑। तेज॑सा। तेन॑। सम्ऽह॑नु। कृ॒ण्म॒सि॒। २८.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -858,13 +897,16 @@ With Seasons and with Lengths of Time, for vigour and exten- ded life, With all 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तादुल्लु॑प्तं॒ मधु॑ना॒ सम॑क्तं भूमिदृं॒हमच्यु॑तं पारयि॒ष्णु।  
-भि॒न्दत् स॒पत्ना॒नध॑रांश्च कृ॒ण्वदा मा॑ रोह मह॒ते सौभ॑गाय ॥१४॥
+भि॒न्दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वदा मा॑ रोह मह॒ते सौभ॑गाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/028_dIrghAyuH/14_ghRtAdulluptaM_madhunA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घृ॒तादुल्लु॑प्तं॒ मधु॑ना॒ सम॑क्तं भूमिदृं॒हमच्यु॑तं पारयि॒ष्णु। भि॒न्दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वदा मा॑ रोह मह॒ते सौभ॑गाय ॥
+घृ॒तादुल्लु॑प्तं॒ मधु॑ना॒ सम॑क्तं भूमिदृं॒हमच्यु॑तं पारयि॒ष्णु।  
+भि॒न्दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वदा मा॑ रोह मह॒ते सौभ॑गाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/028_dIrghAyuH/14_ghRtAdulluptaM_madhunA.md">
@@ -890,7 +932,7 @@ Drawn forth from butter and with meath besprinkled, firm as the earth, unshakabl
 </details>
 <details><summary>पदपाठः</summary>
 
-घृतात्। उत्ऽलुप्तम्। मधुना। सम्ऽअक्तम्। भूमिऽदृंहम्। अच्युतम्। पारयिष्णु। भिन्दत्। सऽपत्नान्। अधरान्। च। कृण्वत्। आ। मा। रोह। महते। सौभगाय। २८.१४।
+घृ॒तात्। उत्ऽलु॑प्तम्। मधु॑ना। सम्ऽअ॑क्तम्। भू॒मि॒ऽदृं॒हम्। अच्यु॑तम्। पा॒र॒यि॒ष्णु। भि॒न्दत्। स॒ऽपत्ना॑न्। अध॑रान्। च॒। कृ॒ण्वत्। आ। मा॒। रो॒ह॒। म॒ह॒ते। सौभ॑गाय। २८.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

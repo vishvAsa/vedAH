@@ -36,14 +36,17 @@ A charm against constipation and suppression of urine
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम् ।  
-तेना॑ ते त॒न्वे॒३शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥१॥  
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/01_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम्। तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/01_vidmA_sharasya.md">
@@ -65,7 +68,7 @@ We know the father of the shaft, Parjanya strong with hundred powers: By this ma
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। पर्जन्यम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।
+वि॒द्म। श॒रस्य॑। पि॒तर॑म्। प॒र्जन्य॑म्। श॒तऽवृ॑ष्ण्यम्। तेन॑। ते॒। त॒न्वे। शम्। क॒र॒म्। पृ॒थि॒व्याम्। ते॒। नि॒ऽसेच॑नम्। ब॒हिः। ते॒। अ॒स्तु। बाल्। इति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ We know the father of the shaft, Parjanya strong with hundred powers: By this ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/02_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम् ।  
-ते॑ना ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥२॥  
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/02_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम्। तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/02_vidmA_sharasya.md">
@@ -122,7 +128,7 @@ We know the father of the shaft, Mitra, the Lord of hundred powers: By this, etc
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। मित्रम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।
+वि॒द्म। श॒रस्य॑। पि॒तर॑म्। मि॒त्रम्। श॒तऽवृ॑ष्ण्यम्। तेन॑। ते॒। त॒न्वे। शम्। क॒र॒म्। पृ॒थि॒व्याम्। ते॒। नि॒ऽसेच॑नम्। ब॒हिः। ते॒। अ॒स्तु॒। बाल्। इति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,14 +159,17 @@ We know the father of the shaft, Mitra, the Lord of hundred powers: By this, etc
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/03_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम् ।  
-तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥३॥  
+वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/03_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम्। तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/03_vidmA_sharasya.md">
@@ -178,7 +187,7 @@ We know the father of the shaft, Varuna, strong with hundred powers: By this, et
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। वरुणम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।
+वि॒द्म। श॒रस्य॑। पि॒तर॑म्। वरु॑णम्। श॒तऽवृ॑ष्ण्यम्। तेन॑। ते॒। त॒न्वे। शम्। क॒र॒म्। पृ॒थि॒व्याम्। ते॒। नि॒ऽसेच॑नम्। ब॒हिः। ते॒। अ॒स्तु॒। बाल्। इति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -209,14 +218,17 @@ We know the father of the shaft, Varuna, strong with hundred powers: By this, et
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/04_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम् ।  
-तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥४॥  
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/04_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम्। तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/04_vidmA_sharasya.md">
@@ -234,7 +246,7 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। चन्द्रम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।
+विद्म। श॒रस्य॑। पि॒तर॑म्। च॒न्द्रम्। श॒तऽवृ॑ष्ण्यम्। तेन॑। ते॒। त॒न्वे। शम्। क॒र॒म्। पृ॒थि॒व्याम्। ते॒। नि॒ऽसेच॑नम्। ब॒हिः। ते॒। अ॒स्तु॒। बाल्। इति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -265,14 +277,17 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/05_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम् ।  
-तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥५॥  
+वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/05_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम्। तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम्।  
+तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/05_vidmA_sharasya.md">
@@ -290,7 +305,7 @@ We know the father of the shaft, the Sun endowed with hundred powers: By this ma
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। सूर्यम्। शतऽवृष्ण्यम्। तेन। ते। तन्वे। शम्। करम्। पृथिव्याम्। ते। निऽसेचनम्। बहिः। ते। अस्तु। बाल्। इति।
+वि॒द्म। शरस्य॑। पि॒तर॑म्। सूर्य॑म्। श॒तऽवृ॑ष्ण्यम्। तेन॑। ते॒। त॒न्वे। शम्। क॒र॒म्। पृ॒थि॒व्याम्। ते॒। नि॒ऽसेच॑नम्। ब॒हिः। ते॒। अ॒स्तु॒। बाल्। इति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -321,14 +336,17 @@ We know the father of the shaft, the Sun endowed with hundred powers: By this ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम् ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥६॥  
+यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम्।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम्। ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
+यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम्।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
@@ -351,7 +369,7 @@ Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। आन्त्रेषु। गवीन्योः। यत्। वस्तौ। अधि। सम्ऽश्रुतम्। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्।
+यत्। आ॒न्त्रेषु॑। ग॒वी॒न्योः। यत्। व॒स्तौ। अधि॑। सम्ऽश्रु॑तम्। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। बाल्। इति॑। स॒र्व॒कम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -382,14 +400,17 @@ Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/07_pra_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥७॥  
+प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/07_pra_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व। ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
+प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/07_pra_te.md">
@@ -410,7 +431,7 @@ I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। ते। भिनद्मि। मेहनम्। वर्त्रम्। वेशन्त्याःऽइव। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्।
+प्र। ते॒। भि॒न॒द्मि॒। मेह॑नम्। वर्त्र॑म्। वे॒श॒न्त्याःऽइ॑व। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। बाल्। इति॑। स॒र्व॒कम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -441,14 +462,17 @@ I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/08_viShitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥८॥  
+विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/08_viShitaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व। ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
+विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/08_viShitaM_te.md">
@@ -468,7 +492,7 @@ Now hath the portal been unclosed as, of the sea that holds the flood: Thus let,
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽसितम्। ते। वस्तिऽबिलम्। समुद्रस्य। उदधेःऽइव। एव। ते। मूत्रम्। मुच्यताम्। बहिः। वाल्। इति। सर्वकम्।
+विऽसि॑तम्। ते॒। व॒स्ति॒ऽबि॒लम्। स॒मुद्रस्य॑। उ॒द॒धेःऽइ॑व। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। वाल्। इति॑। स॒र्व॒कम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -499,14 +523,17 @@ Now hath the portal been unclosed as, of the sea that holds the flood: Thus let,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः ।  
-ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्॥९॥
+यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां बहि॒र्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः। ए॒वा ते॒ मूत्रं॑ मुच्यतां बहि॒र्बालिति॑ सर्व॒कम् ॥
+यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः।  
+ए॒वा ते॒ मूत्रं॑ मुच्यतां बहि॒र्बालिति॑ सर्व॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
@@ -531,7 +558,7 @@ Even as the arrow flies away when loosened from the archer's bow, Thus let the b
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इषुका। पराऽअपतत्। अवऽसृष्टा। अधि। धन्वनः। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्। ३.९।
+यथा॒। इ॒षु॒का। प॒रा॒ऽअप॑तत्। अव॑ऽसृष्टा। अधि॑। धन्व॑नः। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। बाल्। इति॑। स॒र्व॒कम्। ३.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to cure scrofulous pustules and scrofula
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः ।  
-से हो॑रर॒सत॑रा लव॒णाद् विक्ले॑दीयसीः ॥१॥  
+आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः।  
+सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः। सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
+आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः।  
+सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
@@ -77,7 +80,7 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। सुऽस्रसः। सुऽस्रसः। असतीभ्यः। असत्ऽतराः। सेहोः। अरसऽतराः। लवणात्। विऽक्लेदीयसीः। ८०.१।
+आ। सु॒ऽस्रसः॑। सु॒ऽस्रसः॑। अस॑तीभ्यः। अस॑त्ऽतराः। सेहोः॑। अ॒र॒सऽत॑राः। ल॒व॒णात्। विऽक्ले॑दीयसीः। ८०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +111,17 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः ।  
-वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥२॥  
+या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡।  
+वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡। वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
+या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡।  
+वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
@@ -139,7 +145,7 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। ग्रैव्याः। अपऽचितः। अथो इति। याः। उपऽपक्ष्याः᳡। विऽजाम्नि। याः। अपऽचितः। स्वयम्ऽस्रसः। ८०.२।
+याः। ग्रैव्याः॑। अ॒प॒ऽचितः॑। अथो॒ इति॑। याः। उ॒प॒ऽप॒क्ष्याः᳡। वि॒ऽजाम्नि॑। याः। अ॒प॒ऽचितः॑। स्व॒य॒म्ऽस्रसः॑। ८०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः कीक॑साः प्रशृ॒णाति॑ तली॒द्यऽमव॒तिष्ठ॑ति ।  
-निर्हा॒स्तं सर्वं॑ जा॒यान्यं॒ यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥३॥  
+यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति।  
+निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति। निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
+यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति।  
+निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
@@ -221,7 +230,7 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। कीकसाः। प्रऽशृणाति। तलीद्य᳡म्। अवऽतिष्ठति। निः। हाः। तम्। सर्वम्। जायान्यम्। यः। कः। च। ककुदि। श्रितः। ८०.३।
+यः। कीक॑साः। प्र॒ऽशृ॒णाति॑। त॒ली॒द्य᳡म्। अ॒व॒ऽतिष्ठ॑ति। निः। हाः॒। तम्। सर्व॑म्। जा॒यान्य॑म्। यः। कः। च॒। क॒कुदि॑। श्रि॒तः। ८०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -253,13 +262,16 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
-तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥४॥  
+तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्। तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
+प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
+तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
@@ -298,7 +310,7 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 </details>
 <details><summary>पदपाठः</summary>
 
-पक्षी। जायान्यः। पतति। सः। आ। विशति। पुरुषम्। तत्। अक्षितस्य। भेषजम्। उभयोः। सुऽक्षतस्य। च। ८०.४।
+प॒क्षी। जा॒यान्यः॑। प॒त॒ति॒। सः। आ। वि॒श॒ति॒। पुरु॑षम्। तत्। अक्षि॑तस्य। भे॒ष॒जम्। उ॒भयोः॑। सुऽक्ष॑तस्य। च॒। ८०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -329,14 +341,17 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से ।  
-क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे॥५॥  
+वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
+क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से। क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
+वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
+क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
@@ -364,7 +379,7 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। वै। ते। जायान्य। जानम्। यतः। जायान्य। जायसे। कथम्। ह। तत्र। त्वम्। हनः। यस्य। कृण्मः। हविः। गृहे। ८१.१।
+वि॒द्म। वै। ते॒। जा॒या॒न्य॒। जान॑म्। यतः॑। जा॒या॒न्य॒। जाय॑से। क॒थम्। ह॒। तत्र॑। त्वम्। ह॒नः॒। यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। ८१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -395,14 +410,17 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धृ॒षत् पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
-माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥६॥
+धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
+माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्। माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
+धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
+माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
@@ -424,7 +442,7 @@ Boldly drink Soma from the beaker, Indra! hero in war for treasure! Vritra-slaye
 </details>
 <details><summary>पदपाठः</summary>
 
-धृषत्। पिब। कलशे। सोमम्। इन्द्र। वृत्रऽहा। शूर। सम्ऽअरे। वसूनाम्। माध्यंदिने। सवने। आ। वृषस्व। रयिऽस्थानः। रयिम्। अस्मासु। धेहि। ८१.२।
+धृ॒षत्। पि॒ब॒। क॒लशे॑। सोम॑म्। इ॒न्द्र॒। वृ॒त्र॒ऽहा। शू॒र॒। स॒म्ऽअ॒रे। वसू॑नाम्। माध्यं॑दिने। सव॑ने। आ। वृ॒ष॒स्व॒। र॒यि॒ऽस्थानः॑। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। ८१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

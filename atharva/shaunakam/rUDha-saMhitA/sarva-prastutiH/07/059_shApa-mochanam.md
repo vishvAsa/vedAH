@@ -36,14 +36,17 @@ An imprecation
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/059_shApa-mochanam/01_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
-वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥१॥
+यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
+वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/059_shApa-mochanam/01_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्। वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
+यो नः॑ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
+वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/059_shApa-mochanam/01_yo_naH.md">
@@ -73,7 +76,7 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। वृक्षःऽइव। विऽद्युता। हतः। आ। मूलात्। अनु। शुष्यतु। ६१.१।
+यः। नः॒। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। नः॒। शपा॑त्। वृ॒क्षःऽइ॑व। वि॒ऽद्युता॑। ह॒तः। आ। मूला॑त्। अनु॑। शु॒ष्य॒तु॒। ६१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

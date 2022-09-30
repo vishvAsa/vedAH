@@ -36,14 +36,17 @@ A charm against Consumption
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व॒र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑ ।  
-यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन्॥१॥  
+व॑र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑।  
+यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व॑र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑। यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन् ॥
+व॑र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑।  
+यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/085_yaxmanAshanam/01_varaNo_vArayAtA.md">
@@ -65,7 +68,7 @@ Let Varana the heavenly tree here present keep disease away. The Gods have drive
 </details>
 <details><summary>पदपाठः</summary>
 
-वरणः। वारयातै। अयम्। देवः। वनस्पतिः। यक्ष्मः। यः। अस्मिन्। आऽविष्टः। तम्। ऊं इति। देवाः। अवीवरन्। ८५.१।
+व॒र॒णः। वा॒र॒या॒तै॒। अ॒यम्। दे॒वः। वन॒स्पतिः॑। यक्ष्मः॑। यः। अ॒स्मिन्। आऽवि॑ष्टः। तम्। ऊं॒ इति॑। दे॒वाः। अ॒वी॒व॒र॒न्। ८५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Let Varana the heavenly tree here present keep disease away. The Gods have drive
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/02_indrasya_vachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च ।  
-दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे ॥२॥  
+इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च।  
+दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/085_yaxmanAshanam/02_indrasya_vachasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च। दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे ॥
+इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च।  
+दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/085_yaxmanAshanam/02_indrasya_vachasA.md">
@@ -122,7 +128,7 @@ We with the speech of Indra and of Mitra and of Varuna. We with the speech of al
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। वचसा। वयम्। मित्रस्य। वरुणस्य। च। देवानाम्। सर्वेषाम्। वाचा। यक्ष्मम्। ते। वारयामहे। ८५.२।
+इन्द्र॑स्य। वच॑सा। व॒यम्। मि॒त्रस्य॑। वरु॑णस्य। च॒। दे॒वाना॑म्। सर्वे॑षाम्। वा॒चा। यक्ष्म॑म्। ते॒। वा॒र॒या॒म॒हे॒। ८५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,14 +159,17 @@ We with the speech of Indra and of Mitra and of Varuna. We with the speech of al
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/085_yaxmanAshanam/03_yathA_vRtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः ।  
-ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये ॥३॥
+यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः।  
+ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/085_yaxmanAshanam/03_yathA_vRtra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः।ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये ॥
+यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः।  
+ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/085_yaxmanAshanam/03_yathA_vRtra.md">
@@ -181,7 +190,7 @@ Even as Vritra checked and stayed these waters flowing every way, With Agni, God
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। वृत्रः। इमाः। आपः। तस्तम्भ। विश्वधा। यतीः। एव। ते। अग्निना। यक्ष्मम्। वैश्वानरेण। वारये। ८५.३।
+यथा॑। वृ॒त्रः। इ॒माः। आपः॑। त॒स्तम्भ॑। वि॒श्वधा॑। य॒तीः। ए॒व। ते॒। अ॒ग्निना॑। यक्ष्म॑म्। वै॒श्वा॒न॒रेण॑। वा॒र॒ये॒। ८५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

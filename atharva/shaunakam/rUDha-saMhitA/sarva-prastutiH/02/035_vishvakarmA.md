@@ -36,14 +36,17 @@ Expiation for an imperfectly performed sacrifice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑ ।  
-या तेषा॑मव॒या दुरि॑ष्टिः॒ स्विऽष्टिं न॒स्तां कृ॑णवद् वि॒श्वक॑र्मा ॥१॥  
+ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑।  
+या तेषा॑मव॒या दुरि॑ष्टिः॒ स्वि॑ष्टिं न॒स्तां कृ॑णवद्वि॒श्वक॑र्मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑। या तेषा॑मव॒या दुरि॑ष्टिः॒ स्वि॑ष्टिं न॒स्तां कृ॑णवद्वि॒श्वक॑र्मा ॥
+ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑।  
+या तेषा॑मव॒या दुरि॑ष्टिः॒ स्वि॑ष्टिं न॒स्तां कृ॑णवद्वि॒श्वक॑र्मा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
@@ -85,7 +88,7 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। भक्षयन्तः। न। वसूनि। आनृधुः। यान्। अग्नयः। अनुऽअतप्यन्त। धिष्ण्याः। या। तेषाम्। अवऽयाः। दुःऽइष्टिः। सुऽइष्टिम्। नः। ताम्। कृणवत्। विश्वऽकर्मा। ३५.१।
+ये। भ॒क्षय॑न्तः। न। वसू॑नि। आ॒नृ॒धुः। यान्। अ॒ग्नयः॑। अ॒नु॒ऽअत॑प्यन्त। धिष्ण्याः॑। या। तेषा॑म्। अ॒व॒ऽयाः। दुःऽइ॑ष्टिः। सुऽइ॑ष्टिम्। नः॒। ताम्। कृ॒ण॒व॒त्। वि॒श्वऽक॑र्मा। ३५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -117,13 +120,16 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञप॑ति॒मृष॑यः॒ एन॑साहु॒र्निर्भ॑क्तं प्र॒जा अ॑नुत॒प्यमा॑नम्।  
-म॒थ॒व्या॒ऽन्त्स्तो॒कानप॒ यान् र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥२॥  
+म॑थ॒व्या॑न्त्स्तो॒कानप॒ यान्र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒ज्ञप॑ति॒मृष॑यः॒ एन॑साहु॒र्निर्भ॑क्तं प्र॒जा अ॑नुत॒प्यमा॑नम्। म॑थ॒व्या॑न्त्स्तो॒कानप॒ यान्र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥
+य॒ज्ञप॑ति॒मृष॑यः॒ एन॑साहु॒र्निर्भ॑क्तं प्र॒जा अ॑नुत॒प्यमा॑नम्।  
+म॑थ॒व्या॑न्त्स्तो॒कानप॒ यान्र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
@@ -166,7 +172,7 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 </details>
 <details><summary>पदपाठः</summary>
 
-यज्ञऽपतिम्। ऋषयः। एनसा। आहुः। निःऽभक्तम्। प्रऽजाः। अनुऽतप्यमानम्। मथव्या᳡न्। स्तोकान्। अप। यान्। रराध। सम्। नः। तेभिः। सृजतु। विश्वऽकर्मा। ३५.२।
+य॒ज्ञऽप॑तिम्। ऋष॑यः। एन॑सा। आ॒हुः॒। निःऽभ॑क्तम्। प्र॒ऽजाः। अ॒नु॒ऽत॒प्यमा॑नम्। म॒थ॒व्या᳡न्। स्तो॒कान्। अप॑। यान्। र॒राध॑। सम्। नः॒। तेभिः॑। सृ॒ज॒तु॒। वि॒श्वऽक॑र्मा। ३५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -197,14 +203,17 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दा॒न्यान्त्सो॑म॒पान् मन्य॑मानो य॒ज्ञस्य॑ वि॒द्वान्त्स॑म॒ये न धीरः॑ ।  
-यदेन॑श्चकृ॒वान् ब॒द्ध ए॒ष तं वि॑श्वकर्म॒न् प्र मु॑ञ्चा स्व॒स्तये॑ ॥३॥  
+अ॑दा॒न्यान्त्सो॑म॒पान्मन्य॑मानो य॒ज्ञस्य॑ वि॒द्वान्त्स॑म॒ये न धीरः॑।  
+यदेन॑श्चकृ॒वान्ब॒द्ध ए॒ष तं वि॑श्वकर्म॒न्प्र मु॑ञ्चा स्व॒स्तये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑दा॒न्यान्त्सो॑म॒पान्मन्य॑मानो य॒ज्ञस्य॑ वि॒द्वान्त्स॑म॒ये न धीरः॑। यदेन॑श्चकृ॒वान्ब॒द्ध ए॒ष तं वि॑श्वकर्म॒न्प्र मु॑ञ्चा स्व॒स्तये॑ ॥
+अ॑दा॒न्यान्त्सो॑म॒पान्मन्य॑मानो य॒ज्ञस्य॑ वि॒द्वान्त्स॑म॒ये न धीरः॑।  
+यदेन॑श्चकृ॒वान्ब॒द्ध ए॒ष तं वि॑श्वकर्म॒न्प्र मु॑ञ्चा स्व॒स्तये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
@@ -238,7 +247,7 @@ Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the mee
 </details>
 <details><summary>पदपाठः</summary>
 
-अदान्यान्। सोमऽपान्। मन्यमानः। यज्ञस्य। विद्वान्। सम्ऽअये। न। धीरः। यत्। एनः। चकृवान्। बध्दः। एषः। तम्। विश्वकर्मन्। प्र। मुञ्च। स्वस्तये। ३५.३।
+अ॒दा॒न्यान्। सो॒म॒ऽपान्। मन्य॑मानः। य॒ज्ञस्य॑। वि॒द्वान्। स॒म्ऽअ॒ये। न। धीरः॑। यत्। एनः॑। च॒कृ॒वान्। ब॒ध्दः। ए॒षः। तम्। वि॒श्व॒क॒र्म॒न्। प्र। मु॒ञ्च। स्वस्तये॑। ३५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -270,13 +279,16 @@ Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the mee
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घो॒रा ऋष॑यो॒ नमो॑ अस्त्वेभ्य॒श्चक्षु॒र्यदे॑षां॒ मन॑सश्च स॒त्यम्।  
-बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न् नम॑स्ते पा॒ह्य॑१स्मा॑न्॥४॥  
+बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न्नम॑स्ते पा॒ह्य१॒॑स्मान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/04_ghorA_RShayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घो॒रा ऋष॑यो॒ नमो॑ अस्त्वेभ्य॒श्चक्षु॒र्यदे॑षां॒ मन॑सश्च स॒त्यम्। बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न्नम॑स्ते पा॒ह्यस्मान् ॥
+घो॒रा ऋष॑यो॒ नमो॑ अस्त्वेभ्य॒श्चक्षु॒र्यदे॑षां॒ मन॑सश्च स॒त्यम्।  
+बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न्नम॑स्ते पा॒ह्य१॒॑स्मान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/04_ghorA_RShayo.md">
@@ -310,7 +322,7 @@ Awful are Rishis: unto them be homage, and to their eye and truthfulness of spir
 </details>
 <details><summary>पदपाठः</summary>
 
-घोराः। ऋषयः। नमः। अस्तु। एभ्यः। चक्षुः। यत्। एषाम्। मनसः। च। सत्यम्। बृहस्पतये। महिष। द्युऽमत्। नमः। विश्वऽकर्मन्। नमः। ते। पाहि। अस्मान्। ३५.४।
+घो॒राः। ऋष॑यः। नमः॑। अ॒स्तु॒। ए॒भ्यः॒। चक्षुः॑। यत्। ए॒षा॒म्। मन॑सः। च॒। स॒त्यम्। बृह॒स्पत॑ये। म॒हि॒ष॒। द्यु॒ऽमत्। नमः॑। विश्व॑ऽकर्मन्। नमः॑। ते॒। पा॒हि॒। अ॒स्मान्। ३५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -341,14 +353,17 @@ Awful are Rishis: unto them be homage, and to their eye and truthfulness of spir
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि ।  
-इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥५॥
+य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि।  
+इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि। इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
+य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि।  
+इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
@@ -379,7 +394,7 @@ The eye of sacrifice, source, and beginning--with voice, ear, spirit unto him I 
 </details>
 <details><summary>पदपाठः</summary>
 
-यज्ञस्य। चक्षुः। प्रऽभृतिः। मुखम्। च। वाचा। श्रोत्रेण। मनसा। जुहोमि। इमम्। यज्ञम्। विऽततम्। विश्वऽकर्मणा। आ। देवाः। यन्तु। सुऽमनस्यमानाः। ३५.५।
+य॒ज्ञस्य॑। चक्षुः। प्रऽभृ॑तिः। मुख॑म्। च॒। वा॒चा। श्रोत्रे॑ण। मन॑सा। जु॒हो॒मि॒। इ॒मम्। य॒ज्ञम्। विऽत॑तम्। वि॒श्वऽक॑र्मणा। आ। दे॒वाः। य॒न्तु॒। सु॒ऽम॒न॒स्यमा॑नाः। ३५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

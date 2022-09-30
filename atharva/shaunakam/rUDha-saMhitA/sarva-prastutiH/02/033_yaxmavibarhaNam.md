@@ -36,14 +36,17 @@ I
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां छुबु॑का॒दधि॑ ।  
-यक्ष्मं॑ शीर्ष॒ण्यं ऽ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥१॥  
+अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां॒ छुबु॑का॒दधि॑।  
+यक्ष्मं॑ शीर्ष॒ण्यं॑ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां॒ छुबु॑का॒दधि॑। यक्ष्मं॑ शीर्ष॒ण्यं॑ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥
+अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां॒ छुबु॑का॒दधि॑।  
+यक्ष्मं॑ शीर्ष॒ण्यं॑ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
@@ -66,7 +69,7 @@ From both thy nostrils, from both eyes, from both thine ears, and from thy chin,
 </details>
 <details><summary>पदपाठः</summary>
 
-अक्षीभ्याम्। ते। नासिकाभ्याम्। कर्णाभ्याम्। छुबुकात्। अधि। यक्ष्मम्। शीर्षण्यम्। मस्तिष्कात्। जिह्वायाः। वि। वृहामि। ते। ३३.१।
+अ॒क्षीभ्या॑म्। ते॒। नासि॑काभ्याम्। कर्णा॑भ्याम्। छुबु॑कात्। अधि॑। यक्ष्म॑म्। शी॒र्ष॒ण्य॑म्। म॒स्तिष्का॑त्। जि॒ह्वायाः॑। वि। वृ॒हा॒मि॒। ते॒। ३३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ From both thy nostrils, from both eyes, from both thine ears, and from thy chin,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्याऽत्।  
-यक्ष्मं॑ दोष॒ण्य॑१मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥२॥  
+ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्या॑त्।  
+यक्ष्मं॑ दोष॒ण्य१॒॑मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्या॑त्। यक्ष्मं॑ दोष॒ण्यमंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥
+ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्या॑त्।  
+यक्ष्मं॑ दोष॒ण्य१॒॑मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
@@ -130,7 +136,7 @@ Forth from the neck and from the nape, from dorsal vertebrae and spine. From arm
 </details>
 <details><summary>पदपाठः</summary>
 
-ग्रीवाभ्यः। ते। उष्णिहाभ्यः। कीकसाभ्यः। अनूक्या᳡त्। यक्ष्मम्। दोषण्य᳡म्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ३३.२।
+ग्री॒वाभ्यः॑। ते॒। उ॒ष्णिहा॑भ्यः। कीक॑साभ्यः। अ॒नू॒क्या᳡त्। यक्ष्म॑म्। दो॒ष॒ण्य᳡म्। अंसा॑भ्याम्। बा॒हुऽभ्या॑म्। वि। वृ॒हा॒मि॒। ते॒। ३३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ Forth from the neck and from the nape, from dorsal vertebrae and spine. From arm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हृद॑यात् ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात् पा॒र्श्वाभ्या॑म्।  
-यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥३॥  
+हृद॑यात्ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात्पा॒र्श्वाभ्या॑म्।  
+यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हृद॑यात्ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात्पा॒र्श्वाभ्या॑म्। यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥
+हृद॑यात्ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात्पा॒र्श्वाभ्या॑म्।  
+यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
@@ -196,11 +205,11 @@ Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, Fr
 </details>
 <details><summary>पदपाठः</summary>
 
-हृदयात्। ते। परि। क्लोम्नः। हलीक्ष्णात्। पार्श्वाभ्याम्। यक्ष्मम्। मतस्नाभ्याम्। प्लीह्नः। यक्नः। ते। वि। वृहामसि। ३३.३।
+हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ३३.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-हृदयात्। ते। परि। क्लोम्नः। हलीक्ष्णात्। पार्श्वाभ्याम्। यक्ष्मम्। मतस्नाभ्याम्। प्लीह्नः। यक्नः। ते। वि। वृहामसि। ३३.३।
+हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ३३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -215,14 +224,17 @@ Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, Fr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोरु॒दरा॒दधि॑ ।  
-यक्ष्मं॑ कु॒क्षिभ्यां॑ प्ला॒शेर्नाभ्या॒ वि वृ॑हामि ते ॥४॥  
+आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोरु॒दरा॒दधि॑।  
+यक्ष्मं॑ कु॒क्षिभ्या॑म्प्ला॒शेर्नाभ्या॒ वि वृ॑हामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोरु॒दरा॒दधि॑। यक्ष्मं॑ कु॒क्षिभ्या॑म्प्ला॒शेर्नाभ्या॒ वि वृ॑हामि ते ॥
+आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोरु॒दरा॒दधि॑।  
+यक्ष्मं॑ कु॒क्षिभ्या॑म्प्ला॒शेर्नाभ्या॒ वि वृ॑हामि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
@@ -249,7 +261,7 @@ From bowels and intestines, from the rectum and the belly, I Extirpate thy Consu
 </details>
 <details><summary>पदपाठः</summary>
 
-आन्त्रेभ्यः। ते। गुदाभ्यः। वनिष्ठोः। उदरात्। अधि। यक्ष्मम्। कुक्षिऽभ्याम्। प्लाशेः। नाभ्याः। वि। वृहामि। ते। ३३.४।
+आ॒न्त्रेभ्यः॑। ते॒। गुदा॑भ्यः। व॒नि॒ष्ठोः। उ॒दरा॑त्। अधि॑। यक्ष्म॑म्। कु॒क्षिऽभ्या॑म्। प्ला॒शेः। नाभ्याः॑। वि। वृ॒हा॒मि॒। ते॒। ३३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -280,14 +292,17 @@ From bowels and intestines, from the rectum and the belly, I Extirpate thy Consu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णिभ्यां॒ प्रप॑दाभ्याम्।  
-यक्ष्मं॑ भस॒द्यं॑१ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥५॥  
+ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णि॑भ्यां॒ प्रप॑दाभ्याम्।  
+यक्ष्मं॑ भस॒द्यं१॒॑ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णि॑भ्यां॒ प्रप॑दाभ्याम्। यक्ष्मं॑ भस॒द्यं१॒॑ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥
+ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णि॑भ्यां॒ प्रप॑दाभ्याम्।  
+यक्ष्मं॑ भस॒द्यं१॒॑ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
@@ -315,7 +330,7 @@ Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet.
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊरुऽभ्याम्। ते। अष्ठीवत्ऽभ्याम्। पार्ष्णिऽभ्याम्। प्रऽपदाभ्याम्। यक्ष्मम्। भसद्य᳡म्। श्रोणिऽभ्याम्। भासदम्। भंससः। वि। वृहामि। ते। ३३.५।
+ऊ॒रुऽभ्या॑म्। ते॒। अ॒ष्ठी॒वत्ऽभ्या॑म्। पार्ष्णि॑ऽभ्याम्। प्रऽप॑दाभ्याम्। यक्ष्म॑म्। भ॒स॒द्य᳡म्। श्रोणि॑ऽभ्याम्। भास॑दम्। भंस॑सः। वि। वृ॒हा॒मि॒। ते॒। ३३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -346,14 +361,17 @@ Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः ।  
-यक्ष्मं॑ पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥६॥  
+अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः।  
+यक्ष्म॑म्पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः। यक्ष्म॑म्पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥
+अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः।  
+यक्ष्म॑म्पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
@@ -377,7 +395,7 @@ Forth from thy marrows and thy bones, forth from thy tendons and thy veins I ban
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्थिऽभ्यः। ते। मज्जऽभ्यः। स्नावऽभ्यः। धमनिऽभ्यः। यक्ष्मम्। पाणिऽभ्याम्। अङ्गुलिऽभ्यः। नखेभ्यः। वि। वृहामि। ते। ३३.६।
+अ॒स्थिऽभ्यः॑। ते॒। म॒ज्जऽभ्यः॑। स्नाव॑ऽभ्यः। ध॒मनि॑ऽभ्यः। यक्ष्म॑म्। पा॒णिऽभ्या॑म्। अ॒ङ्गुलि॑ऽभ्यः। न॒खेभ्यः॑। वि। वृ॒हा॒मि॒। ते॒। ३३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -408,14 +426,17 @@ Forth from thy marrows and thy bones, forth from thy tendons and thy veins I ban
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अङ्गे॑अङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि ।  
-यक्ष्मं॑ त्वचस्य ऽ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥७॥
+अङ्गेअ॑ङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि।  
+यक्ष्मं॑ त्वच॒स्यं॑ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अङ्गेअ॑ङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि। यक्ष्मं॑ त्वच॒स्यं॑ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥
+अङ्गेअ॑ङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि।  
+यक्ष्मं॑ त्वच॒स्यं॑ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
@@ -441,7 +462,7 @@ In every member, every hair, in every joint wherein it lies, We with the exorcis
 </details>
 <details><summary>पदपाठः</summary>
 
-अङ्गेऽअङ्गे। लोम्निऽलोम्नि। यः। ते। पर्वणिऽपर्वणि। यक्ष्मम्। त्वचस्य᳡म्। ते। वयम्। कश्यपस्य। विऽबर्हेण। विष्वञ्चम्। वि। वृहामसि। ३३.७।
+अङ्गे॑ऽअङ्गे। लोम्नि॑ऽलोम्नि। यः। ते॒। पर्व॑णिऽपर्वणि। यक्ष्म॑म्। त्व॒च॒स्य᳡म्। ते॒। व॒यम्। क॒श्यप॑स्य। वि॒ऽब॒र्हेण॑। विष्व॑ञ्चम्। वि। वृ॒हा॒म॒सि॒। ३३.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

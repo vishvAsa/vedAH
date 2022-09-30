@@ -32,15 +32,17 @@ A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑ ।  
-तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑प॒र्यामि॒ नाक॑म्॥१॥  
+चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑।  
+तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑पर्यामि॒ नाक॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑ ।  
-तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑प॒र्यामि॒ नाक॑म्॥१॥  
+चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑।  
+तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑पर्यामि॒ नाक॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/01_chitrANi_sAkam.md">
@@ -77,7 +79,7 @@ The brilliant lights shining in heaven together, which through the world glide o
 </details>
 <details><summary>पदपाठः</summary>
 
-चित्राणि। साकम्। दिवि। रोचनानि। सरीसृपाणि। भुवने। जवानि। तुर्मिशम्। सुऽमतिम्। इच्छमानः। अहानि। गीःऽभिः। सपर्यामि। नाकम्। ७.१।
+चि॒त्राणि॑। सा॒कम्। दि॒वि। रो॒च॒नानि॑। स॒री॒सृ॒पाणि॑। भुव॑ने। ज॒वानि॑। तु॒र्मिश॑म्। सु॒ऽम॒तिम्। इ॒च्छमा॑नः। अहा॑नि। गीः॒ऽभिः। स॒प॒र्यामि॑। नाक॑म्। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,14 +111,16 @@ The brilliant lights shining in heaven together, which through the world glide o
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॒हव॑मग्ने॒ कृत्ति॑का॒ रोहि॑णी॒ चास्तु॑ भ॒द्रं मृ॒गशि॑रः॒ शमा॒र्द्रा।  
-पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे ॥२॥  
+पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सु॒हव॑मग्ने॒ कृत्ति॑का॒ रोहि॑णी॒ चास्तु॑ भ॒द्रं मृ॒गशि॑रः॒ शमा॒र्द्रा।  
-पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे ॥२॥  
+पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
@@ -149,7 +153,7 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽहवम्। अग्ने। कृत्तिकाः। रोहिणी। च। अस्तु। भद्रम्। मृगऽशिरः। शम्। आर्द्रा। पुनर्वसु इति पुनःऽवसू। सूनृता। चारु। पुष्यः। भानुः। आऽश्लेषाः। अयनम्। मघाः। मे। ७.२।
+सु॒ऽहव॑म्। अ॒ग्ने॒। कृत्ति॑काः। रोहि॑णी। च॒। अस्तु॒॑। भ॒द्रम्। मृ॒गऽशि॑रः। शम्। आ॒र्द्रा। पुन॑र्वसु॒ इति॑ पुनः॑ऽवसू। सू॒नृता॑। चारु॑। पुष्यः॑। भा॒नुः। आ॒ऽश्ले॒षाः। अय॑नम्। म॒घाः। मे॒। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -180,15 +184,17 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु ।  
-राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म्॥३॥  
+पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु।  
+राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु ।  
-राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म्॥३॥  
+पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु।  
+राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
@@ -238,7 +244,7 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 </details>
 <details><summary>पदपाठः</summary>
 
-पुण्यम्। पूर्वा। फल्गुन्यौ। च। अत्र। हस्तः। चित्रा। शिवा। स्वाति। सुऽखः। मे। अस्तु। राधे। विऽशाखे। सुऽहवा। अनुऽराधा। ज्येष्ठा। सुऽनक्षत्रम्। अरिष्ट। मूलम्। ७.३।
+पुण्य॑म्। पूर्वा॑। फल्गु॑न्यौ। च॒। अत्र॑। हस्तः॑। चि॒त्रा। शि॒वा। स्वा॒ति। सु॒ऽखः। मे॒। अ॒स्तु॒। राधे॑। वि॒ऽशाखे॑। सु॒ऽहवा॑। अ॒नु॒ऽरा॒धा। ज्येष्ठा॑। सु॒ऽनक्ष॑त्रम्। अरि॑ष्ट। मूल॑म्। ७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -269,15 +275,17 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु ।  
-अ॒भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम्॥४॥  
+अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु।  
+अ॑भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु ।  
-अ॒भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम्॥४॥  
+अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु।  
+अ॑भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/04_annaM_pUrvA.md">
@@ -358,7 +366,7 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्नम्। पूर्वा। रासताम्। मे। अषाढाः। ऊर्जम्। देवी। उत्ऽतरोः। आ। वहन्तु। अभिऽजित्। मे। रासताम्। पुण्यम्। एव। श्रवणः। श्रविष्ठाः। कुर्वताम्। सुऽपुष्टिम्। ७.४।
+अन्न॑म्। पूर्वा॑। रा॒स॒ता॒म्। मे॒। अ॒षा॒ढाः। ऊर्ज॑म्। दे॒वी। उत्ऽत॑रोः। आ। व॒ह॒न्तु॒। अ॒भि॒ऽजित्। मे॒। रा॒स॒ता॒म्। पुण्य॑म्। ए॒व। श्रव॑णः। श्रवि॑ष्ठाः। कु॒र्व॒ता॒म्। सु॒ऽपु॒ष्टिम्। ७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -389,15 +397,17 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/05_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मे॑ म॒हच्छ॒तभि॑ष॒ग् वरी॑य॒ आ मे॑ द्व॒या प्रोष्ठ॑पदा सु॒शर्म॑ ।  
-आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥५॥
+आ मे॑ म॒हच्छ॒तभि॑ष॒ग्वरी॑य॒ आ मे॑ द्व॒या प्रोष्ठ॑पदा सु॒शर्म॑।  
+आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/05_A_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ मे॑ म॒हच्छ॒तभि॑ष॒ग् वरी॑य॒ आ मे॑ द्व॒या प्रोष्ठ॑पदा सु॒शर्म॑ ।  
-आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥५॥
+आ मे॑ म॒हच्छ॒तभि॑ष॒ग्वरी॑य॒ आ मे॑ द्व॒या प्रोष्ठ॑पदा सु॒शर्म॑।  
+आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/05_A_me.md">
@@ -419,7 +429,7 @@ Satabhishak afford me ample freedom, and both the Proshtha- padas guard me safel
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। मे। महत्। शतऽभिषक्। वरीयः। आ। मे। द्वया। प्रोष्ठऽपदा। सुऽशर्म। आ। रेवती। च। अश्वऽयुजौ। भगम्। मे। आ। मे। रयिम्। भरण्यः। आ। वहन्तु। ७.५।
+आ। मे॒। म॒हत्। श॒तऽभि॑षक्। वरी॑यः। आ। मे॒। द्व॒या। प्रोष्ठ॑ऽपदा। सु॒ऽशर्म॑। आ। रे॒वती॑। च॒। अ॒श्व॒ऽयुजौ॑। भग॑म्। मे॒। आ। मे॒। र॒यिम्। भर॑ण्यः। आ। व॒ह॒न्तु॒। ७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

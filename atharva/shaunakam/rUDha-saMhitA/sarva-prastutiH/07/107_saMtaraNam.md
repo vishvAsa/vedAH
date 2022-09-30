@@ -32,14 +32,17 @@ Translated: Henry, 42, 117; Griffith, i. 379.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/107_saMtaraNam/01_ava_divastArayanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑ ।  
-आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन्॥१॥
+अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑।  
+आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/107_saMtaraNam/01_ava_divastArayanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑। आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन् ॥
+अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑।  
+आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/107_saMtaraNam/01_ava_divastArayanti.md">
@@ -61,7 +64,7 @@ The seven bright beams of Surya bring the waters downward from the sky, The stre
 </details>
 <details><summary>पदपाठः</summary>
 
-अव। दिवः। तारयन्ति। सप्त। सूर्यस्य। रश्मयः। आपः। समुद्रियाः। धाराः। ताः। ते। शल्यम्। असिस्रसन्। ११२.१।
+अव॑। दि॒वः। ता॒र॒य॒न्ति॒। स॒प्त। सूर्य॑स्य। र॒श्मयः॑। आपः॑। स॒मु॒द्रियाः॑। धाराः॑। ताः। ते॒। श॒ल्यम्। अ॒सि॒स्र॒स॒न्। ११२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

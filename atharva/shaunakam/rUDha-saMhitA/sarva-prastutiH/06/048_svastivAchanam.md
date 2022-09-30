@@ -36,14 +36,17 @@ Formulas to be used at the three daily libations
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्ये॒नोऽसि गाय॒त्रच्छन्दा॒ अनु॒ त्वा र॑भे ।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥१॥  
+श्ये॒नो᳡ऽसि॑ गाय॒त्रच्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्ये॒नोऽसि॑ गाय॒त्रच्छ॑न्दा॒ अनु॒ त्वा र॑भे। स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+श्ये॒नो᳡ऽसि॑ गाय॒त्रच्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
@@ -69,7 +72,7 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 </details>
 <details><summary>पदपाठः</summary>
 
-श्येनः। असि। गायत्रऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.१।
+श्ये॒नः। अ॒सि॒। गा॒य॒त्रऽछ॑न्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे ।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥२॥  
+ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे। स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
@@ -131,7 +137,7 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋभुः। असि। जगत्ऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.२।
+ऋ॒भुः। अ॒सि॒। जग॑त्ऽछन्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे ।  
-स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥३॥
+वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे। स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
+स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
@@ -191,7 +200,7 @@ Thou art the Bull, the Trishtup's lord: I hold thee fast. Happily bear me to the
 </details>
 <details><summary>पदपाठः</summary>
 
-वृषा। असि। त्रिस्तुप्ऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.३।
+वृषा॑। अ॒सि॒। त्रि॒स्तुप्ऽछ॑न्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

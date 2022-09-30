@@ -36,14 +36,17 @@ A prayer for peace and security
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु ।  
-अभ॑यं नोऽस्तू॒र्व॑१न्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु ॥१॥  
+अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु।  
+अभ॑यं नोऽस्तू॒र्व१॒॑न्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु। अभ॑यं नोऽस्तू॒र्वन्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु ॥
+अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु।  
+अभ॑यं नोऽस्तू॒र्व१॒॑न्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
@@ -66,7 +69,7 @@ Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us s
 </details>
 <details><summary>पदपाठः</summary>
 
-अभयम्। द्यावापृथिवी इति। इह। अस्तु। नः। अभयम्। सोमः। सविता। नः। कृणोतु। अभयम्। नः। अस्तु। उरु। अन्तरिक्षम्। सप्तऽऋषीणाम्। च। हविषा। अभयम्। नः। अस्तु। ४०.१।
+अभ॑यम्। द्या॒वा॒पृ॒थि॒वी॒ इति॑। इ॒ह। अ॒स्तु॒। नः॒। अभ॑यम्। सोमः॑। स॒वि॒ता। नः॒। कृ॒णो॒तु॒। अभ॑यम्। नः॒। अ॒स्तु॒। उ॒रु। अ॒न्तरि॑क्षम्। स॒प्त॒ऽऋ॒षी॒णाम्। च॒। ह॒विषा॑। अभ॑यम्। नः। अ॒स्तु॒। ४०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/02_asmai_grAmAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु ।  
-अ॒श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः ॥२॥  
+अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु।  
+अ॑श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/02_asmai_grAmAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु। अ॑श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः ॥
+अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु।  
+अ॑श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/02_asmai_grAmAya.md">
@@ -127,7 +133,7 @@ May the Four Quarters give this hamlet power: Savitar favour us and make us happ
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्मै। ग्रामाय। प्रऽद‍िशः। चतस्रः। ऊर्जम्। सुऽभूतम्। स्वस्ति। सविता। नः। कृणोतु। अशत्रु। इन्द्रः। अभयम्। नः। कृणोतु। अन्यत्र। राज्ञाम्। अभि। यातु। मन्युः। ४०.२।
+अ॒स्मै। ग्रामा॑य। प्र॒ऽद‍िशः॑। चत॑स्रः। ऊर्ज॑म्। सु॒ऽभू॒तम्। स्व॒स्ति। स॒वि॒ता। नः॒। कृ॒णो॒तु॒। अ॒श॒त्रु॒। इन्द्रः॑। अभ॑यम्। नः॒। कृ॒णो॒तु॒। अ॒न्यत्र॑। राज्ञा॑म्। अ॒भि। या॒तु॒। म॒न्युः। ४०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ May the Four Quarters give this hamlet power: Savitar favour us and make us happ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/03_anamitraM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न॒मि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्।  
-इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि ॥३॥
+अ॑नमि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्।  
+इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/03_anamitraM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑नमि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्। इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि ॥
+अ॑नमि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्।  
+इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/03_anamitraM_no.md">
@@ -190,7 +199,7 @@ Make thou us free from enemies both from below and from above. O Indra, give us 
 </details>
 <details><summary>पदपाठः</summary>
 
-अनमित्रम्। नः। अधरात्। अनमित्रम्। नः। उत्तरात्। इन्द्र। अनमित्रम्। नः। पश्चात्। अनमित्रम्। पुरः। कृधि। ४०.३।
+अ॒न॒मि॒त्रम्। नः॒। अ॒ध॒रात्। अ॒न॒मि॒त्रम्। नः॒। उ॒त्त॒रात्। इन्द्र॑। अ॒न॒मि॒त्रम्। नः॒। प॒श्चात्। अ॒न॒मि॒त्रम्। पु॒रः। कृ॒धि॒। ४०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

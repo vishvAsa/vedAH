@@ -28,22 +28,25 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 </details>
 </details>
 </div>
-## ०१ पिप्पली क्षिप्तभेषज्यु३तातिविद्धभेषजी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyu3tAtividdhabheShajI.md">
+## ०१ पिप्पली क्षिप्तभेषज्युतातिविद्धभेषजी
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒प्प॒ली क्षि॑प्तभेष॒ज्यू॒३ताति॑विद्धभेष॒जी।  
-तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म्॥१॥  
+पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी।  
+तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyu3tAtividdhabheShajI.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी। तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
+पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी।  
+तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyu3tAtividdhabheShajI.md">
-<details open><summary><h3>०१ पिप्पली क्षिप्तभेषज्यु३तातिविद्धभेषजी ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
+<details open><summary><h3>०१ पिप्पली क्षिप्तभेषज्युतातिविद्धभेषजी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -71,7 +74,7 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 </details>
 <details><summary>पदपाठः</summary>
 
-पिप्पली। क्षिप्तऽभेषजी। उत। अतिविध्दऽभेषजी। ताम्। देवाः। सम्। अकल्पयन्। इयम्। जीवितवै। अलम्। १०९.१।
+पि॒प्प॒ली। क्षि॒प्त॒ऽभे॒ष॒जी। उ॒त। अ॒ति॒वि॒ध्द॒ऽभे॒ष॒जी। ताम्। दे॒वाः। सम्। अ॒क॒ल्प॒य॒न्। इ॒यम्। जीवि॑त॒वै। अल॑म्। १०९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,22 +101,25 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 </details>
 </details>
 </div>
-## ०२ पिप्पल्यः समवदन्तायतीर्जननादधि
+## ०२ पिप्पल्यः समवदन्तायतीर्जननादधि
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒प्प॒ल्यः॑१ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑ ।  
-यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥२॥  
+पि॑प्प॒ल्यः१॒॑ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑।  
+यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पि॑प्प॒ल्यः सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑। यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
+पि॑प्प॒ल्यः१॒॑ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑।  
+यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
-<details open><summary><h3>०२ पिप्पल्यः समवदन्तायतीर्जननादधि ...{Loading}...</h3></summary>
+<details open><summary><h3>०२ पिप्पल्यः समवदन्तायतीर्जननादधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -139,7 +145,7 @@ When from their origin they came, the Berries spake among themselves: The man wh
 </details>
 <details><summary>पदपाठः</summary>
 
-पिप्पल्यः᳡। सम्। अवदन्त। आऽयतीः। जननात्। अधि। यम्। जीवम्। अश्नवामहै। न। सः। रिष्याति। पुरुषः। १०९.२।
+पि॒प्प॒ल्यः᳡। सम्। अ॒व॒द॒न्त॒। आ॒ऽय॒तीः। जन॑नात्। अधि॑। यम्। जी॒वम्। अ॒श्नवा॑महै। न। सः। रि॒ष्या॒ति॒। पुरु॑षः। १०९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ When from their origin they came, the Berries spake among themselves: The man wh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असु॑रास्त्वा॒ न्यऽखनन् दे॒वास्त्वोद॑वप॒न् पुनः॑ ।  
-वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम्॥३॥
+असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑।  
+वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑। वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
+असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑।  
+वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
@@ -198,7 +207,7 @@ Asuras buried thee in earth: the Gods again uplifted thee. Healer of sickness ca
 </details>
 <details><summary>पदपाठः</summary>
 
-असुराः। त्वा। नि। अखनन्। देवाः। त्वा। उत्। अवपन्। पुनः। वातीऽकृतस्य। भेषजीम्। अथो इति। क्षिप्तस्‍य। भेषजीम्। १०९.३।
+असु॑राः। त्वा॒। नि। अ॒ख॒न॒न्। दे॒वाः। त्वा॒। उत्। अ॒व॒प॒न्। पुनः॑। वा॒तीऽकृ॑तस्य। भे॒ष॒जीम्। अथो॒ इति॑। क्षि॒प्तस्‍य॑। भे॒ष॒जीम्। १०९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

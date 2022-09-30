@@ -36,14 +36,17 @@ A charm to obtain knowledge of the Veda
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑ ।  
-ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥१॥  
+ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑।  
+ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑। ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥
+ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑।  
+ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
@@ -90,7 +93,7 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋचम्। साम। यजामहे। याभ्याम्। कर्माणि। कुर्वते। एते  इति। सदसि। राजतः। यज्ञम्। देवेषु। यच्छतः। ५६.१।
+ऋच॑म्। साम॑। य॒जा॒म॒हे॒। याभ्या॑म्। कर्मा॑णि। कु॒र्वते॑। ए॒ते इति॑। सद॑सि। रा॒ज॒तः॒। य॒ज्ञम्। दे॒वेषु॑। य॒च्छ॒तः॒। ५६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -121,14 +124,17 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॑ यजु॒र्बल॑म्।  
-ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द् वेदः॑ पृ॒ष्टः श॑चीपते ॥२॥
+ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॒ यजु॒र्बल॑म्।  
+ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द्वेदः॑ पृ॒ष्टः श॑चीपते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॒ यजु॒र्बल॑म्। ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द्वेदः॑ पृ॒ष्टः श॑चीपते ॥
+ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॒ यजु॒र्बल॑म्।  
+ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द्वेदः॑ पृ॒ष्टः श॑चीपते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
@@ -144,7 +150,7 @@ As I have asked about Verse, Song, Sacrifice, strength, force,. Yajus-text, So n
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋचम्। साम। यत्। अप्राक्षम्। हविः। ओजः। यजुः। बलम्। एषः। मा। तस्मात्। मा। हिंसीत्। वेदः। पृष्टः। शचीऽपते। ५७.१।
+ऋच॑म्। साम॑। यत्। अप्रा॑क्षम्। ह॒विः। ओजः॑। यजुः॑। बल॑म्। ए॒षः। मा॒। तस्मा॑त्। मा। हिं॒सी॒त्। वेदः॑। पृ॒ष्टः। श॒ची॒ऽप॒ते॒। ५७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

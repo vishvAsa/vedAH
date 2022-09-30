@@ -37,13 +37,16 @@ Glorification and benediction of cows
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे।  
-प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥१॥  
+प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/01_A_gAvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे। प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
+आ गावो॑ अग्मन्नु॒त भ॒द्रम॑क्र॒न्त्सीद॑न्तु गो॒ष्ठे र॒णय॑न्त्व॒स्मे।  
+प्र॒जाव॑तीः पुरु॒रूपा॑ इ॒ह स्यु॒रिन्द्रा॑य पू॒र्वीरु॒षसो॒ दुहा॑नाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/01_A_gAvo.md">
@@ -68,7 +71,7 @@ The kine have come and brought good fortune: let them rest in the cow-pen and be
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। गावः। अग्मन्। उत। भद्रम्। अक्रन्। सीदन्तु। गोऽस्थे। रणयन्तु। अस्मे इति। प्रजाऽवतीः। पुरुऽरूषाः। इह। स्युः। इन्द्राय। पूर्वीः। उषसः। दुहानाः। २१.१।
+आ। गावः॑। अ॒ग्म॒न्। उ॒त। भ॒द्रम्। अ॒क्र॒न्। सीद॑न्तु। गो॒ऽस्थे। र॒णय॑न्तु। अ॒स्मे इति॑। प्र॒जाऽव॑तीः। पु॒रु॒ऽरूषाः॑। इ॒ह। स्युः॒। इन्द्रा॑य। पू॒र्वीः। उ॒षसः॑। दुहा॑नाः। २१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ The kine have come and brought good fortune: let them rest in the cow-pen and be
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/02_indro_yajvane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॒ यज्व॑ने गृण॒ते च॒ शिक्ष॑त॒ उपेद् द॑दाति॒ न स्वं मु॑षायति ।  
-भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॑न्नभि॒न्ने खि॒ल्ये नि द॑धाति देव॒युम्॥२॥  
+इन्द्रो॒ यज्व॑ने गृण॒ते च॒ शिक्ष॑त॒ उपेद्द॑दाति॒ न स्वं मु॑षायति।  
+भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॑न्नभि॒न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/02_indro_yajvane.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॒ यज्व॑ने गृण॒ते च॒ शिक्ष॑त॒ उपेद्द॑दाति॒ न स्वं मु॑षायति। भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॑न्नभि॒न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
+इन्द्रो॒ यज्व॑ने गृण॒ते च॒ शिक्ष॑त॒ उपेद्द॑दाति॒ न स्वं मु॑षायति।  
+भूयो॑भूयो र॒यिमिद॑स्य व॒र्धय॑न्नभि॒न्ने खि॒ल्ये नि द॑धाति देव॒युम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/02_indro_yajvane.md">
@@ -135,7 +141,7 @@ Indra aids him who offers sacrifice and praise: he takes not what is his, and gi
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। यज्वने। गृणते। च। शिक्षते। उप। इत्। ददाति। न। स्वम्। मुषायति। भूयःऽभूयः। रयिम्। इत्। अस्य। वर्धयन्। अभिन्ने। खिल्ये। नि। दधाति। देवऽयुम्। २१.२।
+इन्द्रः॑। यज्व॑ने। गृ॒ण॒ते। च॒। शिक्ष॑ते। उप॑। इत्। द॒दा॒ति॒। न। स्वम्। मु॒षा॒य॒ति॒। भूयः॑ऽभूयः। र॒यिम्। इत्। अ॒स्य॒। व॒र्धय॑न्। अ॒भि॒न्ने। खि॒ल्ये। नि। द॒धा॒ति॒। दे॒व॒ऽयुम्। २१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Indra aids him who offers sacrifice and praise: he takes not what is his, and gi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/03_na_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ता न॑शन्ति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्य॒थिरा द॑धर्षति ।  
-दे॒वांश्च याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित् ताभिः॑ सचते॒ गोप॑तिः स॒ह॥३॥  
+न ता न॑शन्ति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्य॒थिरा द॑धर्षति।  
+दे॒वांश्च॒ याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित्ताभिः॑ सचते॒ गोप॑तिः स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/03_na_tA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न ता न॑शन्ति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्य॒थिरा द॑धर्षति। दे॒वांश्च॒ याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित्ताभिः॑ सचते॒ गोप॑तिः स॒ह ॥
+न ता न॑शन्ति॒ न द॑भाति॒ तस्क॑रो॒ नासा॑मामि॒त्रो व्य॒थिरा द॑धर्षति।  
+दे॒वांश्च॒ याभि॒र्यज॑ते॒ ददा॑ति च॒ ज्योगित्ताभिः॑ सचते॒ गोप॑तिः स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/03_na_tA.md">
@@ -208,7 +217,7 @@ These are ne'er lost, no robber ever injures them: no evil-minded foe attempts t
 </details>
 <details><summary>पदपाठः</summary>
 
-न। ताः। नशन्ति। न। दभाति। तस्करः। न। आसाम्। आमित्रः। व्यथिः। आ। दधर्षति। देवान्। च। याभिः। यजते। ददाति। च। ज्योक्। इत्। ताभिः। सचते। गोऽपतिः। सह। २१.३।
+न। ताः। न॒श॒न्ति॒। न। द॒भा॒ति॒। तस्क॑रः। न। आ॒सा॒म्। आ॒मि॒त्रः। व्य॒थिः। आ। द॒ध॒र्ष॒ति॒। दे॒वान्। च॒। याभिः॑। यज॑ते। ददा॑ति। च॒। ज्योक्। इत्। ताभिः॑। स॒च॒ते॒। गोऽप॑तिः। स॒ह। २१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -240,13 +249,16 @@ These are ne'er lost, no robber ever injures them: no evil-minded foe attempts t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न ता अर्वा॑ रे॒णुक॑काटोऽश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि।  
-उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥४॥  
+उ॑रुगा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/04_na_tA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न ता अर्वा॑ रे॒णुक॑काटोऽश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि। उ॑रुगा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
+न ता अर्वा॑ रे॒णुक॑काटोऽश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि।  
+उ॑रुगा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/04_na_tA.md">
@@ -278,7 +290,7 @@ The charger with his dusty brow o'ertakes them not, and never to the shambles do
 </details>
 <details><summary>पदपाठः</summary>
 
-न। ताः। अर्वा। रेणुकऽकाटः। अश्नुते। न। संस्कृतत्रम्। उप। यन्ति। ताः। अभि। उरुऽगायम्। अभयम्। तस्य। ताः। अनु। गावः। मर्तस्य। वि। चरन्ति। यज्वनः। २१.४।
+न। ताः। अर्वा॑। रे॒णुक॑ऽकाटः। अ॒श्नु॒ते॒। न। सं॒स्कृ॒त॒त्रम्। उप॑। य॒न्ति॒। ताः। अ॒भि। उ॒रु॒ऽगा॒यम्। अभ॑यम्। तस्य॑। ताः। अनु॑। गावः॑। मर्त॑स्य। वि। च॒र॒न्ति॒। यज्व॑नः। २१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -309,14 +321,17 @@ The charger with his dusty brow o'ertakes them not, and never to the shambles do
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/05_gAvo_bhago.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गावो॒ भगो॒ गाव॒ इन्द्रो॑ म इच्छा॒द् गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः ।  
-इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामि॑ हृ॒दा मन॑सा चि॒दिन्द्र॑म्॥५॥  
+गावो॒ भगो॒ गाव॒ इन्द्रो॑ म इछा॒द्गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः।  
+इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामि॑ हृ॒दा मन॑सा चि॒दिन्द्र॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/05_gAvo_bhago.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गावो॒ भगो॒ गाव॒ इन्द्रो॑ म इछा॒द्गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः। इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामि॑ हृ॒दा मन॑सा चि॒दिन्द्र॑म् ॥
+गावो॒ भगो॒ गाव॒ इन्द्रो॑ म इछा॒द्गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः।  
+इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामि॑ हृ॒दा मन॑सा चि॒दिन्द्र॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/05_gAvo_bhago.md">
@@ -342,7 +357,7 @@ To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first pou
 </details>
 <details><summary>पदपाठः</summary>
 
-गावः। भगः। गावः। ‍ इन्द्रः। मे। इच्छात्। गावः। सोमस्य। प्रथमस्य। भक्षः। इमाः। याः। गावः। सः। जनासः। इन्द्रः। इच्छामि। हृदा। मनसा। चित्। इन्द्रम्। २१.५।
+गावः॑। भगः॑। गावः॑। ‍ इन्द्रः॑। मे॒। इ॒च्छा॒त्। गावः॑। सोम॑स्य। प्र॒थ॒मस्य॑। भ॒क्षः। इ॒माः। याः। गावः॑। सः। ज॒ना॒सः॒। इन्द्रः॑। इ॒च्छामि॑। हृ॒दा। मन॑सा। चि॒त्। इन्द्र॑म्। २१.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -373,14 +388,17 @@ To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first pou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/06_yUyaM_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यू॒यं गा॑वो मेदयथ कृ॒शं चि॑दश्री॒रं चि॑त् कृणुथा सु॒प्रती॑कम्।  
-भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद् वो॒ वय॑ उच्यते स॒भासु॑ ॥६॥  
+यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम्।  
+भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/06_yUyaM_gAvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम्। भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
+यू॒यं गा॑वो मेदयथा कृ॒शं चि॑दश्री॒रं चि॑त्कृणुथा सु॒प्रती॑कम्।  
+भ॒द्रं गृ॒हं कृ॑णुथ भद्रवाचो बृ॒हद्वो॒ वय॑ उच्यते स॒भासु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/06_yUyaM_gAvo.md">
@@ -404,7 +422,7 @@ O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful to l
 </details>
 <details><summary>पदपाठः</summary>
 
-यूयम्। गावः। मेदयथ। कृशन्। चित्। अश्रीरम्। चित्। कृणुथ। सुऽप्रतीकम्। भद्रम्। गृहम्। कृणुथ। भद्रऽवाचः। बृहत्। वः। वयः। उच्यते। सभासु। २१.६।
+यू॒यम्। गा॒वः। मे॒द॒य॒थ॒। कृ॒शन्। चि॒त्। अ॒श्री॒रम्। चि॒त्। कृ॒णु॒थ॒। सु॒ऽप्रती॑कम्। भ॒द्रम्। गृ॒हम्। कृ॒णु॒थ॒। भ॒द्र॒ऽवा॒चः॒। बृ॒हत्। वः॒। वयः॑। उ॒च्य॒ते॒। स॒भासु॑। २१.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -435,14 +453,17 @@ O Cows, ye fatten e'en the worn and wasted, and make the unlovely beautiful to l
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/021_gAvaH/07_prajAvatIH_sUyavase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः ।  
-मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥७॥
+प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
+मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/021_gAvaH/07_prajAvatIH_sUyavase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः। मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
+मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/021_gAvaH/07_prajAvatIH_sUyavase.md">
@@ -481,7 +502,7 @@ In goodly pasturage, bright-hued, prolific, drinking pure water at fair drinking
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽवतीः। सुऽयवसे। रुशन्तीः। शुध्दाः। अपः। सुऽप्रपाने। पिबन्तीः। मा। वः। स्तेनः। ईशत। मा। अघऽशंसः। परि। वः। रुद्रस्य। हेतिः। वृणक्तु। २१.७।
+प्र॒जाऽव॑तीः। सु॒ऽयव॑से। रु॒शन्तीः॑। शु॒ध्दाः। अ॒पः। सु॒ऽप्र॒पा॒ने। पिब॑न्तीः। मा। वः॒। स्ते॒नः। ई॒श॒त॒। मा। अ॒घऽशं॑सः। परि॑। वः॒। रु॒द्रस्य॑। हे॒तिः। वृ॒ण॒क्तु॒। २१.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Ludwig, p. 506; Grill, 38, 168; Griffith, i. 297; Bloomfield, 44, 50
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/01_yA_oShadhayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः ।  
-बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/096_chikitsA/01_yA_oShadhayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः। बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/096_chikitsA/01_yA_oShadhayaH.md">
@@ -66,7 +69,7 @@ The many plants of hundred shapes and forms that Soma rules as King, Commanded b
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। ओषधयः। सोमऽराज्ञीः। बह्वीः। शतऽविचक्षणाः। बृहस्पतिऽप्रसूताः। ताः। नः। मुञ्चन्तु। अंहसः। ९६.१।
+याः। ओष॑धयः। सोम॑ऽराज्ञीः। ब॒ह्वीः। श॒तऽवि॑चक्षणाः। बृह॒स्पति॑ऽप्रसूताः। ताः। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ९६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ The many plants of hundred shapes and forms that Soma rules as King, Commanded b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/02_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३दथो॑ वरु॒ण्याऽदु॒त।  
-अथो॑ य॒मस्य॒ पड्वी॑शाद् विश्व॑स्माद् देवकिल्बि॒षात्॥२॥  
+मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
+अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/096_chikitsA/02_munchantu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त। अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
+अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/096_chikitsA/02_munchantu_mA.md">
@@ -131,7 +137,7 @@ Let them release me from the curse and from the noose of Varupa, Free me from Ya
 </details>
 <details><summary>पदपाठः</summary>
 
-मुञ्चन्तु। मा। शपथ्या᳡त्। अथो इति। वरुण्या᳡त्। उत। अथो इति। यमस्य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ९६.२।
+मु॒ञ्चन्तु॑। मा॒। श॒प॒थ्या᳡त्। अथो॒ इति॑। व॒रु॒ण्या᳡त्। उ॒त। अथो॒ इति॑। य॒मस्य॑। पड्वी॑शात्। विश्व॑स्मात्। दे॒व॒ऽकि॒ल्बि॒षात्। ९६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Let them release me from the curse and from the noose of Varupa, Free me from Ya
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/096_chikitsA/03_yachchaxuShA_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत् स्व॒पन्तः॑ ।  
-सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु ॥३॥
+यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
+सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/096_chikitsA/03_yachchaxuShA_manasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑। सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु ॥
+यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
+सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/096_chikitsA/03_yachchaxuShA_manasA.md">
@@ -192,7 +201,7 @@ From every fault in look, in word, in spirit that we, awake or sleeping, have co
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। चक्षुषा। मनसा। यत्। च। वाचा। उपऽआस्मि। जाग्रतः। यत्। स्वपन्तः। सोमः। तानि। स्वधया। नः। पुनातु। ९६.३।
+यत्। चक्षु॑षा। मन॑सा। यत्। च॒। वा॒चा। उ॒प॒ऽआ॒स्मि॒। जाग्र॑तः। यत्। स्व॒पन्तः॑। सोमः॑। तानि॑। स्व॒धया॑। नः॒। पु॒ना॒तु॒। ९६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

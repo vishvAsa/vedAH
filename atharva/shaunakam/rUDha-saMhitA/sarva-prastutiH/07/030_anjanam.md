@@ -37,13 +37,16 @@ A charm to be used when the eyes are anointed
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वाक्तं॑ मे॒ द्यावा॑पृथि॒वी स्वाक्तं॑ मि॒त्रो अ॑कर॒यम्।  
-स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत्॥१॥
+स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/030_anjanam/01_svAktaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्वाक्तं॑ मे॒ द्यावा॑पृथि॒वी स्वाक्तं॑ मि॒त्रो अ॑कर॒यम्। स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत् ॥
+स्वाक्तं॑ मे॒ द्यावा॑पृथि॒वी स्वाक्तं॑ मि॒त्रो अ॑कर॒यम्।  
+स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/01_svAktaM_me.md">
@@ -65,7 +68,7 @@ Heaven, Earth, and Mitra here have caused mine eyes to be- anointed well, Savita
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽआक्तम्। मे। द्यावापृथिवी इति। सुऽआक्तम्। मित्रः। अकः। अयम्। सुऽआक्तम्। मे। ब्रह्मणः। पतिः। सुऽआक्तम्। सविता। करत्। ३१.१।
+सु॒ऽआक्त॑म्। मे॒। द्यावा॑पृथि॒वी इति॑। सु॒ऽआक्त॑म्। मि॒त्रः। अ॒कः॒। अ॒यम्। सु॒ऽआक्त॑म्। मे॒। ब्रह्म॑णः। पतिः॑। सु॒ऽआक्त॑म्। स॒वि॒ता। क॒र॒त्। ३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

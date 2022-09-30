@@ -36,14 +36,17 @@ A prayer to Indra for protection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वस्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो॑ व॒शी।  
-वृषेन्द्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयंक॒रः ॥१॥  
+स्व॑स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी।  
+वृषेन्द्रः॑ पु॒र ए॑तु॒ नः सो॑म॒पा अ॑भयंक॒रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्व॑स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी। वृषेन्द्रः॑ पु॒र ए॑तु॒ नः सो॑म॒पा अ॑भयंक॒रः ॥
+स्व॑स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी।  
+वृषेन्द्रः॑ पु॒र ए॑तु॒ नः सो॑म॒पा अ॑भयंक॒रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
@@ -69,7 +72,7 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वस्तिऽदाः। विशाम्। पतिः। वृत्रऽहा। विऽमृधः। वशी। वृषा। इन्द्रः। पुरः। एतु। नः। सोमऽपाः। अभयम्ऽकरः।
+स्व॒स्ति॒ऽदाः। वि॒शाम्। पतिः॑। वृ॒त्र॒ऽहा। वि॒ऽमृ॒धः। व॒शी। वृषा॑। इन्द्रः॑। पु॒रः। ए॒तु॒। नः॒। सो॒म॒ऽपाः। अ॒भ॒य॒म्ऽक॒रः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/02_vi_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि न॑ इन्द्र॒ मृधो॑ जहि नीचा॒ य॑च्छ पृतन्य॒तः ।  
-अ॒ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥२॥  
+वि न॒ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः।  
+अ॑ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/02_vi_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि न॒ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः। अ॑ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+वि न॒ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः।  
+अ॑ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/02_vi_na.md">
@@ -126,14 +132,11 @@ kṛdhi*. ⌊Cf. MGS. ii. 15. 6 h and p. 155.⌋
 </details>
 <details><summary>Griffith</summary>
 
-id
-1.21.2    Indra, subdue our enemies, lay low the men who...
-1.21.2    With ruddy hues we compass thee that thou mays...
-Name: Comment, dtype: object
+Indra, subdue our enemies, lay low the men who fight with us: Down into nether darkness send the man who shows us enmity:
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। नः। इन्द्रः। मृधः। जहि। नीचा। यच्छ। पृतन्यतः। अधमम्। गमय। तमः। यः। अस्मान्। अभिऽदासति।
+वि। नः॒। इ॒न्द्रः॒। मृधः॑। ज॒हि॒। नी॒चा। य॒च्छ॒। पृ॒त॒न्य॒तः। अ॒ध॒मम्। ग॒म॒य॒। तमः॑। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,14 +167,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि रक्षो॒ वि मृधो॑ जहि वि वृ॒त्रस्य॒ हनू॑ रुज ।  
-वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥३॥  
+वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज।  
+वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज। वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥
+वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज।  
+वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/03_vi_raxo.md">
@@ -188,14 +194,12 @@ RV. and SV. (ii. 1217) have the same text; TS. (i. 6. 12⁵) reads
 </details>
 <details><summary>Griffith</summary>
 
-id
-1.21.3    Strike down the fiend, strike down the foes, b...
-1.21.3    Devatyas that are red of hue, yea, and the rud...
-Name: Comment, dtype: object
+Strike down the fiend, strike down the foes, break thou asunder Vritra s jaws.
+O Indra, Vritra slayer, quell the wrath of the assailing foe.
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। रक्षः। वि। मृधः। जहि। वि। वृत्रस्य। हनू इति। रुज। वि। मन्युम्। इन्द्र। वृत्रऽहन्। ‍अमित्रस्य। अभिऽदासतः।
+वि। रक्षः॑। वि। मृधः॑। ज॒हि॒। वि। वृ॒त्रस्य॑। हनू॒ इति॑। रु॒ज॒। वि। म॒न्युम्। इ॒न्द्र॒। वृ॒त्र॒ऽह॒न्। ‍अ॒मित्र॑स्य। अ॒भि॒ऽदास॑तः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +230,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॑न्द्र द्विष॒तो मनोऽप॒ जिज्या॑सतो व॒धम्।  
-वि महच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम्॥४॥
+अपे॑न्द्र द्विष॒तो मनो॑ ऽप॒ जिज्या॑सतो व॒धम्।  
+वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपे॑न्द्र द्विष॒तो मनो॑ ऽप॒ जिज्या॑सतो व॒धम्। वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
+अपे॑न्द्र द्विष॒तो मनो॑ ऽप॒ जिज्या॑सतो व॒धम्।  
+वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
@@ -250,34 +257,18 @@ RV. reads *manyós* for *mahát* in **c**, *yavayā* for *yāv-* in **d**.
 TS. (iii. 5. 8, only **a, b**) supplies in the first half-verse the  
 missing verb, *jahi*, putting it in place of *vadhám*. Unless we resolve  
 *śárma* into three syllables, the *anuṣṭubh* is defective by a syllable.  
-⌊Add *naḥ* after *yacha?*⌋  
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  
-  
-  
-  
+⌊Add *naḥ* after *yacha?*⌋
   
 The 5 hymns of this *anuvāka* ⌊4.⌋ again have 20 verses, the norm: see  
 at the conclusion of the preceding *anuvāka* (after hymn 16).
 </details>
 <details><summary>Griffith</summary>
 
-id
-1.21.4    Turn thou the foeman's thought away, his dart ...
-1.21.4    To parrots and to starlings we transfer thy si...
-Name: Comment, dtype: object
+Turn thou the foeman s thought away, his dart who fain would conquer us: Grant us thy great protection; keep his deadly weapon far away.
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। इन्द्र। द्विषतः। मनः। अप। जिज्यासतः। वधम्। वि। महत्। शर्म। यच्छ। वरीयः। यवय। वधम्।
+अप॑। इ॒न्द्र॒। द्वि॒ष॒तः। मनः॑। अप॑। जिज्या॑सतः। व॒धम्। वि। म॒हत्। शर्म॑। य॒च्छ॒। वरी॑यः। य॒व॒य॒। व॒धम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

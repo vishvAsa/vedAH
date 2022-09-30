@@ -36,14 +36,17 @@ A prayer for purification and forgiveness of sins
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/01_vAyoH_pUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ् सोमो॒ अति॑ द्रु॒तः ।  
-इन्द्र॑स्य॒ युजः॒ सखा॑ ॥१॥  
+वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः।  
+इन्द्र॑स्य॒ युजः॒ सखा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/051_enonAshanam/01_vAyoH_pUtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः। इन्द्र॑स्य॒ युजः॒ सखा॑ ॥
+वा॒योः पू॒तः प॒वित्रे॑ण प्र॒त्यङ्सोमो॒ अति॑ द्रु॒तः।  
+इन्द्र॑स्य॒ युजः॒ सखा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/01_vAyoH_pUtaH.md">
@@ -85,7 +88,7 @@ Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend 
 </details>
 <details><summary>पदपाठः</summary>
 
-वायोः। पूतः। पवित्रेण। प्रत्यङ्। सोमः। अति। द्रुतः। इन्द्रस्य। युज्यः। सखा। ५१.१।
+वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अति॑। द्रु॒तः। इन्द्र॑स्य। युज्यः॑। सखा॑। ५१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -116,14 +119,17 @@ Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/02_Apo_asmAnmAtaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॑ अ॒स्मान् मा॒तरः॑ सूदयन्तु घृ॒तेन॑ नो घृ॒तप्वः पुनन्तु ।  
-विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥२॥  
+आपो॑ अ॒स्मान्मा॒तरः॑ सूदयन्तु घृ॒तेन॑ नो घृत॒प्वः᳡ पुनन्तु।  
+विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/051_enonAshanam/02_Apo_asmAnmAtaraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आपो॑ अ॒स्मान्मा॒तरः॑ सूदयन्तु घृ॒तेन॑ नो घृत॒प्वः᳡ पुनन्तु। विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥
+आपो॑ अ॒स्मान्मा॒तरः॑ सूदयन्तु घृ॒तेन॑ नो घृत॒प्वः᳡ पुनन्तु।  
+विश्वं॒ हि रि॒प्रं प्र॒वह॑न्ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/02_Apo_asmAnmAtaraH.md">
@@ -152,7 +158,7 @@ May the maternal Waters make us ready: cleanse us with fat- ness they who cleans
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। अस्मान्। मातरः। सूदयन्तु। घृतेन। नः। घृतऽप्वः᳡। पुनन्तु। विश्वम्। हि। रिप्रम्। प्रऽवहन्ति। देवीः। उत्। इत्। आभ्यः। शुचिः। आ। पूतः। एमि। ५१.२।
+आपः॑। अ॒स्मान्। मा॒तरः॑। सू॒द॒य॒न्तु॒। घृ॒तेन॑। नः॒। घृ॒त॒ऽप्वः᳡। पु॒न॒न्तु॒। विश्व॑म्। हि। रि॒प्रम्। प्र॒ऽवह॑न्ति। दे॒वीः। उत्। इत्। आ॒भ्यः॒। शुचिः॑। आ। पू॒तः। ए॒मि॒। ५१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -183,14 +189,17 @@ May the maternal Waters make us ready: cleanse us with fat- ness they who cleans
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/051_enonAshanam/03_yatkiM_chedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३श्चर॑न्ति ।  
-अचि॑त्त्या॒ चेत् तव॒ धर्मा॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥३॥
+यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चर॑न्ति।  
+अचि॑त्त्या॒ चेत्तव॒ धर्मं॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/051_enonAshanam/03_yatkiM_chedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चर॑न्ति। अचि॑त्त्या॒ चेत्तव॒ धर्मं॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
+यत्किं चे॒दं व॑रुण॒ दैव्ये॒ जने॑ऽभिद्रो॒हं म॑नु॒ष्या॒३॒॑श्चर॑न्ति।  
+अचि॑त्त्या॒ चेत्तव॒ धर्मं॑ युयोपि॒म मा न॒स्तस्मा॒देन॑सो देव रीरिषः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/051_enonAshanam/03_yatkiM_chedam.md">
@@ -219,7 +228,7 @@ O Varuna, whatever the offence may be, the sin which men commit against the heav
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। किम्। च। इदम्। वरुण। दैव्ये। जने। अभिऽद्रोहम्। मनुष्याः᳡। चरन्ति। अचित्त्या। च। इत्। तव। धर्म। युयोपिम। मा। नः। तस्मात्। एनसः। देव। रीरिषः। ५१.३।
+यत्। किम्। च॒। इ॒दम्। व॒रु॒ण॒। दैव्ये॑। जने॑। अ॒भि॒ऽद्रो॒हम्। म॒नु॒ष्याः᳡। चर॑न्ति। अचि॑त्त्या। च॒। इत्। तव॑। धर्म॑। यु॒यो॒पि॒म। मा। नः॒। तस्मा॑त्। एन॑सः। दे॒व॒। री॒रि॒षः॒। ५१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

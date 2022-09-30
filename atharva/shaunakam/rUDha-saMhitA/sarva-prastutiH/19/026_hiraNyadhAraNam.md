@@ -36,15 +36,17 @@ A hymn accompanying investiture with an amulet of gold
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु ।  
-य ए॑न॒द् वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑ ॥१॥  
+अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु।  
+य ए॑न॒द्वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु ।  
-य ए॑न॒द् वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑ ॥१॥  
+अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु।  
+य ए॑न॒द्वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
@@ -74,7 +76,7 @@ Gold that was born from Fire is immortal hath been deposited with mortal creatur
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नेः। प्रऽजातम्। परि। यत्। हिरण्यम्। अमृतम्। दध्रे। अधि। मर्त्येषु। यः। एनत्। वेद। सः। इत्। एनम्। अर्हति। जराऽमृत्युः। भवति। यः। बिभर्ति। २६.१।
+अ॒ग्नेः। प्रऽजा॑तम्। परि॑। यत्। हिर॑ण्यम्। अ॒मृत॑म्। द॒ध्रे। अधि॑। मर्त्ये॑षु। यः। ए॒न॒त्। वेद॑। सः। इत्। ए॒न॒म्। अ॒र्ह॒ति॒। ज॒राऽमृ॑त्युः। भ॒व॒ति॒। यः। बि॒भर्ति॑। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,15 +107,17 @@ Gold that was born from Fire is immortal hath been deposited with mortal creatur
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे।  
-तत् त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान् भवति॒ यो बि॒भर्ति॑ ॥२॥  
+यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं॑ प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे।  
+तत्त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान्भवति॒ यो बि॒भर्ति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे।  
-तत् त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान् भवति॒ यो बि॒भर्ति॑ ॥२॥  
+यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं॑ प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे।  
+तत्त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान्भवति॒ यो बि॒भर्ति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
@@ -140,7 +144,7 @@ The men of ancient time with children round them longed for this Gold, bright wi
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। हिरण्यम्। सूर्येण। सुऽवर्णम्। प्रजाऽवन्तः। मनवः। पूर्वे। ईषिरे। तत्। त्वा। चन्द्रम्। वर्चसा। सम्। सृजति। आयुष्मान्। भवति। यः। बिभर्ति। २६.२।
+यत्। हिर॑ण्यम्। सूर्ये॑ण। सु॒ऽवर्ण॑म्। प्र॒जाऽव॑न्तः। मन॑वः। पूर्वे॑। ई॒षि॒रे। तत्। त्वा॒। च॒न्द्रम्। वर्च॑सा। सम्। सृ॒ज॒ति॒। आयु॑ष्मान्। भ॒व॒ति॒। यः। बि॒भर्ति॑। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,15 +175,17 @@ The men of ancient time with children round them longed for this Gold, bright wi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयु॑षे त्वा॒ वर्च॑से॒ त्वौज॑से च॒ बला॑य च ।  
-यथा॑ हिरण्य॒तेज॑सा वि॒भासा॑सि॒ जनाँ॒ अनु॑ ॥३॥  
+आयु॑षे त्वा॒ वर्च॑से॒ त्वौज॑से च॒ बला॑य च।  
+यथा॑ हिरण्य॒तेज॑सा वि॒भासा॑सि॒ जनाँ॒ अनु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आयु॑षे त्वा॒ वर्च॑से॒ त्वौज॑से च॒ बला॑य च ।  
-यथा॑ हिरण्य॒तेज॑सा वि॒भासा॑सि॒ जनाँ॒ अनु॑ ॥३॥  
+आयु॑षे त्वा॒ वर्च॑से॒ त्वौज॑से च॒ बला॑य च।  
+यथा॑ हिरण्य॒तेज॑सा वि॒भासा॑सि॒ जनाँ॒ अनु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
@@ -219,7 +225,7 @@ Long life and splendour let it bring energy and strength to thee. That thou mays
 </details>
 <details><summary>पदपाठः</summary>
 
-आयुषे। त्वा। वर्चसा। त्वा। ओजसे। च। बलाय। च। यथा। हिरण्यऽतेजसा। विऽभासासि। जनान्। अनु। २६.३।
+आयु॑षे। त्वा॒। वर्च॑सा। त्वा॒। ओज॑से। च॒। बला॑य। च॒। यथा॑। हि॒र॒ण्य॒ऽतेज॑सा। वि॒ऽभासा॑सि। जना॑न्। अनु॑। २६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -246,23 +252,25 @@ Long life and splendour let it bring energy and strength to thee. That thou mays
 </details>
 </details>
 </div>
-## ०४ यद् वेद
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/04_yad_veda.md">
+## ०४ यद्वेद राजा
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑ ।  
-इन्द्रो॒ यद् वृ॑त्र॒हा वेद॒ तत् त॑ आयु॒ष्यं भुव॒त् तत् ते॑ वर्च॒स्यं भुवत्॥४॥
+यद्वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑।  
+इन्द्रो॒ यद्वृ॑त्र॒हा वेद॒ तत्त॑ आयु॒ष्यं॑ भुव॒त्तत्ते॑ वर्च॒स्यं॑ भुवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/04_yad_veda.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद् वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑ ।  
-इन्द्रो॒ यद् वृ॑त्र॒हा वेद॒ तत् त॑ आयु॒ष्यं भुव॒त् तत् ते॑ वर्च॒स्यं भुवत्॥४॥
+यद्वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑।  
+इन्द्रो॒ यद्वृ॑त्र॒हा वेद॒ तत्त॑ आयु॒ष्यं॑ भुव॒त्तत्ते॑ वर्च॒स्यं॑ भुवत् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/04_yad_veda.md">
-<details open><summary><h3>०४ यद् वेद ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
+<details open><summary><h3>०४ यद्वेद राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -286,7 +294,7 @@ What Varuna the King knows well, and what the God Brihaspati, And Indra, Slayer 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। वेद। राजा। वरुणः। वेद। देवः। बृहस्पतिः। इन्द्रः। यत्। वृत्रऽहा। वेद। तत्। ते। आयुष्य᳡म्। भुवत्। तत्। ते। वर्चस्य᳡म्। भुवत्। २६.४।
+यत्। वेद॑। राजा॑। वरु॑णः। वेद॑। दे॒वः। बृह॒स्पतिः॑। इन्द्रः॑। यत्। वृ॒त्र॒ऽहा। वेद॑। तत्। ते॒। आ॒युष्य᳡म्। भु॒व॒त्। तत्। ते॒। व॒र्च॒स्य᳡म्। भु॒व॒त्। २६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

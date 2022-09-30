@@ -28,14 +28,17 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यानि॒ नक्ष॑त्राणि दि॒व्य॑१न्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु।  
-प्रक॑ल्पयंश्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥१॥  
+यानि॒ नक्ष॑त्राणि दि॒व्य१॒॑न्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु।  
+प्र॑क॒ल्पयं॑श्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यानि॒ नक्ष॑त्राणि दि॒व्यन्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु। प्र॑क॒ल्पयं॑श्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥
+यानि॒ नक्ष॑त्राणि दि॒व्य१॒॑न्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु।  
+प्र॑क॒ल्पयं॑श्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/01_yAni_naxatrANi.md">
@@ -58,7 +61,7 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 </details>
 <details><summary>पदपाठः</summary>
 
-यानि। नक्षत्राणि। दिवि। अन्तरिक्षे। अप्ऽसु। भूमौ। यानि। नगेषु। दिक्षु। प्रऽकल्पयन्। चन्द्रमाः। यानि। एति। सर्वाणि। मम। एतानि। शिवानि। सन्तु। ८.१।
+यानि॑। नक्ष॑त्राणि। दि॒वि। अ॒न्तरि॑क्षे। अ॒प्ऽसु। भूमौ॑। यानि॑। नगे॑षु। दि॒क्षु। प्रऽक॑ल्पयन्। च॒न्द्रमाः॑। यानि॑। एति॑। सर्वा॑णि। मम॑। ए॒तानि॑। शि॒वानि॑। स॒न्तु॒। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -89,15 +92,17 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ष्टा॒विं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे ।  
-योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥२॥  
+अ॑ष्टाविं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे।  
+योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ष्टा॒विं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे ।  
-योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥२॥  
+अ॑ष्टाविं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे।  
+योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
@@ -129,7 +134,7 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 </details>
 <details><summary>पदपाठः</summary>
 
-अष्टाऽविंशानि। शिवानि। शग्मानि। सह। योगम्। भजन्तु। मे। योगम्। प्र। पद्ये। क्षेमम्। च। क्षेमम्। प्र। पद्ये। योगम्। च। नमः। अहोरात्राभ्याम्। अस्तु। ८.२।
+अ॒ष्टा॒ऽविं॒शानि॑। शि॒वानि॑। श॒ग्मानि॑। स॒ह। योग॑म्। भ॒ज॒न्तु॒। मे॒। योग॑म्। प्र। प॒द्ये॒। क्षेम॑म्। च॒। क्षेम॑म्। प्र। प॒द्ये॒। योग॑म्। च॒। नमः॑। अ॒हो॒रा॒त्राभ्या॑म्। अ॒स्तु॒। ८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +165,17 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/03_svastitaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑श॒कुनं॑ मे अस्तु ।  
-सु॒हव॑मग्ने स्व॒स्त्य॑१मर्त्यं॑ ग॒त्वा पुन॒राया॑भि॒नन्द॑न्॥३॥  
+स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑शकु॒नं मे॑ अस्तु।  
+सु॒हव॑मग्ने स्व॒स्त्य१॒॑म॒र्त्यं ग॒त्वा पुन॒राया॑भि॒नन्द॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/03_svastitaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑शकु॒नं मे॑ अस्तु। सु॒हव॑मग्ने स्व॒स्त्यम॒र्त्यं ग॒त्वा पुन॒राया॑भि॒नन्द॑न् ॥
+स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑शकु॒नं मे॑ अस्तु।  
+सु॒हव॑मग्ने स्व॒स्त्य१॒॑म॒र्त्यं ग॒त्वा पुन॒राया॑भि॒नन्द॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/03_svastitaM_me.md">
@@ -204,7 +212,7 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वस्तितम्। मे। सुऽप्रातः। सुऽसायम्। सुऽदिवम्। सुऽमृगम्। सुऽशकुनम्। मे। अस्तु। सुऽहवम्। अग्ने। स्वस्ति। अमर्त्यम्। गत्वा। पुनः। आय। अभिऽनन्दन्। ८.३।
+स्वस्ति॑तम्। मे॒। सु॒ऽप्रा॒तः। सु॒ऽसा॒यम्। सु॒ऽदि॒वम्। सु॒ऽमृ॒गम्। सु॒ऽश॒कुन॑म्। मे॒। अ॒स्तु॒। सु॒ऽहव॑म्। अ॒ग्ने॒। स्व॒स्ति। अ॒मर्त्य॑म्। ग॒त्वा। पुनः॑। आय॑। अ॒भि॒ऽनन्द॑न्। ८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -235,14 +243,17 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒नु॒ह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्।  
-सर्वै॑र्मे रिक्तकु॒म्भान् परा॒ तान् स॑वितः सुव॥४॥  
+अ॑नुह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्।  
+सर्वै॑र्मे रिक्तकु॒म्भान्परा॒ तान्त्सवि॑तः सुव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑नुह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्। सर्वै॑र्मे रिक्तकु॒म्भान्परा॒ तान्त्सवि॑तः सुव ॥
+अ॑नुह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्।  
+सर्वै॑र्मे रिक्तकु॒म्भान्परा॒ तान्त्सवि॑तः सुव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
@@ -307,7 +318,7 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 </details>
 <details><summary>पदपाठः</summary>
 
-अनुऽहवम्। परिऽहवम्। परिऽवादम्। परिऽक्षवम्। सर्वैः। मे। रिक्तऽकुम्भान्। परा। तान्। सवितः। सुव। ८.४।
+अ॒नु॒ऽह॒वम्। प॒रि॒ऽह॒वम्। प॒रि॒ऽवा॒दम्। प॒रि॒ऽक्ष॒वम्। सर्वैः॑। मे॒। रि॒क्त॒ऽकु॒म्भान्। परा॑। तान्। स॒वि॒तः॒। सु॒व॒। ८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -338,15 +349,17 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प॒पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
-शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम्॥५॥  
+अप॑पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
+शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒प॒पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
-शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम्॥५॥  
+अप॑पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
+शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/05_apapApaM_parixavam.md">
@@ -383,7 +396,7 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽपापम्। परिऽक्षवम्। पुण्यम्। भक्षीमहि। क्षवम्। शिवा। ते। पाप। नासिकाम्। पुण्यऽगः। च। अभि। मेहताम्। ८.५।
+अ॒प॒ऽपा॒पम्। प॒रि॒ऽक्ष॒वम्। पुण्य॑म्। भ॒क्षी॒महि॑। क्षव॑म्। शि॒वा। ते॒। पा॒प॒। नासि॑काम्। पुण्य॑ऽगः। च॒। अ॒भि। मे॒ह॒ता॒म्। ८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -414,15 +427,17 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/06_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते ।  
-स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥६॥  
+इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते।  
+स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/06_imA_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते ।  
-स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥६॥  
+इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते।  
+स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/06_imA_yA.md">
@@ -455,7 +470,7 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 </details>
 <details><summary>पदपाठः</summary>
 
-इमाः। याः। ब्रह्मणः। पते। विषूचीः। वातः। ईरते। सध्रीचीः। इन्द्रः। ताः। कृत्वा। मह्यम्। शिवऽतमाः। कृधि। ८.६।
+इ॒माः। याः। ब्र॒ह्म॒णः॒। प॒ते॒। विषू॑चीः। वातः॑। ईर॑ते। स॒ध्रीचीः॑। इ॒न्द्रः॒। ताः। कृ॒त्वा। मह्य॑म्। शि॒वऽत॑माः। कृ॒धि॒। ८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -486,13 +501,15 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/07_svasti_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥७॥
+स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/07_svasti_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥७॥
+स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/07_svasti_no.md">
@@ -512,7 +529,7 @@ The verse is wanting in Ppp.
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वस्ति। नः। अस्तु। अभयम्। नः। अस्तु। नमः। अहोरात्राभ्याम्। अस्तु। ८.७।
+स्व॒स्ति। नः॒। अ॒स्तु॒। अभ॑यम्। नः॒। अ॒स्तु॒। नमः॑। अ॒हो॒रा॒त्राभ्या॑म्। अ॒स्तु॒। ८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

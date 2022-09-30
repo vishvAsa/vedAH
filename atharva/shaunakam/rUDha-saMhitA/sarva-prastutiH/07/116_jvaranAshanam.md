@@ -32,14 +32,17 @@ Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; G
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑ ।  
-नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने ॥१॥  
+नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑।  
+नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑। नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने ॥
+नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑।  
+नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/01_namo_rUrAya.md">
@@ -70,7 +73,7 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। रूराय। च्यवनाय। नोदनाय। धृष्णवे। नमः। शीताय। पूर्वकामऽकृत्वने। १२१.१।
+नमः॑। रू॒राय॑। च्यव॑नाय। नोद॑नाय। धृ॒ष्णवे॑। नमः॑। शी॒ताय॑। पू॒र्व॒का॒म॒ऽकृत्व॑ने। १२१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +104,15 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येती॒मं म॒ण्डूकम॒भ्येऽत्वव्र॒तः ॥२॥
+यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येती॒मं म॒ण्डूक॑म॒भ्ये᳡त्वव्र॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येती॒मं म॒ण्डूक॑म॒भ्ये᳡त्वव्र॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
@@ -128,7 +133,7 @@ May he, the lawless one, who comes alternate or two following days, pass over an
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अन्येद्युः। उभयऽद्युः। अभिऽएति। इमम। मण्डूकम्। अभि। एतु। अव्रतः। १२१.२।
+यः। अ॒न्ये॒द्युः॒। उ॒भ॒य॒ऽद्युः। अ॒भि॒ऽएति॑। इ॒मम। म॒ण्डूक॑म्। अ॒भि। ए॒तु॒। अ॒व्र॒तः। १२१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

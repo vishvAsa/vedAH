@@ -36,14 +36,17 @@ A charm against noxious reptiles and insects
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत् सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्।  
-आ॒दि॒त्यः पर्वतेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा॥१॥  
+उत्सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्।  
+आ॑दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्। आ॑दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥
+उत्सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्।  
+आ॑दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/01_utsUryo_diva.md">
@@ -69,7 +72,7 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। सूर्यः। दिवः। एति। पुरः। रक्षांसि। निऽजूर्वन्। आदित्यः। पर्वतेभ्यः। विश्वऽदृष्टः। अदृष्टऽहा। ५२.१।
+उत्। सूर्यः॑। दि॒वः। ए॒ति॒। पु॒रः। रक्षां॑सि। नि॒ऽजूर्व॑न्। आ॒दि॒त्यः। पर्व॑तेभ्यः। वि॒श्वऽदृ॑ष्टः। अ॒दृ॒ष्ट॒ऽहा। ५२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नि गावो॑ गो॒ष्ठे अ॑सद॒न् नि मृ॒गासो॑ अविक्षत ।  
-न्यू॒३र्मयो॑ न॒दीनं॒ न्य॑१दृष्टा॑ अलिप्सत ॥२॥  
+नि गावो॑ गो॒ष्ठे अ॑सद॒न्नि मृ॒गासो॑ अविक्षत।  
+न्यू॒३॒॑र्मयो॑ न॒दीनं॒ न्य१॒॑दृष्टा॑ अलिप्सत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नि गावो॑ गो॒ष्ठे अ॑सद॒न्नि मृ॒गासो॑ अविक्षत। न्यू॒३॒॑र्मयो॑ न॒दीनं॒ न्यदृष्टा॑ अलिप्सत ॥
+नि गावो॑ गो॒ष्ठे अ॑सद॒न्नि मृ॒गासो॑ अविक्षत।  
+न्यू॒३॒॑र्मयो॑ न॒दीनं॒ न्य१॒॑दृष्टा॑ अलिप्सत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/02_ni_gAvo.md">
@@ -130,7 +136,7 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 </details>
 <details><summary>पदपाठः</summary>
 
-नि। गावः। गोऽस्थे। असदन्। नि। मृगासः। अविक्षत। नि। ऊर्मयः। नदीनाम्। नि। अदृष्टाः। अलिप्सत। ५२.२।
+नि। गावः॑। गो॒ऽस्थे। अ॒स॒द॒न्। नि। मृ॒गासः॑। अ॒वि॒क्ष॒त॒। नि। ऊ॒र्मयः॑। न॒दीना॑म्। नि। अ॒दृष्टाः॑। अ॒लि॒प्स॒त॒। ५२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्।  
-आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न् नि श॑मयत्॥३॥
+आ॑यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्।  
+आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न्नि श॑मयत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्। आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न्नि श॑मयत् ॥
+आ॑यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्।  
+आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न्नि श॑मयत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
@@ -193,7 +202,7 @@ I have brought Kanva's famous Plant, life-giving, and itself inspired, The medic
 </details>
 <details><summary>पदपाठः</summary>
 
-आयुःऽददम्। विपःऽचितम्। श्रुताम्। कण्वस्य। वीरुधम्। आ। अभारिषम्। विश्वऽभेषजीम्। अस्य। अदृष्टान्। नि। शमयत्। ५२.३।
+आ॒युः॒ऽदद॑म्। वि॒पः॒ऽचित॑म्। श्रु॒ताम्। कण्व॑स्य। वी॒रुध॑म्। आ। अ॒भा॒रि॒ष॒म्। वि॒श्वऽभे॑षजीम्। अ॒स्य। अ॒दृष्टा॑न्। नि। श॒म॒य॒त्। ५२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

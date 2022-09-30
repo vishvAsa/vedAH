@@ -36,14 +36,17 @@ A song of harvest
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑ ।  
-अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥१॥  
+पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑।  
+अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑। अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥
+पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑।  
+अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
@@ -67,7 +70,7 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 </details>
 <details><summary>पदपाठः</summary>
 
-पयस्वतीः। ओषधयः। पयस्वत्। मामकम्। वचः। अथो इति। पयस्वतीनाम्। आ। भरे। अहम्। सहस्रऽशः। २४.१।
+पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। वचः॑। अथो॒ इति॑। पय॑स्वतीनाम्। आ। भ॒रे॒। अ॒हम्। स॒हस्र॒ऽशः। २४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वेदा॒हं पय॑स्वन्तं च॒का॑र धा॒न्यं ऽ ब॒हु।  
-सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे॥२॥  
+वेदा॒हं पय॑स्वन्तं च॒कार॑ धा॒न्यं॑ ब॒हु।  
+सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वेदा॒हं पय॑स्वन्तं च॒कार॑ धा॒न्यं॑ ब॒हु। सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे ॥
+वेदा॒हं पय॑स्वन्तं च॒कार॑ धा॒न्यं॑ ब॒हु।  
+सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
@@ -131,7 +137,7 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 </details>
 <details><summary>पदपाठः</summary>
 
-वेद। अहम्। पयस्वन्तम्। चकार। धान्य᳡म्। बहु। सम्ऽभृत्वा। नाम। यः। देवः। तम्। वयम्। हवामहे। यःऽयः। अयज्वनः। गृहे। २४.२।
+वेद॑। अ॒हम्। पय॑स्वन्तम्। च॒कार॑। धा॒न्य᳡म्। ब॒हु। स॒म्ऽभृत्वा॑। नाम॑। यः। दे॒वः। तम्। व॒यम्। ह॒वा॒म॒हे॒। यःऽयः॑। अय॑ज्वनः। गृ॒हे। २४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑ ।  
-वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं समा॑वहान्॥३॥  
+इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑।  
+वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं स॒माव॑हान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/03_imA_yAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑। वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं स॒माव॑हान् ॥
+इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑।  
+वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं स॒माव॑हान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
@@ -194,7 +203,7 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 </details>
 <details><summary>पदपाठः</summary>
 
-इमाः। याः। पञ्च। प्रऽदिशः। मानवीः। पञ्च। कृष्टयः। वृष्टे। शापम्। नदीःऽइव। इह। स्फातिम्। सम्ऽआवहान्। २४.३।
+इ॒मा: । या: । पञ्च॑ । प्र॒ऽदिश॑: । मा॒न॒वी: । पञ्च॑ । कृ॒ष्टय॑: ।वृ॒ष्टे । शाप॑म् । न॒दी:ऽइ॑व । इ॒ह । स्फा॒तिम् । स॒म्ऽआव॑हान् ॥२४.३॥
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,13 +235,16 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदुत्सं॑ श॒तधा॑रं स॒हस्र॑धार॒मक्षि॑तम्।  
-ए॒वास्माके॒दं धा॒न्यं ऽ स॒हस्र॑धार॒मक्षि॑तम्॥४॥  
+ए॒वास्माके॒दं धा॒न्यं॑ स॒हस्र॑धार॒मक्षि॑तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदुत्सं॑ श॒तधा॑रं स॒हस्र॑धार॒मक्षि॑तम्। ए॒वास्माके॒दं धा॒न्यं॑ स॒हस्र॑धार॒मक्षि॑तम् ॥
+उदुत्सं॑ श॒तधा॑रं स॒हस्र॑धार॒मक्षि॑तम्।  
+ए॒वास्माके॒दं धा॒न्यं॑ स॒हस्र॑धार॒मक्षि॑तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
@@ -261,7 +273,7 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। उत्सम्। शतऽधारम्। सहस्रऽधारम्। अक्षितम्। एव। अस्माक। इदम्। धान्य᳡म्। सहस्रऽधारम्। अक्षितम्। २४.४।
+उत्। उत्स॑म्। श॒तऽधा॑रम्। स॒हस्र॑ऽधारम्। अक्षि॑तम्। ए॒व। अ॒स्माक॑। इ॒दम्। धा॒न्य᳡म्। स॒हस्र॑ऽधारम्। अक्षि॑तम्। २४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -292,14 +304,17 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र ।  
-कृ॒तस्य॑ का॒र्यऽस्य चे॒ह स्फा॒तिं स॒माव॑ह ॥५॥  
+शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र।  
+कृ॒तस्य॑ का॒र्य॑स्य चे॒ह स्फा॒तिं स॒माव॑ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र। कृ॒तस्य॑ का॒र्य॑स्य चे॒ह स्फा॒तिं स॒माव॑ह ॥
+शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र।  
+कृ॒तस्य॑ का॒र्य॑स्य चे॒ह स्फा॒तिं स॒माव॑ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
@@ -324,7 +339,7 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 </details>
 <details><summary>पदपाठः</summary>
 
-शतऽहस्त। सम्ऽआहर। सहस्रऽहस्त। सम्। किर। कृतस्य। कार्य᳡स्य। च। इह। स्फातिम्। सम्ऽआवह। २४.५।
+शत॑ऽहस्त। स॒म्ऽआह॑र। सह॑स्रऽहस्त। सम्। कि॒र॒। कृ॒तस्य॑। का॒र्य᳡स्य। च॒। इ॒ह। स्फा॒तिम्। स॒म्ऽआव॑ह। २४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -355,14 +370,17 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः ।  
-तासां॒ या स्फा॑ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥६॥  
+ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः।  
+तासां॒ या स्फा॒ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः। तासां॒ या स्फा॒ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥
+ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः।  
+तासां॒ या स्फा॒ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
@@ -388,7 +406,7 @@ Three sheaves are the Gandharvas' claim, the lady of the house hath four. We tou
 </details>
 <details><summary>पदपाठः</summary>
 
-तिस्रः। मात्राः। गन्धर्वाणाम्। चतस्रः। गृहऽपत्न्याः। तासाम्। या। स्फातिमत्ऽतमा। तया। त्वा। अभि। मृशामसि। २४.६।
+ति॒स्रः। मात्राः॑। ग॒न्ध॒र्वाणा॑म्। चत॑स्रः। गृ॒हऽप॑त्न्याः। तासा॑म्। या। स्फा॒ति॒मत्ऽत॑मा। तया॑। त्वा॒। अ॒भि। मृ॒शा॒म॒सि॒। २४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -419,14 +437,17 @@ Three sheaves are the Gandharvas' claim, the lady of the house hath four. We tou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒पो॒हश्च॑ समू॒हश्च॑ क्ष॒त्तारौ॑ ते प्रजापते ।  
-तावि॒हा व॑हतां स्फा॒तिं ब॒हुं भू॒मान॒मक्षि॑तम्॥७॥
+उ॑पो॒हश्च॑ समू॒हश्च॑ क्ष॒त्तारौ॑ ते प्रजापते।  
+तावि॒हा व॑हतां स्फा॒तिं ब॒हुं भू॒मान॒मक्षि॑तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑पो॒हश्च॑ समू॒हश्च॑ क्ष॒त्तारौ॑ ते प्रजापते। तावि॒हा व॑हतां स्फा॒तिं ब॒हुं भू॒मान॒मक्षि॑तम् ॥
+उ॑पो॒हश्च॑ समू॒हश्च॑ क्ष॒त्तारौ॑ ते प्रजापते।  
+तावि॒हा व॑हतां स्फा॒तिं ब॒हुं भू॒मान॒मक्षि॑तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
@@ -449,7 +470,7 @@ Adding and Gathering are thy two attendants, O Prajapati. May they bring hither 
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽऊहः। च। सम्ऽऊहः। च। क्षत्तारौ। ते। प्रजाऽपते। तौ। इह। आ। वहताम्। स्फातिम्। बहुम्। भूमानम्। अक्षितम्। २४.७।
+उ॒प॒ऽऊ॒हः। च॒। स॒म्ऽऊ॒हः। च॒। क्ष॒त्तारौ॑। ते॒। प्र॒जा॒ऽप॒ते॒। तौ। इ॒ह। आ। व॒ह॒ता॒म्। स्फा॒तिम्। ब॒हुम्। भू॒मान॑म्। अक्षि॑तम्। २४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

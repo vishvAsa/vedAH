@@ -36,14 +36,17 @@ Godspeed to a departing traveller
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु ।  
-अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम्॥१॥
+भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु।  
+अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु। अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम् ॥
+भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु।  
+अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
@@ -71,7 +74,7 @@ Go forward on thy way from good to better: Brihaspati pre- cede thy steps and gu
 </details>
 <details><summary>पदपाठः</summary>
 
-भद्रात्। अधि। श्रेयः। प्र। इहि। बृहस्पतिः। पुरःऽएता। ते। अस्तु। अथ। इमम्। अस्याः। वरे। आ। पृथिव्याः। आरेऽशत्रुम्। कृणुहि। सर्वऽवीरम्। ९.१।
+भ॒द्रात्। अधि॑। श्रेयः॑। प्र। इ॒हि॒। बृह॒स्पतिः॑। पु॒रः॒ऽए॒ता। ते॒। अ॒स्तु॒। अथ॑। इ॒मम्। अ॒स्याः। वरे॑। आ। पृ॒थि॒व्याः। आ॒रेऽश॑त्रुम्। कृ॒णु॒हि॒। सर्व॑ऽवीरम्। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

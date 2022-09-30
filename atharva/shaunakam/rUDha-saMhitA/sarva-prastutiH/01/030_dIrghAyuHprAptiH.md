@@ -36,14 +36,17 @@ A benediction on a King at his consecration
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॑त्या जागृ॒त यू॒यम॒स्मिन्।  
-मेमं सना॑भिरु॒त वा॒न्यना॑भि॒र्मेमं प्राप॒त् पौरु॑षेयो व॒धो यः ॥१॥  
+विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॒त्या जा॑गृ॒त यू॒यम॒स्मिन्।  
+मेमं सना॑भिरु॒त वान्यना॑भि॒र्मेमं प्राप॒त्पौरु॑षेयो व॒धो यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॒त्या जा॑गृ॒त यू॒यम॒स्मिन्। मेमं सना॑भिरु॒त वान्यना॑भि॒र्मेमं प्राप॒त्पौरु॑षेयो व॒धो यः ॥
+विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॒त्या जा॑गृ॒त यू॒यम॒स्मिन्।  
+मेमं सना॑भिरु॒त वान्यना॑भि॒र्मेमं प्राप॒त्पौरु॑षेयो व॒धो यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
@@ -66,7 +69,7 @@ Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वे। देवाः। वसवः। रक्षत। इमम्। उत। आदित्याः। जागृत। यूयम्। अस्मिन्। मा। इमम्। सऽनाभिः। उत। वा। अन्यऽनाभिः। मा। इमम्। प्र। आपत्। पौरुषेयः। वधः। यः।
+विश्वे॑। दे॒वाः॒। वस॑वः। रक्ष॑त। इ॒मम्। उ॒त। आ॒दि॒त्याः। जा॒गृ॒त। यू॒यम्। अ॒स्मिन्। मा। इ॒मम्। सऽना॑भिः। उ॒त। वा॒। अ॒न्यऽना॑भिः। मा। इ॒मम्। प्र। आ॒प॒त्। पौरु॑षेयः। व॒धः। यः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,13 +101,16 @@ Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्।  
-सर्वे॑भ्यो वः॒ प॑रि ददाम्ये॒तं स्व॒स्त्येऽनं ज॒रसे॑ वहाथ ॥२॥  
+सर्वे॑भ्यो वः॒ परि॑ ददाम्ये॒तं स्व॒स्त्ये॑नं ज॒रसे॑ वहाथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्। सर्वे॑भ्यो वः॒ परि॑ ददाम्ये॒तं स्व॒स्त्ये॑नं ज॒रसे॑ वहाथ ॥
+ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्।  
+सर्वे॑भ्यो वः॒ परि॑ ददाम्ये॒तं स्व॒स्त्ये॑नं ज॒रसे॑ वहाथ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
@@ -125,7 +131,7 @@ Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the f
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। वः। देवाः। पितरः। ये। च। पुत्राः। सऽचेतसः। मे। शृणुत। इदम्। उक्तम्। सर्वेभ्यः। वः। परि। ददामि। एतम्। स्वस्ति। एनम्। जरसे। वहाथ।
+ये। वः॒। दे॒वाः॒। पि॒तरः॑। ये। च॒। पु॒त्राः। सऽचे॑तसः। मे॒। शृ॒णु॒त॒। इ॒दम्। उ॒क्तम्। सर्वे॑भ्यः। वः॒। परि॑। द॒दा॒मि॒। ए॒तम्। स्व॒स्ति। ए॒न॒म्। ज॒रसे॑। व॒हा॒थ॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,14 +162,17 @@ Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्व॑१न्तः ।  
-ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान् परि॑ वृणक्तु मृ॒त्यून्॥३॥  
+ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
+ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान्परि॑ वृणक्तु मृ॒त्यून् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्वन्तः। ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान्परि॑ वृणक्तु मृ॒त्यून् ॥
+ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
+ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान्परि॑ वृणक्तु मृ॒त्यून् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
@@ -191,7 +200,7 @@ All Gods who dwell on earth or in the heavens, in air, within. the plants, the b
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। देवाः। दिवि। स्थ। ये। पृथिव्याम्। ये। अन्तरिक्षे। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। ते। कृणुत। जरसम्। आयुः। अस्मै। शतम्। अन्यान्। परि। वृणक्तु। मृत्यून्।
+ये। दे॒वाः॒। दि॒वि। स्थ। ये। पृ॒थि॒व्याम्। ये। अ॒न्तरि॑क्षे। ओष॑धीषु। प॒शुषु॑। अ॒प्ऽसु। अ॒न्तः। ते। कृ॒णु॒त॒। ज॒रस॑म्। आयुः॑। अ॒स्मै। श॒तम्। अ॒न्यान्। परि॑। वृ॒ण॒क्तु॒। मृ॒त्यून्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,14 +231,17 @@ All Gods who dwell on earth or in the heavens, in air, within. the plants, the b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः ।  
-येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान् वो अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥४॥
+येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः।  
+येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान्वो॑ अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः। येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान्वो॑ अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥
+येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः।  
+येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान्वो॑ अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
@@ -254,7 +266,7 @@ You, claiming Anuyajas or Prayajas, sharers, or not consumers, of oblation, You,
 </details>
 <details><summary>पदपाठः</summary>
 
-येषाम्। प्रऽयाजाः। उत। वा। अनुऽयाजाः। हुतऽभागाः। अहुतऽअदः। च। देवाः। येषाम्। वः। पञ्च। प्रऽदिशः। विऽभक्ताः। तान्। वः। अस्मै। सत्रऽसदः। कृणोमि।
+येषा॑म्। प्र॒ऽया॒जाः। उ॒त। वा॒। अ॒नु॒ऽया॒जाः। हु॒तऽभा॑गाः। अ॒हु॒त॒ऽअदः॑। च॒। देवाः। येषा॑म्। वः॒। पञ्च॑। प्र॒ऽदिशः॑। विऽभ॑क्ताः। तान्। वः॒। अ॒स्मै। स॒त्र॒ऽसदः॑। कृ॒णो॒मि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -39,14 +39,17 @@ A prayer to all Divinities and Sanctities for deliverance from distress
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/01_agniM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निं ब्रू॑मो॒ वन॒स्पती॒नोष॑धीरु॒त वी॒रुधः॑ ।  
-इन्द्रं॒ बृह॒स्पतिं॒ सूर्यं॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+अ॒ग्निं ब्रू॑मो॒ वन॒स्पती॒नोष॑धीरु॒त वी॒रुधः॑।  
+इन्द्रं॒ बृह॒स्पतिं॒ सूर्यं॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/01_agniM_brUmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निं ब्रू॑मो॒ वन॒स्पती॒नोष॑धीरु॒त वी॒रुधः॑। इन्द्रं॒ बृह॒स्पतिं॒ सूर्यं॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अ॒ग्निं ब्रू॑मो॒ वन॒स्पती॒नोष॑धीरु॒त वी॒रुधः॑।  
+इन्द्रं॒ बृह॒स्पतिं॒ सूर्यं॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/01_agniM_brUmo.md">
@@ -67,7 +70,7 @@ We call on Agni, on the trees lords of the forest, herbs and. plants, Indra, Sur
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निम्। ब्रूमः। वनस्पतीन्। ओषधीः। उत। वीरुधः। इन्द्रम्। बृहस्पतिम्। सूर्यम्। ते। नः। मुञ्चन्तु। अंहसः। ८.१।
+अ॒ग्निम्। ब्रू॒मः॒। वन॒स्पती॑न्। ओष॑धीः। उ॒त। वी॒रुधः॑। इन्द्र॑म्। बृह॒स्पति॑म्। सूर्य॑म्। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,13 +102,16 @@ We call on Agni, on the trees lords of the forest, herbs and. plants, Indra, Sur
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रू॒मो राजा॑नं॒ वरु॑णं मि॒त्रं विष्णु॒मथो॒ भग॑म्।  
-अंशं॒ विव॑स्वन्तं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२॥  
+अंशं॒ विव॑स्वन्तं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/02_brUmo_rAjAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रू॒मो राजा॑नं॒ वरु॑णं मि॒त्रं विष्णु॒मथो॒ भग॑म्। अंशं॒ विव॑स्वन्तं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ब्रू॒मो राजा॑नं॒ वरु॑णं मि॒त्रं विष्णु॒मथो॒ भग॑म्।  
+अंशं॒ विव॑स्वन्तं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/02_brUmo_rAjAnam.md">
@@ -124,7 +130,7 @@ We call on Vishnu, Bhaga, on Mitra and Varuna the King, Ansa Vivasvan we address
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रूमः। राजानम्। वरुणम्। मित्रम्। विष्णुम्। अथो इति। भगम्। अंशम्। विवस्वन्तम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.२।
+ब्रू॒मः। राजा॑नम्। वरु॑णम्। मि॒त्रम्। विष्णु॑म्। अथो॒ इति॑। भग॑म्। अंश॑म्। विव॑स्वन्तम्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,13 +162,16 @@ We call on Vishnu, Bhaga, on Mitra and Varuna the King, Ansa Vivasvan we address
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रू॒मो दे॒वं स॑वि॒तारं॑ धा॒तार॑मु॒त पू॒षण॑म्।  
-त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥३॥  
+त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/03_brUmo_devam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रू॒मो दे॒वं स॑वि॒तारं॑ धा॒तार॑मु॒त पू॒षण॑म्। त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ब्रू॒मो दे॒वं स॑वि॒तारं॑ धा॒तार॑मु॒त पू॒षण॑म्।  
+त्वष्टा॑रमग्रि॒यं ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/03_brUmo_devam.md">
@@ -183,7 +192,7 @@ We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we 
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रूमः। देवम्। सवितारम्। धातारम्। उत। पूषणम्। त्वष्टारम्। अग्रियम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.३।
+ब्रू॒मः। दे॒वम्। स॒वि॒तार॑म्। धा॒तार॑म्। उ॒त। पू॒षण॑म्। त्वष्टा॑रम्। अ॒ग्रि॒यम्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -214,14 +223,17 @@ We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/04_gandharvApsaraso_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग॒न्ध॒र्वा॒प्स॒रसो॑ ब्रूमो अ॒श्विना॒ ब्रह्म॑ण॒स्पति॑म्।  
-अ॒र्य॒मा नाम॒ यो दे॒वस्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥४॥  
+ग॑न्धर्वाप्स॒रसो॑ ब्रूमो अ॒श्विना॒ ब्रह्म॑ण॒स्पति॑म्।  
+अ॑र्य॒मा नाम॒ यो दे॒वस्ते॑ नो मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/04_gandharvApsaraso_brUmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ग॑न्धर्वाप्स॒रसो॑ ब्रूमो अ॒श्विना॒ ब्रह्म॑ण॒स्पति॑म्। अ॑र्य॒मा नाम॒ यो दे॒वस्ते॑ नो मुञ्च॒न्त्वंह॑सः ॥
+ग॑न्धर्वाप्स॒रसो॑ ब्रूमो अ॒श्विना॒ ब्रह्म॑ण॒स्पति॑म्।  
+अ॑र्य॒मा नाम॒ यो दे॒वस्ते॑ नो मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/04_gandharvApsaraso_brUmo.md">
@@ -241,7 +253,7 @@ Gandharvas and Apsarases; the Asvins, Brahmanaspati, Aryaman, God, by name we ca
 </details>
 <details><summary>पदपाठः</summary>
 
-गन्धर्वऽअप्सरसः। ब्रूमः। अश्विना। ब्रह्मणः। पतिम्। अर्यमा। नाम। यः। देवः। ते। नः। मुञ्चन्तु। अंहसः। ८.४।
+ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। ब्रू॒मः॒। अ॒श्विना॑। ब्रह्म॑णः। पति॑म्। अ॒र्य॒मा। नाम॑। यः। दे॒वः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -272,14 +284,17 @@ Gandharvas and Apsarases; the Asvins, Brahmanaspati, Aryaman, God, by name we ca
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/05_ahorAtre_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हो॒रा॒त्रे इ॒दं ब्रू॑मः सूर्याचन्द्र॒मसा॑वु॒भा।  
-विश्वा॑नादि॒त्यान् ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥५॥  
+अ॑होरा॒त्रे इ॒दं ब्रू॑मः सूर्याचन्द्र॒मसा॑वु॒भा।  
+विश्वा॑नादि॒त्यान्ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/05_ahorAtre_idam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑होरा॒त्रे इ॒दं ब्रू॑मः सूर्याचन्द्र॒मसा॑वु॒भा। विश्वा॑नादि॒त्यान्ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अ॑होरा॒त्रे इ॒दं ब्रू॑मः सूर्याचन्द्र॒मसा॑वु॒भा।  
+विश्वा॑नादि॒त्यान्ब्रू॑म॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/05_ahorAtre_idam.md">
@@ -300,7 +315,7 @@ This word of ours to Day and Night, and to the Sun and Moon we speak, All the Ad
 </details>
 <details><summary>पदपाठः</summary>
 
-अहोरात्रे इति। इदम्। ब्रूमः। सूर्याचन्द्रमसौ। उभा। विश्वान्। आदित्यान्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.५।
+अ॒हो॒रा॒त्रे इति॑। इ॒दम्। ब्रू॒मः॒। सू॒र्या॒च॒न्द्र॒मसौ॑। उ॒भा। विश्वा॑न्। आ॒दि॒त्यान्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -331,14 +346,17 @@ This word of ours to Day and Night, and to the Sun and Moon we speak, All the Ad
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/06_vAtaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑ ।  
-आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥६॥  
+वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑।  
+आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/06_vAtaM_brUmaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑। आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+वातं॑ ब्रूमः प॒र्जन्य॑म॒न्तरि॑क्ष॒मथो॒ दिशः॑।  
+आशा॑श्च॒ सर्वा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/06_vAtaM_brUmaH.md">
@@ -357,7 +375,7 @@ Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions 
 </details>
 <details><summary>पदपाठः</summary>
 
-वातम्। ब्रूमः। पर्जन्यम्। अन्तरिक्षम्। अथो इति। दिशः। आशाः। च। सर्वाः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.६।
+वात॑म्। ब्रू॒मः॒। प॒र्जन्य॑म्। अ॒न्तरि॑क्षम्। अथो॒ इति॑। दिशः॑। आशाः॑। च। सर्वाः॑। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -388,14 +406,17 @@ Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/07_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्याऽदहोरा॒त्रे अथो॑ उ॒षाः ।  
-सोमो॑ मा दे॒वो मु॑ञ्चतु॒ यमा॒हुश्च॒न्द्रमा॒ इति॑ ॥७॥  
+मु॒ञ्चन्तु॑ मा शप॒थ्या᳡दहोरा॒त्रे अथो॑ उ॒षाः।  
+सोमो॑ मा दे॒वो मु॑ञ्चतु॒ यमा॒हुश्च॒न्द्रमा॒ इति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/07_munchantu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या᳡दहोरा॒त्रे अथो॑ उ॒षाः। सोमो॑ मा दे॒वो मु॑ञ्चतु॒ यमा॒हुश्च॒न्द्रमा॒ इति॑ ॥
+मु॒ञ्चन्तु॑ मा शप॒थ्या᳡दहोरा॒त्रे अथो॑ उ॒षाः।  
+सोमो॑ मा दे॒वो मु॑ञ्चतु॒ यमा॒हुश्च॒न्द्रमा॒ इति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/07_munchantu_mA.md">
@@ -416,7 +437,7 @@ From all that brings a curse may Day and Night and Dawn deliver me, May Soma fre
 </details>
 <details><summary>पदपाठः</summary>
 
-मुञ्चन्तु। मा। शपथ्या᳡त्। अहोरात्रे इति। अथो इति। उषाः। सोमः। मा। देवः। मुञ्चतु। यम्। आहुः। चन्द्रमाः। इति। ८.७।
+मु॒ञ्चन्तु॑। मा॒। श॒प॒थ्या᳡त्। अ॒हो॒रा॒त्रे इति॑। अथो॒ इति॑। उ॒षाः। सोमः॑। मा॒। दे॒वः। मु॒ञ्च॒तु॒। यम्। आ॒हुः। च॒न्द्रमाः॑। इति॑। ८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -447,14 +468,17 @@ From all that brings a curse may Day and Night and Dawn deliver me, May Soma fre
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/08_pArthivA_divyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पार्थि॑वा दि॒व्यः प॒शव॑ आर॒ण्या उ॒त ये मृ॒गाः ।  
-श॒कुन्ता॑न् प॒क्षिणो॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥८॥  
+पार्थि॑वा दि॒व्याः प॒शव॑ आर॒ण्या उ॒त ये मृ॒गाः।  
+श॒कुन्ता॑न्प॒क्षिणो॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/08_pArthivA_divyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पार्थि॑वा दि॒व्याः प॒शव॑ आर॒ण्या उ॒त ये मृ॒गाः। श॒कुन्ता॑न्प॒क्षिणो॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+पार्थि॑वा दि॒व्याः प॒शव॑ आर॒ण्या उ॒त ये मृ॒गाः।  
+श॒कुन्ता॑न्प॒क्षिणो॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/08_pArthivA_divyAH.md">
@@ -477,7 +501,7 @@ All creatures both of heaven and earth, wild beasts and sylvan animals, And wing
 </details>
 <details><summary>पदपाठः</summary>
 
-पार्थिवाः। दिव्याः। पशवः। आरण्याः। उत। ये। मृगाः। शकुन्तान्। पक्षिणः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.८।
+पार्थि॑वाः। दि॒व्याः। प॒शवः॑। आ॒र॒ण्याः। उ॒त। ये। मृ॒गाः। श॒कुन्ता॑न्। प॒क्षिणः॑। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -508,14 +532,17 @@ All creatures both of heaven and earth, wild beasts and sylvan animals, And wing
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/09_bhavAsharvAvidaM_brUmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒वा॒श॒र्वावि॒दं ब्रू॑मो रु॒द्रं प॑शु॒पति॑श्च॒ यः ।  
-इषू॒र्या ए॑षां संवि॒द्म ता नः॑ सन्तु॒ सदा॑ शि॒वाः ॥९॥  
+भ॑वाश॒र्वावि॒दं ब्रू॑मो रु॒द्रं प॑शु॒पति॑श्च॒ यः।  
+इषू॒र्या ए॑षां संवि॒द्म ता नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/09_bhavAsharvAvidaM_brUmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भ॑वाश॒र्वावि॒दं ब्रू॑मो रु॒द्रं प॑शु॒पति॑श्च॒ यः। इषू॒र्या ए॑षां संवि॒द्म ता नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
+भ॑वाश॒र्वावि॒दं ब्रू॑मो रु॒द्रं प॑शु॒पति॑श्च॒ यः।  
+इषू॒र्या ए॑षां संवि॒द्म ता नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/09_bhavAsharvAvidaM_brUmo.md">
@@ -538,7 +565,7 @@ Bhava and Sarva we address, and Rudra who is Lord of Beasts, Their arrows which 
 </details>
 <details><summary>पदपाठः</summary>
 
-भवाशर्वौ। इदम्। ब्रूमः। रुद्रम्। पशुऽपतिः। च। यः। इषूः। याः। एषाम्। सम्ऽविद्म। ताः। नः। सन्तु। सदा। शिवाः। ८.९।
+भ॒वा॒श॒र्वौ। इ॒दम्। ब्रू॒मः॒। रु॒द्रम्। प॒शु॒ऽपतिः॑। च॒। यः। इषूः॑। याः। ए॒षा॒म्। स॒म्ऽवि॒द्म। ताः। नः॒। स॒न्तु॒। सदा॑। शि॒वाः। ८.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -570,13 +597,16 @@ Bhava and Sarva we address, and Rudra who is Lord of Beasts, Their arrows which 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिवं॑ ब्रूमो॒ नक्ष॑त्राणि॒ भूमिं॑ य॒क्षाणि॒ पर्व॑तान्।  
-स॒मु॒द्रा न॒द्योऽ वेश॒न्तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१०॥  
+स॑मु॒द्रा न॒द्यो᳡ वेश॒न्तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/10_divaM_brUmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दिवं॑ ब्रूमो॒ नक्ष॑त्राणि॒ भूमिं॑ य॒क्षाणि॒ पर्व॑तान्। स॑मु॒द्रा न॒द्यो᳡ वेश॒न्तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+दिवं॑ ब्रूमो॒ नक्ष॑त्राणि॒ भूमिं॑ य॒क्षाणि॒ पर्व॑तान्।  
+स॑मु॒द्रा न॒द्यो᳡ वेश॒न्तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/10_divaM_brUmo.md">
@@ -599,7 +629,7 @@ We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, t
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवम्। ब्रूमः। नक्षत्राणि। भूमिम्। यक्षाणि। पर्वतान्। समुद्राः। नद्यः᳡। वेशन्ताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१०।
+दिव॑म्। ब्रू॒मः॒। नक्ष॑त्राणि। भूमि॑म्। य॒क्षाणि॑। पर्व॑तान्। स॒मु॒द्राः। न॒द्यः᳡। वे॒श॒न्ताः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -630,14 +660,17 @@ We speak to Constellations, Heaven, to Earth, to Genii, and to Hills, To Seas, t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/11_saptarShInvA_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त॒र्षीन् वा इ॒दं ब्रू॑मो॒ऽपो दे॒वीः प्र॒जाप॑तिम्।  
-पि॒तॄन् य॒मश्रे॑ष्ठान् ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥११॥  
+सप्त॒र्षीन्वा इ॒दं ब्रू॑मो॒ऽपो दे॒वीः प्र॒जाप॑तिम्।  
+पि॒तॄन्य॒मश्रे॑ष्ठान्ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/11_saptarShInvA_idam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सप्त॒र्षीन्वा इ॒दं ब्रू॑मो॒ऽपो दे॒वीः प्र॒जाप॑तिम्। पि॒तॄन्य॒मश्रे॑ष्ठान्ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+सप्त॒र्षीन्वा इ॒दं ब्रू॑मो॒ऽपो दे॒वीः प्र॒जाप॑तिम्।  
+पि॒तॄन्य॒मश्रे॑ष्ठान्ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/11_saptarShInvA_idam.md">
@@ -659,7 +692,7 @@ Or the Seven Rishis we address, Waters divine, Prajapati, Fathers with Yama at t
 </details>
 <details><summary>पदपाठः</summary>
 
-सप्तऽऋषीन्। वै। इदम्। ब्रूमः। अपः। देवीः। प्रजाऽपतिम्। पितॄन्। यमऽश्रेष्ठान्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.११।
+स॒प्त॒ऽऋ॒षीन्। वै। इ॒दम्। ब्रू॒मः॒। अ॒पः। दे॒वीः। प्र॒जाऽप॑तिम्। पि॒तॄन्। य॒मऽश्रे॑ष्ठान्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -691,13 +724,16 @@ Or the Seven Rishis we address, Waters divine, Prajapati, Fathers with Yama at t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये।  
-पृ॒थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१२॥  
+पृ॑थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/12_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये। पृ॑थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये।  
+पृ॑थि॒व्यां श॒क्रा ये श्रि॒तास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/12_ye_devA.md">
@@ -718,7 +754,7 @@ Gods whose abode is in the heaven and those who dwell in middle air, And Mighty 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। देवाः। दिविऽसदः। अन्तरिक्षऽसदः। च। ये। पृथिव्याम्। शक्राः। ये। श्रिताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१२।
+ये। दे॒वाः। दि॒वि॒ऽसदः॑। अ॒न्त॒रि॒क्ष॒ऽसदः॑। च॒। ये। पृ॒थि॒व्याम्। श॒क्राः। ये। श्रि॒ताः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -749,14 +785,17 @@ Gods whose abode is in the heaven and those who dwell in middle air, And Mighty 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/13_AdityA_rudrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः।  
-अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१३॥  
+आ॑दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः।  
+अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/13_AdityA_rudrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः। अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+आ॑दि॒त्या रु॒द्रा वस॑वो दि॒वि दे॒वा अथ॑र्वाणः।  
+अङ्गि॑रसो मनी॒षिण॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/13_AdityA_rudrA.md">
@@ -777,7 +816,7 @@ Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of
 </details>
 <details><summary>पदपाठः</summary>
 
-आदित्याः। रुद्राः। वसवः। दिवि। देवाः। अथर्वाणः। अङ्गिरसः। मनीषिणः। ते। नः। मुञ्चन्तु। अंहसः। ८.१३।
+आ॒दि॒त्याः। रु॒द्राः। वस॑वः। दि॒वि। दे॒वाः। अथ॑र्वाणः। अङ्गि॑रसः। म॒नी॒षिणः॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -809,13 +848,16 @@ Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञं ब्रू॑मो॒ यज॑मान॒मृचः॒ सामा॑नि भेष॒जा।  
-यजूं॑षि॒ होत्रा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१४॥  
+यजूं॑षि॒ होत्रा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/14_yajnaM_brUmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒ज्ञं ब्रू॑मो॒ यज॑मान॒मृचः॒ सामा॑नि भेष॒जा। यजूं॑षि॒ होत्रा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+य॒ज्ञं ब्रू॑मो॒ यज॑मान॒मृचः॒ सामा॑नि भेष॒जा।  
+यजूं॑षि॒ होत्रा॑ ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/14_yajnaM_brUmo.md">
@@ -838,7 +880,7 @@ To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To prie
 </details>
 <details><summary>पदपाठः</summary>
 
-यज्ञम्। ब्रूमः। यजमानम्। ऋचः। सामानि। भेषजा। यजूंषि। होत्राः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.१४।
+य॒ज्ञम्। ब्रू॒मः॒। यज॑मानम्। ऋचः॑। सामा॑नि। भे॒ष॒जा। यजूं॑षि। होत्राः॑। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -869,14 +911,17 @@ To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To prie
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/15_pancha_rAjyAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पञ्च॑ रा॒ज्यानि॑ वी॒रुधां॒ सोम॑श्रेष्ठानि ब्रूमः ।  
-द॒र्भो भङ्गो यवः॒ सह॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१५॥  
+पञ्च॑ रा॒ज्यानि॑ वी॒रुधां॒ सोम॑श्रेष्ठानि ब्रूमः।  
+द॒र्भो भ॒ङ्गो यवः॒ सह॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/15_pancha_rAjyAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पञ्च॑ रा॒ज्यानि॑ वी॒रुधां॒ सोम॑श्रेष्ठानि ब्रूमः। द॒र्भो भ॒ङ्गो यवः॒ सह॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+पञ्च॑ रा॒ज्यानि॑ वी॒रुधां॒ सोम॑श्रेष्ठानि ब्रूमः।  
+द॒र्भो भ॒ङ्गो यवः॒ सह॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/15_pancha_rAjyAni.md">
@@ -900,7 +945,7 @@ To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, he
 </details>
 <details><summary>पदपाठः</summary>
 
-पञ्च। राज्यानि। वीरुधाम्। सोमऽश्रेष्ठानि। ब्रूमः। दर्भः। भङ्गः। यवः। सहः। ते। नः। मुञ्चन्तु। अंहसः। ८.१५।
+पञ्च॑। रा॒ज्यानि॑। वी॒रुधा॑म्। सोम॑ऽश्रेष्ठानि। ब्रू॒मः॒। द॒र्भः। भ॒ङ्गः। यवः॑। सहः॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -931,14 +976,17 @@ To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, he
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/16_arAyAnbrUmo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒राया॑न् ब्रूमो॒ रक्षां॑सि स॒र्पान् पु॑ण्यज॒नान् पि॒तृन्।  
-मृ॒त्यूनेक॑शतं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१६॥  
+अ॒राया॑न्ब्रूमो॒ रक्षां॑सि स॒र्पान्पु॑ण्यज॒नान्पि॒तॄन्।  
+मृ॒त्यूनेक॑शतं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/16_arAyAnbrUmo_raxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒राया॑न्ब्रूमो॒ रक्षां॑सि स॒र्पान्पु॑ण्यज॒नान्पि॒तॄन्। मृ॒त्यूनेक॑शतं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अ॒राया॑न्ब्रूमो॒ रक्षां॑सि स॒र्पान्पु॑ण्यज॒नान्पि॒तॄन्।  
+मृ॒त्यूनेक॑शतं ब्रूम॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/16_arAyAnbrUmo_raxAMsi.md">
@@ -963,7 +1011,7 @@ To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to th
 </details>
 <details><summary>पदपाठः</summary>
 
-अरायान्। ब्रूमः। रक्षांसि। सर्पान्। पुण्यऽजनान्। पितॄन्। मृत्यून्। एकऽशतम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.१६।
+अ॒राया॑न्। ब्रू॒मः॒। रक्षां॑सि। स॒र्पान्। पु॒ण्य॒ऽज॒नान्। पि॒तॄन्। मृ॒त्यून्। एक॑ऽशतम्। ब्रू॒मः॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -994,14 +1042,17 @@ To demons and fierce fiends we speak, to Holy Genii, Fathers,. Snakes, And to th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/17_RtUnbrUma_RtupatInArtavAnuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तून् ब्रू॑म ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
-समाः॑ संवत्स॒रान् मासां॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१७॥  
+ऋ॒तून्ब्रू॑म ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
+समाः॑ संवत्स॒रान्मासां॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/17_RtUnbrUma_RtupatInArtavAnuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तून्ब्रू॑म ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्। समाः॑ संवत्स॒रान्मासां॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ऋ॒तून्ब्रू॑म ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
+समाः॑ संवत्स॒रान्मासां॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/17_RtUnbrUma_RtupatInArtavAnuta.md">
@@ -1026,7 +1077,7 @@ We speak to Seasons, Season-Lords, to years and sections of the year, To Months,
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतून्। ब्रूमः। ऋतुऽपतीन्। आर्तवान्। उत। हायनान्। समाः। सम्ऽवत्सरान्। मासान्। ते। नः। मुञ्चन्तु। अंहसः। ८.१७।
+ऋ॒तून्। ब्रू॒मः॒। ऋ॒तु॒ऽपती॑न्। आ॒र्त॒वान्। उ॒त। हा॒य॒नान्। समाः॑। स॒म्ऽव॒त्स॒रान्। मासा॑न्। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1057,14 +1108,17 @@ We speak to Seasons, Season-Lords, to years and sections of the year, To Months,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/18_eta_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एत॑ देवा दक्षिण॒तः प॒श्चात् प्राञ्च॑ उ॒देत॑ ।  
-पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१८॥  
+एत॑ देवा दक्षिण॒तः प॒श्चात्प्राञ्च॑ उ॒देत॑।  
+पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/18_eta_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एत॑ देवा दक्षिण॒तः प॒श्चात्प्राञ्च॑ उ॒देत॑। पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+एत॑ देवा दक्षिण॒तः प॒श्चात्प्राञ्च॑ उ॒देत॑।  
+पु॒रस्ता॑दुत्त॒राच्छ॒क्रा विश्वे॑ दे॒वाः स॒मेत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/18_eta_devA.md">
@@ -1085,7 +1139,7 @@ Come hither from the south, ye Gods, rise and come forward from the west. Gather
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इत। देवाः। दक्षिणतः। पश्चात्। प्राञ्चः। उत्ऽएत। पुरस्तात्। उत्तरात्। शक्राः। विश्वे। देवाः। सम्ऽएत्य। ते। नः। मुञ्चन्तु। अंहसः। ८.१८।
+आ। इ॒त॒। दे॒वाः॒। द॒क्षि॒ण॒तः। प॒श्चात्। प्राञ्चः॑। उ॒त्ऽएत॑। पु॒रस्ता॑त्। उ॒त्त॒रात्। श॒क्राः। विश्वे॑। दे॒वाः। स॒म्ऽएत्य॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1116,14 +1170,17 @@ Come hither from the south, ye Gods, rise and come forward from the west. Gather
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/19_vishvAndevAnidaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वा॑न् दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑ ।  
-विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१९॥  
+विश्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
+विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/19_vishvAndevAnidaM_brUmaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विश्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑। विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+विश्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
+विश्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/19_vishvAndevAnidaM_brUmaH.md">
@@ -1143,7 +1200,7 @@ This we address to all the Gods, faithful, maintainers of the Right, With all th
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वान्। देवान्। इदम्। ब्रूमः। सत्यऽसंधान्। ऋतऽवृधः। विश्वाभिः। पत्नीभिः। सह। ते। नः। मुञ्चन्तु। अंहसः। ८.१९।
+विश्वा॑न्। दे॒वान्। इ॒दम्। ब्रू॒मः॒। स॒त्यऽसं॑धान्। ऋ॒त॒ऽवृधः॑। विश्वा॑भिः। पत्नी॑भिः। स॒ह। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1174,14 +1231,17 @@ This we address to all the Gods, faithful, maintainers of the Right, With all th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/20_sarvAndevAnidaM_brUmaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॑न् दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑ ।  
-सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२०॥  
+सर्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
+सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/20_sarvAndevAnidaM_brUmaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑। सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+सर्वा॑न्दे॒वानि॒दं ब्रू॑मः स॒त्यसं॑धानृता॒वृधः॑।  
+सर्वा॑भिः॒ पत्नी॑भिः स॒ह ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/20_sarvAndevAnidaM_brUmaH.md">
@@ -1204,7 +1264,7 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 </details>
 <details><summary>पदपाठः</summary>
 
-सर्वान्। देवान्। इदम्। ब्रूमः। सत्यऽसंधान्। ऋतऽवृधः। सर्वाभिः। पत्नीभिः। सह। ते। नः। मुञ्चन्तु। अंहसः। ८.२०।
+सर्वा॑न्। दे॒वान्। इ॒दम्। ब्रू॒मः॒। स॒त्यऽसं॑धान्। ऋ॒त॒ऽवृधः॑। सर्वा॑भिः। पत्नी॑भिः। स॒ह। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.२०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1236,13 +1296,16 @@ We speak to the collected Gods, faithful, maintainers of the Right. Present with
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भू॒तं ब्रू॑मो भूत॒पतिं॑ भू॒ताना॑मु॒त यो व॒शी।  
-भू॒तानि॒ सर्वा॑ सं॒गत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२१॥  
+भू॒तानि॒ सर्वा॑ सं॒गत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/21_bhUtaM_brUmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भू॒तं ब्रू॑मो भूत॒पतिं॑ भू॒ताना॑मु॒त यो व॒शी। भू॒तानि॒ सर्वा॑ सं॒गत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+भू॒तं ब्रू॑मो भूत॒पतिं॑ भू॒ताना॑मु॒त यो व॒शी।  
+भू॒तानि॒ सर्वा॑ सं॒गत्य॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/21_bhUtaM_brUmo.md">
@@ -1265,7 +1328,7 @@ The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let a
 </details>
 <details><summary>पदपाठः</summary>
 
-भूतम्। ब्रूमः। भूतऽपतिम्। भूतानाम्। उत। यः। वशी। भूतानि। सर्वा। सम्ऽगत्य। ते। नः। मुञ्चन्तु। अंहसः। ८.२१।
+भू॒तम्। ब्रू॒मः॒। भू॒त॒ऽपति॑म्। भू॒ताना॑म्। उ॒त। यः। व॒शी। भू॒तानि॑। सर्वा॑। स॒म्ऽगत्य॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.२१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1296,14 +1359,17 @@ The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/006_pApamochanam/22_yA_devIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या दे॒वीः पञ्च॑ प्र॒दिशो॒ ये दे॒वा द्वाद॑श॒र्तवः॑ ।  
-सं॒व॒त्स॒रस्य॒ ये दंष्ट्रा॒स्ते नः॑ सन्तु॒ सदा॑ शि॒वाः ॥२२॥  
+या दे॒वीः पञ्च॑ प्र॒दिशो॒ ये दे॒वा द्वाद॑श॒र्तवः॑।  
+सं॑वत्स॒रस्य॒ ये दंष्ट्रा॒स्ते नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/22_yA_devIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या दे॒वीः पञ्च॑ प्र॒दिशो॒ ये दे॒वा द्वाद॑श॒र्तवः॑। सं॑वत्स॒रस्य॒ ये दंष्ट्रा॒स्ते नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
+या दे॒वीः पञ्च॑ प्र॒दिशो॒ ये दे॒वा द्वाद॑श॒र्तवः॑।  
+सं॑वत्स॒रस्य॒ ये दंष्ट्रा॒स्ते नः॑ सन्तु॒ सदा॑ शि॒वाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/22_yA_devIH.md">
@@ -1326,7 +1392,7 @@ The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teet
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। देवीः। पञ्च। प्रऽदिशः। ये। देवाः। द्वादश। ऋतवः। सम्ऽवत्सरस्य। ये। दंष्ट्रा। ते। नः। सन्तु। सदा। शिवाः। ८.२२।
+याः। दे॒वीः। पञ्च॑। प्र॒ऽदिशः॑। ये। दे॒वाः। द्वाद॑श। ऋ॒तवः॑। स॒म्ऽव॒त्स॒रस्य॑। ये। दंष्ट्रा॑। ते। नः॒। स॒न्तु॒। सदा॑। शि॒वाः। ८.२२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1358,13 +1424,16 @@ The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teet
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्मात॑ली रथक्री॒तम॒मृतं॒ वेद॑ भेष॒जम्।  
-तदिन्द्रो॑ अ॒प्सु प्रावे॑शय॒त् तदापो॑ दत्त भेष॒जम्॥२३॥
+तदिन्द्रो॑ अ॒प्सु प्रावे॑शय॒त्तदा॑पो दत्त भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/006_pApamochanam/23_yanmAtalI_rathakrItamamRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यन्मात॑ली रथक्री॒तम॒मृतं॒ वेद॑ भेष॒जम्। तदिन्द्रो॑ अ॒प्सु प्रावे॑शय॒त्तदा॑पो दत्त भेष॒जम् ॥
+यन्मात॑ली रथक्री॒तम॒मृतं॒ वेद॑ भेष॒जम्।  
+तदिन्द्रो॑ अ॒प्सु प्रावे॑शय॒त्तदा॑पो दत्त भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/006_pApamochanam/23_yanmAtalI_rathakrItamamRtam.md">
@@ -1397,7 +1466,7 @@ The deathless balm that Matali knows, purchased at a chariot's price, Indra effu
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। मातली। रथऽक्रीतम्। अमृतम्। वेद। भेषजम्। तत्। इन्द्रः। अप्ऽसु। प्र। अवेशयत्। तत्। आपः। दत्त। भेषजम्। ८.२३।
+यत्। मात॑ली। र॒थ॒ऽक्री॒तम्। अ॒मृत॑म्। वेद॑। भे॒ष॒जम्। तत्। इन्द्रः॑। अ॒प्ऽसु। प्र। अ॒वे॒श॒य॒त्। तत्। आपः॑। द॒त्त॒। भे॒ष॒जम्। ८.२३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

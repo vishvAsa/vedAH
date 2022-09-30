@@ -36,14 +36,17 @@ Counter-charm, with an amulet, against an enemy's spell
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दूष्या॒ दूषि॑रसि हे॒त्या हे॒तिर॑सि मे॒न्या मे॒निर॑सि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥१॥  
+दूष्या॒ दूषि॑रसि हे॒त्या हे॒तिर॑सि मे॒न्या मे॒निर॑सि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दूष्या॒ दूषि॑रसि हे॒त्या हे॒तिर॑सि मे॒न्या मे॒निर॑सि। आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+दूष्या॒ दूषि॑रसि हे॒त्या हे॒तिर॑सि मे॒न्या मे॒निर॑सि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
@@ -70,7 +73,7 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 </details>
 <details><summary>पदपाठः</summary>
 
-दूष्याः। दूषिः। असि। हेत्याः। हेतिः। असि। मेन्याः। मेनिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.१।
+दूष्याः॑। दूषिः॑। अ॒सि॒। हे॒त्याः। हे॒तिः। अ॒सि॒। मे॒न्याः। मे॒निः। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्र॒क्त्योऽसि प्रतिस॒रोऽसि प्रत्यभि॒चर॑णोऽसि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥२॥  
+स्र॒क्त्योऽसि॑ प्रतिस॒रोऽसि॑ प्रत्यभि॒चर॑णोऽसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्र॒क्त्योऽसि॑ प्रतिस॒रोऽसि॑ प्रत्यभि॒चर॑णोऽसि। आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+स्र॒क्त्योऽसि॑ प्रतिस॒रोऽसि॑ प्रत्यभि॒चर॑णोऽसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
@@ -132,7 +138,7 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 </details>
 <details><summary>पदपाठः</summary>
 
-स्रक्त्यः। असि। प्रतिऽसरः। असि। प्रतिऽअभिचरणः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.२।
+स्र॒क्त्यः। अ॒सि॒। प्र॒ति॒ऽस॒रः। अ॒सि॒। प्र॒ति॒ऽअ॒भि॒चर॑णः। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रति॒ तम॒भि च॑र॒ यो॒ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥३॥  
+प्रति॒ तम॒भि च॑र॒ यो ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रति॒ तम॒भि च॑र॒ यो ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः। आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+प्रति॒ तम॒भि च॑र॒ यो ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
@@ -189,7 +198,7 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रति। तम्। अभि। चर। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.३।
+प्रति॑। तम्। अ॒भि। च॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -220,14 +229,17 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानोऽसि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥४॥  
+सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानो॑ ऽसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानो॑ ऽसि। आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानो॑ ऽसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
@@ -248,7 +260,7 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 </details>
 <details><summary>पदपाठः</summary>
 
-सूरिः। असि। वर्चःऽधाः। असि। तनूऽपानः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.४।
+सू॒रिः। अ॒सि॒। व॒र्चः॒ऽधाः। अ॒सि॒। त॒नू॒ऽपानः॑। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -279,14 +291,17 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒क्रोऽसि भ्रा॒जोऽसि॒ स्वऽरसि॒ ज्योति॑रसि ।  
-आ॒प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥५॥
+शु॒क्रोऽसि॑ भ्रा॒जोऽसि॒ स्व॑रसि॒ ज्योति॑रसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शु॒क्रोऽसि॑ भ्रा॒जोऽसि॒ स्व॑रसि॒ ज्योति॑रसि। आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+शु॒क्रोऽसि॑ भ्रा॒जोऽसि॒ स्व॑रसि॒ ज्योति॑रसि।  
+आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
@@ -311,7 +326,7 @@ Fulgent art thou, and splendid, thou art heavenly lustre, thou art light. Reach 
 </details>
 <details><summary>पदपाठः</summary>
 
-शुक्रः। असि। भ्राजः। असि। स्वः᳡। असि। ज्योतिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.५।
+शु॒क्रः। अ॒सि॒। भ्रा॒जः। अ॒सि॒। स्वः᳡। अ॒सि॒। ज्योतिः॑। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

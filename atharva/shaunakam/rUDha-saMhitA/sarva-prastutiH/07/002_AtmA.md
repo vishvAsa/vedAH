@@ -37,13 +37,16 @@ Praise of Atharvan
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं मा॒तुर्गर्भं॑ पि॒तुरसुं॒ युवा॑नम्।  
-य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥१॥
+य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/002_AtmA/01_atharvANaM_pitaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं मा॒तुर्गर्भं॑ पि॒तुरसुं॒ युवा॑नम्। य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+अथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं मा॒तुर्गर्भं॑ पि॒तुरसुं॒ युवा॑नम्।  
+य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/002_AtmA/01_atharvANaM_pitaram.md">
@@ -69,7 +72,7 @@ Invoke for us, proclaim in sundry places, the kinsman of the Gods, our sire Atha
 </details>
 <details><summary>पदपाठः</summary>
 
-अथर्वाणम्। पितरम्। देवऽबन्धुम्। मातुः। गर्भम्। पितुः। असुम्। युवानम्। यः। इमम्। यज्ञम्। मनसा। चिकेत। प्र। नः। वोचः। तम्। इह। इह। ब्रवः। २.१।
+अथ॑र्वाणम्। पि॒तर॑म्। दे॒वऽब॑न्धुम्। मा॒तुः। गर्भ॑म्। पि॒तुः। असु॑म्। युवा॑नम्। यः। इ॒मम्। य॒ज्ञम्। मन॑सा। चि॒केत॑। प्र। नः॒। वो॒चः॒। तम्। इ॒ह। इ॒ह। ब्र॒वः॒। २.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

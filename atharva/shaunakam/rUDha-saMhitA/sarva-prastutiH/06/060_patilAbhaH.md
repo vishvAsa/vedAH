@@ -36,14 +36,17 @@ The wooing of a bride
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द् विषि॑तस्तुपः ।  
-अ॒स्या इ॒चछन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये ॥१॥  
+अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द्विषि॑तस्तुपः।  
+अ॒स्या इ॒च्छन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द्विषि॑तस्तुपः। अ॒स्या इ॒च्छन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये ॥
+अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द्विषि॑तस्तुपः।  
+अ॒स्या इ॒च्छन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
@@ -77,7 +80,7 @@ With forelock loosened o'er his brow here comes the wooer of the bride, Seeking 
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। आ। याति। अर्यमा। पुरस्तात्। विसितऽस्तुपः। अस्यै। इच्छन्। अग्रुवै। पतिम्। उत। जायाम्। अजानये। ६०.१।
+अ॒यम्। आ। या॒ति॒। अ॒र्य॒मा। पु॒रस्ता॑त्। विसि॑तऽस्तुपः। अ॒स्यै। इ॒च्छन्। अ॒ग्रुवै॑। पति॑म्। उ॒त। जा॒याम्। अ॒जान॑ये। ६०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,13 +112,16 @@ With forelock loosened o'er his brow here comes the wooer of the bride, Seeking 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्र॑मदि॒यम॑र्यमन्न॒न्यासां॒ सम॑नं य॒ती।  
-अ॒ङ्गो न्वऽर्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति ॥२॥  
+अ॒ङ्गो न्व᳡र्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अश्र॑मदि॒यम॑र्यमन्न॒न्यासां॒ सम॑नं य॒ती। अ॒ङ्गो न्व᳡र्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति ॥
+अश्र॑मदि॒यम॑र्यमन्न॒न्यासां॒ सम॑नं य॒ती।  
+अ॒ङ्गो न्व᳡र्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
@@ -141,7 +147,7 @@ Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wed
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्रमत्। इयम्। अर्यमन्। अन्यासाम्। समनम्। यती। अङ्गो इति। नु। अर्यमन्। अस्याः। अन्याः। समनम्। आऽअयति। ६०.२।
+अश्र॑मत्। इ॒यम्। अ॒र्य॒म॒न्। अ॒न्यासा॑म्। सम॑नम्। य॒ती। अ॒ङ्गो इति॑। नु। अ॒र्य॒म॒न्। अ॒स्याः। अ॒न्याः। सम॑नम्। आ॒ऽअय॑ति। ६०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -173,13 +179,16 @@ Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wed
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता दा॑धार पृथि॒वीं धा॒ता द्यामु॒त सूर्य॑म्।  
-धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्यऽम्॥३॥
+धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्य᳡म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धा॒ता दा॑धार पृथि॒वीं धा॒ता द्यामु॒त सूर्य॑म्। धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्य᳡म् ॥
+धा॒ता दा॑धार पृथि॒वीं धा॒ता द्यामु॒त सूर्य॑म्।  
+धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्य᳡म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
@@ -200,7 +209,7 @@ Dhatar upholds the spacious earth, upholds the sky, upholds the Sun. Dhatar best
 </details>
 <details><summary>पदपाठः</summary>
 
-धाता। दाधार। पृथिवीम्। धाता। द्याम्। उत। सूर्यम्। धाता। अस्यै। अग्रुवै। पतिम्। पतिम्। दधातु। प्रतिऽकाम्य᳡म्। ६०.३।
+धा॒ता। दा॒धा॒र॒। पृ॒थि॒वीम्। धा॒ता। द्याम्। उ॒त। सूर्य॑म्। धा॒ता। अ॒स्यै। अ॒ग्रुवै॑। पति॑म्। पति॑म्। दधा॑तु। प्र॒ति॒ऽका॒म्य᳡म्। ६०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

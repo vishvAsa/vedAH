@@ -32,23 +32,25 @@ A hymn to Agni for protection and prosperity
 </details>
 </details>
 </div>
-## ०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
+## ०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्वनस्पतिभ्यो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द् वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः ।  
-यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥१॥  
+दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द्वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः।  
+यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द् वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः ।  
-यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥१॥  
+दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द्वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः।  
+यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAd.md">
-<details open><summary><h3>०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
+<details open><summary><h3>०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्वनस्पतिभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -79,7 +81,7 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवः। पृथिव्याः। परि। अन्तरिक्षात्। वनस्पतिऽभ्यः। अधि। ओषधीभ्यः। यत्रऽयत्र। विऽभृतः। जातऽवेदाः। ततः। स्तुतः। जुषमाणः। नः। आ। इहि। ३.१।
+दि॒वः। पृ॒थि॒व्याः। परि॑। अ॒न्तरि॑क्षात्। वन॒स्पति॑ऽभ्यः। अधि॑। ओष॑धीभ्यः। यत्र॑ऽयत्र। विऽभृ॑तः। जा॒तऽवे॑दाः। ततः॑। स्तु॒तः। जु॒षमा॑णः। नः॒। आ। इ॒हि॒। ३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,14 +112,17 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/02_yaste_apsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व॑१न्तः ।  
-अग्ने॒ सर्वा॑स्त॒न्वः॑१ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥२॥  
+यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
+अग्ने॒ सर्वा॑स्त॒न्वः१॒॑ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/02_yaste_apsu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्वन्तः। अग्ने॒ सर्वा॑स्त॒न्वः सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥
+यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
+अग्ने॒ सर्वा॑स्त॒न्वः१॒॑ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/02_yaste_apsu.md">
@@ -148,7 +153,7 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। अप्ऽसु। महिमा। यः। वनेषु। यः। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। अग्ने। सर्वाः। तन्वः᳡। सम्। रभस्व। ताभिः। नः। आ। इहि। द्रविणःऽदाः। अजस्रः। ३.२।
+यः। ते॒। अ॒प्ऽसु। म॒हि॒मा। यः। वने॑षु। यः। ओष॑धीषु। प॒शुषु॑। अ॒प्ऽसु। अ॒न्तः। अग्ने॑। सर्वाः॑। त॒न्वः᳡। सम्। र॒भ॒स्व॒। ताभिः॑। नः॒। आ। इ॒हि॒। द्र॒वि॒णः॒ऽदाः। अज॑स्रः। ३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,14 +184,17 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑ ।  
-पुष्टि॒र्या ते॑ मनु॒ष्येऽषु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥३॥  
+यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑।  
+पुष्टि॒र्या ते॑ मनु॒ष्ये᳡षु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑। पुष्टि॒र्या ते॑ मनु॒ष्ये᳡षु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥
+यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑।  
+पुष्टि॒र्या ते॑ मनु॒ष्ये᳡षु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/03_yaste_deveShu.md">
@@ -214,7 +222,7 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। देवेषु। महिमा। स्वःऽगः। या। ते। तनूः। पितृषु। आऽविवेश। पुष्टिः। या। ते। मनुष्ये᳡षु। पप्रथे। अग्ने। तया। रयिम्। अस्मासु। धेहि। ३.३।
+यः। ते॒। दे॒वेषु॑। म॒हि॒मा। स्वः॒ऽगः। या। ते॒। त॒नूः। पि॒तृषु॑। आ॒ऽवि॒वेश॑। पुष्टिः॑। या। ते॒। म॒नु॒ष्ये᳡षु। प॒प्र॒थे। अग्ने॑। तया॑। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। ३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -246,14 +254,16 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रुत्क॑र्णाय क॒वये॒ वेद्या॑य॒ वचो॑भिर्वा॒कैरुप॑ यामि रा॒तिम्।  
-यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥४॥
+यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 श्रुत्क॑र्णाय क॒वये॒ वेद्या॑य॒ वचो॑भिर्वा॒कैरुप॑ यामि रा॒तिम्।  
-यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥४॥
+यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
@@ -279,7 +289,7 @@ To him the wise, the famous, swift to listen, with words and verses I come nigh 
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रुत्ऽकर्णाय। कवये। वेद्याय। वचःऽभिः। वाकैः। उप। यामि। रातिम्। यतः। भयम्। अभयम्। तत्। नः। अस्तु। अव। देवानाम्। यज। हेडः। अग्ने। ३.४।
+श्रुत्ऽक॑र्णाय। क॒वये॑। वेद्या॑य। वचः॑ऽभिः। वा॒कैः। उप॑। या॒मि॒। रा॒तिम्। यतः॑। भ॒यम्। अभ॑यम्। तत्। नः॒। अ॒स्तु॒। अव॑। दे॒वाना॑म्। य॒ज॒। हेडः॑। अ॒ग्ने॒। ३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

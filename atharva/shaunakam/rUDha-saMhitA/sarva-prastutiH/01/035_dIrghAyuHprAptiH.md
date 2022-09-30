@@ -36,14 +36,17 @@ A charm to ensure long life and glory to the wearer of an amulet
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदाब॑ध्नन् दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः ।  
-तत् ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥१॥  
+यदाब॑ध्नन्दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः।  
+तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदाब॑ध्नन्दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः। तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+यदाब॑ध्नन्दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः।  
+तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
@@ -70,7 +73,7 @@ This Ornament of Gold which Daksha's children bound, with benevolent thoughts, o
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। आऽबध्नन्। दाक्षायणाः। हिरण्यम्। शतऽअनीकाय। सुऽमनस्यमानाः। तत्। ते। बध्नामि। आयुषे। वर्चसे। बलाय। दीर्घायुऽत्वाय। शतऽशारदाय।
+यत्। आ॒ऽब॑ध्नन्। दा॒क्षा॒य॒णाः। हिर॑ण्यम्। श॒तऽअ॑नीकाय। सु॒ऽम॒न॒स्यमा॑नाः। तत्। ते॒। ब॒ध्ना॒मि॒। आयु॑षे। वर्च॑से। बला॑य। दी॒र्घा॒यु॒ऽत्वाय॑। श॒तऽशा॑रदाय। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ This Ornament of Gold which Daksha's children bound, with benevolent thoughts, o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒तत्।  
-यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥२॥  
+नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒३॒॑तत्।  
+यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒३॒॑तत्। यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥
+नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒३॒॑तत्।  
+यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
@@ -134,7 +140,7 @@ This man no fiends may conquer, no Pisachas, for this is might of Gods, their pr
 </details>
 <details><summary>पदपाठः</summary>
 
-न। एनम्। रक्षांसि। न। पिशाचाः। सहनो। देवानाम्। ओजः। प्रथमऽजम्। हि। एतत्। यः। बिभर्ति। दाक्षायणम्। हिरण्यम्। सः। जीवेषु। कृणुते। दीर्घम्। आयुः।
+न। ए॒न॒म्। रक्षां॑सि। न। पि॒शा॒चाः। स॒ह॒नो॒। दे॒वाना॑म्। ओजः॑। प्र॒थ॒म॒ऽजम्। हि। ए॒तत्। यः। बिभ॑र्ति। दा॒क्षा॒य॒णम्। हिर॑ण्यम्। सः। जी॒वेषु॑। कृ॒णु॒ते॒। दी॒र्घम्। आयुः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ This man no fiends may conquer, no Pisachas, for this is might of Gods, their pr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्याऽणि ।  
-इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन् तद् दक्ष॑माणो बिभर॒द्धिर॑ण्यम्॥३॥  
+अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्या॑णि।  
+इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन्तद्दक्ष॑माणो बिभर॒द्धिर॑ण्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्या॑णि। इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन्तद्दक्ष॑माणो बिभर॒द्धिर॑ण्यम् ॥
+अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्या॑णि।  
+इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन्तद्दक्ष॑माणो बिभर॒द्धिर॑ण्यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
@@ -197,7 +206,7 @@ The light, the power, the lustre of the Waters, the strength of Trees, and all t
 </details>
 <details><summary>पदपाठः</summary>
 
-अपाम्। तेजः। ज्योतिः। ओजः। बलम्। च। वनस्पतीनाम्। उत। वीर्याणि। इन्द्रेऽइव। इन्द्रियाणि। अधि। धारयामः। अस्मिन्। तत्। दक्षमाणः। बिभरत्। हिरण्यम्।
+अ॒पाम्। तेजः॑। ज्योतिः॑। ओजः॑। बल॑म्। च॒। वन॒स्पती॑नाम्। उ॒त। वी॒र्याणि। इन्द्रे॑ऽइव। इ॒न्द्रि॒याणि॑। अधि॑। धा॒र॒या॒मः॒। अ॒स्मिन्। तत्। दक्ष॑माणः। बि॒भ॒र॒त्। हिर॑ण्यम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -228,14 +237,17 @@ The light, the power, the lustre of the Waters, the strength of Trees, and all t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि ।  
-इ॒न्द्रा॒ग्नी विश्वे॑ दे॒वास्तेऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥४॥
+समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि।  
+इ॑न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते ऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि। इ॑न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते ऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥
+समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि।  
+इ॑न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते ऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
@@ -271,7 +283,7 @@ With monthly and six-monthly times and seasons, with the full year's sweet essen
 </details>
 <details><summary>पदपाठः</summary>
 
-समानाम्। मासाम्। ऋतुऽभिः। त्वा। वयम्। सम्ऽवत्सरस्य। पयसा। पिपर्मि। इन्द्रग्नी इति। विश्वे। देवाः। ते। अनु। मन्यन्ताम्। अहृणीयमानाः।
+समा॑नाम्। मा॒साम्। ऋ॒तुऽभिः॑। त्वा॒। व॒यम्। स॒म्ऽव॒त्स॒रस्य॑। पय॑सा। पि॒प॒र्मि॒। इ॒न्द्र॒ग्नी इति॑। विश्वे॑। दे॒वाः। ते। अनु॑। म॒न्य॒न्ता॒म्। अहृ॑णीयमानाः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

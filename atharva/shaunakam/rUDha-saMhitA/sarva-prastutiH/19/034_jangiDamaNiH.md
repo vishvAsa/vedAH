@@ -36,14 +36,17 @@ A protective charm addressed to the panacea called A Jangida
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॒ङ्गि॒डोऽसि जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः ।  
-द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥१॥  
+जा॑ङ्गि॒डो᳡ऽसि॑ जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः।  
+द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जा॑ङ्गि॒डोऽसि॑ जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः। द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥
+जा॑ङ्गि॒डो᳡ऽसि॑ जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः।  
+द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
@@ -76,7 +79,7 @@ Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safel
 </details>
 <details><summary>पदपाठः</summary>
 
-जङ्गिडः। असि। जङ्गिडः। रक्षिता। असि। जङ्गिडः। द्विऽपात्। चतुःऽपात्। अस्माकम्। सर्वम्‌। रक्षतु। जङ्गिडः। ३४.१।
+ज॒ङ्गि॒डः। अ॒सि॒। ज॒ङ्गि॒डः। रक्षि॑ता। अ॒सि॒। ज॒ङ्गि॒डः। द्वि॒ऽपात्। चतुः॑ऽपात्। अ॒स्माक॑म्। सर्व॑म्‌। र॒क्ष॒तु॒। ज॒ङ्गि॒डः। ३४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,13 +111,16 @@ Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safel
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या गृत्स्य॑स्त्रिपञ्चा॒शीः श॒तं कृ॑त्या॒कृत॑श्च॒ ये।  
-सर्वा॑न् विनक्तु॒ तेज॑सोऽर॒सां ज॑ङ्गि॒डस्क॑रत्॥२॥  
+सर्वा॑न्विनक्तु॒ तेज॑सोऽर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या गृत्स्य॑स्त्रिपञ्चा॒शीः श॒तं कृ॑त्या॒कृत॑श्च॒ ये। सर्वा॑न्विनक्तु॒ तेज॑सोऽर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
+या गृत्स्य॑स्त्रिपञ्चा॒शीः श॒तं कृ॑त्या॒कृत॑श्च॒ ये।  
+सर्वा॑न्विनक्तु॒ तेज॑सोऽर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
@@ -186,7 +192,7 @@ Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All thes
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। गृत्स्यः। त्रिऽपञ्चाशीः। शतम्। कृत्याऽकृतः। च। ये। सर्वान्। विनक्तु। तेजसः। अरसान्। जङ्गिडः। करत्। ३४.२।
+याः। गृत्स्यः॑। त्रि॒ऽप॒ञ्चा॒शीः। श॒तम्। कृ॒त्या॒ऽकृतः॑। च॒। ये। सर्वा॑न्। वि॒न॒क्तु॒। तेज॑सः। अ॒र॒सान्। ज॒ङ्गि॒डः। क॒र॒त्। ३४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -217,15 +223,17 @@ Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All thes
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒र॒सं कृ॒त्रिमं॑ ना॒दम॑र॒साः स॒प्त विस्र॑सः ।  
-अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥३॥  
+अ॑र॒सं कृ॒त्रिमं॑ ना॒दम॑रसाः स॒प्त विस्र॑सः।  
+अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒र॒सं कृ॒त्रिमं॑ ना॒दम॑र॒साः स॒प्त विस्र॑सः ।  
-अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥३॥  
+अ॑र॒सं कृ॒त्रिमं॑ ना॒दम॑रसाः स॒प्त विस्र॑सः।  
+अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
@@ -259,7 +267,7 @@ Baffle the loud factitious howl, make impotent the seven decays. As when an arch
 </details>
 <details><summary>पदपाठः</summary>
 
-अरसम्। कृत्रिमम्। नादम्। अरसाः। सप्त। विऽस्रसः। अप। इतः। जङ्गिडः। अमतिम्। इषुम्। अस्ताऽइव। शातय। ३४.३।
+अ॒र॒सम्। कृ॒त्रिम॑म्। ना॒दम्। अ॒र॒साः। स॒प्त। विऽस्र॑सः। अप॑। इ॒तः। ज॒ङ्गि॒डः॒। अम॑तिम्। इषु॑म्। अस्ता॑ऽइव। शा॒त॒य॒। ३४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -290,14 +298,17 @@ Baffle the loud factitious howl, make impotent the seven decays. As when an arch
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः ।  
-अथो॒ सह॑स्वां जङ्गि॒डः प्र ण आयूं॑षि तारिषत्॥४॥  
+कृ॑त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः।  
+अथो॒ सह॑स्वाञ्जङ्गि॒डः प्र ण॒ आयूं॑षि तारिषत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कृ॑त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः। अथो॒ सह॑स्वाञ्जङ्गि॒डः प्र ण॒ आयूं॑षि तारिषत् ॥
+कृ॑त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः।  
+अथो॒ सह॑स्वाञ्जङ्गि॒डः प्र ण॒ आयूं॑षि तारिषत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
@@ -321,7 +332,7 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 </details>
 <details><summary>पदपाठः</summary>
 
-कृत्याऽदूषणः। एव। अयम्। अथो इति। अरातिऽदूषणः। अथो इति। सहस्वान्। जङ्गिडः। प्र। नः। आयूंषि। तारिषत्। ३४.४।
+कृ॒त्या॒ऽदूष॑णः। ए॒व। अ॒यम्। अथो॒ इति॑। अ॒रा॒ति॒ऽदूष॑णः। अथो॒ इति॑। सह॑स्वान्। ज॒ङ्गि॒डः। प्र। नः॒। आयूं॑षि। ता॒रि॒ष॒त्। ३४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -352,15 +363,17 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑ ।  
-विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥५॥  
+स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑।  
+विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑ ।  
-विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥५॥  
+स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑।  
+विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
@@ -391,7 +404,7 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। जङ्गिडस्य। महिमा। परि। नः। पातु। विश्वतः। विऽस्कन्धम्। येन। ससह। सम्ऽस्कन्धम्। ओजः। ओजसा। ३४.५।
+सः। ज॒ङ्गि॒डस्य॑। म॒हिमा॑। परि॑। नः॒। पा॒तु॒। वि॒श्वतः॑। विऽस्क॑न्धम्। येन॑। स॒सह॑। सम्ऽस्क॑न्धम्। ओजः॑। ओज॑सा। ३४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -422,15 +435,17 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रिष्ट्वा॑ दे॒वा अ॑जनय॒न् निष्ठि॑तं॒ भूम्या॒मधि॑ ।  
-तमु॒ त्वाङ्गि॑रा॒ इति॑ ब्राह्म॒णाः पू॒र्व्या वि॑दुः ॥६॥  
+त्रिष्ट्वा॑ दे॒वा अ॑जनय॒न्निष्ठि॑तं॒ भूम्या॒मधि॑।  
+तमु॒ त्वाङ्गि॑रा॒ इति॑ ब्राह्म॒णाः पू॒र्व्या वि॑दुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रिष्ट्वा॑ दे॒वा अ॑जनय॒न् निष्ठि॑तं॒ भूम्या॒मधि॑ ।  
-तमु॒ त्वाङ्गि॑रा॒ इति॑ ब्राह्म॒णाः पू॒र्व्या वि॑दुः ॥६॥  
+त्रिष्ट्वा॑ दे॒वा अ॑जनय॒न्निष्ठि॑तं॒ भूम्या॒मधि॑।  
+तमु॒ त्वाङ्गि॑रा॒ इति॑ ब्राह्म॒णाः पू॒र्व्या वि॑दुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
@@ -454,7 +469,7 @@ Three times the Gods engendered thee fixt on the surface of the earth; The Brahm
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिः। त्वा। देवाः। अजनयन्। निऽस्थितम्। भूम्याम्। अधि। तम्। ऊं इति। त्वा। अङ्गिराः। इति। ब्राह्मणाः। पूर्व्याः। विदुः। ३४.६।
+त्रिः। त्वा॒। दे॒वाः। अ॒ज॒न॒य॒न्। निऽस्थि॑तम्। भूम्या॑म्। अधि॑। तम्। ऊं॒ इति॑। त्वा॒। अङ्गि॑राः। इति॑। ब्रा॒ह्म॒णाः। पू॒र्व्याः। वि॒दुः॒। ३४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -485,15 +500,17 @@ Three times the Gods engendered thee fixt on the surface of the earth; The Brahm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/07_na_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑ ।  
-विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥७॥  
+न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑।  
+विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/07_na_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑ ।  
-विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥७॥  
+न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑।  
+विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/07_na_tvA.md">
@@ -516,7 +533,7 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 </details>
 <details><summary>पदपाठः</summary>
 
-न। त्वा। पूर्वाः। ओषधयः। न। त्वा। तरन्ति। याः। नवाः। विऽबाधः। उग्रः। जङ्गिडः। परिऽपानः। सुऽमङ्गलः। ३४.७।
+न। त्वा॒। पूर्वाः॑। ओष॑धयः। न। त्वा॒। त॒र॒न्ति॒। याः। नवाः॑। विऽबा॑धः। उ॒ग्रः। ज॒ङ्गि॒डः। प॒रि॒ऽपानः॑। सु॒ऽम॒ङ्गलः॑। ३४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -547,15 +564,17 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य ।  
-पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं ददौ ॥८॥  
+अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य।  
+पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं᳡ ददौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य ।  
-पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं ददौ ॥८॥  
+अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य।  
+पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं᳡ ददौ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
@@ -592,7 +611,7 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 </details>
 <details><summary>पदपाठः</summary>
 
-अथ। उपऽदान। भगऽवः। जङ्गिड। अमितऽवीर्य। पुरा। ते। उग्राः। ग्रसते। उप। इन्द्रः। वीर्य᳡म्। ददौ। ३४.८।
+अथ॑। उ॒प॒ऽदा॒न॒। भ॒ग॒ऽवः॒। जङ्गि॑ड। अमि॑तऽवीर्य। पु॒रा। ते॒। उ॒ग्राः। ग्र॒स॒ते॒। उप॑। इन्द्रः॑। वी॒र्य᳡म्। द॒दौ॒। ३४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -619,23 +638,25 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 </details>
 </details>
 </div>
-## ०९ उग्र इत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/09_ugra_it.md">
+## ०९ उग्र इत्ते
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒ग्र इत् ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒माद॑धौ ।  
-अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥९॥  
+उ॒ग्र इत्ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒मा द॑धौ।  
+अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/09_ugra_it.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒ग्र इत् ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒माद॑धौ ।  
-अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥९॥  
+उ॒ग्र इत्ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒मा द॑धौ।  
+अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/09_ugra_it.md">
-<details open><summary><h3>०९ उग्र इत् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/09_ugra_itte.md">
+<details open><summary><h3>०९ उग्र इत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -655,7 +676,7 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 </details>
 <details><summary>पदपाठः</summary>
 
-उग्रः। इत्। ते। वनस्पते। इन्द्रः। ओज्मानम्। आ। दधौ। अमीवाः। सर्वाः। चातयन्। जहि। रक्षांसि। ओषधे। ३४.९।
+उ॒ग्रः। इत्। ते॒। व॒न॒स्प॒ते॒। इन्द्रः॑। ओ॒ज्मान॑म्। आ। द॒धौ॒। अमी॑वाः। सर्वाः॑। चा॒तय॑न्। ज॒हि। रक्षां॑सि। ओ॒ष॒धे॒। ३४.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -687,13 +708,16 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आश॑रीकं॒ विश॑रीकं ब॒लासं॑ पृष्ट्याम॒यम्।  
-त॒क्मानं॑ वि॒श्वशा॑रदमर॒सां ज॑ङ्गि॒डस्क॑रत्॥१०॥
+त॒क्मानं॑ वि॒श्वशा॑रदमर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आश॑रीकं॒ विश॑रीकं ब॒लासं॑ पृष्ट्याम॒यम्। त॒क्मानं॑ वि॒श्वशा॑रदमर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
+आश॑रीकं॒ विश॑रीकं ब॒लासं॑ पृष्ट्याम॒यम्।  
+त॒क्मानं॑ वि॒श्वशा॑रदमर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
@@ -720,7 +744,7 @@ Lumbago and rheumatic pain, consumptive cough, and pleurisy, And fever which eac
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽशरीकम्। विऽशरीकम्। बलासम्। पृष्टिऽआमयम्। तक्मानम्। विश्वऽशारदम्। अरसान्। जङ्गिडः। करत्। ३४.१०।
+आऽश॑रीकम्। विऽश॑रीकम्। ब॒लास॑म्। पृ॒ष्टि॒ऽआ॒म॒यम्। त॒क्मान॑म्। वि॒श्वऽशा॑रदम्। अ॒र॒सान्। ज॒ङ्गि॒डः। क॒र॒त्। ३४.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

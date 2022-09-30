@@ -40,14 +40,17 @@ A medical charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/01_Abayo_anAbayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो ।  
-आ ते॑ कर॒म्भम॑द्मसि ॥१॥  
+आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो।  
+आ ते॑ कर॒म्भम॑द्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/01_Abayo_anAbayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो। आ ते॑ कर॒म्भम॑द्मसि ॥
+आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो।  
+आ ते॑ कर॒म्भम॑द्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/016_axirogabhaiShajam/01_Abayo_anAbayo.md">
@@ -73,7 +76,7 @@ O Abayu, non-Abayu, dire is thy juice, O Abayu; we eat the gruel made of thee.
 </details>
 <details><summary>पदपाठः</summary>
 
-आवयो इति। अनाबयो इति। रसः। ते। उग्रः। आबयो इति। आ। ते। करम्भम्। अद्मस‍ि। १६.१।
+आव॑यो॒ इति॑। अना॑बयो॒ इति॑। रसः॑। ते॒। उ॒ग्रः। आ॒ब॒यो॒ इति॑। आ। ते॒। क॒र॒म्भम्। अ॒द्म॒स‍ि॒। १६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,13 +108,16 @@ O Abayu, non-Abayu, dire is thy juice, O Abayu; we eat the gruel made of thee.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒हह्लो॒ नाम॑ ते पि॒ता म॒दाव॑ती॒ नाम॑ ते मा॒ता।  
-स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः ॥२॥  
+स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/02_vihahlo_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒हह्लो॒ नाम॑ ते पि॒ता म॒दाव॑ती॒ नाम॑ ते मा॒ता। स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः ॥
+वि॒हह्लो॒ नाम॑ ते पि॒ता म॒दाव॑ती॒ नाम॑ ते मा॒ता।  
+स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/016_axirogabhaiShajam/02_vihahlo_nAma.md">
@@ -142,7 +148,7 @@ Vihalha is thy father's name, thy mother's is Madavati. Yea, verily thou art not
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽहह्लः। नाम। ते। पिता। मदऽवती। नाम। ते। माता। सः। हिन। त्वम्। असि। यः। त्वम्। आत्मानम्। आवयः। १६.२।
+वि॒ऽहह्लः॑। नाम॑। ते॒। पि॒ता। म॒दऽव॑ती। नाम॑। ते॒। मा॒ता। सः। हि॒न॒। त्वम्। अ॒सि॒। यः। त्वम्। आ॒त्मान॑म्। आव॑यः। १६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,13 +180,16 @@ Vihalha is thy father's name, thy mother's is Madavati. Yea, verily thou art not
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तौवि॑लि॒केऽवे॑ल॒यावा॒यमै॑ल॒ब ऐ॑लयीत्।  
-ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल ॥३॥  
+ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/03_tauvilike-velayAvAyamailaba_ailayIt.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तौवि॑लि॒केऽवे॑ल॒यावा॒यमै॑ल॒ब ऐ॑लयीत्। ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल ॥
+तौवि॑लि॒केऽवे॑ल॒यावा॒यमै॑ल॒ब ऐ॑लयीत्।  
+ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/016_axirogabhaiShajam/03_tauvilike-velayAvAyamailaba_ailayIt.md">
@@ -209,7 +218,7 @@ Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, 
 </details>
 <details><summary>पदपाठः</summary>
 
-तौविलिके। अव। ईलय। अव। अयम्। ऐलबः। ऐलयीत्। बभ्रुः। च। बभ्रुऽकर्णः। च। अप। इहि। निः। आल। १६.३।
+तौवि॑लिके। अव॑। ई॒ल॒य॒। अव॑। अ॒यम्। ऐ॒ल॒बः। ऐ॒ल॒यी॒त्। ब॒भ्रुः। च॒। ब॒भ्रुऽक॑र्णः। च॒। अप॑। इ॒हि॒। निः। आ॒ल॒। १६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -240,14 +249,17 @@ Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ल॒साला॑सि॒ पूर्व॑ सि॒लाञ्जा॑ला॒स्युत्त॑रा ।  
-नी॒ला॒ग॒ल॒साला॑ ॥४॥
+अ॑ल॒साला॑सि॒ पूर्वा॑ सि॒लाञ्जा॑ला॒स्युत्त॑रा।  
+नी॑लागल॒साला॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑ल॒साला॑सि॒ पूर्वा॑ सि॒लाञ्जा॑ला॒स्युत्त॑रा। नी॑लागल॒साला॑ ॥
+अ॑ल॒साला॑सि॒ पूर्वा॑ सि॒लाञ्जा॑ला॒स्युत्त॑रा।  
+नी॑लागल॒साला॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/016_axirogabhaiShajam/04_alasAlAsi_pUrvA.md">
@@ -274,7 +286,7 @@ nīlāgalasā́lā*. The verse is capable of being read as 8 + 7: 6.
 </details>
 <details><summary>पदपाठः</summary>
 
-अलसाला। असि। पूर्वा। सिलाञ्जाला। असि। उत्तरा। नीलागलसाला। १६.४।
+अ॒ल॒साला॑। अ॒सि॒। पूर्वा॑। सि॒लाञ्जा॑ला। अ॒सि॒। उत्त॑रा। नी॒ला॒ग॒ल॒साला॑। १६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

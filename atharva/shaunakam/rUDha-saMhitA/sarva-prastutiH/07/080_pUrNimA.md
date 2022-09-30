@@ -36,14 +36,17 @@ A hymn to the Full Moon
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्य॒तः पौ॑र्णमा॒सी जि॑गाय ।  
-तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥१॥  
+पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्यतः पौ॑र्णमा॒सी जि॑गाय।  
+तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्यतः पौ॑र्णमा॒सी जि॑गाय। तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥
+पू॒र्णा प॒श्चादु॒त पू॒र्णा पु॒रस्ता॒दुन्म॑ध्यतः पौ॑र्णमा॒सी जि॑गाय।  
+तस्यां॑ दे॒वैः सं॒वस॑न्तो महि॒त्वा नाक॑स्य पृ॒ष्ठे समि॒षा म॑देम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/01_pUrNA_pashchAduta.md">
@@ -68,7 +71,7 @@ Full in the front, full rearward, from the middle the Full Moon's Night hath con
 </details>
 <details><summary>पदपाठः</summary>
 
-पूर्णा। पश्चात्। उत। पूर्णा। पुरस्तात्। उत्। मध्यतः। पौर्णऽमासी। जिगाय। तस्याम्। देवैः। सम्ऽवसन्तः। महिऽत्वा। नाकस्य। पृष्ठे। सम्। इषा। मदेम। ८५.१।
+पू॒र्णा। प॒श्चात्। उ॒त। पू॒र्णा। पु॒रस्ता॑त्। उत्। म॒ध्य॒तः। पौ॒र्ण॒ऽमा॒सी। जि॒गा॒य॒। तस्या॑म्। दे॒वैः। स॒म्ऽवस॑न्तः। म॒हि॒ऽत्वा। नाक॑स्य। पृ॒ष्ठे। सम्। इ॒षा। म॒दे॒म॒। ८५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ Full in the front, full rearward, from the middle the Full Moon's Night hath con
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॒ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे ।  
-स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम्॥२॥  
+वृ॑ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे।  
+स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृ॑ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे। स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम् ॥
+वृ॑ष॒भं वा॒जिनं॑ व॒यं पौ॑र्णमा॒सं य॑जामहे।  
+स नो॑ ददा॒त्वक्षि॑तां र॒यिमनु॑पदस्वतीम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/02_vRShabhaM_vAjinam.md">
@@ -129,7 +135,7 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 </details>
 <details><summary>पदपाठः</summary>
 
-वृषभम्। वाजिनम्। वयम्। पौर्णऽमासम्। यजामहे। सः। नः। ददातु। अक्षिताम्। रयिम्। अनुपऽदस्वतीम्। ८५.२।
+वृ॒ष॒भम्। वा॒जिन॑म्। व॒यम्। पौ॒र्ण॒ऽमा॒सम्। य॒जा॒म॒हे॒। सः। नः॒। द॒दा॒तु॒। अक्षि॑ताम्। र॒यिम्। अनु॑पऽदस्वतीम्। ८५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/03_prajApate_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान ।  
-यत् का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम्॥३॥  
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/03_prajApate_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान। यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+प्रजा॑पते॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/03_prajApate_na.md">
@@ -205,7 +214,7 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपते। न। त्वत्। एतानि। अन्यः। विश्वा। रूपाणि। परिऽभूः। जजान। यत्ऽकामाः। ते। जुहुमः। तत्। नः। अस्तु। वयम्। स्याम। पतयः। रयीणाम्। ८५.३।
+प्रजा॑ऽपते। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -236,14 +245,17 @@ No one but thou, Prajapati, none beside thee, pervading, gave to all these forms
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पौ॒र्ण॒मा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑ ।  
-ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥४॥
+पौ॑र्णमा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑।  
+ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते॒ नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पौ॑र्णमा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑। ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते॒ नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥
+पौ॑र्णमा॒सी प्र॑थ॒मा य॒ज्ञिया॑सी॒दह्नां॒ रात्री॑णामतिशर्व॒रेषु॑।  
+ये त्वां य॒ज्ञैर्य॑ज्ञिये अ॒र्धय॑न्त्य॒मी ते॒ नाके॑ सु॒कृतः॒ प्रवि॑ष्टाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/080_pUrNimA/04_paurNamAsI_prathamA.md">
@@ -273,7 +285,7 @@ First was the Full Moon meet for adoration among the days and in the nights' dee
 </details>
 <details><summary>पदपाठः</summary>
 
-पौर्णऽमासी। प्रथमा। यज्ञिया। आसीत्। अह्नाम्। रात्रीणाम्। अतिऽशर्वरेषु। ये। त्वाम्। यज्ञैः। यज्ञिये। अर्धयन्ति। अमी इति। ते। नाके। सुऽकृतः। प्रऽविष्टाः। ८५.४।
+पौ॒र्ण॒ऽमा॒सी। प्र॒थ॒मा। य॒ज्ञिया॑। आ॒सी॒त्। अह्ना॑म्। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रेषु॑। ये। त्वाम्। य॒ज्ञैः। य॒ज्ञि॒ये॒। अ॒र्धय॑न्ति। अ॒मी इति॑। ते। नाके॑। सु॒ऽकृतः॑। प्रऽवि॑ष्टाः। ८५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

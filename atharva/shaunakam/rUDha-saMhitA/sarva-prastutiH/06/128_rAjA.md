@@ -32,14 +32,17 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒क॒धूमं॒ नक्ष॑त्राणि॒ यद् राजा॑न॒मकु॑र्वत ।  
-भ॒द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥१॥  
+श॑क॒धूमं॒ नक्ष॑त्राणि॒ यद्राजा॑न॒मकु॑र्वत।  
+भ॑द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॑क॒धूमं॒ नक्ष॑त्राणि॒ यद्राजा॑न॒मकु॑र्वत। भ॑द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥
+श॑क॒धूमं॒ नक्ष॑त्राणि॒ यद्राजा॑न॒मकु॑र्वत।  
+भ॑द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
@@ -76,7 +79,7 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 </details>
 <details><summary>पदपाठः</summary>
 
-शकऽधूमम्। नक्षत्राणि। यत्। राजानम्। अकुर्वत। भद्रऽअहम्। अस्मै। प्र। अयच्छन्। इदम्। राष्ट्रम्। असात्। इति। १२८.१।
+श॒क॒ऽधूम॑म्। नक्ष॑त्राणि। यत्। राजा॑नम्। अकु॑र्वत। भ॒द्र॒ऽअ॒हम्। अ॒स्मै॒। प्र। अ॒य॒च्छ॒न्। इ॒दम्। रा॒ष्ट्रम्। असा॑त्। इति॑। १२८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +110,17 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रा॒हं नो॑ म॒ध्यंदि॑ने भद्रा॒हं सा॒यम॑स्तु नः ।  
-भ॒द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥२॥  
+भ॑द्रा॒हं नो॑ म॒ध्यन्दि॑ने भद्रा॒हं सा॒यम॑स्तु नः।  
+भ॑द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/02_bhadrAhaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भ॑द्रा॒हं नो॑ म॒ध्यन्दि॑ने भद्रा॒हं सा॒यम॑स्तु नः। भ॑द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥
+भ॑द्रा॒हं नो॑ म॒ध्यन्दि॑ने भद्रा॒हं सा॒यम॑स्तु नः।  
+भ॑द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/02_bhadrAhaM_no.md">
@@ -138,7 +144,7 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 </details>
 <details><summary>पदपाठः</summary>
 
-भद्रऽअहम्। नः। मध्यंदिने। भद्रऽअहम्। सायम्। अस्तु। नः। भद्रऽअहम्। नः। अह्नाम्। प्रातः। रात्री भद्रऽअहम्। अस्तु। नः। १२८.२।
+भ॒द्र॒ऽअ॒हम्। नः॒। म॒ध्यंदि॑ने। भ॒द्र॒ऽअ॒हम्। सा॒यम्। अ॒स्तु॒। नः॒। भ॒द्र॒ऽअ॒हम्। नः॒। अह्ना॑म्। प्रा॒तः। रात्री॑ भ॒द्र॒ऽअ॒हम्। अ॒स्तु॒। नः॒। १२८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,14 +175,17 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हो॒रा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्।  
-भ॒द्रा॒हम॒स्मभ्यं॑ राज॒न्छक॑धूम॒ त्वं कृ॑धि ॥३॥  
+अ॑होरा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्।  
+भ॑द्रा॒हम॒स्मभ्यं॑ राज॒ञ्छक॑धूम॒ त्वं कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑होरा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्। भ॑द्रा॒हम॒स्मभ्यं॑ राज॒ञ्छक॑धूम॒ त्वं कृ॑धि ॥
+अ॑होरा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्।  
+भ॑द्रा॒हम॒स्मभ्यं॑ राज॒ञ्छक॑धूम॒ त्वं कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
@@ -199,7 +208,7 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 </details>
 <details><summary>पदपाठः</summary>
 
-अहोरात्राभ्याम्। नक्षत्रेभ्यः। सूर्याचन्द्रमसाभ्याम्। भद्रऽअहम्। अस्मभ्यम्। राजन्। शकऽधूम। त्वम्। कृधि। १२८.३।
+अ॒हो॒रा॒त्राभ्या॑म्। नक्ष॑त्रेभ्यः। सू॒र्या॒च॒न्द्र॒मसा॑भ्याम्। भ॒द्र॒ऽअ॒हम्। अ॒स्मभ्य॑म्। रा॒ज॒न्। शक॑ऽधूम। त्वम्। कृ॒धि॒। १२८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -230,14 +239,17 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/04_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॒मथो॒ दिवा॑ ।  
-तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥४॥
+यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॑मथो॒ दिवा॑।  
+तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/04_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॑मथो॒ दिवा॑। तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
+यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॑मथो॒ दिवा॑।  
+तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/04_yo_no.md">
@@ -267,7 +279,7 @@ Be worship ever paid to thee, O Weather Prophet, King of Star s, Who gavest us o
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। भद्रऽअहम्। अकरः। सायम्। नक्तम्। अथो इति। दिवा। तस्मै। ते। नक्षत्रऽराज। शकऽधूम। सदा। नमः। १२८.४।
+यः। नः॒। भ॒द्र॒ऽअ॒हम्। अक॑रः। सा॒यम्। नक्त॑म्। अथो॒ इति॑। दिवा॑। तस्मै॑। ते॒। न॒क्ष॒त्र॒ऽरा॒ज॒। शक॑ऽधूम। सदा॑। नमः॑। १२८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

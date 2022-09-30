@@ -32,14 +32,17 @@ Translated: by the RV. translators; and Griffith, 1.315—See also Bergaigne-Hen
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/01_upa_shvAsaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं जग॑त्।  
-स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद् दवी॑यो॒ अप॑ सेध॒ शत्रू॑न्॥१॥  
+उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं॒ जग॑त्।  
+स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/01_upa_shvAsaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं॒ जग॑त्। स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
+उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं॒ जग॑त्।  
+स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/01_upa_shvAsaya.md">
@@ -64,7 +67,7 @@ Send forth thy voice aloud through earth and heaven, and let the world in all it
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। श्वासय। पृथिवीम्। उत। द्याम्। पुरुऽत्रा। ते। वन्वताम्। विऽस्थितम्। जगत्। सः। दुन्दुभे। सऽजूः। इन्द्रेण। देवैः। दूरात्। दवीयः। अप। सेध। शत्रून्। १२६.१।
+उप॑। श्वा॒स॒य॒। पृ॒थि॒वीम्। उ॒त। द्याम्। पु॒रु॒ऽत्रा। ते॒। व॒न्व॒ता॒म्। विऽस्थि॑तम्। जग॑त्। सः। दु॒न्दु॒भे॒। स॒ऽजूः। इन्द्रे॑ण। दे॒वैः। दू॒रात्। दवी॑यः। अप॑। से॒ध॒। शत्रू॑न्। १२६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Send forth thy voice aloud through earth and heaven, and let the world in all it
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/02_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्ट॑न दुरि॒ता बाध॑मानः ।  
-अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥२॥  
+आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्टन दुरि॒ता बाध॑मानः।  
+अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/02_A_krandaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्टन दुरि॒ता बाध॑मानः। अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥
+आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्टन दुरि॒ता बाध॑मानः।  
+अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/02_A_krandaya.md">
@@ -125,7 +131,7 @@ Thunder out strength and fill us full of vigour, yea, thunder forth and drive aw
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। क्रन्दय। बलम्। ओजः। नः। आ। धाः। अभि। स्तन। दुःऽइता। बाधमानः। अप। सेध। दुन्दुभे। दुच्छुनाम्। इतः। इन्द्रस्य। मुष्टिः। असि। वीडयस्व। १२६.२।
+आ। क्र॒न्द॒य॒। बल॑म्। ओजः॑। नः॒। आ। धाः॒। अ॒भि। स्त॒न॒। दुः॒ऽइ॒ता। बाध॑मानः। अप॑। से॒ध॒। दु॒न्दु॒भे॒। दु॒च्छुना॑म्। इ॒तः। इन्द्र॑स्य। मु॒ष्टिः। अ॒सि॒। वी॒डय॑स्व। १२६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,22 +158,25 @@ Thunder out strength and fill us full of vigour, yea, thunder forth and drive aw
 </details>
 </details>
 </div>
-## ०३ प्रामूं जयाभी३मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/03_prAmUM_jayAbhI3me.md">
+## ०३ प्रामूं जयाभीमे
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रामूं ज॑या॒भी॒३मे ज॑यन्तु केतु॒मद् दु॑न्दुभिर्वा॑वदीतु ।  
-समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥३॥
+प्रामूं ज॑या॒भी॒३॒॑मे ज॑यन्तु केतु॒मद्दु॑न्दु॒भिर्वा॑वदीतु।  
+समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/03_prAmUM_jayAbhI3me.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रामूं ज॑या॒भी॒३॒॑मे ज॑यन्तु केतु॒मद्दु॑न्दु॒भिर्वा॑वदीतु। समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥
+प्रामूं ज॑या॒भी॒३॒॑मे ज॑यन्तु केतु॒मद्दु॑न्दु॒भिर्वा॑वदीतु।  
+समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/03_prAmUM_jayAbhI3me.md">
-<details open><summary><h3>०३ प्रामूं जयाभी३मे ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
+<details open><summary><h3>०३ प्रामूं जयाभीमे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -189,7 +198,7 @@ Conquer those yonder and let these be victors. Let the Drum speak aloud as battl
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। अमूम्। जय। अभि। इमे। जयन्तु। केतुऽमत्। दुन्दुभिः। वावदीतु। सम्। अश्वऽपर्णाः। पतन्तु। नः। नरः। अस्माकम्। इन्द्र। रथिनः। जयन्तु। १२६.३।
+प्र। अ॒मूम्। ज॒य॒। अ॒भि। इ॒मे। ज॒य॒न्तु॒। के॒तु॒ऽमत्। दु॒न्दु॒भिः। वा॒व॒दी॒तु॒। सम्। अश्व॑ऽपर्णाः। प॒त॒न्तु॒। नः॒। नरः॑। अ॒स्माक॑म्। इ॒न्द्र॒। र॒थिनः॑। ज॒य॒न्तु॒। १२६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

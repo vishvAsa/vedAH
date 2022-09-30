@@ -36,14 +36,17 @@ A benediction on a newly elected King
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं तद् यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये ।  
-अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म्॥१॥  
+इ॒दं तद्यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये।  
+अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं तद्यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये। अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म् ॥
+इ॒दं तद्यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये।  
+अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/01_idaM_tadyuja.md">
@@ -80,7 +83,7 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। तत्। युजे। उत्ऽतरम्। इन्द्रम्। शुम्भामि। अष्टये। अस्य। क्षत्रम्। श्रियम्। महीम्। वृष्टिःऽइव। वर्धय। तृणम्। ५४.१।
+इ॒दम्। तत्। यु॒जे। उत्ऽत॑रम्। इन्द्र॑म्। शु॒म्भा॒मि॒। अष्ट॑ये। अ॒स्य। क्ष॒त्रम्। श्रिय॑म्। म॒हीम्। वृ॒ष्टिःऽइ॑व। व॒र्ध॒य॒। तृण॑म्। ५४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -112,13 +115,16 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्।  
-इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम्॥२॥  
+इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्। इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम् ॥
+अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्।  
+इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
@@ -143,7 +149,7 @@ Confirm the princely power in him, Agni and Soma! grant him wealth. In all the c
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्मै। क्षत्रम्। अग्नीषोमौ। अस्मै। धारयतम्। रयिम्। इमम्। राष्ट्रस्य। अभिऽवर्गे। कृणुतम्। युजे। उत्ऽतरम्। ५४.२।
+अ॒स्मै। क्ष॒त्रम्। अ॒ग्नी॒षो॒मौ॒। अ॒स्मै। धा॒र॒य॒त॒म्। र॒यिम्। इ॒मम्। रा॒ष्ट्रस्य॑। अ॒भि॒ऽव॒र्गे। कृ॒णु॒तम्। यु॒जे। उत्ऽत॑रम्। ५४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,14 +180,17 @@ Confirm the princely power in him, Agni and Soma! grant him wealth. In all the c
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्मां अ॑भि॒दास॑ति ।  
-सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते॥३॥
+सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
+सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति। सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
+सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
+सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
@@ -204,7 +213,7 @@ The man who shows us enmity, whether a stranger or akin, Thou wilt give up entir
 </details>
 <details><summary>पदपाठः</summary>
 
-सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ५४.३।
+सऽब॑न्धुः। च॒। अस॑बन्धुः। च॒। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। सर्व॑म्। तम्। र॒न्ध॒या॒सि॒। मे॒। यज॑मानाय। सु॒न्वते॒। ५४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

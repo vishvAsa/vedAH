@@ -38,13 +38,16 @@ A priest's prayer for power and glory
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यशो॑ ह॒विर्व॑र्धता॒मिन्द्र॑जूतं स॒हस्र॑वीर्यं॒ सुभृ॑तं॒ सह॑स्कृतम्।  
-प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये ॥१॥  
+प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यशो॑ ह॒विर्व॑र्धता॒मिन्द्र॑जूतं स॒हस्र॑वीर्यं॒ सुभृ॑तं॒ सह॑स्कृतम्। प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये ॥
+यशो॑ ह॒विर्व॑र्धता॒मिन्द्र॑जूतं स॒हस्र॑वीर्यं॒ सुभृ॑तं॒ सह॑स्कृतम्।  
+प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
@@ -78,7 +81,7 @@ Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a 
 </details>
 <details><summary>पदपाठः</summary>
 
-यशः। हविः। वर्धताम्। इन्द्रऽजूतम्। सहस्रऽवीर्यम्। सुऽभृतम्। सहःऽकृतम्। प्रऽसर्स्राणम्। अनु। दीर्घाय। चक्षसे। हविष्मन्तम्। मा। वर्धय। ज्येष्ठऽतातये। ३९.१।
+यशः॑। ह॒विः। व॒र्ध॒ता॒म्। इन्द्र॑ऽजूतम्। स॒हस्र॑ऽवीर्यम्। सुऽभृ॑तम्। सहः॑ऽकृतम्। प्र॒ऽसर्स्रा॑णम्। अनु॑। दी॒र्घाय॑। चक्ष॑से। ह॒विष्म॑न्तम्। मा॒। व॒र्ध॒य॒। ज्ये॒ष्ठऽता॑तये। ३९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,14 +112,17 @@ Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/02_achChA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम ।  
-स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥२॥  
+अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम।  
+स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/02_achChA_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम। स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥
+अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम।  
+स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/02_achChA_na.md">
@@ -140,7 +146,7 @@ We will pay sacrifice and serve with worship our glorious Indra, famous for his 
 </details>
 <details><summary>पदपाठः</summary>
 
-अच्छ। नः। इन्द्रम्। यशसम्। यशःऽभिः। यशस्विनम्। नमसानाः। विधेम। सः। नः। रास्व। राष्ट्रम्। इन्द्रऽजूतम्। तस्य। ते। रातौ। यशसः। स्याम। ३९.२।
+अच्छ॑। नः॒। इन्द्र॑म्। य॒शस॑म्। यशः॑ऽभिः। य॒श॒स्विन॑म्। न॒म॒सा॒नाः। वि॒धे॒म॒। सः। नः॒। रा॒स्व॒। रा॒ष्ट्रम्। इन्द्र॑ऽजूतम्। तस्य॑। ते॒। रा॒तौ। य॒शसः॑। स्या॒म॒। ३९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,14 +177,17 @@ We will pay sacrifice and serve with worship our glorious Indra, famous for his 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत ।  
-य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥३॥
+य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
+य॒शा विश्व॑स्य भू॒त्स्या॒हम॑स्मि य॒शस्त॑मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/03_yashA_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत। य॒शा विश्व॑स्य भू॒त्स्या॒हम॑स्मि य॒शस्त॑मः ॥
+य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
+य॒शा विश्व॑स्य भू॒त्स्या॒हम॑स्मि य॒शस्त॑मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/03_yashA_indro.md">
@@ -199,7 +208,7 @@ Indra was glorious at his birth; Agni, Soma were born renowned. And glorious am 
 </details>
 <details><summary>पदपाठः</summary>
 
-यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ३९.३।
+य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ३९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

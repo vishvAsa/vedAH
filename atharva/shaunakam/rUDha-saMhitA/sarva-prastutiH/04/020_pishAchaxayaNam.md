@@ -36,14 +36,17 @@ A charm for the acquisition of superhuman powers of sight
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति ।  
-दिव॑म॒न्तरि॑क्ष॒माद् भूमिं॒ सर्वं॒ तद् दे॑वि पश्यति ॥१॥  
+आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति।  
+दिव॑म॒न्तरि॑क्ष॒माद्भूमिं॒ सर्वं॒ तद्दे॑वि पश्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति। दिव॑म॒न्तरि॑क्ष॒माद्भूमिं॒ सर्वं॒ तद्दे॑वि पश्यति ॥
+आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति।  
+दिव॑म॒न्तरि॑क्ष॒माद्भूमिं॒ सर्वं॒ तद्दे॑वि पश्यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/01_A_pashyati.md">
@@ -70,7 +73,7 @@ It sees in front, it sees behind, it sees afar away, it sees The sky, the firmam
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। पश्यति। प्रति। पश्यति। परा। पश्यति। पश्यति। दिवम्। अन्तरिक्षम्। आत्। भूमिम्। सर्वम्। तत्। देवि। पश्यति। २०.१।
+आ। प॒श्य॒ति॒। प्रति॑। प॒श्य॒ति॒। परा॑। प॒श्य॒ति॒। पश्य॑ति। दिव॑म्। अ॒न्तरि॑क्षम्। आत्। भूमि॑म्। सर्व॑म्। तत्। दे॒वि॒। प॒श्य॒ति॒। २०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ It sees in front, it sees behind, it sees afar away, it sees The sky, the firmam
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट् चे॒माः प्र॒दिशः॒ पृथ॑क्।  
-त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥२॥  
+ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट्चे॒माः प्र॒दिशः॒ पृथ॑क्।  
+त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट्चे॒माः प्र॒दिशः॒ पृथ॑क्। त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥
+ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट्चे॒माः प्र॒दिशः॒ पृथ॑क्।  
+त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
@@ -132,7 +138,7 @@ Through thee, O godlike Plant, may I behold all creatures that exist, Three seve
 </details>
 <details><summary>पदपाठः</summary>
 
-तिस्रः। दिवः। तिस्रः। पृथिवी। षट्। च। इमाः। प्रऽदिशः। पृथक्। त्वया। अहम्। सर्वा। भूतानि। पश्यानि। देवि। ओषधे। २०.२।
+ति॒स्रः। दिवः॑। ति॒स्रः। पृ॒थि॒वी। षट्। च॒। इ॒माः। प्र॒ऽदिशः॑। पृथ॑क्। त्वया॑। अ॒हम्। सर्वा॑। भू॒तानि॑। पश्या॑नि। दे॒वि॒। ओ॒ष॒धे॒। २०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Through thee, O godlike Plant, may I behold all creatures that exist, Three seve
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का ।  
-सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥३॥  
+दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का।  
+सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का। सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥
+दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का।  
+सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
@@ -192,7 +201,7 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 </details>
 <details><summary>पदपाठः</summary>
 
-दिव्यस्य। सुऽपर्णस्य। तस्य। ह। असि। कनीनिका। सा। भूमिम्। आ। रुरोहिथ। वह्यम्। श्रान्ता। वधूःऽइव। २०.३।
+दि॒व्यस्य॑। सु॒ऽप॒र्णस्य॑। तस्य॑। ह॒। अ॒सि॒। क॒नीनि॑का। सा। भूमि॑म्। आ। रु॒रो॒हि॒थ॒। व॒ह्यम्। श्रा॒न्ता। व॒धूःऽइ॑व। २०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,13 +233,16 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां मे॑ सहस्रा॒क्षो दे॒वो दक्षि॑णे॒ हस्त॒ आ द॑धत्।  
-तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥४॥  
+तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/04_tAM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तां मे॑ सहस्रा॒क्षो दे॒वो दक्षि॑णे॒ हस्त॒ आ द॑धत्। तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥
+तां मे॑ सहस्रा॒क्षो दे॒वो दक्षि॑णे॒ हस्त॒ आ द॑धत्।  
+तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/04_tAM_me.md">
@@ -253,7 +265,7 @@ The God who hath a thousand eyes give me this Plant in my right hand! I look on 
 </details>
 <details><summary>पदपाठः</summary>
 
-ताम्। मे। सहस्रऽअक्षः। देवः। दक्षिणे। हस्ते। आ। दधत्। तया। अहम्। सर्वम्। पश्यामि। यः। च। शूद्रः। उत। आर्यः। २०.४।
+ताम्। मे॒। स॒ह॒स्र॒ऽअ॒क्षः। दे॒वः। दक्षि॑णे। हस्ते॑। आ। द॒ध॒त्। तया॑। अ॒हम्। सर्व॑म्। प॒श्या॒मि॒। यः। च॒। शू॒द्रः। उ॒त। आर्यः॑। २०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -284,14 +296,17 @@ The God who hath a thousand eyes give me this Plant in my right hand! I look on 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒विष्कृ॑णुष्व रू॒पाणि॒ मात्मान॒मप॑ गूहथाः ।  
-अथो॑ सहस्रचक्षो॒ त्वं प्रति॑ पश्याः किमी॒दिनः॑ ॥५॥  
+आ॒विष्कृ॑णुष्व रू॒पाणि॒ मात्मान॒मप॑ गूहथाः।  
+अथो॑ सहस्रचक्षो॒ त्वं प्रति॑ पश्याः किमी॒दिनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒विष्कृ॑णुष्व रू॒पाणि॒ मात्मान॒मप॑ गूहथाः। अथो॑ सहस्रचक्षो॒ त्वं प्रति॑ पश्याः किमी॒दिनः॑ ॥
+आ॒विष्कृ॑णुष्व रू॒पाणि॒ मात्मान॒मप॑ गूहथाः।  
+अथो॑ सहस्रचक्षो॒ त्वं प्रति॑ पश्याः किमी॒दिनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
@@ -314,7 +329,7 @@ Make manifest the forms of things; hide not their essences from sight. And, thou
 </details>
 <details><summary>पदपाठः</summary>
 
-आविः। कृणुष्व। रूपाणि। मा। आत्मानम्। अप। गूहथाः। अथो इति। सहस्रचक्षो इति  सहस्रऽचक्षो। त्वम्। प्रति। पश्याः। किमीदिनः। २०.५।
+आ॒विः। कृ॒णु॒ष्व॒। रू॒पाणि॑। मा। आ॒त्मान॑म्। अप॑। गू॒ह॒थाः॒। अथो॒ इति॑। स॒ह॒स्र॒च॒क्षो॒ इति॑ सहस्रऽचक्षो। त्वम्। प्रति॑। प॒श्याः॒। कि॒मी॒दिनः॑। २०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -345,14 +360,17 @@ Make manifest the forms of things; hide not their essences from sight. And, thou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒र्शय॑ मा यातु॒धाना॑न् द॒र्शय॑ यातुधा॒न्यः ।  
-पि॒शा॒चान्त्सर्वा॑न् दर्श॒येति॒ त्वा र॑भ ओषधे ॥६॥  
+द॒र्शय॑ मा यातु॒धाना॑न्द॒र्शय॑ यातुधा॒न्यः॑।  
+पि॑शा॒चान्त्सर्वा॑न्दर्श॒येति॒ त्वा र॑भ ओषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द॒र्शय॑ मा यातु॒धाना॑न्द॒र्शय॑ यातुधा॒न्यः॑। पि॑शा॒चान्त्सर्वा॑न्दर्श॒येति॒ त्वा र॑भ ओषधे ॥
+द॒र्शय॑ मा यातु॒धाना॑न्द॒र्शय॑ यातुधा॒न्यः॑।  
+पि॑शा॒चान्त्सर्वा॑न्दर्श॒येति॒ त्वा र॑भ ओषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
@@ -373,7 +391,7 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 </details>
 <details><summary>पदपाठः</summary>
 
-दर्शय। मा। यातुऽधानान्। दर्शय। यातुऽधान्यः᳡। पिशाचान्। सर्वान्। दर्शय। इति। त्वा। आ। रभे। ओषधे। २०.६।
+द॒र्शय॑। मा॒। या॒तु॒ऽधाना॑न्। द॒र्शय॑। या॒तु॒ऽधा॒न्यः᳡। पि॒शा॒चान्। सर्वा॑न्। द॒र्श॒य॒। इति॑। त्वा॒। आ। र॒भे॒। ओ॒ष॒धे॒। २०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -404,14 +422,17 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒श्यप॑स्य॒ चक्षु॑रसि शु॒न्याश्च॑ चतुर॒क्ष्याः ।  
-वी॒ध्रे सूर्य॑मिव॒ सर्प॑न्तं॒ मा पि॑शा॒चं ति॒र॒स्क॑रः ॥७॥  
+क॒श्यप॑स्य॒ चक्षु॑रसि शु॒न्याश्च॑ चतुर॒क्ष्याः।  
+वी॒ध्रे सूर्य॑मिव॒ सर्प॑न्तं॒ मा पि॑शा॒चं ति॒रस्क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क॒श्यप॑स्य॒ चक्षु॑रसि शु॒न्याश्च॑ चतुर॒क्ष्याः। वी॒ध्रे सूर्य॑मिव॒ सर्प॑न्तं॒ मा पि॑शा॒चं ति॒रस्क॑रः ॥
+क॒श्यप॑स्य॒ चक्षु॑रसि शु॒न्याश्च॑ चतुर॒क्ष्याः।  
+वी॒ध्रे सूर्य॑मिव॒ सर्प॑न्तं॒ मा पि॑शा॒चं ति॒रस्क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
@@ -446,7 +467,7 @@ Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisa
 </details>
 <details><summary>पदपाठः</summary>
 
-कश्यपस्य। चक्षुः। असि। शुन्याः। च। चतुःऽअक्ष्याः। वीध्रे। सूर्यम्ऽइव। सर्पन्तम्। मा। पिशाचम्। तिरः। करः। २०.७।
+क॒श्यप॑स्य। चक्षुः॑। अ॒सि॒। शु॒न्याः। च॒। च॒तुः॒ऽअ॒क्ष्याः। वी॒ध्रे। सूर्य॑म्ऽइव। सर्प॑न्तम्। मा। पि॒शा॒चम्। ति॒रः। क॒रः॒। २०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -477,14 +498,17 @@ Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑ग्रभं परि॒पाणा॑द् यातु॒धानं॑ किमी॒दिन॑म्।  
-तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म्॥८॥  
+उद॑ग्रभं परि॒पाणा॑द्यातु॒धानं॑ किमी॒दिन॑म्।  
+तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॑ग्रभं परि॒पाणा॑द्यातु॒धानं॑ किमी॒दिन॑म्। तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म् ॥
+उद॑ग्रभं परि॒पाणा॑द्यातु॒धानं॑ किमी॒दिन॑म्।  
+तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
@@ -507,7 +531,7 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। अग्रभम्। परिऽपानात्। यातुऽधानम्। किमीदिनम्। तेन। अहम्। सर्वम्। पश्यामि। उत। शूद्रम्। उत। आर्यम्। २०.८।
+उत्। अ॒ग्र॒भ॒म्। प॒रि॒ऽपाना॑त्। या॒तु॒ऽधान॑म्। कि॒मी॒दिन॑म्। तेन॑। अ॒हम्। सर्व॑म्। प॒श्या॒मि॒। उ॒त। शू॒द्रम्। उ॒त। आर्य॑म्। २०.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -538,14 +562,17 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति ।  
-भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं॑ प्र द॑र्शय ॥९॥
+यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति।  
+भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं प्र द॑र्शय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति। भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं प्र द॑र्शय ॥
+यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति।  
+भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं प्र द॑र्शय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
@@ -575,7 +602,7 @@ Make that Pisacha visible, the fiend who flies in middle air, The fiend who glid
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अन्तरिक्षेण। पतति। दिवम्। यः। च। अतिऽसर्पति। भूमिम्। यः। मन्यते। नाथम्। तम्। पिशाचम्। प्र। दर्शय। २०.९।
+यः। अ॒न्तरि॑क्षेण। पत॑ति। दिव॑म्। यः। च॒। अ॒ति॒ऽसर्प॑ति। भूमि॑म्। यः। मन्य॑ते। ना॒थम्। तम्। पि॒शा॒चम्। प्र। द॒र्श॒य॒। २०.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

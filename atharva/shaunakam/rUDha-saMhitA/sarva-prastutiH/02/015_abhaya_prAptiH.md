@@ -32,13 +32,17 @@ Translated: Weber, xiii. 179; Griffith, i. 59.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ द्यौश्च॑ पृथि॒वी च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥१॥  
+यथा॒ द्यौश्च॑ पृथि॒वी च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ द्यौश्च॑ पृथि॒वी च॒ न बि॑भी॒तो न रिष्य॑तः। ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+यथा॒ द्यौश्च॑ पृथि॒वी च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
@@ -59,7 +63,7 @@ riṣaḥ.*⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। द्यौः। च। पृथिवी। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.१।
+यथा॑। द्यौः। च॒। पृ॒थि॒वी। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भेः॒। १५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -90,13 +94,17 @@ riṣaḥ.*⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥२॥  
+यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः। ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
@@ -116,7 +124,7 @@ sentences, correspondent but with elements in part different.
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। अहः। च। रात्री। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.२।
+यथा॑। अहः॑। च॒। रात्री॑। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भेः॒। १५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -147,13 +155,17 @@ sentences, correspondent but with elements in part different.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सूर्य॑श्च च॒न्द्रश्च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥३॥  
+यथा॒ सूर्य॑श्च च॒न्द्रश्च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ सूर्य॑श्च च॒न्द्रश्च॒ न बि॑भी॒तो न रिष्य॑तः। ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+यथा॒ सूर्य॑श्च च॒न्द्रश्च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
@@ -171,7 +183,7 @@ sentences, correspondent but with elements in part different.
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। सूर्यः। च। चन्द्रः। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.३।
+यथा॑। सूर्यः॑। च॒। च॒न्द्रः। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भेः॒। १५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -202,13 +214,17 @@ sentences, correspondent but with elements in part different.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ ब्रह्म॑ च क्ष॒त्रं च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥४॥  
+यथा॒ ब्रह्म॑ च क्ष॒त्रं च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ ब्रह्म॑ च क्ष॒त्रं च॒ न बि॑भी॒तो न रिष्य॑तः। ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+यथा॒ ब्रह्म॑ च क्ष॒त्रं च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
@@ -230,7 +246,7 @@ translated.
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। ब्रह्म। च। क्षत्रम्। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.४।
+यथा॑। ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भेः॒। १५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -261,13 +277,17 @@ translated.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ स॒त्यं चानृ॑तं च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥५॥  
+यथा॑ स॒त्यं चानृ॑तं च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ स॒त्यं चानृ॑तं च॒ न बि॑भी॒तो न रिष्य॑तः। ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+यथा॑ स॒त्यं चानृ॑तं च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
@@ -285,7 +305,7 @@ translated.
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। सत्यम्। च। अनृतम्। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.५।
+यथा॑। स॒त्यम्। च॒। अनृ॑तम्। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भेः॒। १५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -316,13 +336,17 @@ translated.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ भू॒तं च॒ भव्यं॑ च॒ न बि॑भी॒तो न रिष्य॑तः । ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥६॥
+यथा॑ भू॒तं च॒ भव्यं॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ भू॒तं च॒ भव्यं॑ च॒ न बि॑भी॒तो न रिष्य॑तः। ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+यथा॑ भू॒तं च॒ भव्यं॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
+ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
@@ -345,7 +369,7 @@ is "untruth" (vs. 5) to be commended as an example. ⌊Weber would read
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। भूतम्। च। भव्यम्। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.६।
+यथा॑। भू॒तम्। च॒। भव्य॑म्। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भेः॒। १५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

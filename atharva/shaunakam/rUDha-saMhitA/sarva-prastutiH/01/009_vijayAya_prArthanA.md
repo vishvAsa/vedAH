@@ -36,14 +36,17 @@ Benediction on a King at his inauguration
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मिन् वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः ।  
-इ॒ममा॑दि॒त्या उ॒त॒ विश्वे॑ च दे॒वा उत्त॑रस्मि॒न् ज्योति॑षि धारयन्तु ॥१॥  
+अ॒स्मिन्वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः।  
+इ॒ममा॑दि॒त्या उ॒त विश्वे॑ च दे॒वा उत्त॑रस्मि॒ञ्ज्योति॑षि धारयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्मिन्वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः। इ॒ममा॑दि॒त्या उ॒त विश्वे॑ च दे॒वा उत्त॑रस्मि॒ञ्ज्योति॑षि धारयन्तु ॥
+अ॒स्मिन्वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः।  
+इ॒ममा॑दि॒त्या उ॒त विश्वे॑ च दे॒वा उत्त॑रस्मि॒ञ्ज्योति॑षि धारयन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
@@ -66,7 +69,7 @@ May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in ri
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्मिन्। वसु। वसवः। धारयन्तु। इन्द्रः। पूषा। वरुणः। मित्रः। अग्निः। इमम् ‍। आदित्याः। उत। विश्वे। च। देवाः। उत्ऽतरस्मिन्। ज्योतिषि। धारयन्तु।
+अ॒स्मिन्। वसु॑। वस॑वः। धा॒र॒य॒न्तु॒। इन्द्रः॑। पू॒षा। वरु॑णः। मि॒त्रः। अ॒ग्निः। इ॒मम् ‍। आ॒दि॒त्याः। उ॒त। विश्वे॑। च॒। दे॒वाः। उत्ऽत॑रस्मिन्। ज्योति॑षि। धा॒र॒य॒न्तु॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in ri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्य दे॑वाः प्र॒दिशि॒ ज्यो॑तिरस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्।  
-स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम्॥२॥  
+अ॒स्य दे॑वाः प्र॒दिशि॒ ज्योति॑रस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्।  
+स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्य दे॑वाः प्र॒दिशि॒ ज्योति॑रस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्। स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+अ॒स्य दे॑वाः प्र॒दिशि॒ ज्योति॑रस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्।  
+स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
@@ -130,7 +136,7 @@ May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्य। देवाः। प्रऽदिशि। ज्योतिः। अस्तु। सूर्यः। अग्निः। उत। वा। हिरण्यम्। सऽपत्नाः। अस्मत्। अधरे। भवन्तु। उत्‍ऽतमम्। नाकम्। अधि। रोहय। इमम्।
+अ॒स्य। दे॒वाः॒। प्रऽदिशि॑। ज्योतिः॑। अ॒स्तु॒। सूर्यः॑। अ॒ग्निः। उ॒त। वा॒। हिर॑ण्यम्। स॒ऽपत्नाः॑। अ॒स्मत्। अध॑रे। भ॒व॒न्तु॒। उ॒त्‍ऽत॒मम्। नाक॑म्। अधि॑। रो॒ह॒य॒। इ॒मम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः ।  
-तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम्॥३॥  
+येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः।  
+तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः। तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम् ॥
+येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः।  
+तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
@@ -195,7 +204,7 @@ Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। इन्द्राय। सम्‍ऽअभरः। पयांसि। उत्‍तमेन। ब्रह्मणा। जातऽवेदः। तेन। त्वम्‍। अग्ने। इह। वर्धय। इमम्‍। सऽजातानाम्‍। श्रैष्‍ठ्ये। आ। धेहि। एनम्‍।
+येन॑। इन्द्रा॑य। स॒म्‍ऽअभ॑रः। पयां॑सि। उ॒त्‍त॒मेन॑। ब्रह्म॑णा। जा॒त॒ऽवे॒दः॒। तेन॑। त्वम्‍। अ॒ग्ने॒। इ॒ह। व॒र्ध॒य॒। इ॒मम्‍। स॒ऽजा॒ताना॑म्‍। श्रैष्‍ठ्ये॑। आ। धे॒हि॒। ए॒न॒म्‍। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने ।  
-स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम्॥४॥
+ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने।  
+स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने। स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने।  
+स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
@@ -258,7 +270,7 @@ I have assumed their sacrifice, O Agni, their hopes, their glory,. and their ric
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। एषाम्‍। यज्ञम्‍। उत। वर्चः। ददे। अहम्‍। रायः। पोषम्‍। उत। चित्तानि। अग्ने। सऽपत्नाः। अस्मत्‍। अधरे। भवन्तु। उत्‍ऽतमम्‍। नाकम्‍। अधि। रोहय। इमम्‍।
+आ। ए॒षा॒म्‍। य॒ज्ञम्‍। उ॒त। वर्चः॑। द॒दे॒। अ॒हम्‍। रा॒यः। पोष॑म्‍। उ॒त। चि॒त्तानि॑। अ॒ग्ने॒। स॒ऽपत्नाः॑। अ॒स्मत्‍। अध॑रे। भ॒व॒न्तु॒। उ॒त्‍ऽत॒मम्‍। नाक॑म्‍। अधि॑। रो॒ह॒य॒। इ॒मम्‍। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

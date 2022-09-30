@@ -36,14 +36,17 @@ A charm against imprecation and threatened evils
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ ।  
-सर्वा॒न् मच्छ॒पथाँ अधि॒ वरी॑यो यावया इ॒तः ॥१॥  
+प्र॑ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ।  
+सर्वा॒न्मच्छ॒पथाँ॒ अधि॒ वरी॑यो यावया इ॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॑ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ। सर्वा॒न्मच्छ॒पथाँ॒ अधि॒ वरी॑यो यावया इ॒तः ॥
+प्र॑ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ।  
+सर्वा॒न्मच्छ॒पथाँ॒ अधि॒ वरी॑यो यावया इ॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
@@ -67,7 +70,7 @@ With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into dista
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रतीचीनऽफलः। हि। त्वम्। अपामार्ग। रुरोहिथ। सर्वान्। मत्। शपथान्। अधि। वरीयः। यवयाः। इतः। ६७.१।
+प्र॒ती॒चीन॑ऽफलः। हि। त्वम्। अपा॑मार्ग। रु॒रोहि॑थ। सर्वा॑न्। मत्। श॒पथा॑न्। अधि॑। वरी॑यः। य॒व॒याः॒। इ॒तः। ६७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into dista
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् दु॑ष्कृ॒तं यच्छम॑लं॒ यद् वा चेरि॒म पा॒पया॑ ।  
-त्वया॒ तद् वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥२॥  
+यद्दु॑ष्कृ॒तं यच्छम॑लं॒ यद्वा॑ चेरिम पा॒पया॑।  
+त्वया॒ तद्वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्दु॑ष्कृ॒तं यच्छम॑लं॒ यद्वा॑ चेरिम पा॒पया॑। त्वया॒ तद्वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥
+यद्दु॑ष्कृ॒तं यच्छम॑लं॒ यद्वा॑ चेरिम पा॒पया॑।  
+त्वया॒ तद्वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
@@ -128,7 +134,7 @@ Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। दुःऽकृतम्। यत्। शमलम्। यत्। वा। चेरिम। पापया। त्वया। तत्। विश्वतःऽमुख। अपामार्ग। अप। मृज्महे। ६७.२।
+यत्। दुः॒ऽकृ॒तम्। यत्। शम॑लम्। यत्। वा॒। चे॒रि॒म। पा॒पया॑। त्वया॑। तत्। वि॒श्व॒तः॒ऽमु॒ख॒। अपा॑मार्ग। अप॑। मृ॒ज्म॒हे॒। ६७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत् स॒हासि॒म।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥३॥
+श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत्स॒हासि॒म।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत्स॒हासि॒म। अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत्स॒हासि॒म।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
@@ -187,7 +196,7 @@ If with the cripple we have lived, whose teeth are black and nails deformed, Wit
 </details>
 <details><summary>पदपाठः</summary>
 
-श्यावऽदता। कुनखिना। बण्डेन। यत्। सह। आसिम। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। ६७.३।
+श्या॒वऽद॑ता। कु॒न॒खिना॑। ब॒ण्डेन॑। यत्। स॒ह। आ॒सि॒म। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। ६७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

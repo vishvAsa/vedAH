@@ -37,14 +37,17 @@ A prayer to protect corn from lightning and drought
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/011_sarasvatI/01_yaste_pRthu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ स्तनः॑ शश॒युर्यो म॑यो॒भूर्यः सु॑म्न॒युः सु॒हवो॒ यः सु॒दत्रः॑ ।  
-येन॒ विश्वा॒ पुष्य॑सि॒ वार्या॑णि॒ सर॑स्वति॒ तमि॒ह धात॑वे कः ॥१॥
+यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्।  
+मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/011_sarasvatI/01_yaste_pRthu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्। मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
+यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्।  
+मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/01_yaste_pRthu.md">
@@ -68,7 +71,7 @@ That far-spread thunder, sent from thee, which cometh on all this world, a high 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। पृथुः। स्तनयित्नुः। यः। ऋष्वः। दैवः। केतुः। विश्वम्। आऽभूषति। इदम्। मा। नः। वधीः। विऽद्युता। देवः। सस्यम्। मा। उत। वधीः। रश्मिऽभिः। सूर्यस्य। १२.१।
+यः। ते॒। पृ॒थुः। स्त॒न॒यि॒त्नुः। यः। ऋ॒ष्वः। दैवः॑। के॒तुः। विश्व॑म्। आ॒ऽभूष॑ति। इ॒दम्। मा। नः॒। व॒धीः॒। वि॒ऽद्युता॑। दे॒वः॒। स॒स्यम्। मा। उ॒त। व॒धीः॒। र॒श्मिऽभिः॑। सूर्य॑स्य। १२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

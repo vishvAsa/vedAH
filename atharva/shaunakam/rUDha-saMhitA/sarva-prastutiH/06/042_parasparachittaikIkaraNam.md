@@ -36,14 +36,17 @@ A charm to reconcile estranged friends
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः ।  
-यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥१॥  
+अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः।  
+यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः। यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥
+अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः।  
+यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
@@ -70,7 +73,7 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 </details>
 <details><summary>पदपाठः</summary>
 
-अव। ज्याम्ऽइव। धन्वनः। मन्युम्। तनोमि। ते। हृदः। यथा। सम्ऽमनसौ। भूत्वा। सखायौऽइव। सचावहै। ४२.१।
+अव॑। ज्याम्ऽइ॑व। धन्व॑नः। म॒न्युम्। त॒नो॒मि॒। ते॒। हृ॒दः। यथा॑। सम्ऽम॑नसौ। भू॒त्वा। सखा॑यौऽइव। सचा॑वहै। ४२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते ।  
-अ॒धस्ते॑ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥२॥  
+सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते।  
+अ॒धस्ते॒ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते। अ॒धस्ते॒ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥
+सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते।  
+अ॒धस्ते॒ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
@@ -131,7 +137,7 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 </details>
 <details><summary>पदपाठः</summary>
 
-सखायौऽइव। सचावहै। अव। मन्युम्। तनोमि। ते। अधः। ते। अश्मनः। मन्युम्। उप। अस्यामसि। यः। गुरुः। ४२.२।
+सखा॑यौऽइव। स॒चा॒व॒है॒। अव॑। म॒न्युम्। त॒नो॒मि॒। ते॒। अ॒धः। ते॒। अश्म॑नः। म॒न्युम्। उप॑। अ॒स्या॒म॒सि॒। यः। गु॒रुः। ४२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च ।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥३॥
+अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च।  
+यथा॑व॒शो न वादि॑षो॒ मम॑ चित्तमु॒पाय॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च। यथा॑व॒शो न वादि॑षो॒ मम॑ चित्तमु॒पाय॑सि ॥
+अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च।  
+यथा॑व॒शो न वादि॑षो॒ मम॑ चित्तमु॒पाय॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
@@ -193,7 +202,7 @@ I trample on thine anger thus, I tread it down with heel and toe: So dost thou y
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। तिष्ठामि। ते। मन्युम्। पार्ष्ण्या। प्रऽपदेन। च। यथा। अवशः। न। वादिषः। मम। चित्तम्। उपऽआयसि। ४२.३।
+अ॒भि। ति॒ष्ठा॒मि॒। ते॒। म॒न्युम्। पार्ष्ण्या॑। प्रऽप॑देन। च॒। यथा॑। अ॒व॒शः। न। वादि॑षः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ४२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

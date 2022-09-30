@@ -32,14 +32,17 @@ Translated: Ludwig, p. 269; Henry, 41, 116; Griffith, i. 378.—Cf. Bloomfield, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/103_xatriyaH/01_ko_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-को अ॒स्या नो॑ द्रु॒होऽव॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
-को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥१॥
+को अ॒स्या नो॑ द्रु॒हो᳡व॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
+को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/103_xatriyaH/01_ko_asyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-को अ॒स्या नो॑ द्रु॒होव॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्। को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥
+को अ॒स्या नो॑ द्रु॒हो᳡व॒द्यव॑त्या॒ उन्ने॑ष्यति क्ष॒त्रियो॒ वस्य॑ इ॒च्छन्।  
+को य॒ज्ञका॑मः॒ क उ॒ पूर्ति॑कामः॒ को दे॒वेषु॑ वनुते दी॒र्घमायुः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/103_xatriyaH/01_ko_asyA.md">
@@ -65,7 +68,7 @@ What princely warrior, seeking higher fortune, will free us from this shameful f
 </details>
 <details><summary>पदपाठः</summary>
 
-कः। अस्याः। नः। द्रुहः। अवद्यऽवत्याः। उत्। नेष्यति। क्षत्रियः। वस्यः। इच्छन्। कः। यज्ञऽकामः। कः। ऊं इति। पूर्तिऽकामः। कः। देवेषु। वनुते। दीर्घम्। आयुः। १०८.१।
+कः। अ॒स्याः। नः॒। द्रु॒हः। अ॒व॒द्यऽव॑त्याः। उत्। ने॒ष्य॒ति॒। क्ष॒त्रियः॑। वस्यः॑। इ॒च्छन्। कः। य॒ज्ञऽका॑मः। कः। ऊं॒ इति॑। पूर्ति॑ऽकामः। कः। दे॒वेषु॑। व॒नु॒ते॒। दी॒र्घम्। आयुः॑। १०८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

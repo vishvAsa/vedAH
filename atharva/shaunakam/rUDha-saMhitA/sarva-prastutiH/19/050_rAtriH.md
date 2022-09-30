@@ -36,15 +36,17 @@ A hymn to Night for protection and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/01_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु ।  
-अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥१॥  
+अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु।  
+अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/01_adha_rAtri.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु ।  
-अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥१॥  
+अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु।  
+अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/01_adha_rAtri.md">
@@ -81,7 +83,7 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 </details>
 <details><summary>पदपाठः</summary>
 
-अध। रात्रि। तृष्टऽधूमम्। अशीर्षाणम्। अहिम्। कृणु। अक्षौ। वृकस्य। निः। जह्याः। तेन। तम्। द्रुऽपदे। जहि। ५०.१।
+अध॑। रा॒त्रि॒। तृ॒ष्टऽधू॑मम्। अ॒शी॒र्षाण॑म्। अहि॑म्। कृ॒णु॒। अ॒क्षौ। वृक॑स्य। निः। ज॒ह्याः॒। तेन॑। तम्। द्रु॒ऽप॒दे। ज॒हि॒। ५०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -112,15 +114,17 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/02_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॑ रात्र्यन॒ड्वाह॒स्तीक्ष्ण॑शृङ्गाः स्वा॒शवः॑ ।  
-तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥२॥  
+ये ते॑ रात्र्यन॒ड्वाह॑स्ती॒क्ष्णशृ॑ङ्गाः स्वा॒शवः॑।  
+तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/02_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ते॑ रात्र्यन॒ड्वाह॒स्तीक्ष्ण॑शृङ्गाः स्वा॒शवः॑ ।  
-तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥२॥  
+ये ते॑ रात्र्यन॒ड्वाह॑स्ती॒क्ष्णशृ॑ङ्गाः स्वा॒शवः॑।  
+तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/02_ye_te.md">
@@ -176,7 +180,7 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। ते। रात्रि। अनड्वाहः। तीक्ष्णऽशृङ्गाः। सुऽआशवः। तेभिः। नः। अद्य। पारय। अति। दुःऽगानि। विश्वहा। ५०.२।
+ये। ते॒। रा॒त्रि॒। अ॒न॒ड्वाहः॑। तीक्ष्ण॑ऽशृङ्गाः। सु॒ऽआ॒शवः॑। तेभिः॑। नः॒। अ॒द्य। पा॒र॒य॒। अति॑। दुः॒ऽगानि॑। वि॒श्वहा॑। ५०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -207,15 +211,17 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा व॒यम्।  
-ग॒म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥३॥  
+रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा᳡ व॒यम्।  
+ग॑म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा व॒यम्।  
-ग॒म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥३॥  
+रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा᳡ व॒यम्।  
+ग॑म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
@@ -231,7 +237,7 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 </details>
 <details><summary>पदपाठः</summary>
 
-रात्रिम्ऽरात्रिम्। अरिष्यन्तः। तरेम। तन्वा᳡। वयम्। गम्भीरम्। अप्लवाःऽइव। न। तरेयुः। अरातयः। ५०.३।
+रात्रि॑म्ऽरात्रिम्। अरि॑ष्यन्तः। तरे॑म। त॒न्वा᳡। व॒यम्। ग॒म्भी॒रम्। अप्ल॑वाःऽइव। न। त॒रे॒युः॒। अरा॑तयः। ५०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -262,14 +268,17 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ शा॒म्याकः॑ प्र॒पत॑न्नप॒वान् नानु॑वि॒द्यते॑ ।  
-ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्मां अ॑भ्यघा॒यति ॥४॥  
+यथा॑ शा॒म्याकः॑ प्र॒पत॑न्नप॒वान्नानु॑वि॒द्यते॑।  
+ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्माँ अ॑भ्यघा॒यति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ शा॒म्याकः॑ प्र॒पत॑न्नप॒वान्नानु॑वि॒द्यते॑। ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्माँ अ॑भ्यघा॒यति॑ ॥
+यथा॑ शा॒म्याकः॑ प्र॒पत॑न्नप॒वान्नानु॑वि॒द्यते॑।  
+ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्माँ अ॑भ्यघा॒यति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
@@ -299,7 +308,7 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। शाम्याकः। प्रऽपतन्। अपऽवान्। न। अनुऽविद्यते। एव। रात्रि। प्र। पातय। यः। अस्मान्। अभिऽअघायति। ५०.४।
+यथा॑। शा॒म्याकः॑। प्र॒ऽपत॑न्। अ॒प॒ऽवान्। न। अ॒नु॒ऽवि॒द्यते॑। ए॒व। रा॒त्रि॒। प्र। पा॒त॒य॒। यः। अ॒स्मान्। अ॒भि॒ऽअ॒घा॒यति॑। ५०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -331,14 +340,16 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑ स्ते॒नं वासो॑ गोअ॒जमु॒त तस्क॑रम्।  
-अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥५॥  
+अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/05_apa_stenam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अप॑ स्ते॒नं वासो॑ गोअ॒जमु॒त तस्क॑रम्।  
-अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥५॥  
+अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/05_apa_stenam.md">
@@ -378,7 +389,7 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। स्तेनम्। वासः। गोऽअजम्। उत। तस्करम्। अथो इति। यः। अर्वतः। शिरः। अभिऽधाय। निनीषति। ५०.५।
+अप॑। स्ते॒नम्। वासः॑। गो॒ऽअ॒जम्। उ॒त। तस्क॑रम्। अथो॒ इति॑। यः। अर्व॑तः। शिरः॑। अ॒भि॒ऽधाय॑। निनी॑षति। ५०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -409,15 +420,17 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑ ।  
-यदे॒तद॒स्मान् भो॑जय॒ यथेद॒न्यानु॒पाय॑सि ॥६॥  
+यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑।  
+यदे॒तद॒स्मान्भोज॑य॒ यथेद॒न्यानु॒पाय॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑ ।  
-यदे॒तद॒स्मान् भो॑जय॒ यथेद॒न्यानु॒पाय॑सि ॥६॥  
+यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑।  
+यदे॒तद॒स्मान्भोज॑य॒ यथेद॒न्यानु॒पाय॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/06_yadadyA_rAtri.md">
@@ -453,7 +466,7 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अद्य। रात्रि। सुऽभगे। विऽभजन्ति। अयः। वसु। यत्। एतत्। अस्मान्। भोजय। यथा। इत्। अन्यान्। उपऽअयसि। ५०.६।
+यत्। अ॒द्य। रा॒त्रि॒। सु॒ऽभ॒गे॒। वि॒ऽभज॑न्ति। अयः॑। वसु॑। यत्। ए॒तत्। अ॒स्मान्। भो॒ज॒य॒। यथा॑। इत्। अ॒न्यान्। उ॒प॒ऽअय॑सि। ५०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -484,15 +497,17 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/07_uShase_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॒न् रात्र्य॑ना॒गसः॑ ।  
-उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥७॥
+उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॑न्रात्र्यना॒गसः॑।  
+उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/07_uShase_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॒न् रात्र्य॑ना॒गसः॑ ।  
-उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥७॥
+उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॑न्रात्र्यना॒गसः॑।  
+उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/07_uShase_naH.md">
@@ -514,7 +529,7 @@ Do thou entrust us to the Dawn, all of us free from sin, O Night. May Dawn deliv
 </details>
 <details><summary>पदपाठः</summary>
 
-उषसे। नः। परि। देहि। सर्वान्। रात्रि। अनागसः। उषाः। नः। अह्ने। आ। भजात्। अहः। तुभ्यम्। विभावरि। ५०.७।
+उ॒षसे॑। नः॒। परि॑। दे॒हि॒। सर्वा॑न्। रा॒त्रि॒। अ॒ना॒गसः॑। उ॒षाः। नः॒। अह्ने॑। आ। भ॒जा॒त्। अहः॑। तुभ्य॑म्। वि॒भा॒व॒रि॒। ५०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

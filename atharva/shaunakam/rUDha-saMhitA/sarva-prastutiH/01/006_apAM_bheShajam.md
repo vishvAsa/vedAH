@@ -49,8 +49,11 @@ To the waters, for health and wealth
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/01_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑। शं योर॒भि स्र॑वन्तु नः ॥
+शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑।  
+शं योर॒भि स्र॑वन्तु नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/01_shaM_no.md">
@@ -76,7 +79,7 @@ The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। देवीः। अभिष्टये। आपः। भवन्तु। पीतये। शम्। योः। अभि। स्रवन्तु। नः।
+शम्। नः॒। दे॒वीः। अ॒भिष्ट॑ये। आपः॑। भ॒व॒न्तु॒। पी॒तये॑। शम्। योः। अ॒भि। स्र॒व॒न्तु॒। नः॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,13 +110,17 @@ The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/02_apsu_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।अ॒ग्निं च॑ वि॒श्वशं॑ भुवम्॥२॥  
+अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।  
+अ॒ग्निं च॑ वि॒श्वशं॑भुवम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/02_apsu_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा। अ॒ग्निं च॑ वि॒श्वशं॑भुवम् ॥
+अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।  
+अ॒ग्निं च॑ वि॒श्वशं॑भुवम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/02_apsu_me.md">
@@ -134,7 +141,7 @@ Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, 
 </details>
 <details><summary>पदपाठः</summary>
 
-अप्ऽसु। मे। सोमः। अब्रवीत्। अन्तः। विश्वानि। भेषजा। अग्निम्। च। विश्वऽशंभुवम्।
+अ॒प्ऽसु। मे॒। सोमः॑। अ॒ब्र॒वी॒त्। अ॒न्तः। विश्वा॑नि। भे॒ष॒जा। अ॒ग्निम्। च॒। वि॒श्वऽशं॑भुवम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +172,17 @@ Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॒३ म॑म । ज्योक् च॒ सूर्यं॑ दृ॒शे॑॥३॥  
+आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॑३ मम॑।  
+ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॑३ मम॑। ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
+आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॑३ मम॑।  
+ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
@@ -191,7 +202,7 @@ O Waters, teem with medicine to keep my body safe from harm, So that I long may 
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। पृणीत। भेषजम्। वरूथम्। तन्वे। मम। ज्योक्। च। सूर्यम्। दृशे।
+आपः॑। पृ॒णी॒त। भे॒ष॒जम्। वरू॑थम्। त॒न्वे। मम॑। ज्योक्। च॒। सूर्य॑म्। दृ॒शे। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,14 +233,19 @@ O Waters, teem with medicine to keep my body safe from harm, So that I long may 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/04_shaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं न॒ आपो॑ धन्व॒न्या॒३ शमु॑ सन्त्वनू॒प्याः ।  
-शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः शि॒वा नः॑ सन्तु॒ वार्षि॑कीः॥४॥
+शं न॒ आपो॑ धन्व॒न्या॑३॒॑ शमु॑ सन्त्वनू॒प्याः॑।  
+शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः।  
+शि॒वा नः॑ सन्तु॒ वार्षि॑कीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/04_shaM_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं न॒ आपो॑ धन्व॒न्या॑३ शमु॑ सन्त्वनू॒प्याः॑। शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः। शि॒वा नः॑ सन्तु॒ वार्षि॑कीः ॥
+शं न॒ आपो॑ धन्व॒न्या॑३॒॑ शमु॑ सन्त्वनू॒प्याः॑।  
+शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः।  
+शि॒वा नः॑ सन्तु॒ वार्षि॑कीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/04_shaM_na.md">
@@ -256,7 +272,7 @@ The Waters bless us, all that rise in desert lands or marshy pools! Bless us the
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। आपः। धन्वन्याः। शम्। ऊं इति। सन्तु। अनूप्याः। शम्। नः। खनित्रिमाः। आपः। शम्। ऊं इति। याः। कुम्भे। आऽभृताः। शिवाः। नः। सन्तु। वार्षिकीः।
+शम्। नः॒। आपः॑। ध॒न्व॒न्याः। शम्। ऊं॒ इति॑। स॒न्तु॒। अ॒नू॒प्याः। शम्। नः॒। ख॒नि॒त्रिमाः॑। आपः॑। शम्। ऊं॒ इति॑। याः। कुम्भे। आऽभृ॑ताः। शि॒वाः। नः॒। स॒न्तु। वार्षि॑कीः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

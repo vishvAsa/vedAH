@@ -36,14 +36,17 @@ A charm against leprosy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒क्तं॒जा॒तास्यो॑षधे॒ रामे॒ कृष्णे॒ असि॑क्नि च ।  
-इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत्॥१॥  
+न॑क्तंजा॒तासि॑ ओषधे॒ रामे॒ कृष्णे॒ असि॑क्नि च।  
+इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न॑क्तंजा॒तासि॑ ओषधे॒ रामे॒ कृष्णे॒ असि॑क्नि च। इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत् ॥
+न॑क्तंजा॒तासि॑ ओषधे॒ रामे॒ कृष्णे॒ असि॑क्नि च।  
+इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
@@ -73,7 +76,7 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 </details>
 <details><summary>पदपाठः</summary>
 
-नक्तम्ऽजाता। असि। ओषधे। रामे। कृष्णे। असिक्नि। च। इदम्। रजनि। रजय। किलासम्। पलितम्। च। यत्।
+न॒क्त॒म्ऽजा॒ता। अ॒सि॒। ओ॒ष॒धे॒। रामे॑। कृष्णे॑। असि॑क्नि। च॒। इ॒दम्। र॒ज॒नि॒। र॒ज॒य॒। कि॒लास॑म्। प॒लि॒तम्। च॒। यत्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,13 +108,16 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कि॒लासं॑ च पलि॒तं च॒ निरि॒तो ना॑शया॒ पृष॑त्।  
-आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥२॥  
+आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कि॒लासं॑ च पलि॒तं च॒ निरि॒तो ना॑शया॒ पृष॑त्। आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥
+कि॒लासं॑ च पलि॒तं च॒ निरि॒तो ना॑शया॒ पृष॑त्।  
+आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
@@ -135,7 +141,7 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 </details>
 <details><summary>पदपाठः</summary>
 
-‍किलासम्। च। पलितम्। च। निः। इतः। नाशय। पृषत्। आ। त्वा। स्वः। विशताम्। वर्णः। परा। शुक्लानि। पातय।
+‍कि॒लास॑म्। च॒। प॒लि॒तम्। च॒। निः। इ॒तः। ना॒श॒य॒। पृष॑त्। आ। त्वा॒। स्वः। वि॒श॒ता॒म्। वर्णः॑। परा॑। शु॒क्लानि॑। पा॒त॒य॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑ ।  
-असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त्॥३॥  
+असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑।  
+असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑। असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त् ॥
+असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑।  
+असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/03_asitaM_te.md">
@@ -195,7 +204,7 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 </details>
 <details><summary>पदपाठः</summary>
 
-आसितम्। ते। प्रऽलयनम्। आऽस्थानम्। आसितम्। तव। असिक्नी। असि। ओषधे। निः। इतः। नाशय। पृषत्।
+आसि॑तम्। ते॒। प्र॒ऽलय॑नम्। आ॒ऽस्थान॑म्। आसि॑तम्। तव॑। असि॑क्नी। अ॒सि॒। ओ॒ष॒धे॒। निः। इ॒तः। ना॒श॒य॒। पृष॑त्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत् त्व॒चि।  
-दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम्॥४॥
+अ॑स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत्त्व॒चि।  
+दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत्त्व॒चि। दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम् ॥
+अ॑स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत्त्व॒चि।  
+दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
@@ -255,7 +267,7 @@ I with my spell have chased away the pallid sign of leprosy, Caused by infection
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्थिऽजस्य। किलासस्य। तनूऽजस्य। च। यत्। त्वचि। दूप्या। कृतस्य। ब्रह्मणा। लक्ष्म। श्वेतम्। अनीनशम्।
+अ॒स्थि॒ऽजस्य॑। कि॒लास॑स्य। त॒नू॒ऽजस्य॑। च॒। यत्। त्व॒चि। दूप्या॑। कृ॒तस्य॑। ब्रह्म॑णा। लक्ष्म॑। श्वे॒तम्। अ॒नी॒न॒श॒म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A rifaccimento or recension of I
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान् प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
-स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥१॥  
+अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
+स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्। स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
+स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
@@ -67,7 +70,7 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। नः। दूतः। प्रतिऽएतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। सः। चित्तानि। मोहयतु। परेषाम्। निःऽहस्तान्। च। कृणवत्। जातऽवेदाः। २.१।
+अ॒ग्निः। नः॒। दू॒तः। प्र॒ति॒ऽएतु॑। वि॒द्वान्। प्र॒ति॒ऽदह॑न्। अ॒भिऽश॑स्तिम्। अरा॑तिम्। सः। चि॒त्तानि॑। मो॒ह॒य॒तु॒। परे॑षाम्। निःऽह॑स्तान्। च॒। कृ॒ण॒व॒त्। जा॒तऽवे॑दाः। २.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यम॒ग्निर॑मूमुह॒द् यानि॑ चि॒त्तानि॑ वो हृ॒दि।  
-वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥२॥  
+अ॒यम॒ग्निर॑मूमुह॒द्यानि॑ चि॒त्तानि॑ वो हृ॒दि।  
+वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यम॒ग्निर॑मूमुह॒द्यानि॑ चि॒त्तानि॑ वो हृ॒दि। वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥
+अ॒यम॒ग्निर॑मूमुह॒द्यानि॑ चि॒त्तानि॑ वो हृ॒दि।  
+वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
@@ -128,7 +134,7 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। अग्निः। अमूमुहत्। यानि। चित्तानि। वः। हृद‍ि। वि। वः। धमतु। ओकसः। प्र। वः। धमतु। सर्वतः। २.२।
+अ॒यम्। अ॒ग्निः। अ॒मू॒मु॒ह॒त्। यानि॑। चि॒त्तानि॑। वः॒। हृ॒द‍ि। वि। वः॒। ध॒म॒तु॒। ओक॑सः। प्र। वः॒। ध॒म॒तु॒। स॒र्वतः॑। २.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर ।  
-अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान् विषू॑चो॒ वि ना॑शय ॥३॥  
+इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर।  
+अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर। अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर।  
+अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
@@ -192,7 +201,7 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। चित्तानि। मोहयन्। अर्वाङ्। आऽकूत्या। चर। अग्नेः। वातस्य। ध्राज्या। तान्। विषूचः। वि। नाशय। २.३।
+इन्द्र॑। चि॒त्तानि॑। मो॒हय॑न्। अ॒र्वाङ्। आऽकू॑त्या। च॒र॒। अ॒ग्नेः। वात॑स्य। ध्राज्या॑। तान्। विषू॑चः। वि। ना॒श॒य॒। २.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,14 +232,17 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्याऽकूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत ।  
-अथो॒ यद॒द्यैषां॑ हृदि तदे॑षां॒ परि॒ निर्ज॑हि ॥४॥  
+व्या॑कूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत।  
+अथो॒ यद॒द्यैषां॑ हृ॒दि तदे॑षां॒ परि॒ निर्ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्या॑कूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत। अथो॒ यद॒द्यैषां॑ हृ॒दि तदे॑षां॒ परि॒ निर्ज॑हि ॥
+व्या॑कूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत।  
+अथो॒ यद॒द्यैषां॑ हृ॒दि तदे॑षां॒ परि॒ निर्ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
@@ -255,7 +267,7 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। आऽकूतयः। एषाम्। इत। अथो इति। चित्तानि। मुह्यत। अथो इति। यत्। अद्य। एषाम्। हृदि। तत्। एषाम्। परि। निः। जहि। २.४।
+वि। आ॒ऽकू॒त॒यः॒। ए॒षा॒म्। इ॒त॒। अथो॒ इति॑। चि॒त्तानि॑। मु॒ह्य॒त॒। अथो॒ इति॑। यत्। अ॒द्य। ए॒षा॒म्। हृ॒दि। तत्। ए॒षा॒म्। परि॑। निः। ज॒हि॒। २.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -286,14 +298,17 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि ।  
-अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न्॥५॥  
+अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि।  
+अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि। अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न् ॥
+अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि।  
+अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
@@ -329,7 +344,7 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! 
 </details>
 <details><summary>पदपाठः</summary>
 
-अमीषाम्। चित्तानि। प्रतिऽमोहयन्ती। गृहाण। अङ्गानि। अप्वे। परा। इहि। अभि। प्र। इहि। निः। दह। हृत्ऽसु। शोकैः। ग्राह्या। अमित्रान्। तमसा। विध्य। शत्रून्। २.५।
+अ॒मीषा॑म्। चि॒त्तानि॑। प्र॒ति॒ऽमो॒हय॑न्ती। गृ॒हा॒ण। अङ्गा॑नि। अ॒प्वे॒। परा॑। इ॒हि॒। अभि। प्र। इ॒हि॒। निः। द॒ह॒। हृ॒त्ऽसु। शोकैः॑। ग्राह्या॑। अ॒मित्रा॑न्। तम॑सा। वि॒ध्य॒। शत्रू॑न्। २.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -360,14 +375,17 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मा॑नैत्य॒भ्योज॑सा॒ स्पर्ध॑माना ।  
-तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात्॥६॥
+अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मानैत्य॒भ्योज॑सा॒ स्पर्ध॑माना।  
+तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मानैत्य॒भ्योज॑सा॒ स्पर्ध॑माना। तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात् ॥
+अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मानैत्य॒भ्योज॑सा॒ स्पर्ध॑माना।  
+तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
@@ -395,7 +413,7 @@ That army of our enemies, O Maruts, that comes against us with' its might, conte
 </details>
 <details><summary>पदपाठः</summary>
 
-असौ। या। सेना। मरुतः। परेषाम्। अस्मान्। आऽएति। अभि। ओजसा। स्पर्धमाना। ताम्। विध्यत। तमसा। अपऽव्रतेन। यथा। एषाम्। अन्यः। अन्यम्। न। जानात्। २.६।
+अ॒सौ। या। सेना॑। म॒रु॒तः॒। परे॑षाम्। अ॒स्मान्। आ॒ऽएति॑। अ॒भि। ओज॑सा। स्पर्ध॑माना। ताम्। वि॒ध्य॒त॒। तम॑सा। अप॑ऽव्रतेन। यथा॑। ए॒षा॒म्। अ॒न्यः। अ॒न्यम्। न। जा॒नात्। २.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

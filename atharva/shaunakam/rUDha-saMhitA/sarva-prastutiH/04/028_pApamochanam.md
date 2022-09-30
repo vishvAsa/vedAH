@@ -36,14 +36,17 @@ A hymn to Bhava and Sarva
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते ।  
-याव॒स्ये॑शा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते। याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
@@ -69,7 +72,7 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 </details>
 <details><summary>पदपाठः</summary>
 
-भवाशर्वौ। मन्वे। वाम्। तस्य। वित्तम्। ययोः। वाम्। इदम्। प्रऽदिशि। यत्। विऽरोचते। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.१।
+भवा॑शर्वौ॑। म॒न्वे। वा॒म्। तस्य॑। वि॒त्त॒म्। ययोः॑। वा॒म्। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॑रभ्यभ्व॒ उ॒त यद् दू॒रे चि॒द् यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥२॥  
+ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ। याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
@@ -132,7 +138,7 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 </details>
 <details><summary>पदपाठः</summary>
 
-ययोः। अभिऽअध्वे। उत। यत्। दूरे। चित्। यौ। विदितौ। इषुऽभृताम्। असिष्ठौ। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.२।
+ययोः॑। अ॒भि॒ऽअ॒ध्वे। उ॒त। यत्। दू॒रे। चि॒त्। यौ। वि॒दि॒तौ। इ॒षु॒ऽभृता॑म्। असि॑ष्ठौ। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒ह॒स्रा॒क्षौ वृ॑त्र॒हना॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥३॥  
+स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ। याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
@@ -196,7 +205,7 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 </details>
 <details><summary>पदपाठः</summary>
 
-सहस्रऽअक्षौ। वृत्रऽहना। हुवे। अहम्। दूरेगव्यूती इति दूरेऽगव्यूती। स्तुवन्। एमि। उग्रौ। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.३।
+स॒ह॒स्र॒ऽअ॒क्षौ। वृ॒त्र॒ऽहना॑। हु॒वे॒। अ॒हम्। दू॒रेग॑व्यूती॒ इति॑ दू॒रेऽग॑व्यूती। स्तु॒वन्। ए॒मि॒। उ॒ग्रौ। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेद॑स्रा॑ष्ट्रमभि॒भां जने॑षु ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु। याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
@@ -259,7 +271,7 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। आरेभाथे। इत्याऽरेभाथे। बहु। साकम्। अग्रे। प्र। च। इत्। अस्राष्ट्रम्। अभिऽभाम्। जनेषु। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.४।
+यौ। आ॒रे॒भाथे॒। इत्या॑ऽरे॒भाथे॑। ब॒हु॒। सा॒कम्। अग्रे॑। प्र। च॒। इत्। अस्रा॑ष्ट्रम्। अ॒भि॒ऽभाम्। जने॑षु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -290,14 +302,17 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु। याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
@@ -317,7 +332,7 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 </details>
 <details><summary>पदपाठः</summary>
 
-ययोः। वधात्। न। अपऽपद्यते। कः। चन। अन्तः। देवेषु। उत। मानुषेषु। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.५।
+ययोः॑। व॒धात्। न। अ॒प॒ऽपद्य॑ते। कः। च॒न। अ॒न्तः। दे॒वेषु॑। उ॒त। मानु॑षेषु। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -348,14 +363,17 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः कृ॑त्या॒कृन्मू॑ल॒कृद् या॑तु॒धानो॒ नि तस्मि॑न् धत्तं॒ वज्र॑मु॒ग्रौ।  
-याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ। याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ।  
+याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
@@ -381,7 +399,7 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। कृत्याऽकृत्। मूलऽकृत्। यातुऽधानः। नि। तस्मिन्। धत्तम्। वज्रम्। उग्रौ। यौ। अस्य। ईशाथे इति। द्विऽपदः। यौ। चतुःऽपदः। तौ। नः। मुञ्चतम्। अंहसः। २८.६।
+यः। कृ॒त्या॒ऽकृत्। मू॒ल॒ऽकृत्। या॒तु॒ऽधानः॑। नि। तस्मि॑न्। ध॒त्त॒म्। वज्र॑म्। उ॒ग्रौ॒। यौ। अ॒स्य। ईशा॑थे॒ इति॑। द्वि॒ऽपदः॑। यौ। चतुः॑ऽपदः। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -413,13 +431,16 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
-स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो॑ जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
+स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/07_adhi_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी। स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
+स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/07_adhi_no.md">
@@ -443,7 +464,7 @@ Comfort and aid us, ye strong Gods, in battles, at each Kimidin send your bolt o
 </details>
 <details><summary>पदपाठः</summary>
 
-अधि। नः। ब्रूतम्। पृतनासु। उग्रौ। सम्। वज्रेण। सृजतम्। यः। किमीदी। स्तौमि। भवाशर्वौ। नाथितः। जोहवीमि। तौ। नः। मुञ्चतम्। अंहसः। २८.७।
+अधि॑। नः॒। ब्रू॒त॒म्। पृत॑नासु। उ॒ग्रौ॒। सम्। वज्रे॑ण। सृ॒ज॒त॒म्। यः। कि॒मी॒दी। स्तौमि॑। भ॒वा॒श॒र्वौ। ना॒थि॒तः। जो॒ह॒वी॒मि॒। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

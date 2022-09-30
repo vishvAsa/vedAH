@@ -32,14 +32,17 @@ Translated: Zimmer, p. 321; Grill, 49, 176; Griffith, i. 323; Bloomfield, 110, 5
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/01_yau_vyAghrAvavarUDhau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ व्या॒घ्रवव॑रूढौ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च ।  
-यौ दन्तौ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥१॥  
+यौ व्या॒घ्रावव॑रूढौ॒ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च।  
+तौ दन्तौ॑ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/140_sumangalau_dantau/01_yau_vyAghrAvavarUDhau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यौ व्या॒घ्रावव॑रूढौ॒ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च। तौ दन्तौ॑ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥
+यौ व्या॒घ्रावव॑रूढौ॒ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च।  
+तौ दन्तौ॑ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/01_yau_vyAghrAvavarUDhau.md">
@@ -61,7 +64,7 @@ Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahma
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। व्याघ्रौ। अवऽरूढौ। जिघत्सतः। पितरम्। मातरम्। च। तौ। दन्तौ। ब्रह्मणः। पते। शिवौ। कृणु। जातऽवेदः। १४०.१।
+यौ। व्या॒घ्रौ। अव॑ऽरूढौ। जिघ॑त्सतः। पि॒तर॑म्। मा॒तर॑म्। च॒। तौ। दन्तौ॑। ब्र॒ह्म॒णः॒। प॒ते॒। शि॒वौ। कृ॒णु॒। जा॒त॒ऽवे॒दः॒। १४०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,13 +96,16 @@ Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahma
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्री॒हिम॑त्तं॒ यव॑मत्त॒मथो॒ माष॒मथो॒ तिल॑म्।  
-ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥२॥  
+ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्री॒हिम॑त्तं॒ यव॑मत्त॒मथो॒ माष॒मथो॒ तिल॑म्। ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+व्री॒हिम॑त्तं॒ यव॑मत्त॒मथो॒ माष॒मथो॒ तिल॑म्।  
+ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/02_vrIhimattaM_yavamattamatho.md">
@@ -124,7 +130,7 @@ Let rice and barley be your food, eat also beans and sesamum. This is the share 
 </details>
 <details><summary>पदपाठः</summary>
 
-व्रीहिम्। अत्तम्। यवम्। अत्तम्। अथो इति। माषम्। अथो इति। तिलम्। एषः। वाम्। भागः। निऽहितः। रत्नऽधेयाय। दन्तौ। मा। हिंसिष्टम्। पितरम्। मातरम्। च। १४०.२।
+व्री॒हिम्। अ॒त्त॒म्। यव॑म्। अ॒त्त॒म्। अथो॒ इति॑। माष॑म्। अथो॒ इति॑। तिल॑म्। ए॒षः। वा॒म्। भा॒गः। निऽहि॑तः। र॒त्न॒ऽधेया॑य। द॒न्तौ॒। मा। हिं॒सि॒ष्ट॒म्। पि॒तर॑म्। मा॒तर॑म्। च॒। १४०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,14 +161,17 @@ Let rice and barley be your food, eat also beans and sesamum. This is the share 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑ ।  
-अ॒न्यत्र॑ वां घो॒रं त॒न्वः॑१ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥३॥
+उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑।  
+अ॒न्यत्र॑ वां घो॒रं त॒न्वः१॒॑ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑। अ॒न्यत्र॑ वां घो॒रं त॒न्वः परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑।  
+अ॒न्यत्र॑ वां घो॒रं त॒न्वः१॒॑ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/140_sumangalau_dantau/03_upahUtau_sayujau.md">
@@ -189,7 +198,7 @@ Both fellow teeth have been invoked, gentle and bringing happi- ness. Else whith
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽहूतौ। सऽयुजौ। स्योनौ। दन्तौ। सुऽमङ्गलौ। अन्यत्र। वाम्। घोरम्। तन्वः᳡। परा। एतु। दन्तौ। मा। हिंसिष्टम्। पितरम्। मातरम्। च। १४०.३।
+उप॑ऽहूतौ। स॒ऽयुजौ॑। स्यो॒नौ। दन्तौ॑। सु॒ऽम॒ङ्गलौ॑। अ॒न्यत्र॑। वा॒म्। घो॒रम्। त॒न्वः᳡। परा॑। ए॒तु॒। द॒न्तौ॒। मा। हिं॒सि॒ष्ट॒म्। पि॒तर॑म्। मा॒तर॑म्। च॒। १४०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

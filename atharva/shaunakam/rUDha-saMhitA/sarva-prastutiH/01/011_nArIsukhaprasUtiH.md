@@ -36,14 +36,17 @@ A charm to be used at child-birth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वष॑ट् ते पूषन्न॒स्मिन्त्सू॑तावर्य॒मा होता॑ कृणोतु वे॒धाः ।  
-सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां॒ सूत॒वा उ॑ ॥१॥  
+वष॑ट्ते पूषन्न॒स्मिन्त्सूता॑वर्य॒मा होता॑ कृणोतु वे॒धाः।  
+सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां सूत॒वा उ॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वष॑ट्ते पूषन्न॒स्मिन्त्सूता॑वर्य॒मा होता॑ कृणोतु वे॒धाः। सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां सूत॒वा उ॑ ॥
+वष॑ट्ते पूषन्न॒स्मिन्त्सूता॑वर्य॒मा होता॑ कृणोतु वे॒धाः।  
+सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां सूत॒वा उ॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
@@ -79,7 +82,7 @@ Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-pri
 </details>
 <details><summary>पदपाठः</summary>
 
-वषट्। ते। पूषन्। अस्मिन्। सूतौ। अर्यमा। होता। कृणोतु। वेधाः। सिस्रताम्। नारी। ऋतऽप्रजाता। वि। पर्वाणि। जिहताम्। सूतवै। ऊं इति।
+वष॑ट्। ते॒। पू॒ष॒न्। अ॒स्मिन्। सूतौ॑। अ॒र्य॒मा। होता॑। कृ॒णो॒तु॒। वे॒धाः। सिस्र॑ताम्। नारी॑। ऋ॒तऽप्र॑जाता। वि। पर्वा॑णि। जि॒ह॒ता॒म्। सूत॒वै। ऊं इति॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,14 +113,17 @@ Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-pri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॒ उ॒त।  
-दे॒वा गर्भं॒ समै॑रय॒न् तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥२॥  
+चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॑ उ॒त।  
+दे॒वा गर्भं॒ समै॑रय॒न्तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॑ उ॒त। दे॒वा गर्भं॒ समै॑रय॒न्तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥
+चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॑ उ॒त।  
+दे॒वा गर्भं॒ समै॑रय॒न्तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
@@ -145,7 +151,7 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 </details>
 <details><summary>पदपाठः</summary>
 
-चतस्रः‍। दिवः। प्रऽदिशः। चतस्रः। भूम्याः। उत। देवाः। गर्भम्। सम्। ऐरयन्। तम्। वि। ऊर्णुवन्तु। सूतवे।
+चत॑स्रः‍। दि॒वः। प्र॒ऽदिशः॑। चत॑स्रः। भूम्याः॑। उ॒त। दे॒वाः। गर्भ॑म्। सम्। ऐ॒र॒य॒न्। तम्। वि। ऊ॒र्णु॒व॒न्तु॒। सूत॑वे। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,14 +182,17 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि ।  
-श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥३॥  
+सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि।  
+श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि। श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥
+सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि।  
+श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
@@ -217,7 +226,7 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 </details>
 <details><summary>पदपाठः</summary>
 
-सूपा। वि। ऊर्णोतु। वि। योनिम्। हापयामसि। श्रथय। सूषणे। त्वम्। अव। त्वम्। बिष्कले। सृज।
+सू॒पा। वि। ऊ॒र्णो॒तु॒। वि। योनि॑म्। हा॒प॒या॒म॒सि॒। श्र॒थय॑। सू॒ष॒णे॒। त्वम्। अव॑। त्वम्। बि॒ष्क॒ले॒। सृ॒ज॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -249,13 +258,16 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नेव॑ मां॒से न पीव॑सि॒ नेव॑ म॒ज्जस्वाह॑तम्।  
-अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम्॥४॥  
+अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नेव॑ मां॒से न पीव॑सि॒ नेव॑ म॒ज्जस्वाह॑तम्। अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम् ॥
+नेव॑ मां॒से न पीव॑सि॒ नेव॑ म॒ज्जस्वाह॑तम्।  
+अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
@@ -293,7 +305,7 @@ Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 </details>
 <details><summary>पदपाठः</summary>
 
-नऽइव। मांसे। न। पीबसि। नऽइव। मज्जऽसु। आऽहतम्। अव। एतु। पृश्नि। शेवलम्। शुने। जरायु। अत्तवे। अव। जरायु। पद्यताम्।
+नऽइ॑व। मां॒से। न। पीब॑सि। नऽइ॑व। म॒ज्जऽसु॑। आऽह॑तम्। अव॑। ए॒तु॒। पृश्नि॑। शेव॑लम्। शुने॑। ज॒रायु॑। अत्त॑वे। अव॑। ज॒रायु॑। प॒द्य॒ता॒म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -324,14 +336,17 @@ Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के ।  
-वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम्॥५॥  
+वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के।  
+वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के। वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम् ॥
+वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के।  
+वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
@@ -355,7 +370,7 @@ Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। ते। भिनद्मि। मेहनम्। वि। योनिम्। वि। गवीनिके इति। वि। मातरम्। च। पुत्रम्। च। वि। कुमारम्। जरायुणा। अव। जरायु। पद्यताम्।
+वि। ते॒। भि॒न॒द्मि॒। मेह॑नम्। वि। योनि॑म्। वि। ग॒वीनि॑के॒ इति॑। वि। मा॒तर॑म्। च॒। पु॒त्रम्। च॒। वि। कु॒मा॒रम्। ज॒रायु॑णा। अव॑। ज॒रायु॑। प॒द्य॒ता॒म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -386,14 +401,17 @@ Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षि॑णः॑ ।  
-ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम्॥६॥
+यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षिणः॑।  
+ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षिणः॑। ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम् ॥
+यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षिणः॑।  
+ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
@@ -422,7 +440,7 @@ Sicut ventus, sicut mens, sicut alites volant, sic, decem mensium puer, cum plac
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा वातो यथा मनो यथा पतन्ति पक्षिणः। एवा त्वं दशमास्य साकं जरायुणा पताव जरायु पद्यताम्।
+यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षिणः॑। ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

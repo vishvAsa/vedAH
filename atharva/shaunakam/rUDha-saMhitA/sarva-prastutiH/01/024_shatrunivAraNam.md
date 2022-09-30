@@ -36,14 +36,17 @@ A charm against leprosy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒प॒र्णो जा॒तः प्र॑थ॒मस्तस्य॒ त्वं पि॒त्तमा॑सिथ ।  
-तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न्॥१॥  
+सु॑प॒र्णो जा॒तः प्र॑थ॒मस्तस्य॒ त्वं पि॒त्तमा॑सिथ।  
+तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॑प॒र्णो जा॒तः प्र॑थ॒मस्तस्य॒ त्वं पि॒त्तमा॑सिथ। तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न् ॥
+सु॑प॒र्णो जा॒तः प्र॑थ॒मस्तस्य॒ त्वं पि॒त्तमा॑सिथ।  
+तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
@@ -72,7 +75,7 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽपर्णः। जातः। प्रथमः। तस्य। त्वम्। पित्तम्। आसिथ। तत्। आसुरी। युधा। जिता। रूपम्। चक्रे। वनस्पतीन्।
+सु॒ऽप॒र्णः। जा॒तः। प्र॒थ॒मः। तस्य॑। त्वम्। पि॒त्तम्। आ॒सि॒थ॒। तत्। आ॒सु॒री। यु॒धा। जि॒ता। रू॒पम्। च॒क्रे॒। वन॒स्पती॑न्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒सु॒री च॑क्रे प्रथ॒मेदं कि॑लासभेष॒जमि॒दं कि॑लास॒नाश॑नम्।  
-अनी॑नशत् कि॒लासं॒ सरू॑पामकर॒त् त्वच॑म्॥२॥  
+आ॑सु॒री च॑क्रे प्रथ॒मेदं कि॑लासभेष॒जमि॒दं कि॑लास॒नाश॑नम्।  
+अनी॑नशत्कि॒लासं॒ सरू॑पामकर॒त्त्वच॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑सु॒री च॑क्रे प्रथ॒मेदं कि॑लासभेष॒जमि॒दं कि॑लास॒नाश॑नम्। अनी॑नशत्कि॒लासं॒ सरू॑पामकर॒त्त्वच॑म् ॥
+आ॑सु॒री च॑क्रे प्रथ॒मेदं कि॑लासभेष॒जमि॒दं कि॑लास॒नाश॑नम्।  
+अनी॑नशत्कि॒लासं॒ सरू॑पामकर॒त्त्वच॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
@@ -132,7 +138,7 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 </details>
 <details><summary>पदपाठः</summary>
 
-आसुरी। चक्रे। प्रथमा। इदम्। किलासऽभेषजम्। इदम्। किलासऽनाशनम्। अनीनशत्। किलासम्। सऽरूपाम्। अकरत्। त्वचम्।
+आ॒सुरी। च॒क्रे॒। प्र॒थ॒मा। इ॒दम्। कि॒ला॒स॒ऽभे॒ष॒जम्। इ॒दम्। कि॒ला॒स॒ऽनाश॑नम्। अनी॑नशत्। कि॒लास॑म्। सऽरू॑पाम्। अ॒क॒र॒त्। त्वच॑म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,13 +170,16 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सरू॑पा॒ नाम॑ ते मा॒ता सरू॑पो॒ नाम॑ ते पि॒ता।  
-स॒रू॒प॒कृत् त्वमो॑षधे॒ सा सरू॑पमि॒दं कृ॑धि ॥३॥  
+स॑रूप॒कृत्त्वमो॑षधे॒ सा सरू॑पमि॒दं कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सरू॑पा॒ नाम॑ ते मा॒ता सरू॑पो॒ नाम॑ ते पि॒ता। स॑रूप॒कृत्त्वमो॑षधे॒ सा सरू॑पमि॒दं कृ॑धि ॥
+सरू॑पा॒ नाम॑ ते मा॒ता सरू॑पो॒ नाम॑ ते पि॒ता।  
+स॑रूप॒कृत्त्वमो॑षधे॒ सा सरू॑पमि॒दं कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
@@ -193,7 +202,7 @@ One-coloured, is thy mother's name, One-coloured is thy father called: One-colou
 </details>
 <details><summary>पदपाठः</summary>
 
-सऽरूपा। नाम। ते। माता। सऽरूपः। नाम। ते। पिता। सरूपऽकृत्। त्वम्। ओषधे। सा। सऽरूपम्। इदम्। कृधि।
+सऽरू॑पा। नाम॑। ते॒। मा॒ता। सऽरू॑पः। नाम॑। ते॒। पि॒ता। स॒रू॒प॒ऽकृत्। त्वम्। ओ॒ष॒धे॒। सा। सऽरू॑पम्। इ॒दम्। कृ॒धि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,14 +233,17 @@ One-coloured, is thy mother's name, One-coloured is thy father called: One-colou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्या॒मा स॑रूपं॒कर॑णी पृथि॒व्या अध्युद्भृ॑ता ।  
-इ॒दमू॒ षु प्र सा॑धय॒ पुना॑ रू॒पाणि॑ कल्पय ॥४॥
+श्या॒मा स॑रूपं॒कर॑णी पृथि॒व्या अध्युद्भृ॑ता।  
+इ॒दमू॑ षु॒ प्र सा॑धय॒ पुना॑ रू॒पाणि॑ कल्पय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्या॒मा स॑रूपं॒कर॑णी पृथि॒व्या अध्युद्भृ॑ता। इ॒दमू॑ षु॒ प्र सा॑धय॒ पुना॑ रू॒पाणि॑ कल्पय ॥
+श्या॒मा स॑रूपं॒कर॑णी पृथि॒व्या अध्युद्भृ॑ता।  
+इ॒दमू॑ षु॒ प्र सा॑धय॒ पुना॑ रू॒पाणि॑ कल्पय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
@@ -258,7 +270,7 @@ Sama who gives one general hue was formed and fashioned from the earth: Further 
 </details>
 <details><summary>पदपाठः</summary>
 
-श्यामा। सरूपम्ऽकरणी। पृथिव्याः। अधि। उत्ऽभृता। इदम्। ऊं इति। सु। प्र। साधय। पुनः। रूपाणि। कल्पय।
+श्या॒मा। स॒रू॒प॒म्ऽकर॑णी। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑ता। इ॒दम्। ऊं॒ इति॑। सु। प्र। सा॒ध॒य॒। पुनः॑। रू॒पाणि॑। क॒ल्प॒य॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to frustrate an enemy's sacrifice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा ।  
-तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥१॥  
+यत्किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा।  
+तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा। तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥
+यत्किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा।  
+तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
@@ -70,7 +73,7 @@ Whatever sacrifice that man performeth with voice, mind, sacred formula, oblatio
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। किम्। च। असौ। मनसा। यत्। च। वाचा। राज्ञैः। जुहोति। हविषा। यजुषा। तत्। मृत्युना। निःऽऋतिः। सम्ऽविदाना। पुरा। सत्यात्। आऽहुतिम्। हन्तु। अस्य। ७३.१।
+यत्। किम्। च॒। अ॒सौ। मन॑सा। यत्। च॒। वा॒चा। रा॒ज्ञैः। जु॒होति॑। ह॒विषा॑। यजु॑षा। तत्। मृ॒त्युना॑। निःऽऋ॑तिः। स॒म्ऽवि॒दा॒ना। पु॒रा। स॒त्यात्। आऽहु॑तिम्। ह॒न्तु॒। अ॒स्य॒। ७३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ Whatever sacrifice that man performeth with voice, mind, sacred formula, oblatio
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या॒तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्।  
-इन्द्रे॑षिता दे॒वा आज्य॑मस्य मथ्नन्तु॒ मा तत् सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥२॥  
+या॑तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्।  
+इन्द्रे॑षिता दे॒वा आज॑मस्य मथ्नन्तु॒ मा तत्सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या॑तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्। इन्द्रे॑षिता दे॒वा आज॑मस्य मथ्नन्तु॒ मा तत्सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥
+या॑तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्।  
+इन्द्रे॑षिता दे॒वा आज॑मस्य मथ्नन्तु॒ मा तत्सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
@@ -133,7 +139,7 @@ For him may sorcerers, Destruction, demons strike and prevent fulfilment through
 </details>
 <details><summary>पदपाठः</summary>
 
-यातुऽधानाः। निःऽऋतिः। आत्। ऊं इति। रक्षः। ते। अस्य। घ्नन्तु। अनृतेन। सत्यम्। इन्द्र‍ऽइषिताः। देवाः। आज्यम्। अस्य। मथ्नन्तु। मा। तत्। सम्। पादि। यत्। असौ। जुहोति। ७३.२।
+या॒तु॒ऽधानाः॑। निःऽऋ॑तिः। आत्। ऊं॒ इति॑। रक्षः॑। ते। अ॒स्य॒। घ्न॒न्तु॒। अनृ॑तेन। स॒त्यम्। इन्द्र‍॑ऽइषिताः। दे॒वाः। आज्य॑म्। अ॒स्य॒। म॒थ्न॒न्तु॒। मा। तत्। सम्। पा॒दि॒। यत्। अ॒सौ। जु॒होति॑। ७३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,14 +170,17 @@ For him may sorcerers, Destruction, demons strike and prevent fulfilment through
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒जि॒रा॒धि॒रा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव ।  
-आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥३॥  
+अ॑जिराधिरा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव।  
+आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑जिराधिरा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव। आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥
+अ॑जिराधिरा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव।  
+आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
@@ -195,7 +204,7 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 </details>
 <details><summary>पदपाठः</summary>
 
-अजिरऽअधिराजौ। श्येनौ। संपातिनौऽइव। आज्यम्। पृतन्यतः। हताम्। यः। नः। कः। च। अभिऽअघायति। ७३.३।
+अ॒जि॒र॒ऽअ॒धि॒रा॒जौ। श्ये॒नौ। सं॒पा॒तिनौ॑ऽइव। आज्य॑म्। पृ॒त॒न्य॒तः। ह॒ता॒म्। यः। नः॒। कः। च॒। अ॒भि॒ऽअ॒घा॒यति। ७३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्यऽम्।  
-अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥४॥  
+अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
+अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्य᳡म्। अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
+अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/04_apAnchau_ta.md">
@@ -256,7 +268,7 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 </details>
 <details><summary>पदपाठः</summary>
 
-अपाञ्चौ। ते। उभौ। बाहू इति। अपि। नह्यामि। आस्य᳡म्। अग्नेः। देवस्य। मन्युना। तेन। ते। अवधिषम्। हव‍िः। ७३.४।
+अपा॑ञ्चौ। ते॒। उ॒भौ। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। दे॒वस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒व‍िः। ७३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -287,14 +299,17 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्यऽम्।  
-अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥५॥
+अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
+अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्य᳡म्। अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
+अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/05_api_nahyAmi.md">
@@ -320,7 +335,7 @@ Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrif
 </details>
 <details><summary>पदपाठः</summary>
 
-अपि। नह्यामि। ते। बाहू इति। अपि। नह्यामि। आस्य᳡म्। अग्नेः। घोरस्य। मन्युना। तेन। ते। अवधिषम्। हविः। ७३.५।
+अपि॑। न॒ह्या॒मि॒। ते॒। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। घो॒रस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒विः। ७३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

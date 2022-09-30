@@ -36,14 +36,17 @@ A hymn to Mitra-Varuna
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑ ।  
-प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥१॥  
+म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑।  
+प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/01_manve_vAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑। प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑।  
+प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/01_manve_vAm.md">
@@ -80,7 +83,7 @@ You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away opp
 </details>
 <details><summary>पदपाठः</summary>
 
-मन्वे। वाम्। मित्रावरुणौ। ऋतऽवृधौ। सऽचेतसौ। द्रुह्वणः। यौ। नुदेथे इति। प्र। सत्यऽवानम्। अवथः। भरेषु। तौ। नः। मुञ्चतम्। अंहसः। २९.१।
+म॒न्वे। वा॒म्। मि॒त्रा॒व॒रु॒णौ॒। ऋ॒त॒ऽवृ॒धौ॒। सऽचे॑तसौ। द्रुह्व॑णः। यौ। नु॒देथे॒ इति॑। प्र। स॒त्यऽवा॑नम्। अव॑थः। भरे॑षु। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -111,14 +114,17 @@ You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away opp
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॒ प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु ।  
-यौ गच्छ॑थो नृ॒चक्ष॑सौ ब॒भ्रुणा॑ सु॒तं तौ नो॑ मुञ्चत॒मंह॑सः ॥२॥  
+सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॒ प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु।  
+यौ गच्छ॑थो नृ॒चक्ष॑सौ ब॒भ्रुणा॑ सु॒तं तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॒ प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु। यौ गच्छ॑थो नृ॒चक्ष॑सौ ब॒भ्रुणा॑ सु॒तं तौ नो॑ मुञ्चत॒मंह॑सः ॥
+सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॒ प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु।  
+यौ गच्छ॑थो नृ॒चक्ष॑सौ ब॒भ्रुणा॑ सु॒तं तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
@@ -145,7 +151,7 @@ Ye the wise Gods who drive away oppressors, ye who protect the truthful in his b
 </details>
 <details><summary>पदपाठः</summary>
 
-सऽचेतसौ। द्रुह्वणः। यौ। नुदेथे इति। प्र। सत्यऽवानम्। अवथः। भरेषु। यौ। गच्छथः। नृऽचक्षसौ। बभ्रुणा। सुतम्। तौ। नः। मुञ्चतम्। अंहसः। २९.२।
+सऽचे॑तसौ। द्रुह्व॑णः। यौ। नु॒देथे॒ इति॑। प्र। स॒त्यऽवा॑नम्। अव॑थः। भरे॑षु। यौ। गच्छ॑थः। नृ॒ऽचक्ष॑सौ। ब॒भ्रुणा॑। सु॒तम्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,14 +182,17 @@ Ye the wise Gods who drive away oppressors, ye who protect the truthful in his b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्रिम्।  
-यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥३॥  
+यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्त्रि॑म्।  
+यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्त्रि॑म्। यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्त्रि॑म्।  
+यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
@@ -205,7 +214,7 @@ Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help 
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। अङ्गिरसम्। अवथः। यौ। अगस्तिम्। मित्रावरुणा। जमत्ऽअग्निम्। अत्त्रिम्। यौ। कश्यपम्। अवथः। यौ। वसिष्ठम्। तौ। नः। मुञ्चतम्। अंहसः। २९.३।
+यौ। अङ्गि॑रसम्। अव॑थः। यौ। अ॒गस्ति॑म्। मित्रा॑वरुणा। ज॒मत्ऽअ॑ग्निम्। अत्त्रि॑म्। यौ। क॒श्यप॑म्। अव॑थः। यौ। वसि॑ष्ठम्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -236,14 +245,17 @@ Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ श्या॒वाश्व॒मव॑थो वाध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्रिम्।  
-यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥४॥  
+यौ श्या॒वाश्व॒मव॑थो वध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्त्रि॑म्।  
+यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यौ श्या॒वाश्व॒मव॑थो वध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्त्रि॑म्। यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यौ श्या॒वाश्व॒मव॑थो वध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्त्रि॑म्।  
+यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
@@ -264,7 +276,7 @@ Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। श्यावऽअश्वम्। अवथः। वध्रिऽअश्वम्। मित्रावरुणा। पुरुऽमीढम्। अत्त्रिम्। यौ। विऽमदम्। अवथः। सप्तऽवध्रिम्। तौ। नः। मुञ्चतम्। अंहसः। २९.४।
+यौ। श्या॒वऽअ॑श्वम्। अव॑थः। व॒ध्रि॒ऽअ॒श्वम्। मित्रा॑वरुणा। पु॒रु॒ऽमी॒ढम्। अत्त्रि॑म्। यौ। वि॒ऽम॒दम्। अव॑थः। स॒प्तऽव॑ध्रिम्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -295,14 +307,17 @@ Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो भ॒रद्वा॑जमव॑थो॒ यौ ग॒विष्ठि॑रं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्।  
-यौ क॒क्षीव॑न्त॒मव॑थः प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥५॥  
+यौ भ॒रद्वा॑ज॒मव॑थो॒ यौ गवि॑ष्ठिरं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्।  
+यौ क॒क्षीव॑न्त॒मव॑थः॒ प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यौ भ॒रद्वा॑ज॒मव॑थो॒ यौ गवि॑ष्ठिरं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्। यौ क॒क्षीव॑न्त॒मव॑थः॒ प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यौ भ॒रद्वा॑ज॒मव॑थो॒ यौ गवि॑ष्ठिरं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्।  
+यौ क॒क्षीव॑न्त॒मव॑थः॒ प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
@@ -323,7 +338,7 @@ Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, W
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। भरत्ऽवाजम्। अवथः। यौ। गविष्ठिरम्। विश्वामित्रम्। वरुण। मित्र। कुत्सम्। यौ। कक्षीवन्तम्। अवथः। प्र। उत। कण्वम्। तौ। नः। मुञ्चतम्। अंहसः। २९.५।
+यौ। भ॒रत्ऽवा॑जम्। अव॑थः। यौ। गवि॑ष्ठिरम्। वि॒श्वामि॑त्रम्। व॒रु॒ण॒। मि॒त्र॒। कुत्स॑म्। यौ। क॒क्षीव॑न्तम्। अव॑थः। प्र। उ॒त। कण्व॑म्। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -355,13 +370,16 @@ Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, W
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ मेधा॑तिथि॒मव॑थो॒ यौ त्रि॒शोकं॒ मित्रा॑वरुणावु॒शनां॑ का॒व्यं यौ।  
-यौ गोत॑म॒मव॑थः प्रोत मुद्ग॑लं तौ नो॑ मुञ्चत॒मंह॑सः ॥६॥  
+यौ गोत॑म॒मव॑थः॒ प्रोत मुद्ग॑लं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यौ मेधा॑तिथि॒मव॑थो॒ यौ त्रि॒शोकं॒ मित्रा॑वरुणावु॒शनां॑ का॒व्यं यौ। यौ गोत॑म॒मव॑थः॒ प्रोत मुद्ग॑लं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+यौ मेधा॑तिथि॒मव॑थो॒ यौ त्रि॒शोकं॒ मित्रा॑वरुणावु॒शनां॑ का॒व्यं यौ।  
+यौ गोत॑म॒मव॑थः॒ प्रोत मुद्ग॑लं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
@@ -384,7 +402,7 @@ Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gota
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। मेधऽअतिथिम्। अवथः। यौ। त्रिऽशोकम्। मित्रावरुणै। उशनाम्। काव्यम्। यौ। यौ। गोतमम्। अवथः। प्र। उत। मुद्गलम्। तौ  नः। मुञ्चतम्। अंहसः। २९.६।
+यौ। मेध॑ऽअतिथिम्। अव॑थः। यौ। त्रि॒ऽशोक॑म्। मित्रा॑वरुणै। उ॒शना॑म्। का॒व्यम्। यौ। यौ। गोत॑मम्। अव॑थः। प्र। उ॒त। मुद्ग॑लम्। तौ नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -416,13 +434,16 @@ Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gota
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ययो॒ रथः॑ स॒त्यव॑र्त्म॒र्जुर॑श्मिर्मिथु॒या चर॑न्तमभि॒याति॑ दू॒षय॑न्।  
-स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥७॥
+स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि तौ नो मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/07_yayo_rathaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ययो॒ रथः॑ स॒त्यव॑र्त्म॒र्जुर॑श्मिर्मिथु॒या चर॑न्तमभि॒याति॑ दू॒षय॑न्। स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि तौ नो मुञ्चत॒मंह॑सः ॥
+ययो॒ रथः॑ स॒त्यव॑र्त्म॒र्जुर॑श्मिर्मिथु॒या चर॑न्तमभि॒याति॑ दू॒षय॑न्।  
+स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि तौ नो मुञ्चत॒मंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/07_yayo_rathaH.md">
@@ -448,7 +469,7 @@ Whose straight-reined car that keeps the track of goodness assails and ruins him
 </details>
 <details><summary>पदपाठः</summary>
 
-ययोः। रथः। सत्यऽवर्त्मा। ऋजुऽरश्मिः। मिथुया। चरन्तम्। अभिऽयाति। दूषयन्। स्तौमि। मित्रावरुणौ। नाथितः। जोहवीमि। तौ। नः। मुञ्चतम्। अंहसः। २९.७।
+ययोः॑। रथः॑। स॒त्यऽव॑र्त्मा। ऋ॒जुऽर॑श्मिः। मि॒थु॒या। चर॑न्तम्। अ॒भि॒ऽयाति॑। दू॒षय॑न्। स्तौमि॑। मि॒त्रावरु॑णौ। ना॒थि॒तः। जो॒ह॒वी॒मि॒। तौ। नः॒। मु॒ञ्च॒त॒म्। अंह॑सः। २९.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

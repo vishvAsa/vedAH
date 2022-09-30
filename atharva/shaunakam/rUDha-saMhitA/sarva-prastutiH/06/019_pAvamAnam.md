@@ -37,13 +37,16 @@ A prayer for purification
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या।  
-पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥१॥  
+पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/01_punantu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या। पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥
+पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या।  
+पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/01_punantu_mA.md">
@@ -73,7 +76,7 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 </details>
 <details><summary>पदपाठः</summary>
 
-पुनन्तु। मा। देवऽजनाः। पुनन्तु। मनवः। धिया। पुनन्तु। विश्वा। भूतानि। पवमानः। पुनातु। मा। १९.१।
+पु॒नन्तु॑। मा॒। दे॒व॒ऽज॒नाः। पु॒नन्तु॑। मन॑वः। धि॒या। पु॒नन्तु॑। विश्वा॑। भू॒तानि॑। पव॑मानः। पु॒ना॒तु॒। मा॒। १९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ।  
-अथो॑ अरि॒ष्टता॑तये ॥२॥  
+पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑।  
+अथो॑ अरि॒ष्टता॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑। अथो॑ अरि॒ष्टता॑तये ॥
+पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑।  
+अथो॑ अरि॒ष्टता॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
@@ -134,7 +140,7 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 </details>
 <details><summary>पदपाठः</summary>
 
-पवमानः। पुनातु। मा। क्रत्वे। दक्षाय। जीवसे। अथो इति। अरिष्टऽतातये। १९.२।
+पव॑मानः। पु॒ना॒तु॒। मा॒। क्रत्वे॑। दक्षा॑य। जी॒वसे॑। अथो॒ इति॑। अ॒रि॒ष्टऽता॑तये। १९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च ।  
-अ॒स्मान् पु॑नीहि॒ चक्ष॑से ॥३॥
+उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च।  
+अ॒स्मान्पु॑नीहि॒ चक्ष॑से ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च। अ॒स्मान्पु॑नीहि॒ चक्ष॑से ॥
+उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च।  
+अ॒स्मान्पु॑नीहि॒ चक्ष॑से ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
@@ -195,7 +204,7 @@ God Savitar, byboth of these, filter and pressing out this juice, purify us that
 </details>
 <details><summary>पदपाठः</summary>
 
-उभाभ्याम्। देव। सवितः। पवित्रेण। सवेन। च। अस्मान्। पुनीहि। चक्षसे। १९.३।
+उ॒भाभ्या॑म्। दे॒व॒। स॒वि॒तः॒। प॒वित्रे॑ण। स॒वेन॑। च॒। अ॒स्मान्। पु॒नी॒हि॒। चक्ष॑से। १९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

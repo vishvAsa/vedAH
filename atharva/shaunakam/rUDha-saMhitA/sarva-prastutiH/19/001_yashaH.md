@@ -36,14 +36,17 @@ An accompaniment to the offering of a Mixt Oblation
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/01_saMsaM_sravantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सं स्र॑वन्तु न॒द्यः॑१ सं वाताः॒ सं प॑त॒त्रिणः॑ ।  
-य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥१॥  
+संसं॑ स्रवन्तु न॒द्यः१॒॑ सं वाताः॒ सं प॑त॒त्रिणः॑।  
+य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/001_yashaH/01_saMsaM_sravantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-संसं॑ स्रवन्तु न॒द्यः सं वाताः॒ सं प॑त॒त्रिणः॑। य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+संसं॑ स्रवन्तु न॒द्यः१॒॑ सं वाताः॒ सं प॑त॒त्रिणः॑।  
+य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/001_yashaH/01_saMsaM_sravantu.md">
@@ -69,7 +72,7 @@ Let the streams flow together, let the winds and birds assembled come. Strengthe
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। नद्यः᳡। सम्। वाताः। सम्। पतत्रिणः। यज्ञम्। इमम्। वर्धयत। गिरः। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। १.१।
+सम्। सम्। स्र॒व॒न्तु॒। न॒द्यः᳡। सम्। वाताः॑। सम्। प॒त॒त्रिणः॑। य॒ज्ञम्। इ॒मम्। व॒र्ध॒य॒त॒। गि॒रः॒। स॒म्ऽस्रा॒व्ये᳡ण। ह॒विषा॑। जु॒हो॒मि॒। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Let the streams flow together, let the winds and birds assembled come. Strengthe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/02_imaM_homA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं होमा॑ य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त।  
-य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥२॥  
+इ॒मं हो॑मा य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त।  
+य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/001_yashaH/02_imaM_homA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं हो॑मा य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त। य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+इ॒मं हो॑मा य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त।  
+य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/001_yashaH/02_imaM_homA.md">
@@ -131,7 +137,7 @@ O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen t
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। होमाः। यज्ञम्। अवत। इमम्। सम्ऽस्रावणाः। उत। यज्ञम्। इमम्। वर्धयत। गिरः। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। १.२।
+इ॒मम्। होमाः॑। य॒ज्ञम्। अ॒व॒त॒। इ॒मम्। स॒म्ऽस्रा॒व॒णाः॒। उ॒त। य॒ज्ञम्। इ॒मम्। व॒र्ध॒य॒त॒। गि॒रः॒। स॒म्ऽस्रा॒व्ये᳡ण। ह॒विषा॑। जु॒हो॒मि॒। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ O Burnt Oblations, aid, and ye, Blent Offerings, this my sacrifice. Strengthen t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/001_yashaH/03_rUpaMrUpaM_vayovayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे ।  
-य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥३॥
+रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे।  
+य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/001_yashaH/03_rUpaMrUpaM_vayovayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे। य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे।  
+य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्ये᳡ण ह॒विषा॑ जुहोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/001_yashaH/03_rUpaMrUpaM_vayovayaH.md">
@@ -195,7 +204,7 @@ Each several form, each several force I seize, and compass round this man. May t
 </details>
 <details><summary>पदपाठः</summary>
 
-रूपम्ऽरूपम्। वयःऽवयः। सम्ऽरभ्य। एनम्। परि। स्वजे। यज्ञम्। इमम्। चतस्रः। प्रऽदिशः। वर्धयन्तु। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। १.३।
+रू॒पम्ऽरू॑पम्। वयः॑ऽवयः। स॒म्ऽरभ्य॑। ए॒न॒म्। परि॑। स्व॒जे॒। य॒ज्ञम्। इ॒मम्। चत॑स्रः। प्र॒ऽदिशः॑। व॒र्ध॒य॒न्तु॒। स॒म्ऽस्रा॒व्ये᳡ण। ह॒विषा॑। जु॒हो॒मि॒। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to restore virile power
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां त्वा॑ गन्ध॒र्वो अख॑न॒द् वरु॑णाय मृ॒तभ्र॑जे ।  
-तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम्॥१॥  
+य त्वा॑ गन्ध॒र्वो अख॑न॒द्वरु॑णाय मृ॒तभ्र॑जे।  
+तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य त्वा॑ गन्ध॒र्वो अख॑न॒द्वरु॑णाय मृ॒तभ्र॑जे। तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम् ॥
+य त्वा॑ गन्ध॒र्वो अख॑न॒द्वरु॑णाय मृ॒तभ्र॑जे।  
+तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/01_ya_tvA.md">
@@ -73,7 +76,7 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। त्वा। गन्धर्वः। अखनत्। वरुणाय। मृतऽभ्रजे। ताम्। त्वा। वयम्। खनामसि। ओषधिम्। शेपःऽहर्षणीम्। ४.१।
+याम्। त्वा॒। ग॒न्ध॒र्वः। अख॑नत्। वरु॑णाय। मृ॒तऽभ्र॑जे। ताम्। त्वा॒। व॒यम्। ख॒ना॒म॒सि॒। ओष॑धिम्। शे॒पः॒ऽहर्ष॑णीम्। ४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑ ।  
-उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥२॥  
+उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑।  
+उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑। उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥
+उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑।  
+उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/02_uduShA_udu.md">
@@ -141,7 +147,7 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। उषाः। उत्। ऊं इति। सूर्यः। उत्। इदम्। मामकम्। वचः। उत्। एजतु। प्रजाऽपतिः। वृषा। शुष्मेण। वाजिना। ४.२।
+उत्। उ॒षाः। उत्। ऊं॒ इति॑। सूर्यः॑। उत्। इ॒दम्। मा॒म॒कम्। वचः॑। उत्। ए॒ज॒तु॒। प्र॒जाऽप॑तिः। वृषा॑। शुष्मे॑ण। वा॒जिना॑। ४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +178,17 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति ।  
-तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥३॥  
+यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति।  
+तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति। तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥
+यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति।  
+तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/03_yathA_sma.md">
@@ -211,7 +220,7 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। स्म। ते। विऽरोहतः। अभितप्तम्ऽइव। अनति। ततः। ते। शुष्मवत्ऽतरम्। इयम्। कृणोतु। ओषधिः। ४.३।
+यथा॑। स्म॒। ते॒। वि॒ऽरोह॑तः। अ॒भित॑प्तम्ऽइव। अन॑ति। ततः॑। ते॒। शुष्म॑वत्ऽतरम्। इ॒यम्। कृ॒णो॒तु॒। ओष॑धिः। ४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -243,13 +252,16 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उच्छुष्मौष॑धीनां॒ सार॑ ऋष॒भाणा॑म्।  
-सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन्॥४॥  
+सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उच्छुष्मौष॑धीनां॒ सार॑ ऋष॒भाणा॑म्। सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन् ॥
+उच्छुष्मौष॑धीनां॒ सार॑ ऋष॒भाणा॑म्।  
+सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
@@ -280,7 +292,7 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। शुष्मा। ओषधीनाम्। सारा। ऋषभाणाम्। सम्। पुंसाम्। इन्द्र। वृष्ण्यम्। अस्मिन्। धेहि। तनूऽवशिन्। ४.४।
+उत्। शुष्मा॑। ओष॑धीनाम्। सारा॑। ऋ॒ष॒भाणा॑म्। सम्। पुं॒साम्। इ॒न्द्र॒। वृष्ण्य॑म्। अ॒स्मिन्। धे॒हि॒। त॒नू॒ऽव॒शि॒न्। ४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -312,13 +324,16 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पां रसः॑ प्रथम॒जोऽथो॒ वन॒स्पती॑नाम्।  
-उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म्॥५॥  
+उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/05_apAM_rasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पां रसः॑ प्रथम॒जोऽथो॒ वन॒स्पती॑नाम्। उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म् ॥
+अ॒पां रसः॑ प्रथम॒जोऽथो॒ वन॒स्पती॑नाम्।  
+उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
@@ -343,7 +358,7 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 </details>
 <details><summary>पदपाठः</summary>
 
-अपाम्। रसः। प्रथमऽजः। अथो इति। वनस्पतीनाम्। उत। सोमस्य। भ्राता। असि। उत। आर्शम्। असि। वृष्ण्यम्। ४.५।
+अ॒पाम्। रसः॑। प्र॒थ॒म॒ऽजः। अथो॒ इति॑। वन॒स्पती॑नाम्। उ॒त। सोम॑स्य। भ्राता॑। अ॒सि॒। उ॒त। आ॒र्शम्। अ॒सि॒। वृष्ण्य॑म्। ४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -374,14 +389,17 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति ।  
-अ॑द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥६॥  
+अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति।  
+अ॒द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति। अ॒द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
+अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति।  
+अ॒द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
@@ -436,7 +454,7 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 </details>
 <details><summary>पदपाठः</summary>
 
-अद्य। अग्ने। अद्य। सवितः। अद्य। देवि। सरस्वति। अद्य। अस्य। ब्रह्मणः। पते। धनुःऽइव। आ। तानय। पसः। ४.६।
+अ॒द्य। अ॒ग्ने॒। अ॒द्य। स॒वि॒तः॒। अ॒द्य। दे॒वि॒। स॒र॒स्व॒ति॒। अ॒द्य। अ॒स्य। ब्र॒ह्म॒णः॒। प॒ते॒। धनुः॑ऽइव। आ। ता॒न॒य॒। पसः॑। ४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -467,14 +485,17 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि ।  
-क्रम॒स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥७॥  
+आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
+क्रम॒स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि। क्रम॒स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
+आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
+क्रम॒स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
@@ -490,7 +511,7 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अहम्। तनोमि। ते। पसः। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋशःऽइव। रोहितम्। अनवऽग्लायता। सदा। ४.७।
+आ। अ॒हम्। त॒नो॒मि॒। ते॒। पसः॑। अधि॑। ज्याम्ऽइ॑व। धन्व॑नि। क्रम॑स्व। ऋशः॑ऽइव। रो॒हित॑म्। अन॑वऽग्लायता। सदा॑। ४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -521,14 +542,17 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च ।  
-अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन्॥८॥
+अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च।  
+अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च। अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन् ॥
+अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च।  
+अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
@@ -553,7 +577,7 @@ Quae sunt equi vires, muli, capri, arietis, atque tauri, illas, cor- poris poten
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्वस्य। अश्वतरस्य। अजस्य। पेत्वस्य। च। अथ। ऋषभस्य। ये। वाजाः। तान्। अस्मिन्। धेहि। तनूऽवशिन्। ४.८।
+अश्व॑स्य। अ॒श्व॒त॒रस्य॑। अ॒जस्य॑। पेत्व॑स्य। च॒। अथ॑। ऋ॒ष॒भस्य॑। ये। वाजाः॑। तान्। अ॒स्मिन्। धे॒हि॒। त॒नू॒ऽव॒शि॒न्। ४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -37,13 +37,16 @@ The same
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्।  
-हु॒वे नु श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न् कृणोतु ॥१॥
+हु॒वे नु॑ श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न्कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्। हु॒वे नु॑ श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न्कृणोतु ॥
+त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्।  
+हु॒वे नु॑ श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न्कृणोतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
@@ -68,7 +71,7 @@ Indra the rescuer, Indra the helper, Indra the brave who hears each invocation, 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रातारम्। इन्द्रम्। अवितारम्। इन्द्रम्। हवेऽहवे। सुऽहवम्। शूरम्। इन्द्रम्। हुवे। नु। शक्रम्। पुरुऽहूतम्। इन्द्रम्। स्वस्ति। नः। इन्द्रः। मघऽवान्। कृणोतु। ९१.१।
+त्रा॒तार॑म्। इन्द्र॑म्। अ॒वि॒तार॑म्। इन्द्र॑म्। हवे॑ऽहवे। सु॒ऽहव॑म्। शूर॑म्। इन्द्र॑म्। हु॒वे। नु। श॒क्रम्। पु॒रु॒ऽहू॒तम्। इन्द्र॑म्। स्व॒स्ति। नः॒। इन्द्रः॑। म॒घऽवा॑न्। कृ॒णो॒तु॒। ९१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

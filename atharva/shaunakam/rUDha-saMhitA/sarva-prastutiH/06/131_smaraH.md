@@ -32,14 +32,17 @@ Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfie
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/01_ni_shIrShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३ नि ति॑रामि ते ।  
-देवाः प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥१॥  
+नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३॒॑ नि ति॑रामि ते।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/01_ni_shIrShato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३॒॑ नि ति॑रामि ते। देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३॒॑ नि ति॑रामि ते।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/01_ni_shIrShato.md">
@@ -60,7 +63,7 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 </details>
 <details><summary>पदपाठः</summary>
 
-‍नि। शीर्षतः। नि। पत्ततः। आऽध्यः᳡। नि। तिरामि। ते। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.१।
+‍नि। शी॒र्ष॒तः। नि। प॒त्त॒तः। आ॒ऽध्यः᳡। नि। ति॒रा॒मि॒। ते॒। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -91,14 +94,17 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑म॒तेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑ ।  
-देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥२॥  
+अनु॑मतेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अनु॑मतेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑। देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+अनु॑मतेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑।  
+देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
@@ -123,7 +129,7 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 </details>
 <details><summary>पदपाठः</summary>
 
-अनुऽमते। अनु। इदम्। मन्यस्व। आऽकूते। सम्। इदम्। नमः। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३१.२।
+अनु॑ऽमते। अनु॑। इ॒दम्। म॒न्य॒स्व॒। आऽकू॑ते। सम्। इ॒दम्। नमः॑। देवाः॑। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,14 +160,17 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
-तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता॥३॥
+यद्धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
+तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्। तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता ॥
+यद्धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
+तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
@@ -186,7 +195,7 @@ If thou shouldst run three leagues away, five leagues, a horse's daily stage, Th
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। धावसि। त्रिऽयोजनम्। पञ्चऽयोजनम्। आश्विनम्। ततः। त्वम्। पुनः। आऽअयसि। पुत्राणाम्। नः। असः। पिता। १३१.३।
+यत्। धाव॑सि। त्रि॒ऽयो॒ज॒नम्। प॒ञ्च॒ऽयो॒ज॒नम्। आश्वि॑नम्। ततः॑। त्वम्। पुनः॑। आऽअ॑यसि। पु॒त्राणा॑म्। नः॒। अ॒सः॒। पि॒ता। १३१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

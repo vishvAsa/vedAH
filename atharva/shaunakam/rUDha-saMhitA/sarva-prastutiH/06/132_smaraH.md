@@ -32,14 +32,17 @@ Translated: Weber, Ind. Stud. v. 245; Griffith, i. 319; Bloomfield, 104, 535.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/01_yaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥१॥  
+यं दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/132_smaraH/01_yaM_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्वन्तः शोशु॑चानं स॒हाध्या। तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+यं दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/01_yaM_devAH.md">
@@ -59,7 +62,7 @@ The Philter, burning with the pangs of yearning love, which Gods have poured wit
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.१।
+यम्। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -90,14 +93,17 @@ The Philter, burning with the pangs of yearning love, which Gods have poured wit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/02_yaM_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं विश्वे॑ दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥२॥  
+यं विश्वे॑ दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/132_smaraH/02_yaM_vishve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं विश्वे॑ दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्वन्तः शोशु॑चानं स॒हाध्या। तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+यं विश्वे॑ दे॒वाः स्म॒रमसि॑ञ्चन्न॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/02_yaM_vishve.md">
@@ -115,7 +121,7 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। विश्वे। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपा‍मि। वरुणस्य। धर्मणा। १३२.२।
+यम्। विश्वे॑। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒‍मि॒। वरु॑णस्य। धर्म॑णा। १३२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -142,22 +148,25 @@ The charm which, burning with the pangs of love, the General Gods have poured wi
 </details>
 </details>
 </div>
-## ०३ यमिन्द्राणी स्मरमसिञ्चदप्स्वन्तः
+## ०३ यमिन्द्राणी स्मरमसिञ्चदप्स्वन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/03_yamindrANI_smaramasinchadapsvantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमि॑न्द्रा॒णी स्म॒रमसि॑ञ्चद॒प्स्व॑१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥३॥  
+यमि॑न्द्रा॒णी स्म॒रमसि॑ञ्चद॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/132_smaraH/03_yamindrANI_smaramasinchadapsvantaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमि॑न्द्रा॒णी स्म॒रमसि॑ञ्चद॒प्स्वन्तः शोशु॑चानं स॒हाध्या। तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+यमि॑न्द्रा॒णी स्म॒रमसि॑ञ्चद॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/03_yamindrANI_smaramasinchadapsvantaH.md">
-<details open><summary><h3>०३ यमिन्द्राणी स्मरमसिञ्चदप्स्वन्तः ...{Loading}...</h3></summary>
+<details open><summary><h3>०३ यमिन्द्राणी स्मरमसिञ्चदप्स्वन्तः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -171,7 +180,7 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। इन्द्राणी। स्मरम्। असिञ्चत्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.३।
+यम्। इ॒न्द्रा॒णी। स्म॒रम्। असि॑ञ्चत्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -198,22 +207,25 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 </details>
 </details>
 </div>
-## ०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्वन्तः
+## ०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्वन्तः
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsvantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमि॑न्द्रा॒ग्नी स्म॒रमसि॑ञ्चताम॒प्स्व॑१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥४॥  
+यमि॑न्द्रा॒ग्नी स्म॒रमसि॑ञ्चताम॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsvantaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमि॑न्द्रा॒ग्नी स्म॒रमसि॑ञ्चताम॒प्स्वन्तः शोशु॑चानं स॒हाध्या। तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+यमि॑न्द्रा॒ग्नी स्म॒रमसि॑ञ्चताम॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/04_yamindrAgnI_smaramasinchatAmapsvantaH.md">
-<details open><summary><h3>०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्वन्तः ...{Loading}...</h3></summary>
+<details open><summary><h3>०४ यमिन्द्राग्नी स्मरमसिञ्चतामप्स्वन्तः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -227,7 +239,7 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। इन्द्राग्नी इति। स्मरम्। असिञ्चताम्। अपऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.४।
+यम्। इ॒न्द्रा॒ग्नी इति॑। स्म॒रम्। असि॑ञ्चताम्। अ॒पऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -258,14 +270,17 @@ The charm, aglow with longing, which Indra and Agni have effused within the boso
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/132_smaraH/05_yaM_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं मि॒त्रावरु॑णौ स्म॒रमसि॑ञ्चताम॒प्स्व॑१न्तः शोशु॑चानं स॒हाध्या।  
-तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥५॥
+यं मि॒त्रावरु॑णौ स्म॒रमसि॑ञ्चताम॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/132_smaraH/05_yaM_mitrAvaruNau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं मि॒त्रावरु॑णौ स्म॒रमसि॑ञ्चताम॒प्स्वन्तः शोशु॑चानं स॒हाध्या। तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+यं मि॒त्रावरु॑णौ स्म॒रमसि॑ञ्चताम॒प्स्व१॒॑न्तः शोशु॑चानं स॒हाध्या।  
+तं ते॑ तपामि॒ वरु॑णस्य॒ धर्म॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/132_smaraH/05_yaM_mitrAvaruNau.md">
@@ -283,7 +298,7 @@ The charm aglow with longing which Mitra and Varuna have poured within the bosom
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। मित्रावरुणौ। स्मरम्। असिञ्चताम्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.५।
+यम्। मि॒त्रावरु॑णौ। स्म॒रम्। असि॑ञ्चताम्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

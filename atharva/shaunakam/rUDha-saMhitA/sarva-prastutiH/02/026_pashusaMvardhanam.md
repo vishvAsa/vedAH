@@ -36,14 +36,17 @@ A benediction on homeward coming cattle
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/01_eha_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एह य॑न्तु प॒शवो॒ ये प॑रे॒युर्वा॒युर्येषां॑ सहचा॒रं जु॒जोष॑ ।  
-त्वष्टा॒ येषां॑ रूप॒धेया॑नि वेदा॒स्मिन् तान् गो॒ष्ठे स॑वि॒ता नि य॑छतु ॥१॥  
+ए॒ह य॑न्तु प॒शवो॒ ये प॑रे॒युर्वा॒युर्येषां॑ सहचा॒रं जु॒जोष॑।  
+त्वष्टा॒ येषां॑ रूपधेयानि॒ वेदा॒स्मिन्तान्गो॒ष्ठे स॑वि॒ता नि य॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/01_eha_yantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒ह य॑न्तु प॒शवो॒ ये प॑रे॒युर्वा॒युर्येषां॑ सहचा॒रं जु॒जोष॑। त्वष्टा॒ येषां॑ रूपधेयानि॒ वेदा॒स्मिन्तान्गो॒ष्ठे स॑वि॒ता नि य॑च्छतु ॥
+ए॒ह य॑न्तु प॒शवो॒ ये प॑रे॒युर्वा॒युर्येषां॑ सहचा॒रं जु॒जोष॑।  
+त्वष्टा॒ येषां॑ रूपधेयानि॒ वेदा॒स्मिन्तान्गो॒ष्ठे स॑वि॒ता नि य॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/01_eha_yantu.md">
@@ -67,7 +70,7 @@ Let them come home, the cattle that have wandered, whom Vayu hath delighted to a
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इह। यन्तु। पशवः। ये। पराऽईयुः। वायुः। येषाम्। सहऽचारम्। जुजोष। त्वष्टा। येषाम्। रूपऽधेयानि। वेद। अस्मिन्। तान्। गोऽस्थे। सविता। नि। यच्छतु। २६.१।
+आ। इ॒ह। य॒न्तु॒। प॒शवः॑। ये। प॒रा॒ऽई॒युः। वा॒युः। येषा॑म्। स॒ह॒ऽचा॒रम्। जु॒जोष॑। त्वष्टा॑। येषा॑म्। रू॒प॒ऽधेया॑नि। वेद॑। अ॒स्मिन्। तान्। गो॒ऽस्थे। स॒वि॒ता। नि। य॒च्छ॒तु॒। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,13 +102,16 @@ Let them come home, the cattle that have wandered, whom Vayu hath delighted to a
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं गो॒ष्ठं प॒शवः॒ सं स्र॑वन्तु॒ बृह॒स्पति॒रा न॑यतु प्रजा॒नन्।  
-सि॒नी॒वा॒ली न॑य॒त्वाग्र॑मेषामाज॒ग्मुषो॑ अनुमते॒ नि य॑छ ॥२॥  
+सि॑नीवा॒ली न॑य॒त्वाग्र॑मेषामाज॒ग्मुषो॑ अनुमते॒ नि य॑च्छ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/02_imaM_goShTham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं गो॒ष्ठं प॒शवः॒ सं स्र॑वन्तु॒ बृह॒स्पति॒रा न॑यतु प्रजा॒नन्। सि॑नीवा॒ली न॑य॒त्वाग्र॑मेषामाज॒ग्मुषो॑ अनुमते॒ नि य॑च्छ ॥
+इ॒मं गो॒ष्ठं प॒शवः॒ सं स्र॑वन्तु॒ बृह॒स्पति॒रा न॑यतु प्रजा॒नन्।  
+सि॑नीवा॒ली न॑य॒त्वाग्र॑मेषामाज॒ग्मुषो॑ अनुमते॒ नि य॑च्छ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/02_imaM_goShTham.md">
@@ -132,7 +138,7 @@ Let the beasts stream together to this cow-pen. Brihaspati who knoweth lead them
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। गोऽस्थम्। पशवः। सम्। स्रवन्तु। बृहस्पतिः। आ। नयतु। प्रऽजानन्। सिनीवाली। नयतु। आ। अग्रम्। एषाम्। आऽजग्मुषः। अनुऽमते। नि। यच्छ। २६.२।
+इ॒मम्। गो॒ऽस्थम्। प॒शवः॑। सम्। स्र॒व॒न्तु॒। बृह॒स्पतिः॑। आ। न॒य॒तु॒। प्र॒ऽजा॒नन्। सि॒नी॒वा॒ली। न॒य॒तु॒। आ। अग्र॑म्। ए॒षा॒म्। आ॒ऽज॒ग्मुषः॑। अ॒नु॒ऽम॒ते॒। नि। य॒च्छ॒। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Let the beasts stream together to this cow-pen. Brihaspati who knoweth lead them
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/03_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सं स्र॑वन्तु प॒शवः॒ समश्वाः॒ समु॒ पूरु॑षाः ।  
-सं धा॒न्यऽस्य॒ या स्फा॒तिः सं॑स्रा॒व्येऽण ह॒विषा॑ जुहोमि ॥३॥  
+सं सं स्र॑वन्तु प॒शवः॒ समश्वाः॒ समु॒ पूरु॑षाः।  
+सं धा॒न्य॑स्य॒ या स्फा॒तिः सं॑स्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/03_saM_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं सं स्र॑वन्तु प॒शवः॒ समश्वाः॒ समु॒ पूरु॑षाः। सं धा॒न्य॑स्य॒ या स्फा॒तिः सं॑स्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
+सं सं स्र॑वन्तु प॒शवः॒ समश्वाः॒ समु॒ पूरु॑षाः।  
+सं धा॒न्य॑स्य॒ या स्फा॒तिः सं॑स्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/03_saM_sam.md">
@@ -196,7 +205,7 @@ Together stream the cattle! stream together horses and the men! Hitherward press
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। सम्। स्रवन्तु। पशवः। सम्। अश्वाः। सम्। ऊं इति। पुरुषाः। सम्। धान्य᳡स्य। या। स्‍फातिः। सम्ऽस्राव्ये᳡ण। हविषा। जुहोमि। २६.३।
+सम्। सम्। स्र॒व॒न्तु॒। प॒शवः॑। सम्। अश्वाः॑। सम्। ऊं॒ इति॑। पुरु॑षाः। सम्। धा॒न्य᳡स्य। या। स्‍फा॒तिः। स॒म्ऽस्रा॒व्ये᳡ण। ह॒विषा॑। जु॒हो॒मि॒। २६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ Together stream the cattle! stream together horses and the men! Hitherward press
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/04_saM_sinchAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं सि॑ञ्चामि॒ गवां॑ क्षी॒रं समाज्ये॑न॒ बलं॒ रसम्।  
-संसि॑क्ता अ॒स्माकं॑ वी॒रा ध्रु॒वा गावो॒ मयि॒ गोप॑तौ ॥४॥  
+सं सि॑ञ्चामि॒ गवां॑ क्षी॒रं समाज्ये॑न॒ बलं॒ रस॑म्।  
+संसि॑क्ता अ॒स्माकं॑ वी॒रा ध्रु॒वा गावो॒ मयि॒ गोप॑तौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/04_saM_sinchAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं सि॑ञ्चामि॒ गवां॑ क्षी॒रं समाज्ये॑न॒ बलं॒ रस॑म्। संसि॑क्ता अ॒स्माकं॑ वी॒रा ध्रु॒वा गावो॒ मयि॒ गोप॑तौ ॥
+सं सि॑ञ्चामि॒ गवां॑ क्षी॒रं समाज्ये॑न॒ बलं॒ रस॑म्।  
+संसि॑क्ता अ॒स्माकं॑ वी॒रा ध्रु॒वा गावो॒ मयि॒ गोप॑तौ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/04_saM_sinchAmi.md">
@@ -262,7 +274,7 @@ I pour together milk of kine, with butter blending strength and juice. Well spri
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। सिञ्चामि। गवाम्। क्षीरम्। सम्। आज्येन। बलम्। रसम्। सम्ऽसिक्ताः। अस्माकम्। वीराः। ध्रुवाः। गावः। मयि। गोऽपतौ। २६.४।
+सम्। सि॒ञ्चा॒मि॒। गवा॑म्। क्षी॒रम्। सम्। आज्ये॑न। बल॑म्। रस॑म्। सम्ऽसि॑क्ताः। अ॒स्माक॑म्। वी॒राः। ध्रु॒वाः। गावः॑। मयि॑। गोऽप॑तौ। २६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -293,14 +305,17 @@ I pour together milk of kine, with butter blending strength and juice. Well spri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/026_pashusaMvardhanam/05_A_harAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ह॑रामि॒ गवां॑ क्षी॒रमाहा॑र्षं धा॒न्यं॑१ रस॑म्।  
-आहृ॑ता अ॒स्माकं॑ वी॒रा आ पत्नी॑रि॒दमस्त॑कम्॥५॥
+आ ह॑रामि॒ गवां॑ क्षी॒रमाहा॑र्षं धा॒न्यं१॒॑ रस॑म्।  
+आहृ॑ता अ॒स्माकं॑ वी॒रा आ पत्नी॑रि॒दमस्त॑कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/026_pashusaMvardhanam/05_A_harAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ ह॑रामि॒ गवां॑ क्षी॒रमाहा॑र्षं धा॒न्यं रस॑म्। आहृ॑ता अ॒स्माकं॑ वी॒रा आ पत्नी॑रि॒दमस्त॑कम् ॥
+आ ह॑रामि॒ गवां॑ क्षी॒रमाहा॑र्षं धा॒न्यं१॒॑ रस॑म्।  
+आहृ॑ता अ॒स्माकं॑ वी॒रा आ पत्नी॑रि॒दमस्त॑कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/026_pashusaMvardhanam/05_A_harAmi.md">
@@ -330,7 +345,7 @@ Hither I bring the milk of cows, hither have brought the juice of corn. Hitherwa
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। हरामि। गवाम्। क्षीरम्। आ। अहार्षम्। धान्य᳡म्। रसम्। आऽहृताः। अस्माकम्। वीराः। आ। पत्नीः। इदम्। अस्तकम्। २६.५।
+आ। ह॒रा॒मि॒। गवा॑म्। क्षी॒रम्। आ। अ॒हा॒र्ष॒म्। धा॒न्य᳡म्। रस॑म्। आऽहृ॑ताः। अ॒स्माक॑म्। वी॒राः। आ। पत्नीः॑। इ॒दम्। अस्त॑कम्। २६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

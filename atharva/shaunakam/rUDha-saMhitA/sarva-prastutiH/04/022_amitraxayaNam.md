@@ -36,14 +36,17 @@ A benediction on a newly consecrated king
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑क वृ॒षं कृ॑णु॒ त्वम्।  
-निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान् र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥१॥  
+इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑कवृ॒षं कृ॑णु॒ त्वम्।  
+निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान्र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑कवृ॒षं कृ॑णु॒ त्वम्। निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान्र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥
+इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑कवृ॒षं कृ॑णु॒ त्वम्।  
+निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान्र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
@@ -71,7 +74,7 @@ Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of t
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। इन्द्र। वर्धय। क्षत्रियम्। मे। इमम्। विशाम्। एकऽवृषम्। कृणु। त्वम्। निः। अमित्रान्। अक्ष्णुहि। अस्य। सर्वान्। तान्। रन्धय। अस्मै। अहम्ऽउत्तरेषु। २२.१।
+इ॒मम्। इ॒न्द्र॒। व॒र्ध॒य॒। क्ष॒त्रिय॑म्। मे॒। इ॒मम्। वि॒शाम्। ए॒क॒ऽवृ॒षम्। कृ॒णु॒। त्वम्। निः। अ॒मित्रा॑न्। अ॒क्ष्णु॒हि॒। अ॒स्य॒। सर्वा॑न्। तान्। र॒न्ध॒य॒। अ॒स्मै॒। अ॒ह॒म्ऽउ॒त्त॒रेषु॑। २२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,13 +106,16 @@ Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एमं भ॑ज॒ ग्रामे॒ अश्वे॑षु॒ गोषु॒ निष्टं भ॑ज॒ यो अ॒मित्रो॑ अ॒स्य।  
-वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै॥२॥  
+वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/02_emaM_bhaja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एमं भ॑ज॒ ग्रामे॒ अश्वे॑षु॒ गोषु॒ निष्टं भ॑ज॒ यो अ॒मित्रो॑ अ॒स्य। वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै ॥
+एमं भ॑ज॒ ग्रामे॒ अश्वे॑षु॒ गोषु॒ निष्टं भ॑ज॒ यो अ॒मित्रो॑ अ॒स्य।  
+वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/02_emaM_bhaja.md">
@@ -140,7 +146,7 @@ Give him a share in village, kine, and horses, and leave his enemy without a por
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इमम्। भज। ग्रामे। अश्वेषु। गोषु। निः। तम्। भज। यः। अमित्रः। अस्य। वर्ष्म। क्षत्राणाम्। अयम्। अस्तु। राजा। इन्द्र। शत्रुम्। रन्धय। सर्वम्। अस्मै। २२.२।
+आ। इ॒मम्। भ॒ज॒। ग्रामे॑। अश्वे॑षु। गोषु॑। निः। तम्। भ॒ज॒। यः। अ॒मित्रः॑। अ॒स्य। वर्ष्म॑। क्ष॒त्राणा॑म्। अ॒यम्। अ॒स्तु॒। राजा॑। इन्द्र॑। शत्रु॑म्। र॒न्ध॒य॒। सर्व॑म्। अ॒स्मै। २२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,14 +177,17 @@ Give him a share in village, kine, and horses, and leave his enemy without a por
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यम॑स्तु धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑ ।  
-अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥३॥  
+अ॒यम॑स्तु॒ धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑।  
+अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यम॑स्तु॒ धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑। अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥
+अ॒यम॑स्तु॒ धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑।  
+अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
@@ -202,7 +211,7 @@ Let him be treasure-lord of goodly treasures, let him as King be master of the p
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। अस्तु। धनऽपतिः। धनानाम्। अयम्। विशाम्। विश्पतिः। अस्तु। राजा। अस्मिन्। इन्द्र। महि। वर्चांसि। धेहि। अवर्चसम्। कृणुहि। शत्रुम्। अस्य। २२.३।
+अ॒यम्। अ॒स्तु॒। धन॑ऽपतिः। धना॑नाम्। अ॒यम्। वि॒शाम्। वि॒श्पतिः॑। अ॒स्तु॒। राजा॑। अ॒स्मिन्। इ॒न्द्र॒। महि॑। वर्चां॑सि। धे॒हि॒। अ॒व॒र्चस॑म्। कृ॒णु॒हि॒। शत्रु॑म्। अ॒स्य॒। २२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -233,14 +242,17 @@ Let him be treasure-lord of goodly treasures, let him as King be master of the p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै द्यावा॑पृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इव धे॒नू।  
-अ॒यं राजा॒ प्रि॒य इन्द्र॑स्य भूयात् प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम्॥४॥  
+अ॒स्मै द्या॑वापृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इ॒व धे॒नू।  
+अ॒यं राजा॑ प्रि॒य इन्द्र॑स्य भूयात्प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्मै द्या॑वापृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इ॒व धे॒नू। अ॒यं राजा॑ प्रि॒य इन्द्र॑स्य भूयात्प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम् ॥
+अ॒स्मै द्या॑वापृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इ॒व धे॒नू।  
+अ॒यं राजा॑ प्रि॒य इन्द्र॑स्य भूयात्प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
@@ -269,7 +281,7 @@ Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्मै। द्यावापृथिवी  इति। भूरि। वामम्। दुहाथाम्। घर्मदुघे इवेति घर्मदुघेऽइव। धेनू इति। अयम्। राजा। प्रियः। इन्द्रस्य। भूयात्। प्रियः। गवाम्। ओषधीनाम्। पशूनाम्। २२.४।
+अ॒स्मै। द्या॒वा॒पृ॒थि॒वी॒ इति॑। भूरि॑। वा॒मम्। दु॒हा॒था॒म्। घ॒र्म॒दुघे॑ इ॒वेति॑ घ॒र्म॒दुघे॑ऽइव। धे॒नू इति॑। अ॒यम्। राजा॑। प्रि॒यः। इन्द्र॑स्य। भू॒या॒त्। प्रि॒यः। गवा॑म्। ओष॑धीनाम्। प॒शू॒नाम्। २२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -300,14 +312,17 @@ Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते ।  
-यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्तमं मा॑न॒वाना॑म्॥५॥  
+यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते।  
+यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्त॒मं मा॑न॒वाना॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते। यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्त॒मं मा॑न॒वाना॑म् ॥
+यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते।  
+यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्त॒मं मा॑न॒वाना॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/05_yunajmi_ta.md">
@@ -331,7 +346,7 @@ I join in league with thee victorious Indra, with whom men conquer and are ne'er
 </details>
 <details><summary>पदपाठः</summary>
 
-युनज्मि। ते। उत्तरऽवन्तम्। इन्द्रम्। येन। जयन्ति। न। पराऽजयन्ते। यः। त्वा। करत्। एकऽवृषम्। जनानाम्। उत। राज्ञाम्। उत्ऽतमम्। मानवानाम्। २२.५।
+यु॒नज्मि॑। ते॒। उ॒त्त॒रऽव॑न्तम्। इन्द्र॑म्। येन॑। जय॑न्ति। न। प॒रा॒ऽजय॑न्ते। यः। त्वा॒। कर॑त्। ए॒क॒ऽवृ॒षम्। जना॑नाम्। उ॒त। राज्ञा॑म्। उ॒त्ऽत॒मम्। मा॒न॒वाना॑म्। २२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -362,14 +377,17 @@ I join in league with thee victorious Indra, with whom men conquer and are ne'er
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न् प्रति॑शत्रवस्ते ।  
-ए॒क॒वृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥६॥  
+उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न्प्रति॑शत्रवस्ते।  
+ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न्प्रति॑शत्रवस्ते। ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
+उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न्प्रति॑शत्रवस्ते।  
+ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
@@ -395,7 +413,7 @@ Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine a
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्तरः। त्वम्। अधरे। ते। सऽपत्नाः। ये। के। च। राजन्। प्रतिऽशत्रवः। ते। एकऽवृषः। इन्द्रऽसखा। जिगीवान्। शत्रुऽयताम्। आ। भर। भोजनानि। २२.६।
+उत्त॑रः। त्वम्। अध॑रे। ते॒। स॒ऽपत्नाः॑। ये। के। च॒। रा॒ज॒न्। प्रति॑ऽशत्रवः। ते॒। ए॒क॒ऽवृ॒षः। इन्द्र॑ऽसखा। जि॒गी॒वान्। श॒त्रु॒ऽय॒ताम्। आ। भ॒र॒। भोज॑नानि। २२.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -427,13 +445,16 @@ Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine a
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिं॒हप्र॑तीको॒ विशो॑ अद्धि॒ सर्वा॑ व्या॒घ्रप्र॑ती॒कोऽव॑ बाधस्व॒ शत्रू॑न्।  
-ए॒क॒वृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥७॥
+ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सिं॒हप्र॑तीको॒ विशो॑ अद्धि॒ सर्वा॑ व्या॒घ्रप्र॑ती॒कोऽव॑ बाधस्व॒ शत्रू॑न्। ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥
+सिं॒हप्र॑तीको॒ विशो॑ अद्धि॒ सर्वा॑ व्या॒घ्रप्र॑ती॒कोऽव॑ बाधस्व॒ शत्रू॑न्।  
+ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
@@ -460,7 +481,7 @@ Consume, with lion aspect, all their hamlets, with tiger aspect, drive away thy 
 </details>
 <details><summary>पदपाठः</summary>
 
-सिंहऽप्रतीकः। विशः। अध्दि। सर्वाः। व्याघ्रऽप्रतीकः। अव। बाधस्व। शत्रून्। एकऽवृषः। इन्द्रऽसखा। जिगीवान्। शत्रुऽयताम्। आ। खिद। भोजनानि। २२.७।
+सिं॒हऽप्र॑तीकः। विशः॑। अ॒ध्दि॒। सर्वाः॑। व्या॒घ्रऽप्र॑तीकः। अव॑। बा॒ध॒स्व॒। शत्रू॑न्। ए॒क॒ऽवृ॒षः। इन्द्र॑ऽसखा। जि॒गी॒वान्। श॒त्रु॒ऽय॒ताम्। आ। खि॒द॒। भोज॑नानि। २२.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

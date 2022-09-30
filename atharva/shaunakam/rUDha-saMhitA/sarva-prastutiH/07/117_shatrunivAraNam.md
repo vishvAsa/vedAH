@@ -32,14 +32,17 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/117_shatrunivAraNam/01_A_mandrairindra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः ।  
-मा त्वा॒ के चि॒द् वि य॑म॒न् विं न पा॒शिनोऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥१॥
+आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः।  
+मा त्वा॒ के चि॒द्वि य॑म॒न्विं न पा॒शिनो॑ऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/117_shatrunivAraNam/01_A_mandrairindra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः। मा त्वा॒ के चि॒द्वि य॑म॒न्विं न पा॒शिनो॑ऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥
+आ म॒न्द्रैरि॑न्द्र॒ हरि॑भिर्या॒हि म॒यूर॑रोमभिः।  
+मा त्वा॒ के चि॒द्वि य॑म॒न्विं न पा॒शिनो॑ऽति॒ धन्वे॑व॒ ताँ इ॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/117_shatrunivAraNam/01_A_mandrairindra.md">
@@ -65,7 +68,7 @@ Come hither, Indra, with bay steeds, joyous, with tails like pea- cock plumes. L
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। मन्द्रैः। इन्द्र। हरिऽभिः। याहि। मयूररोमऽभिः। मा। त्वा। के। चित्। वि। यमन्। विम्। न। पाशिनः। अति। धन्वऽइव। तान्। इहि। १२२.१।
+आ। म॒न्द्रैः। इ॒न्द्र॒। हरि॑ऽभिः। या॒हि। म॒यूर॑रोमऽभिः। मा। त्वा॒। के। चि॒त्। वि। य॒म॒न्। विम्। न। पा॒शिनः॑। अति॑। धन्व॑ऽइव। तान्। इ॒हि॒। १२२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

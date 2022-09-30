@@ -32,14 +32,17 @@ Translated: Ludwig, p. 432; Griffith, i. 319.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/01_ya_imAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑ ।  
-यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त् स स उ॑ नो॒ वि मु॑ञ्चात्॥१॥  
+य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑।  
+यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त्स उ॑ नो॒ वि मु॑ञ्चात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/01_ya_imAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑। यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त्स उ॑ नो॒ वि मु॑ञ्चात् ॥
+य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑।  
+यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त्स उ॑ नो॒ वि मु॑ञ्चात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/01_ya_imAm.md">
@@ -65,7 +68,7 @@ By the direction of that God we journey, he will seek means to save and he will 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। इमाम्। देवः। मेखलाम्। आऽबबन्ध। यः। सम्ऽननाह। यः। ऊं इति। नः। युयोज। यस्य। देवस्य। प्रऽशिषा। चरामः। सः। पारम्। इच्छात्। सः। ऊं इति। नः। वि। मुञ्चात्। १३३.१।
+यः। इ॒माम्। दे॒वः। मेख॑लाम्। आ॒ऽब॒बन्ध॑। यः। स॒म्ऽन॒नाह॑। यः। ऊं॒ इति॑। नः॒। यु॒योज॑। यस्य॑। दे॒वस्य॑। प्र॒ऽशिषा॑। चरा॑मः। सः। पा॒रम्। इ॒च्छा॒त्। सः। ऊं॒ इति॑। नः॒। वि। मु॒ञ्चा॒त्। १३३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,13 +100,16 @@ By the direction of that God we journey, he will seek means to save and he will 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्।  
-पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥२॥  
+पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/02_AhutAsyabhihuta_RShINAmasyAyudham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्। पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥
+आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्।  
+पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/02_AhutAsyabhihuta_RShINAmasyAyudham.md">
@@ -128,7 +134,7 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽहुता। असि। अभिऽहुता। ऋषीणाम्। असि। आयुधम्। पूर्वा। व्रतस्य। प्रऽअश्नती। वीरऽघ्नी। भव। मेखले। १३३.२।
+आऽहु॑ता। अ॒सि॒। अ॒भिऽहु॑ता। ऋषी॑णाम्। अ॒सि॒। आयु॑धम्। पूर्वा॑। व्र॒तस्य॑। प्र॒ऽअ॒श्न॒ती। वी॒र॒ऽघ्नी। भ॒व॒। मे॒ख॒ले॒। १३३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/03_mRtyorahaM_brahmachArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒त्योर॒हं ब्र॑ह्मचा॒री यदस्मि॑ नि॒र्याच॑न् भू॒तात् पुरु॑षं य॒माय॑ ।  
-तम॒हं ब्रह्म॑णा॒ तप॑सा॒ श्रमे॑णा॒नयै॑नं॒ मेख॑लया सिनामि ॥३॥  
+मृ॒त्योर॒हं ब्र॑ह्मचा॒री यदस्मि॑ नि॒र्याच॑न्भू॒तात्पुरु॑षं य॒माय॑।  
+तम॒हं ब्रह्म॑णा॒ तप॑सा॒ श्रमे॑णा॒नयै॑नं॒ मेख॑लया सिनामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/03_mRtyorahaM_brahmachArI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मृ॒त्योर॒हं ब्र॑ह्मचा॒री यदस्मि॑ नि॒र्याच॑न्भू॒तात्पुरु॑षं य॒माय॑। तम॒हं ब्रह्म॑णा॒ तप॑सा॒ श्रमे॑णा॒नयै॑नं॒ मेख॑लया सिनामि ॥
+मृ॒त्योर॒हं ब्र॑ह्मचा॒री यदस्मि॑ नि॒र्याच॑न्भू॒तात्पुरु॑षं य॒माय॑।  
+तम॒हं ब्रह्म॑णा॒ तप॑सा॒ श्रमे॑णा॒नयै॑नं॒ मेख॑लया सिनामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/03_mRtyorahaM_brahmachArI.md">
@@ -191,7 +200,7 @@ As I am now Death's Brahmachari claiming out of the living world a man for Yama,
 </details>
 <details><summary>पदपाठः</summary>
 
-मृत्योः। अहम्। ब्रह्मऽचारी। यत्। अस्मि। निःऽयाचन्। भूतात्। पुरुषम्। यमाय। तम्। अहम्। ब्रह्मणा। तपसा। श्रमेण। अनया। एनम्। मेखलया। सिनामि। १३३.३।
+मृ॒त्योः। अ॒हम्। ब्र॒ह्म॒ऽचा॒री। यत्। अस्मि॑। निः॒ऽयाच॑न्। भू॒तात्। पुरु॑षम्। य॒माय॑। तम्। अ॒हम्। ब्रह्म॑णा। तप॑सा। श्रमे॑ण। अ॒नया॑। ए॒न॒म्। मेख॑लया। सि॒ना॒मि॒। १३३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,14 +231,17 @@ As I am now Death's Brahmachari claiming out of the living world a man for Yama,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/133_mekhalAbandhanam/04_shraddhAyA_duhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वस॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑ ।  
-सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑ ॥४॥  
+श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वसा॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑।  
+सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/04_shraddhAyA_duhitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वसा॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑। सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑ ॥
+श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वसा॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑।  
+सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/04_shraddhAyA_duhitA.md">
@@ -254,7 +266,7 @@ She hath become, Faith's daughter, sprung from Fervour, the sister of the world-
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रध्दायाः। दुहिता। तपसः। अधि। जाता। स्वसा। ऋषीणाम्। भूतऽकृताम्। बभूव। सा। नः। मेखले। मतिम्। आ। धेहि। मेधाम्। अथो इति। नः। धेहि। तपः। इन्द्रियम्। च। १३३.४।
+श्र॒ध्दायाः॑। दु॒हि॒ता। तप॑सः। अधि॑। जा॒ता। स्वसा॑। ऋषी॑णाम्। भू॒त॒ऽकृता॑म्। ब॒भूव॑। सा। नः॒। मे॒ख॒ले॒। म॒तिम्। आ। धे॒हि॒। मे॒धाम्। अथो॒ इति॑। नः॒। धे॒हि॒। तपः॑। इ॒न्द्रि॒यम्। च॒। १३३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -286,13 +298,16 @@ She hath become, Faith's daughter, sprung from Fervour, the sister of the world-
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे।  
-सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥५॥
+सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/133_mekhalAbandhanam/05_yAM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे। सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥
+यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे।  
+सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/133_mekhalAbandhanam/05_yAM_tvA.md">
@@ -311,7 +326,7 @@ Thou whom primeval Rishis girt about them, they who made the world, As such do t
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। त्वा। पूर्वे। भूतऽकृतः। ऋषयः। परिऽबेधिरे। सा। त्वम्। परि। स्वजस्व। माम्। दीर्घायुऽत्वाय। मेखले। १३३.५।
+याम्। त्वा॒। पूर्वे॑। भू॒त॒ऽकृतः॑। ऋष॑यः। प॒रि॒ऽबे॒धि॒रे। सा। त्वम्। परि॑। स्व॒ज॒स्व॒। माम्। दी॒र्घा॒यु॒ऽत्वाय॑। मे॒ख॒ले॒। १३३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

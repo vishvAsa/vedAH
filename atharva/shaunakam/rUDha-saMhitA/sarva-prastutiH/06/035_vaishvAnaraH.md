@@ -37,14 +37,17 @@ To Agni Vaisvanara
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑ ।
-अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥१॥
+वै॑श्वान॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑।  
+अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑। अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥
+वै॑श्वान॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑।  
+अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
@@ -70,7 +73,7 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानरः। नः। ऊतये। आ। प्र। यातु। पराऽवतः। अग्निः। नः। सुऽस्तुतीः। उप। ३५.१।
+वै॒श्वा॒न॒रः। नः॒। ऊ॒तये॑। आ। प्र। या॒तु॒। प॒रा॒ऽवतः॑। अ॒ग्निः। नः॒। सु॒ऽस्तु॒तीः। उप॑। ३५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रो न आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑ ।
-अ॒ग्निरु॒क्थेष्वंह॑सु ॥२॥
+वै॑श्वान॒रो न॒ आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑।  
+अ॒ग्निरु॒क्थेष्वंह॑सु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रो न॒ आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑। अ॒ग्निरु॒क्थेष्वंह॑सु ॥
+वै॑श्वान॒रो न॒ आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑।  
+अ॒ग्निरु॒क्थेष्वंह॑सु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
@@ -137,7 +143,7 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानर। नः। आ। अगमत्। इमम्। यज्ञम्। सऽजूः। उप। अग्निः। उक्थेषु। अंहऽसु। ३५.२।
+वै॒श्वा॒न॒र। नः॒। आ। अ॒ग॒म॒त्। इ॒मम्। य॒ज्ञम्। स॒ऽजूः। उप॑। अ॒ग्निः। उ॒क्थेषु॑। अंह॑ऽसु। ३५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्।
-ऐषु॑ द्यु॒म्नं स्वऽर्यमत्॥३॥
+वै॑श्वान॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्।  
+एषु॑ द्यु॒म्नं स्व᳡र्यमत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्। एषु॑ द्यु॒म्नं स्व᳡र्यमत् ॥
+वै॑श्वान॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्।  
+एषु॑ द्यु॒म्नं स्व᳡र्यमत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
@@ -200,7 +209,7 @@ Vaisvanara hath formed the hymn and laud of the Angirases. To these may he bring
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानरः। अङ्गिरसाम्। स्तोमम्। उक्थम्। च। चक्लृपत्। आ। एषु। द्युम्नम्। स्वः᳡। यमत्। ३५.३।
+वै॒श्वा॒न॒रः। अङ्गि॑रसाम्। स्तोम॑म्। उ॒क्थम्। च॒। च॒क्लृ॒प॒त्। आ। ए॒षु॒। द्यु॒म्नम्। स्वः᳡। य॒म॒त्। ३५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

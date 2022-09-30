@@ -36,15 +36,17 @@ In praise of Brahma, Prayer, or Devotion
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः ।  
-अ॒ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥१॥  
+ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः।  
+अ॑ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः ।  
-अ॒ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥१॥  
+ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः।  
+अ॑ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/01_brahma_hotA.md">
@@ -88,7 +90,7 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। होता। ब्रह्म। यज्ञाः। ब्रह्मणा। स्वरवः। मिताः। अध्वर्युः। ब्रह्मणः। जातः। ब्रह्मणः। अन्तःऽहितम्। हविः। ४२.१।
+ब्रह्म॑। होता॑। ब्रह्म॑। य॒ज्ञाः। ब्रह्म॑णा। स्वर॑वः। मि॒ताः। अ॒ध्व॒र्युः। ब्रह्म॑णः। जा॒तः। ब्रह्म॑णः। अ॒न्तः॒ऽहि॑तम्। ह॒विः। ४२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -119,17 +121,19 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता ।  
-ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑ ।  
-श॒मि॒ताय॒ स्वाहा॑ ॥२॥  
+ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता।  
+ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑।  
+श॑मि॒ताय॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता ।  
-ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑ ।  
-श॒मि॒ताय॒ स्वाहा॑ ॥२॥  
+ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता।  
+ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑।  
+श॑मि॒ताय॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/02_brahma_srucho.md">
@@ -170,7 +174,7 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। स्रुचः। घृतऽवतीः। ब्रह्मणा। वेदिः। उद्धिता। ब्रह्म। यज्ञस्य। तत्त्वम्। च। ऋत्विजः। ये। हविःऽकृतः। शमिताय। स्वाहा। ४२.२।
+ब्रह्म॑। स्रुचः॑। घृ॒तऽव॑तीः। ब्रह्म॑णा। वेदिः॑। उद्धि॑ता। ब्रह्म॑। य॒ज्ञस्य॑। तत्त्व॑म्। च॒। ऋ॒त्विजः॑। ये। ह॒विः॒ऽकृतः॑। श॒मि॒ताय॑। स्वाहा॑। ४२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -201,14 +205,17 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अं॒हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः ।  
-इ॒दमि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॑भाय स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥३॥  
+अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः।  
+इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः। इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
+अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः।  
+इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
@@ -250,7 +257,7 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 </details>
 <details><summary>पदपाठः</summary>
 
-अंहःऽमुचे। प्र। भरे। मनीषाम्। आ। सुऽत्राव्ने। सुऽमतिम्। आऽवृणानः। इमम्। इन्द्र। प्रति। हव्यम्। गृभाय। सत्याः। सन्तु। यजमानस्य। कामाः। ४२.३।
+अं॒हः॒ऽमुचे॑। प्र। भ॒रे॒। म॒नी॒षाम्। आ। सु॒ऽत्राव्ने॑। सु॒ऽम॒तिम्। आ॒ऽवृ॒णा॒नः। इ॒मम्। इ॒न्द्र॒। प्रति॑। ह॒व्यम्। गृ॒भा॒य॒। स॒त्याः। स॒न्तु॒। यज॑मानस्य। कामाः॑। ४२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -281,14 +288,17 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राणा॑म्।  
-अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥४॥
+अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्।  
+अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्। अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
+अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्।  
+अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
@@ -319,7 +329,7 @@ With prayer I call on him who frees from trouble, Prince of Gods, Splendid, chie
 </details>
 <details><summary>पदपाठः</summary>
 
-अंहःऽमुचम्। वृषभम्। यज्ञियानाम्। विऽराजन्तम्। प्रथमम्। अध्वराणाम्। अपाम्। नपातम्। अश्विना। हुवे। धियः। इन्द्रियेण। ते। इन्द्रियम्। दत्तम्। ओजः। ४२.४।
+अं॒हः॒ऽमुच॑म्। वृ॒ष॒भम्। य॒ज्ञिया॑नाम्। वि॒ऽराज॑न्तम्। प्र॒थ॒मम्। अ॒ध्व॒राणा॑म्। अ॒पाम्। नपा॑तम्। अ॒श्विना॑। हु॒वे॒। धियः॑। इ॒न्द्रि॒येण॑। ते॒। इ॒न्द्रि॒यम्। द॒त्त॒म्। ओजः॑। ४२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

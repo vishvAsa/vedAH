@@ -37,14 +37,16 @@ A hymn after victory
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमु॒च्छ्रेयो॑ऽव॒सान॒मागां॑ शि॒वे मे॒ द्यावा॑पृथि॒वी अ॑भूताम्।  
-अ॒स॒प॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥१॥
+अ॑सप॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 इ॒दमु॒च्छ्रेयो॑ऽव॒सान॒मागां॑ शि॒वे मे॒ द्यावा॑पृथि॒वी अ॑भूताम्।  
-अ॒स॒प॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥१॥
+अ॑सप॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
@@ -72,7 +74,7 @@ I have attained this goodliest place to rest in. Both Heaven and, Earth have sho
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। उत्ऽश्रेयः। अवऽसानम्। आ। अगाम्। शिवे इति। मे। द्यावापृथिवी इति। अभूताम्। असपत्नाः। प्रऽदिशः। मे। भवन्तु। न। वै। त्वा। द्विष्मः। अभयम्। नः। अस्तु। १४.१।
+इ॒दम्। उ॒त्ऽश्रेयः॑। अ॒व॒ऽसान॑म्। आ। अ॒गा॒म्। शि॒वे इति॑। मे॒। द्यावा॑पृथि॒वी इति॑। अ॒भू॒ता॒म्। अ॒स॒प॒त्नाः। प्र॒ऽदिशः॑। मे॒। भ॒व॒न्तु॒। न। वै। त्वा॒। द्वि॒ष्मः॒। अभ॑यम्। नः॒। अ॒स्तु॒। १४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

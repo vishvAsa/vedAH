@@ -37,13 +37,16 @@ A glorification of a newly consecrated King
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृषेन्द्र॑स्य॒ वृषा॑ दि॒वो वृषा॑ पृथि॒व्या अ॒यम्।  
-वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥१॥  
+वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृषेन्द्र॑स्य॒ वृषा॑ दि॒वो वृषा॑ पृथि॒व्या अ॒यम्। वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥
+वृषेन्द्र॑स्य॒ वृषा॑ दि॒वो वृषा॑ पृथि॒व्या अ॒यम्।  
+वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
@@ -65,7 +68,7 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 </details>
 <details><summary>पदपाठः</summary>
 
-वृषा। इन्द्रस्य। वृषा। दिवः। वृषा। पृथिव्याः। अयम्। वृषा। विश्वस्य। भूतस्य। त्वम्। एकऽवृषः। भव। ८६.१।
+वृषा॑। इन्द्र॑स्य। वृषा॑। दि॒वः। वृषा॑। पृ॒थि॒व्याः। अ॒यम्। वृषा॑। विश्व॑स्य। भू॒तस्य॑। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/02_samudra_Ishe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मु॒द्र ई॑शे स्र॒वता॑म॒ग्निः पृ॑थि॒व्या व॒शी।  
-च॒न्द्रमा॒ नक्ष॑त्राणामीशे॒ त्वमे॑कवृ॒षो भ॑व ॥२॥  
+स॑मु॒द्र ई॑शे स्र॒वता॑म॒ग्निः पृ॑थि॒व्या व॒शी।  
+च॒न्द्रमा॒ नक्ष॑त्राणामीशे॒ त्वमे॑कवृ॒षो भ॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/02_samudra_Ishe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑मु॒द्र ई॑शे स्र॒वता॑म॒ग्निः पृ॑थि॒व्या व॒शी। च॒न्द्रमा॒ नक्ष॑त्राणामीशे॒ त्वमे॑कवृ॒षो भ॑व ॥
+स॑मु॒द्र ई॑शे स्र॒वता॑म॒ग्निः पृ॑थि॒व्या व॒शी।  
+च॒न्द्रमा॒ नक्ष॑त्राणामीशे॒ त्वमे॑कवृ॒षो भ॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/02_samudra_Ishe.md">
@@ -124,7 +130,7 @@ The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent o
 </details>
 <details><summary>पदपाठः</summary>
 
-समुद्रः। ईशे। स्रवताम्। अग्निः। पृथिव्याः। वशी। चन्द्रमाः। नक्षत्राणाम्। ईशे। त्वम्। एकऽवृषः। भव। ८६.२।
+स॒मु॒द्रः। ई॒शे॒। स्र॒वता॑म्। अ॒ग्निः। पृ॒थि॒व्याः। व॒शी। च॒न्द्रमाः॑। नक्ष॑त्राणाम्। ई॒शे॒। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,14 +161,17 @@ The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒म्राड॒स्यसु॑राणां क॒कुन्म॑नु॒ष्याऽणाम्।  
-दे॒वाना॑मर्ध॒भाग॑सि॒ त्वमे॑कवृ॒षो भ॑व ॥३॥
+स॒म्राड॒स्यसु॑राणां क॒कुन्म॑नु॒ष्या᳡णाम्।  
+दे॒वाना॑मर्ध॒भाग॑सि॒ त्वमे॑कवृ॒षो भ॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒म्राड॒स्यसु॑राणां क॒कुन्म॑नु॒ष्या᳡णाम्। दे॒वाना॑मर्ध॒भाग॑सि॒ त्वमे॑कवृ॒षो भ॑व ॥
+स॒म्राड॒स्यसु॑राणां क॒कुन्म॑नु॒ष्या᳡णाम्।  
+दे॒वाना॑मर्ध॒भाग॑सि॒ त्वमे॑कवृ॒षो भ॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
@@ -183,7 +192,7 @@ Thou art the King of Asuras, the crown and summit of man- kind: Thou art the par
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽराट्। असि। असुराणाम्। ककुत्। मनुष्या᳡णाम्। देवानाम्। अर्धऽभाक्। असि। त्वम्। एकऽवृषः। भव। ८६.३।
+स॒म्ऽराट्। अ॒सि॒। असु॑राणाम्। क॒कुत्। म॒नुष्या᳡णाम्। दे॒वाना॑म्। अ॒र्ध॒ऽभाक्। अ॒सि॒। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,13 +36,15 @@ A charm for the increase of cattle
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/01_yadyekavRSho-si_sRjAraso-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्ये॑कवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥१॥  
+यद्ये॑कवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/01_yadyekavRSho-si_sRjAraso-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यद्ये॑कवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/01_yadyekavRSho-si_sRjAraso-si.md">
@@ -67,7 +69,7 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। एकऽवृषः। असि। सृज। अरसः। असि। १६.१।
+यदि॑। ए॒क॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,13 +100,15 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/02_yadi_dvivRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ द्विवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥२॥  
+यदि॑ द्विवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/02_yadi_dvivRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ द्विवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/02_yadi_dvivRSho-si.md">
@@ -124,7 +128,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। द्विऽवृषः। असि। सृज। अरसः। असि। १६.२।
+यदि॑। द्वि॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,13 +159,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/03_yadi_trivRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ त्रिवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥३॥  
+यदि॑ त्रिवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/03_yadi_trivRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ त्रिवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/03_yadi_trivRSho-si.md">
@@ -179,7 +185,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। त्रिऽवृषः। असि। सृज। अरसः। असि। १६.३।
+यदि॑। त्रि॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -210,13 +216,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/04_yadi_chaturvRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ चतुर्वृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥४॥  
+यदि॑ चतुर्वृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/04_yadi_chaturvRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ चतुर्वृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/04_yadi_chaturvRSho-si.md">
@@ -234,7 +242,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। चतुःऽवृषः। असि। सृज। अरसः। असि। १६.४।
+यदि॑। च॒तुः॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -265,13 +273,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/05_yadi_panchavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ पञ्चवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥५॥  
+यदि॑ पञ्चवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/05_yadi_panchavRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ पञ्चवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/05_yadi_panchavRSho-si.md">
@@ -289,7 +299,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। पञ्चऽवृषः। असि। सृज। अरसः। असि। १६.५।
+यदि॑। प॒ञ्च॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -320,13 +330,18 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/06_yadi_ShaDvRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ षड्-वृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥६॥  
+यदि॑ षड्-वृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥६॥
+
+
+
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/06_yadi_ShaDvRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ षड्वृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/06_yadi_ShaDvRSho-si.md">
@@ -344,7 +359,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। षट्ऽवृषः। असि। सृज। अरसः। असि। १६.६।
+यदि॑। ष॒ट्ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -375,13 +390,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/07_yadi_saptavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ सप्तवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥७॥  
+यदि॑ सप्तवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/07_yadi_saptavRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ सप्तवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/07_yadi_saptavRSho-si.md">
@@ -399,7 +416,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। सप्तऽवृषः। असि। सृज। अरसः। असि। १६.७।
+यदि॑। स॒प्त॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -430,13 +447,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/08_yadyaShTavRSho-si_sRjAraso-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्य॑ष्टवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥८॥  
+यद्य॑ष्टवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/08_yadyaShTavRSho-si_sRjAraso-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यद्य॑ष्टवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/08_yadyaShTavRSho-si_sRjAraso-si.md">
@@ -454,7 +473,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। अष्टऽवृषः। असि। सृज। अरसः। असि। १६.८।
+यदि॑। अ॒ष्ट॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -485,13 +504,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/09_yadi_navavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ नववृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥९॥  
+यदि॑ नववृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/09_yadi_navavRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ नववृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/09_yadi_navavRSho-si.md">
@@ -509,7 +530,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। नवऽवृषः। असि। सृज। अरसः। असि। १६.९।
+यदि॑। न॒व॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -540,13 +561,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/10_yadi_dashavRSho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ दशवृ॒षोऽसि॑ सृ॒जार॒सोऽसि ॥१०॥  
+यदि॑ दशवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/10_yadi_dashavRSho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यदि॑ दशवृ॒षोऽसि॑ सृ॒जार॒सोऽसि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/10_yadi_dashavRSho-si.md">
@@ -564,7 +587,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। दशऽवृषः। असि। सृज। अरसः। असि। १६.१०।
+यदि॑। द॒श॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -595,13 +618,15 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/016_vRSharogashamanam/11_yadyekAdasho-si_so-podako-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्ये॑काद॒शोऽसि॒ सोऽपो॑दको ऽसि ॥११॥
+यद्ये॑काद॒शोऽसि॒ सोऽपो॑दकोऽसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/016_vRSharogashamanam/11_yadyekAdasho-si_so-podako-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यद्ये॑काद॒शोऽसि॒ सोऽपो॑दकोऽसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/016_vRSharogashamanam/11_yadyekAdasho-si_so-podako-si.md">
@@ -622,7 +647,7 @@ fifteen syllables called for by the Anukr. Ppp. has *yūpodako ‘si sṛjā
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। एकादशः। असि। सः। अपऽउदकः। असि। १६.११।
+यदि॑। ए॒का॒द॒शः। असि॑। सः। अप॑ऽउदकः। अ॒सि॒। १६.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

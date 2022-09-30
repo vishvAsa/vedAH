@@ -36,14 +36,17 @@ A continuation of Hymn 10
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/01_shaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नः॑ स॒त्यस्य॒ पत॑यो भवन्तु॒ शं नो॒ अर्व॑न्तः॒ शमु॑ सन्तु॒ गावः॑ ।  
-शं न॑ ऋ॒भवः॑ सु॒कृतः॑ सु॒हस्ताः॒ शं नो॑ भवतु पि॒तरो॒ हवे॑षु ॥१॥  
+शं नः॑ स॒त्यस्य॒ पत॑यो भवन्तु॒ शं नो॒ अर्व॑न्तः॒ शमु॑ सन्तु॒ गावः॑।  
+शं न॑ ऋ॒भवः॑ सु॒कृतः॑ सु॒हस्ताः॒ शं नो॑ भवन्तु पि॒तरो॒ हवे॑षु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/01_shaM_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नः॑ स॒त्यस्य॒ पत॑यो भवन्तु॒ शं नो॒ अर्व॑न्तः॒ शमु॑ सन्तु॒ गावः॑। शं न॑ ऋ॒भवः॑ सु॒कृतः॑ सु॒हस्ताः॒ शं नो॑ भवन्तु पि॒तरो॒ हवे॑षु ॥
+शं नः॑ स॒त्यस्य॒ पत॑यो भवन्तु॒ शं नो॒ अर्व॑न्तः॒ शमु॑ सन्तु॒ गावः॑।  
+शं न॑ ऋ॒भवः॑ सु॒कृतः॑ सु॒हस्ताः॒ शं नो॑ भवन्तु पि॒तरो॒ हवे॑षु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/01_shaM_naH.md">
@@ -67,7 +70,7 @@ May the great Lords of Truth protect and aid us: blest to us be our horses and o
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। सत्यस्य। पतयः। भवन्तु। शम्। नः। अर्वन्तः। शम्। ऊं इति। सन्तु। गावः। शम्। नः। ऋभवः। सुऽकृतः। सुऽहस्ताः। शम्। नः। भवन्तु। पितरः। हवेषु। ११.१।
+शम्। नः॒। स॒त्यस्य॑। पत॑यः। भ॒व॒न्तु॒। शम्। नः॒। अर्व॑न्तः। शम्। ऊं॒ इति॑। स॒न्तु॒। गावः॑। शम्। नः॒। ऋ॒भवः॑। सु॒ऽकृतः॑। सु॒ऽहस्ताः॑। शम्। नः॒। भ॒व॒न्तु॒। पि॒तरः॑। हवे॑षु। ११.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,15 +101,17 @@ May the great Lords of Truth protect and aid us: blest to us be our horses and o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/02_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु ।  
-शम॑भि॒षाचः॒ शमु॑ राति॒षाचः॒ शं नो॑ दि॒व्याः पार्थि॑वाः॒ शं नो॒ अप्याः॑ ॥२॥  
+शं नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु।  
+शम॑भि॒षाचः॒ शमु॑ राति॒षाचः॒ शं नो॑ दि॒व्याः पार्थि॑वाः॒ शं नो॒ अप्याः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/02_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु ।  
-शम॑भि॒षाचः॒ शमु॑ राति॒षाचः॒ शं नो॑ दि॒व्याः पार्थि॑वाः॒ शं नो॒ अप्याः॑ ॥२॥  
+शं नो॑ दे॒वा वि॒श्वदे॑वा भवन्तु॒ शं सर॑स्वती स॒ह धी॒भिर॑स्तु।  
+शम॑भि॒षाचः॒ शमु॑ राति॒षाचः॒ शं नो॑ दि॒व्याः पार्थि॑वाः॒ शं नो॒ अप्याः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/02_shaM_no.md">
@@ -132,7 +137,7 @@ Kind to us be the Gods and Visve Devas, Sarasvati with Holy Thoughts be gracious
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। देवाः। विश्वऽदेवाः। भवन्तु। शम्। सरस्वती। सह। धीभिः। अस्तु। शम्। अभिऽसाचः। शम्। ऊं इति। रातिऽसाचः। शम्। नः। दिव्याः। पार्थिवाः। शम्। नः। अप्याः। ११.२।
+शम्। नः॒। दे॒वाः। वि॒श्वऽदे॑वाः। भ॒व॒न्तु॒। शम्। सर॑स्वती। स॒ह॒। धी॒भिः। अ॒स्तु॒। शम्। अ॒भि॒ऽसाचः॑। शम्। ऊं॒ इति॑। रा॒ति॒ऽसाचः॑। शम्। नः॒। दि॒व्याः। पार्थि॑वाः। शम्। नः॒। अप्याः॑। ११.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +168,17 @@ Kind to us be the Gods and Visve Devas, Sarasvati with Holy Thoughts be gracious
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/03_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ अ॒ज एक॑पाद् दे॒वो अ॑स्तु॒ शमहि॑र्बु॒ध्न्यः॑१ शं स॑मु॒द्रः ।  
-शं नो॑ अ॒पां नपा॑त् पे॒रुर॑स्तु॒ शं नः॒ पृश्नि॑र्भवतु दे॒वगो॑पा ॥३॥  
+शं नो॑ अ॒ज एक॑पाद्दे॒वो अ॑स्तु॒ शमहि॑र्बु॒ध्न्यः१॒॑ शं स॑मु॒द्रः।  
+शं नो॑ अ॒पां नपा॑त्पे॒रुर॑स्तु॒ शं नः॒ पृष्णि॑र्भवतु दे॒वगो॑पा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/03_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नो॑ अ॒ज एक॑पाद्दे॒वो अ॑स्तु॒ शमहि॑र्बु॒ध्न्यः शं स॑मु॒द्रः। शं नो॑ अ॒पां नपा॑त्पे॒रुर॑स्तु॒ शं नः॒ पृष्णि॑र्भवतु दे॒वगो॑पा ॥
+शं नो॑ अ॒ज एक॑पाद्दे॒वो अ॑स्तु॒ शमहि॑र्बु॒ध्न्यः१॒॑ शं स॑मु॒द्रः।  
+शं नो॑ अ॒पां नपा॑त्पे॒रुर॑स्तु॒ शं नः॒ पृष्णि॑र्भवतु दे॒वगो॑पा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/03_shaM_no.md">
@@ -198,7 +206,7 @@ May Aja-Ekapad the God be gracious, gracious the Dragon of the Deep, and Ocean. 
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। अजः। एकऽपात्। देवः। अस्तु। शम्। अहिः। बुध्न्यः᳡। शम्। समुद्रः। शम्। नः। अपाम्। नपात्। पेरुः। अस्तु। शम्। नः। पृश्निः। भवतु। देवऽगोपा। ११.३।
+शम्। नः॒। अ॒जः। एक॑ऽपात्। दे॒वः। अ॒स्तु॒। शम्। अहिः॑। बु॒ध्न्यः᳡। शम्। स॒मु॒द्रः। शम्। नः॒। अ॒पाम्। नपा॑त्। पे॒रुः। अ॒स्तु॒। शम्। नः॒। पृश्निः॑। भ॒व॒तु॒। दे॒वऽगो॑पा। ११.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,15 +237,17 @@ May Aja-Ekapad the God be gracious, gracious the Dragon of the Deep, and Ocean. 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/04_AdityA_rudrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒दि॒त्या रु॒द्रा वस॑वो जुषन्तामि॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः ।  
-शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥४॥  
+आ॑दि॒त्या रु॒द्रा वस॑वो जुषन्तामि॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः।  
+शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/04_AdityA_rudrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒दि॒त्या रु॒द्रा वस॑वो जुषन्तामि॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः ।  
-शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥४॥  
+आ॑दि॒त्या रु॒द्रा वस॑वो जुषन्तामि॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः।  
+शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/04_AdityA_rudrA.md">
@@ -259,7 +269,7 @@ So may the Rudras, Vasus, and Adityas accept the new hymn we now are making. May
 </details>
 <details><summary>पदपाठः</summary>
 
-आदित्याः। रुद्राः। वसवः। जुषन्ताम्। इदम्। ब्रह्म। क्रियमाणम्। नवीयः। शृण्वन्तु। नः। दिव्याः। पार्थिवासः। गोऽजाताः। उत। ये। यज्ञियासः। ११.४।
+आ॒दि॒त्याः। रु॒द्राः। वस॑वः। जु॒ष॒न्ता॒म्। इ॒दम्। ब्रह्म॑। क्रि॒यमा॑णम्। नवी॑यः। शृ॒ण्वन्तु॑। नः॒। दि॒व्याः। पार्थि॑वासः। गोऽजा॑ताः। उ॒त। ये। य॒ज्ञिया॑सः। ११.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -290,15 +300,17 @@ So may the Rudras, Vasus, and Adityas accept the new hymn we now are making. May
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/011_shAntiH/05_ye_devAnAmRtvijo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दे॒वाना॑मृ॒त्विजो॑ य॒ज्ञिया॑सो॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः ।  
-ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥५॥  
+ये दे॒वाना॑मृ॒त्विजो॑ य॒ज्ञिया॑सो॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः।  
+ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/05_ye_devAnAmRtvijo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये दे॒वाना॑मृ॒त्विजो॑ य॒ज्ञिया॑सो॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः ।  
-ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥५॥  
+ये दे॒वाना॑मृ॒त्विजो॑ य॒ज्ञिया॑सो॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः।  
+ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/05_ye_devAnAmRtvijo.md">
@@ -322,7 +334,7 @@ Priests of the Gods, worthy of sacrifices, immortal, knowing Law, whom man must 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। देवानाम्। ऋत्विजः। यज्ञियासः। मनोः। यजत्राः। अमृताः। ऋतऽज्ञाः। ते। नः। रासन्ताम्। उरुऽगायम्। अद्य। यूयम्। पात। स्वस्त‍िऽभिः। सदा। नः। ११.५।
+ये। दे॒वाना॑म्। ऋ॒त्विजः॑। य॒ज्ञिया॑सः। मनोः॑। यज॑त्राः। अ॒मृताः॑। ऋ॒त॒ऽज्ञाः। ते। नः॒। रा॒स॒न्ता॒म्। उ॒रु॒ऽगा॒यम्। अ॒द्य। यू॒यम्। पा॒त॒। स्व॒स्त‍िऽभिः॑। सदा॑। नः॒। ११.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -354,14 +366,16 @@ Priests of the Gods, worthy of sacrifices, immortal, knowing Law, whom man must 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तद॑स्तु मित्रावरुणा॒ तद॑ग्ने॒ शं योर॒स्मभ्य॑मि॒दम॑स्तु श॒स्तम्।  
-अ॒शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय ॥६॥
+अ॑शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/011_shAntiH/06_tadastu_mitrAvaruNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 तद॑स्तु मित्रावरुणा॒ तद॑ग्ने॒ शं योर॒स्मभ्य॑मि॒दम॑स्तु श॒स्तम्।  
-अ॒शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय ॥६॥
+अ॑शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/011_shAntiH/06_tadastu_mitrAvaruNA.md">
@@ -387,7 +401,7 @@ earth. Ppp. reads in **c** *gātum* for *gādham*, and in **d**
 </details>
 <details><summary>पदपाठः</summary>
 
-तत्। अस्तु। मित्रावरुणा। तत्। अग्ने। शम्। योः। अस्मभ्यम्। इदम्। अस्तु। शस्तम्। अशीमहि। गाधम्। उत। प्रतिऽस्थाम्। नमः। दिवे। बृहते। सदनाय। ११.६।
+तत्। अ॒स्तु॒। मि॒त्रा॒व॒रु॒णा॒। तत्। अ॒ग्ने॒। शम्। योः। अ॒स्मभ्य॑म्। इ॒दम्। अ॒स्तु॒। श॒स्तम्। अ॒शी॒महि॑। गा॒धम्। उ॒त। प्र॒ति॒ऽस्थाम्। नमः॑। दि॒वे। बृ॒ह॒ते। सद॑नाय। ११.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

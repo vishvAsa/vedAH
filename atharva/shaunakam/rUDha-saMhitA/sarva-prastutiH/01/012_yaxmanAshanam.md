@@ -32,14 +32,17 @@ A prayer to Lightning, against fever, headache, and cough
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒रा॒यु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॒ वात॑भ्रजा स्त॒नय॑न्नेति वृ॒ष्ट्या।  
-स नो॑ मृडाति त॒न्व ऋजु॒गो रु॒जन् य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे॥१॥  
+ज॑रायु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॑ वातभ्र॒जा स्त॒नय॑न्नेति वृ॒ष्ट्या।  
+स नो॑ मृडाति त॒न्व॑ ऋजु॒गो रु॒जन्य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज॑रायु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॑ वातभ्र॒जा स्त॒नय॑न्नेति वृ॒ष्ट्या। स नो॑ मृडाति त॒न्व॑ ऋजु॒गो रु॒जन्य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे ॥
+ज॑रायु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॑ वातभ्र॒जा स्त॒नय॑न्नेति वृ॒ष्ट्या।  
+स नो॑ मृडाति त॒न्व॑ ऋजु॒गो रु॒जन्य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
@@ -79,7 +82,7 @@ Born from the womb, brought forth from wind and from the cloud, the first red bu
 </details>
 <details><summary>पदपाठः</summary>
 
-जरायुऽजः। प्रथमः। उस्रियः। वृषा। वातऽभ्रजाः। स्तनयन्। एति। वृष्ट्या। सः। नः। मृडाति। तन्वे। ऋजुऽगः। रुजन्। यः। एकम्। ओजः। त्रेधा। विऽचक्रमे।
+ज॒रा॒यु॒ऽजः। प्र॒थ॒मः। उ॒स्रियः॑। वृषा॑। वात॑ऽभ्रजाः। स्त॒नय॑न्। ए॒ति॒। वृ॒ष्ट्या। सः। नः॒। मृ॒डा॒ति॒। त॒न्वे। ऋ॒जु॒ऽगः। रु॒जन्। यः। एक॑म्। ओजः॑। त्रे॒धा। वि॒ऽच॒क्र॒मे। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,14 +113,17 @@ Born from the womb, brought forth from wind and from the cloud, the first red bu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अङ्गे॑ अङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम ।  
-अ॒ङ्कान्त्स॑म॒ङ्कान् ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त् पर्वा॑स्या॒ ग्रभी॑ता ॥२॥  
+अङ्गेअ॑ङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम।  
+अ॒ङ्कान्त्स॑म॒ङ्कान्ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त्पर्वा॑स्या॒ ग्रभी॑ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अङ्गेअ॑ङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम। अ॒ङ्कान्त्स॑म॒ङ्कान्ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त्पर्वा॑स्या॒ ग्रभी॑ता ॥
+अङ्गेअ॑ङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम।  
+अ॒ङ्कान्त्स॑म॒ङ्कान्ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त्पर्वा॑स्या॒ ग्रभी॑ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
@@ -148,7 +154,7 @@ Bending to thee who clingest to each limb with heat, fain would we worship thee 
 </details>
 <details><summary>पदपाठः</summary>
 
-अङ्गेऽअङ्गे। शोचिषा। शिश्रियाणम्। नमस्यन्तः। त्वा। हविषा। विधेम। अङ्कान्। सम्ऽअङ्कान्। हविषा। विधेम। यः। अग्रभीत्। पर्व। अस्य। ग्रभीता।
+अङ्गे॑ऽअङ्गे। शो॒चिषा॑। शि॒श्रि॒या॒णम्। न॒म॒स्यन्तः॑। त्वा॒। हविषा॑। वि॒धे॒म॒। अ॒ङ्कान्। स॒म्ऽअ॒ङ्कान्। ह॒विषा॑। वि॒धे॒म॒। यः। अग्र॑भीत्। पर्व॑। अ॒स्य॒। ग्रभी॑ता। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,14 +185,17 @@ Bending to thee who clingest to each limb with heat, fain would we worship thee 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य ।  
-यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥३॥  
+मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य।  
+यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य। यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥
+मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य।  
+यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
@@ -213,7 +222,7 @@ Do thou release this man from headache, free him from cough which has entered in
 </details>
 <details><summary>पदपाठः</summary>
 
-मुञ्च। शीर्षक्त्याः। उत। कासः। एनम्। परुःऽपरु। आऽविवेश। यः। अस्य। यः। अभ्रऽजाः। वातऽजाः। यः। च। शुष्मः। वनस्पतीन्। सचताम्। पर्वतान्। च।
+मु॒ञ्च। शी॒र्ष॒क्त्याः। उ॒त। का॒सः। ए॒न॒म्। परुः॑ऽपरु। आ॒ऽवि॒वेश॑। यः। अ॒स्य॒। यः। अ॒भ्र॒ऽजाः। वा॒त॒ऽजाः। यः। च॒। शुष्मः॑। वन॒स्पती॑न्। स॒च॒ता॒म्। पर्व॑तान्। च॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -244,14 +253,17 @@ Do thou release this man from headache, free him from cough which has entered in
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/04_shaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे ।  
-शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॒३मम॑ ॥४॥
+शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे।  
+शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॑३ मम॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/04_shaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे। शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॑३ मम॑ ॥
+शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे।  
+शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॑३ मम॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/04_shaM_me.md">
@@ -278,7 +290,7 @@ Well be it with my upper frame, well be it with my lower parts. With my four lim
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। मे। परस्मै। गात्राय। शम्। अस्तु। अवराय। मे। शम्। मे। चतुःऽभ्यः। अङ्गेभ्यः। शम्। अस्तु। तन्वे। मम।
+शम्। मे॒। पर॑स्मै। गात्रा॑य। शम्। अ॒स्तु॒। अव॑राय। मे॒। शम्। मे॒। च॒तुःऽभ्यः॑। अङ्गे॑भ्यः। शम्। अ॒स्तु॒। त॒न्वे। मम॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

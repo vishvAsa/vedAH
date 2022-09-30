@@ -36,14 +36,17 @@ A charm against consumption
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/01_asthisraMsaM_parusraMsamAsthitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्थि॒स्रं॒सं प॑रुस्रं॒समास्थि॑तं हृदयाम॒यम्।  
-ब॒लासं॒ सर्वं॑ नाशयाङ्गे॒ष्ठा यश्च॒ पर्व॑सु ॥१॥  
+अ॑स्थिस्रं॒सं प॑रुस्रं॒समास्थि॑तं हृदयाम॒यम्।  
+ब॒लासं॒ सर्वं॑ नाशयाङ्गे॒ष्ठा यश्च॒ पर्व॑सु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/014_balAsanAshanam/01_asthisraMsaM_parusraMsamAsthitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑स्थिस्रं॒सं प॑रुस्रं॒समास्थि॑तं हृदयाम॒यम्। ब॒लासं॒ सर्वं॑ नाशयाङ्गे॒ष्ठा यश्च॒ पर्व॑सु ॥
+अ॑स्थिस्रं॒सं प॑रुस्रं॒समास्थि॑तं हृदयाम॒यम्।  
+ब॒लासं॒ सर्वं॑ नाशयाङ्गे॒ष्ठा यश्च॒ पर्व॑सु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/014_balAsanAshanam/01_asthisraMsaM_parusraMsamAsthitam.md">
@@ -77,7 +80,7 @@ Remove thou all Decline that lurks within the members and the joints, The firmly
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्थिऽस्रंसम्। परुःऽस्रंसम्। आऽस्थितम्। हृदयऽआमयम्। बलासम्। सर्वम्। नाशय। अङ्गेऽस्थाः। यः। च। पर्वऽसु। १४.१।
+अ॒स्थि॒ऽस्रं॒सम्। प॒रुः॒ऽस्रं॒सम्। आऽस्थि॑तम्। हृ॒द॒य॒ऽआ॒म॒यम्। ब॒लास॑म्। सर्व॑म्। ना॒श॒य॒। अ॒ङ्गे॒ऽस्थाः। यः। च॒। पर्व॑ऽसु। १४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +111,17 @@ Remove thou all Decline that lurks within the members and the joints, The firmly
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/02_nirbalAsaM_balAsinaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ब॒लासं॑ बला॒सिनः॑ क्षि॒णोमि॑ मुष्क॒रं य॑था ।  
-छि॒नद्म्य॑स्य॒ बन्ध॑नं॒ मूल॑मुर्वा॒र्वा इ॑व ॥२॥  
+निर्ब॒लासं॑ बला॒सिनः॑ क्षि॒णोमि॑ मुष्क॒रं य॑था।  
+छि॒नद्म्य॑स्य॒ बन्ध॑नं॒ मूल॑मुर्वा॒र्वा इ॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/014_balAsanAshanam/02_nirbalAsaM_balAsinaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्ब॒लासं॑ बला॒सिनः॑ क्षि॒णोमि॑ मुष्क॒रं य॑था। छि॒नद्म्य॑स्य॒ बन्ध॑नं॒ मूल॑मुर्वा॒र्वा इ॑व ॥
+निर्ब॒लासं॑ बला॒सिनः॑ क्षि॒णोमि॑ मुष्क॒रं य॑था।  
+छि॒नद्म्य॑स्य॒ बन्ध॑नं॒ मूल॑मुर्वा॒र्वा इ॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/014_balAsanAshanam/02_nirbalAsaM_balAsinaH.md">
@@ -143,7 +149,7 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 </details>
 <details><summary>पदपाठः</summary>
 
-निः। बलासम्। बलासिनः। क्षिणोमि। मुष्करम्। यथा। छिनद्मि। अस्य। बन्धनम्। मूलम्। उर्वार्वाःऽइव। १४.२।
+निः। ब॒लास॑म्। ब॒ला॒सिनः॑। क्षि॒णोमि॑। मु॒ष्क॒रम्। य॒था॒। छि॒नद्मि॑। अ॒स्य॒। बन्ध॑नम्। मूल॑म्। उ॒र्वा॒र्वाःऽइ॑व। १४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,14 +180,17 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/014_balAsanAshanam/03_nirbalAsetaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ब॑लासे॒तः प्र प॑ताशु॒ङ्गः शि॑शु॒को य॑था ।  
-अथो॒ इट॑ इव हाय॒नोप॑ द्रा॒ह्यवी॑रहा ॥३॥
+निर्बला॑से॒तः प्र प॑ताशु॒ङ्गः शि॑शु॒को य॑था।  
+अथो॒ इट॑ इव हाय॒नोऽप॑ द्रा॒ह्यवी॑रहा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/014_balAsanAshanam/03_nirbalAsetaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्बला॑से॒तः प्र प॑ताशु॒ङ्गः शि॑शु॒को य॑था। अथो॒ इट॑ इव हाय॒नोऽप॑ द्रा॒ह्यवी॑रहा ॥
+निर्बला॑से॒तः प्र प॑ताशु॒ङ्गः शि॑शु॒को य॑था।  
+अथो॒ इट॑ इव हाय॒नोऽप॑ द्रा॒ह्यवी॑रहा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/014_balAsanAshanam/03_nirbalAsetaH_pra.md">
@@ -207,7 +216,7 @@ Begone, Consumption, hence away, like a young foal that runs. at speed. Then, no
 </details>
 <details><summary>पदपाठः</summary>
 
-निः। बलास। इतः। प्र। पत। आशुंगः। शिशुकः। यथा। अथो इति। इटःऽइव। हायनः। अप। द्राहि। अवीरऽहा। १४.३।
+निः। ब॒ला॒स॒। इ॒तः। प्र। प॒त॒। आ॒शुं॒गः। शि॒शु॒कः। य॒था॒। अथो॒ इति॑। इटः॑ऽइव। हा॒य॒नः। अप॑। द्रा॒हि॒। अवी॑रऽहा। १४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Ludwig, p. 463; Zimmer, p. 237; Grill, 66, 177; Griffith, i. 324; Bl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव ।  
-मृ॒णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत्॥१॥  
+उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव।  
+मृ॑णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव। मृ॑णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत् ॥
+उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव।  
+मृ॑णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
@@ -64,7 +67,7 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। श्रयस्व। बहुः। भव। स्वेन। महसा। यव। मृणीहि। विश्वा। पात्राणि। मा। त्वा। दिव्या। अशनिः। वधीत्। १४२.१।
+उत्। श्र॒य॒स्व॒। ब॒हुः। भ॒व॒। स्वेन॑। मह॑सा। य॒व॒। मृ॒णी॒हि। विश्वा॑। पात्रा॑णि। मा। त्वा॒। दि॒व्या। अ॒शनिः॑। व॒धी॒त्। १४२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि ।  
-तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥२॥  
+आ॑शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि।  
+तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि। तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥
+आ॑शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि।  
+तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
@@ -122,7 +128,7 @@ As we invite and call to thee, Barley, a God who heareth us, Raise thyself up li
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽशृण्वन्तम्। यवम्। देवम्। यत्र। त्वा। अच्छऽआवदामसि। तत्। उत्। श्रयस्व। द्यौःऽइव। समुद्रःऽइव। एधि। अक्षितः। १४२.२।
+आ॒ऽशृ॒ण्वन्त॑म्। यव॑म्। दे॒वम्। यत्र॑। त्वा॒। अ॒च्छ॒ऽआ॒वदा॑मसि। तत्। उत्। श्र॒य॒स्व॒। द्यौःऽइ॑व। स॒मु॒द्रःऽइ॑व। ए॒धि॒। अक्षि॑तः। १४२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,14 +159,17 @@ As we invite and call to thee, Barley, a God who heareth us, Raise thyself up li
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑ ।  
-पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥३॥
+अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑।  
+पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑। पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥
+अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑।  
+पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
@@ -191,7 +200,7 @@ Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustle
 </details>
 <details><summary>पदपाठः</summary>
 
-अक्षिताः। ते। उपऽसदः। अक्षिताः। सन्तु। राशयः। पृणन्तः। अक्षिताः। सन्तु। अत्तारः। सन्तु। अक्षिताः। १४२.३।
+अक्षि॑ताः। ते॒। उ॒प॒ऽसदः॑। अक्षि॑ताः। स॒न्तु॒। रा॒शयः॑। पृ॒णन्तः॑। अक्षि॑ताः। स॒न्तु॒। अ॒त्तारः॑। स॒न्तु॒। अक्षि॑ताः। १४२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

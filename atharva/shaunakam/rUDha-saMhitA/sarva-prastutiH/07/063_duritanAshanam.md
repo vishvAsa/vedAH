@@ -36,14 +36,17 @@ A prayer for deliverance from affliction
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒त॒ना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात् स॒धस्था॑त्।  
-स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द् दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥१॥
+पृ॑तना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात्स॒धस्था॑त्।  
+स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पृ॑तना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात्स॒धस्था॑त्। स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥
+पृ॑तना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात्स॒धस्था॑त्।  
+स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
@@ -74,7 +77,7 @@ We call with lauds from his most lofty dwelling victorious Agni, conqueror in ba
 </details>
 <details><summary>पदपाठः</summary>
 
-पृतनाऽजितम्। सहमानम्। अग्निम्। उक्थैः। हवामहे। परमात्। सधऽस्थात्। सः। नः। पर्षत्। अति। दुःऽगानि। विश्वा। क्षामत्। देवः। अति। दुःऽ0इतानि। अग्निः। ६५.१।
+पृ॒त॒ना॒ऽजित॑म्। सह॑मानम्। अ॒ग्निम्। उ॒क्थैः। ह॒वा॒म॒हे॒। प॒र॒मात्। स॒धऽस्था॑त्। सः। नः॒। प॒र्ष॒त्। अति॑। दुः॒ऽगानि॑। विश्वा॑। क्षाम॑त्। दे॒वः। अति॑। दुः॒ऽ0इ॒तानि॑। अ॒ग्निः। ६५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

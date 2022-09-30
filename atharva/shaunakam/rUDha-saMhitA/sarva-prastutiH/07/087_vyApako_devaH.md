@@ -36,14 +36,17 @@ A prayer to Rudra as Agni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/087_vyApako_devaH/01_yo_agnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्व॑१न्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑ ।  
-य इ॒मा विश्वा॒ भुव॑नानि चाक्लृ॒प तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये ॥१॥
+यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्व१॒॑न्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑।  
+य इ॒मा विश्वा॒ भुव॑नानि चा॒क्लृ॒पे तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/087_vyApako_devaH/01_yo_agnau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्वन्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑। य इ॒मा विश्वा॒ भुव॑नानि चा॒क्लृ॒पे तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये॑ ॥
+यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्व१॒॑न्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑।  
+य इ॒मा विश्वा॒ भुव॑नानि चा॒क्लृ॒पे तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/01_yo_agnau.md">
@@ -71,7 +74,7 @@ To Rudra in the fire, to him who dwells in floods, to Rudra who hath entered int
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अग्नौ। रुद्रः। यः। अप्ऽसु। अन्तः। यः। ओषधीः। वीरुधः। आऽविवेश। यः। इमा। विश्वा। भुवनानि। चक्लृपे। तस्मै। रुद्राय। नमः। अस्तु। अग्नये। ९२.१।
+यः। अ॒ग्नौ। रु॒द्रः। यः। अ॒प्ऽसु। अ॒न्तः। यः। ओष॑धीः। वी॒रुधः॑। आ॒ऽवि॒वेश॑। यः। इ॒मा। विश्वा॑। भुव॑नानि। च॒क्लृ॒पे। तस्मै॑। रु॒द्राय॑। नमः॑। अ॒स्तु॒। अ॒ग्नये॑। ९२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

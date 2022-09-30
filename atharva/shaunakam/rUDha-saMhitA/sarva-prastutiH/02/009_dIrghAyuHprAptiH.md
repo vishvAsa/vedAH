@@ -36,14 +36,17 @@ A charm to cure dangerous disease
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु ।  
-अथो॑ एनं वनस्पते जी॒वानां॒ लो॒क॑मु॑न्नय ॥१॥  
+दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु।  
+अथो॑ एनं वनस्पते जी॒वानां॑ लो॒कमुन्न॑य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु। अथो॑ एनं वनस्पते जी॒वानां॑ लो॒कमुन्न॑य ॥
+दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु।  
+अथो॑ एनं वनस्पते जी॒वानां॑ लो॒कमुन्न॑य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
@@ -69,7 +72,7 @@ Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joint
 </details>
 <details><summary>पदपाठः</summary>
 
-दशऽवृक्ष। मुञ्च। इमम्। रक्षसः। ग्राह्याः। अधि। या। एनम्। जग्राह। पर्वऽसु। अथो इति। एनम्। वनस्पते। जीवानाम्। लोकम्। उत्। नय। ९.१।
+दश॑ऽवृक्ष। मु॒ञ्च। इ॒मम्। रक्ष॑सः। ग्राह्याः॑। अधि॑। या। ए॒न॒म्। ज॒ग्राह॑। पर्व॑ऽसु। अथो॒ इति॑। ए॒न॒म्। व॒न॒स्प॒ते॒। जी॒वाना॑म्। लो॒कम्। उत्। न॒य॒। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +104,16 @@ Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joint
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्।  
-अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥२॥  
+अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्। अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥
+आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्।  
+अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
@@ -129,7 +135,7 @@ He hath arisen and come once more, rejoined the band of those who live. May he b
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अगात्। उत्। अगात्। अयम्। जीवानाम्। व्रातम्। अपि। अगात्। अभूत्। ऊं इति। पुत्राणाम्। पिता। नृणाम्। च। भगवत्ऽतमः। ९.२।
+आ। अ॒गा॒त्। उत्। अ॒गा॒त्। अ॒यम्। जी॒वाना॑म्। व्रात॑म्। अपि॑। अ॒गा॒त्। अभू॑त्। ऊं॒ इति॑। पु॒त्राणा॑म्। पि॒ता। नृ॒णाम्। च॒। भग॑वत्ऽतमः। ९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ He hath arisen and come once more, rejoined the band of those who live. May he b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गान्।  
-श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥३॥  
+अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गन्।  
+श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गन्। श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥
+अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गन्।  
+श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
@@ -195,7 +204,7 @@ He hath returned to consciousness, rejoined the living's firm abodes, For hundre
 </details>
 <details><summary>पदपाठः</summary>
 
-अधिऽइतीः। अधि। अगात्। अयम्। अधि। जीवऽपुराः। अगत्। शतम्। हि। अस्य। भिषजः। सहस्रम्। उत। वीरुधः। ९.३।
+अधि॑ऽइतीः। अधि॑। अ॒गा॒त्। अ॒यम्। अधि॑। जी॒व॒ऽपु॒राः। अ॒ग॒त्। श॒तम्। हि। अ॒स्य॒। भि॒षजः॑। स॒हस्र॑म्। उ॒त। वी॒रुधः॑। ९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ He hath returned to consciousness, rejoined the living's firm abodes, For hundre
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वास्ते॑ ची॒तिम॑विदन् ब्र॒ह्माण॑ उ॒त वी॒रुधः॑ ।  
-ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न् भूम्या॒मधि॑ ॥४॥  
+दे॒वास्ते॑ ची॒तिम॑विदन्ब्र॒ह्माण॑ उ॒त वी॒रुधः॑।  
+ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न्भूम्या॒मधि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वास्ते॑ ची॒तिम॑विदन्ब्र॒ह्माण॑ उ॒त वी॒रुधः॑। ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न्भूम्या॒मधि॑ ॥
+दे॒वास्ते॑ ची॒तिम॑विदन्ब्र॒ह्माण॑ उ॒त वी॒रुधः॑।  
+ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न्भूम्या॒मधि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
@@ -259,7 +271,7 @@ The Gods, the Brahman-priests, and plants observed the way to gather thee: All d
 </details>
 <details><summary>पदपाठः</summary>
 
-देवाः। ते। चीतिम्। अविदन्। ब्रह्माणः। उत। वीरुधः। चीतिम्। ते। विश्वे। देवाः। अविदन्। भूम्याम्। अधि। ९.४।
+दे॒वाः। ते॒। ची॒तिम्। अ॒वि॒द॒न्। ब्र॒ह्माणः॑। उ॒त। वी॒रुधः॑। ची॒तिम्। ते॒। विश्वे॑। दे॒वाः। अवि॑दन्। भूम्या॑म्। अधि॑। ९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -290,14 +302,17 @@ The Gods, the Brahman-priests, and plants observed the way to gather thee: All d
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॒कार॒ स निष्क॑र॒त् स ए॒व सुभि॑षक्तमः ।  
-स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द् भि॒षजा॒ शुचिः॑ ॥५॥
+यश्च॒कार॒ स निष्क॑र॒त्स ए॒व सुभि॑षक्तमः।  
+स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द्भि॒षजा॒ शुचिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यश्च॒कार॒ स निष्क॑र॒त्स ए॒व सुभि॑षक्तमः। स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द्भि॒षजा॒ शुचिः॑ ॥
+यश्च॒कार॒ स निष्क॑र॒त्स ए॒व सुभि॑षक्तमः।  
+स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द्भि॒षजा॒ शुचिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
@@ -324,7 +339,7 @@ Let him who made it also heal: he, truly, is the deftest leech. Pure, with a lee
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। चकार। सः। निः। करत्। सः। एव। सुभिषक्ऽतमः। सः। एव। तुभ्यम्। भेषजानि। कृणवत्। भिषजा। शुचिः। ९.५।
+यः। च॒कार॑। सः। निः। क॒र॒त्। सः। ए॒व। सुभि॑षक्ऽतमः। सः। ए॒व। तुभ्य॑म्। भे॒ष॒जानि॑। कृ॒णव॑त्। भि॒षजा॑। शुचिः॑। ९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

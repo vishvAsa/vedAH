@@ -36,14 +36,17 @@ Homage to death
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑ ।  
-अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥१॥  
+नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑।  
+अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑। अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥
+नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑।  
+अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
@@ -64,7 +67,7 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। देवऽवधेभ्यः। नमः। राजऽवधेभ्यः। अथो इति। ये। विश्यानाम्। वधाः। तेभ्यः। मृत्यो इति। नमः। अस्तु। ते। १३.१।
+नमः॑। दे॒व॒ऽव॒धेभ्यः॑। नमः॑। रा॒ज॒ऽव॒धेभ्यः॑। अथो॒ इति॑। ये। विश्या॑नाम्। व॒धाः। तेभ्यः॑। मृ॒त्यो॒ इति॑। नमः॑। अ॒स्तु॒। ते॒। १३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑ ।  
-सु॒म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥२॥  
+नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑।  
+सु॑म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑। सु॑म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥
+नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑।  
+सु॑म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
@@ -123,7 +129,7 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अधिऽवाकाय। पराऽवाकाय। ते। नमः। सुऽमत्यै। मृत्यो इति। ते। नमः। दुःऽमत्यै। ते। इदम्। नमः। १३.२।
+नमः॑। ते॒। अ॒धि॒ऽवा॒काय॑। प॒रा॒ऽवा॒काय॑। ते॒। नमः॑। सु॒ऽम॒त्यै। मृ॒त्यो॒ इति॑। ते॒। नमः॑। दुः॒ऽम॒त्यै। ते॒। इ॒दम्। नमः॑। १३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,14 +160,17 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑ ।  
-नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥३॥
+नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑।  
+नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑। नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥
+नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑।  
+नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
@@ -180,7 +189,7 @@ Worship to thy physicians, to thy sorcerers be worship paid! Death! let this rev
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। यातुऽधानेभ्यः। नमः। ते। भेषजेभ्यः। नमः। ते। मृत्यो इति। मूलेभ्यः। ब्राह्मणेभ्यः। इदम्। नमः। १३.३।
+नमः॑। ते॒। या॒तु॒ऽधाने॑भ्यः। नमः॑। ते॒। भे॒ष॒जेभ्यः॑। नमः॑। ते॒। मृ॒त्यो॒ इति॑। मूले॑भ्यः। ब्रा॒ह्म॒णेभ्यः॑। इ॒दम्। नमः॑। १३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

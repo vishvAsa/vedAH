@@ -32,14 +32,17 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः ।  
-ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥१॥
+यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः।  
+ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/106_amRtatvam/01_yadasmRti_chakRma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः। ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥
+यदस्मृ॑ति चकृ॒म किं चि॑दग्न उपारि॒म चर॑णे जातवेदः।  
+ततः॑ पाहि॒ त्वं नः॑ प्रचेतः शु॒भे सखि॑भ्यो अमृत॒त्वम॑स्तु नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/106_amRtatvam/01_yadasmRti_chakRma.md">
@@ -64,7 +67,7 @@ Each thoughtless ill that we have done, O Agni, all error in our conduct, Jatave
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अस्मृति। चकृम। किम्। चित्। अग्ने। उपऽआरिम। चरणे। जातऽवेदः। ततः। पाहि। त्वम्। नः। प्रऽचेतः। शुभे। सखिऽभ्यः। अमृतऽत्वम्। अस्तु। नः। १११.१।
+यत्। अस्मृ॑ति। च॒कृ॒म। किम्। चि॒त्। अ॒ग्ने॒। उ॒प॒ऽआ॒रि॒म। चर॑णे। जा॒त॒ऽवे॒दः॒। ततः॑। पा॒हि॒। त्वम्। नः॒। प्र॒ऽचे॒तः॒। शु॒भे। सखि॑ऽभ्यः। अ॒मृ॒त॒ऽत्वम्। अ॒स्तु॒। नः॒। १११.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

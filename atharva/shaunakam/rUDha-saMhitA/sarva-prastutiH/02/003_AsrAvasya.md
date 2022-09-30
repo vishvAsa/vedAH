@@ -38,13 +38,16 @@ A water-cure charm
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्।  
-तत् ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥१॥  
+तत्ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्। तत्ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥
+अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्।  
+तत्ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
@@ -71,7 +74,7 @@ That little spring of water which is running downward from the hill I turn to he
 </details>
 <details><summary>पदपाठः</summary>
 
-अदः। यत्। अवऽधावति। अवत्ऽकम्। अधि। पर्वतात्। तत्। ते। कृणोमि। भेषजम्। सुऽभेषजम्। यथा। अससि। ३.१।
+अ॒दः। यत्। अ॒व॒ऽधाव॑ति। अ॒व॒त्ऽकम्। अधि॑। पर्व॑तात्। तत्। ते॒। कृ॒णो॒मि॒। भे॒ष॒जम्। सुऽभे॑षजम्। यथा॑। अस॑सि। ३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ That little spring of water which is running downward from the hill I turn to he
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते ।  
-तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम्॥२॥  
+आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते।  
+तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते। तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम् ॥
+आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते।  
+तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
@@ -137,7 +143,7 @@ Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of a
 </details>
 <details><summary>पदपाठः</summary>
 
-आत्। अङ्ग। कुवित्। अङ्ग। शतम्। या। भेषजानि। ते। तेषाम्। असि। त्वम्। उत्ऽतमम्। अनास्रावम्। अरोगणम्। ३.२।
+आत्। अ॒ङ्ग। कु॒वित्। अ॒ङ्ग। श॒तम्। या। भे॒ष॒जानि॑। ते॒। तेषा॑म्। अ॒सि॒। त्वम्। उ॒त्ऽत॒मम्। अ॒ना॒स्रा॒वम्। अरो॑गणम्। ३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,13 +175,16 @@ Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of a
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत्॥३॥  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्। तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्।  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
@@ -204,7 +213,7 @@ The Asuras bury deep in earth this mighty thing that healeth wounds. This is the
 </details>
 <details><summary>पदपाठः</summary>
 
-नीचैः। खनन्ति। असुराः। अरुःऽस्राणम्। इदम्। महत्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अनीनशत्। ३.३।
+नी॒चैः। ख॒न॒न्ति॒। असु॑राः। अ॒रुः॒ऽस्राण॑म्। इ॒दम्। म॒हत्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒नी॒न॒श॒त्। ३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -235,14 +244,17 @@ The Asuras bury deep in earth this mighty thing that healeth wounds. This is the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒प॒जीका॒ उद् भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत्॥४॥  
+उ॑प॒जीका॒ उद्भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्।  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑प॒जीका॒ उद्भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्। तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत् ॥
+उ॑प॒जीका॒ उद्भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्।  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
@@ -273,7 +285,7 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽजीकाः। उत्। भरन्ति। समुद्रात्। अधि। भेषजम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अशीशमत्। ३.४।
+उ॒प॒ऽजीकाः॑। उत्। भ॒र॒न्ति॒। स॒मु॒द्रात्। अधि॑। भे॒ष॒जम्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒शी॒श॒म॒त्। ३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -304,14 +316,17 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒रु॒स्राण॑मि॒दं म॒हत् पृ॑थि॒व्या अध्युद्भृ॑तम्।  
-तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत्॥५॥  
+अ॑रु॒स्राण॑मि॒दं म॒हत्पृ॑थि॒व्या अध्युद्भृ॑तम्।  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑रु॒स्राण॑मि॒दं म॒हत्पृ॑थि॒व्या अध्युद्भृ॑तम्। तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+अ॑रु॒स्राण॑मि॒दं म॒हत्पृ॑थि॒व्या अध्युद्भृ॑तम्।  
+तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
@@ -332,7 +347,7 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 </details>
 <details><summary>पदपाठः</summary>
 
-अरुःऽस्राणम्। इदम्। महत्। पृथिव्याः। अधि। उत्ऽभृतम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अनीनशत्। ३.५।
+अ॒रुः॒ऽस्राण॑म्। इ॒दम्। म॒हत्। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑तम्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒नी॒न॒श॒त्। ३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -363,14 +378,17 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/06_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ भवन्त्व॒प ओष॑धयः शि॒वाः ।  
-इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद् विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म्॥६॥
+शं नो॑ भवन्त्वा॒प ओष॑धयः शि॒वाः।  
+इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद्विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/06_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नो॑ भवन्त्वा॒प ओष॑धयः शि॒वाः। इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद्विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म् ॥
+शं नो॑ भवन्त्वा॒प ओष॑धयः शि॒वाः।  
+इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद्विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/06_shaM_no.md">
@@ -398,7 +416,7 @@ Bless us the Waters! be the Plants auspicious! May Indra's thunderbolt drive off
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। भवन्तु। आपः। ओषधयः। शिवाः। इन्द्रस्य। वज्रः। अप। हन्तु। रक्षसः। आरात्। विऽसृष्टाः। इषवः। पतन्तु। रक्षसाम्। ३.६।
+शम्। नः॒। भ॒व॒न्तु॒। आ॒पः। ओष॑धयः। शि॒वाः। इन्द्र॑स्य। वज्रः॑। अप॑। ह॒न्तु॒। र॒क्षसः॑। आ॒रात्। विऽसृ॑ष्टाः। इष॑वः। प॒त॒न्तु॒। र॒क्षसा॑म्। ३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

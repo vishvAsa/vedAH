@@ -36,14 +36,17 @@ A hymn to the New Moon
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/01_yatte_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् ते॑ दे॒वा अकृ॑ण्वन् भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म्॥१॥  
+यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
+तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/01_yatte_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा। तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
+तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/01_yatte_devA.md">
@@ -70,7 +73,7 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ते। देवाः। अकृण्वन्। भागऽधेयम्। अमाऽवास्ये। सम्ऽवसन्तः। महिऽत्वा। तेन। नः। यज्ञम्। पिपृहि। विश्वऽवारे। रयिम्। नः। धेहि। सुऽभगे। सुऽवीरम्। ८४.१।
+यत्। ते॒। दे॒वाः। अकृ॑ण्वन्। भा॒ग॒ऽधेय॑म्। अमा॑ऽवास्ये। स॒म्ऽवस॑न्तः। म॒हि॒ऽत्वा। तेन॑। नः॒। य॒ज्ञम्। पि॒पृ॒हि॒। वि॒श्व॒ऽवा॒रे॒। र॒यिम्। नः॒। धे॒हि॒। सु॒ऽभ॒गे॒। सु॒ऽवीर॑म्। ८४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,22 +100,25 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 </details>
 </details>
 </div>
-## ०२ अहमेवास्म्यमावास्या३ मामा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA3_mAmA.md">
+## ०२ अहमेवास्म्यमावास्या मामा
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हमे॒वास्म्य॑मावा॒स्या॒३ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
-मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥२॥  
+अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
+मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA3_mAmA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे। मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
+अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
+मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA3_mAmA.md">
-<details open><summary><h3>०२ अहमेवास्म्यमावास्या३ मामा ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
+<details open><summary><h3>०२ अहमेवास्म्यमावास्या मामा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -132,7 +138,7 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। एव। अस्मि। अमाऽवास्या᳡। माम्। आ। वसन्ति। सुऽकृतः। मयि। इमे। मयि। देवाः। उभये। साध्याः। च। इन्द्रऽज्येष्ठाः। सम्। अगच्छन्त। सर्वे। ८४.२।
+अ॒हम्। ए॒व। अ॒स्मि॒। अ॒मा॒ऽवा॒स्या᳡। माम्। आ। व॒स॒न्ति॒। सु॒ऽकृ॒तः॑। मयि॑। इ॒मे। मयि॑। दे॒वाः। उ॒भये॑। सा॒ध्याः। च॒। इन्द्र॑ऽज्येष्ठाः। सम्। अ॒ग॒च्छ॒न्त॒। सर्वे॑। ८४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आग॒न् रात्री॑ सं॒गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती ।  
-अ॒मा॒वा॒स्याऽयै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न्॥३॥  
+आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती।  
+अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती। अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
+आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती।  
+अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
@@ -201,7 +210,7 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अगन्। रात्री। सम्ऽगमनी। वसूनाम्। ऊर्जम्। पुष्टम्। वसु। आऽवेशयन्ती। अमाऽवास्या᳡यै। हविषा। विधेम। ऊर्जम्। दुहाना। पयसा। नः। आ। अगन्। ८४.३।
+आ। अ॒ग॒न्। रात्री॑। स॒म्ऽगम॑नी। वसू॑नाम्। ऊर्ज॑म्। पु॒ष्टम्। वसु॑। आ॒ऽवे॒शय॑न्ती। अ॒मा॒ऽवा॒स्या᳡यै। ह॒विषा॑। वि॒धे॒म॒। ऊर्ज॑म्। दुहा॑ना। पय॑सा। नः॒। आ। अ॒ग॒न्। ८४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -232,14 +241,17 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अमा॑वास्ये न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान ।  
-यत् का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयि॒णाम्॥४॥
+अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान। यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
+यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/04_amAvAsye_na.md">
@@ -261,7 +273,7 @@ Night of New Moon! ne'er hath been born another than thou embracing all these fo
 </details>
 <details><summary>पदपाठः</summary>
 
-अमाऽवास्ये। न। त्वत्। एतानि। अन्यः। विश्वा। रूपाणि। परिऽभूः। जजान। यत्ऽकामाः। ते। जुहुमः। तत्। नः। अस्तु। वयम्। स्याम। पतयः। रयीणाम्। ८४.४।
+अमा॑ऽवास्ये। न। त्वत्। ए॒तानि॑। अ॒न्यः। विश्वा॑। रू॒पाणि॑। प॒रि॒ऽभूः। ज॒जा॒न॒। यत्ऽका॑माः। ते॒। जु॒हु॒मः। तत्। नः॒। अ॒स्तु॒। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ८४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

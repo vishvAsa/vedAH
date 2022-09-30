@@ -36,14 +36,17 @@ Praise of Vishnu and Varuna
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वीर्यौऽर्वी॒रत॑मा॒ शवि॑ष्ठा ।  
-यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न् वरु॑णं पू॒र्वहू॑तिः ॥१॥  
+ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वी॒र्यै᳡र्वी॒रत॑मा॒ शवि॑ष्ठा।  
+यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वी॒र्यै᳡र्वी॒रत॑मा॒ शवि॑ष्ठा। यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
+ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वी॒र्यै᳡र्वी॒रत॑मा॒ शवि॑ष्ठा।  
+यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
@@ -70,7 +73,7 @@ The early morning prayer hath come to Vishnu and Varuna, Lords through might, wh
 </details>
 <details><summary>पदपाठः</summary>
 
-ययोः। ओजसा। स्कभिता। रजांसि। यौ। वीर्यैः᳡। वीरऽतमा। शविष्ठा। यौ। पत्येते इति। अप्रतिऽइतौ। सहःऽभिः। विष्णुम्। अगन्। वरुणम्। पूर्वऽहूतिः। २६.१।
+ययोः॑। ओज॑सा। स्क॒भि॒ता। रजां॑सि। यौ। वी॒र्यैः᳡। वी॒रऽत॑मा। शवि॑ष्ठा। यौ। पत्ये॑ते॒ इति॑। अप्र॑तिऽइतौ। सहः॑ऽभिः। विष्णु॑म्। अ॒ग॒न्। वरु॑णम्। पू॒र्वऽहू॑तिः। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ The early morning prayer hath come to Vishnu and Varuna, Lords through might, wh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ये॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः ।  
-पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न् वरु॑णं पू॒र्वहू॑तिः ॥२॥
+यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः।  
+पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः। पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
+यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः।  
+पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/02_yasyedaM_pradishi.md">
@@ -134,7 +140,7 @@ The early prayer hath ever come to Vishnu and Varuna by that God's high power an
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। इदम्। प्रऽदिशि। यत्। विऽरोचते। प्र। च। अनति। वि। च। चष्टे। शचीभिः। पुरा। देवस्य। धर्मणा। सहःऽभ‍िः। विष्णुम्। अगन्। वरुणम्। पूर्वऽहूतिः। २६.२।
+यस्य॑। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। प्र। च॒। अन॑ति। वि। च॒। चष्टे॑। शची॑भिः। पु॒रा। दे॒वस्य॑। धर्म॑णा। सहः॑ऽभ‍िः। विष्णु॑म्। अ॒ग॒न्। वरु॑णम्। पू॒र्वऽहू॑तिः। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

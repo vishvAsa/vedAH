@@ -36,14 +36,17 @@ A prayer for long life, children, and riches
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/033_dIrghAyuH/01_saM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॒षा सं बृह॒स्पतिः॑ ।  
-सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥१॥
+सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॑ष॒ सं बृह॒स्पतिः॑।  
+सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/033_dIrghAyuH/01_saM_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॑ष॒ सं बृह॒स्पतिः॑। सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥
+सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॑ष॒ सं बृह॒स्पतिः॑।  
+सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/01_saM_mA.md">
@@ -72,7 +75,7 @@ Let Pushan, let the Maruts, let Brihaspati pour forth on me; This present Agni p
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। मा। सिञ्चन्तु। मरुतः। सम्। पूषा। सम्। बृहस्पतिः। सम्। मा। अयम्। अग्निः। सिञ्चन्तु। प्रऽजया। च। धनेन। च। दीर्घम्। आयुः। कृणोतु। मे। ३४.१।
+सम्। मा॒। सि॒ञ्च॒न्तु॒। म॒रुतः॑। सम्। पू॒षा। सम्। बृ॒ह॒स्पतिः॑। सम्। मा॒। अ॒यम्। अ॒ग्निः। सि॒ञ्च॒न्तु॒। प्र॒ऽजया॑। च॒। धने॑न। च॒। दी॒र्घम्। आयुः॑। कृ॒णो॒तु॒। मे॒। ३४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

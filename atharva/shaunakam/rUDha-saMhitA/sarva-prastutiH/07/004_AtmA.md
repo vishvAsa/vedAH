@@ -28,10 +28,8 @@ Translated: Henry, 2, 49; Griffith, i. 328.
 </details>
 <details><summary>Griffith</summary>
 
-id
-7.4    To Vayu God of the Wind
-7.4    To Vayu God of the Wind
-Name: Comment, dtype: object
+To Vāyu God of the Wind
+
 </details>
 </details>
 </div>
@@ -39,14 +37,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/004_AtmA/01_ekayA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑या च द॒शभि॑श्चा सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑ ।  
-ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥१॥
+एक॑या च द॒शभि॑श्च सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑।  
+ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/004_AtmA/01_ekayA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एक॑या च द॒शभि॑श्च सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑। ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥
+एक॑या च द॒शभि॑श्च सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑।  
+ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/004_AtmA/01_ekayA_cha.md">
@@ -76,14 +77,14 @@ them." See *Gram.* §595 d.⌋
 </details>
 <details><summary>Griffith</summary>
 
-id
-7.4.1    With thine eleven teams, to aid our wishes, ye...
-7.4.1    With thine eleven teams, to aid our wishes, ye...
-Name: Comment, dtype: object
+With thine eleven teams, to aid our wishes, yea, with thy two-
+and-twenty teams, O Vāyu,
+With all thy three-and-thirty teams for drawing, here loose these
+teams, thou who art prompt to listen!
 </details>
 <details><summary>पदपाठः</summary>
 
-एकया। च। दशभिः। च। सुऽहुते। द्वाभ्याम्। इष्टये। विंशत्या। च। तिसृऽभिः। च। वहसे। त्रिंशता। च। वियुक्ऽभ‍िः। वायो इति। इह। ताः। वि। मुञ्च। ४.१।
+एक॑या। च॒। द॒शभिः॑। च॒। सु॒ऽहु॒ते॒। द्वाभ्या॑म्। इ॒ष्टये॑। विं॒श॒त्या। च॒। ति॒सृऽभिः॑। च॒। वह॑से। त्रिं॒शता॑। च॒। वि॒युक्ऽभ‍िः॑। वा॒यो॒ इति॑। इ॒ह। ताः। वि। मु॒ञ्च॒। ४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

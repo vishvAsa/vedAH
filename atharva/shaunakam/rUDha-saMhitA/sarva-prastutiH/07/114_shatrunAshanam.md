@@ -32,14 +32,17 @@ Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/01_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद् ददे ।  
-आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त् सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥१॥  
+आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
+आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/01_A_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे। आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
+आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
+आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/01_A_te.md">
@@ -63,7 +66,7 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। ते। ददे। वक्षणाभ्यः। आ। ते। अहम्। हृदयात्। ददे। आ। ते। मुखस्य। सम्ऽकाशात्। सर्वम्। ते। वर्चः। आ। ददे। ११९.१।
+आ। ते॒। द॒दे॒। व॒क्षणा॑भ्यः। आ। ते॒। अ॒हम्। हृद॑यात्। द॒दे॒। आ। ते॒। मुख॑स्य। सम्ऽका॑शात्। सर्व॑म्। ते॒। वर्चः॑। आ। द॒दे॒। ११९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,14 +97,17 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/02_preto_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रेतो य॑न्तु॒ व्याऽध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः ।  
-अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥२॥
+प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः।  
+अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/02_preto_yantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः। अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
+प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः।  
+अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/02_preto_yantu.md">
@@ -124,7 +130,7 @@ Let pain and suffering pass away, let cares and curses vanish. hence. Let Agni s
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। इतः। यन्तु। विऽआध्यः। प्र। अनुऽध्याः। प्रो इति। अशस्तयः। अग्निः। रक्षस्विनीः। हन्तु। सोमः। हन्तु। दुरस्यतीः। ११९.२।
+प्र। इ॒तः। य॒न्तु॒। विऽआ॑ध्यः। प्र। अ॒नु॒ऽध्याः। प्रो इति॑। अश॑स्तयः। अ॒ग्निः। र॒क्ष॒स्विनीः॑। ह॒न्तु॒। सोमः॑। ह॒न्तु॒। दु॒र॒स्य॒तीः। ११९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Florenz, 256 or 8; Griffith, i. 248.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/007_asuraxayaNam/01_yena_somAditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ सो॒मादि॑तिः प॒था मि॒त्रा वा॒ यन्त्य॒द्रुहः॑ ।  
-तेना॒ नोऽव॒सा ग॑हि ॥१॥  
+येन॑ सो॒मादि॑तिः प॒था मि॒त्रा वा॒ यन्त्य॒द्रुहः॑।  
+तेना॒ नोऽव॒सा ग॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/007_asuraxayaNam/01_yena_somAditiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ सो॒मादि॑तिः प॒था मि॒त्रा वा॒ यन्त्य॒द्रुहः॑। तेना॒ नोऽव॒सा ग॑हि ॥
+येन॑ सो॒मादि॑तिः प॒था मि॒त्रा वा॒ यन्त्य॒द्रुहः॑।  
+तेना॒ नोऽव॒सा ग॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/007_asuraxayaNam/01_yena_somAditiH.md">
@@ -62,7 +65,7 @@ impossible. ⌊The description as *nicṛt* belongs rather to 8. 1.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। सोम। अदितिः। पथा। मित्राः। वा। यन्ति। अद्रुहः। तेन। नः। अवसा। आ। गहि। ७.१।
+येन॑। सो॒म॒। अदि॑तिः। प॒था। मि॒त्राः। वा॒। यन्ति॑। अ॒द्रुहः॑। तेन॑। नः॒। अव॑सा। आ। ग॒हि॒। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ impossible. ⌊The description as *nicṛt* belongs rather to 8. 1.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/007_asuraxayaNam/02_yena_soma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ सोम साह॒न्त्यासु॑रान् र॒न्धया॑सि नः ।  
-तेना॑ नो॒ अधि॑ वोचत ॥२॥  
+येन॑ सोम साह॒न्त्यासु॑रान्र॒न्धया॑सि नः।  
+तेना॑ नो॒ अधि॑ वोचत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/007_asuraxayaNam/02_yena_soma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ सोम साह॒न्त्यासु॑रान्र॒न्धया॑सि नः। तेना॑ नो॒ अधि॑ वोचत ॥
+येन॑ सोम साह॒न्त्यासु॑रान्र॒न्धया॑सि नः।  
+तेना॑ नो॒ अधि॑ वोचत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/007_asuraxayaNam/02_yena_soma.md">
@@ -132,7 +138,7 @@ change of number ⌊in the verb⌋ from **a, b** to **c**; emendation to
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। सोम। साहन्त्य। असुरान्। रन्धयासि। नः। तेन। नः। अधि। वोचत। ७.२।
+येन॑। सो॒म॒। सा॒ह॒न्त्य॒। असु॑रान्। र॒न्धया॑सि। नः॒। तेन॑। नः॒। अधि॑। वो॒च॒त॒। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,13 +170,16 @@ change of number ⌊in the verb⌋ from **a, b** to **c**; emendation to
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ देवा॒ असु॑राणा॒मोजां॒स्यवृ॑णीध्वम्।  
-तेना॑ नः॒ शर्म॑ यच्छत ॥३॥
+तेना॑ नः॒ शर्म॑ यच्छत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/007_asuraxayaNam/03_yena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ देवा॒ असु॑राणा॒मोजां॒स्यवृ॑णीध्वम्। तेना॑ नः॒ शर्म॑ यच्छत ॥
+येन॑ देवा॒ असु॑राणा॒मोजां॒स्यवृ॑णीध्वम्।  
+तेना॑ नः॒ शर्म॑ यच्छत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/007_asuraxayaNam/03_yena_devA.md">
@@ -195,7 +204,7 @@ sambhaktavantaḥ*. ⌊Ppp. has for **c** *tebhir na adhi vocata*.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। देवाः। असुराणाम्। ओजांसि। अवृणीध्वम्। तेन। नः। शर्म। यच्छत। ७.३।
+येन॑। दे॒वाः॒। असु॑राणाम्। ओजां॑सि। अवृ॑णीध्वम्। तेन॑। नः॒। शर्म॑। य॒च्छ॒त॒। ७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

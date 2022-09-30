@@ -33,13 +33,16 @@ A prayer to Agni for protection
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु संवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या।  
-सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥१॥  
+सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु संवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या। सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु संवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या।  
+सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
@@ -66,7 +69,7 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 </details>
 <details><summary>पदपाठः</summary>
 
-समाः। त्वा। अग्ने। ऋतवः। वर्धयन्तु। सम्ऽवत्सराः। ऋषयः। यानि। सत्या। सम्। दिव्येन। दीदिहि। रोचनेन। विश्वाः। आ। भाहि। प्रऽदिशः। चतस्रः। ६.१।
+समाः॑। त्वा॒। अ॒ग्ने॒। ऋ॒तवः॑। व॒र्ध॒य॒न्तु॒। स॒म्ऽव॒त्स॒राः। ऋष॑यः। यानि॑। स॒त्या। सम्। दि॒व्येन॑। दी॒दि॒हि॒। रो॒च॒नेन॑। विश्वाः॑। आ। भा॒हि॒। प्र॒ऽदिशः॑। चत॑स्रः। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय ।  
-मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये॥२॥  
+सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय।  
+मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय। मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये ॥
+सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय।  
+मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
@@ -127,7 +133,7 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। च। इध्यस्व। अग्ने। प्र। च। वर्धय। इमम्। उत्। च। तिष्ठ। महते। सौभगाय। मा। ते। रिषन्। उपऽसत्तारः। अग्ने। ब्रह्माणः। ते। यशसः। सन्तु। मा। अन्ये। ६.२।
+सम्। च॒। इ॒ध्यस्व॑। अ॒ग्ने॒। प्र। च॒। व॒र्ध॒य॒। इ॒मम्। उत्। च॒। ति॒ष्ठ॒। म॒ह॒ते। सौभ॑गाय। मा। ते॒। रि॒ष॒न्। उ॒प॒ऽस॒त्तारः॑। अग्ने॒। ब्र॒ह्माणः॑। ते॒। य॒शसः॑। स॒न्तु॒। मा। अ॒न्ये। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः ।  
-स॒प॒त्न॒हाग्ने॑ अभिमाति॒जिद् भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन्॥३॥  
+त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः।  
+स॑पत्न॒हाग्ने॑ अभिमाति॒जिद्भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः। स॑पत्न॒हाग्ने॑ अभिमाति॒जिद्भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन् ॥
+त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः।  
+स॑पत्न॒हाग्ने॑ अभिमाति॒जिद्भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
@@ -194,7 +203,7 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वाम्। अग्ने। वृणते। ब्राह्मणाः। इमे। शिवः। अग्ने। सम्ऽवरणे। भव। नः। सपत्नऽहा। अग्ने। अभिमातिऽजित्। भव। स्वे। गये। जागृहि। अप्रऽयुच्छन्। ६.३।
+त्वाम्। अ॒ग्ने॒। वृ॒ण॒ते॒। ब्रा॒ह्म॒णाः। इ॒मे। शि॒वः। अ॒ग्ने॒। स॒म्ऽवर॑णे। भ॒व॒। नः॒। स॒प॒त्न॒ऽहा। अ॒ग्ने॒। अ॒भि॒मा॒ति॒ऽजित्। भ॒व॒। स्वे। गये॑। जा॒गृ॒हि॒। अप्र॑ऽयुच्छन्। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -225,14 +234,17 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व ।  
-स॒जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह॥४॥  
+क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व।  
+स॑जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व। स॑जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह ॥
+क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व।  
+स॑जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
@@ -263,7 +275,7 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 </details>
 <details><summary>पदपाठः</summary>
 
-क्षत्रेण। अग्ने। स्वेन। सम्। रभस्व। मित्रेण। अग्ने। मित्रऽधाः। यतस्व। सऽजातानाम्। मध्यमेऽस्थाः। राज्ञाम्। अग्ने। विऽहव्यः। दीदिहि। इह। ६.४।
+क्ष॒त्रेण॑। अ॒ग्ने॒। स्वेन॑। सम्। र॒भ॒स्व॒। मि॒त्रेण॑। अ॒ग्ने॒। मि॒त्र॒ऽधाः। य॒त॒स्व॒। स॒ऽजा॒ताना॑म्। म॒ध्य॒मे॒ऽस्थाः। राज्ञा॑म्। अ॒ग्ने॒। वि॒ऽहव्यः॑। दी॒दि॒हि॒। इ॒ह। ६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -294,14 +306,17 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॒ निहो॒ अति॒ सृधोऽत्यचि॑त्ती॒रति॒ द्विषः॑ ।  
-विश्वा॒ ह्यऽग्ने दुरि॒ता त॑र॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑॥५॥
+अति॒ निहो॒ अति॒ सृधो ऽत्यचि॑त्ती॒रति॒ द्विषः॑।  
+विश्वा॒ ह्य॑ग्ने दुरि॒ता तर॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अति॒ निहो॒ अति॒ सृधो ऽत्यचि॑त्ती॒रति॒ द्विषः॑। विश्वा॒ ह्य॑ग्ने दुरि॒ता तर॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑ ॥
+अति॒ निहो॒ अति॒ सृधो ऽत्यचि॑त्ती॒रति॒ द्विषः॑।  
+विश्वा॒ ह्य॑ग्ने दुरि॒ता तर॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/05_ati_niho.md">
@@ -338,7 +353,7 @@ Past those who slay, past enemies, past thoughtless men, past those who hate, Ye
 </details>
 <details><summary>पदपाठः</summary>
 
-अति। निहः। अति। सृधः। अति। अचित्तीः। अति। द्विषः। विश्वा। हि। अग्ने। दुःऽइता। तर। त्वम्। अथ। अस्मभ्यम्। सहऽवीरम्। रयिम्। दाः। ६.५।
+अति॑। निहः॑। अति॑। सृधः॑। अति॑। अचि॑त्तीः। अति॑। द्विषः॑। विश्वा॑। हि। अ॒ग्ने॒। दुः॒ऽइ॒ता। त॒र॒। त्वम्। अथ॑। अ॒स्मभ्य॑म्। स॒हऽवी॑रम्। र॒यिम्। दाः॒। ६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

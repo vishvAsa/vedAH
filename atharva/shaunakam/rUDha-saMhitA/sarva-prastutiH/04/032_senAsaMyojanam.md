@@ -36,14 +36,17 @@ A hymn to Manyu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/01_yaste_manyo-vidhadvajra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ म॒न्योऽवि॑धद् वज्र सायक॒ सह॒ ओजः॒ पुष्य॑ति॒ विश्व॑मानु॒षक्।  
-सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा व॒यं सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥१॥  
+यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक्।  
+सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा व॒यं सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/01_yaste_manyo-vidhadvajra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक्। सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा व॒यं सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥
+यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक्।  
+सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा व॒यं सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/01_yaste_manyo-vidhadvajra.md">
@@ -74,7 +77,7 @@ He who hath reverenced thee, Manyu, destructive bolt! breeds. for himself forthw
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। मन्यो इति। अविधत्। वज्र। सायक। सहः। ओजः। पुष्यति। विश्वम्। आनुषक्। सह्याम्। दासम्। आर्यम्। त्वया। युजा। वयम्। सहःऽकृतेन। सहसा। सहस्वता। ३२.१।
+यः। ते॒। म॒न्यो॒ इति॑। अवि॑धत्। व॒ज्र॒। सा॒य॒क॒। सहः॑। ओजः॑। पु॒ष्य॒ति॒। विश्व॑म्। आ॒नु॒षक्। स॒ह्याम्॑। दास॑म्। आर्य॑म्। त्वया॑। यु॒जा। व॒यम्। सहः॑ऽकृतेन। सह॑सा। सह॑स्वता। ३२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ He who hath reverenced thee, Manyu, destructive bolt! breeds. for himself forthw
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/02_manyurindro_manyurevAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः ।  
-म॒न्युर्विश॑ ईडते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥२॥  
+म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः।  
+म॒न्युर्विश॑ ईडते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/02_manyurindro_manyurevAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः। म॒न्युर्विश॑ ईडते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥
+म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः।  
+म॒न्युर्विश॑ ईडते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/02_manyurindro_manyurevAsa.md">
@@ -141,7 +147,7 @@ Manyu was Indra, yea, the God was Manyu; Manyu was Hotar Varuna, Jatavedas. The 
 </details>
 <details><summary>पदपाठः</summary>
 
-मन्युः। इन्द्रः। मन्युः। एव। आस। देवः। मन्युः। होता। वरुणः। जातऽवेदाः। मन्युम्। विशः। ईडते। मानुषीः। याः। पाहि। नः। मन्यो इति। तपसा। सऽजोषाः। ३२.२।
+म॒न्युः। इन्द्रः॑। म॒न्युः। ए॒व। आ॒स॒। दे॒वः। म॒न्युः। होता॑। वरु॑णः। जा॒तऽवे॑दाः। म॒न्युम्। विशः॑। ई॒ड॒ते॒। मानु॑षीः। याः। पा॒हि। नः॒। म॒न्यो॒ इति॑। तप॑सा। स॒ऽजोषाः॑। ३२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +178,17 @@ Manyu was Indra, yea, the God was Manyu; Manyu was Hotar Varuna, Jatavedas. The 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/03_abhIhi_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भीऽहि मन्यो त॒वस॒स्तवी॑या॒न् तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न्।  
-अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥३॥  
+अ॒भीहि॑ मन्यो त॒वस॒स्तवी॑या॒न्तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न्।  
+अ॑मित्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/03_abhIhi_manyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भीहि॑ मन्यो त॒वस॒स्तवी॑या॒न्तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न्। अ॑मित्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥
+अ॒भीहि॑ मन्यो त॒वस॒स्तवी॑या॒न्तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न्।  
+अ॑मित्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/03_abhIhi_manyo.md">
@@ -203,7 +212,7 @@ Come hither, Manyu, mightier than the mighty: smite, with thy fervour, for ally,
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। इहि। मन्यो इति। तवसः। तवीयान्। तपसा। युजा। वि। जहि। शत्रून्। अमित्रऽहा। वृत्रऽहा। दस्युऽहा। च। विश्वा। वसूनि। आ। भर। त्वम्। नः। ३२.३।
+अ॒भि। इ॒हि॒। म॒न्यो॒ इति॑। त॒वसः॑। तवी॑यान्। तप॑सा। यु॒जा। वि। ज॒हि॒। शत्रू॑न्। अ॒मि॒त्र॒ऽहा। वृ॒त्र॒ऽहा। द॒स्यु॒ऽहा। च॒। विश्वा॑। वसू॑नि। आ। भ॒र॒। त्वम्। नः॒। ३२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -234,14 +243,17 @@ Come hither, Manyu, mightier than the mighty: smite, with thy fervour, for ally,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/04_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वयं॒भूर्भामो॑ अभिमातिषा॒हः ।  
-वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सही॑यान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥४॥  
+त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वयं॒भूर्भामो॑ अभिमातिषा॒हः।  
+वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सही॑यान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/04_tvaM_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वयं॒भूर्भामो॑ अभिमातिषा॒हः। वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सही॑यान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥
+त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वयं॒भूर्भामो॑ अभिमातिषा॒हः।  
+वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सही॑यान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/04_tvaM_hi.md">
@@ -264,7 +276,7 @@ For thou art, Manyu, of surpassing vigour, fierce, queller of the foe, and self-
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। हि। मन्यो इति। अभिभूतिऽओजाः। स्वयम्ऽभूः। भामः। अभिमातिऽसहः। विश्वऽचर्षणि। सहुरिः। सहीयान्। अस्मासु। ओजः। पृतनासु। धेहि। ३२.४।
+त्वम्। हि। म॒न्यो इति॑। अ॒भिभू॑तिऽओजाः। स्व॒य॒म्ऽभूः। भामः॑। अ॒भि॒मा॒ति॒ऽस॒हः। वि॒श्वऽच॑र्षणि। सहु॑रिः। सही॑यान्। अ॒स्मासु॑। ओजः॑। पृत॑नासु। धे॒हि॒। ३२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -295,14 +307,17 @@ For thou art, Manyu, of surpassing vigour, fierce, queller of the foe, and self-
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/05_abhAgaH_sannapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः ।  
-तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीडा॒हं स्वा त॒नूर्ब॑ल॒दावा॑ न॒ एहि॑ ॥५॥  
+अ॑भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः।  
+तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीडा॒हं स्वा त॒नूर्ब॑ल॒दावा॑ न॒ एहि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/05_abhAgaH_sannapa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः। तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीडा॒हं स्वा त॒नूर्ब॑ल॒दावा॑ न॒ एहि॑ ॥
+अ॑भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः।  
+तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीडा॒हं स्वा त॒नूर्ब॑ल॒दावा॑ न॒ एहि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/05_abhAgaH_sannapa.md">
@@ -332,7 +347,7 @@ I have departed still without a portion, wise God! according to thy will, the mi
 </details>
 <details><summary>पदपाठः</summary>
 
-अभागः। सन्। अप। पराऽइतः। अस्मि। तव। क्रत्वा। तविषस्य। प्रऽचेतः। तम्। त्वा। मन्यो इति। अक्रतुः। जिहीड। अहम्। स्वा। तनूः। बलऽदावा। नः। आ। इहि। ३२.५।
+अ॒भा॒गः। सन्। अप॑। परा॑ऽइतः। अ॒स्मि॒। तव॑। क्रत्वा॑। त॒वि॒षस्य॑। प्र॒ऽचे॒तः॒। तम्। त्वा॒। म॒न्यो॒ इति॑। अ॒क्र॒तुः। जि॒ही॒ड॒। अ॒हम्। स्वा। त॒नूः। ब॒ल॒ऽदा॑वा। नः॒। आ। इ॒हि॒। ३२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -363,14 +378,17 @@ I have departed still without a portion, wise God! according to thy will, the mi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/06_ayaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं ते॑ अ॒स्म्युप॑ न॒ एह्य॒र्वाङ् प्र॑तीची॒नः स॑हुरे विश्वदावन्।  
-मन्यो॑ वज्रिन्न॒भि न॒ आ व॑वृत्स्व॒ हना॑व॒ दस्यूं॑रुत बो॑ध्या॒पेः ॥६॥  
+अ॒यं ते॑ अ॒स्म्युप॑ न॒ एह्य॒र्वाङ्प्र॑तीची॒नः स॑हुरे विश्वदावन्।  
+मन्यो॑ वज्रिन्न॒भि न॒ आ व॑वृत्स्व॒ हना॑व॒ दस्यूं॑रु॒त बो॑ध्या॒पेः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/06_ayaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं ते॑ अ॒स्म्युप॑ न॒ एह्य॒र्वाङ्प्र॑तीची॒नः स॑हुरे विश्वदावन्। मन्यो॑ वज्रिन्न॒भि न॒ आ व॑वृत्स्व॒ हना॑व॒ दस्यूं॑रु॒त बो॑ध्या॒पेः ॥
+अ॒यं ते॑ अ॒स्म्युप॑ न॒ एह्य॒र्वाङ्प्र॑तीची॒नः स॑हुरे विश्वदावन्।  
+मन्यो॑ वज्रिन्न॒भि न॒ आ व॑वृत्स्व॒ हना॑व॒ दस्यूं॑रु॒त बो॑ध्या॒पेः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/06_ayaM_te.md">
@@ -397,7 +415,7 @@ Come hither, I am all thine own: advancing, turn thou to me, victorious, all-bes
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। ते। अस्मि। उप। नः। आ। इहि। अर्वाङ्। प्रतीचीनः। सहुरे। विश्वऽदावन्। मन्यो इति। वज्रिन्। अभि। नः। आ। ववृत्स्व। हनाव। दस्यून्। उत। बोधि। आपेः। ३२.६।
+अ॒यम्। ते॒। अ॒स्मि॒। उप॑। नः॒। आ। इ॒हि॒। अ॒र्वाङ्। प्र॒ती॒ची॒नः। स॒हु॒रे॒। वि॒श्व॒ऽदा॒व॒न्। मन्यो॒ इति॑। व॒ज्रि॒न्। अ॒भि। नः॒। आ। व॒वृ॒त्स्व॒। हना॑व। दस्यू॑न्। उ॒त। बो॒धि॒। आ॒पेः। ३२.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -428,14 +446,17 @@ Come hither, I am all thine own: advancing, turn thou to me, victorious, all-bes
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/032_senAsaMyojanam/07_abhi_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ नोऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑ ।  
-जु॒होमि॑ ते ध॒रुणं॒ मध्वो॒ अग्र॑मु॒भावु॑पां॒शु प्र॑थ॒मा पि॑बाव ॥७॥
+अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ नोऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑।  
+जु॒होमि॑ ते ध॒रुणं॒ मध्वो॒ अग्र॑मु॒भावु॑पां॒शु प्र॑थ॒मा पि॑बाव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/032_senAsaMyojanam/07_abhi_prehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ नोऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑। जु॒होमि॑ ते ध॒रुणं॒ मध्वो॒ अग्र॑मु॒भावु॑पां॒शु प्र॑थ॒मा पि॑बाव ॥
+अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ नोऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑।  
+जु॒होमि॑ ते ध॒रुणं॒ मध्वो॒ अग्र॑मु॒भावु॑पां॒शु प्र॑थ॒मा पि॑बाव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/032_senAsaMyojanam/07_abhi_prehi.md">
@@ -464,7 +485,7 @@ Approach, and on our right hand hold thy station, then let us slay a multitude o
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। प्र। इहि। दक्षिणतः। भव। नः। अध। वृत्राणि। जङ्घनाव। भूरि। जुहोमि। ते। धरुणम्। मध्वः। अग्रम्। उभौ। उपऽअंशु। प्रथमा। पिबाव। ३२.७।
+अ॒भि। प्र। इ॒हि॒। द॒क्षि॒ण॒तः। भ॒व॒। नः॒। अध॑। वृ॒त्राणि॑। ज॒ङ्घ॒ना॒व॒। भूरि॑। जु॒होमि॑। ते॒। ध॒रुण॑म्। मध्वः॑। अग्र॑म्। उ॒भौ। उ॒प॒ऽअं॒शु। प्र॒थ॒मा। पि॒बा॒व॒। ३२.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

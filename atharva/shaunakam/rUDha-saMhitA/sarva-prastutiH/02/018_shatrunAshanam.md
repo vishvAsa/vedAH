@@ -36,13 +36,15 @@ A charm against enemies, goblins, and other evil creatures
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ्रा॒तृ॒व्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥१॥  
+भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
@@ -68,7 +70,7 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-भ्रातृव्यऽक्षयणम्। असि। भ्रातृव्यऽचातनम्। मे। दाः। स्वाहा। १८.१।
+भ्रा॒तृ॒व्य॒ऽक्षय॑णम्। अ॒सि॒। भ्रा॒तृ॒व्य॒ऽचात॑नम्। मे। दाः॒। स्वाहा॑। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,13 +101,15 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प॒त्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥२॥  
+स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
@@ -123,7 +127,7 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-सपत्नऽक्षयणम्। असि। सपत्नऽचातनम्। मे। दाः। स्वाहा। १८.२।
+स॒प॒त्न॒ऽक्षय॑णम्। अ॒सि॒। स॒प॒त्न॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,13 +158,15 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒रा॒य॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥३॥  
+अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
@@ -179,7 +185,7 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-अरायऽक्षयणम्। असि। अरायऽचातनम्। मे। दाः। स्वाहा। १८.३।
+अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -210,13 +216,15 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒शा॒च॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥४॥  
+पि॑शाच॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 पि॑शाच॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
@@ -235,7 +243,7 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-पिशाचऽक्षयणम्। असि। पिशाचऽचातनम्। मे। दाः। स्वाहा। १८.४।
+पि॒शा॒च॒ऽक्षय॑णम्। अ॒सि॒। पि॒शा॒च॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -266,13 +274,15 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒दा॒न्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥५॥
+स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
@@ -292,7 +302,7 @@ Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 </details>
 <details><summary>पदपाठः</summary>
 
-सदान्वाऽक्षयणम्। असि। सदान्वाऽचातनम्। मे। दाः। स्वाहा। १८.५।
+स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

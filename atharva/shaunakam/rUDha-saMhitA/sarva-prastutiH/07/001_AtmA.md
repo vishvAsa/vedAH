@@ -36,14 +36,17 @@ Glorification of the power of prayer and to Agni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/01_dhItI_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धी॒ती वा॒ ये अन॑यन् वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒ तानि॑ ।  
-तृ॒तीये॑न॒ ब्रह्म॑णा वावृ॒धा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥१॥  
+धी॒ती वा॒ ये अन॑यन्वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒तानि॑।  
+तृ॒तीये॑न॒ ब्रह्म॑णा वावृधा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/001_AtmA/01_dhItI_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धी॒ती वा॒ ये अन॑यन्वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒तानि॑। तृ॒तीये॑न॒ ब्रह्म॑णा वावृधा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥
+धी॒ती वा॒ ये अन॑यन्वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒तानि॑।  
+तृ॒तीये॑न॒ ब्रह्म॑णा वावृधा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/01_dhItI_vA.md">
@@ -75,7 +78,7 @@ They who by thought have guided all that Speech hath best, or they who with thei
 </details>
 <details><summary>पदपाठः</summary>
 
-धीती। वा। ये। अनयन्। वाचः। अग्रम्। मनसा। वा। ये। अवदन्। ऋतानि। तृतीयेन। ब्रह्मणा। ववृधानाः। तुरीयेण। अमन्वत। नाम। धेनोः। .१.१।
+धी॒ती। वा॒। ये। अन॑यन्। वा॒चः। अग्र॑म्। मन॑सा। वा॒। ये। अव॑दन्। ऋ॒तानि॑। तृ॒तीये॑न। ब्रह्म॑णा। व॒वृ॒धा॒नाः। तु॒रीये॑ण। अ॒म॒न्व॒त॒। नाम॑। धे॒नोः। .१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -106,14 +109,17 @@ They who by thought have guided all that Speech hath best, or they who with thei
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/001_AtmA/02_sa_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त् स भु॑व॒त् पुन॑र्मघः ।  
-स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः॑१ स इ॒दं विश्व॑मभवत् स आभ॑वत्॥२॥
+स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त्स भु॑व॒त्पुन॑र्मघः।  
+स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः१॒॑ स इ॒दं विश्व॑मभव॒त्स आभ॑वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/001_AtmA/02_sa_veda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त्स भु॑व॒त्पुन॑र्मघः। स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः स इ॒दं विश्व॑मभव॒त्स आभ॑वत् ॥
+स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त्स भु॑व॒त्पुन॑र्मघः।  
+स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः१॒॑ स इ॒दं विश्व॑मभव॒त्स आभ॑वत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/001_AtmA/02_sa_veda.md">
@@ -143,7 +149,7 @@ Well knows this son his sire, he knows his mother well: he hath been son, and he
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वेद। पुत्रः। पितरम्। सः। मातरम्। सः। सूनुः। भुवत्। सः। भुवत्। पुनःऽमघः। सः। द्याम्। और्णोत्। अन्तरिक्षम्। स्वः᳡। सः। इदम्। विश्वम्। अभवत्। सः। आ। अभवत्। १.२।
+सः। वे॒द॒। पु॒त्रः। पि॒तर॑म्। सः। मा॒तर॑म्। सः। सू॒नुः। भु॒व॒त्। सः। भु॒व॒त्। पुनः॑ऽमघः। सः। द्याम्। औ॒र्णो॒त्। अ॒न्तरि॑क्षम्। स्वः᳡। सः। इ॒दम्। विश्व॑म्। अ॒भ॒व॒त्। सः। आ। अ॒भ॒व॒त्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

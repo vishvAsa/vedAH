@@ -36,13 +36,15 @@ A sacrificial formula
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॒म॑युतो मे प्रा॒णोऽयु॑तो मे ऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥१॥  
+अयु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॑मयु॑तो मे प्रा॒णोऽयु॑तो मेऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/01_ayuto-hamayuto_ma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अयु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॑मयु॑तो मे प्रा॒णोऽयु॑तो मेऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
@@ -67,7 +69,7 @@ Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine
 </details>
 <details><summary>पदपाठः</summary>
 
-अयुतः। अहम्। अयुतः। मे। आत्मा। अयुतम्। मे। चक्षुः। अयुतम्। मे। श्रोत्रम्। अयुतः। मे। प्राणः। अयुतः। मे। अपानः। मे। विऽआनः। अयुतः। अहम्। सर्वः। ५१.१।
+अयु॑तः। अ॒हम्। अयु॑तः। मे॒। आ॒त्मा। अयु॑तम्। मे॒। चक्षुः॑। अयु॑तम्। मे॒। श्रोत्र॑म्। अयु॑तः। मे॒। प्रा॒णः। अयु॑तः। मे॒। अ॒पा॒नः। मे॒। वि॒ऽआ॒नः। अयु॑तः। अ॒हम्। सर्वः॑। ५१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,13 +100,15 @@ Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/02_devasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥२॥
+दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/02_devasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥२॥
+दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/02_devasya_tvA.md">
@@ -126,7 +130,7 @@ Under the impulse of the God Savitar, sent forth from the arms- of the Asvins an
 </details>
 <details><summary>पदपाठः</summary>
 
-देवस्य। त्वा। सवितुः। प्रऽसवे। अश्विनोः। बाहुऽभ्याम्। पूष्णः। हस्ताभ्याम्। प्रऽसूतः। आ। रभे। ५१.२।
+दे॒वस्य॑। त्वा॒। स॒वि॒तुः॒। प्र॒ऽस॒वे। अ॒श्विनोः॑। बा॒हुऽभ्या॑म्। पू॒ष्णः। हस्ता॑भ्याम्। प्रऽसू॑तः। आ। र॒भे॒। ५१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

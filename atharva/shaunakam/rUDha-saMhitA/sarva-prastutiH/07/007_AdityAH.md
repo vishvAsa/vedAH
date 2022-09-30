@@ -37,13 +37,16 @@ Praise of the Adityas
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्।  
-तेषां॒ हि धाम॑ गभि॒षक् स॑मु॒द्रियं॒ नैना॒न् नम॑सा प॒रो अ॑स्ति॒ कश्च॒न॥१॥
+तेषां॒ हि धाम॑ गभि॒षक्स॑मु॒द्रियं॒ नैना॒न्नम॑सा प॒रो अ॑स्ति॒ कश्च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्। तेषां॒ हि धाम॑ गभि॒षक्स॑मु॒द्रियं॒ नैना॒न्नम॑सा प॒रो अ॑स्ति॒ कश्च॒न ॥
+दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्।  
+तेषां॒ हि धाम॑ गभि॒षक्स॑मु॒द्रियं॒ नैना॒न्नम॑सा प॒रो अ॑स्ति॒ कश्च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
@@ -78,7 +81,7 @@ I have sung praise to Diti's sons and Aditi's, those very lofty and invulnerable
 </details>
 <details><summary>पदपाठः</summary>
 
-दितेः। पुत्राणाम्। अदितेः। अकारिषम्। अव। देवानाम्। बृहताम्। अनर्मणाम्। तेषाम्। हि। धाम। गभिऽसक्। समुद्रियम्। न। एनान्। नमसा। परः। अस्ति। कः। चन। ८.१।
+दितेः॑। पु॒त्राणा॑म्। अदि॑तेः। अ॒का॒रि॒ष॒म्। अव॑। दे॒वाना॑म्। बृ॒ह॒ताम्। अ॒न॒र्मणा॑म्। तेषा॑म्। हि। धाम॑। ग॒भि॒ऽसक्। स॒मु॒द्रिय॑म्। न। ए॒ना॒न्। नम॑सा। प॒रः। अ॒स्ति॒। कः। च॒न। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

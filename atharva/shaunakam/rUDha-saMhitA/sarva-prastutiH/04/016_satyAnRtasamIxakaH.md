@@ -38,14 +38,17 @@ On the omnipresence and omniscience of Varuna
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒हन्ने॑षामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति ।  
-य स्ता॑यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥१॥  
+बृ॒हन्नेषामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति।  
+यस्ता॒यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृ॒हन्नेषामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति। यस्ता॒यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥
+बृ॒हन्नेषामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति।  
+यस्ता॒यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
@@ -81,7 +84,7 @@ The mighty Ruler of these worlds beholds as though from close at hand, The man w
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहन्। एषाम्। अधिऽस्थाता। अन्तिकात्ऽइव। पश्यति। यः। स्तायत्। मन्यते। चरन्। सर्वम्। देवाः। इदम्। विदुः। १६.१।
+बृ॒हन्। ए॒षा॒म्। अ॒धि॒ऽस्था॒ता। अ॒न्ति॒कात्ऽइ॑व। प॒श्य॒ति॒। यः। स्ता॒यत्। मन्य॑ते। चर॑न्। सर्व॑म्। दे॒वाः। इ॒दम्। वि॒दुः॒। १६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -112,14 +115,17 @@ The mighty Ruler of these worlds beholds as though from close at hand, The man w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॒ वञ्च॑ति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्।  
-द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद् वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥२॥  
+यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॑ वञ्चति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्।  
+द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद्वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॑ वञ्चति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्। द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद्वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥
+यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॑ वञ्चति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्।  
+द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद्वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
@@ -154,7 +160,7 @@ If a man stands or walks or moves in secret, goes to his lying- down or his upri
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। तिष्ठति। चरति। यः। च। वञ्चति। यः। निऽलायम्। चरति। यः। प्रऽङ्कम्। द्वौ। सम्ऽनिषद्य। यत्। मन्त्रयते। इति। राजा। तत्। वेद। वरुणः। तृतीयः। १६.२।
+यः। तिष्ठ॑ति। चर॑ति। यः। च॒। वञ्च॑ति। यः। नि॒ऽलाय॑म्। चर॑ति। यः। प्र॒ऽङ्क॑म्। द्वौ। स॒म्ऽनि॒षद्य॑। यत्। म॒न्त्रय॑ते॒। इति॑। राजा॑। तत्। वे॒द॒। वरु॑णः। तृ॒तीयः॑। १६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -185,14 +191,17 @@ If a man stands or walks or moves in secret, goes to his lying- down or his upri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दू॒रेअ॑न्ता ।  
-उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥३॥  
+उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दूरेअन्ता।  
+उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दूरेअन्ता। उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥
+उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दूरेअन्ता।  
+उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
@@ -217,7 +226,7 @@ This earth, too, is King Varuna's possession, and the high heaven whose ends are
 </details>
 <details><summary>पदपाठः</summary>
 
-उत। इयम्। भूमिः। वरुणस्य। राज्ञः। उत। असौ। द्यौः। बृहती। दूरेऽअन्ता। उतो इति। समुद्रौ। वरुणस्य। कुक्षी इति। उत। अस्मिन्। अल्पे। उदके। निऽलीनः। १६.३।
+उ॒त। इ॒यम्। भूमिः॑। वरु॑णस्य। राज्ञः॑। उ॒त। अ॒सौ। द्यौः। बृ॒ह॒ती। दू॒रेऽअ॑न्ता। उ॒तो इति॑। स॒मु॒द्रौ। वरु॑णस्य। कु॒क्षी इति॑। उ॒त। अ॒स्मिन्। अल्पे॑। उ॒द॒के। निऽली॑नः। १६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -248,14 +257,17 @@ This earth, too, is King Varuna's possession, and the high heaven whose ends are
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत यो द्याम॑ति॒सर्पा॑त् प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑ ।  
-दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म्॥४॥  
+उ॒त यो द्याम॑ति॒सर्पा॑त्प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑।  
+दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒त यो द्याम॑ति॒सर्पा॑त्प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑। दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म् ॥
+उ॒त यो द्याम॑ति॒सर्पा॑त्प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑।  
+दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
@@ -280,7 +292,7 @@ If one should flee afar beyond the heaven, King Varuna would still be round abou
 </details>
 <details><summary>पदपाठः</summary>
 
-उत। यः। द्याम्। अतिऽसर्पात्। परस्तात्। न। सः। मुच्यातै। वरुणस्य। राज्ञः। दिवः। स्पशः। प्र। चरन्ति। इदम्। अस्य। सहस्रऽअक्षाः। अति। पश्यन्ति। भूमिम्। १६.४।
+उ॒त। यः। द्याम्। अ॒ति॒ऽसर्पा॑त्। प॒रस्ता॑त्। न। सः। मु॒च्या॒तै॒। वरु॑णस्य। राज्ञः॑। दि॒वः। स्पशः॑। प्र। च॒र॒न्ति॒। इ॒दम्। अ॒स्य॒। स॒ह॒स्र॒ऽअ॒क्षाः। अति॑। प॒श्य॒न्ति॒। भूमि॑म्। १६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -311,14 +323,17 @@ If one should flee afar beyond the heaven, King Varuna would still be round abou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वं॒ तद् राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत् प॒रस्ता॑त्।  
-संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥५॥  
+सर्वं॒ तद्राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत्प॒रस्ता॑त्।  
+संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर्वं॒ तद्राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत्प॒रस्ता॑त्। संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥
+सर्वं॒ तद्राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत्प॒रस्ता॑त्।  
+संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
@@ -349,7 +364,7 @@ All this the royal Varuna beholdeth, all between heaven and earth and all beyond
 </details>
 <details><summary>पदपाठः</summary>
 
-सर्वम्। तत्। राजा। वरुणः। वि। चष्टे। यत्। अन्तरा। रोदसी इति। यत्। परस्तात्। सम्ऽख्याताः। अस्य। निऽमिषः। जनानाम्। अक्षान्ऽइव। श्वऽघ्नी। नि। मिनोति। तानि। १६.५।
+सर्व॑म्। तत्। राजा॑। वरु॑णः। वि। च॒ष्टे॒। यत्। अ॒न्त॒रा। रोद॑सी इति॑। यत्। प॒रस्ता॑त्। सम्ऽख्या॑ताः। अ॒स्य॒। नि॒ऽमिषः॑। जना॑नाम्। अ॒क्षान्ऽइ॑व। श्व॒ऽघ्नी। नि। मि॒नो॒ति॒। तानि॑। १६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -380,14 +395,17 @@ All this the royal Varuna beholdeth, all between heaven and earth and all beyond
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुश॑न्तः ।  
-छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥६॥  
+ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुष॑न्तः।  
+छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुष॑न्तः। छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥
+ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुष॑न्तः।  
+छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
@@ -420,7 +438,7 @@ Those fatal snares of thine which stand extended, threefold, O Varuna, seven by 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। ते। पाशाः। वरुण। सप्तऽसप्त। त्रेधा। तिष्ठन्ति। विऽसिताः। रुशन्तः। छिनन्तु। सर्वे। अनृतम्। वदन्तम्। यः। सत्यऽवादी। अति। तम्। सृजन्तु। १६.६।
+ये। ते॒। पाशाः॑। व॒रु॒ण॒। स॒प्तऽस॑प्त। त्रे॒धा। तिष्ठ॑न्ति। विऽसि॑ताः। रुश॑न्तः। छि॒नन्तु॑। सर्वे॑। अनृ॑तम्। वद॑न्तम्। यः। स॒त्य॒ऽवा॒दी। अति॑। तम्। सृ॒ज॒न्तु॒। १६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -451,14 +469,17 @@ Those fatal snares of thine which stand extended, threefold, O Varuna, seven by 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ् नृ॑चक्षः ।  
-आस्तां जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥७॥  
+श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ्नृ॑चक्षः।  
+आस्तां॑ जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ्नृ॑चक्षः। आस्तां॑ जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥
+श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ्नृ॑चक्षः।  
+आस्तां॑ जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
@@ -494,7 +515,7 @@ Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies esc
 </details>
 <details><summary>पदपाठः</summary>
 
-शतेन। पाशैः। अभि। धेहि। वरुण। एनम्। मा। ते। मोचि। अनृतऽवाक्। नृऽचक्षः। आस्ताम्। जाल्मः। उदरम्। श्रंशयित्वा। कोशःऽइव। अबन्धः। परिऽकृत्यमानः। १६.७।
+श॒तेन॑। पाशैः॑। अ॒भि। धे॒हि॒। व॒रु॒ण॒। ए॒न॒म्। मा। ते॒। मो॒चि॒। अ॒नृ॒त॒ऽवाक्। नृ॒ऽच॒क्षः॒। आस्ता॑म्। जा॒ल्मः। उ॒दर॑म्। श्रं॒श॒यि॒त्वा। कोशः॑ऽइव। अ॒ब॒न्धः। प॒रि॒ऽकृ॒त्यमा॑नः। १६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -521,22 +542,25 @@ Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies esc
 </details>
 </details>
 </div>
-## ०८ यः समाम्यो३
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo3.md">
+## ०८ यः समाम्यो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः स॑मा॒म्यो॒३वरु॑णो॒ यो व्या॒म्यो॒३यः सं॑दे॒श्यो॒३वरु॑णो॒ यो वि॑दे॒श्यः ।  
-यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥८॥  
+यः स॑मा॒म्यो॒३॒॑ वरु॑णो॒ यो व्या॒म्यो॒३॒॑ यः सं॑दे॒श्यो॒३॒॑ वरु॑णो॒ यो वि॑दे॒श्यः।  
+यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo3.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः स॑मा॒म्यो॒३॒॑ वरु॑णो॒ यो व्या॒म्यो॒३॒॑ यः सं॑दे॒श्यो॒३॒॑ वरु॑णो॒ यो वि॑दे॒श्यः। यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥
+यः स॑मा॒म्यो॒३॒॑ वरु॑णो॒ यो व्या॒म्यो॒३॒॑ यः सं॑दे॒श्यो॒३॒॑ वरु॑णो॒ यो वि॑दे॒श्यः।  
+यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo3.md">
-<details open><summary><h3>०८ यः समाम्यो३ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
+<details open><summary><h3>०८ यः समाम्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -566,7 +590,7 @@ Varuna sends, and drives away, diseases: Varuna is both native and a stranger, V
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। सम्ऽआभ्यः᳡। वरुणः। यः। विऽआभ्यः᳡। यः। सम्ऽदेश्यः᳡। वरुणः। यः। विऽदेश्यः᳡। यः। दैवः। वरुणः। यः। च। मानुषः। १६.८।
+यः। स॒म्ऽआ॒भ्यः᳡। वरु॑णः। यः। वि॒ऽआ॒भ्यः᳡। यः। स॒म्ऽदे॒श्यः᳡। वरु॑णः। यः। वि॒ऽदे॒श्यः᳡। यः। दै॒वः। वरु॑णः। यः। च॒। मानु॑षः। १६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -597,14 +621,17 @@ Varuna sends, and drives away, diseases: Varuna is both native and a stranger, V
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र ।  
-तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥९॥
+तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र।  
+तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र। तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥
+तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र।  
+तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
@@ -630,7 +657,7 @@ I bind and hold thee fast with all these nooses, thou son of such a man and such
 </details>
 <details><summary>पदपाठः</summary>
 
-तैः। त्वा। सर्वैः। अभि। स्यामि। पाशैः। असौ। आमुष्यायण। अमुष्याः। पुत्र। तान्। ऊं इति। ते। सर्वान्। अनुऽसंदिशामि। १६.९।
+तैः। त्वा॒। सर्वैः॑। अ॒भि। स्या॒मि॒। पाशैः॑। अ॒सौ॒। आ॒मु॒ष्या॒य॒ण॒। अ॒मु॒ष्याः॒। पु॒त्र॒। तान्। ऊं॒ इति॑। ते॒। सर्वा॑न्। अ॒नु॒ऽसंदि॑शामि। १६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

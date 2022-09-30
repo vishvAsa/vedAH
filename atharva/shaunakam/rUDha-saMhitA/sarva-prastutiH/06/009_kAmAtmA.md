@@ -36,14 +36,17 @@ A man's love-charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/009_kAmAtmA/01_vAnCha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाञ्छ॑ मे त॒न्वं॑१ पादौ॒ वाञ्छा॒क्ष्यौ॒३वाञ्छ॑ स॒क्थ्यौऽ।  
-अ॒क्ष्यौऽ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॑ कामे॑न शुष्यन्तु ॥१॥  
+वाञ्छ॑ मे त॒न्वं१॒॑ पादौ॒ वाञ्छा॒क्ष्यौ॒३॒॑ वाञ्छ॑ स॒क्थ्यौ॑।  
+अ॒क्ष्यौ॑ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॒ कामे॑न शुष्यन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/009_kAmAtmA/01_vAnCha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वाञ्छ॑ मे त॒न्वं पादौ॒ वाञ्छा॒क्ष्यौ॒३॒॑ वाञ्छ॑ स॒क्थ्यौ॑। अ॒क्ष्यौ॑ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॒ कामे॑न शुष्यन्तु ॥
+वाञ्छ॑ मे त॒न्वं१॒॑ पादौ॒ वाञ्छा॒क्ष्यौ॒३॒॑ वाञ्छ॑ स॒क्थ्यौ॑।  
+अ॒क्ष्यौ॑ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॒ कामे॑न शुष्यन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/009_kAmAtmA/01_vAnCha_me.md">
@@ -68,7 +71,7 @@ Desire my body, love my feet, love thou mine eyes, and love my legs. Let both th
 </details>
 <details><summary>पदपाठः</summary>
 
-वाञ्छ। मे। तन्व᳡म्। पादौ। वाञ्छ। अक्ष्यौ᳡। वाञ्छ। सक्थ्यौ᳡। अक्ष्यौ᳡। वृषण्यन्त्याः। केशाः। माम्। ते। कामेन। शुष्यन्तु। ९.१।
+वाञ्छ॑। मे॒। त॒न्व᳡म्। पादौ॑। वाञ्छ॑। अ॒क्ष्यौ᳡। वाञ्छ॑। स॒क्थ्यौ᳡। अ॒क्ष्यौ᳡। वृ॒ष॒ण्यन्त्याः॑। केशाः॑। माम्। ते॒। कामे॑न। शु॒ष्य॒न्तु॒। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ Desire my body, love my feet, love thou mine eyes, and love my legs. Let both th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/009_kAmAtmA/02_mama_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मम॑ त्वा दोषणि॒श्रिषं॑ कृ॒णोमि॑ हृदय॒श्रिष॑म्।  
-यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥२॥  
+मम॒ त्वा दो॑षणि॒श्रिषं॑ कृ॒णोमि॑ हृदय॒श्रिष॑म्।  
+यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/009_kAmAtmA/02_mama_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मम॒ त्वा दो॑षणि॒श्रिषं॑ कृ॒णोमि॑ हृदय॒श्रिष॑म्। यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+मम॒ त्वा दो॑षणि॒श्रिषं॑ कृ॒णोमि॑ हृदय॒श्रिष॑म्।  
+यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/009_kAmAtmA/02_mama_tvA.md">
@@ -129,7 +135,7 @@ I make thee hang upon mine arm, I make thee lie upon my heart. Thou yieldest to 
 </details>
 <details><summary>पदपाठः</summary>
 
-मम। त्वा। दोषणिऽश्रिषम्। कृणोमि। हृदयऽश्रिषम्। यथा। मम। क्रतौ। असः। मम। चित्तम्। उपऽआयसि। ९.२।
+मम॑। त्वा॒। दो॒ष॒णि॒ऽश्रिष॑म्। कृ॒णोमि॑। हृ॒द॒य॒ऽश्रिष॑म्। यथा॑। मम॑। क्रतौ॑। असः॑। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ I make thee hang upon mine arm, I make thee lie upon my heart. Thou yieldest to 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/009_kAmAtmA/03_yAsAM_nAbhirArehaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम् ।  
-गावो॑ घृ॒तस्य॑ मा॒तरो॒ ऽमूं सं वा॑नयन्तु मे ॥३॥
+यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम्।  
+गावो॑ घृ॒तस्य॑ मा॒तरो॒ऽमूं सं वा॑नयन्तु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/009_kAmAtmA/03_yAsAM_nAbhirArehaNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम्। गावो॑ घृ॒तस्य॑ मा॒तरो॒ऽमूं सं वा॑नयन्तु मे ॥
+यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम्।  
+गावो॑ घृ॒तस्य॑ मा॒तरो॒ऽमूं सं वा॑नयन्तु मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/009_kAmAtmA/03_yAsAM_nAbhirArehaNam.md">
@@ -190,7 +199,7 @@ May they whose kisses are a bond, a love-charm laid within the heart, Mothers of
 </details>
 <details><summary>पदपाठः</summary>
 
-यासाम्। नाभिः। आऽरेहणम्। हृदि। सम्ऽवननम्। कृतम्। गावः। घृतस्य। मातरः। अभूम्। सम्। वनयन्तु। मे। ९.३।
+यासा॑म्। नाभिः॑। आ॒ऽरेह॑णम्। हृ॒दि। स॒म्ऽवन॑नम्। कृ॒तम्। गावः॑। घृ॒तस्य॑। मा॒तरः॑। अ॒भूम्। सम्। व॒न॒य॒न्तु॒। मे॒। ९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to be pronounced by bride and bridegroom
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/036_anjanam/01_axyau_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒क्ष्यौऽनौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्।  
-अ॒न्तः कृ॑ष्णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥१॥
+अ॒क्ष्यौ᳡ नौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्।  
+अ॒न्तः कृ॑णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/036_anjanam/01_axyau_nau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒क्ष्यौ᳡ नौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्। अ॒न्तः कृ॑णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥
+अ॒क्ष्यौ᳡ नौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्।  
+अ॒न्तः कृ॑णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/01_axyau_nau.md">
@@ -65,7 +68,7 @@ Sweet are the glances of our eyes, our faces are as smooth as balm, Within thy b
 </details>
 <details><summary>पदपाठः</summary>
 
-अक्ष्यौ᳡। नौ। मधुसंकाशे इति मधुऽसंकाशे। अनीकम्। नौ। सम्ऽअञ्जनम्। अन्तः। कृणुष्व। माम्। हृदि। मनः। इत्। नौ। सह। असति। ३७.१।
+अ॒क्ष्यौ᳡। नौ॒। मधु॑संकाशे॒ इति॒ मधु॑ऽसंकाशे। अनी॑कम्। नौ॒। स॒म्ऽअञ्ज॑नम्। अ॒न्तः। कृ॒णु॒ष्व॒। माम्। हृ॒दि। मनः॑। इत्। नौ॒। स॒ह। अस॑ति। ३७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

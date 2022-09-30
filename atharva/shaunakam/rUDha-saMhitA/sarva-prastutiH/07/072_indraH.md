@@ -36,14 +36,17 @@ An invitation to Indra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत् ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
-यदि॑ श्रा॒तं॑ जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥१॥  
+उत्ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
+यदि॑ श्रा॒तं जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्। यदि॑ श्रा॒तं जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥
+उत्ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
+यदि॑ श्रा॒तं जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
@@ -69,7 +72,7 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। तिष्ठत। अव। पश्यत। इन्द्रस्य। भागम्। ऋत्वियम्। यदि। श्रातम्। जुहोतन। यदि। अश्रातम्। ममत्तन। ७५.१।
+उत्। ति॒ष्ठ॒त॒। अव॑। प॒श्य॒त॒। इन्द्र॑स्य। भा॒गम्। ऋ॒त्विय॑म्। यदि॑। श्रा॒तम्। जु॒होत॑न। यदि॑। अश्रा॑तम्। म॒मत्त॑न। ७५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +104,16 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्।  
-परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒तिं चर॑न्तम्॥२॥  
+परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒त चर॑न्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/02_shrAtaM_haviro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्। परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒त चर॑न्तम् ॥
+श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्।  
+परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒त चर॑न्तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/02_shrAtaM_haviro.md">
@@ -132,7 +138,7 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रातम्। हविः। ओ इति। सु। इन्द्र। प्र। याहि। जगाम। सूरः। अध्वनः। वि। मध्यम्। परि। त्वा। आसते। निधिऽभिः। सखायः। कुलऽपाः। न। व्राजऽपतिम्। चरन्तम्। ७५.२।
+श्रा॒तम्। ह॒विः। ओ इति॑। सु। इ॒न्द्र॒। प्र। या॒हि॒। ज॒गाम॑। सूरः॑। अध्व॑नः। वि। मध्य॑म्। परि॑। त्वा॒। आ॒स॒ते॒। नि॒धिऽभिः॑। सखा॑यः। कु॒ल॒ऽपाः। न। व्रा॒ज॒ऽप॒तिम्। चर॑न्तम्। ७५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/03_shrAtaM_manya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः ।  
-माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन् पुरु॒कृज्जु॑षा॒णः ॥१॥
+श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः।  
+माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरु॒कृज्जु॑षा॒णः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/03_shrAtaM_manya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः। माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरु॒कृज्जु॑षा॒णः ॥
+श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः।  
+माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरु॒कृज्जु॑षा॒णः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/03_shrAtaM_manya.md">
@@ -193,7 +202,7 @@ Dressed in the udder and on fire, I fancy; well dressed, I fancy, is this new ob
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रातम्। मन्ये। ऊधनि। श्रातम्। अग्नौ। सुऽशृतम्। मन्ये। तत्। ऋतम्। नवीयः। माध्यंदिनस्य। सवनस्य। दध्नः। पिब। इन्द्र। वज्रिन्। पुरुऽकृत्। जुषाणः। ७६.१।
+श्रा॒तम्। म॒न्ये॒। ऊध॑नि। श्रा॒तम्। अ॒ग्नौ। सुऽशृ॑तम्। म॒न्ये॒। तत्। ऋ॒तम्। नवी॑यः। माध्यं॑दिनस्य। सव॑नस्य। द॒ध्नः। पिब॑। इ॒न्द्र॒। व॒ज्रि॒न्। पु॒रु॒ऽकृत्। जु॒षा॒णः। ७६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

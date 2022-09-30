@@ -36,14 +36,17 @@ A charm to obtain invisibility
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/01_amUH_pAre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मूः पा॒रे पृ॑दा॒क्व ऽ स्त्रिष॒प्ता निर्ज॑रायवः ।  
-तासां॑ ज॒रायु॑भिर्व॒यम॒क्ष्या॒वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥१॥  
+अ॒मूः पा॒रे पृ॑दा॒क्व॑स्त्रिष॒प्ता निर्ज॑रायवः।  
+तासा॑म्ज॒रायु॑भिर्व॒यम॒क्ष्या॒३॒॑वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/01_amUH_pAre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मूः पा॒रे पृ॑दा॒क्व॑स्त्रिष॒प्ता निर्ज॑रायवः। तासा॑म्ज॒रायु॑भिर्व॒यम॒क्ष्या॒३॒॑वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥
+अ॒मूः पा॒रे पृ॑दा॒क्व॑स्त्रिष॒प्ता निर्ज॑रायवः।  
+तासा॑म्ज॒रायु॑भिर्व॒यम॒क्ष्या॒३॒॑वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/01_amUH_pAre.md">
@@ -68,7 +71,7 @@ There on the bank those Vipers lie, thrice-seven, having cast their skins: Now w
 </details>
 <details><summary>पदपाठः</summary>
 
-अमूः। पारे। पृदाकः। त्रिऽसप्ताः। निःऽजरायवः। तासाम्। जरायुऽभिः। वयम्। अक्ष्यौ। अपि। व्ययामसि। अघऽयोः। परिऽपन्थिनः।
+अ॒मूः। पा॒रे। पृ॒दा॒कः। त्रि॒ऽस॒प्ताः। निःऽज॑रायवः। तासा॑म्। ज॒रायु॑ऽभिः। व॒यम्। अ॒क्ष्यौ। अपि॑। व्य॒या॒म॒सि॒। अ॒घ॒ऽयोः। प॒रि॒ऽप॒न्थिनः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ There on the bank those Vipers lie, thrice-seven, having cast their skins: Now w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती ।  
-विष्व॑क् पुन॒र्भुवा॒ मनोऽस॑मृद्धा अघा॒यवः॑ ॥२॥  
+विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती।  
+विष्व॑क्पुन॒र्भुवा॒ मनो ऽस॑मृद्धा अघा॒यवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती। विष्व॑क्पुन॒र्भुवा॒ मनो ऽस॑मृद्धा अघा॒यवः॑ ॥
+विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती।  
+विष्व॑क्पुन॒र्भुवा॒ मनो ऽस॑मृद्धा अघा॒यवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
@@ -134,7 +140,7 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 </details>
 <details><summary>पदपाठः</summary>
 
-विषूची। एतु। कृन्तती। पिनाकम्ऽइव। बिभ्रती। विष्वक्। पुनःऽभुवाः। मनः। असम्ऽऋध्दाः। अघऽयवः। १.२७.२।
+विषू॑ची। ए॒तु॒। कृ॒न्त॒ती। पिना॑कम्ऽइव। बिभ्र॑ती। विष्व॑क्। पु॒नः॒ऽभुवाः॑। मनः॑। अस॑म्ऽऋध्दाः। अ॒घ॒ऽयवः॑। १.२७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/03_na_bahavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ब॒हवः॒ सम॑शक॒न् नार्भ॒का अ॒भि दा॑धृषुः ।  
-वे॒णोरद्गा॑ इवा॒भितोऽस॑मृद्धा अघा॒यवः॑ ॥३॥  
+न ब॒हवः॒ सम॑शक॒न्नार्भ॒का अ॒भि दा॑धृषुः।  
+वे॒णोरद्गा॑ इवा॒भितो ऽस॑मृद्धा अघा॒यवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/03_na_bahavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न ब॒हवः॒ सम॑शक॒न्नार्भ॒का अ॒भि दा॑धृषुः। वे॒णोरद्गा॑ इवा॒भितो ऽस॑मृद्धा अघा॒यवः॑ ॥
+न ब॒हवः॒ सम॑शक॒न्नार्भ॒का अ॒भि दा॑धृषुः।  
+वे॒णोरद्गा॑ इवा॒भितो ऽस॑मृद्धा अघा॒यवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/03_na_bahavaH.md">
@@ -200,7 +209,7 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 </details>
 <details><summary>पदपाठः</summary>
 
-न। वहवः। सम्। अशकन्। न। अर्भकाः। अभि। दधृषुः। वेणोः। अङ्गाःऽइव। अभितः। असम्ऽऋध्दाः। अघऽयवः।
+न। व॒हवः॑। सम्। अ॒श॒क॒न्। न। अ॒र्भ॒काः। अ॒भि। द॒धृ॒षुः॒। वे॒णोः। अङ्गाः॑ऽइव। अ॒भितः॑। अस॑म्ऽऋध्दाः। अ॒घ॒ऽयवः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -232,13 +241,16 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्।  
-इ॒न्द्रा॒ण्येऽतु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥४॥
+इ॑न्द्रा॒ण्ये॑तु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/04_pretaM_pAdau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्। इ॑न्द्रा॒ण्ये॑तु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥
+प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्।  
+इ॑न्द्रा॒ण्ये॑तु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/04_pretaM_pAdau.md">
@@ -263,7 +275,7 @@ Go forward, feet, press quickly on, bring to the house of him who pays. Unconque
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। इतम्। पादौ। प्र। स्फुरतम्। वहतम्। पृणतः। गृहान्। इन्द्राणी। एतु। प्रथमा। अजीता। अमुषिता। पुरः।
+प्र। इ॒त॒म्। पा॒दौ॒। प्र। स्फु॒र॒त॒म्। वह॑तम्। पृ॒ण॒तः। गृ॒हान्। इ॒न्द्रा॒णी। ए॒तु॒। प्र॒थ॒मा। अजी॑ता। अमु॑षिता। पु॒रः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

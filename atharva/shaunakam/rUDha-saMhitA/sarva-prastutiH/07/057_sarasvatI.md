@@ -36,14 +36,17 @@ A charm for some physical disorder
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद् याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑ ।  
-यदा॒त्मनि॑ त॒न्वोऽमे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद् घृ॒तेन॑ ॥१॥  
+यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद्याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑।  
+यदा॒त्मनि॑ त॒न्वो᳡ मे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद्घृ॒तेन॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद्याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑। यदा॒त्मनि॑ त॒न्वो᳡ मे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद्घृ॒तेन॑ ॥
+यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद्याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑।  
+यदा॒त्मनि॑ त॒न्वो᳡ मे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद्घृ॒तेन॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/01_yadAshasA_vadato.md">
@@ -71,7 +74,7 @@ Whatever trouble hath disturbed and shaken me--I speak with hope, I move, implor
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। आऽशसा। वदतः। मे। विऽचुक्षुभे। यत्। याचमानस्य। चरतः। जनान्। अनु। यत्। आत्म्ननि। तन्वः᳡। मे। विऽरिष्टम्। सरस्वती। तत्। आ। पृणत्। घृतेन। ५९.१।
+यत्। आ॒ऽशसा॑। वद॑तः। मे॒। वि॒ऽचु॒क्षु॒भे। यत्। याच॑मानस्य। चर॑तः। जना॑न्। अनु॑। यत्। आ॒त्म्ननि॑। त॒न्वः᳡। मे॒। विऽरि॑ष्टम्। सर॑स्वती। तत्। आ। पृ॒ण॒त्। घृ॒तेन॑। ५९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Whatever trouble hath disturbed and shaken me--I speak with hope, I move, implor
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/02_sapta_xaranti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑ ।  
-उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अस्य पुष्यतः ॥२॥
+स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑।  
+उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अ॑स्य पुष्यतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/02_sapta_xaranti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑। उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अ॑स्य पुष्यतः ॥
+स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑।  
+उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अ॑स्य पुष्यतः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/02_sapta_xaranti.md">
@@ -141,7 +147,7 @@ Seven flow for him, the youth on whom the Maruts wait: the sons have taught the 
 </details>
 <details><summary>पदपाठः</summary>
 
-सप्त। क्षरन्ति। शिशवे। मरुत्वते। पित्रे। पुत्रासः। अपि। अवीवृतन्। ऋतानि। उभे इति। इत्। अस्य। उभे इति। अस्य। राजतः। उभे इति। यतेते इति। उभे इति। अस्य। पुष्यतः। ५९.२।
+स॒प्त। क्ष॒र॒न्ति॒। शिश॑वे। म॒रुत्व॑ते। पि॒त्रे। पु॒त्रासः॑। अपि॑। अ॒वी॒वृ॒त॒न्। ऋ॒तानि॑। उ॒भे इति॑। इत्। अ॒स्य॒। उ॒भे इति॑। अ॒स्य॒। रा॒ज॒तः॒। उ॒भे इति॑। य॒ते॒ते॒ इति॑। उ॒भे इति॑। अ॒स्य॒। पु॒ष्य॒तः॒। ५९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

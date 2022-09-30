@@ -36,14 +36,17 @@ The same
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/01_ayaM_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च ।  
-म॒न्योर्विम॑न्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥१॥  
+अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च।  
+म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/01_ayaM_darbho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च। म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
+अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च।  
+म॒न्योर्वि॑मन्युकस्या॒यं म॑न्यु॒शम॑न उच्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/01_ayaM_darbho.md">
@@ -66,7 +69,7 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। दर्भः। विऽमन्युकः। स्वाय। च। अरणाय। च। मन्योः। विऽमन्युकस्य। अयम्। मन्युऽशमनः। उच्यते। ४३.१।
+अ॒यम्। द॒र्भः। विऽम॑न्युकः। स्वाय॑। च॒। अर॑णाय। च॒। म॒न्योः। विऽम॑न्युकस्य। अ॒यम्। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति ।  
-द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥२॥  
+अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति।  
+द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/02_ayaM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति। द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
+अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति।  
+द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/02_ayaM_yo.md">
@@ -127,7 +133,7 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। यः। भूरिऽमूलः। समुद्रम्। अवऽतिष्ठति। दर्भः। पृथिव्याः। उत्थितः। मन्युऽशमनः। उच्यते। ४३.२।
+अ॒यम्। यः। भूरि॑ऽमूलः। स॒मु॒द्रम्। अ॒व॒ऽतिष्ठ॑ति। द॒र्भः। पृ॒थि॒व्याः। उत्थि॑तः। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/043_manyushamanam/03_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि ते॑ हन॒व्यां श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि ।  
-यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥३॥
+वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि।  
+यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/043_manyushamanam/03_vi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि। यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+वि ते॑ हन॒व्यां᳡ श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि।  
+यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/043_manyushamanam/03_vi_te.md">
@@ -190,7 +199,7 @@ We draw thine obstinacy forth, set in thy mouth and in thy jaw: So dost thou yie
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। ते। हनव्या᳡म्। शरणिम्। वि। ते। मुख्याम्। नयामसि। यथा। अवशः। न। ‍ वादिषः। मम। चित्तम्। उपऽआयसि। ४३.३।
+वि। ते॒। ह॒न॒व्या᳡म्। श॒रणि॑म्। वि। ते॒। मुख्या॑म्। न॒या॒म॒सि॒। यथा॑। अ॒व॒शः। न। ‍ वादि॑षः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ४३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

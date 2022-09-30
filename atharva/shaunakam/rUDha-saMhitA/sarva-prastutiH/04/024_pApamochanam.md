@@ -36,14 +36,17 @@ A hymn of prayer and praise to Indra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑ ।  
-यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥१॥  
+इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑।  
+यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑। यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑।  
+यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/01_indrasya_manmahe.md">
@@ -70,7 +73,7 @@ I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come 
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। मन्महे। शश्वत्। इत्। अस्य। मन्महे। वृत्रऽघ्नः। स्तोमाः। उप। मा। इमे। आ। अगुः। यः। दाशुषः। सुऽकृतः। हवम्। एति। सः। नः। मुञ्चतु। अंहसः। २४.१।
+इन्द्र॑स्य। म॒न्म॒हे॒। शश्व॑त्। इत्। अ॒स्य॒। म॒न्म॒हे॒। वृ॒त्र॒ऽघ्नः। स्तोमाः॑। उप॑। मा॒। इ॒मे। आ। अ॒गुः॒। यः। दा॒शुषः॑। सु॒ऽकृतः॑। हव॑म्। एति॑। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑ ।  
-येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥२॥  
+य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑।  
+येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑। येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑।  
+येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
@@ -134,7 +140,7 @@ Who with strong arms o'ercame his strong opponents, who broke and crushed the po
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। उग्रीणाम्। उग्रऽबाहुः। ययुः। यः। दानवानाम्। बलम्। आऽरुरोज। येन। जिताः। सिन्धवः। येन। गावः। सः। नः। मुञ्चतु। अंहसः। २४.२।
+यः। उ॒ग्रीणा॑म्। उ॒ग्रऽबा॑हुः। य॒युः। यः। दा॒न॒वाना॑म्। बल॑म्। आ॒ऽरु॒रोज॑। येन॑। जि॒ताः। सिन्ध॑वः। येन॑। गावः॑। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Who with strong arms o'ercame his strong opponents, who broke and crushed the po
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद् यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्।  
-यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥३॥  
+यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद्यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्।  
+यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद्यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्। यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद्यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्।  
+यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
@@ -196,7 +205,7 @@ Ruler of men, finder of light, the hero: the pressing-stones declare his valour,
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। चर्षणिऽप्रः। वृषभः। स्वःऽवित्। यस्मै। ग्रावाणः। प्रऽवदन्ति। नृम्णम्। यस्य। अध्वरः। सप्तऽहोता। मदिष्ठः। सः। नः। मुञ्चतु। अंहसः। २४.३।
+यः। च॒र्ष॒णि॒ऽप्रः। वृ॒ष॒भः। स्वः॒ऽवित्। यस्मै॑। ग्रावा॑णः। प्र॒ऽवद॑न्ति। नृ॒म्णम्। यस्य॑। अ॒ध्व॒रः। स॒प्तऽहो॑ता। मदि॑ष्ठः। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ Ruler of men, finder of light, the hero: the pressing-stones declare his valour,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्व॒र॑वः स्व॒र्विदे॑ ।  
-यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥४॥  
+यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्वर॑वः स्व॒र्विदे॑।  
+यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्वर॑वः स्व॒र्विदे॑। यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्वर॑वः स्व॒र्विदे॑।  
+यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/04_yasya_vashAsa.md">
@@ -258,7 +270,7 @@ The lord of barren cows and bulls and oxen, finder of light for whom the posts a
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। वशासः। ऋषभासः। उक्षणः। यस्मै। मीयन्ते। स्वरवः। स्वःऽविदे। यस्मै। शुक्रः। पवते। ब्रह्मऽशुम्भितः। सः। नः। मुञ्चतु। अंहसः। २४.४।
+यस्य॑। व॒शासः॑। ऋ॒ष॒भासः॑। उक्ष॒णः॑। यस्मै॑। मी॒यन्ते॑। स्वर॑वः। स्वः॒ऽविदे॑। यस्मै॑। शु॒क्रः। पव॑ते। ब्रह्म॑ऽशुम्भितः। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -289,14 +301,17 @@ The lord of barren cows and bulls and oxen, finder of light for whom the posts a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/05_yasya_juShTim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ ।  
-यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥५॥  
+यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ।  
+यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/05_yasya_juShTim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ। यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ।  
+यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/05_yasya_juShTim.md">
@@ -319,7 +334,7 @@ Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in batt
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। जुष्टिम्। सोमिनः। कामयन्ते। यम्। हवन्ते। इषुऽमन्तम्। गोऽइष्टौ। यस्मिन्। अर्कः। शिश्रिये। यस्मिन्। ओजः। सः। नः। मुञ्चतु। अंहसः। २४.५।
+यस्य॑। जुष्टि॑म्। सो॒मिनः॑। का॒मय॑न्ते। यम्। हव॑न्ते। इषु॑ऽमन्तम्। गोऽइ॑ष्टौ। यस्मि॑न्। अ॒र्कः। शि॒श्रि॒ये। यस्मि॑न्। ओजः॑। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -350,14 +365,17 @@ Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in batt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यंऽ प्रथ॒मस्यानु॑बुद्धम्।  
-येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥६॥  
+यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यं प्रथ॒मस्यानु॑बुद्धम्।  
+येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यं प्रथ॒मस्यानु॑बुद्धम्। येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यं प्रथ॒मस्यानु॑बुद्धम्।  
+येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/06_yaH_prathamaH.md">
@@ -386,7 +404,7 @@ Why was born, first, for active operation, whose valour as the first hath been a
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। प्रथमः। कर्मऽकृत्याय। जज्ञे। यस्य। वीर्य᳡म्। प्रथमस्य। अनुऽबुध्दम्। येन। उत्ऽयतः। वज्रः। अभिऽआयत। अहिम्। सः। नः। मुञ्चतु। अंहसः। २४.६।
+यः। प्र॒थ॒मः। क॒र्म॒ऽकृत्या॑य। ज॒ज्ञे। यस्य॑। वी॒र्य᳡म्। प्र॒थ॒मस्य॑। अनु॑ऽबुध्दम्। येन॑। उत्ऽय॑तः। वज्रः॑। अ॒भि॒ऽआय॑त। अहि॑म्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -417,14 +435,17 @@ Why was born, first, for active operation, whose valour as the first hath been a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः सं॑ग्रा॒मान्नय॑ति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑ ।  
-स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥७॥
+यः सं॑ग्रा॒मान्न॑यति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑।  
+स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः सं॑ग्रा॒मान्न॑यति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑। स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यः सं॑ग्रा॒मान्न॑यति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑।  
+स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
@@ -449,7 +470,7 @@ Strong Lord, who leadeth hosts to meet for battle, who sendeth riches both of ea
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। सम्ऽग्रामान्। नयति। सम्। युधे। वशी। यः। पुष्टानि। सम्ऽसृजति। द्वयानि। स्तौमि। इन्द्रम्। नाथितः। जोहवीमि। सः। नः। मुञ्चतु। अंहसः। २४.७।
+यः। स॒म्ऽग्रा॒मान्। नय॑ति। सम्। यु॒धे। व॒शी। यः। पु॒ष्टानि॑। स॒म्ऽसृ॒जति॑। द्व॒यानि॑। स्तौमि॑। इन्द्र॑म्। ना॒थि॒तः। जो॒ह॒वी॒मि॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

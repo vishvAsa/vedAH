@@ -36,15 +36,17 @@ A prayer to Agni for children, long life, and various blessings
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे ।  
-स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥१॥  
+अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे।  
+स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे ।  
-स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥१॥  
+अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे।  
+स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
@@ -77,7 +79,7 @@ For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। सम्ऽइधम्। आ। अहार्षम्। बृहते। जातऽवेदसे। सः। मे। श्रद्धाम्। च। मेधाम्। च। जातऽवेदाः। प्र। यच्छतु। ६४.१।
+अग्ने॑। स॒म्ऽइध॑म्। आ। अ॒हा॒र्ष॒म्। बृ॒ह॒ते। जा॒तऽवे॑दसे। सः। मे॒। श्र॒द्धाम्। च॒। मे॒धाम्। च॒। जा॒तऽवे॑दाः। प्र। य॒च्छ॒तु॒। ६४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,15 +110,17 @@ For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि ।  
-तथा॒ त्वम॒स्मान् व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥२॥  
+इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि।  
+तथा॒ त्वम॒स्मान्व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/02_idhmena_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि ।  
-तथा॒ त्वम॒स्मान् व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥२॥  
+इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि।  
+तथा॒ त्वम॒स्मान्व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
@@ -138,7 +142,7 @@ With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou stren
 </details>
 <details><summary>पदपाठः</summary>
 
-इध्मेन। त्वा। जातऽवेदः। सम्ऽइधा। वर्धयामसि। तथा। त्वम्। अस्मान्। वर्धय। प्रऽजया। च। धनेन। च। ६४.२।
+इ॒ध्मेन॑। त्वा॒। जा॒त॒ऽवे॒दः॒। स॒म्ऽइधा॑। व॒र्ध॒या॒म॒सि॒। तथा॑। त्वम्। अ॒स्मान्। व॒र्ध॒य॒। प्र॒ऽजया॑। च॒। धने॑न। च॒। ६४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,15 +173,17 @@ With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou stren
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑ ।  
-सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥३॥  
+यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑।  
+सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/03_yadagne_yAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑ ।  
-सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥३॥  
+यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑।  
+सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
@@ -207,7 +213,7 @@ Whatever even be the logs which, Agni, we lay down for thee, propitious be it al
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अग्ने। यानि। कानि। चित्। आ। ते। दारूणि। दध्मसि। सर्वम्। तत्। अस्तु। मे। शिवम्। तत्। जुषस्व। यविष्ठ्य। ६४.३।
+यत्। अ॒ग्ने॒। यानि॑। कानि॑। चि॒त्। आ। ते॒। दारू॑णि। द॒ध्मसि॑। सर्व॑म्। तत्। अ॒स्तु॒। मे॒। शि॒वम्। तत्। जु॒ष॒स्व॒। य॒वि॒ष्ठ्य॒। ६४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -238,15 +244,17 @@ Whatever even be the logs which, Agni, we lay down for thee, propitious be it al
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/04_etAste_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद् भव ।  
-आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्याय ॥४॥
+ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद्भ॑व।  
+आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्या᳡य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/04_etAste_agne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद् भव ।  
-आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्याय ॥४॥
+ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद्भ॑व।  
+आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्या᳡य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/04_etAste_agne.md">
@@ -289,7 +297,7 @@ Agni, these logs are thine: with these be, fain to burn! a flaming brand. Vouchs
 </details>
 <details><summary>पदपाठः</summary>
 
-एताः। ते। अग्ने। सम्ऽइधः। त्वम्। इद्धः। सम्ऽइत्। भव। आयुः। अस्मासु। धेहि। अमृतऽत्वम्। आऽचार्या᳡य। ६४.४।
+ए॒ताः। ते॒। अ॒ग्ने॒। स॒म्ऽइधः॑। त्वम्। इ॒द्धः। स॒म्ऽइत्। भ॒व॒। आयुः॑। अ॒स्मासु॑। धे॒हि॒। अ॒मृ॒त॒ऽत्वम्। आ॒ऽचा॒र्या᳡य। ६४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

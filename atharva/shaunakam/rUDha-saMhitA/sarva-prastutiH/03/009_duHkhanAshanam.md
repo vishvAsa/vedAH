@@ -37,13 +37,16 @@ A charm against rheumatism (vishkondha)
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क॒र्शफ॑स्य विश॒फस्य॒ द्यौः पि॒ता पृ॑थि॒वी मा॒ता।  
-यथा॑भिच॒क्र दे॑वा॒स्तथाप॑ कृणुता॒ पुनः॑ ॥१॥  
+यथा॑भिच॒क्र दे॒वास्तथाप॑ कृणुता॒ पुनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क॒र्शफ॑स्य विश॒फस्य॒ द्यौः पि॒ता पृ॑थि॒वी मा॒ता। यथा॑भिच॒क्र दे॒वास्तथाप॑ कृणुता॒ पुनः॑ ॥
+क॒र्शफ॑स्य विश॒फस्य॒ द्यौः पि॒ता पृ॑थि॒वी मा॒ता।  
+यथा॑भिच॒क्र दे॒वास्तथाप॑ कृणुता॒ पुनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
@@ -74,7 +77,7 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 </details>
 <details><summary>पदपाठः</summary>
 
-कर्शफस्य। विऽशफस्य। द्यौः। पिता। पृथिवी। माता। यथा। अभिऽचक्र। देवाः। तथा। अप। कृणुत। पुनः। ९.१।
+क॒र्शफ॑स्य। वि॒ऽश॒फस्य॑। द्यौः। पि॒ता। पृ॒थि॒वी। मा॒ता। यथा॑। अ॒भि॒ऽच॒क्र। दे॒वाः॒। तथा॑। अप॑। कृ॒णु॒त॒। पुनः॑। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्रे॒ष्माणो॑ अधारय॒न् तथा॒ तन्मनु॑ना कृ॒तम्।  
-कृणोमि॒ वध्रि॒ विष्क॑न्धं मुष्काब॒र्हो गवा॑मिव ॥२॥  
+अ॑श्रे॒ष्माणो॑ अधारय॒न्तथा॒ तन्मनु॑ना कृ॒तम्।  
+कृ॒णोमि॒ वध्रि॒ विष्क॑न्धं मुष्काब॒र्हो गवा॑मिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑श्रे॒ष्माणो॑ अधारय॒न्तथा॒ तन्मनु॑ना कृ॒तम्। कृ॒णोमि॒ वध्रि॒ विष्क॑न्धं मुष्काब॒र्हो गवा॑मिव ॥
+अ॑श्रे॒ष्माणो॑ अधारय॒न्तथा॒ तन्मनु॑ना कृ॒तम्।  
+कृ॒णोमि॒ वध्रि॒ विष्क॑न्धं मुष्काब॒र्हो गवा॑मिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
@@ -139,7 +145,7 @@ The bands hold fast without a knot: this is the way that Manu- used. I make Vish
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्रेष्माणः। अधारयन्। तथा। तत्। मनुना। कृतम्। कृणोमि। वध्रि। विऽस्कन्धम्। मुष्कऽआबर्हः। गवाम्ऽइव। ९.२।
+अ॒श्रे॒ष्माणः॑। अ॒धा॒र॒य॒न्। तथा॑। तत्। मनु॑ना। कृ॒तम्। कृ॒णोमि॑। वध्रि॑। विऽस्क॑न्धम्। मु॒ष्क॒ऽआ॒ब॒र्हः। गवा॑म्ऽइव। ९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ The bands hold fast without a knot: this is the way that Manu- used. I make Vish
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पि॒शङ्गे॒ सूत्रे॒ खृग॑लं॒ तदा ब॑ध्नन्ति वे॒धसः॑ ।  
-श्र॒व॒स्युं शुष्मं॑ काब॒वं वध्रिं॑ कृण्वन्तु ब॒न्धुरः॑ ॥३॥  
+पि॒शङ्गे॒ सूत्रे॒ खृग॑लं॒ तदा ब॑ध्नन्ति वे॒धसः॑।  
+श्र॑व॒स्युं शुष्मं॑ काब॒वं वध्रिं॑ कृण्वन्तु ब॒न्धुरः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/03_pishange_sUtre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पि॒शङ्गे॒ सूत्रे॒ खृग॑लं॒ तदा ब॑ध्नन्ति वे॒धसः॑। श्र॑व॒स्युं शुष्मं॑ काब॒वं वध्रिं॑ कृण्वन्तु ब॒न्धुरः॑ ॥
+पि॒शङ्गे॒ सूत्रे॒ खृग॑लं॒ तदा ब॑ध्नन्ति वे॒धसः॑।  
+श्र॑व॒स्युं शुष्मं॑ काब॒वं वध्रिं॑ कृण्वन्तु ब॒न्धुरः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
@@ -208,7 +217,7 @@ Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages 
 </details>
 <details><summary>पदपाठः</summary>
 
-पिशङ्गे। सूत्रे। खृगलम्। तत्। आ। बध्नन्ति। वेधसः। श्रवस्युम्। शुष्मम्। काबवम्। वध्रिम्। कृण्वन्तु। बन्धुरः। ९.३।
+पि॒शङ्गे॑। सूत्रे॑। खृग॑लम्। तत्। आ। ब॒ध्न॒न्ति॒। वे॒धसः॑। श्र॒व॒स्युम्। शुष्म॑म्। का॒ब॒वम्। वध्रि॑म्। कृ॒ण्व॒न्तु॒। ब॒न्धुरः॑। ९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -239,14 +248,17 @@ Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येना॑ श्रवस्यव॒श्चर॑थ दे॒वा इ॑वासुरमा॒यया॑ ।  
-शुनां॑ क॒पिरि॑व॒ दूष॑णो॒ बन्धु॑रा काब॒वस्य॑ च ॥४॥  
+येना॑ श्रवस्यव॒श्चर॑थ दे॒वा इ॑वासुरमा॒यया॑।  
+शुनां॑ क॒पिरि॑व॒ दूष॑णो॒ बन्धु॑रा काब॒वस्य॑ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येना॑ श्रवस्यव॒श्चर॑थ दे॒वा इ॑वासुरमा॒यया॑। शुनां॑ क॒पिरि॑व॒ दूष॑णो॒ बन्धु॑रा काब॒वस्य॑ च ॥
+येना॑ श्रवस्यव॒श्चर॑थ दे॒वा इ॑वासुरमा॒यया॑।  
+शुनां॑ क॒पिरि॑व॒ दूष॑णो॒ बन्धु॑रा काब॒वस्य॑ च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
@@ -262,7 +274,7 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। श्रवस्यवः। चरथ। देवाःऽइव। असुरऽमायया। शुनाम्। कपिःऽइव। दूषणः। बन्धुरा। काबवस्य। च। ९.४।
+येन॑। श्र॒व॒स्य॒वः॒। चर॑थ। दे॒वाःऽइ॑व। अ॒सु॒र॒ऽमा॒यया॑। शुना॑म्। क॒पिःऽइ॑व। दूष॑णः। बन्धु॑रा। का॒ब॒वस्य॑। च॒। ९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -293,14 +305,17 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दुष्ट्यै॒ हि त्वा॑ भ॒त्स्यामि॑ दूषयि॒ष्यामि॑ काब॒वम्।  
-उदा॒शवो॒ रथा॑ इव श॒पथे॑भिः सरिष्यथ ॥५॥  
+दुष्ट्यै॒ हि त्वा॑ भ॒र्त्स्यामि॑ दूषयि॒ष्यामि॑ काब॒वम्।  
+उदा॒शवो॒ रथा॑ इव श॒पथे॑भिः सरिष्यथ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/05_duShTyai_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दुष्ट्यै॒ हि त्वा॑ भ॒र्त्स्यामि॑ दूषयि॒ष्यामि॑ काब॒वम्। उदा॒शवो॒ रथा॑ इव श॒पथे॑भिः सरिष्यथ ॥
+दुष्ट्यै॒ हि त्वा॑ भ॒र्त्स्यामि॑ दूषयि॒ष्यामि॑ काब॒वम्।  
+उदा॒शवो॒ रथा॑ इव श॒पथे॑भिः सरिष्यथ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
@@ -328,7 +343,7 @@ Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impra
 </details>
 <details><summary>पदपाठः</summary>
 
-दुष्ट्यै। हि। त्वा। भत्स्यामि। दूषयिष्यामि। काबवम्। उत्। आशवः। रथाःऽइव। शपथेभिः। सरिष्यथ। ९.५।
+दुष्ट्यै॑। हि। त्वा॒। भ॒त्स्यामि॑। दू॒ष॒यि॒ष्यामि॑। का॒ब॒वम्। उत्। आ॒शवः॑। रथाः॑ऽइव। श॒पथे॑भिः। स॒रि॒ष्य॒थ॒। ९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -359,14 +374,17 @@ Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑शतं॒ विष्क॑न्धानि॒ विष्ठि॑ता पृथि॒वीमनु॑ ।  
-तेषां॒ त्वामग्रे॒ उज्ज॑हरुर्म॒णिं वि॑ष्कन्ध॒दूष॑णम्॥६॥
+एक॑शतं॒ विष्क॑न्धानि॒ विष्ठि॑ता पृथि॒वीमनु॑।  
+तेषां॒ त्वामग्र॒ उज्ज॑हरुर्म॒णिं वि॑ष्कन्ध॒दूष॑णम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एक॑शतं॒ विष्क॑न्धानि॒ विष्ठि॑ता पृथि॒वीमनु॑। तेषां॒ त्वामग्र॒ उज्ज॑हरुर्म॒णिं वि॑ष्कन्ध॒दूष॑णम् ॥
+एक॑शतं॒ विष्क॑न्धानि॒ विष्ठि॑ता पृथि॒वीमनु॑।  
+तेषां॒ त्वामग्र॒ उज्ज॑हरुर्म॒णिं वि॑ष्कन्ध॒दूष॑णम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
@@ -395,7 +413,7 @@ One and one hundred over earth are the Vishkandhas spread abroad. Before these h
 </details>
 <details><summary>पदपाठः</summary>
 
-एकऽशतम्। विऽस्कन्धानि। विऽस्थिता। पृथिवीम्। अनु। तेषाम्। त्वाम्। अग्रे। उत्। जहरुः। मणिम्। विस्कन्धऽदूषणम्। ९.६।
+एक॑ऽशतम्। विऽस्क॑न्धानि। विऽस्थि॑ता। पृ॒थि॒वीम्। अनु॑। तेषा॑म्। त्वाम्। अग्रे॑। उत्। ज॒ह॒रुः॒। म॒णिम्। वि॒स्क॒न्ध॒ऽदूष॑णम्। ९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

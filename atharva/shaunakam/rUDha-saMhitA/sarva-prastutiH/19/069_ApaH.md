@@ -36,13 +36,15 @@ A prayer or charm for long life
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/01_jIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥१॥  
+जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/01_jIvA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥१॥  
+जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/01_jIvA_stha.md">
@@ -60,7 +62,7 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 </details>
 <details><summary>पदपाठः</summary>
 
-जीवाः। स्थ। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.१।
+जी॒वाः। स्थ॒। जी॒व्यास॑म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -91,13 +93,15 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/02_upajIvA_sthopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒प॒जी॒वा स्थोप॑ जीव्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥२॥  
+उ॑पजी॒वा स्थोप॑ जीव्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/02_upajIvA_sthopa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒प॒जी॒वा स्थोप॑ जीव्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥२॥  
+उ॑पजी॒वा स्थोप॑ जीव्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/02_upajIvA_sthopa.md">
@@ -115,7 +119,7 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽजीवाः। स्थ। उप। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.२।
+उ॒प॒ऽजी॒वाः। स्थ॒। उप॑। जी॒व्या॒सम्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -146,13 +150,15 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/03_sanjIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒जी॒वा स्थ॒ सं जी॑व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥३॥  
+सं॑जी॒वा स्थ॒ सं जी॑व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/03_sanjIvA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒जी॒वा स्थ॒ सं जी॑व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥३॥  
+सं॑जी॒वा स्थ॒ सं जी॑व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/03_sanjIvA_stha.md">
@@ -171,7 +177,7 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽजीवाः। स्थ। सम्। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.३।
+स॒म्ऽजी॒वाः। स्थ॒। सम्। जी॒व्या॒स॒म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -202,13 +208,15 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/04_jIvalA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी॒व॒ला स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥४॥
+जी॑व॒ला स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/04_jIvalA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जी॒व॒ला स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम्॥४॥
+जी॑व॒ला स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/04_jIvalA_stha.md">
@@ -236,7 +244,7 @@ Ye are life-givers. I fain would live. I fain would live my com- plete term of l
 </details>
 <details><summary>पदपाठः</summary>
 
-जीवलाः। स्थ। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.४।
+जी॒व॒लाः। स्थ॒। जी॒व्यास॑म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,15 +36,17 @@ A preliminary sacrificial formula
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑ ।  
-ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥१॥
+अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑।  
+ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑ ।  
-ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥१॥
+अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑।  
+ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
@@ -103,7 +105,7 @@ Both of broad and narrow I with magic power unclose the mouth. With these when w
 </details>
 <details><summary>पदपाठः</summary>
 
-अव्यसः। च। व्यचसः। च। बिलम्। वि। स्यामि। मायया। ताभ्याम्। उत्ऽहृत्य। वेदम्। अथ। कर्माणि। कृण्महे। ६८.१।
+अव्य॑सः। च॒। व्यच॑सः। च॒। बिल॑म्। वि। स्या॒मि॒। मा॒यया॑। ताभ्या॑म्। उ॒त्ऽहृत्य॑। वेद॑म्। अथ॑। कर्मा॑णि। कृ॒ण्म॒हे॒। ६८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

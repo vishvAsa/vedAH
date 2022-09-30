@@ -32,14 +32,17 @@ A parting traveller's address to the houses of his village
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊर्जं॒ बिभ्र॑द् वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण ।  
-गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत्॥१॥  
+ऊर्जं॒ बिभ्र॑द्वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण।  
+गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊर्जं॒ बिभ्र॑द्वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण। गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत् ॥
+ऊर्जं॒ बिभ्र॑द्वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण।  
+गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
@@ -68,7 +71,7 @@ I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्जम्। बिभ्रत्। वसुऽवनिः। सुऽमेधाः। अघोरेण। चक्षुषा। मित्रियेण। गृहान्। आ। एमि। सुऽमनाः। वन्दमानः। रमध्वम्। मा। बिभीत। मत्। ६२.१।
+ऊर्ज॑म्। बिभ्र॑त्। व॒सु॒ऽवनिः॑। सु॒ऽमे॒धाः। अघो॑रेण। चक्षु॑षा। मि॒त्रिये॑ण। गृ॒हान्। आ। ए॒मि॒। सु॒ऽमनाः॑। वन्द॑मानः। रम॑ध्वम्। मा। बि॒भी॒त॒। मत्। ६२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः ।  
-पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥२॥  
+इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः।  
+पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः। पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥
+इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः।  
+पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/02_ime_gRhA.md">
@@ -127,7 +133,7 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 </details>
 <details><summary>पदपाठः</summary>
 
-इमे। गृहाः। मयःऽभुवः। ऊर्जस्वन्तः। पयस्वन्तः। पूर्णाः। वामेन। तिष्ठन्तः। ते। नः। जानन्तु। आऽयतः। ६२.२।
+इ॒मे। गृ॒हाः। म॒यः॒ऽभुवः॑। ऊर्ज॑स्वन्तः। पय॑स्वन्तः। पू॒र्णाः। वा॒मेन॑। तिष्ठ॑न्तः। ते। नः॒। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येषा॑म॒ध्येति॑ प्र॒वस॒न् येषु॑ सौमन॒सो ब॒हुः ।  
-गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥३॥  
+येषा॑म॒ध्येति॑ प्र॒वस॒न्येषु॑ सौमन॒सो ब॒हुः।  
+गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येषा॑म॒ध्येति॑ प्र॒वस॒न्येषु॑ सौमन॒सो ब॒हुः। गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥
+येषा॑म॒ध्येति॑ प्र॒वस॒न्येषु॑ सौमन॒सो ब॒हुः।  
+गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
@@ -192,7 +201,7 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 </details>
 <details><summary>पदपाठः</summary>
 
-येषाम्। अधिऽएति। प्रऽवसन्। येषु। सौमनसः। बहुः। गृहान्। उप। ह्वयामहे। ते। नः। जानन्तु। आऽयतः। ६२.३।
+येषा॑म्। अ॒धि॒ऽएति॑। प्र॒ऽवस॑न्। येषु॑। सौ॒म॒न॒सः। ब॒हुः। गृ॒हान्। उप॑। ह्व॒या॒म॒हे॒। ते। नः॒। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,14 +232,17 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः ।  
-अ॒क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद् बि॑भीतन ॥४॥  
+उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः।  
+अ॑क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः। अ॑क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः।  
+अ॑क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
@@ -253,7 +265,7 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽहूताः। भूरिऽधनाः। सखायः। स्वादुऽसंमुदः। अक्षुध्याः। अतृष्याः। स्त। गृहाः। मा। अस्मत्। बिभीतन। ६२.४।
+उप॑ऽहूताः। भूरि॑ऽधनाः। सखा॑यः। स्वा॒दुऽसं॑मुदः। अ॒क्षु॒ध्याः। अ॒तृ॒ष्याः। स्त॒। गृहाः॑। मा। अ॒स्मत्। बि॒भी॒त॒न॒। ६२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -284,14 +296,17 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑ ।  
-अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥५॥  
+उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑।  
+अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑। अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥
+उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑।  
+अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
@@ -314,7 +329,7 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽहूताः। इह। गावः। उपऽहूताः। अजऽअवयः। अथो इति। अन्नस्य। कीलालः। उपऽहूतः। गृहेषु। नः। ६२.५।
+उप॑ऽहूताः। इ॒ह। गावः॑। उप॑ऽहूताः। अ॒ज॒ऽअ॒वयः॑। अथो॒ इति॑। अन्न॑स्य। की॒लालः॑। उप॑ऽहूतः। गृ॒हेषु॑। नः॒। ६२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -345,14 +360,17 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः ।  
-अ॒तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद् बि॑भीतन ॥६॥  
+सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः।  
+अ॑तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः। अ॑तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः।  
+अ॑तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
@@ -377,7 +395,7 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 </details>
 <details><summary>पदपाठः</summary>
 
-सूनृताऽवन्तः। सुऽभगाः। इराऽवन्तः। हसामुदाः। अतृष्याः। अक्षुध्याः। स्त। गृहाः। मा। अस्मत्। बिभीतन। ६२.६।
+सू॒नृता॑ऽवन्तः। सु॒ऽभगाः॑। इरा॑ऽवन्तः। ह॒सा॒मु॒दाः। अ॒तृ॒ष्याः। अ॒क्षु॒ध्याः। स्त॒। गृहाः॑। मा। अ॒स्मत्। बि॒भी॒त॒न॒। ६२.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -408,14 +426,17 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैव स्त॒ मानु॑ गात॒ विश्वा॑ रू॒पाणि॑ पुष्यत ।  
-ऐष्या॑मि भ॒द्रेणा॑ स॒ह भूयां॑सो भवता॒ मया॑ ॥७॥
+इ॒हैव॑ स्त॒ मानु॑ गात॒ विश्वा॑ रू॒पाणि॑ पुष्यत।  
+ऐष्या॑मि भ॒द्रेणा॑ स॒ह भूयां॑सो भवता॒ मया॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒हैव॑ स्त॒ मानु॑ गात॒ विश्वा॑ रू॒पाणि॑ पुष्यत। ऐष्या॑मि भ॒द्रेणा॑ स॒ह भूयां॑सो भवता॒ मया॑ ॥
+इ॒हैव॑ स्त॒ मानु॑ गात॒ विश्वा॑ रू॒पाणि॑ पुष्यत।  
+ऐष्या॑मि भ॒द्रेणा॑ स॒ह भूयां॑सो भवता॒ मया॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
@@ -432,7 +453,7 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। एव। स्त। मा। अनु। गात। विश्वा। रूपाणि। पुष्यत। आ। एष्यामि। भद्रेण। सह। भूयांसः। भवत। मया। ६२.७।
+इ॒ह। ए॒व। स्त॒। मा। अनु॑। गा॒त॒। विश्वा॑। रू॒पाणि॑। पु॒ष्य॒त॒। आ। ए॒ष्या॒मि॒। भ॒द्रे॑ण। स॒ह। भूयां॑सः। भ॒व॒त॒। मया॑। ६२.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

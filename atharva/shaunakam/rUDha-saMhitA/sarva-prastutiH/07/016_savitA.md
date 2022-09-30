@@ -36,14 +36,17 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय ।  
-संशि॑तं चित् संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥१॥
+बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय।  
+संशि॑तं चित्संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय। संशि॑तं चित्संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
+बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय।  
+संशि॑तं चित्संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
@@ -69,7 +72,7 @@ Increase this man Brihaspati! Illume him, O Savitar, for high and happy fortune.
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहस्पते। सवितः। वर्धय। एनम्। ज्योतय। एनम्। महते। सौभगाय। सम्ऽशितम्। चित्। सम्ऽतरम्। सम्। शिशाधि। विश्वे। एनम्। अनु। मदन्तु। देवाः। १७.१।
+बृह॑स्पते। सवि॑तः। व॒र्धय॑। ए॒न॒म्। ज्यो॒तय॑। ए॒न॒म्। म॒ह॒ते। सौभ॑गाय। सम्ऽशि॑तम्। चि॒त्। स॒म्ऽत॒रम्। सम्। शि॒शा॒धि॒। विश्वे॑। ए॒न॒म्। अनु॑। म॒द॒न्तु॒। दे॒वाः। १७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

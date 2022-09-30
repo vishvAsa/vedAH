@@ -36,14 +36,17 @@ A blessing on cows
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः ।  
-मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥१॥  
+प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
+मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः। मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
+मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
@@ -65,7 +68,7 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽवतीः। सुऽयवसे। रुशन्तीः। शुध्दाः। अपः। सुऽप्रपाने। पिबन्तीः। मा। वः। स्तेनः। ईशत। मा। अघऽशंसः। परि। वः। रुद्रस्य। हेतिः। वृणक्तु। ७९.१।
+प्र॒जाऽव॑तीः। सु॒ऽयव॑से। रु॒शन्तीः॑। शु॒ध्दाः। अ॒पः। सु॒ऽप्र॒पा॒ने। पिब॑न्तीः। मा। वः॒। स्ते॒नः। ई॒श॒त॒। मा। अ॒घऽशं॑सः। परि॑। वः॒। रु॒द्रस्य॑। हे॒तिः। वृ॒ण॒क्तु॒। ७९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,15 +99,19 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/02_padajnA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः ।  
-उप॑ मा देवीर्दे॒वेभि॒रेत॑ ।  
-इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥२॥
+प॑द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः।  
+उप॑ मा देवीर्दे॒वेभि॒रेत॑।  
+इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/02_padajnA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॑द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः। उप॑ मा देवीर्दे॒वेभि॒रेत॑। इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥
+प॑द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः।  
+उप॑ मा देवीर्दे॒वेभि॒रेत॑।  
+इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/02_padajnA_stha.md">
@@ -127,7 +134,7 @@ Ye know the place and rest content, close-gathered, called by many a name. Come 
 </details>
 <details><summary>पदपाठः</summary>
 
-पदऽज्ञाः। स्थ। रमतयः। सम्ऽहिताः। विश्वऽनाम्नीः। उप। मा। देवीः। देवेभिः। आ। इत। इमम्। गोऽस्थम्। इदम्। सदः। घृतेन। अस्मान्। सम्। उक्षत। ७९.२।
+प॒द॒ऽज्ञाः। स्थ॒। रम॑तयः। सम्ऽहि॑ताः। वि॒श्वऽना॑म्नीः। उप॑। मा॒। दे॒वीः॒। दे॒वेभिः॑। आ। इ॒त॒। इ॒मम्। गो॒ऽस्थम्। इ॒दम्। सदः॑। घृ॒तेन॑। अ॒स्मान्। सम्। उ॒क्ष॒त॒। ७९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

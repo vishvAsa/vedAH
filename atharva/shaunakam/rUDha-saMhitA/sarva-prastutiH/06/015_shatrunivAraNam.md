@@ -36,14 +36,17 @@ A charm for power and preeminence
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑ ।  
-उ॒प॒स्तिर॑स्तु सो॒३स्माकं॒ यो अ॒स्मां अ॑भि॒दास॑ति ॥१॥  
+उ॑त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑।  
+उ॑प॒स्तिर॑स्तु॒ सो॒३॒॑स्माकं॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑। उ॑प॒स्तिर॑स्तु॒ सो॒३॒॑स्माकं॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+उ॑त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑।  
+उ॑प॒स्तिर॑स्तु॒ सो॒३॒॑स्माकं॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
@@ -67,7 +70,7 @@ Most excellent of all the plants art thou: thy vassals are the trees. Let him be
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतमः। असि। ओषधीनाम्। तव। वृक्षाः। उपऽस्तयः। उपऽस्तिः। अस्तु। सः। अस्माकम्। यः। अस्मान्। अभिऽदासति। १५.१।
+उ॒त्ऽत॒मः। अ॒सि॒। ओष॑धीनाम्। तव॑। वृ॒क्षाः। उ॒प॒ऽस्तयः॑। उ॒प॒ऽस्तिः। अ॒स्तु॒। सः। अ॒स्माक॑म्। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। १५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Most excellent of all the plants art thou: thy vassals are the trees. Let him be
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्मां अ॑भि॒दास॑ति ।  
-तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥२॥  
+सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
+तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति। तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥
+सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
+तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
@@ -127,7 +133,7 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 </details>
 <details><summary>पदपाठः</summary>
 
-सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। तेषाम्। सा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतमः। १५.२।
+सऽब॑न्धुः। च॒। अस॑बन्धुः। च॒। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। तेषा॑म्। सा। वृ॒क्षाणा॑म्ऽइव। अ॒हम्। भू॒या॒स॒म्। उ॒त्ऽत॒मः। १५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः ।  
-त॒लाशा॑ वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥३॥
+यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः।  
+त॒लाशा॑ वृ॒क्षाना॑मिवा॒हं भू॑यासमुत्त॒मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः। त॒लाशा॑ वृ॒क्षाना॑मिवा॒हं भू॑यासमुत्त॒मः ॥
+यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः।  
+त॒लाशा॑ वृ॒क्षाना॑मिवा॒हं भू॑यासमुत्त॒मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/03_yathA_soma.md">
@@ -188,7 +197,7 @@ As Soma hath been made the best of all oblations 'mid the plants, So, as Talasa 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। सोमः। ओषधीनाम्। उत्ऽतमः। हविषाम्। कृतः। तलाशा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतमः। १५.३।
+यथा॑। सोमः॑। ओष॑धीनाम्। उ॒त्ऽत॒मः। ह॒विषा॑म्। कृ॒तः। त॒लाशा॑। वृ॒क्षाणा॑म्ऽइव। अ॒हम्। भू॒या॒स॒म्। उ॒त्ऽत॒मः। १५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

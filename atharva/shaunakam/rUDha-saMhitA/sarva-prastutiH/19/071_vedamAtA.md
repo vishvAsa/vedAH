@@ -38,15 +38,17 @@ A hymn, accompanying libations, for wealth and prosperity
 
 स्तु॒ता मया॑ वर॒दा वे॑दमा॒ता प्र चो॑दयन्तां पावमा॒नी द्वि॒जाना॑म्।  
 आयुः॑ प्रा॒णं प्र॒जां प॒शुं की॒र्तिं द्रवि॑णं ब्रह्मवर्च॒सम्।  
-मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम्॥१॥
+मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/071_vedamAtA/01_stutA_mayA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स्तु॒ता मया॑ वर॒दा वे॑दमा॒ता प्र चो॑दयन्तां पावमा॒नी द्वि॒जाना॑म्।  
 आयुः॑ प्रा॒णं प्र॒जां प॒शुं की॒र्तिं द्रवि॑णं ब्रह्मवर्च॒सम्।  
-मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम्॥१॥
+मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/01_stutA_mayA.md">
@@ -89,7 +91,7 @@ Let my libations, giving boons, adoring, further the Twice-born's song that hono
 </details>
 <details><summary>पदपाठः</summary>
 
-स्तुता। मया। वरदा। वेदऽमाता। प्र। चोदयन्ताम्। पावमानी। द्विजानाम्। आयुः। प्राणम्। प्रऽजाम्। पशुम्। कीर्तिम्। द्रविणम्। ब्रह्मऽवर्चसम्। मह्यम्। दत्त्वा। व्रजत। ब्रह्मऽलोकम्। ७१.१।
+स्तु॒ता। मया॑। व॒र॒दा। वे॒द॒ऽमा॒ता। प्र। चो॒द॒य॒न्ता॒म्। पा॒व॒मा॒नी। द्वि॒जाना॑म्। आयुः॑। प्रा॒णम्। प्र॒ऽजाम्। प॒शुम्। की॒र्तिम्। द्रवि॑णम्। ब्र॒ह्म॒ऽव॒र्च॒सम्। मह्य॑म्। द॒त्त्वा। व्र॒ज॒त॒। ब्र॒ह्म॒ऽलो॒कम्। ७१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

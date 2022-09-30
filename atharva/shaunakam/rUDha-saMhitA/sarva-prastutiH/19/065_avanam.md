@@ -37,14 +37,16 @@ A hymn to Agni identified with the Sun
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हरिः॑ सुप॒र्णो दिव॒मारु॑हो॒ऽर्चिषा॒ ये त्वा॒ दिप्स॑न्ति॒ दिव॑मु॒त्पत॑न्तम्।  
-अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥१॥
+अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/065_avanam/01_hariH_suparNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 हरिः॑ सुप॒र्णो दिव॒मारु॑हो॒ऽर्चिषा॒ ये त्वा॒ दिप्स॑न्ति॒ दिव॑मु॒त्पत॑न्तम्।  
-अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥१॥
+अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/01_hariH_suparNo.md">
@@ -74,7 +76,7 @@ A Golden Eagle thou hast soared with light to heaven. Those who would harm thee 
 </details>
 <details><summary>पदपाठः</summary>
 
-हरिः। सुऽपर्णः। दिवम्। आ। अरुहः। अर्चिषा। ये। त्वा। दिप्सन्ति। दिवम्। उत्ऽपतन्तम्। अव। तान्। जहि। हरसा। जातऽवेदः। अबिभ्यत्। उग्रः। अर्चिषा। दिवम्। आ। रोह। सूर्य। ६५.१।
+हरिः॑। सु॒ऽप॒र्णः। दिव॑म्। आ। अ॒रु॒हः॒। अ॒र्चिषा॑। ये। त्वा॒। दिप्स॑न्ति। दिव॑म्। उ॒त्ऽपत॑न्तम्। अव॑। तान्। ज॒हि॒। हर॑सा। जा॒त॒ऽवे॒दः॒। अबि॑भ्यत्। उ॒ग्रः। अ॒र्चिषा॑। दिव॑म्। आ। रो॒ह॒। सू॒र्य॒। ६५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

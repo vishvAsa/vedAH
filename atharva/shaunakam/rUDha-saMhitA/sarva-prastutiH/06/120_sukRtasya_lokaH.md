@@ -33,13 +33,16 @@ Translated: Ludwig, p. 442; Grill, 72, 173; Griffith, i. 311; Bloomfield, 165, 5
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒न्तरि॑क्षं पृथि॒वीमु॒त द्यां यन्मा॒तरं॑ पि॒तरं॑ वा जिहिंसि॒म।  
-अ॒यं तस्मा॒द् गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्॥१॥  
+अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद॒न्तरि॑क्षं पृथि॒वीमु॒त द्यां यन्मा॒तरं॑ पि॒तरं॑ वा जिहिंसि॒म। अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+यद॒न्तरि॑क्षं पृथि॒वीमु॒त द्यां यन्मा॒तरं॑ पि॒तरं॑ वा जिहिंसि॒म।  
+अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
@@ -65,7 +68,7 @@ If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or ou
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अन्तरिक्षम्। ‍पृथिवीम्। उत। द्याम्। यत्। मातरम्। पितरम्। वा। जिहिंसिम। अयम्। तस्मात्। गार्हऽपत्यः। नः। अग्निः। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। १२०.१।
+यत्। अ॒न्तरि॑क्षम्। ‍पृ॒थि॒वीम्। उ॒त॒। द्याम्। यत्। मा॒तर॑म्। पि॒तर॑म्। वा॒। जि॒हिं॒सि॒म। अ॒यम्। तस्मा॑त्। गार्ह॑ऽपत्यः। नः॒। अ॒ग्निः। उत्। इत्। न॒या॒ति॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। १२०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or ou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः ।  
-द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात्॥२॥  
+भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः।  
+द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः। द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात् ॥
+भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः।  
+द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
@@ -137,7 +143,7 @@ Earth is our Mother, Aditi our birth-place: our brother Air save us from impreca
 </details>
 <details><summary>पदपाठः</summary>
 
-भूमिः। माता। अदितिः। नः। जन‍ित्रम्। भ्रता। अन्तरिक्षम्। अभिऽशस्त्या। नः। द्यौः। नः। पिता। पित्र्यात्। शम्। भवाति। जामिम्। ऋत्वा। मा। अव। पत्सि। लोकात्। १२०.२।
+भूमिः॑। मा॒ता। अदि॑तिः। नः॒। ज॒न‍ित्र॑म्। भ्रता॑। अ॒न्तरि॑क्षम्। अ॒भिऽश॑स्त्या। नः॒। द्यौः। नः॒। पि॒ता। पित्र्या॑त्। शम्। भ॒वा॒ति॒। जा॒मिम्। ऋ॒त्वा। मा। अव॑। प॒त्सि॒। लो॒कात्। १२०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Earth is our Mother, Aditi our birth-place: our brother Air save us from impreca
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः॑१ स्वायाः॑ ।  
-अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान्॥३॥
+यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
+अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः स्वायाः॑। अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान् ॥
+यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
+अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
@@ -202,7 +211,7 @@ There where our virtuous friends, who left behind them their bodily infirmities,
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। सुऽहार्दः। सुऽकृतः। मदन्ति। विऽहाय। रोगम्। तन्वः᳡। स्वायाः। अश्लोणाः। अङ्गैः। अह्रुताः। स्वःऽगे। तत्र। पश्येम। पितरौ। च। पुत्रान्। १२०.३।
+यत्र॑। सु॒ऽहार्दः॑। सु॒ऽकृतः॑। मद॑न्ति। वि॒ऽहाय॑। रोग॑म्। त॒न्वः᳡। स्वायाः॑। अश्लो॑णाः। अङ्गैः॑। अह्रु॑ताः। स्वः॒ऽगे। तत्र॑। प॒श्ये॒म॒। पि॒तरौ॑। च॒। पु॒त्रान्। १२०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to secure a husband for a marriageable girl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ नो॑ अग्ने सुम॒तिं सं॑भ॒लो ग॑मेदि॒मां कु॑मा॒रीं स॒ह नो॒ भगे॑न ।  
-जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै॥१॥  
+आ नो॑ अग्ने सुम॒तिं सं॑भ॒लो ग॑मेदि॒मां कु॑मा॒रीं स॒ह नो॒ भगे॑न।  
+जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/01_A_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ नो॑ अग्ने सुम॒तिं सं॑भ॒लो ग॑मेदि॒मां कु॑मा॒रीं स॒ह नो॒ भगे॑न। जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै ॥
+आ नो॑ अग्ने सुम॒तिं सं॑भ॒लो ग॑मेदि॒मां कु॑मा॒रीं स॒ह नो॒ भगे॑न।  
+जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/01_A_no.md">
@@ -74,7 +77,7 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। नः। अग्ने। सुऽमतिम्। सम्ऽभलः। गमेत्। इमाम्। कुमारीम्। सह। नः। भगेन। जुष्टा। वरेषु। समनेषु। वल्गुः। ओषम्‌। पत्या। सौभगम्। अस्तु। अस्यै। ३६.१।
+आ। नः॒। अ॒ग्ने॒। सु॒ऽम॒तिम्। स॒म्ऽभ॒लः। ग॒मे॒त्। इ॒माम्। कु॒मा॒रीम्। स॒ह। नः॒। भगे॑न। जु॒ष्टा। व॒रेषु॑। सम॑नेषु। व॒ल्गुः। ओ॒षम्‌। पत्या॑। सौभ॑गम्। अ॒स्तु॒। अ॒स्यै। ३६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -106,13 +109,16 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोम॑जुष्टं॒ ब्रह्म॑जुष्टमर्य॒म्णा संभृ॑तं॒ भग॑म्।  
-धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम्॥२॥  
+धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोम॑जुष्टं॒ ब्रह्म॑जुष्टमर्य॒म्णा संभृ॑तं॒ भग॑म्। धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम् ॥
+सोम॑जुष्टं॒ ब्रह्म॑जुष्टमर्य॒म्णा संभृ॑तं॒ भग॑म्।  
+धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
@@ -144,7 +150,7 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमऽजुष्टम्। ब्रह्मऽजुष्टम्। अर्यम्णा। सम्ऽभृतम्। भगम्। धातुः। देवस्‍य। सत्येन। कृणोमि। पतिऽवेदनम्। ३६.२।
+सोम॑ऽजुष्टम्। ब्रह्म॑ऽजुष्टम्। अ॒र्य॒म्णा। सम्ऽभृ॑तम्। भग॑म्। धा॒तुः। दे॒वस्‍य॑। स॒त्येन॑। कृ॒णोमि॑। प॒ति॒ऽवेद॑नम्। ३६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -175,14 +181,17 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/03_iyamagne_nArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑ ।  
-सुवा॑ना पु॒त्रान् महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥३॥  
+इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑।  
+सुवा॑ना पु॒त्रान्महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/03_iyamagne_nArI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑। सुवा॑ना पु॒त्रान्महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥
+इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑।  
+सुवा॑ना पु॒त्रान्महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/03_iyamagne_nArI.md">
@@ -214,7 +223,7 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 </details>
 <details><summary>पदपाठः</summary>
 
-इयम्। अग्ने। नारी। पतिम्। विदेष्ट। सोमः। हि। राजा। सुऽभगाम्। कृणोति। सुवाना। पुत्रान्। महिषी। भवाति। गत्वा। पतिम्। सुऽभगा। वि। राजतु। ३६.३।
+इ॒यम्। अ॒ग्ने॒। नारी॑। पति॑म्। वि॒दे॒ष्ट॒। सोमः॑। हि। राजा॑। सु॒ऽभगा॑म्। कृ॒णोति॑। सुवा॑ना। पु॒त्रान्। महि॑षी। भ॒वा॒ति॒। ग॒त्वा। पति॑म्। सु॒ऽभगा॑। वि। रा॒ज॒तु॒। ३६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -245,14 +254,17 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑ ।  
-ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥४॥  
+यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑।  
+ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑। ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥
+यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑।  
+ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
@@ -293,7 +305,7 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। आऽखरः। मघऽवन्। चारुः। एषः। प्रियः। मृगाणाम्। सुऽसदाः। बभूव। एव। भगस्य। जुष्टा। इयम्। अस्तु। नारी। सम्ऽप्रिया। पत्या। अविऽराधयन्ती। ३६.४।
+यथा॑। आ॒ऽख॒रः। म॒घ॒ऽव॒न्। चारुः॑। ए॒षः। प्रि॒यः। मृ॒गाणा॑म्। सु॒ऽसदाः॑। ब॒भूव॑। ए॒व। भग॑स्य। जु॒ष्टा। इ॒यम्। अ॒स्तु॒। नारी॑। सम्ऽप्रि॑या। पत्या॑। अवि॑ऽराधयन्ती। ३६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -325,13 +337,16 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भग॑स्य॒ नाव॒मा रो॑ह पू॒र्णामनु॑पदस्वतीम्।  
-तयो॑पप्रता॑रय॒ यो वरः प्र॑तिका॒म्यः ॥५॥  
+तयो॑प॒प्रता॑रय॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भग॑स्य॒ नाव॒मा रो॑ह पू॒र्णामनु॑पदस्वतीम्। तयो॑प॒प्रता॑रय॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
+भग॑स्य॒ नाव॒मा रो॑ह पू॒र्णामनु॑पदस्वतीम्।  
+तयो॑प॒प्रता॑रय॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/05_bhagasya_nAvamA.md">
@@ -355,7 +370,7 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 </details>
 <details><summary>पदपाठः</summary>
 
-भगस्य। नावम्। आ। रोह। पूर्णाम्। अनुपऽदस्वतीम्। तया। उपऽप्रतारय। यः। वरः। प्रतिऽकाम्यः᳡। ३६.५।
+भग॑स्य। नाव॑म्। आ। रो॒ह॒। पू॒र्णाम्। अनु॑पऽदस्वतीम्। तया॑। उ॒प॒ऽप्रता॑रय। यः। व॒रः। प्र॒ति॒ऽका॒म्यः᳡। ३६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -386,14 +401,17 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/06_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु ।  
-सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः ॥६॥  
+आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु।  
+सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/06_A_krandaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु। सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
+आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु।  
+सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/06_A_krandaya.md">
@@ -417,7 +435,7 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। क्रन्दय। धनऽपते। वरम्। आऽमनसम्। कृणु। सर्वम्। प्रऽदक्षिणम्। कृणु। यः। वरः। प्रतिऽकाम्यः᳡। ३६.६।
+आ। क्र॒न्द॒य॒। ध॒न॒ऽप॒ते॒। व॒रम्। आऽम॑नसम्। कृ॒णु॒। सर्व॑म्। प्र॒ऽद॒क्षि॒णम्। कृ॒णु॒। यः। व॒रः। प्र॒ति॒ऽका॒म्यः᳡। ३६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -448,14 +466,17 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अथो॒ भगः॑ ।  
-ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥७  
+इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अ॑थो॒ भगः॑।  
+ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अ॑थो॒ भगः॑। ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥
+इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अ॑थो॒ भगः॑।  
+ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/07_idaM_hiraNyam.md">
@@ -490,7 +511,7 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। हिरण्यम्। गुल्गुलु। अयम्। औक्षः। अथो इति। भगः। एते। पतिभ्यः। त्वाम्। अदुः। प्रतिऽकामाय। वेत्तवे। ३६.७।
+इ॒दम्। हिर॑ण्यम्। गुल्गु॑लु। अ॒यम्। औ॒क्षः। अथो॒ इति॑। भगः॑। ए॒ते। पति॑भ्यः। त्वाम्। अ॒दुः॒। प्र॒ति॒ऽका॒माय॑। वेत्त॑वे। ३६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -521,14 +542,17 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/08_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः ।  
-त्वम॑स्यै धेह्योषधे ॥८॥
+आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः॑।  
+त्वम॑स्यै धेहि ओषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/08_A_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः॑। त्वम॑स्यै धेहि ओषधे ॥
+आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः॑।  
+त्वम॑स्यै धेहि ओषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/08_A_te.md">
@@ -560,7 +584,7 @@ May Savitar lead and bring to thee the husband whom thy heart desires. O Plant, 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। ते। नयतु। सविता। नयतु। पतिः। यः। प्रतिऽकाम्यः᳡। त्वम्। अस्यै। धेहि। ओषधे। ३६.८।
+आ। ते॒। न॒य॒तु॒। स॒वि॒ता। न॒य॒तु॒। पतिः॑। यः। प्र॒ति॒ऽका॒म्यः᳡। त्वम्। अ॒स्यै॒। धे॒हि॒। ओ॒ष॒धे॒। ३६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

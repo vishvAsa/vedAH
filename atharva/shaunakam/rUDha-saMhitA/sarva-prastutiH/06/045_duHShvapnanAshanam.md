@@ -36,14 +36,17 @@ A prayer for preservation from mental sin and evil promptings
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि ।  
-परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॑ गोषु॑ मे॒ मनः॑ ॥१॥  
+प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि।  
+परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि। परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
+प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि।  
+परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
@@ -69,7 +72,7 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 </details>
 <details><summary>पदपाठः</summary>
 
-परः। अप। इहि। मनःऽपाप। किम्। अशस्तानि। शंससि। परा। इहि। न। त्वा। कामये। वृक्षान्। वनानि। सम्। चर। गृहेषु। गोषु। मे। मनः। ४५.१।
+प॒रः। अप॑। इ॒हि॒। म॒नः॒ऽपा॒प॒। किम्। अश॑स्तानि। शं॒स॒सि॒। परा॑। इ॒हि॒। न। त्वा॒। का॒म॒ये॒। वृ॒क्षान्। वना॑नि। सम्। च॒र॒। गृ॒हेषु॑। गोषु॑। मे॒। मनः॑। ४५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒व॒शसा॑ निः॒शसा॒ यत् प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत् स्व॒पन्तः॑ ।  
-अ॒ग्निर्वि॑श्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद् द॑धातु ॥२॥  
+अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
+अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑। अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
+अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
+अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
@@ -140,7 +146,7 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 </details>
 <details><summary>पदपाठः</summary>
 
-अवऽशसा। निःऽशसा। यत्। पराऽशसा। उपऽआरिम। जाग्रतः। यत्। स्वपन्तः। अग्निः। विश्वानि। अप। दुःऽकृतानि। अजुष्टानि। आरे। अस्मत्। दधातु। ४५.२।
+अ॒व॒ऽशसा॑। निः॒ऽशसा॑। यत्। प॒रा॒ऽशसा॑। उ॒प॒ऽआ॒रि॒म। जाग्र॑तः। यत्। स्व॒पन्तः॑। अ॒ग्निः। विश्वा॑नि। अप॑। दुः॒ऽकृ॒तानि॑। अजु॑ष्टानि। आ॒रे। अ॒स्मत्। द॒धा॒तु॒। ४५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,14 +177,17 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि ।  
-प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात् पा॒त्वंह॑सः ॥३॥
+यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि।  
+प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि। प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
+यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि।  
+प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
@@ -204,7 +213,7 @@ Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa p
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। इन्द्र। ब्रह्मणः। पते। अपि। मृषा। चरामसि। प्रऽचेताः। नः। अङ्गिरसः। दुःऽइतात्। पातु। अंहसः। ४५.३।
+यत्। इ॒न्द्र॒। ब्र॒ह्म॒णः॒। प॒ते॒। अपि॑। मृषा॑। चरा॑मसि। प्रऽचे॑ताः। नः॒। अ॒ङ्गि॒र॒सः॒। दुः॒ऽइ॒तात्। पा॒तु॒। अंह॑सः। ४५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

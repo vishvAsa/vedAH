@@ -35,14 +35,17 @@ A prayer for Brihaspati's and Indra's protection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
-इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः॒ कृणोतु ॥१॥
+बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः।  
+इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः। इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः कृणोतु ॥
+बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः।  
+इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः कृणोतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
@@ -71,7 +74,7 @@ Brihaspati protect us from the sinner, from rearward, from above, and from below
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिः। नः। परि। पातु। पश्चात्। उत। उत्ऽतरस्मान्। अधरात्। अघऽयोः। इन्द्रः। पुरस्तात्। उत। मध्यतः। नः। सखा। सखिऽभ्यः। वरीयः। कृणोतु। ५३.१।
+बृह॒स्पतिः॑। नः॒। परि॑। पा॒तु॒। प॒श्चात्। उ॒त। उत्ऽत॑रस्मान्। अध॑रात्। अ॒घ॒ऽयोः। इन्द्रः॑। पु॒रस्ता॑त्। उ॒त। म॒ध्य॒तः। नः॒। सखा॑। सखि॑ऽभ्यः। वरी॑यः। कृ॒णो॒तु॒। ५३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

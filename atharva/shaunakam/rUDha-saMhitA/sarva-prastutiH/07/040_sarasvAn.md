@@ -36,14 +36,17 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/01_yasya_vratam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॑ व्र॒तं प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒त उ॑प॒तिष्ठ॑न्त॒ आपः॑ ।  
-यस्य॑ व्र॒ते पु॑ष्ट॒पति॒र्निवि॑ष्ट॒स्तं सर॑स्वन्त॒मव॑से हवामहे ॥१॥  
+यस्य॑ व्र॒तं प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒त उ॑पतिष्ठन्त॒ आपः॑।  
+यस्य॑ व्र॒ते पु॑ष्ट॒पति॒र्निवि॑ष्ट॒स्तं सर॑स्वन्त॒मव॑से हवामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/01_yasya_vratam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्य॑ व्र॒तं प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒त उ॑पतिष्ठन्त॒ आपः॑। यस्य॑ व्र॒ते पु॑ष्ट॒पति॒र्निवि॑ष्ट॒स्तं सर॑स्वन्त॒मव॑से हवामहे ॥
+यस्य॑ व्र॒तं प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒त उ॑पतिष्ठन्त॒ आपः॑।  
+यस्य॑ व्र॒ते पु॑ष्ट॒पति॒र्निवि॑ष्ट॒स्तं सर॑स्वन्त॒मव॑से हवामहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/01_yasya_vratam.md">
@@ -69,7 +72,7 @@ We call Sarasvan, under whose protection all cattle wander, to preserve and aid 
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। व्रतम्। पशवः। यन्ति। सर्वे। यस्य। व्रते। उपऽतिष्ठन्ते। आपः। यस्य। व्रते। पुष्टऽपतिः। निऽविष्टः। तम्। सरस्वन्तम्। अवसे। हवामहे। ४१.१।
+यस्य॑। व्र॒तम्। प॒शवः॑। यन्ति॑। सर्वे॑। यस्य॑। व्र॒ते। उ॒प॒ऽतिष्ठ॑न्ते। आपः॑। यस्य॑। व्र॒ते। पु॒ष्ट॒ऽपतिः॑। निऽवि॑ष्टः। तम्। सर॑स्वन्तम्। अव॑से। ह॒वा॒म॒हे॒। ४१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +104,16 @@ We call Sarasvan, under whose protection all cattle wander, to preserve and aid 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ प्र॒त्यञ्चं॑ दा॒शुषे॑ दा॒श्वंसं॒ सर॑स्वन्तं पुष्ट॒पतिं॑ रयि॒ष्ठाम्।  
-रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हुवेम॒ सद॑नं रयी॒णाम्॥२॥
+रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हु॑वेम सद॑नं रयी॒णाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/02_A_pratyancham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ प्र॒त्यञ्चं॑ दा॒शुषे॑ दा॒श्वंसं॒ सर॑स्वन्तं पुष्ट॒पतिं॑ रयि॒ष्ठाम्। रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हु॑वेम सद॑नं रयी॒णाम् ॥
+आ प्र॒त्यञ्चं॑ दा॒शुषे॑ दा॒श्वंसं॒ सर॑स्वन्तं पुष्ट॒पतिं॑ रयि॒ष्ठाम्।  
+रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हु॑वेम सद॑नं रयी॒णाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/02_A_pratyancham.md">
@@ -134,7 +140,7 @@ Abiding here let us invoke Sarasvan, the seat of riches, glorious, wealth-increa
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। प्रत्यञ्चम्। दाशुषे। दाश्वंसम्। सरस्वन्तम्। पुष्टऽपतिम्। रयिऽस्थाम्। रायः। पोषम्। श्रवस्युम्। वसानाः। इह। हुवेम। सदनम्। रयीणाम्। ४१.२।
+आ। प्र॒त्यञ्च॑म्। दा॒शुषे॑। दा॒श्वंस॑म्। सर॑स्वन्तम्। पु॒ष्ट॒ऽपति॑म्। र॒यि॒ऽस्थाम्। रा॒यः। पोष॑म्। श्र॒व॒स्युम्। वसा॑नाः। इ॒ह। हु॒वे॒म॒। सद॑नम्। र॒यी॒णाम्। ४१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

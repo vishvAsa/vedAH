@@ -32,14 +32,17 @@ Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो न॑स्ता॒यद् दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने ।  
-प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान् मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम्॥१॥  
+यो न॑स्ता॒यद्दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने।  
+प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान्मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो न॑स्ता॒यद्दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने। प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान्मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम् ॥
+यो न॑स्ता॒यद्दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने।  
+प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान्मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
@@ -75,7 +78,7 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। तायत्। दिप्सति। यः। नः। आविः। स्वः। विद्वान्। अरणः। वा। नः। अग्ने। प्रतीची। एतु। अरणी। दत्वती। तान्। मा। एषाम्। अग्ने। वास्तु। भूत्। मो इति। अपत्यम्। ११३.१।
+यः। नः॒। ता॒यत्। दिप्स॑ति। यः। नः॒। आ॒विः। स्वः। वि॒द्वान्। अर॑णः। वा॒। नः॒। अ॒ग्ने॒। प्र॒तीची॑। ए॒तु॒। अर॑णी। द॒त्वती॑। तान्। मा। ए॒षा॒म्। अ॒ग्ने॒। वास्तु॑। भू॒त्। मो इति॑। अप॑त्यम्। ११३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -106,14 +109,17 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ सु॒प्ता॑न् जाग्र॑तो वाभि॒दासा॒त् तिष्ठ॑तो वा॒ चर॑तो जातवेदः ।  
-वै॒श्वा॒न॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान् प्र॒तीचो॒ निर्द॑ह जातवेदः ॥२॥
+यो नः॑ सु॒प्ताञ्जाग्र॑तो वाभि॒दासा॒त्तिष्ठ॑तो वा॒ चर॑तो जातवेदः।  
+वै॑श्वान॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान्प्र॒तीचो॒ निर्द॑ह जातवेदः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/02_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॑ सु॒प्ताञ्जाग्र॑तो वाभि॒दासा॒त्तिष्ठ॑तो वा॒ चर॑तो जातवेदः। वै॑श्वान॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान्प्र॒तीचो॒ निर्द॑ह जातवेदः ॥
+यो नः॑ सु॒प्ताञ्जाग्र॑तो वाभि॒दासा॒त्तिष्ठ॑तो वा॒ चर॑तो जातवेदः।  
+वै॑श्वान॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान्प्र॒तीचो॒ निर्द॑ह जातवेदः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/02_yo_naH.md">
@@ -136,7 +142,7 @@ Whoso oppresseth us O Jatavedas, asleep or waking, standing still or moving. Acc
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। सुप्तान्। जाग्रतः। वा। अभिऽदासात्। तिष्ठतः। वा। चरतः। जातऽवेदः। वैश्वानरेण। सऽयुजा। सऽजोषाः। तान्। प्रतीचः। निः। दह। जातऽवेदः। ११३.२।
+यः। नः॒। सु॒प्तान्। जाग्र॑तः। वा॒। अ॒भि॒ऽदासा॑त्। तिष्ठ॑तः। वा॒। चर॑तः। जा॒त॒ऽवे॒दः॒। वै॒श्वा॒न॒रेण॑। स॒ऽयुजा॑। स॒ऽजोषाः॑। तान्। प्र॒तीचः॑। निः। द॒ह॒। जा॒त॒ऽवे॒दः॒। ११३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

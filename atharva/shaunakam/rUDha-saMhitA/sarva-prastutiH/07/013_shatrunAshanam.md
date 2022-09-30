@@ -37,13 +37,16 @@ A charm to win superiority over foes and rivals
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सूर्यो॒ नक्ष॑त्राणामु॒द्यंस्तेजां॑स्याद॒दे।  
-ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥१॥  
+ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/01_yathA_sUryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ सूर्यो॒ नक्ष॑त्राणामु॒द्यंस्तेजां॑स्याद॒दे। ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥
+यथा॒ सूर्यो॒ नक्ष॑त्राणामु॒द्यंस्तेजां॑स्याद॒दे।  
+ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/01_yathA_sUryo.md">
@@ -63,7 +66,7 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। सूर्यः। नक्षत्राणाम्। उत्ऽयन्। तेजांसि। आऽददे। एव। स्त्रीणाम्। च। पुंसाम्। च। द्विषताम्। वर्चः। आ। ददे। १४.१।
+यथा॑। सूर्यः॑। नक्ष॑त्राणाम्। उ॒त्ऽयन्। तेजां॑सि। आ॒ऽद॒दे। ए॒व। स्त्री॒णाम्। च॒। पुं॒साम्। च॒। द्वि॒ष॒ताम्। वर्चः॑। आ। द॒दे॒। १४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,14 +97,17 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याव॑न्तो मा स॒पत्ना॑नामा॒यन्तं॑ प्रति॒पश्य॑थ ।  
-उ॒द्यन्त्सूर्य॑ इव सु॒प्तानां॑ द्विष॒तां वर्च॒ आ द॑दे ॥२॥
+याव॑न्तो मा स॒पत्ना॑नामा॒यन्तं॑ प्रति॒पश्य॑थ।  
+उ॒द्यन्त्सूर्य॑ इव सु॒प्तानां॑ द्विष॒तां वर्च॒ आ द॑दे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-याव॑न्तो मा स॒पत्ना॑नामा॒यन्तं॑ प्रति॒पश्य॑थ। उ॒द्यन्त्सूर्य॑ इव सु॒प्तानां॑ द्विष॒तां वर्च॒ आ द॑दे ॥
+याव॑न्तो मा स॒पत्ना॑नामा॒यन्तं॑ प्रति॒पश्य॑थ।  
+उ॒द्यन्त्सूर्य॑ इव सु॒प्तानां॑ द्विष॒तां वर्च॒ आ द॑दे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/02_yAvanto_mA.md">
@@ -130,7 +136,7 @@ thus approving the division made in our edition.
 </details>
 <details><summary>पदपाठः</summary>
 
-यावन्तः। मा। सऽपत्नानाम्। आऽयन्तम्। प्रतिऽपश्यथ। उत्ऽयन्। सूर्यःऽइव। सुप्तानाम्। द्विषताम्। वर्चः। आ। ददे। १४.२।
+याव॑न्तः। मा॒। स॒ऽपत्ना॑नाम्। आ॒ऽयन्त॑म्। प्र॒ति॒ऽपश्य॑थ। उ॒त्ऽयन्। सूर्यः॑ऽइव। सु॒प्ताना॑म्। द्वि॒ष॒ताम्। वर्चः॑। आ। द॒दे॒। १४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

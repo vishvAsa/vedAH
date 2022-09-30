@@ -32,23 +32,25 @@ A prayer, with sacrifice, for long life and prosperity
 </details>
 </details>
 </div>
-## ०१ उत् तिष्ठ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_ut_tiShTha.md">
+## ०१ उत्तिष्ठ ब्रह्मणस्पते
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत् ति॑ष्ठ ब्रह्मणस्पते दे॒वान् य॒ज्ञेन॑ बोधय ।  
-आयुः॑ प्रा॒णं प्र॒जां प॒शून् की॒र्तिं यज॑मानं च वर्धय ॥१॥
+उत्ति॑ष्ठ ब्रह्मणस्पते दे॒वान्य॒ज्ञेन॑ बोधय।  
+आयुः॑ प्रा॒णं प्र॒जां प॒शून्की॒र्तिं यज॑मानं च वर्धय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/063_Ayurvardhanam/01_ut_tiShTha.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत् ति॑ष्ठ ब्रह्मणस्पते दे॒वान् य॒ज्ञेन॑ बोधय ।  
-आयुः॑ प्रा॒णं प्र॒जां प॒शून् की॒र्तिं यज॑मानं च वर्धय ॥१॥
+उत्ति॑ष्ठ ब्रह्मणस्पते दे॒वान्य॒ज्ञेन॑ बोधय।  
+आयुः॑ प्रा॒णं प्र॒जां प॒शून्की॒र्तिं यज॑मानं च वर्धय ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/01_ut_tiShTha.md">
-<details open><summary><h3>०१ उत् तिष्ठ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
+<details open><summary><h3>०१ उत्तिष्ठ ब्रह्मणस्पते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -69,7 +71,7 @@ Rise up, O Brahmanaspati; awake the Gods with sacrifice. Strengthen the Sacrific
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। तिष्ठ। ब्रह्मणः। पते। देवान्। यज्ञेन। बोधय। आयुः। प्राणम्। प्रऽजाम्। पशून्। कीर्तिम्। यजमानम्। च। वर्धय। ६३.१।
+उत्। ति॒ष्ठ॒। ब्र॒ह्म॒णः॒। प॒ते॒। दे॒वान्। य॒ज्ञेन॑। बो॒ध॒य॒। आयुः॑। प्रा॒णम्। प्र॒ऽजाम्। प॒शून्। की॒र्तिम्। यज॑मानम्। च॒। व॒र्ध॒य॒। ६३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

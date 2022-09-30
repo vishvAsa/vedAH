@@ -32,14 +32,17 @@ Translated: Henry, 37, 108; Griffith, i. 374.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः ।  
-बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥१॥
+इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः।  
+बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः। बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
+इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः।  
+बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/091_sutrAmA_indraH/01_indraH_sutrAmA.md">
@@ -65,7 +68,7 @@ May Indra with his help, Lord of all treasures, be unto us a careful protector. 
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। सुऽत्रामा। स्वऽवान्। अवःऽभिः। सुऽमृडीकः। भवतु। विश्वऽवेदाः। बाधताम्। द्वेषः। अभयम्। नः। कृणोतु। सुऽवीर्यस्य। पतयः। स्याम। ९६.१।
+इन्द्रः॑। सु॒ऽत्रामा॑। स्वऽवा॑न्। अवः॑ऽभिः। सु॒ऽमृ॒डी॒कः। भ॒व॒तु॒। वि॒श्वऽवे॑दाः। बाध॑ताम्। द्वेषः॑। अभ॑यम्। नः॒। कृ॒णो॒तु॒। सु॒ऽवीर्य॑स्य। पत॑यः। स्या॒म॒। ९६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

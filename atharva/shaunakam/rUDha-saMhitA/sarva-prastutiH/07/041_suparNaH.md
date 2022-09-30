@@ -36,14 +36,17 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः ।  
-तर॒न् विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात्॥१॥  
+अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः।  
+तर॒न्विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः। तर॒न्विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात् ॥
+अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः।  
+तर॒न्विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
@@ -66,7 +69,7 @@ Observing men, and viewing home, the Falcon hath cleft his swift way over wastes
 </details>
 <details><summary>पदपाठः</summary>
 
-अति। धन्वानि। अति। अपः। ततर्द। श्येनः। नृऽचक्षाः। अवसानऽदर्शः। तरन्। विश्वानि। अवरा। रजांसि। इन्द्रेण। सख्या। शिवः। आ। जगम्यात्। ४२.१।
+अति॑। धन्वा॑नि। अति॑। अ॒पः। त॒त॒र्द॒। श्ये॒नः। नृ॒ऽचक्षाः॑। अ॒व॒सा॒न॒ऽद॒र्शः। तर॑न्। विश्वा॑नि। अव॑रा। रजां॑सि। इन्द्रे॑ण। सख्या॑। शि॒वः। आ। ज॒ग॒म्या॒त्। ४२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Observing men, and viewing home, the Falcon hath cleft his swift way over wastes
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः ।  
-स नो॒ नि य॑च्छाद् वसु॒ यत् परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त्॥२॥
+श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः।  
+स नो॒ नि य॑च्छा॒द्वसु॒ यत्परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः। स नो॒ नि य॑च्छा॒द्वसु॒ यत्परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त् ॥
+श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः।  
+स नो॒ नि य॑च्छा॒द्वसु॒ यत्परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/02_shyeno_nRchaxA.md">
@@ -127,7 +133,7 @@ The heavenly Falcon, viewing men, well-pinioned, strength-giver, hundred-footed,
 </details>
 <details><summary>पदपाठः</summary>
 
-श्येनः। नृऽचक्षाः। दिव्यः। सुऽपर्णः। सहस्रऽपात्। शतऽयोनिः। वयःऽधाः। स। नः। नि। यच्छात्। वसु। यत्। पराऽभृतम्। अस्माकम्। अस्तु। पितृषु। स्वधाऽवत्। ४२.२।
+श्ये॒नः। नृ॒ऽचक्षाः॑। दि॒व्यः। सु॒ऽप॒र्णः। स॒हस्र॑ऽपात्। श॒तऽयो॑निः। व॒यः॒ऽधाः। स। नः॒। नि। य॒च्छा॒त्। वसु॑। यत्। परा॑ऽभृतम्। अ॒स्माक॑म्। अ॒स्तु॒। पि॒तृषु॑। स्व॒धाऽव॑त्। ४२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

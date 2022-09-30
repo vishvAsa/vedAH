@@ -36,13 +36,17 @@ A prayer for protection, guidance, and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/01_Are3-sAvasmadastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒रे॒३साव॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्। आ॒रे अश्मा॒ यमस्य॑थ ॥१॥  
+आ॒रे॑३ ऽसा॑व॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्।  
+आ॒रे अश्मा॒ यमस्य॑थ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/01_Are3-sAvasmadastu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒रे॑३ ऽसा॑व॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्। आ॒रे अश्मा॒ यमस्य॑थ ॥
+आ॒रे॑३ ऽसा॑व॒स्मद॑स्तु हे॒तिर्दे॑वासो असत्।  
+आ॒रे अश्मा॒ यमस्य॑थ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/026_sharmaprAptiH/01_Are3-sAvasmadastu.md">
@@ -68,7 +72,7 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 </details>
 <details><summary>पदपाठः</summary>
 
-आरे। असौ। अस्मत्। अस्तु। हेतिः। देवासः। असत्। आरे। अश्मा। यम्। अस्यथ।
+आ॒रे। अ॒सौ। अ॒स्मत्। अ॒स्तु। हे॒तिः। दे॒वा॒सः॒। अ॒स॒त्। आ॒रे। अश्मा॑। यम्। अस्य॑थ। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,13 +103,17 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सखा॒साव॒स्मभ्य॑मस्तु रा॒तिः सखेन्द्रो॒ भगः॑ सवि॒ता चि॒त्ररा॑धाः ॥२॥  
+सखा॒साव॒स्मभ्य॑मस्तु रा॒तिः सखेन्द्रो॒ भगः॑।  
+स॑वि॒ता चि॒त्ररा॑धाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सखा॒साव॒स्मभ्य॑मस्तु रा॒तिः सखेन्द्रो॒ भगः॑। स॑वि॒ता चि॒त्ररा॑धाः ॥
+सखा॒साव॒स्मभ्य॑मस्तु रा॒तिः सखेन्द्रो॒ भगः॑।  
+स॑वि॒ता चि॒त्ररा॑धाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/026_sharmaprAptiH/02_sakhAsAvasmabhyamastu_rAtiH.md">
@@ -138,7 +146,7 @@ Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar 
 </details>
 <details><summary>पदपाठः</summary>
 
-सखा। असौ। अस्मभ्यम्। अस्तु। रातिः। सखा। इन्द्रः। भगः। सविता। चित्रऽराधाः।
+सखा॑। अ॒सौ। अ॒स्मभ्य॑म्। अ॒स्तु॒। रा॒तिः। सखा॑। इन्द्रः॑। भगः॑। स॒वि॒ता। चि॒त्रऽरा॑धाः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,13 +177,17 @@ Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/03_yUyaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यू॒यं नः॑ प्रवतो नपा॒न्मरु॑तः॒ सूर्य॑त्वचसः । शर्म॑ यच्छाथ स॒प्रथाः॑ ॥३॥  
+यू॒यं नः॑ प्रवतो नपा॒न्मरु॑तः॒ सूर्य॑त्वचसः।  
+शर्म॑ यच्छाथ स॒प्रथः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/03_yUyaM_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यू॒यं नः॑ प्रवतो नपा॒न्मरु॑तः॒ सूर्य॑त्वचसः। शर्म॑ यच्छाथ स॒प्रथः॑ ॥
+यू॒यं नः॑ प्रवतो नपा॒न्मरु॑तः॒ सूर्य॑त्वचसः।  
+शर्म॑ यच्छाथ स॒प्रथः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/026_sharmaprAptiH/03_yUyaM_naH.md">
@@ -198,7 +210,7 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 </details>
 <details><summary>पदपाठः</summary>
 
-यूयम्। नः। प्रऽवतः। नपात्। मरुतः। सूर्यऽत्वचसः। शर्म। यच्छाथ। सऽमथाः।
+यू॒यम्। नः॒। प्र॒ऽव॒तः॒। न॒पा॒त्। मरु॑तः। सूर्य॑ऽत्वचसः। शर्म॑। य॒च्छा॒थ॒। स॒ऽमथाः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,13 +241,15 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/026_sharmaprAptiH/04_suShUdata_mRData.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒षू॒दत॑ मृ॒डत॑ मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि॑॥४॥
+सु॑षू॒दत॑ मृ॒डत॑ मृ॒डया॑ नस्त॒नूभ्यो॑ मय॑स्तो॒केभ्य॑स्कृ॒धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/026_sharmaprAptiH/04_suShUdata_mRData.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सु॑षू॒दत॑ मृ॒डत॑ मृ॒डया॑ नस्त॒नूभ्यो॑ मय॑स्तो॒केभ्य॑स्कृ॒धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/026_sharmaprAptiH/04_suShUdata_mRData.md">
@@ -261,7 +275,7 @@ Further us rightly, favour ye our bodies with your gracious love. Give thou our 
 </details>
 <details><summary>पदपाठः</summary>
 
-सुसूदत। मृडत। मृडय। नः। तनूभ्यः। मयः। तोकेभ्यः। कृधि।
+सु॒सू॒दत॑। मृ॒डत॑। मृ॒डय॑। नः॒। त॒नूभ्यः॑। मयः॑। तो॒केभ्यः॑। कृ॒धि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

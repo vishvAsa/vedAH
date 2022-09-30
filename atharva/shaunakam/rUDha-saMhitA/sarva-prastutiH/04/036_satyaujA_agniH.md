@@ -36,14 +36,17 @@ A charm against fiends, human enemies, and other pests
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तान्त्स॒त्यौजाः॒ प्र द॑हत्व॒ग्निर्वै॑श्वान॒रोवृषा॑ ।  
-यो नो॑ दुर॒स्याद् दिप्सा॒च्चाथो॒ यो नो॑ अराति॒यात्॥१॥  
+तान्त्स॒त्यौजाः॒ प्र द॑हत्व॒ग्निर्वै॑श्वान॒रो वृषा॑।  
+यो नो॑ दुर॒स्याद्दिप्सा॒च्चाथो॒ यो नो॑ अराति॒यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तान्त्स॒त्यौजाः॒ प्र द॑हत्व॒ग्निर्वै॑श्वान॒रो वृषा॑। यो नो॑ दुर॒स्याद्दिप्सा॒च्चाथो॒ यो नो॑ अराति॒यात् ॥
+तान्त्स॒त्यौजाः॒ प्र द॑हत्व॒ग्निर्वै॑श्वान॒रो वृषा॑।  
+यो नो॑ दुर॒स्याद्दिप्सा॒च्चाथो॒ यो नो॑ अराति॒यात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
@@ -67,7 +70,7 @@ Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who
 </details>
 <details><summary>पदपाठः</summary>
 
-तान्। सत्यऽओजाः। प्र। दहतु। अग्निः। वैश्वानरः। वृषा। यः। नः। दुरस्यात्। दिप्सात्। च। अथो इति। यः। नः। अरातिऽयात्। ३६.१।
+तान्। स॒त्यऽओ॑जाः। प्र। द॒ह॒तु॒। अ॒ग्निः। वै॒श्वा॒न॒रः। वृषा॑। यः। नः॒। दु॒र॒स्यात्। दिप्सा॑त्। च॒। अथो॒ इति॑। यः। नः॒। अ॒रा॒ति॒ऽयात्। ३६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नो॒ दिप्स॒ददि॑प्सतो॒ दिप्स॑तो॒ यश्च॒ दिप्स॑ति ।  
-वै॒श्वा॒न॒रस्य॒ दंष्ट्र॑योर॒ग्नेरपि॑ दधामि॒ तम्॥२॥  
+यो नो॑ दि॒प्सददि॑प्सतो॒ दिप्स॑तो॒ यश्च॒ दिप्स॑ति।  
+वै॑श्वान॒रस्य॒ दंष्ट्र॑योर॒ग्नेरपि॑ दधामि॒ तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/02_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नो॑ दि॒प्सददि॑प्सतो॒ दिप्स॑तो॒ यश्च॒ दिप्स॑ति। वै॑श्वान॒रस्य॒ दंष्ट्र॑योर॒ग्नेरपि॑ दधामि॒ तम् ॥
+यो नो॑ दि॒प्सददि॑प्सतो॒ दिप्स॑तो॒ यश्च॒ दिप्स॑ति।  
+वै॑श्वान॒रस्य॒ दंष्ट्र॑योर॒ग्नेरपि॑ दधामि॒ तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/02_yo_no.md">
@@ -130,7 +136,7 @@ Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। दिप्सात्। अदिप्सतः। दिप्सतः। यः। च। दिप्सति। वैश्वानरस्य। दंष्ट्रयोः। अग्ने। अपि। दधामि। तम्। ३६.२।
+यः। नः॒। दिप्सा॑त्। अदि॑प्सतः। दिप्स॑तः। यः। च॒। दिप्स॑ति। वै॒श्वा॒न॒रस्य॑। दंष्ट्र॑योः। अ॒ग्ने। अपि॑। द॒धा॒मि॒। तम्। ३६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/03_ya_Agare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आ॑ग॒रे मृ॒गय॑न्ते प्रतिक्रो॒शेऽमावा॒स्ये।  
-क्र॒व्यादो॑ अ॒न्यान् दिप्स॑तः॒ सर्वां॒स्तान्त्सह॑सा सहे ॥३॥  
+य आ॑ग॒रे मृ॒गय॑न्ते प्रतिक्रो॒शेऽमा॑वा॒स्ये॑।  
+क्र॒व्यादो॑ अ॒न्यान्दिप्स॑तः॒ सर्वां॒स्तान्त्सह॑सा सहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/03_ya_Agare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य आ॑ग॒रे मृ॒गय॑न्ते प्रतिक्रो॒शेऽमा॑वा॒स्ये॑। क्र॒व्यादो॑ अ॒न्यान्दिप्स॑तः॒ सर्वां॒स्तान्त्सह॑सा सहे ॥
+य आ॑ग॒रे मृ॒गय॑न्ते प्रतिक्रो॒शेऽमा॑वा॒स्ये॑।  
+क्र॒व्यादो॑ अ॒न्यान्दिप्स॑तः॒ सर्वां॒स्तान्त्सह॑सा सहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/03_ya_Agare.md">
@@ -198,7 +207,7 @@ Those who, what time the moon is dark, hunt with loud cry and answering shout, F
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। आऽगरे। मृगयन्ते। प्रतिऽक्रोशे। अमाऽवास्ये᳡। क्रव्यऽअदः। अन्यान्। दिप्सतः। सर्वान्। तान्। सहसा। सहे। ३६.३।
+ये। आ॒ऽग॒रे। मृ॒गय॑न्ते। प्र॒ति॒ऽक्रो॒शे। अ॒मा॒ऽवा॒स्ये᳡। क्र॒व्य॒ऽअदः॑। अ॒न्यान्। दिप्स॑तः। सर्वा॑न्। तान्। सह॑सा। स॒हे॒। ३६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,14 +238,17 @@ Those who, what time the moon is dark, hunt with loud cry and answering shout, F
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सहे॑ पिशा॒चान्त्सह॑सैषां॒ द्रवि॑णं ददे ।  
-सर्वा॑न् दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृद्यताम्॥४॥  
+सहे॑ पिशा॒चान्त्सह॒सैषां॒ द्रवि॑णं ददे।  
+सर्वा॑न्दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृध्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सहे॑ पिशा॒चान्त्सह॒सैषां॒ द्रवि॑णं ददे। सर्वा॑न्दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृध्यताम् ॥
+सहे॑ पिशा॒चान्त्सह॒सैषां॒ द्रवि॑णं ददे।  
+सर्वा॑न्दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृध्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
@@ -263,7 +275,7 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 </details>
 <details><summary>पदपाठः</summary>
 
-सहे। पिशाचान्। सहसा। आ। एषाम्। द्रविणम्। ददे। सर्वान्। दुरस्यतः। हन्मि। सम्। मे। आऽकूतिः। ऋध्यताम्। ३६.४।
+सहे॑। पि॒शा॒चान्। सह॑सा। आ। ए॒षा॒म्। द्रवि॑णम्। द॒दे॒। सर्वा॑न्। दु॒र॒स्य॒तः। ह॒न्मि॒। सम्। मे॒। आऽकू॑तिः। ऋ॒ध्य॒ता॒म्। ३६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -295,13 +307,16 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॒वास्तेन॒ हास॑न्ते॒ सूर्ये॑ण मिमते ज॒वम्।  
-न॒दीषु॒ पर्व॑तेषु॒ ये सं तैः प॒शुभि॑र्विदे ॥५॥  
+न॒दीषु॒ पर्व॑तेषु॒ ये सं तैः प॒शुभि॑र्विदे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/05_ye_devAstena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये दे॒वास्तेन॒ हास॑न्ते॒ सूर्ये॑ण मिमते ज॒वम्। न॒दीषु॒ पर्व॑तेषु॒ ये सं तैः प॒शुभि॑र्विदे ॥
+ये दे॒वास्तेन॒ हास॑न्ते॒ सूर्ये॑ण मिमते ज॒वम्।  
+न॒दीषु॒ पर्व॑तेषु॒ ये सं तैः प॒शुभि॑र्विदे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/05_ye_devAstena.md">
@@ -331,7 +346,7 @@ With Gods who flee with him, and match their rapid motion with the Sun, I with t
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। देवाः। तेन। हासन्ते। सूर्येण। मिमते। जवम्। नदीषु। पर्वतेषु। ये। सम्। तैः। पशुऽभिः। विदे। ३६.५।
+ये। दे॒वाः। तेन॑। हास॑न्ते। सूर्ये॑ण। मि॒म॒ते॒। ज॒वम्। न॒दीषु॑। पर्व॑तेषु। ये। सम्। तैः। प॒शुऽभिः॑। वि॒दे॒। ३६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -362,14 +377,17 @@ With Gods who flee with him, and match their rapid motion with the Sun, I with t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/06_tapano_asmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तप॑नो अस्मि पिशा॒चानां॑ व्या॒घ्रो गोम॑तामिव ।  
-श्वानः॑ सिं॒हमि॑व दृ॒ष्ट्वा ते न वि॑न्दन्ते॒ न्यञ्च॑नम्॥६॥  
+तप॑नो अस्मि पिशा॒चानां॑ व्या॒घ्रो गोम॑तामिव।  
+श्वानः॑ सिं॒हमि॑व दृ॒ष्ट्वा ते न वि॑न्दन्ते॒ न्यञ्च॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/06_tapano_asmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तप॑नो अस्मि पिशा॒चानां॑ व्या॒घ्रो गोम॑तामिव। श्वानः॑ सिं॒हमि॑व दृ॒ष्ट्वा ते न वि॑न्दन्ते॒ न्यञ्च॑नम् ॥
+तप॑नो अस्मि पिशा॒चानां॑ व्या॒घ्रो गोम॑तामिव।  
+श्वानः॑ सिं॒हमि॑व दृ॒ष्ट्वा ते न वि॑न्दन्ते॒ न्यञ्च॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/06_tapano_asmi.md">
@@ -391,7 +409,7 @@ I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs
 </details>
 <details><summary>पदपाठः</summary>
 
-तपनः। अस्मि। पिशाचानाम्। व्याघ्रः। गोमताम्ऽइव। श्वानः। सिंहम्ऽइव। दृष्ट्वा। ते। न। विन्दन्ते। निऽअञ्चनम्। ३६.६।
+तप॑नः। अ॒स्मि॒। पि॒शा॒चाना॑म्। व्या॒घ्रः। गोम॑ताम्ऽइव। श्वानः॑। सिं॒हम्ऽइ॑व। दृ॒ष्ट्वा। ते। न। वि॒न्द॒न्ते॒। नि॒ऽअञ्च॑नम्। ३६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -422,14 +440,17 @@ I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न पि॑शा॒चैः सं श॑क्नोमि॒ न स्ते॒नैर्न व॑न॒र्गुभिः॑ ।  
-पि॒शा॒चास्तस्मा॑न्नश्यन्ति॒ यम॒हं ग्राम॑मावि॒शे॥७॥  
+न पि॑शा॒चैः सं श॑क्नोमि॒ न स्ते॒नैर्न व॑न॒र्गुभिः॑।  
+पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ यम॒हं ग्राम॑मावि॒शे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न पि॑शा॒चैः सं श॑क्नोमि॒ न स्ते॒नैर्न व॑न॒र्गुभिः॑। पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ यम॒हं ग्राम॑मावि॒शे ॥
+न पि॑शा॒चैः सं श॑क्नोमि॒ न स्ते॒नैर्न व॑न॒र्गुभिः॑।  
+पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ यम॒हं ग्राम॑मावि॒शे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
@@ -451,7 +472,7 @@ Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas 
 </details>
 <details><summary>पदपाठः</summary>
 
-न। पिशाचैः। सम्। शक्नोमि। न। स्तेनैः। न। वनर्गुऽभिः। पिशाचाः। तस्मात्। नश्यन्ति। यम्। अहम्। ग्रामम्। आऽविशे। ३६.७।
+न। पि॒शा॒चैः। सम्। श॒क्नो॒मि॒। न। स्ते॒नैः। न। व॒न॒र्गुऽभिः॑। पि॒शा॒चाः। तस्मा॑त्। न॒श्य॒न्ति॒। यम्। अ॒हम्। ग्राम॑म्। आ॒ऽवि॒शे। ३६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -482,14 +503,17 @@ Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑ ।  
-पि॒शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥८॥  
+यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑।  
+पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑। पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥
+यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑।  
+पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
@@ -510,7 +534,7 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। ग्रामम्। आऽविशते। इदम्। उग्रम्। सहः। मम। पिशाचाः। तस्मात्। नश्यन्ति। न। पापम्। उप। जानते। ३६.८।
+यम्। ग्राम॑म्। आ॒ऽवि॒शते॑। इ॒दम्। उ॒ग्रम्। सहः॑। मम॑। पि॒शा॒चाः। तस्मा॑त्। न॒श्य॒न्ति॒। न। पा॒पम्। उप॑। जा॒न॒ते॒। ३६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -541,14 +565,17 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/09_ye_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये मा॑ क्रो॒धय॑न्ति लपि॒ता ह॒स्तिनं॑ म॒शका॑ इव ।  
-तान॒हं म॑न्ये॒ दुर्हि॑ता॒न् जने॒ अल्प॑शयूनिव ॥९॥  
+ये मा॑ क्रो॒धय॑न्ति लपि॒ता ह॒स्तिनं॑ म॒शका॑ इव।  
+तान॒हं म॑न्ये॒ दुर्हि॑ता॒ञ्जने॒ अल्प॑शयूनिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/09_ye_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये मा॑ क्रो॒धय॑न्ति लपि॒ता ह॒स्तिनं॑ म॒शका॑ इव। तान॒हं म॑न्ये॒ दुर्हि॑ता॒ञ्जने॒ अल्प॑शयूनिव ॥
+ये मा॑ क्रो॒धय॑न्ति लपि॒ता ह॒स्तिनं॑ म॒शका॑ इव।  
+तान॒हं म॑न्ये॒ दुर्हि॑ता॒ञ्जने॒ अल्प॑शयूनिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/09_ye_mA.md">
@@ -578,7 +605,7 @@ Those who enrage me with their prate, as flies torment an elephant, I deem unhap
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। मा। क्रोधयन्ति। लपिताः। हस्तिनम्। मशकाःऽइव। तान्। अहम्। मन्ये। दुःऽहितान्। जने। अल्पशयून्ऽइव। ३६.९।
+ये। मा॒। क्रो॒धय॑न्ति। ल॒पि॒ताः। ह॒स्तिन॑म्। म॒शकाः॑ऽइव। तान्। अ॒हम्। म॒न्ये॒। दुःऽहि॑तान्। जने॑। अल्प॑शयून्ऽइव। ३६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -609,14 +636,17 @@ Those who enrage me with their prate, as flies torment an elephant, I deem unhap
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/10_abhi_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि तं निरृ॑तिर्धत्ता॒मश्व॑मिवाश्वाभि॒धान्या॑ ।  
-म॒ल्वो यो मह्यं॒ क्रुध्य॑ति॒ स उ॒ पाशा॒न्नमु॑च्यते ॥१०॥
+अ॒भि तं निरृ॑तिर्धत्ता॒मश्व॑मिवाश्वाभि॒धान्या॑।  
+म॒ल्वो यो मह्यं॒ क्रुध्य॑ति॒ स उ॒ पाशा॒न्न मु॑च्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/10_abhi_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि तं निरृ॑तिर्धत्ता॒मश्व॑मिवाश्वाभि॒धान्या॑। म॒ल्वो यो मह्यं॒ क्रुध्य॑ति॒ स उ॒ पाशा॒न्न मु॑च्यते ॥
+अ॒भि तं निरृ॑तिर्धत्ता॒मश्व॑मिवाश्वाभि॒धान्या॑।  
+म॒ल्वो यो मह्यं॒ क्रुध्य॑ति॒ स उ॒ पाशा॒न्न मु॑च्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/10_abhi_tam.md">
@@ -640,7 +670,7 @@ Destruction seize upon the man, as with a cord they hold a horse, The fool who i
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। तम्। निःऽऋतिः। धत्ताम्। अश्वम्ऽइव। अश्वऽअभिधान्या। मल्वः। यः। मह्यम्। क्रुध्यति। सः। ऊं इति। पाशात्। न। मुच्यते। ३६.१०।
+अ॒भि। तम्। निःऽऋ॑तिः। ध॒त्ता॒म्। अश्व॑म्ऽइव। अ॒श्व॒ऽअ॒भि॒धान्या॑। म॒ल्वः। यः। मह्य॑म्। क्रुध्य॑ति। सः। ऊं॒ इति॑। पाशा॑त्। न। मु॒च्य॒ते॒। ३६.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

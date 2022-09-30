@@ -37,13 +37,16 @@ A woman's incantation against a rival
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भग॑मस्या॒ वर्च॒ आदि॒ष्यधि॑ वृ॒क्षादि॑व॒ स्रज॑म्।  
-म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक् पि॒तृष्वा॑स्ताम्॥१॥  
+म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक्पि॒तृष्वा॑स्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भग॑मस्या॒ वर्च॒ आदि॒ष्यधि॑ वृ॒क्षादि॑व॒ स्रज॑म्। म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक्पि॒तृष्वा॑स्ताम् ॥
+भग॑मस्या॒ वर्च॒ आदि॒ष्यधि॑ वृ॒क्षादि॑व॒ स्रज॑म्।  
+म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक्पि॒तृष्वा॑स्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
@@ -76,7 +79,7 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 </details>
 <details><summary>पदपाठः</summary>
 
-भगम्। अस्याः। वर्चः। आ। अदिषि। अधि। वृक्षात्ऽइव। स्रजम्। महाबुध्नःऽइव। ‌पर्वतः। ज्योक्। पितृषु। आस्ताम्।
+भग॑म्। अ॒स्याः॒। वर्चः॑। आ। अ॒दि॒षि॒। अधि॑। वृ॒क्षात्ऽइ॑व। स्रज॑म्। म॒हाबु॑ध्नःऽइव। ‌पर्व॑तः। ज्योक्। पि॒तृषु॑। आ॒स्ता॒म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +110,17 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/02_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षा ते॑ राजन् क॒न्या व॒धूर्नि धू॑यतां यम ।  
-सा मा॒तुर्ब॑ध्यतां गृ॒हेऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥२॥  
+ए॒षा ते॑ राजन्क॒न्या॑ व॒धूर्नि धू॑यतां यम।  
+सा मा॒तुर्ब॑ध्यतां गृ॒हे ऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/02_eShA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒षा ते॑ राजन्क॒न्या॑ व॒धूर्नि धू॑यतां यम। सा मा॒तुर्ब॑ध्यतां गृ॒हे ऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥
+ए॒षा ते॑ राजन्क॒न्या॑ व॒धूर्नि धू॑यतां यम।  
+सा मा॒तुर्ब॑ध्यतां गृ॒हे ऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/02_eShA_te.md">
@@ -141,7 +147,7 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 </details>
 <details><summary>पदपाठः</summary>
 
-एषा। ते। राजन्। कन्या। वधूः। नि। धूयताम्। यम। सा। मातुः। वध्यताम्। गृहे। अथो इति। भ्रातुः। अथो इति। पितुः ‌।
+ए॒षा। ते॒। रा॒ज॒न्। क॒न्या। व॒धूः। नि। धू॒य॒ता॒म्। य॒म॒। सा। मा॒तुः। व॒ध्य॒ता॒म्। गृ॒हे। अथो॒ इति॑। भ्रातुः॑। अथो॒ इति॑। पि॒तुः ‌। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +178,17 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/03_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षा ते॑ कुल॒पा रा॑ज॒न् तामु॑ ते॒ परि॑ दद्मसि ।  
-ज्योक् पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त्॥३॥  
+ए॒षा ते॑ कुल॒पा रा॑ज॒न्तामु॑ ते॒ परि॑ दद्मसि।  
+ज्योक्पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/03_eShA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒षा ते॑ कुल॒पा रा॑ज॒न्तामु॑ ते॒ परि॑ दद्मसि। ज्योक्पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त् ॥
+ए॒षा ते॑ कुल॒पा रा॑ज॒न्तामु॑ ते॒ परि॑ दद्मसि।  
+ज्योक्पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/03_eShA_te.md">
@@ -212,7 +221,7 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 </details>
 <details><summary>पदपाठः</summary>
 
-एषा। ते। कुलऽपाः। राजन्। ताम्। ऊं इति। ते। परि। दद्मसि। ज्योक्। पितृषु। आसातै। आ। शीर्ष्णः। सॅंम्ऽओप्यात्।
+ए॒षा। ते॒। कु॒ल॒ऽपाः। रा॒ज॒न्। ताम्। ऊं॒ इति॑। ते॒। परि॑। द॒द्म॒सि॒। ज्योक्। पि॒तृषु॑। आ॒सा॒तै॒। आ। शी॒र्ष्णः। सॅं॒म्ऽओप्या॑त्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -243,14 +252,23 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च ।  
-अ॒न्तः॒को॒शमि॑व जा॒मयोऽपि॑ नह्यामि ते॒ भग॑म्॥४॥
+असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च।  
+अ॑न्तःको॒शमि॑व जा॒मयो ऽपि॑ नह्यामि ते॒ भग॑म्।  
+।  
+४।  
+।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च। अ॑न्तःको॒शमि॑व जा॒मयो ऽपि॑ नह्यामि ते॒ भग॑म्।।४।।
+असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च।  
+अ॑न्तःको॒शमि॑व जा॒मयो ऽपि॑ नह्यामि ते॒ भग॑म्।  
+।  
+४।  
+।  
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/04_asitasya_te.md">
@@ -276,7 +294,7 @@ With Asita's and Kasyapa's and Gaya's incantation, thus As sisters pack within a
 </details>
 <details><summary>पदपाठः</summary>
 
-असितस्य। ते। ब्रह्मणा। कश्यपस्य। गयस्य। च। अन्‍तःकोशम्ऽइव। जामयः। अपि। नह्यामि। ते। भगम्।
+असि॑तस्य। ते॒। ब्रह्म॑णा। क॒श्यप॑स्य। गय॑स्य। च॒। अ॒न्‍तः॒को॒शम्ऽइ॑व। जा॒मयः॑। अपि॑। न॒ह्या॒मि॒। ते॒। भग॑म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -33,13 +33,16 @@ Translated: Henry, 43, 121; Griffith, i. 381.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्न॒ इन्द्र॑श्च दा॒शुषे॑ ह॒तो वृ॒त्राण्य॑प्र॒ति।  
-उ॒भा हि वृ॑त्र॒हन्त॑मा ॥१॥  
+उ॒भा हि वृ॑त्र॒हन्त॑मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्न॒ इन्द्र॑श्च दा॒शुषे॑ ह॒तो वृ॒त्राण्य॑प्र॒ति। उ॒भा हि वृ॑त्र॒हन्त॑मा ॥
+अग्न॒ इन्द्र॑श्च दा॒शुषे॑ ह॒तो वृ॒त्राण्य॑प्र॒ति।  
+उ॒भा हि वृ॑त्र॒हन्त॑मा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/01_agna_indrashcha.md">
@@ -67,7 +70,7 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। इन्द्रः। च। दाशुषे। हतः। वृत्राणि। अप्रति। उभा। हि। वृत्रहन्ऽतमा। ११५.१।
+अग्ने॑। इन्द्रः॑। च॒। दा॒शुषे॑। ह॒तः। वृ॒त्राणि॑। अ॒प्र॒ति। उ॒भा। हि। वृ॒त्र॒हन्ऽत॑मा। ११५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,22 +97,25 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 </details>
 </details>
 </div>
-## ०२ याभ्यामजयन्त्स्वरग्र एव
+## ०२ याभ्यामजयन्त्स्वरग्र एव
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याभ्या॒मज॑य॒न्त्स्व॑१रग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑ ।  
-प्रच॑र्षणी॒ वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम्॥२॥  
+याभ्या॒मज॑य॒न्त्स्व१॒॑रग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑।  
+प्र च॑र्ष॒णी वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-याभ्या॒मज॑य॒न्त्स्वरग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑। प्र च॑र्ष॒णी वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम् ॥
+याभ्या॒मज॑य॒न्त्स्व१॒॑रग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑।  
+प्र च॑र्ष॒णी वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
-<details open><summary><h3>०२ याभ्यामजयन्त्स्वरग्र एव ...{Loading}...</h3></summary>
+<details open><summary><h3>०२ याभ्यामजयन्त्स्वरग्र एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -138,7 +144,7 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 </details>
 <details><summary>पदपाठः</summary>
 
-याभ्याम्। अजयन्। स्वः᳡। अग्रे। एव। यौ। आऽतस्थतुः। भुवनानि। विश्वा। प्रचर्षणी इति  प्रऽचर्षणी। वृषणा। वज्रबाहू इति वज्रऽबाहू। अग्निम्। इन्द्रम्। वृत्रऽहना। हुवे। अहम्। ११५.२।
+याभ्या॑म्। अज॑यन्। स्वः᳡। अग्रे॑। ए॒व। यौ। आ॒ऽत॒स्थतुः॑। भुव॑नानि। विश्वा॑। प्रच॑र्षणी॒ इति॒ प्रऽच॑र्षणी। वृष॑णा। वज्र॑बाहू॒ इति॒ वज्र॑ऽबाहू। अ॒ग्निम्। इन्द्र॑म्। वृ॒त्र॒ऽहना॑। हु॒वे। अ॒हम्। ११५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,14 +175,17 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/03_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ त्वा दे॒वो अ॑ग्रमीच्चम॒सेन॒ बृह॒स्पतिः॑ ।  
-इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते॥३॥
+उप॑ त्वा दे॒वो अ॑ग्रभीच्चम॒सेन॒ बृह॒स्पतिः॑।  
+इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/03_upa_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑ त्वा दे॒वो अ॑ग्रभीच्चम॒सेन॒ बृह॒स्पतिः॑। इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते ॥
+उप॑ त्वा दे॒वो अ॑ग्रभीच्चम॒सेन॒ बृह॒स्पतिः॑।  
+इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/03_upa_tvA.md">
@@ -204,7 +213,7 @@ The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indr
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। त्वा। देवः। अग्रभीत्। चमसेन। बृहस्पतिः। इन्द्र। गीःऽभिः। नः। आ। विश। यजमानाय। सुन्वते। ११५.३।
+उप॑। त्वा॒। दे॒वः। अ॒ग्र॒भी॒त्। च॒म॒सेन॑। बृ॒ह॒स्पतिः॑। इन्द्र॑। गीः॒ऽभिः। नः॒। आ। वि॒श॒। यज॑मानाय। सु॒न्व॒ते। ११५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

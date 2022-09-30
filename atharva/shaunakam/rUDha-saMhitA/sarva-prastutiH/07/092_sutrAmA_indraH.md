@@ -32,14 +32,17 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द् द्वेषः॑ सनु॒तर्यु॑योतु ।  
-तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥१॥
+स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु।  
+तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु। तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु।  
+तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
@@ -63,7 +66,7 @@ May this rich Indra as our good protector keep even far away the men who hate us
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। सुऽत्रामा। स्वऽवान्। इन्द्रः। अस्मत्। आरात्। चित्। द्वेषः। सनुतः। युयोतु। तस्य। वयम्। सुऽमतौ। यज्ञियस्य। अपि। भद्रे। सौमनसे। स्याम। ९७.१।
+सः। सु॒ऽत्रामा॑। स्वऽवा॑न्। इन्द्रः॑। अ॒स्मत्। आ॒रात्। चि॒त्। द्वेषः॑। स॒नु॒तः। यु॒यो॒तु॒। तस्य॑। व॒यम्। सु॒ऽम॒तौ। य॒ज्ञिय॑स्य। अपि॑। भ॒द्रे। सौ॒म॒न॒से। स्या॒म॒। ९७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

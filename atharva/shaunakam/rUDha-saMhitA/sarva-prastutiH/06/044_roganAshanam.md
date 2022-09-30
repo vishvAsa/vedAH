@@ -32,14 +32,17 @@ A charm to remove disease
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/044_roganAshanam/01_asthAddyaurasthAtpRthivyasthAdvishvamidaM_jagat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्था॒द् द्यौरस्था॑त् पृथि॒व्यस्था॒द् विश्व॑मि॒दं जग॑त्।  
-अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द् रोगो॑ अ॒यं तव॑ ॥१॥  
+अस्था॒द्द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
+अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द्रोगो॑ अ॒यं तव॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/044_roganAshanam/01_asthAddyaurasthAtpRthivyasthAdvishvamidaM_jagat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अस्था॒द्द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्। अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द्रोगो॑ अ॒यं तव॑ ॥
+अस्था॒द्द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
+अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द्रोगो॑ अ॒यं तव॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/044_roganAshanam/01_asthAddyaurasthAtpRthivyasthAdvishvamidaM_jagat.md">
@@ -61,7 +64,7 @@ Firm stood the heaven, firm stood the earth, firm stood this universal world. Fi
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्थात्। द्यौः। अस्थात्। पृथिवी। अस्थात्। विश्वम्। इदम्। जगत्  अस्थुः। वृक्षाः। ऊर्ध्वऽस्वप्नाः। तिष्ठात्। रोगः। अयम्। तव। ४४.१।
+अस्था॑त्। द्यौः। अस्था॑त्। पृ॒थि॒वी। अस्था॑त्। विश्व॑म्। इ॒दम्। जग॑त् अस्थुः॑। वृ॒क्षाः। ऊ॒र्ध्वऽस्व॑प्नाः। तिष्ठा॑त्। रोगः॑। अ॒यम्। तव॑। ४४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,14 +95,17 @@ Firm stood the heaven, firm stood the earth, firm stood this universal world. Fi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/044_roganAshanam/02_shataM_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च ।  
-श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम्॥२॥  
+श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च।  
+श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/044_roganAshanam/02_shataM_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च। श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम् ॥
+श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च।  
+श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/044_roganAshanam/02_shataM_yA.md">
@@ -126,7 +132,7 @@ Of all thy hundred remedies, a thousand remedies combined. This is the surest cu
 </details>
 <details><summary>पदपाठः</summary>
 
-शतम्। या। भेषजानि। ते। सहस्रम्। समऽगतानि। च। श्रेष्ठम्। आस्रावऽभेषजम्। वसिष्ठम्। रोगऽनाशनम्। ४४.२।
+श॒तम्। या। भे॒ष॒जानि॑। ते॒। स॒हस्र॑म्। समऽग॑तानि। च॒। श्रेष्ठ॑म्। आ॒स्रा॒व॒ऽभे॒ष॒जम्। वसि॑ष्ठम्। रो॒ग॒ऽनाश॑नम्। ४४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Of all thy hundred remedies, a thousand remedies combined. This is the surest cu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/044_roganAshanam/03_rudrasya_mUtramasyamRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑ ।  
-वि॒षा॒ण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी ॥३॥
+रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑।  
+वि॑षाण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/044_roganAshanam/03_rudrasya_mUtramasyamRtasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑। वि॑षाण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी ॥
+रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑।  
+वि॑षाण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/044_roganAshanam/03_rudrasya_mUtramasyamRtasya.md">
@@ -194,7 +203,7 @@ Thou art the stream that Rudra pours, the closest kin of Amrita. Thy name is cal
 </details>
 <details><summary>पदपाठः</summary>
 
-रुद्रस्य। मूत्रम्। असि। अमृतस्य। नाभिः। विऽसानका। नाम। वै। असि। पितृणाम्। मूलात्। उत्थिता। वातीकृतऽनाशनी। ४४.३।
+रु॒द्रस्य॑। मूत्र॑म्। अ॒सि॒। अ॒मृत॑स्य। नाभिः॑। वि॒ऽसा॒न॒का। नाम॑। वै। अ॒सि॒। पि॒तृ॒णाम्। मूला॑त्। उत्थि॑ता। वा॒ती॒कृ॒त॒ऽनाश॑नी। ४४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

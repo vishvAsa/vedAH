@@ -37,13 +37,16 @@ A prayer for prosperity and happiness
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अन्व॒द्य नोऽनु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्।  
-अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥१॥  
+अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अन्व॒द्य नोऽनु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्। अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥
+अन्व॒द्य नोऽनु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्।  
+अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
@@ -77,7 +80,7 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 </details>
 <details><summary>पदपाठः</summary>
 
-अनु। अद्य। नः। अनुऽमतिः। यज्ञम्। देवेषु। मन्यताम्। अग्निः। च। हव्यऽवाहनः भवताम्। दाशुषे। मम। २१.१।
+अनु॑। अ॒द्य। नः॒। अनु॑ऽमतिः। य॒ज्ञम्। दे॒वेषु॑। म॒न्य॒ता॒म्। अ॒ग्निः। च॒। ह॒व्य॒ऽवाह॑नः भव॑ताम्। दा॒शुषे॑। मम॑। २१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +111,17 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्विद॑नुमते॒ त्वं मंस॑से॒ शं च॑ नस्कृधि ।  
-जुष॒स्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥२॥  
+अन्विद॑नुमते॒ त्वं मंस॑से॒ शं च॑ नस्कृधि।  
+जुषस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अन्विद॑नुमते॒ त्वं मंस॑से॒ शं च॑ नस्कृधि। जुषस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
+अन्विद॑नुमते॒ त्वं मंस॑से॒ शं च॑ नस्कृधि।  
+जुषस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/02_anvidanumate_tvam.md">
@@ -143,7 +149,7 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 </details>
 <details><summary>पदपाठः</summary>
 
-अनु। इत्। अनुऽमते। त्वम्। मंससे। शम्। च। नः। कृधि। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। नः। २१.२।
+अनु॑। इत्। अ॒नु॒ऽम॒ते॒। त्वम्। मंस॑से। शम्। च॒। नः॒। कृ॒धि॒। जु॒षस्व॑। ह॒व्यम्। आऽहु॑तम्। प्र॒ऽजाम्। दे॒वि॒। र॒रा॒स्व॒। नः॒। २१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -175,13 +181,16 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑ मन्यतामनु॒मन्य॑मानः प्र॒जाव॑न्तं र॒यिमक्षी॑यमाणम्।  
-तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥३॥  
+तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अनु॑ मन्यतामनु॒मन्य॑मानः प्र॒जाव॑न्तं र॒यिमक्षी॑यमाणम्। तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥
+अनु॑ मन्यतामनु॒मन्य॑मानः प्र॒जाव॑न्तं र॒यिमक्षी॑यमाणम्।  
+तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
@@ -209,7 +218,7 @@ May he approving in return accord us wealth inexhaustible with store of children
 </details>
 <details><summary>पदपाठः</summary>
 
-अनु। मन्यताम्। अनुऽमन्यमानः। प्रजाऽवन्तम्। रयिम्। अक्षीयमाणम्। तस्य। वयम्। हेडसि। मा। अपि। भूम। सुऽमृडीके। अस्य। सुऽमतौ। स्याम। २१.३।
+अनु॑। म॒न्य॒ता॒म्। अ॒नु॒ऽमन्य॑मानः। प्र॒जाऽव॑न्तम्। र॒यिम्। अक्षी॑यमाणम्। तस्य॑। व॒यम्। हेड॑सि। मा। अपि॑। भू॒म॒। सु॒ऽमृ॒डी॒के। अ॒स्य॒। सु॒ऽम॒तौ। स्या॒म॒। २१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -240,14 +249,17 @@ May he approving in return accord us wealth inexhaustible with store of children
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/04_yatte_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑ ।  
-तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म्॥४॥  
+यत्ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑।  
+तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/04_yatte_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑। तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+यत्ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑।  
+तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/04_yatte_nAma.md">
@@ -271,7 +283,7 @@ Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. S
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ते। नाम। सुऽहवम्। सुऽप्रनीते। अनुऽमते। अनुऽमतम्। सुऽदानु। तेन। नः। यज्ञम्। पिपृहि। विश्वऽवारे। रयिम्। नः। धेहि। सुऽभगे। सुऽवीरम्। २१.४।
+यत्। ते॒। नाम॑। सु॒ऽहव॑म्। सु॒ऽप्र॒नी॒ते॒। अनु॑ऽमते। अनु॑ऽमतम्। सु॒ऽदानु॑। तेन॑। नः॒। य॒ज्ञम्। पि॒पृ॒हि॒। वि॒श्व॒ऽवा॒रे॒। र॒यिम्। नः॒। धे॒हि॒। सु॒ऽभ॒गे॒। सु॒ऽवीर॑म्। २१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -302,14 +314,17 @@ Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. S
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै सुजा॑तम्।  
-भ॒द्रा ह्यऽस्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥५॥  
+एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै॒ सुजा॑तम्।  
+भ॒द्रा ह्य᳡स्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै॒ सुजा॑तम्। भ॒द्रा ह्य᳡स्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥
+एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै॒ सुजा॑तम्।  
+भ॒द्रा ह्य᳡स्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
@@ -336,7 +351,7 @@ Anumati hath come to this our worship well-formed to give good lands and valiant
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इमम्। यज्ञम्। अनुऽमतिः। जगाम। सुऽक्षेत्रतायै। सुऽवीरतायै। सुऽजातम्। भद्रा। हि। अस्याः। प्रऽमतिः। बभूव। सा। इमम्। यज्ञम्। अवतु। देवऽगोपा। २१.५।
+आ। इ॒मम्। य॒ज्ञम्। अनु॑ऽमतिः। ज॒गा॒म॒। सु॒ऽक्षे॒त्रता॑यै। सु॒ऽवी॒रता॑यै। सुऽजा॑तम्। भ॒द्रा। हि। अ॒स्याः॒। प्रऽम॑तिः। ब॒भूव॑। सा। इ॒मम्। य॒ज्ञम्। अ॒व॒तु॒। दे॒वऽगो॑पा। २१.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -367,14 +382,17 @@ Anumati hath come to this our worship well-formed to give good lands and valiant
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत् तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति ।  
-तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥६॥
+अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत्तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति।  
+तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत्तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति। तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥
+अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत्तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति।  
+तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
@@ -397,7 +415,7 @@ Anumati became this All, whatever standeth or walketh, every- thing that moveth.
 </details>
 <details><summary>पदपाठः</summary>
 
-अनुऽमतिः। सर्वम्‌। इदम्। बभूव। यत्। तिष्ठति। चरति। यत्। ऊं इति। च। विश्वम्। एजति। तस्याः। ते। देवि। सुऽमतौ। स्याम। अनुऽमते। अनु। हि। मंससे। नः। २१.६।
+अनु॑ऽमतिः। सर्व॑म्‌। इ॒दम्। ब॒भू॒व॒। यत्। तिष्ठ॑ति। चर॑ति। यत्। ऊं॒ इति॑। च॒। विश्व॑म्। एज॑ति। तस्याः॑। ते॒। दे॒वि॒। सु॒ऽम॒तौ। स्या॒म॒। अनु॑ऽमते। अनु॑। हि। मंस॑से। नः॒। २१.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

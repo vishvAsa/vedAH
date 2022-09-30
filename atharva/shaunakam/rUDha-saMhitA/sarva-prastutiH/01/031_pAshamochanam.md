@@ -36,14 +36,17 @@ A prayer for protection and general prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः ।  
-इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम्॥१॥  
+आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः।  
+इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः। इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः।  
+इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
@@ -67,7 +70,7 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 </details>
 <details><summary>पदपाठः</summary>
 
-आशानाम्। आशाऽपालेभ्यः। चतुःऽभ्यः। अमृतेभ्यः। इदम्। भूतस्य। अधिऽअक्षेभ्यः। विधेम। हविषा। वयम्।
+आशा॑नाम्। आ॒शा॒ऽपा॒लेभ्यः॑। च॒तुःऽभ्यः॑। अ॒मृते॑भ्यः। इ॒दम्। भू॒तस्य॑। अधि॑ऽअक्षेभ्यः। वि॒धेम॑। ह॒विषा॑। व॒यम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः ।  
-ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सो अंहसः ॥२॥  
+य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः।  
+ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सोअंहसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः। ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सोअंहसः ॥
+य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः।  
+ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सोअंहसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
@@ -128,7 +134,7 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। आशानाम्। अशाऽपालाः। चत्वारः। स्थन। देवाः। ते। नः। निःऋत्याः। पाशेभ्यः। मुञ्चत। अंहसःऽअंहसः।
+ये। आशा॑नाम्। अ॒शा॒ऽपा॒लाः। च॒त्वारः॑। स्थन॑। दे॒वाः॒। ते। नः॒। निःऋ॑त्याः। पाशे॑भ्यः। मुञ्चत॑। अंह॑सःऽअंहसः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि ।  
-य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमेह व॑क्षत्॥३॥  
+अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि।  
+य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमे॒ह व॑क्षत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि। य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमे॒ह व॑क्षत् ॥
+अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि।  
+य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमे॒ह व॑क्षत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
@@ -195,7 +204,7 @@ I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oi
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्रामः। त्वा। हविषा। यजामि। अश्रोणः। त्वा। घृतेन। जुहोमि। यः। आशानाम्। आशाऽपालः। तुरीयः। देवः। सः। नः। सुऽभूतम्। आ। इह। वक्षत्।
+अस्रा॑मः। त्वा॒। ह॒विषा॑। य॒जा॒मि॒। अश्रो॑णः। त्वा॒। घृ॒तेन॑। जु॒हो॒मि॒। यः। आशा॑नाम्। आ॒शा॒ऽपा॒लः। तु॒रीयः॑। दे॒वः। सः। नः॒। सु॒ऽभू॒तम्। आ। इ॒ह। व॒क्ष॒त्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः ।  
-विश्वं॑ सुभू॒तं सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म्॥४॥
+स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः।  
+विश्व॑म्सुभू॒तम्सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः। विश्व॑म्सुभू॒तम्सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म् ॥
+स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः।  
+विश्व॑म्सुभू॒तम्सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/04_svasti_mAtra.md">
@@ -262,7 +274,7 @@ Well be it with our mother and our father, well be it with our cows, and beasts,
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वस्ति। मात्रे। उत। पित्रे। नः। अस्तु। स्वस्ति। गोभ्यः। जगते। पुरुषेभ्यः। विश्वम्। सुऽभूतम्। सुऽविदत्रम्। नः। अस्तु। ज्योक्। एव। दृशेम। सूर्यम्।
+स्व॒स्ति। मा॒त्रे। उ॒त। पि॒त्रे। नः॒। अ॒स्तु॒। स्व॒स्ति। गोभ्यः॑। जग॑ते। पुरु॑षेभ्यः। विश्व॑म्। सु॒ऽभू॒तम्। सु॒ऽवि॒दत्र॑म्। नः॒। अ॒स्तु॒। ज्योक्। ए॒व। दृ॒शे॒म॒। सूर्य॑म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

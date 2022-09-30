@@ -36,15 +36,17 @@ A prayer for riches
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/005_jagato_rAjA/01_indro_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॒ क्षमि॒ विषु॑रूपं॒ यदस्ति॑ ।  
-ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द् राध॒ उप॑स्तुतश्चिद॒र्वाक्॥१॥
+इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॑ क्षमि॒ विषु॑रूपं॒ यद॑स्ति।  
+ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द्राध॒ उप॑स्तुतश्चिद॒र्वाक् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/005_jagato_rAjA/01_indro_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॒ क्षमि॒ विषु॑रूपं॒ यदस्ति॑ ।  
-ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द् राध॒ उप॑स्तुतश्चिद॒र्वाक्॥१॥
+इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॑ क्षमि॒ विषु॑रूपं॒ यद॑स्ति।  
+ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द्राध॒ उप॑स्तुतश्चिद॒र्वाक् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/01_indro_rAjA.md">
@@ -65,7 +67,7 @@ King of the living world and men is Indra, of all in varied form that earth cont
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। राजा। जगतः। चर्षणीनाम्। अधि। क्षमि। विषुऽरूपम्। यत्। अस्ति। ततः। ददाति। दाशुषे। वसूनि। चोदत्। राधः। उपऽस्तुतः। चित्। अर्वाक्। ५.१।
+इन्द्रः॑। राजा॑। जग॑तः। च॒र्ष॒णी॒नाम्। अधि॑। क्षमि॑। विषु॑ऽरूपम्। यत्। अस्ति॑। ततः॑। द॒दा॒ति॒। दा॒शुषे॑। वसू॑नि। चोद॑त्। राधः॑। उप॑ऽस्तुतः। चि॒त्। अ॒र्वाक्। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

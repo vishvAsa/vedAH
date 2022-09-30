@@ -36,14 +36,17 @@ A charm to mend a broken bone
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/01_rAtrI_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रात्री॑ मा॒ता नभः॑ पि॒तार्य॒मा ते॑ पिताम॒हः ।  
-सि॒ला॒ची नाम॒ वा अ॑सि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ॥१॥  
+रात्री॑ मा॒ता नभः॑ पि॒तार्य॒मा ते॑ पिताम॒हः।  
+सि॑ला॒ची नाम॒ वा अ॑सि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/01_rAtrI_mAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रात्री॑ मा॒ता नभः॑ पि॒तार्य॒मा ते॑ पिताम॒हः। सि॑ला॒ची नाम॒ वा अ॑सि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ॥
+रात्री॑ मा॒ता नभः॑ पि॒तार्य॒मा ते॑ पिताम॒हः।  
+सि॑ला॒ची नाम॒ वा अ॑सि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/01_rAtrI_mAtA.md">
@@ -70,7 +73,7 @@ Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is 
 </details>
 <details><summary>पदपाठः</summary>
 
-रात्री। माता। नभः। पिता। अर्यमा। ते। पितामहः। सिलाची। नाम। वै। असि। सा। देवानाम्। असि। स्वसा। ५.१।
+रात्री॑। मा॒ता। नभः॑। पि॒ता। अ॒र्य॒मा। ते॒। पि॒ता॒म॒हः। सि॒ला॒ची। नाम॑। वै। अ॒सि॒। सा। दे॒वाना॑म्। अ॒सि॒। स्वसा॑। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,13 +105,16 @@ Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्त्वा॒ पिब॑ति॒ जीव॑ति॒ त्राय॑से॒ पुरु॑षं॒ त्वम्।  
-भ॒र्त्री हि शश्व॑ता॒मसि॒ जना॑नां च॒ न्यञ्च॑नी ॥२॥  
+भ॒र्त्री हि शश्व॑ता॒मसि॒ जना॑नां च॒ न्यञ्च॑नी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/02_yastvA_pibati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्त्वा॒ पिब॑ति॒ जीव॑ति॒ त्राय॑से॒ पुरु॑षं॒ त्वम्। भ॒र्त्री हि शश्व॑ता॒मसि॒ जना॑नां च॒ न्यञ्च॑नी ॥
+यस्त्वा॒ पिब॑ति॒ जीव॑ति॒ त्राय॑से॒ पुरु॑षं॒ त्वम्।  
+भ॒र्त्री हि शश्व॑ता॒मसि॒ जना॑नां च॒ न्यञ्च॑नी ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/02_yastvA_pibati.md">
@@ -131,7 +137,7 @@ Whoever drinketh thee hath life: thou savest and protectest man. As nursing moth
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। त्वा। पिबति। जीवति। त्रायसे। पुरुषम्। त्वम्। मर्त्री। हि। शश्वताम्। असि। जनानाम्। च। निऽअञ्चनी। ५.२।
+यः। त्वा॒। पिब॑ति। जीव॑ति। त्राय॑से। पुरु॑षम्। त्वम्। म॒र्त्री। हि। शश्व॑ताम्। असि॑। जना॑नाम्। च॒। नि॒ऽअञ्च॑नी। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Whoever drinketh thee hath life: thou savest and protectest man. As nursing moth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॒क्षंवृ॑क्ष॒मा रो॑हसि वृष॒ण्यन्ती॑व क॒न्यला॑ ।  
-जय॑न्ती प्रत्या॒तिष्ठ॑न्ती॒ स्पर॑णी॒ नाम॒ वा अ॑सि ॥३॥  
+वृ॒क्षंवृ॑क्ष॒मा रो॑हसि वृष॒ण्यन्ती॑व क॒न्यला॑।  
+जय॑न्ती प्रत्या॒तिष्ठ॑न्ती॒ स्पर॑णी॒ नाम॒ वा अ॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृ॒क्षंवृ॑क्ष॒मा रो॑हसि वृष॒ण्यन्ती॑व क॒न्यला॑। जय॑न्ती प्रत्या॒तिष्ठ॑न्ती॒ स्पर॑णी॒ नाम॒ वा अ॑सि ॥
+वृ॒क्षंवृ॑क्ष॒मा रो॑हसि वृष॒ण्यन्ती॑व क॒न्यला॑।  
+जय॑न्ती प्रत्या॒तिष्ठ॑न्ती॒ स्पर॑णी॒ नाम॒ वा अ॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
@@ -190,7 +199,7 @@ Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is
 </details>
 <details><summary>पदपाठः</summary>
 
-वृक्षम्ऽवृक्षम्। आ। रोहसि। वृषण्यन्तीऽइव। कन्यला। जयन्ती। प्रतिऽआतिष्ठन्ती। स्परणी। नाम। वै। असि। ५.३।
+वृ॒क्षम्ऽवृ॑क्षम्। आ। रो॒ह॒सि॒। वृ॒ष॒ण्यन्ती॑ऽइव। क॒न्यला॑। जय॑न्ती। प्र॒ति॒ऽआ॒तिष्ठ॑न्ती। स्पर॑णी। नाम॑। वै। अ॒सि॒। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -221,14 +230,17 @@ Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् द॒ण्डेन॒ यदिष्वा॒ यद् वारु॒र्हर॑सा कृ॒तम्।  
-तस्य॒ त्वम॑सि॒ निष्कृ॑तिः॒ सेमं निष्कृ॑धि॒ पूरु॑षम्॥४॥  
+यद्द॒ण्डेन॒ यदिष्वा॒ यद्वारु॒र्हर॑सा कृ॒तम्।  
+तस्य॒ त्वम॑सि॒ निष्कृ॑तिः॒ सेमं निष्कृ॑धि॒ पूरु॑षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्द॒ण्डेन॒ यदिष्वा॒ यद्वारु॒र्हर॑सा कृ॒तम्। तस्य॒ त्वम॑सि॒ निष्कृ॑तिः॒ सेमं निष्कृ॑धि॒ पूरु॑षम् ॥
+यद्द॒ण्डेन॒ यदिष्वा॒ यद्वारु॒र्हर॑सा कृ॒तम्।  
+तस्य॒ त्वम॑सि॒ निष्कृ॑तिः॒ सेमं निष्कृ॑धि॒ पूरु॑षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
@@ -250,7 +262,7 @@ Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art t
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। दण्डेन। यत्। इष्वा। यत्। वा। अरुः। हरसा। कृतम्। तस्य। त्वम्। असि। निःऽकृतिः। सा। इमम्। निः। कृधि। पुरुषम्। ५.४।
+यत्। द॒ण्डेन॑। यत्। इष्वा॑। यत्। वा॒। अरुः॑। हर॑सा। कृ॒तम्। तस्य॑। त्वम्। अ॒सि॒। निःऽकृ॑तिः। सा। इ॒मम्। निः। कृ॒धि॒। पुरु॑षम्। ५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -281,14 +293,17 @@ Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रात् प्ल॒क्षान्निस्ति॑ष्ठस्यश्व॒त्थात् ख॑दि॒राद्ध॒वात्।  
-भ॒द्रान्न्य॒ग्रोधा॑त् प॒र्णात् सा न॒ एह्य॑रुन्धति ॥५॥  
+भ॒द्रात्प्ल॒क्षान्निस्ति॑ष्ठस्यश्व॒त्थात्ख॑दि॒राद्ध॒वात्।  
+भ॒द्रान्न्य॒ग्रोधा॑त्प॒र्णात्सा न॒ एह्य॑रुन्धति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भ॒द्रात्प्ल॒क्षान्निस्ति॑ष्ठस्यश्व॒त्थात्ख॑दि॒राद्ध॒वात्। भ॒द्रान्न्य॒ग्रोधा॑त्प॒र्णात्सा न॒ एह्य॑रुन्धति ॥
+भ॒द्रात्प्ल॒क्षान्निस्ति॑ष्ठस्यश्व॒त्थात्ख॑दि॒राद्ध॒वात्।  
+भ॒द्रान्न्य॒ग्रोधा॑त्प॒र्णात्सा न॒ एह्य॑रुन्धति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
@@ -309,7 +324,7 @@ Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Ny
 </details>
 <details><summary>पदपाठः</summary>
 
-भद्रात्। प्लक्षात्। निः। तिष्ठसि। अश्वत्थात्। खदिरात्। धवात्। भद्रात्। न्यग्रोधात्। पर्णात्। सा। नः। आ। इहि। अरुन्धति। ५.५।
+भ॒द्रात्। प्ल॒क्षात्। निः। ति॒ष्ठ॒सि॒। अ॒श्व॒त्थात्। ख॒दि॒रात्। ध॒वात्। भ॒द्रात्। न्य॒ग्रोधा॑त्। प॒र्णात्। सा। नः॒। आ। इ॒हि॒। अ॒रु॒न्ध॒ति॒। ५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -340,14 +355,17 @@ Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Ny
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यवर्णे॒ सुभ॑गे॒ सूर्य॑वर्णे॒ वपु॑ष्टमे ।  
-रु॒तं ग॑छासि निष्कृते॒ निष्कृ॑ति॒र्नाम॒ वा अ॑सि ॥६॥  
+हिर॑ण्यवर्णे॒ सुभ॑गे॒ सूर्य॑वर्णे॒ वपु॑ष्टमे।  
+रु॒तं ग॑च्छासि निष्कृते॒ निष्कृ॑ति॒र्नाम॒ वा अ॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/06_hiraNyavarNe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हिर॑ण्यवर्णे॒ सुभ॑गे॒ सूर्य॑वर्णे॒ वपु॑ष्टमे। रु॒तं ग॑च्छासि निष्कृते॒ निष्कृ॑ति॒र्नाम॒ वा अ॑सि ॥
+हिर॑ण्यवर्णे॒ सुभ॑गे॒ सूर्य॑वर्णे॒ वपु॑ष्टमे।  
+रु॒तं ग॑च्छासि निष्कृते॒ निष्कृ॑ति॒र्नाम॒ वा अ॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
@@ -372,7 +390,7 @@ Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst tho
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णे। सुऽभगे। सूर्यऽवर्णे। वपुःऽतमे। रुतम्। गच्छासि। निःऽकृते। निःऽकृतिः। नाम। वै। असि। ५.६।
+हिर॑ण्यऽवर्णे। सुऽभ॑गे। सूर्य॑ऽवर्णे। वपुः॑ऽतमे। रु॒तम्। ग॒च्छा॒सि॒। निः॒ऽकृ॒ते॒। निःऽकृ॑तिः। नाम॑। वै। अ॒सि॒। ५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -403,14 +421,17 @@ Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst tho
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यवर्णे॒ सुभ॑गे॒ शुष्मे॒ लोम॑शवक्षने ।  
-अ॒पाम॑सि॒ स्वसा॒ लाक्षे॒ वातो॑ हा॒त्मा ब॑भूव ते ॥७॥  
+हिर॑ण्यवर्णे॒ सुभ॑गे॒ शुष्मे॒ लोम॑शवक्षणे।  
+अ॒पाम॑सि॒ स्वसा॑ लाक्षे॒ वातो॑ हा॒त्मा ब॑भूव ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/07_hiraNyavarNe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हिर॑ण्यवर्णे॒ सुभ॑गे॒ शुष्मे॒ लोम॑शवक्षणे। अ॒पाम॑सि॒ स्वसा॑ लाक्षे॒ वातो॑ हा॒त्मा ब॑भूव ते ॥
+हिर॑ण्यवर्णे॒ सुभ॑गे॒ शुष्मे॒ लोम॑शवक्षणे।  
+अ॒पाम॑सि॒ स्वसा॑ लाक्षे॒ वातो॑ हा॒त्मा ब॑भूव ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
@@ -433,7 +454,7 @@ Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णे। सुऽभगे। शुष्मे। लोमशऽवक्षणे। अपाम्। असि। स्वसा। लाक्षे। वातः। ह। आत्मा। बभूव। ते। ५.७।
+हिर॑ण्यऽवर्णे। सुऽभ॑गे। शुष्मे॑। लोम॑शऽवक्षणे। अ॒पाम्। अ॒सि॒। स्वसा॑। ला॒क्षे॒। वातः॑। ह॒। आ॒त्मा। ब॒भू॒व॒। ते॒। ५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -464,14 +485,17 @@ Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/08_silAchI_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सि॒ला॒ची नाम॑ कानी॒नोऽज॑बभ्रु पि॒ता तव॑ ।  
-अश्वो॑ य॒मस्य॒ यः श्या॒वस्तस्य॑ हा॒स्नास्यु॑क्षि॒ता॥८॥  
+सि॑ला॒ची नाम॑ कानी॒नोऽज॑बभ्रु पि॒ता तव॑।  
+अश्वो॑ य॒मस्य॒ यः श्या॒वस्तस्य॑ हा॒स्नास्यु॑क्षि॒ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/08_silAchI_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सि॑ला॒ची नाम॑ कानी॒नोऽज॑बभ्रु पि॒ता तव॑। अश्वो॑ य॒मस्य॒ यः श्या॒वस्तस्य॑ हा॒स्नास्यु॑क्षि॒ता ॥
+सि॑ला॒ची नाम॑ कानी॒नोऽज॑बभ्रु पि॒ता तव॑।  
+अश्वो॑ य॒मस्य॒ यः श्या॒वस्तस्य॑ हा॒स्नास्यु॑क्षि॒ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/08_silAchI_nAma.md">
@@ -497,7 +521,7 @@ Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been s
 </details>
 <details><summary>पदपाठः</summary>
 
-सिलाची। नाम। कानीनः। अजऽबभ्रु। पिता। तव। अश्वः। यमस्य। यः। श्यावः। तस्य। ह। अस्ना। अस‍ि। उक्षिता। ५.८।
+सि॒ला॒ची। नाम॑। का॒नी॒नः। अज॑ऽबभ्रु। पि॒ता। तव॑। अश्वः॑। य॒मस्य॑। यः। श्या॒वः। तस्य॑। ह॒। अ॒स्ना। अ॒स‍ि॒। उ॒क्षि॒ता। ५.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -528,14 +552,17 @@ Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्व॑स्या॒स्नः संप॑तिता॒ सा वृ॒क्षां अ॒भि सि॑ष्यदे ।  
-स॒रा प॑त॒त्रिणी॑ भू॒त्वा सा न॒ एह्य॑रुन्धति ॥९॥
+अश्व॑स्या॒स्नः संप॑तिता॒ सा वृ॒क्षाँ अ॒भि सि॑ष्यदे।  
+स॒रा प॑तत्रिणी भू॒त्वा सा न॒ एह्य॑रुन्धति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अश्व॑स्या॒स्नः संप॑तिता॒ सा वृ॒क्षाँ अ॒भि सि॑ष्यदे। स॒रा प॑तत्रिणी भू॒त्वा सा न॒ एह्य॑रुन्धति ॥
+अश्व॑स्या॒स्नः संप॑तिता॒ सा वृ॒क्षाँ अ॒भि सि॑ष्यदे।  
+स॒रा प॑तत्रिणी भू॒त्वा सा न॒ एह्य॑रुन्धति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
@@ -569,7 +596,7 @@ Issuing from the horse's blood away she glided to the trees. Become a winged wat
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्वस्य। अस्नः। सम्ऽपतिता। सा। वृक्षान्। अभि। सिस्यदे। सरा। पतत्रिणी। भूत्वा। सा। नः। आ। इहि। अरुन्धति। ५.९।
+अश्व॑स्य। अ॒स्नः। सम्ऽप॑तिता। सा। वृ॒क्षान्। अ॒भि। सि॒स्य॒दे॒। स॒रा। प॒त॒त्रिणी॑। भू॒त्वा। सा। नः॒। आ। इ॒हि॒। अ॒रु॒न्ध॒ति॒। ५.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A prayer for protection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ना॒धृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद् दी॑दिही॒ह।  
-विश्वा॒ अमी॑वाः प्रमु॒ञ्चन् मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म्॥१॥  
+अ॑नाधृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद्दी॑दिही॒ह।  
+विश्वा॒ अमी॑वाः प्रमु॒ञ्चन्मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑नाधृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद्दी॑दिही॒ह। विश्वा॒ अमी॑वाः प्रमु॒ञ्चन्मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ॥
+अ॑नाधृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद्दी॑दिही॒ह।  
+विश्वा॒ अमी॑वाः प्रमु॒ञ्चन्मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
@@ -77,7 +80,7 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 </details>
 <details><summary>पदपाठः</summary>
 
-अनाधृष्यः। जातऽवेदाः। अमर्त्यः। विऽराट्। अग्ने। क्षत्रऽभृत्। दीदिहि। इह। विश्वाः। अमीवाः। प्रऽमुञ्चन्। मानुषीभिः। शिवाभिः। अद्य। परि। पाहि। नः। गयम्। ८९.१।
+अ॒ना॒धृ॒ष्यः। जा॒तऽवे॑दाः। अम॑र्त्यः। वि॒ऽराट्। अ॒ग्ने॒। क्ष॒त्र॒ऽभृत्। दी॒दि॒हि॒। इ॒ह। विश्वाः॑। अमी॑वाः। प्र॒ऽमु॒ञ्चन्। मानु॑षीभिः। शि॒वाभिः॑। अ॒द्य। परि॑। पा॒हि॒। नः॒। गय॑म्। ८९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,13 +112,16 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्।  
-अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम्॥२॥  
+अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्। अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
+इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्।  
+अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
@@ -147,7 +153,7 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। क्षत्रम्। अभ‍ि। वामम्। ओजः। अजायथाः। वृषभः। चर्षणीनाम्। अप। अनुदः। जनम्। अमित्रऽयन्तम्। उरुम्। देवेभ्यः। अकृणोः। ऊं इति। लोकम्। ८९.२।
+इन्द्र॑। क्ष॒त्रम्। अ॒भ‍ि। वा॒मम्। ओजः॑। अजा॑यथाः। वृ॒ष॒भः॒। च॒र्ष॒णी॒नाम्। अप॑। अ॒नु॒दः॒। जन॑म्। अ॒मि॒त्र॒ऽयन्त॑म्। उ॒रुम्। दे॒वेभ्यः॑। अ॒कृ॒णोः॒। ऊं॒ इति॑। लो॒कम्। ८९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -178,14 +184,17 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त् पर॑स्याः ।  
-सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न् ताढि॒ वि मृघो॑ नुदस्व ॥३॥
+मृ॒गो न॑ भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः।  
+सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मृ॒गो न॑ भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः। सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व ॥
+मृ॒गो न॑ भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः।  
+सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/03_mRgo_na.md">
@@ -213,7 +222,7 @@ Like a dread wild beast roaming on the mountain, may he. approach us from the fa
 </details>
 <details><summary>पदपाठः</summary>
 
-मृगः। न। भीमः। कुचरः। गिरिऽस्थाः। पराऽवतः। आ। जगम्यात्। परस्याः। सृकम्। सम्ऽशाय। पविम्। इन्द्र। तिग्मम्। वि। शत्रून्। ताढि। वि। मृधः। नुदस्व। ८९.३।
+मृ॒गः। न। भी॒मः। कु॒च॒रः। गि॒रि॒ऽस्थाः। प॒रा॒ऽवतः॑। आ। ज॒ग॒म्या॒त्। पर॑स्याः। सृ॒कम्। स॒म्ऽशाय॑। प॒विम्। इ॒न्द्र॒। ति॒ग्मम्। वि। शत्रू॑न्। ता॒ढि॒। वि। मृधः॑। नु॒द॒स्व॒। ८९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

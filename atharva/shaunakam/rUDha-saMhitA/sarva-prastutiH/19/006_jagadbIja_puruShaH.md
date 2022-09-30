@@ -33,14 +33,16 @@ The purusha-Sukta, on the mystical Sacrifice of Purusha
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒हस्र॑बाहुः॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात्।  
-स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद् दशाङ्गु॒लम्॥१॥  
+स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्यति॑ष्ठद्दशाङ्गु॒लम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स॒हस्र॑बाहुः॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात्।  
-स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद् दशाङ्गु॒लम्॥१॥  
+स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्यति॑ष्ठद्दशाङ्गु॒लम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/01_sahasrabAhuH_puruShaH.md">
@@ -69,7 +71,7 @@ Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pe
 </details>
 <details><summary>पदपाठः</summary>
 
-सहस्रऽबाहुः। पुरुषः। सहस्रऽअक्षः। सहस्रऽपात्। सः। भूमिम्। विश्वतः। वृत्वा। अति। अतिष्ठत्। दशऽअङ्गुलम्। ६.१।
+स॒हस्र॑ऽबाहुः। पुरु॑षः। स॒ह॒स्र॒ऽअ॒क्षः। स॒हस्र॑ऽपात्। सः। भूमि॑म्। वि॒श्वतः॑। वृ॒त्वा। अति॑। अ॒ति॒ष्ठ॒त्। द॒श॒ऽअ॒ङ्गु॒लम्। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +102,17 @@ Purusha hath a thousand arms, a thousand eyes, a thousand feet. On every side pe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohatpAdasyehAbhavatpunaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रि॒भिः प॒द्भिर्द्याम॑रोह॒त् पाद॑स्ये॒हाभ॑व॒त् पुनः॑ ।  
-तथा॒ व्यऽक्राम॒द् विष्व॑ङशनानश॒ने अनु॑ ॥२॥  
+त्रि॒भिः प॒द्भिर्द्याम॑रोह॒त्पाद॑स्ये॒हाभ॑व॒त्पुनः॑।  
+तथा॒ व्य᳡क्राम॒द्विष्व॑ङ्ङशनानश॒ने अनु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohatpAdasyehAbhavatpunaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रि॒भिः प॒द्भिर्द्याम॑रोह॒त्पाद॑स्ये॒हाभ॑व॒त्पुनः॑। तथा॒ व्य᳡क्राम॒द्विष्व॑ङ्ङशनानश॒ने अनु॑ ॥
+त्रि॒भिः प॒द्भिर्द्याम॑रोह॒त्पाद॑स्ये॒हाभ॑व॒त्पुनः॑।  
+तथा॒ व्य᳡क्राम॒द्विष्व॑ङ्ङशनानश॒ने अनु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/02_tribhiH_padbhirdyAmarohatpAdasyehAbhavatpunaH.md">
@@ -145,7 +150,7 @@ He with three quarters rose to heaven here reappeared a fourth of him. Thence he
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिऽभिः। पत्ऽभिः। द्याम्। अरोहत्। पात। अस्य। इह। अभवत्। पुनः। तथा। वि। अक्रामत्। विष्वङ्। अशनानशने इत्यशनऽअनशने। अनु। ६.२।
+त्रि॒ऽभिः। प॒त्ऽभिः। द्याम्। अ॒रो॒ह॒त्। पात। अ॒स्य॒। इ॒ह। अ॒भ॒व॒त्। पुनः॑। तथा॑। वि। अ॒क्रा॒म॒त्। विष्व॑ङ्। अ॒श॒ना॒न॒श॒ने इत्य॑शनऽअ॒न॒श॒ने। अनु॑। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,14 +181,17 @@ He with three quarters rose to heaven here reappeared a fourth of him. Thence he
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ताव॑न्तो अस्य महि॒मान॒स्ततो॒ ज्यायां॑श्च॒ पूरु॑षः ।  
-पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्यृ॒तं॑ दि॒वि॥३॥  
+ताव॑न्तो अस्य महि॒मान॒स्ततो॒ ज्यायां॑श्च॒ पूरु॑षः।  
+पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ताव॑न्तो अस्य महि॒मान॒स्ततो॒ ज्यायां॑श्च॒ पूरु॑षः। पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥
+ताव॑न्तो अस्य महि॒मान॒स्ततो॒ ज्यायां॑श्च॒ पूरु॑षः।  
+पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/03_tAvanto_asya.md">
@@ -218,7 +226,7 @@ So mighty is his grandeur, yea, greater than this is Purusha. All creatures are 
 </details>
 <details><summary>पदपाठः</summary>
 
-तावन्तः। अस्य। महिमानः। ततः। ज्यायान्। च। पुरुषः। पादः। अस्य। विश्वा। भूतानि। त्रिऽपात्। अस्य। अमृतम्। दिवि। ६.३।
+ताव॑न्तः। अ॒स्य॒। म॒हि॒मानः॑। ततः॑। ज्याया॑न्। च॒। पुरु॑षः। पादः॑। अ॒स्य॒। विश्वा॑। भू॒तानि॑। त्रि॒ऽपात्। अ॒स्य॒। अ॒मृत॑म्। दि॒वि। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -249,15 +257,17 @@ So mighty is his grandeur, yea, greater than this is Purusha. All creatures are 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/04_puruSha_evedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुरु॑ष ए॒वेदं सर्वं॒ यद् भू॒तं यच्च॑ भा॒व्यम्।  
-उ॒तामृ॑त॒त्वस्ये॑श्व॒रो यद॒न्येनाभ॑वत् स॒ह॥४॥  
+पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॑ भा॒व्य᳡म्।  
+उ॒तामृ॑त॒त्वस्ये॑श्व॒रो यद॒न्येनाभ॑वत्स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/04_puruSha_evedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुरु॑ष ए॒वेदं सर्वं॒ यद् भू॒तं यच्च॑ भा॒व्यम्।  
-उ॒तामृ॑त॒त्वस्ये॑श्व॒रो यद॒न्येनाभ॑वत् स॒ह॥४॥  
+पुरु॑ष ए॒वेदं सर्वं॒ यद्भू॒तं यच्च॑ भा॒व्य᳡म्।  
+उ॒तामृ॑त॒त्वस्ये॑श्व॒रो यद॒न्येनाभ॑वत्स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/04_puruSha_evedam.md">
@@ -286,7 +296,7 @@ Purusha is in truth this All, what hath been and what yet shall; be Lord, too, o
 </details>
 <details><summary>पदपाठः</summary>
 
-पुरुषः। एव। इदम्। सर्वम्। यत्। भूतम्। यत्। च। भाव्य᳡म्। उत। अमृतऽत्वस्य। ईश्वरः। यत्। अन्येन। अभवत्। सह। ६.४।
+पुरु॑षः। ए॒व। इ॒दम्। सर्व॑म्। यत्। भू॒तम्। यत्। च॒। भा॒व्य᳡म्। उ॒त। अ॒मृ॒त॒ऽत्वस्य॑। ई॒श्व॒रः। यत्। अ॒न्येन॑। अभ॑वत्। स॒ह। ६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -317,14 +327,17 @@ Purusha is in truth this All, what hath been and what yet shall; be Lord, too, o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/05_yatpuruShaM_vyadadhuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् पुरु॑षं॒ व्यद॑धुः कति॒धा व्यऽकल्पयन्।  
-मुखं॒ किम॑स्य॒ किं बा॒हू किमू॒रू पादा॑ उच्येते ॥५॥  
+यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य᳡कल्पयन्।  
+मुखं॒ किम॑स्य॒ किं बा॒हू किमू॒रू पादा॑ उच्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/05_yatpuruShaM_vyadadhuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य᳡कल्पयन्। मुखं॒ किम॑स्य॒ किं बा॒हू किमू॒रू पादा॑ उच्यते ॥
+यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य᳡कल्पयन्।  
+मुखं॒ किम॑स्य॒ किं बा॒हू किमू॒रू पादा॑ उच्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/05_yatpuruShaM_vyadadhuH.md">
@@ -356,7 +369,7 @@ When they divided Purusha how many portions did they make? What was his mouth? w
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। पुरुषम्। वि। अदधुः। कतिऽधा। वि। अकल्पयन्। मुखम्। किम्। अस्य। किम्। बाहू इति। किम्। ऊरू इति। पादौ। उच्येते इति। ६.५।
+यत्। पुरु॑षम्। वि। अद॑धुः। क॒ति॒ऽधा। वि। अ॒क॒ल्प॒य॒न्। मुख॑म्। किम्। अ॒स्य॒। किम्। बा॒हू इति॑। किम्। ऊ॒रू इति॑। पादौ॑। उ॒च्ये॒ते॒ इति॑। ६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -387,14 +400,17 @@ When they divided Purusha how many portions did they make? What was his mouth? w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/06_brAhmaNo-sya_mukhamAsIdbAhU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रा॒ह्म॒णोऽस्य॒ मुख॑मासीद् बा॒हू रा॑ज॒न्योऽभवत्।  
-मध्यं॒ तद॑स्य॒ यद् वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥६॥  
+ब्रा॑ह्म॒णो᳡ऽस्य॒ मुख॑मासीद्बा॒हू रा॑ज॒न्यो᳡ऽभवत्।  
+मध्यं॒ तद॑स्य॒ यद्वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/06_brAhmaNo-sya_mukhamAsIdbAhU.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रा॑ह्म॒णोऽस्य॒ मुख॑मासीद्बा॒हू रा॑ज॒न्योऽभवत्। मध्यं॒ तद॑स्य॒ यद्वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥
+ब्रा॑ह्म॒णो᳡ऽस्य॒ मुख॑मासीद्बा॒हू रा॑ज॒न्यो᳡ऽभवत्।  
+मध्यं॒ तद॑स्य॒ यद्वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/06_brAhmaNo-sya_mukhamAsIdbAhU.md">
@@ -416,7 +432,7 @@ The Brahman was his mouth, of both his arms was the Rajanya made. His waist beca
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्राह्मणः। अस्य। मुखम्। आसीत्। बाहू इति। राजन्यः᳡। अभवत्। मध्यम्। तत्। अस्य। यत्। वैश्यः। पत्ऽभ्याम्। शूद्रः। अजायत। ६.६।
+ब्रा॒ह्म॒णः। अ॒स्य॒। मुख॑म्। आ॒सी॒त्। बा॒हू इति॑। रा॒ज॒न्यः᳡। अ॒भ॒व॒त्। मध्य॑म्। तत्। अ॒स्य॒। यत्। वैश्यः॑। प॒त्ऽभ्याम्। शू॒द्रः। अ॒जा॒य॒त॒। ६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -447,15 +463,17 @@ The Brahman was his mouth, of both his arms was the Rajanya made. His waist beca
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चन्द्र॑मा म॑नसो जात॑श्च॑क्षोः सू॑र्यो अजायत ।  
-मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद् वा॒युर॑जायत ॥७॥  
+च॒न्द्रमा॒ मन॑सो जा॒तश्चक्षोः॒ सूर्यो॑ अजायत।  
+मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद्वा॒युर॑जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-चन्द्र॑मा म॑नसो जात॑श्च॑क्षोः सू॑र्यो अजायत ।  
-मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद् वा॒युर॑जायत ॥७॥  
+च॒न्द्रमा॒ मन॑सो जा॒तश्चक्षोः॒ सूर्यो॑ अजायत।  
+मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ प्रा॒णाद्वा॒युर॑जायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/07_chandramA_manaso.md">
@@ -480,7 +498,7 @@ The Moon was gendered from his mind, and from his eye the Sun had birth. Indra a
 </details>
 <details><summary>पदपाठः</summary>
 
-चन्द्रमाः। मनसः। जातः। चक्षोः। सूर्यः। अजायत। मुखात्। इन्द्रः। च। अग्निः। च। प्राणात्। वायुः। अजायत। ६.७।
+च॒न्द्रमाः॑। मन॑सः। जा॒तः। चक्षोः॑। सूर्यः॑। अ॒जा॒य॒त॒। मुखा॑त्। इन्द्रः॑। च॒। अ॒ग्निः। च॒। प्रा॒णात्। वा॒युः। अ॒जा॒य॒त॒। ६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -511,14 +529,17 @@ The Moon was gendered from his mind, and from his eye the Sun had birth. Indra a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत ।  
-प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त् तथा॑ लो॒कां अ॑कल्पयन्॥८॥  
+नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत।  
+प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त्तथा॑ लो॒काँ अ॑कल्पयन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत। प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त्तथा॑ लो॒काँ अ॑कल्पयन् ॥
+नाभ्या॑ आसीद॒न्तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत।  
+प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त्तथा॑ लो॒काँ अ॑कल्पयन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/08_nAbhyA_AsIdantarixam.md">
@@ -540,7 +561,7 @@ Forth from his navel come mid-air; the sky was fashioned from his head. Earth fr
 </details>
 <details><summary>पदपाठः</summary>
 
-नाभ्याः। आसीत्। अन्तरिक्षम्। शीर्ष्णः। द्यौः। सम्। अवर्तत। पत्ऽभ्याम्। भूमिः। दिशः। श्रोत्रात्। तथा। लोकान्। अकल्पयन्। ६.८।
+नाभ्याः॑। आ॒सी॒त्। अ॒न्तरि॑क्षम्। शी॒र्ष्णः। द्यौः। सम्। अ॒व॒र्त॒त॒। प॒त्ऽभ्याम्। भूमिः॑। दिशः॑। श्रोत्रा॑त्। तथा॑। लो॒कान्। अ॒क॒ल्प॒य॒न्। ६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -567,23 +588,25 @@ Forth from his navel come mid-air; the sky was fashioned from his head. Earth fr
 </details>
 </details>
 </div>
-## ०९ विराडग्रे समभवद्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
+## ०९ विराडग्रे समभवद्विराजो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavadvirAjo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒राडग्रे॒ सम॑भवद् वि॒राजो॒ अधि॒ पूरु॑षः ।  
-स जा॒तो अत्य॑रिच्यत प॒श्चाद् भूमि॒मथो॑ पु॒रः ॥९॥  
+वि॒राडग्रे॒ सम॑भवद्वि॒राजो॒ अधि॒ पूरु॑षः।  
+स जा॒तो अत्य॑रिच्यत प॒श्चाद्भूमि॒मथो॑ पु॒रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/09_virADagre_samabhavadvirAjo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒राडग्रे॒ सम॑भवद् वि॒राजो॒ अधि॒ पूरु॑षः ।  
-स जा॒तो अत्य॑रिच्यत प॒श्चाद् भूमि॒मथो॑ पु॒रः ॥९॥  
+वि॒राडग्रे॒ सम॑भवद्वि॒राजो॒ अधि॒ पूरु॑षः।  
+स जा॒तो अत्य॑रिच्यत प॒श्चाद्भूमि॒मथो॑ पु॒रः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavad.md">
-<details open><summary><h3>०९ विराडग्रे समभवद् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/09_virADagre_samabhavadvirAjo.md">
+<details open><summary><h3>०९ विराडग्रे समभवद्विराजो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -602,7 +625,7 @@ In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽराट्। अग्ने। सम्। अभवत्। विऽराजः। अधि। पुरुषः। सः। जातः। अति। अरिच्यत। पश्चात्। भूमिम्। अथो इति। पुरः। ६.९।
+वि॒ऽराट्। अग्ने॑। सम्। अ॒भ॒व॒त्। वि॒ऽराजः॑। अधि॑। पुरु॑षः। सः। जा॒तः। अति॑। अ॒रि॒च्य॒त॒। प॒श्चात्। भूमि॑म्। अथो॒ इति॑। पु॒रः। ६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -629,23 +652,25 @@ In the beginning rose Viraj: Purusha from Viraj was born. As soon as he was born
 </details>
 </details>
 </div>
-## १० यत् पुरुषेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
+## १० यत्पुरुषेण हविषा
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/10_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत ।  
-व॒स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥१०॥  
+यत्पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत।  
+व॑स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/10_yatpuruSheNa_haviShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत् पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत ।  
-व॒स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥१०॥  
+यत्पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत।  
+व॑स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/10_yat_puruSheNa.md">
-<details open><summary><h3>१० यत् पुरुषेण ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/10_yatpuruSheNa_haviShA.md">
+<details open><summary><h3>१० यत्पुरुषेण हविषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -663,7 +688,7 @@ When Gods performed the sacrifice with Purusha as their offering. Spring was the
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। पुरुषेण। हविषा। देवाः। यज्ञम्। अतन्वत। वसन्तः। अस्य। आसीत्। आज्यम्। ग्रीष्मः। इध्मः। शरत्। हविः। ६.१०।
+यत्। पुरु॑षेण। ह॒विषा॑। दे॒वाः। य॒ज्ञम्। अत॑न्वत। व॒स॒न्तः। अ॒स्य॒। आ॒सी॒त्। आज्य॑म्। ग्री॒ष्मः। इ॒ध्मः। श॒रत्। ह॒विः। ६.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -694,15 +719,17 @@ When Gods performed the sacrifice with Purusha as their offering. Spring was the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/11_taM_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तं य॒ज्ञं प्रा॒वृषा॒ प्रौक्ष॒न् पुरु॑षं जा॒तम॑ग्र॒शः ।  
-तेन॑ दे॒वा अ॑यजन्त सा॒ध्या वस॑वश्च॒ ये॥११॥  
+तं य॒ज्ञं प्रा॒वृषा॒ प्रौक्ष॒न्पुरु॑षं जा॒तम॑ग्र॒शः।  
+तेन॑ दे॒वा अ॑यजन्त सा॒ध्या वस॑वश्च॒ ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/11_taM_yajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तं य॒ज्ञं प्रा॒वृषा॒ प्रौक्ष॒न् पुरु॑षं जा॒तम॑ग्र॒शः ।  
-तेन॑ दे॒वा अ॑यजन्त सा॒ध्या वस॑वश्च॒ ये॥११॥  
+तं य॒ज्ञं प्रा॒वृषा॒ प्रौक्ष॒न्पुरु॑षं जा॒तम॑ग्र॒शः।  
+तेन॑ दे॒वा अ॑यजन्त सा॒ध्या वस॑वश्च॒ ये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/11_taM_yajnam.md">
@@ -727,7 +754,7 @@ That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. Th
 </details>
 <details><summary>पदपाठः</summary>
 
-तम्। यज्ञम्। प्रावृषा। प्र। औक्षन्। पुरुषम्। जातम्। अग्रऽशः। तेन। देवाः। अयजन्तः। साध्याः। वसवः। च। ये। ६.११।
+तम्। य॒ज्ञम्। प्रा॒वृषा॑। प्र। औ॒क्ष॒न्। पुरु॑षम्। जा॒तम्। अ॒ग्र॒ऽशः। तेन॑। दे॒वाः। अ॒य॒ज॒न्तः॒। सा॒ध्याः। वस॑वः। च॒। ये। ६.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -758,15 +785,17 @@ That sacrifice, first-born Purusha, they hallowed with the sprink- led Rains. Th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मा॒दश्वा॑ अजायन्त॒ ये च॒ के चो॑भ॒याद॑तः ।  
-गावो॑ ह जज्ञिरे॒ तस्मा॒त् तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥१२॥  
+तस्मा॒दश्वा॑ अजायन्त॒ ये च॒ के चो॑भ॒याद॑तः।  
+गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्मा॒दश्वा॑ अजायन्त॒ ये च॒ के चो॑भ॒याद॑तः ।  
-गावो॑ ह जज्ञिरे॒ तस्मा॒त् तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥१२॥  
+तस्मा॒दश्वा॑ अजायन्त॒ ये च॒ के चो॑भ॒याद॑तः।  
+गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/12_tasmAdashvA_ajAyanta.md">
@@ -793,7 +822,7 @@ From it were horses born, from it all creatures with two rows of teeth. From it 
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्मात्। अश्वाः। अजायन्त। ये। च। के। च। उभयादतः। गावः। ह। जज्ञिरे। तस्मात्। तस्मात्। जाताः। अजऽअवयः। ६.१२।
+तस्मा॑त्। अश्वाः॑। अ॒जा॒य॒न्त॒। ये। च॒। के। च॒। उ॒भ॒याद॑तः। गावः॑। ह॒। ज॒ज्ञि॒रे॒। तस्मा॑त्। तस्मा॑त्। जा॒ताः। अ॒ज॒ऽअ॒वयः॑। ६.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -820,23 +849,25 @@ From it were horses born, from it all creatures with two rows of teeth. From it 
 </details>
 </details>
 </div>
-## १३ तस्माद् यज्ञात्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
+## १३ तस्माद्यज्ञात्सर्वहुत ऋचः
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/13_tasmAdyajnAtsarvahuta_RchaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मा॑द् य॒ज्ञात् स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे ।  
-छन्दो॑ ह जज्ञिरे॒ तस्मा॒द् यजु॒स्तस्मा॑दजायत ॥१३॥  
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे।  
+छन्दो॑ ह जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/13_tasmAdyajnAtsarvahuta_RchaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्मा॑द् य॒ज्ञात् स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे ।  
-छन्दो॑ ह जज्ञिरे॒ तस्मा॒द् यजु॒स्तस्मा॑दजायत ॥१३॥  
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे।  
+छन्दो॑ ह जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/13_tasmAd_yajnAt.md">
-<details open><summary><h3>१३ तस्माद् यज्ञात् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/13_tasmAdyajnAtsarvahuta_RchaH.md">
+<details open><summary><h3>१३ तस्माद्यज्ञात्सर्वहुत ऋचः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -860,7 +891,7 @@ From that great general sacrifice Richas and Sama hymns were born; Therefrom the
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्मात्। यज्ञात्। सर्वऽहुतः। ऋचः। सामानि। जज्ञिरे। छन्दः। ह। जज्ञिरे। तस्मात्। यजुः। तस्मात्। अजायत। ६.१३।
+तस्मा॑त्। य॒ज्ञात्। स॒र्व॒ऽहुतः॑। ऋचः॑। सामा॑नि। ज॒ज्ञि॒रे॒। छन्दः॑। ह॒। ज॒ज्ञि॒रे॒। तस्मा॑त्। यजुः॑। तस्मा॑त्। अ॒जा॒य॒त॒। ६.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -891,14 +922,17 @@ From that great general sacrifice Richas and Sama hymns were born; Therefrom the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/14_tasmAdyajnAtsarvahutaH_sambhRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मा॑द् य॒ज्ञात् स॑र्व॒हुतः॒ संभृ॑तं पृषदा॒ज्यऽम्।  
-प॒शूंस्तांश्च॑क्रे वाय॒व्याऽनार॒ण्या ग्रा॒म्याश्च॒ ये॥१४॥  
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुतः॒ संभृ॑तं पृषदा॒ज्य᳡म्।  
+प॒शूंस्तांश्च॑क्रे वाय॒व्या᳡नार॒ण्या ग्रा॒म्याश्च॒ ये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/14_tasmAdyajnAtsarvahutaH_sambhRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्मा॑द्य॒ज्ञात्स॑र्व॒हुतः॒ संभृ॑तं पृषदा॒ज्य᳡म्। प॒शूंस्तांश्च॑क्रे वाय॒व्या᳡नार॒ण्या ग्रा॒म्याश्च॒ ये ॥
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुतः॒ संभृ॑तं पृषदा॒ज्य᳡म्।  
+प॒शूंस्तांश्च॑क्रे वाय॒व्या᳡नार॒ण्या ग्रा॒म्याश्च॒ ये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/14_tasmAdyajnAtsarvahutaH_sambhRtam.md">
@@ -924,7 +958,7 @@ From that great general sacrifice the dripping fat was gathered up: It formed th
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्मात्। यज्ञात्। सर्वऽहुतः। सम्ऽभृतम्। पृषत्ऽआज्य᳡म्। पशून्। तान्। चक्रे। वायव्या᳡न्। आरण्याः। ग्राम्याः। च। ये। ६.१४।
+तस्मा॑त्। य॒ज्ञात्। स॒र्व॒ऽहुतः॑। सम्ऽभृ॑तम्। पृ॒ष॒त्ऽआ॒ज्य᳡म्। प॒शून्। तान्। च॒क्रे॒। वा॒य॒व्या᳡न्। आ॒र॒ण्याः। ग्रा॒म्याः। च॒। ये। ६.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -951,23 +985,25 @@ From that great general sacrifice the dripping fat was gathered up: It formed th
 </details>
 </details>
 </div>
-## १५ सप्तास्यासन् परिधयस्त्रिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
+## १५ सप्तास्यासन्परिधयस्त्रिः सप्त
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/15_saptAsyAsanparidhayastriH_sapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्तास्या॑सन् परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः ।  
-दे॒वा यद् य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न् पुरु॑षं प॒शुम्॥१५॥  
+स॒प्तास्या॑सन्परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः।  
+दे॒वा यद्य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न्पुरु॑षं प॒शुम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/15_saptAsyAsanparidhayastriH_sapta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒प्तास्या॑सन् परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः ।  
-दे॒वा यद् य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न् पुरु॑षं प॒शुम्॥१५॥  
+स॒प्तास्या॑सन्परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः।  
+दे॒वा यद्य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न्पुरु॑षं प॒शुम् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/15_saptAsyAsan_paridhayastriH.md">
-<details open><summary><h3>१५ सप्तास्यासन् परिधयस्त्रिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/15_saptAsyAsanparidhayastriH_sapta.md">
+<details open><summary><h3>१५ सप्तास्यासन्परिधयस्त्रिः सप्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -987,7 +1023,7 @@ Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offe
 </details>
 <details><summary>पदपाठः</summary>
 
-सप्त। अस्य। आसन्। परिऽधयः। त्रिः। सप्त। सम्ऽइधः। कृताः। देवाः। यत्। यज्ञम्। तन्वानाः। अबध्नन्। पुरुषम्। पशुम्। ६.१५।
+स॒प्त। अ॒स्य॒। आ॒स॒न्। प॒रि॒ऽधयः॑। त्रिः। स॒प्त। स॒म्ऽइधः॑। कृ॒ताः। दे॒वाः। यत्। य॒ज्ञम्। त॒न्वा॒नाः। अब॑ध्नन्। पुरु॑षम्। प॒शुम्। ६.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1018,15 +1054,17 @@ Seven fencing-logs had he, thrice seven layers of fuel were prepared. When, offe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॒र्ध्नो दे॒वस्य॑ बृह॒तो अं॒शवः॑ स॒प्त स॑प्त॒तीः ।  
-राज्ञः॒ सोम॑स्याजायन्त जा॒तस्य॒ पुरु॑षा॒दधि॑ ॥१६॥
+मू॒र्ध्नो दे॒वस्य॑ बृह॒तो अं॒शवः॑ स॒प्त स॑प्त॒तीः।  
+राज्ञः॒ सोम॑स्याजायन्त जा॒तस्य॒ पुरु॑षा॒दधि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मू॒र्ध्नो दे॒वस्य॑ बृह॒तो अं॒शवः॑ स॒प्त स॑प्त॒तीः ।  
-राज्ञः॒ सोम॑स्याजायन्त जा॒तस्य॒ पुरु॑षा॒दधि॑ ॥१६॥
+मू॒र्ध्नो दे॒वस्य॑ बृह॒तो अं॒शवः॑ स॒प्त स॑प्त॒तीः।  
+राज्ञः॒ सोम॑स्याजायन्त जा॒तस्य॒ पुरु॑षा॒दधि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/006_jagadbIja_puruShaH/16_mUrdhno_devasya.md">
@@ -1052,7 +1090,7 @@ Forth from head of the high God seven-and-seventy bright beams. Sprang into bein
 </details>
 <details><summary>पदपाठः</summary>
 
-मूर्धः। देवस्य। बृहतः। अंशवः। सप्त। सप्ततीः। राज्ञः। सोमस्य। अजायन्त। जातस्य। पुरुषात्। अधि। ६.१६।
+मू॒र्धः। दे॒वस्य॑। बृ॒ह॒तः। अं॒शवः॑। स॒प्त। स॒प्त॒तीः। राज्ञः॑। सोम॑स्य। अ॒जा॒य॒न्त॒। जा॒तस्य॑। पुरु॑षात्। अधि॑। ६.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

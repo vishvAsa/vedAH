@@ -36,13 +36,15 @@ A hymn of invitation to the gods
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/01_yajUMShi_yajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यजूं॑षि य॒ज्ञे स॒मिधः॒ स्वाहा॒ग्निः प्र॑वि॒द्वानि॒ह वो॑ युनक्तु ॥१॥  
+यजूं॑षि य॒ज्ञे स॒मिधः॒ स्वाहा॒ग्निः प्र॑वि॒द्वानि॒ह वो॑ युनक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/01_yajUMShi_yajne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यजूं॑षि य॒ज्ञे स॒मिधः॒ स्वाहा॒ग्निः प्र॑वि॒द्वानि॒ह वो॑ युनक्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/01_yajUMShi_yajne.md">
@@ -65,7 +67,7 @@ In sacrifice for you may sapient Agni--All hail!--use Yajus texts and fuel.
 </details>
 <details><summary>पदपाठः</summary>
 
-यजूंषि। यज्ञे। सम्ऽइधः। स्वाहा। अग्निः। प्रऽविद्वान्। इह। वः। युनक्तु। २६.१।
+यजूं॑षि। य॒ज्ञे। स॒म्ऽइधः॑। स्वाहा॑। अ॒ग्निः। प्र॒ऽवि॒द्वान्। इ॒ह। वः॒। यु॒न॒क्तु॒। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,13 +98,15 @@ In sacrifice for you may sapient Agni--All hail!--use Yajus texts and fuel.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/02_yunaktu_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॒नक्तु॑ दे॒वः स॑वि॒ता प्र॑जा॒नन्न॒स्मिन् य॒ज्ञे म॑हि॒षः स्वाहा॑ ॥२॥  
+यु॒नक्तु॑ दे॒वः स॑वि॒ता प्र॑जा॒नन्न॒स्मिन्य॒ज्ञे म॑हि॒षः स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/02_yunaktu_devaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यु॒नक्तु॑ दे॒वः स॑वि॒ता प्र॑जा॒नन्न॒स्मिन्य॒ज्ञे म॑हि॒षः स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/02_yunaktu_devaH.md">
@@ -124,7 +128,7 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 </details>
 <details><summary>पदपाठः</summary>
 
-युनक्तु। देवः। सविता। प्रऽजानन्। अस्मिन्। यज्ञे। महिषः। स्वाहा। २६.२।
+यु॒नक्तु॑। दे॒वः। स॒वि॒ता। प्र॒ऽजा॒नन्। अ॒स्मिन्। य॒ज्ञे। म॒हि॒षः। स्वाहा॑। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,13 +159,15 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/03_indra_ukthAmadAnyasminyajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ उक्थाम॒दान्य॒स्मिन् य॒ज्ञे प्र॑वि॒द्वान् यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥३॥  
+इन्द्र॑ उक्थाम॒दान्य॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/03_indra_ukthAmadAnyasminyajne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 इन्द्र॑ उक्थाम॒दान्य॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/03_indra_ukthAmadAnyasminyajne.md">
@@ -186,7 +192,7 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। उक्थऽमदानि। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुजः। स्वाहा। २६.३।
+इन्द्रः॑। उ॒क्थ॒ऽम॒दानि॑। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -217,13 +223,15 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/04_praiShA_yajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रै॒षा य॒ज्ञे नि॒विदः॒ स्वाहा॑ शि॒ष्टाः पत्नी॑भिर्वहते॒ह यु॒क्ताः ॥४॥  
+प्रै॒षा य॒ज्ञे नि॒विदः॒ स्वाहा॑ शि॒ष्टाः पत्नी॑भिर्वहते॒ह यु॒क्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/04_praiShA_yajne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्रै॒षा य॒ज्ञे नि॒विदः॒ स्वाहा॑ शि॒ष्टाः पत्नी॑भिर्वहते॒ह यु॒क्ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/04_praiShA_yajne.md">
@@ -243,7 +251,7 @@ Bring Praishas in the rite--All hail!--and Nivids, learned, con- nected, with th
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रऽएषाः। यज्ञे। निऽविदः। स्वाहा। शिष्टाः। पत्नीभिः। वहत। इह। युक्ताः। २६.४।
+प्र॒ऽए॒षाः। य॒ज्ञे। नि॒ऽविदः॑। स्वाहा॑। शि॒ष्टाः। पत्नी॑भिः। व॒ह॒त॒। इ॒ह। यु॒क्ताः। २६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -274,13 +282,15 @@ Bring Praishas in the rite--All hail!--and Nivids, learned, con- nected, with th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/05_ChandAMsi_yajne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-छन्दां॑सि य॒ज्ञे म॑रुतः॒ स्वाहा॑ मा॒तेव॑ पु॒त्रं पि॑पृते॒ह यु॒क्ताः ॥५॥  
+छन्दां॑सि य॒ज्ञे म॑रुतः॒ स्वाहा॑ मा॒तेव॑ पु॒त्रं पि॑पृते॒ह यु॒क्ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/05_ChandAMsi_yajne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 छन्दां॑सि य॒ज्ञे म॑रुतः॒ स्वाहा॑ मा॒तेव॑ पु॒त्रं पि॑पृते॒ह यु॒क्ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/05_ChandAMsi_yajne.md">
@@ -301,7 +311,7 @@ As a dame brings her son--All hail! O Maruts, connected, in the rite bring measu
 </details>
 <details><summary>पदपाठः</summary>
 
-छन्दांसि। यज्ञे। मरुतः। स्वाहा। माताऽइव। पुत्रम्। पिपृत। इह। युक्ताः। २६.५।
+छन्दां॑सि। य॒ज्ञे। म॒रु॒तः॒। स्वाहा॑। मा॒ताऽइ॑व। पु॒त्रम्। पि॒पृ॒त॒। इ॒ह। यु॒क्ताः। २६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -332,13 +342,15 @@ As a dame brings her son--All hail! O Maruts, connected, in the rite bring measu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/06_eyamaganbarhiShA_proxaNIbhiryajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एयम॑गन् ब॒र्हिषा॒ प्रोक्ष॑णीभिर्य॒ज्ञं त॑न्वा॒नादि॑तिः॒ स्वाहा॑ ॥६॥  
+एयम॑गन्ब॒र्हिषा॒ प्रोक्ष॑णीभिर्य॒ज्ञं त॑न्वा॒नादि॑तिः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/06_eyamaganbarhiShA_proxaNIbhiryajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 एयम॑गन्ब॒र्हिषा॒ प्रोक्ष॑णीभिर्य॒ज्ञं त॑न्वा॒नादि॑तिः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/06_eyamaganbarhiShA_proxaNIbhiryajnam.md">
@@ -358,7 +370,7 @@ Here Aditi is come--All hail!--preparing the rite with grass and lustral waters.
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इयम्। अगन्। बर्हिषा। प्रऽउक्षणीभिः। यज्ञम्। तन्वाना। अदितिः। स्वाहा। २६.६।
+आ। इ॒यम्। अ॒ग॒न्। ब॒र्हिषा॑। प्र॒ऽउक्ष॑णीभिः। य॒ज्ञम्। त॒न्वा॒ना। अदि॑तिः। स्वाहा॑। २६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -389,13 +401,15 @@ Here Aditi is come--All hail!--preparing the rite with grass and lustral waters.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/07_viShNuryunaktu_bahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्णु॑र्युनक्तु बहु॒धा तपां॑स्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥७॥  
+विष्णु॑र्युनक्तु बहु॒धा तपां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/07_viShNuryunaktu_bahudhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 विष्णु॑र्युनक्तु बहु॒धा तपां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/07_viShNuryunaktu_bahudhA.md">
@@ -415,7 +429,7 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 </details>
 <details><summary>पदपाठः</summary>
 
-विष्णुः। युनक्तु। बहुऽधा। तपासि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.७।
+विष्णुः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। तपा॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -446,13 +460,15 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/08_tvaShTA_yunaktu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वष्टा॑ युनक्तु बहु॒धा नु रू॒पा अ॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥८॥  
+त्वष्टा॑ युनक्तु बहु॒धा नु रू॒पा अ॒स्मिन्य॒ज्ञे यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/08_tvaShTA_yunaktu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 त्वष्टा॑ युनक्तु बहु॒धा नु रू॒पा अ॒स्मिन्य॒ज्ञे यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/08_tvaShTA_yunaktu.md">
@@ -477,7 +493,7 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वष्टा। युनक्तु। बहुऽधा। नु। रूपाः। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.८।
+त्वष्टा॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। नु। रू॒पाः। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -508,13 +524,15 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/09_bhago_yunaktvAshiSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भगो॑ युनक्त्वा॒शिषो॒ न्व॑१स्मा अ॒स्मिन् य॒ज्ञे प्र॑वि॒द्वान् यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥९॥  
+भगो॑ युनक्त्वा॒शिषो॒ न्व१॒॑स्मा अ॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/09_bhago_yunaktvAshiSho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भगो॑ युनक्त्वा॒शिषो॒ न्वस्मा अ॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+भगो॑ युनक्त्वा॒शिषो॒ न्व१॒॑स्मा अ॒स्मिन्य॒ज्ञे प्र॑वि॒द्वान्यु॑नक्तु सु॒युजः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/09_bhago_yunaktvAshiSho.md">
@@ -535,7 +553,7 @@ Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yok
 </details>
 <details><summary>पदपाठः</summary>
 
-भगः। युनक्तु। आऽशिषः। नु। अस्मै। अस्मिन्। यज्ञे। प्रऽविद्वान्। युनक्तु। सुऽयुजः। स्वाहा। २६.९।
+भगः॑। यु॒न॒क्तु॒। आ॒ऽशिषः॑। नु। अ॒स्मै। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -566,13 +584,15 @@ Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yok
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/10_somo_yunaktu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥१०॥  
+सोमो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/10_somo_yunaktu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सोमो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/10_somo_yunaktu.md">
@@ -591,7 +611,7 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमः। युनक्तु। बहुऽधा। पयांसि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.१०।
+सोमः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। पयां॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -622,13 +642,15 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/11_indro_yunaktu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ युनक्तु बहु॒धा वी॒ऽर्याण्य॒स्मिन् य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥११॥  
+इन्द्रो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/11_indro_yunaktu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 इन्द्रो॑ युनक्तु बहु॒धा पयां॑स्य॒स्मिन्य॒ज्ञे सु॒युजः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/11_indro_yunaktu.md">
@@ -647,7 +669,7 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। युनक्तु। बहुऽधा। वीर्या᳡णि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.११।
+इन्द्रः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। वी॒र्या᳡णि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -678,14 +700,17 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/026_navashAlAyAM_ghRtahomaH/12_ashvinA_brahmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्वि॑ना॒ ब्रह्म॒णा या॑तम॒र्वाञ्चौ॑ वषट्का॒रेण॑ य॒ज्ञं व॒र्धय॑तौ ।  
-बृह॑स्पते॒ ब्रह्म॒णा या॑ह्य॒र्वाङ् य॒ज्ञो अ॒यं स्वऽरि॒दं यज॑मानाय॒ स्वाहा॑ ॥१२॥
+अश्वि॑ना॒ ब्रह्म॒णा या॑तम॒र्वाञ्चौ॑ वषट्का॒रेण॑ य॒ज्ञं व॒र्धय॑न्तौ।  
+बृह॑स्पते॒ ब्रह्म॒णा या॑ह्य॒र्वाङ् य॒ज्ञो अ॒यं स्व॑रि॒दं यज॑मानाय॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/026_navashAlAyAM_ghRtahomaH/12_ashvinA_brahmaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अश्वि॑ना॒ ब्रह्म॒णा या॑तम॒र्वाञ्चौ॑ वषट्का॒रेण॑ य॒ज्ञं व॒र्धय॑न्तौ। बृह॑स्पते॒ ब्रह्म॒णा या॑ह्य॒र्वाङ् य॒ज्ञो अ॒यं स्व॑रि॒दं यज॑मानाय॒ स्वाहा॑ ॥
+अश्वि॑ना॒ ब्रह्म॒णा या॑तम॒र्वाञ्चौ॑ वषट्का॒रेण॑ य॒ज्ञं व॒र्धय॑न्तौ।  
+बृह॑स्पते॒ ब्रह्म॒णा या॑ह्य॒र्वाङ् य॒ज्ञो अ॒यं स्व॑रि॒दं यज॑मानाय॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/026_navashAlAyAM_ghRtahomaH/12_ashvinA_brahmaNA.md">
@@ -714,7 +739,7 @@ Hitherward come ye with the prayer, O Asvins, exalting sacrifice with cry of Vas
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्विना। ब्रह्मणा। आ। यातम्। अर्वाञ्चौ। वषट्ऽकारेण। यज्ञम्। वर्धयन्तौ। बृहस्पते। ब्रह्मणा। आ। याहि। अवाङ्। यज्ञः। अयम्। स्वः᳡। इदम्। यजमानाय। स्वाहा। २६.१२।
+अश्वि॑ना। ब्रह्म॑णा। आ। या॒त॒म्। अ॒र्वाञ्चौ॑। व॒ष॒ट्ऽका॒रेण॑। य॒ज्ञम्। व॒र्धय॑न्तौ। बृह॑स्पते। ब्रह्म॑णा। आ। या॒हि॒। अ॒वाङ्। य॒ज्ञः। अ॒यम्। स्वः᳡। इ॒दम्। यज॑मानाय। स्वाहा॑। २६.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

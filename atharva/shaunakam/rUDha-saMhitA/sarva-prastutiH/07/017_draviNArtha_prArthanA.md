@@ -33,14 +33,17 @@ A prayer for wealth and children
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑ ।  
-स नः॑ पू॒र्णेन॑ यच्छतु ॥१॥  
+धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑।  
+स नः॑ पू॒र्णेन॑ यच्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑। स नः॑ पू॒र्णेन॑ यच्छतु ॥
+धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑।  
+स नः॑ पू॒र्णेन॑ यच्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
@@ -63,7 +66,7 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 </details>
 <details><summary>पदपाठः</summary>
 
-धाता। दधातु। नः। रयिम्। ईशानः। जगतः। पतिः। सः। नः। पूर्णेन। यच्छतु। १८.१।
+धा॒ता। द॒धा॒तु॒। नः॒। र॒यिम्। ईशा॑नः। जग॑तः। पतिः॑। सः। नः॒। पू॒र्णेन॑। य॒च्छ॒तु॒। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,14 +97,17 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒क्षि॑ताम्।  
-व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥२॥  
+धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒मक्षि॑ताम्।  
+व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒मक्षि॑ताम्। व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥
+धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒मक्षि॑ताम्।  
+व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
@@ -129,7 +135,7 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 </details>
 <details><summary>पदपाठः</summary>
 
-धाता। दधातु। दाशुषे। प्राचीम्। जीवातुम्। अक्षिताम्। वयम्। देवस्य। धीमहि। सुऽमतिम्। विश्वऽराधसः। १८.२।
+धा॒ता। द॒धा॒तु॒। दा॒शुषे॑। प्राची॑म्। जी॒वातु॑म्। अक्षि॑ताम्। व॒यम्। दे॒वस्य॑। धी॒म॒हि॒। सु॒ऽम॒तिम्। वि॒श्वऽरा॑धसः। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,13 +167,16 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे।  
-तस्मै॑ दे॒वाअ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥३॥  
+तस्मै॑ दे॒वा अ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे। तस्मै॑ दे॒वा अ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥
+धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे।  
+तस्मै॑ दे॒वा अ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
@@ -195,7 +204,7 @@ To him may Dhatar grant all kinds of blessings who, craving children, serves him
 </details>
 <details><summary>पदपाठः</summary>
 
-धाता। विश्वा। वार्या। दधातु। प्रजाऽकामाय। दाशुषे। दुरोणे। तस्मै। देवाः। अमृतम्। सम्। व्ययन्तु। विश्वे। देवाः। अदितिः। सऽजोषाः। १८.३।
+धा॒ता। विश्वा॑। वार्या॑। द॒धा॒तु॒। प्र॒जाऽका॑माय। दा॒शुषे॑। दु॒रो॒णे। तस्मै॑। दे॒वाः। अ॒मृत॑म्। सम्। व्य॒य॒न्तु॒। विश्वे॑। दे॒वाः। अदि॑तिः। स॒ऽजोषाः॑। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ To him may Dhatar grant all kinds of blessings who, craving children, serves him
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः ।  
-त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥४॥
+धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः।  
+त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः। त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥
+धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः।  
+त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
@@ -260,7 +272,7 @@ May this our gift please Savitar, Rati, Dhatar, Prajapati, and Agni Lord of Trea
 </details>
 <details><summary>पदपाठः</summary>
 
-धाता। रातिः। सविता। इदम्। जुषन्ताम्। प्रजाऽपतिः। निधिऽपतिः। नः। अग्निः। त्वष्टा। विष्णुः। प्रऽजया। सम्ऽरराण। यजमानाय। द्रविणम्। दधातु। १८.४।
+धा॒ता। रा॒तिः। स॒वि॒ता। इ॒दम्। जु॒ष॒न्ता॒म्। प्र॒जाऽप॑तिः। नि॒धिऽप॑तिः। नः॒। अ॒ग्निः। त्वष्टा॑। विष्णुः॑। प्र॒ऽजया॑। स॒म्ऽर॒रा॒ण। यज॑मानाय। द्रवि॑णम्। द॒धा॒तु॒। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ Glorification of the prime cause of all things
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वे॒नस्तत् प॑श्यत् पर॒मं गुहा॒ यद् यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
-इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्यऽनूषत॒ व्राः ॥१॥  
+वे॒नस्तत्प॑श्यत्पर॒मं गुहा॒ यद्यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
+इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्य॑नूषत॒ व्राः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वे॒नस्तत्प॑श्यत्पर॒मं गुहा॒ यद्यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्। इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्य॑नूषत॒ व्राः ॥
+वे॒नस्तत्प॑श्यत्पर॒मं गुहा॒ यद्यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
+इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्य॑नूषत॒ व्राः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
@@ -64,7 +67,7 @@ Vena beholds That Highest which lies hidden, wherein this All resumes one form a
 </details>
 <details><summary>पदपाठः</summary>
 
-वेनः। तत्। पश्यत्। परमम्। गुहा। यत्। यत्र। विश्वम्। भवति। एकऽरूपम्। इदम्। पृश्निः। अदुहत्। जायमानाः। स्वःऽविदः। अभि। अनूषत। व्राः। १.१।
+वे॒नः। तत्। प॒श्य॒त्। प॒र॒मम्। गुहा॑। यत्। यत्र॑। विश्व॑म्। भव॑ति। एक॑ऽरूपम्। इ॒दम्। पृश्निः॑। अ॒दु॒ह॒त्। जाय॑मानाः। स्वः॒ऽविदः॑। अ॒भि। अ॒नू॒ष॒त॒। व्राः। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Vena beholds That Highest which lies hidden, wherein this All resumes one form a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र तद् वो॑चेद॒मृत॑स्य वि॒द्वान् ग॑न्ध॒र्वो धाम॑ पर॒मं गुहा॒ यत्।  
-त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त्॥२॥  
+प्र तद्वो॑चेद॒मृत॑स्य वि॒द्वान् ग॑न्ध॒र्वो धाम॑ पर॒मं गुहा॒ यत्।  
+त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र तद्वो॑चेद॒मृत॑स्य वि॒द्वान् ग॑न्ध॒र्वो धाम॑ पर॒मं गुहा॒ यत्। त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त् ॥
+प्र तद्वो॑चेद॒मृत॑स्य वि॒द्वान् ग॑न्ध॒र्वो धाम॑ पर॒मं गुहा॒ यत्।  
+त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
@@ -135,7 +141,7 @@ Knowing Eternity, may the Gandharva declare to us that highest secret station. T
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। तत्। वोचेत्। अमृतस्य। विद्वान्। गन्धर्वः। धाम। परमम्। गुहा। यत्। त्रीणि। पदानि। निऽहिता। गुहा। अस्य। यः। तानि। वेद। सः। पितुः। पिता। असत्। १.२।
+प्र। तत्। वो॒चे॒त्। अ॒मृत॑स्य। वि॒द्वान्। ग॒न्ध॒र्वः। धाम॑। प॒र॒मम्। गुहा॑। यत्। त्रीणि॑। प॒दानि॑। निऽहि॑ता। गुहा॑। अ॒स्य॒। यः। तानि॑। वेद॑। सः। पि॒तुः। पि॒ता। अ॒स॒त्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Knowing Eternity, may the Gandharva declare to us that highest secret station. T
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/03_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑ ।  
-यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥३॥  
+स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑।  
+यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/03_sa_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑। यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥
+स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑।  
+यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/03_sa_naH.md">
@@ -210,7 +219,7 @@ He is our kinsman, father, and begetter: he knows all beings and all Ordinances.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। नः। पिता। जनिता। सः। उत। बन्धुः। धामानि। वेद। भुवनानि। विश्वा। यः। देवानाम्। नामऽधः। एकः। एव। तम्। सम्ऽप्रश्नम्। भुवना। यन्ति। सर्वा। १.३।
+सः। नः॒। पि॒ता। ज॒नि॒ता। सः। उ॒त। बन्धुः॑। धामा॑नि। वे॒द॒। भुव॑नानि। विश्वा॑। यः। दे॒वाना॑म्। ना॒म॒ऽधः। एकः॑। ए॒व। तम्। स॒म्ऽप्र॒श्नम्। भुव॑ना। य॒न्ति॒। सर्वा॑। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -241,14 +250,17 @@ He is our kinsman, father, and begetter: he knows all beings and all Ordinances.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑ ।  
-वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॒३षो अ॒ग्निः ॥४॥  
+परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑।  
+वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॑३षो अ॒ग्निः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑। वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॑३षो अ॒ग्निः ॥
+परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑।  
+वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॑३षो अ॒ग्निः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
@@ -282,7 +294,7 @@ I have gone forth around the earth and heaven, I have approached the first-born 
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। द्यावापृथिवी इति। सद्यः। आयम्। उप। आऽतिष्ठे। प्रथमऽजाम्। ऋतस्य। वाचम्ऽइव। वक्तरि। भुवनेऽस्थाः। धास्युः। एषः। ननु। एषः। अग्निः। १.४।
+परि॑। द्यावा॑पृथि॒वी इति॑। स॒द्यः। आ॒य॒म्। उप॑। आ॒ऽति॒ष्ठे॒। प्र॒थ॒म॒ऽजाम्। ऋ॒तस्य॑। वाच॑म्ऽइव। व॒क्तरि॑। भु॒व॒ने॒ऽस्थाः। धा॒स्युः। ए॒षः। न॒नु। ए॒षः। अ॒ग्निः। १.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -314,13 +326,16 @@ I have gone forth around the earth and heaven, I have approached the first-born 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ विश्वा॒ भुव॑नान्यायमृ॒तस्य॒ तन्तुं॒ वित॑तं दृ॒शे कम्।  
-यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥५॥
+यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/05_pari_vishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॒ विश्वा॒ भुव॑नान्यायमृ॒तस्य॒ तन्तुं॒ वित॑तं दृ॒शे कम्। यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥
+परि॒ विश्वा॒ भुव॑नान्यायमृ॒तस्य॒ तन्तुं॒ वित॑तं दृ॒शे कम्।  
+यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/05_pari_vishvA.md">
@@ -354,7 +369,7 @@ I round the circumjacent worlds have travelled to see the far- extended thread o
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। विश्वा। भुवनानि। आयम्। ऋतस्य। तन्तुम्। विऽततम्। दृशे। कम्। यत्र। देवाः। अमृतम्। आनशानाः। समाने। योनौ। अधि। ऐरयन्त। १.५।
+परि॑। विश्वा॑। भुव॑नानि। आ॒य॒म्। ऋ॒तस्य॑। तन्तु॑म्। विऽत॑तम्। दृ॒शे। कम्। यत्र॑। दे॒वाः। अ॒मृत॑म्। आ॒न॒शा॒नाः। स॒मा॒ने। योनौ॑। अधि॑। ऐर॑यन्त। १.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

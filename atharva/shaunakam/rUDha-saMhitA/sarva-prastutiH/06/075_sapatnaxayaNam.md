@@ -36,14 +36,17 @@ A charm to effect the removal of an enemy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑ ।  
-नै॒र्बा॒ध्येऽन ह॒विषेन्द्र॑ एनं॒ परा॑शरीत्॥१॥  
+निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑।  
+नै॑र्बा॒ध्ये᳡न ह॒विषेन्द्र॑ एनं॒ परा॑शरीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑। नै॑र्बा॒ध्ये᳡न ह॒विषेन्द्र॑ एनं॒ परा॑शरीत् ॥
+निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑।  
+नै॑र्बा॒ध्ये᳡न ह॒विषेन्द्र॑ एनं॒ परा॑शरीत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
@@ -66,7 +69,7 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </details>
 <details><summary>पदपाठः</summary>
 
-निः। अमुम्। नुदे। ओकसः। सऽपत्नः। यः। पृतन्यति। नैःऽबाध्ये᳡न। हविषा। इन्द्रः। एनम्। परा। अशरीत्। ७५.१।
+निः। अ॒मुम्। नु॒दे॒। ओक॑सः। स॒ऽपत्नः॑। यः। पृ॒त॒न्यति॑। नैः॒ऽबा॒ध्ये᳡न। ह॒विषा॑। इन्द्रः॑। ए॒न॒म्। परा॑। अ॒श॒री॒त्। ७५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
-यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥२॥  
+प॑र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
+यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॑र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा। यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥
+प॑र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
+यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
@@ -126,7 +132,7 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 </details>
 <details><summary>पदपाठः</summary>
 
-परमाम्। तम्। पराऽवतम्। इन्द्रः। नुदतु। वृत्रऽहा। यतः। न। पुनः। आऽअयति। शश्वतीभ्यः। समाभ्यः। ७५.२।
+प॒र॒माम्। तम्। प॒रा॒ऽवत॑म्। इन्द्रः॑। नु॒द॒तु॒। वृ॒त्र॒ऽहा। यतः॑। न। पुनः॑। आ॒ऽअय॑ति। श॒श्व॒तीभ्यः॑। समा॑भ्यः। ७५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,15 +163,19 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑ ।  
-एतु॑ ति॒स्रोऽति॑ रोच॒ना यतो॒ न पुन॒राय॑ति ।  
-शश्व॒तीभ्यः॒ समा॑भ्यो॒ यावत् सूर्यो॒ अस॑द् दि॒वि॥३॥
+एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑।  
+एतु॑ ति॒स्रोऽति॑ रोच॒ना यतो॒ न पुन॒राय॑ति।  
+श॑श्व॒तीभ्यः॒ समा॑भ्यो॒ याव॒त्सूर्यो॒ अस॑द्दि॒वि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑। एतु॑ ति॒स्रोऽति॑ रोच॒ना यतो॒ न पुन॒राय॑ति। श॑श्व॒तीभ्यः॒ समा॑भ्यो॒ याव॒त्सूर्यो॒ अस॑द्दि॒वि ॥
+एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑।  
+एतु॑ ति॒स्रोऽति॑ रोच॒ना यतो॒ न पुन॒राय॑ति।  
+श॑श्व॒तीभ्यः॒ समा॑भ्यो॒ याव॒त्सूर्यो॒ अस॑द्दि॒वि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
@@ -196,7 +206,7 @@ To the three distances, beyond mankind's Five Races, let him go, Beyond the thre
 </details>
 <details><summary>पदपाठः</summary>
 
-एतु। तिस्रः। पराऽवतः। एतु। पञ्च। जनान्। अति। एतु। तिस्रः। अति। रोचना। यतः। न। पुनः। आऽअयति। शश्वतीभ्यः। समाभ्यः। यावत्। सूर्यः। असत्। दिवि। ७५.३।
+एतु॑। ति॒स्रः। प॒रा॒ऽवतः॑। एतु॑। पञ्च॑। जना॑न्। अति॑। एतु॑। ति॒स्रः। अति॑। रो॒च॒ना। यतः॑। न। पुनः॑। आ॒ऽअय॑ति। श॒श्व॒तीभ्यः॑। समा॑भ्यः। याव॑त्। सूर्यः॑। अस॑त्। दि॒वि। ७५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

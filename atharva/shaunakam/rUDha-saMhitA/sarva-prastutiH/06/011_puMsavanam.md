@@ -36,14 +36,17 @@ An epithalamian charm to ensure the birth of a boy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒मीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सु॑व॑नं कृ॒तम्।  
-तद् वै पु॒त्रस्य॒ वेद॑नं॒ तत् स्त्री॒ष्वा भ॑रामसि ॥१॥  
+समीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सुव॑नं कृ॒तम्।  
+तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्स्त्री॒ष्वा भ॑रामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-समीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सुव॑नं कृ॒तम्। तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्स्त्री॒ष्वा भ॑रामसि ॥
+समीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सुव॑नं कृ॒तम्।  
+तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्स्त्री॒ष्वा भ॑रामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
@@ -72,7 +75,7 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 </details>
 <details><summary>पदपाठः</summary>
 
-शमीम्। अश्वत्थः। आऽरूढः। तत्र। पुम्ऽसुवनम्। कृतम्। तत्। वै। पुत्रस्य। वेदनम्। तत्। स्त्रीषु। आ। भरामसि। ११.१।
+श॒मीम्। अ॒श्व॒त्थः। आऽरू॑ढः। तत्र॑। पु॒म्ऽसुव॑नम्। कृ॒तम्। तत्। वै। पुत्रस्य॑। वेद॑नम्। तत्। स्त्री॒षु। आ। भ॒रा॒म॒सि॒। ११.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/02_puMsi_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुं॒सि वै रेतो॑ भवति॒ तत् स्त्रि॒यामनु॑ षिच्यते ।  
-तद् वै पु॒त्रस्य॒ वेद॑नं॒ तत् प्र॒जाप॑तिरब्रवीत्॥२॥  
+पुं॒सि वै रेतो॑ भवति॒ तत्स्त्रि॒यामनु॑ षिच्यते।  
+तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्प्र॒जाप॑तिरब्रवीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/02_puMsi_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुं॒सि वै रेतो॑ भवति॒ तत्स्त्रि॒यामनु॑ षिच्यते। तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्प्र॒जाप॑तिरब्रवीत् ॥
+पुं॒सि वै रेतो॑ भवति॒ तत्स्त्रि॒यामनु॑ षिच्यते।  
+तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्प्र॒जाप॑तिरब्रवीत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/02_puMsi_vai.md">
@@ -133,7 +139,7 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 </details>
 <details><summary>पदपाठः</summary>
 
-पुंसि। वै। रेतः। भवति। तत्। स्त्रियाम्। अनु। सिच्यते। तत्। वै। पुत्रस्य। वेदनम्। तत्। प्रजाऽपतिः। अब्रवीत्। ११.२।
+पुं॒सि। वै। रेतः॑। भ॒व॒ति॒। तत्। स्त्रि॒याम्। अनु॑। सि॒च्य॒ते॒। तत्। वै। पु॒त्रस्य॑। वेद॑नम्। तत्। प्र॒जाऽप॑तिः। अ॒ब्र॒वी॒त्। ११.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,14 +170,17 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्यऽचीक्लृपत्।  
-स्त्रषू॑यम॒न्यत्र॒ दध॒त् पुंमां॑समु दधदि॒ह॥३॥
+प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्य॑चीक्लृपत्।  
+स्त्रैषू॑यम॒न्यत्र॒ दध॒त्पुमां॑समु दधदि॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्य॑चीक्लृपत्। स्त्रैषू॑यम॒न्यत्र॒ दध॒त्पुमां॑समु दधदि॒ह ॥
+प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्य॑चीक्लृपत्।  
+स्त्रैषू॑यम॒न्यत्र॒ दध॒त्पुमां॑समु दधदि॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
@@ -195,7 +204,7 @@ Prajapati, Anumati, Sinivali have ordered it. Elsewhere may he effect the birth 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। अनुऽमतिः। सिनीवाली। अचीक्लृपत्। स्रैसूयम्। अन्यत्र। दधत्। पुमांसम्। ऊं इति। दधत्। इह। ११.३।
+प्र॒जाऽप॑तिः। अनु॑ऽमतिः। सि॒नी॒वा॒ली। अ॒ची॒क्लृ॒प॒त्। स्रैसू॑यम्। अ॒न्यत्र॑। दध॑त्। पुमां॑सम्। ऊं॒ इति॑। द॒ध॒त्। इ॒ह। ११.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A prayer for wealth and birth of a son
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/01_kuhUM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन् य॒ज्ञे सु॒हवा॑ जोहवीमि ।  
-सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि यच्छाद् ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्यऽम्॥१॥  
+कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ जोहवीमि।  
+सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि य॑च्छा॒द्ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य᳡म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/01_kuhUM_devIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ जोहवीमि। सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि य॑च्छा॒द्ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य᳡म् ॥
+कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ जोहवीमि।  
+सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि य॑च्छा॒द्ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य᳡म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/01_kuhUM_devIm.md">
@@ -73,7 +76,7 @@ Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled
 </details>
 <details><summary>पदपाठः</summary>
 
-कुहूम्। देवीम्। सुऽकृतम्। विद्मनाऽअपसम्। अस्मिन्। यज्ञे। सुऽहवा। जोहवीमि। सा। नः। रयिम्। विश्वऽवारम्। नि। यच्छात्। ददातु। वीरम्। शतऽदायम्। उक्थ्य᳡म्। ४९.१।
+कु॒हूम्। दे॒वीम्। सु॒ऽकृत॑म्। वि॒द्म॒नाऽअ॑पसम्। अ॒स्मिन्। य॒ज्ञे। सु॒ऽहवा॑। जो॒ह॒वी॒मि॒। सा। नः॒। र॒यिम्। वि॒श्वऽवार॑म्। नि। य॒च्छा॒त्। ददा॑तु। वी॒रम्। श॒तऽदा॑यम्। उ॒क्थ्य᳡म्। ४९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत ।  
-शृ॒णोतु॑ य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥२॥
+कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत।  
+शृ॑णोतु य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत। शृ॑णोतु य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥
+कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत।  
+शृ॑णोतु य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
@@ -141,7 +147,7 @@ Kuhl), the Queen of Gods and immortality, called to assist, enjoy this sacrifice
 </details>
 <details><summary>पदपाठः</summary>
 
-कुहूः। देवानाम्। अमृतस्य। पत्नी। हव्या। नः। अस्य। हविषः। जुषेत। शृणोतु। यज्ञम्। उशती। नः। अद्य। रायः। पोषम्। चिकितुषी। दधातु। ४९.२।
+कु॒हूः। दे॒वाना॑म्। अ॒मृत॑स्य। पत्नी॑। हव्या॑। नः॒। अ॒स्य॒। ह॒विषः॑। जु॒षे॒त॒। शृ॒णोतु॑। य॒ज्ञम्। उ॒श॒ती। नः॒। अ॒द्य। रा॒यः। पोष॑म्। चि॒कि॒तुषी॑। द॒धा॒तु॒। ४९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

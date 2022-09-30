@@ -42,25 +42,27 @@ A prayer to Indra, Identified with Vishnu and the Sun, for the love of Gods, men
 </details>
 </details>
 </div>
-## ०१ विषासहिं सहमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/01_viShAsahiM_sahamAnam.md">
+## ०१ विषासहिंसहमानं सासहानम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/01_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्र॒मायु॑ष्मान् भूयासम् ॥१॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्र॒मायु॑ष्मान्भूयासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/01_viShAsahiM_sahamAnam.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/01_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्र॒मायु॑ष्मान् भूयासम् ॥१॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्र॒मायु॑ष्मान्भूयासम् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/01_viShAsahiM_sahamAnam.md">
-<details open><summary><h3>०१ विषासहिं सहमानम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/01_viShAsahiMsahamAnaM_sAsahAnam.md">
+<details open><summary><h3>०१ विषासहिंसहमानं सासहानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -77,7 +79,7 @@ Vanquishing, overpowering, a conqueror, exceeding strong, Victorious, winner of 
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। आयुष्मान्। भूयासम्। १.१।
+वि॒ऽस॒स॒हिम्। सह॑मानम्। स॒स॒हा॒नम्। सही॑यांसम्। सह॑मानम्। स॒हः॒ऽजित॑म्। स्वः॒ऽजित॑म्। गो॒ऽजित॑म्। सं॒ध॒न॒ऽजित॑म्। ईड्य॑म्। नाम॑। ह्वे॒। इन्द्र॑म्। आयु॑ष्मान्। भू॒या॒स॒म्। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,25 +106,27 @@ Vanquishing, overpowering, a conqueror, exceeding strong, Victorious, winner of 
 </details>
 </details>
 </div>
-## ०२ विषासहिं सहमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/02_viShAsahiM_sahamAnam.md">
+## ०२ विषासहिंसहमानं सासहानम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/02_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्वर्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यो दे॒वानां॑ भूयासम् ॥२॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यो दे॒वानां॑ भूयासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/02_viShAsahiM_sahamAnam.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/02_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्वर्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यो दे॒वानां॑ भूयासम् ॥२॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यो दे॒वानां॑ भूयासम् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/02_viShAsahiM_sahamAnam.md">
-<details open><summary><h3>०२ विषासहिं सहमानम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/02_viShAsahiMsahamAnaM_sAsahAnam.md">
+<details open><summary><h3>०२ विषासहिंसहमानं सासहानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -137,7 +141,7 @@ Vanquishing etc. Indra by name, adorable I call: May I be dear to Gods.
 </details>
 <details><summary>पदपाठः</summary>
 
-‍विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। देवानाम्। भूयासम्। १.२।
+‍वि॒ऽस॒स॒हिम्। सह॑मानम्। स॒स॒हा॒नम्। सही॑यांसम्। सह॑मानम्। स॒हः॒ऽजित॑म्। स्वः॒ऽजित॑म्। गो॒ऽजित॑म्। सं॒ध॒न॒ऽजित॑म्। ईड्य॑म्। नाम॑। ह्वे॒। इन्द्र॑म्। प्रि॒यः। दे॒वाना॑म्। भू॒या॒स॒म्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,15 +172,19 @@ Vanquishing etc. Indra by name, adorable I call: May I be dear to Gods.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/03_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रियः प्र॒जानां॑ भयासम् ॥३॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प्र॒जानां॑ भूयासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/03_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्। सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्। ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प्र॒जानां॑ भूयासम् ॥
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प्र॒जानां॑ भूयासम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/03_viShAsahiMsahamAnaM_sAsahAnam.md">
@@ -195,7 +203,7 @@ Vanquishing, etc. Indra by name, adorable, I call: may creatures love me well.
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। प्रऽजानाम्। भूयासम्। १.३।
+वि॒ऽस॒स॒हिम्। सह॑मानम्। स॒स॒हा॒नम्। सही॑यांसम्। सह॑मानम्। स॒हः॒ऽजित॑म्। स्वः॒ऽजित॑म्। गो॒ऽजित॑म्। सं॒ध॒न॒ऽजित॑म्। ईड्य॑म्। नाम॑। ह्वे॒। इन्द्र॑म्। प्रि॒यः। प्र॒ऽजाना॑म्। भू॒या॒स॒म्। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,25 +230,27 @@ Vanquishing, etc. Indra by name, adorable, I call: may creatures love me well.
 </details>
 </details>
 </div>
-## ०४ विषासहिं सहमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/04_viShAsahiM_sahamAnam.md">
+## ०४ विषासहिंसहमानं सासहानम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/04_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प॑शू॒नां भू॑यासम् ॥४॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प॑शू॒नां भू॑यासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/04_viShAsahiM_sahamAnam.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/04_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प॑शू॒नां भू॑यासम् ॥४॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः प॑शू॒नां भू॑यासम् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/04_viShAsahiM_sahamAnam.md">
-<details open><summary><h3>०४ विषासहिं सहमानम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/04_viShAsahiMsahamAnaM_sAsahAnam.md">
+<details open><summary><h3>०४ विषासहिंसहमानं सासहानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -254,7 +264,7 @@ Vanquishing, etc. Indra by name, adorable, I call: may cattle hold me dear.
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। पशूनाम्। भूयासम्। १.४।
+वि॒ऽस॒स॒हिम्। सह॑मानम्। स॒स॒हा॒नम्। सही॑यांसम्। सह॑मानम्। स॒हः॒ऽजित॑म्। स्वः॒ऽजित॑म्। गो॒ऽजित॑म्। सं॒ध॒न॒ऽजित॑म्। ईड्य॑म्। नाम॑। ह्वे॒। इन्द्र॑म्। प्रि॒यः। प॒शू॒नाम्। भू॒या॒स॒म्। १.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -281,25 +291,27 @@ Vanquishing, etc. Indra by name, adorable, I call: may cattle hold me dear.
 </details>
 </details>
 </div>
-## ०५ विषासहिं सहमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/05_viShAsahiM_sahamAnam.md">
+## ०५ विषासहिंसहमानं सासहानम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/05_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः स॑मा॒नानां॑ भूयासम्॥५॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः स॑मा॒नानां॑ भूयासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/05_viShAsahiM_sahamAnam.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/05_viShAsahiMsahamAnaM_sAsahAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒षा॒स॒हिं सह॑मानं सासहा॒नं सही॑यांसम्।  
-सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑ संधना॒जित॑म्।  
-ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः स॑मा॒नानां॑ भूयासम्॥५॥  
+वि॑षास॒हिंसह॑मानं सासहा॒नं सही॑यांसम्।  
+सह॑मानं सहो॒जितं॑ स्व॒र्जितं॑ गो॒जितं॑संधना॒जित॑म्।  
+ईड्यं॒ नाम॑ ह्व॒ इन्द्रं॑ प्रि॒यः स॑मा॒नानां॑ भूयासम् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/05_viShAsahiM_sahamAnam.md">
-<details open><summary><h3>०५ विषासहिं सहमानम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/05_viShAsahiMsahamAnaM_sAsahAnam.md">
+<details open><summary><h3>०५ विषासहिंसहमानं सासहानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -322,7 +334,7 @@ Vanquishing, etc. Indra by name, adorable, I call: may equals love me well.
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽससहिम्। सहमानम्। ससहानम्। सहीयांसम्। सहमानम्। सहःऽजितम्। स्वःऽजितम्। गोऽजितम्। संधनऽजितम्। ईड्यम्। नाम। ह्वे। इन्द्रम्। प्रियः। समानानाम्। भूयासम्। १.५।
+वि॒ऽस॒स॒हिम्। सह॑मानम्। स॒स॒हा॒नम्। सही॑यांसम्। सह॑मानम्। स॒हः॒ऽजित॑म्। स्वः॒ऽजित॑म्। गो॒ऽजित॑म्। सं॒ध॒न॒ऽजित॑म्। ईड्य॑म्। नाम॑। ह्वे॒। इन्द्र॑म्। प्रि॒यः। स॒मा॒नाना॑म्। भू॒या॒स॒म्। १.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -353,15 +365,19 @@ Vanquishing, etc. Indra by name, adorable, I call: may equals love me well.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/06_udihyudihisUrya_varchasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदि॒ह्युदि॑हि सूर्य॒ वर्च॑सा मा॒भ्युदि॑हि ।  
-द्वि॒षंश्च॒ मह्यं॒ रध्य॑तु॒ मा चा॒हं द्वि॑ष॒ते र॑धं॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥६॥  
+उदि॒ह्युदि॑हिसूर्य॒ वर्च॑सा मा॒भ्युदि॑हि।  
+द्वि॒षंश्च॒ मह्यं॒ रध्य॑तु॒ मा चा॒हं द्वि॑ष॒तेर॑धं॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/06_udihyudihisUrya_varchasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदि॒ह्युदि॑हिसूर्य॒ वर्च॑सा मा॒भ्युदि॑हि। द्वि॒षंश्च॒ मह्यं॒ रध्य॑तु॒ मा चा॒हं द्वि॑ष॒तेर॑धं॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+उदि॒ह्युदि॑हिसूर्य॒ वर्च॑सा मा॒भ्युदि॑हि।  
+द्वि॒षंश्च॒ मह्यं॒ रध्य॑तु॒ मा चा॒हं द्वि॑ष॒तेर॑धं॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/06_udihyudihisUrya_varchasA.md">
@@ -402,7 +418,7 @@ Rise up, O Surya, rise thou up; with strength and splendour rise on me. Let him 
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। इहि। उत्। इहि। सूर्य। वर्चसा। मा। अभिऽउदिहि। द्विषन्। च। मह्यम्। रध्यतु। मा। च। अहम्। द्विषते। रधम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡ण‍ि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.६।
+उत्। इ॒हि॒। उत्। इ॒हि॒। सू॒र्य॒। वर्च॑सा। मा॒। अ॒भि॒ऽउदि॑हि। द्वि॒षन्। च॒। मह्य॑म्। रध्य॑तु। मा। च॒। अ॒हम्। द्वि॒ष॒ते। र॒ध॒म्। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡ण‍ि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -433,15 +449,19 @@ Rise up, O Surya, rise thou up; with strength and splendour rise on me. Let him 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/07_udihyudihisUrya_varchasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदि॒ह्युदि॑हि सूर्य॒ वर्च॑सा मा॒भ्युदि॑हि ।  
-यांश्च॒ पश्या॑मि॒ यांश्च॒ न तेषु॑ मा सुम॒तिं कृ॑धि॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि पशुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥७॥  
+उदि॒ह्युदि॑हिसूर्य॒ वर्च॑सा मा॒भ्युदि॑हि।  
+यांश्च॒ पश्या॑मि॒ यांश्च॒ न तेषु॑ मा सुम॒तिंकृ॑धि॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/07_udihyudihisUrya_varchasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदि॒ह्युदि॑हिसूर्य॒ वर्च॑सा मा॒भ्युदि॑हि।यांश्च॒ पश्या॑मि॒ यांश्च॒ न तेषु॑ मा सुम॒तिंकृ॑धि॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+उदि॒ह्युदि॑हिसूर्य॒ वर्च॑सा मा॒भ्युदि॑हि।  
+यांश्च॒ पश्या॑मि॒ यांश्च॒ न तेषु॑ मा सुम॒तिंकृ॑धि॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/07_udihyudihisUrya_varchasA.md">
@@ -470,7 +490,7 @@ Rise up, O Surya, rise thou up; with strength and splendour rise on me. Make me 
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। इहि। उत्। इहि। सूर्य। वर्चसा। मा। अभिऽउदिहि। यान्। च। पश्यामि। यान्। च। न। तेषु। मा। सुऽमतिम्। कृधि। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.७।
+उत्। इ॒हि॒। उत्। इ॒हि॒। सू॒र्य॒। वर्च॑सा। मा॒। अ॒भि॒ऽउदि॑हि। यान्। च॒। पश्या॑मि। यान्। च॒। न। तेषु॑। मा॒। सु॒ऽम॒तिम्। कृ॒धि॒। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -501,15 +521,19 @@ Rise up, O Surya, rise thou up; with strength and splendour rise on me. Make me 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/08_mA_tvAdabhantsalile.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा त्वा॑ दभन्त्सलि॒ले अ॒प्स्व॑१न्तर्ये पा॒शिन॑ उप॒तिष्ठ॒न्त्यत्र॑ ।  
-हि॒त्वाश॑स्तिं॒ दिव॒मारु॑क्ष ए॒तां स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥८॥  
+मा त्वा॑दभन्त्सलि॒ले अ॒प्स्व१॒॑न्तर्ये पा॒शिन॑ उप॒तिष्ठ॒न्त्यत्र॑।  
+हि॒त्वाश॑स्तिं॒दिव॒मारु॑क्ष ए॒तां स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/08_mA_tvAdabhantsalile.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा त्वा॑दभन्त्सलि॒ले अ॒प्स्वन्तर्ये पा॒शिन॑ उप॒तिष्ठ॒न्त्यत्र॑। हि॒त्वाश॑स्तिं॒दिव॒मारु॑क्ष ए॒तां स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+मा त्वा॑दभन्त्सलि॒ले अ॒प्स्व१॒॑न्तर्ये पा॒शिन॑ उप॒तिष्ठ॒न्त्यत्र॑।  
+हि॒त्वाश॑स्तिं॒दिव॒मारु॑क्ष ए॒तां स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/08_mA_tvAdabhantsalile.md">
@@ -534,7 +558,7 @@ Let not the fowlers who are standing ready injure thee in the flood, within the 
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। त्वा। दभन्। सलिले। अप्ऽसु। अन्तः। ये। पाशिनः। उपऽतिष्ठन्ति। अत्र। हित्वा। अशस्तिम्। दिवम्। आ। अरुक्षः। एताम्। सः। नः। मृड। सुऽमतौ। ते। स्याम। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.८।
+मा। त्वा॒। द॒भ॒न्। स॒लि॒ले। अ॒प्ऽसु। अ॒न्तः। ये। पा॒शिनः॑। उ॒प॒ऽतिष्ठ॑न्ति। अत्र॑। हि॒त्वा। अश॑स्तिम्। दिव॑म्। आ। अ॒रु॒क्षः॒। ए॒ताम्। सः। नः॒। मृ॒ड॒। सु॒ऽम॒तौ। ते॒। स्या॒म॒। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -565,14 +589,17 @@ Let not the fowlers who are standing ready injure thee in the flood, within the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/09_tvaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं न॑ इन्द्र मह॒ते सौभ॑गा॒याद॑ब्धेभिः॒ परि॑ पाह्य॒क्तुभि॒स्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽनि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥९॥  
+त्वं न॑ इन्द्रमह॒ते सौभ॑गा॒याद॑ब्धेभिः॒ परि॑ पाह्य॒क्तुभि॒स्तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्विश्वरूपैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/09_tvaM_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं न॑ इन्द्रमह॒ते सौभ॑गा॒याद॑ब्धेभिः॒ परि॑ पाह्य॒क्तुभि॒स्तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्विश्वरूपैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+त्वं न॑ इन्द्रमह॒ते सौभ॑गा॒याद॑ब्धेभिः॒ परि॑ पाह्य॒क्तुभि॒स्तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्विश्वरूपैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/09_tvaM_na.md">
@@ -593,7 +620,7 @@ Do thou, O Indra, for our great good fortune, with thine in- violable rays prote
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। इन्द्रः। महते। सौभगाय। अदब्धेभिः। परि। पाहि। अक्तुऽभिः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.९।
+त्वम्। नः॒। इ॒न्द्रः॒। म॒ह॒ते। सौभ॑गाय। अद॑ब्धेभिः। परि॑। पा॒हि॒। अ॒क्तुऽभिः॑। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओम॑न्। १.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -624,15 +651,19 @@ Do thou, O Indra, for our great good fortune, with thine in- violable rays prote
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/10_tvaM_naindrotibhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं न॑ इन्द्रो॒तिभिः॑ शि॒वाभिः॒ शंत॑मो भव ।  
-आ॒रोहं॑स्त्रिदि॒वं दि॒वो गृ॑णा॒नः सोम॑पीतये प्रि॒यधा॑मा स्व॒स्तये॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१०॥  
+त्वं न॑इन्द्रो॒तिभिः॑ शि॒वाभिः॒ शन्त॑मो भव।  
+आ॒रोहं॑स्त्रिदि॒वं दि॒वो गृ॑णा॒नःसोम॑पीतये प्रि॒यधा॑मा स्व॒स्तये॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/10_tvaM_naindrotibhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं न॑इन्द्रो॒तिभिः॑ शि॒वाभिः॒ शन्त॑मो भव। आ॒रोहं॑स्त्रिदि॒वं दि॒वो गृ॑णा॒नःसोम॑पीतये प्रि॒यधा॑मा स्व॒स्तये॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि। त्वं नः॑पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+त्वं न॑इन्द्रो॒तिभिः॑ शि॒वाभिः॒ शन्त॑मो भव।  
+आ॒रोहं॑स्त्रिदि॒वं दि॒वो गृ॑णा॒नःसोम॑पीतये प्रि॒यधा॑मा स्व॒स्तये॒ तवेद्वि॑ष्णो बहु॒धा वी॒र्या᳡णि।  
+त्वं नः॑पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/10_tvaM_naindrotibhiH.md">
@@ -657,7 +688,7 @@ Be thou most gracious unto us, Indra, with favourable aid, Rising to heaven's th
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। इन्द्र। ऊतिऽभिः। शिवाभिः। शम्ऽतमः। भव। आऽरोहन्। त्रिऽदिवम्। दिवः। गृणानः। सोमऽपीतये। प्रियऽधामा। स्वस्तये। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन। १.१०।
+त्वम्। नः॒। इ॒न्द्र॒। ऊ॒तिऽभिः॑। शि॒वाभिः॑। शम्ऽत॑मः। भ॒व॒। आ॒ऽरोह॑न्। त्रि॒ऽदि॒वम्। दि॒वः। गृ॒णा॒नः। सोम॑ऽपीतये। प्रि॒यऽधा॑मा। स्व॒स्तये॑। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन। १.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -688,15 +719,19 @@ Be thou most gracious unto us, Indra, with favourable aid, Rising to heaven's th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/11_tvamindrAsivishvajitsarvavitpuruhUtastvamindra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमि॑न्द्रासि विश्व॒जित् स॑र्व॒वित् पु॑रुहू॒तस्त्वमि॑न्द्र ।  
-त्वमि॑न्द्रे॒मं सु॒हवं॒ स्तोम॒मेर॑यस्व॒ स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥११॥  
+त्वमि॑न्द्रासिविश्व॒जित्स॑र्व॒वित्पु॑रुहू॒तस्त्वमि॑न्द्र।  
+त्वमि॑न्द्रे॒मं सु॒हवं॒स्तोम॒मेर॑यस्व॒ स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/11_tvamindrAsivishvajitsarvavitpuruhUtastvamindra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वमि॑न्द्रासिविश्व॒जित्स॑र्व॒वित्पु॑रुहू॒तस्त्वमि॑न्द्र। त्वमि॑न्द्रे॒मं सु॒हवं॒स्तोम॒मेर॑यस्व॒ स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+त्वमि॑न्द्रासिविश्व॒जित्स॑र्व॒वित्पु॑रुहू॒तस्त्वमि॑न्द्र।  
+त्वमि॑न्द्रे॒मं सु॒हवं॒स्तोम॒मेर॑यस्व॒ स नो॑ मृड सुम॒तौ ते॑ स्याम॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/11_tvamindrAsivishvajitsarvavitpuruhUtastvamindra.md">
@@ -721,7 +756,7 @@ Thou art the vanquisher of all, O Indra, omniscient Indra, and invoked of many. 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्र। असि। विश्वऽजित्। सर्वऽजित्। पुरुऽहूतः। त्वम्। इन्द्र। त्वम्। इन्द्र। इमम्। सुऽहवम्। स्तोमम्। आ। ईरयस्व। सः। नः। मृड। सुऽमतौ। ते। स्याम। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.११।
+त्वम्। इ॒न्द्र॒। अ॒सि॒। वि॒श्व॒ऽजित्। स॒र्व॒ऽजित्। पु॒रु॒ऽहू॒तः। त्वम्। इ॒न्द्र॒। त्वम्। इ॒न्द्र॒। इ॒मम्। सु॒ऽहव॑म्। स्तोम॑म्। आ। ई॒र॒य॒स्व॒। सः। नः॒। मृ॒ड॒। सु॒ऽम॒तौ। ते॒। स्या॒म॒। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -752,15 +787,19 @@ Thou art the vanquisher of all, O Indra, omniscient Indra, and invoked of many. 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/12_adabdho_divipRthivyAmutAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अद॑ब्धो दि॒वि पृ॑थि॒व्यामु॒तासि॒ न त॑ आपुर्महि॒मान॑म॒न्तरि॑क्षे ।  
-अद॑ब्धेन॒ ब्रह्म॑णा वावृधा॒नः स त्वं न॑ इन्द्र दि॒वि संछर्म॑ यच्छ॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१२॥  
+अद॑ब्धो दि॒विपृ॑थि॒व्यामु॒तासि॒ न त॑ आपुर्महि॒मान॑म॒न्तरि॑क्षे।  
+अ॑दब्धेन॒ ब्रह्म॑णावावृधा॒नः स त्वं न॑ इन्द्र दि॒वि षञ्च्छर्म॑ यच्छ॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/12_adabdho_divipRthivyAmutAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अद॑ब्धो दि॒विपृ॑थि॒व्यामु॒तासि॒ न त॑ आपुर्महि॒मान॑म॒न्तरि॑क्षे। अ॑दब्धेन॒ ब्रह्म॑णावावृधा॒नः स त्वं न॑ इन्द्र दि॒वि षञ्च्छर्म॑ यच्छ॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+अद॑ब्धो दि॒विपृ॑थि॒व्यामु॒तासि॒ न त॑ आपुर्महि॒मान॑म॒न्तरि॑क्षे।  
+अ॑दब्धेन॒ ब्रह्म॑णावावृधा॒नः स त्वं न॑ इन्द्र दि॒वि षञ्च्छर्म॑ यच्छ॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/12_adabdho_divipRthivyAmutAsi.md">
@@ -785,7 +824,7 @@ In heaven and on the earth thou art uninjured, none reach thy greatness in the a
 </details>
 <details><summary>पदपाठः</summary>
 
-अदब्धः। दिवि। पृथिव्याम्। उत। अस‍ि। न। ते। आपुः। महिमानम्। अन्तरिक्षे। अदब्धेन। ब्रह्मणा। ववृधानः। सः। त्वम्। नः। इन्द्र। दिवि। सन्। शर्म। यच्छ। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१२।
+अद॑ब्धः। दि॒वि। पृ॒थि॒व्याम्। उ॒त। अ॒स‍ि॒। न। ते॒। आ॒पुः। म॒हि॒मान॑म्। अ॒न्तरि॑क्षे। अद॑ब्धेन। ब्रह्म॑णा। व॒वृ॒धा॒नः। सः। त्वम्। नः॒। इ॒न्द्र॒। दि॒वि। सन्। शर्म॑। य॒च्छ॒। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -816,15 +855,19 @@ In heaven and on the earth thou art uninjured, none reach thy greatness in the a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/13_yA_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या त॑ इन्द्र त॒नूर॒प्सु या पृ॑थि॒व्यां यान्तर॒ग्नौ या त॑ इन्द्र॒ पव॑माने स्व॒र्विदि॑ ।  
-यये॑न्द्र त॒न्वा॒३ऽन्तरि॑क्षं व्यापि॒थ तया॑ न इन्द्र त॒न्वा॒३शर्म॑ यच्छ॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१३॥  
+या त॑ इन्द्रत॒नूर॒प्सु या पृ॑थि॒व्यां यान्तर॒ग्नौ या त॑ इन्द्र॒ पव॑माने स्व॒र्विदि॑।  
+यये॑न्द्र त॒न्वा॒३॒॑न्तरि॑क्षं व्यापि॒थ तया॑ न इन्द्र त॒न्वा॒३॒॑ शर्म॒ यच्छ॒तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/13_yA_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या त॑ इन्द्रत॒नूर॒प्सु या पृ॑थि॒व्यां यान्तर॒ग्नौ या त॑ इन्द्र॒ पव॑माने स्व॒र्विदि॑।यये॑न्द्र त॒न्वा॒३॒॑न्तरि॑क्षं व्यापि॒थ तया॑ न इन्द्र त॒न्वा॒३॒॑ शर्म॒ यच्छ॒तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+या त॑ इन्द्रत॒नूर॒प्सु या पृ॑थि॒व्यां यान्तर॒ग्नौ या त॑ इन्द्र॒ पव॑माने स्व॒र्विदि॑।  
+यये॑न्द्र त॒न्वा॒३॒॑न्तरि॑क्षं व्यापि॒थ तया॑ न इन्द्र त॒न्वा॒३॒॑ शर्म॒ यच्छ॒तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैःसु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/13_yA_ta.md">
@@ -855,7 +898,7 @@ Grant us protection, Indra, with that body of thine that is on earth, in fire, i
 </details>
 <details><summary>पदपाठः</summary>
 
-या। ते। इन्द्र। तनूः। अप्ऽसु। या। पृथिव्याम्। या। अन्तः। अग्नौ। या। ते। इन्द्र। पवमाने। स्वःऽविदि। यया। इन्द्र। तन्वा᳡। अन्तरिक्षम्। विऽआपिथ। तया। नः। इन्द्र। तन्वा᳡। शर्म। यच्छ। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१३।
+या। ते॒। इ॒न्द्र॒। त॒नूः। अ॒प्ऽसु। या। पृ॒थि॒व्याम्। या। अ॒न्तः। अ॒ग्नौ। या। ते॒। इ॒न्द्र॒। पव॑माने। स्वः॒ऽविदि॑। यया॑। इ॒न्द्र॒। त॒न्वा᳡। अ॒न्तरि॑क्षम्। वि॒ऽआ॒पि॒थ। तया॑। नः॒। इ॒न्द्र॒। त॒न्वा᳡। शर्म॑। य॒च्छ॒। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -886,14 +929,17 @@ Grant us protection, Indra, with that body of thine that is on earth, in fire, i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/14_tvAmindrabrahmaNA_vardhayantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वामि॑न्द्र॒ ब्रह्म॑णा व॒र्धय॑न्तः स॒त्रं नि षे॑दु॒रऋष॑यो॒ नाध॑माना॒स्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१४॥  
+त्वामि॑न्द्र॒ब्रह्म॑णा व॒र्धय॑न्तः स॒त्त्रं नि षे॑दु॒रृष॑यो॒ नाध॑माना॒स्तवेद्वि॑ष्णोबहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहिपर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/14_tvAmindrabrahmaNA_vardhayantaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वामि॑न्द्र॒ब्रह्म॑णा व॒र्धय॑न्तः स॒त्त्रं नि षे॑दु॒रृष॑यो॒ नाध॑माना॒स्तवेद्वि॑ष्णोबहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहिपर॒मे व्यो᳡मन् ॥
+त्वामि॑न्द्र॒ब्रह्म॑णा व॒र्धय॑न्तः स॒त्त्रं नि षे॑दु॒रृष॑यो॒ नाध॑माना॒स्तवेद्वि॑ष्णोबहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहिपर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/14_tvAmindrabrahmaNA_vardhayantaH.md">
@@ -915,7 +961,7 @@ Indra, exalting thee with prayer, imploring, Rishis have sat them down in holy S
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वाम्। इन्द्र। ब्रह्मणा। वर्धयन्तः। सत्त्रम्। नि। सेदुः। ऋषयः। नाधमानाः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१४।
+त्वाम्। इ॒न्द्र॒। ब्रह्म॑णा। व॒र्धय॑न्तः। स॒त्त्रम्। नि। से॒दुः॒। ऋष॑यः। नाध॑मानाः। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॒मन्। १.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -946,14 +992,17 @@ Indra, exalting thee with prayer, imploring, Rishis have sat them down in holy S
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/15_tvaM_tRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं तृ॒तं त्वं पर्ये॒ष्युत्सं॑ स॒हस्र॑धारं वि॒दथं॑ स्व॒र्विदं॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१५॥  
+त्वं तृ॒तं त्वंपर्ये॒ष्युत्सं॑ स॒हस्र॑धारं वि॒दथं॑ स्व॒र्विदं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मेव्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/15_tvaM_tRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं तृ॒तं त्वंपर्ये॒ष्युत्सं॑ स॒हस्र॑धारं वि॒दथं॑ स्व॒र्विदं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मेव्यो᳡मन् ॥
+त्वं तृ॒तं त्वंपर्ये॒ष्युत्सं॑ स॒हस्र॑धारं वि॒दथं॑ स्व॒र्विदं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मेव्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/15_tvaM_tRtam.md">
@@ -979,7 +1028,7 @@ Round Trita, round the spring with thousand currents thou goest, round the light
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। तृतम्। त्वम्। परि। एषि। उत्सम्। सहस्रऽधारम्। विदथम्। स्वःऽविदम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१५।
+त्वम्। तृ॒तम्। त्वम्। परि॑। ए॒षि॒। उत्स॑म्। स॒हस्र॑ऽधारम्। वि॒दथ॑म्। स्वः॒ऽविद॑म्। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1010,15 +1059,19 @@ Round Trita, round the spring with thousand currents thou goest, round the light
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/16_tvaM_raxasepradishashchatasrastvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं र॑क्षसे प्र॒दिश॒श्चत॑स्र॒स्त्वं शो॒चिषा॒ नभ॑सी॒ वि भा॑सि ।  
-त्वमि॒मा विश्वा॒ भुव॒नानु॑ तिष्ठस ऋ॒तस्य॑ पन्थाम॒न्वे॑षि वि॒द्वांस्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१६॥  
+त्वं र॑क्षसेप्र॒दिश॒श्चत॑स्र॒स्त्वं शो॒चिषा॒ नभ॑सी॒ वि भा॑सि।  
+त्वमि॒मा विश्वा॒ भुव॒नानु॑तिष्ठस ऋ॒तस्य॒ पन्था॒मन्वे॑षि वि॒द्वांस्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वंनः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/16_tvaM_raxasepradishashchatasrastvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं र॑क्षसेप्र॒दिश॒श्चत॑स्र॒स्त्वं शो॒चिषा॒ नभ॑सी॒ वि भा॑सि। त्वमि॒मा विश्वा॒ भुव॒नानु॑तिष्ठस ऋ॒तस्य॒ पन्था॒मन्वे॑षि वि॒द्वांस्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वंनः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+त्वं र॑क्षसेप्र॒दिश॒श्चत॑स्र॒स्त्वं शो॒चिषा॒ नभ॑सी॒ वि भा॑सि।  
+त्वमि॒मा विश्वा॒ भुव॒नानु॑तिष्ठस ऋ॒तस्य॒ पन्था॒मन्वे॑षि वि॒द्वांस्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वंनः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/16_tvaM_raxasepradishashchatasrastvam.md">
@@ -1042,7 +1095,7 @@ Thou guardest well the four celestial regions, pervading heaven, and earth with 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। रक्षसे। प्रऽदिशः। चतस्रः। त्वम्। शोचिषा। नभसी इति। वि। भासि। त्वम्। इमा। विश्वा। भुवना। अनु। तिष्ठसे। ऋतस्य। पन्थाम्। अनु। एषि। विद्वान्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१६।
+त्वम्। र॒क्ष॒से॒। प्र॒ऽदिशः॑। चत॑स्रः। त्वम्। शो॒चिषा॑। नभ॑सी॒ इति॑। वि। भा॒सि॒। त्वम्। इ॒मा। विश्वा॑। भुव॑ना। अनु॑। ति॒ष्ठ॒से॒। ऋ॒तस्य॑। पन्था॑म्। अनु॑। ए॒षि॒। वि॒द्वान्। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1073,14 +1126,17 @@ Thou guardest well the four celestial regions, pervading heaven, and earth with 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/17_panchabhiHparA~N_tapasyekayArvA~NashastimeShi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒ञ्चभिः॒ परा॑ङ् तप॒स्येक॑या॒र्वाङश॑स्तिमेषि सु॒दिने॒ बाध॑मान॒स्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१७॥  
+प॒ञ्चभिः॒परा॑ङ् तप॒स्येक॑या॒र्वाङश॑स्तिमेषि सु॒दिने॒ बाध॑मान॒स्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मेव्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/17_panchabhiHparA~N_tapasyekayArvA~NashastimeShi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒ञ्चभिः॒परा॑ङ् तप॒स्येक॑या॒र्वाङश॑स्तिमेषि सु॒दिने॒ बाध॑मान॒स्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मेव्यो᳡मन् ॥
+प॒ञ्चभिः॒परा॑ङ् तप॒स्येक॑या॒र्वाङश॑स्तिमेषि सु॒दिने॒ बाध॑मान॒स्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मेव्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/17_panchabhiHparA~N_tapasyekayArvA~NashastimeShi.md">
@@ -1107,7 +1163,7 @@ With five thou sendest heat: with one removing the curse thou comest in bright s
 </details>
 <details><summary>पदपाठः</summary>
 
-पञ्चऽभिः। पराङ्। तपसि। एकया। अवाङ्। अशस्तिम्। एषि। सुऽदिने। बाधमानः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१७।
+प॒ञ्चऽभिः॑। परा॑ङ्। त॒प॒सि॒। एक॑या। अ॒वाङ्। अश॑स्तिम्। ए॒षि॒। सु॒ऽदिने॑। बाध॑मानः। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1138,15 +1194,19 @@ With five thou sendest heat: with one removing the curse thou comest in bright s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/18_tvamindrastvaM_mahendrastvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमिन्द्र॒स्त्वं म॑हे॒न्द्रस्त्वं लो॒कस्त्वं प्र॒जाप॑तिः ।  
-तुभ्यं॑ य॒ज्ञो वि ता॑यते॒ तुभ्यं॑ जुह्वति॒ जुह्व॑त॒स्तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१८॥  
+त्वमिन्द्र॒स्त्वं म॑हे॒न्द्रस्त्वं लो॒कस्त्वं प्र॒जाप॑तिः।  
+तुभ्यं॑ य॒ज्ञो विता॑यते॒ तुभ्यं॑ जुह्वति॒ जुह्व॑त॒स्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/18_tvamindrastvaM_mahendrastvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वमिन्द्र॒स्त्वं म॑हे॒न्द्रस्त्वं लो॒कस्त्वं प्र॒जाप॑तिः। तुभ्यं॑ य॒ज्ञो विता॑यते॒ तुभ्यं॑ जुह्वति॒ जुह्व॑त॒स्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+त्वमिन्द्र॒स्त्वं म॑हे॒न्द्रस्त्वं लो॒कस्त्वं प्र॒जाप॑तिः।  
+तुभ्यं॑ य॒ज्ञो विता॑यते॒ तुभ्यं॑ जुह्वति॒ जुह्व॑त॒स्तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/18_tvamindrastvaM_mahendrastvam.md">
@@ -1173,7 +1233,7 @@ Indra art thou, Mahendra thou, thou art the world, the Lord of Life. To thee is 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्रः। त्वम्। महाऽइन्द्रः। त्वम्। लोकः। त्वम्। प्रजाऽपतिः। तुभ्यम्। यज्ञः। वि। तायते। तुभ्यम्। जुह्वति। जुह्वतः। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेह‍ि। परमे। विऽओमन्। १.१८।
+त्वम्। इन्द्रः॑। त्वम्। म॒हा॒ऽइ॒न्द्रः। त्वम्। लो॒कः। त्वम्। प्र॒जाऽप॑तिः। तुभ्य॑म्। य॒ज्ञः। वि। ता॒य॒ते॒। तुभ्य॑म्। जु॒ह्व॒ति॒। जुह्व॑तः। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒ह‍ि॒। प॒र॒मे। विऽओ॑मन्। १.१८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1204,15 +1264,19 @@ Indra art thou, Mahendra thou, thou art the world, the Lord of Life. To thee is 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/19_asatisatpratiShThitaM_sati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस॑ति॒ सत् प्रति॑ष्ठितं स॒ति भू॒तं प्रति॑ष्ठितम्।  
-भू॒तं ह॒ भव्य॒ आहि॑तं॒ भव्यं॑ भू॒ते प्रति॑ष्ठितं॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥१९॥  
+अस॑ति॒सत्प्रति॑ष्ठितं स॒ति भू॒तं प्रति॑ष्ठितम्।  
+भू॒तं ह॒ भव्य॒ आहि॑तं॒ भव्यं॑भू॒ते प्रति॑ष्ठितं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहिप॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/19_asatisatpratiShThitaM_sati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अस॑ति॒सत्प्रति॑ष्ठितं स॒ति भू॒तं प्रति॑ष्ठितम्। भू॒तं ह॒ भव्य॒ आहि॑तं॒ भव्यं॑भू॒ते प्रति॑ष्ठितं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहिप॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+अस॑ति॒सत्प्रति॑ष्ठितं स॒ति भू॒तं प्रति॑ष्ठितम्।  
+भू॒तं ह॒ भव्य॒ आहि॑तं॒ भव्यं॑भू॒ते प्रति॑ष्ठितं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहिप॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/19_asatisatpratiShThitaM_sati.md">
@@ -1236,7 +1300,7 @@ What is based on what is not: the present lies on that which is.. Present on fut
 </details>
 <details><summary>पदपाठः</summary>
 
-असति। सत्। प्रतिऽस्थितम्। सति। भूतम्। प्रतिऽस्थितम्। भूतम्। ह। भव्ये। आऽहितम्। भव्यम्। भूते। प्रतिऽस्थितम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.१९।
+अस॑ति। सत्। प्रति॑ऽस्थितम्। स॒ति। भू॒तम्। प्रति॑ऽस्थितम्। भू॒तम्। ह॒। भव्ये॑। आऽहि॑तम्। भव्य॑म्। भू॒ते। प्रति॑ऽस्थितम्। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.१९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1263,23 +1327,25 @@ What is based on what is not: the present lies on that which is.. Present on fut
 </details>
 </details>
 </div>
-## २० शुक्रोऽसि भ्राजोऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/20_shukro-si_bhrAjo-si.md">
+## २० शुक्रोऽसिभ्राजोऽसि स
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/20_shukro-sibhrAjo-si_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒क्रोऽसि भ्रा॒जोऽसि ।  
-स यथा॒ त्वं भ्राज॑ता भ्रा॒जोऽस्ये॒वाहं भ्राज॑ता भ्राज्यासम्॥२०॥  
+शु॒क्रोऽसि॑भ्रा॒जोऽसि॑।  
+स यथा॒ त्वं भ्राज॑ता भ्रा॒जोऽस्ये॒वाहं भ्राज॑ता भ्राज्यासम्॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/20_shukro-si_bhrAjo-si.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/20_shukro-sibhrAjo-si_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शु॒क्रोऽसि भ्रा॒जोऽसि ।  
-स यथा॒ त्वं भ्राज॑ता भ्रा॒जोऽस्ये॒वाहं भ्राज॑ता भ्राज्यासम्॥२०॥  
+शु॒क्रोऽसि॑भ्रा॒जोऽसि॑।  
+स यथा॒ त्वं भ्राज॑ता भ्रा॒जोऽस्ये॒वाहं भ्राज॑ता भ्राज्यासम्॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/20_shukro-si_bhrAjo-si.md">
-<details open><summary><h3>२० शुक्रोऽसि भ्राजोऽसि ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/20_shukro-sibhrAjo-si_sa.md">
+<details open><summary><h3>२० शुक्रोऽसिभ्राजोऽसि स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -1300,7 +1366,7 @@ Bright art thou, and refulgent: as thou shinest with splendour so I fain would s
 </details>
 <details><summary>पदपाठः</summary>
 
-शुक्रः। असि। भ्राजः। असि। सः। यथा। त्वम्। भ्राजता। भ्राजः। असि। एव। अहम्। भ्राजता। भ्राज्यासम्। १.२०।
+शु॒क्रः। अ॒सि॒। भ्रा॒जः। अ॒सि॒। सः। यथा॑। त्वम्। भ्राज॑ता। भ्रा॒जः। अ॒सि॒। ए॒व। अ॒हम्। भ्राज॑ता। भ्रा॒ज्या॒स॒म्। १.२०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1331,15 +1397,17 @@ Bright art thou, and refulgent: as thou shinest with splendour so I fain would s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/21_ruchirasi_rocho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रुचि॑रसि रो॒चोऽसि ।  
-स यथा॒ त्वं रुच्या॑ रो॒चोऽस्ये॒वाहं प॒शुभि॑श्च ब्राह्मणवर्च॒सेन॑ च रुचिषीय ॥२१॥  
+रुचि॑रसि रो॒चोऽसि॑।  
+स यथा॒ त्वं रुच्या॑ रो॒चोऽस्ये॒वाहं प॒शुभि॑श्च ब्राह्मणवर्च॒सेन॑ चरुचिषीय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/21_ruchirasi_rocho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रुचि॑रसि रो॒चोऽसि ।  
-स यथा॒ त्वं रुच्या॑ रो॒चोऽस्ये॒वाहं प॒शुभि॑श्च ब्राह्मणवर्च॒सेन॑ च रुचिषीय ॥२१॥  
+रुचि॑रसि रो॒चोऽसि॑।  
+स यथा॒ त्वं रुच्या॑ रो॒चोऽस्ये॒वाहं प॒शुभि॑श्च ब्राह्मणवर्च॒सेन॑ चरुचिषीय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/21_ruchirasi_rocho-si.md">
@@ -1367,7 +1435,7 @@ Lustre art thou, illuming: as thou glowest with lustre so I too would shine with
 </details>
 <details><summary>पदपाठः</summary>
 
-रुचिः। असि। रोचः। असि। सः। यथा। त्वम्। रुच्या। रोचः। असि। एव। अहम्। पशुऽभिः। च। ब्राह्मणऽवर्चसेन। च। रुचिषीय। २.२१।
+रुचिः॑। अ॒सि॒। रो॒चः। अ॒सि॒। सः। यथा॑। त्वम्। रुच्या॑। रो॒चः। असि॑। ए॒व। अ॒हम्। प॒शुऽभिः॑। च॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सेन॑। च॒। रु॒चि॒षी॒य॒। २.२१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1394,23 +1462,25 @@ Lustre art thou, illuming: as thou glowest with lustre so I too would shine with
 </details>
 </details>
 </div>
-## २२ उद्यते नम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/22_udyate_nama.md">
+## २२ उद्यते नमउदायते
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/22_udyate_namaudAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒द्य॒ते नम॑ उदाय॒ते नम॒ उदि॑ताय॒ नमः॑ ।  
-वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑ ॥२२॥  
+उ॑द्य॒ते नम॑उदाय॒ते नम॒ उदि॑ताय॒ नमः॑।  
+वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/22_udyate_nama.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/22_udyate_namaudAyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒द्य॒ते नम॑ उदाय॒ते नम॒ उदि॑ताय॒ नमः॑ ।  
-वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑ ॥२२॥  
+उ॑द्य॒ते नम॑उदाय॒ते नम॒ उदि॑ताय॒ नमः॑।  
+वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/22_udyate_nama.md">
-<details open><summary><h3>२२ उद्यते नम ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/22_udyate_namaudAyate.md">
+<details open><summary><h3>२२ उद्यते नमउदायते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -1434,7 +1504,7 @@ Glory to him when rising, when ascending! Glory to him when he hath reached the 
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽयते। नमः। उत्ऽआयते। नमः। उत्ऽइताय। नमः। विऽराजे। नमः। स्वऽराजे। नमः। सम्ऽराजे। नमः। १.२२।
+उ॒त्ऽय॒ते। नमः॑। उ॒त्ऽआ॒य॒ते। नमः॑। उत्ऽइ॑ताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1465,15 +1535,17 @@ Glory to him when rising, when ascending! Glory to him when he hath reached the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/23_astaMyate_namo-stameShyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्तं॒य॒ते नमो॑ऽस्तमेष्य॒ते नमोऽस्त॑मिताय॒ नमः॑ ।  
-वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑ ॥२३॥  
+अ॑स्तंय॒ते नमो॑ऽस्तमेष्य॒ते नमो॑ऽस्तमिताय॒ नमः॑।  
+वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/23_astaMyate_namo-stameShyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्तं॒य॒ते नमो॑ऽस्तमेष्य॒ते नमोऽस्त॑मिताय॒ नमः॑ ।  
-वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒ नमः॑ ॥२३॥  
+अ॑स्तंय॒ते नमो॑ऽस्तमेष्य॒ते नमो॑ऽस्तमिताय॒ नमः॑।  
+वि॒राजे॒ नमः॑ स्व॒राजे॒ नमः॑ स॒म्राजे॒नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/23_astaMyate_namo-stameShyate.md">
@@ -1497,7 +1569,7 @@ Worship to him when he is turning westward, to him when set- ting, and when set 
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्तम्ऽयते। नमः। अस्तम्ऽएष्यते। नमः। अस्तम्ऽइताय। नमः। विऽराजे। नमः। स्वऽराजे। नमः। सम्ऽराजे। नमः। १.२३।
+अ॒स्त॒म्ऽय॒ते। नमः॑। अ॒स्त॒म्ऽए॒ष्य॒ते। नमः॑। अस्त॑म्ऽइताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1529,14 +1601,18 @@ Worship to him when he is turning westward, to him when set- ting, and when set 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑गाद॒यमा॑दि॒त्यो विश्वे॑न॒ तप॑सा स॒ह।  
-स॒पत्ना॒न् मह्यं॑ र॒न्धय॒न् मा चा॒हं द्वि॑ष॒ते र॑धं॒ तवेद् वि॑ष्णो बहु॒धा वी॒र्याऽणि ।  
-त्वं नः॑ पृणीहि प॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्योऽमन्॥२४॥  
+स॒पत्ना॒न्मह्यं॑ र॒न्धय॒न्मा चा॒हंद्वि॑ष॒ते र॑धं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहिप॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/24_udagAdayamAdityo_vishvena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॑गाद॒यमा॑दि॒त्यो विश्वे॑न॒ तप॑सा स॒ह। स॒पत्ना॒न्मह्यं॑ र॒न्धय॒न्मा चा॒हंद्वि॑ष॒ते र॑धं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि। त्वं नः॑ पृणीहिप॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+उद॑गाद॒यमा॑दि॒त्यो विश्वे॑न॒ तप॑सा स॒ह।  
+स॒पत्ना॒न्मह्यं॑ र॒न्धय॒न्मा चा॒हंद्वि॑ष॒ते र॑धं॒ तवेद्वि॑ष्णो बहु॒धावी॒र्या᳡णि।  
+त्वं नः॑ पृणीहिप॒शुभि॑र्वि॒श्वरू॑पैः सु॒धायां॑ मा धेहि पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/24_udagAdayamAdityo_vishvena.md">
@@ -1566,7 +1642,7 @@ With all his fiery fervour this Aditya hath gone up on high, Giving my foes into
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। अगात्। अयम्। आदित्यः। विश्वेन। तपसा। सह। सऽपत्नान्। मह्यम्। रन्धयन्। मा। च। अहम्। द्विषते। रधम्। तव। इत्। विष्णो इति। बहुऽधा। वीर्या᳡णि। त्वम्। नः। पृणीहि। पशुऽभिः। विश्वऽरूपैः। सुऽधायाम्। मा। धेहि। परमे। विऽओमन्। १.२४।
+उत्। अ॒गा॒त्। अ॒यम्। आ॒दि॒त्यः। विश्वे॑न। तप॑सा। स॒ह। स॒ऽपत्ना॑न्। मह्य॑म्। र॒न्धय॑न्। मा। च॒। अ॒हम्। द्वि॒ष॒ते। र॒ध॒म्। तव॑। इत्। वि॒ष्णो॒ इति॑। ब॒हु॒ऽधा। वी॒र्या᳡णि। त्वम्। नः॒। पृ॒णी॒हि॒। प॒शुऽभिः॑। वि॒श्वऽरू॑पैः। सु॒ऽधाया॑म्। मा॒। धे॒हि॒। प॒र॒मे। विऽओ॑मन्। १.२४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1593,23 +1669,25 @@ With all his fiery fervour this Aditya hath gone up on high, Giving my foes into
 </details>
 </details>
 </div>
-## २५ आदित्य नावमारुक्षः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/25_Aditya_nAvamAruxaH.md">
+## २५ आदित्यनावमारुक्षः शतारित्राम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/25_AdityanAvamAruxaH_shatAritrAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आदि॑त्य॒ नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑ ।  
-अह॒र्मात्य॑पीपरो॒ रात्रिं॑ स॒त्राति॑ पारय ॥२५॥  
+आदि॑त्य॒नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑।  
+अह॒र्मात्य॑पीपरो॒ रात्रिं॑ स॒त्राति॑पारय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/25_Aditya_nAvamAruxaH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/25_AdityanAvamAruxaH_shatAritrAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आदि॑त्य॒ नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑ ।  
-अह॒र्मात्य॑पीपरो॒ रात्रिं॑ स॒त्राति॑ पारय ॥२५॥  
+आदि॑त्य॒नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑।  
+अह॒र्मात्य॑पीपरो॒ रात्रिं॑ स॒त्राति॑पारय ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/25_Aditya_nAvamAruxaH.md">
-<details open><summary><h3>२५ आदित्य नावमारुक्षः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/25_AdityanAvamAruxaH_shatAritrAm.md">
+<details open><summary><h3>२५ आदित्यनावमारुक्षः शतारित्राम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -1629,7 +1707,7 @@ Thou for our weal, Aditya, hast mounted thy ship with hundred oars. Thou hast tr
 </details>
 <details><summary>पदपाठः</summary>
 
-आदित्य। नावम्। आ। अरुक्षः। शतऽअरित्राम्। स्वस्तये। अहः। मा। अति। अपीपरः। रात्रिम्। सत्रा। अति। पारय। १.२५।
+आदि॑त्य। नाव॑म्। आ। अ॒रु॒क्षः॒। श॒त॒ऽअरि॑त्राम्। स्व॒स्तये॑। अहः॑। मा॒। अति॑। अ॒पी॒प॒रः॒। रात्रि॑म्। स॒त्रा। अति॑। पा॒र॒य॒। १.२५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1656,23 +1734,25 @@ Thou for our weal, Aditya, hast mounted thy ship with hundred oars. Thou hast tr
 </details>
 </details>
 </div>
-## २६ सूर्य नावमारुक्षः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/26_sUrya_nAvamAruxaH.md">
+## २६ सूर्यनावमारुक्षः शतारित्राम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/26_sUryanAvamAruxaH_shatAritrAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॒ नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑ ।  
-रात्रिं॒ मात्य॑पीप॒रोऽहः॑ स॒त्राति॑ पारय ॥२६॥  
+सू॑र्यनावमारुक्षः श॒तारि॑त्रां स्व॒स्तये॑।  
+रात्रिं॒ मात्य॑पीप॒रोऽहः॑ स॒त्राति॑पारय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/26_sUrya_nAvamAruxaH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/26_sUryanAvamAruxaH_shatAritrAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सूर्य॒ नाव॒मारु॑क्षः श॒तारि॑त्रां स्व॒स्तये॑ ।  
-रात्रिं॒ मात्य॑पीप॒रोऽहः॑ स॒त्राति॑ पारय ॥२६॥  
+सू॑र्यनावमारुक्षः श॒तारि॑त्रां स्व॒स्तये॑।  
+रात्रिं॒ मात्य॑पीप॒रोऽहः॑ स॒त्राति॑पारय ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/26_sUrya_nAvamAruxaH.md">
-<details open><summary><h3>२६ सूर्य नावमारुक्षः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/26_sUryanAvamAruxaH_shatAritrAm.md">
+<details open><summary><h3>२६ सूर्यनावमारुक्षः शतारित्राम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -1691,7 +1771,7 @@ Thou for our weal, O Surya, hast mounted thy ship with hundred oars. Thou hast t
 </details>
 <details><summary>पदपाठः</summary>
 
-सूर्य। नावम्। आ। अरुक्षः। शतऽअरित्राम्। स्वस्तये। रात्रिम्। मा। अति। अपीपरः। अहः। सत्रा। अति। पारय। १.२६।
+सूर्य॑। नाव॑म्। आ। अ॒रु॒क्षः॒। श॒त॒ऽअरि॑त्राम्। स्व॒स्तये॑। रात्रि॑म्। मा॒। अति॑। अ॒पी॒प॒रः॒। अहः॑। स॒त्रा। अति॑। पा॒र॒य॒। १.२६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1722,15 +1802,17 @@ Thou for our weal, O Surya, hast mounted thy ship with hundred oars. Thou hast t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/27_prajApaterAvRto_brahmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑ते॒रावृ॑तो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य ज्योति॑षा॒ वर्च॑सा च ।  
-ज॒रद॑ष्टिः कृ॒तवी॑र्यो॒ विहा॑याः स॒हस्रा॑युः॒ सुकृ॑तश्चरेयम्॥२७॥  
+प्र॒जाप॑ते॒रावृ॑तो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य॒ ज्योति॑षा॒ वर्च॑सा च।  
+ज॒रद॑ष्टिः कृ॒तवी॑र्यो॒ विहा॑याः स॒हस्रा॑युः॒ सुकृ॑तश्चरेयम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/27_prajApaterAvRto_brahmaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाप॑ते॒रावृ॑तो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य ज्योति॑षा॒ वर्च॑सा च ।  
-ज॒रद॑ष्टिः कृ॒तवी॑र्यो॒ विहा॑याः स॒हस्रा॑युः॒ सुकृ॑तश्चरेयम्॥२७॥  
+प्र॒जाप॑ते॒रावृ॑तो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य॒ ज्योति॑षा॒ वर्च॑सा च।  
+ज॒रद॑ष्टिः कृ॒तवी॑र्यो॒ विहा॑याः स॒हस्रा॑युः॒ सुकृ॑तश्चरेयम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/27_prajApaterAvRto_brahmaNA.md">
@@ -1760,7 +1842,7 @@ Encompassed by Prajapati's devotion as shield, with Kasyapa's bright light and s
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतेः। आऽवृतः। ब्रह्मणा। वर्मणा। अहम्। कश्यपस्य। ज्योतिषा। वर्चसा। च। जरत्ऽअष्टिः। कृतऽवीर्यः। विऽहायाः। सहस्रऽआयुः। सुऽकृतः। चरेयम्। १.२७।
+प्र॒जाऽप॑तेः। आऽवृ॑तः। ब्रह्म॑णा। वर्म॑णा। अ॒हम्। क॒श्यप॑स्य। ज्योति॑षा। वर्च॑सा। च॒। ज॒रत्ऽअ॑ष्टिः। कृ॒तऽवी॑र्यः। विऽहा॑याः। स॒हस्र॑ऽआयुः। सुऽकृ॑तः। च॒रे॒य॒म्। १.२७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1791,14 +1873,17 @@ Encompassed by Prajapati's devotion as shield, with Kasyapa's bright light and s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/28_parivRtobrahmaNA_varmaNAham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॑वृतो॒ ब्रह्म॑णा॒ वर्म॑णा॒हं क॒श्यप॑स्य॒ ज्योति॑षा॒ वर्च॑सा च ।  
-मा मा॒ प्राप॒न्निष॑वो॒ दैव्या॒ या मा मानु॑षी॒रव॑सृष्टाः व॒धाय॑ ॥२८॥  
+परि॑वृतो॒ब्रह्म॑णा॒ वर्म॑णा॒हं क॑श्यपस्य॒ ज्योति॑षा॒ वर्च॑सा च।  
+मा मा॒प्राप॒न्निष॑वो॒ दैव्या॒ या मा मानु॑षी॒रव॑सृष्टाः व॒धाय॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/28_parivRtobrahmaNA_varmaNAham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑वृतो॒ब्रह्म॑णा॒ वर्म॑णा॒हं क॑श्यपस्य॒ ज्योति॑षा॒ वर्च॑सा च। मा मा॒प्राप॒न्निष॑वो॒ दैव्या॒ या मा मानु॑षी॒रव॑सृष्टाः व॒धाय॑ ॥
+परि॑वृतो॒ब्रह्म॑णा॒ वर्म॑णा॒हं क॑श्यपस्य॒ ज्योति॑षा॒ वर्च॑सा च।  
+मा मा॒प्राप॒न्निष॑वो॒ दैव्या॒ या मा मानु॑षी॒रव॑सृष्टाः व॒धाय॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/28_parivRtobrahmaNA_varmaNAham.md">
@@ -1827,7 +1912,7 @@ Compassed am I with prayer, my shield and armour; compassed with Kasyapa's brigh
 </details>
 <details><summary>पदपाठः</summary>
 
-परिऽवृतः। ब्रह्मणा। वर्मणा। अहम्। कश्यपस्य। ज्योतिषा। वर्चसा। च। मा। मा। प्र। आपन्। इषवः। दैव्याः। याः। मा। मानुषीः। अवऽसृष्टाः। वधाय। १.२८।
+परि॑ऽवृतः। ब्रह्म॑णा। वर्म॑णा। अ॒हम्। क॒श्यप॑स्य। ज्योति॑षा। वर्च॑सा। च॒। मा। मा॒। प्र। आ॒प॒न्। इष॑वः। दैव्याः॑। याः। मा। मानु॑षीः। अव॑ऽसृष्टाः। व॒धाय॑। १.२८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1854,23 +1939,25 @@ Compassed am I with prayer, my shield and armour; compassed with Kasyapa's brigh
 </details>
 </details>
 </div>
-## २९ ऋतेन गुप्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/29_Rtena_gupta.md">
+## २९ ऋतेन गुप्तऋतुभिश्च
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/29_Rtena_guptaRtubhishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तेन॑ गु॒प्त ऋ॒तुभि॑श्च॒ सर्वै॑र्भू॒तेन॑ गु॒प्तो भव्ये॑न चा॒हम्।  
-मा मा॒ प्राप॑त् पा॒प्मा मोत मृ॒त्युर॒न्तर्द॑धे॒ऽहं स॑लि॒लेन॑ वा॒चः ॥२९॥  
+ऋ॒तेन॑ गु॒प्तऋ॒तुभि॑श्च॒ सर्वै॑र्भू॒तेन॑ गु॒प्तो भव्ये॑न चा॒हम्।  
+मा मा॒ प्राप॑त्पा॒प्मामोत मृ॒त्युर॒न्तर्द॑धे॒ऽहं स॑लि॒लेन॑ वा॒चः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/29_Rtena_gupta.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/29_Rtena_guptaRtubhishcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तेन॑ गु॒प्त ऋ॒तुभि॑श्च॒ सर्वै॑र्भू॒तेन॑ गु॒प्तो भव्ये॑न चा॒हम्।  
-मा मा॒ प्राप॑त् पा॒प्मा मोत मृ॒त्युर॒न्तर्द॑धे॒ऽहं स॑लि॒लेन॑ वा॒चः ॥२९॥  
+ऋ॒तेन॑ गु॒प्तऋ॒तुभि॑श्च॒ सर्वै॑र्भू॒तेन॑ गु॒प्तो भव्ये॑न चा॒हम्।  
+मा मा॒ प्राप॑त्पा॒प्मामोत मृ॒त्युर॒न्तर्द॑धे॒ऽहं स॑लि॒लेन॑ वा॒चः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/29_Rtena_gupta.md">
-<details open><summary><h3>२९ ऋतेन गुप्त ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/29_Rtena_guptaRtubhishcha.md">
+<details open><summary><h3>२९ ऋतेन गुप्तऋतुभिश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -1887,7 +1974,7 @@ Guarded am I by Order and the Seasons, protected by the past and by the future. 
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतेन। गुप्तः। ऋतुऽभिः। च। सर्वैः। भूतेन। गुप्तः। भव्येन। च। अहम्। मा। मा। प्र। आपत्। पाप्मा। मा। उत। मृत्युः। अन्तः। दधे। अहम्। सलिलेन। वाचः। १.२९।
+ऋ॒तेन॑। गु॒प्तः। ऋ॒तुऽभिः॑। च॒। सर्वैः॑। भू॒तेन॑। गु॒प्तः। भव्ये॑न। च॒। अ॒हम्। मा। मा॒। प्र। आ॒प॒त्। पा॒प्मा। मा। उ॒त। मृ॒त्युः। अ॒न्तः। द॒धे॒। अ॒हम्। स॒लि॒लेन॑। वा॒चः। १.२९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1918,14 +2005,17 @@ Guarded am I by Order and the Seasons, protected by the past and by the future. 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/17/001_abhyudayAya_prArthanA/30_agnirmAgoptA_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्मा॑ गो॒प्ता परि॑ पातु वि॒श्वतः॑ उ॒द्यन्त्सूर्यो॑ नुदतां मृत्युपा॒शान्।  
-व्यु॒च्छन्ती॑रु॒षसः॒ पर्व॑ता ध्रु॒वाः स॒हस्रं॑ प्रा॒णा मय्या य॑तन्ताम्॥३०॥
+अ॒ग्निर्मा॑गो॒प्ता परि॑ पातु वि॒श्वत॑ उ॒द्यन्त्सूर्यो॑ नुदतां मृत्युपा॒शान्।  
+व्यु॒छन्ती॑रु॒षसः॒ पर्व॑ता ध्रु॒वाः स॒हस्रं॑ प्रा॒णा मय्या य॑तन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/17/001_abhyudayAya_prArthanA/30_agnirmAgoptA_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निर्मा॑गो॒प्ता परि॑ पातु वि॒श्वत॑ उ॒द्यन्त्सूर्यो॑ नुदतां मृत्युपा॒शान्।व्यु॒छन्ती॑रु॒षसः॒ पर्व॑ता ध्रु॒वाः स॒हस्रं॑ प्रा॒णा मय्या य॑तन्ताम् ॥
+अ॒ग्निर्मा॑गो॒प्ता परि॑ पातु वि॒श्वत॑ उ॒द्यन्त्सूर्यो॑ नुदतां मृत्युपा॒शान्।  
+व्यु॒छन्ती॑रु॒षसः॒ पर्व॑ता ध्रु॒वाः स॒हस्रं॑ प्रा॒णा मय्या य॑तन्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/17/001_abhyudayAya_prArthanA/30_agnirmAgoptA_pari.md">
@@ -1958,7 +2048,7 @@ On every side let Agni guard and keep me; the rising Sun drive off the snares of
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। मा। गोप्ता। परि। पातु। विश्वतः। उत्ऽयन्। सूर्यः। नुदताम्। मृत्युऽपाशान्। विऽउच्छन्तीः। उषसः। पर्वताः। ध्रुवाः। सहस्रम्। प्राणाः। मयि। आ। यतन्ताम्। १.३०।
+अ॒ग्निः। मा॒। गो॒प्ता। परि॑। पा॒तु॒। वि॒श्वतः॑। उ॒त्ऽयन्। सूर्यः॑। नु॒द॒ता॒म्। मृ॒त्यु॒ऽपा॒शान्। वि॒ऽउ॒च्छन्तीः॑। उ॒षसः॑। पर्व॑ताः। ध्रु॒वाः। स॒हस्र॑म्। प्रा॒णाः। मयि॑। आ। य॒त॒न्ता॒म्। १.३०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Griffith, i. 299.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै ।  
-च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नम॒स्योऽभवे॒ह॥१॥  
+इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै।  
+च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नमस्यो᳡ भवे॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै। च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नमस्यो᳡ भवे॒ह ॥
+इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै।  
+च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नमस्यो᳡ भवे॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/01_indro_jayAti.md">
@@ -66,7 +69,7 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। जयाति। न। परा। जयातै। अधिऽराजः। राजऽसु। राजयातै। चर्कृत्यः। ईड्यः। वन्द्य। च। उपऽसद्यः। नमस्यः᳡। भव। इह। ९८.१।
+इन्द्रः॑। ज॒या॒ति॒। न। परा॑। ज॒या॒तै॒। अ॒धि॒ऽरा॒जः। राज॑ऽसु। रा॒ज॒या॒तै॒। च॒र्कृत्यः॑। ईड्यः॑। वन्द्य॑। च॒। उ॒प॒ऽसद्यः॑। न॒म॒स्यः᳡। भ॒व॒। इ॒ह। ९८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,13 +101,16 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वमि॑न्द्राधिरा॒जः श्र॑व॒स्युस्त्वं भू॑र॒भिभू॑ति॒र्जना॑नाम्।  
-त्वं दैवी॒र्विश॑ इ॒मा वि रा॒जायु॑ष्मत् क्ष॒त्रम॒जरं॑ ते अस्तु ॥२॥  
+त्वं दैवी॑र्विश इ॒मा वि रा॒जायु॑ष्मत्क्ष॒त्रम॒जरं॑ ते अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वमि॑न्द्राधिरा॒जः श्र॑व॒स्युस्त्वं भू॑र॒भिभू॑ति॒र्जना॑नाम्। त्वं दैवी॑र्विश इ॒मा वि रा॒जायु॑ष्मत्क्ष॒त्रम॒जरं॑ ते अस्तु ॥
+त्वमि॑न्द्राधिरा॒जः श्र॑व॒स्युस्त्वं भू॑र॒भिभू॑ति॒र्जना॑नाम्।  
+त्वं दैवी॑र्विश इ॒मा वि रा॒जायु॑ष्मत्क्ष॒त्रम॒जरं॑ ते अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
@@ -133,7 +139,7 @@ Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्र। अधिऽराजः। श्रवस्युः। त्वम्। भूः। अभिऽभूतिः। जनानाम्। त्वम्। दैवीः। विशः। इमाः। वि। राज। आयुष्मत्। क्षत्रम्। अजरम्। ते। अस्तु। ९८.२।
+त्वम्। इ॒न्द्र॒। अ॒धि॒ऽरा॒जः। श्र॒व॒स्युः। त्वम्। भूः॒। अ॒भिऽभू॑तिः। जना॑नाम्। त्वम्। दैवीः॑। विशः॑। इ॒माः। वि। रा॒ज॒। आयु॑ष्मत्। क्ष॒त्रम्। अ॒जर॑म्। ते॒। अ॒स्तु॒। ९८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,14 +170,17 @@ Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहन्छत्रु॒होऽसि ।  
-यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥३॥
+प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहञ्छत्रु॒हो᳡सि॑।  
+यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहञ्छत्रु॒होसि॑। यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥
+प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहञ्छत्रु॒हो᳡सि॑।  
+यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
@@ -194,14 +203,14 @@ describes the west; that does not suit the basin of central India.
 </details>
 <details><summary>Griffith</summary>
 
-id
-6.98.3    Thou governest the north and eastern regions, ...
-6.98.3    The daughter of the Asuras art thou, and siste...
-Name: Comment, dtype: object
+Thou governest the north and eastern regions, Indra! fiend-
+slayer! thou destroycst foemen.  
+Thou hast won all, far as the rivers wander. Bull, called to
+help, on our right hand thou goest.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राच्याः। दिशः। त्वम्। इन्द्र। असि। राजा। उत। उदीच्याः। दिशः। वृत्रऽहन्। शत्रुऽहः। असि। यत्र। यन्ति। स्रोत्याः। तत्। जितम्। ते। दक्षिणतः। वृषभः। एषि। हव्यः। ९८.३।
+प्राच्याः॑। दि॒शः। त्वम्। इ॒न्द्र॒। अ॒सि॒। राजा॑। उ॒त। उदी॑च्याः। दि॒शः। वृ॒त्र॒ऽह॒न्। श॒त्रु॒ऽहः। अ॒सि॒। यत्र॑। यन्ति॑। स्रो॒त्याः। तत्। जि॒तम्। ते॒। द॒क्षि॒ण॒तः। वृ॒ष॒भः। ए॒षि॒। हव्यः॑। ९८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

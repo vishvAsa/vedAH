@@ -36,14 +36,17 @@ A prayer to Vachaspati for divine illumination and help.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/01_ye_triShaptAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॑ त्रिषप्ताः प॑रि॒य॑न्ति वि॑श्वा रू॒पाणि॒ बिभ्र॑तः ।  
-वा॒चस्प॒तिर्बला॒ तेषां॑ तन्वो॒ अ॒द्य द॑धातु मे ॥१॥  
+ये त्रि॑ष॒प्ताः प॑रि॒यन्ति॒ विश्वा॑ रू॒पाणि॒ बिभ्र॑तः।  
+वा॒चस्पति॒र्बला॒ तेषां॑ त॒न्वो॑ अ॒द्य द॑धातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/01_ye_triShaptAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये त्रि॑ष॒प्ताः प॑रि॒यन्ति॒ विश्वा॑ रू॒पाणि॒ बिभ्र॑तः। वा॒चस्पति॒र्बला॒ तेषां॑ त॒न्वो॑ अ॒द्य द॑धातु मे ॥
+ये त्रि॑ष॒प्ताः प॑रि॒यन्ति॒ विश्वा॑ रू॒पाणि॒ बिभ्र॑तः।  
+वा॒चस्पति॒र्बला॒ तेषां॑ त॒न्वो॑ अ॒द्य द॑धातु मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/01_ye_triShaptAH.md">
@@ -92,7 +95,7 @@ Now may Vachaspati assign to me the strength and powers of Those Who, wearing ev
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। त्रिऽसप्ताः। परिऽयन्ति। विश्वा। रूपाणि। बिभ्रतः। वाचः। पतिः। वला। तेषाम्। तन्वः। अद्य। दधातु। मे।
+ये। त्रि॒ऽस॒प्ताः। प॒रि॒ऽयन्ति॑। विश्वा॑। रू॒पाणि॑। बिभ्र॑तः। वा॒चः। पतिः॑। वला॑। तेषा॑म्। त॒न्वः। अ॒द्य। द॒धा॒तु॒। मे॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -123,14 +126,17 @@ Now may Vachaspati assign to me the strength and powers of Those Who, wearing ev
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॑नरे॑हि वचस्पते दे॒वेन॒ म॑नसा स॒ह।  
-वसो॑ष्पते॒ नि र॑मय॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम्॥२॥  
+पुन॒रेहि॑ वाचस्पते दे॒वेन॒ मन॑सा स॒ह।  
+वसो॑ष्पते॒ नि र॑मय॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/02_punarehi_vAchaspate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुन॒रेहि॑ वाचस्पते दे॒वेन॒ मन॑सा स॒ह। वसो॑ष्पते॒ नि र॑मय॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
+पुन॒रेहि॑ वाचस्पते दे॒वेन॒ मन॑सा स॒ह।  
+वसो॑ष्पते॒ नि र॑मय॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
@@ -155,7 +161,7 @@ Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose t
 </details>
 <details><summary>पदपाठः</summary>
 
-पुनः। आ। इहि। वाचः। पते। देवेन। मनसा। सह। वसोः। पते। नि। रमय। मयि। एव। अस्तु। मयि। श्रुतम्।
+पुनः॑। आ। इ॒हि॒। वा॒चः॒। प॒ते॒। दे॒वेन॑। मन॑सा। स॒ह। वसोः॑। प॒ते॒। नि। र॒म॒य॒। मयि॑। ए॒व। अ॒स्तु। मयि॑। श्रु॒तम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -186,14 +192,17 @@ Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैवाभि॑ वि त॑नू॒भे आर्त्नी॑ इव॒ ज्य॑या ।  
-वा॒चस्पति॒र्नि य॑च्छतु॒ मय्ये॒वा॑स्तु॒ मयि॑ श्रु॒तम्॥३॥  
+इ॒हैवाभि वि त॑नू॒भे आर्त्नी॑ इव॒ ज्यया॑।  
+वा॒चस्पति॒र्नि य॑च्छतु॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/03_ihaivAbhi_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒हैवाभि वि त॑नू॒भे आर्त्नी॑ इव॒ ज्यया॑। वा॒चस्पति॒र्नि य॑च्छतु॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
+इ॒हैवाभि वि त॑नू॒भे आर्त्नी॑ इव॒ ज्यया॑।  
+वा॒चस्पति॒र्नि य॑च्छतु॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
@@ -218,7 +227,7 @@ Here, even here, spread sheltering arms like the two bow-ends strained with cord
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। एव। अभि। वि। तनु। उभे इति। आलीं इवेत्यार्लीऽइव। ज्यया। वाचः। पतिः। नि। यच्छतु। मयि। एव। अस्तु। मयि। श्रुतम्।
+इ॒ह। ए॒व। अ॒भि। वि। त॒नु॒। उ॒भे इति॑। आलीं॑ इ॒वेत्यार्ली॑ऽइव। ज्यया॑। वा॒चः। पतिः॑। नि। य॒च्छ॒तु॒। मयि॑। ए॒व। अ॒स्तु॒। मयि॑। श्रु॒तम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -249,14 +258,17 @@ Here, even here, spread sheltering arms like the two bow-ends strained with cord
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॑पहूतो वा॒चस्पति॒रुपा॒स्मान् वा॒चस्प॑तिर्ह्वयताम्।  
-सं श्रु॒तेन॑ गमेमहि॒ मा श्रु॒तेन॒ वि रा॑धिषि ॥४॥
+उप॑हूतो वा॒चस्पति॒रुपा॒स्मान्वा॒चस्पति॑र्ह्वयताम्।  
+सं श्रु॒तेन॑ गमेमहि॒ मा श्रु॒तेन॒ वि रा॑धिषि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑हूतो वा॒चस्पति॒रुपा॒स्मान्वा॒चस्पति॑र्ह्वयताम्। सं श्रु॒तेन॑ गमेमहि॒ मा श्रु॒तेन॒ वि रा॑धिषि ॥
+उप॑हूतो वा॒चस्पति॒रुपा॒स्मान्वा॒चस्पति॑र्ह्वयताम्।  
+सं श्रु॒तेन॑ गमेमहि॒ मा श्रु॒तेन॒ वि रा॑धिषि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
@@ -282,7 +294,7 @@ Vachaspati hath been invoked: may he invite us in reply. May we adhere to Sacred
 </details>
 <details><summary>पदपाठः</summary>
 
-उपऽहूतः। वाचः। पतिः। उप। अस्मान्। वाचः। पतिः। व्हयताम्। सम्। श्रुतेन। गमेमहि। मा। श्रुतेन। वि। राधिषि।
+उप॑ऽहूतः। वा॒चः। पतिः॑। उप॑। अ॒स्मान्। वा॒चः। पतिः॑। व्ह॒य॒ता॒म्। सम्। श्रुतेन॑। ग॒मे॒म॒हि॒। मा। श्रुतेन॑। वि। रा॒धि॒षि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

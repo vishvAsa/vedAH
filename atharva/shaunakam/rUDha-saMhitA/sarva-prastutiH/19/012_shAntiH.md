@@ -36,15 +36,17 @@ A prayer to Ushas or Dawn for wealth and long life
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/012_shAntiH/01_uShA_apa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑ ।  
-अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥१॥
+उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑।  
+अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/012_shAntiH/01_uShA_apa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑ ।  
-अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥१॥
+उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑।  
+अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/01_uShA_apa.md">
@@ -70,7 +72,7 @@ Dawn drives away her sister's gloom, and through her excellence makes her retrac
 </details>
 <details><summary>पदपाठः</summary>
 
-उषाः। अप। स्वसुः। तमः। सम्। वर्तयति। वर्तनिम्। सुऽजातता। अया। वाजम्। देवऽहितम्। सनेम। मदेम। शतऽहिमाः। सुऽवीराः। १२.१।
+उ॒षाः। अप॑। स्वसुः॑। तमः॑। सम्। व॒र्त॒य॒ति॒। व॒र्त॒निम्। सु॒ऽजा॒तता॑। अ॒या। वाज॑म्। दे॒वऽहि॑तम्। स॒ने॒म॒। मदे॑म। श॒तऽहि॑माः। सु॒ऽवीराः॑। १२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

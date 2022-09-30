@@ -32,14 +32,17 @@ Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Be
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/01_devA_aduH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वा अ॑दुः॒ सूर्यो॑ अदाद् द्यौर॑दात् पृथि॒व्यऽदात्।  
-ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम्॥१॥  
+दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्।  
+ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/01_devA_aduH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्। ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
+दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्।  
+ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/01_devA_aduH.md">
@@ -62,7 +65,7 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 </details>
 <details><summary>पदपाठः</summary>
 
-देवाः। अदुः। सूर्यः। अदात्। द्यौः। अदात्। पृथिवी। अदात्। तिस्रः। सरस्वतीः। अदुः। सऽचित्ताः। विषऽदूषणम्। १००.१।
+दे॒वाः। अ॒दुः॒। सूर्यः॑। अ॒दा॒त्। द्यौः। अ॒दा॒त्। पृ॒थि॒वी। अ॒दा॒त्। ति॒स्रः। सर॑स्वतीः। अ॒दुः॒। सऽचि॑त्ताः। वि॒ष॒ऽदूष॑णम्। १००.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न् धन्व॑न्युद॒कम्।  
-तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम्॥२॥  
+यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्।  
+तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्। तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
+यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्।  
+तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/02_yadvo_devA.md">
@@ -127,7 +133,7 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। वः। देवाः। उपऽजीकाः। आऽअसिञ्चन्। धन्वनि। उदकम्। तेन। देवऽप्रसूतेन। इदम्। दूषयत। विषम्। १००.२।
+यत्। वः॒। दे॒वाः। उ॒प॒ऽजी॒काः॒। आ॒ऽअसि॑ञ्चन्। धन्व॑नि। उ॒द॒कम्। तेन॑। दे॒वऽप्र॑सूतेन। इ॒दम्। दू॒ष॒य॒त॒। वि॒षम्। १००.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ।  
-दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम्॥३॥
+असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑।  
+दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑। दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
+असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑।  
+दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
@@ -190,7 +199,7 @@ ant-hill (*valmīkamṛttikā*) as addressed in the verse.
 </details>
 <details><summary>पदपाठः</summary>
 
-असुराणाम्। दुहिता। असि। सा। देवानाम्। असि। स्वसा। दिवः। पृथिव्याः। सम्ऽभूता। सा। चकर्थ। अरसम्। विषम्। १००.३।
+असु॑राणाम्। दु॒हि॒ता। अ॒सि॒। सा। दे॒वाना॑म्। अ॒सि॒। स्वसा॑। दि॒वः। पृ॒थि॒व्याः। सम्ऽभू॑ता। सा। च॒क॒र्थ॒। अ॒र॒सम्। वि॒षम्। १००.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

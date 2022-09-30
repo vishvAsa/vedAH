@@ -33,13 +33,16 @@ Translated: Ludwig, p. 434; Henry, 40, 113; Griffith, i. 377.—Henry gives an e
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ स्तृणीहि॒ परि॑ धेहि॒ वेदिं॒ मा जा॒मिं मो॑षीरमु॒या शया॑नाम्।  
-हो॒तृ॒षद॑नं हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के॥१॥
+हो॑तृ॒षद॑नं॒ हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/099_vedI/01_pari_stRNIhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ स्तृणीहि॒ परि॑ धेहि॒ वेदिं॒ मा जा॒मिं मो॑षीरमु॒या शया॑नाम्। हो॑तृ॒षद॑नं॒ हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के ॥
+परि॑ स्तृणीहि॒ परि॑ धेहि॒ वेदिं॒ मा जा॒मिं मो॑षीरमु॒या शया॑नाम्।  
+हो॑तृ॒षद॑नं॒ हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/099_vedI/01_pari_stRNIhi.md">
@@ -67,7 +70,7 @@ Strew thou the Grass, and spread it on the Altar: rob not the sister who is lyin
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। स्तृणीहि। परि। धेहि। वेदिम्। मा। जामिम्। मोषीः। अमुया। शयानाम्। होतृऽसदनम्। हरितम्। हिरण्ययम्। निष्काः। एते। यजमानस्‍य। लोके। १०४.१।
+परि॑। स्तृ॒णी॒हि॒। परि॑। धे॒हि॒। वेदि॑म्। मा। जा॒मिम्। मो॒षीः॒। अ॒मु॒या। शया॑नाम्। हो॒तृ॒ऽसद॑नम्। हरि॑तम्। हि॒र॒ण्यय॑म्। नि॒ष्काः। ए॒ते। यज॑मानस्‍य। लो॒के। १०४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

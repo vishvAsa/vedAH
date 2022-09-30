@@ -32,14 +32,17 @@ Translated: Ludwig, p. 442; Griffith, i. 310.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/01_yadadIvyannRNamahaM_kRNomyadAsyannagna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यददी॑व्यन्नृ॒णम॒हं कृ॒णोम्यदा॑स्यन्नग्न उ॒त सं॑गृ॒णामि॑ ।  
-वै॒श्वा॒न॒रो नो॑ अधि॒पा वसि॑ष्ठ॒ उदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्॥१॥  
+यददी॑व्यन्नृ॒णम॒हं कृ॒णोम्यदा॑स्यन्नग्न उ॒त सं॑गृ॒णामि॑।  
+वै॑श्वान॒रो नो॑ अधि॒पा वसि॑ष्ठ॒ उदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/119_AnRNyam/01_yadadIvyannRNamahaM_kRNomyadAsyannagna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यददी॑व्यन्नृ॒णम॒हं कृ॒णोम्यदा॑स्यन्नग्न उ॒त सं॑गृ॒णामि॑। वै॑श्वान॒रो नो॑ अधि॒पा वसि॑ष्ठ॒ उदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+यददी॑व्यन्नृ॒णम॒हं कृ॒णोम्यदा॑स्यन्नग्न उ॒त सं॑गृ॒णामि॑।  
+वै॑श्वान॒रो नो॑ अधि॒पा वसि॑ष्ठ॒ उदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/119_AnRNyam/01_yadadIvyannRNamahaM_kRNomyadAsyannagna.md">
@@ -65,7 +68,7 @@ The debt which I incur, not gaming, Agni! and, not intending to repay, acknowled
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अदीव्यन्। ऋणम्। अहम्। कृणोमि। अदास्यन्। अग्ने। उत। सम्ऽगृणामि। वैश्वानरः। नः। अधिऽपाः। वसिष्ठः। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। ११९.१।
+यत्। अदी॑व्यन्। ऋ॒णम्। अ॒हम्। कृ॒णोमि॑। अदा॑स्यन्। अ॒ग्ने॒। उ॒त। स॒म्ऽगृ॒णामि॑। वै॒श्वा॒न॒रः। नः॒। अ॒धि॒ऽपाः। वसि॑ष्ठः। उत्। इत्। न॒या॒ति॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। ११९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ The debt which I incur, not gaming, Agni! and, not intending to repay, acknowled
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/02_vaishvAnarAya_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒राय॒ प्रति॑ वेदयामि॒ यद्यृ॒णं सं॑ग॒रो दे॒वता॑सु ।  
-स ए॒तान् पाशा॑न् वि॒चृतं॑ वेद॒ सर्वा॒नथ॑ प॒क्वेन॑ स॒ह सं भ॑वेम ॥२॥  
+वै॑श्वान॒राय॒ प्रति॑ वेदयामि॒ यद्यृ॒णं सं॑ग॒रो दे॒वता॑सु।  
+स ए॒तान्पाशा॑न्वि॒चृतं॑ वेद॒ सर्वा॒नथ॑ प॒क्वेन॑ स॒ह सं भ॑वेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/119_AnRNyam/02_vaishvAnarAya_prati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒राय॒ प्रति॑ वेदयामि॒ यद्यृ॒णं सं॑ग॒रो दे॒वता॑सु। स ए॒तान्पाशा॑न्वि॒चृतं॑ वेद॒ सर्वा॒नथ॑ प॒क्वेन॑ स॒ह सं भ॑वेम ॥
+वै॑श्वान॒राय॒ प्रति॑ वेदयामि॒ यद्यृ॒णं सं॑ग॒रो दे॒वता॑सु।  
+स ए॒तान्पाशा॑न्वि॒चृतं॑ वेद॒ सर्वा॒नथ॑ प॒क्वेन॑ स॒ह सं भ॑वेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/119_AnRNyam/02_vaishvAnarAya_prati.md">
@@ -131,7 +137,7 @@ I cause Vaisvanara to know, confessing the debt whose payment to the Gods is pro
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानराय। प्रति। वेदयामि। यदि। ऋणम्। सम्ऽगरः। देवतासु। सः। एतान्। पाशान्। विऽचृतम्। वेद। सर्वान्। अथ। पक्वेन। सह। सम्। भवेम। ११९.२।
+वै॒श्वा॒न॒राय॑। प्रति॑। वे॒द॒या॒मि॒। यदि॑। ऋ॒णम्। स॒म्ऽग॒रः। दे॒वता॑सु। सः। ए॒तान्। पाशा॑न्। वि॒ऽचृत॑म्। वे॒द॒। सर्वा॑न्। अथ॑। प॒क्वेन॑। स॒ह। सम्। भ॒वे॒म॒। ११९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ I cause Vaisvanara to know, confessing the debt whose payment to the Gods is pro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/119_AnRNyam/03_vaishvAnaraH_pavitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रः प॑वि॒ता मा॑ पुनातु॒ यत् सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्।  
-अना॑जान॒न् मन॑सा॒ याच॑मानो॒ यत् तत्रैनो॒ अप॒ तत् सु॑वामि ॥३॥
+वै॑श्वान॒रः प॑वि॒ता मा॑ पुनातु॒ यत्सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्।  
+अना॑जान॒न्मन॑सा॒ याच॑मानो॒ यत्तत्रैनो॒ अप॒ तत्सु॑वामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/119_AnRNyam/03_vaishvAnaraH_pavitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रः प॑वि॒ता मा॑ पुनातु॒ यत्सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्। अना॑जान॒न्मन॑सा॒ याच॑मानो॒ यत्तत्रैनो॒ अप॒ तत्सु॑वामि ॥
+वै॑श्वान॒रः प॑वि॒ता मा॑ पुनातु॒ यत्सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्।  
+अना॑जान॒न्मन॑सा॒ याच॑मानो॒ यत्तत्रैनो॒ अप॒ तत्सु॑वामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/119_AnRNyam/03_vaishvAnaraH_pavitA.md">
@@ -200,7 +209,7 @@ Vaisvanara the Purifier purge me when I oppose their hope and break my promise, 
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानरः। पविता। मा। पुनातु। यत्। सम्ऽगरम्। अभिऽधावामि। आऽशाम्। अनाजानन्। मनसा। याचमानः। यत्। तत्र। एनः। अप। तत्। सुवामि। ११९.३।
+वै॒श्वा॒न॒रः। प॒वि॒ता। मा॒। पु॒ना॒तु॒। यत्। स॒म्ऽग॒रम्। अ॒भि॒ऽधावा॑मि। आ॒ऽशाम्। अना॑जानन्। मन॑सा। याच॑मानः। यत्। तत्र॑। एनः॑। अप॑। तत्। सु॒वा॒मि॒। ११९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

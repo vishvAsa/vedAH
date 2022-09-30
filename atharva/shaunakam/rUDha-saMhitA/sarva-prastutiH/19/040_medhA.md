@@ -36,15 +36,17 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/01_yanme_Chidram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑ ।  
-विश्वै॒स्तद् दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥१॥  
+यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑।  
+विश्वै॒स्तद्दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/01_yanme_Chidram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑ ।  
-विश्वै॒स्तद् दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥१॥  
+यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑।  
+विश्वै॒स्तद्दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/01_yanme_Chidram.md">
@@ -76,7 +78,7 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। मे। छिद्रम्। मनसः। यत्। च। वाचः। सरस्वती। मन्युऽमन्तम्। जगाम। विश्वैः। तत्। देवैः। सह। सम्ऽविदानः। सम्। दधातु। बृहस्पतिः। ४०.१।
+यत्। मे॒। छि॒द्रम्। मन॑सः। यत्। च॒। वा॒चः। सर॑स्वती। म॒न्यु॒ऽमन्त॑म्। ज॒गाम॑। विश्वैः॑। तत्। दे॒वैः। स॒ह। स॒म्ऽवि॒दा॒नः। सम्। द॒धा॒तु॒। बृह॒स्पतिः॑। ४०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,15 +109,17 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/02_mA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा न॒ आपो॑ मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन ।  
-सु॒ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी॥२॥  
+मा न॑ आपो मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन।  
+सु॑ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/02_mA_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा न॒ आपो॑ मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन ।  
-सु॒ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी॥२॥  
+मा न॑ आपो मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन।  
+सु॑ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/02_mA_na.md">
@@ -152,7 +156,7 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। नः। आपः। मेधाम्। मा। ब्रह्म। प्र। मथिष्टन। सुऽस्यदाः। यूयम्। स्यन्दध्वम्। उपऽहूतः। अहम्। सुऽमेधाः। वर्चस्वी। ४०.२।
+मा। नः॒। आपः॑। मे॒धाम्। मा। ब्रह्म॑। प्र। म॒थि॒ष्ट॒न॒। सु॒ऽस्य॒दाः। यू॒यम्। स्य॒न्द॒ध्व॒म्। उप॑ऽहूतः। अ॒हम्। सु॒ऽमे॑धाः। व॒र्च॒स्वी। ४०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -183,15 +187,17 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत् तपः॑ ।  
-शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥३॥  
+मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत्तपः॑।  
+शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/03_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत् तपः॑ ।  
-शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥३॥  
+मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत्तपः॑।  
+शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/03_mA_no.md">
@@ -227,7 +233,7 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। नः। मेधाम्। मा। नः। दीक्षाम्। मा। नः। हिंसिष्टम्। यत्। तपः। शिवाः। नः। शम्। सन्तु। आयुषे। शिवाः। भवन्तु। मातरः। ४०.३।
+मा। नः॒। मे॒धाम्। मा। नः॒। दी॒क्षाम्। मा। नः॒। हिं॒सि॒ष्ट॒म्। यत्। तपः॑। शि॒वाः। नः॒। शम्। स॒न्तु॒। आयु॑षे। शि॒वाः। भ॒व॒न्तु॒। मा॒तरः॑। ४०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -258,15 +264,17 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/04_yA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः ।  
-ताम॒स्मे रा॑सता॒मिष॑म्॥४॥
+या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
+ताम॒स्मे रा॑सता॒मिष॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/04_yA_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः ।  
-ताम॒स्मे रा॑सता॒मिष॑म्॥४॥
+या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
+ताम॒स्मे रा॑सता॒मिष॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/04_yA_naH.md">
@@ -307,7 +315,7 @@ Vouchsafe to us, ye Asvins twain, such strength as, with atten- dant light, May 
 </details>
 <details><summary>पदपाठः</summary>
 
-या। नः। पीपरत्। अश्विना। ज्योतिष्मती। तमः। तिरः। ताम्। अस्मे। रासताम्। इषम्। ४०.४।
+या। नः॒। पीप॑रत्। अ॒श्विना॑। ज्योति॑ष्मती। तमः॑। ति॒रः। ताम्। अ॒स्मे। रा॒स॒ता॒म्। इष॑म्। ४०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

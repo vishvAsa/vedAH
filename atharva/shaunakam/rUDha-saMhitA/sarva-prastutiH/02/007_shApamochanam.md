@@ -36,14 +36,17 @@ A counter-charm against imprecation and malignity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी ।  
-आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त् सर्वा॒न् मच्छ॒पथाँ॒ अधि॑ ॥१॥  
+अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी।  
+आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त्सर्वा॒न्मच्छ॒पथाँ॒ अधि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी। आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त्सर्वा॒न्मच्छ॒पथाँ॒ अधि॑ ॥
+अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी।  
+आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त्सर्वा॒न्मच्छ॒पथाँ॒ अधि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
@@ -70,7 +73,7 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 </details>
 <details><summary>पदपाठः</summary>
 
-अघऽद्विष्टा। देवऽजाता। वीरुत्। शपथऽयोपनी। आपः। मलम्ऽइव। प्र। अनैक्षीत्। सर्वान्। मत्। शपथान्। अधि। ७.१।
+अ॒घऽद्वि॑ष्टा। दे॒वऽजा॑ता। वी॒रुत्। श॒प॒थ॒ऽयोप॑नी। आपः॑। मल॑म्ऽइव। प्र। अ॒नै॒क्षी॒त्। सर्वा॑न्। मत्। श॒पथा॑न्। अधि॑। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः ।  
-ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त् सर्वं॒ तन्नो॑ अधस्प॒दम्॥२॥  
+यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः।  
+ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त्सर्वं॒ तन्नो॑ अधस्प॒दम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः। ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त्सर्वं॒ तन्नो॑ अधस्प॒दम् ॥
+यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः।  
+ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त्सर्वं॒ तन्नो॑ अधस्प॒दम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
@@ -131,7 +137,7 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। च। सापत्नः। शपथः। जाम्याः। शपथः। च। यः। ब्रह्मा। यत्। मन्युतः। शपात्। सर्वम्। तत्। नः। अधःऽपदम्। ७.२।
+यः। च॒। सा॒प॒त्नः। श॒पथः॑। जा॒म्याः। श॒पथः॑। च॒। यः। ब्र॒ह्मा। यत्। म॒न्यु॒तः। शपा॑त्। सर्व॑म्। तत्। नः॒। अ॒धः॒ऽप॒दम्। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,13 +169,16 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वो मूल॒मव॑ततं पृथि॒व्या अध्युत्त॑तम्।  
-तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥३॥  
+तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/03_divo_mUlamavatatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वो मूल॒मव॑ततं पृथि॒व्या अध्युत्त॑तम्। तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥
+दि॒वो मूल॒मव॑ततं पृथि॒व्या अध्युत्त॑तम्।  
+तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
@@ -191,7 +200,7 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवः। मूलम्। अवऽततम्। पृथिव्याः। अधि। उत्ऽततम्। तेन। सहस्रऽकाण्डेन। परि। नः। पाहि। विश्वतः। ७.३।
+दि॒वः। मूल॑म्। अव॑ऽततम्। पृ॒थि॒व्याः। अधि॑। उत्ऽत॑तम्। तेन॑। स॒हस्र॑ऽकाण्डेन। परि॑। नः॒। पा॒हि॒। वि॒श्वतः॑। ७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,13 +232,16 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ मां परि॑ मे प्र॒जां परि॑ णः पाहि॒ यद्धन॑म्।  
-अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒षुर॒भिमा॑तयः ॥४॥  
+अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒शुर॒भिमा॑तयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/04_pari_mAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॒ मां परि॑ मे प्र॒जां परि॑ णः पाहि॒ यद्धन॑म्। अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒शुर॒भिमा॑तयः ॥
+परि॒ मां परि॑ मे प्र॒जां परि॑ णः पाहि॒ यद्धन॑म्।  
+अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒शुर॒भिमा॑तयः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/04_pari_mAm.md">
@@ -258,7 +270,7 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। माम्। परि। मे। प्रऽजाम्। परि। नः। पाहि। यत्। धनम्। अराति। नः। मा। तारीत्। मा। नः। तारिषुः। अभिऽमातयः। ७.४।
+परि॑। माम्। परि॑। मे॒। प्र॒ऽजाम्। परि॑। नः॒। पा॒हि॒। यत्। धन॑म्। अरा॑ति। नः॒। मा। ता॒री॒त्। मा। नः॒। ता॒रि॒षुः। अ॒भिऽमा॑तयः। ७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -289,14 +301,17 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त् तेन॑ नः स॒ह।  
-चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥५॥
+श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त्तेन॑ नः स॒ह।  
+चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त्तेन॑ नः स॒ह। चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥
+श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त्तेन॑ नः स॒ह।  
+चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
@@ -321,7 +336,7 @@ Upon the curser fall his curse! Dwell we with him whose heart is true! We split 
 </details>
 <details><summary>पदपाठः</summary>
 
-शप्तारम्। एतु। शपथः। यः। सुऽहार्त्। तेन। नः। सह। चक्षुःऽमन्त्रस्य। दुःऽहार्दः। पृष्टीः। अपि। शृणीमसि। ७.५।
+श॒प्तार॑म्। ए॒तु॒। श॒पथः॑। यः। सु॒ऽहार्त्। तेन॑। नः॒। स॒ह। चक्षुः॑ऽमन्त्रस्य। दुः॒ऽहार्दः॑। पृ॒ष्टीः। अपि॑। शृ॒णी॒म॒सि॒। ७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

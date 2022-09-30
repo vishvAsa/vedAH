@@ -36,14 +36,17 @@ A charm to avert misfortune foreshown by the coming of a dove
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः ।  
-सं॒लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त् पथि॑ष्ठः ॥१॥  
+ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः।  
+सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः। सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
+ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः।  
+सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
@@ -71,7 +74,7 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋचा। कपोतम्। नुदत। प्रऽनोदम्। इषम्। मदन्तः। परि। गाम्। नयामः। सम्ऽलोभयन्तः। दुःऽइता। पदानि। हित्वा। नः। उर्जम्। प्र। पदात्। २८.१।
+ऋ॒चा। क॒पोत॑म्। नु॒द॒त॒। प्र॒ऽनोद॑म्। इष॑म्। मद॑न्तः। परि॑। गाम्। न॒या॒मः॒। स॒म्ऽलो॒भय॑न्तः। दुः॒ऽइ॒ता। प॒दानि॑। हि॒त्वा। नः॒। उर्ज॑म्। प्र। प॒दा॒त्। २८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,22 +101,25 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 </details>
 </details>
 </div>
-## ०२ परीमे३ग्निमर्षत परीमे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/02_parIme3gnimarShata_parIme.md">
+## ०२ परीमेग्निमर्षत परीमे
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒मे॒३ग्निम॑र्षत॒ परी॒मे गाम॑नेषत ।  
-दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥२॥  
+परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
+दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/02_parIme3gnimarShata_parIme.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत। दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
+परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
+दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/02_parIme3gnimarShata_parIme.md">
-<details open><summary><h3>०२ परीमे३ग्निमर्षत परीमे ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
+<details open><summary><h3>०२ परीमेग्निमर्षत परीमे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -135,7 +141,7 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। इमे। अग्निम्। अर्षत। परि। इमे। गाम्। अनेषत। देवेषु। अक्रत। श्रवः। कः। इमान्। आ। दधर्षति। २८.२।
+परि॑। इ॒मे। अ॒ग्निम्। अ॒र्ष॒त॒। परि॑। इ॒मे। गाम्। अ॒ने॒ष॒त॒। दे॒वेषु॑। अ॒क्र॒त॒। श्रवः॑। कः। इ॒मान्। आ। द॒ध॒र्ष॒ति॒। २८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः ।  
-यो॒३स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥३॥
+यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः।  
+यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः। यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
+यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः।  
+यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
@@ -202,7 +211,7 @@ Be reverence paid to him who, while exploring the path for many, first approache
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। प्रथमः। प्रऽवतम्। आऽससाद। बहुऽभ्यः। पन्थाम्। अनुऽपस्पशानः। यः। अस्य। ईशे। द्विऽपदः। यः। चतुःऽपदः। तस्मै। यमाय। नमः। अस्तु। मृत्यवे। २८.३।
+यः। प्र॒थ॒मः। प्र॒ऽवत॑म्। आ॒ऽस॒साद॑। ब॒हुऽभ्यः॑। पन्था॑म्। अ॒नु॒ऽप॒स्प॒शा॒नः। यः। अ॒स्य। ईशे॑। द्वि॒ऽपदः॑। यः। चतुः॑ऽपदः। तस्मै॑। य॒माय॑। नमः॑। अ॒स्तु॒। मृ॒त्यवे॑। २८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

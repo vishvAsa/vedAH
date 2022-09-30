@@ -37,13 +37,16 @@ A funeral stanza
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒मेत॒ विश्वे॒ वच॑सा॒ पतिं॑ दि॒व एको॑ वि॒भूरति॑थि॒र्जना॑नाम्।  
-स पू॒र्व्यो नूत॑नमा॒विवा॑सत् तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित् पु॒रु॥१॥
+स पू॒र्व्यो नूत॑नमा॒विवा॑स॒त्तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित्पु॒रु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/021_eko_vibhuH/01_sameta_vishve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒मेत॒ विश्वे॒ वच॑सा॒ पतिं॑ दि॒व एको॑ वि॒भूरति॑थि॒र्जना॑नाम्। स पू॒र्व्यो नूत॑नमा॒विवा॑स॒त्तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित्पु॒रु ॥
+स॒मेत॒ विश्वे॒ वच॑सा॒ पतिं॑ दि॒व एको॑ वि॒भूरति॑थि॒र्जना॑नाम्।  
+स पू॒र्व्यो नूत॑नमा॒विवा॑स॒त्तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित्पु॒रु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/021_eko_vibhuH/01_sameta_vishve.md">
@@ -72,7 +75,7 @@ With prayer come all together to the Lord of Heaven: he is the peerless one, far
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽएत। विश्वे। वचसा। पतिम्। दिवः। एकः। विऽभूः। अतिथिः। जनानाम्। सः। पूर्व्यः। नूतनम्। आऽविवासत्। तम्। वर्तनिः। अनु। ववृते। एकम्। इत्। पुरु। २२.१।
+स॒म्ऽएत॑। विश्वे॑। वच॑सा। पति॑म्। दि॒वः। एकः॑। वि॒ऽभूः। अति॑थिः। जना॑नाम्। सः। पू॒र्व्यः। नूत॑नम्। आ॒ऽविवा॑सत्। तम्। व॒र्त॒निः॒। अनु॑। व॒वृ॒ते॒। एक॑म्। इत्। पु॒रु। २२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

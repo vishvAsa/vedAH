@@ -36,15 +36,19 @@ A benediction on cow and calf
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ मां॒सं॑ यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने ।  
-यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
-ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥१॥  
+यथा॑ मां॒सं यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/01_yathA_mAMsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ मां॒सं यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने। यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑। ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+यथा॑ मां॒सं यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/01_yathA_mAMsam.md">
@@ -66,7 +70,7 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। मांसम्। यथा। सुरा। यथा। अक्षाः। अधिऽदेवने। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.१।
+यथा॑। मां॒सम्। यथा॑। सुरा॑। यथा॑। अ॒क्षाः। अ॒धि॒ऽदेव॑ने। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +102,18 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
-यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
-ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥२॥  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/02_yathA_hastI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे। यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑। ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/02_yathA_hastI.md">
@@ -128,7 +136,7 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। हस्ती। हस्तिन्याः। पदेन। पदम्। उत्ऽयुजे। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.२।
+यथा॑। ह॒स्ती। ह॒स्ति॒न्याः। प॒देन॑। प॒दम्। उ॒त्ऽयु॒जे। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,15 +167,19 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑ ।  
-यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑ ।  
-ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्॥३॥
+यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑। यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑। ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑।  
+यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑।  
+ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
@@ -197,7 +209,7 @@ Close as the felly and the spoke, fixt as the wheel-rim on the nave, As an enamo
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। प्रऽधिः। यथा। उपऽधिः। यथा। नभ्यम्। प्रऽधौ। अधि। यथा। पुंसः। वृषण्यतः। स्त्रियाम्। निऽहन्यते। मनः। एव। ते। अघ्न्ये। मनः। अधि। वत्से। नि। हन्यताम्। ७०.३।
+यथा॑। प्र॒ऽधिः। यथा॑। उ॒प॒ऽधिः। यथा॑। नभ्य॑म्। प्र॒ऽधौ। अधि॑। यथा॑। पुं॒सः। वृ॒ष॒ण्य॒तः। स्त्रि॒याम्। नि॒ऽह॒न्यते॑। मनः॑। ए॒व। ते॒। अ॒घ्न्ये॒। मनः॑। अधि॑। व॒त्से। नि। ह॒न्य॒ता॒म्। ७०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

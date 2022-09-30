@@ -37,13 +37,16 @@ A benediction addressed to a newly elected King
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ त्वा॑हार्षम॒न्तर॑भूर्ध्रु॒वस्ति॒ष्ठावि॑चाचलत्।  
-विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद् रा॒ष्ट्रमधि॑ भ्रशत्॥१॥  
+विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/087_rAjnaH_saMvaraNam/01_A_tvAhArShamantarabhUrdhruvastiShThAvichAchalat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ त्वा॑हार्षम॒न्तर॑भूर्ध्रु॒वस्ति॒ष्ठावि॑चाचलत्। विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ॥
+आ त्वा॑हार्षम॒न्तर॑भूर्ध्रु॒वस्ति॒ष्ठावि॑चाचलत्।  
+विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/087_rAjnaH_saMvaraNam/01_A_tvAhArShamantarabhUrdhruvastiShThAvichAchalat.md">
@@ -72,7 +75,7 @@ Here art thou: I have chosen thee. Stand stedfast and immov- able. Let all the c
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। त्वा। अहार्षम्। अन्तः। अभूः। ध्रुवः। तिष्ठ। अविऽचाचलत्। विशः। त्वा। सर्वाः। वाञ्छन्तु। मा। त्वत्। राष्ट्रम्। अधि। भ्रशत्। ८७.१।
+आ। त्वा॒। अ॒हा॒र्ष॒म्। अ॒न्तः। अ॒भूः॒। ध्रु॒वः। ति॒ष्ठ॒। अवि॑ऽचाचलत्। विशः॑। त्वा॒। सर्वाः॑। वा॒ञ्छ॒न्तु॒। मा। त्वत्। रा॒ष्ट्रम्। अधि॑। भ्र॒श॒त्। ८७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,13 +107,16 @@ Here art thou: I have chosen thee. Stand stedfast and immov- able. Let all the c
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलत्।  
-इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ॥२॥  
+इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/087_rAjnaH_saMvaraNam/02_ihaivaidhi_mApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒हैवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलत्। इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ॥
+इ॒हैवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलत्।  
+इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/087_rAjnaH_saMvaraNam/02_ihaivaidhi_mApa.md">
@@ -140,7 +146,7 @@ Be even here: fall not away: be like a mountain unremoved. Stand stedfast here l
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। एव। एधि। मा। अप। च्योष्ठाः। पर्वतःऽइव। अविऽचाचलत्। इन्द्रःऽइव। इह। ध्रुवः। तिष्ठ। राष्ट्रम्। ऊं इति। धारय। ८७.२।
+इ॒ह। ए॒व। ए॒धि॒। मा। अप॑। च्यो॒ष्ठाः॒। पर्व॑तःऽइव। अवि॑ऽचाचलत्। इन्द्रः॑ऽइव। इ॒ह। ध्रु॒वः। ति॒ष्ठ॒। रा॒ष्ट्रम्। ऊं॒ इति॑। धारय। ८७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,14 +177,17 @@ Be even here: fall not away: be like a mountain unremoved. Stand stedfast here l
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/087_rAjnaH_saMvaraNam/03_indra_etamadIdharad.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑ ए॒तम॑दीधरत् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑ ।  
-तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥३॥
+इन्द्र॑ ए॒तम॑दीधरद् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑।  
+तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/087_rAjnaH_saMvaraNam/03_indra_etamadIdharad.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑ ए॒तम॑दीधरद् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑। तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+इन्द्र॑ ए॒तम॑दीधरद् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑।  
+तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/087_rAjnaH_saMvaraNam/03_indra_etamadIdharad.md">
@@ -201,7 +210,7 @@ This man hath Indra stablished, made secure by constant sacri- fice. Soma, and B
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। एतम्। अदीधरत्। ध्रुवम्। ध्रुवेण। हविषा। तस्मै। सोमः। अधि। ब्रवत्। अयम्। च। ब्रह्मणः। पतिः। ८७.३।
+इन्द्रः॑। ए॒तम्। अ॒दी॒ध॒र॒त्। ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। तस्मै॑। सोमः॑। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पतिः॑। ८७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

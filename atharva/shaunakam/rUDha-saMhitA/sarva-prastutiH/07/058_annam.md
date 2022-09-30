@@ -36,14 +36,17 @@ An invitation to Indra and Varuna
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ ।  
-यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥१॥  
+इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ।  
+यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ। यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥
+इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ।  
+यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
@@ -74,7 +77,7 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रावरुणा। सुतऽपौ। इमम्। सुतम्। सोमम्। पिबतम्। मद्यम्। धृतऽव्रतौ। युवोः। रथः। अध्वरः। देवऽवीतये। प्रति। स्वसरम्। उप। यातु। पीतये। ६०.१।
+इन्द्रा॑वरुणा। सु॒त॒ऽपौ। इ॒मम्। सु॒तम्। सोम॑म्। पि॒ब॒त॒म्। मद्य॑म्। धृ॒त॒ऽव्र॒तौ॒। यु॒वोः। रथः॑। अ॒ध्व॒रः। दे॒वऽवी॑तये। प्रति॑। स्वस॑रम्। उप॑। या॒तु॒। पी॒तये॑। ६०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑वरुणा॒ मधु॑मत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्।  
-इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन् ब॒र्हिषि॑ मादयेथाम्॥२॥
+इन्द्रा॑वरुणा मधुमत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्।  
+इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रा॑वरुणा मधुमत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्। इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथाम् ॥
+इन्द्रा॑वरुणा मधुमत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्।  
+इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
@@ -137,7 +143,7 @@ O Indra Varuna, drink your fill, ye heroes, of this effectual and sweetest Soma.
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रावरुणा। मधुमत्ऽतमस्य। वृष्णः। सोमस्य। वृषणा। आ। वृषेथाम्। इदम्। वाम्। अन्धः। परिऽसिक्तम्। आऽसद्यः। अस्मिन्। बर्हिषि। मादयेथाम्। ६०.२।
+इन्द्रा॑वरुणा। मधु॑मत्ऽतमस्य। वृष्णः॑। सोम॑स्य। वृ॒ष॒णा॒। आ। वृ॒षे॒था॒म्। इ॒दम्। वा॒म्। अन्धः॑। परि॑ऽसिक्तम्। आ॒ऽसद्यः॑। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒ये॒था॒म्। ६०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

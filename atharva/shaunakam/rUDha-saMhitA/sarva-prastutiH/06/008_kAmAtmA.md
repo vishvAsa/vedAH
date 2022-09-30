@@ -37,13 +37,16 @@ A man's love-charm
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ वृ॒क्षं लिबु॑जा सम॒न्तं प॑रिषस्व॒जे।  
-ए॒वा परि॑ ष्वजस्व॒ मां यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥१॥  
+ए॒वा परि॑ ष्वजस्व॒ मां यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/01_yathA_vRxam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ वृ॒क्षं लिबु॑जा सम॒न्तं प॑रिषस्व॒जे। ए॒वा परि॑ ष्वजस्व॒ मां यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+यथा॑ वृ॒क्षं लिबु॑जा सम॒न्तं प॑रिषस्व॒जे।  
+ए॒वा परि॑ ष्वजस्व॒ मां यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/01_yathA_vRxam.md">
@@ -67,7 +70,7 @@ Like as the creeper throws, her arms on every side around the tree, So hold thou
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। वृक्षम्। लिबुजा। समन्तम्। परिऽसस्वजे। एव। परि। स्वजस्व। माम्। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.१।
+यथा॑। वृ॒क्षम्। लिबु॑जा। स॒म॒न्तम्। प॒रि॒ऽस॒स्व॒जे। ए॒व। परि॑। स्व॒ज॒स्व॒। माम्। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Like as the creeper throws, her arms on every side around the tree, So hold thou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/02_yathA_suparNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ सुप॒र्णः प्र॒पत॑न् प॒क्षौ नि॒हन्ति॒ भूम्या॑म्।  
-ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥२॥  
+यथा॑ सुप॒र्णः प्र॒पत॑न्प॒क्षौ नि॒हन्ति॒ भूम्या॑म्।  
+ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/02_yathA_suparNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ सुप॒र्णः प्र॒पत॑न्प॒क्षौ नि॒हन्ति॒ भूम्या॑म्। ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+यथा॑ सुप॒र्णः प्र॒पत॑न्प॒क्षौ नि॒हन्ति॒ भूम्या॑म्।  
+ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/02_yathA_suparNaH.md">
@@ -126,7 +132,7 @@ As, when he mounts, the eagle strikes his pinions downward on the earth, So do I
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। सुऽपर्णः। प्रऽपतन्। पक्षौ। निऽहन्ति। भूम्याम्। एव। नि। हन्मि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.२।
+यथा॑। सु॒ऽप॒र्णः। प्र॒ऽपत॑न्। प॒क्षौ। नि॒ऽहन्ति॑। भूम्या॑म्। ए॒व। नि। ह॒न्मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ As, when he mounts, the eagle strikes his pinions downward on the earth, So do I
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑ ।  
-ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥३॥
+यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑।  
+ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑। ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑।  
+ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
@@ -185,7 +194,7 @@ As in his rapid course the Sun encompasses the heaven and: earth, So do I compas
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इमे इति। द्यावापृथिवी इति। सद्यः। परिऽएति। सूर्यः। एव। परि। एमि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ८.३।
+यथा॑। इ॒मे इति॑। द्यावा॑पृथि॒वी इति॑। स॒द्यः। प॒रि॒ऽएति॑। सूर्यः॑। ए॒व। परि॑। ए॒मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -37,13 +37,16 @@ A lover's sleep-charm
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्।  
-तेना॑ सह॒स्येऽना व॒यं नि जना॑न्त्स्वापयामसि ॥१॥  
+तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्। तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
+स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्।  
+तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
@@ -66,7 +69,7 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 </details>
 <details><summary>पदपाठः</summary>
 
-सहस्रऽशृङ्गः। वृषभः। यः। समुद्रात्। उत्ऽआचरत्। तेन। सहस्ये᳡न। वयम्। नि। जनान्। स्वापयामसि। ५.१।
+स॒हस्र॑ऽशृङ्गः। वृ॒ष॒भः। यः। स॒मु॒द्रात्। उ॒त्ऽआच॑रत्। तेन॑। स॒ह॒स्ये᳡न। व॒यम्। नि। जना॑न्। स्वा॒प॒या॒म॒सि॒। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,13 +101,16 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
-स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न्॥२॥  
+स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/02_na_bhUmim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न। स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
+न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
+स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/02_na_bhUmim.md">
@@ -130,7 +136,7 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 </details>
 <details><summary>पदपाठः</summary>
 
-न। भूमिम्। वातः। अति। वाति। न। अति। पश्यति। कः। चन। स्रियः। च। सर्वाः। स्वापय। शुनः। च। इन्द्रऽसखा। चरन्। ५.२।
+न। भूमि॑म्। वातः॑। अति॑। वा॒ति॒। न। अति॑। प॒श्य॒ति॒। कः। च॒न। स्रियः॑। च॒। सर्वाः॑। स्वा॒पय॑। शुनः॑। च॒। इन्द्र॑ऽसखा। चर॑न्। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रो॒ष्ठे॒श॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः ।  
-स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥३॥  
+प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः।  
+स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः। स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
+प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः।  
+स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
@@ -195,7 +204,7 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रोष्ठेऽशयाः। तल्पेऽशयाः। नारीः। याः। वह्यऽशीवरीः। स्रियः। याः। पुण्यऽगन्धयः। ताः। सर्वाः। स्वापयामसि। ५.३।
+प्रो॒ष्ठे॒ऽश॒याः। त॒ल्पे॒ऽश॒याः। नारीः॑। याः। व॒ह्य॒ऽशीव॑रीः। स्रियः॑। याः। पुण्य॑ऽगन्धयः। ताः। सर्वाः॑। स्वा॒प॒या॒म॒सि॒। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,13 +236,16 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
-अङ्गा॑न्यजग्रभं॒ सर्वा॑ रात्री॑णामतिशर्व॒रे॥४॥  
+अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्। अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
+एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
+अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
@@ -254,7 +266,7 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 </details>
 <details><summary>पदपाठः</summary>
 
-एजत्ऽएजत्। अजग्रभम्। चक्षुः। प्राणम्। अजग्रभम्। अङ्गानि। अजग्रभम्। सर्वाः। रात्रीणाम्। अतिऽशर्वरे। ५.४।
+एज॑त्ऽएजत्। अ॒ज॒ग्र॒भ॒म्। चक्षुः॑। प्रा॒णम्। अ॒ज॒ग्र॒भ॒म्। अङ्गा॑नि। अ॒ज॒ग्र॒भ॒म्। सर्वाः॑। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रे। ५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -285,14 +297,17 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/05_ya_Aste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति ।  
-तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥५॥  
+य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति।  
+तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/05_ya_Aste.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति। तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
+य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति।  
+तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/05_ya_Aste.md">
@@ -323,7 +338,7 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। आस्ते। यः। चरति। यः। च। तिष्ठन्। विऽपश्यति। तेषाम्। सम्। दध्मः। अक्षीणि। यथा। इदम्। हर्म्यम्। तथा। ५.५।
+यः। आस्ते॑। यः। चर॑ति। यः। च॒। तिष्ठ॑न्। वि॒ऽपश्य॑ति। तेषा॑म्। सम्। द॒ध्मः॒। अक्षी॑णि। यथा॑। इ॒दम्। ह॒र्म्यम्। तथा॑। ५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -354,14 +369,17 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/06_svaptu_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑ ।  
-स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥६॥  
+स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑।  
+स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/06_svaptu_mAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑। स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
+स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑।  
+स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/06_svaptu_mAtA.md">
@@ -388,7 +406,7 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वप्तु। माता। स्वप्तु। पिता। स्वप्तु। श्वा। स्वप्तु। विश्पतिः। स्वपन्तु। अस्यै। ज्ञातयः। स्वप्तु। अयम्। अभितः। जनः। ५.६।
+स्वप्तु॑। मा॒ता। स्वप्तु॑। पि॒ता। स्वप्तु॑। श्वा। स्वप्तु॑। वि॒श्पतिः॑। स्वप॑न्तु। अ॒स्यै॒। ज्ञा॒तयः॑। स्वप्तु॑। अ॒यम्। अ॒भितः॑। जनः॑। ५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -419,14 +437,17 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि स्वापया॒ जन॑म्।  
-ओ॒त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥७॥
+स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्।  
+ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्। ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
+स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्।  
+ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
@@ -458,7 +479,7 @@ With soporific charm, O Sleep, lull thou to slumber all the folk. Let the rest s
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वप्न। स्वप्नऽअभिकरणेन। सर्वम्। नि। स्वापय। जनम्। आऽउत्सूर्यम्। अन्यान्। स्वापय। आऽव्युषम्। जागृतात्। अहम्। इन्द्रःऽइव। अरिष्टः। अक्षितः। ५.७।
+स्वप्न॑। स्व॒प्न॒ऽअ॒भि॒कर॑णेन। सर्व॑म्। नि। स्वा॒प॒य॒। जन॑म्। आ॒ऽउ॒त्सू॒र्यम्। अ॒न्यान्। स्वा॒पय॑। आ॒ऽव्यु॒षम्। जा॒गृ॒ता॒त्। अ॒हम्। इन्द्रः॑ऽइव। अरि॑ष्टः। अक्षि॑तः। ५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

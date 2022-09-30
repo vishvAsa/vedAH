@@ -36,14 +36,17 @@ A prayer for purification and riches
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः ।  
-द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री य॒ज्ञिये॑ न पुनीताम्॥१॥  
+वै॑श्वान॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः।  
+द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री यज्ञिये नः पुनीताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः। द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री यज्ञिये नः पुनीताम् ॥
+वै॑श्वान॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः।  
+द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री यज्ञिये नः पुनीताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
@@ -67,7 +70,7 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानरः। रश्मिऽभिः। नः। पुनातु। वातः। प्राणेन। इषिरः। नभःऽभिः। द्यावापृथिवी इति। पयसा। पयस्वती इति। ऋतवरी इत्यृतऽवरी। यज्ञिये  इति। नः। पुनीताम्। ६२.१।
+वै॒श्वा॒न॒रः। र॒श्मिऽभिः॑। नः॒। पु॒ना॒तु॒। वातः॑। प्रा॒णेन॑। इ॒षि॒रः। नभः॑ऽभिः। द्यावा॑पृथि॒वी इति॑। पय॑सा। पय॑स्वती॒ इति॑। ऋ॒तव॑री॒ इत्यृ॒तऽव॑री। य॒ज्ञिये॒ इति॑। नः॒। पु॒नी॒ता॒म्। ६२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वोऽवी॒तपृ॑ष्ठाः ।  
-तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒नाम्॥२॥  
+वै॑श्वान॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वो᳡ वी॒तपृ॑ष्ठाः।  
+तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वो᳡ वी॒तपृ॑ष्ठाः। तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+वै॑श्वान॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वो᳡ वी॒तपृ॑ष्ठाः।  
+तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
@@ -137,7 +143,7 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानरीम्। सूनृताम्। आ। रभध्वम्। यस्याः। आशाः। तन्वः᳡। वीतऽपृष्ठाः। तया। गृणन्तः। सधऽमादेषु। वयम्। स्याम। पतयः। रयीणाम्। ६२.२।
+वै॒श्वा॒न॒रीम्। सू॒नृता॑म्। आ। र॒भ॒ध्व॒म्। यस्याः॑। आशाः॑। त॒न्वः᳡। वी॒तऽपृ॑ष्ठाः। तया॑। गृ॒णन्तः॑। स॒ध॒ऽमादे॑षु। व॒यम्। स्या॒म॒। पत॑यः। र॒यी॒णाम्। ६२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वै॒श्वा॒न॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः ।  
-इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक् प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम्॥३॥
+वै॑श्वान॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः।  
+इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक्प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वै॑श्वान॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः। इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक्प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम् ॥
+वै॑श्वान॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः।  
+इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक्प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
@@ -206,7 +215,7 @@ For splendour, seize on her whom all men worship, becoming pure yourselves, and 
 </details>
 <details><summary>पदपाठः</summary>
 
-वैश्वानरीम्। वर्चसे। आ। रभध्वम्। शुध्दाः। भवन्तः। शुचयः। पावकाः। इह। इडया। सधऽमादम्। मदन्तः। ज्योक्। पश्येम। सूर्यम्। उत्ऽचरन्तम्। ६२.३।
+वै॒श्वा॒न॒रीम्। वर्च॑से। आ। र॒भ॒ध्व॒म्। शु॒ध्दाः। भव॑न्तः। शुच॑यः। पा॒व॒काः। इ॒ह। इड॑या। स॒ध॒ऽमाद॑म्। मद॑न्तः। ज्योक्। प॒श्ये॒म॒। सूर्य॑म्। उ॒त्ऽचर॑न्तम्। ६२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

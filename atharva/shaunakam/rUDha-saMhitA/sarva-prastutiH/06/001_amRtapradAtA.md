@@ -32,14 +32,17 @@ In praise of Savitar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/01_doSho_gAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दो॒षो गा॑य बृ॒हद् गा॑य द्यु॒मद् धे॑हि ।  
-आथ॑र्वण स्तु॒हि दे॒वं स॑वि॒तार॑म्॥१॥  
+दो॒षो गा॑य बृ॒हद्गा॑य द्यु॒मद्धे॑ह्याथ॑र्वण।  
+स्तु॒हि दे॒वं स॑वि॒तार॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/01_doSho_gAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दो॒षो गा॑य बृ॒हद्गा॑य द्यु॒मद्धे॑ह्याथ॑र्वण। स्तु॒हि दे॒वं स॑वि॒तार॑म् ॥
+दो॒षो गा॑य बृ॒हद्गा॑य द्यु॒मद्धे॑ह्याथ॑र्वण।  
+स्तु॒हि दे॒वं स॑वि॒तार॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/01_doSho_gAya.md">
@@ -72,7 +75,7 @@ Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar
 </details>
 <details><summary>पदपाठः</summary>
 
-दोषो इत‍ि। गाय। बृहत्। गाय। द्युऽमत्। धेहि। आथर्वण। स्तुहि। देवम्। सवितारम्। १.१।
+दो॒षो इत‍ि॑। गा॒य॒। बृ॒हत्। गा॒य॒। द्यु॒ऽमत्। धे॒हि॒। आथ॑र्वण। स्तु॒हि। दे॒वम्। स॒वि॒तार॑म्। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः ।  
-स॒त्यस्य॒ युवा॑न॒मद्रो॑घवाचं सु॒शेव॑म्॥२॥  
+तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः स॒त्यस्य॒ युवा॑न॒म्।  
+अद्रो॑घवाचं सु॒शेव॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः स॒त्यस्य॒ युवा॑न॒म्। अद्रो॑घवाचं सु॒शेव॑म् ॥
+तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः स॒त्यस्य॒ युवा॑न॒म्।  
+अद्रो॑घवाचं सु॒शेव॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
@@ -140,7 +146,7 @@ Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious
 </details>
 <details><summary>पदपाठः</summary>
 
-तम्। ऊं इति। स्तुहि। यः। अन्तः। सिन्धौ। सूनुः। सत्यस्य। युवानम्। अद्रोघऽवाचम्। सुऽशेवम्। १.२।
+तम्। ऊं॒ इति॑। स्तु॒हि॒। यः। अ॒न्तः। सिन्धौ॑। सू॒नुः। स॒त्यस्य॑। युवा॑नम्। अद्रो॑घऽवाचम्। सु॒ऽशेव॑म्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,14 +177,17 @@ Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/03_sa_ghA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑ ।  
-उ॒भे सु॑ष्टुती सु॒गात॑वे ॥३॥
+स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑।  
+उ॒भे सु॑ष्टु॒ती सु॒गात॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/03_sa_ghA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑। उ॒भे सु॑ष्टु॒ती सु॒गात॑वे ॥
+स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑।  
+उ॒भे सु॑ष्टु॒ती सु॒गात॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/03_sa_ghA.md">
@@ -211,7 +220,7 @@ Savitar our God shall send us many everlasting treasures, that both paths may we
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। घ। नः। देवः। सविता। साविषत्। अमृतानि। भूरि। उभे इति। सुस्तुती इति सुऽस्तुती। सुऽगातवे। १.३।
+सः। घ॒। नः॒। दे॒वः। स॒वि॒ता। सा॒वि॒ष॒त्। अ॒मृता॑नि। भूरि॑। उ॒भे इति॑। सु॒स्तु॒ती इति॑ सु॒ऽस्तु॒ती। सु॒ऽगात॑वे। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

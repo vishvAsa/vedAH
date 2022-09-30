@@ -36,14 +36,17 @@ In praise of Indra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत ।  
-स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥१॥  
+इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत।  
+स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत। स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥
+इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत।  
+स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
@@ -69,7 +72,7 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्राय। सोमम्। ऋत्विजः। सुनोत। आ। च। धावत। स्तोतुः। यः। वचः। शृणवत्। हवम्। च। मे। २.१।
+इन्द्रा॑य। सोम॑म्। ऋ॒त्वि॒जः॒। सु॒नोत॑। आ। च॒। धा॒व॒त॒। स्तो॒तुः। यः। वचः॑। शृ॒णव॑त्। हव॑म्। च॒। मे॒। २.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/02_A_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः ।  
-विर॑प्शि॒न् विमृधो॑ जहि रक्ष॒स्विनीः॑ ॥२॥  
+आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः।  
+विर॑प्शि॒न्वि मृधो॑ जहि रक्ष॒स्विनीः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/02_A_yam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः। विर॑प्शि॒न्वि मृधो॑ जहि रक्ष॒स्विनीः॑ ॥
+आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः।  
+विर॑प्शि॒न्वि मृधो॑ जहि रक्ष॒स्विनीः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/02_A_yam.md">
@@ -128,7 +134,7 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। यम्। विशन्ति। इन्दवः। वयः। न। वृक्षम्। अन्धसः। विऽरप्शिन्। वि। मृधः। जहि। रक्षस्विनीः। २.२।
+आ। यम्। वि॒शन्ति॑। इन्द॑वः। वयः॑। न। वृ॒क्षम्। अन्ध॑सः। विऽर॑प्शिन्। वि। मृधः॑। ज॒हि॒। र॒क्ष॒स्विनीः॑। २.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒नोता॑ सोम॒पाव्ने॑ सोम॒मिन्द्रा॑य व॒ज्रिणे॑ ।  
-युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥३॥
+सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिन्द्रा॑य व॒ज्रिणे॑।  
+युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिन्द्रा॑य व॒ज्रिणे॑। युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥
+सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिन्द्रा॑य व॒ज्रिणे॑।  
+युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
@@ -187,7 +196,7 @@ For Indra, thunder-armed, who drinks the Soma press the Soma out: He, youthful, 
 </details>
 <details><summary>पदपाठः</summary>
 
-सुनोत। सोमऽपाव्ने। सोमम्। इन्दाय। वज्रिणे। युवा। जेता। ईशानः। सः। पुरुऽस्तुतः। २.३।
+सु॒नो॑त। सो॒म॒ऽपाव्ने॑। सोम॑म्। इन्दा॑य। व॒ज्रिणे॑। युवा॑। जेता॑। ईशा॑नः। सः। पु॒रु॒ऽस्तु॒तः। २.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

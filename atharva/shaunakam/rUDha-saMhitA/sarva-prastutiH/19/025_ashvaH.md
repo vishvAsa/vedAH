@@ -36,15 +36,17 @@ A charm to be used when a young ox is first yoked
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च ।  
-उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात्॥१॥
+अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च।  
+उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च ।  
-उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात्॥१॥
+अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च।  
+उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/01_ashrAntasya_tvA.md">
@@ -74,7 +76,7 @@ I yoke thee with the mind of one unwearied still and first of all. Be thou a bea
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्रान्तस्य। त्वा। मनसा। युनज्म‍ि। प्रथमस्य। च। उत्ऽकूलम्। उत्ऽवहः। भव। उत्ऽउह्य। प्रति। धावतात्। २५.१।
+अश्रा॑न्तस्य। त्वा॒। मन॑सा। यु॒नज्म‍ि॑। प्र॒थ॒मस्य॑। च॒। उत्ऽकू॑लम्। उ॒त्ऽव॒हः। भ॒व॒। उ॒त्ऽउह्य॑। प्रति॑। धा॒व॒ता॒त्। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

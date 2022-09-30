@@ -36,14 +36,17 @@ A prayer for the overthrow of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत् पु॒रोहि॑तः ।  
-नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥१॥
+अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत्पु॒रोहि॑तः।  
+नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत्पु॒रोहि॑तः। नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥
+अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत्पु॒रोहि॑तः।  
+नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
@@ -77,7 +80,7 @@ Bp.P.M.W.E.I, have the former). The first pāda is *triṣṭubh*.
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। अग्निः। सत्ऽपतिः। वृध्‍दऽवृष्णः। रथीऽइव। पत्तीन्। अजयत्। पुरःऽहितः। नाभा। पृथिव्याम्। ‍ निऽहितः। दविद्युतत्। अधःऽपदम्। कृणुताम्। ये। पृतन्यवः। ६४.१।
+अ॒यम्। अ॒ग्निः। सत्ऽप॑तिः। वृ॒ध्‍दऽवृ॑ष्णः। र॒थीऽइ॑व। प॒त्तीन्। अ॒ज॒य॒त्। पु॒रःऽहि॑तः। नाभा॑। पृथि॒व्याम्। ‍ निऽहि॑तः। दवि॑द्युतत्। अ॒धः॒ऽप॒दम्। कृ॒णु॒ता॒म्। ये। पृ॒त॒न्यवः॑। ६४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

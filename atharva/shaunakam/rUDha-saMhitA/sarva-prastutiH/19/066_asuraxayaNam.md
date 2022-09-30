@@ -36,15 +36,17 @@ A hymn to Agni as the Sun
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अयो॑जाला॒ असु॑रा मा॒यिनो॑ऽय॒स्मयैः॒ पाशै॑र॒ङ्किनो॒ ये चर॑न्ति ।  
-तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्र॑ऋष्टिः स॒पत्ना॑न् प्रमृ॒णन् पा॑हि॒ वज्रः॑ ॥१॥
+अयो॑जाला॒ असु॑रा मा॒यिनो॑ऽय॒स्मयैः॒ पाशै॑र॒ङ्किनो॒ ये चर॑न्ति।  
+तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्रऋ॑ष्टिः स॒पत्ना॑न्प्रमृ॒णन्पा॑हि॒ वज्रः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अयो॑जाला॒ असु॑रा मा॒यिनो॑ऽय॒स्मयैः॒ पाशै॑र॒ङ्किनो॒ ये चर॑न्ति ।  
-तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्र॑ऋष्टिः स॒पत्ना॑न् प्रमृ॒णन् पा॑हि॒ वज्रः॑ ॥१॥
+अयो॑जाला॒ असु॑रा मा॒यिनो॑ऽय॒स्मयैः॒ पाशै॑र॒ङ्किनो॒ ये चर॑न्ति।  
+तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्रऋ॑ष्टिः स॒पत्ना॑न्प्रमृ॒णन्पा॑हि॒ वज्रः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
@@ -74,7 +76,7 @@ The Asuras with iron nets, magicians, who roam about with hooks and bonds of iro
 </details>
 <details><summary>पदपाठः</summary>
 
-अयःऽजालाः। असुराः। मायिनः। अयस्मयैः। पाशैः। अङ्किनः। ये। चरन्ति। तान्। ते। रन्धयामि। हरसा। जातऽवेदः। सहस्रऽऋष्टिः। सऽपत्नान्। प्रऽमृणन्। पाहि। वज्रः। ६६.१।
+अयः॑ऽजालाः। असु॑राः। मा॒यिनः॑। अ॒य॒स्मयैः॑। पाशैः॑। अ॒ङ्किनः॑। ये। चर॑न्ति। तान्। ते॒। र॒न्ध॒या॒मि॒। हर॑सा। जा॒त॒ऽवे॒दः॒। स॒हस्र॑ऽऋष्टिः। स॒ऽपत्ना॑न्। प्र॒ऽमृ॒णन्। पा॒हि॒। वज्रः॑। ६६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

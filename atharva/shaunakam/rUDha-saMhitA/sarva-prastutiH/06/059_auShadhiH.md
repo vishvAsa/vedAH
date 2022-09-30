@@ -36,14 +36,17 @@ A charm to protect cattle and men
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति ।  
-अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे ॥१॥  
+अ॑न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति।  
+अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति। अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे ॥
+अ॑न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति।  
+अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
@@ -71,7 +74,7 @@ First, O Arundhati, protect our oxen and milky kine: Protect each one that is in
 </details>
 <details><summary>पदपाठः</summary>
 
-अनडुत्ऽभ्यः। त्वम्। प्रथमम्। धेनुऽभ्यः। त्वम्। अरुन्धति। अधेनवे। वयसे। शर्म। यच्छ। चतुःऽपदे। ५९.१।
+अ॒न॒डुत्ऽभ्यः॑। त्वम्। प्र॒थ॒मम्। धे॒नुऽभ्यः॑। त्वम्। अ॒रु॒न्ध॒ति॒। अधे॑नवे। वय॑से। शर्म॑। य॒च्छ॒। चतुः॑ऽपदे। ५९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,13 +106,16 @@ First, O Arundhati, protect our oxen and milky kine: Protect each one that is in
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती।  
-कर॒त् पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्मां उ॒त पूरु॑षान्॥२॥  
+कर॒त्पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्माँ उ॒त पूरु॑षान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती। कर॒त्पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्माँ उ॒त पूरु॑षान् ॥
+शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती।  
+कर॒त्पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्माँ उ॒त पूरु॑षान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
@@ -134,7 +140,7 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 </details>
 <details><summary>पदपाठः</summary>
 
-शर्म। यच्छतु। ओषधिः। सह। देवीः। अरुन्धती। करत्। पयस्वन्तम्। गोऽस्थम्। अयक्ष्मान्। उत। पुरुषान्। ५९.२।
+शर्म॑। य॒च्छ॒तु॒। ओष॑धिः। स॒ह। दे॒वीः। अ॒रु॒न्ध॒ती। कर॑त्। पय॑स्वन्तम्। गो॒ऽस्थम्। अ॒य॒क्ष्मान्। उ॒त। पुरु॑षान्। ५९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,13 +172,16 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒श्वरू॑पां सु॒भगा॑म॒च्छाव॑दामि जीव॒लाम्।  
-सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑ ॥३॥
+सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒श्वरू॑पां सु॒भगा॑म॒च्छाव॑दामि जीव॒लाम्। सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑ ॥
+वि॒श्वरू॑पां सु॒भगा॑म॒च्छाव॑दामि जीव॒लाम्।  
+सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
@@ -193,7 +202,7 @@ I welcome the auspicious Plant, life-giving, wearing every hue. Far from our cat
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वऽरूपाम्। सुऽभगाम्। अच्छऽआवदामि। जीवलाम्। सा। नः। रुद्रस्य। अस्ताम्। हेतिम्। दूरम्। नयतु। गोभ्यः। ५९.३।
+वि॒श्वऽरू॑पाम्। सु॒ऽभगा॑म्। अ॒च्छ॒ऽआव॑दामि। जी॒व॒लाम्। सा। नः॑। रु॒द्रस्य॑। अ॒स्ताम्। हे॒तिम्। दू॒रम्। न॒य॒तु॒। गोभ्यः॑। ५९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

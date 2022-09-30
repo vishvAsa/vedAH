@@ -32,14 +32,17 @@ Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒र्याव॑र्ते दु॒ष्वप्न्या॑त् पा॒पात् स्वप्न्या॒दभू॑त्याः ।  
-ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥१॥
+प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः।  
+ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः। ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
+प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः।  
+ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
@@ -67,7 +70,7 @@ I turn away from evil dream, from dream of sin, from indigence. I make the praye
 </details>
 <details><summary>पदपाठः</summary>
 
-परिऽआवर्ते। दुःऽस्वप्न्यात्। पापात्। स्वप्न्यात्। अभूत्याः। ब्रह्म। अहम्। अन्तरम्। कृण्वे। परा। स्वप्नऽमुखाः। शुचः। १०५.१।
+प॒रि॒ऽआव॑र्ते। दुः॒ऽस्वप्न्या॑त्। पा॒पात्। स्वप्न्या॑त्। अभू॑त्याः। ब्रह्म॑। अ॒हम्। अन्त॑रम्। कृ॒ण्वे॒। परा॒। स्वप्न॑ऽमुखाः। शुचः॑। १०५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

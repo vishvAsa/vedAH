@@ -36,14 +36,17 @@ A charm to ensure health and prosperity by wearing an amulet
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दी॒र्घा॒यु॒त्वाय॑ बृह॒ते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व।  
-म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम्॥१॥  
+दी॑र्घायु॒त्वाय॑ बृहते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व।  
+म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दी॑र्घायु॒त्वाय॑ बृहते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व। म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम् ॥
+दी॑र्घायु॒त्वाय॑ बृहते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व।  
+म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
@@ -70,7 +73,7 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 </details>
 <details><summary>पदपाठः</summary>
 
-दीर्घायुऽत्वाय। बृहते। रणाय। अरिष्यन्तः। दक्षमाणाः। सदा। एव। मणिम्। विस्कन्धऽदूषणम्। जङ्गिडम्। बिभृमः। वयम्। ४.१।
+दी॒र्घा॒यु॒ऽत्वाय॑। बृ॒ह॒ते। रणा॑य। अरि॑ष्यन्तः। दक्ष॑माणाः। सदा॑। ए॒व। म॒णिम्। वि॒स्क॒न्ध॒ऽदूष॑णम्। ज॒ङ्गि॒डम्। बि॒भृ॒मः॒। व॒यम्। ४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जङ्गि॒डो ज॒म्भाद् वि॑श॒राद् विष्क॑न्धादभि॒शोच॑नात्।  
-म॒णिः स॒हस्र॑वीर्यः॒ परि॑ णः पातु वि॒श्वतः॑ ॥२॥  
+ज॑ङ्गि॒डो ज॒म्भाद्वि॑श॒राद्विष्क॑न्धादभि॒शोच॑नात्।  
+म॒णिः स॒हस्र॑वीर्यः॒ परि॑ णः पातु वि॒श्वतः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज॑ङ्गि॒डो ज॒म्भाद्वि॑श॒राद्विष्क॑न्धादभि॒शोच॑नात्। म॒णिः स॒हस्र॑वीर्यः॒ परि॑ णः पातु वि॒श्वतः॑ ॥
+ज॑ङ्गि॒डो ज॒म्भाद्वि॑श॒राद्विष्क॑न्धादभि॒शोच॑नात्।  
+म॒णिः स॒हस्र॑वीर्यः॒ परि॑ णः पातु वि॒श्वतः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
@@ -135,7 +141,7 @@ Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from 
 </details>
 <details><summary>पदपाठः</summary>
 
-जङ्गिडः। जम्भात्। विऽशरात्। विऽस्कन्धात्। अभिऽशोचनात्। मणिः। सहस्रऽवीर्यः। परि। नः। पातु। विश्वतः। ४.२।
+ज॒ङ्गि॒डः। ज॒म्भात्। वि॒ऽश॒रात्। विऽस्क॑न्धात्। अ॒भि॒ऽशोच॑नात्। म॒णिः। स॒हस्र॑ऽवीर्यः। परि॑। नः॒। पा॒तु॒। वि॒श्वतः॑। ४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं विष्क॑न्धं सहते॒ऽयं बा॑धते अ॒त्त्रिणः॑ ।  
-अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥३॥  
+अ॒यं विष्क॑न्धं सहते॒ ऽयं बा॑ध॒ते अ॒त्त्रिणः॑।  
+अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं विष्क॑न्धं सहते॒ ऽयं बा॑ध॒ते अ॒त्त्रिणः॑। अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥
+अ॒यं विष्क॑न्धं सहते॒ ऽयं बा॑ध॒ते अ॒त्त्रिणः॑।  
+अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
@@ -196,7 +205,7 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। विऽस्कन्धम्। सहते। अयम्। बाधते। अत्त्रिणः। अयम्। नः। विश्वऽभेषजः। जङ्गिडः। पातु। अंहसः। ४.३।
+अ॒यम्। विऽस्क॑न्धम्। स॒ह॒ते॒। अ॒यम्। बा॒ध॒ते॒। अ॒त्त्रिणः॑। अ॒यम्। नः॒। वि॒श्वऽभे॑षजः। ज॒ङ्गि॒डः। पा॒तु॒। अंह॑सः। ४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑ ।  
-विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥४॥  
+दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑।  
+विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑। विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥
+दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑।  
+विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
@@ -255,7 +267,7 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 </details>
 <details><summary>पदपाठः</summary>
 
-देवैः। दत्तेन। मणिना। जङ्गिडेन। मयःभुवा। विऽस्कन्धम्। सर्वा। रक्षांसि। विऽआयामे। सहामहे। ४.४।
+दे॒वैः। द॒त्तेन॑। म॒णिना॑। ज॒ङ्गि॒डेन॑। म॒यः॒भुवा॑। विऽस्क॑न्धम्। सर्वा॑। रक्षां॑सि। वि॒ऽआ॒या॒मे। स॒हा॒म॒हे॒। ४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -287,13 +299,16 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒णश्च॑ मा जङ्गि॒डश्च॒ विष्क॑न्धाद॒भि र॑क्षताम्।  
-अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥५॥  
+अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒णश्च॑ मा जङ्गि॒डश्च॒ विष्क॑न्धाद॒भि र॑क्षताम्। अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥
+श॒णश्च॑ मा जङ्गि॒डश्च॒ विष्क॑न्धाद॒भि र॑क्षताम्।  
+अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
@@ -317,7 +332,7 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 </details>
 <details><summary>पदपाठः</summary>
 
-शणः। च। मा। जङ्गिडः। च। विस्कन्धात्। अभि। रक्षताम्। अरण्यात्। अन्यः। आऽभृतः। कृष्याः। अन्यः। रसेभ्यः। ४.५।
+श॒णः। च॒। मा॒। ज॒ङ्गि॒डः। च॒। विस्क॑न्धात्। अ॒भि। र॒क्ष॒ता॒म्। अर॑ण्यात्। अ॒न्यः। आऽभृ॑तः। कृ॒ष्याः। अ॒न्यः। रसे॑भ्यः। ४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -348,14 +363,17 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑ ।  
-अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत्॥६॥
+कृ॑त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑।  
+अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कृ॑त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑। अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत् ॥
+कृ॑त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑।  
+अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
@@ -380,7 +398,7 @@ This Amulet destroys the might of magic and malignity: So may victorious Jangida
 </details>
 <details><summary>पदपाठः</summary>
 
-कृत्याऽदूषिः। अयम्। मणिः। अथो इति। अरातिऽदूषिः। अथो इति। सहस्वान्। जङ्गिडः। प्र। नः। आयूंषि। तारिषत्। ४.६।
+कृ॒त्या॒ऽदूषिः॑। अ॒यम्। म॒णिः। अथो॒ इति॑। अ॒रा॒ति॒ऽदूषिः॑। अथो॒ इति॑। सह॑स्वान्। ज॒ङ्गि॒डः। प्र। नः॒। आयूं॑षि। ता॒रि॒ष॒त्। ४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

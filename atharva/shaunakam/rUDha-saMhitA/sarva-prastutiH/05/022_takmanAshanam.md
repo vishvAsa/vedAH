@@ -36,14 +36,17 @@ A charm against fever
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निस्त॒क्मान॒मप॑ बाधतामि॒तः सोमो॒ ग्रावा॒ वरु॑णः पू॒तद॑क्षाः ।  
-वेदि॑र्ब॒र्हिः स॒मिधः॒ शोशु॑चाना॒ अप॒ द्वेषां॑स्यमु॒या भ॑वन्तु ॥१॥  
+अ॒ग्निस्त॒क्मान॒मप॑ बाधतामि॒तः सोमो॒ ग्रावा॒ वरु॑णः पू॒तद॑क्षाः।  
+वेदि॑र्ब॒र्हिः स॒मिधः॒ शोशु॑चाना॒ अप॒ द्वेषां॑स्यमु॒या भ॑वन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निस्त॒क्मान॒मप॑ बाधतामि॒तः सोमो॒ ग्रावा॒ वरु॑णः पू॒तद॑क्षाः। वेदि॑र्ब॒र्हिः स॒मिधः॒ शोशु॑चाना॒ अप॒ द्वेषां॑स्यमु॒या भ॑वन्तु ॥
+अ॒ग्निस्त॒क्मान॒मप॑ बाधतामि॒तः सोमो॒ ग्रावा॒ वरु॑णः पू॒तद॑क्षाः।  
+वेदि॑र्ब॒र्हिः स॒मिधः॒ शोशु॑चाना॒ अप॒ द्वेषां॑स्यमु॒या भ॑वन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
@@ -69,7 +72,7 @@ Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, an
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। तक्मानम्। अप। बाधताम्। इतः। सोमः। ग्रावा। वरुणः। पूतऽदक्षा। वेदिः। बर्हिः। सम्ऽइधः। शोशुचानाः। अप। द्वेषांसि। अमुया। भवन्तु। २२.१।
+अ॒ग्निः। त॒क्मान॑म्। अप॑। बा॒ध॒ता॒म्। इ॒तः। सोमः॑। ग्रावा॑। वरु॑णः। पू॒तऽद॑क्षा। वेदिः॑। ब॒र्हिः। स॒म्ऽइधः॑। शोशु॑चानाः। अप॑। द्वेषां॑सि। अ॒मु॒या॒। भ॒व॒न्तु॒। २२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं यो विश्वा॒न् हरि॑तान् कृ॒णोष्यु॑च्छो॒चय॑न्न॒ग्निरि॑वाभिदु॒न्वन्।  
-अधा॒ हि त॑क्मन्नर॒सो हि भू॒या अधा॒ न्यऽङ्ङध॒राङ् वा॒ परे॑हि ॥२॥  
+अ॒यं यो विश्वा॒न्हरि॑तान्कृ॒णोष्यु॑च्छो॒चय॑न्न॒ग्निरि॑वाभिदु॒न्वन्।  
+अधा॒ हि त॑क्मन्नर॒सो हि भू॒या अधा॒ न्य॑ङ्ङध॒राङ् वा॒ परे॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/02_ayaM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं यो विश्वा॒न्हरि॑तान्कृ॒णोष्यु॑च्छो॒चय॑न्न॒ग्निरि॑वाभिदु॒न्वन्। अधा॒ हि त॑क्मन्नर॒सो हि भू॒या अधा॒ न्य॑ङ्ङध॒राङ् वा॒ परे॑हि ॥
+अ॒यं यो विश्वा॒न्हरि॑तान्कृ॒णोष्यु॑च्छो॒चय॑न्न॒ग्निरि॑वाभिदु॒न्वन्।  
+अधा॒ हि त॑क्मन्नर॒सो हि भू॒या अधा॒ न्य॑ङ्ङध॒राङ् वा॒ परे॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/02_ayaM_yo.md">
@@ -130,7 +136,7 @@ And thou thyself who makest all men yellow, consuming them with burning heat lik
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। यः। विश्वान्। हरितान्। कृणोषि। उत्ऽशोचयन्। अग्निःऽइव। अभिऽदुन्वन्। अध। हि। तक्मन्। अरसः। हि। भूयाः। अध। न्य᳡ङ्। अधराङ्। वा। परा। इहि। २२.२।
+अ॒यम्। यः। विश्वा॑न्। हरि॑तान्। कृ॒णोषि॑। उ॒त्ऽशो॒चय॑न्। अ॒ग्निःऽइ॑व। अ॒भि॒ऽदु॒न्वन्। अध॑। हि। त॒क्म॒न्। अ॒र॒सः। हि। भू॒याः। अध॑। न्य᳡ङ्। अ॒ध॒राङ्। वा॒। परा॑। इ॒हि॒। २२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ And thou thyself who makest all men yellow, consuming them with burning heat lik
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/03_yaH_paruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प॑रु॒षः पा॑रुषे॒योऽवध्वं॒स इ॑वारु॒णः ।  
-त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुवा ॥३॥  
+यः प॑रु॒षः पा॑रुषे॒योऽव॑ध्वं॒स इ॑वारु॒णः।  
+त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुवा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/03_yaH_paruShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः प॑रु॒षः पा॑रुषे॒योऽव॑ध्वं॒स इ॑वारु॒णः। त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुवा ॥
+यः प॑रु॒षः पा॑रुषे॒योऽव॑ध्वं॒स इ॑वारु॒णः।  
+त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुवा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/03_yaH_paruShaH.md">
@@ -196,7 +205,7 @@ Endowed with universal power! send Fever down-ward, far away, The spotty, like r
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। परुषः। पारुषेयः। अवध्वंसःऽइव। अरुणः। तक्मानम्। विश्वधाऽवीर्य। अधराञ्चम्। परा। सुव। २२.३।
+यः। प॒रु॒षः। पा॒रु॒षे॒यः। अ॒व॒ध्वं॒सःऽइ॑व। अ॒रु॒णः। त॒क्मान॑म्। वि॒श्व॒धा॒ऽवी॒र्य॒। अ॒ध॒राञ्च॑म्। परा॑। सु॒व॒। २२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ Endowed with universal power! send Fever down-ward, far away, The spotty, like r
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ध॒राञ्चं॒ प्र हि॑णोमि॒ नमः॑ कृ॒त्वा त॒क्मने॑ ।  
-श॒क॒म्भ॒रस्य॑ मुष्टि॒हा पुन॑रेतु महावृ॒षान्॥४॥  
+अ॑ध॒राञ्चं॒ प्र हि॑णो॒मि नमः॑ कृ॒त्वा त॒क्मने॑।  
+श॑कम्भ॒रस्य॑ मुष्टि॒हा पुन॑रेतु महावृ॒षान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/04_adharAnchaM_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑ध॒राञ्चं॒ प्र हि॑णो॒मि नमः॑ कृ॒त्वा त॒क्मने॑। श॑कम्भ॒रस्य॑ मुष्टि॒हा पुन॑रेतु महावृ॒षान् ॥
+अ॑ध॒राञ्चं॒ प्र हि॑णो॒मि नमः॑ कृ॒त्वा त॒क्मने॑।  
+श॑कम्भ॒रस्य॑ मुष्टि॒हा पुन॑रेतु महावृ॒षान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
@@ -258,7 +270,7 @@ When I have paid obeisance to Fever I send him downward forth. So let Sakambhara
 </details>
 <details><summary>पदपाठः</summary>
 
-अधराञ्चम्। प्र। हिनोमि। नमः। कृत्वा। तक्मने। शकम्ऽभरस्य। मुष्टिऽहा। पुनः। एतु। महाऽवृषान्। २२.४।
+अ॒ध॒राञ्च॑म्। प्र। हि॒नो॒मि॒। नमः॑। कृ॒त्वा। त॒क्मने॑। श॒क॒म्ऽभ॒रस्य॑। मु॒ष्टि॒ऽहा। पुनः॑। ए॒तु॒। म॒हा॒ऽवृ॒षान्। २२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -289,14 +301,17 @@ When I have paid obeisance to Fever I send him downward forth. So let Sakambhara
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/05_oko_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओको॑ अस्य॒ मूज॑वन्त॒ ओको॑ अस्य महावृ॒षाः ।  
-याव॑ज्जा॒तस्त॑क्मं॒स्तावा॑नसि॒ बल्हि॑केषु न्योच॒रः ॥५॥  
+ओको॑ अस्य॒ मूज॑वन्त॒ ओको॑ अस्य महावृ॒षाः।  
+याव॑ज्जा॒तस्त॑क्मं॒स्तावा॑नसि॒ बल्हि॑केषु न्योच॒रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/05_oko_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ओको॑ अस्य॒ मूज॑वन्त॒ ओको॑ अस्य महावृ॒षाः। याव॑ज्जा॒तस्त॑क्मं॒स्तावा॑नसि॒ बल्हि॑केषु न्योच॒रः ॥
+ओको॑ अस्य॒ मूज॑वन्त॒ ओको॑ अस्य महावृ॒षाः।  
+याव॑ज्जा॒तस्त॑क्मं॒स्तावा॑नसि॒ बल्हि॑केषु न्योच॒रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/05_oko_asya.md">
@@ -324,7 +339,7 @@ His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever s
 </details>
 <details><summary>पदपाठः</summary>
 
-ओकः। अस्य। मूजऽवन्तः। ओकः। अस्य। महाऽवृषाः। यावत्। जातः। तक्मन्। तावान्। असि। बल्हिकेषु। निऽओचरः। २२.५।
+ओकः॑। अ॒स्य॒। मूज॑ऽवन्तः। ओकः॑। अ॒स्य॒। म॒हा॒ऽवृ॒षाः। याव॑त्। जा॒तः। त॒क्म॒न्। तावा॑न्। अ॒सि॒। बल्हि॑केषु। नि॒ऽओ॒च॒रः। २२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -355,14 +370,17 @@ His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तक्म॒न् व्याऽल॒ वि ग॑द॒ व्यऽङ्ग॒ भूरि॑ यावय ।  
-दा॒सीं नि॒ष्टक्व॑रीमिछ॒ तां वज्रे॑ण॒ सम॑र्पय ॥६॥  
+तक्म॒न्व्या॑ल॒ वि ग॑द॒ व्य॑ङ्ग॒ भूरि॑ यावय।  
+दा॒सीं नि॒ष्टक्व॑रीमिच्छ॒ तां वज्रे॑ण॒ सम॑र्पय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/06_takmanvyAla_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तक्म॒न्व्या॑ल॒ वि ग॑द॒ व्य॑ङ्ग॒ भूरि॑ यावय। दा॒सीं नि॒ष्टक्व॑रीमिच्छ॒ तां वज्रे॑ण॒ सम॑र्पय ॥
+तक्म॒न्व्या॑ल॒ वि ग॑द॒ व्य॑ङ्ग॒ भूरि॑ यावय।  
+दा॒सीं नि॒ष्टक्व॑रीमिच्छ॒ तां वज्रे॑ण॒ सम॑र्पय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
@@ -390,7 +408,7 @@ Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou
 </details>
 <details><summary>पदपाठः</summary>
 
-तक्मन्। विऽआल। वि। गद। विऽअङ्ग। भूरि। यवय। दासीम्। निःऽतक्वरीम्। इच्छ। ताम्। वज्रेण। सम्। अर्पय। २२.६।
+तक्म॑न्। विऽआ॑ल। वि। ग॒द॒। विऽअ॑ङ्ग। भूरि॑। य॒व॒य॒। दा॒सीम्। निः॒ऽतक्व॑रीम्। इ॒च्छ॒। ताम्। वज्रे॑ण। सम्। अ॒र्प॒य॒। २२.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -421,14 +439,17 @@ Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तक्म॒न् मूज॑वतो गच्छ॒ बल्हि॑कान् वा परस्त॒राम्।  
-शू॒द्रामि॑च्छ प्रफ॒र्व्यं॑१ तां त॑क्म॒न् वीऽव धूनुहि ॥७॥  
+तक्म॒न्मूज॑वतो गच्छ॒ बल्हि॑कान्वा परस्त॒राम्।  
+शू॒द्रामि॑च्छ प्रप॒र्व्यं॑१॒॑ तां त॑क्म॒न्वीव॑ धूनुहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तक्म॒न्मूज॑वतो गच्छ॒ बल्हि॑कान्वा परस्त॒राम्। शू॒द्रामि॑च्छ प्रप॒र्व्यं॑ तां त॑क्म॒न्वीव॑ धूनुहि ॥
+तक्म॒न्मूज॑वतो गच्छ॒ बल्हि॑कान्वा परस्त॒राम्।  
+शू॒द्रामि॑च्छ प्रप॒र्व्यं॑१॒॑ तां त॑क्म॒न्वीव॑ धूनुहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
@@ -450,7 +471,7 @@ Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara
 </details>
 <details><summary>पदपाठः</summary>
 
-तक्मन्। मूजऽवतः। गच्छ। बल्हिकान्। वा। परःऽतराम्। शूद्राम्। इच्छ। प्रऽफर्व्य᳡म्। तान्। तक्मन्। विऽइव। धूनुहि। २२.७।
+तक्म॑न्। मूज॑ऽवतः। ग॒च्छ॒। बल्हि॑कान्। वा॒। प॒रः॒ऽत॒राम्। शू॒द्राम्। इ॒च्छ॒। प्र॒ऽफ॒र्व्य᳡म्। तान्। त॒क्म॒न्। विऽइ॑व। धू॒नु॒हि॒। २२.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -481,14 +502,17 @@ Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒हा॒वृ॒षान् मूज॑वतो॒ बन्ध्व॑द्धि प॒रेत्य॑ ।  
-प्रैतानि॑ त॒क्मने॑ ब्रूमो अन्यक्षे॒त्राणि॒ वा इ॒मा॥८॥  
+म॑हावृ॒षान्मूज॑वतो॒ बन्ध्व॑द्धि प॒रेत्य॑।  
+प्रैतानि॑ त॒क्मने॑ ब्रूमो अन्यक्षे॒त्राणि॒ वा इ॒मा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॑हावृ॒षान्मूज॑वतो॒ बन्ध्व॑द्धि प॒रेत्य॑। प्रैतानि॑ त॒क्मने॑ ब्रूमो अन्यक्षे॒त्राणि॒ वा इ॒मा ॥
+म॑हावृ॒षान्मूज॑वतो॒ बन्ध्व॑द्धि प॒रेत्य॑।  
+प्रैतानि॑ त॒क्मने॑ ब्रूमो अन्यक्षे॒त्राणि॒ वा इ॒मा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
@@ -515,7 +539,7 @@ Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreig
 </details>
 <details><summary>पदपाठः</summary>
 
-महाऽवृषान्। मूजऽवतः। बन्धु। अध्दि। पराऽइत्य। प्र। एतानि। तक्मने। ब्रूमः। अन्यऽक्षेत्राणि। वै। इमा। २२.८।
+म॒हा॒ऽवृ॒षान्। मूज॑ऽवतः। बन्धु॑। अ॒ध्दि॒। प॒रा॒ऽइत्य॑। प्र। ए॒तानि॑। त॒क्मने॑। ब्रू॒मः॒। अ॒न्य॒ऽक्षे॒त्राणि॑। वै। इ॒मा। २२.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -546,14 +570,17 @@ Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreig
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/09_anyaxetre_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्य॒क्षे॒त्रे न र॑मसे व॒शी सन्मृ॑डयासि नः ।  
-अभू॑दु॒ प्रार्थ॑स्त॒क्मा स ग॑मिष्यति॒ बल्हि॑कान्॥९॥  
+अ॑न्यक्षे॒त्रे न र॑मसे व॒शी सन्मृ॑डयासि नः।  
+अभू॑दु॒ प्रार्थ॑स्त॒क्मा स ग॑मिष्यति॒ बल्हि॑कान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/09_anyaxetre_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑न्यक्षे॒त्रे न र॑मसे व॒शी सन्मृ॑डयासि नः। अभू॑दु॒ प्रार्थ॑स्त॒क्मा स ग॑मिष्यति॒ बल्हि॑कान् ॥
+अ॑न्यक्षे॒त्रे न र॑मसे व॒शी सन्मृ॑डयासि नः।  
+अभू॑दु॒ प्रार्थ॑स्त॒क्मा स ग॑मिष्यति॒ बल्हि॑कान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/09_anyaxetre_na.md">
@@ -578,7 +605,7 @@ In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is ea
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्यऽक्षेत्रे। न। रमसे। वशी। सन्। मृडयसि। नः। अभूत्। ऊं इति। प्रऽअर्थः। तक्मा। सः। गमिष्यति। बल्हिकान्। २२.९।
+अ॒न्य॒ऽक्षे॒त्रे। न। र॒म॒से॒। व॒शी। सन्। मृ॒ड॒य॒सि॒। नः॒। अभू॑त्। ऊं॒ इति॑। प्र॒ऽअर्थः॑। त॒क्मा। सः। ग॒मि॒ष्य॒ति॒। बल्हि॑कान्। २२.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -609,14 +636,17 @@ In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is ea
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् त्वं शी॒तोऽथो॑ रू॒रः स॒ह का॒सावे॑पयः ।  
-भी॒मास्ते॑ तक्मन् हे॒तय॒स्ताभिः॑ स्म॒ परि॑ वृङ्ग्धि नः ॥१०॥  
+यत्त्वं शी॒तोऽथो॑ रू॒रः स॒ह का॒सावे॑पयः।  
+भी॒मास्ते॑ तक्मन्हे॒तय॒स्ताभिः॑ स्म॒ परि॑ वृङ्ग्धि नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्त्वं शी॒तोऽथो॑ रू॒रः स॒ह का॒सावे॑पयः। भी॒मास्ते॑ तक्मन्हे॒तय॒स्ताभिः॑ स्म॒ परि॑ वृङ्ग्धि नः ॥
+यत्त्वं शी॒तोऽथो॑ रू॒रः स॒ह का॒सावे॑पयः।  
+भी॒मास्ते॑ तक्मन्हे॒तय॒स्ताभिः॑ स्म॒ परि॑ वृङ्ग्धि नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
@@ -643,7 +673,7 @@ Since thou now cold, now burning hot, with cough besides, hast made us shake, Te
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। त्वम्। शीतः। अथो इति। रूरः। सह। कासा। अवेपयः। भीमाः। ते। तक्मन्। हेतयः। ताभिः। स्म। परि। वृङ्गिध। नः। २२.१०।
+यत्। त्वम्। शी॒तः। अथो॒ इति॑। रू॒रः। स॒ह। का॒सा। अवे॑पयः। भी॒माः। ते॒। त॒क्म॒न्। हे॒तयः॑। ताभिः॑। स्म॒। परि॑। वृ॒ङ्गि॒ध। नः॒। २२.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -674,14 +704,17 @@ Since thou now cold, now burning hot, with cough besides, hast made us shake, Te
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा स्मै॒तान्त्सखी॑न् कुरुथा ब॒लासं॑ का॒समु॑द्यु॒गम्।  
-मास्मातो॒ऽर्वाङैः पुन॒स्तत् त्वा॑ तक्म॒न्नुप॑ ब्रुवे ॥११॥  
+मा स्मै॒तान्त्सखी॑न्कुरुथा ब॒लासं॑ का॒समु॑द्यु॒गम्।  
+मा स्मातो॒ऽर्वाङैः पुन॒स्तत्त्वा॑ तक्म॒न्नुप॑ ब्रुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा स्मै॒तान्त्सखी॑न्कुरुथा ब॒लासं॑ का॒समु॑द्यु॒गम्। मा स्मातो॒ऽर्वाङैः पुन॒स्तत्त्वा॑ तक्म॒न्नुप॑ ब्रुवे ॥
+मा स्मै॒तान्त्सखी॑न्कुरुथा ब॒लासं॑ का॒समु॑द्यु॒गम्।  
+मा स्मातो॒ऽर्वाङैः पुन॒स्तत्त्वा॑ तक्म॒न्नुप॑ ब्रुवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
@@ -707,7 +740,7 @@ Take none of these to be thy friends, Cough, or Consumption or Decline: Never co
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। स्म। एतान्। सखीन्। कुरुथाः। बलासम्। कासम्। उत्ऽयुगम्। मा। स्म। अतः। अर्वाङ्। आ। ऐः। पुनः। तत्। त्वा। तक्मन्। उप। ब्रुवे। २२.११।
+मा। स्म॒। ए॒तान्। सखी॑न्। कु॒रु॒थाः॒। ब॒लास॑म्। का॒सम्। उ॒त्ऽयु॒गम्। मा। स्म॒। अतः॑। अ॒र्वाङ्। आ। ऐः॒। पुनः॑। तत्। त्वा॒। त॒क्म॒न्। उप॑। ब्रु॒वे॒। २२.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -738,14 +771,17 @@ Take none of these to be thy friends, Cough, or Consumption or Decline: Never co
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तक्म॒न् भ्रात्रा॑ ब॒लासे॑न॒ स्वस्रा॒ कासि॑कया स॒ह।  
-पा॒प्मा भ्रातृ॑व्येण स॒ह गछा॒मुमर॑णं॒ जन॑म्॥१२॥  
+तक्म॒न्भ्रात्रा॑ ब॒लासे॑न॒ स्वस्रा॒ कासि॑कया स॒ह।  
+पा॒प्मा भ्रातृ॑व्येण स॒ह गच्छा॒मुमर॑णं॒ जन॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तक्म॒न्भ्रात्रा॑ ब॒लासे॑न॒ स्वस्रा॒ कासि॑कया स॒ह। पा॒प्मा भ्रातृ॑व्येण स॒ह गच्छा॒मुमर॑णं॒ जन॑म् ॥
+तक्म॒न्भ्रात्रा॑ ब॒लासे॑न॒ स्वस्रा॒ कासि॑कया स॒ह।  
+पा॒प्मा भ्रातृ॑व्येण स॒ह गच्छा॒मुमर॑णं॒ जन॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
@@ -773,7 +809,7 @@ Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with t
 </details>
 <details><summary>पदपाठः</summary>
 
-तक्मन्। भ्रात्रा। बलासेन्। स्वस्रा। कासिकया। सह। पाप्मा। भ्रातृव्येण। सह। गच्छ। अमुम्। अरणम्। जनम्। २२.१२।
+तक्म॑न्। भ्रात्रा॑। ब॒लासे॑न्। स्वस्रा॑। कासि॑कया। स॒ह। पा॒प्मा। भ्रातृ॑व्येण। स॒ह। गच्छ॑। अ॒मुम्। अर॑णम्। जन॑म्। २२.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -805,13 +841,16 @@ Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृती॑यकं वितृती॒यं स॑द॒न्दिमु॒त शा॑र॒दम्।  
-त॒क्मानं॑ शी॒तं रू॒रं ग्रैष्मं॑ नाशय॒ वार्षि॑कम्॥१३॥  
+त॒क्मानं॑ शी॒तं रू॒रं ग्रैष्मं॑ नाशय॒ वार्षि॑कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तृती॑यकं वितृती॒यं स॑द॒न्दिमु॒त शा॑र॒दम्। त॒क्मानं॑ शी॒तं रू॒रं ग्रैष्मं॑ नाशय॒ वार्षि॑कम् ॥
+तृती॑यकं वितृती॒यं स॑द॒न्दिमु॒त शा॑र॒दम्।  
+त॒क्मानं॑ शी॒तं रू॒रं ग्रैष्मं॑ नाशय॒ वार्षि॑कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
@@ -836,7 +875,7 @@ Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, in
 </details>
 <details><summary>पदपाठः</summary>
 
-तृतीयकम्। विऽतृतीयम्। सदम्ऽदिम्। उत। शारदम्। तक्मानम्। शीतम्। रूरम्। ग्रैष्मम्। नाशय। वार्षिकम्। २२.१३।
+तृती॑यकम्। वि॒ऽतृ॒ती॒यम्। स॒द॒म्ऽदिम्। उ॒त। शा॒र॒दम्। त॒क्मान॑म्। शी॒तम्। रू॒रम्। ग्रैष्म॑म्। ना॒श॒य॒। वार्षि॑कम्। २२.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -867,14 +906,17 @@ Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, in
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग॒न्धारि॑भ्यो॒ मूज॑व॒द्भ्योऽङ्गे॑भ्यो म॒गधे॑भ्यः ।  
-प्रै॒ष्यन् जन॑मिव शेव॒धिं त॒क्मानं॒ परि॑ दद्मसि ॥१४॥
+ग॒न्धारि॑भ्यो॒ मूज॑व॒द्भ्योऽङ्गे॑भ्यो म॒गधे॑भ्यः।  
+प्रै॒ष्यन् जन॑मिव शेव॒धिं त॒क्मानं॒ परि॑ दद्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ग॒न्धारि॑भ्यो॒ मूज॑व॒द्भ्योऽङ्गे॑भ्यो म॒गधे॑भ्यः। प्रै॒ष्यन् जन॑मिव शेव॒धिं त॒क्मानं॒ परि॑ दद्मसि ॥
+ग॒न्धारि॑भ्यो॒ मूज॑व॒द्भ्योऽङ्गे॑भ्यो म॒गधे॑भ्यः।  
+प्रै॒ष्यन् जन॑मिव शेव॒धिं त॒क्मानं॒ परि॑ दद्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
@@ -902,7 +944,7 @@ We to Gandharis, Mujavans, to Angas and to Magadhas. Hand over Fever as it were 
 </details>
 <details><summary>पदपाठः</summary>
 
-गन्धारिभ्यः। मूजवत्ऽभ्यः। अङ्गेभ्यः। मगधेभ्यः। प्रऽएष्यन्। जनम्ऽइव। शेवऽधिम्। तक्मानम्। परि। दद्मसि। २२.१४।
+ग॒न्धारि॑भ्यः। मूज॑वत्ऽभ्यः। अङ्गे॑भ्यः। म॒गधे॑भ्यः। प्र॒ऽए॒ष्यन्। जन॑म्ऽइव। शे॒व॒ऽधिम्। त॒क्मान॑म्। परि॑। द॒द्म॒सि॒। २२.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

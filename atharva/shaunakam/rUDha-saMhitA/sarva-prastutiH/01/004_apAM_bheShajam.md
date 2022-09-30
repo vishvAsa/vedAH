@@ -36,13 +36,17 @@ To the waters, for the prosperity of cattle
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्। पृ॒ञ्च॒तीर्म॑धु॑ना॒ पयः॑ ॥१॥  
+अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्।  
+पृ॑ञ्च॒तीर्मधु॑ना॒ पयः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्। पृ॑ञ्च॒तीर्मधु॑ना॒ पयः॑ ॥
+अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्।  
+पृ॑ञ्च॒तीर्मधु॑ना॒ पयः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
@@ -61,7 +65,7 @@ Along their paths the Mothers go, sisters of priestly ministrants, Blending thei
 </details>
 <details><summary>पदपाठः</summary>
 
-अम्वयः। यन्ति। अध्वऽभिः। जामयः। अध्वरिऽयताम्। पृञ्चतीः। मधुना। पयः।
+अ॒म्वयः॑। य॒न्ति॒। अध्व॑ऽभिः। जा॒मयः॑। अ॒ध्व॒रि॒ऽय॒ताम्। पृ॒ञ्च॒तीः। मधु॑ना। पयः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,13 +96,17 @@ Along their paths the Mothers go, sisters of priestly ministrants, Blending thei
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/02_amUryA_upa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह। ता नो॑ हिन्वन्त्वध्व॒रम्॥२॥  
+अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह।  
+ता नो॑ हिन्वन्त्वध्व॒रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/02_amUryA_upa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह। ता नो॑ हिन्वन्त्वध्व॒रम् ॥
+अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह।  
+ता नो॑ हिन्वन्त्वध्व॒रम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/02_amUryA_upa.md">
@@ -118,7 +126,7 @@ May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth
 </details>
 <details><summary>पदपाठः</summary>
 
-अमूः। याः। उप। सूर्ये। याभिः। वा। सूर्यः। सह। ताः। नः। हिन्वन्तु। अध्वरम्।
+अ॒मूः। याः। उप॑। सूर्ये॑। याभिः॑। वा॒। सूर्यः॑। स॒ह। ताः। नः॒। हि॒न्व॒न्तु॒। अ॒ध्व॒रम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -149,13 +157,17 @@ May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः । सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥३॥  
+अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः।  
+सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/03_apo_devIrupa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः। सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥
+अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः।  
+सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
@@ -175,7 +187,7 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 </details>
 <details><summary>पदपाठः</summary>
 
-अपः। देवीः। उप। ह्वये। यत्र। गावः। पिबन्ति। नः। सिन्धुऽभ्यः। कर्त्वम्। हविः।
+अ॒पः। दे॒वीः। उप॑। ह्व॒ये॒। यत्र॑। गावः॑। पिब॑न्ति। नः॒। सिन्धु॑ऽभ्यः। कर्त्व॑म्। ह॒विः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -207,13 +219,16 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्।  
-अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥४॥
+अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्। अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥
+अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्।  
+अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
@@ -242,7 +257,7 @@ Amrit is in the Waters, in the Waters balm. Yea, through our praises of the Floo
 </details>
 <details><summary>पदपाठः</summary>
 
-अप्ऽसु। अन्तः। अमृतम्। अप्ऽसु। भेषजम्। अपाम्। उत। प्रशस्तिऽभिः। अश्वाः। भवथ। वाजिनः। गावः। भवथ। वाजिनीः।
+अ॒प्ऽसु। अ॒न्तः। अ॒मृत॑म्। अ॒प्ऽसु। भे॒ष॒जम्। अ॒पाम्। उ॒त। प्रश॑स्तिऽभिः। अश्वाः॑। भव॑थ। वा॒जिनः॑। गावः॑। भ॒व॒थ॒। वा॒जिनीः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

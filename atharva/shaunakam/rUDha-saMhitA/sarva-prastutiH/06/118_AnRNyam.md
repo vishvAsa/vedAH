@@ -32,14 +32,17 @@ Translated: Ludwig, p. 455; Griffith, i. 310.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षानां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः ।  
-उ॒ग्रं॒प॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥१॥  
+यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षाणां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः।  
+उ॑ग्रंप॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षाणां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः। उ॑ग्रंप॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥
+यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षाणां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः।  
+उ॑ग्रंप॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
@@ -78,7 +81,7 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। हस्ताभ्याम्। चकृम। किल्बिषाणि। अक्षाणाम्। गत्नुम्। उपऽलिप्समानाः। उग्रंपश्ये। इत्युग्रम्ऽपश्ये। उग्रऽजितौ। तत्। अद्य। अप्सरसौ। अनु। दत्ताम्। ऋणम्। नः। ११८.१।
+यत्। हस्ता॑भ्याम्। च॒कृ॒म। किल्बि॑षाणि। अ॒क्षाणा॑म्। ग॒त्नुम्। उ॒प॒ऽलिप्स॑मानाः। उ॒ग्रं॒प॒श्ये। इत्यु॑ग्र॒म्ऽप॒श्ये। उ॒ग्र॒ऽजितौ॑। तत्। अ॒द्य। अ॒प्स॒रसौ॑। अनु॑। द॒त्ता॒म्। ऋ॒णम्। नः॒। ११८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,14 +112,17 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त् किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्।  
-ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒रा॑यत्॥२॥  
+उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त्किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्।  
+ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒राय॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त्किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्। ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒राय॑त् ॥
+उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त्किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्।  
+ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒राय॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
@@ -156,7 +162,7 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 </details>
 <details><summary>पदपाठः</summary>
 
-उग्रंपश्ये इत्युग्रम्ऽपश्ये। राष्ट्रऽभृत्। किल्बिषाणि। यत्। अक्षऽवृत्तम्। अनु। दत्तम्। नः। एतत्। ऋणात्। नः। न। ऋणम्। एर्त्समानः। यमस्य। लोके। अधिऽरज्जुः। आ। अयत्। ११८.२।
+उग्रं॑पश्ये॒ इत्युग्र॑म्ऽपश्ये। राष्ट्र॑ऽभृत्। किल्बि॑षाणि। यत्। अ॒क्षऽवृ॑त्तम्। अनु॑। द॒त्त॒म्। नः॒। ए॒तत्। ऋ॒णात्। नः॒। न। ऋ॒णम्। एर्त्स॑मानः। य॒मस्य॑। लो॒के। अधि॑ऽरज्जुः। आ। अ॒य॒त्। ११८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -187,14 +193,17 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/03_yasmA_RNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः ।  
-ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम्॥३॥
+यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः।  
+ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/03_yasmA_RNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः। ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम् ॥
+यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः।  
+ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/03_yasmA_RNam.md">
@@ -220,7 +229,7 @@ My creditor, the man whose wife I visit, he, Gods! whom I approach with supplica
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्मै। ऋणम्। यस्य। जायाम्। उपऽऐमि। यम्। याचमानः। अभिऽऐमि। देवाः। ते। वाचम्। वादिषुः। मा। उत्तराम्। मत्। देवपत्नी इति देवऽपत्नी। अप्सरसौ। अधि। इतम्। ११८.३।
+यस्मै॑। ऋ॒णम्। यस्य॑। जा॒याम्। उ॒प॒ऽऐमि॑। यम्। याच॑मानः। अ॒भि॒ऽऐमि॑। दे॒वाः॒। ते। वाच॑म्। वा॒दि॒षुः॒। मा। उत्त॑राम्। मत्। देव॑प॒त्नी इति॒ देव॑ऽपत्नी। अप्स॑रसौ। अधि। इ॒त॒म्। ११८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

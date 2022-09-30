@@ -32,14 +32,17 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते ।  
-आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते।  
+आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते। आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते।  
+आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/112_pApanAshanam/01_shumbhanI_dyAvApRthivI.md">
@@ -65,7 +68,7 @@ Radiant with light are Heaven and Earth, whose grace is nigh, whose sway is vast
 </details>
 <details><summary>पदपाठः</summary>
 
-शुम्भनी इति। द्यावापृथिवी इति। अन्तिसुम्ने इत्यन्तिऽसुम्ने। महिव्रते इति महिऽव्रते। आपः। सप्त। सुस्रुवुः। देवीः। ताः। नः। मुञ्चन्तु। अंहसः। ११७.१।
+शुम्भ॑नी॒ इति॑। द्यावा॑पृथि॒वी इति॑। अन्ति॑सुम्ने॒ इत्यन्ति॑ऽसुम्ने। महि॑व्रते॒ इति॑ महि॑ऽव्रते। आपः॑। स॒प्त। सु॒स्रु॒वुः॒। दे॒वीः। ताः। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। ११७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Radiant with light are Heaven and Earth, whose grace is nigh, whose sway is vast
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/112_pApanAshanam/02_munchantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३दथो॑ वरु॒ण्याऽदु॒त।  
-अथो॑ य॒मस्य॒ पड्वी॑शा॒द् विश्व॑स्माद् देवकिल्बि॒षात्॥२॥
+मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
+अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/112_pApanAshanam/02_munchantu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त। अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या᳡दु॒त।  
+अथो॑ य॒मस्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/112_pApanAshanam/02_munchantu_mA.md">
@@ -124,7 +130,7 @@ Release me from the curse's bond and plague that comes from Varuna; Free me from
 </details>
 <details><summary>पदपाठः</summary>
 
-मुञ्चन्तु। मा। शपथ्या᳡त्। अथो इति। वरुण्या᳡त्। उत। अथो इति। यमस्‍य। पड्वीशात्। विश्वस्मात्। देवऽकिल्बिषात्। ११७.२।
+मु॒ञ्चन्तु॑। मा॒। श॒प॒थ्या᳡त्। अथो॒ इति॑। व॒रु॒ण्या᳡त्। उ॒त। अथो॒ इति॑। य॒मस्‍य॑। पड्वी॑शात्। विश्व॑स्मात्। दे॒व॒ऽकि॒ल्बि॒षात्। ११७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to secure freedom from various evils
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/01_IshANAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ईशा॑णां त्वा भेष॒जाना॒मुज्जे॑ष॒ आ र॑भामहे ।  
-च॒क्रे स॒हस्र॑वीर्यं॒ सर्व॑स्मा ओषधे त्वा ॥१॥  
+ईशा॑णां त्वा भेष॒जाना॒मुज्जे॑ष॒ आ र॑भामहे।  
+च॒क्रे स॒हस्र॑वीर्यं॒ सर्व॑स्मा ओषधे त्वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/01_IshANAM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ईशा॑णां त्वा भेष॒जाना॒मुज्जे॑ष॒ आ र॑भामहे। च॒क्रे स॒हस्र॑वीर्यं॒ सर्व॑स्मा ओषधे त्वा ॥
+ईशा॑णां त्वा भेष॒जाना॒मुज्जे॑ष॒ आ र॑भामहे।  
+च॒क्रे स॒हस्र॑वीर्यं॒ सर्व॑स्मा ओषधे त्वा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/01_IshANAM_tvA.md">
@@ -70,7 +73,7 @@ We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Pl
 </details>
 <details><summary>पदपाठः</summary>
 
-ईशानाम्। त्वा। भेषजानाम्। उत्ऽजेषे। आ। रभामहे। चक्रे। सहस्रऽवीर्यम्। सर्वस्मै। ओषधे। त्वा। १७.१।
+ईशा॑नाम्। त्वा॒। भे॒ष॒जाना॑म्। उत्ऽजे॑षे। आ। र॒भा॒म॒हे॒। च॒क्रे। स॒हस्र॑ऽवीर्यम्। सर्व॑स्मै। ओ॒ष॒धे॒। त्वा॒। १७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Pl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒त्य॒जितं॑ शपथ॒याव॑नीं॒ सह॑मानां पुनःस॒राम्।  
-सर्वाः॒ सम॒ह्व्योष॑धीरि॒तो नः॑ पारया॒दिति॑ ॥२॥  
+स॑त्य॒जितं॑ शपथ॒याव॑नीं॒ सह॑मानां पुनःस॒राम्।  
+सर्वाः॒ सम॒ह्व्योष॑धीरि॒तो नः॑ पारया॒दिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑त्य॒जितं॑ शपथ॒याव॑नीं॒ सह॑मानां पुनःस॒राम्। सर्वाः॒ सम॒ह्व्योष॑धीरि॒तो नः॑ पारया॒दिति॑ ॥
+स॑त्य॒जितं॑ शपथ॒याव॑नीं॒ सह॑मानां पुनःस॒राम्।  
+सर्वाः॒ सम॒ह्व्योष॑धीरि॒तो नः॑ पारया॒दिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
@@ -139,7 +145,7 @@ Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee an
 </details>
 <details><summary>पदपाठः</summary>
 
-सत्यऽजितम्। शपथऽयावनीम्। सहमानम्। पुनःऽसराम्। सर्वाः। सम्। अह्वि। ओषधीः। इतः। नः। पारयात्। इति। १७.२।
+स॒त्य॒ऽजित॑म्। श॒प॒थ॒ऽयाव॑नीम्। सह॑मानम्। पु॒नः॒ऽस॒राम्। सर्वाः॑। सम्। अ॒ह्वि॒। ओष॑धीः। इ॒तः। नः॒। पा॒र॒या॒त्। इति॑। १७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,13 +177,16 @@ Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee an
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
-या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा॥३॥  
+या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/03_yA_shashApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे। या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
+या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
+या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/03_yA_shashApa.md">
@@ -205,7 +214,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin, Or seize
 </details>
 <details><summary>पदपाठः</summary>
 
-या। शशाप। शपनेन। या। अघम्। मूरम्। आऽदधे। या। रसस्य। हरणाय। जातम्। आऽरेभे। तोकम्। अत्तु। सा। १७.३।
+या। श॒शाप॑। शप॑नेन। या। अ॒घम्। मूर॑म्। आ॒ऽद॒धे। या। रस॑स्य। हर॑णाय। जा॒तम्। आ॒ऽरे॒भे। तो॒कम्। अ॒त्तु॒। सा। १७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -237,13 +246,16 @@ She who hath cursed us with a curse, or hath conceived a murderous sin, Or seize
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्नी॑ललोहि॒ते।  
-आ॒मे मां॒से कृ॒त्यां यां च॒क्रुस्तया॑ कृत्या॒कृतो॑ जहि ॥४॥  
+आ॒मे मां॒से कृ॒त्यां यां च॒क्रुस्तया॑ कृत्या॒कृतो॑ जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/04_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्नी॑ललोहि॒ते। आ॒मे मां॒से कृ॒त्यां यां च॒क्रुस्तया॑ कृत्या॒कृतो॑ जहि ॥
+यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्नी॑ललोहि॒ते।  
+आ॒मे मां॒से कृ॒त्यां यां च॒क्रुस्तया॑ कृत्या॒कृतो॑ जहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/04_yAM_te.md">
@@ -283,7 +295,7 @@ What magic they have wrought for thee in dish unbaked or burnt dark-red, What th
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। आमे। पात्रे। याम्। चक्रुः। नीलऽलोहिते। आमे। मांसे। कृत्याम्। याम्। चक्रुः। तया। कृत्याऽकृतः। जहि। १७.४।
+याम्। ते॒। च॒क्रुः। आ॒मे। पात्रे॑। याम्। च॒क्रुः। नी॒ल॒ऽलो॒हि॒ते। आ॒मे। मां॒से। कृ॒त्याम्। याम्। च॒क्रुः। तया॑। कृ॒त्या॒ऽकृतः॑। ज॒हि॒। १७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -314,14 +326,17 @@ What magic they have wrought for thee in dish unbaked or burnt dark-red, What th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्वऽमरा॒य्यः ।  
-दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥५॥  
+दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑।  
+दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑। दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
+दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑।  
+दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
@@ -348,7 +363,7 @@ Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-
 </details>
 <details><summary>पदपाठः</summary>
 
-दौःऽस्वप्न्यम्। दौःऽजीवित्यम्। रक्षः। अभ्व᳡म्। अराय्यः᳡। दुःऽनाम्नीः। सर्वाः। दुःऽवाचः। ताः। अस्मत्। नाशयामसि। १७.५।
+दौःऽस्व॑प्न्यम्। दौःऽजी॑वित्यम्। रक्षः॑। अ॒भ्व᳡म्। अ॒रा॒य्यः᳡। दुः॒ऽनाम्नीः॑। सर्वाः॑। दुः॒ऽवाचः॑। ताः। अ॒स्मत्। ना॒श॒या॒म॒सि॒। १७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -379,14 +394,17 @@ Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षु॒धा॒मा॒रं तृ॑ष्णामा॒रम॒गोता॑मनप॒त्यता॑म्।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥६॥  
+क्षु॑धामा॒रं तृ॑ष्णामा॒रम॒गोता॑मनप॒त्यता॑म्।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क्षु॑धामा॒रं तृ॑ष्णामा॒रम॒गोता॑मनप॒त्यता॑म्। अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+क्षु॑धामा॒रं तृ॑ष्णामा॒रम॒गोता॑मनप॒त्यता॑म्।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
@@ -417,7 +435,7 @@ Death caused by famine, caused by thirst, failure of children,. loss of kine, Wi
 </details>
 <details><summary>पदपाठः</summary>
 
-क्षुधाऽमारम्। तृष्णाऽमारम्। अगोताम्। अनपऽत्यताम्। अपामार्गः। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.६।
+क्षु॒धा॒ऽमा॒रम्। तृ॒ष्णा॒ऽमा॒रम्। अ॒गोता॑म्। अ॒न॒प॒ऽत्यता॑म्। अपा॑मार्गः। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -448,14 +466,17 @@ Death caused by famine, caused by thirst, failure of children,. loss of kine, Wi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृ॒ष्णा॒मा॒रं क्षु॑धामा॒रमथो॑ अक्षपराज॒यम्।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॒ मृज्महे ॥७॥  
+तृ॑ष्णामा॒रं क्षु॑धामा॒रं अथो॑ अक्षपराज॒यम्।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तृ॑ष्णामा॒रं क्षु॑धामा॒रं अथो॑ अक्षपराज॒यम्। अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+तृ॑ष्णामा॒रं क्षु॑धामा॒रं अथो॑ अक्षपराज॒यम्।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
@@ -475,7 +496,7 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 </details>
 <details><summary>पदपाठः</summary>
 
-तृष्णाऽमारम्। क्षुधाऽमारम्। अथो इति। अक्षऽपराजयम्। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.७।
+तृ॒ष्णा॒ऽमा॒रम्। क्षु॒धा॒ऽमा॒रम्। अथो॒ इति॑। अ॒क्ष॒ऽप॒रा॒ज॒यम्। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -506,14 +527,17 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पा॒मा॒र्ग ओष॑धीनां॒ सर्वा॑सा॒मेक॒ इद् व॒शी।  
-तेन॑ ते मृज्म॒ आस्थि॑त॒मथ॒ त्वम॑ग॒दश्च॑र ॥८॥
+अ॑पामा॒र्ग ओष॑धीनां॒ सर्वा॑सा॒मेक॒ इद्व॒शी।  
+तेन॑ ते मृज्म॒ आस्थि॑त॒मथ॒ त्वम॑ग॒दश्च॑र ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑पामा॒र्ग ओष॑धीनां॒ सर्वा॑सा॒मेक॒ इद्व॒शी। तेन॑ ते मृज्म॒ आस्थि॑त॒मथ॒ त्वम॑ग॒दश्च॑र ॥
+अ॑पामा॒र्ग ओष॑धीनां॒ सर्वा॑सा॒मेक॒ इद्व॒शी।  
+तेन॑ ते मृज्म॒ आस्थि॑त॒मथ॒ त्वम॑ग॒दश्च॑र ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
@@ -538,7 +562,7 @@ The Apamarga is alone the sovran of all Plants that grow. With this we wipe away
 </details>
 <details><summary>पदपाठः</summary>
 
-अपामार्गः। ओषधीनाम्। सर्वासाम्। एकः। इत्। वशी। तेन। ते। मृज्मः। आऽस्थितम्। अथ। त्वम्। अगदः। चर। १७.८।
+अ॒पा॒मा॒र्गः। ओष॑धीनाम्। सर्वा॑साम्। एकः॑। इत्। व॒शी। तेन॑। ते॒। मृ॒ज्मः॒। आऽस्थि॑तम्। अथ॑। त्वम्। अ॒ग॒दः। च॒र॒। १७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

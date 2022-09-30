@@ -32,23 +32,25 @@ A protective charm accompanying investiture with an amulet of Darbha grass
 </details>
 </details>
 </div>
-## ०१ यत् ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/01_yat_te.md">
+## ०१ यत्ते दर्भ
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् ते॑ दर्भ ज॒रामृ॑त्युः श॒तं वर्म॑सु॒ वर्म॑ ते ।  
-तेने॒मं व॒र्मिणं॑ कृ॒त्वा स॒पत्नां॑ जहि वी॒र्यैः ॥१॥  
+यत्ते॑ दर्भ ज॒रामृ॑त्युः श॒तं वर्म॑सु॒ वर्म॑ ते।  
+तेने॒मं व॒र्मिणं॑ कृ॒त्वा स॒पत्नां॑ ज॒हि वी॒र्यैः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/01_yat_te.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत् ते॑ दर्भ ज॒रामृ॑त्युः श॒तं वर्म॑सु॒ वर्म॑ ते ।  
-तेने॒मं व॒र्मिणं॑ कृ॒त्वा स॒पत्नां॑ जहि वी॒र्यैः ॥१॥  
+यत्ते॑ दर्भ ज॒रामृ॑त्युः श॒तं वर्म॑सु॒ वर्म॑ ते।  
+तेने॒मं व॒र्मिणं॑ कृ॒त्वा स॒पत्नां॑ ज॒हि वी॒र्यैः᳡ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/01_yat_te.md">
-<details open><summary><h3>०१ यत् ते ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/01_yatte_darbha.md">
+<details open><summary><h3>०१ यत्ते दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -71,7 +73,7 @@ Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ते। दर्भ। जराऽमृत्युः। शतम्। वर्मऽसु। वर्म। ते। तेन। इमम्। वर्मिणम्। कृत्वा। सऽपत्नान्। जहि। वीर्यैः᳡। ३०.१।
+यत्। ते॒। द॒र्भ॒। ज॒राऽमृ॑त्युः। श॒तम्। वर्म॑ऽसु। वर्म॑। ते॒। तेन॑। इ॒मम्। व॒र्मिण॑म्। कृ॒त्वा। स॒ऽपत्ना॑न्। ज॒हि॒। वी॒र्यैः᳡। ३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,15 +104,17 @@ Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/02_shataM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं ते॑ दर्भ॒ वर्मा॑णि स॒हस्रं॑ वी॒र्या॑णि ते ।  
-तम॒स्मै विश्वे॒ त्वां दे॒वा ज॒रसे॒ भर्त॒वा अ॑दुः ॥२॥  
+श॒तं ते॑ दर्भ॒ वर्मा॑णि स॒हस्रं॑ वी॒र्या᳡णि ते।  
+तम॒स्मै विश्वे॒ त्वां दे॑वा ज॒रसे॒ भर्त॒वा अ॑दुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/02_shataM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तं ते॑ दर्भ॒ वर्मा॑णि स॒हस्रं॑ वी॒र्या॑णि ते ।  
-तम॒स्मै विश्वे॒ त्वां दे॒वा ज॒रसे॒ भर्त॒वा अ॑दुः ॥२॥  
+श॒तं ते॑ दर्भ॒ वर्मा॑णि स॒हस्रं॑ वी॒र्या᳡णि ते।  
+तम॒स्मै विश्वे॒ त्वां दे॑वा ज॒रसे॒ भर्त॒वा अ॑दुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/02_shataM_te.md">
@@ -135,7 +139,7 @@ Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All God
 </details>
 <details><summary>पदपाठः</summary>
 
-शतम्। ते। दर्भ। वर्माणि। सहस्रम्। वीर्या᳡णि। ते। तम्। अस्मै। विश्वे। त्वाम्। देवाः। जरसे। भर्तवै। अदुः। ३०.२।
+श॒तम्। ते॒। द॒र्भ॒। वर्मा॑णि। स॒हस्र॑म्। वी॒र्या᳡णि। ते॒। तम्। अ॒स्मै। विश्वे॑। त्वाम्। दे॒वाः। ज॒रसे॑। भर्त॒वै। अ॒दुः॒। ३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,14 +171,16 @@ Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All God
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वामा॑हुर्देव॒वर्म॒ त्वां द॑र्भ॒ ब्रह्म॑ण॒स्पति॑म्।  
-त्वामिन्द्र॑स्याहु॒र्वर्म॒ त्वं रा॒ष्ट्राणि॑ रक्षसि ॥३॥  
+त्वामिन्द्र॑स्याहु॒र्वर्म॒ त्वं रा॒ष्ट्राणि॑ रक्षसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 त्वामा॑हुर्देव॒वर्म॒ त्वां द॑र्भ॒ ब्रह्म॑ण॒स्पति॑म्।  
-त्वामिन्द्र॑स्याहु॒र्वर्म॒ त्वं रा॒ष्ट्राणि॑ रक्षसि ॥३॥  
+त्वामिन्द्र॑स्याहु॒र्वर्म॒ त्वं रा॒ष्ट्राणि॑ रक्षसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
@@ -196,7 +202,7 @@ They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They cal
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वाम्। आहुः। देवऽवर्म। त्वाम्। दर्भ। ब्रह्मणः। पतिम्। त्वाम्। इन्द्रस्य। आहुः। वर्म। त्वम्। राष्ट्राणि। रक्षसि। ३०.३।
+त्वाम्। आ॒हुः॒। दे॒व॒ऽवर्म॑। त्वाम्। द॒र्भ॒। ब्रह्म॑णः। पति॑म्। त्वाम्। इन्द्र॑स्य। आ॒हुः॒। वर्म॑। त्वम्। रा॒ष्ट्राणि॑। र॒क्ष॒सि॒। ३०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,15 +233,17 @@ They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They cal
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प॒त्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः ।  
-म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥४॥  
+स॑पत्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः।  
+म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒प॒त्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः ।  
-म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥४॥  
+स॑पत्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः।  
+म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
@@ -262,7 +270,7 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 </details>
 <details><summary>पदपाठः</summary>
 
-सपत्नऽक्षयणम्। दर्भ। द्विषतः। तपनम्। हृदः। मणिम्। क्षत्रस्य। वर्धनम्। तनूऽपानम्। कृणोमि। ते। ३०.४।
+स॒प॒त्न॒ऽक्षय॑णम्। द॒र्भ॒। द्वि॒ष॒तः। तप॑नम्। हृ॒दः। म॒णिम्। क्ष॒त्रस्य॑। वर्ध॑नम्। त॒नू॒ऽपान॑म्। कृ॒णो॒मि॒। ते॒। ३०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -289,23 +297,25 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 </details>
 </details>
 </div>
-## ०५ यत् समुद्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/05_yat_samudro.md">
+## ०५ यत्समुद्रो अभ्यक्रन्दत्पर्जन्यो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् स॑मु॒द्रो अ॒भ्यक्र॑न्दत् प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
-ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥५॥
+यत्स॑मु॒द्रो अ॒भ्यक्र॑न्दत्प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
+ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/05_yat_samudro.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत् स॑मु॒द्रो अ॒भ्यक्र॑न्दत् प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
-ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥५॥
+यत्स॑मु॒द्रो अ॒भ्यक्र॑न्दत्प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
+ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/05_yat_samudro.md">
-<details open><summary><h3>०५ यत् समुद्रो ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
+<details open><summary><h3>०५ यत्समुद्रो अभ्यक्रन्दत्पर्जन्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -330,7 +340,7 @@ What time Parjanya roared to it with lightning flashes in the sea, Thence came t
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। समुद्रः। अभिऽक्रन्दत्। पर्जन्यः। विऽद्युता। सह। ततः। हिरण्ययः। बिन्दुः। ततः। दर्भः। अजायत। ३०.५।
+यत्। स॒मु॒द्रः। अ॒भि॒ऽक्र॑न्दत्। प॒र्जन्यः॑। वि॒ऽद्युता॑। स॒ह। ततः॑। हि॒र॒ण्ययः॑। बि॒न्दुः। ततः॑। द॒र्भः। अ॒जा॒य॒त॒। ३०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

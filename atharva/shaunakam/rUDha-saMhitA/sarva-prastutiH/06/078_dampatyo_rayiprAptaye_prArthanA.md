@@ -36,18 +36,17 @@ A nuptial benediction
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-
-तेन॑ भू॒तेन॑ +++(हितेन)+++ ह॒विषा॒  
-ऽयम् आ प्या॑यतां॒ पुनः॑ ।  
-जा॒यां याम् अ॑स्मा॒ +++(मह्यं)+++ आवा॑क्षु॒स्+++(=आवहन्)+++  
-ताꣳ रसे॑ना॒भि व॑र्द्ध+++(य)+++ताम् ।+++(४)+++  
-
+तेन॑ भू॒तेन॑ ह॒विषा॒यमा प्या॑यतां॒ पुनः॑।  
+जा॒यां याम॑स्मा॒ आवा॑क्षु॒स्तां रसे॑ना॒भि व॑र्धताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तेन॑ भू॒तेन॑ ह॒विषा॒यमा प्या॑यतां॒ पुनः॑। जा॒यां याम॑स्मा॒ आवा॑क्षु॒स्तां रसे॑ना॒भि व॑र्धताम् ॥
+तेन॑ भू॒तेन॑ ह॒विषा॒यमा प्या॑यतां॒ पुनः॑।  
+जा॒यां याम॑स्मा॒ आवा॑क्षु॒स्तां रसे॑ना॒भि व॑र्धताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/078_dampatyo_rayiprAptaye_prArthanA/01_tena_bhUtena.md">
@@ -76,7 +75,7 @@ Let this man be again bedewed with this presented sacrifice. And comfort with th
 </details>
 <details><summary>पदपाठः</summary>
 
-तेन। भूतेन। हविषा। अयम्। आ। प्यायताम्। पुनः। जायाम्। याम्। अस्मै। आऽअवाक्षुः। ताम्। रसेन। अभि। वर्धताम्। ७८.१।
+तेन॑। भू॒तेन॑। ह॒विषा॑। अ॒यम्। आ। प्या॒य॒ता॒म्। पुनः॑। जा॒याम्। याम्। अ॒स्मै॒। आ॒ऽअवा॑क्षुः। ताम्। रसे॑न। अ॒भि। व॒र्ध॒ता॒म्। ७८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +106,17 @@ Let this man be again bedewed with this presented sacrifice. And comfort with th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/02_abhi_vardhatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि व॑र्धतां॒ पय॑सा॒भि रा॒ष्ट्रेण॑ वर्धताम्।  
-र॒य्या स॒हस्र॑वर्चसे॒मौ स्तामनु॑पक्षितौ ॥२॥  
+अ॒भि व॑र्धतां॒ पय॑साभि रा॒ष्ट्रेण॑ वर्धताम्।  
+र॒य्या स॒हस्र॑वर्चसे॒मौ स्ता॒मनु॑पक्षितौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/078_dampatyo_rayiprAptaye_prArthanA/02_abhi_vardhatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि व॑र्धतां॒ पय॑साभि रा॒ष्ट्रेण॑ वर्धताम्। र॒य्या स॒हस्र॑वर्चसे॒मौ स्ता॒मनु॑पक्षितौ ॥
+अ॒भि व॑र्धतां॒ पय॑साभि रा॒ष्ट्रेण॑ वर्धताम्।  
+र॒य्या स॒हस्र॑वर्चसे॒मौ स्ता॒मनु॑पक्षितौ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/078_dampatyo_rayiprAptaye_prArthanA/02_abhi_vardhatAm.md">
@@ -142,7 +144,7 @@ With life's sap let him comfort her, and raise her high with princely sway. In w
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। वर्धताम्। पयसा। अभि। राष्ट्रेण। वर्धताम्। रय्या। सहस्रऽवर्चसा। इमौ। स्ताम्। अनुपऽक्षितौ। ७८.२।
+अ॒भि। व॒र्ध॒ता॒म्। पय॑सा। अ॒भि। रा॒ष्ट्रेण॑। व॒र्ध॒ता॒म्। र॒य्या। स॒हस्र॑ऽवर्चसा। इ॒मौ। स्ता॒म्। अनु॑पऽक्षितौ। ७८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -173,14 +175,17 @@ With life's sap let him comfort her, and raise her high with princely sway. In w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/078_dampatyo_rayiprAptaye_prArthanA/03_tvaShTA_jAyAmajanayattvaShTAsyai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वष्टा॑ जा॒याम॑जनय॒त् त्वष्टा॑स्यै॒ त्वां पति॑म्।  
-त्वष्टा॑ स॒हस्र॒मायूं॑षि दी॒र्घमायुः॑ कृणोतु वाम्॥३॥
+त्वष्टा॑ जा॒याम॑जनय॒त्त्वष्टा॑स्यै॒ त्वां पति॑म्।  
+त्वष्टा॑ स॒हस्र॒मायुं॑षि दी॒र्घमायुः॑ कृणोतु वाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/078_dampatyo_rayiprAptaye_prArthanA/03_tvaShTA_jAyAmajanayattvaShTAsyai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वष्टा॑ जा॒याम॑जनय॒त्त्वष्टा॑स्यै॒ त्वां पति॑म्। त्वष्टा॑ स॒हस्र॒मायुं॑षि दी॒र्घमायुः॑ कृणोतु वाम् ॥
+त्वष्टा॑ जा॒याम॑जनय॒त्त्वष्टा॑स्यै॒ त्वां पति॑म्।  
+त्वष्टा॑ स॒हस्र॒मायुं॑षि दी॒र्घमायुः॑ कृणोतु वाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/078_dampatyo_rayiprAptaye_prArthanA/03_tvaShTA_jAyAmajanayattvaShTAsyai.md">
@@ -202,7 +207,7 @@ Tvashtar formed her to be thy dame, Tvashtar made thee to be her lord. Long life
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वष्टा। जायाम्। अजनयत्। त्वष्टा। अस्यै। त्वाम्। पतिम्। त्वष्टा। सहस्रम्। आयूंषि। दीर्घम्। आयुः। कृणोतु। वाम्। ७८.३।
+त्वष्टा॑। जा॒याम्। अ॒ज॒न॒य॒त्। त्वष्टा॑। अ॒स्यै॒। त्वाम्। पति॑म्। त्वष्टा॑। स॒हस्र॑म्। आयूं॑षि। दी॒र्घम्। आयुः॑। कृ॒णो॒तु॒। वा॒म्। ७८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

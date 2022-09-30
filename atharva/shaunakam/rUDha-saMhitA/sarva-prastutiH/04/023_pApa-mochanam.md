@@ -36,14 +36,17 @@ Magnification of Agni and prayer for his protection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑ ।  
-विशो॑ विशः प्रविशि॒वांस॑मीमहे॒ स नो मुञ्च॒त्वंह॑सः ॥१॥  
+अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑।  
+विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑। विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑।  
+विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
@@ -75,7 +78,7 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नेः। मन्वे। प्रथमस्य। प्रऽचेतसः। पाञ्चऽजन्यस्य। बहुऽधा। यम्। इन्धते। विशःऽविशः। प्रविशिऽवासम्। ईमहे। सः। नः। मुञ्चतु। अंहसः। २३.१।
+अ॒ग्नेः। म॒न्वे॒। प्र॒थ॒मस्य॑। प्रऽचे॑तसः। पाञ्च॑ऽजन्यस्य। ब॒हु॒ऽधा। यम्। इ॒न्धते॑। विशः॑ऽविशः। प्र॒वि॒शि॒ऽवास॑म्। ई॒म॒हे॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,13 +110,16 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
-ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥२॥  
+ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्। ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
+ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/02_yathA_havyam.md">
@@ -135,7 +141,7 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। हव्यम्। वहसि। जातऽवेदः। यथा। यज्ञम्। कल्पयसि। प्रऽजानन्। एव। देवेभ्यः। सुऽमतिम्। नः। आ। वह। सः। नः। मुञ्चतु। अंहसः। २३.२।
+यथा॑। ह॒व्यम्। वह॑सि। जा॒त॒ऽवे॒दः॒। यथा॑। य॒ज्ञम्। क॒ल्पय॑सि। प्र॒ऽजा॒नन्। ए॒व। दे॒वेभ्यः॑। सु॒ऽम॒तिम्। नः॒। आ। व॒ह॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑न्कर्म॒न्नाभ॑गम् ।  
-अ॒ग्निमी॑डे र॒क्षो॒हणं॑ यज्ञ॒वॄधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥३॥  
+याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे।  
+र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे। र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे।  
+र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
@@ -203,7 +212,7 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 </details>
 <details><summary>पदपाठः</summary>
 
-यामन्ऽयामन्। उपऽयुक्तम्। वहिष्ठम्। कर्मन्ऽकर्मन्। आऽभगम्। अग्निम्। ईडे। रक्षःऽहनम्। यज्ञऽवृधम्। घृतऽआहुतम्। सः। नः। मुञ्चतु। अंहसः। २३.३।
+याम॑न्ऽयामन्। उप॑ऽयुक्तम्। वहि॑ष्ठम्। कर्म॑न्ऽकर्मन्। आऽभ॑गम्। अ॒ग्निम्। ई॒डे॒। र॒क्षः॒ऽहन॑म्। य॒ज्ञ॒ऽवृध॑म्। घृ॒तऽआ॑हुतम्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -235,13 +244,16 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
-ह॒व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥४॥  
+ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्। ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
+ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
@@ -263,7 +275,7 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽजातम्। जातऽवेदसम्। अग्निम्। वैश्वानरम्। विऽभुम्। हव्यऽवाहम्। हवामहे। सः। नः। मुञ्चतु। अंहसः। २३.४।
+सुऽजा॑तम्। जा॒तऽवे॑दसम्। अ॒ग्निम्। वै॒श्वा॒न॒रम्। वि॒ऽभुम्। ह॒व्य॒ऽवाह॑म्। ह॒वा॒म॒हे॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -294,14 +306,17 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॒ ऋष॑यो ब॒लमद्यो॑तयन् यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः ।  
-येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥५॥  
+येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः।  
+येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः। येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः।  
+येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/05_yena_RShayo.md">
@@ -325,7 +340,7 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। ऋषयः। बलम्। अद्योतयन्। युजा। येन। असुराणाम्। अयुवन्त। मायाः। येन। अग्निना। पणीन्। इन्द्रः। जिगाय। सः। नः। मुञ्चतु। अंहसः। २३.५।
+येन॑। ऋष॑यः। ब॒लम्। अद्यो॑तयन्। यु॒जा। येन॑। असु॑राणाम्। अयु॑वन्त। मा॒याः। येन॑। अ॒ग्निना॑। प॒णीन्। इन्द्रः॑। जि॒गाय॑। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -356,14 +371,17 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/06_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न् येनौष॑धी॒र्मधु॑मती॒रकृण्वन्।  
-येन॑ दे॒वाः स्व॑१राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥६॥  
+येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
+येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/06_yena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्। येन॑ दे॒वाः स्वराभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
+येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
+येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/06_yena_devA.md">
@@ -385,7 +403,7 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। देवाः। अमृतम्। अनुऽअविन्दन्। येन। ओषधीः। मधुऽमतीः। अकृण्वन्। येन। देवाः। स्वः᳡। आऽअभरन्। सः। नः। मुञ्चतु। अंहसः। २३.६।
+येन॑। दे॒वाः। अ॒मृत॑म्। अ॒नु॒ऽअवि॑न्दन्। येन॑। ओष॑धीः। मधु॑ऽमतीः। अकृ॑ण्वन्। येन॑। दे॒वाः। स्वः᳡। आ॒ऽअभ॑रन्। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -416,14 +434,17 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ये॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यंऽ च॒ केव॑लम्।  
-स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥७॥
+यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्।  
+स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्। स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्।  
+स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
@@ -447,7 +468,7 @@ I, suppliant, praise and ever call on Agni, sole Lord of all this world, of all 
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। इदम्। प्रऽदिशि। यत्। विऽरोचते। यत्। जातम्। जनितव्य᳡म्। च। केवलम्। स्तौमि। अग्निम्। नाथितः। जोहवीमि। सः। नः। मुञ्चतु। अंहसः। २३.७।
+यस्य॑। इ॒दम्। प्र॒ऽदिशि॑। यत्। वि॒ऽरोच॑ते। यत्। जा॒तम्। ज॒नि॒त॒व्य᳡म्। च॒। केव॑लम्। स्तौमि॑। अ॒ग्निम्। ना॒थि॒तः। जो॒ह॒वी॒मि॒। सः। नः॒। मु॒ञ्च॒तु॒। अंह॑सः। २३.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to facilitate child-birth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि ।  
-प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम्॥१॥  
+य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि।  
+प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि। प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम् ॥
+य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि।  
+प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
@@ -65,7 +68,7 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 </details>
 <details><summary>पदपाठः</summary>
 
-यन्ता। असि। यच्छसे। हस्तौ। अप। रक्षांसि। सेधसि। प्रऽजाम्। धनम्। च। गृह्णानः। परिऽहस्तः। अभूत्। अयम्। ८१.१।
+य॒न्ता। अ॒सि॒। यच्छ॑से। हस्तौ॑। अप॑। रक्षां॑सि। से॒ध॒सि॒। प्र॒ऽजाम्। धन॑म्। च॒। गृ॒ह्णा॒नः। प॒रि॒ऽह॒स्तः। अ॒भू॒त्। अ॒यम्। ८१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे ।  
-मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥२॥  
+परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे।  
+मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे। मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥
+परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे।  
+मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/02_parihasta_vi.md">
@@ -129,7 +135,7 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 </details>
 <details><summary>पदपाठः</summary>
 
-परिऽहस्त। वि। धारय। योनिम्। गर्भाय। धातवे। मर्यादे। पुत्रम्। आ। धेहि। तम्। त्वम्। आ। गमय। आऽगमे। ८१.२।
+परि॑ऽहस्त। वि। धा॒र॒य॒। योनि॑म्। गर्भा॑य। धात॑वे। मर्या॑दे। पु॒त्रम्। आ। धे॒हि॒। तम्। त्वम्। आ। ग॒म॒य॒। आ॒ऽग॒मे॒। ८१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,13 +167,16 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं प॑रिह॒स्तमबि॑भ॒रदि॑तिः पुत्रका॒म्या।  
-त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द् यथा॑ पु॒त्रं जना॒दिति॑॥३॥
+त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द्यथा॑ पु॒त्रं जना॑दिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं प॑रिह॒स्तमबि॑भ॒रदि॑तिः पुत्रका॒म्या। त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द्यथा॑ पु॒त्रं जना॑दिति॑ ॥
+यं प॑रिह॒स्तमबि॑भ॒रदि॑तिः पुत्रका॒म्या।  
+त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द्यथा॑ पु॒त्रं जना॑दिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
@@ -187,7 +196,7 @@ The Amulet which Aditi wore when desirous of a son, Tvashtar hath bound upon thi
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। परिऽहस्तम्। अबिभः। अदितिः। पुत्रऽकाम्या। त्वष्टा। तम्। अस्यै। आ। बध्नात्। यथा। पुत्रम्। जनात्। इति। ८१.३।
+यम्। प॒रि॒ऽह॒स्तम्। अबि॑भः। अदि॑तिः। पु॒त्र॒ऽका॒म्या। त्वष्टा॑। तम्। अ॒स्यै॒। आ। ब॒ध्ना॒त्। यथा॑। पु॒त्रम्। जना॑त्। इति॑। ८१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

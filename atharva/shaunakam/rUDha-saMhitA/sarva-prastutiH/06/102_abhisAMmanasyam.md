@@ -32,14 +32,17 @@ Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते ।  
-ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम्॥१॥  
+यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते।  
+ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते। ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम् ॥
+यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते।  
+ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
@@ -62,7 +65,7 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। अयम्। वाहः। अश्विना। सम्ऽऐति। सम्। च। वर्तते। एव। माम्। अभि। ते। मनः। सम्ऽऐतु। सम्। च। वर्तताम्। १०२.१।
+यथा॑। अ॒यम्। वा॒हः। अ॒श्वि॒ना॒। स॒म्ऽऐति॑। सम्। च॒। वर्त॑ते। ए॒व। माम्। अ॒भि। ते॒। मनः॑। स॒म्ऽऐतु॑। सम्। च॒। व॒र्त॒ता॒म्। १०२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व ।  
-रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥२॥  
+आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व।  
+रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व। रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥
+आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व।  
+रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
@@ -130,7 +136,7 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अहम्। खिदामि। ते। मनः। राजऽअश्वः। पृष्ट्याम्ऽइव। रेष्मऽछिन्नम्। यथा। तृणम्। मयि। ते। वेष्टताम्। मनः। १०२.२।
+आ। अ॒हम्। खि॒दा॒मि॒। ते॒। मनः॑। रा॒ज॒ऽअ॒श्वः। पृ॒ष्ट्याम्ऽइ॑व। रे॒ष्मऽछि॑न्नम्। यथा॑। तृण॑म्। मयि॑। ते॒। वे॒ष्ट॒ता॒म्। मनः॑। १०२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च ।  
-तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद् भ॑रे ॥३॥
+आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च।  
+तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद्भ॑रे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च। तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद्भ॑रे ॥
+आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च।  
+तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद्भ॑रे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
@@ -203,7 +212,7 @@ Swiftly from Bhaga's hands I bear away a love-compelling charm Of ointment and o
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽअञ्जनस्य। मदुघस्य। कुष्ठस्य। नलदस्य। च। तुरः। भगस्य। हस्ताभ्याम्। अनुऽरोधनम्। उत्। भरे। १०२.३।
+आ॒ऽअञ्ज॑नस्य। म॒दुघ॑स्य। कुष्ठ॑स्य। नल॑दस्य। च॒। तु॒रः। भग॑स्य। हस्ता॑भ्याम्। अ॒नु॒ऽरोध॑नम्। उत्। भ॒रे॒। १०२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

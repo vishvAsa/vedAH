@@ -37,13 +37,16 @@ A charm against venomous serpents
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
-रात्री॒ जग॑दिवा॒न्यद्धं॒सात् तेना॑ ते वारये वि॒षम्॥१॥  
+रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्। रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
+परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
+रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
@@ -71,7 +74,7 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। द्याम्ऽइव। सूर्यः। अहीनाम्। जनिम। अगमम्। रात्री। जगत्ऽइव। अन्यत्। हंसात्। तेन। ते। वारये। विषम्। १२.१।
+परि॑। द्याम्ऽइ॑व। सूर्यः॑। अही॑नाम्। जनि॑म। अ॒ग॒म॒म्। रात्री॑। जग॑त्ऽइव। अ॒न्यत्। हं॒सात्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद् दे॒वैर्वि॑दि॒तं पु॒रा।  
-यद् भू॒तं भव्य॑मास॒न्वत् तेना॑ ते वारये वि॒षम्॥२॥  
+यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा।  
+यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा। यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
+यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा।  
+यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
@@ -132,7 +138,7 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ब्रह्मऽभिः। यत्। ऋषिऽभिः। यत्। देवैः। विदितम्। पुरा। यत्। भूतम्। भव्यम्। आसन्ऽवत्। तेन। ते। वारये। विषम्। १२.२।
+यत्। ब्र॒ह्मऽभिः॑। यत्। ऋषि॑ऽभिः। यत्। दे॒वैः। वि॒दि॒तम्। पु॒रा। यत्। भू॒तम्। भव्य॑म्। आ॒स॒न्ऽवत्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मध्वा॑ पृञ्चे न॒द्यः॑१ पर्व॑ता गि॒रयो॒ मधु॑ ।  
-मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे॥३॥
+मध्वा॑ पृञ्चे न॒द्यः१॒॑ पर्व॑ता गि॒रयो॒ मधु॑।  
+मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मध्वा॑ पृञ्चे न॒द्यः पर्व॑ता गि॒रयो॒ मधु॑। मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
+मध्वा॑ पृञ्चे न॒द्यः१॒॑ पर्व॑ता गि॒रयो॒ मधु॑।  
+मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
@@ -202,7 +211,7 @@ With mead I mingle flowing streams: the hills and mountains shall be mead. Parus
 </details>
 <details><summary>पदपाठः</summary>
 
-मध्वा। पृञ्चे। नद्यः᳡। पर्वताः। गिरयः। मधु। मधु। परुष्णी। शीपाला। शम्। आस्ने। अस्तु। शम्। हृदे। १२.३।
+मध्वा॑। पृ॒ञ्चे॒। न॒द्यः᳡। पर्व॑ताः। गि॒रयः॑। मधु॑। मधु॑। परु॑ष्णी। शीपा॑ला। शम्। आ॒स्ने। अ॒स्तु॒। शम्। हृ॒दे। १२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

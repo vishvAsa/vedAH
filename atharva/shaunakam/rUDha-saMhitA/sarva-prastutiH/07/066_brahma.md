@@ -36,14 +36,17 @@ A prayer to Vak
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/066_brahma/01_yadyantarixe_yadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु ।  
-यदश्र॑वन् प॒शव॑ उ॒द्यमा॑नं॒ तद् ब्राह्म॑णं॒ पुन॑र॒स्मानु॒पैतु॑ ॥१॥
+यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु।  
+यदश्र॑वन्प॒शव॑ उ॒द्यमा॑नं॒ तद्ब्राह्म॒णं पुन॑र॒स्मानु॒पैतु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/066_brahma/01_yadyantarixe_yadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु। यदश्र॑वन्प॒शव॑ उ॒द्यमा॑नं॒ तद्ब्राह्म॒णं पुन॑र॒स्मानु॒पैतु॑ ॥
+यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु।  
+यदश्र॑वन्प॒शव॑ उ॒द्यमा॑नं॒ तद्ब्राह्म॒णं पुन॑र॒स्मानु॒पैतु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/01_yadyantarixe_yadi.md">
@@ -73,7 +76,7 @@ If it was in the wind or air's mid-region, if it was in the trees or in the bush
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। अन्‍तरिक्षे। यदि। वाते। आस। यदि। वृक्षेषु। यदि। वा। उलपेषु। यत्। अश्रवन्। पशवः। उद्यमानम्। तत्। ब्राह्मणम्। पुनः। अस्मान्। उपऽऐतु। ६८.१।
+यदि॑। अ॒न्‍तरि॑क्षे। यदि॑। वाते॑। आस॑। यदि॑। वृ॒क्षेषु॑। यदि॑। वा॒। उल॑पेषु। यत्। अश्र॑वन्। प॒शवः॑। उ॒द्यमा॑नम्। तत्। ब्राह्म॑णम्। पुनः॑। अ॒स्मान्। उ॒प॒ऽऐतु॑। ६८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

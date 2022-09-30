@@ -33,14 +33,17 @@ Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः ।  
-अ॒न्वा॒ग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्योऽमन्॥१॥  
+ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः।  
+अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः। अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्यो᳡मन् ॥
+ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः।  
+अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्यो᳡मन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/01_etaM_sadhasthAH.md">
@@ -65,7 +68,7 @@ Ye who are present, unto you I offer this treasure brought to us by Jatavedas Ha
 </details>
 <details><summary>पदपाठः</summary>
 
-एतम्। सधऽस्थाः। परि। वः। ददामि। यम्। शेवऽधिम्। आऽवहात्। जातऽवेदाः। अनुऽआगन्ता। यजमानः। स्वस्ति। तम्। स्म। जानीत। परमे। विऽओमन्। १२३.१।
+ए॒तम्। स॒ध॒ऽस्थाः॒। परि॑। वः॒। द॒दा॒मि॒। यम्। शे॒व॒ऽधिम्। आ॒ऽवहा॑त्। जा॒तऽवे॑दाः। अ॒नु॒ऽआ॒ग॒न्ता। यज॑मानः। स्व॒स्ति। तम्। स्म॒। जा॒नी॒त॒। प॒र॒मे। विऽओ॑मन्। १२३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Ye who are present, unto you I offer this treasure brought to us by Jatavedas Ha
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/02_jAnIta_smainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जा॒नी॒त स्मै॑नं पर॒मे व्योऽम॒न् देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑ ।  
-अ॒न्वा॒ग॒न्ता यज॑मानः स्व॒स्तीऽष्टापू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥२॥  
+जा॑नी॒त स्मै॑नं पर॒मे व्यो᳡म॒न्देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑।  
+अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ती᳡ष्टा॑पू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/02_jAnIta_smainam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जा॑नी॒त स्मै॑नं पर॒मे व्यो᳡म॒न्देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑। अ॑न्वाग॒न्ता यज॑मानः स्व॒स्तीष्टा॑पू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥
+जा॑नी॒त स्मै॑नं पर॒मे व्यो᳡म॒न्देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑।  
+अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ती᳡ष्टा॑पू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/02_jAnIta_smainam.md">
@@ -131,7 +137,7 @@ Do ye acknowledge him in highest heaven: ye know the world here present in assem
 </details>
 <details><summary>पदपाठः</summary>
 
-जानीत। स्म। एनम्। परमे। विऽओमन्। देवाः। सधऽस्थाः। विद। लोकम्। अत्र। अनुऽआगन्ता। यजमानः। स्वस्ति। इष्टापूर्तम्। स्म। कृणुत। आविः। अस्मै। १२३.२।
+जा॒नी॒त। स्म॒। ए॒न॒म्। प॒र॒मे। विऽओ॑मन्। देवाः॑। सध॑ऽस्थाः। वि॒द। लो॒कम्। अत्र॑। अ॒नु॒ऽआ॒ग॒न्ता। यज॑मानः। स्व॒स्ति। इ॒ष्टा॒पू॒र्तम्। स्म॒। कृ॒णु॒त॒। आ॒विः। अ॒स्मै॒। १२३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Do ye acknowledge him in highest heaven: ye know the world here present in assem
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/03_devAH_pitaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑ ।  
-यो अस्मि॒ सो अ॑स्मि ॥३॥  
+देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑।  
+यो अस्मि॒ सो अ॑स्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/03_devAH_pitaraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑। यो अस्मि॒ सो अ॑स्मि ॥
+देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑।  
+यो अस्मि॒ सो अ॑स्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/03_devAH_pitaraH.md">
@@ -190,7 +199,7 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 </details>
 <details><summary>पदपाठः</summary>
 
-देवाः। पितरः। पितरः। देवाः। यः। अस्मि। सः। अस्मि। १२३.३।
+देवाः॑। पित॑रः। पित॑रः। देवाः॑। यः। अस्मि॑। सः। अ॒स्मि॒। १२३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -221,14 +230,17 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/04_sa_pachAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स प॑चामि॒ स द॑दामि॒ ।  
-स य॑जे॒ स द॒त्तान्मा यू॑षम्॥४॥  
+स प॑चामि॒ स द॑दामि।  
+स य॑जे॒ स द॒त्तान्मा यू॑षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/04_sa_pachAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स प॑चामि॒ स द॑दामि। स य॑जे॒ स द॒त्तान्मा यू॑षम् ॥
+स प॑चामि॒ स द॑दामि।  
+स य॑जे॒ स द॒त्तान्मा यू॑षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/04_sa_pachAmi.md">
@@ -253,7 +265,7 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। पचामि। सः। ददामि। सः। यजे। सः। दत्तात्। मा। यूषम्। १२३.४।
+सः। प॒चा॒मि॒। सः। द॒दा॒मि॒। सः। य॒जे॒। सः। द॒त्तात्। मा। यू॒ष॒म्। १२३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -284,14 +296,17 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाके॑ राज॑न् प्रति॑ तिष्ठ॒ तत्रै॒तत् प्रति॑ तिष्ठतु ।  
-वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥५॥
+नाके॑ राज॒न्प्रति॑ तिष्ठ॒ तत्रै॒तत्प्रति॑ तिष्ठतु।  
+वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नाके॑ राज॒न्प्रति॑ तिष्ठ॒ तत्रै॒तत्प्रति॑ तिष्ठतु। वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥
+नाके॑ राज॒न्प्रति॑ तिष्ठ॒ तत्रै॒तत्प्रति॑ तिष्ठतु।  
+वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/05_nAke_rAjanprati.md">
@@ -314,7 +329,7 @@ O King, take thou thy stand in heaven, there also let that gift be placed. Recog
 </details>
 <details><summary>पदपाठः</summary>
 
-नाके। राजन्। प्रति। तिष्ठ। तत्र। एतत्। प्रति। तिष्ठतु। विध्दि। पूर्तस्य। नः। राजन्। सः। देव। सुऽमनाः। भव। १२३.५।
+नाके॑। रा॒ज॒न्। प्रति॑। ति॒ष्ठ॒। तत्र॑। ए॒तत्। प्रति॑। ति॒ष्ठ॒तु॒। वि॒ध्दि। पू॒र्तस्य॑। नः॒। रा॒ज॒न्। सः। दे॒व॒। सु॒ऽमनाः॑। भ॒व॒। १२३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

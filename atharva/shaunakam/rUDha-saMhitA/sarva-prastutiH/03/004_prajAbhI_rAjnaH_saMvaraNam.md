@@ -36,14 +36,17 @@ A benediction at the election of a king
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ त्वा॑ गन् रा॒ष्ट्रं स॒ह वर्च॒सोदि॑हि प्रा॑ङ्वि वि॒शां पति॑रेक॒राट् त्वं वि रा॑ज ।  
-सर्वा॑स्त्वा राजन् प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्योऽ भवे॒ह॥१॥  
+आ त्वा॑ गन्रा॒ष्ट्रं स॒ह वर्च॒सोदि॑हि॒ प्राङ्वि॒शां पति॑रेक॒राट्त्वं वि रा॑ज।  
+सर्वा॑स्त्वा राजन्प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्यो॑ भवे॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ त्वा॑ गन्रा॒ष्ट्रं स॒ह वर्च॒सोदि॑हि॒ प्राङ्वि॒शां पति॑रेक॒राट्त्वं वि रा॑ज। सर्वा॑स्त्वा राजन्प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्यो॑ भवे॒ह ॥
+आ त्वा॑ गन्रा॒ष्ट्रं स॒ह वर्च॒सोदि॑हि॒ प्राङ्वि॒शां पति॑रेक॒राट्त्वं वि रा॑ज।  
+सर्वा॑स्त्वा राजन्प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्यो॑ भवे॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
@@ -74,7 +77,7 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। त्वा। गन्। राष्ट्रम्। सह। वर्चसा। उत्। इहि। प्राङ्। विशाम्। पतिः। एकऽराट्। त्वम्। वि। राज। सर्वाः। त्वा। राजन्। प्रऽदिशः। ह्वयन्तु। उपऽसद्यः। नमस्यः᳡। भव। इह। ४.१।
+आ। त्वा॒। ग॒न्। रा॒ष्ट्रम्। स॒ह। वर्च॑सा। उत्। इ॒हि॒। प्राङ्। वि॒शाम्। पतिः॑। ए॒क॒ऽराट्। त्वम्। वि। रा॒ज॒। सर्वाः॑। त्वा॒। रा॒ज॒न्। प्र॒ऽदिशः॑। ह्व॒य॒न्तु॒। उ॒प॒ऽसद्यः॑। न॒म॒स्यः᳡। भ॒व॒। इ॒ह। ४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वां विशो॑ वृणतां रा॒ज्याऽय॒ त्वामि॒माः प्र॒दिशः॒ पञ्च॑ दे॒वीः ।  
-वर्ष्म॑न् रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥२॥  
+त्वां विशो॑ वृणतां रा॒ज्या॑य॒ त्वामि॒माः प्र॒दिशः॒ पञ्च॑ दे॒वीः।  
+वर्ष्म॑न्रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वां विशो॑ वृणतां रा॒ज्या॑य॒ त्वामि॒माः प्र॒दिशः॒ पञ्च॑ दे॒वीः। वर्ष्म॑न्रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
+त्वां विशो॑ वृणतां रा॒ज्या॑य॒ त्वामि॒माः प्र॒दिशः॒ पञ्च॑ दे॒वीः।  
+वर्ष्म॑न्रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
@@ -145,7 +151,7 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वाम्। विशः। वृणताम्। राज्या᳡य। त्वाम्। इमाः। प्रऽदिशः। पञ्च। देवीः। वर्ष्मन्। राष्ट्रस्य। ककुदि। श्रयस्व। ततः। नः। उग्रः। वि। भज। वसूनि। ४.२।
+त्वाम्। विशः॑। वृ॒ण॒ता॒म्। रा॒ज्या᳡य। त्वाम्। इ॒माः। प्र॒ऽदिशः॑। पञ्च॑। दे॒वीः। वर्ष्म॑न्। रा॒ष्ट्रस्य॑। क॒कुदि॑। श्र॒य॒स्व॒। ततः॑। नः॒। उ॒ग्रः। वि। भ॒ज॒। वसू॑नि। ४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,14 +182,17 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अच्छ॑ त्वा यन्तु ह॒विनः॑ सजा॒ता अ॒ग्निर्दू॒तो अ॑जि॒रः सं च॑रातै ।  
-जा॒याः पु॒त्राः सु॒मन॑सो भवन्तु ब॒हुं ब॒लिं प्रति॑ पश्यासा उ॒ग्रः ॥३॥  
+अच्छ॑ त्वा यन्तु ह॒विनः॑ सजा॒ता अ॒ग्निर्दू॒तो अ॑जि॒रः सं च॑रातै।  
+जा॒याः पु॒त्राः सु॒मन॑सो भवन्तु ब॒हुं ब॒लिं प्रति॑ पश्यासा उ॒ग्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अच्छ॑ त्वा यन्तु ह॒विनः॑ सजा॒ता अ॒ग्निर्दू॒तो अ॑जि॒रः सं च॑रातै। जा॒याः पु॒त्राः सु॒मन॑सो भवन्तु ब॒हुं ब॒लिं प्रति॑ पश्यासा उ॒ग्रः ॥
+अच्छ॑ त्वा यन्तु ह॒विनः॑ सजा॒ता अ॒ग्निर्दू॒तो अ॑जि॒रः सं च॑रातै।  
+जा॒याः पु॒त्राः सु॒मन॑सो भवन्तु ब॒हुं ब॒लिं प्रति॑ पश्यासा उ॒ग्रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
@@ -206,7 +215,7 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 </details>
 <details><summary>पदपाठः</summary>
 
-अच्छ। त्वा। यन्तु। हविनः। सऽजाताः। अग्निः। दूतः। अजिरः। सम्। चरातै। जायाः। पुत्राः। सुऽमनसः। भवन्तु। बहुम्। बलिम्। प्रति। पश्यासै। उग्रः। ४.३।
+अच्छ॑। त्वा॒। य॒न्तु॒। ह॒विनः॑। स॒ऽजा॒ताः। अ॒ग्निः। दू॒तः। अ॒जि॒रः। सम्। च॒रा॒तै॒। जा॒याः। पु॒त्राः। सु॒ऽमन॑सः। भ॒व॒न्तु॒। ब॒हुम्। ब॒लिम्। प्रति॑। प॒श्या॒सै॒। उ॒ग्रः। ४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -237,14 +246,17 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्विना॒ त्वाग्रे॑ मि॒त्रावरु॑णो॒भा विश्वे॑ दे॒वा म॒रुत॑स्त्वा ह्वयन्तु ।  
-अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥४॥  
+अ॒श्विना॒ त्वाग्रे॑ मि॒त्रावरु॑णो॒भा विश्वे दे॒वा म॒रुत॒स्त्वा ह्व॑यन्तु।  
+अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒श्विना॒ त्वाग्रे॑ मि॒त्रावरु॑णो॒भा विश्वे दे॒वा म॒रुत॒स्त्वा ह्व॑यन्तु। अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
+अ॒श्विना॒ त्वाग्रे॑ मि॒त्रावरु॑णो॒भा विश्वे दे॒वा म॒रुत॒स्त्वा ह्व॑यन्तु।  
+अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
@@ -270,7 +282,7 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्विना। त्वा। अग्रे। मित्रावरुणा। उभा। विश्वे। देवाः। मरुतः। त्वा। ह्वयन्तु। अध। मनः। वसुऽदेयाय। कृणुष्व। ततः। नः। उग्रः। वि। भज। वसूनि। ४.४।
+अ॒श्विना॑। त्वा॒। अग्रे॑। मि॒त्रावरु॑णा। उ॒भा। विश्वे॑। दे॒वाः। म॒रुतः॑। त्वा॒। ह्व॒य॒न्तु॒। अध॑। मनः॑। व॒सु॒ऽदेया॑य। कृ॒णु॒ष्व॒। ततः॑। नः॒। उ॒ग्रः। वि। भ॒ज॒। वसू॑नि। ४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -302,13 +314,16 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ प्र द्र॑व पर॒मस्याः॑ परा॒वतः॑ शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्।  
-तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त् स उपे॒दमेहि॑ ॥५॥  
+तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त्स उ॑पे॒दमेहि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ प्र द्र॑व पर॒मस्याः॑ परा॒वतः॑ शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्। तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त्स उ॑पे॒दमेहि॑ ॥
+आ प्र द्र॑व पर॒मस्याः॑ परा॒वतः॑ शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्।  
+तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त्स उ॑पे॒दमेहि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
@@ -337,7 +352,7 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। प्र। द्रव। परमस्याः। पराऽवतः। शिवे इति। ते। द्यावापृथिवी इति। उभे इति। स्ताम्। तत्। अयम्। राजा। वरुणः। तथा। आह। सः। त्वा। अयम्। अह्वत्। सः। उप। इदम्। आ। इहि। ४.५।
+आ। प्र। द्र॒व॒। प॒र॒मस्याः॑। प॒रा॒ऽवतः॑। शि॒वे इति॑। ते॒। द्यावा॑पृथि॒वी इति॑। उ॒भे इति॑। स्ता॒म्। तत्। अ॒यम्। राजा॑। वरु॑णः। तथा॑। आ॒ह॒। सः। त्वा॒। अ॒यम्। अ॒ह्व॒त्। सः। उप॑। इ॒दम्। आ। इ॒हि॒। ४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -364,22 +379,25 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 </details>
 </details>
 </div>
-## ०६ इन्द्रेन्द्र मनुष्याः३
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
+## ०६ इन्द्रेन्द्र मनुष्याः
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॑न्द्र मनु॒ष्याः॒३ परे॑हि॒ सं ह्यज्ञा॑स्था॒ वरु॑णैः संविदा॒नः ।  
-स त्वा॒यम॑ह्व॒त् स्वे स॒धस्थे॒ स दे॒वान् य॑क्ष॒त् स उ॑ कल्पया॒द् विशः॑ ॥६॥  
+इन्द्रे॑न्द्र मनु॒ष्याः३॒॑ परे॑हि॒ सं ह्यज्ञा॑स्था॒ वरु॑णैः संविदा॒नः।  
+स त्वा॒यम॑ह्व॒त्स्वे स॒धस्थे॒ स दे॒वान्य॑क्ष॒त्स उ॑ कल्पया॒द्विशः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रे॑न्द्र मनु॒ष्याः३॒॑ परे॑हि॒ सं ह्यज्ञा॑स्था॒ वरु॑णैः संविदा॒नः। स त्वा॒यम॑ह्व॒त्स्वे स॒धस्थे॒ स दे॒वान्य॑क्ष॒त्स उ॑ कल्पया॒द्विशः॑ ॥
+इन्द्रे॑न्द्र मनु॒ष्याः३॒॑ परे॑हि॒ सं ह्यज्ञा॑स्था॒ वरु॑णैः संविदा॒नः।  
+स त्वा॒यम॑ह्व॒त्स्वे स॒धस्थे॒ स दे॒वान्य॑क्ष॒त्स उ॑ कल्पया॒द्विशः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH3.md">
-<details open><summary><h3>०६ इन्द्रेन्द्र मनुष्याः३ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
+<details open><summary><h3>०६ इन्द्रेन्द्र मनुष्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -417,7 +435,7 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रऽइन्द्र। मनुष्याः᳡। परा। इहि। सम्। हि। अज्ञास्थाः। वरुणैः। सम्ऽविदानः। सः। त्वा। अयम्। अह्वत्। स्वे। सधऽस्थे। सः। देवान्। यक्षत्। सः। ऊं इति। कल्पयात्। विशः। ४.६।
+इन्द्र॑ऽइन्द्र। म॒नु॒ष्याः᳡। परा॑। इ॒हि॒। सम्। हि। अज्ञा॑स्थाः। वरु॑णैः। स॒म्ऽवि॒दा॒नः। सः। त्वा॒। अ॒यम्। अ॒ह्व॒त्। स्वे। स॒धऽस्थे॑। सः। दे॒वान्। य॒क्ष॒त्। सः। ऊं॒ इति॑। क॒ल्प॒या॒त्। विशः॑। ४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -448,14 +466,17 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒थ्याऽ रे॒वती॑र्बहु॒धा विरू॑पाः॒ सर्वाः॑ सं॒गत्य॒ वरी॑यस्ते अक्रन्।  
-तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह॥७॥
+प॒थ्या॑ रे॒वती॑र्बहु॒धा विरू॑पाः॒ सर्वाः॑ सं॒गत्य॒ वरी॑यस्ते अक्रन्।  
+तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒थ्या॑ रे॒वती॑र्बहु॒धा विरू॑पाः॒ सर्वाः॑ सं॒गत्य॒ वरी॑यस्ते अक्रन्। तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह ॥
+प॒थ्या॑ रे॒वती॑र्बहु॒धा विरू॑पाः॒ सर्वाः॑ सं॒गत्य॒ वरी॑यस्ते अक्रन्।  
+तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
@@ -486,7 +507,7 @@ The Bounteous Paths in sundry forms and places, all in accord, have given thee r
 </details>
 <details><summary>पदपाठः</summary>
 
-पथ्याः᳡। रेवतीः। बहुऽधा। विऽरूपाः। सर्वाः। सम्ऽगत्य। वरीयः। ते। अक्रन्। ताः। त्वा। सर्वाः। सम्ऽविदानाः। ह्वयन्तु। दशमीम्। उग्रः। सुऽमनाः। वश। इह। ४.७।
+प॒थ्याः᳡। रे॒वतीः॑। ब॒हु॒ऽधा। विऽरू॑पाः। सर्वाः॑। स॒म्ऽगत्य॑। वरी॑यः। ते॒। अ॒क्र॒न्। ताः। त्वा॒। सर्वाः॑। स॒म्ऽवि॒दा॒नाः। ह्व॒य॒न्तु॒। द॒श॒मीम्। उ॒ग्रः। सु॒ऽमनाः॑। व॒श॒। इ॒ह। ४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

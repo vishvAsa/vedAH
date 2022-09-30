@@ -32,14 +32,17 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प॒क्राम॒न् पौरु॑षेयाद् वृणा॒नो दैव्यं॒ वचः॑ ।  
-प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह॥१॥
+अ॑प॒क्राम॒न्पौरु॑षेयाद्वृणा॒नो दैव्यं॒ वचः॑।  
+प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑प॒क्राम॒न्पौरु॑षेयाद्वृणा॒नो दैव्यं॒ वचः॑। प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह ॥
+अ॑प॒क्राम॒न्पौरु॑षेयाद्वृणा॒नो दैव्यं॒ वचः॑।  
+प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
@@ -62,7 +65,7 @@ Leaving humanity behind, making the heavenly word thy choice, With all thy frien
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽक्रामन्। पौरुषेयात्। वृणानः। दैव्यम्। वचः। प्रऽनीतीः। अभिऽआवर्तस्व। विश्वेभ‍िः। सखिऽभिः। सह। ११०.१।
+अ॒प॒ऽक्राम॑न्। पौरु॑षेयात्। वृ॒णा॒नः। दैव्य॑म्। वचः॑। प्रऽनी॑तीः। अ॒भि॒ऽआव॑र्तस्व। विश्वे॑भ‍िः। सखि॑ऽभिः। स॒ह। ११०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,15 +36,17 @@ A benediction on a newly elected king
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑ ।  
-ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥१॥
+भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑।  
+ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑ ।  
-ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥१॥
+भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑।  
+ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
@@ -72,7 +74,7 @@ Desiring bliss, at first, light-finding Rishis began religious rite and holy fer
 </details>
 <details><summary>पदपाठः</summary>
 
-भद्रम्। इच्छन्तः। ऋषयः। स्वःऽविदः। तपः। दीक्षाम्। उपऽनिसेदुः। अग्रे। ततः। राष्ट्रम्। बलम्। ओजः। च। जातम्। तत्। अस्मै। देवाः। उपऽसंनमन्तु। ४१.१।
+भ॒द्रम्। इ॒च्छन्तः॑। ऋष॑यः। स्वः॒ऽविदः॑। तपः॑। दी॒क्षाम्। उ॒प॒ऽनिसेदुः॑। अग्रे॑। ततः॑। रा॒ष्ट्र॒म्। बल॑म्। ओजः॑। च॒। जा॒तम्। तत्। अ॒स्मै॒। दे॒वाः। उ॒प॒ऽसंन॑मन्तु। ४१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

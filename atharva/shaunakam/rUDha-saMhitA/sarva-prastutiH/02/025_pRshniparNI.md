@@ -36,14 +36,17 @@ A charm against fiends who cause abortion
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः ।  
-उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम्॥१॥  
+शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः।  
+उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/01_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः। उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम् ॥
+शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः।  
+उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/01_shaM_no.md">
@@ -83,7 +86,7 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। देवी। पृश्निऽपर्णी। अशम्। निःऽऋत्यै। अकः। उग्रा। हि। कण्वऽजम्भनी। ताम्। अभक्षि। सहस्वतीम्। २५.१।
+शम्। नः॒। दे॒वी। पृ॒श्नि॒ऽप॒र्णी। अश॑म्। निःऽऋ॑त्यै। अ॒कः॒। उ॒ग्रा। हि। क॒ण्व॒ऽजम्भ॑नी। ताम्। अ॒भ॒क्षि॒। सह॑स्वतीम्। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -114,14 +117,17 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्यऽजायत ।  
-तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥२॥  
+सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्य॑जायत।  
+तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्य॑जायत। तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥
+सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्य॑जायत।  
+तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
@@ -150,7 +156,7 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 </details>
 <details><summary>पदपाठः</summary>
 
-सहमाना। इयम्। प्रथमा। पृश्निऽपर्णी। अजायत। तया। अहम्। दुःऽनाम्नाम्। शिरः। वृश्चामि। शकुनेःऽइव। २५.२।
+सह॑माना। इ॒यम्। प्र॒थ॒मा। पृ॒श्नि॒ऽप॒र्णी। अ॒जा॒य॒त॒। तया॑। अ॒हम्। दुः॒ऽनाम्ना॑म्। शिरः॑। वृ॒श्चा॒मि॒। श॒कुनेः॑ऽइव। २५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -181,14 +187,17 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति ।  
-ग॒र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥३॥  
+अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति।  
+ग॑र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति। ग॑र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥
+अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति।  
+ग॑र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
@@ -211,7 +220,7 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 </details>
 <details><summary>पदपाठः</summary>
 
-अरायम्। असृक्ऽपावानम्। यः। च। स्फातिम्। जिहीर्षति। गर्भऽअदम्। कण्वम्। नाशय‍। पृश्निऽपर्णि। सहस्व। च। २५.३।
+अ॒राय॑म्। अ॒सृ॒क्ऽपावा॑नम्। यः। च॒। स्फा॒तिम्। जिही॑र्षति। ग॒र्भ॒ऽअ॒दम्। कण्व॑म्। ना॒श॒य‍॒। पृश्नि॑ऽपर्णि। सह॑स्व। च॒। २५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -242,14 +251,17 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑न् जीवित॒योप॑नान्।  
-तांस्त्वं दे॑वि पृश्निपर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥४॥  
+गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
+तांस्त्वं दे॑वि॒ पृश्नि॑पर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑ञ्जीवित॒योप॑नान्। तांस्त्वं दे॑वि॒ पृश्नि॑पर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥
+गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
+तांस्त्वं दे॑वि॒ पृश्नि॑पर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/04_girimenA.N_A.md">
@@ -274,7 +286,7 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 </details>
 <details><summary>पदपाठः</summary>
 
-गिरिम्। एनान्। आ। वेशय। कण्वान्। जीवितऽयोपनान्। तान्। त्वम्। देव‍ि। पृश्निऽपर्णि। अग्निःऽइव। अनुऽदहन्। इहि। २५.४।
+गि॒रिम्। ए॒ना॒न्। आ। वे॒श॒य॒। कण्वा॑न्। जी॒वि॒त॒ऽयोप॑नान्। तान्। त्वम्। दे॒व‍ि॒। पृ॒श्नि॒ऽप॒र्णि॒। अ॒ग्निःऽइ॑व। अ॒नु॒ऽदह॑न्। इ॒हि॒। २५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -305,14 +317,17 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परा॑च एना॒न् प्र णु॑द॒ कण्वा॑न् जीवित॒योप॑नान्।  
-तमां॑सि॒ यत्र॒ गच्छ॑न्ति॒ तत् क्र॒व्यादो॑ अजीगमम्॥५॥
+परा॑च एना॒न्प्र णु॑द॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
+तमां॑सि॒ यत्र॒ गछ॑न्ति॒ तत्क्र॒व्यादो॑ अजीगमम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परा॑च एना॒न्प्र णु॑द॒ कण्वा॑ञ्जीवित॒योप॑नान्। तमां॑सि॒ यत्र॒ गछ॑न्ति॒ तत्क्र॒व्यादो॑ अजीगमम् ॥
+परा॑च एना॒न्प्र णु॑द॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
+तमां॑सि॒ यत्र॒ गछ॑न्ति॒ तत्क्र॒व्यादो॑ अजीगमम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
@@ -331,7 +346,7 @@ Drive and imprison in a hill these Kanvas harassers of life: Follow them Prisnip
 </details>
 <details><summary>पदपाठः</summary>
 
-पराचः। एनान्। प्र। नुद। कण्वान्। जीवितऽयोपनान्। तमांसि। यत्र। गच्छन्ति। तत्। क्रव्यऽअदः। अजीगमम्। २५.५।
+परा॑चः। ए॒ना॒न्। प्र। नु॒द॒। कण्वा॑न्। जी॒वि॒त॒ऽयोप॑नान्। तमां॑सि। यत्र॑। गच्छ॑न्ति। तत्। क्र॒व्य॒ऽअदः॑। अ॒जी॒ग॒म॒म्। २५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

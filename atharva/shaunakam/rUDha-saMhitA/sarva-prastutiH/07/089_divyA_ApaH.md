@@ -36,14 +36,17 @@ A prayer for purification and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/01_apo_divyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि ।  
-पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥१॥  
+अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
+पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/01_apo_divyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि। पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+अ॒पो दि॒व्या अ॑चायिषं॒ रसे॑न॒ सम॑पृक्ष्महि।  
+पय॑स्वानग्न॒ आग॑मं॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/01_apo_divyA.md">
@@ -73,7 +76,7 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 </details>
 <details><summary>पदपाठः</summary>
 
-अपः। दिव्याः। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ९४.१।
+अ॒पः। दि॒व्याः। अ॒चा॒यि॒ष॒म्। रसे॑न। सम्। अ॒पृ॒क्ष्म॒हि॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। ९४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/02_saM_mAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा ।  
-वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात् सह ऋषि॑भिः ॥२॥  
+सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
+वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/02_saM_mAgne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा। वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा।  
+वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/02_saM_mAgne.md">
@@ -138,7 +144,7 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। मा। अग्ने। वर्चसा। सृज। सम्। प्रऽजया। सम्। आयुषा। विद्युः। मे। अस्य। देवाः। इन्द्रः। विद्यात्। सह। ऋषिऽभिः। ९४.२।
+सम्। मा॒। अ॒ग्ने॒। वर्च॑सा। सृ॒ज॒। सम्। प्र॒ऽजया॑। सम्। आयु॑षा। वि॒द्युः। मे॒। अ॒स्य। दे॒वाः। इन्द्रः॑। वि॒द्या॒त्। स॒ह। ऋषि॑ऽभिः। ९४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,13 +176,16 @@ Endow me with the gift of strength, with children, and a length- ened life. May 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्।  
-यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम्॥३॥  
+यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/03_idamApaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्। यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम् ॥
+इ॒दमा॑पः॒ प्र व॑हताव॒द्यं च॒ मलं॑ च॒ यत्।  
+यच्चा॑भिदु॒द्रोहानृ॑तं॒ यच्च॑ शे॒पे अ॒भीरु॑णम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/03_idamApaH_pra.md">
@@ -208,7 +217,7 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। आपः। प्र। वहत। अवद्यम्। च। मलम्। च। यत्। यत्। च। अभिऽदुद्रोह। अनृतम्। यत्। च। शेपे। अभीरुणम्। ९४.३।
+इ॒दम्। आ॒पः॒। प्र। व॒ह॒त॒। अ॒व॒द्यम्। च॒। मल॑म्। च॒। यत्। यत्। च॒। अ॒भि॒ऽदु॒द्रोह॑। अनृ॑तम्। यत्। च॒। शे॒पे। अ॒भीरु॑णम्। ९४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -239,14 +248,17 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय ।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥४॥
+एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय।  
+तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय। तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥
+एधो॑ऽस्येधिषी॒य स॒मिद॑सि॒ समे॑धिषीय।  
+तेजो॑ऽसि॒ तेजो॒ मयि॑ धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/089_divyA_ApaH/04_edho-syedhiShIya_samidasi.md">
@@ -277,7 +289,7 @@ Thou art the wood, may I succeed! fuel, may I be glorified! splendour, give sple
 </details>
 <details><summary>पदपाठः</summary>
 
-एधः। असि। एधिषीय। सम्ऽइत्। असि। सम्। एधिषीय। तेजः। असि। तेजः। मयि। धेहि। ९४.४।
+एधः॑। अ॒सि॒। ए॒धि॒षी॒य। स॒म्ऽइत्। अ॒सि॒। सम्। ए॒धि॒षी॒य॒। तेजः॑। अ॒सि॒। तेजः॑। मयि॑। धे॒हि॒। ९४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

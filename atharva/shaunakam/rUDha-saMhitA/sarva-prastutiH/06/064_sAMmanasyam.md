@@ -37,13 +37,16 @@ To promote unanimity in an assembly
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्।  
-दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥१॥  
+दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्। दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
+सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्।  
+दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
@@ -67,7 +70,7 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। जानीध्वम्। सम्। पृच्यध्वम्। सम्। वः। मनांसि। जानताम्। देवाः। भागम्। यथा। पूर्वे। सम्ऽजानानाः। उपऽआसते। ६४.१।
+सम्। जा॒नी॒ध्व॒म्। सम्। पृ॒च्य॒ध्व॒म्। सम्। वः॒। मनां॑सि। जा॒न॒ता॒म्। दे॒वाः। भा॒गम्। यथा॑। पूर्वे॑। स॒म्ऽजा॒ना॒नाः। उ॒प॒ऽआस॑ते। ६४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्।  
-स॒मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम्॥२॥  
+स॑मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्।  
+स॑मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्। स॑मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम् ॥
+स॑मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्।  
+स॑मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/02_samAno_mantraH.md">
@@ -134,7 +140,7 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 </details>
 <details><summary>पदपाठः</summary>
 
-समानः। मन्त्रः। सम्ऽइतिः। समानी। समानम्। व्रतम्। सह। चित्तम्। एषाम्। समानेन। वः। हविषा। जुहोमि। समानम्। चेतः। अभिऽसंविशध्वम्। ६४.२।
+स॒मा॒नः। मन्त्रः॑। सम्ऽइ॑तिः। स॒मा॒नी। स॒मा॒नम्। व्र॒तम्। स॒ह। चि॒त्तम्। ए॒षा॒म्। स॒मा॒नेन॑। वः॒। ह॒विषा॑। जु॒हो॒मि॒। स॒मा॒नम्। चे॑तः। अ॒भि॒ऽसंवि॑शध्वम्। ६४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः ।  
-स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥३॥
+स॑मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः।  
+स॑मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/03_samAnI_va.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः। स॑मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥
+स॑मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः।  
+स॑मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/03_samAnI_va.md">
@@ -195,7 +204,7 @@ One and the same be your resolve, be all your hearts in har- mony: One and the s
 </details>
 <details><summary>पदपाठः</summary>
 
-समानी। वः। आऽकूतिः। समाना। हृदयानि। वः। समानम्। अस्तु। वः। मनः। यथा। वः। सुऽसह। असति। ६४.३।
+स॒मा॒नी। वः॒। आऽकू॑तिः। स॒मा॒ना। हृद॑यानि। वः॒। स॒मा॒नम्। अ॒स्तु॒। वः। मनः॑। यथा॑। वः॒। सुऽस॑ह। अस॑ति। ६४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

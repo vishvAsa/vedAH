@@ -36,14 +36,17 @@ A prayer to Agni and Indra for the well being of a princely patron
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदे॑नमुत्त॒रं न॒याग्ने॑ घृ॒तेना॑हुत ।  
-समे॑नं॒ वर्च॑सा सृज प्र॒जया॑ च ब॒हुं कृ॑धि ॥१॥  
+उदे॑नमुत्त॒रं न॒याग्ने॑ घृ॒तेना॑हुत।  
+समे॑नं॒ वर्च॑सा सृज प्र॒जया॑ च ब॒हुं कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदे॑नमुत्त॒रं न॒याग्ने॑ घृ॒तेना॑हुत। समे॑नं॒ वर्च॑सा सृज प्र॒जया॑ च ब॒हुं कृ॑धि ॥
+उदे॑नमुत्त॒रं न॒याग्ने॑ घृ॒तेना॑हुत।  
+समे॑नं॒ वर्च॑सा सृज प्र॒जया॑ च ब॒हुं कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
@@ -71,7 +74,7 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। एनम्। उत्ऽतरम्। नय। अग्ने। घृतेन। आऽहुत। सम्। एनम्। वर्चसा। सृज। प्रऽजया। च। बहुम्। कृधि। ५.१।
+उत्। ए॒न॒म्। उ॒त्ऽत॒रम्। न॒य॒। अग्ने॑। घृ॒तेन॑। आ॒ऽहु॒त॒। सम्। ए॒न॒म्। वर्च॑सा। सृ॒ज॒। प्र॒ऽजया॑। च॒। ब॒हुम्। कृ॒धि॒। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद् व॒शी।  
-रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥२॥  
+इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद्व॒शी।  
+रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद्व॒शी। रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥
+इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद्व॒शी।  
+रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
@@ -136,7 +142,7 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। इमम्‌। प्रऽतरम्। कृधि। सऽजातानाम्। असत्। वशी। रायः। पोषेण। सम्। सृज। जीवातवे। जरसे। नय। ५.२।
+इन्द्र॑। इ॒मम्‌। प्र॒ऽत॒रम्। कृ॒धि॒। स॒ऽजा॒ताना॑म्। अ॒स॒त्। व॒शी। रायः। पोषे॑ण। सम्। सृ॒ज॒। जीवात॑वे। जरसे॑। नय। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,13 +174,16 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम्।  
-तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥३॥
+तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम्। तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम्।  
+तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
@@ -197,7 +206,7 @@ Prosper this man, O Agni, in whose house we offer sacrifice. May Soma bless him,
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। कृण्मः। हविः। गृहे। तम्। अग्ने। वर्धय। त्वम्। तस्मै। सोमः। अधि। ब्रवत्। अयम्। च। ब्रह्मणः। पतिः। ५.३।
+यस्य॑। कृ॒ण्मः। ह॒विः। गृ॒हे। तम्। अ॒ग्ने॒। व॒र्ध॒य॒। त्वम्। तस्मै॑। सोमः॑। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पतिः॑। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

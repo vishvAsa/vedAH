@@ -33,13 +33,16 @@ A prayer for help and protection
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ भू॒ताव॒चाक॑शत्।  
-शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥१॥  
+शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/080_ariShTaxayaNam/01_antarixeNa_patati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ भू॒ताव॒चाक॑शत्। शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ भू॒ताव॒चाक॑शत्।  
+शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/080_ariShTaxayaNam/01_antarixeNa_patati.md">
@@ -64,7 +67,7 @@ He flieth in the firmament observing all the things that be: We with this offeri
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षेण। पतति। विश्वा। भूता। अवऽचाकशत्। शुनः। दिव्यस्य। यत्। महः। तेन। ते। हविषा। विधेम। ८०.१।
+अ॒न्तरि॑क्षेण। प॒त॒ति॒। विश्वा॑। भू॒ता। अ॒व॒ऽचाक॑शत्। शुनः॑। दि॒व्यस्य॑। यत्। महः॑। तेन॑। ते॒। ह॒विषा॑। वि॒धे॒म॒। ८०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ He flieth in the firmament observing all the things that be: We with this offeri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/080_ariShTaxayaNam/02_ye_trayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः ।  
-तान्त्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये ॥२॥  
+ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः।  
+तान्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/080_ariShTaxayaNam/02_ye_trayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः। तान्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
+ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः।  
+तान्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/080_ariShTaxayaNam/02_ye_trayaH.md">
@@ -130,7 +136,7 @@ The three, the Kalakanjas, set aloft in heaven as they were Gods All these I cal
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। त्रयः। कालकाञ्जाः। दिवि। देवाःऽइव। श्रिताः। तान्। सर्वान्। अह्वे। ऊतये। अस्मै। अरिष्टऽतातये। ८०.२।
+ये। त्रयः॑। का॒ल॒का॒ञ्जाः। दि॒वि। दे॒वाःऽइ॑व। श्रि॒ताः। तान्। सर्वा॑न्। अ॒ह्वे॒। ऊ॒तये॑। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ८०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,13 +168,16 @@ The three, the Kalakanjas, set aloft in heaven as they were Gods All these I cal
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्।  
-शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥३॥
+शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/080_ariShTaxayaNam/03_apsu_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्। शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्।  
+शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/080_ariShTaxayaNam/03_apsu_te.md">
@@ -190,7 +199,7 @@ In waters is thy birth, in heaven thy station, thy majesty on earth and in the o
 </details>
 <details><summary>पदपाठः</summary>
 
-अप्ऽसु। ते। जन्म। दिवि। ते। सधऽस्थम्। समुद्रे। अन्तः। महिमा। ते। पृथिव्याम्। शुनः। दिव्यस्य। यत्। महः। तेन। ते। हविषा। विधेम। ८०.३।
+अ॒प्ऽसु। ते॒। जन्म॑। दि॒वि। ते॒। स॒धऽस्थ॑म्। स॒मु॒द्रे। अ॒न्तः। म॒हि॒मा। ते॒। पृ॒थि॒व्याम्। शुनः॑। दि॒व्यस्य॑। यत्। महः॑। तेन॑। ते॒। ह॒विषा॑। वि॒धे॒म॒। ८०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

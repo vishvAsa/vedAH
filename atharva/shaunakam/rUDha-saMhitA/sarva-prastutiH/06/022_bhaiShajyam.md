@@ -36,14 +36,17 @@ To the Maruts or Storm-Gods
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत् प॑तन्ति ।  
-त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद् घृ॒तेन॑ पृथि॒वीं व्यूऽदुः ॥१॥  
+कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
+त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति। त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
+कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
+त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
@@ -71,7 +74,7 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 </details>
 <details><summary>पदपाठः</summary>
 
-कृष्णम्। निऽयानम्। हरयः। सुऽपर्णाः। अपः। वसानाः। दिवम्। उत्। पतन्ति। ते। आ। अववृत्रन्। सदनात्। ऋतस्य। आत्। इत्। घृतेन। पृथिवीम्। वि। ऊदुः। २२.१।
+कृ॒ष्णम्। नि॒ऽयान॑म्। हर॑यः। सु॒ऽप॒र्णाः। अ॒पः। वसा॑नाः। दिव॑म्। उत्। प॒त॒न्ति॒। ते। आ। अ॒व॒वृ॒त्र॒न्। सद॑नात्। ऋ॒तस्य॑। आत्। इत्। घृ॒तेन॑। पृ॒थि॒वीम्। वि। ऊ॒दुः॒। २२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः ।  
-ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥२॥  
+पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः।  
+ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः। ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
+पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः।  
+ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
@@ -134,7 +140,7 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 </details>
 <details><summary>पदपाठः</summary>
 
-पयस्वतीः। कृणुथ। अपः। ओषधीः। शिवाः। यत्। एजथ। मरुतः। रुक्मऽवक्षसः। ऊर्जम्। च। तत्र। सुऽमतिम्। च। पिन्वत। यत्र। नरः। मरुतः। सिञ्चथ। मधु। २२.२।
+पय॑स्वतीः। कृ॒णु॒थ॒। अ॒पः। ओष॑धीः। शि॒वाः। यत्। एज॑थ। म॒रु॒तः॒। रु॒क्म॒ऽव॒क्ष॒सः॒। ऊर्ज॑म्। च॒। तत्र॑। सु॒ऽम॒तिम्। च॒। पि॒न्व॒त॒। यत्र॑। न॒रः॒। म॒रु॒तः॒। सि॒ञ्चथ॑। मधु॑। २२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒द॒प्रुतो॑ म॒रुत॒स्तां इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑ ।  
-एजा॑ति॒ ग्लहा॑ क॒न्येऽव तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या॥३॥
+उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑।  
+एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑। एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
+उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑।  
+एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
@@ -225,7 +234,7 @@ O Maruts, send ye down, streaming with water rain which, may, filling all the sl
 </details>
 <details><summary>पदपाठः</summary>
 
-उदऽप्रुतः। मरुतः। तान्। इयर्त। वृष्टिः। या। विश्वाः। निऽवतः। पृणाति। एजाति। ग्लहा। कन्या᳡ऽइव। तुन्ना। एरुम्। तुन्दाना। पत्याऽइव। जाया। २२.३।
+उ॒द॒ऽप्रुतः॑। म॒रुतः॑। तान्। इ॒य॒र्त॒। वृ॒ष्टिः। या। विश्वाः॑। नि॒ऽवतः॑। पृ॒णाति॑। एजा॑ति। ग्लहा॑। क॒न्या᳡ऽइव। तु॒न्ना। एरु॑म्। तु॒न्दा॒ना। पत्या॑ऽइव। जा॒या। २२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

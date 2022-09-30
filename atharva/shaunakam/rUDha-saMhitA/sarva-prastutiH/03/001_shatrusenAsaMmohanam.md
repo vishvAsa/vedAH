@@ -36,14 +36,17 @@ A prayer or charm for the defeat and destruction of enemies in battle
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्नः॒ शत्रू॒न् प्रत्ये॑तु वि॒द्वान् प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
-स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥१॥  
+अ॒ग्निर्नः॒ शत्रू॒न्प्रत्ये॑तु वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
+स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निर्नः॒ शत्रू॒न्प्रत्ये॑तु वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्। स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+अ॒ग्निर्नः॒ शत्रू॒न्प्रत्ये॑तु वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
+स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
@@ -68,7 +71,7 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। नः। शत्रून्। प्रति। एतु। विद्वान्। प्रतिऽदहन्। अभिऽशस्तिम्। अरातिम्। सः। सेनाम्। मोहयतु। परेषाम्। निःऽहस्तान्। च। कृणवत्। जातऽवेदाः। १.१।
+अ॒ग्निः। नः॒। शत्रू॑न्। प्रति॑। ए॒तु॒। वि॒द्वान्। प्र॒ति॒ऽदह॑न्। अ॒भिऽश॑स्तिम्। अरा॑तिम्। सः। सेना॑म्। मो॒ह॒य॒तु॒। परे॑षाम्। निःऽह॑स्तान्। च॒। कृ॒ण॒व॒त्। जा॒तऽवे॑दाः। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,13 +103,16 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्।  
-अमी॑मृण॒न् वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्येऽषां दू॒तः प्र॒त्येतु॑ वि॒द्वान्॥२॥  
+अमी॑मृण॒न्वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्ये॑षां दू॒तः प्र॒त्येतु॑ वि॒द्वान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्। अमी॑मृण॒न्वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्ये॑षां दू॒तः प्र॒त्येतु॑ वि॒द्वान् ॥
+यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्।  
+अमी॑मृण॒न्वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्ये॑षां दू॒तः प्र॒त्येतु॑ वि॒द्वान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
@@ -147,7 +153,7 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 </details>
 <details><summary>पदपाठः</summary>
 
-यूयम्। उग्राः। मरुतः। ईदृशे। स्थ। अभि। प्र। इत। मृणत। सहध्वम्। अमीमृणन्। वसवः। नाथिताः। इमे। अग्निः। हि। एषाम्। दूतः। प्रतिऽएतु। विद्वान्। १.२।
+यू॒यम्। उ॒ग्राः। म॒रु॒तः॒। ई॒दृशे॑। स्थ॒। अ॒भि। प्र। इ॒त॒। मृ॒णत॑। सह॑ध्वम्। अमी॑मृणन्। वस॑वः। ना॒थि॒ताः। इ॒मे। अ॒ग्निः। हि। ए॒षा॒म्। दू॒तः। प्र॒ति॒ऽएतु॑। वि॒द्वान्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -178,14 +184,17 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मि॒त्र॒से॒नां॑ मघवन्न॒स्मान् छ॑त्रूय॒तीम॒भि।  
-यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥३॥  
+अ॑मित्रसे॒नां म॑घवन्न॒स्मान्छ॑त्रूय॒तीम॒भि।  
+यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑मित्रसे॒नां म॑घवन्न॒स्मान्छ॑त्रूय॒तीम॒भि। यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥
+अ॑मित्रसे॒नां म॑घवन्न॒स्मान्छ॑त्रूय॒तीम॒भि।  
+यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
@@ -211,7 +220,7 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 </details>
 <details><summary>पदपाठः</summary>
 
-अमित्रऽसेनाम्। मघऽवन्। अस्मान्। शत्रुऽयतीम्। अभि। युवम्। ताम्। इन्द्र। वृत्रऽहन्। अग्निः। च। दहतम्। प्रति। १.३।
+अ॒मि॒त्र॒ऽसे॒नाम्। म॒घ॒ऽव॒न्। अ॒स्मान्। श॒त्रु॒ऽय॒तीम्। अ॒भि। यु॒वम्। ताम्। इ॒न्द्र॒। वृ॒त्र॒ऽह॒न्। अ॒ग्निः। च॒। द॒ह॒त॒म्। प्रति। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -243,13 +252,16 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्।  
-ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क् स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम्॥४॥  
+ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क्स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्। ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क्स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम् ॥
+प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्।  
+ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क्स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
@@ -283,7 +295,7 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रऽसूतः। इन्द्रः। प्रऽवता। हरिऽभ्याम्। प्र। ते। वज्रः। प्रऽमृणन्। एतु। शत्रून्। जहि। प्रतीचः। अनूचः। पराचः। विष्वक्। सत्यम्। कृणुहि। चित्तम्। एषाम्। १.४।
+प्रऽसू॑तः। इन्द्रः। प्र॒ऽवता॑। हरि॑ऽभ्याम्। प्र। ते॒। वज्रः॑। प्र॒ऽमृ॒णन्। ए॒तु॒। शत्रू॑न्। ज॒हि। प्र॒तीचः॑। अ॒नूचः॑। परा॑चः। विष्व॑क्। स॒त्यम्। कृ॒णु॒हि॒। चि॒त्तम्। ए॒षा॒म्। १.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -315,13 +327,16 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्।  
-अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान् विषू॑चो॒ वि ना॑शय ॥५॥  
+अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्। अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्।  
+अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
@@ -345,7 +360,7 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। सेनाम्। मोहय। अमित्राणाम्। अग्नेः। वातस्य। ध्राज्या। तान्। विषूचः। वि। नाशय। १.५।
+इन्द्र॑। सेना॑म्। मो॒ह॒य॒। अ॒मित्रा॑णाम्। अ॒ग्नेः। वात॑स्य। ध्राज्या॑। तान्। विषू॑चः। वि। ना॒श॒य॒। १.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -376,14 +391,17 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा ।  
-चक्षूं॑स्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥६॥
+इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा।  
+चक्षूं॑ष्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा। चक्षूं॑ष्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥
+इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा।  
+चक्षूं॑ष्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
@@ -405,7 +423,7 @@ Let Indra daze their army. Let the Maruts slay it with their might. Let Agni tak
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। सेनाम्। मोहयतु। मरुतः। घ्नन्तु। ओजसा। चक्षूंषि। अग्निः। आ। दत्ताम्। पुनः। एतु। पराऽजिता। १.६।
+इन्द्रः॑। सेना॑म्। मो॒ह॒य॒तु॒। म॒रुतः॑। घ्न॒न्तु॒। ओज॑सा। चक्षूं॑षि। अ॒ग्निः। आ। द॒त्ता॒म्। पुनः॑। ए॒तु॒। परा॑ऽजिता। १.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

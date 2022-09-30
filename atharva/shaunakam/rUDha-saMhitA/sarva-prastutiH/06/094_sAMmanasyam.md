@@ -32,14 +32,17 @@ Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि ।  
-अ॒मी ये विव्र॑ता॒ स्थन॒ तान् वः॒ सं न॑मयामसि ॥१॥  
+सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि।  
+अ॒मी ये विव्र॑ता॒ स्थन॒ तान्वः॒ सं न॑मयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/01_saM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि। अ॒मी ये विव्र॑ता॒ स्थन॒ तान्वः॒ सं न॑मयामसि ॥
+सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि।  
+अ॒मी ये विव्र॑ता॒ स्थन॒ तान्वः॒ सं न॑मयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/01_saM_vo.md">
@@ -60,7 +63,7 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। वः। मनांसि। सम्। व्रता। सम्। आऽकूतीः। नमामसि। अमी इति। ये। विऽव्रताः। स्थन। तान्। वः। सम्। नमयामसि। ९४.१।
+सम्। वः॒। मनां॑सि॒। सम्। व्र॒ता। सम्। आऽकू॑तीः। न॒मा॒म॒सि॒। अ॒मी इति॑। ये। विऽव्र॑ताः। स्थन॑। तान्। वः॒। सम्। न॒म॒या॒म॒सि॒। ९४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -91,14 +94,17 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑ ।  
-मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥२॥  
+अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑।  
+मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑। मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥
+अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑।  
+मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
@@ -121,7 +127,7 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। गृभ्णामि। मनसा। मनांसि। मम। चित्तम्। अनु। चित्तेभिः। आ। इत। मम। वशेषु। हृदयानि। वः। कृणोमि। मम। यातम्। अनुऽवर्त्मानः। आ। इत। ९४.२।
+अ॒हम्। गृ॒भ्णा॒मि॒। मन॑सा। मनां॑सि। मम॑। चि॒त्तम्। अनु॑। चि॒त्तेभिः॑। आ। इ॒त। मम॑। वशे॑षु। हृद॑यानि। वः॒। कृ॒णो॒मि॒। मम॑। या॒तम्। अनु॑ऽवर्त्मानः। आ। इ॒त॒। ९४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/03_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती ।  
-ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥३॥
+ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
+ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/03_ote_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती। ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥
+ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
+ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/03_ote_me.md">
@@ -181,7 +190,7 @@ I have invoked both Heaven and Earth, invoked divine Sarasvati, Indra and Agni h
 </details>
 <details><summary>पदपाठः</summary>
 
-ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्रः। च। अग्निः। च। ऋध्यास्म। इदम्। सरस्वति। ९४.३।
+ओते॒ इत्याऽउ॑ते। मे॒। द्यावा॑पृथि॒वी इति॑। आऽउ॑ता। दे॒वी। सर॑स्वती। आऽउ॑तौ। मे॒। इन्द्रः॑। च॒। अ॒ग्निः। च॒। ऋ॒ध्यास्म॑। इ॒दम्। स॒र॒स्व॒ति॒। ९४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

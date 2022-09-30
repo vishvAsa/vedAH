@@ -33,13 +33,16 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम्।  
-उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥१॥
+उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/118_varmadhAraNam/01_marmANi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम्। उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥
+मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम्।  
+उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/01_marmANi_te.md">
@@ -74,7 +77,7 @@ Thy vital parts I cover with thine armour: with immortality King Soma clothe the
 </details>
 <details><summary>पदपाठः</summary>
 
-मर्माणि। ते। वर्मणा। छादयामि। सोमः। त्वा। राजा। अमृतेन। अनु। वस्ताम्। उरोः। वरीयः। वरुणः। ते। कृणोतु। जयन्तम्। त्वा। अनु। देवाः। मदन्तु। १२३.१।
+मर्मा॑णि। ते॒। वर्म॑णा। छा॒द॒या॒मि॒। सोमः॑। त्वा॒। राजा॑। अ॒मृते॑न। अनु॑। व॒स्ता॒म्। उ॒रोः। वरी॑यः। वरु॑णः। ते॒। कृ॒णो॒तु॒। जय॑न्तम्। त्वा॒। अनु॑। दे॒वाः। म॒द॒न्तु॒। १२३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A priest's prayer to the Agnayo Dhishnyah
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/067_AtmA/01_punarmaitvindriyaM_punarAtmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुन॒र्मैत्वि॑न्द्रि॒यं पुन॑रा॒त्मा द्रवि॑णं॒ ब्राह्म॑णं च ।  
-पुन॑र॒ग्नयो॒ धिष्ण्या॑ यथास्था॒म क॑ल्पयन्तामि॒हैव॥१॥
+पुन॑र्मैत्विन्द्रि॒यं पुन॑रा॒त्मा द्रवि॑णं॒ ब्राह्म॑णं च।  
+पुन॑र॒ग्नयो॒ धिष्ण्या॑ यथास्था॒म क॑ल्पयन्तामि॒हैव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/067_AtmA/01_punarmaitvindriyaM_punarAtmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुन॑र्मैत्विन्द्रि॒यं पुन॑रा॒त्मा द्रवि॑णं॒ ब्राह्म॑णं च। पुन॑र॒ग्नयो॒ धिष्ण्या॑ यथास्था॒म क॑ल्पयन्तामि॒हैव ॥
+पुन॑र्मैत्विन्द्रि॒यं पुन॑रा॒त्मा द्रवि॑णं॒ ब्राह्म॑णं च।  
+पुन॑र॒ग्नयो॒ धिष्ण्या॑ यथास्था॒म क॑ल्पयन्तामि॒हैव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/067_AtmA/01_punarmaitvindriyaM_punarAtmA.md">
@@ -74,7 +77,7 @@ May sense return to me again, and spirit, return my Sacred Power and my possessi
 </details>
 <details><summary>पदपाठः</summary>
 
-पुनः। मा। आ। एतु। इन्द्रियम्। पुनः। आत्मा। द्रविणम्। ब्राह्मणम्। च। पुनः। अग्नयः। धिष्ण्याः। यथाऽस्थाम। कल्पयन्ताम्। इह। एव। ६९.१।
+पुनः॑। मा॒। आ। ए॒तु॒। इ॒न्द्रि॒यम्। पुनः॑। आ॒त्मा। द्रवि॑णम्। ब्राह्म॑णम्। च॒। पुनः॑। अ॒ग्नयः॑। धिष्ण्याः॑। य॒था॒ऽस्था॒म। क॒ल्प॒य॒न्ता॒म्। इ॒ह। ए॒व। ६९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

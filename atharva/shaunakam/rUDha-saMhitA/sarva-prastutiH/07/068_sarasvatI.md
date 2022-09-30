@@ -36,14 +36,17 @@ A prayer for children and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/068_sarasvatI/01_sarasvati_vrateShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर॑स्वति व्र॒तेषु॑ ते दि॒व्येषु॑ देवि॒ धाम॑सु ।  
-जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥१॥  
+सर॑स्वति व्र॒तेषु॑ ते दि॒व्येषु॑ देवि॒ धाम॑सु।  
+जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/068_sarasvatI/01_sarasvati_vrateShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर॑स्वति व्र॒तेषु॑ ते दि॒व्येषु॑ देवि॒ धाम॑सु। जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
+सर॑स्वति व्र॒तेषु॑ ते दि॒व्येषु॑ देवि॒ धाम॑सु।  
+जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/068_sarasvatI/01_sarasvati_vrateShu.md">
@@ -64,7 +67,7 @@ Sarasvati, in thy decrees, Goddess, in thy celestial laws, Accept the offered sa
 </details>
 <details><summary>पदपाठः</summary>
 
-सरस्वति। व्रतेषु। ते। दिव्येषु। देवि। धामऽसु। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। नः। ७०.१।
+सर॑स्वति। व्र॒तेषु॑। ते॒। दि॒व्येषु॑। दे॒वि॒। धाम॑ऽसु। जु॒षस्व॑। ह॒व्यम्। आऽहु॑तम्। प्र॒ऽजाम्। दे॒वि॒। र॒रा॒स्व॒। नः॒। ७०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Sarasvati, in thy decrees, Goddess, in thy celestial laws, Accept the offered sa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/068_sarasvatI/02_idaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं ते॑ ह॒व्यं घृ॒तव॑त् सरस्वती॒दं पि॑तॄ॒णां ह॒विरा॒स्यं॑१ यत्।  
-इ॒मानि॑ त उदि॒ता शंत॑मानि॒ तेभि॑र्व॒यं मधु॑मन्तः स्याम ॥२॥  
+इ॒दं ते॑ ह॒व्यं घृ॒तव॑त्सरस्वती॒दं पि॑तॄ॒णां ह॒विरा॒स्यं१॒॑ यत्।  
+इ॒मानि॑ त उदि॒ता शम्त॑मानि॒ तेभि॑र्व॒यं मधु॑मन्तः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/068_sarasvatI/02_idaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं ते॑ ह॒व्यं घृ॒तव॑त्सरस्वती॒दं पि॑तॄ॒णां ह॒विरा॒स्यं यत्। इ॒मानि॑ त उदि॒ता शम्त॑मानि॒ तेभि॑र्व॒यं मधु॑मन्तः स्याम ॥
+इ॒दं ते॑ ह॒व्यं घृ॒तव॑त्सरस्वती॒दं पि॑तॄ॒णां ह॒विरा॒स्यं१॒॑ यत्।  
+इ॒मानि॑ त उदि॒ता शम्त॑मानि॒ तेभि॑र्व॒यं मधु॑मन्तः स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/068_sarasvatI/02_idaM_te.md">
@@ -126,7 +132,7 @@ Here is, Sarasvati, thy fat libation, this sacrifice passing to the mouth of Fat
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। ते। हव्यम्। घृतऽवत्। सरस्वति। इदम्। पितृणाम्। हविः। आस्य᳡म्। यत्। इमानि। ते। उदिताः। शम्ऽतमानि। तेभिः। वयम्। मधुऽमन्तः। स्याम। ७०.२।
+इ॒दम्। ते॒। ह॒व्यम्। घृ॒तऽव॑त्। स॒र॒स्व॒ति॒। इ॒दम्। पि॒तृ॒णाम्। ह॒विः। आ॒स्य᳡म्। यत्। इ॒मानि॑। ते॒। उ॒दि॒ताः। शम्ऽत॑मानि। तेभिः॑। व॒यम्। मधु॑ऽमन्तः। स्या॒म॒। ७०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Here is, Sarasvati, thy fat libation, this sacrifice passing to the mouth of Fat
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/068_sarasvatI/03_shivA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति ।  
-मा ते॑ युयोम सं॒दृशः॑ ॥१॥
+शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति।  
+मा ते॑ युयोम सं॒दृशः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/068_sarasvatI/03_shivA_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति। मा ते॑ युयोम सं॒दृशः॑ ॥
+शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति।  
+मा ते॑ युयोम सं॒दृशः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/068_sarasvatI/03_shivA_naH.md">
@@ -189,7 +198,7 @@ Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy
 </details>
 <details><summary>पदपाठः</summary>
 
-शिवा। नः। शम्ऽतमा। भव। सुऽमृडीका। सरस्वति। मा। ते। युयोम। सम्ऽदृशः। ७१.१।
+शि॒वा। नः॒। शम्ऽत॑मा। भ॒व॒। सु॒ऽमृ॒डी॒का। स॒र॒स्व॒ति॒। मा। ते॒। यु॒यो॒म॒। स॒म्ऽदृशः॑। ७१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

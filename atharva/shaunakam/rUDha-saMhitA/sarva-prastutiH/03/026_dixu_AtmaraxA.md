@@ -28,22 +28,25 @@ A charm to win the favour of all serpents
 </details>
 </details>
 </div>
-## ०१ ये३स्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/01_ye3syAM_stha.md">
+## ०१ येस्यां स्थ
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३स्यां स्थ प्राच्यां॑ दि॒शि हे॒तयो॒ नाम॑ दे॒वास्तेषां॑ वो अ॒ग्निरिष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥१॥  
+ये॒३॒॑स्यां स्थ प्राच्यां॑ दि॒शि हे॒तयो॒ नाम॑ दे॒वास्तेषां॑ वो अ॒ग्निरि॑षवः।  
+ते नो॑ मृडत॒ ते नो ऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/01_ye3syAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑स्यां स्थ प्राच्यां॑ दि॒शि हे॒तयो॒ नाम॑ दे॒वास्तेषां॑ वो अ॒ग्निरि॑षवः। ते नो॑ मृडत॒ ते नो ऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+ये॒३॒॑स्यां स्थ प्राच्यां॑ दि॒शि हे॒तयो॒ नाम॑ दे॒वास्तेषां॑ वो अ॒ग्निरि॑षवः।  
+ते नो॑ मृडत॒ ते नो ऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/01_ye3syAM_stha.md">
-<details open><summary><h3>०१ ये३स्यां स्थ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
+<details open><summary><h3>०१ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -71,7 +74,7 @@ Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अस्याम्। प्राच्याम्। दिशि। हेतयः। नाम। देवाः। तेषाम्। वः। अग्निः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.१।
+ये। अ॒स्याम्। प्राच्या॑म्। दि॒शि। हे॒तयः॑। नाम॑। दे॒वाः। तेषा॑म्। वः॒। अ॒ग्निः। इष॑वः। ते। नः॒। मृ॒ड॒त॒। ते। नः॒। अधि॑। ब्रू॒त॒। तेभ्यः॑। वः॒। नमः॑। तेभ्यः॑। वः॒। स्वाहा॑। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,22 +101,25 @@ Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your
 </details>
 </details>
 </div>
-## ०२ ये३स्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/02_ye3syAM_stha.md">
+## ०२ येस्यां स्थ
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३स्यां स्थ दक्षि॑णायां दि॒श्यऽ वि॒ष्यवो॒ नाम॑ दे॒वास्तेषां॑ वः॒ काम॒ इष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥२॥  
+ये॒३॒॑स्यां स्थ दक्षि॑णायां दि॒श्य॑वि॒ष्यवो॒ नाम॑ दे॒वास्तेषां॑ वः॒ काम॒ इष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/02_ye3syAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑स्यां स्थ दक्षि॑णायां दि॒श्य॑वि॒ष्यवो॒ नाम॑ दे॒वास्तेषां॑ वः॒ काम॒ इष॑वः। ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+ये॒३॒॑स्यां स्थ दक्षि॑णायां दि॒श्य॑वि॒ष्यवो॒ नाम॑ दे॒वास्तेषां॑ वः॒ काम॒ इष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/02_ye3syAM_stha.md">
-<details open><summary><h3>०२ ये३स्यां स्थ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
+<details open><summary><h3>०२ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -131,7 +137,7 @@ Ye Gods who dwell within this southward region, entitled Eager, Kama forms your 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। दक्षिणायाम्। दिशि। अविष्यवः। नाम। देवाः। तेषाम्। वः। कामः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.२।
+ये। अ॒स्याम्। स्थ। दक्षि॑णायाम्। दि॒शि। अ॒वि॒ष्यवः॑। नाम॑। दे॒वाः। तेषा॑म्। वः॒। कामः॑। इष॑वः। ते। नः॒। मृ॒ड॒त॒। ते। नः॒। अधि॑। ब्रू॒त॒। तेभ्यः॑। वः॒। नमः॑। तेभ्यः॑। वः॒। स्वाहा॑। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,22 +164,25 @@ Ye Gods who dwell within this southward region, entitled Eager, Kama forms your 
 </details>
 </details>
 </div>
-## ०३ ये३स्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/03_ye3syAM_stha.md">
+## ०३ येस्यां स्थ
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३स्यां स्थ प्र॒तीच्यां॑ दि॒शि वै॑रा॒जा नाम॑ दे॒वास्तेषां॑ व॒ आप॒ इष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॒ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥३॥  
+ये॒३॒॑स्यां स्थ प्र॒तीच्यां॑ दि॒शि वै॑रा॒जा नाम॑ दे॒वास्तेषां॑ व॒ आप॒ इष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/03_ye3syAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑स्यां स्थ प्र॒तीच्यां॑ दि॒शि वै॑रा॒जा नाम॑ दे॒वास्तेषां॑ व॒ आप॒ इष॑वः। ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+ये॒३॒॑स्यां स्थ प्र॒तीच्यां॑ दि॒शि वै॑रा॒जा नाम॑ दे॒वास्तेषां॑ व॒ आप॒ इष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/03_ye3syAM_stha.md">
-<details open><summary><h3>०३ ये३स्यां स्थ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
+<details open><summary><h3>०३ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -191,7 +200,7 @@ Ye Gods who dwell within this westward region, whose name is Radiant, Water form
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। प्रतीच्याम्। दिशि। वैराजाः। नाम। देवाः। तेषाम्। वः। आपः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.३।
+ये। अ॒स्याम्। स्थ। प्र॒तीच्या॑म्। दि॒शि। वै॒रा॒जाः। नाम॑। दे॒वाः। तेषा॑म्। वः॒। आपः॑। इष॑वः। ते। नः॒। मृ॒ड॒त॒। ते। नः॒। अधि॑। ब्रू॒त॒। तेभ्यः॑। वः॒। नमः॑। तेभ्यः॑। वः॒। स्वाहा॑। २६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -218,22 +227,25 @@ Ye Gods who dwell within this westward region, whose name is Radiant, Water form
 </details>
 </details>
 </div>
-## ०४ ये३स्यां स्थोदीच्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/04_ye3syAM_sthodIchyAm.md">
+## ०४ येस्यां स्थोदीच्याम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३स्यां स्थोदी॑च्यां दि॒शि प्र॒विध्य॑न्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ वात॒ इष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥४॥  
+ये॒३॒॑स्यां स्थोदी॑च्यां दि॒शि प्र॒विध्य॑न्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ वात॒ इष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/04_ye3syAM_sthodIchyAm.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑स्यां स्थोदी॑च्यां दि॒शि प्र॒विध्य॑न्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ वात॒ इष॑वः। ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+ये॒३॒॑स्यां स्थोदी॑च्यां दि॒शि प्र॒विध्य॑न्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ वात॒ इष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/04_ye3syAM_sthodIchyAm.md">
-<details open><summary><h3>०४ ये३स्यां स्थोदीच्याम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
+<details open><summary><h3>०४ येस्यां स्थोदीच्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -250,7 +262,7 @@ Ye Gods who dwell within this northward region, whose name is Piercers, Vata for
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। उदीच्याम्। दिशि। प्रऽविध्यन्तः। नाम। देवाः। तेषाम्। वः। वातः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.४।
+ये। अ॒स्याम्। स्थ। उदी॑च्याम्। दि॒शि। प्र॒ऽविध्य॑न्तः। नाम॑। दे॒वाः। तेषा॑म्। वः॒। वातः॑। इष॑वः। ते। नः॒। मृ॒ड॒त॒। ते। नः॒। अधि॑। ब्रू॒त॒। तेभ्यः॑। वः॒। नमः॑। तेभ्यः॑। वः॒। स्वाहा॑। २६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -277,22 +289,25 @@ Ye Gods who dwell within this northward region, whose name is Piercers, Vata for
 </details>
 </details>
 </div>
-## ०५ ये३स्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/05_ye3syAM_stha.md">
+## ०५ येस्यां स्थ
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३ऽस्यां स्थ ध्रु॒वायां॑ दि॒शि नि॑लि॒म्पा नाम॑ दे॒वास्तेषां॑ व॒ ओष॑धी॒रिष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥५॥  
+ये॒३॒॑स्यां स्थ ध्रु॒वायां॑ दि॒शि नि॑लि॒म्पा नाम॑ दे॒वास्तेषां॑ व॒ ओष॑धी॒रिष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/05_ye3syAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑स्यां स्थ ध्रु॒वायां॑ दि॒शि नि॑लि॒म्पा नाम॑ दे॒वास्तेषां॑ व॒ ओष॑धी॒रिष॑वः। ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+ये॒३॒॑स्यां स्थ ध्रु॒वायां॑ दि॒शि नि॑लि॒म्पा नाम॑ दे॒वास्तेषां॑ व॒ ओष॑धी॒रिष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/05_ye3syAM_stha.md">
-<details open><summary><h3>०५ ये३स्यां स्थ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
+<details open><summary><h3>०५ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -311,7 +326,7 @@ Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। ध्रुवायाम्। दिशि। निऽलिम्पाः। नाम। देवाः। तेषाम्। वः। ओषधीः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.५।
+ये। अ॒स्याम्। स्थ। ध्रु॒वाया॑म्। दि॒शि। नि॒ऽलि॒म्पाः। नाम॑। दे॒वाः। तेषा॑म्। वः॒। ओष॑धीः। इष॑वः। ते। नः॒। मृ॒ड॒त॒। ते। नः॒। अधि॑। ब्रू॒त॒। तेभ्यः॑। वः॒। नमः॑। तेभ्यः॑। वः॒। स्वाहा॑। २६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -338,22 +353,25 @@ Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are
 </details>
 </details>
 </div>
-## ०६ ये३स्यां स्थोर्ध्वायाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/06_ye3syAM_sthordhvAyAm.md">
+## ०६ येस्यां स्थोर्ध्वायाम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३स्यां स्थोर्ध्वायां॑ दि॒श्यव॑स्वन्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ बृह॒स्पति॒रिष॑वः ।  
-ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥६॥
+ये॒३॒॑स्यां स्थोर्ध्वायां॑ दि॒श्यव॑स्वन्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ बृह॒स्पति॒रिष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/06_ye3syAM_sthordhvAyAm.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑स्यां स्थोर्ध्वायां॑ दि॒श्यव॑स्वन्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ बृह॒स्पति॒रिष॑वः। ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+ये॒३॒॑स्यां स्थोर्ध्वायां॑ दि॒श्यव॑स्वन्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ बृह॒स्पति॒रिष॑वः।  
+ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/06_ye3syAM_sthordhvAyAm.md">
-<details open><summary><h3>०६ ये३स्यां स्थोर्ध्वायाम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
+<details open><summary><h3>०६ येस्यां स्थोर्ध्वायाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -373,7 +391,7 @@ Ye Gods whose home is in this upmost region, Yearners by name, Brihaspati forms 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अस्याम्। स्थ। ऊर्घ्वायाम्। दिशि। अवस्वन्तः। नाम। देवाः। तेषाम्। वः। बृहस्पतिः। इषवः। ते। नः। मृडत। ते। नः। अधि। ब्रूत। तेभ्यः। वः। नमः। तेभ्यः। वः। स्वाहा। २६.६।
+ये। अ॒स्याम्। स्थ। ऊ॒र्घ्वाया॑म्। दि॒शि। अव॑स्वन्तः। नाम॑। दे॒वाः। तेषा॑म्। वः॒। बृह॒स्पतिः॑। इष॑वः। ते। नः॒। मृ॒ड॒त॒। ते। नः॒। अधि॑। ब्रू॒त॒। तेभ्यः॑। वः॒। नमः॑। तेभ्यः॑। वः॒। स्वाहा॑। २६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

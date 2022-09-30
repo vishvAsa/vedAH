@@ -32,14 +32,17 @@ Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे ।  
-ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम्॥१॥  
+अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे।  
+ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे। ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम् ॥
+अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे।  
+ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
@@ -66,7 +69,7 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। त्वा। इन्द्र। वरिमतः। पुरा। त्वा। अंहूरणात्। हुवे। ह्वयामि। उग्रम्। चेत्तारम्। पुरुऽनामानम्। एकऽजम्। ९९.१।
+अ॒भि। त्वा॒। इ॒न्द्र॒। वरि॑मतः। पु॒रा। त्वा॒। अं॒हू॒र॒णात्। हु॒वे॒। ह्वया॑मि। उ॒ग्रम्। चे॒त्तार॑म्। पु॒रुऽना॑मानम्। ए॒क॒ऽजम्। ९९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन् न उ॒दीर॑ते ।  
-इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥२॥  
+यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन्न उ॒दीर॑ते।  
+इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन्न उ॒दीर॑ते। इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥
+यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन्न उ॒दीर॑ते।  
+इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/02_yo_adya.md">
@@ -132,7 +138,7 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अद्य। सेन्यः। वधः। जिघांसन्। नः। उत्ऽईरते। इन्द्रस्य। तत्र। बाहू इति। समन्तम्। परि। दद्मः। ९९.२।
+यः। अ॒द्य। सेन्यः॑। व॒धः। जिघां॑सन्। नः॒। उ॒त्ऽईर॑ते। इन्द्र॑स्य। तत्र॑। बा॒हू इति॑। स॒म॒न्तम्। परि॑। द॒द्मः॒। ९९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः ।  
-देव॑ सवितः॒ सोम॑ राजन्त्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥३॥
+परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः।  
+देव॑ सवितः॒ सोम॑ राजन्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः। देव॑ सवितः॒ सोम॑ राजन्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥
+परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः।  
+देव॑ सवितः॒ सोम॑ राजन्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/03_pari_dadma.md">
@@ -195,7 +204,7 @@ We draw about us both the arms of Indra, our deliverer. May they protect us thor
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। दद्मः। इन्द्रस्य। बाहू इति। समन्तम्। त्रातुः। त्रायताम्। नः। देव। सवितः। सोम। राजन्। सुऽमनसम्। मा। कृणु। स्वस्तये। ९९.३।
+परि॑। द॒द्मः॒। इन्द्र॑स्य। बा॒हू इति॑। स॒म॒न्तम्। त्रा॒तुः। त्राय॑ताम्। नः॒। देव॑। स॒वि॒तः॒। सोम॑। रा॒ज॒न्। सु॒ऽमन॑सम्। मा॒। कृ॒णु॒। स्व॒स्तये॑। ९९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

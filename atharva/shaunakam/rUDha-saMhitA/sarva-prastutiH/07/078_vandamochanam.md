@@ -37,13 +37,16 @@ A charm for a prince's prosperity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि ते॑ मुञ्चामि रश॒नां वि योक्त्रं॒ वि नि॒योज॑नम्।  
-इ॒हैव त्वमज॑स्र एध्यग्ने ॥१॥  
+इ॒हैव त्वमज॑स्र एध्यग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/078_vandamochanam/01_vi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि ते॑ मुञ्चामि रश॒नां वि योक्त्रं॒ वि नि॒योज॑नम्। इ॒हैव त्वमज॑स्र एध्यग्ने ॥
+वि ते॑ मुञ्चामि रश॒नां वि योक्त्रं॒ वि नि॒योज॑नम्।  
+इ॒हैव त्वमज॑स्र एध्यग्ने ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/01_vi_te.md">
@@ -71,7 +74,7 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। ते। मुञ्चामि। रशनाम्। वि। योक्त्रम्। वि। निऽयोजनम्। इह। एव। त्वम्। अजस्रः। एधि। अग्ने। ८३.१।
+वि। ते॒। मु॒ञ्चा॒मि॒। र॒श॒नाम्। वि। योक्त्र॑म्। वि। नि॒ऽयोज॑नम्। इ॒ह। ए॒व। त्वम्। अज॑स्रः। ए॒धि॒। अ॒ग्ने॒। ८३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/078_vandamochanam/02_asmai_xatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न ।  
-दी॒दि॒ह्य॑१स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥२॥
+अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न।  
+दी॑दि॒ह्य१॒॑स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/078_vandamochanam/02_asmai_xatrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न। दी॑दि॒ह्यस्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥
+अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न।  
+दी॑दि॒ह्य१॒॑स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/078_vandamochanam/02_asmai_xatrANi.md">
@@ -136,7 +142,7 @@ I with celestial prayer appoint thee, Agni, maintainer of this man in princely p
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्मै। क्षत्राणि। धारयन्तम्। अग्ने। युनज्मि। त्वा। ब्रह्मणा। दैव्येन। दीदिहि। अस्मभ्यम्। द्रविणा। इह। भद्रम्। प्र। इमम्। वोचः। हविःऽदाम्। देवतासु। ८३.२।
+अ॒स्मै। क्ष॒त्राणि॑। धा॒रय॑न्तम्। अ॒ग्ने॒। यु॒नज्मि॑। त्वा॒। ब्रह्म॑णा। दैव्ये॑न। दी॒दि॒हि। अ॒स्मभ्य॑म्। द्रवि॑णा। इ॒ह। भ॒द्रम्। प्र। इ॒मम्। वो॒चः॒। ह॒विः॒ऽदाम्। दे॒वता॑सु। ८३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

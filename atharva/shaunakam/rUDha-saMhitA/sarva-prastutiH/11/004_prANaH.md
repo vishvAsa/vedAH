@@ -36,14 +36,17 @@ A glorification of Prana, Breath or Vital Spirit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/01_prANAya_namo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णाय॒ नमो॒ यस्य॒ सर्व॑मि॒दं वशे॑ ।  
-यो भू॒तः सर्व॑स्येश्व॒रो यस्मि॒न्त्सर्वं॒ प्रति॑ष्ठितम्॥१॥  
+प्रा॒णाय॒ नमो॒ यस्य॒ सर्व॑मि॒दं वशे॑।  
+यो भू॒तः सर्व॑स्येश्व॒रो यस्मि॒न्त्सर्वं॒ प्रति॑ष्ठितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/01_prANAya_namo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णाय॒ नमो॒ यस्य॒ सर्व॑मि॒दं वशे॑। यो भू॒तः सर्व॑स्येश्व॒रो यस्मि॒न्त्सर्वं॒ प्रति॑ष्ठितम् ॥
+प्रा॒णाय॒ नमो॒ यस्य॒ सर्व॑मि॒दं वशे॑।  
+यो भू॒तः सर्व॑स्येश्व॒रो यस्मि॒न्त्सर्वं॒ प्रति॑ष्ठितम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/01_prANAya_namo.md">
@@ -62,7 +65,7 @@ Homage to Prana, him who hath dominion o'er the universe, Who hath become the So
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणाय। नमः। यस्य। सर्वम्। इदम्। वशे। यः। भूतः। सर्वस्य। ईश्वरः। यस्मिन्। सर्वम्। प्रतिऽस्थितम्। ६.१।
+प्रा॒णाय॑। नमः॑। यस्य॑। सर्व॑म्। इ॒दम्। वशे॑। यः। भू॒तः। सर्व॑स्य। ई॒श्व॒रः। यस्मि॑न्। सर्व॑म्। प्रति॑ऽस्थितम्। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Homage to Prana, him who hath dominion o'er the universe, Who hath become the So
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/02_namaste_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑ ।  
-नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥२॥  
+नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑।  
+नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/02_namaste_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑। नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥
+नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑।  
+नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/02_namaste_prANa.md">
@@ -120,7 +126,7 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। प्राण। क्रन्दाय। नमः। ते। स्तनयित्नवे। नमः। ते। प्राण। विऽद्युते। नमः। ते। प्राण। वर्षते। ६.२।
+नमः॑। ते॒। प्रा॒ण॒। क्रन्दा॑य। नमः॑। ते॒। स्त॒न॒यि॒त्नवे॑। नमः॑। ते॒। प्रा॒ण॒। वि॒ऽद्युते॑। नमः॑। ते॒। प्रा॒ण॒। वर्ष॑ते। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -151,14 +157,17 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् प्रा॒ण स्त॑नयि॒त्नुना॑भि॒क्रन्द॒त्योष॑धीः ।  
-प्र वी॑यन्ते॒ गर्भा॑न् दध॒तेऽथो॑ ब॒ह्वीर्वि जा॑यन्ते ॥३॥  
+यत्प्रा॒ण स्त॑नयि॒त्नुना॑भि॒क्रन्द॒त्योष॑धीः।  
+प्र वी॑यन्ते॒ गर्भा॑न्दध॒तेऽथो॑ ब॒ह्वीर्वि जा॑यन्ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्प्रा॒ण स्त॑नयि॒त्नुना॑भि॒क्रन्द॒त्योष॑धीः। प्र वी॑यन्ते॒ गर्भा॑न्दध॒तेऽथो॑ ब॒ह्वीर्वि जा॑यन्ते ॥
+यत्प्रा॒ण स्त॑नयि॒त्नुना॑भि॒क्रन्द॒त्योष॑धीः।  
+प्र वी॑यन्ते॒ गर्भा॑न्दध॒तेऽथो॑ ब॒ह्वीर्वि जा॑यन्ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
@@ -182,7 +191,7 @@ When Prana with a thunderous voice shouts his loud message to the plants, They s
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। प्राणः। स्तनयित्नुना। अभिऽक्रन्दति। ओषधीः। प्र। वीयन्ते। गर्भान्। दधते। अथो इति। बह्वीः। वि। जायन्ते। ६.३।
+यत्। प्रा॒णः। स्त॒न॒यि॒त्नुना॑। अ॒भि॒ऽक्रन्द॑ति। ओष॑धीः। प्र। वी॒य॒न्ते॒। गर्भा॑न्। द॒ध॒ते॒। अथो॒ इति॑। ब॒ह्वीः। वि। जा॒य॒न्ते॒। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -213,14 +222,17 @@ When Prana with a thunderous voice shouts his loud message to the plants, They s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः ।  
-सर्वं॑ त॒दा प्र मो॑दते॒ यत् किं च॒ भूम्या॒मधि॑ ॥४॥  
+यत्प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः।  
+सर्वं॑ त॒दा प्र मो॑दते॒ यत्किं च॒ भूम्या॒मधि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः। सर्वं॑ त॒दा प्र मो॑दते॒ यत्किं च॒ भूम्या॒मधि॑ ॥
+यत्प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः।  
+सर्वं॑ त॒दा प्र मो॑दते॒ यत्किं च॒ भूम्या॒मधि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
@@ -241,7 +253,7 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। प्राणः। ऋतौ। आऽगते। अभिऽक्रन्दति। ओषधीः। सर्वम्। तदा। प्र। मोदते। यत्। किम्। च। भूम्याम्। अधि। ६.४।
+यत्। प्रा॒णः। ऋ॒तौ। आऽग॑ते। अ॒भि॒ऽक्रन्द॑ति। ओष॑धीः। सर्व॑म्। त॒दा। प्र। मो॒द॒ते॒। यत्। किम्। च॒। भूम्या॑म्। अधि॑। ६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -272,14 +284,17 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/05_yadA_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒दा प्रा॒णो अ॒भ्यव॑र्षीद् व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
-प॒शव॒स्तत् प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥५॥  
+य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
+प॒शव॒स्तत्प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/05_yadA_prANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्। प॒शव॒स्तत्प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥
+य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
+प॒शव॒स्तत्प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/05_yadA_prANo.md">
@@ -301,7 +316,7 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 </details>
 <details><summary>पदपाठः</summary>
 
-यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। पशवः। तत्। प्र। मोदन्ते। महः। वै। नः। भविष्यति। ६.५।
+य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। प॒शवः॑। तत्। प्र। मो॒द॒न्ते॒। महः॑। वै। नः॒। भ॒वि॒ष्य॒ति॒। ६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -333,13 +348,16 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भिवृ॑ष्टा॒ ओष॑धयः प्रा॒णेन॒ सम॑वादिरन्।  
-आयु॒र्वै नः॒ प्राती॑तरः॒ सर्वा॑ नः सुर॒भीर॑कः ॥६॥  
+आयु॒र्वै नः॒ प्राती॑तरः॒ सर्वा॑ नः सुर॒भीर॑कः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भिवृ॑ष्टा॒ ओष॑धयः प्रा॒णेन॒ सम॑वादिरन्। आयु॒र्वै नः॒ प्राती॑तरः॒ सर्वा॑ नः सुर॒भीर॑कः ॥
+अ॒भिवृ॑ष्टा॒ ओष॑धयः प्रा॒णेन॒ सम॑वादिरन्।  
+आयु॒र्वै नः॒ प्राती॑तरः॒ सर्वा॑ नः सुर॒भीर॑कः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
@@ -359,7 +377,7 @@ Watered by Prana's rain the plants have raised their voices in accord: Thou hast
 </details>
 <details><summary>पदपाठः</summary>
 
-अभिऽवृष्टाः। ओषधयः। प्राणेन। सम्। अवादिरन्। आयुः। वै। नः। प्र। अतीतरः। सर्वाः। नः। सुरभीः। अकः। ६.६।
+अ॒भिऽवृ॑ष्टाः। ओष॑धयः। प्रा॒णेन॑। सम्। अ॒वा॒दि॒र॒न्। आयुः॑। वै। नः॒। प्र। अ॒ती॒त॒रः॒। सर्वाः॑। नः॒। सु॒र॒भीः। अ॒कः॒। ६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -391,13 +409,16 @@ Watered by Prana's rain the plants have raised their voices in accord: Thou hast
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते अस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
-नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥७॥  
+नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/07_namaste_astvAyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते अस्त्वाय॒ते नमो॑ अस्तु पराय॒ते। नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
+नम॑स्ते अस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
+नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/07_namaste_astvAyate.md">
@@ -419,7 +440,7 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अस्तु। आऽयते। नमः। अस्तु। पराऽयते। नमः। ते। प्राण। तिष्ठते। आसीनाय। उत। ते। नमः। ६.७।
+नमः॑। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नमः॑। अ॒स्तु॒। प॒रा॒ऽय॒ते। नमः॑। ते॒। प्रा॒ण॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नमः॑। ६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -451,13 +472,16 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते प्राण प्राण॒ते नमो॑ अस्त्वपान॒ते।  
-प॒रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॑ सर्व॑स्मै त इ॒दं नमः॑ ॥८॥  
+प॑रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॒ सर्व॑स्मै त इ॒दं नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/08_namaste_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते प्राण प्राण॒ते नमो॑ अस्त्वपान॒ते। प॑रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॒ सर्व॑स्मै त इ॒दं नमः॑ ॥
+नम॑स्ते प्राण प्राण॒ते नमो॑ अस्त्वपान॒ते।  
+प॑रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॒ सर्व॑स्मै त इ॒दं नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/08_namaste_prANa.md">
@@ -479,7 +503,7 @@ Homage to thee at every breath thou drawest in and sendest forth! Homage to thee
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। प्राण। प्राणते। नमः। अस्तु। अपानते। पराचीनाय। ते। नमः। प्रतीचीनाय। ते। नमः। सर्वस्मै। ते। इदम्। नमः। ६.८।
+नमः॑। ते॒। प्रा॒ण॒। प्रा॒ण॒ते। नमः॑। अ॒स्तु॒। अ॒पा॒न॒ते। प॒रा॒चीना॑य। ते॒। नमः॑। प्र॒ती॒चीना॑य। ते॒। नमः॑। सर्व॑स्मै। ते॒। इ॒दम्। नमः॑। ६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -510,14 +534,17 @@ Homage to thee at every breath thou drawest in and sendest forth! Homage to thee
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/09_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ते॑ प्राण प्रि॒या त॒नूर्यो ते॑ प्राण॒ प्रेय॑सी ।  
-अथो॒ यद् भे॑ष॒जं तव॒ तस्य॑ नो धेहि जी॒वसे॑ ॥९॥  
+या ते॑ प्राण प्रि॒या त॒नूर्यो ते॑ प्राण॒ प्रेय॑सी।  
+अथो॒ यद्भे॑ष॒जं तव॒ तस्य॑ नो धेहि जी॒वसे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/09_yA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या ते॑ प्राण प्रि॒या त॒नूर्यो ते॑ प्राण॒ प्रेय॑सी। अथो॒ यद्भे॑ष॒जं तव॒ तस्य॑ नो धेहि जी॒वसे॑ ॥
+या ते॑ प्राण प्रि॒या त॒नूर्यो ते॑ प्राण॒ प्रेय॑सी।  
+अथो॒ यद्भे॑ष॒जं तव॒ तस्य॑ नो धेहि जी॒वसे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/09_yA_te.md">
@@ -539,7 +566,7 @@ Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm 
 </details>
 <details><summary>पदपाठः</summary>
 
-या। ते। प्राण। प्रिया। तनूः। यो इति। ते। प्राण। प्रेयसी। अथो इति। यत्। भेषजम्। तव। तस्य। नः। धेहि। जीवसे। ६.९।
+या। ते॒। प्रा॒ण॒। प्रि॒या। त॒नूः। यो इति॑। ते॒। प्रा॒ण॒। प्रेय॑सी। अथो॒ इति॑। यत्। भे॒ष॒जम्। तव॑। तस्य॑। नः॒। धे॒हि॒। जी॒वसे॑। ६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -571,13 +598,16 @@ Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णः प्र॒जा अनु॑ वस्ते पि॒ता पु॒त्रमि॑व प्रि॒यम्।  
-प्रा॒णो ह॒ सर्व॑स्येश्व॒रो यच्च॑ प्रा॒णति॒ यच्च॒ न॥१०॥  
+प्रा॒णो ह॒ सर्व॑स्येश्व॒रो यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/10_prANaH_prajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णः प्र॒जा अनु॑ वस्ते पि॒ता पु॒त्रमि॑व प्रि॒यम्। प्रा॒णो ह॒ सर्व॑स्येश्व॒रो यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
+प्रा॒णः प्र॒जा अनु॑ वस्ते पि॒ता पु॒त्रमि॑व प्रि॒यम्।  
+प्रा॒णो ह॒ सर्व॑स्येश्व॒रो यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/10_prANaH_prajA.md">
@@ -599,7 +629,7 @@ Prana robes living creatures as a father his beloved son. Prana is sovran Lord o
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणः। प्रऽजाः। अनु। वस्ते। पिता। पुत्रम्ऽइव। प्रियम्। प्राणः। ह। सर्वस्‍य। ईश्वरः। यत्। च। प्राणति। यत्। च। न। ६.१०।
+प्रा॒णः। प्र॒ऽजाः। अनु॑। व॒स्ते॒। पि॒ता। पु॒त्रम्ऽइ॑व। प्रि॒यम्। प्रा॒णः। ह॒। सर्व॑स्‍य। ई॒श्व॒रः। यत्। च॒। प्रा॒णति॑। यत्। च॒। न। ६.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -630,14 +660,17 @@ Prana robes living creatures as a father his beloved son. Prana is sovran Lord o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/11_prANo_mRtyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते ।  
-प्रा॒णो ह॒ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत्॥११॥  
+प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते।  
+प्रा॒णो ह॑ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/11_prANo_mRtyuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते। प्रा॒णो ह॑ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत् ॥
+प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते।  
+प्रा॒णो ह॑ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/11_prANo_mRtyuH.md">
@@ -658,7 +691,7 @@ Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणः। मृत्युः। प्राणः। तक्मा। प्राणम्। देवाः। उप। आसते। प्राणः। ह। सत्यऽवादिनम्। उत्ऽतमे। लोके। आ। दधत्। ६.११।
+प्रा॒णः। मृ॒त्युः। प्रा॒णः। त॒क्मा। प्रा॒णम्। दे॒वाः। उप॑। आ॒स॒ते॒। प्रा॒णः। ह॒। स॒त्य॒ऽवा॒दिन॑म्। उ॒त्ऽत॒मे। लो॒के। आ। द॒ध॒त्। ६.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -689,14 +722,17 @@ Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/12_prANo_virATprANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णो वि॒राट् प्रा॒णो देष्ट्री॑ प्रा॒णं सर्व॒ उपा॑सते ।  
-प्रा॒णो ह॒ सूर्य॑श्च॒न्द्रमाः॑ प्रा॒णमा॑हुः प्र॒जाप॑तिम्॥१२॥  
+प्रा॒णो वि॒राट्प्रा॒णो देष्ट्री॑ प्रा॒णं सर्व॒ उपा॑सते।  
+प्रा॒णो ह॒ सूर्य॑श्च॒न्द्रमाः॑ प्रा॒णमा॑हुः प्र॒जाप॑तिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/12_prANo_virATprANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णो वि॒राट्प्रा॒णो देष्ट्री॑ प्रा॒णं सर्व॒ उपा॑सते। प्रा॒णो ह॒ सूर्य॑श्च॒न्द्रमाः॑ प्रा॒णमा॑हुः प्र॒जाप॑तिम् ॥
+प्रा॒णो वि॒राट्प्रा॒णो देष्ट्री॑ प्रा॒णं सर्व॒ उपा॑सते।  
+प्रा॒णो ह॒ सूर्य॑श्च॒न्द्रमाः॑ प्रा॒णमा॑हुः प्र॒जाप॑तिम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/12_prANo_virATprANo.md">
@@ -718,7 +754,7 @@ Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणः। विऽराट्। प्राणः। देष्ट्री। प्राणम्। सर्वे। उप। आसते। प्राणः। ह। सूर्यः। चन्द्रमा। प्राणम। आहुः। प्रजाऽपतिम्। ६.१२।
+प्रा॒णः। वि॒ऽराट्। प्रा॒णः। देष्ट्री॑। प्रा॒णम्। सर्वे॑। उप॑। आ॒स॒ते॒। प्रा॒णः। ह॒। सूर्यः॑। च॒न्द्रमा॑। प्रा॒णम। आ॒हुः॒। प्र॒जाऽप॑तिम्। ६.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -749,14 +785,17 @@ Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णा॒पा॒नौ व्री॑हिय॒वाव॑न॒ड्वान् प्रा॒ण उ॑च्यते ।  
-यवे॑ ह प्रा॒ण आहि॑तोऽपा॒नो व्री॒हिरु॑च्यते ॥१३॥  
+प्रा॑णापा॒नौ व्री॑हिय॒वाव॑न॒ड्वान्प्रा॒ण उ॑च्यते।  
+यवे॑ ह प्रा॒ण आहि॑तोऽपा॒नो व्री॒हिरु॑च्यते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॑णापा॒नौ व्री॑हिय॒वाव॑न॒ड्वान्प्रा॒ण उ॑च्यते। यवे॑ ह प्रा॒ण आहि॑तोऽपा॒नो व्री॒हिरु॑च्यते ॥
+प्रा॑णापा॒नौ व्री॑हिय॒वाव॑न॒ड्वान्प्रा॒ण उ॑च्यते।  
+यवे॑ ह प्रा॒ण आहि॑तोऽपा॒नो व्री॒हिरु॑च्यते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
@@ -777,7 +816,7 @@ Both breaths are rice and barley, and Prana is called the toiling ox: In barley 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणापानौ। व्रीहिऽयवौ। अनड्वान्। प्राणः। उच्यते। यवे। ह। प्राणः। आऽहितः। अपानः। व्रीहिः। उच्यते। ६.१३।
+प्रा॒णा॒पा॒नौ। व्री॒हि॒ऽय॒वौ। अ॒न॒ड्वान्। प्रा॒णः। उ॒च्य॒ते॒। यवे॑। ह॒। प्रा॒णः। आऽहि॑तः। अ॒पा॒नः। व्री॒हिः। उ॒च्य॒ते॒। ६.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -809,13 +848,16 @@ Both breaths are rice and barley, and Prana is called the toiling ox: In barley 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपा॑नति॒ प्राण॑ति॒ पुरु॑षो॒ गर्भे॑ अन्त॒रा।  
-य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥१४॥  
+य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/14_apAnati_prANati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपा॑नति॒ प्राण॑ति॒ पुरु॑षो॒ गर्भे॑ अन्त॒रा। य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥
+अपा॑नति॒ प्राण॑ति॒ पुरु॑षो॒ गर्भे॑ अन्त॒रा।  
+य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/14_apAnati_prANati.md">
@@ -836,7 +878,7 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। अनति। प्र। अनति। पुरुषः। गर्भे। अन्तरा। यदा। त्वम्। प्राण। जिन्वसि। अथ। सः। जायते। पुनः। ६.१४।
+अप॑। अ॒न॒ति॒। प्र। अ॒न॒ति॒। पुरु॑षः। गर्भे॑। अ॒न्त॒रा। य॒दा। त्वम्। प्रा॒ण॒। जिन्व॑सि। अथ॑। सः। जा॒य॒ते॒। पुनः॑। ६.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -867,14 +909,17 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णमा॑हुर्मात॒रिश्वा॑नं॒ वातो॑ ह प्रा॒ण उ॑च्यते ।  
-प्रा॒णे ह॑ भू॒तं भव्यं॑ च प्रा॒णे सर्वं॑ प्रति॑ष्ठितम्॥१५॥  
+प्रा॒णमा॑हुर्मात॒रिश्वा॑नं॒ वातो॑ ह प्रा॒ण उ॑च्यते।  
+प्रा॒णे ह॑ भू॒तं भव्यं॑ च प्रा॒णे सर्वं॒ प्रति॑ष्ठितम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रा॒णमा॑हुर्मात॒रिश्वा॑नं॒ वातो॑ ह प्रा॒ण उ॑च्यते। प्रा॒णे ह॑ भू॒तं भव्यं॑ च प्रा॒णे सर्वं॒ प्रति॑ष्ठितम् ॥
+प्रा॒णमा॑हुर्मात॒रिश्वा॑नं॒ वातो॑ ह प्रा॒ण उ॑च्यते।  
+प्रा॒णे ह॑ भू॒तं भव्यं॑ च प्रा॒णे सर्वं॒ प्रति॑ष्ठितम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
@@ -895,7 +940,7 @@ The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and futu
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणम्। आहुः। मातरिश्वानम्। वातः। ह। प्राणः। उच्यते। प्राणे। ह। भूतम्। भव्यम्। च। प्राणे। सर्वम्। प्रतिऽस्थितम्। ६.१५।
+प्रा॒णम्। आ॒हुः॒। मा॒त॒रिश्वा॑नम्। वातः॑। ह॒। प्रा॒णः। उ॒च्य॒ते॒। प्रा॒णे। ह॒। भू॒तम्। भव्य॑म्। च॒। प्रा॒णे। सर्व॑म्। प्रति॑ऽस्थितम्। ६.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -926,14 +971,17 @@ The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and futu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒थ॒र्व॒णीरा॑ङ्गिर॒सीर्दैवी॑र्मनुष्य॒जा उ॒त।  
-ओष॑धयः॒ प्र जा॑यन्ते य॒दा त्वं प्रा॑ण॒ जिन्व॑सि ॥१६॥  
+आ॑थर्व॒णीरा॑ङ्गिर॒सीर्दै॒वीर्म॑नुष्य॒जा उ॒त।  
+ओष॑धयः॒ प्र जा॑यन्ते य॒दा त्वं प्रा॑ण॒ जिन्व॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑थर्व॒णीरा॑ङ्गिर॒सीर्दै॒वीर्म॑नुष्य॒जा उ॒त। ओष॑धयः॒ प्र जा॑यन्ते य॒दा त्वं प्रा॑ण॒ जिन्व॑सि ॥
+आ॑थर्व॒णीरा॑ङ्गिर॒सीर्दै॒वीर्म॑नुष्य॒जा उ॒त।  
+ओष॑धयः॒ प्र जा॑यन्ते य॒दा त्वं प्रा॑ण॒ जिन्व॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
@@ -956,7 +1004,7 @@ All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants
 </details>
 <details><summary>पदपाठः</summary>
 
-आथर्वणीः। आङ्गिरसीः। दैवीः। मनुष्यऽजाः। उत। ओषधयः। प्र। जायन्ते। यदा। त्वम्। प्राण। जिन्वसि। ६.१६।
+आ॒थ॒र्व॒णीः। आ॒ङ्गि॒र॒सीः। दैवीः॑। म॒नु॒ष्य॒ऽजाः। उ॒त। ओष॑धयः। प्र। जा॒य॒न्ते॒। य॒दा। त्वम्। प्रा॒ण॒। जिन्व॑सि। ६.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -987,14 +1035,17 @@ All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/17_yadA_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒दा प्रा॒णो अ॒भ्यव॑र्षीद् व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
-ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥१७॥  
+य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
+ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/17_yadA_prANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्। ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥
+य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
+ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/17_yadA_prANo.md">
@@ -1017,7 +1068,7 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 </details>
 <details><summary>पदपाठः</summary>
 
-यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। ओषधयः। प्र। जायन्ते। अथो इति। याः। काः। च। वीरुधः। ६.१७।
+य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। ओष॑धयः। प्र। जा॒य॒न्ते॒। अथो॒ इति॑। याः। काः। च॒। वी॒रुधः॑। ६.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1048,14 +1099,17 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/18_yaste_prANedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ प्राणे॒दं वेद॒ यस्मिं॒श्चासि॒ प्रति॑ष्ठितः ।  
-सर्वे॒ तस्मै॑ ब॒लिं ह॑रान॒मुष्मिंल्लो॒क उ॑त्त॒मे॥१८॥  
+यस्ते॑ प्राणे॒दं वे॑द॒ यस्मिं॑श्चासि॒ प्रति॑ष्ठितः।  
+सर्वे॒ तस्मै॑ ब॒लिं ह॑रान॒मुष्मिं॑ल्लो॒क उ॑त्त॒मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/18_yaste_prANedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॑ प्राणे॒दं वे॑द॒ यस्मिं॑श्चासि॒ प्रति॑ष्ठितः। सर्वे॒ तस्मै॑ ब॒लिं ह॑रान॒मुष्मिं॑ल्लो॒क उ॑त्त॒मे ॥
+यस्ते॑ प्राणे॒दं वे॑द॒ यस्मिं॑श्चासि॒ प्रति॑ष्ठितः।  
+सर्वे॒ तस्मै॑ ब॒लिं ह॑रान॒मुष्मिं॑ल्लो॒क उ॑त्त॒मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/18_yaste_prANedam.md">
@@ -1075,7 +1129,7 @@ The man who knows this truth of thee, O Prana, and what bears thee up To him wil
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। प्राण। इदम्। वेद। यस्मिन्। च। असि। प्रतिऽस्थितः। सर्वे। तस्मै। बलिम्। हरान्। अमुष्मिन्। लोके। उत्ऽतमे। ६.१८।
+यः। ते॒। प्रा॒ण॒। इ॒दम्। वेद॑। यस्मि॑न्। च॒। असि॑। प्रति॑ऽस्थितः। सर्वे॑। तस्मै॑। ब॒लिम्। ह॒रा॒न्। अ॒मुष्मि॑न्। लो॒के। उ॒त्ऽत॒मे। ६.१८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1106,14 +1160,17 @@ The man who knows this truth of thee, O Prana, and what bears thee up To him wil
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/19_yathA_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ प्राण बलि॒हृत॒स्तुभ्यं॒ सर्वाः॑ प्र॒जा इ॒माः ।  
-ए॒वा तस्मै॑ ब॒लिं ह॑रा॒न् यस्त्वा॑ शृ॒णव॑त् सुश्रवः ॥१९॥  
+यथा॑ प्राण बलि॒हृत॒स्तुभ्यं॒ सर्वाः॑ प्र॒जा इ॒माः।  
+ए॒वा तस्मै॑ ब॒लिं ह॑रा॒न्यस्त्वा॑ शृ॒णव॑त्सुश्रवः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/19_yathA_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ प्राण बलि॒हृत॒स्तुभ्यं॒ सर्वाः॑ प्र॒जा इ॒माः। ए॒वा तस्मै॑ ब॒लिं ह॑रा॒न्यस्त्वा॑ शृ॒णव॑त्सुश्रवः ॥
+यथा॑ प्राण बलि॒हृत॒स्तुभ्यं॒ सर्वाः॑ प्र॒जा इ॒माः।  
+ए॒वा तस्मै॑ ब॒लिं ह॑रा॒न्यस्त्वा॑ शृ॒णव॑त्सुश्रवः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/19_yathA_prANa.md">
@@ -1135,7 +1192,7 @@ As all these living creatures are thy tributaries, Prana, so Shall they bring tr
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। प्राण। बलिऽहृतः। तुभ्यम्। सर्वाः। प्रऽजाः। इमाः। एव। तस्मै। बलिम्। हरान्। यः। त्वा। शृणवत्। सुऽश्रवः। ६.१९।
+यथा॑। प्रा॒ण॒। ब॒लि॒ऽहृतः॑। तुभ्य॑म्। सर्वाः॑। प्र॒ऽजाः। इ॒माः। ए॒व। तस्मै॑। ब॒लिम्। ह॒रा॒न्। यः। त्वा॒। शृ॒णव॑त्। सु॒ऽश्र॒वः॒। ६.१९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1166,14 +1223,17 @@ As all these living creatures are thy tributaries, Prana, so Shall they bring tr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तर्गर्भ॑श्चरति दे॒वता॒स्वाभू॑तो भू॒तः स उ॑ जायते॒ पुनः॑ ।  
-स भू॒तो भव्यं॑ भवि॒ष्यत् पि॒ता पु॒त्रं प्र वि॑वेशा॒ शची॑भिः ॥२०॥  
+अ॒न्तर्गर्भ॑श्चरति दे॒वता॒स्वाभू॑तो भू॒तः स उ॑ जायते॒ पुनः॑।  
+स भू॒तो भव्यं॑ भवि॒ष्यत्पि॒ता पु॒त्रं प्र वि॑वेशा॒ शची॑भिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्तर्गर्भ॑श्चरति दे॒वता॒स्वाभू॑तो भू॒तः स उ॑ जायते॒ पुनः॑। स भू॒तो भव्यं॑ भवि॒ष्यत्पि॒ता पु॒त्रं प्र वि॑वेशा॒ शची॑भिः ॥
+अ॒न्तर्गर्भ॑श्चरति दे॒वता॒स्वाभू॑तो भू॒तः स उ॑ जायते॒ पुनः॑।  
+स भू॒तो भव्यं॑ भवि॒ष्यत्पि॒ता पु॒त्रं प्र वि॑वेशा॒ शची॑भिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
@@ -1198,7 +1258,7 @@ Filled with a babe, mid deities he wanders: grown; near at hand, he springs agai
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तः। गर्भः। चरति। देवतासु। आऽभूतः। भूतः। सः। ऊं इति। जायते। पुनः। सः। भूतः। भव्यम्। भविष्यत्। पिता। पुत्रम्। प्र। विवेश। शचीभिः। ६.२०।
+अ॒न्तः। गर्भः॑। च॒र॒ति॒। दे॒वता॑सु। आऽभू॑तः। भू॒तः। सः। ऊं॒ इति॑। जा॒य॒ते॒। पुनः॑। सः। भू॒तः। भव्य॑म्। भ॒वि॒ष्यत्। पि॒ता। पु॒त्रम्। प्र। वि॒वे॒श॒। शची॑भिः। ६.२०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1229,14 +1289,17 @@ Filled with a babe, mid deities he wanders: grown; near at hand, he springs agai
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/21_ekaM_pAdam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एकं॒ पादं॒ नोत्खि॑दति सलि॒लाद्धंस उ॒च्चर॑न्।  
-यद॒ङ्ग स तमु॑त्खि॒देन्नैवाद्य न श्वः स्या॒न्न रात्री॒ नाहः॑ स्या॒न्न व्युऽछेत् क॒दा च॒न॥२१॥  
+एकं॒ पादं॒ नोत्खि॑दति सलि॒लाद्धं॒स उ॒च्चर॑न्।  
+यद॒ङ्ग स तमु॑त्खि॒देन्नैवाद्य न श्वः स्या॑न्न रात्री॒ नाहः॑ स्या॒न्न व्यु᳡च्छेत्क॒दा च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/21_ekaM_pAdam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एकं॒ पादं॒ नोत्खि॑दति सलि॒लाद्धं॒स उ॒च्चर॑न्। यद॒ङ्ग स तमु॑त्खि॒देन्नैवाद्य न श्वः स्या॑न्न रात्री॒ नाहः॑ स्या॒न्न व्यु᳡च्छेत्क॒दा च॒न ॥
+एकं॒ पादं॒ नोत्खि॑दति सलि॒लाद्धं॒स उ॒च्चर॑न्।  
+यद॒ङ्ग स तमु॑त्खि॒देन्नैवाद्य न श्वः स्या॑न्न रात्री॒ नाहः॑ स्या॒न्न व्यु᳡च्छेत्क॒दा च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/21_ekaM_pAdam.md">
@@ -1264,7 +1327,7 @@ Hansa, what time he rises up, leaves in the flood one foot un- moved. If he with
 </details>
 <details><summary>पदपाठः</summary>
 
-एकम्। पादम्। न। उत्। खिदति। सलिलात्। हंसः। उत्ऽचरन्। यत्। अङ्ग। सः। तम्। उत्ऽखिदेत्। न। एव। अद्य। न। श्वः। स्यात्। न। रात्री। न। अहः। स्यात्। न। वि। उच्छेत्। कदा। चन। ६.२१।
+एक॑म्। पाद॑म्। न। उत्। खि॒द॒ति॒। स॒लि॒लात्। हं॒सः। उ॒त्ऽचर॑न्। यत्। अ॒ङ्ग। सः। तम्। उ॒त्ऽखि॒देत्। न। ए॒व। अ॒द्य। न। श्वः। स्या॒त्। न। रात्री॑। न। अहः॑। स्या॒त्। न। वि। उ॒च्छे॒त्। क॒दा। च॒न। ६.२१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1296,13 +1359,16 @@ Hansa, what time he rises up, leaves in the flood one foot un- moved. If he with
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ष्टाच॑क्रं वर्तत॒ एक॑नेमि स॒हस्रा॑क्षरं॒ प्र पु॒रो नि प॒श्चा।  
-अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥२२॥  
+अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/22_aShTAchakraM_vartata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ष्टाच॑क्रं वर्तत॒ एक॑नेमि स॒हस्रा॑क्षरं॒ प्र पु॒रो नि प॒श्चा। अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥
+अ॒ष्टाच॑क्रं वर्तत॒ एक॑नेमि स॒हस्रा॑क्षरं॒ प्र पु॒रो नि प॒श्चा।  
+अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/22_aShTAchakraM_vartata.md">
@@ -1331,7 +1397,7 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 </details>
 <details><summary>पदपाठः</summary>
 
-अष्टाऽचक्रम्। वर्तते। एकऽनेमि। सहस्रऽअक्षरम्। प्र। पुरः। नि। पश्चा। अर्धेन। विश्वम्। भुवनम्। जजान। यत्। अस्य। अर्धम्। कतमः। सः। केतुः। ६.२२।
+अ॒ष्टाऽच॑क्रम्। व॒र्त॒ते॒। एक॑ऽनेमि। स॒हस्र॑ऽअक्षरम्। प्र। पु॒रः। नि। प॒श्चा। अ॒र्धेन॑। विश्व॑म्। भुव॑नम्। ज॒जान॑। यत्। अ॒स्य॒। अ॒र्धम्। क॒त॒मः। सः। के॒तुः। ६.२२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1362,14 +1428,17 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/23_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒स्य वि॒श्वज॑न्मन॒ ईशे॒ विश्व॑स्य॒ चेष्ट॑तः ।  
-अन्ये॑षु क्षि॒प्रध॑न्वने॒ तस्मै॑ प्राण॒ नमो॑ऽस्तु ते ॥२३॥  
+यो अ॒स्य वि॒श्वज॑न्मन॒ ईशे॒ विश्व॑स्य॒ चेष्ट॑तः।  
+अन्ये॑षु क्षि॒प्रध॑न्वने॒ तस्मै॑ प्राण॒ नमो॑ऽस्तु ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/23_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒स्य वि॒श्वज॑न्मन॒ ईशे॒ विश्व॑स्य॒ चेष्ट॑तः। अन्ये॑षु क्षि॒प्रध॑न्वने॒ तस्मै॑ प्राण॒ नमो॑ऽस्तु ते ॥
+यो अ॒स्य वि॒श्वज॑न्मन॒ ईशे॒ विश्व॑स्य॒ चेष्ट॑तः।  
+अन्ये॑षु क्षि॒प्रध॑न्वने॒ तस्मै॑ प्राण॒ नमो॑ऽस्तु ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/23_yo_asya.md">
@@ -1396,7 +1465,7 @@ Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। विश्वऽजन्मनः। ईशे। विश्वस्य। चेष्टतः। अन्येषु। क्षिप्रऽधन्वने। तस्मै। प्राण। नमः। अस्तु। ते। ६.२३।
+यः। अ॒स्य। वि॒श्वऽज॑न्मनः। ईशे॑। विश्व॑स्य। चेष्ट॑तः। अन्ये॑षु। क्षि॒प्रऽध॑न्वने। तस्मै॑। प्रा॒ण॒। नमः॑। अ॒स्तु॒। ते॒। ६.२३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1427,14 +1496,17 @@ Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/24_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒स्य स॒र्वज॑न्मन॒ ईशे॒ सर्व॑स्य॒ चेष्ट॑तः ।  
-अत॑न्द्रो॒ ब्रह्म॑णा॒ धीरः॑ प्रा॒णो मानु॑ तिष्ठातु ॥२४॥  
+यो अ॒स्य स॒र्वज॑न्मन॒ ईशे॒ सर्व॑स्य॒ चेष्ट॑तः।  
+अत॑न्द्रो॒ ब्रह्म॑णा॒ धीरः॑ प्रा॒णो मानु॑ तिष्ठतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/24_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒स्य स॒र्वज॑न्मन॒ ईशे॒ सर्व॑स्य॒ चेष्ट॑तः। अत॑न्द्रो॒ ब्रह्म॑णा॒ धीरः॑ प्रा॒णो मानु॑ तिष्ठतु ॥
+यो अ॒स्य स॒र्वज॑न्मन॒ ईशे॒ सर्व॑स्य॒ चेष्ट॑तः।  
+अत॑न्द्रो॒ ब्रह्म॑णा॒ धीरः॑ प्रा॒णो मानु॑ तिष्ठतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/24_yo_asya.md">
@@ -1456,7 +1528,7 @@ May he who rules this Universe of varied sort, that stirs and works, Prana, aler
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। सर्वऽजन्मनः। ईशे। सर्वस्य। चेष्टतः। अतन्द्रः। ब्रह्मणा। धीरः। प्राणः। मा। अनु। तिष्ठतु। ६.२४।
+यः। अ॒स्य। स॒र्वऽज॑न्मनः। ईशे॑। सर्व॑स्य। चेष्ट॑तः। अत॑न्द्रः। ब्रह्म॑णा। धीरः॑। प्रा॒णः। मा॒। अनु॑। ति॒ष्ठ॒तु॒। ६.२४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1487,14 +1559,17 @@ May he who rules this Universe of varied sort, that stirs and works, Prana, aler
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/25_UrdhvaH_supteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ् नि प॑द्यते ।  
-न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न॥२५॥  
+ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ्नि प॑द्यते।  
+न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/25_UrdhvaH_supteShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ्नि प॑द्यते। न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न ॥
+ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ्नि प॑द्यते।  
+न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/25_UrdhvaH_supteShu.md">
@@ -1521,7 +1596,7 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वः। सुप्तेषु। जागार। ननु। तिर्यङ्। नि। पद्यते। न। सुप्तम्। अस्‍य। सुप्तेषु। अनु। शुश्राव। कः। चन। ६.२५।
+ऊ॒र्ध्वः। सु॒प्तेषु॑। जा॒गा॒र॒। न॒नु। ति॒र्यङ्। नि। प॒द्य॒ते॒। न। सु॒प्तम्। अ॒स्‍य॒। सु॒प्तेषु॑। अनु॑। शु॒श्रा॒व॒। कः। च॒न। ६.२५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1552,14 +1627,17 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/26_prANa_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राण॒ मा म॑त् प॒र्यावृ॑तो॒ न मद॒न्यो भ॑विष्यसि ।  
-अ॒पां गर्भ॑मिव जी॒वसे॒ प्राण॑ ब॒ध्नामि॑ त्वा॒ मयि॑ ॥२६॥
+प्राण॒ मा मत्प॒र्यावृ॑तो॒ न मद॒न्यो भ॑विष्यसि।  
+अ॒पां गर्भ॑मिव जी॒वसे॒ प्राण॑ ब॒ध्नामि॑ त्वा॒ मयि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/26_prANa_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्राण॒ मा मत्प॒र्यावृ॑तो॒ न मद॒न्यो भ॑विष्यसि। अ॒पां गर्भ॑मिव जी॒वसे॒ प्राण॑ ब॒ध्नामि॑ त्वा॒ मयि॑ ॥
+प्राण॒ मा मत्प॒र्यावृ॑तो॒ न मद॒न्यो भ॑विष्यसि।  
+अ॒पां गर्भ॑मिव जी॒वसे॒ प्राण॑ ब॒ध्नामि॑ त्वा॒ मयि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/26_prANa_mA.md">
@@ -1596,7 +1674,7 @@ Thou, Prana, never shalt be hid, never shalt be estranged from me. I bind thee o
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राण। मा। मत्। परिऽआवृतः। न। मत्। अन्यः। भविष्यसि। अपाम्। गर्भम्ऽइव। जीवसे। प्राण। बध्नामि। त्वा। मयि। ६.२६।
+प्राण॑। मा। मत्। प॒रि॒ऽआवृ॑तः। न। मत्। अ॒न्यः। भ॒वि॒ष्य॒सि॒। अ॒पाम्। गर्भ॑म्ऽइव। जी॒वसे॑। प्राण॑। ब॒ध्नामि॑। त्वा॒। मयि॑। ६.२६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

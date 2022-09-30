@@ -32,23 +32,25 @@ A prayer for security from danger
 </details>
 </details>
 </div>
-## ०१ असपत्नं पुरस्तात्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/01_asapatnaM_purastAt.md">
+## ०१ असपत्नं पुरस्तात्पश्चान्नो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स॒प॒त्नं पु॒रस्ता॑त् प॒श्चान्नो॒ अभ॑यं कृतम्।  
-स॒वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॒ शची॒पतिः॑ ॥१॥  
+अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
+स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/01_asapatnaM_purastAt.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स॒प॒त्नं पु॒रस्ता॑त् प॒श्चान्नो॒ अभ॑यं कृतम्।  
-स॒वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॒ शची॒पतिः॑ ॥१॥  
+अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
+स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/01_asapatnaM_purastAt.md">
-<details open><summary><h3>०१ असपत्नं पुरस्तात् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/01_asapatnaM_purastAtpashchAnno.md">
+<details open><summary><h3>०१ असपत्नं पुरस्तात्पश्चान्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -74,7 +76,7 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 </details>
 <details><summary>पदपाठः</summary>
 
-असपत्नम्। पुरस्तात्। पश्चात्। नः। अभयम्। कृतम्। सविता। मा। दक्षिणतः। उत्तरात्। मा। शचीऽपतिः। १६.१।
+अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। १६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,17 +107,19 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/016_abhayam/02_divo_mAdityA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑ ।  
-इ॒न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
-ति॒र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥२॥
+दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
+इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
+ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/016_abhayam/02_divo_mAdityA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑ ।  
-इ॒न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
-ति॒र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥२॥
+दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
+इ॑न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्।  
+ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/016_abhayam/02_divo_mAdityA.md">
@@ -172,7 +176,7 @@ May the Adityas from the sky protect me, Agni from the earth. May Indra-Agni gua
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवः। मा। आदित्याः। रक्षन्तु। भूम्याः। रक्षन्तु। अग्नयः। इन्द्राग्नी इति। रक्षताम्। मा। पुरस्तात्। अश्विनौ। अभितः। शर्म। यच्छताम्। तिरश्चीन्। अघ्न्या। रक्षतु। जातऽवेदाः। भूतऽकृतः। मे। सर्वतः। सन्तु। वर्म। १६.२।
+दि॒वः। मा॒। आ॒दि॒त्याः। र॒क्ष॒न्तु॒। भूम्याः॑। र॒क्ष॒न्तु॒। अ॒ग्नयः॑। इ॒न्द्रा॒ग्नी इति॑। र॒क्ष॒ता॒म्। मा॒। पुरस्ता॑त्। अ॒श्विनौ॑। अ॒भितः॑। शर्म॑। य॒च्छ॒ता॒म्। ति॒र॒श्चीन्। अ॒घ्न्या। र॒क्ष॒तु॒। जा॒तऽवे॑दाः। भू॒त॒ऽकृतः॑। मे॒। स॒र्वतः॑। स॒न्तु॒। वर्म॑। १६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm against fever and other ailments
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो गि॒रिष्वजा॑यथा वी॒रुधां॒ बल॑वत्तमः ।  
-कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥१॥  
+यो गि॒रिष्वजा॑यथा वी॒रुधां॒ बल॑वत्तमः।  
+कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो गि॒रिष्वजा॑यथा वी॒रुधां॒ बल॑वत्तमः। कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥
+यो गि॒रिष्वजा॑यथा वी॒रुधां॒ बल॑वत्तमः।  
+कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
@@ -66,7 +69,7 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। गिरिषु। अजायथाः। वीरुधाम्। बलवत्ऽतमः। कुष्ठ। आ। इहि। तक्मऽनाशन। तक्मानम्। नाशयन्। इतः। ४.१।
+यः। गि॒रिषु॑। अजा॑यथाः। वी॒रुधा॑म्। बल॑वत्ऽतमः। कुष्ठ॑। आ। इ॒हि॒। त॒क्म॒ऽना॒श॒न॒। त॒क्मान॑म्। ना॒शय॑न्। इ॒तः। ४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒प॒र्ण॒सुव॑ने गि॒रौ जा॒तं हि॒मव॑त॒स्परि॑ ।  
-धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम्॥२॥  
+सु॑पर्ण॒सुव॑ने गि॒रौ जा॒तं हि॒मव॑त॒स्परि॑।  
+धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॑पर्ण॒सुव॑ने गि॒रौ जा॒तं हि॒मव॑त॒स्परि॑। धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम् ॥
+सु॑पर्ण॒सुव॑ने गि॒रौ जा॒तं हि॒मव॑त॒स्परि॑।  
+धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
@@ -127,7 +133,7 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 </details>
 <details><summary>पदपाठः</summary>
 
-सुपर्णऽसुवने। गिरौ। जातम्। हिमऽवतः। परि। धनैः। अभि। श्रुत्वा। यन्ति। विदुः। हि। तक्मऽनाशनम्। ४.२।
+सु॒प॒र्ण॒ऽसुव॑ने। गि॒रौ। जा॒तम्। हि॒मऽव॑तः। परि॑। धनैः॑। अ॒भि। श्रु॒त्वा। य॒न्ति॒। वि॒दुः। हि। त॒क्म॒ऽनाश॑नम्। ४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥३॥  
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि। तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
@@ -190,7 +199,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। देवाः। कुष्ठम्। अवन्वत। ४.३।
+अ॒श्व॒त्थः। दे॒व॒ऽसद॑नः। तृ॒तीय॑स्याम्। इ॒तः। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त। ४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -221,14 +230,17 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥४॥  
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि। तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
@@ -260,7 +272,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ४.४।
+हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -291,14 +303,17 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑ ।  
-नावो॑ हिर॒ण्ययी॑रास॒न् याभिः॒ कुष्ठं॑ नि॒राव॑हन्॥५॥  
+हि॑र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑।  
+नावो॑ हिर॒ण्ययी॑रास॒न्याभिः॒ कुष्ठं॑ नि॒राव॑हन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॑र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑। नावो॑ हिर॒ण्ययी॑रास॒न्याभिः॒ कुष्ठं॑ नि॒राव॑हन् ॥
+हि॑र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑।  
+नावो॑ हिर॒ण्ययी॑रास॒न्याभिः॒ कुष्ठं॑ नि॒राव॑हन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
@@ -321,7 +336,7 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्ययाः। पन्थानः। आसन्। अरित्राणि। हिरण्यया। नावः। हिरण्ययीः। आसन्। याभिः। कुष्ठम्। निःऽआवहन्। ४.५।
+हि॒र॒ण्ययाः॑। पन्था॑नः। आ॒स॒न्। अरि॑त्राणि। हि॒र॒ण्यया॑। नावः॑। हि॒र॒ण्ययीः॑। आ॒स॒न्। याभिः॑। कुष्ठ॑म्। निः॒ऽआव॑हन्। ४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -352,14 +367,17 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/06_imaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं मे॑ कुष्ठ॒ पूरु॑षं॒ तमा व॑ह॒ तं निष्कु॑रु ।  
-तमु॑ मे अग॒दं कृ॑धि ॥६॥  
+इ॒मं मे॑ कुष्ठ॒ पूरु॑षं॒ तमा व॑ह॒ तं निष्कु॑रु।  
+तमु॑ मे अग॒दं कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/06_imaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं मे॑ कुष्ठ॒ पूरु॑षं॒ तमा व॑ह॒ तं निष्कु॑रु। तमु॑ मे अग॒दं कृ॑धि ॥
+इ॒मं मे॑ कुष्ठ॒ पूरु॑षं॒ तमा व॑ह॒ तं निष्कु॑रु।  
+तमु॑ मे अग॒दं कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/06_imaM_me.md">
@@ -380,7 +398,7 @@ O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। मे। कुष्ठ। पुरुषम्। तम्। आ। वह। तम्। निः। कुरु। तम्। ऊं इति। मे। अगदम्। कृधि। ४.६।
+इ॒मम्। मे॒। कु॒ष्ठ॒। पुरु॑षम्। तम्। आ। व॒ह॒। तम्। निः। कु॒रु॒। तम्। ऊं॒ इति॑। मे॒। अ॒ग॒दम्। कृ॒धि॒। ४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -411,14 +429,17 @@ O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः ।  
-स प्रा॒णाय॑ व्या॒नाय॒ च॑क्षुषे मे अ॒स्मै मृ॑ड ॥७॥  
+दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः।  
+स प्रा॒णाय॑ व्या॒नाय॒ चक्षु॑षे मे अ॒स्मै मृ॑ड ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः। स प्रा॒णाय॑ व्या॒नाय॒ चक्षु॑षे मे अ॒स्मै मृ॑ड ॥
+दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः।  
+स प्रा॒णाय॑ व्या॒नाय॒ चक्षु॑षे मे अ॒स्मै मृ॑ड ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
@@ -440,7 +461,7 @@ Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my
 </details>
 <details><summary>पदपाठः</summary>
 
-देवेभ्यः। अधि। जातः। असि। सोमस्य। असि। सखा। हितः। सः। प्राणाय। विऽआनाय। चक्षुषे। मे। अस्मै। मृड। ४.७।
+दे॒वेभ्यः॑। अधि॑। जा॒तः। अ॒सि॒। सोम॑स्य। अ॒सि॒। सखा॑। हि॒तः। सः। प्रा॒णाय॑। वि॒ऽआ॒नाय॑। चक्षु॑षे। मे॒। अ॒स्मै। मृ॒ड॒। ४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -471,14 +492,17 @@ Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑ङ् जा॒तो हि॒मव॑तः॒ स प्रा॒च्यां नी॑यसे॒ जन॑म्।  
-तत्र॑ कुष्ठ॑स्य॒ नामा॑न्युत्त॒मानि॒ वि भे॑जिरे ॥८॥  
+उद॑ङ्जा॒तो हि॒मव॑तः॒ स प्रा॒च्यां नी॑यसे॒ जन॑म्।  
+तत्र॒ कुष्ठ॑स्य॒ नामा॑न्युत्त॒मानि॒ वि भे॑जिरे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॑ङ्जा॒तो हि॒मव॑तः॒ स प्रा॒च्यां नी॑यसे॒ जन॑म्। तत्र॒ कुष्ठ॑स्य॒ नामा॑न्युत्त॒मानि॒ वि भे॑जिरे ॥
+उद॑ङ्जा॒तो हि॒मव॑तः॒ स प्रा॒च्यां नी॑यसे॒ जन॑म्।  
+तत्र॒ कुष्ठ॑स्य॒ नामा॑न्युत्त॒मानि॒ वि भे॑जिरे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
@@ -501,7 +525,7 @@ Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There t
 </details>
 <details><summary>पदपाठः</summary>
 
-उदङ्। जातः। हिमऽवतः। सः। प्राच्याम्। नीयसे। जनम्। तत्र। कुष्ठस्य। नामानि। उत्ऽतमानि। वि। भेजिरे। ४.८।
+उद॑ङ्। जा॒तः। हि॒मऽव॑तः। सः। प्रा॒च्याम्। नी॒य॒से॒। जन॑म्। तत्र॑। कुष्ठ॑स्य। नामा॑नि। उ॒त्ऽत॒मानि॑। वि। भे॒जि॒रे॒। ४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -532,14 +556,17 @@ Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त्त॒मो नाम॑ कुष्ठस्युत्त॒मो नाम॑ ते पि॒ता।  
-यक्ष्मं॑ च॒ सर्वं॑ ना॒शय॑ त॒क्मानं॑ चार॒सं कृ॑धि ॥९॥  
+उ॑त्त॒मो नाम॑ कुष्ठास्युत्त॒मो नाम॑ ते पि॒ता।  
+यक्ष्मं॑ च॒ सर्वं॑ ना॒शय॑ त॒क्मानं॑ चार॒सं कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑त्त॒मो नाम॑ कुष्ठास्युत्त॒मो नाम॑ ते पि॒ता। यक्ष्मं॑ च॒ सर्वं॑ ना॒शय॑ त॒क्मानं॑ चार॒सं कृ॑धि ॥
+उ॑त्त॒मो नाम॑ कुष्ठास्युत्त॒मो नाम॑ ते पि॒ता।  
+यक्ष्मं॑ च॒ सर्वं॑ ना॒शय॑ त॒क्मानं॑ चार॒सं कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
@@ -560,7 +587,7 @@ Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Cons
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतमः। नाम। कुष्ठ। असि। उत्ऽतमः। नाम। ते। पिता। यक्ष्मम्। च। सर्वम्। नाशय। तक्मानम्। च। अरसम्। कृधि। ४.९।
+उ॒त्ऽत॒मः। नाम॑। कु॒ष्ठ॒। अ॒सि॒। उ॒त्ऽत॒मः। नाम॑। ते॒। पि॒ता। यक्ष्म॑म्। च॒। सर्व॑म्। ना॒शय॑। त॒क्मान॑म्। च॒। अ॒र॒सम्। कृ॒धि॒। ४.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -587,22 +614,25 @@ Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Cons
 </details>
 </details>
 </div>
-## १० शीर्षामयमुपहत्यामक्ष्योस्तन्वो३रपः कुष्ठस्तत्सर्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvo3rapaH_kuShThast.md">
+## १० शीर्षामयमुपहत्यामक्ष्योस्तन्वोरपः कुष्ठस्तत्सर्वम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शी॒र्षा॒म॒यमु॑पह॒त्याम॒क्ष्योस्त॒न्वो॒३रपः॑ ।  
-कुष्ठ॒स्तत् सर्वं॒ निष्क॑र॒द् दैवं॑ समह॒ वृष्ण्य॑म्॥१०॥
+शी॑र्षाम॒यमु॑पह॒त्याम॒क्ष्योस्त॒न्वो॒३॒॑रपः॑।  
+कुष्ठ॒स्तत्सर्वं॒ निष्क॑र॒द्दैवं॑ समह॒ वृष्ण्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvo3rapaH_kuShThast.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शी॑र्षाम॒यमु॑पह॒त्याम॒क्ष्योस्त॒न्वो॒३॒॑रपः॑। कुष्ठ॒स्तत्सर्वं॒ निष्क॑र॒द्दैवं॑ समह॒ वृष्ण्य॑म् ॥
+शी॑र्षाम॒यमु॑पह॒त्याम॒क्ष्योस्त॒न्वो॒३॒॑रपः॑।  
+कुष्ठ॒स्तत्सर्वं॒ निष्क॑र॒द्दैवं॑ समह॒ वृष्ण्य॑म् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvo3rapaH_kuShThast.md">
-<details open><summary><h3>१० शीर्षामयमुपहत्यामक्ष्योस्तन्वो३रपः कुष्ठस्तत्सर्वम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
+<details open><summary><h3>१० शीर्षामयमुपहत्यामक्ष्योस्तन्वोरपः कुष्ठस्तत्सर्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -624,7 +654,7 @@ Malady that affects the head, eye-weakness, bodily defect-- All this let Kushtha
 </details>
 <details><summary>पदपाठः</summary>
 
-शीर्षऽआमयम्। उपऽहत्याम्। अक्ष्योः। तन्वः᳡। रपः। कुष्ठः। तत्। सर्वम्। निः। करत्। दैवम्। समह। वृष्ण्यम्। ४.१०।
+शी॒र्ष॒ऽआ॒म॒यम्। उ॒प॒ऽह॒त्याम्। अ॒क्ष्योः। त॒न्वः᳡। रपः॑। कुष्ठः॑। तत्। सर्व॑म्। निः। क॒र॒त्। दैव॑म्। स॒म॒ह॒। वृष्ण्य॑म्। ४.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

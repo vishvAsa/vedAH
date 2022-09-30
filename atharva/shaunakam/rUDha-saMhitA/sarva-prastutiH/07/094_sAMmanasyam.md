@@ -32,14 +32,17 @@ Translated: Henry, 38, 109; Griffith, i. 375.—Cf. Oldenberg, Rigveda i. p. 249
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि ।  
-यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त्॥१॥
+ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि।  
+यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि। यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त् ॥
+ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि।  
+यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/094_sAMmanasyam/01_dhruvaM_dhruveNa.md">
@@ -68,7 +71,7 @@ We laid the constant Soma on with constant sacrificial gift, That Indra may make
 </details>
 <details><summary>पदपाठः</summary>
 
-ध्रुवम्। ध्रुवेण। हविषा। अव। सोमम्। नयामसि। यथा। नः। इन्द्रः। केवलीः। विशः। सम्ऽमनसः। करत्। ९९.१।
+ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। नः॒। इन्द्रः॑। केव॑लीः। विशः॑। सम्ऽम॑नसः। कर॑त्। ९९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,15 +36,17 @@ A hymn to Night for protection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/01_atho_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अथो॒ यानि॑ च॒ यस्मा॑ ह॒ यानि॑ चा॒न्तः प॑री॒णहि॑ ।  
-तानि॑ ते॒ परि॑ दद्मसि ॥१॥  
+अथो॒ यानि॑ च॒ यस्मा॑ ह॒ यानि॑ चा॒न्तः प॑री॒णहि॑।  
+तानि॑ ते॒ परि॑ दद्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/01_atho_yAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अथो॒ यानि॑ च॒ यस्मा॑ ह॒ यानि॑ चा॒न्तः प॑री॒णहि॑ ।  
-तानि॑ ते॒ परि॑ दद्मसि ॥१॥  
+अथो॒ यानि॑ च॒ यस्मा॑ ह॒ यानि॑ चा॒न्तः प॑री॒णहि॑।  
+तानि॑ ते॒ परि॑ दद्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/01_atho_yAni.md">
@@ -90,7 +92,7 @@ Then all that we accumulate, all that the treasure-chest contains,. All this do 
 </details>
 <details><summary>पदपाठः</summary>
 
-अथो इति। यानि। च। यस्मै। ह। यानि। च। अन्तः। परिऽणहि। तानि। ते। परि। दद्मसि। ४८.१।
+अथो॒ इति॑। यानि॑। च॒। यस्मै॑। ह॒। यानि॑। च॑। अन्तः॑। प॒रि॒ऽणहि॑। तानि॑। ते॒। परि॑। द॒द्म॒सि॒। ४८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -121,14 +123,17 @@ Then all that we accumulate, all that the treasure-chest contains,. All this do 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि ।  
-उ॒षा नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥२॥  
+रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि।  
+उ॒षो नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि। उ॒षो नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥
+रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि।  
+उ॒षो नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
@@ -152,7 +157,7 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 </details>
 <details><summary>पदपाठः</summary>
 
-रात्रि। मातः। उषसे। नः। परि। देहि। उषाः। नः। अह्ने। परि। ददातु। अहः। तुभ्यम्। विभावरि। ४८.२।
+रात्रि॑। मातः॑। उ॒षसे॑। नः॒। परि॑। दे॒हि॒। उ॒षाः। नः॒। अह्ने॑। परि॑। द॒दा॒तु॒। अहः॑। तुभ्य॑म्। वि॒भा॒व॒रि॒। ४८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,23 +184,25 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 </details>
 </details>
 </div>
-## ०३ यत् किम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/03_yat_kim.md">
+## ०३ यत्किं चेदम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/03_yatkiM_chedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् किं चे॒दं प॒तय॑ति यत् किं चे॒दं स॑रीसृ॒पम्।  
-यत् किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त् त्वं रा॑त्रि पाहि नः ॥३॥  
+यत्किं चे॒दं प॒तय॑ति॒ यत्किं चे॒दं स॑रीसृ॒पम्।  
+यत्किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त्त्वं रा॑त्रि पाहि नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/03_yat_kim.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/03_yatkiM_chedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत् किं चे॒दं प॒तय॑ति यत् किं चे॒दं स॑रीसृ॒पम्।  
-यत् किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त् त्वं रा॑त्रि पाहि नः ॥३॥  
+यत्किं चे॒दं प॒तय॑ति॒ यत्किं चे॒दं स॑रीसृ॒पम्।  
+यत्किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त्त्वं रा॑त्रि पाहि नः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/03_yat_kim.md">
-<details open><summary><h3>०३ यत् किम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/03_yatkiM_chedam.md">
+<details open><summary><h3>०३ यत्किं चेदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -228,7 +235,7 @@ Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। किम्। च। इदम्। पतयति। यत्। किम्। च। इदम्। सरीसृपम्। यत्। किम्। च। पर्वताय। असत्वम्। तस्मात्। त्वम्। रात्रि। पाहि। नः। ४८.३।
+यत्। किम्। च॒। इ॒दम्। प॒तय॑ति। यत्। किम्। च॒। इ॒दम्। स॒री॒सृ॒पम्। यत्। किम्। च॒। पर्व॑ताय। अ॒सत्व॑म्। तस्मा॑त्। त्वम्। रात्रि॑। पा॒हि॒। नः॒। ४८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -255,23 +262,25 @@ Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever 
 </details>
 </details>
 </div>
-## ०४ सा पश्चात्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/04_sA_pashchAt.md">
+## ०४ सा पश्चात्पाहि
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सा प॒श्चात् पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
-गो॒पाय॑ नो विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥४॥  
+सा प॒श्चात्पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
+गो॑पा॒य नो॑ विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/04_sA_pashchAt.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/04_sA_pashchAtpAhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सा प॒श्चात् पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
-गो॒पाय॑ नो विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥४॥  
+सा प॒श्चात्पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
+गो॑पा॒य नो॑ विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/04_sA_pashchAt.md">
-<details open><summary><h3>०४ सा पश्चात् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
+<details open><summary><h3>०४ सा पश्चात्पाहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -286,7 +295,7 @@ So guard thou us from west and east, protect us from the north and south. O sple
 </details>
 <details><summary>पदपाठः</summary>
 
-सा। पश्चात्। पाहि। सा। पुरः। सा। उत्तरात्। अधरात्। उत। गोपाय। नः। विभावरि। स्तोतारः। ते। इह। स्मसि। ४८.४।
+सा। प॒श्चात्। पा॒हि॒। सा। पु॒रः। सा। उ॒त्त॒रात्। अ॒ध॒रात्। उ॒त। गो॒पाय॑। नः॒। वि॒भा॒व॒रि॒। स्तो॒तारः॑। ते॒। इ॒ह॒। स्म॒सि॒। ४८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -317,15 +326,17 @@ So guard thou us from west and east, protect us from the north and south. O sple
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये रात्रि॑मनु॒तिष्ठ॑न्ति॒ ये च॑ भू॒तेषु॒ जाग्र॑ति ।  
-प॒शून् ये सर्वा॒न् रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥५॥  
+ये रात्रि॑मनु॒तिष्ठ॑न्ति॒ ये च॑ भू॒तेषु॒ जाग्र॑ति।  
+प॒शून्ये सर्वा॒न्रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये रात्रि॑मनु॒तिष्ठ॑न्ति॒ ये च॑ भू॒तेषु॒ जाग्र॑ति ।  
-प॒शून् ये सर्वा॒न् रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥५॥  
+ये रात्रि॑मनु॒तिष्ठ॑न्ति॒ ये च॑ भू॒तेषु॒ जाग्र॑ति।  
+प॒शून्ये सर्वा॒न्रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
@@ -358,7 +369,7 @@ They who are followers of Night, and they who watch o'er living things. They who
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। रात्रिम्। अनुऽतिष्ठन्ति। ये। च। भूतेषु। जाग्रति। पशून्। ये। सर्वान्। रक्षन्ति। ते। नः। आत्मऽसु। जाग्रति। ते। नः। पशुषु। जाग्रति। ४८.५।
+ये। रात्रि॑म्। अ॒नु॒ऽतिष्ठ॑न्ति। ये। च॒। भू॒तेषु॑। जाग्र॑ति। प॒शून्। ये। सर्वा॑न्। रक्ष॑न्ति। ते। नः॒। आ॒त्मऽसु॑। जा॒ग्र॒ति॒। ते। नः॒। प॒शुषु॑। जा॒ग्र॒ति॒। ४८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -389,15 +400,17 @@ They who are followers of Night, and they who watch o'er living things. They who
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/06_veda_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वेद॒ वै रा॑त्रि ते॒ नाम॑ घृ॒ताची॒ नाम॒ वा अ॑सि ।  
-तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥६॥
+वेद॒ वै रा॑त्रि ते॒ नाम॑ घृ॒ताची॒ नाम॒ वा अ॑सि।  
+तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/06_veda_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वेद॒ वै रा॑त्रि ते॒ नाम॑ घृ॒ताची॒ नाम॒ वा अ॑सि ।  
-तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥६॥
+वेद॒ वै रा॑त्रि ते॒ नाम॑ घृ॒ताची॒ नाम॒ वा अ॑सि।  
+तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/06_veda_vai.md">
@@ -427,7 +440,7 @@ Verily, Night, I know thy name, Dropper of Fatness art thou called. Thee Bharadv
 </details>
 <details><summary>पदपाठः</summary>
 
-वेद। वै। रात्रि। ते। नाम। घृताची। नाम। वै। असि। ताम्। त्वाम्। भरत्ऽवाजः। वेद। सा। नः। वित्ते। अधि। जाग्रति। ४८.६।
+वेद॑। वै। रा॒त्रि॒। ते॒। नाम॑। घृ॒ताची॑। नाम॑। वै। अ॒सि॒। ताम्। त्वाम्। भ॒रत्ऽवा॑जः। वे॒द॒। सा। नः॒। वि॒त्ते। अधि॑। जा॒ग्र॒ति॒। ४८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

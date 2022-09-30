@@ -37,13 +37,16 @@ Praise of the sacrificial utensils
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति।  
-ह॒वि॒ष्कृतो॑ य॒ज्ञिया॑ य॒ज्ञका॑मा॒स्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम्॥१॥
+ह॑वि॒ष्कृतो॑ यज्ञिया य॒ज्ञका॑मास्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति। ह॑वि॒ष्कृतो॑ यज्ञिया य॒ज्ञका॑मास्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम् ॥
+वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति।  
+ह॑वि॒ष्कृतो॑ यज्ञिया य॒ज्ञका॑मास्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/028_svasti/01_vedaH_svastirdrughaNaH.md">
@@ -85,7 +88,7 @@ Blest be the Broom, may the Mace bring a blessing, and may the Altar and the Hat
 </details>
 <details><summary>पदपाठः</summary>
 
-वेदः। स्वस्तिः। द्रुऽघनः। स्वस्तिः। परशुः। वेदिः। परशुः। नः। स्वस्ति। हविःऽकृतः। यज्ञियाः। यज्ञऽकामाः। ते। देवासः। यज्ञम्। इमम्। जुषन्ताम्। २९.१।
+वे॒दः। स्व॒स्तिः। द्रु॒ऽघ॒नः। स्व॒स्तिः। प॒र॒शुः। वेदिः॑। प॒र॒शुः। नः॒। स्व॒स्ति। ह॒विः॒ऽकृतः॑। य॒ज्ञियाः॑। य॒ज्ञऽका॑माः। ते। दे॒वासः॑। य॒ज्ञम्। इ॒मम्। जु॒ष॒न्ता॒म्। २९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

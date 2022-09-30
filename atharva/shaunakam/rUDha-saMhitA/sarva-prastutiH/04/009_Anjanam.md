@@ -33,13 +33,16 @@ A charm addressed to a precious ointment for safety and wealth
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एहि॑ जी॒वं त्राय॑माणं॒ पर्व॑तस्या॒स्यक्ष्य॑म्।  
-विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम्॥१॥  
+विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/01_ehi_jIvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एहि॑ जी॒वं त्राय॑माणं॒ पर्व॑तस्या॒स्यक्ष्य॑म्। विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम् ॥
+एहि॑ जी॒वं त्राय॑माणं॒ पर्व॑तस्या॒स्यक्ष्य॑म्।  
+विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/01_ehi_jIvam.md">
@@ -74,7 +77,7 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इहि। जीवम्। त्रायमाणम्। पर्वतस्य। असि। अक्ष्यम्। विश्वेभिः। देवैः। दत्तम्। परिऽधिः। जीवनाय। कम्। ९.१।
+आ। इ॒हि॒। जी॒वम्। त्राय॑माणम्। पर्व॑तस्य। अ॒सि॒। अक्ष्य॑म्। विश्वे॑भिः। दे॒वैः। द॒त्तम्। प॒रि॒ऽधिः। जीव॑नाय। कम्। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि ।  
-अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥२॥  
+प॑रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि।  
+अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॑रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि। अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥
+प॑रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि।  
+अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
@@ -135,7 +141,7 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 </details>
 <details><summary>पदपाठः</summary>
 
-परिऽपानम्। पुरुषाणाम्। परिऽपानम्। गवाम्। असि। अश्वानाम्। अर्वताम्। परिऽपानाय। तस्थिषे। ९.२।
+प॒रि॒ऽपान॑म्। पुरु॑षाणाम्। प॒रि॒ऽपान॑म्। गवा॑म्। अ॒सि॒। अश्वा॑नाम्। अर्व॑ताम्। प॒रि॒ऽपाना॑य। त॒स्थि॒षे॒। ९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/03_utAsi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन ।  
-उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम्॥३॥  
+उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन।  
+उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/03_utAsi_paripANam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन। उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम् ॥
+उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन।  
+उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/03_utAsi_paripANam.md">
@@ -201,7 +210,7 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 </details>
 <details><summary>पदपाठः</summary>
 
-उत। असि। परिऽपानम्। यातुऽजम्भनम्। आऽअञ्जन। उत। अमृतस्य। त्वम्। वेत्थ। अथो इति। असि। जीवऽभोजनम्। अथो इति। हरितऽभेषजम्। ९.३।
+उ॒त। अ॒सि॒। प॒रि॒ऽपान॑म्। या॒तु॒ऽजम्भ॑नम्। आ॒ऽअ॒ञ्ज॒न॒। उ॒त। अ॒मृत॑स्य। त्वम्। वे॒त्थ॒। अथो॒ इति॑। अ॒सि॒। जी॒व॒ऽभोज॑नम्। अथो॒ इति॑। ह॒रि॒त॒ऽभे॒ष॒जम्। ९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -232,14 +241,17 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः ।  
-ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो मध्यम॒शीरि॑व ॥४॥  
+यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः।  
+ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो म॑ध्यम॒शीरि॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः। ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो म॑ध्यम॒शीरि॑व ॥
+यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः।  
+ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो म॑ध्यम॒शीरि॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
@@ -280,7 +292,7 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। आऽअञ्जन। प्रऽसर्पसि। अङ्गम्ऽअङ्गम्। परुःऽपरुः। ततः। यक्ष्मम्। वि। बाधसे। उग्रः। मध्यमशीःऽइव। ९.४।
+यस्य॑। आ॒ऽअ॒ञ्ज॒न॒। प्र॒ऽसर्प॑सि। अङ्ग॑म्ऽअङ्गम्। परुः॑ऽपरुः। ततः॑। यक्ष्म॑म्। वि। बा॒ध॒से॒। उ॒ग्रः। म॒ध्य॒म॒शीःऽइ॑व। ९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -312,13 +324,16 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नैनं॒ प्राप्नो॑ति श॒पथो॒ न कृ॒त्या नाभि॒शोच॑नम्।  
-नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥५॥  
+नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नैनं॒ प्राप्नो॑ति श॒पथो॒ न कृ॒त्या नाभि॒शोच॑नम्। नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥
+नैनं॒ प्राप्नो॑ति श॒पथो॒ न कृ॒त्या नाभि॒शोच॑नम्।  
+नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/05_nainaM_prApnoti.md">
@@ -340,7 +355,7 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 </details>
 <details><summary>पदपाठः</summary>
 
-न। एनम्। प्र। आप्नोति। शपथः। न। कृत्या। न। अभिऽशोचनम्। न। एनम्। विऽस्कन्धम्। अश्नुते। यः। त्वा। बिभर्ति। आऽअञ्जन। ९.५।
+न। ए॒न॒म्। प्र। आ॒प्नो॒ति॒। श॒पथः॑। न। कृ॒त्या। न। अ॒भिऽशोच॑नम्। न। ए॒न॒म्। विऽस्क॑न्धम्। अ॒श्नु॒ते॒। यः। त्वा॒। बिभ॑र्ति। आ॒ऽअ॒ञ्ज॒न॒। ९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -371,14 +386,17 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स॒न्म॒न्त्रा॑द् दु॒ष्वप्न्याद् दुष्कृ॒ताच्छम॑लादु॒त।  
-दु॒र्हार्द॒श्चक्षु॑षो घो॒रात् तस्मा॑न्नः पाह्याञ्जन ॥६॥  
+अ॑सन्म॒न्त्राद्दु॒ष्वप्न्या॑द्दुष्कृ॒ताच्छम॑लादु॒त।  
+दु॒र्हार्द॒श्चक्षु॑षो घो॒रात्तस्मा॑न्नः पाह्याञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑सन्म॒न्त्राद्दु॒ष्वप्न्या॑द्दुष्कृ॒ताच्छम॑लादु॒त। दु॒र्हार्द॒श्चक्षु॑षो घो॒रात्तस्मा॑न्नः पाह्याञ्जन ॥
+अ॑सन्म॒न्त्राद्दु॒ष्वप्न्या॑द्दुष्कृ॒ताच्छम॑लादु॒त।  
+दु॒र्हार्द॒श्चक्षु॑षो घो॒रात्तस्मा॑न्नः पाह्याञ्जन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
@@ -402,7 +420,7 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 </details>
 <details><summary>पदपाठः</summary>
 
-असत्ऽमन्त्रात्। दुःऽस्वप्न्यात्। दुःऽकृतात्। शमलात्। उत। दुःऽहार्दः। चक्षुषः। घोरात्। तस्मात्। नः। पाहि। आऽअञ्जन। ९.६।
+अ॒स॒त्ऽम॒न्त्रात्। दुः॒ऽस्वप्न्या॑त्। दुः॒ऽकृ॒तात्। शम॑लात्। उ॒त। दुः॒ऽहार्दः॑। चक्षु॑षः। घो॒रात्। तस्मा॑त्। नः॒। पा॒हि॒। आ॒ऽअ॒ञ्ज॒न॒। ९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -434,13 +452,16 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं वि॒द्वाना॑ञ्जन स॒त्यं व॑क्ष्यामि॒ नानृ॑तम्।  
-स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॒ पूरुष ॥७॥  
+स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॑ पूरुष ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं वि॒द्वाना॑ञ्जन स॒त्यं व॑क्ष्यामि॒ नानृ॑तम्। स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॑ पूरुष ॥
+इ॒दं वि॒द्वाना॑ञ्जन स॒त्यं व॑क्ष्यामि॒ नानृ॑तम्।  
+स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॑ पूरुष ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
@@ -473,7 +494,7 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। विद्वान्। आऽअञ्जन। सत्यम्। वक्ष्यामि। न। अनृतम्। सनेयम्। अश्वम्। गाम्। अहम्। आत्मानम्। तव। पुरुष। ९.७।
+इ॒दम्। वि॒द्वान्। आ॒ऽअ॒ञ्ज॒न॒। स॒त्यम्। व॒क्ष्या॒मि॒। न। अनृ॑तम्। स॒नेय॑म्। अश्व॑म्। गाम्। अ॒हम्। आ॒त्मान॑म्। तव॑। पु॒रु॒ष॒। ९.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -504,14 +525,17 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/08_trayo_dAsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑ ।  
-वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता॥८॥  
+त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑।  
+वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/08_trayo_dAsA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑। वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता ॥
+त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑।  
+वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/08_trayo_dAsA.md">
@@ -535,7 +559,7 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रयः। दासाः। आऽअञ्जनस्य। तक्मा। बलासः। आत्। अहिः। वर्षिष्ठः। पर्वतानाम्। त्रिऽककुत्। नाम। ते। पिता। ९.८।
+त्रयः॑। दा॒साः। आ॒ऽअञ्ज॑नस्य। त॒क्मा। ब॒लासः॑। आत्। अहिः॑। वर्षि॑ष्ठः। पर्व॑तानाम्। त्रि॒ऽक॒कुत्। नाम॑। ते॒। पि॒ता। ९.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -566,14 +590,17 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑ ।  
-या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त् सर्वा॑श्च यातुधा॒न्यः ॥९॥  
+यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑।  
+या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त्सर्वा॑श्च यातुधा॒न्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑। या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त्सर्वा॑श्च यातुधा॒न्यः॑ ॥
+यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑।  
+या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त्सर्वा॑श्च यातुधा॒न्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
@@ -609,7 +636,7 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। आऽअञ्जनम्। त्रैककुदम्। जातम्। हिमऽवतः। परि। यातून्। च। सर्वान्। जम्भयत्। सर्वाः। च। यातुऽधान्यः᳡। ९.९।
+यत्। आ॒ऽअञ्ज॑नम्। त्रै॒क॒कु॒दम्। जा॒तम्। हि॒मऽव॑तः। परि॑। या॒तून्। च॒। सर्वा॑न्। ज॒म्भय॑त्। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ९.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -640,14 +667,17 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/10_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑ ।  
-उ॒भे ते॑ भ॒द्रे॑ नाम्नी॒ ताभ्यां॒ नः पाह्याञ्जन ॥१०॥
+यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑।  
+उ॒भे ते॑ भ॒द्रे नाम्नी॒ ताभ्यां॑ नः पाह्याञ्जन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/10_yadi_vAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑। उ॒भे ते॑ भ॒द्रे नाम्नी॒ ताभ्यां॑ नः पाह्याञ्जन ॥
+यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑।  
+उ॒भे ते॑ भ॒द्रे नाम्नी॒ ताभ्यां॑ नः पाह्याञ्जन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/10_yadi_vAsi.md">
@@ -671,7 +701,7 @@ If thou art from the Three-peaked hill or hast thy name from Yamuna, These names
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। वा। असि। त्रैककुदम्। यदि। यामुनम्। उच्यसे। उभे इति। ते। भद्रे इति। नाम्नी इति। ताभ्याम्। नः। पाहि। आऽअञ्जन। ९.१०।
+यदि॑। वा॒। असि॑। त्रै॒क॒कु॒दम्। यदि॑। या॒मु॒नम्। उ॒च्यसे॑। उ॒भे इति॑। ते॒। भ॒द्रे इति॑। नाम्नी॒ इति॑। ताभ्या॑म्। नः॒। पा॒हि॒। आ॒ऽअ॒ञ्ज॒न॒। ९.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

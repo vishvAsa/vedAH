@@ -37,14 +37,17 @@ A King's charm to secure the fidelity of his people
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/01_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वः॑ पृच्यन्तां त॒न्वः॑१ सं मनां॑सि॒ समु॑ व्र॒ता।  
-सं वोऽयं ब्रह्म॑ण॒स्पति॒र्भगः॑ सं वो॑ अजीगमत्॥१॥  
+सं वः॑ पृच्यन्तां त॒न्वः१॒॑ सं मनां॑सि॒ समु॑ व्र॒ता।  
+सं वो॒ऽयं ब्रह्म॑ण॒स्पति॒र्भगः॒ सं वो॑ अजीगमत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/01_saM_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं वः॑ पृच्यन्तां त॒न्वः सं मनां॑सि॒ समु॑ व्र॒ता। सं वो॒ऽयं ब्रह्म॑ण॒स्पति॒र्भगः॒ सं वो॑ अजीगमत् ॥
+सं वः॑ पृच्यन्तां त॒न्वः१॒॑ सं मनां॑सि॒ समु॑ व्र॒ता।  
+सं वो॒ऽयं ब्रह्म॑ण॒स्पति॒र्भगः॒ सं वो॑ अजीगमत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/01_saM_vaH.md">
@@ -66,7 +69,7 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। वः। पृच्यन्ताम्। तन्वः᳡। सम्। मनांसि। सम्। ऊं इति। व्रता। सम्। वः। अयम्। ब्रह्मणः। पतिः। भगः। सम्। वः। अजीगमत्। ७४.१।
+सम्। वः॒। पृ॒च्य॒न्ता॒म्। त॒न्वः᳡। सम्। मनां॑सि। सम्। ऊं॒ इति॑। व्र॒ता। सम्। वः॒। अ॒यम्। ब्रह्म॑णः। पतिः॑। भगः॑। सम्। वः॒। अ॒जी॒ग॒म॒त्। ७४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ सं॒ज्ञप॑नं हृ॒दः ।  
-अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥२॥  
+सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ संज्ञप॑नं हृ॒दः।  
+अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ संज्ञप॑नं हृ॒दः। अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥
+सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ संज्ञप॑नं हृ॒दः।  
+अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
@@ -138,7 +144,7 @@ Let there be union of your minds, let there be union of your hearts: All that is
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽज्ञपनम्। वः। मनसः। अथो इति। सम्ऽज्ञपनम्। हृदः। अथो  इति। भगस्य। यत्। श्रान्तम्। तेन। सम्ऽज्ञपयामि। वः। ७४.२।
+स॒म्ऽज्ञप॑नम्। वः॒। मन॑सः। अथो॒ इति॑। स॒म्ऽज्ञप॑नम्। हृ॒दः। अथो॒ इति॑। भग॑स्य। यत्। श्रा॒न्तम्। तेन॑। सम्ऽज्ञ॑पयामि। वः॒। ७४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,14 +175,17 @@ Let there be union of your minds, let there be union of your hearts: All that is
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑दि॒त्या वसु॑भिः संबभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः ।  
-एवा त्रि॑णाम॒न्नहृ॑णीयमान इ॒मान् जना॒न्त्संम॑नसस्कृधी॒ह॥३॥
+यथा॑दि॒त्या वसु॑भिः सम्बभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः।  
+ए॒वा त्रि॑णाम॒न्नहृ॑णीयमान इ॒माञ्जना॒न्त्संम॑नसस्कृधी॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑दि॒त्या वसु॑भिः सम्बभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः। ए॒वा त्रि॑णाम॒न्नहृ॑णीयमान इ॒माञ्जना॒न्त्संम॑नसस्कृधी॒ह ॥
+यथा॑दि॒त्या वसु॑भिः सम्बभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः।  
+ए॒वा त्रि॑णाम॒न्नहृ॑णीयमान इ॒माञ्जना॒न्त्संम॑नसस्कृधी॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
@@ -205,7 +214,7 @@ As, free from jealousy, the strong Adityas have been the Vasus' and the Rudras' 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। आदित्याः। वसुऽभिः। सम्ऽबभूवुः। मरुत्ऽभिः। उग्राः। अहृणीयमानाः। एव। त्रिऽनामन्। अहृणीयमानः। इमान्। जनान्। सम्ऽमनसः। कृधि। इह। ७४.३।
+यथा॑। आ॒दि॒त्याः। वसु॑ऽभिः। स॒म्ऽब॒भू॒वुः। म॒रुत्ऽभिः॑। उ॒ग्राः। अहृ॑णीयमानाः। ए॒व। त्रि॒ऽना॒म॒न्। अहृ॑णीयमानः। इ॒मान्। जना॑न्। सम्ऽम॑नसः। कृ॒धि॒। इ॒ह। ७४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

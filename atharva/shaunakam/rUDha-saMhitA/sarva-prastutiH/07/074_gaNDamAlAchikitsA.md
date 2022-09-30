@@ -32,14 +32,17 @@ A charm to cure pustules, sores, or scrofulous swellings (apachitas)
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम ।  
-मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम्॥१॥  
+अ॑प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम।  
+मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम। मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम् ॥
+अ॑प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम।  
+मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
@@ -64,7 +67,7 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽचिताम्। लोहिनीनाम्। कृष्णा। माता। इति। शुश्रुम। मुनेः। देवस्य। मूलेन। सर्वाः। विध्यामि। ताः। अहम्। ७८.१।
+अ॒प॒ऽचिता॑म्। लोहि॑नीनाम्। कृ॒ष्णा। मा॒ता। इति॑। शु॒श्रु॒म॒। मुनेः॑। दे॒वस्य॑। मूले॑न। सर्वाः॑। वि॒ध्या॒मि॒। ताः। अ॒हम्। ७८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,14 +98,17 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विध्या॑म्यासां प्रथ॒मां विध्या॑म्यु॒त म॑ध्य॒माम्।  
-इ॒दं ज॑घ॒न्याऽमासा॒मा च्छि॑नद्मि॒ स्तुका॑मिव ॥२॥  
+विध्या॑म्यासां प्रथ॒मां वि॑ध्याम्यु॒त म॑ध्य॒माम्।  
+इ॒दं ज॑घ॒न्या᳡मासा॒मा छि॑नद्मि॒ स्तुका॑मिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विध्या॑म्यासां प्रथ॒मां वि॑ध्याम्यु॒त म॑ध्य॒माम्। इ॒दं ज॑घ॒न्या᳡मासा॒मा छि॑नद्मि॒ स्तुका॑मिव ॥
+विध्या॑म्यासां प्रथ॒मां वि॑ध्याम्यु॒त म॑ध्य॒माम्।  
+इ॒दं ज॑घ॒न्या᳡मासा॒मा छि॑नद्मि॒ स्तुका॑मिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
@@ -126,7 +132,7 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 </details>
 <details><summary>पदपाठः</summary>
 
-विध्यामि। आसाम्। प्रथमाम्। विध्यामि। उत। मध्यमाम्। इदम्। जघन्या᳡म्। आसाम्। आ। छिनद्मि। स्तुकाम्ऽइव। ७८.२।
+विध्या॑मि। आ॒सा॒म्। प्र॒थ॒माम्। विध्या॑मि। उ॒त। म॒ध्य॒माम्। इ॒दम्। ज॒घ॒न्या᳡म्। आ॒सा॒म्। आ। छि॒न॒द्मि॒। स्तुका॑म्ऽइव। ७८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,13 +164,16 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्।  
-अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥३॥  
+अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्। अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥
+त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्।  
+अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
@@ -185,7 +194,7 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वाष्ट्रेण। अहम्। वचसा। वि। ते। ईर्ष्याम्। अमीमदम्। अथो इति। यः। मन्युः। ते। पते। तम्। ऊं इति। ते। शमयामसि। ७८.३।
+त्वा॒ष्ट्रेण॑। अ॒हम्। वच॑सा। वि। ते॒। ई॒र्ष्याम्। अ॒मी॒म॒द॒म्। अथो॒ इति॑। यः। म॒न्युः। ते॒। प॒ते॒। तम्। ऊं॒ इति॑। ते॒। श॒म॒या॒म॒सि॒। ७८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -217,13 +226,16 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्र॒तेन॒ त्वं व्र॑तपते॒ सम॑क्तो वि॒श्वाहा॑ सु॒मना॑ दीदिही॒ह।  
-तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑ ॥४॥
+तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्र॒तेन॒ त्वं व्र॑तपते॒ सम॑क्तो वि॒श्वाहा॑ सु॒मना॑ दीदिही॒ह। तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑ ॥
+व्र॒तेन॒ त्वं व्र॑तपते॒ सम॑क्तो वि॒श्वाहा॑ सु॒मना॑ दीदिही॒ह।  
+तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
@@ -250,7 +262,7 @@ Lord of religious rites, by law, anointed, shine thou forth here for ever friend
 </details>
 <details><summary>पदपाठः</summary>
 
-व्रतेन। त्वम्। व्रतऽपते। सम्ऽअक्तः। विश्वाहा। सुऽमनाः। दीदिहि। इह। तम्। त्वा। वयम्। जातऽवेदः। सम्ऽइध्दम्। प्रजाऽवन्तः। उप। सदेम। सर्वे। ७८.४।
+व्र॒तेन॑। त्वम्। व्र॒त॒ऽप॒ते॒। सम्ऽअ॑क्तः। वि॒श्वाहा॑। सु॒ऽमनाः॑। दी॒दि॒हि॒। इ॒ह। तम्। त्वा॒। व॒यम्। जा॒त॒ऽवे॒दः॒। सम्ऽइ॑ध्दम्। प्र॒जाऽव॑न्तः। उप॑। स॒दे॒म॒। सर्वे॑। ७८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

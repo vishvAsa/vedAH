@@ -36,14 +36,17 @@ A benediction on a new-born Kshatriya child
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/01_ya_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से ।  
-सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥१॥  
+य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से।  
+सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/01_ya_enam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से। सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥
+य ए॑नं परि॒षीद॑न्ति समा॒दध॑ति॒ चक्ष॑से।  
+सं॒प्रेद्धो॑ अ॒ग्निर्जि॒ह्वाभि॒रुदे॑तु॒ हृद॑या॒दधि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/076_AyuShyam/01_ya_enam.md">
@@ -67,7 +70,7 @@ Those who are sitting round this babe prepare him to be looked upon. Let Agni th
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। एनम्। परिऽसीदन्ति। सम्ऽआदधति। चक्षसे। सम्ऽप्रेध्दः। अग्निः। जिह्वाभिः। उत्। एतु। हृदयात्। अधि। ७६.१।
+ये। ए॒न॒म्। प॒रि॒ऽसीद॑न्ति। स॒म्ऽआ॒दध॑ति। चक्ष॑से। स॒म्ऽप्रेध्दः॑। अ॒ग्निः। जि॒ह्वाभिः॑। उत्। ए॒तु॒। हृद॑यात्। अधि॑। ७६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Those who are sitting round this babe prepare him to be looked upon. Let Agni th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/02_agneH_sAntapanasyAhamAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेः सा॑न्तप॒नस्या॒हमायु॑षे प॒दमा र॑भे ।  
-अ॒द्धा॒तिर्यस्य॒ पश्य॑ति धू॒ममु॒द्यन्त॑मास्य॒तः ॥२॥  
+अ॒ग्नेः सां॑तप॒नस्या॒हमायु॑षे प॒दमा र॑भे।  
+अ॑द्धा॒तिर्यस्य॒ पश्य॑ति धू॒ममु॒द्यन्त॑मास्य॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/02_agneH_sAntapanasyAhamAyuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्नेः सां॑तप॒नस्या॒हमायु॑षे प॒दमा र॑भे। अ॑द्धा॒तिर्यस्य॒ पश्य॑ति धू॒ममु॒द्यन्त॑मास्य॒तः ॥
+अ॒ग्नेः सां॑तप॒नस्या॒हमायु॑षे प॒दमा र॑भे।  
+अ॑द्धा॒तिर्यस्य॒ पश्य॑ति धू॒ममु॒द्यन्त॑मास्य॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/076_AyuShyam/02_agneH_sAntapanasyAhamAyuShe.md">
@@ -128,7 +134,7 @@ For length of life I use the name of Agni the Consuming God, Whose smoke the sag
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नेः। साम्ऽतपनस्य। अहम्। आयुषे। पदम्। आ। रभे। अध्दातिः। यस्य। पश्यति। धूमम्। उत्ऽयन्तम्। आस्यतः। ७६.२।
+अ॒ग्नेः। सा॒म्ऽत॒प॒नस्य॑। अ॒हम्। आयु॑षे। प॒दम्। आ। र॒भे॒। अ॒ध्दा॒तिः। यस्य॑। पश्य॑ति। धू॒मम्। उ॒त्ऽयन्त॑म्। आ॒स्य॒तः। ७६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,13 +166,16 @@ For length of life I use the name of Agni the Consuming God, Whose smoke the sag
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑स्य स॒मिधं॒ वेद॑ क्ष॒त्रिये॑ण स॒माहि॑ताम्।  
-नाभि॑ह्वा॒रे प॒दं नि द॑धाति॒ स मृ॒त्यवे॑ ॥३॥  
+नाभि॑ह्वा॒रे प॒दं नि द॑धाति॒ स मृ॒त्यवे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/03_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॑स्य स॒मिधं॒ वेद॑ क्ष॒त्रिये॑ण स॒माहि॑ताम्। नाभि॑ह्वा॒रे प॒दं नि द॑धाति॒ स मृ॒त्यवे॑ ॥
+यो अ॑स्य स॒मिधं॒ वेद॑ क्ष॒त्रिये॑ण स॒माहि॑ताम्।  
+नाभि॑ह्वा॒रे प॒दं नि द॑धाति॒ स मृ॒त्यवे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/076_AyuShyam/03_yo_asya.md">
@@ -188,7 +197,7 @@ The man who knows his fuel laid in order by the Kshatriya Sets not his foot upon
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। सम्ऽइधम्। वेद। क्षत्रियेण। सम्ऽआहिताम्। न। अभिऽह्वारे। पदम्। नि। दधाति। सः। मृत्यवे। ७६.३।
+यः। अ॒स्य॒। स॒म्ऽइध॑म्। वेद॑। क्ष॒त्रिये॑ण। स॒म्ऽआहि॑ताम्। न। अ॒भि॒ऽह्वा॒रे। प॒दम्। नि। द॒धा॒ति॒। सः। मृ॒त्यवे॑। ७६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -219,14 +228,17 @@ The man who knows his fuel laid in order by the Kshatriya Sets not his foot upon
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/076_AyuShyam/04_nainaM_ghnanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नैनं घ्नन्ति पर्या॒यिणो॒ न स॒न्नाँ अव॑ गच्छति ।  
-अ॒ग्नेर्यः क्ष॒त्रियो॑ वि॒द्वान् नाम॑ गृ॒ह्णात्यायु॑षे ॥४॥
+नैनं॑ घ्नन्ति पर्या॒यिणो॒ न स॒न्नाँ अव॑ गछति।  
+अ॒ग्नेर्यः क्ष॒त्रियो॑ वि॒द्वान्नाम॑ गृ॒ह्णात्यायु॑षे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/076_AyuShyam/04_nainaM_ghnanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नैनं॑ घ्नन्ति पर्या॒यिणो॒ न स॒न्नाँ अव॑ गछति। अ॒ग्नेर्यः क्ष॒त्रियो॑ वि॒द्वान्नाम॑ गृ॒ह्णात्यायु॑षे ॥
+नैनं॑ घ्नन्ति पर्या॒यिणो॒ न स॒न्नाँ अव॑ गछति।  
+अ॒ग्नेर्यः क्ष॒त्रियो॑ वि॒द्वान्नाम॑ गृ॒ह्णात्यायु॑षे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/076_AyuShyam/04_nainaM_ghnanti.md">
@@ -255,7 +267,7 @@ Those who encompass slay him not: he goes not near his lurk-- ing foes The Kshat
 </details>
 <details><summary>पदपाठः</summary>
 
-न। एनम्। घ्नन्ति। परिऽआयिनः। न। सन्नान्। अव। गच्छति। अग्नेः। यः। क्षत्रियः। विद्वान्। नाम। गृह्णाति। आयुषे। ७६.४।
+न। ए॒न॒म्। घ्न॒न्ति॒। प॒रि॒ऽआयिनः॑। न। स॒न्नान्। अव॑। ग॒च्छ॒ति॒। अ॒ग्नेः। यः। क्ष॒त्रियः॑। वि॒द्वान्। नाम॑। गृ॒ह्णाति॑। आयु॑षे। ७६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

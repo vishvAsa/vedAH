@@ -36,14 +36,17 @@ A prayer to Agni for long life
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/032_dIrghAyuH/01_upa_priyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ प्रि॒यं पनि॑प्नतं युवा॑नमाहुती॒वृध॑म्।  
-अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥१॥
+उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म्।  
+अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/032_dIrghAyuH/01_upa_priyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म्। अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥
+उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म्।  
+अग॑न्म॒ बिभ्र॑तो॒ नमो॑ दी॒र्घमायुः॑ कृणोतु मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/032_dIrghAyuH/01_upa_priyam.md">
@@ -64,7 +67,7 @@ We bringing homage have approached the friend who seeks our wondering praise, Yo
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। प्रियम्। पनिप्नतम्। युवानम्। आहुतिऽवृधम्। अगन्म। बिभ्रतः। नमः। दीर्घम्। आयुः। कृणोतु। मे। ३३.१।
+उप॑। प्रि॒यम्। पनि॑प्नतम्। युवा॑नम्। आ॒हु॒ति॒ऽवृध॑म्। अग॑न्म। बिभ्र॑तः। नमः॑। दी॒र्घम्। आयुः॑। कृ॒णो॒तु॒। मे॒। ३३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

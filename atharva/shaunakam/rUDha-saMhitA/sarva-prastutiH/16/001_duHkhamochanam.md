@@ -31,21 +31,23 @@ On the preparation and use of holy water, with, a prayer for purification and fr
 </details>
 </details>
 </div>
-## ०१ अतिसृष्टो अपाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/01_atisRShTo_apAm.md">
+## ०१ अतिसृष्टो अपांवृषभोऽतिसृष्टा
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/01_atisRShTo_apAMvRShabho-tisRShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अति॑सृष्टो अ॒पां वृ॑ष॒भोऽति॑सृष्टा अ॒ग्नयो॑ दि॒व्याः ॥१॥  
+अति॑सृष्टो अ॒पांवृ॑ष॒भोऽति॑सृष्टा अ॒ग्नयो॑ दि॒व्याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/01_atisRShTo_apAm.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/01_atisRShTo_apAMvRShabho-tisRShTA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अति॑सृष्टो अ॒पां वृ॑ष॒भोऽति॑सृष्टा अ॒ग्नयो॑ दि॒व्याः ॥१॥  
+अति॑सृष्टो अ॒पांवृ॑ष॒भोऽति॑सृष्टा अ॒ग्नयो॑ दि॒व्याः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/01_atisRShTo_apAm.md">
-<details open><summary><h3>०१ अतिसृष्टो अपाम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/01_atisRShTo_apAMvRShabho-tisRShTA.md">
+<details open><summary><h3>०१ अतिसृष्टो अपांवृषभोऽतिसृष्टा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -64,7 +66,7 @@ The Bull of the Waters hath been let go; the heavenly fires have been let go.
 </details>
 <details><summary>पदपाठः</summary>
 
-अतिऽसृष्टः। अपाम्। वृषभः। अतिऽसृष्टः। अग्नयः। दिव्याः। १.१।
+अति॑ऽसृष्टः। अ॒पाम्। वृ॒ष॒भः। अति॑ऽसृष्टः। अ॒ग्नयः॑। दि॒व्याः। १.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -91,21 +93,23 @@ The Bull of the Waters hath been let go; the heavenly fires have been let go.
 </details>
 </details>
 </div>
-## ०२ रुजन् परिरुजन्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/02_rujan_parirujan.md">
+## ०२ रुजन्परिरुजन्मृणन्प्रमृणन्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/02_rujanparirujanmRNanpramRNan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रु॒जन् प॑रिरु॒जन् मृ॒णन् प्र॑मृ॒णन्॥२॥  
+रु॒जन्प॑रिरु॒जन्मृ॒णन्प्र॑मृ॒णन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/02_rujan_parirujan.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/02_rujanparirujanmRNanpramRNan.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रु॒जन् प॑रिरु॒जन् मृ॒णन् प्र॑मृ॒णन्॥२॥  
+रु॒जन्प॑रिरु॒जन्मृ॒णन्प्र॑मृ॒णन् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/02_rujan_parirujan.md">
-<details open><summary><h3>०२ रुजन् परिरुजन् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/02_rujanparirujanmRNanpramRNan.md">
+<details open><summary><h3>०२ रुजन्परिरुजन्मृणन्प्रमृणन् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -119,7 +123,7 @@ Breaking, breaking down, crushing, crushing to pieces,
 </details>
 <details><summary>पदपाठः</summary>
 
-रुजन्। परिऽरुजन्। मृणन्। प्रऽमृणन्। १.२।
+रु॒जन्। प॒रि॒ऽरु॒जन्। मृ॒णन्। प्र॒ऽमृ॒णन्। १.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -146,21 +150,23 @@ Breaking, breaking down, crushing, crushing to pieces,
 </details>
 </details>
 </div>
-## ०३ म्रोको मनोहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/03_mroko_manohA.md">
+## ०३ म्रोको मनोहाखनो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/03_mroko_manohAkhano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म्रो॒को म॑नो॒हा ख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥३॥  
+म्रो॒को म॑नो॒हाख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/03_mroko_manohA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/03_mroko_manohAkhano.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म्रो॒को म॑नो॒हा ख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥३॥  
+म्रो॒को म॑नो॒हाख॒नो नि॑र्दा॒ह आ॑त्म॒दूषि॑स्तनू॒दूषिः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/03_mroko_manohA.md">
-<details open><summary><h3>०३ म्रोको मनोहा ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/03_mroko_manohAkhano.md">
+<details open><summary><h3>०३ म्रोको मनोहाखनो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -182,7 +188,7 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 </details>
 <details><summary>पदपाठः</summary>
 
-म्रोकः। मनःऽहा। खनः। निःऽदाहः। आत्मऽदूषिः। तनूऽदूषिः। १.३।
+म्रो॒कः। म॒नः॒ऽहा। ख॒नः। निः॒ऽदा॒हः। आ॒त्म॒ऽदूषिः॑। त॒नू॒ऽदूषिः॑। १.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -209,21 +215,23 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 </details>
 </details>
 </div>
-## ०४ इदं तमति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/04_idaM_tamati.md">
+## ०४ इदं तमतिसृजामि
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/04_idaM_tamatisRjAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि ॥४॥  
+इ॒दं तमति॑सृजामि॒ तं माभ्यव॑निक्षि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/04_idaM_tamati.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/04_idaM_tamatisRjAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं तमति॑ सृजामि॒ तं माभ्यव॑निक्षि ॥४॥  
+इ॒दं तमति॑सृजामि॒ तं माभ्यव॑निक्षि ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/04_idaM_tamati.md">
-<details open><summary><h3>०४ इदं तमति ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/04_idaM_tamatisRjAmi.md">
+<details open><summary><h3>०४ इदं तमतिसृजामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -237,7 +245,7 @@ Here I let him go: thou washest me clean of him.
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। तम्। अति। सृजामि। तम्। मा। अभिऽअवनिक्षि। १.४।
+इ॒दम्। तम्। अति॑। सृ॒जा॒मि॒। तम्। मा। अ॒भि॒ऽअव॑निक्षि। १.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -264,21 +272,23 @@ Here I let him go: thou washest me clean of him.
 </details>
 </details>
 </div>
-## ०५ तेनतमभ्यतिसृजामो यो३स्मान्द्वेष्टि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yo3smAndveShTi.md">
+## ०५ तेनतमभ्यतिसृजामो योस्मान्द्वेष्टि
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yosmAndveShTi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-
-तेन॒ तम॒भ्यति॑सृजामो॒ यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥५॥  
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yo3smAndveShTi.md">
-<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 
 तेन॒तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वे॑ष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yo3smAndveShTi.md">
-<details open><summary><h3>०५ तेनतमभ्यतिसृजामो यो३स्मान्द्वेष्टि ...{Loading}...</h3></summary>
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yosmAndveShTi.md">
+<details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
+
+तेन॒तम॒भ्यति॑सृजामो॒ यो॒३॒॑स्मान्द्वे॑ष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
+</details>
+</div>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/05_tenatamabhyatisRjAmo_yosmAndveShTi.md">
+<details open><summary><h3>०५ तेनतमभ्यतिसृजामो योस्मान्द्वेष्टि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -302,7 +312,7 @@ With this we let him loose who hates us and whom we hate.
 </details>
 <details><summary>पदपाठः</summary>
 
-तेन। तम्। अभिऽअतिसृजामः। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १.५।
+तेन॑। तम्। अ॒॒भिऽअति॑सृजामः। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -329,21 +339,23 @@ With this we let him loose who hates us and whom we hate.
 </details>
 </details>
 </div>
-## ०६ अपामग्रमसि समुद्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/06_apAmagramasi_samudram.md">
+## ०६ अपामग्रमसिसमुद्रं वोऽभ्यवसृजामि
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/06_apAmagramasisamudraM_vo-bhyavasRjAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पामग्र॑मसि समु॒द्रं वो॒ऽभ्यव॑सृजामि॥६॥  
+अ॒पामग्र॑मसिसमु॒द्रं वो॒ऽभ्यव॑सृजामि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/06_apAmagramasi_samudram.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/06_apAmagramasisamudraM_vo-bhyavasRjAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पामग्र॑मसि समु॒द्रं वो॒ऽभ्यव॑सृजामि॥६॥  
+अ॒पामग्र॑मसिसमु॒द्रं वो॒ऽभ्यव॑सृजामि ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/06_apAmagramasi_samudram.md">
-<details open><summary><h3>०६ अपामग्रमसि समुद्रम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/06_apAmagramasisamudraM_vo-bhyavasRjAmi.md">
+<details open><summary><h3>०६ अपामग्रमसिसमुद्रं वोऽभ्यवसृजामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -359,7 +371,7 @@ Thou art in front of the waters. I let loose your sea.
 </details>
 <details><summary>पदपाठः</summary>
 
-अपाम्। अग्रम्। असि। समुद्रम्। वः। अभिऽअवसृजामि। १.६।
+अ॒पाम्। अग्र॑म्। अ॒सि॒। स॒मु॒द्रम्। वः॒। अ॒भि॒ऽअव॑सृजामि। १.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -386,21 +398,23 @@ Thou art in front of the waters. I let loose your sea.
 </details>
 </details>
 </div>
-## ०७ यो३प्स्वग्निरति तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/07_yo3psvagnirati_tam.md">
+## ०७ योप्स्वग्निरति तम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो॒३प्स्व॑१ग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म्॥७॥  
+यो॒३॒॑प्स्व१॒॑ग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/07_yo3psvagnirati_tam.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो॒३॒॑प्स्वग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म् ॥
+यो॒३॒॑प्स्व१॒॑ग्निरति॒ तं सृ॑जामि म्रो॒कं ख॒निं त॑नू॒दूषि॑म् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/07_yo3psvagnirati_tam.md">
-<details open><summary><h3>०७ यो३प्स्वग्निरति तम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/07_yopsvagnirati_tam.md">
+<details open><summary><h3>०७ योप्स्वग्निरति तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -418,7 +432,7 @@ I let loose the Agni who is within the waters, Mroka the up- rooter, the destroy
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अप्ऽसु। अग्निः। अति। तम्। सृजामि। म्रोकम्। खनिम्। तनूऽदूषिम्। १.७।
+यः। अ॒प्ऽसु। अ॒ग्निः। अति॑। तम्। सृ॒जा॒मि॒। म्रो॒कम्। ख॒निम्। त॒नू॒ऽदूषि॑म्। १.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -449,13 +463,15 @@ I let loose the Agni who is within the waters, Mroka the up- rooter, the destroy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/08_yo_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद् वो॑ घो॒रं तदे॒तत्॥८॥  
+यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद्वो॑ घो॒रं तदे॒तत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/08_yo_va.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद् वो॑ घो॒रं तदे॒तत्॥८॥  
+यो व॑ आपो॒ऽग्निरा॑वि॒वेश॒ स ए॒ष यद्वो॑ घो॒रं तदे॒तत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/08_yo_va.md">
@@ -474,7 +490,7 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। वः। आपः। अग्निः। आऽविवेश। सः। एषः। यत्। वः। घोरम्। तत्। एतत्। १.८।
+यः। वः॒। आ॒पः॒। अ॒ग्निः। आ॒ऽवि॒वेश॑। सः। ए॒षः। यत्। वः॒। घो॒रम्। तत्। ए॒तत्। १.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -501,21 +517,23 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 </details>
 </details>
 </div>
-## ०९ इन्द्रस्य व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/09_indrasya_va.md">
+## ०९ इन्द्रस्य वइन्द्रियेणाभि
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/09_indrasya_vaindriyeNAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य व इन्द्रि॒येणा॒भि षि॑ञ्चेत्॥९॥  
+इन्द्र॑स्य वइन्द्रि॒येणा॒भि षि॑ञ्चेत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/09_indrasya_va.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/09_indrasya_vaindriyeNAbhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्य व इन्द्रि॒येणा॒भि षि॑ञ्चेत्॥९॥  
+इन्द्र॑स्य वइन्द्रि॒येणा॒भि षि॑ञ्चेत् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/09_indrasya_va.md">
-<details open><summary><h3>०९ इन्द्रस्य व ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/09_indrasya_vaindriyeNAbhi.md">
+<details open><summary><h3>०९ इन्द्रस्य वइन्द्रियेणाभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -529,7 +547,7 @@ May he anoint you with Indra's own mighty power!
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। वः। इन्द्रियेण। अभि। सिञ्चेत्। १.९।
+इन्द्र॑स्य। वः॒। इ॒न्द्रि॒येण॑। अ॒भि। सि॒ञ्चे॒त्। १.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -556,21 +574,23 @@ May he anoint you with Indra's own mighty power!
 </details>
 </details>
 </div>
-## १० अरिप्रा आपो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/10_ariprA_Apo.md">
+## १० अरिप्रा आपोअप
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒रि॒प्रा आपो॑ अप॑ रि॒प्रम॒स्मत्॥१०॥  
+अ॑रि॒प्रा आपो॒अप॑ रि॒प्रम॒स्मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/10_ariprA_Apo.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒रि॒प्रा आपो॑ अप॑ रि॒प्रम॒स्मत्॥१०॥  
+अ॑रि॒प्रा आपो॒अप॑ रि॒प्रम॒स्मत् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/10_ariprA_Apo.md">
-<details open><summary><h3>१० अरिप्रा आपो ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/10_ariprA_Apoapa.md">
+<details open><summary><h3>१० अरिप्रा आपोअप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -585,7 +605,7 @@ May stainless waters cleanse us from defilement.
 </details>
 <details><summary>पदपाठः</summary>
 
-अरिप्राः। आपः। अप। रिप्रन्। अस्मत्। १.१०।
+अ॒रि॒प्राः। आपः॑। अप॑। रि॒प्रन्। अ॒स्मत्। १.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -616,13 +636,15 @@ May stainless waters cleanse us from defilement.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/11_prAsmadenovahantu_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रास्मदेनो॑ वहन्तु॒ प्र दु॒ष्वप्न्यं॑ वहन्तु ॥११॥  
+प्रास्मदेनो॑वहन्तु॒ प्र दुः॒ष्वप्न्यं॑ वहन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/11_prAsmadenovahantu_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्रास्मदेनो॑वहन्तु॒ प्र दुः॒ष्वप्न्यं॑ वहन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/11_prAsmadenovahantu_pra.md">
@@ -642,7 +664,7 @@ May they carry sin away from us, may they carry away from us the evil dream.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। अस्मत्। एनः। वहन्तु। प्र। दुःऽस्वप्न्यम्। वहन्तु। १.११।
+प्र। अ॒स्मत्। एनः॑। व॒ह॒न्तु॒। प्र। दुः॒ऽस्वप्न्य॑म्। व॒ह॒न्तु॒। १.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -669,21 +691,23 @@ May they carry sin away from us, may they carry away from us the evil dream.
 </details>
 </details>
 </div>
-## १२ शिवेन मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/12_shivena_mA.md">
+## १२ शिवेन माचक्षुषा
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/12_shivena_mAchaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥१२॥  
+शि॒वेन॑ मा॒चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/12_shivena_mA.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/12_shivena_mAchaxuShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शि॒वेन॑ मा॒ चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥१२॥  
+शि॒वेन॑ मा॒चक्षु॑षा पश्यतापः शि॒वया॑ त॒न्वोप॑ स्पृशत॒ त्वचं॑ मे ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/12_shivena_mA.md">
-<details open><summary><h3>१२ शिवेन मा ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/12_shivena_mAchaxuShA.md">
+<details open><summary><h3>१२ शिवेन माचक्षुषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -699,7 +723,7 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 </details>
 <details><summary>पदपाठः</summary>
 
-शिवेन। मा। चक्षुषा। पश्यत। आपः। शिवया। तन्वा᳡। उप। स्पृशत। त्वचम्। मे। १.१२।
+शि॒वेन॑। मा॒। चक्षु॑षा। प॒श्य॒त॒। आ॒पः॒। शि॒वया॑। त॒न्वा᳡। उप॑। स्पृ॒श॒त॒। त्वच॑म्। मे॒। १.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -730,13 +754,15 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/16/001_duHkhamochanam/13_shivAnagnInapsuShado_havAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त देवीः ॥१३॥
+शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त दे॒वीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/16/001_duHkhamochanam/13_shivAnagnInapsuShado_havAmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त देवीः ॥१३॥
+शि॒वान॒ग्नीन॑प्सु॒षदो॑ हवामहे॒ मयि॑ क्ष॒त्रं वर्च॒ आ ध॑त्त दे॒वीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/16/001_duHkhamochanam/13_shivAnagnInapsuShado_havAmahe.md">
@@ -755,7 +781,7 @@ We call the gracious Fires that dwell in waters. Goddesses, grant me princely po
 </details>
 <details><summary>पदपाठः</summary>
 
-शिवान्। अग्नीन्। अप्सुऽसदः। हवामहे। मयि। क्षत्रम्। वर्चः। आ। धत्त। देवीः। १.१३।
+शि॒वान्। अ॒ग्नीन्। अ॒प्सु॒ऽसदः॑। ह॒वा॒म॒हे॒। मयि॑। क्ष॒त्रम्। वर्चः॑। आ। ध॒त्त॒। दे॒वीः॒। १.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

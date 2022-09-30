@@ -37,13 +37,16 @@ A prayer to the presiding deities of the four quarters for protection
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्राच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात्॥१॥  
+ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/01_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्राच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्। ए॒तत् स ऋ॑च्छात् ॥
+अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्राच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत् स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/01_ashmavarma_me-si.md">
@@ -62,7 +65,7 @@ Thou art my wall of stone against the sinner who fights against me from the east
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। प्राच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.१।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। प्राच्याः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,13 +97,16 @@ Thou art my wall of stone against the sinner who fights against me from the east
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ दक्षि॑णाया दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥२॥  
+ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/02_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ दक्षि॑णाया दि॒शोऽघा॒युर॑भि॒दासा॑त्। ए॒तत् स ऋ॑च्छात् ॥
+अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ दक्षि॑णाया दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत् स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/02_ashmavarma_me-si.md">
@@ -119,11 +125,11 @@ Thou art my wall of stone against the sinner who fights against me from the sout
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। दक्षिणायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.२।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। दक्षि॑णायाः। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। दक्षिणायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.२।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। दक्षि॑णायाः। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -138,14 +144,17 @@ Thou art my wall of stone against the sinner who fights against me from the sout
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॑ प्र॒तीच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥३॥  
+अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्र॒तीच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/03_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्र॒तीच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्। ए॒तत् स ऋ॑च्छात् ॥
+अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्र॒तीच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत् स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
@@ -164,11 +173,11 @@ Thou art my wall of stone against the sinner who fights against me from the west
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। प्रतीच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.३।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। प्र॒तीच्याः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। प्रतीच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.३।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। प्र॒तीच्याः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -183,14 +192,17 @@ Thou art my wall of stone against the sinner who fights against me from the west
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मोदी॑च्या दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥४॥  
+अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ मोदी॑च्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/04_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ मोदी॑च्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्। ए॒तत् स ऋ॑च्छात् ॥
+अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ मोदी॑च्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत् स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
@@ -209,11 +221,11 @@ Thou art my wall of stone against the sinner who fights against me from northern
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। उदीच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.४।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। उदी॑च्याः। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.४। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। उदीच्याः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.४।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। उदी॑च्याः। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -228,14 +240,17 @@ Thou art my wall of stone against the sinner who fights against me from northern
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॑ ध्रु॒वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥५॥  
+अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ ध्रु॒वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत्स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ ध्रु॒वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्। ए॒तत्स ऋ॑च्छात् ॥
+अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ ध्रु॒वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत्स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
@@ -253,11 +268,11 @@ Thou art my wall of stone against the sinner who fights against me from the sted
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। ध्रुवायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.५।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। ध्रु॒वायाः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.५। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। ध्रुवायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.५।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। ध्रु॒वायाः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -272,14 +287,17 @@ Thou art my wall of stone against the sinner who fights against me from the sted
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मो॒र्ध्वाया॒ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥६॥  
+अ॑श्मव॒र्म मे॑ऽसि॒ यो मो॒र्ध्वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत्स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑श्मव॒र्म मे॑ऽसि॒ यो मो॒र्ध्वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्। ए॒तत्स ऋ॑च्छात् ॥
+अ॑श्मव॒र्म मे॑ऽसि॒ यो मो॒र्ध्वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत्स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
@@ -300,11 +318,11 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। ऊर्ध्वायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.६।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.६। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। ऊर्ध्वायाः। दिशः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.६।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -319,14 +337,17 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॑ दि॒शाम॑न्तर्दे॒शेभ्यो॑ऽघा॒युर॑भि॒दासा॑त्।  
-ए॒तत् स ऋ॑च्छात् ॥७॥  
+अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ दि॒शाम॑न्तर्दे॒शेभ्यो॑ऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत्स ऋ॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ दि॒शाम॑न्तर्दे॒शेभ्यो॑ऽघा॒युर॑भि॒दासा॑त्। ए॒तत्स ऋ॑च्छात् ॥
+अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ दि॒शाम॑न्तर्दे॒शेभ्यो॑ऽघा॒युर॑भि॒दासा॑त्।  
+ए॒तत्स ऋ॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
@@ -349,7 +370,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्मऽवर्म। मे। असि। यः। मा। दिशाम्। अन्तःऽदेशेभ्यः। अघऽयुः। अभिऽदासात्। एतत्। सः। ऋच्छात्। १०.७।
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। दि॒शाम्। अ॒न्तः॒ऽदे॒शेभ्यः॑। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -380,15 +401,19 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृ॒ह॒ता मन॒ उप॑ ह्वये मात॒रिश्व॑ना प्राणापा॒नौ।  
+बृ॑ह॒ता मन॒ उप॑ ह्वये मात॒रिश्व॑ना प्राणापा॒नौ।  
 सूर्या॒च्चक्षु॑र॒न्तरि॑क्षा॒च्छ्रोत्रं॑ पृथि॒व्याः शरी॑रम्।  
-सर॑स्वत्या॒ वाच॒मुप॑ ह्वयामहे मनो॒युजा॑ ॥८॥
+सर॑स्वत्या॒ वाच॒मुप॑ ह्वयामहे मनो॒युजा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृ॑ह॒ता मन॒ उप॑ ह्वये मात॒रिश्व॑ना प्राणापा॒नौ। सूर्या॒च्चक्षु॑र॒न्तरि॑क्षा॒च्छ्रोत्रं॑ पृथि॒व्याः शरी॑रम्। सर॑स्वत्या॒ वाच॒मुप॑ ह्वयामहे मनो॒युजा॑ ॥
+बृ॑ह॒ता मन॒ उप॑ ह्वये मात॒रिश्व॑ना प्राणापा॒नौ।  
+सूर्या॒च्चक्षु॑र॒न्तरि॑क्षा॒च्छ्रोत्रं॑ पृथि॒व्याः शरी॑रम्।  
+सर॑स्वत्या॒ वाच॒मुप॑ ह्वयामहे मनो॒युजा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/08_bRhatA_mana.md">
@@ -414,7 +439,7 @@ With Brihat I invoke the mind, with Matarisvan both the breaths, The eye from Su
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहता। मनः। उप। ह्वये। मातरिश्वना। प्राणापानौ। सूर्यात्। चक्षुः। अन्तरिक्षात्। श्रोत्रम्। पृथिव्याः। शरीरम्। सरस्वत्याः। वाचम्। उप। ह्वयामहे। मनःऽयुजा। १०.८।
+बृ॒ह॒ता। मनः॑। उप॑। ह्व॒ये॒। मा॒त॒रिश्व॑ना। प्रा॒णा॒पा॒नौ। सूर्या॑त्। चक्षुः॑। अ॒न्तरि॑क्षात्। श्रोत्र॑म्। पृ॒थि॒व्याः। शरी॑रम्। सर॑स्वत्याः। वाच॑म्। उप॑। ह्व॒या॒म॒हे॒। म॒नः॒ऽयुजा॑। १०.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

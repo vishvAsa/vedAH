@@ -36,14 +36,17 @@ A charm with an amulet of buck horn to drive away hereditary disease
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्।  
-स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत्॥१॥  
+ह॑रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्।  
+स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ह॑रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्। स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत् ॥
+ह॑रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्।  
+स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
@@ -72,7 +75,7 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 </details>
 <details><summary>पदपाठः</summary>
 
-हरिणस्य। रघुऽस्यदः। अधि। शीर्षाणि। भेषजम्। सः। क्षेत्रियम्। विऽसानया। विषूचीनम्। अनीनशत्। ७.१।
+ह॒रि॒णस्य॑। र॒घु॒ऽस्यदः॑। अधि॑। शी॒र्षाणि॑। भे॒ष॒जम्। सः। क्षे॒त्रि॒यम्। वि॒ऽसान॑या। वि॒षू॒चीन॑म्। अ॒नी॒न॒श॒त्। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,13 +107,16 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑ त्वा हरि॒णो वृषा॑ प॒द्भिश्च॒तुर्भि॑रक्रमीत्।  
-विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि॥२॥  
+विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/02_anu_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अनु॑ त्वा हरि॒णो वृषा॑ प॒द्भिश्च॒तुर्भि॑रक्रमीत्। विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि ॥
+अनु॑ त्वा हरि॒णो वृषा॑ प॒द्भिश्च॒तुर्भि॑रक्रमीत्।  
+विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/02_anu_tvA.md">
@@ -142,7 +148,7 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 </details>
 <details><summary>पदपाठः</summary>
 
-अनु। त्वा। हरिणः। वृषा। पत्ऽभिः। चतुःऽभिः। अक्रमीत्। विऽसाने। वि। स्य। गुष्पितम्। यत्। अस्य। क्षेत्रियम्। हृदि। ७.२।
+अनु॑। त्वा॒। ह॒रि॒णः। वृषा॑। प॒त्ऽभिः। च॒तुःऽभिः॑। अ॒क्र॒मी॒त्। विऽसा॑ने। वि। स्य॒। गु॒ष्पि॒तम्। यत्। अ॒स्य॒। क्षे॒त्रि॒यम्। हृ॒दि। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -173,14 +179,17 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव च्छ॒दिः ।  
-तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥३॥  
+अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव छ॒दिः।  
+तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव छ॒दिः। तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥
+अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव छ॒दिः।  
+तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
@@ -211,7 +220,7 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 </details>
 <details><summary>पदपाठः</summary>
 
-अदः। यत्। अवऽरोचते। चतुष्पक्षम्ऽइव। छदिः। तेन। ते। सर्वम्। क्षेत्रियम्। अङ्गेभ्यः। नाशयामसि। ७.३।
+अ॒दः। यत्। अ॒व॒ऽरोच॑ते। चतु॑ष्पक्षम्ऽइव। छ॒दिः। तेन॑। ते॒। सर्व॑म्। क्षे॒त्रि॒यम्। अङ्गे॑भ्यः। ना॒श॒या॒म॒सि॒। ७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -242,14 +251,17 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/04_amU_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के ।  
-वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम्॥४॥  
+अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के।  
+वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/04_amU_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के। वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के।  
+वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/04_amU_ye.md">
@@ -275,7 +287,7 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 </details>
 <details><summary>पदपाठः</summary>
 
-अमू इति। ये इति। दिवि। सुभगे इति। सुऽभगे। विऽचृतौ। नाम। तारके इति। वि। क्षेत्रियस्य। मुञ्चताम्। अधमम्। पाशम्। उत्ऽतमम्। ७.४।
+अ॒मू इति॑। ये इति॑। दि॒वि। सु॒भगे॒ इति॑। सु॒ऽभगे॑। वि॒ऽचृतौ॑। नाम॑। तार॑के॒ इति॑। वि। क्षे॒त्रि॒यस्य॑। मु॒ञ्च॒ता॒म्। अ॒ध॒मम्। पाश॑म्। उ॒त्ऽत॒मम्। ७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -306,14 +318,17 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आप॒ इद् वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः ।  
-आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात्॥५॥  
+आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
+आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः। आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात् ॥
+आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
+आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/05_Apa_idvA.md">
@@ -335,7 +350,7 @@ Water, indeed, hath power to heal, Water drives malady away. May water--for it h
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। इत्। वै। ऊं इति। भेषजीः। आपः। अमीवऽचातनीः। आपः। विश्वस्य। भेषजीः। ताः। त्वा। मुञ्चन्तु। क्षेत्रियात्। ७.५।
+आपः॑। इत्। वै। ऊं॒ इति॑। भे॒ष॒जीः। आपः॑। अ॒मी॒व॒ऽचात॑नीः। आपः॑। विश्व॑स्य। भे॒ष॒जीः। ताः। त्वा॒। मु॒ञ्च॒न्तु॒। क्षे॒त्रि॒यात्। ७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -367,13 +382,16 @@ Water, indeed, hath power to heal, Water drives malady away. May water--for it h
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदा॑सु॒तेः क्रि॒यमा॑णायाः क्षेत्रि॒यं त्वा॑ व्यान॒शे।  
-वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत्॥६॥  
+वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदा॑सु॒तेः क्रि॒यमा॑णायाः क्षेत्रि॒यं त्वा॑ व्यान॒शे। वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत् ॥
+यदा॑सु॒तेः क्रि॒यमा॑णायाः क्षेत्रि॒यं त्वा॑ व्यान॒शे।  
+वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
@@ -397,7 +415,7 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। आऽसुतेः। क्रियमाणायाः। क्षेत्रियम्। त्वा। विऽआनशे। वेद। अहम्। तस्य। भेषजम्। क्षेत्रियम्। नाशयामि। त्वत्। ७.६।
+यत्। आ॒ऽसु॒तेः। क्रि॒यमा॑णायाः। क्षे॒त्रि॒यम्। त्वा॒। वि॒ऽआ॒न॒शे। वेद॑। अ॒हम्। तस्य॑। भे॒ष॒जम्। क्षे॒त्रि॒यम्। ना॒श॒या॒मि॒। त्वत्। ७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -428,14 +446,17 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प॒वा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त।  
-अपा॒स्मत् सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥७॥
+अ॑पवा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त।  
+अपा॒स्मत्सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑पवा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त। अपा॒स्मत्सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥
+अ॑पवा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त।  
+अपा॒स्मत्सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
@@ -459,7 +480,7 @@ What time the starlight disappears, what time the gleams of Dawn depart, May evi
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽवासे। नक्षत्राणाम्। अपऽवासे। उषसाम्। उत। अप। अस्मत्। सर्वम्। दुःऽभूतम्। अप। क्षेत्रियम्। उच्छतु। ७.७।
+अ॒प॒ऽवा॒से। नक्ष॑त्राणाम्। अ॒प॒ऽवा॒से। उ॒षसा॑म्। उ॒त। अप॑। अ॒स्मत्। सर्व॑म्। दुः॒ऽभू॒तम्। अप॑। क्षे॒त्रि॒यम्। उ॒च्छ॒तु॒। ७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -37,13 +37,16 @@ A charm to win divine favour and felicity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां स॑वितः स॒त्यस॑वां सुचि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्ववा॑राम्।  
-याम॑स्य॒ कण्वो॒ अदु॑ह॒न् प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥१॥
+याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/015_savitA/01_tAM_savitaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तां स॑वितः स॒त्यस॑वां सुचि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्ववा॑राम्। याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥
+तां स॑वितः स॒त्यस॑वां सुचि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्ववा॑राम्।  
+याम॑स्य॒ कण्वो॒ अदु॑ह॒त्प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/015_savitA/01_tAM_savitaH.md">
@@ -70,7 +73,7 @@ I choose, O Savitar, that glorious favour, with fruitful energy and every blessi
 </details>
 <details><summary>पदपाठः</summary>
 
-ताम्। सवितः। सत्यऽसवाम्। सुऽचित्राम्। आ। अहम्। वृणे। सुऽमतिम्। विश्वऽवाराम्। याम्। अस्य। कण्वः। अदुहत्। प्रऽपीनाम्। सहस्रऽधाराम्। महिषः। भगाय। १६.१।
+ताम्। स॒वि॒तः॒। स॒त्यऽस॑वाम्। सु॒ऽचि॒त्राम्। आ। अ॒हम्। वृ॒णे॒। सु॒ऽम॒तिम्। वि॒श्वऽवा॑राम्। याम्। अ॒स्य॒। कण्वः॑। अदु॑हत्। प्रऽपी॑नाम्। स॒हस्र॑ऽधाराम्। म॒हि॒षः। भगा॑य। १६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

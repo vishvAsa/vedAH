@@ -36,13 +36,15 @@ A thanksgiving for life, hearing, and sight
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥१॥  
+पृ॑थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 पृ॑थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
@@ -62,7 +64,7 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। श्रोत्राय। वनस्पतिऽभ्यः। अग्नये। अधिऽपतये। स्वाहा। १०.१।
+पृ॒थि॒व्यै। श्रोत्रा॑य। वन॒स्पति॑ऽभ्यः। अ॒ग्नये॑। अधि॑ऽपतये। स्वाहा॑। १०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,13 +95,15 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥२॥  
+प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
@@ -120,7 +124,7 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणाय। अन्तरिक्षाय। वयःऽभ्यः। वायवे। अधिऽपतये। स्वाहा। १०.२।
+प्रा॒णाय॑। अ॒न्तरि॑क्षाय। वयः॑ऽभ्यः। वा॒यवे॑। अधि॑ऽपतये। स्वाहा॑। १०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -151,13 +155,15 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥३॥
+दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/03_dive_chaxuShe.md">
@@ -178,7 +184,7 @@ All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवे। चक्षुषे। नक्षत्रेभ्यः। सूर्याय। अधिऽपतये। स्वाहा। १०.३।
+दि॒वे। चक्षु॑षे। नक्ष॑त्रेभ्यः। सूर्या॑य। अधि॑ऽपतये। स्वाहा॑। १०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

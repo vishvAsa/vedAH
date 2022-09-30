@@ -32,14 +32,17 @@ Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः ।  
-उ॒च्छो॒च॒न॒प्र॒शो॒च॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥१॥  
+उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः।  
+उ॑च्छोचनप्रशोच॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः। उ॑च्छोचनप्रशोच॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥
+उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः।  
+उ॑च्छोचनप्रशोच॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
@@ -66,7 +69,7 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। अस्य। श्यावौ। विथुरौ। गृध्रौ। द्यामऽइव। पेततुः। उच्छोचनऽप्रशोचनौ। अस्य। उत्ऽशोचनौ। हृदः। १००.१।
+उत्। अ॒स्य॒। श्या॒वौ। वि॒थु॒रौ। गृध्रौ॑। द्यामऽइ॑व। पे॒त॒तुः॒। उ॒च्छो॒च॒न॒ऽप्र॒शो॒च॒नौ। अ॒स्य। उ॒त्ऽशोच॑नौ। हृ॒दः। १००.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हमे॑ना॒वुद॑तिष्ठिपं॑ गावौ॑ श्रान्त॒सदा॑विव ।  
-कु॒र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥२॥  
+अ॒हमे॑ना॒वुद॑तिष्ठिपं॒ गावौ॑ श्रान्त॒सदा॑विव।  
+कु॑र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हमे॑ना॒वुद॑तिष्ठिपं॒ गावौ॑ श्रान्त॒सदा॑विव। कु॑र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥
+अ॒हमे॑ना॒वुद॑तिष्ठिपं॒ गावौ॑ श्रान्त॒सदा॑विव।  
+कु॑र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
@@ -126,7 +132,7 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। एनौ। उत्। अतिष्ठिपम्। गावौ। श्रान्तसदौऽइव। कुर्कुरौऽइव। कूजन्तौ। उत्ऽअवन्तौ। वृकौऽइव। १००.२।
+अ॒हम्। ए॒नौ॒। उत्। अ॒ति॒ष्ठि॒प॒म्। गावौ॑। श्रा॒न्त॒सदौ॑ऽइव। कु॒र्कु॒रौऽइ॑व। कूज॑न्तौ। उ॒त्ऽअव॑न्तौ। वृकौ॑ऽइव। १००.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त।  
-अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑न् ज॒भार॑ ॥३॥
+आ॑तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त।  
+अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑ञ्ज॒भार॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त। अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑ञ्ज॒भार॑ ॥
+आ॑तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त।  
+अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑ञ्ज॒भार॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
@@ -193,7 +202,7 @@ Like two that thrust, like two that pierce, like two that strike with mutual blo
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽतोदिनौ। निऽतोदिनौ। अथो इति। सम्ऽतोदिनौ। उत। अपि। नह्यामि। अस्य। मेढ्रम्। यः। इतः। स्त्री। पुमान्। जभार। १००.३।
+आ॒ऽतो॒दिनौ॑। नि॒ऽतो॒दिनौ॑। अथो॒ इति॑। स॒म्ऽतो॒दिनौ॑। उ॒त। अपि॑। न॒ह्या॒मि॒। अ॒स्य॒। मेढ्र॑म्। यः। इ॒तः। स्त्री। पुमा॑न्। ज॒भार॑। १००.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

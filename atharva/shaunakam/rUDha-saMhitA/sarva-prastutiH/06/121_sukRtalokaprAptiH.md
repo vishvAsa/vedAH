@@ -32,14 +32,17 @@ Translated: Ludwig, p. 442; Zimmer, p. 182 (3 vss.); Griffith, i. 311.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒षाणा॒ पाशा॒न् वि ष्याध्य॒स्मद् य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
-दु॒ष्वप्न्यं॑ दुरि॒तं नि ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्॥१॥  
+वि॒षाणा॒ पाशा॒न्वि ष्याध्य॒स्मद्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
+दु॒ष्वप्न्यं॑ दुरि॒तं निःष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒षाणा॒ पाशा॒न्वि ष्याध्य॒स्मद्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये। दु॒ष्वप्न्यं॑ दुरि॒तं निःष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+वि॒षाणा॒ पाशा॒न्वि ष्याध्य॒स्मद्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
+दु॒ष्वप्न्यं॑ दुरि॒तं निःष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
@@ -75,7 +78,7 @@ Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽसाना। पाशान्। वि। स्य। अधि। अस्मत्। ये। उत्ऽतमाः। अधमाः। वारुणाः। ये। दुःऽस्वप्न्यम्। दुःऽइतम्। निः। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। १२१.१।
+वि॒ऽसाना॑। पाशा॑न्। वि। स्य॒। अधि॑। अ॒स्मत्। ये। उ॒त्ऽत॒माः। अ॒ध॒माः। वा॒रु॒णाः। ये। दुः॒ऽस्वप्न्य॑म्। दुः॒ऽइ॒तम्। निः। स्व॒। अ॒स्मत्। अथ॑। ग॒च्छे॒म॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। १२१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -106,14 +109,17 @@ Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद् भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
-अ॒यं तस्मा॒द् गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्॥२॥  
+यद्दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद्भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
+अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद्भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा। अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+यद्दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद्भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
+अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
@@ -137,7 +143,7 @@ If thou art bound with cord or tied to timber, fixt in the earth, or by a word i
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। दारुणि। बध्यसे। यत्। च। रज्ज्वाम्। यत्। भूम्याम्। बध्यसे। यत्। च। वाचा। अयम्। तस्मात्। गार्हऽपत्यः। नः। अग्निः। उत्। इत्। नयाति। सुऽकृतस्य। लोकम्। १२१.२।
+यत्। दारु॑णि। ब॒ध्यसे॑। यत्। च॒। रज्ज्वा॑म्। यत्। भूम्या॑म्। ब॒ध्यसे॑। यत्। च॒। वा॒चा। अ॒यम्। तस्मा॑त्। गार्ह॑ऽपत्यः। नः॒। अ॒ग्निः। उत्। इत्। न॒या॒ति॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। १२१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ If thou art bound with cord or tied to timber, fixt in the earth, or by a word i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के ।  
-प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम्॥३॥  
+उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
+प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के। प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम् ॥
+उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
+प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
@@ -199,7 +208,7 @@ The two auspicious stars whose name is called Releasers have gone up. Send Amrit
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। अगाताम्। भगवती इति भगऽवती। विऽचृतौ। नाम। तारके‍ इति। प्र। इह। अमृतस्य। यच्छताम्। प्र। एतु। बध्दकऽमोचनम्। १२१.३।
+उत्। अ॒गा॒ता॒म्। भग॑वती॒ इति॒ भग॑ऽवती। वि॒ऽचृतौ॑। नाम॑। तार॑के॒‍ इति॑। प्र। इ॒ह। अ॒मृत॑स्य। य॒च्छ॒ता॒म्। प्र। ए॒तु॒। ब॒ध्द॒क॒ऽमोच॑नम्। १२१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -231,13 +240,16 @@ The two auspicious stars whose name is called Releasers have gone up. Send Amrit
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्।  
-योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वां॒ अनु॑ क्षिय ॥४॥
+योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वाँ॒ अनु॑ क्षिय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्। योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वाँ॒ अनु॑ क्षिय ॥
+वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्।  
+योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वाँ॒ अनु॑ क्षिय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
@@ -263,7 +275,7 @@ Open thyself, make room: from bonds thou shalt release the prisoner. Freed, like
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। जिहीष्व। लोकम्। कृणु। बन्धात्। मुञ्चासि। बध्दकम्। योन्याःऽइव। प्रऽच्युतः। गर्भः। पथः। सर्वान्। अनु। क्षिय। १२१.४।
+वि। जि॒ही॒ष्व॒। लो॒कम्। कृ॒णु॒। ब॒न्धात्। मु॒ञ्चा॒सि॒। बध्द॑कम्। योन्याः॑ऽइव। प्रऽच्यु॑तः। गर्भः॑। प॒थः। सर्वा॑न्। अनु॑। क्षि॒य॒। १२१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

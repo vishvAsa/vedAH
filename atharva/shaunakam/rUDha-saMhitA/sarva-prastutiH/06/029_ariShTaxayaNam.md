@@ -36,14 +36,17 @@ A charm to avert misfortune foreshown by the coming of a dove and an owl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मून् हे॒तिः प॑त॒त्रिणी॒ न्येऽतु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्।  
-यद् वा॑ क॒पोत॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥१॥  
+अ॒मून्हे॒तिः प॑त॒त्रिणी॒ न्ये᳡तु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्।  
+यद्वा॑ क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मून्हे॒तिः प॑त॒त्रिणी॒ न्ये᳡तु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्। यद्वा॑ क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥
+अ॒मून्हे॒तिः प॑त॒त्रिणी॒ न्ये᳡तु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्।  
+यद्वा॑ क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
@@ -67,7 +70,7 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 </details>
 <details><summary>पदपाठः</summary>
 
-अमून्। हेतिः। पतत्रिणी। नि। एतु। यत्। उलूकः। वदति। मोघम्। एतत्। यत्। वा। कपोतः। पदम्। अग्नौ। कृणोति। २९.१।
+अ॒मून्। हे॒तिः। प॒त॒त्रिणी॑। नि। ए॒तु॒। यत्। उलू॑कः। वद॑ति। मो॒घम्। ए॒तत्। यत्। वा॒। क॒पोतः॑। प॒दम्। अ॒ग्नौ। कृ॒णोति॑। २९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑ ।  
-क॒पो॒तो॒लू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥२॥  
+यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑।  
+क॑पोतोलू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/02_yau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑। क॑पोतोलू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥
+यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑।  
+क॑पोतोलू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/02_yau_te.md">
@@ -126,7 +132,7 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। ते। दूतौ। निःऽऋते। इदम्। आऽइतः। अप्रऽहितौ। प्रऽहितौ। वा। गृहम्। नः। कपोतऽउलूकाभ्याम्। अपदम्। तत्। अस्तु। । २९.२।
+यौ। ते॒। दू॒तौ। निः॒ऽऋ॒ते॒। इ॒दम्। आ॒ऽइ॒तः। अप्र॑ऽहितौ। प्रऽहि॑तौ। वा॒। गृ॒हम्। नः॒। क॒पो॒त॒ऽउ॒लू॒काभ्या॑म्। अप॑दम्। तत्। अ॒स्तु॒। । २९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,15 +163,19 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒वै॒र॒ह॒त्याये॒दमा प॑पत्यात् सुवी॒रता॑या इ॒दमा स॑सद्यात्।  
+अ॑वैरह॒त्याये॒दमा प॑पत्यात्सुवी॒रता॑या इ॒दमा स॑सद्यात्।  
 परा॑ङे॒व परा॑ वद॒ परा॑ची॒मनु॑ सं॒वत॑म्।  
-यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान्॥३॥
+यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑वैरह॒त्याये॒दमा प॑पत्यात्सुवी॒रता॑या इ॒दमा स॑सद्यात्। परा॑ङे॒व परा॑ वद॒ परा॑ची॒मनु॑ सं॒वत॑म्। यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान् ॥
+अ॑वैरह॒त्याये॒दमा प॑पत्यात्सुवी॒रता॑या इ॒दमा स॑सद्यात्।  
+परा॑ङे॒व परा॑ वद॒ परा॑ची॒मनु॑ सं॒वत॑म्।  
+यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
@@ -195,7 +205,7 @@ Oft may it fly to us to save our heroes from slaughter, oft perch here to bring 
 </details>
 <details><summary>पदपाठः</summary>
 
-अवैरऽहत्याय। इदम्। आ। पपत्यात्। सुऽवीरतायै। इदम्। आ। ससद्यात्। पराङ्। एव। परा। वद। पराचीम्। अनु। सम्ऽवतम्। यथा। यमस्य। त्वा। गृहे। अरसम्। प्रतिऽचाकशान्। आभूकम्। प्रतिऽचाकशान्। २९.३।
+अ॒वै॒र॒ऽह॒त्याय॑। इ॒दम्। आ। प॒प॒त्या॒त्। सु॒ऽवी॒रता॑यै। इ॒दम्। आ। स॒स॒द्या॒त्। परा॑ङ्। ए॒व। परा॑। व॒द॒। परा॑चीम्। अनु॑। स॒म्ऽवत॑म्। यथा॑। य॒मस्य॑। त्वा॒। गृ॒हे। अ॒र॒सम्। प्र॒ति॒ऽचाक॑शान्। आ॒भूक॑म्। प्र॒ति॒ऽचाक॑शान्। २९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ In praise of Heaven and Earth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/01_idaM_janAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं ज॑नासो वि॒दथ॑ म॒हद् ब्रह्म॑ वदिष्यति ।  
-न तत् पृ॑थिव्यां नो दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥१॥  
+इ॒दं ज॒नासो॑ वि॒दथ॑ म॒हद्ब्रह्म॑ वदिष्यति।  
+न तत्पृ॑थि॒व्यां नो॑ दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/01_idaM_janAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं ज॒नासो॑ वि॒दथ॑ म॒हद्ब्रह्म॑ वदिष्यति। न तत्पृ॑थि॒व्यां नो॑ दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥
+इ॒दं ज॒नासो॑ वि॒दथ॑ म॒हद्ब्रह्म॑ वदिष्यति।  
+न तत्पृ॑थि॒व्यां नो॑ दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/01_idaM_janAso.md">
@@ -71,7 +74,7 @@ Ye people, hear and mark this well: he will pronounce a mighty prayer: That whic
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। जनासः। विदथ। महत्। ब्रह्म। वदिष्यति। न। तत्। पृथिव्याम्। नो इति। दिवि। येन। प्राणन्ति। वीरुधः।
+इ॒दम्। ज॒ना॒सः॒। वि॒दथ॑। म॒हत्। ब्रह्म॑। व॒दि॒ष्य॒ति॒। न। तत्। पृ॒थि॒व्याम्। नो इति॑। दि॒वि। येन॑। प्रा॒णन्ति॑। वी॒रुधः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Ye people, hear and mark this well: he will pronounce a mighty prayer: That whic
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/02_antarixa_AsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव ।  
-आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद् वे॒धसो॒ न वा॑ ॥२॥  
+अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव।  
+आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद्वे॒धसो॒ न वा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/02_antarixa_AsAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव। आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद्वे॒धसो॒ न वा॑ ॥
+अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव।  
+आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद्वे॒धसो॒ न वा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/02_antarixa_AsAm.md">
@@ -140,7 +146,7 @@ Their station, as of those who rest when weary, is in midmost air: The base wher
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षे। आसाम्। स्याम। श्रान्तसदाम्ऽइव। आऽस्थानम्। अस्य। भूतस्य। विदुः। तत्। वेधसः। न। वा।
+अ॒न्तरि॑क्षे। आ॒सा॒म्। स्याम॑। श्रा॒न्त॒सदा॑म्ऽइव। आ॒ऽस्थान॑म्। अ॒स्य। भू॒तस्य॑। वि॒दुः। तत्। वे॒धसः॑। न। वा॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,14 +177,17 @@ Their station, as of those who rest when weary, is in midmost air: The base wher
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्।  
-आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥३॥  
+यद्रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्।  
+आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्। आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥
+यद्रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्।  
+आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
@@ -205,7 +214,7 @@ What the two trembling hemispheres and ground produced and fashioned forth. This
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। रोदसी इति। रेजमाने इति। भूमिः। च। निःऽअतक्षतम्। आर्द्रम्। तत्। अद्य। सर्वदा। समुद्रस्यऽइव। स्रोत्याः।
+यत्। रोद॑सी॒ इति॑। रेज॑माने॒ इति॑। भूमिः॑। च॒। निः॒ऽअत॑क्षतम्। आ॒र्द्रम्। तत्। अ॒द्य। स॒र्व॒दा। स॒मु॒द्रस्य॑ऽइव। स्रो॒त्याः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -236,14 +245,17 @@ What the two trembling hemispheres and ground produced and fashioned forth. This
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑श्रि॒तम्।  
-दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥४॥
+विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑ श्रि॒तम्।  
+दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑ श्रि॒तम्। दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥
+विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑ श्रि॒तम्।  
+दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
@@ -273,7 +285,7 @@ This All hath compassed round the one, and on the other lies at rest. To Earth a
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वम। अन्याम्। अभिऽवार। तत्। अन्यस्याम्। अधि। श्रितम्। दिवे। च। विश्वऽवेदसे। पृथिव्यै। च। अकरम्। नमः।
+विश्व॑म। अ॒न्याम्। अ॒भि॒ऽवार॑। तत्। अ॒न्यस्या॑म्। अधि॑। श्रि॒तम्। दि॒वे। च॒। वि॒श्वऽवे॑दसे। पृ॒थि॒व्यै। च॒। अ॒क॒र॒म्। नमः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

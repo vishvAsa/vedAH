@@ -32,14 +32,17 @@ Translated: Muir, i2 255; Griffith, i. 304.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/01_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं नो॑ मेधे प्रथ॒मा गोभि॒रश्वे॑भि॒रा ग॑हि ।  
-त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥१॥  
+त्वं नो॑ मेधे प्रथ॒मा गोभि॒रश्वे॑भि॒रा ग॑हि।  
+त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/01_tvaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं नो॑ मेधे प्रथ॒मा गोभि॒रश्वे॑भि॒रा ग॑हि। त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥
+त्वं नो॑ मेधे प्रथ॒मा गोभि॒रश्वे॑भि॒रा ग॑हि।  
+त्वं सूर्य॑स्य र॒श्मिभि॒स्त्वं नो॑ असि य॒ज्ञिया॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/01_tvaM_no.md">
@@ -62,7 +65,7 @@ Intelligence, come first to us with store of horses and of kine! Thou with the r
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। मेधे। प्रथमा। गोभिः। अश्वेभिः। आ। गहि। त्वम्। सूर्यस्य। रश्मिऽभिः। त्वम्। नः। असि। यज्ञिया। १०८.१।
+त्वम्। नः॒। मे॒धे॒। प्र॒थ॒मा। गोभिः॑। अश्वे॑भिः। आ। ग॒हि॒। त्वम्। सूर्य॑स्य। र॒श्मिऽभिः॑। त्वम्। नः॒। अ॒सि॒। य॒ज्ञिया॑। १०८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,13 +97,16 @@ Intelligence, come first to us with store of horses and of kine! Thou with the r
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मे॒धाम॒हं प्र॑थ॒मां ब्रह्म॑ण्वतीं॒ ब्रह्म॑जूता॒मृषि॑ष्टुताम्।  
-प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥२॥  
+प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/02_medhAmahaM_prathamAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मे॒धाम॒हं प्र॑थ॒मां ब्रह्म॑ण्वतीं॒ ब्रह्म॑जूता॒मृषि॑ष्टुताम्। प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥
+मे॒धाम॒हं प्र॑थ॒मां ब्रह्म॑ण्वतीं॒ ब्रह्म॑जूता॒मृषि॑ष्टुताम्।  
+प्रपी॑तां ब्रह्मचा॒रिभि॑र्दे॒वाना॒मव॑से हुवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/02_medhAmahaM_prathamAm.md">
@@ -132,7 +138,7 @@ The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahma
 </details>
 <details><summary>पदपाठः</summary>
 
-मेधाम्। अहम्। प्रथमाम्। ब्रह्मणऽवतीम्। ब्रह्मऽजूताम्। ऋषिऽस्तुताम्। प्रऽपीताम्। ब्रह्मचारिऽभिः। देवानाम्। अवसे। हुवे। १०८.२।
+मे॒धाम्। अ॒हम्। प्र॒थ॒माम्। ब्रह्म॑णऽवतीम्। ब्रह्म॑ऽजूताम्। ऋषि॑ऽस्तुताम्। प्रऽपी॑ताम्। ब्र॒ह्म॒चा॒रिऽभिः॑। दे॒वाना॑म्। अव॑से। हु॒वे॒। १०८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ The first, devout Intelligence, lauded by sages, sped by prayer, Drunk by Brahma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां मे॒धामृ॒भवो॑ वि॒दुर्यां मे॒धामसु॑रा वि॒दुः ।  
-ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥३॥  
+यां मे॒धामृ॒भवो॑ वि॒दुर्यां मे॒धामसु॑रा वि॒दुः।  
+ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां मे॒धामृ॒भवो॑ वि॒दुर्यां मे॒धामसु॑रा वि॒दुः। ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥
+यां मे॒धामृ॒भवो॑ वि॒दुर्यां मे॒धामसु॑रा वि॒दुः।  
+ऋष॑यो भ॒द्रां मे॒धां यां वि॒दुस्तां मय्या वे॑शयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/03_yAM_medhAmRbhavo.md">
@@ -191,7 +200,7 @@ That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sa
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। मेधाम्। ऋभवः। विदुः। याम्। मेधाम्। असुराः। विदुः। ऋषयः। भद्राम्। मेधाम्। याम्। विदुः। ताम्। मयि। आ। वेशयामसि। १०८.३।
+याम्। मे॒धाम्। ऋ॒भवः॑। वि॒दुः। याम्। मे॒धाम्। असु॑राः। वि॒दुः। ऋष॑यः। भ॒द्राम्। मे॒धाम्। याम्। वि॒दुः। ताम्। मयि॑। आ। वे॒श॒या॒म॒सि॒। १०८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,14 +231,17 @@ That excellent Intelligence which Ribhus know, and Asuras, Intelligence which sa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः ।  
-तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥४॥  
+यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः।  
+तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः। तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥
+यामृष॑यो भूत॒कृतो॑ मे॒धां मे॑धा॒विनो॑ वि॒दुः।  
+तया॒ माम॒द्य मे॒धयाग्ने॑ मेधा॒विनं॑ कृणु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/04_yAmRShayo_bhUtakRto.md">
@@ -252,7 +264,7 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४।
+याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -283,14 +295,17 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/108_medhAvardhanam/05_medhAM_sAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒धां सा॒यं मे॒धां प्रा॒तर्मे॒धां म॒ध्यन्दि॑नं॒ परि॑ ।  
-मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥५॥
+मे॒धां सा॒यं मे॒धां प्रा॒तर्मे॒धां म॒ध्यन्दि॑नं॒ परि॑।  
+मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/108_medhAvardhanam/05_medhAM_sAyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मे॒धां सा॒यं मे॒धां प्रा॒तर्मे॒धां म॒ध्यन्दि॑नं॒ परि॑। मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥
+मे॒धां सा॒यं मे॒धां प्रा॒तर्मे॒धां म॒ध्यन्दि॑नं॒ परि॑।  
+मे॒धां सूर्य॑स्य र॒श्मिभि॒र्वच॒सा वे॑शयामहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/108_medhAvardhanam/05_medhAM_sAyam.md">
@@ -310,7 +325,7 @@ Intelligence at eve, at morn, Intelligence at noon of day, With the Sun's beams,
 </details>
 <details><summary>पदपाठः</summary>
 
-मेधाम्। सायम्। मेधाम्। प्रातः। मेधाम्। मध्यन्दिनम्। परि। मेधाम्। सूर्यस्य। ‍ रश्मिऽभिः। वचसा। आ। वेशयामहे। १०८.५।
+मे॒धाम्। सा॒यम्। मे॒धाम्। प्रा॒तः। मे॒धाम्। म॒ध्यन्दि॑नम्। परि॑। मे॒धाम्। सूर्य॑स्य। ‍ र॒श्मिऽभिः॑। वच॑सा। आ। वे॒श॒या॒म॒हे॒। १०८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

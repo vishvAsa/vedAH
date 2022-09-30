@@ -36,14 +36,17 @@ In praise of Agni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/01_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒हि ते॑ अग्ने त॒न्वः क्रू॒रमा॒नंश॒ मर्त्यः॑ ।  
-क॒पिर्ब॑भस्ति॒ तेज॑नं॒ स्वं ज॒रायु॒ गौरि॑व ॥१॥  
+न॒हि ते॑ अग्ने त॒न्वः॑᳡ क्रू॒रमा॒नंश॒ मर्त्यः॑।  
+क॒पिर्ब॑भस्ति॒ तेज॑नं॒ स्वं ज॒रायु॒ गौरि॑व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/01_nahi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न॒हि ते॑ अग्ने त॒न्वः॑ क्रू॒रमा॒नंश॒ मर्त्यः॑। क॒पिर्ब॑भस्ति॒ तेज॑नं॒ स्वं ज॒रायु॒ गौरि॑व ॥
+न॒हि ते॑ अग्ने त॒न्वः॑᳡ क्रू॒रमा॒नंश॒ मर्त्यः॑।  
+क॒पिर्ब॑भस्ति॒ तेज॑नं॒ स्वं ज॒रायु॒ गौरि॑व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/01_nahi_te.md">
@@ -68,7 +71,7 @@ O Agni, in thy body man hath never found a wounded part. The Ape devours the arr
 </details>
 <details><summary>पदपाठः</summary>
 
-नहि। ते। अग्ने। तन्वः᳡। क्रूरम्। आनंश। मर्त्यः। कपिः। बभस्ति। तेजनम्। स्वम्। जरायु। गौःऽइव। ४९.१।
+न॒हि। ते॒। अ॒ग्ने॒। त॒न्वः᳡। क्रू॒रम्। आ॒नंश॑। मर्त्यः॑। क॒पिः। ब॒भ॒स्ति॒। तेज॑नम्। स्वम्। ज॒रायु॑। गौःऽइ॑व। ४९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ O Agni, in thy body man hath never found a wounded part. The Ape devours the arr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/02_meSha_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व॒ऽच्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः ।  
-शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून् ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥२॥  
+मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व᳡च्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः।  
+शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून्ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/02_meSha_iva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व᳡च्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः। शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून्ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥
+मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व᳡च्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः।  
+शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून्ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/02_meSha_iva.md">
@@ -143,7 +149,7 @@ Thou like a fleece contractest and expandest thee what time the upper stone and 
 </details>
 <details><summary>पदपाठः</summary>
 
-मेषःऽइव। वै। सम्। च। वि। च। उरु। अच्यसे। यत्। उत्तरऽद्रौ। उपरः। च। खादतः। शीर्ष्णाः। शिरः। अप्ससा। अप्सः। अर्दयन्। अंशून्। बभस्ति। हरितेभिः। आसऽभिः। ४९.२।
+मे॒षःऽइ॑व। वै। सम्। च॒। वि। च॒। उ॒रु। अ॒च्य॒से॒। यत्। उ॒त्त॒र॒ऽद्रौ। उप॑रः। च॒। खाद॑तः। शी॒र्ष्णाः। शिरः॑। अप्स॑सा। अप्सः॑। अ॒र्दय॑न्। अं॒शून्। ब॒भ॒स्ति॒। हरि॑तेभिः। आ॒सऽभिः॑। ४९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,14 +180,17 @@ Thou like a fleece contractest and expandest thee what time the upper stone and 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः ।  
-नि यन्नि॒यन्त्युप॑रस्य॒ निष्कृ॑तिं पु॒रू रेतो॑ दधिरे सूर्य॒श्रितः॑ ॥३॥
+सु॑प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः।  
+नि यन्नि॒यन्ति॒ उप॑रस्य॒ निष्कृ॑तिं पु॒रू रेतो॑ दधिरे सूर्यश्रितः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॑प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः। नि यन्नि॒यन्ति॒ उप॑रस्य॒ निष्कृ॑तिं पु॒रू रेतो॑ दधिरे सूर्यश्रितः ॥
+सु॑प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः।  
+नि यन्नि॒यन्ति॒ उप॑रस्य॒ निष्कृ॑तिं पु॒रू रेतो॑ दधिरे सूर्यश्रितः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
@@ -208,7 +217,7 @@ The Eagles have sent forth their voice aloud to heaven: in the sky's vault the d
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽपर्णाः। वाचम्। अक्रत। उप। द्यवि। आऽखरे। कृष्णाः। इषिराः। अनर्तिषुः। नि। यत्। निऽयन्ति। उपरस्य। निःऽकृतिम्। पुरु। रेतः। दधिरे। सूर्यऽश्रितः। ४९.३।
+सु॒ऽप॒र्णाः। वाच॑म्। अ॒क्र॒त॒। उप॑। द्यवि॑। आ॒ऽख॒रे। कृष्णाः॑। इ॒षि॒राः। अ॒न॒र्ति॒षुः॒। नि। यत्। नि॒ऽयन्ति॑। उप॑रस्य। निःऽकृ॑तिम्। पु॒रु। रेतः॑। द॒धि॒रे॒। सू॒र्य॒ऽश्रितः॑। ४९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

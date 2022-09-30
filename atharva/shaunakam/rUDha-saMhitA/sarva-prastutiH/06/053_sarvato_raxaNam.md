@@ -36,14 +36,17 @@ A prayer for recovery and preservation of health and security
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन् दक्षि॑णया पिपर्तु ।  
-अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च ॥१॥  
+द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन्दक्षि॑णया पिपर्तु।  
+अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन्दक्षि॑णया पिपर्तु। अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च ॥
+द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन्दक्षि॑णया पिपर्तु।  
+अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
@@ -74,7 +77,7 @@ May Heaven and Earth, wise pair, may lofty Sukra grant me this thing by reason o
 </details>
 <details><summary>पदपाठः</summary>
 
-द्यौः। च। मे। इदम्। पृथिवी। च। प्रऽचेतसौ। शुक्रः। बृहन्। दक्षिणया। पिपर्तु। अनु। स्वधा। चिकिताम्। सोमः। अग्निः। वायुः। नः। पातु। सविता। भगः। च। ५३.१।
+द्यौः। च॒। मे॒। इ॒दम्। पृ॒थि॒वी। च॒। प्रऽचे॑तसौ। शु॒क्रः। बृ॒हन्। दक्षि॑णया। पि॒प॒र्तु॒। अनु॑। स्व॒धा। चि॒कि॒ता॒म्। सोमः॑। अ॒ग्निः। वा॒युः। नः॒। पा॒तु॒। स॒वि॒ता। भगः॑। च॒। ५३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ May Heaven and Earth, wise pair, may lofty Sukra grant me this thing by reason o
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑ ।  
-वै॒श्वा॒न॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥२॥  
+पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑।  
+वै॑श्वान॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑। वै॑श्वान॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥
+पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑।  
+वै॑श्वान॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
@@ -141,7 +147,7 @@ Again return to us our breath and spirit, again come back to us our life and vis
 </details>
 <details><summary>पदपाठः</summary>
 
-पुनः। प्राणः। पुनः। आत्मा। नः। आ। एतु। पुनः। चक्षुः। पुनः। असुः। नः। आ। एतु। वैश्वानरः। नः। अदब्धः। तनूऽपाः। अन्तः। तिष्ठाति। दुःऽइतानि। विश्वा। ५३.२।
+पुनः॑। प्रा॒णः। पुनः॑। आ॒त्मा। नः॒। आ। ए॒तु॒। पुनः॑। चक्षुः॑। पुनः॑। असुः॑। नः॒। आ। ए॒तु॒। वै॒श्वा॒न॒रः। नः॒। अद॑ब्धः। त॒नू॒ऽपाः। अ॒न्तः। ति॒ष्ठा॒ति॒। दुः॒ऽइ॒तानि॑। विश्वा॑। ५३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +178,17 @@ Again return to us our breath and spirit, again come back to us our life and vis
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑ ।  
-त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३यद् विरि॑ष्टम्॥३॥
+सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑।  
+त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३॒॑ यद्विरि॑ष्टम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/03_saM_varchasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑। त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३॒॑ यद्विरि॑ष्टम् ॥
+सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑।  
+त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३॒॑ यद्विरि॑ष्टम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
@@ -210,7 +219,7 @@ We are again united with our bodies, with happy mind, with spirit, strength, and
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। वर्चसा। पयसा। सम्। तनूभिः। अगन्महि। मनसा। सम्। शिवेन। त्वष्टा। नः। अत्र। वरीयः। कृणोतु। अनु। नः। मार्ष्टु। तन्वः᳡। यत्। विऽरिष्टम्। ५३.३।
+सम्। वर्च॑सा। पय॑सा। सम्। त॒नूभिः॑। अग॑न्महि। मन॑सा। सम्। शि॒वेन॑। त्वष्टा॑। नः॒। अत्र॑। वरी॑यः। कृ॒णो॒तु॒। अनु॑। नः॒। मा॒र्ष्टु॒। त॒न्वः᳡। यत्। विऽरि॑ष्टम्। ५३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

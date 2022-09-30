@@ -36,14 +36,17 @@ A prayer for protection, long life, and various blessings
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये ।  
-म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम्॥१॥  
+मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये।  
+म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये। म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये।  
+म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
@@ -65,7 +68,7 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 </details>
 <details><summary>पदपाठः</summary>
 
-मनसे। चेतसे। धिये। आऽकूतये। उत। चित्तये। मत्यै। श्रुताय। चक्षसे। विधेम। हविषा। वयम्। ४१.१।
+मन॑से। चेत॑से। धि॒ये। आऽकू॑तये। उ॒त। चित्त॑ये। म॒त्यै। श्रु॒ताय॑। चक्ष॑से। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे ।  
-सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम्॥२॥  
+अ॑पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे।  
+सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे। सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+अ॑पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे।  
+सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
@@ -123,7 +129,7 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 </details>
 <details><summary>पदपाठः</summary>
 
-अपानाय। विऽआनाय। प्राणाय। भूरिऽधायसे। सरस्वत्यै। उरुऽव्यचे। विधेम। हविषा। वयम्। ४१.२।
+अ॒पा॒नाय॑। वि॒ऽआ॒नाय॑। प्रा॒णाय॑। भूरि॑ऽधायसे। सर॑स्वत्यै। उ॒रु॒ऽव्यचे॑। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,14 +160,17 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ हासिषु॒र्ऋष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्वऽस्तनू॒जाः ।  
-अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥३॥
+मा नो॑ हासिषु॒रृष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्व᳡स्तनू॒जाः।  
+अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा नो॑ हासिषु॒रृष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्व᳡स्तनू॒जाः। अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥
+मा नो॑ हासिषु॒रृष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्व᳡स्तनू॒जाः।  
+अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
@@ -191,7 +200,7 @@ Let not the Rishis, the divine, forsake us, our own, our very selves, our lives'
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। नः। हासिषुः। ऋषयः। दैव्याः। ये। तनूऽपाः। ये। नः। तन्वः᳡। तनूऽजाः। अमर्त्याः। मर्त्यान्। अभि। नः। सचध्वम्। आयुः। धत्त। प्रऽतरम्। जीवसे। नः। ४१.३।
+मा। नः॒। हा॒सि॒षुः॒। ऋष॑यः। दैव्याः॑। ये। त॒नू॒ऽपाः। ये। नः॒। त॒न्वः᳡। त॒नू॒ऽजाः। अम॑र्त्याः। मर्त्या॑न्। अ॒भि। नः॒। स॒च॒ध्व॒म्। आयुः॑। ध॒त्त॒। प्र॒ऽत॒रम्। जी॒वसे॑। नः॒। ४१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

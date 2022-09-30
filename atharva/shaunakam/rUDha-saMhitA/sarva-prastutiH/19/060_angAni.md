@@ -32,23 +32,25 @@ A prayer for perfect bodily and mental health and vigour
 </details>
 </details>
 </div>
-## ०१ वाङ् म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/01_vA~N_ma.md">
+## ०१ वाङ्म आसन्नसोः
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वाङ् म॑ आ॒सन् न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः ।  
-अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म्॥१॥  
+वाङ्म॑ आ॒सन्न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः।  
+अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/01_vA~N_ma.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वाङ् म॑ आ॒सन् न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः ।  
-अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म्॥१॥  
+वाङ्म॑ आ॒सन्न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः।  
+अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/01_vA~N_ma.md">
-<details open><summary><h3>०१ वाङ् म ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/01_vA~Nma_AsannasoH.md">
+<details open><summary><h3>०१ वाङ्म आसन्नसोः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -80,7 +82,7 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 </details>
 <details><summary>पदपाठः</summary>
 
-वाक्। मे। आसन्। नसोः। प्राणः। चक्षुः। अक्ष्णोः। श्रोत्रम्। कर्णयोः। अपलिताः। केशाः। अशोणाः। दन्ताः। बहु। बाह्वोः। बलम्। ६०.१।
+वाक्। मे॒। आ॒सन्। न॒सोः। प्रा॒णः। चक्षुः॑। अ॒क्ष्णोः। श्रोत्र॑म्। कर्ण॑योः। अप॑लिताः। केशाः॑। अशो॑णाः। दन्ताः॑। ब॒हु। बा॒ह्वोः। बल॑म्। ६०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -111,15 +113,17 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः ।  
-प्र॒ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥२॥
+ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः।  
+प्र॑ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः ।  
-प्र॒ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥२॥
+ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः।  
+प्र॑ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
@@ -159,7 +163,7 @@ May I have power in my thighs, swiftness in my legs, stedfast- ness in my feet. 
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्वोः। ओजः। जङ्घयोः। जवः। पादयोः। प्रतिऽस्था। अरिष्टानि। मे। सर्वा। आत्मा। अनिऽभृष्टः। ६०.२।
+ऊ॒र्वोः। ओजः॑। जङ्घ॑योः। ज॒वः। पाद॑योः। प्र॒ति॒ऽस्था। अरि॑ष्टानि। मे॒। सर्वा॑। आ॒त्मा। अनि॑ऽभृष्टः। ६०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

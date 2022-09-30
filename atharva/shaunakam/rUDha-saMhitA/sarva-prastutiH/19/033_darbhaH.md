@@ -36,15 +36,17 @@ A protective and benedictive charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒ह॒स्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥१॥  
+स॑हस्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
+स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒ह॒स्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
-स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥१॥  
+स॑हस्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
+स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
@@ -71,7 +73,7 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 </details>
 <details><summary>पदपाठः</summary>
 
-सहस्रऽअर्घः। शतऽकाण्डः। पयस्वान्। अपाम्। अग्निः। वीरुधाम्। राजऽसूयम्। सः। नः। अयम्। दर्भः। परि। पातु। विश्वतः। देवः। मणिः। आयुषा। सम्। सृजाति। नः। ३३.१।
+स॒ह॒स्र॒ऽअ॒र्घः। श॒तऽका॑ण्डः। पय॑स्वान्। अ॒पाम्। अ॒ग्निः। वी॒रुधा॑म्। रा॒ज॒ऽसूय॑म्। सः। नः॒। अ॒यम्। द॒र्भः। परि॑। पा॒तु॒। वि॒श्वतः॑। दे॒वः। म॒णिः। आयु॑षा। सम्। सृ॒जा॒ति॒। नः॒। ३३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,23 +100,25 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 </details>
 </details>
 </div>
-## ०२ घृतादुल्लुप्तो मधुमान्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/02_ghRtAdullupto_madhumAn.md">
+## ०२ घृतादुल्लुप्तो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/02_ghRtAdullupto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न् पय॑स्वान् भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः ।  
-नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन् दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥२॥  
+घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः।  
+नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन्दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/02_ghRtAdullupto_madhumAn.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/02_ghRtAdullupto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न् पय॑स्वान् भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः ।  
-नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन् दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥२॥  
+घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः।  
+नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन्दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/02_ghRtAdullupto_madhumAn.md">
-<details open><summary><h3>०२ घृतादुल्लुप्तो मधुमान् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/02_ghRtAdullupto.md">
+<details open><summary><h3>०२ घृतादुल्लुप्तो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -140,7 +144,7 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 </details>
 <details><summary>पदपाठः</summary>
 
-घृतात्। उत्ऽलुप्तः। मधुऽमान्। पयस्वान्। भूमिऽदृंहः। अच्युतः। च्यावयिष्णुः। नुदन्। सऽपत्नान्। अधरान्। च। कृण्वन्। दर्भ। आ। रोह। महताम्। इन्द्रियेण। ३३.२।
+घृ॒तात्। उत्ऽलु॑प्तः। मधु॑ऽमान्। पय॑स्वान्। भू॒मि॒ऽदृं॒हः। अच्यु॑तः। च्या॒व॒यि॒ष्णुः। नु॒दन्। स॒ऽपत्ना॑न्। अध॑रान्। च॒। कृ॒ण्वन्। दर्भ॑। आ। रो॒ह॒। म॒ह॒ताम्। इ॒न्द्रि॒येण॑। ३३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,15 +175,17 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं भूमि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
-त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पुनीहि दुरि॒तान्य॒स्मत्॥३॥  
+त्वं भू॑मि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
+त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पु॑नीहि दुरि॒तान्य॒स्मत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं भूमि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
-त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पुनीहि दुरि॒तान्य॒स्मत्॥३॥  
+त्वं भू॑मि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
+त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पु॑नीहि दुरि॒तान्य॒स्मत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
@@ -212,7 +218,7 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। भूमिम्। अति। एषि। ओजसा। त्वम्। वेद्याम्। सीदसि। चारुः। अध्वरे। त्वाम्। पवित्रम्। ऋषयः। अभरन्त। त्वम्। पुनीहि। दुःऽइतानि। अस्मत्। ३३.३।
+त्वम्। भूमि॑म्। अति॑। ए॒षि॒। ओज॑सा। त्वम्। वेद्या॑म्। सी॒द॒सि॒। चारुः॑। अ॒ध्व॒रे। त्वाम्। प॒वित्र॑म्। ऋष॑यः। अ॒भ॒र॒न्त॒। त्वम्। पु॒नी॒हि॒। दुः॒ऽइ॒तानि॑। अ॒स्मत्। ३३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -243,15 +249,17 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः ।  
-ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत् तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥४॥  
+ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः।  
+ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत्तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः ।  
-ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत् तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥४॥  
+ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः।  
+ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत्तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/04_tIxNo_rAjA.md">
@@ -272,7 +280,7 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 </details>
 <details><summary>पदपाठः</summary>
 
-तीक्ष्णः। राजा। विऽससहिः। रक्षःऽहा। विश्वऽचर्षणिः। ओजः। देवानाम्। बलम्। उग्रम्। एतत्। तम्। ते। बध्नामि। जरसे। स्वस्तये। ३३.४।
+ती॒क्ष्णः। राजा॑। वि॒ऽस॒स॒हिः। र॒क्षः॒ऽहा। वि॒श्वऽच॑र्षणिः। ओजः॑। दे॒वाना॑म्। बल॑म्। उ॒ग्रम्। ए॒तत्। तम्। ते॒। ब॒ध्ना॒मि॒। ज॒रसे॑। स्व॒स्तये॑। ३३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -303,14 +311,17 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/05_darbheNa_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द॒र्भेण॒ त्वं कृ॑णवद् वी॒र्याऽणि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः ।  
-अति॑ष्ठाया॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥५॥
+द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः।  
+अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/05_darbheNa_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः। अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः।  
+अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/05_darbheNa_tvam.md">
@@ -348,7 +359,7 @@ Achieve heroic deeds with Darbha, wearing this Darbha never let thy soul be trou
 </details>
 <details><summary>पदपाठः</summary>
 
-दर्भेण। त्वम्। कृणवत्। वीर्या᳡णि। दर्भम्। बिभ्रत्। आत्मना। मा। व्यथिष्ठाः। अतिऽस्थाय। वर्चसा। अध। अन्यान्। सूर्यःऽइव। आ। भाहि। प्रऽदिशः। चतस्रः। ३३.५।
+द॒र्भेण॑। त्वम्। कृ॒ण॒व॒त्। वी॒र्या᳡णि। द॒र्भम्। बिभ्र॑त्। आ॒त्मना॑। मा। व्य॒थि॒ष्ठाः॒। अति॑ऽस्थाय। वर्च॑सा। अध॑। अ॒न्यान्। सूर्यः॑ऽइव। आ। भा॒हि॒। प्र॒ऽदिशः॑। चत॑स्रः। ३३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

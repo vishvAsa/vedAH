@@ -36,13 +36,17 @@ To the waters, for strength and power
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/01_Apo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हे रणा॑य॒ चक्ष॑से ॥१॥  
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/01_Apo_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन। म॒हे रणा॑य॒ चक्ष॑से ॥
+आपो॒ हि ष्ठा म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन।  
+म॒हे रणा॑य॒ चक्ष॑से ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/005_apAM_bheShajam/01_Apo_hi.md">
@@ -61,7 +65,7 @@ Ye, Waters, truly bring us bliss: so help ye us to strength and power That we ma
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। हि। स्थ। मयःऽभुवः। ताः। नः। ऊर्जे। दधातन। महे। रणाय। चक्षसे।
+आपः॑। हि। स्थ। म॒यः॒ऽभुवः॑। ताः। नः॒। ऊ॒र्जे। द॒धा॒त॒न॒। म॒हे। रणा॑य। चक्ष॑से। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,13 +96,17 @@ Ye, Waters, truly bring us bliss: so help ye us to strength and power That we ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/02_yo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ । उ॒श॒तीरि॑व मा॒तरः॑ ॥२॥  
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑।  
+उ॑श॒तीरि॑व मा॒तरः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/02_yo_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑। उ॑श॒तीरि॑व मा॒तरः॑ ॥
+यो वः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑।  
+उ॑श॒तीरि॑व मा॒तरः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/005_apAM_bheShajam/02_yo_vaH.md">
@@ -117,7 +125,7 @@ Here grant to us a share of dew, that most auspicious dew of yours, Like mothers
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। वः। शिवऽतमः। रसः। तस्य। भाजयत। इह। नः। उशतीःऽइव। मातरः।
+यः। वः॒। शि॒वऽत॑मः। रसः॑। तस्य॑। भा॒ज॒य॒त॒। इ॒ह। नः॒। उ॒श॒तीःऽइ॑व। मा॒तरः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -148,13 +156,17 @@ Here grant to us a share of dew, that most auspicious dew of yours, Like mothers
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/03_tasmA_aram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ । आपो॑ ज॒नय॑था च नः ॥३॥  
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ।  
+आपो॑ ज॒नय॑था च नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/03_tasmA_aram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ। आपो॑ ज॒नय॑था च नः ॥
+तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्व॑थ।  
+आपो॑ ज॒नय॑था च नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/005_apAM_bheShajam/03_tasmA_aram.md">
@@ -180,7 +192,7 @@ For you we fain would go to him to whose abode ye send us forth, And, Waters, gi
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्मै। अरम्। गमाम। वः। यस्य। क्षयाय। जिन्वथ। आपः। जनयथ। च। नः।
+तस्मै॑। अर॑म्। ग॒मा॒म॒। वः॒। यस्य॑। क्षया॑य। जिन्व॑थ। आपः॑। ज॒नय॑थ। च॒। नः॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -211,13 +223,17 @@ For you we fain would go to him to whose abode ye send us forth, And, Waters, gi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/005_apAM_bheShajam/04_IshAnA_vAryANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम्। अ॒पो या॑चामि भेष॒जम्॥४॥
+ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम्।  
+अ॒पो या॑चामि भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/005_apAM_bheShajam/04_IshAnA_vAryANAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम्। अ॒पो या॑चामि भेष॒जम् ॥
+ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम्।  
+अ॒पो या॑चामि भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/005_apAM_bheShajam/04_IshAnA_vAryANAm.md">
@@ -239,7 +255,7 @@ I pray the Floods to send us balm, those who bear rule o'er precious things, And
 </details>
 <details><summary>पदपाठः</summary>
 
-ईशानाः। वार्याणाम्। क्षयन्तीः। चर्षणीनाम्। अपः। याचामि। भेषजम्।
+ईशा॑नाः। वार्या॑णाम्। क्षय॑न्तीः। च॒र्ष॒णी॒नाम्। अ॒पः। या॒चा॒मि॒। भे॒ष॒जम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

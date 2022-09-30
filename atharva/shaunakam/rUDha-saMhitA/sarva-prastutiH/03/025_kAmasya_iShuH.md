@@ -36,14 +36,17 @@ A man's love-charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त्तु॒दस्त्वोत् तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
-इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि॥१॥  
+उ॑त्तु॒दस्त्वोत्तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
+इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑त्तु॒दस्त्वोत्तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे। इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि ॥
+उ॑त्तु॒दस्त्वोत्तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
+इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
@@ -67,11 +70,11 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतुदः। त्वा। उत्। तुदतु। मा। धृथाः। शयने। स्वे। इषुः। कामस्य। या। भीमा। तया। विध्यामि। त्वा। हृदि। २५.१।
+उ॒त्ऽतु॒दः। त्वा॒। उत्। तु॒द॒तु॒। मा। धृ॒थाः॒। शय॑ने। स्वे। इषुः॑। काम॑स्य। या। भी॒मा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.१। 
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतुदः। त्वा। उत्। तुदतु। मा। धृथाः। शयने। स्वे। इषुः। कामस्य। या। भीमा। तया। विध्यामि। त्वा। हृदि। २५.१।
+उ॒त्ऽतु॒दः। त्वा॒। उत्। तु॒द॒तु॒। मा। धृ॒थाः॒। शय॑ने। स्वे। इषुः॑। काम॑स्य। या। भी॒मा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -87,13 +90,16 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒धीप॑र्णां॒ काम॑शल्या॒मिषुं॑ संक॒ल्पकु॑ल्मलाम्।  
-तां सुसं॑नतां कृ॒त्वा कामो॑ विध्यतु त्वा हृ॒दि॥२॥  
+तां सुसं॑नतां कृ॒त्वा कामो॑ विध्यतु त्वा हृ॒दि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒धीप॑र्णां॒ काम॑शल्या॒मिषुं॑ संक॒ल्पकु॑ल्मलाम्। तां सुसं॑नतां कृ॒त्वा कामो॑ विध्यतु त्वा हृ॒दि ॥
+आ॒धीप॑र्णां॒ काम॑शल्या॒मिषुं॑ संक॒ल्पकु॑ल्मलाम्।  
+तां सुसं॑नतां कृ॒त्वा कामो॑ विध्यतु त्वा हृ॒दि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
@@ -118,7 +124,7 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 </details>
 <details><summary>पदपाठः</summary>
 
-आधीऽपर्णाम्। कामऽशल्याम्। इषुम्। संकल्पऽकुल्मलाम्। ताम्। सुऽसंनताम्। कृत्वा। कामः। विध्यतु। त्वा। हृदि। २५.२।
+आ॒धीऽप॑र्णाम्। काम॑ऽशल्याम्। इषु॑म्। सं॒क॒ल्पऽकु॑ल्मलाम्। ताम्। सुऽसं॑नताम्। कृ॒त्वा। कामः॑। वि॒ध्य॒तु॒। त्वा॒। हृ॒दि। २५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -149,14 +155,17 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता ।  
-प्रा॒चीन॑पक्षा॒ व्योऽषा॒ तया॑ विध्यामि त्वा हृ॒दि॥३॥  
+या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता।  
+प्रा॒चीन॑पक्षा॒ व्यो॑षा॒ तया॑ विध्यामि त्वा हृ॒दि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता। प्रा॒चीन॑पक्षा॒ व्यो॑षा॒ तया॑ विध्यामि त्वा हृ॒दि ॥
+या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता।  
+प्रा॒चीन॑पक्षा॒ व्यो॑षा॒ तया॑ विध्यामि त्वा हृ॒दि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
@@ -180,7 +189,7 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 </details>
 <details><summary>पदपाठः</summary>
 
-या। प्लीहानम्। शोषयति। कामस्य। इषुः। सुऽसंनता। प्राचीनऽपक्षा। विऽओषा। तया। विध्यामि। त्वा। हृदि। २५.३।
+या। प्ली॒हान॑म्। शो॒षय॑ति। काम॑स्य। इषुः॑। सुऽसं॑नता। प्रा॒चीन॑ऽपक्षा। विऽओ॑षा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -211,14 +220,17 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शु॒चा वि॒द्धा व्योऽषया॒ शुष्का॑स्या॒भि स॑र्प मा ।  
-मृ॒दुर्निम॑न्युः॒ केव॑ली प्रियवा॒दिन्यनु॑व्रता ॥४॥  
+शु॒चा वि॒द्धा व्यो॑षया॒ शुष्का॑स्या॒भि स॑र्प मा।  
+मृ॒दुर्निम॑न्युः॒ केव॑ली प्रियवा॒दिन्यनु॑व्रता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शु॒चा वि॒द्धा व्यो॑षया॒ शुष्का॑स्या॒भि स॑र्प मा। मृ॒दुर्निम॑न्युः॒ केव॑ली प्रियवा॒दिन्यनु॑व्रता ॥
+शु॒चा वि॒द्धा व्यो॑षया॒ शुष्का॑स्या॒भि स॑र्प मा।  
+मृ॒दुर्निम॑न्युः॒ केव॑ली प्रियवा॒दिन्यनु॑व्रता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
@@ -243,7 +255,7 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 </details>
 <details><summary>पदपाठः</summary>
 
-शुचा। विध्दा। विऽओषया। शुष्कऽआस्या। अभि। सर्प। मा। मृदुः। निऽमन्युः। केवली। प्रियऽवादिनी। अनुऽव्रता। २५.४।
+शु॒चा। वि॒ध्दा। विऽओ॑षया। शुष्क॑ऽआस्या। अ॒भि। स॒र्प॒। मा॒। मृ॒दुः। निऽम॑न्युः। केव॑ली। प्रि॒य॒ऽवा॒दिनी॑। अनु॑ऽव्रता। २५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -274,14 +286,17 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः ।  
-यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥५॥  
+आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः।  
+यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः। यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः।  
+यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
@@ -303,7 +318,7 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अजामि। त्वा। आऽअजन्या। परि। मातुः। अथो  इति। पितुः। यथा। मम। क्रतौ। असः। मम। चित्तम्। उपऽआयसि। २५.५।
+आ। अ॒जा॒मि॒। त्वा॒। आ॒ऽअज॑न्या। परि॑। मा॒तुः। अथो॒ इति॑। पि॒तुः। यथा॑। मम॑। क्रतौ॑। असः॑। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। २५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -334,14 +349,17 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्यऽस्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्।  
-अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥६॥
+व्य॑स्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्।  
+अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्य॑स्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्। अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥
+व्य॑स्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्।  
+अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
@@ -366,7 +384,7 @@ Mitra and Varuna, expel all thought and purpose from her heart. Deprive her of h
 </details>
 <details><summary>पदपाठः</summary>
 
-वि। अस्यै। मित्रावरुणौ। हृदः। चित्तानि। अस्यतम्। अथ। एनाम्। अक्रतुम्। कृत्वा। मम। एव। कृणुतम्। वशे। २५.६।
+वि। अ॒स्यै॒। मि॒त्रा॒व॒रु॒णौ॒। हृ॒दः। चि॒त्तानि॑। अ॒स्य॒त॒म्। अथ॑। ए॒ना॒म्। अ॒क्र॒तुम्। कृ॒त्वा। मम॑। ए॒व। कृ॒णु॒त॒म्। वशे॑। २५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

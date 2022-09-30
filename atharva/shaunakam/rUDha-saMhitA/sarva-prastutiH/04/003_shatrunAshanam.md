@@ -28,10 +28,7 @@ Translated: Ludwig, p. 499; Grill, 33, 118; Griffith, i. 133; Bloomfield, 147, 3
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3    A Charm against tigers, wolves, thieves and ot...
-4.3    A Charm against tigers, wolves, thieves and ot...
-Name: Comment, dtype: object
+A Charm against tigers, wolves, thieves and other noxious creatures
 </details>
 </details>
 </div>
@@ -39,14 +36,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/01_uditastrayo_akramanvyAghraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदि॒तस्त्रयो॑ अक्रमन् व्या॒घ्रः पुरु॑षो॒ वृकः॑ ।  
-हिरु॒ग्घि यन्ति॒ सिन्ध॑वो॒ हिरु॑ग् दे॒वो वन॒स्पति॒र्हिरु॑ङ्नमन्तु॒ शत्र॑वः ॥१॥  
+उदि॒तस्त्रयो॑ अक्रमन्व्या॒घ्रः पुरु॑षो॒ वृकः॑।  
+हिरु॒ग्घि यन्ति॒ सिन्ध॑वो॒ हिरु॑ग्दे॒वो वन॒स्पति॒र्हिरु॑ङ्नमन्तु॒ शत्र॑वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/01_uditastrayo_akramanvyAghraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदि॒तस्त्रयो॑ अक्रमन्व्या॒घ्रः पुरु॑षो॒ वृकः॑। हिरु॒ग्घि यन्ति॒ सिन्ध॑वो॒ हिरु॑ग्दे॒वो वन॒स्पति॒र्हिरु॑ङ्नमन्तु॒ शत्र॑वः ॥
+उदि॒तस्त्रयो॑ अक्रमन्व्या॒घ्रः पुरु॑षो॒ वृकः॑।  
+हिरु॒ग्घि यन्ति॒ सिन्ध॑वो॒ हिरु॑ग्दे॒वो वन॒स्पति॒र्हिरु॑ङ्नमन्तु॒ शत्र॑वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/01_uditastrayo_akramanvyAghraH.md">
@@ -69,14 +69,14 @@ taken up and buried as one follows the kine.
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.1    Three have gone hence and passed away, the man...
-4.3.1    Three have gone hence and passed away, the man...
-Name: Comment, dtype: object
+Three have gone hence and passed away, the man, the tiger,
+and the wolf.
+Down, verily, the rivers flow, down-goeth the celestial Tree,.
+down let our foemen bend and bow.
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। इतः। त्रयः। अक्रमन्। व्याघ्रः। पुरुषः। वृकः। हिरुक्। हि। यन्ति। सिन्धवः। हिरुक्। देवः। वनस्पतिः। हिरुक्। नमन्तु। शत्रवः। ३.१।
+उत्। इ॒तः। त्रयः॑। अ॒क्र॒म॒न्। व्या॒घ्रः। पुरु॑षः। वृकः॑। हिरु॑क्। हि। यन्ति॑। सिन्ध॑वः। हिरु॑क्। दे॒वः। वन॒स्पतिः॑। हिरु॑क्। न॒म॒न्तु॒। शत्र॑वः। ३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +107,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/02_pareNaitu_pathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परे॑णैतु प॒था वृकः॑ पर॒मेणो॒त तस्क॑रः ।  
-परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥२॥  
+परे॑णैतु प॒था वृकः॑ पर॒मेणो॒त तस्क॑रः।  
+परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/02_pareNaitu_pathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परे॑णैतु प॒था वृकः॑ पर॒मेणो॒त तस्क॑रः। परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥
+परे॑णैतु प॒था वृकः॑ पर॒मेणो॒त तस्क॑रः।  
+परे॑ण द॒त्वती॒ रज्जुः॒ परे॑णाघा॒युर॑र्षतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/02_pareNaitu_pathA.md">
@@ -134,14 +137,14 @@ paramā*. The comm. naturally explains the "toothed rope" as a serpent;
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.2    On distant pathway go the wolf, on pathway mos...
-4.3.2    On distant pathway go the wolf, on pathway mos...
-Name: Comment, dtype: object
+On distant pathway go the wolf, on pathway most remote the
+thief!
+On a far road speed forth the rope with teeth, and the malicious
+man!
 </details>
 <details><summary>पदपाठः</summary>
 
-परेण। एतु। पथा। वृकः। परमेण। उत। तस्करः। परेण। दत्वती। रज्जुः। परेण। अघऽयुः। अर्षतु। ३.२।
+परे॑ण। ए॒तु॒। प॒था। वृकः॑। प॒र॒मेण॑। उ॒त। तस्क॑रः। परे॑ण। द॒त्वती॑। रज्जुः॑। परे॑ण। अ॒घ॒ऽयुः। अ॒र्ष॒तु॒। ३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +175,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/03_axyau_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒क्ष्यौऽच ते॒ मुखं॑ च ते व्याघ्र जम्भयामसि ।  
-आत् सर्वा॑न् विंश॒तिं न॒खान्॥३॥  
+अ॒क्ष्यौ॑ च ते॒ मुखं॑ च ते॒ व्याघ्र॑ जम्भयामसि।  
+आत्सर्वा॑न्विंश॒तिं न॒खान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/03_axyau_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒क्ष्यौ॑ च ते॒ मुखं॑ च ते॒ व्याघ्र॑ जम्भयामसि। आत्सर्वा॑न्विंश॒तिं न॒खान् ॥
+अ॒क्ष्यौ॑ च ते॒ मुखं॑ च ते॒ व्याघ्र॑ जम्भयामसि।  
+आत्सर्वा॑न्विंश॒तिं न॒खान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/03_axyau_cha.md">
@@ -203,14 +209,12 @@ reads *hanū* instead of *mukham* in **a**. ⌊Anukr., London ms., has
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.3    We crush and rend to pieces both thine eyes, O...
-4.3.3    We crush and rend to pieces both thine eyes, O...
-Name: Comment, dtype: object
+We crush and rend to pieces both thine eyes, O Tiger, and thy
+jaws and all the twenty claws we break.
 </details>
 <details><summary>पदपाठः</summary>
 
-अक्ष्यौ᳡। च। ते। मुखम्। च। ते। व्याघ्र। जम्भयामसि। आत्। सर्वान्। विंशतिम्। नखान्। ३.३।
+अ॒क्ष्यौ᳡। च॒। ते॒। मुख॑म्। च॒। ते॒। व्याघ्र॑। ज॒म्भ॒या॒म॒सि॒। आत्। सर्वा॑न्। विं॒श॒तिम्। न॒खान्। ३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -241,14 +245,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/04_vyAghraM_datvatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्या॒घ्रं द॒त्वतां॑ व॒यं प्र॑थ॒मं ज॑म्भयामसि ।  
-आदु॑ ष्टे॒नमथो॒ अहिं॑ यातु॒धान॒मथो॒ वृक॑म्॥४॥  
+व्या॒घ्रं द॒त्वतां॑ व॒यं प्र॑थ॒मं ज॑म्भयामसि।  
+आदु॑ ष्टे॒नमथो॒ अहिं॑ यातु॒धान॒मथो॒ वृक॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/04_vyAghraM_datvatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्या॒घ्रं द॒त्वतां॑ व॒यं प्र॑थ॒मं ज॑म्भयामसि। आदु॑ ष्टे॒नमथो॒ अहिं॑ यातु॒धान॒मथो॒ वृक॑म् ॥
+व्या॒घ्रं द॒त्वतां॑ व॒यं प्र॑थ॒मं ज॑म्भयामसि।  
+आदु॑ ष्टे॒नमथो॒ अहिं॑ यातु॒धान॒मथो॒ वृक॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/04_vyAghraM_datvatAm.md">
@@ -265,14 +272,14 @@ verse in Ppp. is defaced, but apparently has no variants.
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.4    We break and rend the tiger first of creatures...
-4.3.4    We break and rend the tiger first of creatures...
-Name: Comment, dtype: object
+We break and rend the tiger first of creatures that are armed.
+with teeth;
+The robber then, and then the snake, the sorcerer, and then the
+wolf.
 </details>
 <details><summary>पदपाठः</summary>
 
-व्याघ्रम्। दत्वताम्। वयम्। प्रथमम्। जम्भयामसि। आत्। ऊं इति। स्तेनम्। अथो इति। अहिम्। यातुऽधानम्। अथो इति। वृकम्। ३.४।
+व्या॒घ्रम्। द॒त्वता॑म्। व॒यम्। प्र॒थ॒मम्। ज॒म्भ॒या॒म॒सि॒। आत्। ऊं॒ इति॑। स्ते॒नम्। अथो॒ इति॑। अहि॑म्। या॒तु॒ऽधान॑म्। अथो॒ इति॑। वृक॑म्। ३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -303,14 +310,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/05_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒द्य स्ते॒न आय॑ति॒ स संपि॑ष्टो॒ अपा॑यति ।  
-प॒थाम॑पध्वं॒सेनै॒त्विन्द्रो॒ वज्रे॑ण हन्तु॒ तम्॥५॥  
+यो अ॒द्य स्ते॒न आय॑ति॒ स संपि॑ष्टो॒ अपा॑यति।  
+प॒थाम॑पध्वं॒सेनै॒त्विन्द्रो॒ वज्रे॑ण हन्तु॒ तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/05_yo_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒द्य स्ते॒न आय॑ति॒ स संपि॑ष्टो॒ अपा॑यति। प॒थाम॑पध्वं॒सेनै॒त्विन्द्रो॒ वज्रे॑ण हन्तु॒ तम् ॥
+यो अ॒द्य स्ते॒न आय॑ति॒ स संपि॑ष्टो॒ अपा॑यति।  
+प॒थाम॑पध्वं॒सेनै॒त्विन्द्रो॒ वज्रे॑ण हन्तु॒ तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/05_yo_adya.md">
@@ -329,14 +339,13 @@ comm. separates *apa* from *dhvaṅsena*, and construes it with *etu;*
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.5    The thief who cometh near to-day departeth bru...
-4.3.5    The thief who cometh near to-day departeth bru...
-Name: Comment, dtype: object
+The thief who cometh near to-day departeth bruised and crushed to bits.
+By nearest way let him be gone. Let Indra slay him with his
+bolt.
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अद्य। स्तेनः। आऽअयति। सः। सम्ऽपिष्टः। अप। अयति। पथाम्। अपऽध्वंसेन। एतु। इन्द्रः। वज्रेण। हन्तु। तम्। ३.५।
+यः। अ॒द्य। स्ते॒नः। आ॒ऽअय॑ति। सः। सम्ऽपि॑ष्टः। अप॑। अ॒य॒ति॒। प॒थाम्। अ॒प॒ऽध्वं॒सेन॑। ए॒तु॒। इन्द्रः॑। वज्रे॑ण। ह॒न्तु॒। तम्। ३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -367,14 +376,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/06_mUrNA_mRgasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मू॒र्णा मृ॒गस्य॒ दन्ता॒ अपि॑शीर्णा उ पृ॒ष्टयः॑ ।  
-नि॒म्रुक्ते॑ गो॒धा भ॑वतु नी॒चाय॑च्छश॒युर्मृ॒गः ॥६॥  
+मू॒र्णा मृ॒गस्य॒ दन्ता॒ अपि॑शीर्णा उ पृ॒ष्टयः॑।  
+नि॒म्रुक्ते॑ गो॒धा भ॑वतु नी॒चाय॑च्छश॒युर्मृ॒गः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/06_mUrNA_mRgasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मू॒र्णा मृ॒गस्य॒ दन्ता॒ अपि॑शीर्णा उ पृ॒ष्टयः॑। नि॒म्रुक्ते॑ गो॒धा भ॑वतु नी॒चाय॑च्छश॒युर्मृ॒गः ॥
+मू॒र्णा मृ॒गस्य॒ दन्ता॒ अपि॑शीर्णा उ पृ॒ष्टयः॑।  
+नि॒म्रुक्ते॑ गो॒धा भ॑वतु नी॒चाय॑च्छश॒युर्मृ॒गः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/06_mUrNA_mRgasya.md">
@@ -405,14 +417,14 @@ xii. 5. 61 and *Index*.—In **a** and **b**, supply "be" rather than
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.6    Let the beast's teeth be broken off, shivered ...
-4.3.6    Let the beast's teeth be broken off, shivered ...
-Name: Comment, dtype: object
+Let the beast's teeth be broken off, shivered and shattered be
+his ribs!
+Slack be thy bowstring: downward go the wild beast that
+pursues the hare!
 </details>
 <details><summary>पदपाठः</summary>
 
-मूर्णाः। मृगस्य। दन्ताः। अपिऽशीर्णाः। ऊं इति। पृष्टयः। निऽम्रुक्। ते। गोधा। भवतु। नीचा। अयत्। शशयुः। मृगः। ३.६।
+मू॒र्णाः। मृ॒गस्य॑। दन्ताः॑। अपि॑ऽशीर्णाः। ऊं॒ इति॑। पृ॒ष्टयः॑। नि॒ऽम्रुक्। ते॒। गो॒धा। भ॒व॒तु॒। नी॒चा। अ॒य॒त्। श॒श॒युः। मृ॒गः। ३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -443,14 +455,17 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/003_shatrunAshanam/07_yatsaMyamo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् सं॒यमो॒ न वि य॑मो॒ वि य॑मो॒ यन्न सं॒यमः॑ ।  
-इ॒न्द्र॒जाः सो॑म॒जा आ॑थर्व॒णम॑सि व्याघ्र॒जम्भ॑नम्॥७॥
+यत्सं॒यमो॒ न वि य॑मो॒ वि य॑मो॒ यन्न सं॒यमः॑।  
+इ॑न्द्र॒जाः सो॑म॒जा आ॑थर्व॒णम॑सि व्याघ्र॒जम्भ॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/003_shatrunAshanam/07_yatsaMyamo_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्सं॒यमो॒ न वि य॑मो॒ वि य॑मो॒ यन्न सं॒यमः॑। इ॑न्द्र॒जाः सो॑म॒जा आ॑थर्व॒णम॑सि व्याघ्र॒जम्भ॑नम् ॥
+यत्सं॒यमो॒ न वि य॑मो॒ वि य॑मो॒ यन्न सं॒यमः॑।  
+इ॑न्द्र॒जाः सो॑म॒जा आ॑थर्व॒णम॑सि व्याघ्र॒जम्भ॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/003_shatrunAshanam/07_yatsaMyamo_na.md">
@@ -472,14 +487,14 @@ syllables. ⌊Read *indrajā́ asi?*—For **a, b**, see Griffith.⌋
 </details>
 <details><summary>Griffith</summary>
 
-id
-4.3.7    Open not what thou hast compressed, close not ...
-4.3.7    Open not what thou hast compressed, close not ...
-Name: Comment, dtype: object
+Open not what thou hast compressed, close not what thou hast
+not compressed.
+Indra's and Soma's child, thou art Atharvan's tiger-crushing
+charm.
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। सम्ऽयमः। न। वि। यमः। वि। यमः। यत्। न। सम्ऽयमः। इन्द्रऽजाः। सोमऽजाः। आथर्वणम्। असि। व्याघ्रऽजम्भनम्। ३.७।
+यत्। स॒म्ऽयमः॑। न। वि। य॒मः॒। वि। य॒मः॒। यत्। न। स॒म्ऽयमः॑। इ॒न्द्र॒ऽजाः। सो॒म॒ऽजाः। आ॒थ॒र्व॒णम्। अ॒सि॒। व्या॒घ्र॒ऽजम्भ॑नम्। ३.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

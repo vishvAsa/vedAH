@@ -32,14 +32,17 @@ Translated: Ludwig, Der Rigveda, iv. 422; Grill, 63, 170; Bloomfield, AJP. xi. 3
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आय॑ने ते प॒राय॑णे दूर्वा॑ रोहतु पु॒ष्पिणीः॑ ।  
-उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्रदो वा॑ पु॒ण्डरी॑कवान्॥१॥  
+आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑।  
+उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑। उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
+आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑।  
+उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/01_Ayane_te.md">
@@ -65,7 +68,7 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽअयने। ते। पराऽअयने। दूर्वाः। रोहन्तु। पुष्पिणीः। उत्सः। वा। तत्र। जायताम्। ह्रदः। वा। पुण्डरीकऽवान्। १०६.१।
+आ॒ऽअय॑ने। ते॒। प॒रा॒ऽअय॑ने। दूर्वाः॑। रो॒ह॒न्तु॒। पु॒ष्पिणीः॑। उत्सः॑। वा॒। तत्र॑। जाय॑ताम्। ह्र॒दः। वा॒। पु॒ण्डरी॑कऽवान्। १०६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,13 +100,16 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
-मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥२॥  
+मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्। मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
+अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
+मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
@@ -127,7 +133,7 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 </details>
 <details><summary>पदपाठः</summary>
 
-अपाम्। इदम्। निऽअयनम्। समुद्रस्य। निऽवेशनम्। मध्ये। ह्रदस्य। नः। गृहाः। पराचीना। मुखा। कृधि। १०६.२।
+अ॒पाम्। इ॒दम्। नि॒ऽअय॑नम्। स॒मु॒द्रस्य॑। नि॒ऽवेश॑नम्। मध्ये॑। ह्र॒दस्य॑। नः॒। गृ॒हाः। प॒रा॒चीना॑। मुखा॑। कृ॒धि॒। १०६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,14 +164,17 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/03_himasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि ।  
-शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम्॥३॥
+हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि।  
+शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/03_himasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि। शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
+हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि।  
+शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/03_himasya_tvA.md">
@@ -192,7 +201,7 @@ O House, we compass thee about with coolness to envelop thee. Cool as a lake be 
 </details>
 <details><summary>पदपाठः</summary>
 
-हिमस्य। त्वा। जरायुणा। शाले। परि। व्ययामसि। शीतऽह्रदा। हि। नः। भुवः। अग्निः। कृणोतु। भेषजम्। १०६.३।
+हि॒मस्य॑। त्वा॒। जरायु॑णा। शाले॑। परि॑। व्य॒या॒म॒सि॒। शी॒तऽह्र॑दा। हि। नः॒। भुवः॑। अ॒ग्निः। कृ॒णो॒तु॒। भे॒ष॒जम्। १०६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

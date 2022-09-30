@@ -36,14 +36,17 @@ A charm against fever
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नेरि॑वास्य॒ दह॑त एति शु॒ष्मिण॑ उ॒तेव॑ म॒त्तो वि॒लप॒न्नपा॑यति ।  
-अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥१॥  
+अ॒ग्नेरि॒वास्य॒ दह॑त एति शु॒ष्मिण॑ उ॒तेव॑ म॒त्तो वि॒लप॒न्नपा॑यति।  
+अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्नेरि॒वास्य॒ दह॑त एति शु॒ष्मिण॑ उ॒तेव॑ म॒त्तो वि॒लप॒न्नपा॑यति। अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥
+अ॒ग्नेरि॒वास्य॒ दह॑त एति शु॒ष्मिण॑ उ॒तेव॑ म॒त्तो वि॒लप॒न्नपा॑यति।  
+अ॒न्यम॒स्मदि॑च्छतु॒ कं चि॑दव्र॒तस्तपु॑र्वधाय॒ नमो॑ अस्तु त॒क्मने॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/01_agnerivAsya_dahata.md">
@@ -73,7 +76,7 @@ He goes away as 'twere from this fierce burning fire, inebriated and lamenting h
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नेःऽइव। अस्य। दहतः। एति। शुष्मिणः। उतऽइव। मत्तः। विऽलपन्। अप। अयति। अन्यम्। अस्मत्। इच्छतु। कम्। चित्। अव्रतः। तपुःऽवधाय। नमः। अस्तु। तक्मने। २०.१।
+अ॒ग्नेःऽइ॑व। अ॒स्य॒। दह॑तः। ए॒ति॒। शु॒ष्मिणः॑। उ॒तऽइ॑व। म॒त्तः। वि॒ऽलप॑न्। अप॑। अ॒य॒ति॒। अ॒न्यम्। अ॒स्मत्। इ॒च्छ॒तु। कम्। चि॒त्। अ॒व्र॒तः। तपुः॑ऽवधाय। नमः॑। अ॒स्तु॒। त॒क्मने॑। २०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ He goes away as 'twere from this fierce burning fire, inebriated and lamenting h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/02_namo_rudrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते ।  
-नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥२॥  
+नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते।  
+नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/020_yaxmanAshanam/02_namo_rudrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते। नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥
+नमो॑ रु॒द्राय॒ नमो॑ अस्तु त॒क्मने॒ नमो॒ राज्ञे॒ वरु॑णाय॒ त्विषी॑मते।  
+नमो॑ दि॒वे नमः॑ पृथि॒व्यै नम॒ ओष॑धीभ्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/02_namo_rudrAya.md">
@@ -132,7 +138,7 @@ To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendi
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। रुद्राय। नमः। अस्तु। तक्मने। नमः। राज्ञे। वरुणाय। त्विषिऽमते। नमः। दिवे। नमः। पृथिव्यै। नमः। ओषधीभ्यः। २०.२।
+नमः॑। रु॒द्राय॑। नमः॑। अ॒स्तु॒। त॒क्मने॑। नमः॑। राज्ञे॑। वरु॑णाय। त्विषि॑ऽमते। नमः॑। दि॒वे। नमः॑। पृ॒थि॒व्यै। नमः॑। ओष॑धीभ्यः। २०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ To Rudra and to Fever be our worship paid: worship be paid to Varuna the splendi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/020_yaxmanAshanam/03_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं यो अ॑भिशोचयि॒ष्णुर्विश्वा॑ रू॒पाणि॒ हरि॑ता कृ॒णोषि॑ ।  
-तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥३॥
+अ॒यं यो अ॑भिशोचयि॒ष्णुर्विश्वा॑ रू॒पाणि॒ हरि॑ता कृ॒णोषि॑।  
+तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/020_yaxmanAshanam/03_ayaM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं यो अ॑भिशोचयि॒ष्णुर्विश्वा॑ रू॒पाणि॒ हरि॑ता कृ॒णोषि॑। तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥
+अ॒यं यो अ॑भिशोचयि॒ष्णुर्विश्वा॑ रू॒पाणि॒ हरि॑ता कृ॒णोषि॑।  
+तस्मै॑ तेऽरु॒णाय॑ ब॒भ्रवे॒ नमः॑ कृणोमि॒ वन्या॑य त॒क्मने॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/020_yaxmanAshanam/03_ayaM_yo.md">
@@ -207,7 +216,7 @@ Thou who, aglow with heat, makest all bodies green, to thee, red, brown, I bow, 
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। यः। अभिऽशोचयिष्णुः। विश्वा। रूपाणि। हरिता। कृणोषि। तस्मै। ते। अरुणाय। बभ्रवे। नमः। कृणोमि। वन्याय। तक्मने। २०.३।
+अ॒यम्। यः। अ॒भि॒ऽशो॒च॒यि॒ष्णुः। विश्वा॑। रू॒पाणि॑। हरि॑ता। कृ॒णोषि॑। तस्मै॑। ते॒। अ॒रु॒णाय॑। ब॒भ्रवे॑। नमः॑। कृ॒णो॒मि॒। वन्या॑य। त॒क्मने॑। २०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

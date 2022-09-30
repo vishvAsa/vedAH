@@ -36,14 +36,17 @@ A charm against parasitic worms
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/01_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती ।  
-ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ क्रिमिं॑ जम्भयता॒मिति॑ ॥१॥  
+ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
+ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ क्रिमिं॑ जम्भयता॒मिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/01_ote_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती। ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ क्रिमिं॑ जम्भयता॒मिति॑ ॥
+ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
+ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ क्रिमिं॑ जम्भयता॒मिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/01_ote_me.md">
@@ -71,7 +74,7 @@ I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and A
 </details>
 <details><summary>पदपाठः</summary>
 
-ओते इत्याऽउते। मे। द्यावापृथिवी इति। आऽउता। देवी। सरस्वती। आऽउतौ। मे। इन्द्रः। च। अग्निः। च। क्रिमिम्। जम्भयताम्। इति। २३.१।
+ओते॒ इत्याऽउ॑ते। मे॒। द्यावा॑पृथि॒वी इति॑। आऽउ॑ता। दे॒वी। सर॑स्वती। आऽउ॑तौ। मे॒। इन्द्रः॑। च॒। अ॒ग्निः। च॒। क्रिमि॑म्। ज॒म्भ॒य॒ता॒म्। इति॑। २३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and A
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/02_asyendra_kumArasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒स्येन्द्र॑ कुमा॒रस्य॒ क्रिमी॑न् धनपते जहि ।  
-ह॒ता विश्वा॒ अरा॑तय उ॒ग्रेण॒ वच॑सा॒ मम॑ ॥२॥  
+अ॒स्येन्द्र॑ कुमा॒रस्य॒ क्रिमी॑न्धनपते जहि।  
+ह॒ता विश्वा॒ अरा॑तय उ॒ग्रेण॒ वच॑सा॒ मम॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/02_asyendra_kumArasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒स्येन्द्र॑ कुमा॒रस्य॒ क्रिमी॑न्धनपते जहि। ह॒ता विश्वा॒ अरा॑तय उ॒ग्रेण॒ वच॑सा॒ मम॑ ॥
+अ॒स्येन्द्र॑ कुमा॒रस्य॒ क्रिमी॑न्धनपते जहि।  
+ह॒ता विश्वा॒ अरा॑तय उ॒ग्रेण॒ वच॑सा॒ मम॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/02_asyendra_kumArasya.md">
@@ -130,7 +136,7 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 </details>
 <details><summary>पदपाठः</summary>
 
-अस्य। इन्द्र। कुमारस्य। क्रिमीन्। धनऽपते। जहि। हताः। विश्वाः। अरातयः। उग्रेण। वचसा। मम। २३.२।
+अ॒स्य। इ॒न्द्र॒। कु॒मा॒रस्य॑। क्रिमी॑न्। ध॒न॒ऽप॒ते॒। ज॒हि॒। ह॒ताः। विश्वाः॑। अरा॑तयः। उ॒ग्रेण॑। वच॑सा। मम॑। २३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/03_yo_axyau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒क्ष्यौऽपरि॒सर्प॑ति॒ यो नासे॑ परि॒सर्प॑ति ।  
-द॒तां यो मध्यं॒ गच्छ॑ति॒ तं क्रिमिं॑ जम्भयामसि ॥३॥  
+यो अ॒क्ष्यौ॑ परि॒सर्प॑ति॒ यो नासे॑ परि॒सर्प॑ति।  
+द॒तां यो मद्यं॒ गच्छ॑ति॒ तं क्रिमिं॑ जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/03_yo_axyau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒क्ष्यौ॑ परि॒सर्प॑ति॒ यो नासे॑ परि॒सर्प॑ति। द॒तां यो मद्यं॒ गच्छ॑ति॒ तं क्रिमिं॑ जम्भयामसि ॥
+यो अ॒क्ष्यौ॑ परि॒सर्प॑ति॒ यो नासे॑ परि॒सर्प॑ति।  
+द॒तां यो मद्यं॒ गच्छ॑ति॒ तं क्रिमिं॑ जम्भयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/03_yo_axyau.md">
@@ -190,7 +199,7 @@ Two of like colour, two unlike, two coloured black, two coloured red. The tawny 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अक्ष्यौ᳡। परिऽसर्पति। यः। नासे इति। परिऽसर्पति। दताम्। यः। मध्यम्। गच्छति। तम्। क्रिमिम्। जम्भयामसि। २३.३।
+यः। अ॒क्ष्यौ᳡। प॒रि॒ऽसर्प॑ति। यः। नासे॒ इति॑। प॒रि॒ऽसर्प॑ति। द॒ताम्। यः। मध्य॑म्। गच्छ॑ति। तम्। क्रिमि॑म्। ज॒म्भ॒या॒म॒सि॒। २३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,13 +231,16 @@ Two of like colour, two unlike, two coloured black, two coloured red. The tawny 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सरू॑पौ॒ द्वौ विरू॑पौ॒ द्वौ कृ॒ष्णौ द्वौ रोहि॑तौ॒ द्वौ।  
-ब॒भ्रुश्च॑ ब॒भ्रुक॑र्णश्च॒ गृध्रः॒ कोक॑श्च॒ ते ह॒ताः ॥४॥  
+ब॒भ्रुश्च॑ ब॒भ्रुक॑र्णश्च॒ गृध्रः॒ कोक॑श्च॒ ते ह॒ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/04_sarUpau_dvau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सरू॑पौ॒ द्वौ विरू॑पौ॒ द्वौ कृ॒ष्णौ द्वौ रोहि॑तौ॒ द्वौ। ब॒भ्रुश्च॑ ब॒भ्रुक॑र्णश्च॒ गृध्रः॒ कोक॑श्च॒ ते ह॒ताः ॥
+सरू॑पौ॒ द्वौ विरू॑पौ॒ द्वौ कृ॒ष्णौ द्वौ रोहि॑तौ॒ द्वौ।  
+ब॒भ्रुश्च॑ ब॒भ्रुक॑र्णश्च॒ गृध्रः॒ कोक॑श्च॒ ते ह॒ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/04_sarUpau_dvau.md">
@@ -252,7 +264,7 @@ Worms that are white about the sides, those that are black with black-hued arms,
 </details>
 <details><summary>पदपाठः</summary>
 
-सऽरूपौ। द्वौ। विऽरूपौ। द्वौ। कृष्णौ। द्वौ। रोहितौ। द्वौ। बभ्रुः। च। बभ्रुऽकर्णः। च। गृध्र। कोकः। च। ते। हताः। २३.४।
+सऽरू॑पौ। द्वौ। विऽरू॑पौ। द्वौ। कृ॒ष्णौ। द्वौ। रोहि॑तौ। द्वौ। ब॒भ्रुः। च॒। ब॒भ्रुऽक॑र्णः। च॒। गृध्र॑। कोकः॑। च॒। ते। ह॒ताः। २३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -283,14 +295,17 @@ Worms that are white about the sides, those that are black with black-hued arms,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः ।  
-ये के च॑ वि॒श्वरू॑पा॒स्तान् क्रिमी॑न् जम्भयामसि ॥५॥  
+ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः।  
+ये के च॑ वि॒श्वरू॑पा॒स्तान्क्रिमी॑न् जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/05_ye_krimayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः। ये के च॑ वि॒श्वरू॑पा॒स्तान्क्रिमी॑न् जम्भयामसि ॥
+ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः।  
+ये के च॑ वि॒श्वरू॑पा॒स्तान्क्रिमी॑न् जम्भयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/05_ye_krimayaH.md">
@@ -311,7 +326,7 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। क्रिमयः। शितिऽकक्षाः। ये। कृष्णाः। शितिऽबाहवः। ये। के। च। विश्वऽरूपाः। तान्। क्रिमीन्। जम्भयामसि। २३.५।
+ये। क्रिम॑यः। शि॒ति॒ऽकक्षाः॑। ये। कृ॒ष्णाः। शि॒ति॒ऽबाह॑वः। ये। के। च॒। वि॒श्वऽरू॑पाः। तान्। क्रिमी॑न्। ज॒म्भ॒या॒म॒सि॒। २३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -342,14 +357,17 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत् पु॒रस्ता॒त् सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा।  
-दृ॒ष्टांश्च॒ घ्नन्न॒दॄष्टां॑श्च॒ सर्वां॑श्च प्रमृ॒णन् क्रिमी॑न्॥६॥  
+उत्पु॒रस्ता॒त्सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा।  
+दृ॒ष्टांश्च॒ घ्नन्न॒दृष्टां॑श्च॒ सर्वां॑श्च प्रमृ॒णन्क्रिमी॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्पु॒रस्ता॒त्सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा। दृ॒ष्टांश्च॒ घ्नन्न॒दृष्टां॑श्च॒ सर्वां॑श्च प्रमृ॒णन्क्रिमी॑न् ॥
+उत्पु॒रस्ता॒त्सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा।  
+दृ॒ष्टांश्च॒ घ्नन्न॒दृष्टां॑श्च॒ सर्वां॑श्च प्रमृ॒णन्क्रिमी॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
@@ -371,7 +389,7 @@ Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we ca
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। पुरस्तात्। सूर्यः। एति। विश्वऽदृष्टः। अदृष्टऽहा। दृष्टान्। च। घ्नन्। अदृष्टान्। च। सर्वान्। च। प्रऽमृणन्। क्रिमीन्। २३.६।
+उत्। पु॒रस्ता॑त्। सूर्यः॑। ए॒ति॒। वि॒श्वऽदृ॑ष्टः। अ॒दृ॒ष्ट॒ऽहा। दृ॒ष्टान्। च॒। घ्नन्। अ॒दृष्टा॑न्। च॒। सर्वा॑न्। च॒। प्र॒ऽमृ॒णन्। क्रिमी॑न्। २३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -402,14 +420,17 @@ Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we ca
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येवा॑षासः॒ कष्क॑षास एज॒त्काः शि॑पवित्नु॒काः ।  
-दृ॒ष्टांश्च॑ ह॒न्यतां॑ क्रिमि॑रु॒तादृष्ट॑श्च हन्यताम्॥७॥  
+येवा॑षासः॒ कष्क॑षास एज॒त्काः शि॑पवित्नु॒काः।  
+दृ॒ष्टश्च॑ ह॒न्यतां॒ क्रिमि॑रु॒तादृष्ट॑श्च हन्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येवा॑षासः॒ कष्क॑षास एज॒त्काः शि॑पवित्नु॒काः। दृ॒ष्टश्च॑ ह॒न्यतां॒ क्रिमि॑रु॒तादृष्ट॑श्च हन्यताम् ॥
+येवा॑षासः॒ कष्क॑षास एज॒त्काः शि॑पवित्नु॒काः।  
+दृ॒ष्टश्च॑ ह॒न्यतां॒ क्रिमि॑रु॒तादृष्ट॑श्च हन्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
@@ -435,7 +456,7 @@ Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them 
 </details>
 <details><summary>पदपाठः</summary>
 
-येवाषासः। कष्कषासः। एजत्ऽकाः। शिपवित्नुकाः। दृष्टः। च। हन्यताम्। क्रिमिः। उत। अदृष्टः। च। हन्यताम्। २३.७।
+येवा॑षासः। कष्क॑षासः। ए॒ज॒त्ऽकाः। शि॒प॒वि॒त्नु॒काः। दृ॒ष्टः। च॒। ह॒न्यता॑म्। क्रिमिः॑। उ॒त। अ॒दृष्टः॑। च॒। ह॒न्य॒ता॒म्। २३.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -467,13 +488,16 @@ Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॒तो येवा॑षः॒ क्रिमी॑णां ह॒तो न॑दनि॒मोत।  
-सर्वा॒न् नि म॑ष्म॒षाक॑रं दृ॒षदा॒ खल्वाँ॑ इव ॥८॥  
+सर्वा॒न्नि म॑ष्म॒षाक॑रं दृ॒षदा॒ खल्वाँ॑ इव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/08_hato_yevAShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ह॒तो येवा॑षः॒ क्रिमी॑णां ह॒तो न॑दनि॒मोत। सर्वा॒न्नि म॑ष्म॒षाक॑रं दृ॒षदा॒ खल्वाँ॑ इव ॥
+ह॒तो येवा॑षः॒ क्रिमी॑णां ह॒तो न॑दनि॒मोत।  
+सर्वा॒न्नि म॑ष्म॒षाक॑रं दृ॒षदा॒ खल्वाँ॑ इव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/08_hato_yevAShaH.md">
@@ -505,7 +529,7 @@ The worm Saranga, white of hue, three-headed, with a triple hump, I split and te
 </details>
 <details><summary>पदपाठः</summary>
 
-हतः। येवाषः। क्रिमीणाम्। हतः। नदनिमा। उत। सर्वान्। नि। मष्मषा। अकरम्। दृषदा। खल्वान्ऽइव। २३.८।
+ह॒तः। येवा॑षः। क्रिमी॑णाम्। ह॒तः। न॒द॒नि॒मा। उ॒त। सर्वा॑न्। नि। म॒ष्म॒षा। अ॒क॒र॒म्। दृ॒षदा॑। खल्वा॑न्ऽइव। २३.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -536,14 +560,17 @@ The worm Saranga, white of hue, three-headed, with a triple hump, I split and te
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रि॒शी॒र्षाणं॑ त्रिक॒कुदं॒ क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
-शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥९॥  
+त्रि॑शी॒र्षाणं॑ त्रिक॒कुदं॒ क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
+शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रि॑शी॒र्षाणं॑ त्रिक॒कुदं॒ क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्। शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥
+त्रि॑शी॒र्षाणं॑ त्रिक॒कुदं॒ क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
+शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
@@ -569,7 +596,7 @@ I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to 
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिऽशीर्षाणम्। त्रिऽककुदम्। क्रिमिम्। सारङ्गम्। अर्जुनम्। शृणामि। अस्य। पृष्टीः। अपि। वृश्चामि। यत्। शिरः। २३.९।
+त्रि॒ऽशी॒र्षाण॑म्। त्रि॒ऽक॒कुद॑म्। क्रिमि॑म्। सा॒रङ्ग॑म्। अर्जु॑नम्। शृ॒णामि॑। अ॒स्य॒। पृ॒ष्टीः। अपि॑। वृ॒श्चा॒मि॒। यत्। शिरः॑। २३.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -600,14 +627,17 @@ I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒त्रि॒वद् वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्।  
-अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न्॥१०॥  
+अ॑त्रि॒वद्वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्।  
+अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/10_atrivadvaH_krimayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑त्रि॒वद्वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्। अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न् ॥
+अ॑त्रि॒वद्वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्।  
+अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
@@ -626,7 +656,7 @@ The King of worms hath been destroyed, he who was lord of these is slain. Slain 
 </details>
 <details><summary>पदपाठः</summary>
 
-अत्त्रिऽवत्। वः। क्रिमयः। हन्मि। कण्वऽवत्। जमदग्निऽवत्। अगस्त्यस्य। ब्रह्मणा। सम्। पिनष्मि। अहम्। क्रिमीन्। २३.१०।
+अ॒त्त्रि॒ऽवत्। वः॒। क्रि॒म॒यः॒। ह॒न्मि॒। क॒ण्व॒ऽवत्। ज॒म॒द॒ग्नि॒ऽवत्। अ॒गस्त्य॑स्य। ब्रह्म॑णा। सम्। पि॒न॒ष्मि॒। अ॒हम्। क्रिमी॑न्। २३.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -657,14 +687,17 @@ The King of worms hath been destroyed, he who was lord of these is slain. Slain 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/11_hato_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः ।  
-ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥११॥  
+ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः।  
+ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/11_hato_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः। ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥
+ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः।  
+ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/11_hato_rAjA.md">
@@ -684,7 +717,7 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 </details>
 <details><summary>पदपाठः</summary>
 
-हतः। राजा। क्रिमीणाम्। उत। एषाम्। स्थपतिः। हतः। हतः। हतमाता। क्रिमिः। हतऽभ्राता। हतऽस्वसा। २३.११।
+ह॒तः। राजा॑। क्रिमी॑णाम्। उ॒त। ए॒षा॒म्। स्थ॒पतिः॑। ह॒तः। ह॒तः। ह॒तमा॑ता। क्रिमिः॑। ह॒तऽभ्रा॑ता। ह॒तऽस्व॑सा। २३.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -715,14 +748,17 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/12_hatAso_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः ।  
-अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥१२॥  
+ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः।  
+अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/12_hatAso_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः। अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥
+ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः।  
+अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/12_hatAso_asya.md">
@@ -741,7 +777,7 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 </details>
 <details><summary>पदपाठः</summary>
 
-हतासः। अस्य। वेशसः। हतासः। परिऽवेशसः। अथो इति। ये। क्षुल्लकाःऽइव। सर्वे। ते। क्रिमयः। हताः। २३.१२।
+ह॒तासः॑। अ॒स्य॒। वेशसः॑। ह॒तासः॑। परि॑ऽवेशसः। अथो॒ इति॑। ये। क्षु॒ल्ल॒काःऽइ॑व। सर्वे॑। ते। क्रिम॑यः। ह॒ताः। २३.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -773,13 +809,16 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वे॑षां च॒ क्रिमी॑णां॒ सर्वा॑सां च क्रि॒मीना॑म्।  
-भि॒नद्म्यश्म॑ना॒ शिरो॒ दहा॑म्य॒ग्निना॒ मुख॑म्॥१३॥
+भि॒नद्म्यश्म॑ना॒ शिरो॒ दहा॑म्य॒ग्निना॒ मुख॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/13_sarveShAM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर्वे॑षां च॒ क्रिमी॑णां॒ सर्वा॑सां च क्रि॒मीना॑म्। भि॒नद्म्यश्म॑ना॒ शिरो॒ दहा॑म्य॒ग्निना॒ मुख॑म् ॥
+सर्वे॑षां च॒ क्रिमी॑णां॒ सर्वा॑सां च क्रि॒मीना॑म्।  
+भि॒नद्म्यश्म॑ना॒ शिरो॒ दहा॑म्य॒ग्निना॒ मुख॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/13_sarveShAM_cha.md">
@@ -800,7 +839,7 @@ Ppp. reads *aśminā* in **c**.
 </details>
 <details><summary>पदपाठः</summary>
 
-सर्वेषाम्। च। क्रिमीणाम्। सर्वासाम्। च। क्रिमीणाम्। भिनद्मि। अश्मना। शिरः। दहामि। अग्निना। मुखम्। २३.१३।
+सर्वे॑षाम्। च॒। क्रिमी॑णाम्। सर्वा॑साम्। च॒। क्रि॒मीणा॑म्। भि॒नद्मि॑। अश्म॑ना। शिरः॑। दहा॑मि। अ॒ग्निना॑। मुख॑म्। २३.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

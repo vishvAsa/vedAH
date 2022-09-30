@@ -36,14 +36,17 @@ In praise of Agni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्यऽर्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त ।  
-इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत् पवन्ताम्॥१॥  
+अ॒भ्य᳡र्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त।  
+इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवन्ताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भ्य᳡र्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त। इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवन्ताम् ॥
+अ॒भ्य᳡र्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त।  
+इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवन्ताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/01_abhyarchata_suShTutim.md">
@@ -67,7 +70,7 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। अर्चत। सुऽस्तुतिम्। गव्यम्। आजिम्। अस्मासु। भद्रा। द्रविणानि। धत्त। इमम्। यज्ञम्। नयत। देवता। नः। घृतस्य। धाराः। मधुऽमत्। पवन्ताम्। ८७.१।
+अ॒भि। अ॒र्च॒त॒। सु॒ऽस्तु॒तिम्। गव्य॑म्। आ॒जिम्। अ॒स्मासु॑। भ॒द्रा। द्रवि॑णानि। ध॒त्त॒। इ॒मम्। य॒ज्ञम्। न॒य॒त॒। दे॒वता॑। नः॒। घृ॒तस्य॑। धाराः॑। मधु॑ऽमत्। प॒व॒न्ता॒म्। ८७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/02_mayyagre_agnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न ।  
-मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम्॥२॥  
+मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न।  
+मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/02_mayyagre_agnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न। मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम् ॥
+मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न।  
+मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/02_mayyagre_agnim.md">
@@ -132,7 +138,7 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 </details>
 <details><summary>पदपाठः</summary>
 
-मयि। अग्रे। अग्निम्। गृह्णामि। सह। क्षत्रेण। वर्चसा। बलेन। मयि। प्रऽजाम्। मयि। आयुः। दधामि। स्वाहा। मयि। अग्निम्। ८७.२।
+मयि॑। अग्रे॑। अ॒ग्निम्। गृ॒ह्णा॒मि॒। स॒ह। क्ष॒त्रेण॑। वर्च॑सा। बले॑न। मयि॑। प्र॒ऽजाम्। मयि॑। आयुः॑। द॒धा॒मि॒। स्वाहा॑। मयि॑। अ॒ग्निम्। ८७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/03_ihaivAgne_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न् पूर्व॑चित्ता निका॒रिणः॑ ।  
-क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥३॥  
+इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न्पूर्व॑चित्ता निका॒रिणः॑।  
+क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/03_ihaivAgne_adhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न्पूर्व॑चित्ता निका॒रिणः॑। क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥
+इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न्पूर्व॑चित्ता निका॒रिणः॑।  
+क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/03_ihaivAgne_adhi.md">
@@ -207,7 +216,7 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। एव। अग्ने। अधि। धारय। रयिम्। मा। त्वा। नि। क्रन्। पूर्वऽचित्ताः। निऽकारिणः। क्षत्रेण। अग्ने। सुऽयमम्। अस्तु। तुभ्यम्। उपऽसत्ता। वर्धताम्। ते। अनिऽस्तृतः। ८७.३।
+इ॒ह। ए॒व। अ॒ग्ने॒। अधि॑। धा॒र॒य॒। र॒यिम्। मा। त्वा॒। नि। क्र॒न्। पूर्व॑ऽचित्ताः। नि॒ऽका॒रिणः॑। क्ष॒त्रेण॑। अ॒ग्ने॒। सु॒ऽयम॑म्। अ॒स्तु॒। तुभ्य॑म्। उ॒प॒ऽस॒त्ता। व॒र्ध॒ता॒म्। ते॒। अनि॑ऽस्तृतः। ८७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -238,14 +247,17 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः ।  
-अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥४॥  
+अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः। अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥
+अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
@@ -273,7 +285,7 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 </details>
 <details><summary>पदपाठः</summary>
 
-अनु। अग्निः। उषसाम्। अग्रम्। अख्यत्। अनु। अहानि। प्रथमः। जातऽवेदाः। अनु। सूर्यः। उषसः। अनु। रश्मीन्। अनु। द्यावापृथिवी इति। आ। विवेश। ८७.४।
+अनु॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। अनु॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। अनु॑। सूर्यः॑। उ॒षसः॑। अनु॑। र॒श्मीन्। अनु॑। द्यावा॑पृथि॒वी इति॑। आ। वि॒वे॒श॒। ८७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -304,14 +316,17 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त् प्रत्यहा॑नि प्रथ॒मो जा॒तवे॑दाः ।  
-प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन् प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥५॥  
+प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रति॒ अहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रति॒ अहा॑नि प्रथ॒मो जा॒तवे॑दाः। प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
+प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रति॒ अहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
+प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
@@ -336,7 +351,7 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रति। अग्निः। उषसाम्। अग्रम्। अख्यत्। प्रति। अहानि। प्रथमः। जातऽवेदाः। प्रति। सूर्यस्य। पुरुऽधा। च। रश्मीन्। प्रति। द्यावापृथिवी इति। आ। ततान। ८७.५।
+प्रति॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। प्रति॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। प्रति॑। सूर्य॑स्य। पु॒रु॒ऽधा। च॒। र॒श्मीन्। प्रति॑। द्यावा॑पृथि॒वी इति॑। आ। त॒ता॒न॒। ८७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -367,14 +382,17 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/06_ghRtaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घृ॒तं ते॑ अग्ने दि॒व्ये स॒धस्थे॑ घृ॒तेन॒ त्वां मनु॑र॒द्या समि॑न्धे ।  
-घृ॒तं ते॑ दे॒वीर्न॒प्त्य॑१आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥६॥
+घृ॒तं ते॑ अग्ने दि॒व्ये स॒धस्थे॑ घृ॒तेन॒ त्वां मनु॑र॒द्या समि॑न्धे।  
+घृ॒तं ते॑ दे॒वीर्न॒प्त्य१॒॑ आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/06_ghRtaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घृ॒तं ते॑ अग्ने दि॒व्ये स॒धस्थे॑ घृ॒तेन॒ त्वां मनु॑र॒द्या समि॑न्धे। घृ॒तं ते॑ दे॒वीर्न॒प्त्य आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥
+घृ॒तं ते॑ अग्ने दि॒व्ये स॒धस्थे॑ घृ॒तेन॒ त्वां मनु॑र॒द्या समि॑न्धे।  
+घृ॒तं ते॑ दे॒वीर्न॒प्त्य१॒॑ आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/06_ghRtaM_te.md">
@@ -397,7 +415,7 @@ Butter to thee in heaven thy home, O Agni! Manu this day hath kindled thee with 
 </details>
 <details><summary>पदपाठः</summary>
 
-घृतम्। ते। अग्ने। दिव्ये। सधऽस्थे। घृतेन। त्वाम्। मनुः। अद्य। सम्। इन्धे। घृतम्। ते। देवीः। नप्त्यः᳡। आ। वहन्तु। घृतम्। तुभ्यम्। दुह्रताम्। गावः। अग्ने। ८७.६।
+घृ॒तम्। ते॒। अ॒ग्ने॒। दि॒व्ये। स॒धऽस्थे॑। घृ॒तेन॑। त्वाम्। मनुः॑। अ॒द्य। सम्। इ॒न्धे॒। घृ॒तम्। ते॒। दे॒वीः। न॒प्त्यः᳡। आ। व॒ह॒न्तु॒। घृ॒तम्। तुभ्य॑म्। दु॒ह्र॒ता॒म्। गावः॑। अ॒ग्ने॒। ८७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

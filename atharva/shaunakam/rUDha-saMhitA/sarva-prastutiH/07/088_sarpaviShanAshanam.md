@@ -36,14 +36,17 @@ A charm to cure a snake-bite
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि। वि॒षे वि॒षम॑पृक्था वि॒षमिद् वा अ॑पृक्थाः ।  
-अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥१॥
+अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि वि॒षे वि॒षम॑पृक्था वि॒षमिद्वा अ॑पृक्थाः।  
+अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि वि॒षे वि॒षम॑पृक्था वि॒षमिद्वा अ॑पृक्थाः। अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥
+अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि वि॒षे वि॒षम॑पृक्था वि॒षमिद्वा अ॑पृक्थाः।  
+अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
@@ -69,7 +72,7 @@ Depart! thou art a foe, a foe. Poison with poison hast thou mixt, yea, verily po
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। इहि। अरिः। असि। अरिः। वै। असि। विषे। विषम्। अपृक्थाः। विषम्। इत्। वै। अपृक्थाः। अहिम्। एव। अभिऽअपेहि। तम्। जहि। ९३.१।
+अप॑। इ॒हि॒। अरिः॑। अ॒सि॒। अरिः॑। वै। अ॒सि॒। वि॒षे। वि॒षम्। अ॒पृ॒क्थाः॒। वि॒षम्। इत्। वै। अ॒पृ॒क्थाः॒। अहि॑म्। ए॒व। अ॒भि॒ऽअपे॑हि। तम्। ज॒हि॒। ९३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

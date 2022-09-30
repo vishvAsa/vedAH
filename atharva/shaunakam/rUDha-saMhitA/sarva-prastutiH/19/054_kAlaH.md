@@ -32,23 +32,25 @@ A hymn to Kala; a continuation of the preceding hymn
 </details>
 </details>
 </div>
-## ०१ कालादापः समभवन्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
+## ०१ कालादापः समभवन्कालाद्ब्रह्म
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लादापः॒ सम॑भवन् का॒लाद् ब्रह्म॒ तपो॒ दिशः॑ ।  
-का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥१॥  
+का॒लादापः॒ सम॑भवन्का॒लाद्ब्रह्म॒ तपो॒ दिशः॑।  
+का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-का॒लादापः॒ सम॑भवन् का॒लाद् ब्रह्म॒ तपो॒ दिशः॑ ।  
-का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥१॥  
+का॒लादापः॒ सम॑भवन्का॒लाद्ब्रह्म॒ तपो॒ दिशः॑।  
+का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/01_kAlAdApaH_samabhavan.md">
-<details open><summary><h3>०१ कालादापः समभवन् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
+<details open><summary><h3>०१ कालादापः समभवन्कालाद्ब्रह्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -67,7 +69,7 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 </details>
 <details><summary>पदपाठः</summary>
 
-कालात्। आपः। सम्। अभवन्। कालात्। ब्रह्म। तपः। दिशः। कालेन। उत्। एति। सूर्यः। काले। नि। विशते। पुनः। ५४.१।
+का॒लात्। आपः॑। सम्। अ॒भ॒व॒न्। का॒लात्। ब्रह्म॑। तपः॑। दिशः॑। का॒लेन॑। उत्। ए॒ति॒। सूर्यः॑। का॒ले। नि। वि॒श॒ते॒। पुनः॑। ५४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +101,16 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
-द्यौर्म॒ही का॒ल आहि॑ता ॥२॥  
+द्यौर्म॒ही का॒ल आहि॑ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/02_kAlena_vAtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
-द्यौर्म॒ही का॒ल आहि॑ता ॥२॥  
+द्यौर्म॒ही का॒ल आहि॑ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/02_kAlena_vAtaH.md">
@@ -136,7 +140,7 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 </details>
 <details><summary>पदपाठः</summary>
 
-कालेन। वातः। पवते। कालेन। पृथिवी। मही। द्यौः। मही। काले। आऽहिता। ५४.२।
+का॒लेन॑। वातः॑। प॒व॒ते॒। का॒लेन॑। पृ॒थि॒वी। म॒ही। द्यौः। म॒ही। का॒ले। आऽहि॑ता। ५४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,15 +171,17 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/03_kAlo_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत् पु॒रा।  
-का॒लादृचः॒ सम॑भव॒न् यजुः॑ का॒लाद॑जायत ॥३॥  
+का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत्पु॒रा।  
+का॒लादृचः॒ सम॑भव॒न्यजुः॑ का॒लाद॑जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/03_kAlo_ha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत् पु॒रा।  
-का॒लादृचः॒ सम॑भव॒न् यजुः॑ का॒लाद॑जायत ॥३॥  
+का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत्पु॒रा।  
+का॒लादृचः॒ सम॑भव॒न्यजुः॑ का॒लाद॑जायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/03_kAlo_ha.md">
@@ -212,7 +218,7 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 </details>
 <details><summary>पदपाठः</summary>
 
-कालः। ह। भूतम्। भव्यम्। च। पुत्रः। अजनयत्। पुरा। कालात्। ऋचः। सम्। अभवन्। यजुः। कालात्। अजायत। ५४.३।
+का॒लः। ह॒। भू॒तम्। भव्य॑म्। च॒। पु॒त्रः। अ॒ज॒न॒य॒त्। पु॒रा। का॒लात्। ऋचः॑। सम्। अ॒भ॒व॒न्। यजुः॑। का॒लात्। अ॒जा॒य॒त॒। ५४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -243,15 +249,17 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/04_kAlo_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लो य॒ज्ञं समै॑रयद् दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
-का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥४॥  
+का॒लो य॒ज्ञं समै॑रयद्दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
+का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/04_kAlo_yajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-का॒लो य॒ज्ञं समै॑रयद् दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
-का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥४॥  
+का॒लो य॒ज्ञं समै॑रयद्दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
+का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/04_kAlo_yajnam.md">
@@ -319,7 +327,7 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 </details>
 <details><summary>पदपाठः</summary>
 
-कालः। यज्ञम्। सम्। ऐरयत्। देवेभ्यः। भागम्। अक्षितम्। काले। गन्धर्वऽअप्सरसः। काले। लोकाः। प्रतिऽस्थिताः। ५४.४।
+का॒लः। य॒ज्ञम्। सम्। ऐ॒र॒य॒त्। दे॒वेभ्यः॑। भा॒गम्। अक्षि॑तम्। का॒ले। ग॒न्ध॒र्व॒ऽअ॒प्स॒रसः॑। का॒ले। लो॒काः। प्रति॑ऽस्थिताः। ५४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -350,17 +358,19 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः ।  
-इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान् विधृ॑तीश्च॒ पुण्याः॑ ।  
-सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥५॥
+का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः।  
+इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान्विधृ॑तीश्च॒ पुण्याः॑।  
+सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः ।  
-इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान् विधृ॑तीश्च॒ पुण्याः॑ ।  
-सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥५॥
+का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः।  
+इ॒मं च॑ लो॒कं प॑र॒मं च॑ लो॒कं पुण्यां॑श्च लो॒कान्विधृ॑तीश्च॒ पुण्याः॑।  
+सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
@@ -377,7 +387,7 @@ Atharvan and this Angiras in Kala are supreme o'er heaven. Both this world and t
 </details>
 <details><summary>पदपाठः</summary>
 
-काले। अयम्। अङ्गिराः। देवः। अथर्वा। च। अधि। तिष्ठतः। इमम्। च। लोकम्। परमम्। च। लोकम्। पुण्यान्। च। लोकान्। विऽधृतीः। च। पुण्याः। सर्वान्। लोकान्। अभिऽजित्य। ब्रह्मणा। कालः। सः। ईयते। परमः। नु। देवः। ५४.५।
+का॒ले। अ॒यम्। अङ्गि॑राः। दे॒वः। अथ॑र्वा। च॒। अधि॑। ति॒ष्ठ॒तः॒। इ॒मम्। च॒। लो॒कम्। प॒र॒मम्। च॒। लो॒कम्। पुण्या॑न्। च॒। लो॒कान्। विऽधृ॑तीः। च॒। पुण्याः॑। सर्वा॑न्। लो॒कान्। अ॒भि॒ऽजित्य॑। ब्रह्म॑णा। का॒लः। सः। ई॒य॒ते॒। प॒र॒मः। नु। दे॒वः। ५४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

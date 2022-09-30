@@ -36,14 +36,17 @@ To the Rivers
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः ।  
-आपो॑ ह मह्यं॒ तद् दे॒वीर्दद॑न् हृद्द्योतभेष॒जम्॥१॥  
+हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः।  
+आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः। आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
+हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः।  
+आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
@@ -68,7 +71,7 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 </details>
 <details><summary>पदपाठः</summary>
 
-हिमऽवतः। प्र। स्रवन्ति। सिन्धौ। समह। सम्ऽगमः। आपः। ह। मह्यम्। तत्। देवीः। ददन्। हृद्द्योतऽभेषजम्। २४.१।
+हि॒मऽव॑तः। प्र। स्र॒व॒न्ति॒। सिन्धौ॑। स॒म॒ह॒। स॒म्ऽग॒मः। आपः॑। ह॒। मह्य॑म्। तत्। दे॒वीः। दद॑न्। हृ॒द्द्यो॒त॒ऽभे॒ष॒जम्। २४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,13 +103,16 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
-आप॒स्तत् सर्वं॒ निष्क॑रन् भि॒षजां॒ सुभि॑षक्तमाः ॥२॥  
+आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्। आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
+यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
+आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
@@ -132,7 +138,7 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। मे। अक्ष्योः। आऽदिद्योत। पार्ष्ण्योः। प्रऽपदोः। च। यत्। आपः। तत्। सर्वम्। निः। करन्। भिषजाम्। सुभिषक्ऽतमाः। २४.२।
+यत्। मे॒। अ॒क्ष्योः। आ॒ऽदि॒द्योत॑। पार्ष्ण्योः॑। प्रऽप॑दोः। च॒। यत्। आपः॑। तत्। सर्व॑म्। निः। क॒र॒न्। भि॒षजा॑म्। सुभि॑षक्ऽतमाः। २४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिन्धु॑पत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य॑१स्थन॑ ।  
-द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥३॥
+सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य१॒॑ स्थन॑।  
+द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य स्थन॑। द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
+सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य१॒॑ स्थन॑।  
+द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
@@ -192,7 +201,7 @@ All Rivers who have Sindhu for your Lady, Sindhu for your Queen, Give us the bal
 </details>
 <details><summary>पदपाठः</summary>
 
-सिन्धुऽपत्नीः। सिन्धुऽराज्ञीः। सर्वाः। याः। नद्यः᳡। स्थन। दत्त। नः। तस्य। भेषजम्। तेन। वः। भुनजामहै। २४.३।
+सिन्धु॑ऽपत्नीः। सिन्धु॑ऽराज्ञीः। सर्वाः॑। याः। न॒द्यः᳡। स्थन॑। द॒त्त। नः॒। तस्य॑। भे॒ष॒जम्। तेन॑। वः॒। भु॒न॒जा॒म॒है॒। २४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Weber, Ind. Stud. v. 246; Ludwig, p. 470; Geldner, Ved. Stud. i. 131
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे ।  
-इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥१॥  
+त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे।  
+इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे। इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥
+त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे।  
+इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
@@ -62,7 +65,7 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। वीरुधाम्। श्रेष्ठऽतमा। अभिऽश्रुता। असि। ओषधे। इमम्। मे। अद्य। पुरुषम्। क्लीबम्। ओपशिनम्। कृधि। १३८.१।
+त्वम्। वी॒रुधा॑म्। श्रेष्ठ॑ऽतमा। अ॒भि॒ऽश्रु॒ता। अ॒सि॒। ओ॒ष॒धे॒। इ॒मम्। मे॒। अ॒द्य। पुरु॑षम्। क्ली॒बम्। ओ॒प॒शिन॑म्। कृ॒धि॒। १३८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि ।  
-अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौऽ॥२॥  
+क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि।  
+अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौ᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि। अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौ᳡ ॥
+क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि।  
+अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौ᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
@@ -126,7 +132,7 @@ Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with
 </details>
 <details><summary>पदपाठः</summary>
 
-क्लीबम्। कृधि। ओपशिनम्। अथो इति। कुरीरिणम्। कृधि। अथ। अस्य। इन्द्रः। ग्रावऽभ्याम्। उभे इति। भिनत्तु। आण्ड्यौ᳡। १३८.२।
+क्ली॒बम्। कृ॒धि॒। ओ॒प॒शिन॑म्। अथो॒ इति॑। कु॒री॒रिण॑म्। कृ॒धि॒। अथ॑। अ॒स्य॒। इन्द्रः॑। ग्राव॑ऽभ्याम्। उ॒भे इति॑। भि॒न॒त्तु॒। आ॒ण्ड्यौ᳡। १३८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -158,13 +164,16 @@ Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्।  
-कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥३॥  
+कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/03_klIba_klIbam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्। कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥
+क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्।  
+कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/03_klIba_klIbam.md">
@@ -190,7 +199,7 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 </details>
 <details><summary>पदपाठः</summary>
 
-क्लीब। क्लीबम्। त्वा। अकरम्। वध्रे। वध्रिम्। त्वा। अकरम्। अरस। अरसम्। त्वा। अकरम्। कुरीरम्। अस्य। शीर्षाणि। कुम्बम्। च। अधिऽनिदध्मसि। १३८.३।
+क्लीब॑। क्ली॒बम्। त्वा॒। अ॒क॒र॒म्। वध्रे॑। वध्रि॑म्। त्वा॒। अ॒क॒र॒म्। अर॑स। अ॒र॒सम्। त्वा॒। अ॒क॒र॒म्। कु॒रीर॑म्। अ॒स्य॒। शी॒र्षाणि॑। कुम्ब॑म्। च॒। अ॒धि॒ऽनिद॑ध्मसि। १३८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -221,14 +230,17 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/04_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॑ ना॒ड्यौऽदे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्।  
-ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥४॥  
+ये ते॑ ना॒ड्यौ᳡ दे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्।  
+ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/04_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ते॑ ना॒ड्यौ᳡ दे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्। ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+ये ते॑ ना॒ड्यौ᳡ दे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्।  
+ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/04_ye_te.md">
@@ -251,7 +263,7 @@ Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये इति। ते। नाड्यौ᳡। देवकृते इति देवऽकृते। ययोः। तिष्ठति। वृष्ण्यम्। ते इति। ते। भिनद्मि। शम्यया। अमुष्याः। अधि। मुष्कयोः। १३८.४।
+ये इति॑। ते॒। ना॒ड्यौ᳡। दे॒वकृ॑ते॒ इति॑ दे॒वऽकृ॑ते। ययोः॑। तिष्ठ॑ति। वृष्ण्य॑म्। ते इति॑। ते॒। भि॒न॒द्मि॒। शम्य॑या। अ॒मुष्याः॑। अधि॑। मु॒ष्कयोः॑। १३८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -282,14 +294,17 @@ Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/05_yathA_naDam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना ।  
-ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥५॥
+यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना।  
+ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/05_yathA_naDam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना। ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना।  
+ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/05_yathA_naDam.md">
@@ -311,7 +326,7 @@ Ut mulieres mattam (tegetem) facturae arundinem lapide findunt, sic fascinum tuu
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। नडम्। कशिपुने। स्रियः। भिन्दन्ति। अश्मना। एव। भिनद्मि। ते। शेपः। अमुष्याः। अधि। मुष्कयोः। १३८.५।
+यथा॑। न॒डम्। क॒शिपु॑ने। स्रियः॑। भि॒न्दन्ति॑। अश्म॑ना। ए॒व। भि॒न॒द्मि॒। ते॒। शेपः॑। अ॒मुष्याः॑। अधि॑। मु॒ष्कयोः॑। १३८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

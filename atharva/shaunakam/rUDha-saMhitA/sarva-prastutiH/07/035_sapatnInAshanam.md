@@ -36,14 +36,17 @@ A prayer for the prosperity of a King and his kingdom
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑तान् जातवेदो नुदस्व ।  
-इ॒दं रा॒ष्ट्रं पि॑पृ॒हि सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥१॥  
+प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
+इ॒दं रा॒ष्ट्रं पि॑पृहि॒ सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑ताञ्जातवेदो नुदस्व। इ॒दं रा॒ष्ट्रं पि॑पृहि॒ सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
+प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
+इ॒दं रा॒ष्ट्रं पि॑पृहि॒ सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
@@ -70,7 +73,7 @@ Subdue with conquering might his other rivals, those yet unborn repel, O Jataved
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। अन्यान्। सऽपत्नान्। सहसा। सहस्व। प्रति। अजातान्। जातऽवेदः। नुदस्व। इदम्। राष्ट्रम्। पिपृहि। सौभगाय। विश्वे। एनम्। अनु। मदन्तु। देवाः। ३६.१।
+प्र। अ॒न्यान्। स॒ऽपत्ना॑न्। सह॑सा। सह॑स्व। प्रति॑। अजा॑तान्। जा॒त॒ऽवे॒दः॒। नु॒द॒स्व॒। इ॒दम्। रा॒ष्ट्रम्। पि॒पृ॒हि। सौभ॑गाय। विश्वे॑। ए॒न॒म्। अनु॑। म॒द॒न्तु॒। दे॒वाः। ३६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,13 +105,16 @@ Subdue with conquering might his other rivals, those yet unborn repel, O Jataved
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा यास्ते॑ श॒तं हि॒राः स॒हस्रं॑ ध॒मनी॑रु॒त।  
-तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम्॥२॥  
+तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/02_imA_yAste.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मा यास्ते॑ श॒तं हि॒राः स॒हस्रं॑ ध॒मनी॑रु॒त। तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम् ॥
+इ॒मा यास्ते॑ श॒तं हि॒राः स॒हस्रं॑ ध॒मनी॑रु॒त।  
+तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/02_imA_yAste.md">
@@ -130,7 +136,7 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 </details>
 <details><summary>पदपाठः</summary>
 
-इमाः। याः। ते। शतम्। हिराः। सहस्रम्। धमनीः। उत। तासाम्। ते। सर्वासाम्। अहम्। अश्मना। बिलम्। अपि। अधाम्। ३६.२।
+इ॒माः। याः। ते॒। श॒तम्। हि॒राः। स॒हस्र॑म्। ध॒मनीः॑। उ॒त। तासा॑म्। ते॒। सर्वा॑साम्। अ॒हम्। अश्म॑ना। बिल॑म्। अपि॑। अ॒धा॒म्। ३६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑ ।  
-अ॒स्वं॑१ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं कृणोमि ॥३॥
+परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑।  
+अ॒स्वं१॒॑ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं॑ कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑। अ॒स्वं त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं॑ कृणोमि ॥
+परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑।  
+अ॒स्वं१॒॑ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं॑ कृणोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
@@ -201,7 +210,7 @@ Uteri tui summam partem inferam facio: ne tibi soboles neque filius eveniat. Ste
 </details>
 <details><summary>पदपाठः</summary>
 
-परम्। योनेः। अवरम्। ते। कृणोमि। मा। त्वा। प्रऽजा। अभ‍ि। भूत्। मा। उत। सूनुः। अस्व᳡म्। त्वा। अप्रजसम्। कृणोमि। अश्मानम्। ते। अपिऽधानम्। कृणोमि। ३६.३।
+पर॑म्। योनेः॑। अव॑रम्। ते॒। कृ॒णो॒मि॒। मा। त्वा॒। प्र॒ऽजा। अ॒भ‍ि। भू॒त्। मा। उ॒त। सूनुः॑। अ॒स्व᳡म्। त्वा॒। अप्र॑जसम्। कृ॒णो॒मि॒। अश्मा॑नम्। ते॒। अ॒पि॒ऽधान॑म्। कृ॒णो॒मि॒। ३६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

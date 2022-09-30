@@ -32,14 +32,17 @@ Translated: Ludwig, p. 512; Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Blo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ज॒मद॑ग्नि॒रख॑नद् दुहि॒त्रे के॑श॒वर्ध॑नीम्।  
-तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥१॥  
+यां ज॒मद॑ग्नि॒रख॑नद्दुहि॒त्रे के॑श॒वर्ध॑नीम्।  
+तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ज॒मद॑ग्नि॒रख॑नद्दुहि॒त्रे के॑श॒वर्ध॑नीम्। तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥
+यां ज॒मद॑ग्नि॒रख॑नद्दुहि॒त्रे के॑श॒वर्ध॑नीम्।  
+तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
@@ -61,7 +64,7 @@ The Plant which Jamadagni dug to make his daughter's locks. grow long, This same
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। जमत्ऽअग्निः। अखनत्। दुहित्रे। केशऽवर्धनीम्। ताम्। वीतऽहव्यः। आ। अभरत्। असितस्य। गृहेभ्यः। १३७.१।
+याम्। ज॒मत्ऽअ॑ग्निः। अख॑नत्। दु॒हि॒त्रे। के॒श॒ऽवर्ध॑नीम्। ताम्। वी॒तऽह॑व्यः। आ। अ॒भ॒र॒त्। असि॑तस्य। गृ॒हेभ्यः॑। १३७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,14 +95,17 @@ The Plant which Jamadagni dug to make his daughter's locks. grow long, This same
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भीशु॑ना॒ मेया॑ आसन् व्या॒मेना॑नु॒मेयाः॑ ।  
-केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥२॥  
+अ॒भीशु॑ना॒ मेया॑ आसन्व्या॒मेना॑नु॒मेयाः॑।  
+केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भीशु॑ना॒ मेया॑ आसन्व्या॒मेना॑नु॒मेयाः॑। केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+अ॒भीशु॑ना॒ मेया॑ आसन्व्या॒मेना॑नु॒मेयाः॑।  
+केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
@@ -124,7 +130,7 @@ They might be measured with a rein, meted with both extended arms. Let the black
 </details>
 <details><summary>पदपाठः</summary>
 
-अभीशुनाः। मेयाः। आसन्। विऽआमेन। अनुऽमेयाः। केशाः। नडाःऽइव। वर्धन्ताम्। शीर्ष्णः। ते। असिताः। परि। १३७.२।
+अ॒भीशु॑नाः। मेयाः॑। आ॒स॒न्। वि॒ऽआ॒मेन॑। अ॒नु॒ऽमेयाः॑। केशाः॑। न॒डाःऽइ॑व। व॒र्ध॒न्ता॒म्। शी॒र्ष्णः। ते॒। अ॒सि॒ताः। परि॑। १३७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,14 +161,17 @@ They might be measured with a rein, meted with both extended arms. Let the black
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दृंह॑ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे ।  
-केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥३॥
+दृंह॒ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे।  
+केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दृंह॒ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे। केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+दृंह॒ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे।  
+केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
@@ -182,7 +191,7 @@ Strengthen the roots, prolong the points, lengthen the middle part, O Plant. Let
 </details>
 <details><summary>पदपाठः</summary>
 
-दृंह। मूलम्। आ। अग्रम्। यच्छ। वि। मध्यम्। यमय। ओषधे। केशाः। नडाःऽइव। वर्धन्ताम्। शीर्ष्णः। ते। असिताः। परि। १३७.३।
+दृंह॑। मूल॑म्। आ। अग्र॑म्। य॒च्छ॒। वि। मध्य॑म्। य॒म॒य॒। ओ॒ष॒धे॒। केशाः॑। न॒डाःऽइ॑व। व॒र्ध॒न्ता॒म्। शी॒र्ष्णः। ते॒। अ॒सि॒ताः। परि॑। १३७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

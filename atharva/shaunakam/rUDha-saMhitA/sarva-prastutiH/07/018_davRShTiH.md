@@ -32,14 +32,17 @@ A prayer for rain
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/01_pra_nabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र न॑भस्व पृथिवि भि॒न्द्धी॒३दं दि॒व्यं नभः॑ ।  
-उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म्॥१॥  
+प्र न॑भस्व पृथिवि भि॒न्द्धी॒३॒॑दं दि॒व्यं नभः॑।  
+उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/01_pra_nabhasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र न॑भस्व पृथिवि भि॒न्द्धी॒३॒॑दं दि॒व्यं नभः॑। उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म् ॥
+प्र न॑भस्व पृथिवि भि॒न्द्धी॒३॒॑दं दि॒व्यं नभः॑।  
+उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/01_pra_nabhasva.md">
@@ -77,7 +80,7 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। नभस्व। पृथिव‍ि। भिन्ध्दि। इदम्। दिव्यम्। नभः। उद्गः। दिव्यस्य। नः। धातः। ईशानः। वि। स्य। दृतिम्। १९.१।
+प्र। न॒भ॒स्व॒। पृ॒थि॒व‍ि॒। भि॒न्ध्दि। इ॒दम्। दि॒व्यम्। नभः॑। उ॒द्गः। दि॒व्यस्य॑। नः॒। धा॒तः॒। ईशा॑नः। वि। स्य॒। दृति॑म्। १९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +111,17 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः ।  
-आप॑श्चिदस्मै घृ॒तमित् क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित् तत्र॑ भ॒द्रम्॥२॥
+न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः।  
+आप॑श्चिदस्मै घृ॒तमित्क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित्तत्र॑ भ॒द्रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः। आप॑श्चिदस्मै घृ॒तमित्क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित्तत्र॑ भ॒द्रम् ॥
+न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः।  
+आप॑श्चिदस्मै घृ॒तमित्क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित्तत्र॑ भ॒द्रम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/02_na_ghraMstatApa.md">
@@ -137,7 +143,7 @@ Let not the Sun's heat burn, nor cold destroy her. Let Earth with all her quicke
 </details>
 <details><summary>पदपाठः</summary>
 
-न। घ्रन्। तताप। न। हिमः। जघान। प्र। नभताम्। पृथिवी। जीरऽदानुः। आपः। चित्। अस्मै। घृतम्। इत्। क्षरन्ति। यत्र। सोमः। सदम्। इत्। तत्र। भद्रम्। १९.२।
+न। घ्रन्। त॒ता॒प॒। न। हि॒मः। ज॒घा॒न॒। प्र। न॒भ॒ता॒म्। पृ॒थि॒वी। जी॒रऽदा॑नुः। आपः॑। चि॒त्। अ॒स्मै॒। घृ॒तम्। इत्। क्ष॒र॒न्ति॒। यत्र॑। सोमः॑। सद॑म्। इत्। तत्र॑। भ॒द्रम्। १९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

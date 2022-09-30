@@ -28,14 +28,19 @@ The hymn is wanting in Pāipp. Kāuś. (36. 12) uses it in a women's rite, with 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न्य॒स्ति॒का रु॑रोहिथ सुभगं॒कर॑णी॒ मम॑ ।  
-श॒तं तव॑ प्रता॒नास्त्रय॑स्त्रिंशन्निता॒नाः ॥  
+न्य॑स्ति॒का रु॑रोहिथ सुभगं॒कर॑णी॒ मम॑।  
+श॒तं तव॑ प्रता॒नास्त्रय॑स्त्रिंशन्निता॒नाः।  
+तया॑ सहस्रप॒र्ण्या हृद॑यं शोषयामि ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न्य॑स्ति॒का रु॑रोहिथ सुभगं॒कर॑णी॒ मम॑। श॒तं तव॑ प्रता॒नास्त्रय॑स्त्रिंशन्निता॒नाः। तया॑ सहस्रप॒र्ण्या हृद॑यं शोषयामि ते ॥
+न्य॑स्ति॒का रु॑रोहिथ सुभगं॒कर॑णी॒ मम॑।  
+श॒तं तव॑ प्रता॒नास्त्रय॑स्त्रिंशन्निता॒नाः।  
+तया॑ सहस्रप॒र्ण्या हृद॑यं शोषयामि ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
@@ -67,7 +72,7 @@ Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are
 </details>
 <details><summary>पदपाठः</summary>
 
-निऽअस्तिका। रुरोहिथ। सुभगम्ऽकरणी। मम। शतम्। तव। प्रऽतानाः। त्रयःऽत्रिंशत्। निऽतानाः। तया। सहस्रऽपर्ण्या। हृदयम्। शोषयामि। ते। १३९.१।
+नि॒ऽअ॒स्ति॒का। रु॒रो॒हि॒थ॒। सु॒भ॒ग॒म्ऽकर॑णी। मम॑। श॒तम्। तव॑। प्र॒ऽता॒नाः। त्रयः॑ऽत्रिंशत्। नि॒ऽता॒नाः। तया॑। स॒ह॒स्र॒ऽप॒र्ण्या। हृद॑यम्। शो॒ष॒या॒मि॒। ते॒। १३९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,13 +103,17 @@ Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तया॑ सहस्रप॒र्ण्या हृद॑यं शोषयामि ते ॥१॥  
+शुष्य॑तु॒ मयि॑ ते॒ हृद॑य॒मथो॑ शुष्यत्वा॒स्य᳡म्।  
+अथो॒ नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शुष्य॑तु॒ मयि॑ ते॒ हृद॑य॒मथो॑ शुष्यत्वा॒स्य᳡म्। अथो॒ नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
+शुष्य॑तु॒ मयि॑ ते॒ हृद॑य॒मथो॑ शुष्यत्वा॒स्य᳡म्।  
+अथो॒ नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
@@ -125,7 +134,7 @@ Let thy heart wither for my love and let thy month be dry for me. Parch and dry 
 </details>
 <details><summary>पदपाठः</summary>
 
-शुष्यतु। मयि। ते। हृदयम्। अथो इति। शुष्यतु। आस्य᳡म्। अथो इति। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.२।
+शुष्य॑तु। मयि॑। ते॒। हृद॑यम्। अथो॒ इति॑। शु॒ष्य॒तु॒। आ॒स्य᳡म्। अथो॒ इति॑। नि। शु॒ष्य॒। माम्। कामे॑न। अथो॒ इति॑। शुष्क॑ऽआस्या। च॒र॒। १३९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,14 +165,17 @@ Let thy heart wither for my love and let thy month be dry for me. Parch and dry 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शुष्य॑तु॒ मयि॑ ते॒ हृद॑य॒मथो॑ शुष्यत्वा॒स्यऽम्।  
-अथो॒ नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥२॥  
+सं॒वन॑नी समुष्प॒ला बभ्रु॒ कल्या॑णि॒ सं नु॑द।  
+अ॒मूं च॒ मां च॒ सं नु॑द समा॒नं हृद॑यं कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒वन॑नी समुष्प॒ला बभ्रु॒ कल्या॑णि॒ सं नु॑द। अ॒मूं च॒ मां च॒ सं नु॑द समा॒नं हृद॑यं कृधि ॥
+सं॒वन॑नी समुष्प॒ला बभ्रु॒ कल्या॑णि॒ सं नु॑द।  
+अ॒मूं च॒ मां च॒ सं नु॑द समा॒नं हृद॑यं कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
@@ -192,7 +204,7 @@ Drive us together, tawny! fair! a go-between who wakens love. Drive us together,
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽवननी। सम्ऽउष्पला। बभ्रु। कल्याणि। सम्। नुद। अमूम्। च। माम्। च। सम्। नुद। समानम्। हृदयम्। कृधि। १३९.३।
+स॒म्ऽवन॑नी। स॒म्ऽउ॒ष्प॒ला। बभ्रु॑। कल्या॑णि। सम्। नु॒द॒। अ॒मूम्। च॒। माम्। च॒। सम्। नु॒द॒। स॒मा॒नम्। हृद॑यम्। कृ॒धि॒। १३९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,14 +235,17 @@ Drive us together, tawny! fair! a go-between who wakens love. Drive us together,
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒वन॑नी समुष्प॒ला बभ्रु॒ कल्या॑णि॒ सं नु॑द ।  
-अमूं च॒ मां च॒ सं नु॑द समा॒नं हृद॑यं कृधि ॥३॥  
+यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्य᳡म्।  
+ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्य᳡म्। ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
+यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्य᳡म्।  
+ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
@@ -250,7 +265,7 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। उदकम्। अपपुषः। अपऽशुष्यति। आस्य᳡म्। एव। नि। शुष्य। माम्। कामेन। अथो इति। शुष्कऽआस्या। चर। १३९.४।
+यथा॑। उ॒द॒कम्। अप॑पुषः। अ॒प॒ऽशुष्य॑ति। आ॒स्य᳡म्। ए॒व। नि। शु॒ष्य॒। माम्। कामे॑न। अथो॒ इति॑। शुष्क॑ऽआस्या। च॒र॒। १३९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -281,14 +296,17 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्यऽम्।  
-ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥४॥  
+यथा॑ नकु॒लो वि॒च्छिद्य॑ सं॒दधा॒त्यहिं॒ पुनः॑।  
+ए॒वा काम॑स्य॒ विच्छि॑न्नं॒ सं धे॑हि वीर्यावति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ नकु॒लो वि॒च्छिद्य॑ सं॒दधा॒त्यहिं॒ पुनः॑। ए॒वा काम॑स्य॒ विच्छि॑न्नं॒ सं धे॑हि वीर्यावति ॥
+यथा॑ नकु॒लो वि॒च्छिद्य॑ सं॒दधा॒त्यहिं॒ पुनः॑।  
+ए॒वा काम॑स्य॒ विच्छि॑न्नं॒ सं धे॑हि वीर्यावति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
@@ -309,7 +327,7 @@ Even as the Mungoose bites and rends and then restores the wounded snake, So do 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। नकुलः। विऽछिद्य। सम्ऽदधाति। अहिम्। पुनः। एव। कामस्य। विऽछिन्नम्। सम्। धेहि। वीर्यऽवति। १३९.५।
+यथा॑। न॒कु॒लः। वि॒ऽछिद्य॑। स॒म्ऽदधा॑ति। अहि॑म्। पुनः॑। ए॒व। काम॑स्य। विऽछि॑न्नम्। सम्। धे॒हि॒। वी॒र्य॒ऽव॒ति॒। १३९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

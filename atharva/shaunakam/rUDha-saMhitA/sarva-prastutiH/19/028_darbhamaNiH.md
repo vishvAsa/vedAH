@@ -39,15 +39,17 @@ A charm for the destruction of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मं ब॑ध्नामि ते म॒णिं दी॑र्घायु॒त्वाय॒ तेज॑से ।  
-द॒र्भं स॑पत्न॒दम्भ॑नं द्विष॒तस्तप॑नं हृ॒दः ॥१॥  
+इ॒मं ब॑ध्नामि ते म॒णिं दी॑र्घायु॒त्वाय॒ तेज॑से।  
+द॒र्भं स॑पत्न॒दम्भ॑नं द्विष॒तस्तप॑नं हृ॒दः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं ब॑ध्नामि ते म॒णिं दी॑र्घायु॒त्वाय॒ तेज॑से ।  
-द॒र्भं स॑पत्न॒दम्भ॑नं द्विष॒तस्तप॑नं हृ॒दः ॥१॥  
+इ॒मं ब॑ध्नामि ते म॒णिं दी॑र्घायु॒त्वाय॒ तेज॑से।  
+द॒र्भं स॑पत्न॒दम्भ॑नं द्विष॒तस्तप॑नं हृ॒दः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
@@ -69,7 +71,7 @@ On thee I bind this Amulet for lengthened life and brilliancy. The rival-quellin
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। बध्नामि। ते। मणिम्। दीर्घायुऽत्वाय। तेजसे। दर्भम्। सपत्नऽदम्भनम्। द्विषतः। तपनम्। हृदः। २८.१। ‍
+इ॒मम्। ब॒ध्ना॒मि॒। ते॒। म॒णिम्। दी॒र्घा॒यु॒ऽत्वाय॑। तेज॑से। द॒र्भम्। स॒प॒त्न॒ऽदम्भ॑नम्। द्वि॒ष॒तः। तप॑नम्। हृ॒दः। २८.१। ‍
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +102,17 @@ On thee I bind this Amulet for lengthened life and brilliancy. The rival-quellin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वि॒ष॒तस्ता॒पय॑न् हृ॒दः शत्रू॑णां ता॒पय॒न् मनः॑ ।  
-दु॒र्हार्दः॒ सर्वां॒स्त्वं द॑र्भ घ॒र्म इ॑वा॒भिन्त्संता॒पय॑न्॥२॥  
+द्वि॑ष॒तस्ता॒पय॑न्हृ॒दः शत्रू॑णां ता॒पय॒न्मनः॑।  
+दु॒र्हार्दः॒ सर्वां॒स्त्वं द॑र्भ घ॒र्म इ॑वा॒भीन्त्सं॑ता॒पय॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्वि॑ष॒तस्ता॒पय॑न्हृ॒दः शत्रू॑णां ता॒पय॒न्मनः॑। दु॒र्हार्दः॒ सर्वां॒स्त्वं द॑र्भ घ॒र्म इ॑वा॒भीन्त्सं॑ता॒पय॑न् ॥
+द्वि॑ष॒तस्ता॒पय॑न्हृ॒दः शत्रू॑णां ता॒पय॒न्मनः॑।  
+दु॒र्हार्दः॒ सर्वां॒स्त्वं द॑र्भ घ॒र्म इ॑वा॒भीन्त्सं॑ता॒पय॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
@@ -148,7 +153,7 @@ Burning the spirit of the foe, vexing the heart of enemies. Darbha, on every sid
 </details>
 <details><summary>पदपाठः</summary>
 
-द्विषतः। तापयन्। हृदः। शत्रूणाम्। तापयन्। मनः। दुःऽहार्दः। सर्वान्। त्वम्। दर्भ। घर्मःऽइव। अभीन्। सम्ऽतापयन्। २८.२।
+द्वि॒ष॒तः। ता॒पय॑न्। हृ॒दः। शत्रू॑णाम्। ता॒पय॑न्। मनः॑। दुः॒ऽहार्दः॑। सर्वा॑न्। त्वम्। द॒र्भ॒। घ॒र्मःऽइ॑व। अ॒भीन्। स॒म्ऽता॒पय॑न्। २८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,14 +184,17 @@ Burning the spirit of the foe, vexing the heart of enemies. Darbha, on every sid
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-घ॒र्म इ॑वाभि॒तप॑न् दर्भ द्विष॒तो नि॒तप॑न् मणे ।  
-हृ॒दः स॒पत्ना॑नां भि॒न्द्धीन्द्र॑ इव विरु॒जं ब॒लम्॥३॥  
+घ॒र्म इ॑वाभि॒तप॑न्दर्भ द्विष॒तो नि॒तप॑न्मणे।  
+हृ॒दः स॒पत्ना॑नां भि॒न्द्धीन्द्र॑ इव विरु॒जन् ब॒लम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-घ॒र्म इ॑वाभि॒तप॑न्दर्भ द्विष॒तो नि॒तप॑न्मणे। हृ॒दः स॒पत्ना॑नां भि॒न्द्धीन्द्र॑ इव विरु॒जन् ब॒लम् ॥
+घ॒र्म इ॑वाभि॒तप॑न्दर्भ द्विष॒तो नि॒तप॑न्मणे।  
+हृ॒दः स॒पत्ना॑नां भि॒न्द्धीन्द्र॑ इव विरु॒जन् ब॒लम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
@@ -221,7 +229,7 @@ O Darbha, burning round like heat, consuming foes, O Amulet,. Like Indra rending
 </details>
 <details><summary>पदपाठः</summary>
 
-घर्मःऽइव। अभिऽतपन्। दर्भ। द्विषतः। निऽतपन्। मणे। हृदः। सऽपत्नानाम्। भिन्ध्दि। इन्द्रःऽइव। विऽरुजन्। बलम्। २८.३।
+घ॒र्मःऽइ॑व। अ॒भि॒ऽतप॑न्। द॒र्भ॒। द्वि॒ष॒तः। नि॒ऽतप॑न्। म॒णे॒। हृ॒दः। स॒ऽपत्ना॑नाम्। भि॒न्ध्दि॒। इन्द्रः॑ऽइव। वि॒ऽरु॒जन्। ब॒लम्। २८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -252,14 +260,17 @@ O Darbha, burning round like heat, consuming foes, O Amulet,. Like Indra rending
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भि॒न्द्धि द॑र्भ स॒पत्ना॑नां॒ हृद॑यः द्विष॒तां म॑णे ।  
-उ॒द्यन्त्वच॑मिव॒ भूम्याः॒ शिर॑ ए॒षा वि पा॑तय ॥४॥  
+भि॒न्द्धि द॑र्भ स॒पत्ना॑नां॒ हृद॑यं द्विष॒तां म॑णे।  
+उ॒द्यन्त्वच॑मिव॒ भूम्याः॒ शिर॑ ए॒षां वि पा॑तय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भि॒न्द्धि द॑र्भ स॒पत्ना॑नां॒ हृद॑यं द्विष॒तां म॑णे। उ॒द्यन्त्वच॑मिव॒ भूम्याः॒ शिर॑ ए॒षां वि पा॑तय ॥
+भि॒न्द्धि द॑र्भ स॒पत्ना॑नां॒ हृद॑यं द्विष॒तां म॑णे।  
+उ॒द्यन्त्वच॑मिव॒ भूम्याः॒ शिर॑ ए॒षां वि पा॑तय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
@@ -284,7 +295,7 @@ Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou 
 </details>
 <details><summary>पदपाठः</summary>
 
-भिन्द्धि। दर्भ। सऽपत्नानाम्। हृदयम्। द्विषताम्। मणे। उत्ऽयन्। त्वचम्ऽइव। भूम्याः। शिरः। एषाम्। वि। पातय। २८.४।
+भि॒न्द्धि। द॒र्भ॒। स॒ऽपत्ना॑नाम्। हृद॑यम्। द्वि॒ष॒ताम्। म॒णे॒। उ॒त्ऽयन्। त्वच॑म्ऽइव। भूम्याः॑। शिरः॑। ए॒षाम्। वि। पा॒त॒य॒। २८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -315,15 +326,17 @@ Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे भि॒न्द्धि मे॑ पृतनाय॒तः ।  
-भि॒न्द्धि मे॒ सर्वान् दु॒र्हार्दो॑ भि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥५॥  
+भि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे भि॒न्द्धि मे॑ पृतनाय॒तः।  
+भि॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ भि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे भि॒न्द्धि मे॑ पृतनाय॒तः ।  
-भि॒न्द्धि मे॒ सर्वान् दु॒र्हार्दो॑ भि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥५॥  
+भि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे भि॒न्द्धि मे॑ पृतनाय॒तः।  
+भि॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ भि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
@@ -345,7 +358,7 @@ Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cle
 </details>
 <details><summary>पदपाठः</summary>
 
-भिन्द्धि। दर्भ। सऽपत्नान्। मे। भिन्द्धि। मे। पृतनाऽयतः। भिन्द्धि। मे। सर्वान्। दुःऽहार्दः। भिन्द्धि। मे। द्विषतः। मणे। २८.५।
+भि॒न्द्धि। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। भि॒न्द्धि। मे॒। पृ॒त॒ना॒ऽय॒तः। भि॒न्द्धि। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। भि॒न्द्धि। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -376,15 +389,17 @@ Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cle
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-छि॒न्द्धि द॑र्भ स॒पत्ना॑न् मे छि॒न्द्धि मे॑ पृतनाय॒तः ।  
-छि॒न्द्धि मे॒ सर्वा॑न् दु॒र्हार्दो॑ छि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥६॥  
+छि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे छि॒न्द्धि मे॑ पृतनाय॒तः।  
+छि॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ छि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-छि॒न्द्धि द॑र्भ स॒पत्ना॑न् मे छि॒न्द्धि मे॑ पृतनाय॒तः ।  
-छि॒न्द्धि मे॒ सर्वा॑न् दु॒र्हार्दो॑ छि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥६॥  
+छि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे छि॒न्द्धि मे॑ पृतनाय॒तः।  
+छि॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ छि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
@@ -402,7 +417,7 @@ Wound thou, my rivals, Darbha, etc. (as in 5, substituting. 'wound' for cleave.)
 </details>
 <details><summary>पदपाठः</summary>
 
-छिन्द्धि। दर्भ। सऽपत्नान्। मे। छिन्द्धि। मे। पृतनाऽयतः। छिन्द्धि। मे। सर्वान्। दुःऽहार्दान्। छिन्द्धि। मे। द्विषतः। मणे। २८.६।
+छि॒न्द्धि। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। छि॒न्द्धि। मे॒। पृ॒त॒ना॒ऽय॒तः। छि॒न्द्धि। मे॒। सर्वा॑न्। दुः॒ऽहार्दा॑न्। छि॒न्द्धि। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -433,15 +448,17 @@ Wound thou, my rivals, Darbha, etc. (as in 5, substituting. 'wound' for cleave.)
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृ॒श्च द॑र्भ स॒पत्ना॑न्मे वृ॒श्च मे॑ पृतनाय॒तः ।  
-वृ॒श्च मे॒ सर्वा॑न् दु॒र्हार्दो॑ वृ॒श्च मे॑ द्विष॒तो म॑णे ॥७॥  
+वृ॒श्च द॑र्भ स॒पत्ना॑न्मे वृ॒श्च मे॑ पृतनाय॒तः।  
+वृ॒श्च मे॒ सर्वा॑न्दु॒र्हार्दो॑ वृ॒श्च मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/07_vRshcha_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृ॒श्च द॑र्भ स॒पत्ना॑न्मे वृ॒श्च मे॑ पृतनाय॒तः ।  
-वृ॒श्च मे॒ सर्वा॑न् दु॒र्हार्दो॑ वृ॒श्च मे॑ द्विष॒तो म॑णे ॥७॥  
+वृ॒श्च द॑र्भ स॒पत्ना॑न्मे वृ॒श्च मे॑ पृतनाय॒तः।  
+वृ॒श्च मे॒ सर्वा॑न्दु॒र्हार्दो॑ वृ॒श्च मे॑ द्विष॒तो म॑णे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
@@ -459,7 +476,7 @@ Tear thou my rivals, Darbha, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-वृश्च। दर्भ। सऽपत्नान्। मे। वृश्च। मे। पृतनाऽयतः। वृश्च। मे। सर्वान्। दुऽहार्दः। वृश्च। मे। द्विषतः। मणे। २८.७।
+वृ॒श्च। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। वृ॒श्च। मे॒। पृ॒त॒ना॒ऽय॒तः। वृ॒श्च। मे॒। सर्वा॑न्। दु॒ऽहार्दः॑। वृ॒श्च। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -490,15 +507,17 @@ Tear thou my rivals, Darbha, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/08_kRnta_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कृ॒न्त द॑र्भ स॒पत्ना॑न् मे कृ॒न्त मे॑ पृतनाय॒तः ।  
-कृ॒न्त मे॒ सर्वा॑न् दु॒र्हार्दो॑ कृ॒न्त मे॑ द्विष॒तो म॑णे ॥८॥  
+कृ॒न्त द॑र्भ स॒पत्ना॑न्मे कृ॒न्त मे॑ पृतनाय॒तः।  
+कृ॒न्त मे॒ सर्वा॑न्दु॒र्हार्दो॑ कृ॒न्त मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/08_kRnta_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कृ॒न्त द॑र्भ स॒पत्ना॑न् मे कृ॒न्त मे॑ पृतनाय॒तः ।  
-कृ॒न्त मे॒ सर्वा॑न् दु॒र्हार्दो॑ कृ॒न्त मे॑ द्विष॒तो म॑णे ॥८॥  
+कृ॒न्त द॑र्भ स॒पत्ना॑न्मे कृ॒न्त मे॑ पृतनाय॒तः।  
+कृ॒न्त मे॒ सर्वा॑न्दु॒र्हार्दो॑ कृ॒न्त मे॑ द्विष॒तो म॑णे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/08_kRnta_darbha.md">
@@ -519,7 +538,7 @@ How thou my rivals, Darbha, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-कृन्त। दर्भ। सऽपत्नान्। मे। कृन्त। मे। पृतनाऽयतः। कृन्त। मे। सर्वान्। दुःऽहार्दान्‌। कृन्त। मे। द्विषतः। मणे। २८.८।
+कृ॒न्त। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। कृ॒न्त। मे॒। पृ॒त॒ना॒ऽय॒तः। कृ॒न्त। मे॒। सर्वा॑न्। दुः॒ऽहार्दा॑न्‌। कृ॒न्त। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -550,15 +569,17 @@ How thou my rivals, Darbha, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/09_piMsha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पिं॒श द॑र्भ स॒पत्ना॑न्मे पिं॒श मे॑ पृतनाय॒तः ।  
-पिं॒श मे॒ सर्वा॑न् दु॒र्हार्दो॑ पिं॒श मे॑ द्विष॒तो म॑णे ॥९॥  
+पिं॒श द॑र्भ स॒पत्ना॑न्मे पिं॒श मे॑ पृतनाय॒तः।  
+पिं॒श मे॒ सर्वा॑न्दु॒र्हार्दो॑ पिं॒श मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/09_piMsha_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पिं॒श द॑र्भ स॒पत्ना॑न्मे पिं॒श मे॑ पृतनाय॒तः ।  
-पिं॒श मे॒ सर्वा॑न् दु॒र्हार्दो॑ पिं॒श मे॑ द्विष॒तो म॑णे ॥९॥  
+पिं॒श द॑र्भ स॒पत्ना॑न्मे पिं॒श मे॑ पृतनाय॒तः।  
+पिं॒श मे॒ सर्वा॑न्दु॒र्हार्दो॑ पिं॒श मे॑ द्विष॒तो म॑णे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/09_piMsha_darbha.md">
@@ -580,7 +601,7 @@ Carve thou my rivals, Darbha, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-पिंश। दर्भ। सऽपत्नान्। मे। पिंश। मे। पृतनाऽयतः। पिंश। मे। सर्वान्। दुःऽहार्दः। पिंश। मे। द्विषतः। मणे। २८.९।
+पिं॒श। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। पिं॒श। मे॒। पृ॒त॒ना॒ऽय॒तः। पिं॒श। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। पिं॒श। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -611,15 +632,17 @@ Carve thou my rivals, Darbha, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/10_vidhya_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विध्य॑ दर्भ स॒पत्ना॑न् मे॒ विध्य॑ मे पृतनाय॒तः ।  
-विध्य॑ मे॒ सर्वा॑न् दु॒र्हार्दो॑ विध्य॑ मे द्विष॒तो म॑णे ॥१०॥
+विध्य॑ दर्भ स॒पत्ना॑न्मे॒ विध्य॑ मे पृतनाय॒तः।  
+विध्य॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ विध्य॑ मे द्विष॒तो म॑णे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/10_vidhya_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विध्य॑ दर्भ स॒पत्ना॑न् मे॒ विध्य॑ मे पृतनाय॒तः ।  
-विध्य॑ मे॒ सर्वा॑न् दु॒र्हार्दो॑ विध्य॑ मे द्विष॒तो म॑णे ॥१०॥
+विध्य॑ दर्भ स॒पत्ना॑न्मे॒ विध्य॑ मे पृतनाय॒तः।  
+विध्य॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ विध्य॑ मे द्विष॒तो म॑णे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/10_vidhya_darbha.md">
@@ -638,7 +661,7 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 </details>
 <details><summary>पदपाठः</summary>
 
-विध्य। दर्भ। सऽपत्नान्। मे। विध्य। मे। पृतनाऽयतः। विध्य। मे। सर्वान्। दुःऽहार्दः। विध्य। मे। द्विषतः। मणे। २८.१०।
+विध्य॑। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। विध्य॑। मे॒। पृ॒त॒ना॒ऽय॒तः। विध्य॑। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। विध्य॑। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

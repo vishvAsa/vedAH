@@ -28,10 +28,7 @@ Translated: Weber, xiii. 179; Griffith, i. 60.
 </details>
 <details><summary>Griffith</summary>
 
-id
-2.16               A charm against fear
-2.16    A prayer for general protection
-Name: Comment, dtype: object
+A prayer for general protection
 </details>
 </details>
 </div>
@@ -39,13 +36,15 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-१-५ ब्रह्मा। प्राणः, अपानः, आयुः। (एकावसानम्) १, ३ एकपदासुरी त्रिष्टुप्, प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒ स्वाहा॑ ॥१॥  
+प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/01_prANApAnau_mRtyormA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
@@ -69,14 +68,11 @@ together if viewed as of the same meter.
 </details>
 <details><summary>Griffith</summary>
 
-id
-2.16.1    As Heaven and Earth are not afraid, and never ...
-2.16.1    Guard me from death, Inhaling and Exhaling! Al...
-Name: Comment, dtype: object
+Guard me from death, Inhaling and Exhaling! All bliss to you!
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राणापानौ। मृत्योः। मा। पातम्। स्वाहा। १६.१।
+प्राणा॑पानौ। मृ॒त्योः। मा॒। पा॒त॒म्। स्वाहा॑। १६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,13 +103,15 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यावा॑पृथिवी॒ उप॑श्रुत्या मा पातं॒ स्वाहा॑ ॥२॥  
+द्यावा॑पृथिवी॒ उप॑श्रुत्या मा पातं॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 द्यावा॑पृथिवी॒ उप॑श्रुत्या मा पातं॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
@@ -135,14 +133,12 @@ svāhā.*
 </details>
 <details><summary>Griffith</summary>
 
-id
-2.16.2    As Day and Night are not afraid, nor ever suff...
-2.16.2    Guard me from overhearing, Earth and Heaven! A...
-Name: Comment, dtype: object
+Guard me from overhearing, Earth and Heaven! All hail to
+you!
 </details>
 <details><summary>पदपाठः</summary>
 
-द्यावापृथिवी इति। उपऽश्रुत्या। मा। पातम्। स्वाहा। १६.२।
+द्यावा॑पृथिवी॒ इति॑। उप॑ऽश्रुत्या। मा॒। पा॒त॒म्। स्वाहा॑। १६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -173,13 +169,15 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/03_sUrya_chaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्य॒ चक्षु॑षा मा पाहि॒ स्वाहा॑ ॥३॥  
+सूर्य॒ चक्षु॑षा मा पाहि॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/03_sUrya_chaxuShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सूर्य॒ चक्षु॑षा मा पाहि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/03_sUrya_chaxuShA.md">
@@ -195,14 +193,12 @@ SPP's mss., read *sūryas* for *-ya.*
 </details>
 <details><summary>Griffith</summary>
 
-id
-2.16.3    As Sun and Moon are not afraid, nor ever suffe...
-2.16.3    Do thou, O Surya, with thine eye protect me! A...
-Name: Comment, dtype: object
+Do thou, O Sūrya, with thine eye protect me! All hail to
+thee!
 </details>
 <details><summary>पदपाठः</summary>
 
-सूर्य। चक्षुषा। मा। पाहि। स्वाहा। १६.३।
+सूर्य॑। चक्षु॑षा। मा॒। पा॒हि॒। स्वाहा॑। १६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -233,13 +229,15 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/04_agne_vaishvAnara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ वैश्वानर॒ विश्वै॑र्मा दे॒वैः पा॑हि॒ स्वाहा॑ ॥४॥  
+अग्ने॑ वैश्वानर॒ विश्वै॑र्मा दे॒वैः पा॑हि॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/04_agne_vaishvAnara.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अग्ने॑ वैश्वानर॒ विश्वै॑र्मा दे॒वैः पा॑हि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/04_agne_vaishvAnara.md">
@@ -257,14 +255,11 @@ explanations of *vāiśvānara* 'belonging to all men,' one of them as
 </details>
 <details><summary>Griffith</summary>
 
-id
-2.16.4    As Brahmanhood and Princely Power fear not, no...
-2.16.4    Agni Vaisvanara, with all Gods preserve me! Al...
-Name: Comment, dtype: object
+Agni Vaisvānara, with all Gods preserve me! All hail to thee!
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। वैश्वानर। विश्वैः। मा। देवैः। पाहि। स्वाहा। १६.४।
+अग्ने॑। वै॒श्वा॒न॒र॒। विश्वैः॑। मा॒। दे॒वैः। पा॒हि॒। स्वाहा॑। १६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -295,13 +290,15 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/05_vishvambhara_vishvena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वं॑भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥५॥
+विश्व॑म्भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/05_vishvambhara_vishvena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 विश्व॑म्भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/05_vishvambhara_vishvena.md">
@@ -324,14 +321,11 @@ last two verses should be called of two pādas.
 </details>
 <details><summary>Griffith</summary>
 
-id
-2.16.5    As Truth and Falsehood have no fear, nor ever ...
-2.16.5    Preserve me with all care. O All-Sustainer! Al...
-Name: Comment, dtype: object
+Preserve me with all care. O All-Sustainer! All hail to thee!
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वम् ऽभर। विश्वेन। मा। भरसा। पाहि। स्वाहा। १६.५।
+विश्व॑म् ऽभर। विश्वे॑न। मा॒। भर॑सा। पा॒हि॒। स्वाहा॑। १६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

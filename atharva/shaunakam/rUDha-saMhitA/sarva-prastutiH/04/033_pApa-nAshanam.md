@@ -37,13 +37,16 @@ A prayer to Agni for protection and prosperity
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑ नः॒ शोशु॑चद॒घमग्ने॑ शुशु॒ग्ध्या र॒यिम्।  
-अप॑ नः॒ शोशु॑चद॒घम्॥१॥  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/01_apa_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अप॑ नः॒ शोशु॑चद॒घमग्ने॑ शुशु॒ग्ध्या र॒यिम्। अप॑ नः॒ शोशु॑चद॒घम् ॥
+अप॑ नः॒ शोशु॑चद॒घमग्ने॑ शुशु॒ग्ध्या र॒यिम्।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/01_apa_naH.md">
@@ -67,7 +70,7 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। नः। शोशुचत्। अघम्। अग्ने। शुशुग्धि। आ। रयिम्। अप। नः। शोशुचत्। अघम्। ३३.१।
+अप॑। नः॒। शोशु॑चत्। अ॒घम्। अग्ने॑। शु॒शु॒ग्धि। आ। र॒यिम्। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सु॒क्षे॒त्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥२॥  
+सु॑क्षेत्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सु॑क्षेत्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे। अप॑ नः॒ शोशु॑चद॒घम् ॥
+सु॑क्षेत्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
@@ -124,7 +130,7 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 </details>
 <details><summary>पदपाठः</summary>
 
-सुऽक्षेत्रिया। सुऽगातुया। वसुऽया। च। यजामहे। अप। नः। शोशुचत्। अघम्। ३३.२।
+सु॒ऽक्षे॒त्रि॒या। सु॒ऽगा॒तु॒या। व॒सु॒ऽया। च॒। य॒जा॒म॒हे॒। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,14 +161,17 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यद् भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑ ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥३॥  
+प्र यद्भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र यद्भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑। अप॑ नः॒ शोशु॑चद॒घम् ॥
+प्र यद्भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
@@ -181,7 +190,7 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। भन्दिष्ठः। एषाम्। प्र। अस्माकासः। च। सूरयः। अप। नः। शोशुचत्। अघम्। ३३.३।
+प्र। यत्। भन्दि॑ष्ठः। ए॒षा॒म्। प्र। अ॒स्माका॑सः। च॒। सू॒रयः॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -212,14 +221,17 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यत् ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
-अप॑ नः॒ शोशु॑चद॒घम्॥४॥  
+प्र यत्ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र यत्ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्। अप॑ नः॒ शोशु॑चद॒घम् ॥
+प्र यत्ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/04_pra_yatte.md">
@@ -238,7 +250,7 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। ते। अग्ने। सूरयः। जायेमहि। प्र। ते। वयम्। अप। नः। शोशुचत्। अघम्। ३३.४।
+प्र। यत्। ते॒। अ॒ग्ने॒। सू॒रयः॑। जाये॑महि। प्र। ते॒। व॒यम्। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -269,14 +281,17 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑ ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥५॥  
+प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑। अप॑ नः॒ शोशु॑चद॒घम् ॥
+प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
@@ -305,7 +320,7 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। अग्नेः। सहस्वतः। विश्वतः। यन्ति। भानवः। अप। नः। शोशुचत्। अघम्। ३३.५।
+प्र। यत्। अ॒ग्नेः। सह॑स्वतः। वि॒श्वतः॑। यन्ति॑। भा॒नवः॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -336,14 +351,17 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूरसि॑ ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥६॥  
+त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूर॑सि।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूर॑सि। अप॑ नः॒ शोशु॑चद॒घम् ॥
+त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूर॑सि।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/06_tvaM_hi.md">
@@ -362,7 +380,7 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। हि। विश्वतःऽमुख। विश्वतः। परिऽभूः। असि। अप। नः। शोशुचत्। अघम्। ३३.६।
+त्वम्। हि। वि॒श्व॒तः॒ऽमु॒ख॒। वि॒श्वतः॑। प॒रि॒ऽभूः। असि॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -393,14 +411,17 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥७॥  
+द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय। अप॑ नः॒ शोशु॑चद॒घम् ॥
+द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/07_dviSho_no.md">
@@ -419,7 +440,7 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 </details>
 <details><summary>पदपाठः</summary>
 
-द्विषः। नः। विश्वतःऽमुख। अति। नावाऽइव। पारय। अप। नः। शोशुचत्। अघम्। ३३.७।
+द्विषः॑। नः॒। वि॒श्व॒तः॒ऽमु॒ख॒। अति॑। ना॒वाऽइ॑व। पा॒र॒य॒। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -450,14 +471,17 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/08_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्ष स्व॒स्तये॑ ।  
-अप॑ नः॒ शोशु॑चद॒घम्॥८॥
+स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्षा स्व॒स्तये॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/08_sa_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्षा स्व॒स्तये॑। अप॑ नः॒ शोशु॑चद॒घम् ॥
+स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्षा स्व॒स्तये॑।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/08_sa_naH.md">
@@ -479,7 +503,7 @@ As in a ship across the flood, transport us to felicity. His lustre flash our pa
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। नः। सिन्धुम्ऽइव। नावा। अति। पर्ष। स्वस्तये। अप। नः। शोशुचत्। अघम्। ३३.८।
+सः। नः॒। सिन्धु॑म्ऽइव। ना॒वा। अति॑। प॒र्ष॒। स्व॒स्तये॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

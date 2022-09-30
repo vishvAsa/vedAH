@@ -36,14 +36,17 @@ A hymn to the Maruts
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/01_marutAM_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु ।  
-आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॑ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥१॥  
+म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु।  
+आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/01_marutAM_manve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु। आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु।  
+आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/01_marutAM_manve.md">
@@ -71,7 +74,7 @@ I think upon the Maruts: may they bless me, may they assist me to this wealth in
 </details>
 <details><summary>पदपाठः</summary>
 
-मरुताम्। मन्वे। अधि। मे। ब्रुवन्तु। प्र। इमम्। वाजम्। वाजऽसाते। अवन्तु। आशूनऽइव। सुऽयमान्। अह्वे। ऊतये। ते। नः। मुञ्चन्तु। अंहसः। २७.१।
+म॒रुता॑म्। म॒न्वे॒। अधि॑। मे॒। ब्रु॒व॒न्तु॒। प्र। इ॒मम्। वाज॑म्। वाज॑ऽसाते। अ॒व॒न्तु॒। आ॒शूनऽइ॑व। सु॒ऽयमा॑न्। अ॒ह्वे॒। ऊ॒तये॑। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ I think upon the Maruts: may they bless me, may they assist me to this wealth in
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु ।  
-पु॒रो द॑धे मरुतः॒ पृश्नि॑मातृंस्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥२॥  
+उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु।  
+पु॒रो द॑धे म॒रुतः॒ पृश्नि॑मातॄं॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु। पु॒रो द॑धे म॒रुतः॒ पृश्नि॑मातॄं॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु।  
+पु॒रो द॑धे म॒रुतः॒ पृश्नि॑मातॄं॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
@@ -132,7 +138,7 @@ Those who surround the never-failing fountain for ever, and bedew the plants wit
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्सम्। अक्षितम्। विऽअचन्ति। ये। सदा। ये। आऽसिञ्चन्ति। रसम्। ओषधीषु। पुरः। दधे। मरुतः। पृश्निऽमातृन्। ते। नः। मुञ्चन्तु। अंहसः। २७.२।
+उत्स॑म्। अक्षि॑तम्। वि॒ऽअच॑न्ति। ये। सदा॑। ये। आ॒ऽसि॒ञ्चन्ति॑। रस॑म्। ओष॑धीषु। पु॒रः। द॒धे॒। म॒रुतः॑। पृश्नि॑ऽमातृन्। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Those who surround the never-failing fountain for ever, and bedew the plants wit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/03_payo_dhenUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ ।  
-श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥३॥  
+पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ।  
+श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/03_payo_dhenUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ। श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ।  
+श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/03_payo_dhenUnAm.md">
@@ -195,7 +204,7 @@ Bards, who invigorate the milk of milch-kine, the sap of growing plants, the spe
 </details>
 <details><summary>पदपाठः</summary>
 
-पयः। धेनूनाम्। रसम्। ओषधीनाम्। जवम्। अर्वताम्। कवयः। ये। इन्वथ। शग्मा। भवन्तु। मरुतः। नः। स्योनाः। ते। नः। मुञ्चन्तु। अंहसः। २७.३।
+पयः॑। धे॒नू॒नाम्। रस॑म्। ओष॑धीनाम्। ज॒वम्। अर्व॑ताम्। क॒व॒यः॒। ये। इन्व॑थ। श॒ग्मा। भ॒व॒न्तु॒। म॒रुतः॑। नः॒। स्यो॒नाः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,14 +235,17 @@ Bards, who invigorate the milk of milch-kine, the sap of growing plants, the spe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पः स॑मु॒द्राद् दिव॒मुद् व॑हन्ति दि॒वस्पृ॑थि॒वीम॒भि ये सृ॒जन्ति॑ ।  
-ये अ॒द्भिरीशा॑ना म॒रुत॒श्चर॑न्ति ते नो॑ मुञ्च॒न्त्वंह॑सः ॥४॥  
+अ॒पः स॑मु॒द्राद्दिव॒मुद्व॑हन्ति दि॒वस्पृ॑थि॒वीम॒भि ये सृ॒जन्ति॑।  
+ये अ॒द्भिरीशा॑ना म॒रुत॑श्चरन्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पः स॑मु॒द्राद्दिव॒मुद्व॑हन्ति दि॒वस्पृ॑थि॒वीम॒भि ये सृ॒जन्ति॑। ये अ॒द्भिरीशा॑ना म॒रुत॑श्चरन्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+अ॒पः स॑मु॒द्राद्दिव॒मुद्व॑हन्ति दि॒वस्पृ॑थि॒वीम॒भि ये सृ॒जन्ति॑।  
+ये अ॒द्भिरीशा॑ना म॒रुत॑श्चरन्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
@@ -256,7 +268,7 @@ They who raised water from the sea to heaven and send it from the sky to earth i
 </details>
 <details><summary>पदपाठः</summary>
 
-अपः। समुद्रात्। दिवम्। उत्। वहन्ति। दिवः। पृथिवीम्। अभि। ये। सृजन्ति। ये। अत्ऽभिः। ईशानाः। मरुतः। चरन्ति। ते। नः। मुञ्चन्तु। अंहसः। २७.४।
+अ॒पः। स॒मु॒द्रात्। दिव॑म्। उत्। व॒ह॒न्ति॒। दि॒वः। पृ॒थि॒वीम्। अ॒भि। ये। सृ॒जन्ति॑। ये। अ॒त्ऽभिः। ईशा॑नाः। म॒रुतः॑। चर॑न्ति। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -287,14 +299,17 @@ They who raised water from the sea to heaven and send it from the sky to earth i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/05_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये की॒लाले॑न त॒र्पय॑न्ति ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑ ।  
-ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥५॥  
+ये की॒लाले॑न त॒र्पय॑न्ति॒ ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑।  
+ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/05_ye_kIlAlena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये की॒लाले॑न त॒र्पय॑न्ति॒ ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑। ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ये की॒लाले॑न त॒र्पय॑न्ति॒ ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑।  
+ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/05_ye_kIlAlena.md">
@@ -317,7 +332,7 @@ They who delight in nectar and in fatness, they who bestow upon us health and vi
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। कीलालेन। तर्पयन्ति। ये। घृतेन। ये। वा। वयः। मेदसा। सम्ऽसृजन्ति। ये। अत्ऽभिः। ईशानाः। मरुतः। वर्षयन्ति। ते। नः। मुञ्चन्तु। अंहसः। २७.५।
+ये। की॒लाले॑न। त॒र्पय॑न्ति। ये। घृ॒तेन॑। ये। वा॒। वयः॑। मेद॑सा। स॒म्ऽसृ॒जन्ति॑। ये। अ॒त्ऽभिः। ईशा॑नाः। म॒रुतः॑। व॒र्षय॑न्ति। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -348,14 +363,17 @@ They who delight in nectar and in fatness, they who bestow upon us health and vi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदीदि॒दं मरु॑तो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑ ।  
-यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥६॥  
+यदीदि॒दं म॑रुतो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑।  
+यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/06_yadIdidaM_maruto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदीदि॒दं म॑रुतो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑। यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+यदीदि॒दं म॑रुतो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑।  
+यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
@@ -386,7 +404,7 @@ Whether with stormy might the Maruts established this All, or Gods with their ce
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। इत्। इदम्। मरुतः। मारुतेन। यदि। देवाः। दैव्येन। ईदृक्। आर। यूयम्। ईशिध्वे। वसवः। तस्य। निऽकृते ः। ते। नः। मुञ्चन्तु। अंहसः। २७.६।
+यदि॑। इत्। इ॒दम्। म॒रु॒तः॒। मारु॑तेन। यदि॑। दे॒वाः॒। दैव्ये॑न। ई॒दृक्। आर॑। यू॒यम्। ई॒शि॒ध्वे॒। व॒स॒वः॒। तस्य॑। निऽकृ॑ते ः। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -418,13 +436,16 @@ Whether with stormy might the Maruts established this All, or Gods with their ce
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒ग्ममनी॑कं विदि॒तं सह॑स्व॒न्मारु॑तं॒ शर्धः॒ पृत॑नासू॒ग्रम्।  
-स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥७॥
+स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ति॒ग्ममनी॑कं विदि॒तं सह॑स्व॒न्मारु॑तं॒ शर्धः॒ पृत॑नासू॒ग्रम्। स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+ति॒ग्ममनी॑कं विदि॒तं सह॑स्व॒न्मारु॑तं॒ शर्धः॒ पृत॑नासू॒ग्रम्।  
+स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
@@ -449,7 +470,7 @@ Potent in battles is the Maruts' army, impetuous train, well- known, exceeding m
 </details>
 <details><summary>पदपाठः</summary>
 
-तिग्मम्। अनीकम्। विदितम्। सहस्वत्। मारुतम्। शर्धः। पृतनासु। उग्रम्। स्तौमि। मरुतः। नाथितः। जोहवीमि। ते। नः। मुञ्चन्तु। अंहसः। २७.७।
+ति॒ग्मम्। अनी॑कम्। वि॒दि॒तम्। सह॑स्वत्। मारु॑तम्। शर्धः॑। पृत॑नासु। उ॒ग्रम्। स्तौमि॑। म॒रुतः॑। ना॒थि॒तः। जो॒ह॒वी॒मि॒। ते। नः॒। मु॒ञ्च॒न्तु॒। अंह॑सः। २७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

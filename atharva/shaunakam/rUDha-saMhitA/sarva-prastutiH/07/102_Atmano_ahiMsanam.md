@@ -32,14 +32,17 @@ Translated: Henry, 41, 115; Griffith, i. 378.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑ ।  
-मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न् मा मा॑ हिंसिषुरीश्व॒राः ॥१॥
+न॑म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑।  
+मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न्मा मा॑ हिंसिषुरीश्व॒राः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न॑म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑। मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न्मा मा॑ हिंसिषुरीश्व॒राः ॥
+न॑म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑।  
+मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न्मा मा॑ हिंसिषुरीश्व॒राः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
@@ -73,7 +76,7 @@ When I have worshipped Heaven and Earth, reverenced Firma- ment and Death, I wil
 </details>
 <details><summary>पदपाठः</summary>
 
-नमःऽकृत्य। द्यावापृथिवीभ्याम्। अन्तरिक्षाय। मृत्यवे। मेक्षामि। ऊर्ध्वः। तिष्ठन्। मा। मा। हिंस‍िषुः। ईश्वराः। १०७.१।
+न॒मः॒ऽकृत्य॑। द्यावा॑पृथि॒वीभ्या॑म्। अ॒न्तरि॑क्षाय। मृ॒त्यवे॑। मे॒क्षामि॑। ऊ॒र्ध्वः। तिष्ठ॑न्। मा। मा॒। हिं॒स‍ि॒षुः॒। ई॒श्व॒राः। १०७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

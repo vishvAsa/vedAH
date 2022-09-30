@@ -23,13 +23,15 @@ title = "००८ अध्यात्मम्"
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/01_bhUyAnindro_namurAdbhUyAnindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूया॒निन्द्रो॑ नमु॒राद् भूया॑निन्द्रासि मृ॒त्युभ्यः॑ ॥४६॥  
+भूया॒निन्द्रो॑ नमु॒राद्भूया॑निन्द्रासि मृ॒त्युभ्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/01_bhUyAnindro_namurAdbhUyAnindrAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 भूया॒निन्द्रो॑ नमु॒राद्भूया॑निन्द्रासि मृ॒त्युभ्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/01_bhUyAnindro_namurAdbhUyAnindrAsi.md">
@@ -57,7 +59,7 @@ here a similar identification.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-भूयान्। इन्द्रः। नमुरात्। भूयान्। इन्द्र। असि। मृत्युऽभ्यः। ८.१।
+भूया॑न्। इन्द्रः॑। न॒मु॒रात्। भूया॑न्। इ॒न्द्र॒। अ॒सि॒। मृ॒त्युऽभ्यः॑। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -88,13 +90,15 @@ here a similar identification.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/02_bhUyAnarAtyAH_shachyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूया॒नरा॑त्याः॒ शच्याः॒ पति॒स्त्वमि॑न्द्रासि वि॒भूः प्र॒भूरिति॒ त्वोपा॑स्महे व॒यम्॥४७॥  
+भूया॒नरा॑त्याः॒ शच्याः॒ पति॒स्त्वमि॑न्द्रासि वि॒भूः प्र॒भूरिति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/02_bhUyAnarAtyAH_shachyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 भूया॒नरा॑त्याः॒ शच्याः॒ पति॒स्त्वमि॑न्द्रासि वि॒भूः प्र॒भूरिति॒ त्वोपा॑स्महे व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/02_bhUyAnarAtyAH_shachyAH.md">
@@ -116,7 +120,7 @@ defined by the Anukr.
 </details>
 <details><summary>पदपाठः</summary>
 
-भूयान्। अरात्याः। शच्याः। पतिः। त्वम्। इन्द्र। असि। विऽभूः। प्रऽभूः। इति। त्वा। उप। आस्महे। वयम्। ८.२।
+भूया॑न्। अरा॑त्याः। शच्याः॑। पतिः॑। त्वम्। इ॒न्द्र॒। अ॒सि॒। वि॒ऽभूः। प्र॒ऽभूः। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -147,13 +151,15 @@ defined by the Anukr.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/03_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥४८॥  
+नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/03_namaste_astu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/03_namaste_astu.md">
@@ -175,7 +181,7 @@ combination *te astu*.
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अस्तु। पश्यत। पश्य। मा। पश्यत। ८.३।
+नमः॑। ते॒। अ॒स्तु॒। प॒श्य॒त॒। पश्य॑। मा॒। प॒श्य॒त॒। ८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -206,13 +212,15 @@ combination *te astu*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/04_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥४९॥  
+अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/04_annAdyena_yashasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/04_annAdyena_yashasA.md">
@@ -231,7 +239,7 @@ Brahman-splendor;
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्नऽअद्येन। यशसा। तेजसा। ब्राह्मणऽवर्चसेन। ८.४।
+अ॒न्न॒ऽअद्ये॑न। यश॑सा। तेज॑सा। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सेन॑। ८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -262,13 +270,15 @@ Brahman-splendor;
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/05_ambho_amo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अम्भो॒ अमो॒ महः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰ ॥५०॥  
+अम्भो॒ अमो॒ महः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/05_ambho_amo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अम्भो॒ अमो॒ महः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/05_ambho_amo.md">
@@ -292,7 +302,7 @@ same curtailed way until vs. 54, which is filled out to the end.
 </details>
 <details><summary>पदपाठः</summary>
 
-अम्भः। अमः। महः। सहः। इति। त्वा। उप। आस्महे। वयम्। ८.५।
+अम्भः॑। अमः॑। महः॑। सहः॑। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -323,13 +333,15 @@ same curtailed way until vs. 54, which is filled out to the end.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/008_adhyAtmam/06_ambho_aruNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अम्भो॑ अरु॒णं र॑ज॒तं रजः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम्। नम॑स्ते॰ । अ॒न्नाद्ये॑न॒॰॥५१॥
+अम्भो॑ अरु॒णं र॑ज॒तं रजः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/008_adhyAtmam/06_ambho_aruNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अम्भो॑ अरु॒णं र॑ज॒तं रजः॒ सह॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/008_adhyAtmam/06_ambho_aruNam.md">
@@ -355,7 +367,7 @@ gāyatrī.*\]
 </details>
 <details><summary>पदपाठः</summary>
 
-अम्भः। अरुणम्। रजतम्। रजः। सहः। इति। त्वा। उप। आस्महे। वयम्। ८.६।
+अम्भः॑। अ॒रु॒णम्। र॒ज॒तम्। रजः॑। सहः॑। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

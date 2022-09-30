@@ -36,14 +36,17 @@ A charm for general prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/01_ekA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एका॑ च मे॒ दश॑ च मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥१॥  
+एका॑ च मे॒ दश॑ च मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/01_ekA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एका॑ च मे॒ दश॑ च मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+एका॑ च मे॒ दश॑ च मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/01_ekA_cha.md">
@@ -65,7 +68,7 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 </details>
 <details><summary>पदपाठः</summary>
 
-‍एका। च। मे। दश। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.१।
+‍एका॑। च॒। मे॒। दश॑। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/02_dve_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वे च॑ मे विंश॒तिश्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥२॥  
+द्वे च॑ मे विंश॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/02_dve_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्वे च॑ मे विंश॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+द्वे च॑ मे विंश॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/02_dve_cha.md">
@@ -121,7 +127,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 <details><summary>पदपाठः</summary>
 
-द्वे। इति। च। मे। विंशतिः। च। मे। । अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.२।
+द्वे। इति॑। च॒। मे॒। विं॒श॒तिः। च॒। मे॒। । अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/03_tisrashcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ति॒स्रश्च॑ मे त्रिं॒शच्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥३॥  
+ति॒स्रश्च॑ मे त्रिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/03_tisrashcha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ति॒स्रश्च॑ मे त्रिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+ति॒स्रश्च॑ मे त्रिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/03_tisrashcha_me.md">
@@ -178,7 +187,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 <details><summary>पदपाठः</summary>
 
-तिस्रः। च। मे। त्रिंशत्। च। मे। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.३।
+ति॒स्रः। च॒। मे॒। त्रिं॒शत्। च॒। मे॒। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -209,14 +218,17 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/04_chatasrashcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चत॑स्रश्च मे चत्वारिं॒शच्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥४॥  
+चत॑स्रश्च मे चत्वारिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/04_chatasrashcha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-चत॑स्रश्च मे चत्वारिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+चत॑स्रश्च मे चत्वारिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/04_chatasrashcha_me.md">
@@ -235,7 +247,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 <details><summary>पदपाठः</summary>
 
-चतस्रः। च। मे। चत्वारिंशत्। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.४।
+चत॑स्रः। च॒। मे॒। च॒त्वा॒रिं॒शत्। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -266,14 +278,17 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/05_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒ञ्च च॑ मे पञ्चा॒शच्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥५॥  
+पञ्च॑ च मे पञ्चा॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/05_pancha_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पञ्च॑ च मे पञ्चा॒शच्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+पञ्च॑ च मे पञ्चा॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/05_pancha_cha.md">
@@ -294,7 +309,7 @@ edition follows the latter.
 </details>
 <details><summary>पदपाठः</summary>
 
-पञ्च। च। मे। पञ्चाशत्। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.५।
+पञ्च॑। च॒। मे॒। प॒ञ्चा॒शत्। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -325,14 +340,17 @@ edition follows the latter.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/06_ShaTcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-षट् च॑ मे ष॒ष्टिश्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥६॥  
+षट्च॑ मे ष॒ष्टिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/06_ShaTcha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-षट्च॑ मे ष॒ष्टिश्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+षट्च॑ मे ष॒ष्टिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/06_ShaTcha_me.md">
@@ -353,7 +371,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </details>
 <details><summary>पदपाठः</summary>
 
-षट्। च। मे। षष्टिः। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.६।
+षट्। च॒। मे॒। ष॒ष्टिः। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -384,14 +402,17 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/07_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒प्त च॑ मे सप्त॒तिश्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥७॥  
+स॒प्त च॑ मे सप्त॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/07_sapta_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒प्त च॑ मे सप्त॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+स॒प्त च॑ मे सप्त॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/07_sapta_cha.md">
@@ -410,7 +431,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </details>
 <details><summary>पदपाठः</summary>
 
-सप्त। च। मे। सप्ततिः। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.७।
+स॒प्त। च॒। मे॒। स॒प्त॒तिः। च। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -441,14 +462,17 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/08_aShTa_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ष्ट च॑ मेऽशी॒तिश्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥८॥  
+अ॒ष्ट च॑ मेऽशी॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/08_aShTa_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ष्ट च॑ मेऽशी॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+अ॒ष्ट च॑ मेऽशी॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/08_aShTa_cha.md">
@@ -469,7 +493,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 <details><summary>पदपाठः</summary>
 
-अष्ट। च। मे। अशीतिः। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.८।
+अ॒ष्ट। च॒। मे॒। अ॒शी॒तिः। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -500,14 +524,17 @@ restoration of the elided *a* of *aśītís*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/09_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नव॑ च मे नव॒तिश्च॑ मे ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥९॥  
+नव॑ च मे नव॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/09_nava_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नव॑ च मे नव॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+नव॑ च मे नव॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/09_nava_cha.md">
@@ -526,7 +553,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 <details><summary>पदपाठः</summary>
 
-नव। च। मे। नवतिः। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.९।
+नव॑। च॒। मे॒। न॒व॒तिः। च। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -557,14 +584,17 @@ restoration of the elided *a* of *aśītís*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/10_dasha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दश॑ च मे श॒तं च मे॑ ऽपव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥१०॥  
+दश॑ च मे श॒तं च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/10_dasha_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दश॑ च मे श॒तं च॑ मेऽपव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+दश॑ च मे श॒तं च॑ मेऽपव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/10_dasha_cha.md">
@@ -583,7 +613,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 <details><summary>पदपाठः</summary>
 
-दश। च। मे। शतम्। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.१०।
+दश॑। च॒। मे॒। श॒तम्। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -614,14 +644,17 @@ restoration of the elided *a* of *aśītís*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/11_shataM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तं च॑ मे स॒हस्रं॑ चापव॒क्तार॑ ओषधे ।  
-ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥११॥
+श॒तं च॑ मे स॒हस्रं॑ चापव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/11_shataM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तं च॑ मे स॒हस्रं॑ चापव॒क्तार॑ ओषधे। ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+श॒तं च॑ मे स॒हस्रं॑ चापव॒क्तार॑ ओषधे।  
+ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/11_shataM_cha.md">
@@ -646,7 +679,7 @@ Here ends also the eleventh *prapāṭhaka*.
 </details>
 <details><summary>पदपाठः</summary>
 
-शतम्। च। मे। सहस्रम्। च। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवरि। मधु। मे। मधुला। करः। १५.११।
+श॒तम्। च॒। मे॒। स॒हस्र॑म्। च॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवरि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

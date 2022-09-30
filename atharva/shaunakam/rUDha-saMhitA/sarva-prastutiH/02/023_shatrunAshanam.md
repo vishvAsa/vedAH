@@ -19,13 +19,15 @@ It appears that hymns 20-23 were omitted--JBH
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद् व॒स्तप॒स्तेन॒ तं प्रति॑ तपत॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥१॥  
+आपो॒ यद्व॒स्तप॒स्तेन॒ तं प्र॑ति तपत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आपो॒ यद्व॒स्तप॒स्तेन॒ तं प्र॑ति तपत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
@@ -55,11 +57,11 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। तपः। तेन। तम्। प्रति। तपत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.१।
+आपः॑। यत्। वः॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.१। 
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। तपः। तेन। तम्। प्रति। तपत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.१।
+आपः॑। यत्। वः॒। तपः॑। तेन॑। तम्। प्रति॑। त॒प॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -74,13 +76,15 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद् वो॒ हर॒स्तेन॒ तं प्रति॑ हरत॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥२॥  
+आपो॒ यद्व॒स्हर॒स्तेन॒ तं प्र॑ति हरत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आपो॒ यद्व॒स्हर॒स्तेन॒ तं प्र॑ति हरत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
@@ -95,11 +99,11 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। हरः। तेन। तम्। प्रति। हरत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.२।
+आपः॑। यत्। वः॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। हरः। तेन। तम्। प्रति। हरत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.२।
+आपः॑। यत्। वः॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -114,13 +118,15 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद् वो॒ऽर्चिस्तेन॒ तं प्रत्य॑र्चत॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥३॥  
+आपो॒ यद्वो॒ऽर्चिस्तेन॒ तं प्र॑त्यर्चत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आपो॒ यद्वो॒ऽर्चिस्तेन॒ तं प्र॑त्यर्चत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
@@ -135,11 +141,11 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। अर्चिः। तेन। तम्। प्रति। अर्चत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.३।
+आपः॑। यत्। वः॒। अ॒र्चिः। तेन॑। तम्। प्रति॑। अ॒र्च॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। अर्चिः। तेन। तम्। प्रति। अर्चत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.३।
+आपः॑। यत्। वः॒। अ॒र्चिः। तेन॑। तम्। प्रति॑। अ॒र्च॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,13 +160,15 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद् वः॑ शो॒चिस्तेन॒ तं प्रति॑ शोचत॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥४॥  
+आपो॒ यद्वः॑ शो॒चिस्तेन॒ तं प्र॑ति शोचत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/04_Apo_yadvaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आपो॒ यद्वः॑ शो॒चिस्तेन॒ तं प्र॑ति शोचत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
@@ -175,11 +183,11 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। शोचिः। तेन। तम्। प्रति। शोचत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.४।
+आपः॑। यत्। वः॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.४। 
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। शोचिः। तेन। तम्। प्रति। शोचत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.४।
+आपः॑। यत्। वः॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -194,13 +202,15 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ यद् व॒स्तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणुत॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥५॥
+आपो॒ यद्व॒स्तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणुत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आपो॒ यद्व॒स्तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणुत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
@@ -215,11 +225,11 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। तेजः। तेन। तम्। अतेजसम्। कृणुत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.५।
+आपः॑। यत्। वः॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.५। 
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। यत्। वः। तेजः। तेन। तम्। अतेजसम्। कृणुत। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। २३.५।
+आपः॑। यत्। वः॒। तेजः॑। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒त॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। २३.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

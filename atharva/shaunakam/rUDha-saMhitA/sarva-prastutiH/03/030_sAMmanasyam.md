@@ -32,14 +32,17 @@ On the means to obtain immunity from taxation in the next world
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः ।  
-अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या॥१॥  
+सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः।  
+अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः। अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या ॥
+सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः।  
+अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
@@ -62,7 +65,7 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 </details>
 <details><summary>पदपाठः</summary>
 
-सऽहृदयम्। साम्ऽमनस्यम्। अविऽद्वेषम्। कृणोमि। वः। अन्यः। अन्यम्। अभि। हर्यत। वत्सम्। जातम्ऽइव। अघ्न्या। ३०.१।
+सऽहृ॑दयम्। सा॒म्ऽम॒न॒स्यम्। अवि॑ऽद्वेषम्। कृ॒णो॒मि॒। वः॒। अ॒न्यः। अ॒न्यम्। अ॒भि। ह॒र्य॒त॒। व॒त्सम्। जा॒तम्ऽइ॑व। अ॒घ्न्या। ३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः ।  
-जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम्॥२॥  
+अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः।  
+जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः। जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम् ॥
+अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः।  
+जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
@@ -125,7 +131,7 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 </details>
 <details><summary>पदपाठः</summary>
 
-अनुऽव्रतः। पितुः। पुत्र। मात्रा। भवतु। सम्ऽमनाः। जाया। पत्ये। मधुऽमतीम्। वाचम्। वदतु। शन्तिऽवाम्। ३०.२।
+अनु॑ऽव्रतः। पि॒तुः। पु॒त्र। मा॒त्रा। भ॒व॒तु॒। सम्ऽम॑नाः। जा॒या। पत्ये॑। मधु॑ऽमतीम्। वाच॑म्। व॒द॒तु॒। श॒न्ति॒ऽवाम्। ३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,14 +162,17 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा भ्राता॒ भ्रात॑रं द्विक्ष॒न्मा स्वसा॑रमु॒त स्वसा॑ ।  
-स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥३॥  
+मा भ्राता॒ भ्रात॑रं द्विक्ष॒न्मा स्वसा॑रमु॒त स्वसा॑।  
+स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा भ्राता॒ भ्रात॑रं द्विक्ष॒न्मा स्वसा॑रमु॒त स्वसा॑। स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥
+मा भ्राता॒ भ्रात॑रं द्विक्ष॒न्मा स्वसा॑रमु॒त स्वसा॑।  
+स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
@@ -185,7 +194,7 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। भ्राता। भ्रातरम्। द्विक्षत्। मा। स्वसारम्। उत। स्वसा। सम्यञ्चः। सऽव्रताः। भूत्वा। वाचम्। वदत। भद्रया। ३०.३।
+मा। भ्राता॑। भ्रात॑रम्। द्वि॒क्ष॒त्। मा। स्वसा॑रम्। उ॒त। स्वसा॑। स॒म्यञ्चः॑। सऽव्र॑ताः। भू॒त्वा। वाच॑म्। व॒द॒त॒। भ॒द्रया॑। ३०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -216,14 +225,17 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/04_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः ।  
-तत् कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥४॥  
+येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः।  
+तत्कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/04_yena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः। तत्कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥
+येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः।  
+तत्कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/04_yena_devA.md">
@@ -246,7 +258,7 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। देवाः। न। विऽयन्ति। नो इति। च। विऽद्विषते। मिथः। तत्। कृण्मः। ब्रह्म। वः। गृहे। सम्ऽज्ञानम्। पुरुषेभ्यः। ३०.४।
+येन॑। दे॒वाः। न। वि॒ऽयन्ति॑। नो इति॑। च॒। वि॒ऽद्वि॒षते॑। मि॒थः। तत्। कृ॒ण्मः॒। ब्रह्म॑। वः॒। गृ॒हे। स॒म्ऽज्ञान॑म्। पुरु॑षेभ्यः। ३०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -277,14 +289,17 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः ।  
-अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न् वः॒ संम॑नसस्कृणोमि ॥५॥  
+ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः।  
+अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न्वः॒ संम॑नसस्कृणोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः। अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न्वः॒ संम॑नसस्कृणोमि ॥
+ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः।  
+अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न्वः॒ संम॑नसस्कृणोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
@@ -318,7 +333,7 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 </details>
 <details><summary>पदपाठः</summary>
 
-ज्यायस्वन्तः। चित्तिनः। मा। वि। यौष्ट। सम्ऽराधयन्तः। सऽधुराः। चरन्तः। अन्यः। अन्यस्मै। वल्गु। वदन्तः। आ। इत। सध्रीचीनान्। वः। सम्ऽमनसः। कृणोमि। ३०.५।
+ज्याय॑स्वन्तः। चि॒त्तिनः॑। मा। वि। यौ॒ष्ट॒। स॒म्ऽरा॒धय॑न्तः। स॑ऽधु॑राः। चर॑न्तः। अ॒न्यः। अ॒न्यस्मै॑। व॒ल्गु। वद॑न्तः। आ। इ॒त॒। स॒ध्री॒चीना॑न्। वः॒। सम्ऽम॑नसः। कृ॒णो॒मि॒। ३०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -349,14 +364,17 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि ।  
-स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥६॥  
+स॑मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि।  
+स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि। स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥
+स॑मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि।  
+स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/06_samAnI_prapA.md">
@@ -381,7 +399,7 @@ Let what you drink, your share of food be common together, with one common bond 
 </details>
 <details><summary>पदपाठः</summary>
 
-समानी। प्रऽपा। सह। वः। अन्नऽभागः। समाने। योक्त्रे। सह। वः। युनज्मि। सम्यञ्चः। अग्निम्। सपर्यत। अराः। नाभिम्ऽइव। अभितः। ३०.६।
+स॒मा॒नी। प्र॒ऽपा। स॒ह। वः॒। अ॒न्न॒ऽभा॒गः। स॒मा॒ने। योक्त्रे॑। स॒ह। वः॒। यु॒न॒ज्मि॒। स॒म्यञ्चः॑। अ॒ग्निम्। स॒प॒र्य॒त॒। अ॒राः। नाभि॑म्ऽइव। अ॒भितः॑। ३०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -412,14 +430,17 @@ Let what you drink, your share of food be common together, with one common bond 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒ध्री॒चीना॑न् वः संम॑नसस्कृणो॒म्ये॑क॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्।  
-दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥७॥
+स॑ध्री॒चीना॑न्वः॒ संम॑नसस्कृणो॒म्येक॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्।  
+दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॑ध्री॒चीना॑न्वः॒ संम॑नसस्कृणो॒म्येक॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्। दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥
+स॑ध्री॒चीना॑न्वः॒ संम॑नसस्कृणो॒म्येक॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्।  
+दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
@@ -449,7 +470,7 @@ With binding charm I make you all united, obeying one sole leader and one-minded
 </details>
 <details><summary>पदपाठः</summary>
 
-सध्रीचीनान्। वः। सम्ऽमनसः। कृणोमि। एकऽश्नुष्टीन्। सम्ऽवननेन। सर्वान्। देवाःऽइव। अमृतम्। रक्षमाणाः। सायम्ऽप्रातः। सौमनसः। वः। अस्तु। ३०.७।
+स॒ध्री॒चीना॑न्। वः॒। सम्ऽम॑नसः। कृ॒णो॒मि॒। एक॑ऽश्नुष्टीन्। स॒म्ऽवन॑नेन। सर्वा॑न्। दे॒वाःऽइ॑व। अ॒मृत॑म्। रक्ष॑माणाः। सा॒यम्ऽप्रा॑तः। सौ॒म॒न॒सः। वः॒। अ॒स्तु॒। ३०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

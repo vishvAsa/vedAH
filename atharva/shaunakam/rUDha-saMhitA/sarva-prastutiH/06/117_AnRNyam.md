@@ -32,14 +32,17 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि ।  
-इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न् वि॒चृतं॑ वेत्थ॒ सर्वा॑न्॥१॥  
+अ॑प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि।  
+इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न्वि॒चृतं॑ वेत्थ॒ सर्वा॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि। इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न्वि॒चृतं॑ वेत्थ॒ सर्वा॑न् ॥
+अ॑प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि।  
+इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न्वि॒चृतं॑ वेत्थ॒ सर्वा॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
@@ -84,7 +87,7 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽमित्यम्। अप्रतीत्तम्। यत्। अस्मि। यमस्य। येन। बलिना। चरामि। इदम्। तत्। अग्ने। अनृणः। भवामि। त्वम्। पाशान्। विऽचृतम्। वेत्थ। सर्वान्। ११७.१।
+अ॒प॒ऽमित्य॑म्। अप्र॑तीत्तम्। यत्। अस्मि॑। य॒मस्य॑। येन॑। ब॒लिना॑। चरा॑मि। इ॒दम्। तत्। अ॒ग्ने॒। अ॒नृ॒णः। भ॒वा॒मि॒। त्वम्। पाशा॑न्। वि॒ऽचृ॒त॑म्। वे॒त्थ॒। सर्वा॑न्। ११७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -116,13 +119,16 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्।  
-अ॒प॒मित्य॑ धा॒न्यं॑१ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥२॥  
+अ॑प॒मित्य॑ धा॒न्य१॒॑ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्। अ॑प॒मित्य॑ धा॒न्य१॒॑ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥
+इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्।  
+अ॑प॒मित्य॑ धा॒न्य१॒॑ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/02_ihaiva_santaH.md">
@@ -150,7 +156,7 @@ Still dwelling here we give again this present; we send it forth, the living fro
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। एव। सन्तः। प्रति। दद्मः। एनत्। जीवाः। जीवेभ्यः। नि। हरामः। एनत्। अपऽमित्य। धान्य᳡म्। यत्। जघस। अहम्। इदम्। तत्। अग्ने। अनृणः। भवामि। ११७.२।
+इ॒ह। ए॒व। सन्तः॑। प्रति॑। द॒द्मः॒। ए॒न॒त्। जी॒वाः। जी॒वेभ्यः॑। नि। ह॒रा॒मः॒। ए॒न॒त्। अ॒प॒ऽमित्य॑। धा॒न्य᳡म्। यत्। ज॒घस॑। अ॒हम्। इ॒दम्। तत्। अ॒ग्ने॒। अ॒नृ॒णः। भ॒वा॒मि॒। ११७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -181,14 +187,17 @@ Still dwelling here we give again this present; we send it forth, the living fro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन् तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म ।  
-ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न् प॒थो अ॑नृ॒णा आ क्षि॑येम ॥३॥
+अ॑नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन्तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म।  
+ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न्प॒थो अ॑नृ॒णा आ क्षि॑येम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन्तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म। ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न्प॒थो अ॑नृ॒णा आ क्षि॑येम ॥
+अ॑नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन्तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म।  
+ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न्प॒थो अ॑नृ॒णा आ क्षि॑येम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
@@ -219,7 +228,7 @@ May we be free in this world and that yonder, in the third world may we be unind
 </details>
 <details><summary>पदपाठः</summary>
 
-अनृणाः। अस्मिन्। अनृणाः। परस्मिन्। तृतीये। लोके। अनृणाः। स्याम। ये। देवऽयानाः। पितृऽयानाः। च। लोकाः। सर्वान्। पथः। अनृणाः। आ। क्षियेम। ११७.३।
+अ॒नृ॒णाः। अ॒स्मिन्। अ॒नृ॒णाः। पर॑स्मिन्। तृ॒तीये॑। लो॒के। अ॒नृ॒णाः। स्या॒म॒। ये। दे॒व॒ऽयानाः॑। पि॒तृ॒ऽयानाः॑। च॒। लो॒काः। सर्वा॑न्। प॒थः। अ॒नृ॒णाः। आ। क्षि॒ये॒म॒। ११७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

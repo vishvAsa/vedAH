@@ -36,14 +36,17 @@ A hymn to the War-drum to secure victory
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒च्चैर्घो॑षो दुन्दु॒भिः स॑त्वना॒यन् वा॑नस्प॒त्यः संभृ॑त उ॒स्रिया॑भिः ।  
-वाचं॑ क्षुणुवा॒नो द॒मय॑न्त्स॒पत्ना॑न्त्सिं॒ह इ॑व जे॒ष्यन्न॒भि तंस्तनीहि ॥१॥  
+उ॒च्चैर्घो॑षो दुन्दु॒भिः स॑त्वना॒यन्वा॑नस्प॒त्यः संभृ॑त उ॒स्रिया॑भिः।  
+वाचं॑ क्षुणुवा॒नो द॒मय॑न्त्स॒पत्ना॑न्त्सिं॒ह इ॑व जे॒ष्यन्न॒भि तं॑स्तनीहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒च्चैर्घो॑षो दुन्दु॒भिः स॑त्वना॒यन्वा॑नस्प॒त्यः संभृ॑त उ॒स्रिया॑भिः। वाचं॑ क्षुणुवा॒नो द॒मय॑न्त्स॒पत्ना॑न्त्सिं॒ह इ॑व जे॒ष्यन्न॒भि तं॑स्तनीहि ॥
+उ॒च्चैर्घो॑षो दुन्दु॒भिः स॑त्वना॒यन्वा॑नस्प॒त्यः संभृ॑त उ॒स्रिया॑भिः।  
+वाचं॑ क्षुणुवा॒नो द॒मय॑न्त्स॒पत्ना॑न्त्सिं॒ह इ॑व जे॒ष्यन्न॒भि तं॑स्तनीहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
@@ -79,7 +82,7 @@ Formed out of wood, compact with straps of leather, loud is the: War-drum as he 
 </details>
 <details><summary>पदपाठः</summary>
 
-उच्चैःऽघोषः। दुन्दुभिः। सत्वनाऽयन्। वानस्पत्यः। सम्ऽभृतः। उस्रियाभिः। वाचम्। क्षुणुवानः। दमयन्। सऽपत्नान्। सिंहःऽइव। जेष्यन्। अभि। तंस्तनीहि। २०.१।
+उ॒च्चैःऽघो॑षः। दु॒न्दु॒भिः। स॒त्व॒ना॒ऽयन्। वा॒न॒स्प॒त्यः। सम्ऽभृ॑तः। उ॒स्रिया॑भिः। वाच॑म्। क्षु॒णु॒वा॒नः। द॒मय॑न्। स॒ऽपत्ना॑न्। सिं॒हःऽइ॑व। जे॒ष्यन्। अ॒भि। तं॒स्त॒नी॒हि॒। २०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,14 +113,17 @@ Formed out of wood, compact with straps of leather, loud is the: War-drum as he 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सिं॒ह इ॑वास्तानीद् द्रु॒वयो॒ विब॑द्धोऽभि॒क्रन्द॑न्नृष॒भो वा॑सि॒तामि॑व ।  
-वृषा॒ त्वं वध्र॑यस्ते स॒पत्ना॑ ऐ॒न्द्रस्ते॒ शुष्मो॑ अभिमातिषा॒हः ॥२॥  
+सिं॒ह इ॑वास्तानीद्द्रु॒वयो॒ विब॑द्धोऽभि॒क्रन्द॑न्नृष॒भो वा॑सि॒तामि॑व।  
+वृषा॒ त्वं वध्र॑यस्ते स॒पत्ना॑ ऐ॒न्द्रस्ते॒ शुष्मो॑ अभिमातिषा॒हः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सिं॒ह इ॑वास्तानीद्द्रु॒वयो॒ विब॑द्धोऽभि॒क्रन्द॑न्नृष॒भो वा॑सि॒तामि॑व। वृषा॒ त्वं वध्र॑यस्ते स॒पत्ना॑ ऐ॒न्द्रस्ते॒ शुष्मो॑ अभिमातिषा॒हः ॥
+सिं॒ह इ॑वास्तानीद्द्रु॒वयो॒ विब॑द्धोऽभि॒क्रन्द॑न्नृष॒भो वा॑सि॒तामि॑व।  
+वृषा॒ त्वं वध्र॑यस्ते स॒पत्ना॑ ऐ॒न्द्रस्ते॒ शुष्मो॑ अभिमातिषा॒हः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
@@ -148,7 +154,7 @@ The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet
 </details>
 <details><summary>पदपाठः</summary>
 
-सिंहःऽइव। अस्तानीत्। द्रुवयः। विऽबध्दः। अभिऽक्रन्दन्। ऋषभः। वासिताम्ऽइव। वृषा। त्वम्। वध्रयः। ते। सऽपत्नाः। ऐन्द्रः। ते। शुष्मः। अभिमातिऽसहः। २०.२।
+सिं॒हःऽइ॑व। अ॒स्ता॒नी॒त्। द्रु॒वयः॑। विऽब॑ध्दः। अ॒भि॒ऽक्रन्द॑न्। ऋ॒ष॒भः। वा॒सि॒ताम्ऽइ॑व। वृषा॑। त्वम्। वध्र॑यः। ते॒। स॒ऽपत्नाः॑। ऐ॒न्द्रः। ते॒। शुष्मः॑। अ॒भि॒मा॒ति॒ऽस॒हः। २०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -180,13 +186,16 @@ The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृषे॑व यू॒थे सह॑सा विदा॒नो ग॒व्यन्न॒भि रु॑व संधनाजित्।  
-शु॒चा वि॑ध्य॒ हृद॑यं॒ परे॑षां हि॒त्वा ग्रामा॒न् प्रच्यु॑ता यन्तु॒ शत्र॑वः ॥३॥  
+शु॒चा वि॑ध्य॒ हृद॑यं॒ परे॑षां हि॒त्वा ग्रामा॒न्प्रच्यु॑ता यन्तु॒ शत्र॑वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृषे॑व यू॒थे सह॑सा विदा॒नो ग॒व्यन्न॒भि रु॑व संधनाजित्। शु॒चा वि॑ध्य॒ हृद॑यं॒ परे॑षां हि॒त्वा ग्रामा॒न्प्रच्यु॑ता यन्तु॒ शत्र॑वः ॥
+वृषे॑व यू॒थे सह॑सा विदा॒नो ग॒व्यन्न॒भि रु॑व संधनाजित्।  
+शु॒चा वि॑ध्य॒ हृद॑यं॒ परे॑षां हि॒त्वा ग्रामा॒न्प्रच्यु॑ता यन्तु॒ शत्र॑वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
@@ -211,7 +220,7 @@ Like a bull marked by strength among the cattle, roar seeking kine and gathering
 </details>
 <details><summary>पदपाठः</summary>
 
-वृषाऽइव। यूथे। सहसा। विदानः। गव्यन्। अभि। रुव। संधनऽजित्। शुचा। विध्य। हृदयम्। परेषाम्। हित्वा। ग्रामान्। प्रऽच्युताः। यन्तु। शत्रवः। २०.३।
+वृषा॑ऽइव। यू॒थे। सह॑सा। वि॒दा॒नः। ग॒व्यन्। अ॒भि। रु॒व॒। सं॒ध॒न॒ऽजि॒त्। शु॒चा। वि॒ध्य॒। हृद॑यम्। परे॑षाम्। हि॒त्वा। ग्रामा॑न्। प्रऽच्यु॑ताः। य॒न्तु॒। शत्र॑वः। २०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -242,14 +251,17 @@ Like a bull marked by strength among the cattle, roar seeking kine and gathering
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒जय॒न् पृत॑ना ऊ॒र्ध्वमा॑यु॒र्गृह्या॑ गृह्णा॒नो ब॑हु॒धा वि च॑क्ष्व ।  
-दैवीं॒ वाचं॑ दुन्दुभ॒ आ गु॑रस्व वे॒धाः शत्रू॑णा॒मुप॑ भरस्व॒ वेदः॑ ॥४॥  
+सं॒जय॒न्पृत॑ना ऊ॒र्ध्वमा॑यु॒र्गृह्या॑ गृह्णा॒नो ब॑हु॒धा वि च॑क्ष्व।  
+दैवीं॒ वाचं॑ दुन्दुभ॒ आ गु॑रस्व वे॒धाः शत्रू॑णा॒मुप॑ भरस्व॒ वेदः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒जय॒न्पृत॑ना ऊ॒र्ध्वमा॑यु॒र्गृह्या॑ गृह्णा॒नो ब॑हु॒धा वि च॑क्ष्व। दैवीं॒ वाचं॑ दुन्दुभ॒ आ गु॑रस्व वे॒धाः शत्रू॑णा॒मुप॑ भरस्व॒ वेदः॑ ॥
+सं॒जय॒न्पृत॑ना ऊ॒र्ध्वमा॑यु॒र्गृह्या॑ गृह्णा॒नो ब॑हु॒धा वि च॑क्ष्व।  
+दैवीं॒ वाचं॑ दुन्दुभ॒ आ गु॑रस्व वे॒धाः शत्रू॑णा॒मुप॑ भरस्व॒ वेदः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
@@ -276,7 +288,7 @@ Victorious in the battle, loudly roaring, seizing what may be seized, look all a
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽजयन्। पृतनाः। ऊर्ध्वऽमायुः। गृह्याः। गृह्णानः। बहुधा। वि। चक्ष्व। दैवीम्। वाचम्। दुन्दुभे। आ। गुरस्व। वेधाः। शत्रूणाम्। उप। भरस्व। वेदः। २०.४।
+स॒म्ऽजय॑न्। पृत॑नाः। ऊ॒र्ध्वऽमा॑युः। गृह्याः॑। गृ॒ह्णा॒नः। ब॒हु॒धा। वि। च॒क्ष्व॒। दैवी॑म्। वाच॑म्। दु॒न्दु॒भे॒। आ। गु॒र॒स्व॒। वे॒धाः। शत्रू॑णाम्। उप॑। भ॒र॒स्व॒। वेदः॑। २०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -307,14 +319,17 @@ Victorious in the battle, loudly roaring, seizing what may be seized, look all a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दु॒न्दु॒भेर्वाचं॒ प्रय॑तां॒ वद॑न्तीमाशृण्व॒ती ना॑थि॒ता घोष॑बुद्धा ।  
-नारी॑ पु॒त्रं धा॑वतु हस्त॒गह्या॑मि॒त्री भी॒ता स॑म॒रे व॒धाना॑म्॥५॥  
+दु॑न्दु॒भेर्वाचं॒ प्रय॑तां॒ वद॑न्तीमाशृण्व॒ती ना॑थि॒ता घोष॑बुद्धा।  
+नारी॑ पु॒त्रं धा॑वतु हस्त॒गृह्या॑मि॒त्री भी॒ता स॑म॒रे व॒धाना॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दु॑न्दु॒भेर्वाचं॒ प्रय॑तां॒ वद॑न्तीमाशृण्व॒ती ना॑थि॒ता घोष॑बुद्धा। नारी॑ पु॒त्रं धा॑वतु हस्त॒गृह्या॑मि॒त्री भी॒ता स॑म॒रे व॒धाना॑म् ॥
+दु॑न्दु॒भेर्वाचं॒ प्रय॑तां॒ वद॑न्तीमाशृण्व॒ती ना॑थि॒ता घोष॑बुद्धा।  
+नारी॑ पु॒त्रं धा॑वतु हस्त॒गृह्या॑मि॒त्री भी॒ता स॑म॒रे व॒धाना॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
@@ -336,7 +351,7 @@ Hearing the Drum's far-reaching voice resounding, let the foe's dame, waked by t
 </details>
 <details><summary>पदपाठः</summary>
 
-दुन्दुभेः। वाचम्। प्रऽयताम्। वदन्तीम्। आऽशृण्वती। नाथिता। घोषऽबुध्दा। नारी। पुत्रम्। धावतु। हस्तऽगृह्य। आमित्री। भीता। सम्ऽअरे। वधानाम्। २०.५।
+दु॒न्दु॒भेः। वाच॑म्। प्रऽय॑ताम्। वद॑न्तीम्। आ॒ऽशृ॒ण्व॒ती। ना॒थि॒ता। घोष॑ऽबुध्दा। नारी॑। पु॒त्रम्। धा॒व॒तु॒। ह॒स्त॒ऽगृह्य॑। आ॒मि॒त्री। भी॒ता। स॒म्ऽअ॒रे। व॒धाना॑म्। २०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -367,14 +382,17 @@ Hearing the Drum's far-reaching voice resounding, let the foe's dame, waked by t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पूर्वो॑ दुन्दुभे॒ प्र व॑दासि॒ वाचं॒ भूम्याः॑ पृ॒ष्ठे व॑द॒ रोच॑मानः ।  
-अ॒मि॒त्र॒से॒नाम॑भि॒जञ्ज॑भानो द्यु॒मद् व॑द दुन्दुभे सू॒नृता॑वत्॥६॥  
+पूर्वो॑ दुन्दुभे॒ प्र व॑दासि॒ वाचं॒ भूम्याः॑ पृ॒ष्ठे व॑द॒ रोच॑मानः।  
+अ॑मित्रसे॒नाम॑भि॒जञ्ज॑भानो द्यु॒मद्व॑द दुन्दुभे सू॒नृता॑वत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पूर्वो॑ दुन्दुभे॒ प्र व॑दासि॒ वाचं॒ भूम्याः॑ पृ॒ष्ठे व॑द॒ रोच॑मानः। अ॑मित्रसे॒नाम॑भि॒जञ्ज॑भानो द्यु॒मद्व॑द दुन्दुभे सू॒नृता॑वत् ॥
+पूर्वो॑ दुन्दुभे॒ प्र व॑दासि॒ वाचं॒ भूम्याः॑ पृ॒ष्ठे व॑द॒ रोच॑मानः।  
+अ॑मित्रसे॒नाम॑भि॒जञ्ज॑भानो द्यु॒मद्व॑द दुन्दुभे सू॒नृता॑वत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
@@ -404,7 +422,7 @@ Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak
 </details>
 <details><summary>पदपाठः</summary>
 
-पूर्वः। दुन्दुभे। प्र। वदासि। वाचम्। भूम्याः। पृष्ठे। वद। रोचमानः। अमित्रऽसेनाम्। अभिऽजञ्जभानः। द्युमत्। वद। दुन्दुभे। सूनृताऽवत्। २०.६।
+पूर्वः॑। दु॒न्दु॒भे॒। प्र। व॒दा॒सि॒। वाच॑म्। भूम्याः॑। पृ॒ष्ठे। व॒द॒। रोच॑मानः। अ॒मि॒त्र॒ऽसे॒नाम्। अ॒भि॒ऽजञ्ज॑भानः। द्यु॒मत्। व॒द॒। दु॒न्दु॒भे॒। सू॒नृता॑ऽवत्। २०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -435,14 +453,17 @@ Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्त॒रेमे नभ॑सी॒ घोषो॑ अस्तु॒ पृथ॑क् ते ध्व॒नयो॑ यन्तु॒ शीभ॑म्।  
-अ॒भि क्र॑न्द स्त॒नयो॒त्पिपा॑नः श्लोक॒कृन्मि॑त्र॒तूर्या॑य स्व॒र्धी॥७॥  
+अ॑न्त॒रेमे नभ॑सी॒ घोषो॑ अस्तु॒ पृथ॑क्ते ध्व॒नयो॑ यन्तु॒ शीभ॑म्।  
+अ॒भि क्र॑न्द स्त॒नयो॒त्पिपा॑नः श्लोक॒कृन्मि॑त्र॒तूर्या॑य स्व॒र्धी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑न्त॒रेमे नभ॑सी॒ घोषो॑ अस्तु॒ पृथ॑क्ते ध्व॒नयो॑ यन्तु॒ शीभ॑म्। अ॒भि क्र॑न्द स्त॒नयो॒त्पिपा॑नः श्लोक॒कृन्मि॑त्र॒तूर्या॑य स्व॒र्धी ॥
+अ॑न्त॒रेमे नभ॑सी॒ घोषो॑ अस्तु॒ पृथ॑क्ते ध्व॒नयो॑ यन्तु॒ शीभ॑म्।  
+अ॒भि क्र॑न्द स्त॒नयो॒त्पिपा॑नः श्लोक॒कृन्मि॑त्र॒तूर्या॑य स्व॒र्धी ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
@@ -467,7 +488,7 @@ Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in 
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरा। इमे इति। नभसी इति। घोषः। अस्तु। पृथक्। ते। ध्वनयः। यन्तु। शीभम्। अभि। क्रन्द। स्तनय। उत्ऽपिपानः। श्लोकऽकृत्। मित्रऽतूर्याय। सुऽअर्धी। २०.७।
+अ॒न्त॒रा। इ॒मे इति॑। नभ॑सी॒ इति॑। घोषः॑। अ॒स्तु॒। पृथ॑क्। ते॒। ध्व॒नयः॑। य॒न्तु॒। शीभ॑म्। अ॒भि। क्र॒न्द॒। स्त॒नय॑। उ॒त्ऽपिपा॑नः। श्लो॒क॒ऽकृत्। मि॒त्र॒ऽतूर्या॑य। सु॒ऽअ॒र्धी। २०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -498,14 +519,17 @@ Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धी॒भिः कृ॒तः प्र व॑दाति॒ वाच॒मुद्ध॑र्षय॒ सत्व॑ना॒मायु॑धानि ।  
-इन्द्र॑मेदी॒ सत्व॑नो॒ नि ह्व॑यस्व मि॒त्रैर॒मित्राँ॒ अव॑ जङ्घनीहि ॥८॥  
+धी॒भिः कृ॒तः प्र व॑दाति॒ वाच॒मुद्ध॑र्षय॒ सत्व॑ना॒मायु॑धानि।  
+इन्द्र॑मेदी॒ सत्व॑नो॒ नि ह्व॑यस्व मि॒त्रैर॒मित्राँ॒ अव॑ जङ्घनीहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धी॒भिः कृ॒तः प्र व॑दाति॒ वाच॒मुद्ध॑र्षय॒ सत्व॑ना॒मायु॑धानि। इन्द्र॑मेदी॒ सत्व॑नो॒ नि ह्व॑यस्व मि॒त्रैर॒मित्राँ॒ अव॑ जङ्घनीहि ॥
+धी॒भिः कृ॒तः प्र व॑दाति॒ वाच॒मुद्ध॑र्षय॒ सत्व॑ना॒मायु॑धानि।  
+इन्द्र॑मेदी॒ सत्व॑नो॒ नि ह्व॑यस्व मि॒त्रैर॒मित्राँ॒ अव॑ जङ्घनीहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
@@ -529,7 +553,7 @@ He shall send forth his voice whom art hath fashioned. Make thou the weapons of 
 </details>
 <details><summary>पदपाठः</summary>
 
-धीभिः। कृतः। प्र। वदाति। वाचम्। उत्। हर्षय। सत्वनाम्। आयुधानि। इन्द्रऽमेदी। सत्वनः। नि। ह्वयस्व। मित्रैः। अमित्रान्। अव। जङ्घनीहि। २०.८।
+धी॒भिः। कृ॒तः। प्र। व॒दा॒ति॒। वाच॑म्। उत्। ह॒र्ष॒य॒। सत्व॑नाम्। आयु॑धानि। इन्द्र॑ऽमेदी। सत्व॑नः। नि। ह्व॒य॒स्व॒। मि॒त्रैः। अ॒मित्रा॑न्। अव॑। ज॒ङ्घ॒नी॒हि॒। २०.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -560,14 +584,17 @@ He shall send forth his voice whom art hath fashioned. Make thou the weapons of 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒क्रन्दनः॑ प्रव॒दो धृ॒ष्णुषे॑णः प्रवेद॒कृद् ब॑हु॒धा ग्रा॑मघो॒षी।  
-श्रेयो॑ वन्वा॒नो व॒युना॑नि वि॒द्वान् की॒र्तिं ब॒हुभ्यो॒ वि ह॑र द्विरा॒जे॥९॥  
+सं॒क्रन्द॑नः प्रव॒दो धृ॒ष्णुषे॑णः प्रवेद॒कृद्ब॑हु॒धा ग्रा॑मघो॒षी।  
+श्रेयो॑ वन्व॒नो व॒युना॑नि वि॒द्वान्की॒र्तिं ब॒हुभ्यो॒ वि ह॑र द्विरा॒जे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒क्रन्द॑नः प्रव॒दो धृ॒ष्णुषे॑णः प्रवेद॒कृद्ब॑हु॒धा ग्रा॑मघो॒षी। श्रेयो॑ वन्व॒नो व॒युना॑नि वि॒द्वान्की॒र्तिं ब॒हुभ्यो॒ वि ह॑र द्विरा॒जे ॥
+सं॒क्रन्द॑नः प्रव॒दो धृ॒ष्णुषे॑णः प्रवेद॒कृद्ब॑हु॒धा ग्रा॑मघो॒षी।  
+श्रेयो॑ वन्व॒नो व॒युना॑नि वि॒द्वान्की॒र्तिं ब॒हुभ्यो॒ वि ह॑र द्विरा॒जे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
@@ -592,7 +619,7 @@ Resonant, roaring, with thy powerful weapons, warning, and heard by troops in ma
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽक्रन्दनः। प्रऽवदः। धृष्णुऽसेनः। प्रवेदऽकृत्। बहुऽधा। ग्रामऽघोषी। श्रेयः। वन्वानः। वयुनानि। विद्वान्। कीर्तिम्। बहुऽभ्यः। वि। हर। द्विऽराजे। २०.९।
+स॒म्ऽक्रन्द॑नः। प्र॒ऽव॒दः। धृ॒ष्णुऽसे॑नः। प्र॒वे॒द॒ऽकृत्। ब॒हु॒ऽधा। ग्रा॒म॒ऽघो॒षी। श्रेयः॑। व॒न्वा॒नः। व॒युना॑नि। वि॒द्वान्। की॒र्तिम्। ब॒हुऽभ्यः॑। वि। ह॒र॒। द्वि॒ऽरा॒जे। २०.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -623,14 +650,17 @@ Resonant, roaring, with thy powerful weapons, warning, and heard by troops in ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्रेयः॑केतो वसु॒जित् सहीयान्त्संग्राम॒जित् संशि॑तो॒ ब्रह्म॑णासि ।  
-अं॒शूनि॑व॒ ग्रावा॑धि॒षव॑णे॒ अद्रि॑र्ग॒व्य॑न् दु॑न्दु॒भेऽधि॑ नृत्य॒ वेदः॑ ॥१०॥  
+श्रेयः॑केतो वसु॒जित्सही॑यान्त्संग्राम॒जित्संशि॑तो॒ ब्रह्म॑णासि।  
+अं॒शूनि॑व॒ ग्रावा॑धि॒षव॑णे॒ अद्रि॑र्ग॒व्यन्दु॑न्दु॒भेऽधि॑ नृत्य॒ वेदः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्रेयः॑केतो वसु॒जित्सही॑यान्त्संग्राम॒जित्संशि॑तो॒ ब्रह्म॑णासि। अं॒शूनि॑व॒ ग्रावा॑धि॒षव॑णे॒ अद्रि॑र्ग॒व्यन्दु॑न्दु॒भेऽधि॑ नृत्य॒ वेदः॑ ॥
+श्रेयः॑केतो वसु॒जित्सही॑यान्त्संग्राम॒जित्संशि॑तो॒ ब्रह्म॑णासि।  
+अं॒शूनि॑व॒ ग्रावा॑धि॒षव॑णे॒ अद्रि॑र्ग॒व्यन्दु॑न्दु॒भेऽधि॑ नृत्य॒ वेदः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
@@ -660,7 +690,7 @@ Bent on advantage, mightier, gaining treasures, victor in war, the spell hath ma
 </details>
 <details><summary>पदपाठः</summary>
 
-श्रेयःऽकेतः। वसुऽजित्। सहीयान्। संग्रामऽजित्। सम्ऽशितः। ब्रह्मणा। असि। अंशून्ऽइव। ग्रावा। अधिऽसवने। अद्रिः। गव्यन्। दुन्दुभे। अधि। नृत्य। वेदः। २०.१०।
+श्रेयः॑ऽकेतः। व॒सु॒ऽजित्। सही॑यान्। सं॒ग्रा॒म॒ऽजित्। सम्ऽशि॑तः। ब्रह्म॑णा। अ॒सि॒। अं॒शून्ऽइ॑व। ग्रावा॑। अ॒धि॒ऽसव॑ने। अद्रिः॑। ग॒व्यन्। दु॒न्दु॒भे॒। अधि॑। नृ॒त्य॒। वेदः॑। २०.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -691,14 +721,17 @@ Bent on advantage, mightier, gaining treasures, victor in war, the spell hath ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒त्रू॒षाण् नी॒षाड॑भिमातिषा॒हो ग॒वेष॑णः॒ सह॑मान उ॒द्भित्।  
-वा॒ग्वीव॒ मन्त्रं॒ प्र भ॑रस्व॒ वाचं॒ सांग्रा॑मजित्या॒येष॒मुद् व॑दे॒ह॥११॥  
+शत्रू॑षाण्नी॒षाड॑भिमातिषा॒हो ग॒वेष॑णः॒ सह॑मान उ॒द्भित्।  
+वा॒ग्वीव॒ मन्त्रं॒ प्र भ॑रस्व॒ वाचं सांग्रा॑मजित्या॒येष॒मुद्व॑दे॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शत्रू॑षाण्नी॒षाड॑भिमातिषा॒हो ग॒वेष॑णः॒ सह॑मान उ॒द्भित्। वा॒ग्वीव॒ मन्त्रं॒ प्र भ॑रस्व॒ वाचं सांग्रा॑मजित्या॒येष॒मुद्व॑दे॒ह ॥
+शत्रू॑षाण्नी॒षाड॑भिमातिषा॒हो ग॒वेष॑णः॒ सह॑मान उ॒द्भित्।  
+वा॒ग्वीव॒ मन्त्रं॒ प्र भ॑रस्व॒ वाचं सांग्रा॑मजित्या॒येष॒मुद्व॑दे॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
@@ -724,7 +757,7 @@ Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destro
 </details>
 <details><summary>पदपाठः</summary>
 
-शत्रूषाट्। नीषाट्। अभिमातिऽसहः। गोऽएषणः। सहमानः। उत्ऽभित्। वाग्वीऽइव। मन्त्रम्। प्र। भरस्व। वाचम्। संग्रामऽजित्याय। इषम्। उत्। वद। इह। २०.११।
+श॒त्रू॒षाट्। नी॒षाट्। अ॒भि॒मा॒ति॒ऽस॒हः। गो॒ऽएष॑णः। सह॑मानः। उ॒त्ऽभित्। वा॒ग्वीऽइ॑व। मन्त्र॑म्। प्र। भ॒र॒स्व॒। वाच॑म्। संग्रा॑मऽजित्याय। इष॑म्। उत्। व॒द॒। इह॒। २०.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -755,14 +788,17 @@ Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒च्यु॒त॒च्युत् स॒मदो॒ गमि॑ष्ठो॒ मृधो॒ जेता॑ पुरए॒तायो॒ध्यः ।  
-इन्द्रे॑ण गु॒प्तो वि॒दथा॑ नि॒चिक्य॑द्धृ॒द्द्योत॑नो द्विष॒तां या॑हि॒ शीभ॑म्॥१२॥
+अ॑च्युत॒च्युत्स॒मदो॒ गमि॑ष्ठो॒ मृधो॒ जेता॑ पुरए॒तायो॒ध्यः।  
+इन्द्रे॑ण गु॒प्तो वि॒दथा॑ निचिक्यद्धृ॒द्द्योत॑नो द्विष॒तां या॑हि॒ शीभ॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑च्युत॒च्युत्स॒मदो॒ गमि॑ष्ठो॒ मृधो॒ जेता॑ पुरए॒तायो॒ध्यः। इन्द्रे॑ण गु॒प्तो वि॒दथा॑ निचिक्यद्धृ॒द्द्योत॑नो द्विष॒तां या॑हि॒ शीभ॑म् ॥
+अ॑च्युत॒च्युत्स॒मदो॒ गमि॑ष्ठो॒ मृधो॒ जेता॑ पुरए॒तायो॒ध्यः।  
+इन्द्रे॑ण गु॒प्तो वि॒दथा॑ निचिक्यद्धृ॒द्द्योत॑नो द्विष॒तां या॑हि॒ शीभ॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
@@ -790,7 +826,7 @@ Shaker of things unshaken, readiest corner to battles; conquer- ing foes, resist
 </details>
 <details><summary>पदपाठः</summary>
 
-अच्युतऽच्युत्। सऽमदः। गमिष्ठः। मृधः। जेता। पुरःऽएता। अयोध्यः। इन्द्रेण। गुप्तः। विदथा। निऽचिक्यत। हृत्ऽद्योतनः। द्विषताम्। याहि। शीभम्। २०.१२।
+अ॒च्यु॒त॒ऽच्युत्। स॒ऽमदः॑। गमि॑ष्ठः। मृधः॑। जेता॑। पु॒रः॒ऽए॒ता। अ॒यो॒ध्यः। इन्द्रे॑ण। गु॒प्तः। वि॒दथा॑। नि॒ऽचिक्य॑त। हृ॒त्ऽद्योत॑नः। द्वि॒ष॒ताम्। या॒हि॒। शीभ॑म्। २०.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

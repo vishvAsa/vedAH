@@ -36,14 +36,17 @@ To accompany the three daily libations
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान् वै॑श्वान॒रो वि॑श्व॒कृद् वि॒श्वशं॑भूः ।  
-स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः सहभ॑क्षाः स्याम ॥१॥  
+अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान्वै॑श्वान॒रो वि॑श्व॒कृद्वि॒श्वशं॑भूः।  
+स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः स॒हभ॑क्षाः स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान्वै॑श्वान॒रो वि॑श्व॒कृद्वि॒श्वशं॑भूः। स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः स॒हभ॑क्षाः स्याम ॥
+अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान्वै॑श्वान॒रो वि॑श्व॒कृद्वि॒श्वशं॑भूः।  
+स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः स॒हभ॑क्षाः स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
@@ -70,7 +73,7 @@ Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। प्रातःऽसवने। पातु। अस्मान्। वैश्वानरः। विश्वऽकृत्। विश्वऽशंभूः। सः। नः। पावकः। द्रविणे। दधातु। आयुष्मन्तः। सहऽभक्षाः। स्याम। ४७.१।
+अ॒ग्निः। प्रा॒तः॒ऽस॒व॒ने। पा॒तु॒। अ॒स्मान्। वै॒श्वा॒न॒रः। वि॒श्व॒ऽकृत्। वि॒श्वऽशं॑भूः। सः। नः॒। पा॒व॒कः। द्रवि॑णे। द॒धा॒तु॒। आयु॑ष्मन्तः। स॒हऽभ॑क्षाः। स्या॒म॒। ४७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन् द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः ।  
-आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥२॥  
+विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन्द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः।  
+आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन्द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः। आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
+विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन्द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः।  
+आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
@@ -130,7 +136,7 @@ At this our second offering may Indra, Maruts, and Visve Devas never fail us. St
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वे। देवाः। मरुतः। इन्द्रः। अस्मान्। अस्मिन्। द्वितीये। सवने। न। जह्युः। आयुष्मन्तः। प्रियम्। एषाम्। वदन्तः। वयम्। देवानाम्। सुऽमतौ। स्याम। ४७.२।
+विश्वे॑। दे॒वाः। म॒रुतः॑। इन्द्रः॑। अ॒स्मान्। अ॒स्मिन्। द्वि॒तीये॑। सव॑ने। न। ज॒ह्युः॒। आयु॑ष्मन्तः। प्रि॒यम्। ए॒षा॒म्। वद॑न्तः। व॒यम्। दे॒वाना॑म्। सु॒ऽम॒तौ। स्या॒म॒। ४७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ At this our second offering may Indra, Maruts, and Visve Devas never fail us. St
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त ।  
-ते सौ॑धन्व॒नाः स्वऽरानशा॒नाः स्विऽष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥३॥
+इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त।  
+ते सौ॑धन्व॒नाः स्व᳡रानशा॒नाः स्वि᳡ष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त। ते सौ॑धन्व॒नाः स्व᳡रानशा॒नाः स्वि᳡ष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥
+इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त।  
+ते सौ॑धन्व॒नाः स्व᳡रानशा॒नाः स्वि᳡ष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
@@ -196,7 +205,7 @@ We pour this third libation of the Sages who fashioned forth the cup in proper o
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। तृतीयम्। सवनम्। कवीनाम्। ऋतेन। ये। चमसम्। ऐरयन्त। ते। सौधन्वनाः। स्वः᳡। आनशानाः। सुऽइष्टिम्। नः। अभि। वस्यः। नयन्तु। ४७.३।
+इ॒दम्। तृ॒तीय॑म्। सव॑नम्। क॒वी॒नाम्। ऋ॒तेन॑। ये। च॒म॒सम्। ऐर॑यन्त। ते। सौ॒ध॒न्व॒नाः। स्वः᳡। आ॒न॒शा॒नाः। सुऽइ॑ष्टिम्। नः॒। अ॒भि। वस्यः॑। न॒य॒न्तु॒। ४७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ A charm against sores and pustules (apachitas)
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व ।  
-सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥१॥  
+अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व।  
+सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व। सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥
+अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व।  
+सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/01_apachitaH_pra.md">
@@ -68,7 +71,7 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽचितः। प्र। पतत। सुऽपर्णः। वसतेःऽइव। सूर्यः। कृणोतु। भेषजम्। चन्द्रमाः। वः। अप। उच्छतु। ८३.१।
+अप॑ऽचितः। प्र। प॒त॒त॒। सु॒ऽप॒र्णः। व॒स॒तेःऽइ॑व। सूर्यः॑। कृ॒णोतु॑। भे॒ष॒जम्। च॒न्द्रमाः॑। वः॒। अप॑। उ॒च्छ॒तु॒। ८३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,13 +103,16 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे।  
-सर्वा॑सामग्रभं॒ नामावी॑रघ्नी॒रपे॑तन ॥२॥  
+सर्वा॑सा॒मग्र॑भं॒ नामावी॑रघ्नी॒रपे॑तन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे। सर्वा॑सा॒मग्र॑भं॒ नामावी॑रघ्नी॒रपे॑तन ॥
+एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे।  
+सर्वा॑सा॒मग्र॑भं॒ नामावी॑रघ्नी॒रपे॑तन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
@@ -126,7 +132,7 @@ One bright with variegated tints, one white, one black, a couple red:-- The'name
 </details>
 <details><summary>पदपाठः</summary>
 
-एनी। एका। श्येनी। एका। कृष्णा। एका। रोहिणी इति। द्वे इति। सर्वासाम्। अग्रभम्। नाम। अवीरऽघ्नीः। अप। इतन। ८३.२।
+एनी॑। एका॑। श्येनी॑। एका॑। कृ॒ष्णा। एका॑। रोहि॑णी॒ इति॑। द्वे इति॑। सर्वा॑साम्। अ॒ग्र॒भ॒म्। नाम॑। अवी॑रऽघ्नीः। अप॑। इ॒त॒न॒। ८३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ One bright with variegated tints, one white, one black, a couple red:-- The'name
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सूति॑का रामाय॒ण्यऽप॒चित् प्र प॑तिष्यति ।  
-ग्लरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥३॥  
+अ॒सूति॑का रामाय॒ण्य᳡प॒चित्प्र प॑तिष्यति।  
+ग्लौरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒सूति॑का रामाय॒ण्य᳡प॒चित्प्र प॑तिष्यति। ग्लौरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥
+अ॒सूति॑का रामाय॒ण्य᳡प॒चित्प्र प॑तिष्यति।  
+ग्लौरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
@@ -191,7 +200,7 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 </details>
 <details><summary>पदपाठः</summary>
 
-असूतिका। रामायणी। अपऽचित्। प्र। पतिष्यति। ग्लौः। इतः। प्र। पतिष्यति। सः। गलुन्तः। नाशिष्यति। ८३.३।
+अ॒सूति॑का। रा॒मा॒य॒णी। अ॒प॒ऽचित्। प्र। प॒ति॒ष्य॒ति॒। ग्लौः। इ॒तः। प्र। प॒ति॒ष्य॒ति॒। सः। ग॒लु॒न्तः। ना॒शि॒ष्य॒ति॒। ८३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,13 +231,15 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वी॒हि स्वामाहु॑तिं जुषा॒णो मन॑सा॒ स्वाहा॒ मन॑सा॒ यदि॒दं जु॒होमि॑ ॥४॥
+वी॒हि स्वामाहु॑तिं जुषा॒णो मन॑सा॒ स्वाहा॒ मन॑सा॒ यदि॒दं जु॒होमि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 वी॒हि स्वामाहु॑तिं जुषा॒णो मन॑सा॒ स्वाहा॒ मन॑सा॒ यदि॒दं जु॒होमि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
@@ -254,7 +265,7 @@ following verse, thus ⌊making 83 a *tṛca* and 84 a *caturṛca*.⌋ ⌊An
 </details>
 <details><summary>पदपाठः</summary>
 
-वीहि। स्वाम्। आऽहुतिम्। जुषाणः। मनसा। स्वाहा। मनसा। यत्। इदम्। जुहोमि। ८३.४।
+वी॒हि। स्वाम्। आऽहु॑तिम्। जु॒षा॒णः। मन॑सा। स्वाहा॑। मन॑सा। यत्। इ॒दम्। जु॒होमि॑। ८३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

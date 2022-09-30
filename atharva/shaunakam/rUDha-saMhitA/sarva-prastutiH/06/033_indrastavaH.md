@@ -36,14 +36,17 @@ A prayer to Indra for riches
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः ।  
-इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत्॥१॥  
+यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः॑᳡।  
+इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः॑। इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत् ॥
+यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः॑᳡।  
+इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/01_yasyedamA_rajo.md">
@@ -73,7 +76,7 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। इदम्। आ। रजः। युजः। तुजे। जनाः। वनम्। स्वः᳡। इन्द्रस्य। रन्त्यम्। बृहत्। ३३.१।
+यस्य॑। इ॒दम्। आ। रजः॑। युजः॑। तु॒जे। जनाः॑। वन॑म्। स्वः᳡। इन्द्र॑स्य। रन्त्य॑म्। बृ॒हत्। ३३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑ ।  
-पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥२॥  
+नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑।  
+पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑। पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥
+नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑।  
+पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/02_nAdhRSha_A.md">
@@ -140,7 +146,7 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 </details>
 <details><summary>पदपाठः</summary>
 
-न। आऽधृषे। आ। दधृषते। धृषाणः। धृषितः। शवः। पुरा। यथा। व्यथिः। श्रवः। इन्द्रस्य। न। आऽधृषे। शवः। ३३.२।
+न। आ॒ऽधृ॒षे॒। आ। द॒धृ॒ष॒ते॒। धृ॒षा॒णः। धृ॒षि॒तः। शवः॑। पु॒रा। यथा॑। व्य॒थिः। श्रवः॑। इन्द्र॑स्य। न। आ॒ऽधृ॒षे॒। शवः॑। ३३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,13 +178,16 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स नो॑ ददातु॒ तां र॒यिमु॒रुं पि॒शङ्ग॑संदृशम्।  
-इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा॥३॥
+इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/03_sa_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स नो॑ ददातु॒ तां र॒यिमु॒रुं पि॒शङ्ग॑संदृशम्। इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा ॥
+स नो॑ ददातु॒ तां र॒यिमु॒रुं पि॒शङ्ग॑संदृशम्।  
+इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/03_sa_no.md">
@@ -205,7 +214,7 @@ May he bestow on us that wealth, far-spreading, bright with yellow hue. Indra is
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। नः। ददातु। ताम्। रयिम्। उरुम्। पिशङ्गऽसंदृशम्। इन्द्रः। पतिः। तुविऽतमः। जनेषु। आ। ३३.३।
+सः। नः॒। द॒दा॒तु॒। ताम्। र॒यिम्। उ॒रुम्। पि॒शङ्ग॑ऽसंदृशम्। इन्द्रः॑। पतिः॑। तु॒विऽत॑मः। जने॑षु। आ। ३३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A prayer to various deities for health, wealth, and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥१॥  
+पृ॑थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पृ॑थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्। यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+पृ॑थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
@@ -71,7 +74,7 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिव्याम्। अग्नये। सम्। अनमन्। सः। आर्ध्नोत्। यथा। पृथिव्याम्। अग्नये। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.१।
+पृ॒थि॒व्याम्। अ॒ग्नये॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। पृ॒थि॒व्याम्। अ॒ग्नये॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,15 +105,19 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः ।  
+पृ॑थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः।  
 सा मे॒ऽग्निना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥२॥  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पृ॑थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः। सा मे॒ऽग्निना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्। आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+पृ॑थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः।  
+सा मे॒ऽग्निना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
@@ -133,7 +140,7 @@ Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, st
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिवी। धेनुः। तस्याः। अग्निः। वत्सः। सा। मे। अग्निना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.२।
+पृ॒थि॒वी। धे॒नुः। तस्याः॑। अ॒ग्निः। व॒त्सः। सा। मे॒। अ॒ग्निना॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +172,16 @@ Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, st
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥३॥  
+यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/03_antarixe_vAyave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्। यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/03_antarixe_vAyave.md">
@@ -192,7 +202,7 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षे। वायवे। सम्। अनमन्। सः। आर्ध्नोत्। यथा। अन्तरिक्षे। वायवे। सम्ऽअनमन्। एव। मह्मम्। सम्ऽनमः। सम्। नमन्तु। ३९.३।
+अ॒न्तरि॑क्षे। वा॒यवे॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। अ॒न्तरि॑क्षे। वा॒यवे॑। स॒म्ऽअन॑मन्। ए॒व। मह्म॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,15 +233,19 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वा॒युर्व॒त्सः ।  
+अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वायुर्व॒त्सः।  
 सा मे॑ वा॒युना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥४॥  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वायुर्व॒त्सः। सा मे॑ वा॒युना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्। आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वायुर्व॒त्सः।  
+सा मे॑ वा॒युना॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
@@ -252,7 +266,7 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षम्। धेनुः। तस्याः। वायुः। वत्सः। सा। मे। वायुना। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.४।
+अ॒न्तरि॑क्षम्। धे॒नुः। तस्याः॑। वा॒युः। व॒त्सः। सा। मे॒। वा॒युना॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -283,14 +297,17 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्याऽदि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ दि॒व्याऽदि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥५॥  
+दि॒व्या॑दि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ दि॒व्या॑दि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒व्या॑दि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्। यथा॑ दि॒व्या॑दि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+दि॒व्या॑दि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ दि॒व्या॑दि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
@@ -311,7 +328,7 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवि। आदित्याय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिवि। आदित्याय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.५।
+दि॒वि। आ॒दि॒त्याय॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। दि॒वि। आ॒दि॒त्याय॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -342,15 +359,19 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्यैर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः ।  
-सा म॑ आदि॒त्येन॑ व॒त्सेने॑ष॒मूर्जं॒ कामं॑ दुहाम्।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥६॥  
+द्यौर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः।  
+सा म॑ आदि॒त्येन॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्यौर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः। सा म॑ आदि॒त्येन॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्। आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+द्यौर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः।  
+सा म॑ आदि॒त्येन॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
@@ -370,7 +391,7 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 </details>
 <details><summary>पदपाठः</summary>
 
-द्यौः। धेनुः। तस्याः। आदित्यः। वत्सः। सा। मे। आदित्येन। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.६।
+द्यौः। धे॒नुः। तस्याः॑। आ॒दि॒त्यः। व॒त्सः। सा। मे॒। आ॒दि॒त्येन॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -402,13 +423,16 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
-यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥७॥  
+यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/07_dixu_chandrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्। यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
+यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/07_dixu_chandrAya.md">
@@ -431,7 +455,7 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 </details>
 <details><summary>पदपाठः</summary>
 
-दिक्षु। चन्द्राय। सम्। अनमन्। सः। आर्ध्नोत्। यथा। दिक्षु। चन्द्राय। सम्ऽअनमन्। एव। मह्यम्। सम्ऽनमः। सम्। नमन्तु। ३९.७।
+दि॒क्षु। च॒न्द्राय॑। सम्। अ॒न॒म॒न्। सः। आ॒र्ध्नो॒त्। यथा॑। दि॒क्षु। च॒न्द्राय॑। स॒म्ऽअन॑मन्। ए॒व। मह्य॑म्। स॒म्ऽनमः॑। सम्। न॒म॒न्तु॒। ३९.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -462,15 +486,19 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः ।  
-ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहाम् ।  
-आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥८॥  
+दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः।  
+ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहा॒म्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः। ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहा॒म्। आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः।  
+ता मे॑ च॒न्द्रेण॑ व॒त्सेनेष॒मूर्जं॒ कामं॑ दुहा॒म्।  
+आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/08_disho_dhenavastAsAm.md">
@@ -492,7 +520,7 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 </details>
 <details><summary>पदपाठः</summary>
 
-दिशः। धेनवः। तासाम्। चन्द्रः। वत्सः। ताः। मे। चन्द्रेण। वत्सेन। इषम्। ऊर्जम्। कामम्। दुहाम्। आयुः। प्रथमम्। प्रऽजाम्। पोषम्। रयिम्। स्वाहा। ३९.८।
+दिशः॑। धे॒नवः॑। तासा॑म्। च॒न्द्रः। व॒त्सः। ताः। मे॒। च॒न्द्रेण॑। व॒त्सेन॑। इष॑म्। ऊर्ज॑म्। काम॑म्। दु॒हा॒म्। आयुः॑। प्र॒थ॒मम्। प्र॒ऽजाम्। पोष॑म्। र॒यिम्। स्वाहा॑। ३९.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -523,14 +551,17 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णां पु॒त्रो अ॑भिशस्ति॒पा उ॑ ।  
-न॒म॒स्का॒रेण॒ नम॑सा ते जुहोमि॒ मा दे॒वानां॑ मिथु॒या क॑र्म भा॒गम्॥९॥  
+अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णां पु॒त्रो अ॑भिशस्ति॒पा उ॑।  
+न॑मस्का॒रेण॒ नम॑सा ते जुहोमि॒ मा दे॒वानां॑ मिथु॒या क॑र्म भा॒गम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णां पु॒त्रो अ॑भिशस्ति॒पा उ॑। न॑मस्का॒रेण॒ नम॑सा ते जुहोमि॒ मा दे॒वानां॑ मिथु॒या क॑र्म भा॒गम् ॥
+अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णां पु॒त्रो अ॑भिशस्ति॒पा उ॑।  
+न॑मस्का॒रेण॒ नम॑सा ते जुहोमि॒ मा दे॒वानां॑ मिथु॒या क॑र्म भा॒गम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
@@ -573,7 +604,7 @@ Agni moves having entered into Agni, the Rishis' son, who guards from imprecatio
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नौ। अग्निः। चरति। प्रऽविष्टः। ऋषीणाम्। पुत्रः। अभिशस्तिऽपाः। ऊं इति। नमःऽकारेण। नमसा। ते। जुहोमि। मा। देवानाम्। मिथुया। कर्म। भागम्। ३९.९।
+अ॒ग्नौ। अ॒ग्निः। च॒र॒ति॒। प्रऽवि॑ष्टः। ऋषी॑णाम्। पु॒त्रः। अ॒भि॒श॒स्ति॒ऽपाः। ऊं॒ इति॑। न॒मः॒ऽका॒रेण॑। नम॑सा। ते॒। जु॒हो॒मि॒। मा। दे॒वाना॑म्। मि॒थु॒या। क॒र्म॒। भा॒गम्। ३९.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -605,13 +636,16 @@ Agni moves having entered into Agni, the Rishis' son, who guards from imprecatio
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हृ॒दा पू॒तं मन॑सा जातवेदो॒ विश्वा॑नि देव व॒युना॑नि वि॒द्वान्।  
-स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम्॥१०॥
+स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/10_hRdA_pUtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हृ॒दा पू॒तं मन॑सा जातवेदो॒ विश्वा॑नि देव व॒युना॑नि वि॒द्वान्। स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम् ॥
+हृ॒दा पू॒तं मन॑सा जातवेदो॒ विश्वा॑नि देव व॒युना॑नि वि॒द्वान्।  
+स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/10_hRdA_pUtam.md">
@@ -640,7 +674,7 @@ Skilled in all ways, O God, O Jatavedas, I offer what is cleansed by heart and s
 </details>
 <details><summary>पदपाठः</summary>
 
-हृदा। पूतम्। मनसा। जातऽवेदः। विश्वानि। देव। वयुनानि। विद्वान्। सप्त। आस्या᳡नि। तव। जातऽवेदः। तेभ्यः। जुहोमि। सः। जुषस्व। हव्यम्। ३९.१०।
+हृ॒दा। पू॒तम्। मन॑सा। जा॒त॒ऽवे॒दः॒। विश्वा॑नि। दे॒व॒। व॒युना॑नि। वि॒द्वान्। स॒प्त। आ॒स्या᳡नि। तव॑। जा॒त॒ऽवे॒दः॒। तेभ्यः॑। जु॒हो॒मि॒। सः। जु॒ष॒स्व॒। ह॒व्यम्। ३९.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

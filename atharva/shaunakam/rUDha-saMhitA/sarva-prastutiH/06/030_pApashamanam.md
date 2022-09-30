@@ -36,14 +36,17 @@ A charm to promote the growth of hair
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/01_devA_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः ।  
-इन्द्र॑ आसी॒त् सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन् म॒रुतः॑ सु॒दान॑वः ॥१॥  
+दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः।  
+इन्द्र॑ आसी॒त्सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन्म॒रुतः॑ सु॒दान॑वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/01_devA_imam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः। इन्द्र॑ आसी॒त्सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन्म॒रुतः॑ सु॒दान॑वः ॥
+दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः।  
+इन्द्र॑ आसी॒त्सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन्म॒रुतः॑ सु॒दान॑वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/01_devA_imam.md">
@@ -74,7 +77,7 @@ Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was 
 </details>
 <details><summary>पदपाठः</summary>
 
-देवाः। इमम्। मधुना। सऽयुतम्। यवम्। सरस्वत्याम्। अधि। मणौ। अचर्कृषुः। इन्द्रः। आसीत्। सीरऽपतिः। शऽक्रतुः। कीनाशाः। आसन्। मरुतः। सुऽदानवः। ३०.१।
+दे॒वाः। इ॒मम्। मधु॑ना। सऽयु॑तम्। यव॑म्। सर॑स्वत्याम्। अधि॑। म॒णौ। अ॒च॒र्कृ॒षुः॒। इन्द्रः॑। आ॒सी॒त्। सीर॑ऽपतिः। श॒ऽक्र॑तुः। की॒नाशाः॑। आ॒स॒न्। म॒रुतः॑। सु॒ऽदान॑वः। ३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑ ।  
-आ॒रात् त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥२॥  
+यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑।  
+आ॒रात्त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑। आ॒रात्त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥
+यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑।  
+आ॒रात्त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
@@ -148,7 +154,7 @@ Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। मदः। अवऽकेशः। विऽकेशः। येन। अभिऽहस्यम्। पुरुषम्। कृणोषि। आरात्। त्वत्। अन्या। वनानि। वृक्षि। त्वम्। शमि। शतऽवल्शा। वि। रोह। ३०.२।
+यः। ते॒। मदः॑। अ॒व॒ऽके॒शः। वि॒ऽके॒शः। येन॑। अ॒भि॒ऽहस्य॑म्। पुरु॑षम्। कृ॒णोषि॑। आ॒रात्। त्वत्। अ॒न्या। वना॑नि। वृ॒क्षि॒। त्वम्। श॒मि॒। श॒तऽव॑ल्शा। वि। रो॒ह॒। ३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,14 +185,17 @@ Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि ।  
-मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥३॥
+बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि।  
+मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि। मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥
+बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि।  
+मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
@@ -211,7 +220,7 @@ Auspicious, bearing mighty leaves, holy one, nurtured by the rain, Even as a mot
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहत्ऽपलाशे। सुऽभगे। वर्षऽवृध्दे। ऋतऽवरि। माताऽइव। पुत्रेभ्यः। मृड। केशेभ्यः। शमि। ३०.३।
+बृह॑त्ऽपलाशे। सुऽभ॑गे। वर्ष॑ऽवृध्दे। ऋत॑ऽवरि। मा॒ताऽइ॑व। पु॒त्रेभ्यः॑। मृ॒ड॒। केशे॑भ्यः। श॒मि॒। ३०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

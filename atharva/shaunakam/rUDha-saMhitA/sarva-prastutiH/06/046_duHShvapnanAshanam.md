@@ -36,14 +36,17 @@ A charm against evil dreams
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/01_yo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भोऽसि स्वप्न ।  
-व॒रु॒णा॒नी ते॑ मा॒ता य॒मः पि॒तार॑रु॒र्नामा॑सि ॥१॥  
+यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भो᳡ऽसि॑ स्वप्न।  
+व॑रुणा॒नी ते॑ मा॒ता य॒मः पि॒ताररु॒र्नामा॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/01_yo_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भोऽसि॑ स्वप्न। व॑रुणा॒नी ते॑ मा॒ता य॒मः पि॒ताररु॒र्नामा॑सि ॥
+यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भो᳡ऽसि॑ स्वप्न।  
+व॑रुणा॒नी ते॑ मा॒ता य॒मः पि॒ताररु॒र्नामा॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/01_yo_na.md">
@@ -72,7 +75,7 @@ Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy n
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। न। जीव ः। असि। न। मृतः। देवानाम्। अमृतऽगर्भः। असि। स्वप्न। वरुणानी। ते। माता। यमः। पिता। अररुः। नाम। असि। ४६.१।
+यः। न। जी॒व ः। असि॑। न। मृ॒तः। दे॒वाना॑म्। अ॒मृ॒त॒ऽग॒र्भः। अ॒सि॒। स्व॒प्न॒। व॒रु॒णा॒नी। ते॒। मा॒ता। य॒मः। पि॒ता। अर॑रुः। नाम॑। अ॒सि॒। ४६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,15 +106,19 @@ Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy n
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रोऽसि य॒मस्य॒ कर॑णः ।  
-अन्त॑कोऽसि मृ॒त्युर॑सि।  
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दु॒ष्वप्न्या॑त् पाहि ॥२॥  
+वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः।  
+अन्त॑कोऽसि मृ॒त्युर॑सि॒।  
+तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दुः॒ष्वप्न्या॑त्पाहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/02_vidma_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रोऽसि॑ य॒मस्य॒ कर॑णः। अन्त॑कोऽसि मृ॒त्युर॑सि॒। तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दुः॒ष्वप्न्या॑त्पाहि ॥
+वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः।  
+अन्त॑कोऽसि मृ॒त्युर॑सि॒।  
+तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दुः॒ष्वप्न्या॑त्पाहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/02_vidma_te.md">
@@ -134,7 +141,7 @@ We know thy birth, O Sleep, thou art son of the sisters of the Gods; the ministe
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। ते। स्वप्न। जनित्रम्। देवऽजामीनाम्। पुत्रः। असि। यमस्य। करणः। अन्तकः। असि। मृत्युः। असि। तम्। त्वा। स्वप्न। तथा। सम्। विद्म। सः। नः। स्वप्न। दुःऽस्वप्न्यात्। पाहि। ४६.२।
+वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। दे॒व॒ऽजा॒मी॒नाम्। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। अन्त॑कः। अ॒सि॒। मृ॒त्युः। अ॒सि॒। तम्। त्वा॒। स्व॒प्न॒। तथा॑। सम्। वि॒द्म॒। सः। नः॒। स्व॒प्न॒। दुः॒ऽस्वप्न्या॑त्। पा॒हि॒। ४६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +172,17 @@ We know thy birth, O Sleep, thou art son of the sisters of the Gods; the ministe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति ।  
-ए॒वा दु॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि ॥३॥
+यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
+ए॒वा दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति। ए॒वा दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि ॥
+यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
+ए॒वा दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
@@ -200,7 +210,7 @@ As men discharge a debt, as they pay up an eighth and half-an- eighth, So the wh
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। कलाम्। यथा। शफम्। यथा। ऋणम्। सम्ऽनयन्ति। एव। दुःऽस्वप्न्यम्। सर्वम्। द्विषते। नयामसि। ४६.३।
+यथा॑। क॒लाम्। यथा॑। श॒फम्। यथा॑। ऋ॒णम्। स॒म्ऽनय॑न्ति। ए॒व। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। द्वि॒ष॒ते। न॒या॒म॒सि॒। ४६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

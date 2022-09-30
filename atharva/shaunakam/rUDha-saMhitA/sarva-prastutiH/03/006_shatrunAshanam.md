@@ -32,14 +32,17 @@ Address to an amulet which is to secure the defeat of the wearer's enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पुमा॑न् पुंसः परि॑जातोऽश्व॒त्थः ख॑दि॒रादधि॑ ।  
-स ह॑न्तु॒ शत्रू॑न् माम॒कान् यान॒हं द्वेष्मि॒ ये च॒ माम्॥१॥  
+पुमा॑न्पुं॒सः परि॑जातोऽश्व॒त्थः ख॑दि॒रादधि॑।  
+स ह॑न्तु॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पुमा॑न्पुं॒सः परि॑जातोऽश्व॒त्थः ख॑दि॒रादधि॑। स ह॑न्तु॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
+पुमा॑न्पुं॒सः परि॑जातोऽश्व॒त्थः ख॑दि॒रादधि॑।  
+स ह॑न्तु॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
@@ -65,7 +68,7 @@ Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy 
 </details>
 <details><summary>पदपाठः</summary>
 
-पुमान्। पुंसः। परिऽजातः। अश्वत्थः। खदिरात्। अधि। सः। हन्तु। शत्रून्। मामकान्। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.१।
+पुमा॑न्। पुं॒सः। परि॑ऽजातः। अ॒श्व॒त्थः। ख॒दि॒रात्। अधि॑। सः। ह॒न्तु॒। शत्रू॑न्। मा॒म॒कान्। यान्। अ॒हम्। द्वेष्मि॑। ये। च॒। माम्। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तान॑श्वत्थ॒ निः शृ॑णीहि॒ शत्रू॑न् वैबाध॒दोध॑तः ।  
-इन्द्रे॑ण वृत्र॒घ्ना मे॒दी मि॒त्रेण॒ वरु॑णेन च ॥२॥  
+तान॑श्वत्थ॒ निः शृ॑णीहि॒ शत्रू॑न्वैबाध॒दोध॑तः।  
+इन्द्रे॑ण वृत्र॒घ्ना मे॒दी मि॒त्रेण॒ वरु॑णेन च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तान॑श्वत्थ॒ निः शृ॑णीहि॒ शत्रू॑न्वैबाध॒दोध॑तः। इन्द्रे॑ण वृत्र॒घ्ना मे॒दी मि॒त्रेण॒ वरु॑णेन च ॥
+तान॑श्वत्थ॒ निः शृ॑णीहि॒ शत्रू॑न्वैबाध॒दोध॑तः।  
+इन्द्रे॑ण वृत्र॒घ्ना मे॒दी मि॒त्रेण॒ वरु॑णेन च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
@@ -132,7 +138,7 @@ Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With In
 </details>
 <details><summary>पदपाठः</summary>
 
-तान्। अश्वत्थः। निः। शृणीहि। शत्रून्। वैबाधऽदोधतः। इन्द्रेण। वृत्रऽघ्ना। मेदी। मित्रेण। वरुणेन। च। ६.२।
+तान्। अ॒श्व॒त्थः॒। निः। शृ॒णी॒हि॒। शत्रू॑न्। वै॒बा॒ध॒ऽदोध॑तः। इन्द्रे॑ण। वृ॒त्र॒ऽघ्ना। मे॒दी। मि॒त्रेण॑। वरु॑णेन। च॒। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With In
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑श्वत्थ नि॒रभ॑नो॒ऽन्तर्म॑ह॒त्यऽर्ण॒वे।  
-ए॒वा तान्त्सर्वा॒न् निर्भ॑ङ्ग्धि॒ यान॒हं द्वेष्मि॒ ये च॒ माम्॥३॥  
+यथा॑श्वत्थ नि॒रभ॑नो॒ऽन्तर्म॑ह॒त्य॑र्ण॒वे।  
+ए॒वा तान्त्सर्वा॒न्निर्भ॑ङ्ग्धि॒ यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑श्वत्थ नि॒रभ॑नो॒ऽन्तर्म॑ह॒त्य॑र्ण॒वे। ए॒वा तान्त्सर्वा॒न्निर्भ॑ङ्ग्धि॒ यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
+यथा॑श्वत्थ नि॒रभ॑नो॒ऽन्तर्म॑ह॒त्य॑र्ण॒वे।  
+ए॒वा तान्त्सर्वा॒न्निर्भ॑ङ्ग्धि॒ यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
@@ -201,7 +210,7 @@ As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar a
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। अश्वत्थ। निःऽअभनः। अन्तः। महति। अर्णवे। एव। तान्। सर्वान्। निः। भङ्ग्धि। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.३।
+यथा॑। अ॒श्व॒त्थ॒। निः॒ऽअभ॑नः। अ॒न्तः। म॒ह॒ति। अ॒र्ण॒वे। ए॒व। तान्। सर्वा॑न्। निः। भ॒ङ्ग्धि॒। यान्। अ॒हम्। द्वेष्मि॑। ये। च॒। माम्। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -232,14 +241,17 @@ As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः सह॑मान॒श्चर॑सि सासहा॒न इव ऋष॒भः ।  
-तेना॑श्वत्थ॒ त्वया॑ व॒यं स॒पत्ना॑न्त्सहिषीमहि ॥४॥  
+यः सह॑मान॒श्चर॑सि सासहा॒न इ॑व ऋष॒भः।  
+तेना॑श्वत्थ॒ त्वया॑ व॒यं स॒पत्ना॑न्त्सहिषीमहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः सह॑मान॒श्चर॑सि सासहा॒न इ॑व ऋष॒भः। तेना॑श्वत्थ॒ त्वया॑ व॒यं स॒पत्ना॑न्त्सहिषीमहि ॥
+यः सह॑मान॒श्चर॑सि सासहा॒न इ॑व ऋष॒भः।  
+तेना॑श्वत्थ॒ त्वया॑ व॒यं स॒पत्ना॑न्त्सहिषीमहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
@@ -262,7 +274,7 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। सहमानः। चरसि। ससहानःऽइव। ऋषभः। तेन। अश्वत्थ। त्वया। वयम्। सऽपत्नान्। सहिषीमहि। ६.४।
+यः। सह॑मानः। चर॑सि। स॒स॒हा॒नःऽइ॑व। ऋ॒ष॒भः। तेन॑। अ॒श्व॒त्थ॒। त्वया॑। व॒यम्। स॒ऽपत्ना॑न्। स॒हि॒षी॒म॒हि॒। ६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -293,14 +305,17 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सि॒नात्वे॑ना॒न् निरृ॑तिर्मृ॒त्योः पाशै॑रमो॒क्यैः ।  
-अश्व॑त्थ॒ शत्रू॑न् माम॒कान् यान॒हं द्वेष्मि॒ ये च॒ माम्॥५॥  
+सि॒नात्वे॑ना॒न्निरृ॑तिर्मृ॒त्योः पाशै॑रमो॒क्यैः।  
+अश्व॑त्थ॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सि॒नात्वे॑ना॒न्निरृ॑तिर्मृ॒त्योः पाशै॑रमो॒क्यैः। अश्व॑त्थ॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
+सि॒नात्वे॑ना॒न्निरृ॑तिर्मृ॒त्योः पाशै॑रमो॒क्यैः।  
+अश्व॑त्थ॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
@@ -322,7 +337,7 @@ Nirriti bind them with the bonds of Death which never may be loosed. Mine enemie
 </details>
 <details><summary>पदपाठः</summary>
 
-सिनातु। एनान्। निःऽऋतिः। मृत्योः। पाशैः। अमोक्यैः। अश्वत्थ। शत्रून्। मामकान्। यान्। अहम्। द्वेष्मि। ये। च। माम्। ६.५।
+सि॒नातु॑। ए॒ना॒न्। निःऽऋ॑तिः। मृ॒त्योः। पाशैः॑। अ॒मो॒क्यैः। अश्व॑त्थ। शत्रू॑न्। मा॒म॒कान्। यान्। अ॒हम्। द्वेष्मि॑। ये। च॒। माम्। ६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -353,14 +368,17 @@ Nirriti bind them with the bonds of Death which never may be loosed. Mine enemie
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑श्वत्थ वानस्प॒त्याना॒रोह॑न् कृणु॒षेऽध॑रान्।  
-ए॒वा मे॒ शत्रो॑र्मू॒र्धानं॒ विष्व॑ग् भिन्द्धि॒ सह॑स्व च ॥६॥  
+यथा॑श्वत्थ वानस्प॒त्याना॒रोह॑न्कृणु॒षेऽध॑रान्।  
+ए॒वा मे॒ शत्रो॑र्मू॒र्धानं॒ विष्व॑ग्भिन्द्धि॒ सह॑स्व च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑श्वत्थ वानस्प॒त्याना॒रोह॑न्कृणु॒षेऽध॑रान्। ए॒वा मे॒ शत्रो॑र्मू॒र्धानं॒ विष्व॑ग्भिन्द्धि॒ सह॑स्व च ॥
+यथा॑श्वत्थ वानस्प॒त्याना॒रोह॑न्कृणु॒षेऽध॑रान्।  
+ए॒वा मे॒ शत्रो॑र्मू॒र्धानं॒ विष्व॑ग्भिन्द्धि॒ सह॑स्व च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
@@ -393,7 +411,7 @@ As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou brea
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। अश्वत्थ। वानस्पत्यान्। आऽरोहन्। कृणुषे। अधरान्। एव। मे। शत्रोः। मूर्धानम्। विष्वक्। भिन्ध्दि। सहस्व। च। ६.६।
+यथा॑। अ॒श्व॒त्थ॒। वा॒न॒स्प॒त्यान्। आ॒ऽरोह॑न्। कृ॒णु॒षे। अध॑रान्। ए॒व। मे॒। शत्रोः॑। मू॒र्धान॑म्। विष्व॑क्। भि॒न्ध्दि॒। सह॑स्व। च॒। ६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -425,13 +443,16 @@ As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou brea
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तेऽध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
-न वै॑बा॒धप्र॑णुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम्॥७॥  
+न वै॑बा॒धप्र॑णुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तेऽध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्। न वै॑बा॒धप्र॑णुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम् ॥
+तेऽध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
+न वै॑बा॒धप्र॑णुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
@@ -456,7 +477,7 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 </details>
 <details><summary>पदपाठः</summary>
 
-ते। अधराञ्चः। प्र। प्लवन्ताम्। छिन्ना। नौःऽइव। बन्धनात्। न। वैबाधऽप्रनुत्तानाम्। पुनः। अस्ति। निऽवर्तनम्। ६.७।
+ते। अ॒ध॒राञ्चः॑। प्र। प्ल॒व॒न्ता॒म्। छि॒न्ना। नौःऽइ॑व। बन्ध॑नात्। न। वै॒बा॒धऽप्र॑नुत्तानाम्। पुनः॑। अ॒स्ति॒। नि॒ऽवर्त॑नम्। ६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -487,14 +508,17 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रैणा॑न् नुदे॒ मन॑सा॒ प्र चि॒त्ते॑नो॒त ब्रह्म॑णा ।  
-प्रैणा॑न् वृ॒क्षस्य॒ शाख॑याश्व॒त्थस्य॑ नुदामहे ॥८॥
+प्रैणा॑न्नुदे॒ मन॑सा॒ प्र चि॒त्तेनो॒त ब्रह्म॑णा।  
+प्रैणा॑न्वृ॒क्षस्य॒ शाख॑याश्व॒त्थस्य॑ नुदामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रैणा॑न्नुदे॒ मन॑सा॒ प्र चि॒त्तेनो॒त ब्रह्म॑णा। प्रैणा॑न्वृ॒क्षस्य॒ शाख॑याश्व॒त्थस्य॑ नुदामहे ॥
+प्रैणा॑न्नुदे॒ मन॑सा॒ प्र चि॒त्तेनो॒त ब्रह्म॑णा।  
+प्रैणा॑न्वृ॒क्षस्य॒ शाख॑याश्व॒त्थस्य॑ नुदामहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
@@ -522,7 +546,7 @@ With mental power I drive them forth, drive them with intellect and charm. We ba
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। एनान्। नुदे। मनसा। प्र। चित्तेन। उत। ब्रह्मणा। प्र। एनान्। वृक्षस्‍य। शाखया। अश्वत्थस्य। नुदामहे। ६.८।
+प्र। ए॒ना॒न्। नु॒दे॒। मन॑सा। प्र। चि॒त्तेन॑। उ॒त। ब्रह्म॑णा। प्र। ए॒ना॒न्। वृ॒क्षस्‍य॑। शाख॑या। अ॒श्व॒त्थस्य॑। नु॒दा॒म॒हे॒। ६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

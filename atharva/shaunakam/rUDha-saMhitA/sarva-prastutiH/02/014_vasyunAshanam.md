@@ -32,14 +32,17 @@ A charm to banish vermin and noxious creatures
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निः॒सालां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्वऽम्।  
-सर्वा॒श्चण्ड॑स्य न॒प्त्योऽ ना॒शया॑मः स॒दान्वाः॑ ॥१॥  
+निः॑सा॒लां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्व॑म्।  
+सर्वा॒श्चण्ड॑स्य न॒प्त्यो॑ ना॒शया॑मः स॒दान्वाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निः॑सा॒लां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्व॑म्। सर्वा॒श्चण्ड॑स्य न॒प्त्यो॑ ना॒शया॑मः स॒दान्वाः॑ ॥
+निः॑सा॒लां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्व॑म्।  
+सर्वा॒श्चण्ड॑स्य न॒प्त्यो॑ ना॒शया॑मः स॒दान्वाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
@@ -73,7 +76,7 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 </details>
 <details><summary>पदपाठः</summary>
 
-निःऽसालाम्। धृष्णुम्। धिषणम्। एकऽवाद्याम्। जिघत्ऽस्व᳡म्। सर्वाः। चण्डस्य। नप्त्यः᳡। नाशयामः। सदान्वाः। १४.१।
+निः॒ऽसा॒लाम्। धृ॒ष्णुम्। धि॒षण॑म्। ए॒क॒ऽवा॒द्याम्। जि॒घ॒त्ऽस्व᳡म्। सर्वाः॑। चण्ड॑स्य। न॒प्त्यः᳡। ना॒शया॑मः। स॒दान्वाः॑। १४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒सात्।  
-निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥२॥  
+निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒शात्।  
+निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒शात्। निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥
+निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒शात्।  
+निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
@@ -139,7 +145,7 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 </details>
 <details><summary>पदपाठः</summary>
 
-नि। वः। गोऽस्थात्। अजामसि। निः। अक्षात्। निः। उपऽआनसात्। निः। वः। मगुन्द्याः। दुहितरः। गृहेभ्यः। चातयामहे। १४.२।
+नि। वः॒। गो॒ऽस्थात्। अ॒जा॒म॒सि॒। निः। अक्षा॑त्। निः। उ॒प॒ऽआ॒न॒सात्। निः। वः॒। म॒गु॒न्द्याः॒। दु॒हि॒त॒रः॒। गृ॒हेभ्यः॑। चा॒त॒या॒म॒हे॒। १४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/03_asau_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒सौ यो अ॑ध॒राद् गृ॒हस्तत्र॑ सन्त्वरा॒य्यः ।  
-तत्र॑ से॒दिर्न्युऽच्यतु॒ सर्वा॑श्च यातुधा॒न्यः ॥३॥  
+अ॒सौ यो अ॑ध॒राद्गृ॒हस्तत्र॑ सन्त्वरा॒य्यः॑।  
+तत्र॒ सेदि॒र्न्यु॑च्यतु॒ सर्वा॑श्च यातुधा॒न्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/03_asau_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒सौ यो अ॑ध॒राद्गृ॒हस्तत्र॑ सन्त्वरा॒य्यः॑। तत्र॒ सेदि॒र्न्यु॑च्यतु॒ सर्वा॑श्च यातुधा॒न्यः॑ ॥
+अ॒सौ यो अ॑ध॒राद्गृ॒हस्तत्र॑ सन्त्वरा॒य्यः॑।  
+तत्र॒ सेदि॒र्न्यु॑च्यतु॒ सर्वा॑श्च यातुधा॒न्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/03_asau_yo.md">
@@ -205,7 +214,7 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 </details>
 <details><summary>पदपाठः</summary>
 
-असौ। यः। अधरात्। गृहः। तत्र। सन्तु। अराय्यः᳡। तत्र। सेदिः। नि। उच्यतु। सर्वाः। च। यातुऽधान्यः᳡। १४.३।
+अ॒सौ। यः। अ॒ध॒रात्। गृ॒हः। तत्र॑। स॒न्तु॒। अ॒रा॒य्यः᳡। तत्र॑। से॒दिः। नि। उ॒च्य॒तु॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। १४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -236,14 +245,17 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भू॒त॒प॒तिर्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑ ।  
-गृ॒हस्य॑ बु॒ध्न आसी॑ना॒स्ता इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥४॥  
+भू॑त॒पति॒र्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑।  
+गृ॒हस्य॑ बु॒ध्न आसी॑नास्ता॒ इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भू॑त॒पति॒र्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑। गृ॒हस्य॑ बु॒ध्न आसी॑नास्ता॒ इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥
+भू॑त॒पति॒र्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑।  
+गृ॒हस्य॑ बु॒ध्न आसी॑नास्ता॒ इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
@@ -276,7 +288,7 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 </details>
 <details><summary>पदपाठः</summary>
 
-भूतऽपतिः। निः। अजतु। इन्द्रः। च। इतः। सदान्वाः। गृहस्य। बुध्ने। आसीनाः। ताः। इन्द्रः। वज्रेण। अधि। तिष्ठतु। १४.४।
+भू॒त॒ऽपतिः॑। निः। अ॒ज॒तु॒। इन्द्रः॑। च॒। इ॒तः। स॒दान्वाः॑। गृ॒हस्य॑। बु॒ध्ने। आसी॑नाः। ताः। इन्द्रः॑। वज्रे॑ण। अधि॑। ति॒ष्ठतु॒। १४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -307,14 +319,17 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/05_yadi_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ स्थ क्षे॑त्रि॒याणां॒ यदि॑ वा॒ पुरु॑षेषिताः ।  
-यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥५॥  
+यदि॒ स्थ क्षे॑त्रि॒याणां॒ यदि॑ वा॒ पुरु॑षेषिताः।  
+यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/05_yadi_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॒ स्थ क्षे॑त्रि॒याणां॒ यदि॑ वा॒ पुरु॑षेषिताः। यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥
+यदि॒ स्थ क्षे॑त्रि॒याणां॒ यदि॑ वा॒ पुरु॑षेषिताः।  
+यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/05_yadi_stha.md">
@@ -339,7 +354,7 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। स्थ। क्षेत्रियाणाम्। यदि। वा। पुरुषऽइषिताः। यदि। स्थ। दस्युऽभ्यः। जाताः। नश्यत। इतः। सदान्वाः। १४.५।
+यदि॑। स्थ। क्षे॒त्रि॒याणा॑म्। यदि॑। वा॒। पुरु॑षऽइषिताः। यदि॑। स्थ। दस्यु॑ऽभ्यः। जा॒ताः। नश्य॑त। इ॒तः। स॒दान्वाः॑। १४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -371,13 +386,16 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ धामा॑न्यासामा॒शुर्गाष्ठा॑मिवासरन्।  
-अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥६॥
+अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॒ धामा॑न्यासामा॒शुर्गाष्ठा॑मिवासरन्। अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥
+परि॒ धामा॑न्यासामा॒शुर्गाष्ठा॑मिवासरन्।  
+अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
@@ -404,7 +422,7 @@ I have gone round their homes as runs a fleet-foot racer round the post, And in 
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। धामानि। आसाम्। आशुः। गाष्ठाम्ऽइव। असरन्। अजैषम्। सर्वान्। आजीन्। वः। नश्यत। इतः। सदान्वाः। १४.६।
+परि॑। धामा॑नि। आ॒सा॒म्। आ॒शुः। गाष्ठा॑म्ऽइव। अ॒स॒र॒न्। अजै॑षम्। सर्वा॑न्। आ॒जीन्। वः॒। नश्य॑त। इ॒तः। स॒दान्वाः॑। १४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

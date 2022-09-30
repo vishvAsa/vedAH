@@ -36,14 +36,17 @@ A nuptial charm to be spoken by the bride
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/037_vAsaH/01_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा ।  
-यथासो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न॥१॥
+अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा।  
+यथाऽसो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/037_vAsaH/01_abhi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा। यथाऽसो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा।  
+यथाऽसो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/037_vAsaH/01_abhi_tvA.md">
@@ -68,7 +71,7 @@ With this my robe, inherited from Manu, I envelop thee, So that thou mayst be al
 </details>
 <details><summary>पदपाठः</summary>
 
-अभ‍ि। त्वा। मनुऽजातेन। दधामि। मम। वाससा। यथा। असः। मम। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३८.१।
+अ॒भ‍ि। त्वा॒। मनु॑ऽजातेन। दधा॑मि। मम॑। वास॑सा। यथा॑। असः॑। मम॑। केव॑लः। न। अ॒न्यासा॑म्। की॒र्तयाः॑। च॒न। ३८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ On the means to obtain immunity from taxation in the next world
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑ ।  
-अवि॒स्तस्मा॒त् प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात् स्व॒धा॥१॥  
+यद्राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑।  
+अवि॒स्तस्मा॒त्प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात्स्व॒धा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑। अवि॒स्तस्मा॒त्प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात्स्व॒धा ॥
+यद्राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑।  
+अवि॒स्तस्मा॒त्प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात्स्व॒धा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
@@ -71,7 +74,7 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। राजानः। विऽभजन्ते। इष्टापूर्तस्य। षोडशम्। यमस्य। अमी इति। सभाऽसदः। अविः। तस्मात्। प्र। मुञ्चति। दत्तः। शितिऽपात्। स्वधा। २९.१।
+यत्। राजा॑नः। वि॒ऽभज॑न्ते। इ॒ष्टा॒पू॒र्तस्य॑। षो॒ड॒शम्। य॒मस्य॑। अ॒मी इति॑। स॒भा॒ऽसदः॑। अविः॑। तस्मा॑त्। प्र। मु॒ञ्च॒ति॒। द॒त्तः। शि॒ति॒ऽपात्। स्व॒धा। २९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सर्वा॒न् कामा॑न् पूरयत्या॒भव॑न् प्र॒भव॒न् भव॑न्।  
-आ॒कू॒ति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥२॥  
+सर्वा॒न्कामा॑न्पूरयत्या॒भव॑न्प्र॒भव॒न्भव॑न्।  
+आ॑कूति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सर्वा॒न्कामा॑न्पूरयत्या॒भव॑न्प्र॒भव॒न्भव॑न्। आ॑कूति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥
+सर्वा॒न्कामा॑न्पूरयत्या॒भव॑न्प्र॒भव॒न्भव॑न्।  
+आ॑कूति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
@@ -133,7 +139,7 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 </details>
 <details><summary>पदपाठः</summary>
 
-सर्वान्। कामान्। पूरयति। आऽभवन्। प्रऽभवन्। भवन्। आकूतिऽप्रः। अविः। दत्तः। शितिऽपात्। न। उप। दस्यति। २९.२।
+सर्वा॑न्। कामा॑न्। पू॒र॒य॒ति॒। आ॒ऽभव॑न्। प्र॒ऽभव॑न्। भव॑न्। आ॒कू॒ति॒ऽप्रः। अविः॑। द॒त्तः। शि॒ति॒ऽपात्। न। उप॑। द॒स्य॒ति॒। २९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +171,16 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो ददा॑ति शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥३॥  
+स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/03_yo_dadAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो ददा॑ति शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्। स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥
+यो ददा॑ति शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
+स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/03_yo_dadAti.md">
@@ -193,7 +202,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ददाति। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। सः। नाकम्। अभिऽआरोहति। यत्र। शुल्कः। न। क्रियते। अबलेन। बलीयसे। २९.३।
+यः। ददा॑ति। शि॒ति॒ऽपाद॑म्। अवि॑म्। लो॒केन॑। सम्ऽमि॑तम्। सः। नाक॑म्। अ॒भि॒ऽआरो॑हति। यत्र॑। शु॒ल्कः। न। क्रि॒यते॑। अ॒ब॒लेन॑। बली॑यसे। २९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -225,13 +234,16 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-प्र॒दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम्॥४॥  
+प्र॑दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्। प्र॑दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम् ॥
+पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
+प्र॑दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
@@ -254,7 +266,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 </details>
 <details><summary>पदपाठः</summary>
 
-पञ्चऽअपूपम्। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। प्रऽदाता। उप। जीवति। पितृणाम्। लोके। अक्षितम्। २९.४।
+पञ्च॑ऽअपूपम्। शि॒ति॒ऽपाद॑म्। अवि॑म्। लो॒केन॑। सम्ऽमि॑तम्। प्र॒ऽदा॒ता। उप॑। जी॒व॒ति॒। पि॒तृ॒णाम्। लो॒के। अक्षि॑तम्। २९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -286,13 +298,16 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
-प्र॒दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम्॥५॥  
+प्र॑दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्। प्र॑दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम् ॥
+पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
+प्र॑दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
@@ -314,7 +329,7 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 </details>
 <details><summary>पदपाठः</summary>
 
-पञ्चऽअपूपम्। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। प्रऽदाता। उप। जीवति। सूर्यामासयोः। अक्षितम्। २९.५।
+पञ्च॑ऽअपूपम्। शि॒ति॒ऽपाद॑म्। अवि॑म्। लो॒केन॑। सम्ऽमि॑तम्। प्र॒ऽदा॒ता। उप॑। जी॒व॒ति॒। सू॒र्या॒मा॒सयोः॑। अक्षि॑तम्। २९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -345,14 +360,17 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/06_ireva_nopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॑रेव नो॑प दस्यति समुद्र॑इव प॑यो मह॑त्।  
-देवउ॑सवासि॑नाविव शितिपा॑न्नो॑प दस्यति ॥६॥  
+इरे॑व॒ नोप॑ दस्यति समु॒द्र इ॑व॒ पयो॑ म॒हत्।  
+दे॒वौ स॑वा॒सिना॑विव शिति॒पान्नोप॑ दस्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/06_ireva_nopa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इरे॑व॒ नोप॑ दस्यति समु॒द्र इ॑व॒ पयो॑ म॒हत्। दे॒वौ स॑वा॒सिना॑विव शिति॒पान्नोप॑ दस्यति ॥
+इरे॑व॒ नोप॑ दस्यति समु॒द्र इ॑व॒ पयो॑ म॒हत्।  
+दे॒वौ स॑वा॒सिना॑विव शिति॒पान्नोप॑ दस्यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/06_ireva_nopa.md">
@@ -379,7 +397,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 </details>
 <details><summary>पदपाठः</summary>
 
-इराऽइव। न। उप। दस्यति। समुद्रःऽइव। पयः। महत्। देवौ। सवासिनौऽइव। शितिऽपात्। न। उप। दस्यति। २९.६।
+इरा॑ऽइव। न। उप॑। द॒स्य॒ति॒। स॒मु॒द्रःऽइ॑व। पयः॑। म॒हत्। दे॒वौ। स॒वा॒सिनौ॑ऽइव। शि॒ति॒ऽपात्। न। उप॑। द॒स्य॒ति॒। २९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -410,15 +428,19 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/07_ka_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क इ॒दं कस्मा॑ अदा॒त् कामः॒ कामा॑यादात्।  
-कामो॑ दा॒ता कामः॑ प्रतिग्रही॒ता कामः॑ समु॒द्रमा वि॑वेश ।  
-कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत् ते॑ ॥७॥  
+क इ॒दं कस्मा॑ अदा॒त्कामः॒ कामा॑यादात्।  
+कामो॑ दा॒ता कामः॑ प्रतिग्रही॒ता कामः॑ समु॒द्रमा वि॑वेश।  
+कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत्ते॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/07_ka_idam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क इ॒दं कस्मा॑ अदा॒त्कामः॒ कामा॑यादात्। कामो॑ दा॒ता कामः॑ प्रतिग्रही॒ता कामः॑ समु॒द्रमा वि॑वेश। कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत्ते॑ ॥
+क इ॒दं कस्मा॑ अदा॒त्कामः॒ कामा॑यादात्।  
+कामो॑ दा॒ता कामः॑ प्रतिग्रही॒ता कामः॑ समु॒द्रमा वि॑वेश।  
+कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत्ते॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/07_ka_idam.md">
@@ -460,7 +482,7 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 </details>
 <details><summary>पदपाठः</summary>
 
-कः। इदम्। कस्मै। अदात्। कामः। कामाय। अदात्। कामः। दाता। कामः। प्रतिऽग्रहीता। कामः। समुद्रम्। आ। विवेश। कामेन। त्वा। प्रति। गृह्णामि। काम। एतत्। ते। २९.७।
+कः। इ॒दम्। कस्मै॑। अ॒दा॒त्। कामः॑। कामा॑य। अ॒दा॒त्। कामः॑। दा॒ता। कामः॑। प्र॒ति॒ऽग्र॒ही॒ता। कामः॑। स॒मु॒द्रम्। आ। वि॒वे॒श॒। कामे॑न। त्वा॒। प्रति॑। गृ॒ह्णा॒मि॒। काम॑। ए॒तत्। ते॒। २९.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -492,13 +514,16 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भूमि॑ष्ट्वा॒ प्रति॑ गृह्णात्व॒न्तरि॑क्षमि॒दं म॒हत्।  
-माहं प्रा॒णेन॒ मात्मना॒ मा प्र॒जया॑ प्रति॒गृह्य॒ वि रा॑धिषि ॥८॥
+माहं प्रा॒णेन॒ मात्मना॒ मा प्र॒जया॑ प्रति॒गृह्य॒ वि रा॑धिषि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/08_bhUmiShTvA_prati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भूमि॑ष्ट्वा॒ प्रति॑ गृह्णात्व॒न्तरि॑क्षमि॒दं म॒हत्। माहं प्रा॒णेन॒ मात्मना॒ मा प्र॒जया॑ प्रति॒गृह्य॒ वि रा॑धिषि ॥
+भूमि॑ष्ट्वा॒ प्रति॑ गृह्णात्व॒न्तरि॑क्षमि॒दं म॒हत्।  
+माहं प्रा॒णेन॒ मात्मना॒ मा प्र॒जया॑ प्रति॒गृह्य॒ वि रा॑धिषि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/08_bhUmiShTvA_prati.md">
@@ -515,7 +540,7 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 </details>
 <details><summary>पदपाठः</summary>
 
-भूमिः। त्वा। प्रति। गृह्णातु। अन्तरिक्षम्। इदम्। महत्। मा। अहम्। प्राणेन। मा। आत्मना। मा। प्रऽजया। प्रतिऽगृह्य। वि। राधिषि। २९.८।
+भूमिः॑। त्वा॒। प्रति॑। गृ॒ह्णा॒तु॒। अ॒न्तरि॑क्षम्। इ॒दम्। म॒हत्। मा। अ॒हम्। प्रा॒णेन॑। मा। आ॒त्मना॑। मा। प्र॒ऽजया॑। प्र॒ति॒ऽगृह्य॑। वि। रा॒धि॒षि॒। २९.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

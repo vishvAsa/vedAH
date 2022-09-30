@@ -37,13 +37,16 @@ A benediction addressed to a newly elected King
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वं विश्व॑मि॒दं जग॑त्।  
-ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम्॥१॥  
+ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वं विश्व॑मि॒दं जग॑त्। ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम् ॥
+ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वं विश्व॑मि॒दं जग॑त्।  
+ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
@@ -66,7 +69,7 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 </details>
 <details><summary>पदपाठः</summary>
 
-ध्रुवा। द्यौः। ध्रुवा। पृथिवी। ध्रुवम्। विश्वम्। इदम्। जगत्। ध्रुवासः। पर्वताः। इमे। ध्रुवः। राजा। विशाम्। अयम्। ८८.१।
+ध्रु॒वा। द्यौः। ध्रु॒वा। पृ॒थि॒वी। ध्रु॒वम्। विश्व॑म्। इ॒दम्। जग॑त्। ध्रु॒वासः॒। पर्व॑ताः। इ॒मे। ध्रु॒वः। राजा॑। वि॒शाम्। अ॒यम्। ८८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वं दे॒वो बृह॒स्पतिः॑ ।  
-ध्रु॒वं त॒ इन्द्र॑श्चा॒ग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम्॥२॥  
+ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वम्दे॒वो बृह॒स्पतिः॑।  
+ध्रु॒वं त॒ इन्द्र॒श्चाग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वम्दे॒वो बृह॒स्पतिः॑। ध्रु॒वं त॒ इन्द्र॒श्चाग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम् ॥
+ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वम्दे॒वो बृह॒स्पतिः॑।  
+ध्रु॒वं त॒ इन्द्र॒श्चाग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
@@ -124,7 +130,7 @@ Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra st
 </details>
 <details><summary>पदपाठः</summary>
 
-ध्रुवम्। ते। राजा। वरुणः। ध्रुवम्। देवः। बृहस्पतिः। ध्रुवम्। ते। इन्द्रः। च। अग्निः। च। राष्ट्रम्। धारयताम्। ध्रुवम्। ८८.२।
+ध्रु॒वम्। ते॒। राजा॑। वरु॑णः। ध्रु॒वम्। दे॒वः। बृह॒स्पतिः॑। ध्रु॒वम्। ते॒। इन्द्रः॑। च॒। अ॒ग्निः। च॒। रा॒ष्ट्रम्। धा॒र॒य॒ता॒म्। ध्रु॒वम्। ८८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -155,14 +161,17 @@ Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra st
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान् पादयस्व ।  
-सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह॥३॥
+ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान्पादयस्व।  
+सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान्पादयस्व। सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह ॥
+ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान्पादयस्व।  
+सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
@@ -186,7 +195,7 @@ Firm, never to be shaken, crush thy foemen, under thy feet lay those who strive 
 </details>
 <details><summary>पदपाठः</summary>
 
-ध्रुवः। अच्युतः। प्र। मृणीहि। शत्रून्। शत्रुऽयतः। अधरान्। पादयस्व। सर्वाः। दिशः। सम्ऽमनसः। सध्रीचीः। ध्रुवाय। ते। सम्ऽइतिः ः। कल्पताम्। इह। ८८.३।
+ध्रु॒वः। अच्यु॑तः। प्र। मृ॒णी॒हि॒। शत्रू॑न्। श॒त्रु॒ऽय॒तः। अध॑रान्। पा॒द॒य॒स्व॒। सर्वाः॑। दिशः॑। सम्ऽम॑नसः। स॒ध्रीचीः॑। ध्रु॒वाय॑। ते॒। सम्ऽइ॑तिः ः। क॒ल्प॒ता॒म्। इ॒ह। ८८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

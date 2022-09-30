@@ -36,14 +36,17 @@ A charm to avert an evil omen
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं यत् कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्।  
-आपो॑ मा॒ तस्मा॒त् सर्व॑स्माद् दुरि॒तात् पा॒न्त्वंह॑सः ॥१॥  
+इ॒दं यत्कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्।  
+आपो॑ मा॒ तस्मा॒त्सर्व॑स्माद्दुरि॒तात्पा॒न्त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं यत्कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्। आपो॑ मा॒ तस्मा॒त्सर्व॑स्माद्दुरि॒तात्पा॒न्त्वंह॑सः ॥
+इ॒दं यत्कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्।  
+आपो॑ मा॒ तस्मा॒त्सर्व॑स्माद्दुरि॒तात्पा॒न्त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
@@ -70,7 +73,7 @@ From all that woe and trouble may the Waters save and rescue me, Whate'er the Ra
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। यत्। कृष्णः। शकुनि। अभिऽनिष्पतन्। अपीपतत्। आपः। मा। तस्मात्। सर्वस्मात्। दुःऽइतात्। पान्तु। अंहसः। ६६.१।
+इ॒दम्। यत्। कृ॒ष्णः। श॒कुनि॑। अ॒भि॒ऽनि॒ष्पत॑न्। अपी॑पतत्। आपः॑। मा॒। तस्मा॑त्। सर्व॑स्मात्। दुः॒ऽइ॒तात्। पा॒न्तु॒। अंह॑सः। ६६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ From all that woe and trouble may the Waters save and rescue me, Whate'er the Ra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं यत् कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न ।  
-अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥२॥
+इ॒दं यत्कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न।  
+अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं यत्कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न। अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥
+इ॒दं यत्कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न।  
+अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
@@ -136,7 +142,7 @@ May Agni Garhapatya save and set me free from all this guilt. Which the black Ra
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। यत्। कृष्णः। शकुनिः। अवऽअमृक्षत्। निःऽऋते। ते। मुखेन। अग्निः। मा। तस्मात्। एनसः। गार्हऽपत्यः। प्र। मुञ्चतु। ६६.२।
+इ॒दम्। यत्। कृ॒ष्णः। श॒कुनिः॑। अ॒व॒ऽअमृ॑क्षत्। निः॒ऽऋ॒ते॒। ते॒। मुखे॑न। अ॒ग्निः। मा॒। तस्मा॑त्। एन॑सः। गार्ह॑ऽपत्यः। प्र। मु॒ञ्च॒तु॒। ६६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -37,14 +37,17 @@ A prayer for protection from arrows and for the punishment of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मा नो॑ विदन् विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्।  
-आ॒राच्छ॑र॒व्या ऽ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥१॥  
+मा नो॑ विदन्विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्।  
+आ॒राच्छ॑र॒व्या॑ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/01_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मा नो॑ विदन्विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्। आ॒राच्छ॑र॒व्या॑ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥
+मा नो॑ विदन्विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्।  
+आ॒राच्छ॑र॒व्या॑ अ॒स्मद्विषू॑चीरिन्द्र पातय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/01_mA_no.md">
@@ -65,7 +68,7 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 </details>
 <details><summary>पदपाठः</summary>
 
-मा। नः। विदन्। विऽव्याधिनः। मो इति। अभिऽव्याधिनः। विदन्। आरात्। शरव्याः। अस्मत्। विषूचीः। इन्द्र। पातय।
+मा। नः॒। वि॒द॒न्। वि॒ऽव्या॒धिनः॑। मो इति॑। अ॒भि॒ऽव्या॒धिनः॑। वि॒द॒न्। आ॒रात्। श॒र॒व्याः। अ॒स्मत्। विषू॑चीः। इ॒न्द्र॒। पा॒त॒य॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः ।  
-दैवी॑र्मनुष्येषवो॒ ममा॒मित्रान् वि वि॑ध्यत ॥२॥  
+विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः॑।  
+दै॑वीर्मनुष्येसषवो॒ ममा॑मित्रा॒न्वि वि॑ध्यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः॑। दै॑वीर्मनुष्येसषवो॒ ममा॑मित्रा॒न्वि वि॑ध्यत ॥
+विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः॑।  
+दै॑वीर्मनुष्येसषवो॒ ममा॑मित्रा॒न्वि वि॑ध्यत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/02_viShvancho_asmachCharavaH.md">
@@ -126,7 +132,7 @@ Turned from us let the arrows fall, those shot and those that will be shot. Shaf
 </details>
 <details><summary>पदपाठः</summary>
 
-विष्वञ्चः। अस्मत्। शरवः। पतन्तु। ये। अस्ताः। ये। च। आस्याः। दैवीः। मनुष्यऽइषवः। मम। अमित्रान्। वि। विध्यत।
+विष्व॑ञ्चः। अ॒स्मत्। शर॑वः। प॒त॒न्तु॒। ये। अ॒स्ताः। ये। च॒। आ॒स्याः। दैवीः॑। म॒नु॒ष्य॒ऽइ॒ष॒वः॒। मम॑। अ॒मित्रा॑न्। वि। वि॒ध्य॒त॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Turned from us let the arrows fall, those shot and those that will be shot. Shaf
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ।  
-रु॒द्रः श॑रव्य ऽ यै॒तान् ममा॒मित्रा॒न् वि वि॑ध्यतु ॥३॥  
+यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
+रु॒द्रः श॑र॒व्य॑यै॒तान्ममा॒मित्रा॒न्वि वि॑ध्यतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/03_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति। रु॒द्रः श॑र॒व्य॑यै॒तान्ममा॒मित्रा॒न्वि वि॑ध्यतु ॥
+यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
+रु॒द्रः श॑र॒व्य॑यै॒तान्ममा॒मित्रा॒न्वि वि॑ध्यतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/03_yo_naH.md">
@@ -193,7 +202,7 @@ Whoever treateth us as foes, be he our own or strange to us, a kinsman or a fore
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। न ः। स्वः। यः। अरणः। सऽजातः। उत ‍। निष्ट्यः। यः। अस्मान्। अभिऽदासति। रुद्रः। शरव्यया। एतान्। मम। अमित्रान्। वि। विध्यतु।
+यः। न॒ ः। स्वः। यः। अर॑णः। स॒ऽजा॒तः। उ॒त ‍। निष्ट्यः॑। यः। अ॒स्मान्। अभिऽदास॑ति। रु॒द्रः। श॒र॒व्यया। ए॒तान्। मम॑। अ॒मित्रा॑न्। वि। वि॒ध्य॒तु॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,14 +233,17 @@ Whoever treateth us as foes, be he our own or strange to us, a kinsman or a fore
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/019_shatrunivAraNam/04_yaH_sapatno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः स॒पत्नो॒ योऽस॑पत्नो॒ यश्च॑ द्वि॒षन् छपा॑ति नः ।  
-दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम्॥४॥
+यः स॒पत्नो॒ यो ऽस॑पत्नो॒ यश्च॑ द्वि॒षन्छपा॑ति नः।  
+दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/019_shatrunivAraNam/04_yaH_sapatno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः स॒पत्नो॒ यो ऽस॑पत्नो॒ यश्च॑ द्वि॒षन्छपा॑ति नः। दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम् ॥
+यः स॒पत्नो॒ यो ऽस॑पत्नो॒ यश्च॑ द्वि॒षन्छपा॑ति नः।  
+दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/019_shatrunivAraNam/04_yaH_sapatno.md">
@@ -258,7 +270,7 @@ The rival and non-rival, he who in his hatred curses us May all the deities inju
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। सऽपत्नः। यः। असपत्नः। यः। च। द्विषन्। शपाति। नः। देवाः। तम्। सर्वे। धूर्वन्तु। ब्रह्म। वर्म। मम। अन्तरम्।
+यः। स॒ऽपत्नः॑। यः। अस॑पत्नः। यः। च॒। द्वि॒षन्। शपा॑ति। नः॒। दे॒वाः। तम्। सर्वे॑। धू॒र्व॒न्तु॒। ब्रह्म॑। वर्म॑। मम॑। अन्त॑रम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

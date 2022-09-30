@@ -36,14 +36,17 @@ In praise of Indra and Vishnu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैन॑योः ।  
-इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम्॥१॥
+उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैन॑योः।  
+इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैन॑योः। इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम् ॥
+उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैन॑योः।  
+इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
@@ -76,7 +79,7 @@ Ye twain have conquered, and have not been vanquished: not either of the pair ha
 </details>
 <details><summary>पदपाठः</summary>
 
-उभा। जिग्यथुः। न। परा। जयेथे इति। न। परा। जिग्ये। कतरः। चन। एनयोः। इन्द्रः। च। विष्णो इति। यत्। अपस्पृधेथाम्। त्रेधा। सहस्रम्। वि। तत्। ऐरयेथाम्। ४५.१।
+उ॒भा। जि॒ग्य॒थुः॒। न। परा॑। ज॒ये॒थे॒ इति॑। न। परा॑। जि॒ग्ये॒। क॒त॒रः। च॒न। ए॒न॒योः॒। इन्द्रः॑। च॒। वि॒ष्णो॒ इति॑। यत्। अप॑स्पृधेथाम्। त्रे॒धा। स॒हस्र॑म्। वि। तत्। ऐ॒र॒ये॒था॒म्। ४५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

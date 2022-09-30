@@ -32,14 +32,17 @@ Translated: Griffith, i. 317.—The association of this hymn with 139 seems to i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/01_bhagena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑ ।  
-कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः ॥१॥  
+भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑।  
+कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/129_bhagaprAptiH/01_bhagena_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑। कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः ॥
+भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑।  
+कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/129_bhagaprAptiH/01_bhagena_mA.md">
@@ -67,7 +70,7 @@ With fortune of the Sisu tree--with Indra as my friend to aid I give myself a ha
 </details>
 <details><summary>पदपाठः</summary>
 
-भगेन। मा। शांशपेन। साकम्। इन्द्रेण। मेदिना। कृणोमि। भगिनम्। मा। अप। द्रान्तु। अरातयः। १२९.१।
+भगे॑न। मा॒। शां॒श॒पेन॑। सा॒कम्। इन्द्रे॑ण। मे॒दिना॑। कृ॒णोमि॑। भ॒गिन॑म्। मा॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,13 +102,16 @@ With fortune of the Sisu tree--with Indra as my friend to aid I give myself a ha
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ वृ॒क्षाँ अ॒भ्यभ॑वो॒ भगे॑न॒ वर्च॑सा स॒ह।  
-तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥२॥  
+तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/129_bhagaprAptiH/02_yena_vRxA.N.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ वृ॒क्षाँ अ॒भ्यभ॑वो॒ भगे॑न॒ वर्च॑सा स॒ह। तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
+येन॑ वृ॒क्षाँ अ॒भ्यभ॑वो॒ भगे॑न॒ वर्च॑सा स॒ह।  
+तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/129_bhagaprAptiH/02_yena_vRxA.N.md">
@@ -126,7 +132,7 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। वृक्षान्। अभिऽअभवः। भगेन। वर्चसा। सह। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.२।
+येन॑। वृ॒क्षान्। अ॒भि॒ऽअभ॑वः। भगे॑न। वर्च॑सा। स॒ह। तेन॑। मा॒। भ॒गिन॑म्। कृ॒णु॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/129_bhagaprAptiH/03_yo_andho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः ।  
-तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥३॥
+यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः।  
+तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/129_bhagaprAptiH/03_yo_andho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः। तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
+यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः।  
+तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/129_bhagaprAptiH/03_yo_andho.md">
@@ -192,7 +201,7 @@ Blind fortune, with reverted leaves that is deposited in trees-- Give me therewi
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अन्धः। यः। पुनःऽसरः। भगः। वृक्षेषु। आऽहितः। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.३।
+यः। अ॒न्धः। यः। पु॒नः॒ऽस॒रः। भगः॑। वृ॒क्षेषु॑। आऽहि॑तः। तेन॑। मा॒। भ॒गिन॑म्। कृ॒णु॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

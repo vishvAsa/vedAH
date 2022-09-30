@@ -36,13 +36,17 @@ A prayer for security and peace on all sides
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/01_agniM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निं ते वसु॑वन्तमृच्छन्तु ।ये मा॑घा॒यवः॒ प्राच्या॑ दि॒शोऽभि॒दासा॑त्॥१॥  
+अ॒ग्निं ते वसु॑वन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवः॒ प्राच्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/01_agniM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निं ते वसु॑वन्तमृच्छन्तु। ये मा॑ऽघा॒यवः॒ प्राच्या॑ दि॒शोऽभि॒दासा॑त् ॥
+अ॒ग्निं ते वसु॑वन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवः॒ प्राच्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/01_agniM_te.md">
@@ -70,7 +74,7 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निम्। ते। वसुऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। प्राच्याः। दिशः। अभिऽदासात्। १८.१।
+अ॒ग्निम्। ते। वसु॑ऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। प्राच्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,21 +101,25 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 </details>
 </details>
 </div>
-## ०२ वायुं ते३न्तरिक्षवन्तमृच्छन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_te3ntarixavantamRchChantu.md">
+## ०२ वायुं तेन्तरिक्षवन्तमृच्छन्तु
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युं ते॒३ऽन्तरि॑क्षवन्तमृछन्तु । ये मा॑घा॒यवः॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥२॥  
+वा॒युं ते॒३॒॑न्तरि॑क्षवन्तमृच्छन्तु।  
+ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/02_vAyuM_te3ntarixavantamRchChantu.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वा॒युं ते॒३॒॑न्तरि॑क्षवन्तमृच्छन्तु। ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त् ॥
+वा॒युं ते॒३॒॑न्तरि॑क्षवन्तमृच्छन्तु।  
+ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/02_vAyuM_te3ntarixavantamRchChantu.md">
-<details open><summary><h3>०२ वायुं ते३न्तरिक्षवन्तमृच्छन्तु ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
+<details open><summary><h3>०२ वायुं तेन्तरिक्षवन्तमृच्छन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -126,7 +134,7 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 </details>
 <details><summary>पदपाठः</summary>
 
-वायुम्। ते। अन्तरिक्षऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.२।
+वा॒युम्। ते। अ॒न्तरि॑क्षऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,13 +165,17 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/03_somaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमं॒ ते रु॒द्रव॑न्तमृछन्तु । ये मा॑घा॒यवो॒ दक्षि॑णाया दि॒शोऽभि॒दासा॑त्॥३॥  
+सोमं॒ ते रु॒द्रव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवो॒ दक्षि॑णाया दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/03_somaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोमं॒ ते रु॒द्रव॑न्तमृच्छन्तु। ये मा॑ऽघा॒यवो॒ दक्षि॑णाया दि॒शोऽभि॒दासा॑त् ॥
+सोमं॒ ते रु॒द्रव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवो॒ दक्षि॑णाया दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/03_somaM_te.md">
@@ -182,7 +194,7 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमम्। ते। रुद्रऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। दक्षिणायाः। दिशः। अभिऽदासात्। १८.३।
+सोम॑म्। ते। रु॒द्रऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। दक्षि॑णायाः। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -213,13 +225,17 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/04_varuNaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु ।ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥४॥  
+वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/04_varuNaM_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु। ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त् ॥
+वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/04_varuNaM_ta.md">
@@ -239,7 +255,7 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 </details>
 <details><summary>पदपाठः</summary>
 
-वरुणम्। ते। आदित्यऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.४।
+वरु॑णम्। ते। आ॒दि॒त्यऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -270,13 +286,17 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/05_sUryaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु । ये मा॑घा॒यव॑ प्र॒तीच्याः॑ दि॒शोऽभि॒दासा॑त्॥५॥  
+सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ प्र॒तीच्याः॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/05_sUryaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु। ये मा॑ऽघा॒यव॑ प्र॒तीच्याः॑ दि॒शोऽभि॒दासा॑त् ॥
+सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ प्र॒तीच्याः॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/05_sUryaM_te.md">
@@ -296,7 +316,7 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 </details>
 <details><summary>पदपाठः</summary>
 
-सूर्यम्। ते। द्यावापृथिवीऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। प्रतीच्याः। दिशः। अभिऽदासात्। १८.५।
+सूर्य॑म्। ते। द्यावा॑पृथि॒वीऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। प्र॒तीच्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -327,13 +347,17 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पस्त ओष॑धीमतीरृछन्तु । ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥६॥  
+अ॒पस्त ओष॑धीमतीरृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒पस्त ओष॑धीमतीरृच्छन्तु। ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त् ॥
+अ॒पस्त ओष॑धीमतीरृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
@@ -352,7 +376,7 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 </details>
 <details><summary>पदपाठः</summary>
 
-अपः। ते। ओषधीऽमतीः। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.६।
+अ॒पः। ते। ओष॑धीऽमतीः। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -383,13 +407,17 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु । ये मा॑घा॒यव॒ उदी॑च्या दि॒शोऽभि॒दासा॑त्॥७॥  
+वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॒ उदी॑च्या दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु। ये मा॑ऽघा॒यव॒ उदी॑च्या दि॒शोऽभि॒दासा॑त् ॥
+वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॒ उदी॑च्या दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/07_vishvakarmANaM_te.md">
@@ -410,7 +438,7 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वऽकर्माणम्। ते। सप्तऋषिऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। उदीच्याः। दिशः। अभिऽदासात्। १८.७।
+वि॒श्वऽक॑र्माणम्। ते। स॒प्त॒ऋ॒षिऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। उदी॑च्याः। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -441,13 +469,17 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/08_indraM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु । ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त्॥८॥  
+इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/08_indraM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु। ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शोऽभि॒दासा॑त् ॥
+इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/08_indraM_te.md">
@@ -466,7 +498,7 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रम्। ते। मरुत्ऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.८।
+इन्द्र॑म्। ते। म॒रुत्ऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -497,13 +529,17 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/09_prajApatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु । ये मा॑घा॒यवो॑ ध्रु॒वाया॑ दि॒शोऽभि॒दासा॑त्॥९॥  
+प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवो॑ ध्रु॒वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/09_prajApatiM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु। ये मा॑ऽघा॒यवो॑ ध्रु॒वाया॑ दि॒शोऽभि॒दासा॑त् ॥
+प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यवो॑ ध्रु॒वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/09_prajApatiM_te.md">
@@ -522,7 +558,7 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिम्। ते। प्रजननऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। ध्रुवायाः। दिशः। अभिऽदासात्। १८.९।
+प्र॒जाऽप॑तिम्। ते। प्र॒जन॑नऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ध्रु॒वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -553,13 +589,17 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/10_bRhaspatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु । ये मा॑घा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दासा॑त्॥१०॥
+बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/10_bRhaspatiM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु। ये मा॑ऽघा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दासा॑त् ॥
+बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु।  
+ये मा॑ऽघा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/10_bRhaspatiM_te.md">
@@ -582,7 +622,7 @@ Let those who vex me from the zenith, sinners, extol Brihaspati with the Visve D
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिम्। ते। विश्वदेवऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। ऊर्ध्वायाः। दिशः। अभिऽदासात्। १८.१०।
+बृह॒स्पति॑म्। ते। वि॒श्वदे॑वऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

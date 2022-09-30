@@ -32,14 +32,17 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/093_shatrunAshanam/01_indreNa_manyunA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः ।  
-घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति॥१॥
+इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः।  
+घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/093_shatrunAshanam/01_indreNa_manyunA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः। घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति ॥
+इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः।  
+घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/093_shatrunAshanam/01_indreNa_manyunA.md">
@@ -65,7 +68,7 @@ With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destro
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रेण। मन्युना। वयम्। अभि। स्याम। पृतन्यतः। घ्नन्तः। वृत्राणि। अप्रति। ९८.१।
+इन्द्रे॑ण। म॒न्युना॑। व॒यम्। अ॒भि। स्या॒म॒। पृ॒तन्य॒तः। घ्नन्तः॑। वृ॒त्राणि॑। अ॒प्र॒ति। ९८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

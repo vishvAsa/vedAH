@@ -32,23 +32,25 @@ A charm against disease and evil spirits
 </details>
 </details>
 </div>
-## ०१ शतवारो अनीनशद्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/01_shatavAro_anInashad.md">
+## ०१ शतवारो अनीनशद्यक्ष्मान्रक्षांसि
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श॒तवा॑रो अनीनश॒द् यक्ष्मा॒न् रक्षां॑सि॒ तेज॑सा ।  
-आ॒रोह॒न् वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥१॥  
+श॒तवा॑रो अनीनश॒द्यक्ष्मा॒न्रक्षां॑सि॒ तेज॑सा।  
+आ॒रोह॒न्वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/01_shatavAro_anInashad.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तवा॑रो अनीनश॒द् यक्ष्मा॒न् रक्षां॑सि॒ तेज॑सा ।  
-आ॒रोह॒न् वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥१॥  
+श॒तवा॑रो अनीनश॒द्यक्ष्मा॒न्रक्षां॑सि॒ तेज॑सा।  
+आ॒रोह॒न्वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/01_shatavAro_anInashad.md">
-<details open><summary><h3>०१ शतवारो अनीनशद् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
+<details open><summary><h3>०१ शतवारो अनीनशद्यक्ष्मान्रक्षांसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -75,7 +77,7 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 </details>
 <details><summary>पदपाठः</summary>
 
-शतऽवारः। अनीनशत्। यक्ष्मान्। रक्षांसि। तेजसा। आऽरोहन्। वर्चसा। सह। मणिः। दुर्नामऽचातनः। ३६.१।
+श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। यक्ष्मा॑न्। रक्षां॑सि। तेज॑सा। आ॒ऽरोह॑न्। वर्च॑सा। स॒ह। म॒णिः। दु॒र्ना॒म॒ऽचात॑नः। ३६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -106,14 +108,17 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शॄङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः ।  
-मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥२॥  
+शृङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः᳡।  
+मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शृङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः᳡। मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥
+शृङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः᳡।  
+मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
@@ -140,7 +145,7 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 </details>
 <details><summary>पदपाठः</summary>
 
-शृङ्गाभ्याम्। रक्षः। नुदते। मूलेन। यातुऽधान्यः᳡। मध्येन। यक्ष्मम्। बाधते। न। एनम्। पाप्मा। अति। तत्रति। ३६.२।
+शृङ्गा॑भ्याम्। रक्षः॑। नु॒द॒ते॒। मूले॑न। या॒तु॒ऽधा॒न्यः᳡। मध्ये॑न। यक्ष्म॑म्। बा॒ध॒ते॒। न। ए॒न॒म्। पा॒प्मा। अति॑। त॒त्र॒ति॒। ३६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,15 +176,17 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑ ।  
-सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत्॥३॥  
+ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑।  
+सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑ ।  
-सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत्॥३॥  
+ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑।  
+सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
@@ -200,7 +207,7 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। यक्ष्मासः। अर्भकाः। महान्तः। ये। च। शब्दिनः। सर्वान्। दुर्नामऽहा। मणिः। शतऽवारः। अनीनशत्। ३६.३।
+ये। यक्ष्मा॑सः। अ॒र्भ॒काः। म॒हान्तः॑। ये। च॒। श॒ब्दिनः॑। सर्वा॑न्। दु॒र्ना॒म॒ऽहा। म॒णिः। श॒तऽवा॑रः। अ॒नी॒न॒श॒त्। ३६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -232,14 +239,16 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
-दु॒र्णाम्नः॒ सर्वा॑न् ह॒त्वाव॒ रक्षां॑सि धूनुते ॥४॥  
+दु॒र्णाम्नः॒ सर्वा॑न्ह॒त्वाव॒ रक्षां॑सि धूनुते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
-दु॒र्णाम्नः॒ सर्वा॑न् ह॒त्वाव॒ रक्षां॑सि धूनुते ॥४॥  
+दु॒र्णाम्नः॒ सर्वा॑न्ह॒त्वाव॒ रक्षां॑सि धूनुते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
@@ -264,7 +273,7 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 </details>
 <details><summary>पदपाठः</summary>
 
-शतम्। वीरान्। अजनयत्। शतम्। यक्ष्मान्। अप। अवपत्। दुःऽनाम्नः। सर्वान्। हत्वा। अव। रक्षांसि। धूनुते। ३६.४।
+श॒तम्। वी॒रान्। अ॒ज॒न॒य॒त्। श॒तम्। यक्ष्मा॑न्। अप॑। अ॒व॒प॒त्। दुः॒ऽनाम्नः॑। सर्वा॑न्। ह॒त्वा। अव॑। रक्षां॑सि। धू॒नु॒ते॒। ३६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -295,15 +304,17 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः ।  
-दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत्॥५॥  
+हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः।  
+दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः ।  
-दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत्॥५॥  
+हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः।  
+दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
@@ -330,7 +341,7 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽशृङ्गः। ऋषभः। शातऽवारः। अयम्। मणिः। दुःऽनाम्नः। सर्वान्। तृड्ढ्वा। अव। रक्षांसि। अक्रमीत्। ३६.५।
+हिर॑ण्यऽशृङ्गः। ऋ॒ष॒भः। शा॒त॒ऽवा॒रः। अ॒यम्। म॒णिः। दुः॒ऽनाम्नः॑। सर्वा॑न्। तृ॒ड्ढ्वा। अव॑। रक्षां॑सि। अ॒क्र॒मी॒त्। ३६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -362,14 +373,16 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तम॒हं दु॒र्णाम्नी॑नां गन्धर्वाप्स॒रसां॑ श॒तम्।  
-श॒तं श॑श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥६॥
+श॒तं श॒श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 श॒तम॒हं दु॒र्णाम्नी॑नां गन्धर्वाप्स॒रसां॑ श॒तम्।  
-श॒तं श॑श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥६॥
+श॒तं श॒श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
@@ -401,7 +414,7 @@ Hundred she-fiends, a hundred of Gandharvas and Apsarasas, A hundred of dog-mate
 </details>
 <details><summary>पदपाठः</summary>
 
-शतम्। अहम्। दुःऽनाम्नीनाम्। गन्धर्वऽअप्सरसाम्। शतम्। शतम्। शश्वन्ऽवतीनाम्। शतऽवारेण। वारये। ३६.६।
+श॒तम्। अ॒हम्। दुः॒ऽनाम्नी॑नाम्। ग॒न्ध॒र्व॒ऽअ॒प्स॒र॒सा॑म्। श॒तम्। श॒तम्। श॒श्व॒न्ऽवती॑नाम्। श॒तऽवा॑रेण। वा॒र॒ये॒। ३६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

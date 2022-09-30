@@ -33,14 +33,16 @@ A hymn to Kama or Desire
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
-स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥१॥  
+स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/01_kAmastadagre_samavartata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
-स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥१॥  
+स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
@@ -68,7 +70,7 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 </details>
 <details><summary>पदपाठः</summary>
 
-कामः। तत्। अग्रे। सम्। अवर्तत। मनसः। रेतः। प्रथमम्। यत्। आसीत्। सः। काम। कामेन। बृहता। सऽयोनिः। रायः। पोषम्। यजमानाय। धेहि। ५२.१।
+कामः॑। तत्। अग्रे॑। सम्। अ॒व॒र्त॒त॒। मन॑सः। रेतः॑। प्र॒थ॒मम्। यत्। आसी॑त्। सः। का॒म॒। कामे॑न। बृ॒ह॒ता। सऽयो॑निः। रा॒यः। पोष॑म्। यज॑मानाय। धे॒हि॒। ५२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +102,16 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
-त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥२॥  
+त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/02_tvaM_kAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
-त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥२॥  
+त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/02_tvaM_kAma.md">
@@ -142,7 +146,7 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। काम। सहसा। असि। प्रतिऽस्थितः। विऽभुः। विभाऽवा। सखे। आ। सखीयते। त्वम्। उग्रः। पृतनासु। ससहिः। सहः। ओजः। यजमानाय। धेहि। ५२.२।
+त्वम्। का॒म॒। सह॑सा। अ॒सि॒। प्रति॑ऽस्थितः। वि॒ऽभुः। वि॒भाऽवा॑। स॒खे॒। आ। स॒खी॒य॒ते। त्वम्। उ॒ग्रः। पृत॑नासु। स॒स॒हिः। सहः॑। ओजः॑। यज॑मानाय। धे॒हि॒। ५२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -173,15 +177,17 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये ।  
-आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः ॥३॥  
+दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये।  
+आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये ।  
-आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः ॥३॥  
+दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये।  
+आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
@@ -221,7 +227,7 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 </details>
 <details><summary>पदपाठः</summary>
 
-दूरात्। चकमानाय। प्रतिऽपानाय। अक्षये। आ। अस्मै। अशृण्वन्। आशाः। कामेन। अजनयन्। स्वः᳡। ५२.३।
+दू॒रात्। च॒क॒मा॒नाय॑। प्र॒ति॒ऽपा॒नाय॑। अक्ष॑ये। आ। अ॒स्मै॒। अ॒शृ॒ण्व॒न्। आशाः॑। कामे॑न। अ॒ज॒न॒य॒न्। स्वः᳡। ५२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -252,15 +258,17 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/04_kAmena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कामे॑न मा॒ काम॒ आगन् हृद॑या॒द्धृद॑यं॒ परि॑ ।  
-यद॒मीषा॑म॒दो मन॒स्तदैतूप॒ मामि॒ह॥४॥  
+कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
+यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/04_kAmena_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कामे॑न मा॒ काम॒ आगन् हृद॑या॒द्धृद॑यं॒ परि॑ ।  
-यद॒मीषा॑म॒दो मन॒स्तदैतूप॒ मामि॒ह॥४॥  
+कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
+यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/04_kAmena_mA.md">
@@ -285,7 +293,7 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 </details>
 <details><summary>पदपाठः</summary>
 
-कामेन। मा। कामः। आ। अगन्। हृदयात्। हृदयम्। परि। यत्। अमीषाम्। अदः। मनः। तत्। आ। एतु। उप। माम्। इह। ५२.४।
+कामे॑न। मा॒। कामः॑। आ। अ॒ग॒न्। हृद॑यात्। हृद॑यम्। परि॑। यत्। अ॒मीषा॑म्। अ॒दः। मनः॑। तत्। आ। ए॒तु॒। उप॑। माम्। इ॒ह। ५२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -312,23 +320,25 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 </details>
 </details>
 </div>
-## ०५ यत् काम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/05_yat_kAma.md">
+## ०५ यत्काम कामयमाना
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः ।  
-तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥५॥
+यत्का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः।  
+तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/05_yat_kAma.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत् का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः ।  
-तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥५॥
+यत्का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः।  
+तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/05_yat_kAma.md">
-<details open><summary><h3>०५ यत् काम ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
+<details open><summary><h3>०५ यत्काम कामयमाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -352,7 +362,7 @@ Ppp., both ed's read *yát kāma*⌋. \*⌊See p. 897, ¶3.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। काम। कामयमानाः। इदम्। कृण्मसि। ते। हविः। तत्। नः। सर्वम्। सम्। ऋध्यताम्। अथ। एतस्य। हविषः। वीहि। स्वाहा। ५२.५।
+यत्। का॒म॒। का॒मय॑मानाः। इ॒दम्। कृ॒ण्मसि॑। ते॒। ह॒विः। तत्। नः॒। सर्व॑म्। सम्। ऋ॒ध्य॒ता॒म्। अथ॑। ए॒तस्य॑। ह॒विषः॑। वी॒हि॒। स्वाहा॑। ५२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

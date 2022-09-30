@@ -28,14 +28,17 @@ The first two verses are found also in Pāipp. xx. It is used by Kāuś. (18. 16
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत ।  
-अ॒य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥१॥  
+प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत।  
+अ॑य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत। अ॑य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥
+प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत।  
+अ॑य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
@@ -60,7 +63,7 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। पत। इतः। पापि। लक्ष्मि। नश्य। इतः। प्र। अमुतः। पत। अयस्मयेन। अङ्केन। द्विषते। त्वा। आ। सजामसि। १२०.१।
+प्र। प॒त॒। इ॒तः। पा॒पि॒। ल॒क्ष्मि॒। नश्य॑। इ॒तः। प्र। अ॒मुतः॑। प॒त॒। अ॒य॒स्मये॑न। अ॒ङ्केन॑। द्वि॒ष॒ते। त्वा॒। आ। स॒जा॒म॒सि॒। १२०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,13 +95,16 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या मा॑ ल॒क्ष्मीः प॑तया॒लूरजु॑ष्टाभिच॒स्कन्द॒ वन्द॑नेव वृ॒क्षम्।  
-अ॒न्यत्रा॒स्मत् स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥२॥  
+अ॒न्यत्रा॒स्मत्स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/02_yA_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या मा॑ ल॒क्ष्मीः प॑तया॒लूरजु॑ष्टाभिच॒स्कन्द॒ वन्द॑नेव वृ॒क्षम्। अ॒न्यत्रा॒स्मत्स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥
+या मा॑ ल॒क्ष्मीः प॑तया॒लूरजु॑ष्टाभिच॒स्कन्द॒ वन्द॑नेव वृ॒क्षम्।  
+अ॒न्यत्रा॒स्मत्स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
@@ -127,7 +133,7 @@ Granting us riches, Savitar! golden-banded, send thou away from us to other regi
 </details>
 <details><summary>पदपाठः</summary>
 
-या। मा। लक्ष्मीः। पतयालूः। अजुष्टाः। अभिऽचस्कन्द। वन्दनाऽइव। वृक्षम्। अन्यत्र। अस्मत्। सवितः। ताम्। इतः। धाः। हिरण्यऽहस्तः। वसु। नः। रराणः। १२०.२।
+या। मा॒। ल॒क्ष्मीः। प॒त॒या॒लूः। अजु॑ष्टाः। अ॒भि॒ऽच॒स्कन्द॑। वन्द॑नाऽइव। वृ॒क्षम्। अ॒न्यत्र॑। अ॒स्मत्। स॒वि॒तः॒। ताम्। इ॒तः। धाः॒। हिर॑ण्यऽहस्तः। वसु॑। नः॒। ररा॑णः। १२०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,22 +160,25 @@ Granting us riches, Savitar! golden-banded, send thou away from us to other regi
 </details>
 </details>
 </div>
-## ०३ एकशतं लक्ष्म्यो३
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo3.md">
+## ०३ एकशतं लक्ष्म्यो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एक॑शतं ल॒क्ष्म्यो॒३मर्त्य॑स्य सा॒कं त॒न्वाऽज॒नुषोऽधि॑ जा॒ताः ।  
-तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि यच्छ ॥३॥  
+एक॑शतं ल॒क्ष्म्यो॒३॒॑ मर्त्य॑स्य सा॒कं त॒न्वा᳡ ज॒नुषोऽधि॑ जा॒ताः।  
+तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि य॑च्छ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo3.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एक॑शतं ल॒क्ष्म्यो॒३॒॑ मर्त्य॑स्य सा॒कं त॒न्वा᳡ ज॒नुषोऽधि॑ जा॒ताः। तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि य॑च्छ ॥
+एक॑शतं ल॒क्ष्म्यो॒३॒॑ मर्त्य॑स्य सा॒कं त॒न्वा᳡ ज॒नुषोऽधि॑ जा॒ताः।  
+तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि य॑च्छ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo3.md">
-<details open><summary><h3>०३ एकशतं लक्ष्म्यो३ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
+<details open><summary><h3>०३ एकशतं लक्ष्म्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -187,7 +196,7 @@ One and a hundred Fortunes all together are at his birth born with a mortal's bo
 </details>
 <details><summary>पदपाठः</summary>
 
-एकऽशतम्। लक्ष्म्यः᳡। मर्त्यस्य। साकम्। तन्वा᳡। जनुषः। अधि। जाताः। तासाम्। पापिष्ठाः। निः। इतः। प्र। हिण्मः। शिवाः। अस्मभ्यम्। जातऽवेदः। नि। यच्छ। १२०.३।
+एक॑ऽशतम्। ल॒क्ष्म्यः᳡। मर्त्य॑स्य। सा॒कम्। त॒न्वा᳡। ज॒नुषः॑। अधि॑। जा॒ताः। तासा॑म्। पापि॑ष्ठाः। निः। इ॒तः। प्र। हि॒ण्मः॒। शि॒वाः। अ॒स्मभ्य॑म्। जा॒त॒ऽवे॒दः॒। नि। य॒च्छ॒। १२०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -218,14 +227,17 @@ One and a hundred Fortunes all together are at his birth born with a mortal's bo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव ।  
-रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम्॥४॥
+ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव।  
+रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव। रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम् ॥
+ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव।  
+रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
@@ -254,7 +266,7 @@ I have disparted these and those like cows who stray on common land. Here let au
 </details>
 <details><summary>पदपाठः</summary>
 
-एताः। एनाः। विऽआकरम्। खिले। गाः। विस्थिताःऽइव। रमन्ताम्। पुण्याः। लक्ष्मीः। याः। पापीः। ताः। अनीनशम्। १२०.४।
+ए॒ताः। ए॒नाः॒। वि॒ऽआक॑रम्। खि॒ले। गाः। विस्थि॑ताःऽइव। रम॑न्ताम्। पुण्याः॑। ल॒क्ष्मीः। याः। पा॒पीः। ताः। अ॒नी॒न॒श॒म्। १२०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

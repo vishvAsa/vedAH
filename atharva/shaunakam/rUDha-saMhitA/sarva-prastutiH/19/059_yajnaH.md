@@ -36,13 +36,17 @@ An expiatory hymn accompanying sacrifice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा। त्वं य॒ज्ञेष्वीड्यः॑ ॥१॥  
+त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा।  
+त्वं य॒ज्ञेष्वीड्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा। त्वं य॒ज्ञेष्वीड्यः॑ ॥१॥  
+त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा।  
+त्वं य॒ज्ञेष्वीड्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/01_tvamagne_vratapA.md">
@@ -77,7 +81,7 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। अग्ने। व्रतऽपाः। असि। देवः। आ। मर्त्येषु। आ। त्वम्। यज्ञेषु। ईड्यः। ५९.१।
+त्वम्। अ॒ग्ने॒। व्र॒त॒ऽपाः। अ॒सि॒। दे॒वः। आ। मर्त्ये॑षु। आ। त्वम्। य॒ज्ञेषु॑। ईड्यः॑। ५९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +112,17 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/02_yadvo_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः ।  
-अ॒ग्निष्टद् वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णां आ॑वि॒वेश॑ ॥२॥  
+यद्वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः।  
+अ॒ग्निष्टद्वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/02_yadvo_vayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः। अ॒ग्निष्टद्वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
+यद्वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः।  
+अ॒ग्निष्टद्वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/02_yadvo_vayam.md">
@@ -144,7 +151,7 @@ When, ignorant, we violate the statutes of you, O Deities, with whom is knowledg
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। वः। वयम्। प्रऽमिनाम। व्रतानि। विदुषाम्। देवाः। अविदुःऽतरासः। अग्निः। तत्। विश्वऽअत्। आ। पृणातु। विद्वान्। सोमस्य। यः। ब्राह्मणान्। आऽविवेश। ५९.२।
+यत्। वः॒। व॒यम्। प्र॒ऽमि॒नाम॑। व्र॒तानि॑। वि॒दुषा॑म्। दे॒वाः॒। अवि॑दुःऽतरासः। अ॒ग्निः। तत्। वि॒श्व॒ऽअत्। आ। पृ॒णा॒तु॒। वि॒द्वान्। सोम॑स्य। यः। ब्रा॒ह्म॒णान्। आ॒ऽवि॒वेश॑। ५९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,14 +183,16 @@ When, ignorant, we violate the statutes of you, O Deities, with whom is knowledg
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ दे॒वाना॒मपि॒ पन्था॑मगन्म॒ यच्छ॒क्नवा॑म॒ तद॑नु॒प्रवो॑ढुम्।  
-अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त् स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून् क॑ल्पयाति ॥३॥
+अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त्स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून्क॑ल्पयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/03_A_devAnAmapi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 आ दे॒वाना॒मपि॒ पन्था॑मगन्म॒ यच्छ॒क्नवा॑म॒ तद॑नु॒प्रवो॑ढुम्।  
-अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त् स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून् क॑ल्पयाति ॥३॥
+अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त्स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून्क॑ल्पयाति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/03_A_devAnAmapi.md">
@@ -213,7 +222,7 @@ To the Gods' pathway have we come desiring to execute what work we may accomplis
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। देवानाम्। अपि। पन्थाम्। अगन्म। यत्। शक्नवाम। तत्। अनुऽप्रवोढुम्। अग्निः। विद्वान‌्। सः। यजात्। सः। इत्। होता। सः। अध्वरान्। सः। ऋतून्। कल्पयाति। ५९.३।
+आ। दे॒वाना॑म्। अपि॑। पन्था॑म्। अ॒ग॒न्म॒। यत्। श॒क्नवा॑म। तत्। अ॒नु॒ऽप्रवो॑ढुम्। अ॒ग्निः। वि॒द्वान‌्। सः। य॒जा॒त्। सः। इत्। होता॑। सः। अ॒ध्व॒रान्। सः। ऋ॒तून्। क॒ल्प॒या॒ति॒। ५९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

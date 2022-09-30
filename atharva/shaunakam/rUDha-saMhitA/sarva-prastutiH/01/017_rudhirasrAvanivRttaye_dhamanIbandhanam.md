@@ -36,14 +36,17 @@ A charm to be used at venesection
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः ।  
-अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥१॥  
+अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः।  
+अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः। अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥
+अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः।  
+अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
@@ -69,7 +72,7 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 </details>
 <details><summary>पदपाठः</summary>
 
-अमूः। याः। यन्ति। योषितः। हिराः। लोहितऽवाससः। अभ्रातरःऽइव। जामयः। तिष्ठन्तु। हतऽवर्चसः।
+अ॒मूः। याः। यन्ति॑। यो॒षितः॑। हि॒राः। लोहि॑तऽवाससः। अ॒भ्रात॑रःऽइव। जा॒मयः॑। तिष्ठ॑न्तु। ह॒तऽव॑र्चसः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे ।  
-क॒नि॒ष्ठि॒का च॒ तिष्ठ॑ति॒ तिष्ठा॒दिद्ध॒मनि॑र्म॒ही॥२॥  
+तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे।  
+क॑निष्ठि॒का च॒ तिष्ठ॑ति तिष्ठा॒दिद्ध॒मनि॑र्म॒ही ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे। क॑निष्ठि॒का च॒ तिष्ठ॑ति तिष्ठा॒दिद्ध॒मनि॑र्म॒ही ॥
+तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे।  
+क॑निष्ठि॒का च॒ तिष्ठ॑ति तिष्ठा॒दिद्ध॒मनि॑र्म॒ही ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
@@ -128,7 +134,7 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 </details>
 <details><summary>पदपाठः</summary>
 
-तिष्ठ। अवरे। तिष्ठ। परे। उत। त्वम्। तिष्ठ। मध्यमे। कनिष्ठिका। च। तिष्ठति। तिष्ठात्। इत्। धमनिः। मही।
+तिष्ठ॑। अ॒व॒रे॒। तिष्ठ॑। प॒रे॒। उ॒त। त्वम्। ति॒ष्ठ॒। म॒ध्य॒मे॒। क॒नि॒ष्ठि॒का। च॒। तिष्ठ॑ति। तिष्ठा॑त्। इत्। ध॒मनिः॑। म॒ही। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,13 +166,16 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्।  
-अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥३॥  
+अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्। अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥
+श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्।  
+अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
@@ -188,7 +197,7 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 </details>
 <details><summary>पदपाठः</summary>
 
-शतस्य। धमनीनाम्। सहस्रस्य। हिराणाम्। अस्थुः। इत्। मध्यमाः। इमाः। साकम्। अन्ताः। अरंसत।
+श॒तस्य॑। ध॒मनी॑नाम्। स॒हस्र॑स्य। हि॒राणा॑म्। अस्थुः॑। इत्। म॒ध्य॒माः। इ॒माः। सा॒कम्। अन्ताः॑। अ॒रं॒स॒त॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -219,13 +228,17 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्यऽक्रमीत्।तिष्ठ॑ते॒लय॑ता॒ सु क॑म्॥४॥
+परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्य॑क्रमीत्।  
+तिष्ठ॑ते॒लय॑ता॒ सु क॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्य॑क्रमीत्। तिष्ठ॑ते॒लय॑ता॒ सु क॑म् ॥
+परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्य॑क्रमीत्।  
+तिष्ठ॑ते॒लय॑ता॒ सु क॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
@@ -254,7 +267,7 @@ A mighty rampart built of sand hath circled and encompassed you: Be still, and q
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। वः‍। सिकताऽवती। धनूः। बृहती। अक्रमीत्। ‍तिष्ठत। इलयत। सु। कम्।
+परि॑। वः॒‍। सिक॑ताऽवती। ध॒नूः। बृ॒ह॒ती। अ॒क्र॒मी॒त्। ‍तिष्ठ॑त। इ॒लय॑त। सु। क॒म्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

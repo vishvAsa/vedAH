@@ -37,13 +37,16 @@ A maiden's love-charm
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं ख॑नामि भेष॒जं मां॑प॒श्यम॑भिरोरु॒दम्।  
-प॒रा॒य॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम्॥१॥  
+प॑राय॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं ख॑नामि भेष॒जं मां॑प॒श्यम॑भिरोरु॒दम्। प॑राय॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम् ॥
+इ॒दं ख॑नामि भेष॒जं मां॑प॒श्यम॑भिरोरु॒दम्।  
+प॑राय॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
@@ -96,7 +99,7 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। खनामि। भेषजम्। माम्ऽपश्यम्। अभिऽरोरुदम्। पराऽयतः। निऽवर्तनम्। आऽयतः। प्रतिऽनन्दनम्। ३९.१।
+इ॒दम्। ख॒ना॒मि॒। भे॒ष॒जम्। मा॒म्ऽप॒श्यम्। अ॒भि॒ऽरो॒रु॒दम्। प॒रा॒ऽय॒तः। नि॒ऽवर्त॑नम्। आ॒ऽय॒तः। प्र॒ति॒ऽनन्द॑नम्। ३९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -127,14 +130,17 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑ ।  
-तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥२॥  
+येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑।  
+तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑। तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥
+येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑।  
+तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
@@ -157,7 +163,7 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। निऽचक्रे। आसुरी। इन्द्रम्। देवेभ्यः। परि। तेन। नि। कुर्वे। त्वाम्। अहम्। यथा। ते। असानि। सुऽप्रिया। ३९.२।
+येन॑। नि॒ऽच॒क्रे। आ॒सु॒री। इन्द्र॑म्। दे॒वेभ्यः॑। परि॑। तेन॑। नि। कु॒र्वे॒। त्वाम्। अ॒हम्। यथा॑। ते॒। असा॑नि। सुऽप्रि॑या। ३९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -189,13 +195,16 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒तीची॒ सोम॑मसि प्र॒तीच्यु॒त सूर्य॑म्।  
-प्र॒तीची॒ विश्वा॑न् दे॒वान् तां त्वा॒च्छाव॑दामसि ॥३॥  
+प्र॒तीची॒ विश्वा॑न्दे॒वान्तां त्वा॒च्छाव॑दामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒तीची॒ सोम॑मसि प्र॒तीच्यु॒त सूर्य॑म्। प्र॒तीची॒ विश्वा॑न्दे॒वान्तां त्वा॒च्छाव॑दामसि ॥
+प्र॒तीची॒ सोम॑मसि प्र॒तीच्यु॒त सूर्य॑म्।  
+प्र॒तीची॒ विश्वा॑न्दे॒वान्तां त्वा॒च्छाव॑दामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
@@ -221,7 +230,7 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रतीची। सोमम्। असि। प्रतीची। उत। सूर्यम्। प्रतीची। विश्वान्। देवान्। ताम्। त्वा। अच्छऽआवदामसि। ३९.३।
+प्र॒तीची॑। सोम॑म्। अ॒सि॒। प्र॒तीची॑। उ॒त। सूर्य॑म्। प्र॒तीची॑। विश्वा॑न्। दे॒वान्। ताम्। त्वा॒। अ॒च्छ॒ऽआव॑दामसि। ३९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -252,14 +261,17 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं व॑दामि॒ नेत् त्वं स॒भाया॒मह॒ त्वं वद॑ ।  
-ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न॥४॥  
+अ॒हं व॑दामि॒ नेत्त्वं स॒भाया॒मह॒ त्वं वद॑।  
+ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं व॑दामि॒ नेत्त्वं स॒भाया॒मह॒ त्वं वद॑। ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+अ॒हं व॑दामि॒ नेत्त्वं स॒भाया॒मह॒ त्वं वद॑।  
+ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
@@ -286,7 +298,7 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। वदामि। न। इत्। त्वम्। सभायाम्। अह। त्वम्। वद। मम। इत्। असः। त्वम्। केवलः। न। अन्यासाम्। कीर्तयाः। चन। ३९.४।
+अ॒हम्। व॒दा॒मि॒। न। इत्। त्वम्। स॒भाया॑म्। अह॑। त्वम्। वद॑। मम॑। इत्। असः॑। त्वम्। केव॑लः। न। अ॒न्यासा॑म्। की॒र्तयाः॑। च॒न। ३९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -317,14 +329,17 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्यऽस्ति॒रः ।  
-इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत्॥५॥
+यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्य᳡स्तिरः।  
+इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्य᳡स्तिरः। इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत् ॥
+यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्य᳡स्तिरः।  
+इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
@@ -363,7 +378,7 @@ If thou art far away beyond the rivers, far away from men, This Herb shall seem 
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। वा। असि। तिरःऽजनम्। यदि। वा। नद्यः᳡। तिरः। इयम्। ह। मह्यम्। त्वाम्। ओषधिः। बध्द्वाऽइव। निऽआनयत्। ३९.५।
+यदि॑। वा॒। असि॑। ति॒रः॒ऽज॒नम्। यदि॑। वा॒। न॒द्यः᳡। ति॒रः। इ॒यम्। ह॒। मह्य॑म्। त्वाम्। ओष॑धिः। ब॒ध्द्वाऽइ॑व। नि॒ऽआन॑यत्। ३९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -23,13 +23,15 @@ title = "००७ अध्यात्मम्"
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/01_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अह्नो॑ऽजायत॒ तस्मा॒दह॑रजायत ॥२९॥  
+स वा अह्नो॑ऽजायत॒ तस्मा॒दह॑रजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/01_sa_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वा अह्नो॑ऽजायत॒ तस्मा॒दह॑रजायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/01_sa_vA.md">
@@ -50,7 +52,7 @@ syllables.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। अह्नः। अजायत। तस्मात्। अहः। अजायत। ७.१।
+सः। वै। अह्नः॑। अ॒जा॒य॒त॒। तस्मा॑त्। अहः॑। अ॒जा॒य॒त॒। ७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -81,13 +83,15 @@ syllables.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/02_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै रात्र्या॑ अजायत॒ तस्मा॒द् रात्रि॑रजायत ॥३०॥  
+स वै रात्र्या॑ अजायत॒ तस्मा॒द्रात्रि॑रजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/02_sa_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वै रात्र्या॑ अजायत॒ तस्मा॒द्रात्रि॑रजायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/02_sa_vai.md">
@@ -105,7 +109,7 @@ syllables.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। रात्र्याः। अजायत। तस्मात्। रात्रिः। अजायत। ७.२।
+सः। वै। रात्र्याः॑। अ॒जा॒य॒त॒। तस्मा॑त्। रात्रिः॑। अ॒जा॒य॒त॒। ७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -136,13 +140,15 @@ syllables.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/03_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अ॒न्तरि॑क्षादजायत॒ तस्मा॑द॒न्तरि॑क्षमजायत ॥३१॥  
+स वा अ॒न्तरि॑क्षादजायत॒ तस्मा॑द॒न्तरि॑क्षमजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/03_sa_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वा अ॒न्तरि॑क्षादजायत॒ तस्मा॑द॒न्तरि॑क्षमजायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/03_sa_vA.md">
@@ -163,7 +169,7 @@ make a *gāyatrī*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। अन्तरिक्षात्। अजायत। तस्मात्। अन्तर‍िक्षम्। अजायत। ७.३।
+सः। वै। अ॒न्तरि॑क्षात्। अ॒जा॒य॒त॒। तस्मा॑त्। अ॒न्तर‍ि॑क्षम्। अ॒जा॒य॒त॒। ७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -194,13 +200,15 @@ make a *gāyatrī*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/04_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै वा॒योर॑जायत॒ तस्मा॑द् वा॒युर॑जायत ॥३२॥  
+स वै वा॒योर॑जायत॒ तस्मा॑द्वा॒युर॑जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/04_sa_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वै वा॒योर॑जायत॒ तस्मा॑द्वा॒युर॑जायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/04_sa_vai.md">
@@ -218,7 +226,7 @@ make a *gāyatrī*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। वायोः। अजायत। तस्मात्। वायुः। अजायत। ७.४।
+सः। वै। वा॒योः। अ॒जा॒य॒त॒। तस्मा॑त्। वा॒युः। अ॒जा॒य॒त॒। ७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -249,13 +257,15 @@ make a *gāyatrī*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/05_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै दि॒वोऽजायत॒ तस्मा॒द् द्यौरध्य॑जायत ॥३३॥  
+स वै दि॒वो᳡जा॑यत॒ तस्मा॒द्द्यौरधि॑ अजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/05_sa_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वै दि॒वो᳡जा॑यत॒ तस्मा॒द्द्यौरधि॑ अजायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/05_sa_vai.md">
@@ -274,7 +284,7 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। दिवः। अजायत। तस्मात्। द्यौः। अधि। अजायत। ७.५।
+सः। वै। दि॒वः। अ॒जा॒य॒त॒। तस्मा॑त्। द्यौः। अधि॑। अ॒जा॒य॒त॒। ७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -305,13 +315,15 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/06_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै दि॒ग्भ्योऽजायत॒ तस्मा॒द् दिशोऽजायन्त ॥३४॥  
+स वै दि॒ग्भ्यो᳡जा॑यत॒ तस्मा॒द्दिशो᳡जायन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/06_sa_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स वै दि॒ग्भ्यो᳡जा॑यत॒ तस्मा॒द्दिशोजायन्त ॥
+स वै दि॒ग्भ्यो᳡जा॑यत॒ तस्मा॒द्दिशो᳡जायन्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/06_sa_vai.md">
@@ -330,7 +342,7 @@ Here we are to make both elisions, in **a** and **b**.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। दिक्ऽभ्यः। अजायत। तस्मात्। दिशः। अजायन्त। ७.६।
+सः। वै। दि॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। दिशः॑। अ॒जा॒य॒न्त॒। ७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -361,13 +373,15 @@ Here we are to make both elisions, in **a** and **b**.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/07_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै भूमे॑रजायत॒ तस्मा॒द् भूमि॑रजायत ॥३५॥  
+स वै भूमे॑रजायत॒ तस्मा॒द्भूमि॑रजायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/07_sa_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वै भूमे॑रजायत॒ तस्मा॒द्भूमि॑रजायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/07_sa_vai.md">
@@ -386,7 +400,7 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। भूमेः। अजायत। तस्मात्। भूमिः। अजायत। ७.७।
+सः। वै। भूमेः॑। अ॒जा॒य॒त॒। तस्मा॑त्। भूमिः॑। अ॒जा॒य॒त॒। ७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -417,13 +431,15 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/08_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अ॒ग्नेर॑जायत॒ तस्मा॑द॒ग्निर॑जायत ॥३६॥  
+स वा अ॒ग्नेर॑जायत॒ तस्मा॑द॒ग्निर॑जायत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/08_sa_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वा अ॒ग्नेर॑जायत॒ तस्मा॑द॒ग्निर॑जायत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/08_sa_vA.md">
@@ -441,7 +457,7 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। अग्नेः। अजायत। तस्मात्। अग्निः। अजायत। ७.८।
+सः। वै। अ॒ग्नेः। अ॒जा॒य॒त॒। तस्मा॑त्। अ॒ग्निः। अ॒जा॒य॒त॒। ७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -472,13 +488,15 @@ Nearly all our mss. (all save Bp.D.R.) accent *bhūmés* and *bhūmís*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/09_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा अ॒द्भ्योऽजायत॒ तस्मा॒दापो॑ऽजायन्त ॥३७॥  
+स वा अ॒द्भ्यो᳡जा॑यत॒ तस्मा॒दापो॑ऽजायन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/09_sa_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वा अ॒द्भ्यो᳡जा॑यत॒ तस्मा॒दापो॑ऽजायन्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/09_sa_vA.md">
@@ -500,7 +518,7 @@ emended to *-uṣṇihāu*).
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। अत्ऽभ्यः। अजायत। तस्मात्। आपः। अजायन्‍त। ७.९।
+सः। वै। अ॒त्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। आपः॑। अ॒जा॒य॒न्‍त॒। ७.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -531,13 +549,15 @@ emended to *-uṣṇihāu*).
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/10_sa_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वा ऋ॒ग्भ्योऽजायत॒ तस्मा॒दृचो॑ऽजायन्त ॥३८॥  
+स वा ऋ॒ग्भ्यो᳡जा॑यत॒ तस्मा॒दृचो॑ऽजायन्त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/10_sa_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स वा ऋ॒ग्भ्यो᳡जा॑यत॒ तस्मा॒दृचो॑ऽजायन्त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/10_sa_vA.md">
@@ -557,7 +577,7 @@ As to the meter, see the note to the preceding verse.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। ऋक्ऽभ्यः। अजायत। तस्मात्। ऋचः। अजायन्त। ७.१०।
+सः। वै। ऋ॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। ऋचः॑। अ॒जा॒य॒न्त॒। ७.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -588,13 +608,15 @@ As to the meter, see the note to the preceding verse.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/11_sa_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स वै य॒ज्ञाद॑जायत॒ तस्मा॑द् य॒ज्ञोऽजायत ॥३९॥  
+स वै य॒ज्ञाद॑जायत॒ तस्मा॑द्य॒ज्ञो᳡जा॑यत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/11_sa_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स वै य॒ज्ञाद॑जायत॒ तस्मा॑द्य॒ज्ञोजा॑यत ॥
+स वै य॒ज्ञाद॑जायत॒ तस्मा॑द्य॒ज्ञो᳡जा॑यत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/11_sa_vai.md">
@@ -613,7 +635,7 @@ The Anukr., as above, forces the elision *yajñò ‘j-*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। वै। यज्ञात्। अजायत। तस्मात्। यज्ञः। अजायत। ७.११।
+सः। वै। य॒ज्ञात्। अ॒जा॒य॒त॒। तस्मा॑त्। य॒ज्ञः। अ॒जा॒य॒त॒। ७.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -644,13 +666,15 @@ The Anukr., as above, forces the elision *yajñò ‘j-*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/12_sa_yajnastasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स य॒ज्ञस्तस्य॑ य॒ज्ञः स य॒ज्ञस्य॒ शिर॑स्कृ॒तम्॥४०॥  
+स य॒ज्ञस्तस्य॑ य॒ज्ञः स य॒ज्ञस्य॒ शिर॑स्कृ॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/12_sa_yajnastasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स य॒ज्ञस्तस्य॑ य॒ज्ञः स य॒ज्ञस्य॒ शिर॑स्कृ॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/12_sa_yajnastasya.md">
@@ -669,7 +693,7 @@ of the sacrifice.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। यज्ञः। तस्य। यज्ञः। सः। यज्ञस्य। शिरः। कृतम्। ७.१२।
+सः। य॒ज्ञः। तस्य॑। य॒ज्ञः। सः। य॒ज्ञस्य॑। शिरः॑। कृ॒तम्। ७.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -700,13 +724,15 @@ of the sacrifice.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/13_sa_stanayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स स्त॑नयति॒ स वि द्यो॑तते॒ स उ॒ अश्मा॑नमस्यति ॥४१॥  
+स स्त॑नयति॒ स वि द्यो॑तते॒ स उ॒ अश्मा॑नमस्यति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/13_sa_stanayati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स स्त॑नयति॒ स वि द्यो॑तते॒ स उ॒ अश्मा॑नमस्यति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/13_sa_stanayati.md">
@@ -726,7 +752,7 @@ Prāt. iii. 36.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। स्तनयति। सः। वि। द्योतते। सः। ऊं इति। अश्मानम्। अस्यति। ७.१३।
+सः। स्त॒न॒य॒ति॒। सः। वि। द्यो॒त॒ते॒। सः। ऊं॒ इति॑। अश्मा॑नम्। अ॒स्य॒ति॒। ७.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -757,13 +783,15 @@ Prāt. iii. 36.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/14_pApAya_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒पाय॑ वा भ॒द्राय॑ वा पुरु॑षा॒यासु॑राय वा ॥४२॥  
+पा॒पाय॑ वा भ॒द्राय॑ वा॒ पुरु॑षा॒यासु॑राय वा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/14_pApAya_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 पा॒पाय॑ वा भ॒द्राय॑ वा॒ पुरु॑षा॒यासु॑राय वा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/14_pApAya_vA.md">
@@ -783,7 +811,7 @@ Asura.
 </details>
 <details><summary>पदपाठः</summary>
 
-पापाय। वा। भद्राय। वा। पुरुषाय। असुराय। वा। ७.१४।
+पा॒पाय॑। वा॒। भ॒द्राय॑। वा॒। पुरु॑षाय। असु॑राय। वा॒। ७.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -814,13 +842,15 @@ Asura.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/15_yadvA_kRNoShyoShadhIryadvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वा॑ कृ॒णोष्योष॑धी॒र्यद् वा॒ वर्ष॑सि भ॒द्रया॒ यद् वा॑ ज॒न्यमवी॑वृधः ॥४३॥  
+यद्वा॑ कृ॒णोष्योष॑धी॒र्यद्वा॑ वर्षसि भ॒द्रया॒ यद्वा॑ ज॒न्यमवी॑वृधः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/15_yadvA_kRNoShyoShadhIryadvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यद्वा॑ कृ॒णोष्योष॑धी॒र्यद्वा॑ वर्षसि भ॒द्रया॒ यद्वा॑ ज॒न्यमवी॑वृधः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/15_yadvA_kRNoShyoShadhIryadvA.md">
@@ -845,7 +875,7 @@ latter he also emends to *áv-*.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। वा। कृणोषि। ओषधीः। यत्। वा। वर्षसि। भद्रया। यत्। वा। जन्यम्। अवीवृधः। ७.१५।
+यत्। वा॒। कृ॒णोषि॑। ओष॑धीः। यत्। वा॒। वर्ष॑सि। भ॒द्रया॑। यत्। वा॒। ज॒न्यम्। अवी॑वृधः। ७.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -876,13 +906,15 @@ latter he also emends to *áv-*.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/16_tAvAMste_maghavanmahimopo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तावां॑स्ते मघवन् महि॒मोपो॑ ते त॒न्वः श॒तम्॥४४॥  
+तावां॑स्ते मघवन्महि॒मोपो॑ ते त॒न्वः᳡ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/16_tAvAMste_maghavanmahimopo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 तावां॑स्ते मघवन्महि॒मोपो॑ ते त॒न्वः᳡ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/16_tAvAMste_maghavanmahimopo.md">
@@ -903,7 +935,7 @@ required by the Anukr. ⌊It reads naturally as 9 + 8.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-तावान्। ते। मघऽवन्। महिमा। उपो इति। ते। तन्वः᳡। शतम्। ७.१६।
+तावा॑न्। ते॒। म॒घ॒ऽव॒न्। म॒हि॒मा। उपो॒ इति॑। ते॒। त॒न्वः᳡। श॒तम्। ७.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -934,13 +966,15 @@ required by the Anukr. ⌊It reads naturally as 9 + 8.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/007_adhyAtmam/17_upo_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उपो॑ ते॒ बध्वे॒ बद्धा॑नि॒ यदि॒ वासि॒ न्यर्बुदम्॥४५॥
+उपो॑ ते॒ बध्वे॒ बद्धा॑नि॒ यदि॒ वासि॒ न्य᳡र्बुदम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/007_adhyAtmam/17_upo_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 उपो॑ ते॒ बध्वे॒ बद्धा॑नि॒ यदि॒ वासि॒ न्य᳡र्बुदम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/007_adhyAtmam/17_upo_te.md">
@@ -975,7 +1009,7 @@ gāyatrī.*\]
 </details>
 <details><summary>पदपाठः</summary>
 
-उपो इति। ते। बध्वे। बध्दानि। यदि। वा। असि। निऽअर्बुदम्। ७.१७।
+उपो॒ इति॑। ते॒। बध्वे॑। बध्दा॑नि। यदि॑। वा॒। असि॑। निऽअ॑र्बुदम्। ७.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

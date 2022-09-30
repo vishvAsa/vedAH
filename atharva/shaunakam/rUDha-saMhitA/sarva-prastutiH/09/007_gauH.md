@@ -43,13 +43,15 @@ A glorification of the typically bull and cow
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/01_prajApatishcha_parameShThI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिश्च परमे॒ष्ठी च॒ शृङ्गे॒ इन्द्रः॒ शिरो॑ अ॒ग्निर्ल॒लाटं॑ य॒मः कृका॑टम्॥१॥  
+प्र॒जाप॑तिश्च परमे॒ष्ठी च॒ शृङ्गे॒ इन्द्रः॒ शिरो॑ अ॒ग्निर्ल॒लाटं॑ य॒मः कृका॑टम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/01_prajApatishcha_parameShThI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्र॒जाप॑तिश्च परमे॒ष्ठी च॒ शृङ्गे॒ इन्द्रः॒ शिरो॑ अ॒ग्निर्ल॒लाटं॑ य॒मः कृका॑टम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/01_prajApatishcha_parameShThI.md">
@@ -71,7 +73,7 @@ Prajapati and Parameshthin are the two horns, Indra is the head, Agni the forehe
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। च। परमेऽस्थी। च। शृङ्गे इति। इन्द्रः। शिरः। अग्निः। ललाटम्। यमः। कृकाटम्। १२.१।
+प्र॒जाऽप॑तिः। च॒। प॒र॒मे॒ऽस्थी। च॒। शृङ्गे॒ इति॑। इन्द्रः॑। शिरः॑। अ॒ग्निः। ल॒लाट॑म्। य॒मः। कृका॑टम्। १२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,13 +104,15 @@ Prajapati and Parameshthin are the two horns, Indra is the head, Agni the forehe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/02_somo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॒ राजा॑ म॒स्तिष्को॒ द्यौरु॑त्तरह॒नुः पृ॑थि॒व्यऽधरह॒नुः ॥२॥  
+सोमो॒ राजा॑ म॒स्तिष्को॒ द्यौरु॑त्तरह॒नुः पृ॑थि॒व्य᳡धरह॒नुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/02_somo_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 सोमो॒ राजा॑ म॒स्तिष्को॒ द्यौरु॑त्तरह॒नुः पृ॑थि॒व्य᳡धरह॒नुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/02_somo_rAjA.md">
@@ -129,7 +133,7 @@ King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमः। राजा। मस्तिष्कः। द्यौः। उत्तरऽहनुः। पृथिवी। अधरऽहनुः। १२.२।
+सोमः॑। राजा॑। म॒स्तिष्कः॑। द्यौः। उ॒त्त॒र॒ऽह॒नुः। पृ॒थि॒वी। अ॒ध॒र॒ऽह॒नुः। १२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,13 +164,15 @@ King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/03_vidyujjihvA_maruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्युज्जि॒ह्वा म॒रुतो॒ दन्ता॑ रे॒वति॑र्ग्री॒वाः कृत्ति॑का स्क॒न्धा घ॒र्मो वहः॑ ॥३॥  
+वि॒द्युज्जि॒ह्वा म॒रुतो॒ दन्ता॑ रे॒वती॑र्ग्री॒वाः कृत्ति॑का स्क॒न्धा घ॒र्मो वहः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/03_vidyujjihvA_maruto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 वि॒द्युज्जि॒ह्वा म॒रुतो॒ दन्ता॑ रे॒वती॑र्ग्री॒वाः कृत्ति॑का स्क॒न्धा घ॒र्मो वहः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/03_vidyujjihvA_maruto.md">
@@ -195,7 +201,7 @@ Lightning is the tongue, the Maruts are the teeth, Revati is the neck, the Kritt
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्युत्। जिह्वा। मरुतः। दन्ताः। रेवतीः। ग्रीवाः। कृत्तिकाः। स्कन्धाः। घर्मः। वहः। १२.३।
+वि॒द्युत्। जि॒ह्वा। म॒रुतः॑। दन्ताः॑। रे॒वतीः॑। ग्री॒वाः। कृत्ति॑काः। स्क॒न्धाः। घ॒र्मः। वहः॑। १२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -226,13 +232,15 @@ Lightning is the tongue, the Maruts are the teeth, Revati is the neck, the Kritt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/04_vishvaM_vAyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्वं॑ वा॒युः स्व॒र्गो लो॒कः कृ॑ष्ण॒द्रं वि॒धर॑णी निवे॒ष्यः ॥४॥  
+विश्वं॑ वा॒युः स्व॒र्गो लो॒कः कृ॑ष्ण॒द्रं वि॒धर॑णी निवे॒ष्यः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/04_vishvaM_vAyuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 विश्वं॑ वा॒युः स्व॒र्गो लो॒कः कृ॑ष्ण॒द्रं वि॒धर॑णी निवे॒ष्यः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/04_vishvaM_vAyuH.md">
@@ -257,7 +265,7 @@ His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Verteb
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वम्। वायुः। स्वःऽगः। लोकः। कृष्णऽद्रम्। विऽधरणी। निऽवेष्यः १। १२.४।
+विश्व॑म्। वा॒युः। स्वः॒ऽगः। लो॒कः। कृ॒ष्ण॒ऽद्रम्। वि॒ऽधर॑णी। नि॒ऽवे॒ष्यः १। १२.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -284,21 +292,23 @@ His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Verteb
 </details>
 </details>
 </div>
-## ०५ श्येनः क्रोडो३न्तरिक्षम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/05_shyenaH_kroDo3ntarixam.md">
+## ०५ श्येनः क्रोडोन्तरिक्षम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/05_shyenaH_kroDontarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-श्ये॒नः क्रो॒डो॒३ऽन्तरि॑क्षं पाज॒स्यं॑१ बृह॒स्पतिः॑ क॒कुद् बृ॑ह॒तीः कीक॑साः ॥५॥  
+श्ये॒नः क्रो॒डो॒३॒॑न्तरि॑क्षं पाज॒स्यं१॒॑ बृह॒स्पतिः॑ क॒कुद्बृ॑ह॒तीः कीक॑साः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/05_shyenaH_kroDo3ntarixam.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/05_shyenaH_kroDontarixam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-श्ये॒नः क्रो॒डो॒३॒॑न्तरि॑क्षं पाज॒स्यं१॒॑ बृह॒स्पतिः॑ क॒कुद्बृ॑ह॒तीः कीक॑साः ॥
+श्ये॒नः क्रो॒डो॒३॒॑न्तरि॑क्षं पाज॒स्यं१॒॑ बृह॒स्पतिः॑ क॒कुद्बृ॑ह॒तीः कीक॑साः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/05_shyenaH_kroDo3ntarixam.md">
-<details open><summary><h3>०५ श्येनः क्रोडो३न्तरिक्षम् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/05_shyenaH_kroDontarixam.md">
+<details open><summary><h3>०५ श्येनः क्रोडोन्तरिक्षम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -317,7 +327,7 @@ The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is
 </details>
 <details><summary>पदपाठः</summary>
 
-श्येनः। क्रोडः। अन्तर‍िक्षम्। पाजस्य᳡म्। बृहस्पतिः। ककुत्। बृहतीः। कीकसाः। १२.५।
+श्ये॒नः। क्रो॒डः। अ॒न्तर‍ि॑क्षम्। पा॒ज॒स्य᳡म्। बृह॒स्पतिः॑। क॒कुत्। बृ॒ह॒तीः। कीक॑साः। १२.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -348,13 +358,15 @@ The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/06_devAnAM_patnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वानां॒ पत्नीः॑ पृ॒ष्टय॑ उप॒सदः॒ पर्श॑वः ॥६॥  
+दे॒वानां॒ पत्नीः॑ पृ॒ष्टय॑ उप॒सदः॒ पर्श॑वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/06_devAnAM_patnIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दे॒वानां॒ पत्नीः॑ पृ॒ष्टय॑ उप॒सदः॒ पर्श॑वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/06_devAnAM_patnIH.md">
@@ -374,7 +386,7 @@ The consorts of the Gods are the ribs, the attendants are ribs.
 </details>
 <details><summary>पदपाठः</summary>
 
-देवानाम्। पत्नीः। पृष्टयः। उपऽसदः। पर्शवः। १२.६।
+दे॒वाना॑म्। पत्नीः॑। पृ॒ष्टयः॑। उ॒प॒ऽसदः॑। पर्श॑वः। १२.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -405,13 +417,15 @@ The consorts of the Gods are the ribs, the attendants are ribs.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/07_mitrashcha_varuNashchAMsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्रश्च॒ वरु॑ण॒श्चांसौ॒ त्वष्टा॑ चार्य॒मा च॑ दो॒षणी॑ महादे॒वो बा॒हू॥७॥  
+मि॒त्रश्च॒ वरु॑ण॒श्चांसौ॒ त्वष्टा॑ चार्य॒मा च॑ दो॒षणी॑ महादे॒वो बा॒हू ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/07_mitrashcha_varuNashchAMsau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 मि॒त्रश्च॒ वरु॑ण॒श्चांसौ॒ त्वष्टा॑ चार्य॒मा च॑ दो॒षणी॑ महादे॒वो बा॒हू ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/07_mitrashcha_varuNashchAMsau.md">
@@ -432,7 +446,7 @@ Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, 
 </details>
 <details><summary>पदपाठः</summary>
 
-मित्रः। च। वरुणः। च। अंसौ। त्वष्टा। च। अर्यमा। च। दोषणी इति। महाऽदेवः। बाहू इति। १२.७।
+मि॒त्रः। च॒। वरु॑णः। च॒। अंसौ॑। त्वष्टा॑। च॒। अ॒र्य॒मा। च॒। दो॒षणी॒ इति॑। म॒हा॒ऽदे॒वः। बा॒हू इति॑। १२.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -463,13 +477,15 @@ Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/08_indrANI_bhasadvAyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒न्द्रा॒णी भ॒सद् वा॒युः पुच्छं॒ पव॑मानो॒ बालाः॑ ॥८॥  
+इ॑न्द्रा॒णी भ॒सद्वा॒युः पुच्छं॒ पव॑मानो॒ बालाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/08_indrANI_bhasadvAyuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 इ॑न्द्रा॒णी भ॒सद्वा॒युः पुच्छं॒ पव॑मानो॒ बालाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/08_indrANI_bhasadvAyuH.md">
@@ -491,7 +507,7 @@ Indrani is the hinder parts, Vayu the tail, Pavamana the hair.
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्राणी। भसत्। वायुः। पुच्छम्। पवमानः। बालाः। १२.८।
+इ॒न्द्रा॒णी। भ॒सत्। वा॒युः। पुच्छ॑म्। पव॑मानः। बालाः॑। १२.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -522,13 +538,15 @@ Indrani is the hinder parts, Vayu the tail, Pavamana the hair.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/09_brahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ च क्ष॒त्रं च॒ श्रोणी॒ बल॑मू॒रू॥९॥  
+ब्रह्म॑ च क्ष॒त्रं च॒ श्रोणी॒ बल॑मू॒रू ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/09_brahma_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 ब्रह्म॑ च क्ष॒त्रं च॒ श्रोणी॒ बल॑मू॒रू ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/09_brahma_cha.md">
@@ -547,7 +565,7 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। च। क्षत्रम्। च। श्रोणी इति। बलम्। ऊरू इति। १२.९।
+ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। श्रोणी॒ इति॑। बल॑म्। ऊ॒रू इति॑। १२.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -578,13 +596,15 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/10_dhAtA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-धा॒ता च॑ सवि॒ता चा॑ष्ठी॒वन्तौ॒ जङ्घा॑ गन्ध॒र्वा अ॑प्स॒रसः॒ कुष्ठि॑का॒ अदि॑तिः श॒फाः ॥१०॥  
+धा॒ता च॑ सवि॒ता चा॑ष्ठी॒वन्तौ॒ जङ्घा॑ गन्ध॒र्वा अ॑प्स॒रसः॒ कुष्ठि॑का॒ अदि॑तिः श॒फा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/10_dhAtA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 धा॒ता च॑ सवि॒ता चा॑ष्ठी॒वन्तौ॒ जङ्घा॑ गन्ध॒र्वा अ॑प्स॒रसः॒ कुष्ठि॑का॒ अदि॑तिः श॒फा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/10_dhAtA_cha.md">
@@ -606,7 +626,7 @@ Dhatar and Savitar are the two knee-bones, the Gandharvas are the legs the Apsar
 </details>
 <details><summary>पदपाठः</summary>
 
-धाता। च। सविता। च। अष्ठीवन्तौ। जङ्घाः। गन्धर्वाः। अप्सरसः। कुष्ठिकाः। अदितिः। शफाः। १२.१०।
+धा॒ता। च॒। स॒वि॒ता। च॒। अ॒ष्ठी॒वन्तौ॑। जङ्घाः॑। ग॒न्ध॒र्वाः। अ॒प्स॒रसः॑। कुष्ठि॑काः। अदि॑तिः। श॒फाः। १२.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -637,13 +657,15 @@ Dhatar and Savitar are the two knee-bones, the Gandharvas are the legs the Apsar
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/11_cheto_hRdayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-चेतो॒ हृद॑यं॒ यकृ॑न्मे॒धा व्र॒तं पु॑री॒तत्॥११॥  
+चेतो॒ हृद॑यं॒ यकृ॑न्मे॒धा व्र॒तं पु॑री॒तत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/11_cheto_hRdayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 चेतो॒ हृद॑यं॒ यकृ॑न्मे॒धा व्र॒तं पु॑री॒तत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/11_cheto_hRdayam.md">
@@ -664,7 +686,7 @@ Thought is the heart, intelligence is the liver, law the pericar- dium.
 </details>
 <details><summary>पदपाठः</summary>
 
-चेतः। हृदयम्। यकृत्। मेधा। व्रतम्। पुरिऽतत्। १२.११।
+चेतः॑। हृद॑यम्। यकृ॑त्। मे॒धा। व्र॒तम्। पु॒रि॒ऽतत्। १२.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -695,13 +717,15 @@ Thought is the heart, intelligence is the liver, law the pericar- dium.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/12_xutkuxirirA_vaniShThuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्षुत् कु॒क्षिरिरा॑ वनि॒ष्ठुः पर्व॑ताः प्ला॒शयः॑ ॥१२॥  
+क्षुत्कु॒क्षिरिरा॑ वनि॒ष्ठुः पर्व॑ताः प्ला॒शयः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/12_xutkuxirirA_vaniShThuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 क्षुत्कु॒क्षिरिरा॑ वनि॒ष्ठुः पर्व॑ताः प्ला॒शयः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/12_xutkuxirirA_vaniShThuH.md">
@@ -722,7 +746,7 @@ Hunger is the belly, refreshing drink is the rectum, mountains. are the inward p
 </details>
 <details><summary>पदपाठः</summary>
 
-क्षुत्। कुक्षिः। इरा। वनिष्ठुः। पर्वताः। प्लाशयः। १२.१२।
+क्षुत्। कु॒क्षिः। इरा॑। व॒नि॒ष्ठुः। पर्व॑ताः। प्ला॒शयः॑। १२.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -753,13 +777,15 @@ Hunger is the belly, refreshing drink is the rectum, mountains. are the inward p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/13_krodho_vRkkau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क्रोधो॑ वृ॒क्कौ म॒न्युरा॒ण्डौ प्र॒जा शेपः॑ ॥१३॥  
+क्रोधो॑ वृ॒क्कौ म॒न्युरा॒ण्डौ प्र॒जा शेपः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/13_krodho_vRkkau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 क्रोधो॑ वृ॒क्कौ म॒न्युरा॒ण्डौ प्र॒जा शेपः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/13_krodho_vRkkau.md">
@@ -778,7 +804,7 @@ Wrath is the kidneys, anger the testes, offspring the generative organ.
 </details>
 <details><summary>पदपाठः</summary>
 
-क्रोधः। वृक्कौ। मन्युः। आण्डौ। प्रऽजा। शेपः। १२.१३।
+क्रोधः॑। वृ॒क्कौ। म॒न्युः। आ॒ण्डौ। प्र॒ऽजा। शेपः॑। १२.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -809,13 +835,15 @@ Wrath is the kidneys, anger the testes, offspring the generative organ.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/14_nadI_sUtrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न॒दी सू॒त्री व॒र्षस्य॒ पत॑य॒ स्तना॑ स्तनयि॒त्नुरूधः॑ ॥१४॥  
+न॒दी सू॒त्री व॒र्षस्य॒ पत॑य॒ स्तना॑ स्तनयि॒त्नुरूधः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/14_nadI_sUtrI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 न॒दी सू॒त्री व॒र्षस्य॒ पत॑य॒ स्तना॑ स्तनयि॒त्नुरूधः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/14_nadI_sUtrI.md">
@@ -836,7 +864,7 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 </details>
 <details><summary>पदपाठः</summary>
 
-नदी। सूत्री। वर्षस्य। पतयः। स्तनाः। स्तनयित्नुः। ऊधः। १२.१४।
+न॒दी। सू॒त्री। व॒र्षस्य॑। पत॑यः। स्तनाः॑। स्त॒न॒यि॒त्नुः। ऊधः॑। १२.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -867,13 +895,15 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/15_vishvavyachAshcharmauShadhayo_lomAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वव्य॑चा॒स्चर्मौष॑धयो॒ लोमा॑नि॒ नक्ष॑त्राणि रू॒पम्॥१५॥  
+वि॒श्वव्य॑चा॒श्चर्मौष॑धयो॒ लोमा॑नि॒ नक्ष॑त्राणि रू॒पम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/15_vishvavyachAshcharmauShadhayo_lomAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 वि॒श्वव्य॑चा॒श्चर्मौष॑धयो॒ लोमा॑नि॒ नक्ष॑त्राणि रू॒पम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/15_vishvavyachAshcharmauShadhayo_lomAni.md">
@@ -893,7 +923,7 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वऽव्यचाः। चर्म। ओषधयः। लोमानि। नक्षत्राणि। रूपम्। १२.१५।
+वि॒श्वऽव्य॑चाः। चर्म॑। ओष॑धयः। लोमा॑नि। नक्ष॑त्राणि। रू॒पम्। १२.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -924,13 +954,15 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/16_devajanA_gudA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒व॒ज॒ना गुदा॑ मनु॒ष्याऽ आ॒न्त्राण्य॒त्रा उ॒दर॑म्॥१६॥  
+दे॑वज॒ना गुदा॑ मनु॒ष्या᳡ आ॒न्त्राण्य॒त्रा उ॒दर॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/16_devajanA_gudA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दे॑वज॒ना गुदा॑ मनु॒ष्या᳡ आ॒न्त्राण्य॒त्रा उ॒दर॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/16_devajanA_gudA.md">
@@ -952,7 +984,7 @@ The hosts of Gods are her entrails, man are her bowels, and demons her abdomen.
 </details>
 <details><summary>पदपाठः</summary>
 
-देवऽजनाः। गुदाः। मनुष्याः᳡। आन्त्राणि। अत्राः। उदरम्। १२.१६।
+दे॒व॒ऽज॒नाः। गुदाः॑। म॒नु॒ष्याः᳡। आ॒न्त्राणि॑। अ॒त्राः। उ॒दर॑म्। १२.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -983,13 +1015,15 @@ The hosts of Gods are her entrails, man are her bowels, and demons her abdomen.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/17_raxAMsi_lohitamitarajanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रक्षां॑सि॒ लोहि॑तमितरज॒ना ऊब॑ध्यम्॥१७॥  
+रक्षां॑सि॒ लोहि॑तमितरज॒ना ऊब॑ध्यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/17_raxAMsi_lohitamitarajanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 रक्षां॑सि॒ लोहि॑तमितरज॒ना ऊब॑ध्यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/17_raxAMsi_lohitamitarajanA.md">
@@ -1008,7 +1042,7 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 </details>
 <details><summary>पदपाठः</summary>
 
-रक्षांसि। लोहितम्। इतरऽजनाः। ऊबध्यम्। १२.१७।
+रक्षां॑सि। लोहि॑तम्। इ॒त॒र॒ऽज॒नाः। ऊब॑ध्यम्। १२.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1039,13 +1073,15 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/18_abhraM_pIbo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भ्रं पीबो॑ म॒ज्जा नि॒धन॑म्॥१८॥  
+अ॒भ्रं पीबो॑ म॒ज्जा नि॒धन॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/18_abhraM_pIbo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒भ्रं पीबो॑ म॒ज्जा नि॒धन॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/18_abhraM_pIbo.md">
@@ -1065,7 +1101,7 @@ The rain-cloud is her fat, her resting-place her marrow.
 </details>
 <details><summary>पदपाठः</summary>
 
-अभ्रम्। पीबः। मज्जा। निऽधनम्। १२.१८।
+अ॒भ्रम्। पीबः॑। म॒ज्जा। नि॒ऽधन॑म्। १२.१८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1096,13 +1132,15 @@ The rain-cloud is her fat, her resting-place her marrow.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/19_agnirAsIna_utthito-shvinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निरासी॑न॒ उत्थि॑तो॒ऽश्विना॑ ॥१९॥  
+अ॒ग्निरासी॑न॒ उत्थि॑तो॒ऽश्विना॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/19_agnirAsIna_utthito-shvinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒ग्निरासी॑न॒ उत्थि॑तो॒ऽश्विना॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/19_agnirAsIna_utthito-shvinA.md">
@@ -1122,7 +1160,7 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। आसीनः। उत्थितः। अश्विना। १२.१९।
+अ॒ग्निः। आसी॑नः। उत्थि॑तः। अ॒श्विना॑। १२.१९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1153,13 +1191,15 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/20_indraH_prA~NtiShThandaxiNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रः॒ प्राङ् तिष्ठ॑न् दक्षि॒णा तिष्ठ॑न् य॒मः ॥२०॥  
+इन्द्रः॒ प्राङ्तिष्ठ॑न्दक्षि॒णा तिष्ठ॑न्य॒मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/20_indraH_prA~NtiShThandaxiNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 इन्द्रः॒ प्राङ्तिष्ठ॑न्दक्षि॒णा तिष्ठ॑न्य॒मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/20_indraH_prA~NtiShThandaxiNA.md">
@@ -1177,7 +1217,7 @@ Standing east-wards he is Indra, standing southwards, Yama.
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। प्राङ्। तिष्ठन्। दक्षिणा। तिष्ठन्। यमः। १२.२०।
+इन्द्रः॑। प्राङ्। तिष्ठ॑न्। द॒क्षि॒णा। तिष्ठ॑न्। य॒मः। १२.२०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1208,13 +1248,15 @@ Standing east-wards he is Indra, standing southwards, Yama.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/21_pratya~NtiShThandhAtoda~NtiShThantsavitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒त्यङ् तिष्ठ॑न् धा॒तोद॒ङ् तिष्ठ॑न्त्सवि॒ता॥२१॥  
+प्र॒त्यङ्तिष्ठ॑न्धा॒तोद॒ङ्तिष्ठ॑न्त्सवि॒ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/21_pratya~NtiShThandhAtoda~NtiShThantsavitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 प्र॒त्यङ्तिष्ठ॑न्धा॒तोद॒ङ्तिष्ठ॑न्त्सवि॒ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/21_pratya~NtiShThandhAtoda~NtiShThantsavitA.md">
@@ -1234,7 +1276,7 @@ Standing westwards he is Dhatar, standing northwards Savitar.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रत्यङ्। तिष्ठन्। धाता। उदङ्। तिष्ठन्। सविता। १२.२१।
+प्र॒त्यङ्। तिष्ठ॑न्। धा॒ता। उद॑ङ्। तिष्ठ॑न्। स॒वि॒ता। १२.२१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1265,13 +1307,15 @@ Standing westwards he is Dhatar, standing northwards Savitar.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/22_tRNAni_prAptaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृणा॑नि प्राप्तः॒ सोमो॒ राजा॑ ॥२२॥  
+तृणा॑नि॒ प्राप्तः॒ सोमो॒ राजा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/22_tRNAni_prAptaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 तृणा॑नि॒ प्राप्तः॒ सोमो॒ राजा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/22_tRNAni_prAptaH.md">
@@ -1291,7 +1335,7 @@ When he hath got his grass he is King Soma.
 </details>
 <details><summary>पदपाठः</summary>
 
-तृणानि। प्रऽआप्तः। सोमः। राजा। १२.२२।
+तृणा॑नि। प्रऽआ॑प्तः। सोमः॑। राजा॑। १२.२२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1322,13 +1366,15 @@ When he hath got his grass he is King Soma.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/23_mitra_IxamANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्र ईक्ष॑माण॒ आवृ॑त्त आन॒न्दः ॥२३॥  
+मि॒त्र ईक्ष॑माण॒ आवृ॑त्त आन॒न्दः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/23_mitra_IxamANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 मि॒त्र ईक्ष॑माण॒ आवृ॑त्त आन॒न्दः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/23_mitra_IxamANa.md">
@@ -1349,7 +1395,7 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 </details>
 <details><summary>पदपाठः</summary>
 
-मित्रः। ईक्षमाणः। आऽवृत्तः। आऽनन्दः। १२.२३।
+मि॒त्रः। ईक्ष॑माणः। आऽवृ॑त्तः। आ॒ऽन॒न्दः। १२.२३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1380,13 +1426,15 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/24_yujyamAno_vaishvadevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यु॒ज्यमा॑नो वैश्वदे॒वो यु॒क्तः प्र॒जाप॑ति॒र्विमु॑क्तः॒ सर्व॑म्॥२४॥  
+यु॒ज्यमा॑नो वैश्वदे॒वो यु॒क्तः प्र॒जाप॑ति॒र्विमु॑क्तः॒ सर्व॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/24_yujyamAno_vaishvadevo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यु॒ज्यमा॑नो वैश्वदे॒वो यु॒क्तः प्र॒जाप॑ति॒र्विमु॑क्तः॒ सर्व॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/24_yujyamAno_vaishvadevo.md">
@@ -1406,7 +1454,7 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 </details>
 <details><summary>पदपाठः</summary>
 
-युज्यमानः। वैश्वऽदेवः। युक्तः। प्रजाऽपतिः। विऽमुक्तः। सर्वम्। १२.२४।
+यु॒ज्यमा॑नः। वै॒श्व॒ऽदे॒वः। यु॒क्तः। प्र॒जाऽप॑तिः। विऽमु॑क्तः। सर्व॑म्। १२.२४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1437,13 +1485,15 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/25_etadvai_vishvarUpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तद् वै वि॒श्वरू॑पं॒ सर्व॑रूपं गोरू॒पम्॥२५॥  
+ए॒तद्वै वि॒श्वरू॑पं॒ सर्व॑रूपं गोरू॒पम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/25_etadvai_vishvarUpam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 ए॒तद्वै वि॒श्वरू॑पं॒ सर्व॑रूपं गोरू॒पम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/25_etadvai_vishvarUpam.md">
@@ -1463,7 +1513,7 @@ This verily is omniform, wearing all forms, bovine-formed.
 </details>
 <details><summary>पदपाठः</summary>
 
-एतत्। वै। विश्वऽरूपम्। सर्वऽरूपम्। गोऽरूपम्। १२.२५।
+ए॒तत्। वै। वि॒श्वऽरू॑पम्। सर्व॑ऽरूपम्। गो॒ऽरू॒पम्। १२.२५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1494,13 +1544,15 @@ This verily is omniform, wearing all forms, bovine-formed.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/007_gauH/26_upainaM_vishvarUpAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उपै॑नं वि॒श्वरू॑पाः॒ सर्व॑रूपाः प॒शव॑स्तिष्ठन्ति॒ य ए॒वं वेद॑ ॥२६॥
+उपै॑नं वि॒श्वरू॑पाः॒ सर्व॑रूपाः प॒शव॑स्तिष्ठन्ति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/007_gauH/26_upainaM_vishvarUpAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 उपै॑नं वि॒श्वरू॑पाः॒ सर्व॑रूपाः प॒शव॑स्तिष्ठन्ति॒ य ए॒वं वेद॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/007_gauH/26_upainaM_vishvarUpAH.md">
@@ -1523,7 +1575,7 @@ Upon him wait omniform beasts, wearing every shape, each one who hath this knowl
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। एनम्। विश्वऽरूपाः। सर्वऽरूपाः। पशवः। तिष्ठन्ति। यः। एवम्। वेद। १२.२६।
+उप॑। ए॒न॒म्। वि॒श्वऽरू॑पाः। सर्व॑ऽरूपाः। प॒शवः॑। ति॒ष्ठ॒न्ति॒। यः। ए॒वम्। वेद॑। १२.२६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं ह॒विर्या॑तु॒धाना॑न् न॒दी फेन॑मि॒वा व॑हत्।  
-य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥१॥  
+इ॒दं ह॒विर्या॑तु॒धाना॑न्न॒दी फेन॑मि॒वा व॑हत्।  
+य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं ह॒विर्या॑तु॒धाना॑न्न॒दी फेन॑मि॒वा व॑हत्। य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥
+इ॒दं ह॒विर्या॑तु॒धाना॑न्न॒दी फेन॑मि॒वा व॑हत्।  
+य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
@@ -65,7 +68,7 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। हविः। याऽतुधानान्। नदी। फेनम्ऽइव। आ। वहत्। यः। इदम्। स्त्री। पुमान्। अकः। इह। सः। स्तुवताम्। जनः।
+इ॒दम्। ह॒विः। या॒ऽतुधाना॑न्। न॒दी। फेन॑म्ऽइव। आ। व॒ह॒त्। यः। इ॒दम्। स्त्री। पुमा॑न्। अकः॑। इ॒ह। सः। स्तु॒व॒ता॒म्। जनः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं स्तु॑वा॒न आग॑मदि॒मं स्म॒ प्रति॑ हर्यत ।  
-बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम्॥२॥  
+अ॒यं स्तु॑वा॒न आग॑मदि॒मं स्म॒ प्रति॑ हर्यत।  
+बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं स्तु॑वा॒न आग॑मदि॒मं स्म॒ प्रति॑ हर्यत। बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम् ॥
+अ॒यं स्तु॑वा॒न आग॑मदि॒मं स्म॒ प्रति॑ हर्यत।  
+बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
@@ -126,7 +132,7 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। स्तुवानः। आ। अगमत्। इमम्। स्म। प्रति। हर्यत। बृहस्पते। वशे। लब्ध्वा। अग्नीषोमा। वि। विध्यतम्। ।
+अ॒यम्। स्तु॒वा॒नः। आ। अ॒ग॒म॒त्। इ॒मम्। स्म॒। प्रति॑। ह॒र्य॒त॒। बृह॑स्पते। वशे॑। ल॒ब्ध्वा। अग्नी॑षोमा। वि। वि॒ध्य॒त॒म्। । 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या॒तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च ।  
-नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम्॥३॥  
+या॑तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च।  
+नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या॑तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च। नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम् ॥
+या॑तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च।  
+नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
@@ -191,7 +200,7 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 </details>
 <details><summary>पदपाठः</summary>
 
-यातुऽधानस्य। सोमऽप। जहि। प्रऽजाम्। नयस्व। च। ‍निः। स्तुवानस्य। पातय। परम्। अक्षि। उत। अवरम्।
+या॒तु॒ऽधान॑स्य। सो॒म॒ऽप॒। ज॒हि। प्र॒ऽजाम्। नय॑स्व। च॒। ‍निः। स्तु॒वा॒नस्य॑। पा॒त॒य॒। पर॑म्। अक्षि॑। उ॒त। अव॑रम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -222,14 +231,17 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः ।  
-तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्येऽषां शत॒तर्ह॑मग्ने ॥४॥
+यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः।  
+तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्ये॑षां शत॒तर्ह॑मग्ने ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः। तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्ये॑षां शत॒तर्ह॑मग्ने ॥
+यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः।  
+तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्ये॑षां शत॒तर्ह॑मग्ने ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
@@ -255,7 +267,7 @@ As thou, O Agni Jatavedas, knowest the races of these secret greedy beings, So s
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। एषाम्। अग्ने। जनिमानि। वेत्थ। गुहा। सताम्। अत्त्रिणाम्। जातऽवेदः। तान्। त्वम्। ब्रह्मणा। ववृधानः। जहि। एषाम्। शतऽतर्हम्। अग्ने।
+यत्र॑। ए॒षा॒म्। अ॒ग्ने॒। जनि॑मानि। वेत्थ॑। गुहा॑। स॒ताम्। अ॒त्त्रिणा॑म्। जा॒त॒ऽवे॒दः॒। तान्। त्वम्। ब्रह्म॑णा। व॒वृधा॒नः। ज॒हि। ए॒षा॒म्। श॒त॒ऽतर्ह॑म्। अ॒ग्ने॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

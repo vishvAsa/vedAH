@@ -32,14 +32,17 @@ Translated: Ludwig, p. 498; Griffith, i. 314.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्यऽपप्तद् रसे॑न ।  
-समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥१॥  
+दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्य᳡पप्त॒द्रसे॑न।  
+समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्य᳡पप्त॒द्रसे॑न। समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥
+दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्य᳡पप्त॒द्रसे॑न।  
+समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/01_divo_nu.md">
@@ -68,7 +71,7 @@ From the high firmament, yea, out of heaven a water-drop with dew on me hath fal
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवः। नु। माम्। बृहतः। अन्तरिक्षात्। अपाम्। स्तोकः। अभि। अपप्तत्। रसेन। सम्। इन्द्रियेण। पयसा। अहम्। अग्ने। छन्दःऽभिः। यज्ञैः। सुऽकृताम्। कृतेन। १२४.१।
+दि॒वः। नु। माम्। बृ॒ह॒तः। अ॒न्तरि॑क्षात्। अ॒पाम्। स्तो॒कः। अ॒भि। अ॒प॒प्त॒त्। रसे॑न। सम्। इ॒न्द्रि॒येण॑। पय॑सा। अ॒हम्। अ॒ग्ने॒। छन्दः॑ऽभिः। य॒ज्ञैः। सु॒ऽकृता॑म्। कृ॒तेन॑। १२४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ From the high firmament, yea, out of heaven a water-drop with dew on me hath fal
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त् फलं॒ तद् यद्य॒न्तरि॑क्षा॒त् स उ॑ वा॒युरे॒व।  
-यत्रास्पृ॑क्षत् त॒न्वो॒३यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥२॥  
+यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त्पलं॒ तद्यद्य॒न्तरि॑क्षा॒त्स उ॑ वा॒युरे॒व।  
+यत्रास्पृ॑क्षत्त॒न्वो॒३॒॑ यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त्पलं॒ तद्यद्य॒न्तरि॑क्षा॒त्स उ॑ वा॒युरे॒व। यत्रास्पृ॑क्षत्त॒न्वो॒३॒॑ यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥
+यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त्पलं॒ तद्यद्य॒न्तरि॑क्षा॒त्स उ॑ वा॒युरे॒व।  
+यत्रास्पृ॑क्षत्त॒न्वो॒३॒॑ यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
@@ -133,7 +139,7 @@ If from a tree that fruit hath fallen downward if, aught from air that is vayu. 
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। वृक्षात्। अभिऽअपप्तत्। फलम्। तत्। यदि। अन्तरिक्षात्। सः। ऊं इति। वायुः। एव। यत्र। अस्पृक्षत्। तन्वः᳡। यत्। च। वाससः। आपः। नुदन्तु। निःऽऋतिम्। पराचैः। १२४.२।
+यदि॑। वृ॒क्षात्। अ॒भि॒ऽअप॑प्तत्। फल॑म्। तत्। यदि॑। अ॒न्तरि॑क्षात्। सः। ऊं॒ इति॑। वा॒युः। ए॒व। यत्र॑। अस्पृ॑क्षत्। त॒न्वः᳡। यत्। च॒। वास॑सः। आपः॑। नु॒द॒न्तु॒। निःऽऋ॑तिम्। प॒रा॒चैः। १२४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +171,16 @@ If from a tree that fruit hath fallen downward if, aught from air that is vayu. 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भ्यञ्ज॑नं सुर॒भि सा समृ॑द्धि॒र्हिर॑ण्यं॒ वर्च॒स्तदु॑ पू॒त्रिम॑मे॒व।  
-सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत् तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥३॥
+सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत्तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भ्यञ्ज॑नं सुर॒भि सा समृ॑द्धि॒र्हिर॑ण्यं॒ वर्च॒स्तदु॑ पू॒त्रिम॑मे॒व। सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत्तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥
+अ॒भ्यञ्ज॑नं सुर॒भि सा समृ॑द्धि॒र्हिर॑ण्यं॒ वर्च॒स्तदु॑ पू॒त्रिम॑मे॒व।  
+सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत्तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
@@ -197,7 +206,7 @@ It is a fragrant ointment, happy fortune, sheen all of gold, yea, purified from 
 </details>
 <details><summary>पदपाठः</summary>
 
-अभिऽअञ्जनम्। सुरभि। सा। सम्ऽऋध्दिः। हिरण्यम्। वर्चः। तत्। ऊं इति। पूत्रिमम्। एव। सर्वा। पवित्रा। विऽतता। अधि। अस्मत्। तत्। मा। तारीत्। निःऽऋतिः। मो इति। अरातिः। १२४.३।
+अ॒भि॒ऽअञ्ज॑नम्। सु॒र॒भि। सा। सम्ऽऋ॑ध्दिः। हिर॑ण्यम्। वर्चः॑। तत्। ऊं॒ इति॑। पू॒त्रिम॑म्। ए॒व। सर्वा॑। प॒वित्रा॑। विऽत॑ता। अधि॑। अ॒स्मत्। तत्। मा। ता॒री॒त्। निःऽऋ॑तिः। मो इति॑। अरा॑तिः। १२४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

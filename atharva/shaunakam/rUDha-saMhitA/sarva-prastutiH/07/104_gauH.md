@@ -32,14 +32,17 @@ Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/104_gauH/01_kaH_pRshnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कः पृश्निं धे॒नुं वरु॑णेन द॒त्तामथ॑र्वने सु॒दुघां॒ नित्य॑वत्साम्।  
-बृह॒स्पति॑ना स॒ख्यंऽ जुषा॒णो य॑थाव॒शं त॒न्वः कल्पयाति ॥१॥
+कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्।  
+बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/104_gauH/01_kaH_pRshnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्। बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
+कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्।  
+बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/01_kaH_pRshnim.md">
@@ -67,7 +70,7 @@ Who will prepare the dappled Cow, good milker, ne'er without calf, whom Varuna g
 </details>
 <details><summary>पदपाठः</summary>
 
-कः। पृश्निम्। धेनुम्। वरुणेन। दत्ताम्। अथर्वणे। सुऽदुघाम्। नित्यऽवत्साम्। बृहस्पत‍िना। सख्य᳡म्। जुषाणः। यथाऽवशम्। तन्वः᳡। कल्पयाति। १०९.१।
+कः। पृश्नि॑म्। धे॒नुम्। वरु॑णेन। द॒त्ताम्। अथ॑र्वणे। सु॒ऽदुघा॑म्। नित्य॑ऽवत्साम्। बृह॒स्पत‍ि॑ना। स॒ख्य᳡म्। जु॒षा॒णः। य॒था॒ऽव॒शम्। त॒न्वः᳡। क॒ल्प॒या॒ति॒। १०९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

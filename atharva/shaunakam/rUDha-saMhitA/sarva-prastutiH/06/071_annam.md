@@ -37,13 +37,16 @@ A priest's benediction after meat
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
-यदे॒व किं च॑ प्रतिज॒ग्रहाह॑म॒ग्निष्टद्धोता॒ सुहु॑तं कृनोतु ॥१॥  
+यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/01_yadannamadmi_bahudhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्। यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
+यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/01_yadannamadmi_bahudhA.md">
@@ -71,7 +74,7 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अन्नम्। अद्मि। बहुऽधा। विऽरूपम्। हिरण्यम्। अश्वम्। उत। गाम्। अजाम्। अविम्। यत्। एव। किम्। च। प्रतिऽजग्रह। अहम्। अग्निः। तत्। होता। सुऽहुतम्। कृणोतु। ७१.१।
+यत्। अन्न॑म्। अद्मि॑। ब॒हु॒ऽधा। विऽरू॑पम्। हिर॑ण्यम्। अश्व॑म्। उ॒त। गाम्। अ॒जाम्। अवि॑म्। यत्। ए॒व। किम्। च॒। प्र॒ति॒ऽज॒ग्रह॑। अ॒हम्। अ॒ग्निः। तत्। होता॑। सुऽहु॑तम्। कृ॒णो॒तु॒। ७१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः ।  
-यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥२॥  
+यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡।  
+यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡। यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡।  
+यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
@@ -137,7 +143,7 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। मा। हुतम्। अहुतम्। आऽजगाम। दत्तम्। पितृऽभिः। अनुऽमतम्। मनुष्यैः᳡। यस्मात्। मे। मनः। उत्ऽइव। रारजीति। अग्निः। तत्। होता। सुऽहुतम्। कृणोतु। ७१.२।
+यत्। मा॒। हु॒तम्। अहु॑तम्। आ॒ऽज॒गाम॑। द॒त्तम्। पि॒तृऽभिः॑। अनु॑ऽमतम्। म॒नु॒ष्यैः᳡। यस्मा॑त्। मे॒। मनः॑। उत्ऽइ॑व। रार॑जीति। अ॒ग्निः। तत्। होता॑। सुऽहु॑तम्। कृ॒णो॒तु॒। ७१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑ ।  
-वै॒श्वा॒न॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म्॥३॥
+यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑।  
+वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑। वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
+यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑।  
+वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/03_yadannamadmyanRtena_devA.md">
@@ -202,7 +211,7 @@ What food I eat unjustly, Gods! or, doubtful between bestow- ing and refusing, s
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अन्नम्। अद्मि। अनृतेन। देवाः। दास्यन्। अदास्यन्। उत। सम्ऽगृणामि। वैश्वानरस्य। महतः। महिम्ना। शिवम्। मह्यम्। मधुऽमत्। अस्तु। अन्नम्। ७१.३।
+यत्। अन्न॑म्। अद्मि॑। अनृ॑तेन। दे॒वाः॒। दा॒स्यन्। अदा॑स्यन्। उ॒त। स॒म्ऽगृ॒णामि॑। वै॒श्वा॒न॒रस्य॑। म॒ह॒तः। म॒हि॒म्ना। शि॒वम्। मह्य॑म्। मधु॑ऽमत्। अ॒स्तु॒। अन्न॑म्। ७१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

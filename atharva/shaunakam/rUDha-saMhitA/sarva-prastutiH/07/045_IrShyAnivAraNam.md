@@ -32,14 +32,17 @@ A charm against jealousy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/045_IrShyAnivAraNam/01_janAdvishvajanInAtsindhutasparyAbhRtam_dUrAttvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जना॑द् विश्वज॒नीना॑त् सिन्धु॒तस्पर्याभृ॑तम्।  
-दू॒रात् त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम्॥१॥  
+जना॑द्विश्वज॒नीना॑त्सिन्धु॒तस्पर्याभृ॑तम्।  
+दू॒रात्त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045_IrShyAnivAraNam/01_janAdvishvajanInAtsindhutasparyAbhRtam_dUrAttvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जना॑द्विश्वज॒नीना॑त्सिन्धु॒तस्पर्याभृ॑तम्। दू॒रात्त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम् ॥
+जना॑द्विश्वज॒नीना॑त्सिन्धु॒तस्पर्याभृ॑तम्।  
+दू॒रात्त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/01_janAdvishvajanInAtsindhutasparyAbhRtam_dUrAttvA.md">
@@ -90,7 +93,7 @@ Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from 
 </details>
 <details><summary>पदपाठः</summary>
 
-जनात्। विश्वऽजनीनात्। सिन्धुतः। परि। आऽभृतम्। दूरात्। त्वा। मन्ये। उत्ऽभृतम्। ईर्ष्यायाः। नाम। भेषजम्। ४६.१।
+जना॑त्। वि॒श्व॒ऽज॒नीना॑त्। सि॒न्धु॒तः। परि॑। आऽभृ॑तम्। दू॒रात्। त्वा॒। म॒न्ये॒। उत्ऽभृ॑तम्। ई॒र्ष्यायाः॑। नाम॑। भे॒ष॒जम्। ४६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -122,13 +125,16 @@ Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्नेरि॑वास्य॒ दह॑तो दा॒वस्य॒ दह॑तः॒ पृथ॑क्।  
-ए॒तामे॒तस्ये॒र्ष्यामु॒द्राग्निमि॑व शमय ॥२॥
+ए॒तामे॒तस्ये॒र्ष्यामु॒द्नाग्निमि॑व शमय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्नेरि॑वास्य॒ दह॑तो दा॒वस्य॒ दह॑तः॒ पृथ॑क्। ए॒तामे॒तस्ये॒र्ष्यामु॒द्नाग्निमि॑व शमय ॥
+अ॒ग्नेरि॑वास्य॒ दह॑तो दा॒वस्य॒ दह॑तः॒ पृथ॑क्।  
+ए॒तामे॒तस्ये॒र्ष्यामु॒द्नाग्निमि॑व शमय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/045_IrShyAnivAraNam/02_agnerivAsya_dahato.md">
@@ -144,7 +150,7 @@ As one with water quencheth fire, so calm this lover's jealousy, Like heat of fi
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्नेःऽइव। अस्य। दहतः। दावस्य। दहतः। पृथक्। एताम्। एतस्य। ईर्ष्याम्। उद्ना। अग्निम्ऽइव। शमय। ४७.१।
+अ॒ग्नेःऽइ॑व। अ॒स्य॒। दह॑तः। दा॒वस्य॑। दह॑तः। पृथ॑क्। ए॒ताम्। ए॒तस्य॑। ई॒र्ष्याम्। उ॒द्ना। अ॒ग्निम्ऽइ॑व। श॒म॒य॒। ४७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm against all sorts of worms
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/01_indrasya_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ या म॒ही दृ॒षत् क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी ।  
-तया॑ पिनष्मि॒ सं क्रिमी॑न् दृ॒षदा॒ खल्वाँ॑ इव ॥१॥  
+इन्द्र॑स्य॒ या म॒ही दृ॒षत्क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी।  
+तया॑ पिनष्मि॒ सं क्रिमी॑न्दृ॒षदा॒ खल्वाँ॑ इव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/01_indrasya_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्य॒ या म॒ही दृ॒षत्क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी। तया॑ पिनष्मि॒ सं क्रिमी॑न्दृ॒षदा॒ खल्वाँ॑ इव ॥
+इन्द्र॑स्य॒ या म॒ही दृ॒षत्क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी।  
+तया॑ पिनष्मि॒ सं क्रिमी॑न्दृ॒षदा॒ खल्वाँ॑ इव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/01_indrasya_yA.md">
@@ -69,7 +72,7 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। या। मही। दृषत्। क्रिमेः। विश्वस्य। तर्हणी। तया। पिनष्मि। सम्। क्रिमीन्। दृषदा। खल्वान्ऽइव। ३१.१।
+इन्द्र॑स्य। या। म॒ही। दृ॒षत्। क्रिमेः॑। विश्व॑स्य। तर्ह॑णी। तया॑। पि॒न॒ष्मि॒। सम्। क्रिमी॑न्। दृ॒षदा॑। खल्वा॑न्ऽइव। ३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,13 +104,16 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दृ॒ष्टम॒दृष्ट॑मतृह॒मथो॑ कु॒रूरु॑मतृहम्।  
-अ॒ल्गण्डू॒न्त्सर्वा॑न् छ॒लुना॒न् क्रिमी॒न् वच॑सा जम्भयामसि ॥२॥  
+अ॒ल्गण्डू॒न्त्सर्वा॑न्छ॒लुना॒न्क्रिमी॒न्वच॑सा जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दृ॒ष्टम॒दृष्ट॑मतृह॒मथो॑ कु॒रूरु॑मतृहम्। अ॒ल्गण्डू॒न्त्सर्वा॑न्छ॒लुना॒न्क्रिमी॒न्वच॑सा जम्भयामसि ॥
+दृ॒ष्टम॒दृष्ट॑मतृह॒मथो॑ कु॒रूरु॑मतृहम्।  
+अ॒ल्गण्डू॒न्त्सर्वा॑न्छ॒लुना॒न्क्रिमी॒न्वच॑सा जम्भयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
@@ -141,7 +147,7 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 </details>
 <details><summary>पदपाठः</summary>
 
-दृष्टम्। अदृष्टम्। अतृहम्। अथो इति। कुरूरुम्। अतृहम्। अल्गण्डून्। सर्वान्। शलुनान्। क्रिमीन्। वचसा। जम्भयामसि। ३१.२।
+दृ॒ष्टम्। अ॒दृष्ट॑म्। अ॒तृ॒ह॒म्। अथो॒ इति॑। कु॒रूरु॑म्। अ॒तृ॒ह॒म्। अ॒ल्गण्डू॑न्। सर्वा॑न्। श॒लुना॑न्। क्रिमी॑न्। वच॑सा। ज॒म्भ॒या॒म॒सि॒। ३१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,14 +178,17 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ल्गण्डू॑न् हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्।  
-शि॒ष्टानशि॑ष्टा॒न् नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥३॥  
+अ॒ल्गण्डू॑न्हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्।  
+शि॒ष्टानशि॑ष्टा॒न्नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ल्गण्डू॑न्हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्। शि॒ष्टानशि॑ष्टा॒न्नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥
+अ॒ल्गण्डू॑न्हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्।  
+शि॒ष्टानशि॑ष्टा॒न्नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
@@ -202,7 +211,7 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 </details>
 <details><summary>पदपाठः</summary>
 
-अल्गण्डून्। हन्मि। महता। वधेन। दूनाः। अदूनाः। अरसाः। अभूवन्। शिष्टान्। अशिष्टान्। नि। तिरामि। वाचा। यथा। क्रिमीणाम्। नकिः। उत्ऽशिषातै। ३१.३।
+अ॒ल्गण्डू॑न्। ह॒न्मि॒। म॒ह॒ता। व॒धेन॑। दू॒नाः। अदू॑नाः। अ॒र॒साः। अ॒भू॒व॒न्। शि॒ष्टान्। अशि॑ष्टान्। नि। ति॒रा॒मि॒। वा॒चा। यथा॑। क्रिमी॑णाम्। नकिः॑। उ॒त्ऽशिषा॑तै। ३१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -233,14 +242,17 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अन्वा॑न्त्र्यं शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्।  
-अ॒व॒स्क॒वं व्य॑ध्व॒रं क्रिमी॒न् वच॑सा जम्भयामसि ॥४॥  
+अन्वा॑न्त्र्यं॒ शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्।  
+अ॑वस्क॒वं व्य॑ध्व॒रं क्रिमी॒न्वच॑सा जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अन्वा॑न्त्र्यं॒ शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्। अ॑वस्क॒वं व्य॑ध्व॒रं क्रिमी॒न्वच॑सा जम्भयामसि ॥
+अन्वा॑न्त्र्यं॒ शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्।  
+अ॑वस्क॒वं व्य॑ध्व॒रं क्रिमी॒न्वच॑सा जम्भयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
@@ -275,7 +287,7 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 </details>
 <details><summary>पदपाठः</summary>
 
-अनुऽआन्त्र्यम्। शीर्षण्यम्। अथो इति। पार्ष्टेयम्। क्रिमीन्। अवस्कवम्। विऽअध्वरम्। क्रिमीन्। वचसा। जम्भयामसि। ३१.४।
+अनु॑ऽआन्त्र्यम्। शी॒र्ष॒ण्य॑म्। अथो॒ इति॑। पार्ष्टे॑यम्। क्रिमी॑न्। अ॒व॒स्क॒वम्। वि॒ऽअ॒ध्व॒रम्। क्रिमी॑न्। वच॑सा। ज॒म्भ॒या॒म॒सि॒। ३१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -306,14 +318,17 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये क्रिम॑यः॒ पर्व॑तेशु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः ।  
-ये अ॒स्माकं॑ त॒न्वऽमाविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम्॥५॥
+ये क्रिम॑यः॒ पर्व॑तेषु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः।  
+ये अ॒स्माकं॑ त॒न्व॑माविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये क्रिम॑यः॒ पर्व॑तेषु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः। ये अ॒स्माकं॑ त॒न्व॑माविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम् ॥
+ये क्रिम॑यः॒ पर्व॑तेषु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः।  
+ये अ॒स्माकं॑ त॒न्व॑माविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/05_ye_krimayaH.md">
@@ -343,7 +358,7 @@ Worms that are found on mountains, in the forests, that live in plants, in cattl
 </details>
 <details><summary>पदपाठः</summary>
 
-ये क्रिमयः। पर्वतेषु। वनेषु। ओषधीषु। पशुषु। अप्ऽसु। अन्तः। ये। अस्माकम्। तन्व᳡म्। आऽविविशुः। सर्वम्। तत्। हन्मि। जनिम। क्रिमीणाम्। ३१.५।
+ये क्रिम॑यः। पर्व॑तेषु। वने॑षु। ओष॑धीषु। प॒शुषु॑। अ॒प्ऽसु। अ॒न्तः। ये। अ॒स्माक॑म्। त॒न्व᳡म्। आ॒ऽवि॒वि॒शुः। सर्व॑म्। तत्। ह॒न्मि॒। जनि॑म। क्रिमी॑णाम्। ३१.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

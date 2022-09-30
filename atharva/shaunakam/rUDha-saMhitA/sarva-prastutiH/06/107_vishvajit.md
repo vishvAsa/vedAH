@@ -32,14 +32,17 @@ Translated: Griffith, i. 303.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑जित् त्रायमा॒णायै॑ मा॒ परि॑ देहि ।  
-त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द् यच्च॑ नः॒ स्वम्॥१॥  
+विश्व॑जित्त्रायमा॒णायै॑ मा॒ परि॑ देहि।  
+त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विश्व॑जित्त्रायमा॒णायै॑ मा॒ परि॑ देहि। त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+विश्व॑जित्त्रायमा॒णायै॑ मा॒ परि॑ देहि।  
+त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
@@ -62,7 +65,7 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वऽजित्। त्रायमाणायै। मा। परि। देहि। त्रायमाणे। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.१।
+विश्व॑ऽजित्। त्रा॒य॒मा॒णायै॑। मा॒। परि॑। दे॒हि॒। त्राय॑माणे। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि ।  
-विश्व॑जिद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥२॥  
+त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि।  
+विश्व॑जिद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि। विश्व॑जिद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि।  
+विश्व॑जिद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
@@ -121,7 +127,7 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रायमाणे। विश्वऽजिते। मा। परि। देहि। विश्वऽजित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.२।
+त्राय॑माणे। वि॒श्व॒ऽजिते॑। मा॒। परि॑। दे॒हि॒। विश्व॑ऽजित्। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विश्व॑जित् कल्या॒ण्यैऽ मा॒ परि॑ देहि ।  
-कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥३॥  
+विश्व॑जित्कल्या॒ण्यै᳡ मा॒ परि॑ देहि।  
+कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विश्व॑जित्कल्या॒ण्यै᳡ मा॒ परि॑ देहि। कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+विश्व॑जित्कल्या॒ण्यै᳡ मा॒ परि॑ देहि।  
+कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
@@ -179,7 +188,7 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वऽजित्। कल्याण्यै᳡। मा। परि। देहि। कल्याणि। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.३।
+विश्व॑ऽजित्। क॒ल्या॒ण्यै᳡। मा॒। परि॑। दे॒हि॒। कल्या॑णि। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -210,14 +219,17 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि ।  
-सर्व॑विद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्॥४॥
+कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि।  
+सर्व॑विद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि। सर्व॑विद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि।  
+सर्व॑विद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/04_kalyANi_sarvavide.md">
@@ -238,7 +250,7 @@ To Sarvavid entrust me, O Kalyani. O Sarvavid, guard all our men, guard all our 
 </details>
 <details><summary>पदपाठः</summary>
 
-कल्याणि। सर्वऽविदे। मा। परि। देहि। सर्वऽवित्। द्विऽपात्। च। सर्वम्। नः। रक्ष। चतुःऽपात्। यत्। च। नः। स्वम्। १०७.४।
+कल्या॑णि। स॒र्व॒ऽविदे॑। मा॒। परि॑। दे॒हि॒। सर्व॑ऽवित्। द्वि॒ऽपात्। च॒। सर्व॑म्। नः॒। रक्ष॑। चतुः॑ऽपात्। यत्। च॒। नः॒। स्वम्। १०७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

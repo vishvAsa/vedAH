@@ -36,14 +36,17 @@ A charm against hereditary disease (kshetriya)
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के ।  
-वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम्॥१॥  
+उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
+वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के। वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
+वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
@@ -82,7 +85,7 @@ Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inhe
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। अगाताम्। भगवती इति भगऽवती। विऽचृतौ। नाम। तारके इति। वि। क्षेत्रियस्य। मुञ्चताम्। अधमम्। पाशम्। उत्ऽतमम्। ८.१।
+उत्। अ॒गा॒ता॒म्। भग॑वती॒ इति॒ भग॑ऽवती। वि॒ऽचृतौ॑। नाम॑। तार॑के॒ इति॑। वि। क्षे॒त्रि॒यस्य॑। मु॒ञ्च॒ता॒म्। अ॒ध॒मम्। पाश॑म्। उ॒त्ऽत॒मम्। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -113,14 +116,17 @@ Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inhe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः ।  
-वी॒रुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥२॥  
+अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः।  
+वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः। वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः।  
+वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
@@ -146,7 +152,7 @@ Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So 
 </details>
 <details><summary>पदपाठः</summary>
 
-अप। इयम्। रात्री। उच्छतु। अप। उच्छन्तु। अभिऽकृत्वरीः। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.२।
+अप॑। इ॒यम्। रात्री॑। उ॒च्छ॒तु॒। अप॑। उ॒च्छ॒न्तु॒। अ॒भि॒ऽकृत्व॑रीः। वी॒रुत्। क्षे॒त्रि॒य॒ऽनाश॑नी। अप॑। क्षे॒त्रि॒यम्। उ॒च्छ॒तु॒। ८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -178,13 +184,16 @@ Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब॒भ्रोरर्जु॑नकाण्डस्य॒ यव॑स्य ते पला॒ल्या तिल॑स्य तिलपि॒ञ्ज्या।  
-वीरुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥३॥  
+वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब॒भ्रोरर्जु॑नकाण्डस्य॒ यव॑स्य ते पला॒ल्या तिल॑स्य तिलपि॒ञ्ज्या। वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+ब॒भ्रोरर्जु॑नकाण्डस्य॒ यव॑स्य ते पला॒ल्या तिल॑स्य तिलपि॒ञ्ज्या।  
+वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
@@ -209,7 +218,7 @@ With straw of barley tawny-brown in colour with its silvery ears, with stalk and
 </details>
 <details><summary>पदपाठः</summary>
 
-बभ्रोः। अर्जुनऽकाण्डस्य। यवस्य। ते। पलाल्या। तिलस्य। तिलऽपिञ्ज्या। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.३।
+ब॒भ्रोः। अर्जु॑नऽकाण्डस्य। यव॑स्य। ते॒। प॒ला॒ल्या। तिल॑स्य। ति॒ल॒ऽपि॒ञ्ज्या। वी॒रुत्। क्षे॒त्रि॒य॒ऽनाश॑नी। अप॑। क्षे॒त्रि॒यम्। उ॒च्छ॒तु॒। ८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -240,14 +249,17 @@ With straw of barley tawny-brown in colour with its silvery ears, with stalk and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते॒ लाङ्ग॑लेभ्यो॒ नम॑ ईषायु॒गेभ्यः॑ ।  
-वी॒रुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥४॥  
+नम॑स्ते॒ लाङ्ग॑लेभ्यो॒ नम॑ ईषायु॒गेभ्यः॑।  
+वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते॒ लाङ्ग॑लेभ्यो॒ नम॑ ईषायु॒गेभ्यः॑। वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+नम॑स्ते॒ लाङ्ग॑लेभ्यो॒ नम॑ ईषायु॒गेभ्यः॑।  
+वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
@@ -272,7 +284,7 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। लाङ्गलेभ्यः। नमः। ईषाऽयुगेभ्यः। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.४।
+नमः॑। ते॒। लाङ्ग॑लेभ्यः। नमः॑। ई॒षा॒ऽयु॒गेभ्यः॑। वी॒रुत्। क्षे॒त्रि॒य॒ऽनाश॑नी। अप॑। क्षे॒त्रि॒यम्। उ॒च्छ॒तु॒। ८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -303,14 +315,17 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्येऽभ्यः ।  
-नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत् क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑छतु ॥५॥
+नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्ये॑भ्यः।  
+नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्ये॑भ्यः। नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्ये॑भ्यः।  
+नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
@@ -346,7 +361,7 @@ Homage to men with blinking eyes, homage to those who hear and act! To the Field
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। सनिस्रसऽअक्षेभ्यः। नमः। सम्ऽदेश्ये᳡भ्यः। नमः। क्षेत्रस्य। पतये। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.५।
+नमः॑। स॒नि॒स्र॒स॒ऽअ॒क्षेभ्यः॑। नमः॑। स॒म्ऽदे॒श्ये᳡भ्यः। नमः॑। क्षेत्र॑स्य। पत॑ये। वी॒रुत्। क्षे॒त्रि॒य॒ऽनाश॑नी। अप॑। क्षे॒त्रि॒यम्। उ॒च्छ॒तु॒। ८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

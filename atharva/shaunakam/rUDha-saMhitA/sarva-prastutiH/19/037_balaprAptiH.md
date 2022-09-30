@@ -36,15 +36,17 @@ A charm to secure long life and dominion to a prince
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/01_idaM_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न् भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
-त्रय॑स्त्रिंश॒द् यानि॑ च वी॒र्याणि॒ तान्य॒ग्निः प्र द॑दातु मे ॥१॥  
+इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न्भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
+त्रय॑स्त्रिंश॒द्यानि॑ च वी॒र्या᳡णि॒ तान्य॒ग्निः प्र द॑दातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/01_idaM_varcho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न् भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
-त्रय॑स्त्रिंश॒द् यानि॑ च वी॒र्याणि॒ तान्य॒ग्निः प्र द॑दातु मे ॥१॥  
+इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न्भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
+त्रय॑स्त्रिंश॒द्यानि॑ च वी॒र्या᳡णि॒ तान्य॒ग्निः प्र द॑दातु मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/01_idaM_varcho.md">
@@ -71,7 +73,7 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। वर्चः। अग्निना। दत्तम्। आ। अगन्। भर्गः। यशः। सहः। ओजः। वयः। बलम्। त्रयःऽत्रिंशत्। यानि। च। वीर्या᳡णि। तानि। अग्निः। प्र। ददातु। मे। ३७.१।
+इ॒दम्। वर्चः॑। अ॒ग्निना॑। द॒त्तम्। आ। अ॒ग॒न्। भर्गः॑। यशः॑। सहः॑। ओजः॑। वयः॑। बल॑म्। त्रयः॑ऽत्रिंशत्। यानि॑। च॒। वी॒र्या᳡णि। तानि॑। अ॒ग्निः। प्र। द॒दा॒तु॒। मे॒। ३७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +104,17 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/02_varcha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्च॒ आ धे॑हि मे त॒न्वां॒३ सह॒ ओजो॒ वयो॒ बल॑म्।  
-इ॒न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्याय॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥२॥  
+वर्च॒ आ धे॑हि मे त॒न्वां३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्।  
+इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/02_varcha_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वर्च॒ आ धे॑हि मे त॒न्वां३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्। इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
+वर्च॒ आ धे॑हि मे त॒न्वां३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्।  
+इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/02_varcha_A.md">
@@ -141,7 +146,7 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 </details>
 <details><summary>पदपाठः</summary>
 
-वर्चः। आ। धेहि। मे। तन्वा᳡म्। सहः। ओजः। वयः। बलम्। इन्द्रियाय। त्वा। कर्मणे। वीर्या᳡य। प्रति। गृह्णामि। शतऽशारदाय। ३७.२।
+वर्चः॑। आ। धे॒हि॒। मे॒। त॒न्वा᳡म्। सहः॑। ओजः॑। वयः॑। बल॑म्। इ॒न्द्रि॒याय॑। त्वा॒। कर्म॑णे। वी॒र्या᳡य। प्रति॑। गृ॒ह्णा॒मि॒। श॒तऽशा॑रदाय। ३७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,15 +177,17 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/03_Urje_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा ।  
-अ॒भि॒भूया॑य त्वा रा॒ष्ट्रभृ॑त्याय॒ पर्यू॑हामि श॒तशा॑रदाय ॥३॥  
+ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
+अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/03_Urje_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा ।  
-अ॒भि॒भूया॑य त्वा रा॒ष्ट्रभृ॑त्याय॒ पर्यू॑हामि श॒तशा॑रदाय ॥३॥  
+ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
+अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/03_Urje_tvA.md">
@@ -207,7 +214,7 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्जे। त्वा। बलाय। त्वा। ओजसे। सहसे। त्वा। अभिऽभूयाय। त्वा। राष्ट्रऽभृत्याय। परि। ऊहामि। शतऽशारदाय। ३७.३।
+ऊ॒र्जे। त्वा॒। बला॑य। त्वा॒। ओज॑से। सह॑से। त्वा॒। अ॒भि॒ऽभूया॑य। त्वा॒। रा॒ष्ट्रऽभृ॑त्याय। परि॑। ऊ॒हा॒मि॒। श॒तऽशा॑रदाय। ३७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -238,15 +245,17 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑ ।  
-धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥४॥
+ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
+धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑ ।  
-धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥४॥
+ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
+धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
@@ -287,7 +296,7 @@ With Seasons and with Season-groups, for vigour and extended life. With splendou
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतुऽभ्यः। त्वा। आर्तवेभ्यः। मात्ऽभ्यः। सम्ऽवत्सरेभ्यः। धात्रे। विऽधात्रे। सम्ऽऋधे। भूतस्य। पतये। यजे। ३७.४।
+ऋ॒तुऽभ्यः॑। त्वा॒। आ॒र्त॒वेभ्यः॑। मा॒त्ऽभ्यः। स॒म्ऽव॒त्स॒रेभ्यः॑। धा॒त्रे। वि॒ऽधा॒त्रे। स॒म्ऽऋधे॑। भू॒तस्य॑। पत॑ये। य॒जे॒। ३७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

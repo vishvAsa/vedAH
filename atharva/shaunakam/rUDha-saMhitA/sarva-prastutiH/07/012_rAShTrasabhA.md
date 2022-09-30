@@ -37,13 +37,16 @@ A prayer for influence at deliberative and religious meetings
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने।  
-येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥१॥  
+येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/01_sabhA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने। येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥
+स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने।  
+येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/01_sabhA_cha.md">
@@ -73,7 +76,7 @@ In concord may Prajapati's two daughters, Gathering and As- sembly, both protect
 </details>
 <details><summary>पदपाठः</summary>
 
-सभा। च। मा। सम्ऽइतिः। च। अवताम्। प्रजाऽपतेः। दुहितरौ। संविदाने इति सम्ऽविदाने। येन। सम्ऽगच्छै। उप। मा। सः। शिक्षात्। चारु। वदानि। पितरः। सम्ऽगतेषु। १३.१।
+स॒भा। च॒। मा॒। सम्ऽइ॑तिः। च॒। अ॒व॒ता॒म्। प्र॒जाऽप॑तेः। दु॒हि॒तरौ॑। सं॒वि॒दा॒ने इति॑ स॒म्ऽवि॒दा॒ने। येन॑। स॒म्ऽगच्छै॑। उप॑। मा॒। सः। शि॒क्षा॒त्। चारु॑। व॒दा॒नि॒। पि॒त॒रः॒। सम्ऽग॑तेषु। १३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ In concord may Prajapati's two daughters, Gathering and As- sembly, both protect
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि ।  
-ये ते॒ के च॑ सभा॒सद॒स्ते मे॑ सन्तु॒ सवा॑चसः ॥२॥  
+वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि।  
+ये ते॒ के च॑ सभा॒सद॑स्ते मे सन्तु॒ सवा॑चसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/02_vidma_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि। ये ते॒ के च॑ सभा॒सद॑स्ते मे सन्तु॒ सवा॑चसः ॥
+वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि।  
+ये ते॒ के च॑ सभा॒सद॑स्ते मे सन्तु॒ सवा॑चसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/02_vidma_te.md">
@@ -135,7 +141,7 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 </details>
 <details><summary>पदपाठः</summary>
 
-विद्म। ते। सभे। नाम। नरिष्टा। नाम। वै। असि। ये। ते। के। च। सभाऽसदः। ते। मे। सन्तु। सऽवाचसः। १३.२।
+वि॒द्म। ते॒। स॒भे॒। नाम॑। न॒रिष्टा॑। नाम॑। वै। अ॒सि॒। ये। ते॒। के। च॒। स॒भा॒ऽसदः॑। ते। मे॒। स॒न्तु॒। सऽवा॑चसः। १३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे ।  
-अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥३॥  
+ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे।  
+अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे। अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥
+ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे।  
+अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
@@ -193,7 +202,7 @@ Of these men seated here I make the splendour and the lore mine own. Indra, make
 </details>
 <details><summary>पदपाठः</summary>
 
-एषाम्। अहम्। सम्ऽआसीनानाम्। वर्चः। विऽज्ञानम्। आ। ददे। अस्याः। सर्वस्याः। सम्ऽसदः। माम्। इन्द्र। भगिनम्। कृणु। १३.३।
+ए॒षाम्। अ॒हम्। स॒म्ऽआसी॑नानाम्। वर्चः॑। वि॒ऽज्ञान॑म्। आ। द॒दे॒। अ॒स्याः। सर्व॑स्याः। स॒म्ऽसदः॑। माम्। इ॒न्द्र॒। भ॒गिन॑म्। कृ॒णु॒। १३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,14 +233,17 @@ Of these men seated here I make the splendour and the lore mine own. Indra, make
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वो॒ मनः॒ परा॑गतं॒ यद् ब॒द्धमि॒ह वे॒ह वा॑ ।  
-तद् व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥४॥
+यद्वो॒ मनः॒ परा॑गतं॒ यद्ब॒द्धमि॒ह वे॒ह वा॑।  
+तद्व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्वो॒ मनः॒ परा॑गतं॒ यद्ब॒द्धमि॒ह वे॒ह वा॑। तद्व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥
+यद्वो॒ मनः॒ परा॑गतं॒ यद्ब॒द्धमि॒ह वे॒ह वा॑।  
+तद्व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
@@ -252,7 +264,7 @@ Whether your thoughts are turned away, or bound and fastened here or there, We d
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। वः। मनः। पराऽगतम्। यत्। बध्दम्। इह। वा। इह। वा। तत्। वः। आ। वर्तयामसि। मयि। वः। रमताम्। मनः। १३.४।
+यत्। वः॒। मनः॑। परा॑ऽगतम्। यत्। ब॒ध्दम्। इ॒ह। वा॒। इ॒ह। वा॒। तत्। वः॒। आ। व॒र्त॒या॒म॒सि॒। मयि॑। वः॒। र॒म॒ता॒म्। मनः॑। १३.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

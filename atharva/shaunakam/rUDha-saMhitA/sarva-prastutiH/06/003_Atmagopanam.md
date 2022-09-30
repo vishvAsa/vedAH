@@ -36,14 +36,17 @@ A prayer to various deities for protection and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/01_pAtaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒तं न॑ इन्द्रापूष॒णादि॑तिः॒ पान्तु॑ म॒रुतः॑ ।  
-अपां॑ नपात् सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥१॥  
+पा॒तं न॑ इन्द्रापूष॒णादि॑तिः पान्तु म॒रुतः॑।  
+अपां॑ नपात्सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/01_pAtaM_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पा॒तं न॑ इन्द्रापूष॒णादि॑तिः पान्तु म॒रुतः॑। अपां॑ नपात्सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥
+पा॒तं न॑ इन्द्रापूष॒णादि॑तिः पान्तु म॒रुतः॑।  
+अपां॑ नपात्सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/01_pAtaM_na.md">
@@ -65,7 +68,7 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 </details>
 <details><summary>पदपाठः</summary>
 
-पातम्। नः। इन्द्रापूषणा। अदितिः। पान्तु। मरुतः। अपाम्। नपात्। सिन्धवः। सप्त। पातन। पातु। नः। विष्णुः। उत। द्यौः। ३.१।
+पा॒तम्। नः॒। इ॒न्द्रा॒पू॒ष॒णा॒। अदि॑तिः। पान्तु॑। म॒रुतः॑। अपा॑म्। न॒पा॒त्। सि॒न्ध॒वः॒। स॒प्त। पा॒त॒न॒। पातु॑। नः॒। विष्णुः॑। उ॒त। द्यौः। ३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/02_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः ।  
-पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥२॥  
+पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः।  
+पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/02_pAtAM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः। पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥
+पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः।  
+पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/02_pAtAM_no.md">
@@ -133,7 +139,7 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 </details>
 <details><summary>पदपाठः</summary>
 
-पाताम्। नः। द्यावापृथिवी इति। अभिष्टये। पातु। ग्रावा। पातु। सोमः। नः। अंहसः। पातु। नः। देवी। सुऽभगा। सरस्वती। पातु। अग्निः। शिवाः। ये। अस्य। पायवः। ३.२।
+पा॒ताम्। नः॒। द्यावा॑पृथि॒वी इति॑। अ॒भिष्ट॑ये। पातु॑। ग्रावा॑। पातु॑। सोमः॑। नः॒। अंह॑सः। पातु॑। नः॒। दे॒वी। सु॒ऽभगा॑। सर॑स्वती। पातु॑। अ॒ग्निः। शि॒वाः। ये। अ॒स्य॒। पा॒यवः॑। ३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +171,16 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्।  
-अपां॑ नपा॒दभिह्रुती॒ गय॑स्य चि॒द देव॑ त्वष्टर्व॒र्ध॑य॑ स॒र्वता॑तये ॥
+अपां॑ नपा॒दभि॑ह्रुती॒ गय॑स्य चि॒द्देव॑ त्वष्टर्व॒र्धय॑ स॒र्वता॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/03_pAtAM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्। अपां॑ नपा॒दभि॑ह्रुती॒ गय॑स्य चि॒द्देव॑ त्वष्टर्व॒र्धय॑ स॒र्वता॑तये ॥
+पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्।  
+अपां॑ नपा॒दभि॑ह्रुती॒ गय॑स्य चि॒द्देव॑ त्वष्टर्व॒र्धय॑ स॒र्वता॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/03_pAtAM_no.md">
@@ -201,7 +210,7 @@ Preserve us both the Asvins, Gods and Lords of Light, and let the Dawns and Nigh
 </details>
 <details><summary>पदपाठः</summary>
 
-पाताम्। नः। देवा। अश्विना। शुभः। पती इति। उषासानक्ता। उत। नः। उरुष्यताम्। अपाम्। नपात्। अभिह्रुती। इत्यभिऽह्रुती। गयस्य। चित्। देव। त्वष्टः। वर्धय। सर्वऽतातये। ३.३।
+पा॒ताम्। नः॒। दे॒वा। अ॒श्विना॑। शु॒भः। प॒ती इति॑। उ॒षासा॒नक्ता॑। उ॒त। नः॒। उ॒रु॒ष्य॒ता॒म्। अपा॑म्। न॒पा॒त्। अभि॑ह्रुती॒। इत्यभि॑ऽह्रुती। गय॑स्य। चि॒त्। देव॑। त्व॒ष्टः॒। व॒र्धय॑। स॒र्वऽता॑तये। ३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

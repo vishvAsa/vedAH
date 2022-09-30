@@ -32,14 +32,17 @@ Translated: Ludwig, p. 448; Griffith, i. 320.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं वज्र॑स्तर्पयतामृ॒तस्यावा॑स्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्।  
-शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥१॥  
+अ॒यं वज्र॑स्तर्पयतामृ॒तस्या॑वास्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्।  
+शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं वज्र॑स्तर्पयतामृ॒तस्या॑वास्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्। शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+अ॒यं वज्र॑स्तर्पयतामृ॒तस्या॑वास्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्।  
+शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
@@ -72,7 +75,7 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। वज्रः। तर्पयताम्। ऋतस्य। अव। अस्य। राष्ट्रम्। अप। हन्तु। जीवितम्। शृणातु। ग्रीवाः। प्र। शृणातु। उष्णिहा। वृत्रस्यऽइव। शचीऽपतिः। १३४.१।
+अ॒यम्। वज्रः॑। त॒र्प॒य॒ता॒म्। ऋ॒तस्य॑। अव॑। अ॒स्य॒। रा॒ष्ट्रम्। अप॑। ह॒न्तु॒। जी॒वि॒तम्। शृ॒णातु॑। ग्री॒वाः। प्र। शृ॒णा॒तु॒। उ॒ष्णिहा॑। वृ॒त्रस्य॑ऽइव। शची॒ऽपतिः॑। १३४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत् सृपत्।  
-वज्रे॒णाव॑हतः शयाम्॥२॥  
+अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत्सृ॑पत्।  
+वज्रे॒णाव॑हतः शयाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत्सृ॑पत्। वज्रे॒णाव॑हतः शयाम् ॥
+अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत्सृ॑पत्।  
+वज्रे॒णाव॑हतः शयाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
@@ -131,7 +137,7 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 </details>
 <details><summary>पदपाठः</summary>
 
-अधरःऽअधरः। उत्तरेभ्यः। गूढः। पृथिव्याः। मा। उत्। सृपत्। वज्रेण। अवऽहतः। शयाम्। १३४.२।
+अध॑रःऽअधरः। उत्त॑रेभ्यः। गू॒ढः। पृ॒थि॒व्याः। मा। उत्। सृ॒प॒त्। वज्रे॑ण। अव॑ऽहतः। श॒या॒म्। १३४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो जि॒नाति॒ तमन्वि॑च्छ यो जि॒नाति॒ तमिज्ज॑हि ।  
-जि॒न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥३॥
+यो जि॒नाति॒ तमन्वि॑च्छ॒ यो जि॒नाति॒ तमिज्ज॑हि।  
+जि॑न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो जि॒नाति॒ तमन्वि॑च्छ॒ यो जि॒नाति॒ तमिज्ज॑हि। जि॑न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥
+यो जि॒नाति॒ तमन्वि॑च्छ॒ यो जि॒नाति॒ तमिज्ज॑हि।  
+जि॑न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/03_yo_jinAti.md">
@@ -196,7 +205,7 @@ Seek out the fierce oppressor, yea, strike only the oppressor dead. Down on the 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। जिनाति। तम्। अनु। इच्छ। यः। जिनाति। तम्। इत्। जहि। जिनतः। वज्र। त्वम्। सीमन्तम्। अन्वञ्चम्। अनु। पातय। १३४.३।
+यः। जि॒नाति॑। तम्। अनु॑। इ॒च्छ॒। यः। जि॒नाति॑। तम्। इत्। ज॒हि॒। जि॒न॒तः। व॒ज्र॒। त्वम्। सी॒मन्त॑म्। अ॒न्वञ्च॑म्। अनु॑। पा॒त॒य॒। १३४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

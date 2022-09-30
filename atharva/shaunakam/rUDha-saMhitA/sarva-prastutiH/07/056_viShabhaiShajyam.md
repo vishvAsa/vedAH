@@ -36,14 +36,17 @@ A charm against poisonous bites and stings
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तिर॑श्चिराजेरसि॒तात् पृदा॑कोः॒ परि॒ संभृ॑तम्।  
-तत् क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत्॥१॥  
+तिर॑श्चिराजेरसि॒तात्पृदा॑कोः॒ परि॒ संभृ॑तम्।  
+तत्क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तिर॑श्चिराजेरसि॒तात्पृदा॑कोः॒ परि॒ संभृ॑तम्। तत्क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत् ॥
+तिर॑श्चिराजेरसि॒तात्पृदा॑कोः॒ परि॒ संभृ॑तम्।  
+तत्क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
@@ -66,7 +69,7 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 </details>
 <details><summary>पदपाठः</summary>
 
-त‍िरश्चिऽराजेः। असितात्। पृदाकोः। परि। सम्ऽभृतम्। तत्। कङ्कपर्वणः। विषम्। इयम्। वीरुत्। अनीनशत्। ५८.१।
+त‍िर॑श्चिऽराजेः। अ॒सि॒तात्। पृदा॑कोः। परि॑। सम्ऽभृ॑तम्। तत्। क॒ङ्कप॑र्वणः। वि॒षम्। इ॒यम्। वी॒रुत्। अ॒नी॒न॒श॒त्। ५८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं वी॒रुन्मधु॑जाता मधु॒श्चुन्म॑धु॒ला म॒धूः ।  
-सा विह्रु॑तस्य भेष॒ज्यथो॑ मशक॒जम्भ॑नी ॥२॥  
+इ॒यं वी॒रुन्मधु॑जाता मधु॒श्चुन्म॑धु॒ला म॒धूः।  
+सा विह्रु॑तस्य भेष॒ज्यथो॑ मशक॒जम्भ॑नी ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒यं वी॒रुन्मधु॑जाता मधु॒श्चुन्म॑धु॒ला म॒धूः। सा विह्रु॑तस्य भेष॒ज्यथो॑ मशक॒जम्भ॑नी ॥
+इ॒यं वी॒रुन्मधु॑जाता मधु॒श्चुन्म॑धु॒ला म॒धूः।  
+सा विह्रु॑तस्य भेष॒ज्यथो॑ मशक॒जम्भ॑नी ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
@@ -126,7 +132,7 @@ Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine th
 </details>
 <details><summary>पदपाठः</summary>
 
-इयम्। वीरुत्। मधुऽजाता। मधुऽश्चुत्। मधुला। मधूः। सा। विऽह्रुतस्य। भेषजी। अथो इति। मशकऽजम्भनी। ५८.२।
+इ॒यम्। वी॒रुत्। मधु॑ऽजाता। म॒धु॒ऽश्चुत्। म॒धु॒ला। म॒धूः। सा। विऽह्रु॑तस्य। भे॒ष॒जी। अथो॒ इति॑। म॒श॒क॒ऽजम्भ॑नी। ५८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यतो॑ द॒ष्टं यतो॑ धी॒तं तत॑स्ते॒ निर्ह्व॑यामसि ।  
-अ॒र्भस्य॑ तृप्रदं॒शिनो॑ म॒शक॑स्यार॒सं वि॒षम्॥३॥  
+यतो॑ द॒ष्टं यतो॑ धी॒तं तत॑स्ते॒ निर्ह्व॑यामसि।  
+अ॒र्भस्य॑ तृप्रदं॒शिनो॑ म॒शक॑स्यार॒सं वि॒षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/03_yato_daShTam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यतो॑ द॒ष्टं यतो॑ धी॒तं तत॑स्ते॒ निर्ह्व॑यामसि। अ॒र्भस्य॑ तृप्रदं॒शिनो॑ म॒शक॑स्यार॒सं वि॒षम् ॥
+यतो॑ द॒ष्टं यतो॑ धी॒तं तत॑स्ते॒ निर्ह्व॑यामसि।  
+अ॒र्भस्य॑ तृप्रदं॒शिनो॑ म॒शक॑स्यार॒सं वि॒षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
@@ -193,7 +202,7 @@ Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectu
 </details>
 <details><summary>पदपाठः</summary>
 
-यतः। दष्टम्। यतः। धीतम्। ततः। ते। निः। ह्वयामसि। अर्भस्य। तृप्रऽदंशिनः। मशकस्य। अरसम्। विषम्। ५८.३।
+यतः॑। द॒ष्टम्। यतः॑। धी॒तम्। ततः॑। ते॒। निः। ह्व॒या॒म॒सि॒। अ॒र्भस्य॑। तृ॒प्र॒ऽदं॒शिनः॑। म॒शक॑स्य। अ॒र॒सम्। वि॒षम्। ५८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,14 +233,17 @@ Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं यो व॒क्रो विप॑रु॒र्व्यऽङ्गो॒ मुखा॑नि व॒क्रा वृ॑जि॒ना कृ॒णोषि॑ ।  
-तानि॒ त्वं ब्र॑ह्मणस्पत इ॒षीका॑मिव॒ सं न॑मः ॥४॥  
+अ॒यं यो व॒क्रो विप॑रु॒र्व्य᳡ङ्गो॒ मुखा॑नि व॒क्रा वृ॑जि॒ना कृ॒णोषि॑।  
+तानि॒ त्वं ब्र॑ह्मणस्पत इ॒षीका॑मिव॒ सं न॑मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/04_ayaM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं यो व॒क्रो विप॑रु॒र्व्य᳡ङ्गो॒ मुखा॑नि व॒क्रा वृ॑जि॒ना कृ॒णोषि॑। तानि॒ त्वं ब्र॑ह्मणस्पत इ॒षीका॑मिव॒ सं न॑मः ॥
+अ॒यं यो व॒क्रो विप॑रु॒र्व्य᳡ङ्गो॒ मुखा॑नि व॒क्रा वृ॑जि॒ना कृ॒णोषि॑।  
+तानि॒ त्वं ब्र॑ह्मणस्पत इ॒षीका॑मिव॒ सं न॑मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
@@ -256,7 +268,7 @@ Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, Th
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। यः। वक्रः। विऽपरुः। विऽअङ्गः। मुखानि। वक्रा। वृजिना। कृणोषि। तानि। त्वम्। ब्रह्मणः। पते। इषीकाम्ऽइव। सम्। नमः। ५८.४।
+अ॒यम्। यः। व॒क्रः। विऽप॑रुः। विऽअ॑ङ्गः। मुखा॑नि। व॒क्रा। वृ॒जि॒ना। कृ॒णोषि॑। तानि॑। त्वम्। ब्र॒ह्म॒णः॒। प॒ते॒। इ॒षीका॑म्ऽइव। सम्। न॒मः॒। ५८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -287,14 +299,17 @@ Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, Th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒र॒सस्य॑ श॒र्कोट॑स्य नी॒चीन॑स्योप॒सर्प॑तः ।  
-वि॒षं ह्य॑१स्यादि॒ष्यथो॑ एनमजीजभम्॥५॥  
+अ॑र॒सस्य॑ श॒र्कोट॑स्य नी॒चीन॑स्योप॒सर्प॑तः।  
+वि॒षं ह्य१॒॑स्यादि॒ष्यथो॑ एनमजीजभम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑र॒सस्य॑ श॒र्कोट॑स्य नी॒चीन॑स्योप॒सर्प॑तः। वि॒षं ह्यस्यादि॒ष्यथो॑ एनमजीजभम् ॥
+अ॑र॒सस्य॑ श॒र्कोट॑स्य नी॒चीन॑स्योप॒सर्प॑तः।  
+वि॒षं ह्य१॒॑स्यादि॒ष्यथो॑ एनमजीजभम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
@@ -316,7 +331,7 @@ This scorpion here that creeps along, low on the ground and powerless-- I have r
 </details>
 <details><summary>पदपाठः</summary>
 
-अरसस्य। शर्कोटस्य। नीचीनस्य। उपऽसर्पतः। विषम्। हि। अस्य। आऽअदिषि। अथो इति। एनम्। अजीजभम्। ५८.५।
+अ॒र॒सस्य॑। श॒र्कोट॑स्य। नी॒चीन॑स्य। उ॒प॒ऽसर्प॑तः। वि॒षम्। हि। अ॒स्य॒। आ॒ऽअदि॑षि। अथो॒ इति॑। ए॒न॒म्। अ॒जी॒ज॒भ॒म्। ५८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -347,14 +362,17 @@ This scorpion here that creeps along, low on the ground and powerless-- I have r
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/06_na_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न ते॑ बा॒ह्वोर्बल॑मस्ति॒ न शी॒र्षे नोत म॑ध्य॒तः ।  
-अथ॒ किं पा॒पया॑मु॒या पुच्छे॑ बिभर्ष्यर्भ॒कम्॥६॥  
+न ते॑ बा॒ह्वोर्बल॑मस्ति॒ न शी॒र्षे नोत म॑ध्य॒तः।  
+अथ॒ किं पा॒पया॑ऽमु॒या पुच्छे॑ बिभर्ष्यर्भ॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/06_na_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न ते॑ बा॒ह्वोर्बल॑मस्ति॒ न शी॒र्षे नोत म॑ध्य॒तः। अथ॒ किं पा॒पया॑ऽमु॒या पुच्छे॑ बिभर्ष्यर्भ॒कम् ॥
+न ते॑ बा॒ह्वोर्बल॑मस्ति॒ न शी॒र्षे नोत म॑ध्य॒तः।  
+अथ॒ किं पा॒पया॑ऽमु॒या पुच्छे॑ बिभर्ष्यर्भ॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/06_na_te.md">
@@ -377,7 +395,7 @@ No strength in thy two arms hast thou, nor in thy head, nor in thy waist: Then w
 </details>
 <details><summary>पदपाठः</summary>
 
-न। ते। बाह्वोः। बलम्। अस्ति। न। शीर्षे। न। उत। मध्यतः। अथ। किम्। पापया। अमुया। पुच्छे। बिभर्षि। अर्भकम्। ५८.६।
+न। ते॒। बा॒ह्वोः। बल॑म्। अ॒स्ति॒। न। शी॒र्षे। न। उ॒त। म॒ध्य॒तः। अथ॑। किम्। पा॒पया॑। अ॒मु॒या। पुच्छे॑। बि॒भ॒र्षि॒। अ॒र्भ॒कम्। ५८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -408,14 +426,17 @@ No strength in thy two arms hast thou, nor in thy head, nor in thy waist: Then w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दन्ति॑ त्वा पि॒पीलि॑का॒ वि वृ॑श्चन्ति मयू॒र्यः ।  
-सर्वे॑ भल ब्रवाथ॒ शार्को॑टमर॒सं वि॒षम्॥७॥  
+अ॒दन्ति॑ त्वा पि॒पीलि॑का॒ वि वृ॑श्चन्ति मयू॒र्यः᳡।  
+सर्वे॑ भल ब्रवाथ॒ शार्को॑टमर॒सं वि॒षम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/07_adanti_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒दन्ति॑ त्वा पि॒पीलि॑का॒ वि वृ॑श्चन्ति मयू॒र्यः᳡। सर्वे॑ भल ब्रवाथ॒ शार्को॑टमर॒सं वि॒षम् ॥
+अ॒दन्ति॑ त्वा पि॒पीलि॑का॒ वि वृ॑श्चन्ति मयू॒र्यः᳡।  
+सर्वे॑ भल ब्रवाथ॒ शार्को॑टमर॒सं वि॒षम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
@@ -439,7 +460,7 @@ The emmets make a meal of thee and peahens tear and mangle thee: All ye are cryi
 </details>
 <details><summary>पदपाठः</summary>
 
-अदन्ति। त्वा। पिपीलिकाः। वि। वृश्चन्ति। मयूर्यः᳡। सर्वे। भल। ब्रवाथ। शार्कोटम्। अरसम्। विषम्। ५८.७।
+अ॒दन्ति॑। त्वा॒। पि॒पीलि॑काः। वि। वृ॒श्च॒न्ति॒। म॒यू॒र्यः᳡। सर्वे॑। भ॒ल॒। ब्र॒वा॒थ॒। शार्को॑टम्। अ॒र॒सम्। वि॒षम्। ५८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -470,14 +491,17 @@ The emmets make a meal of thee and peahens tear and mangle thee: All ye are cryi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्येऽन च ।  
-आ॒स्ये॒३ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत्॥८॥
+य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्ये᳡न च।  
+आ॒स्ये॒३॒॑ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्ये᳡न च। आ॒स्ये॒३॒॑ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत् ॥
+य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्ये᳡न च।  
+आ॒स्ये॒३॒॑ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
@@ -501,7 +525,7 @@ Thou creature who inflictest wounds both with thy mouth and with thy tail, No po
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। उभाभ्याम्। प्रऽहरसि। पुच्छेन। च। आस्ये᳡न। च। आस्ये᳡। न। ते। विषम्। किम्। ऊं इति। ते। पुच्छऽधौ। असत्। ५८.८।
+यः। उ॒भाभ्या॑म्। प्र॒ऽहर॑सि। पुच्छे॑न। च॒। आ॒स्ये᳡न। च॒। आ॒स्ये᳡। न। ते॒। वि॒षम्। किम्। ऊं॒ इति॑। ते॒। पु॒च्छ॒ऽधौ। अ॒स॒त्। ५८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

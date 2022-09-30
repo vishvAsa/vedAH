@@ -36,14 +36,17 @@ A prayer for deliverance from sin and other evils
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/01_apsu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प्सु ते॑ राजन् वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः ।  
-ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥१॥  
+अ॒प्सु ते॑ राजन्वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः।  
+ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/01_apsu_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒प्सु ते॑ राजन्वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः। ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥
+अ॒प्सु ते॑ राजन्वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः।  
+ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/01_apsu_te.md">
@@ -78,7 +81,7 @@ Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovr
 </details>
 <details><summary>पदपाठः</summary>
 
-अप्ऽसु। ते। राजन्। वरुण। गृहः। हिरण्ययः। मिथः। ततः। धृतऽव्रतः। राजा। सर्वा। धामानि। मुञ्चतु। ८८.१।
+अ॒प्ऽसु। ते॒। रा॒ज॒न्। व॒रु॒ण॒। गृ॒हः। हि॒र॒ण्ययः॑। मि॒थः। ततः॑। धृ॒तऽव्र॑तः। राजा॑। सर्वा॑। धामा॑नि। मु॒ञ्च॒तु॒। ८८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,15 +112,17 @@ Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-
-धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः ।  
-यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥२॥  
+धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः।  
+यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः। यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥
+धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः।  
+यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/02_dhAmnodhAmno_rAjannito.md">
@@ -161,7 +166,7 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 </details>
 <details><summary>पदपाठः</summary>
 
-धाम्नःऽधाम्नः। राजन्। इतः। वरुण। मुञ्च। नः। यत्। आपः। अघ्न्याः। इति। वरुण। इति। यत्। ऊचिम। ततः। वरुण। मुञ्च। नः। ८८.२।
+धाम्नः॑ऽधाम्नः। रा॒ज॒न्। इ॒तः। व॒रु॒ण॒। मु॒ञ्च॒। नः॒। यत्। आपः॑। अ॒घ्न्याः। इति॑। वरु॑ण। इति॑। यत्। ऊ॒चि॒म। ततः॑। व॒रु॒ण॒। मु॒ञ्च॒। नः॒। ८८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -212,8 +217,11 @@ From whatever oath by the waters, by the kine, by Varuna, we have sworn, From th
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय। अधा॑ व॒यमा॑दित्य व्र॒ते त॒वाना॑गसो॒ अदि॑तये स्याम ॥
+उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय।  
+अधा॑ व॒यमा॑दित्य व्र॒ते त॒वाना॑गसो॒ अदि॑तये स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/03_uduttamaM_varuNa.md">
@@ -240,7 +248,7 @@ Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and u
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। उत्ऽतमम्। वरुण। पाशम्। अस्मत्। अव। अधमम्। वि। मध्यमम्। श्रयथ। अध। वयम्। आदित्य। व्रते। तव। अनागसः। अदितये। स्याम। ८८.३।
+उत्। उ॒त्ऽत॒मम्। व॒रु॒ण॒। पाश॑म्। अ॒स्मत्। अव॑। अ॒ध॒मम्। वि। म॒ध्य॒मम्। श्र॒य॒थ॒। अध॑। व॒यम्। आ॒दि॒त्य॒। व्र॒ते। तव॑। अना॑गसः। अदि॑तये। स्या॒म॒। ८८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -271,14 +279,17 @@ Loosen the bonds, O Varuna, that hold us, loosen the bond. above, between, and u
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/083_pAshamochanam/04_prAsmatpAshAnvaruNa_muncha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रास्मत् पाशा॑न् वरुण मुञ्च॒ सर्वा॒न् य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये ।  
-दु॒ष्वप्न्यं॑ दुरि॒तं नि ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्॥४॥
+प्रास्मत्पाशा॑न्वरुण मुञ्च॒ सर्वा॒न्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
+दुः॒ष्वप्न्यं॑ दुरि॒तं निः ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/083_pAshamochanam/04_prAsmatpAshAnvaruNa_muncha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रास्मत्पाशा॑न्वरुण मुञ्च॒ सर्वा॒न्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये। दुः॒ष्वप्न्यं॑ दुरि॒तं निः ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+प्रास्मत्पाशा॑न्वरुण मुञ्च॒ सर्वा॒न्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
+दुः॒ष्वप्न्यं॑ दुरि॒तं निः ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/083_pAshamochanam/04_prAsmatpAshAnvaruNa_muncha.md">
@@ -306,7 +317,7 @@ Varuna, free us from all snares that bind us, Varuna's bonds, the upper and the 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। अस्मत्। पाशान्। वरुण। मुञ्च। सर्वान्। ये। उत्ऽतमाः। अधमाः। वारुणाः। ये। दुःऽस्वप्न्यम्। दुःऽइतम्। निः। स्व। अस्मत्। अथ। गच्छेम। सुऽकृतस्य। लोकम्। ८८.५।
+प्र। अ॒स्मत्। पाशा॑न्। व॒रु॒ण॒। मु॒ञ्च॒। सर्वा॑न्। ये। उ॒त्ऽत॒माः। अ॒ध॒माः। वा॒रु॒णाः। ये। दुः॒ऽस्वप्न्य॑म्। दुः॒ऽइ॒तम्। निः। स्व॒। अ॒स्मत्। अथ॑। ग॒च्छे॒म॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। ८८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

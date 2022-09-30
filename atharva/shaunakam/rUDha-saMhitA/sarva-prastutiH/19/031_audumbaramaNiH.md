@@ -36,15 +36,17 @@ A charm to ensure general prosperity, accompanying self-investiture with an amul
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/01_audumbareNa_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-औदु॑म्बरेण म॒णिना॒ पुष्टि॑कामाय वे॒धसा ।  
-प॒शूणां॒ सर्वे॑षां स्फा॒तिं गो॒ष्ठे मे॑ सवि॒ता क॑रत्॥१॥  
+औदु॑म्बरेण म॒णिना॒ पुष्टि॑कामाय वे॒धसा॑।  
+प॑शू॒णां सर्वे॑षां स्फा॒तिं गो॒ष्ठे मे॑ सवि॒ता क॑रत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/01_audumbareNa_maNinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-औदु॑म्बरेण म॒णिना॒ पुष्टि॑कामाय वे॒धसा ।  
-प॒शूणां॒ सर्वे॑षां स्फा॒तिं गो॒ष्ठे मे॑ सवि॒ता क॑रत्॥१॥  
+औदु॑म्बरेण म॒णिना॒ पुष्टि॑कामाय वे॒धसा॑।  
+प॑शू॒णां सर्वे॑षां स्फा॒तिं गो॒ष्ठे मे॑ सवि॒ता क॑रत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/01_audumbareNa_maNinA.md">
@@ -68,7 +70,7 @@ Savitar make all cattle grow and prosper in my stable with. Amulet of Udumbara, 
 </details>
 <details><summary>पदपाठः</summary>
 
-औदुम्बरेण। मणिना। पुष्ट‍िऽकामाय। वेधसा। पशूनाम्। सर्वेषाम्। स्फातिम‌्। गोऽस्थे। मे। सविता। करत्। ३१.१।
+औदु॑म्बरेण। म॒णिना॑। पुष्ट‍ि॑ऽकामाय। वे॒धसा॑। प॒शूना॑म्। सर्वे॑षाम्। स्फा॒तिम‌्। गो॒ऽस्थे। मे॒। स॒वि॒ता। क॒र॒त्। ३१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +102,16 @@ Savitar make all cattle grow and prosper in my stable with. Amulet of Udumbara, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नो॑ अ॒ग्निर्गार्ह॑पत्यः पशू॒नाम॑धि॒पा अस॑त्।  
-औदु॑म्बरो॒ वृषा॑ म॒णिः सं मा॑ सृजतु पु॒ष्ट्या॥२॥  
+औदु॑म्बरो॒ वृषा॑ म॒णिः सं मा॑ सृजतु पु॒ष्ट्या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/02_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यो नो॑ अ॒ग्निर्गार्ह॑पत्यः पशू॒नाम॑धि॒पा अस॑त्।  
-औदु॑म्बरो॒ वृषा॑ म॒णिः सं मा॑ सृजतु पु॒ष्ट्या॥२॥  
+औदु॑म्बरो॒ वृषा॑ म॒णिः सं मा॑ सृजतु पु॒ष्ट्या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/02_yo_no.md">
@@ -135,7 +139,7 @@ May he who was our Household Fire, the ruler of our cattle, strong. Amulet of Ud
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। अग्निः। गार्हऽपत्यः। पशूनाम्। अधिऽपाः। असत्। औदुम्बरः। वृषा। मणिः। सः। मा। सृजतु। पुष्ट्या। ३१.२।
+यः। नः॒। अ॒ग्निः। गार्ह॑ऽपत्यः। प॒शू॒नाम्। अ॒धि॒ऽपाः। अस॑त्। औदु॑म्बरः। वृषा॑। म॒णिः। सः। मा॒। सृ॒ज॒तु॒। पु॒ष्ट्या। ३१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,15 +170,17 @@ May he who was our Household Fire, the ruler of our cattle, strong. Amulet of Ud
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/03_karIShiNIM_phalavatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-क॒री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
-औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥३॥  
+क॑री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
+औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/03_karIShiNIM_phalavatIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-क॒री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
-औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥३॥  
+क॑री॒षिणीं॒ फल॑वतीं स्व॒धामिरां॑ च नो गृ॒हे।  
+औदु॑म्बरस्य॒ तेज॑सा धा॒ता पु॒ष्टिं द॑धातु मे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/03_karIShiNIM_phalavatIm.md">
@@ -197,7 +203,7 @@ By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's dr
 </details>
 <details><summary>पदपाठः</summary>
 
-करीषिणीम्। फलऽवतीम्। स्वधाम्। इराम्। च। नः। गृहे। औदुम्बरस्य। तेजसा। धाता। पुष्टिम्। दधातु। मे। ३१.३।
+क॒री॒षिणी॑म्। फल॑ऽवतीम्। स्व॒धाम्। इरा॑म्। च॒। नः॒। गृ॒हे। औदु॑म्बरस्य। तेज॑सा। धा॒ता। पु॒ष्टिम्। द॒धा॒तु॒। मे॒। ३१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,23 +230,25 @@ By power of the Udumbara Charm may Dhatar give me plenty, rich. In the kine's dr
 </details>
 </details>
 </div>
-## ०४ यद् द्विपाच्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/04_yad_dvipAchcha.md">
+## ०४ यद्द्विपाच्च चतुष्पाच्च
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/04_yaddvipAchcha_chatuShpAchcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् द्वि॒पाच्च॒ चतु॑ष्पाच्च॒ यान्यन्ना॑नि॒ ये रसाः॑ ।  
-गृ॒ह्णे॒३हं॑ त्वेषां॑ भू॒मानं॒ बिभ्र॒दौदु॑म्बरं म॒णिम्॥४॥  
+यद्द्वि॒पाच्च॒ चतु॑ष्पाच्च॒ यान्यन्ना॑नि॒ ये रसाः॑।  
+गृ॒ह्णे॒३॒॑हं त्वे॑षां भू॒मानं॒ बिभ्र॒दौदु॑म्बरं म॒णिम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/04_yad_dvipAchcha.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/04_yaddvipAchcha_chatuShpAchcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद् द्वि॒पाच्च॒ चतु॑ष्पाच्च॒ यान्यन्ना॑नि॒ ये रसाः॑ ।  
-गृ॒ह्णे॒३हं॑ त्वेषां॑ भू॒मानं॒ बिभ्र॒दौदु॑म्बरं म॒णिम्॥४॥  
+यद्द्वि॒पाच्च॒ चतु॑ष्पाच्च॒ यान्यन्ना॑नि॒ ये रसाः॑।  
+गृ॒ह्णे॒३॒॑हं त्वे॑षां भू॒मानं॒ बिभ्र॒दौदु॑म्बरं म॒णिम् ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/04_yad_dvipAchcha.md">
-<details open><summary><h3>०४ यद् द्विपाच्च ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/04_yaddvipAchcha_chatuShpAchcha.md">
+<details open><summary><h3>०४ यद्द्विपाच्च चतुष्पाच्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -262,7 +270,7 @@ I win great plenty, while I wear the Amulet of Udumbara. Of quadrupeds and biped
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। द्विऽपात्। च। चतुःपात्। च। यानि। अन्नानि। ये। रसाः। गृह्णे। अहम्। तु। एषाम्। भूमानम्। बिभ्रत्। औदुम्बरम्। मणिम्। ३१.४।
+यत्। द्वि॒ऽपात्। च॒। चतुः॑पात्। च॒। यानि॑। अन्ना॑नि। ये। रसाः॑। गृ॒ह्णे। अ॒हम्। तु। ए॒षा॒म्। भू॒मान॑म्। बिभ्र॑त्। औदु॑म्बरम्। म॒णिम्। ३१.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -293,15 +301,17 @@ I win great plenty, while I wear the Amulet of Udumbara. Of quadrupeds and biped
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/05_puShTiM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒ष्टिं प॑शू॒नां परि॑ जग्रभा॒हं चतु॑ष्पदां द्वि॒पदां॒ यच्च॑ धा॒न्यम्।  
-पयः॑ पशू॒नां रस॒मोष॑धीनां॒ बृह॒स्पतिः॑ सवि॒ता मे॒ नि य॑च्छात्॥५॥  
+पु॒ष्टिं प॑शू॒नां परि॑ जग्रभा॒हं चतु॑ष्पदां द्वि॒पदां॒ यच्च॑ धा॒न्य᳡म्।  
+पयः॑ पशू॒नां रस॒मोष॑धीनां॒ बृह॒स्पतिः॑ सवि॒ता मे॒ नि य॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/05_puShTiM_pashUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पु॒ष्टिं प॑शू॒नां परि॑ जग्रभा॒हं चतु॑ष्पदां द्वि॒पदां॒ यच्च॑ धा॒न्यम्।  
-पयः॑ पशू॒नां रस॒मोष॑धीनां॒ बृह॒स्पतिः॑ सवि॒ता मे॒ नि य॑च्छात्॥५॥  
+पु॒ष्टिं प॑शू॒नां परि॑ जग्रभा॒हं चतु॑ष्पदां द्वि॒पदां॒ यच्च॑ धा॒न्य᳡म्।  
+पयः॑ पशू॒नां रस॒मोष॑धीनां॒ बृह॒स्पतिः॑ सवि॒ता मे॒ नि य॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/05_puShTiM_pashUnAm.md">
@@ -322,7 +332,7 @@ I have obtained abundant wealth of cattle, bipeds and quad- rupeds, and corn in 
 </details>
 <details><summary>पदपाठः</summary>
 
-पुष्टिम्। पशूनाम्। परि। जग्रभ। अहम्। चतुःऽपदाम्। द्विऽपदाम्। यत्। च। धान्य᳡म्। पयः। पशूनाम्। रसम्। ओषधीनाम्। बृहस्पतिः। सविता। मे। नि। यच्छात्। ३१.५।
+पु॒ष्टिम्। प॒शू॒नाम्। परि॑। ज॒ग्र॒भ॒। अ॒हम्। चतुः॑ऽपदाम्। द्वि॒ऽपदाम्। यत्। च॒। धा॒न्य᳡म्। पयः॑। प॒शू॒नाम्। रस॑म्। ओष॑धीनाम्। बृह॒स्पतिः॑। स॒वि॒ता। मे॒। नि। य॒च्छा॒त्। ३१.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -353,15 +363,17 @@ I have obtained abundant wealth of cattle, bipeds and quad- rupeds, and corn in 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/06_ahaM_pashUnAmadhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हं प॑शू॒नाम॑धि॒पा अ॑सानि॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ।  
-मह्य॒मौदु॑म्बरो म॒णिर्द्रवि॑णानि॒ नि य॑च्छतु ॥६॥  
+अ॒हं प॑शू॒नाम॑धि॒पा असा॑नि॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु।  
+मह्य॒मौदु॑म्बरो म॒णिर्द्रवि॑णानि॒ नि य॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/06_ahaM_pashUnAmadhipA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं प॑शू॒नाम॑धि॒पा अ॑सानि॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ।  
-मह्य॒मौदु॑म्बरो म॒णिर्द्रवि॑णानि॒ नि य॑च्छतु ॥६॥  
+अ॒हं प॑शू॒नाम॑धि॒पा असा॑नि॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु।  
+मह्य॒मौदु॑म्बरो म॒णिर्द्रवि॑णानि॒ नि य॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/06_ahaM_pashUnAmadhipA.md">
@@ -384,7 +396,7 @@ Fain would I be the lord of herds of cattle: may he who rules o'er riches send m
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। पशूनाम्। अधिऽपाः। असानि। मयि। पुष्टम्। पुष्टऽपतिः। दधातु। मह्यम्। औदुम्बरः। मणिः। द्रविणानि। नि। यच्छतु। ३१.६।
+अ॒हम्। प॒शू॒नाम्। अ॒धि॒ऽपाः। अ॒सा॒नि॒। मयि॑। पु॒ष्टम्। पु॒ष्ट॒ऽपतिः॑। द॒धा॒तु॒। मह्य॑म्। औदु॑म्बरः। म॒णिः। द्रवि॑णानि। नि। य॒च्छ॒तु॒। ३१.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -415,15 +427,17 @@ Fain would I be the lord of herds of cattle: may he who rules o'er riches send m
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/07_upa_maudumbaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च ।  
-इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥७॥  
+उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च।  
+इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/07_upa_maudumbaro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च ।  
-इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥७॥  
+उप॒ मौदु॑म्बरो म॒णिः प्र॒जया॑ च॒ धने॑न च।  
+इन्द्रे॑ण जिन्वि॒तो म॒णिरा मा॑गन्त्स॒ह वर्च॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/07_upa_maudumbaro.md">
@@ -447,7 +461,7 @@ To me with wealth and children come the Amulet of Udumbara. With splendour come 
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। मा। औदुम्बरः। मणिः। प्रऽजया। च। धनेन। च। इन्द्रेण। जिन्वितः। मणिः। आ। मा। अगन्‌। सह। वर्चसा। ३१.७।
+उप॑। मा॒। औदु॑म्बरः। म॒णिः। प्र॒ऽजया॑। च॒। धने॑न। च॒। इन्द्रे॑ण। जि॒न्वि॒तः। म॒णिः। आ। मा॒। अ॒ग॒न्‌। स॒ह। वर्च॑सा। ३१.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -478,15 +492,17 @@ To me with wealth and children come the Amulet of Udumbara. With splendour come 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/08_devo_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वो म॒णिः स॑पत्न॒हा ध॑न॒सा धन॑सातये ।  
-प॒शोरन्न॑स्य भू॒मानं॒ गवां॑ स्फा॒तिं नि य॑च्छतु ॥८॥  
+दे॒वो म॒णिः स॑पत्न॒हा ध॑न॒सा धन॑सातये।  
+प॒शोरन्न॑स्य भू॒मानं॒ गवां॑ स्फा॒तिं नि य॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/08_devo_maNiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वो म॒णिः स॑पत्न॒हा ध॑न॒सा धन॑सातये ।  
-प॒शोरन्न॑स्य भू॒मानं॒ गवां॑ स्फा॒तिं नि य॑च्छतु ॥८॥  
+दे॒वो म॒णिः स॑पत्न॒हा ध॑न॒सा धन॑सातये।  
+प॒शोरन्न॑स्य भू॒मानं॒ गवां॑ स्फा॒तिं नि य॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/08_devo_maNiH.md">
@@ -510,7 +526,7 @@ Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give 
 </details>
 <details><summary>पदपाठः</summary>
 
-देवः। मणिः। सपत्नऽहाः। धनऽसाः। धनऽसातये। पशोः। अन्नस्‍य। भूमानम्। गवाम्। स्फातिम्। नि। यच्छतु। ३१.८।
+दे॒वः। म॒णिः। स॒प॒त्न॒ऽहाः। ध॒न॒ऽसाः। धन॑ऽसातये। प॒शोः। अन्न॑स्‍य। भू॒मान॑म्। गवा॑म्। स्फा॒तिम्। नि। य॒च्छ॒तु॒। ३१.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -542,14 +558,16 @@ Divine, foe-quelling Amulet, wealth-winner for the gain of wealth-- May it give 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथाग्रे॒ त्वं व॑नस्पते पु॒ष्ठ्या स॒ह ज॑ज्ञि॒षे।  
-ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥९॥  
+ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/09_yathAgre_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 यथाग्रे॒ त्वं व॑नस्पते पु॒ष्ठ्या स॒ह ज॑ज्ञि॒षे।  
-ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥९॥  
+ए॒वा धन॑स्य मे स्फा॒तिमा द॑धातु॒ सर॑स्वती ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/09_yathAgre_tvam.md">
@@ -571,7 +589,7 @@ As thou, O Forest Tree, wast born with increase when thy life began, So let Sara
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। अग्रे। त्वम्। वनस्पते। पुष्ट्या। सह। जज्ञिषे। एव। धनस्य। मे। स्फातिम्। आ। दधातु। सरस्वती। ३१.९।
+यथा॑। अग्रे॑। त्वम्। व॒न॒स्प॒ते॒। पु॒ष्ट्या। स॒ह। ज॒ज्ञि॒षे। ए॒व। धन॑स्य। मे॒। स्फा॒तिम्। आ। द॒धा॒तु॒। सर॑स्वती। ३१.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -602,14 +620,17 @@ As thou, O Forest Tree, wast born with increase when thy life began, So let Sara
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/10_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मे॒ धनं॒ सर॑स्वती॒ पय॑स्फातिं च धा॒न्यऽम्।  
-सि॒नी॒वा॒ल्युपा॑ वहाद॒यं चौदु॑म्बरो म॒णिः ॥१०॥  
+आ मे॒ धनं॒ सर॑स्वती॒ पय॑स्फातिं च धा॒न्य॑म्।  
+सि॑नीवा॒ल्युपा व॑हाद॒यं चौदु॑म्बरो म॒णिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/10_A_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ मे॒ धनं॒ सर॑स्वती॒ पय॑स्फातिं च धा॒न्य॑म्। सि॑नीवा॒ल्युपा व॑हाद॒यं चौदु॑म्बरो म॒णिः ॥
+आ मे॒ धनं॒ सर॑स्वती॒ पय॑स्फातिं च धा॒न्य॑म्।  
+सि॑नीवा॒ल्युपा व॑हाद॒यं चौदु॑म्बरो म॒णिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/10_A_me.md">
@@ -643,7 +664,7 @@ Sarasvati vouchsafe me wealth, household prosperity, and corn! Let Sinivali brin
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। मे। धनम्। सरस्वती। पयःऽस्‍फातिम्। च। धान्य᳡म्। सिनीवाली। उप। वहात्। अयम्। च। औदुम्बरः। मणिः। ३१.१०।
+आ। मे॒। धन॑म्। सर॑स्वती। पयः॑ऽस्‍फातिम्। च॒। धा॒न्य᳡म्। सि॒नी॒वा॒ली। उप॑। व॒हा॒त्। अ॒यम्। च॒। औदु॑म्बरः। म॒णिः। ३१.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -674,14 +695,17 @@ Sarasvati vouchsafe me wealth, household prosperity, and corn! Let Sinivali brin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/11_tvaM_maNInAmadhipA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं म॑णी॒नाम॑धि॒पा वृषा॑सि॒ त्वयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्जजान ।  
-त्वयी॒मे वाजा॒ द्रवि॑णानि॒ सर्वौदु॑म्बरः॒ स त्वम॒स्मत् स॑हस्वा॒रादरा॑ति॒मम॑तिं॒ क्षुधं॑ च॥११॥  
+त्वं म॑णी॒नाम॑धि॒पा वृषा॑सि॒ त्वयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्जजान।  
+त्वयी॒मे वाजा॒ द्रवि॑णानि॒ सर्वौदु॑म्बरः॒ स त्वम॒स्मत्स॑हस्वा॒रादा॒रादरा॑ति॒मम॑तिं॒ क्षुधं॑ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/11_tvaM_maNInAmadhipA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं म॑णी॒नाम॑धि॒पा वृषा॑सि॒ त्वयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्जजान। त्वयी॒मे वाजा॒ द्रवि॑णानि॒ सर्वौदु॑म्बरः॒ स त्वम॒स्मत्स॑हस्वा॒रादा॒रादरा॑ति॒मम॑तिं॒ क्षुधं॑ च ॥
+त्वं म॑णी॒नाम॑धि॒पा वृषा॑सि॒ त्वयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्जजान।  
+त्वयी॒मे वाजा॒ द्रवि॑णानि॒ सर्वौदु॑म्बरः॒ स त्वम॒स्मत्स॑हस्वा॒रादा॒रादरा॑ति॒मम॑तिं॒ क्षुधं॑ च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/11_tvaM_maNInAmadhipA.md">
@@ -713,7 +737,7 @@ The Lord of amulets art thou, most mighty: in thee wealth's ruler hath engendere
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। मणीनाम्। अधिऽपाः। वृषा। असि। त्वयि। पुष्टम्। पुष्टऽपतिः। जजान। त्वयि। इमे इति। वाजाः। द्रविणानि। सर्वा। औदुम्बरः। सः। त्वम्। अस्मत्। सहस्व। आरात्। अरातिम्। अमतिम्। क्षुधम्। च। ३१.११।
+त्वम्। म॒णी॒नाम्। अ॒धि॒ऽपाः। वृषा॑। अ॒सि॒। त्वयि॑। पु॒ष्टम्। पु॒ष्ट॒ऽपतिः॑। ज॒जा॒न॒। त्वयि॑। इ॒मे इति॑। वाजाः॑। द्रवि॑णानि। सर्वा॑। औदु॑म्बरः। सः। त्वम्। अ॒स्मत्। स॒ह॒स्व॒। आ॒रात्। अरा॑तिम्। अम॑तिम्। क्षुध॑म्। च॒। ३१.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -744,15 +768,17 @@ The Lord of amulets art thou, most mighty: in thee wealth's ruler hath engendere
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/12_grAmaNIrasi_grAmaNIrutthAyAbhiShikto-bhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ग्रा॒म॒णीर॑सि ग्राम॒णीरु॒त्थाया॒भिषि॑क्तो॒ऽभि मा॑ सिञ्च॒ वर्च॑सा ।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धार॒याधि॑ र॒यिर॑सि र॒यिं मे॑ धेहि ॥१२॥  
+ग्रा॑म॒णीर॑सि ग्राम॒णीरु॒त्थाया॒भिषि॑क्तो॒ऽभि मा॑ सिञ्च॒ वर्च॑सा।  
+तेजो॑ऽसि॒ तेजो॒ मयि॑ धार॒याधि॑ र॒यिर॑सि र॒यिं मे॑ धेहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/12_grAmaNIrasi_grAmaNIrutthAyAbhiShikto-bhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ग्रा॒म॒णीर॑सि ग्राम॒णीरु॒त्थाया॒भिषि॑क्तो॒ऽभि मा॑ सिञ्च॒ वर्च॑सा ।  
-तेजो॑ऽसि॒ तेजो॒ मयि॑ धार॒याधि॑ र॒यिर॑सि र॒यिं मे॑ धेहि ॥१२॥  
+ग्रा॑म॒णीर॑सि ग्राम॒णीरु॒त्थाया॒भिषि॑क्तो॒ऽभि मा॑ सिञ्च॒ वर्च॑सा।  
+तेजो॑ऽसि॒ तेजो॒ मयि॑ धार॒याधि॑ र॒यिर॑सि र॒यिं मे॑ धेहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/12_grAmaNIrasi_grAmaNIrutthAyAbhiShikto-bhi.md">
@@ -790,7 +816,7 @@ Vigour art thou, in me do thou plant vigour: riches art thou, so do thou grant m
 </details>
 <details><summary>पदपाठः</summary>
 
-ग्रामऽनीः। असि। ग्रामऽनीः। उत्थाय। अभिऽसिक्तः। अभि। मा। सिञ्च। वर्चसा। तेजः। असि। तेजः। मयि। धारय। अधि। रयिः। असि। रयिम्। मे। धेहि। ३१.१२।
+ग्रा॒म॒ऽनीः। अ॒सि॒। ग्रा॒म॒ऽनीः। उ॒त्थाय॑। अ॒भिऽसि॑क्तः। अ॒भि। मा॒। सि॒ञ्च॒। वर्च॑सा। तेजः॑। अ॒सि॒। तेजः॑। मयि॑। धा॒र॒य॒। अधि॑। र॒यिः। अ॒सि॒। र॒यिम्। मे॒। धे॒हि॒। ३१.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -821,15 +847,17 @@ Vigour art thou, in me do thou plant vigour: riches art thou, so do thou grant m
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/13_puShTirasi_puShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒ष्टिर॑सि पु॒ष्ट्या मा॒ सम॑ङ्ग्धि गृहमे॒धी गृ॒हप॑तिं मा कृणु ।  
-औदु॑म्बरः॒ स त्वम॒स्मासु॑ धेहि र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ रा॒यस्पोषा॑य॒ प्रति॑ मुञ्चे अ॒हं त्वाम्॥१३॥  
+पु॒ष्टिर॑सि पु॒ष्ट्या मा॒ सम॑ङ्ग्धि गृहमे॒धी गृ॒हप॑तिं मा कृणु।  
+औदु॑म्बरः॒ स त्वम॒स्मासु॑ धेहि र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ रा॒यस्पोषा॑य॒ प्रति॑ मुञ्चे अ॒हं त्वाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/13_puShTirasi_puShTyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पु॒ष्टिर॑सि पु॒ष्ट्या मा॒ सम॑ङ्ग्धि गृहमे॒धी गृ॒हप॑तिं मा कृणु ।  
-औदु॑म्बरः॒ स त्वम॒स्मासु॑ धेहि र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ रा॒यस्पोषा॑य॒ प्रति॑ मुञ्चे अ॒हं त्वाम्॥१३॥  
+पु॒ष्टिर॑सि पु॒ष्ट्या मा॒ सम॑ङ्ग्धि गृहमे॒धी गृ॒हप॑तिं मा कृणु।  
+औदु॑म्बरः॒ स त्वम॒स्मासु॑ धेहि र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छ रा॒यस्पोषा॑य॒ प्रति॑ मुञ्चे अ॒हं त्वाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/13_puShTirasi_puShTyA.md">
@@ -859,7 +887,7 @@ Amulet of Udumbara, enrich us: vouchsafe us wealth with all good men about us. I
 </details>
 <details><summary>पदपाठः</summary>
 
-पुष्टिः। असि। पुष्ट्या। मा। सम्। अङ्ग्धि। गृहऽमेधी। गृहऽपतिम्। मा। कृणु। औदुम्बरः। सः। त्वम्। अस्मासु। धेहि। रयिम्। च। नः। सर्वऽवीरम्। नि। यच्छ। रायः। पोषाय। प्रति। मुञ्चे। अहम्। त्वाम्। ३१.१३।
+पु॒ष्टिः। अ॒सि॒। पु॒ष्ट्या। मा॒। सम्। अ॒ङ्ग्धि॒। गृ॒ह॒ऽमे॒धी। गृ॒हऽप॑तिम्। मा॒। कृ॒णु॒। औदु॑म्बरः। सः। त्वम्। अ॒स्मासु॑। धे॒हि॒। र॒यिम्। च॒। नः॒। सर्व॑ऽवीरम्। नि। य॒च्छ॒। रा॒यः। पोषा॑य। प्रति॑। मु॒ञ्चे॒। अ॒हम्। त्वाम्। ३१.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -890,15 +918,17 @@ Amulet of Udumbara, enrich us: vouchsafe us wealth with all good men about us. I
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/031_audumbaramaNiH/14_ayamaudumbaro_maNirvIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यमौदु॑म्बरो म॒णिर्वी॒रो वी॒राय॑ बध्यते ।  
-स नः॑ स॒निं मधु॑मतीं कृणोतु र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छात्॥१४॥
+अ॒यमौदु॑म्बरो म॒णिर्वी॒रो वी॒राय॑ बध्यते।  
+स नः॑ स॒निं मधु॑मतीं कृणोतु र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/031_audumbaramaNiH/14_ayamaudumbaro_maNirvIro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यमौदु॑म्बरो म॒णिर्वी॒रो वी॒राय॑ बध्यते ।  
-स नः॑ स॒निं मधु॑मतीं कृणोतु र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छात्॥१४॥
+अ॒यमौदु॑म्बरो म॒णिर्वी॒रो वी॒राय॑ बध्यते।  
+स नः॑ स॒निं मधु॑मतीं कृणोतु र॒यिं च॑ नः॒ सर्व॑वीरं॒ नि य॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/031_audumbaramaNiH/14_ayamaudumbaro_maNirvIro.md">
@@ -920,7 +950,7 @@ For hero is this hero bound, Amulet of Udumbara. So may he make our offering swe
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। औदुम्बरः। मणि। वीरः। वीराय। बध्यते। सः। नः। सनिम्। मधुऽमतीम्। कृणोतु। रयिम्। च। नः। सर्वऽवीरम्। नि। यच्छात्। ३१.१४।
+अ॒यम्। औदु॑म्बरः। म॒णि। वी॒रः। वी॒राय॑। ब॒ध्य॒ते॒। सः। नः॒। स॒निम्। मधु॑ऽमतीम्। कृ॒णो॒तु॒। र॒यिम्। च॒। नः॒। सर्व॑ऽवीरम्। नि। य॒च्छा॒त्। ३१.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -28,14 +28,17 @@ In Pāipp. ⌊i.⌋ is found only the first half-verse, much corrupted. It is em
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/01_trite_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्येऽषु ममृजे ।  
-ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥१॥  
+त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्ये᳡षु ममृजे।  
+ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/01_trite_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्ये᳡षु ममृजे। ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्ये᳡षु ममृजे।  
+ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/01_trite_devA.md">
@@ -68,7 +71,7 @@ This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human b
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिते। देवाः। अमृजत। एतत्। एनः। त्रितः। एनत्। मनुष्ये᳡षु। ममृजे। ततः। यदि। त्वा। ग्राहिः। आनशे। ताम्। ते। देवाः। ब्रह्मणा। नाशयन्तु। ११३.१।
+त्रि॒ते। दे॒वाः। अ॒मृ॒ज॒त॒। ए॒तत्। एनः॑। त्रि॒तः। ए॒न॒त्। म॒नु॒ष्ये᳡षु। म॒मृ॒जे॒। ततः॑। यदि॑। त्वा॒। ग्राहिः॑। आ॒न॒शे। ताम्। ते॒। दे॒वाः। ब्रह्म॑णा। ना॒श॒य॒न्तु॒। ११३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human b
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मरी॑चीर्धू॒मान् प्र वि॒शानु॑ पाप्मन्नुदा॒रान् गच्छो॒त वा॑ नीहा॒रान्।  
-न॒दीनां॒ फेनाँ॒ अनु॒ तान् वि न॑श्य भ्रूण॒घ्नि पू॑षन् दुरि॒तानि॑ मृक्ष्व ॥२॥  
+मरी॑चीर्धू॒मान्प्र वि॒शानु॑ पाप्मन्नुदा॒रान्ग॑च्छो॒त वा॑ नीहा॒रान्।  
+न॒दीनां॒ फेनाँ॒ अनु॒ तान्वि न॑श्य भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मरी॑चीर्धू॒मान्प्र वि॒शानु॑ पाप्मन्नुदा॒रान्ग॑च्छो॒त वा॑ नीहा॒रान्। न॒दीनां॒ फेनाँ॒ अनु॒ तान्वि न॑श्य भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+मरी॑चीर्धू॒मान्प्र वि॒शानु॑ पाप्मन्नुदा॒रान्ग॑च्छो॒त वा॑ नीहा॒रान्।  
+न॒दीनां॒ फेनाँ॒ अनु॒ तान्वि न॑श्य भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
@@ -131,7 +137,7 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 </details>
 <details><summary>पदपाठः</summary>
 
-मरीचीः। धूमान्। प्र। विश। अनु। पाप्मन्। उत्ऽआरान्। गच्छ। उत। वा। नीहारान्। नदीनाम्। फेनान्। अनु। तान्। वि। नश्य। भ्रूणऽघ्नि। पूषन्। दुःऽइतानि। मृक्ष्व। ११३.२।
+मरी॑चीः। धू॒मान्। प्र। वि॒श॒। अनु॑। पा॒प्म॒न्। उ॒त्ऽआ॒रान्। ग॒च्छ॒। उ॒त। वा॒। नी॒हा॒रान्। न॒दीना॑म्। फेना॑न्। अनु॑। तान्। वि। न॒श्य॒। भ्रू॒ण॒ऽघ्नि। पू॒ष॒न्। दुः॒ऽइ॒तानि॑। मृ॒क्ष्व॒। ११३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -162,14 +168,17 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्वा॒द॒श॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑ ।  
-ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥३॥
+द्वा॑दश॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑।  
+ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्वा॑दश॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑। ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+द्वा॑दश॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑।  
+ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
@@ -197,7 +206,7 @@ Stored in twelve separate places lies what Trita hath wiped away, the sins of hu
 </details>
 <details><summary>पदपाठः</summary>
 
-द्वादशऽधा। निऽहितम्। त्रितस्य। अपऽमृष्टम्। मनुष्यऽएनसानि। ततः। यदि। त्वा। ग्राहिः। आनशे। ताम्। ते। देवाः। ब्रह्मणा। नाशयन्तु। ११३.३।
+द्वा॒द॒श॒ऽधा। निऽहि॑तम्। त्रि॒तस्य॑। अप॑ऽमृष्टम्। म॒नु॒ष्य॒ऽए॒न॒सानि॑। ततः॑। यदि॑। त्वा॒। ग्राहिः॑। आ॒न॒शे। ताम्। ते॒। दे॒वाः। ब्रह्म॑णा। ना॒श॒य॒न्तु॒। ११३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

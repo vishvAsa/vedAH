@@ -36,14 +36,17 @@ A charm for the destruction and plunder of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ह॑स्तः शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्।  
-सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥१॥  
+निर्ह॑स्तः॒ शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्।  
+सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्ह॑स्तः॒ शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्। सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥
+निर्ह॑स्तः॒ शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्।  
+सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
@@ -65,7 +68,7 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 </details>
 <details><summary>पदपाठः</summary>
 
-निःऽहस्तः। शत्रुः। अभिऽदासन्। अस्तु। ये। सेनाभिः। युधम्। आऽयन्ति। अस्मान्। सम्। अर्पय। इन्द्र। महता। वधेन। द्रातु। एषाम्। अघऽहारः। विऽविध्दः। ६६.१।
+निःऽह॑स्तः। शत्रुः॑। अ॒भि॒ऽदास॑न्। अ॒स्तु॒। ये। सेना॑भिः। युध॑म्। आ॒ऽयन्ति॑। अ॒स्मान्। सम्। अ॒र्प॒य॒। इ॒न्द्र॒। म॒ह॒ता। व॒धेन॑। द्रातु॑। ए॒षा॒म्। अ॒घ॒ऽहा॒रः। विऽवि॑ध्दः। ६६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒त॒न्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ ।  
-निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वोऽद्य परा॑शरीत्॥२॥  
+आ॑तन्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ।  
+निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वो॒ऽद्य परा॑शरीत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॑तन्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ। निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वो॒ऽद्य परा॑शरीत् ॥
+आ॑तन्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ।  
+निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वो॒ऽद्य परा॑शरीत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
@@ -136,7 +142,7 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽतन्वानाः। आऽयच्छन्तः। अस्यन्तः। ये। च। धावथ। निःऽहस्ताः। शत्रवः। स्थन। इन्द्रः। वः। अद्य। परा। अशरीत्। ६६.२।
+आ॒ऽत॒न्वा॒नाः। आ॒ऽयच्छ॑न्तः। अस्य॑न्तः। ये। च॒। धाव॑थ। निःऽह॑स्ताः। श॒त्र॒वः॒। स्थ॒न॒। इन्द्रः॑। वः॒। अ॒द्य। परा॑। अ॒श॒री॒त्। ६६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,14 +173,17 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि ।  
-अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥३॥
+निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि।  
+अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि। अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥
+निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि।  
+अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
@@ -195,7 +204,7 @@ Handless be these our enemies! We enervate their languid limbs. So let us part a
 </details>
 <details><summary>पदपाठः</summary>
 
-निःऽहस्ताः। सन्तु। शत्रवः। अङ्गा। एषाम्। म्लापयामसि। अथ। एषाम्। इन्द्र। वेदांसि। शतऽशः। वि। भजामहै। ६६.३।
+निःऽह॑स्ताः। स॒न्तु॒। शत्र॑वः। अङ्गा॑। ए॒षा॒म्। म्ला॒प॒या॒म॒सि॒। अथ॑। ए॒षा॒म्। इ॒न्द्र॒। वेदां॑सि। श॒त॒ऽशः। वि। भ॒जा॒म॒है॒। ६६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

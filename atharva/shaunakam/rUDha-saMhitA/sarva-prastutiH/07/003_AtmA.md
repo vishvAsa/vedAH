@@ -31,14 +31,17 @@ Translated: Henry, 2, 48; Griffith, i. 328.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/003_AtmA/01_ayA_viShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-१ अथर्वा (ब्रह्मवर्चसकामः) । आत्मा। त्रिष्टुप्, अ॒या वि॒ष्ठा ज॒नय॒न् कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः ।  
-स प्र॒त्युदै॑द् ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वाऽत॒न्वऽमैरयत ॥१॥
+अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः।  
+स प्र॒त्युदै॑द्ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वा᳡ त॒न्व᳡मैरयत ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/003_AtmA/01_ayA_viShThA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः। स प्र॒त्युदै॑द्ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वा᳡ त॒न्व᳡मैरयत ॥
+अ॒या वि॒ष्ठा ज॒नय॒न्कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः।  
+स प्र॒त्युदै॑द्ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वा᳡ त॒न्व᳡मैरयत ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/003_AtmA/01_ayA_viShThA.md">
@@ -74,7 +77,7 @@ of ours (Bp.W.T.R.p.m. *-at*; K. has *-yanta*). Ppp. has *dharuṇe* in
 </details>
 <details><summary>पदपाठः</summary>
 
-अया। विऽस्था। जनयन्। कर्वराणि। सः। हि। घृणिः। उरुः। वराय। गातुः। सः। प्रतिऽउदैत्। धरुणम्। मध्वः। अग्रम्। स्वया। तन्वा᳡। तन्व᳡म्। ऐरयत। ३.१।
+अ॒या। वि॒ऽस्था। ज॒नय॑न्। कर्व॑राणि। सः। हि। घृणिः॑। उ॒रुः। वरा॑य। गा॒तुः। सः। प्र॒ति॒ऽउदै॑त्। ध॒रुण॑म्। मध्वः॑। अग्र॑म्। स्वया॑। त॒न्वा᳡। त॒न्व᳡म्। ऐ॒र॒य॒त॒। ३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

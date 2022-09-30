@@ -36,14 +36,17 @@ A prayer for freedom from sin and the overthrow of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/034_shatrunAshanam/01_agne_jAtAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॑ जा॒तान् प्र णु॑दा मे स॒पत्ना॒न् प्रत्यजा॑तान् जातवेदो नुदस्व ।  
-अ॒ध॒स्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥१॥
+अग्ने॑ जा॒तान्प्र णु॑दा मे स॒पत्ना॒न्प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
+अ॑धस्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/034_shatrunAshanam/01_agne_jAtAnpra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्ने॑ जा॒तान्प्र णु॑दा मे स॒पत्ना॒न्प्रत्यजा॑ताञ्जातवेदो नुदस्व। अ॑धस्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥
+अग्ने॑ जा॒तान्प्र णु॑दा मे स॒पत्ना॒न्प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
+अ॑धस्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/034_shatrunAshanam/01_agne_jAtAnpra.md">
@@ -74,7 +77,7 @@ Agni, drive off my rivals born and living, repel those yet unborn, O Jatavedas. 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। जातान्। प्र। नुद। मे। सऽपत्नान्। प्रति। अजातान्। जातऽवेदः। नुदस्व। अधःऽपदम्। कृणुष्व। ये। पृतन्यवः। अनागसः। ते। वयम्। अदितये। स्याम। ३५.१।
+अग्ने॑। जा॒तान्। प्र। नु॒द॒। मे॒। स॒ऽपत्ना॑न्। प्रति॑। अजा॑तान्। जा॒तऽवे॒दः॒। नु॒द॒स्व॒। अ॒धः॒ऽप॒दम्। कृ॒णु॒ष्व॒। ये। पृ॒त॒न्यवः॑। अना॑गसः। ते। व॒यम्। अदि॑तये। स्या॒म॒। ३५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

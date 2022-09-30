@@ -32,14 +32,17 @@ A charm to avert misfortune foreshown by the coming of a dove
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देवाः॑ क॒पोत॑ इषि॒तो यदि॒छन् दू॒तो निरृ॑त्या इ॒दमा॑ज॒गाम॑ ।  
-तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥१॥  
+देवाः॑ क॒पोत॑ इषि॒तो यदि॒छन्दू॒तो निरृ॑त्या इ॒दमा॑ज॒गाम॑।  
+तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/01_devAH_kapota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-देवाः॑ क॒पोत॑ इषि॒तो यदि॒छन्दू॒तो निरृ॑त्या इ॒दमा॑ज॒गाम॑। तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥
+देवाः॑ क॒पोत॑ इषि॒तो यदि॒छन्दू॒तो निरृ॑त्या इ॒दमा॑ज॒गाम॑।  
+तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
@@ -62,7 +65,7 @@ Gods! whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destru
 </details>
 <details><summary>पदपाठः</summary>
 
-देवाः। कपोतः। इषितः। यत्। इच्छन्। दूतः। निःऽऋत्याः। इदम्। आऽजगाम। तस्मै। अर्चाम। कृणवाम। निःऽकृतिम्। शम्। नः। अस्तु। द्विऽपदे। शम्। चतुःऽपदे। २७.१।
+देवाः॑। क॒पोतः॑। इ॒षि॒तः। यत्। इ॒च्छन्। दू॒तः। निःऽऋ॑त्याः। इ॒दम्। आ॒ऽज॒गाम॑। तस्मै॑। अ॒र्चा॒म॒। कृ॒णवा॑म। निःऽकृ॑तिम्। शम्। नः॒। अ॒स्तु॒। द्वि॒ऽपदे॑। शम्। चतुः॑ऽपदे। २७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Gods! whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destru
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शि॒वः क॒पोत॒ इषि॒तो नो॑ अस्त्वना॒गा दे॑वाः शकु॒नो गृ॒हं नः॑ ।  
-अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥२॥  
+शि॒वः क॒पोत॑ इषि॒तो नो॑ अस्त्वना॒गा दे॒वाः श॑कु॒नो गृ॒हं नः॑।  
+अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शि॒वः क॒पोत॑ इषि॒तो नो॑ अस्त्वना॒गा दे॒वाः श॑कु॒नो गृ॒हं नः॑। अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥
+शि॒वः क॒पोत॑ इषि॒तो नो॑ अस्त्वना॒गा दे॒वाः श॑कु॒नो गृ॒हं नः॑।  
+अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
@@ -122,7 +128,7 @@ Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that see
 </details>
 <details><summary>पदपाठः</summary>
 
-शिवः। कपोतः। इषितः। नः। अस्तु। अनागाः। देवाः। शकुनः। गृहम्। नः। अग्निः। हि। विप्रः। जुषताम्। हविः। नः। परि। हेतिः। पक्षिणी। नः। वृणक्तु। २७.२।
+शि॒वः। क॒पोतः॑। इ॒षि॒तः। नः॒। अ॒स्तु॒। अ॒ना॒गाः। दे॒वाः॒। श॒कु॒नः। गृ॒हम्। नः॒। अ॒ग्निः। हि। विप्रः॑। जु॒षता॑म्। ह॒विः। नः॒। परि॑। हे॒तिः। प॒क्षिणी॑। नः॒। वृ॒ण॒क्तु॒। २७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,14 +159,17 @@ Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that see
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्री प॒दं कृ॑णुते अग्नि॒धाने॑ ।  
-शि॒वो गोभ्य॑ उ॒त पुरु॑षेभ्यो नो अस्तु॒ मा नो॑ देवा इ॒ह हिं॑सीत् क॒पोतः॑ ॥३॥
+हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्री प॒दं कृ॑णुते अग्नि॒धाने॑।  
+शि॒वो गोभ्य॑ उ॒त पुरु॑षेभ्यो नो अस्तु॒ मा नो॑ देवा इ॒ह हिं॑सीत्क॒पोतः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्री प॒दं कृ॑णुते अग्नि॒धाने॑। शि॒वो गोभ्य॑ उ॒त पुरु॑षेभ्यो नो अस्तु॒ मा नो॑ देवा इ॒ह हिं॑सीत्क॒पोतः॑ ॥
+हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्री प॒दं कृ॑णुते अग्नि॒धाने॑।  
+शि॒वो गोभ्य॑ उ॒त पुरु॑षेभ्यो नो अस्तु॒ मा नो॑ देवा इ॒ह हिं॑सीत्क॒पोतः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
@@ -186,7 +195,7 @@ Let not the arrow that hath wings distract us. Beside the fire- place, on the he
 </details>
 <details><summary>पदपाठः</summary>
 
-हेतिः। पक्षिणी। न। दभाति। अस्मान्। आष्ट्री इति। पदम्। कृणुते। अग्निऽधाने। शिवः। गोभ्यः। उत। पुरुषेभ्यः। नः। अस्तु। मा। नः। देवाः। इह। हिंसीत्। कपोतः। २७.३।
+हे॒तिः। प॒क्षिणी॑। न। द॒भा॒ति॒। अ॒स्मान्। आ॒ष्ट्री इति॑। प॒दम्। कृ॒णु॒ते॒। अ॒ग्नि॒ऽधाने॑। शि॒वः। गोभ्यः॑। उ॒त। पुरु॑षेभ्यः। नः॒। अ॒स्तु॒। मा। नः॒। दे॒वाः॒। इ॒ह। हिं॒सी॒त्। क॒पोतः॑। २७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

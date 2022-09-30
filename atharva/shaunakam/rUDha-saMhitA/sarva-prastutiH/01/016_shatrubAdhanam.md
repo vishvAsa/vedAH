@@ -36,14 +36,17 @@ A prayer and charm against demons
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येऽमावा॒स्यां॒३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑ ।  
-अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत्॥१॥  
+ये ऽमा॑वा॒स्यां॑३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑।  
+अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ऽमा॑वा॒स्यां॑३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑। अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत् ॥
+ये ऽमा॑वा॒स्यां॑३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑।  
+अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
@@ -74,7 +77,7 @@ May potent Agni who destroys the demons bless and shelter us. From greedy fiends
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अमाऽवास्याम्। रात्रिम्। उत्ऽअस्थुः। व्राजम्। अत्त्रिणः। अग्निः। तुरीयः। यातुऽहा। सः। अस्मभ्यम्। अधि। व्रवत्।
+ये। अ॒मा॒ऽवा॒स्याम्। रात्रि॑म्। उ॒त्ऽअस्थुः॑। व्रा॒जम्। अ॒त्त्रिणः॑। अ॒ग्निः। तु॒रीयः॑। या॒तु॒ऽहा। सः। अ॒स्मभ्य॑म्। अधि॑। व्र॒व॒त्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ May potent Agni who destroys the demons bless and shelter us. From greedy fiends
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सीसा॒याध्या॑ह॒ वरु॑णः॒ सीसा॑या॒ग्निरुपा॑वति ।  
-सीसं॑ म॒ इन्द्रः॒ प्राय॑च्छ॒त् तद॒ङ्ग या॑तु॒चात॑नम्॥२॥  
+सीसा॒याध्या॑ह॒ वरु॑णः॒ सीसा॑या॒ग्निरुपा॑वति।  
+सीसं॑ म॒ इन्द्रः॒ प्राय॑च्छ॒त्तद॒ङ्ग या॑तु॒चात॑नम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सीसा॒याध्या॑ह॒ वरु॑णः॒ सीसा॑या॒ग्निरुपा॑वति। सीसं॑ म॒ इन्द्रः॒ प्राय॑च्छ॒त्तद॒ङ्ग या॑तु॒चात॑नम् ॥
+सीसा॒याध्या॑ह॒ वरु॑णः॒ सीसा॑या॒ग्निरुपा॑वति।  
+सीसं॑ म॒ इन्द्रः॒ प्राय॑च्छ॒त्तद॒ङ्ग या॑तु॒चात॑नम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
@@ -136,7 +142,7 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 </details>
 <details><summary>पदपाठः</summary>
 
-सीसाय। अधि। आह। वरुणः। सीसाय। अग्निः। उप। अवति। सीसम्। मे। इन्द्रः। प्र। अयच्छत्। तत्। अङ्ग। यातुऽचातनम्।
+सीसा॑य। अधि॑। आ॒ह॒। वरु॑णः। सीसा॑य। अ॒ग्निः। उप॑। अ॒व॒ति॒। सीस॑म्। मे॒। इन्द्रः॑। प्र। अ॒य॒च्छ॒त्। तत्। अ॒ङ्ग। या॒तु॒ऽचात॑नम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,14 +173,17 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑ ।  
-अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥३॥  
+इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑।  
+अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑। अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥
+इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑।  
+अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
@@ -202,7 +211,7 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। विऽस्कन्धम्। सहते। इदम्। बाधते। अत्त्रिणः। अनेन। विश्वा। ससहे। या। जातानि। पिशाच्याः।
+इ॒दम्। विऽस्क॑न्धम्। स॒ह॒ते॒। इ॒दम्। बा॒ध॒ते॒। अ॒त्त्रिणः॑। अ॒नेन॑। विश्वा॑। स॒स॒हे॒। या। जा॒तानि॑। पि॒शा॒च्याः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -234,13 +243,16 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ नो॒ गां हंसि॒ यद्यश्वं॒ यदि॒ पूरु॑षम्।  
-तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नोऽसो॒ अवी॑रहा ॥४॥
+तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नो ऽसो॒ अवी॑रहा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/04_yadi_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॑ नो॒ गां हंसि॒ यद्यश्वं॒ यदि॒ पूरु॑षम्। तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नो ऽसो॒ अवी॑रहा ॥
+यदि॑ नो॒ गां हंसि॒ यद्यश्वं॒ यदि॒ पूरु॑षम्।  
+तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नो ऽसो॒ अवी॑रहा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/04_yadi_no.md">
@@ -282,7 +294,7 @@ If thou destroy a cow of ours, a human being, or a steed, We pierce thee with th
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। नः। गाम्। हंसि। यदि। अश्वम्। यदि। पुरुषम् ‌। तम्। त्वा। सीसेन। विध्यामः। यथा। नः। असः। अवीरऽहा।
+यदि॑। नः॒। गाम्। हंसि॑। यदि॑। अश्व॑म्। यदि॑। पुरु॑षम् ‌। तम्। त्वा॒। सीसे॑न। वि॒ध्या॒मः॒। यथा॑। नः॒। असः॑। अवी॑रऽहा। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

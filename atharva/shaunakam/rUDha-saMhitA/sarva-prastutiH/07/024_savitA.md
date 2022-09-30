@@ -36,14 +36,17 @@ A prayer for riches
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/024_savitA/01_yanna_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यन्न॒ इन्द्रो॒ अख॑न॒द् यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत् स्व॒र्काः ।  
-तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात्॥१॥
+यन्न॒ इन्द्रो॒ अख॑न॒द्यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत्स्व॒र्काः।  
+तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/024_savitA/01_yanna_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यन्न॒ इन्द्रो॒ अख॑न॒द्यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत्स्व॒र्काः। तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात् ॥
+यन्न॒ इन्द्रो॒ अख॑न॒द्यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत्स्व॒र्काः।  
+तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/01_yanna_indro.md">
@@ -66,7 +69,7 @@ What treasure hath been dug for us by Indra, by Agni, Visve- devas, tuneful Maru
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। नः। इन्द्रः। अखनत्। यत्। अग्निः। विश्वे। देवाः। मरुतः। यत्। सुऽअर्काः। तत्। अस्मभ्यम्। सविता। सत्यऽधर्मा। प्रजाऽपतिः। अनुऽपतिः। नि। यच्छात्। २५.१।
+यत्। नः॒। इन्द्रः॑। अख॑नत्। यत्। अ॒ग्निः। विश्वे॑। दे॒वाः। म॒रुतः॑। यत्। सु॒ऽअ॒र्काः। तत्। अ॒स्मभ्य॑म्। स॒वि॒ता। स॒त्यऽध॑र्मा। प्र॒जाऽप॑तिः। अनु॑ऽपतिः। नि। य॒च्छा॒त्। २५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

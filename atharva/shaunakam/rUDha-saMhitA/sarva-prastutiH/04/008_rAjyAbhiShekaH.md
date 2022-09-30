@@ -37,14 +37,17 @@ A benediction at the consecration of a King
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव ।  
-तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॑ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥१॥  
+भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव।  
+तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॒ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव। तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॒ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥
+भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव।  
+तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॒ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
@@ -78,7 +81,7 @@ The Being lays the sap of life in beings: he hath become the sovran Lord of crea
 </details>
 <details><summary>पदपाठः</summary>
 
-भूतः। भूतेषु। पयः। आ। दधाति। सः। भूतानाम्। अधिऽपतिः। बभूव। तस्य। मृत्युः। चरति। राजऽसूयम्। सः। राजा। राज्यम्। अनु। मन्यताम्। इदम्। ८.१।
+भू॒तः। भू॒तेषु॑। पयः॑। आ। द॒धा॒ति॒। सः। भू॒ताना॑म्। अधि॑ऽपतिः। ब॒भू॒व॒। तस्य॑। मृ॒त्युः। च॒र॒ति॒। रा॒ज॒ऽसूय॑म्। सः। राजा॑। रा॒ज्यम्। अनु॑। म॒न्य॒ता॒म्। इदम्। ८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,13 +113,16 @@ The Being lays the sap of life in beings: he hath become the sovran Lord of crea
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा।  
-आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन्॥२॥  
+आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा। आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन् ॥
+अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा।  
+आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
@@ -148,7 +154,7 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। प्र। इहि। मा। अप। वेनः। उग्रः। चेत्ता। सपत्नऽहा। आ। तिष्ठ। मित्रऽवर्धन। तुभ्यम्। देवाः। अधि। ब्रुवन्। ८.२।
+अ॒भि। प्र। इ॒हि॒। मा। अप॑। वे॒नः॒। उ॒ग्रः। चे॒त्ता। स॒प॒त्न॒ऽहा। आ। ति॒ष्ठ॒। मि॒त्र॒ऽव॒र्ध॒न॒। तुभ्य॑म्। दे॒वाः। अधि॑। ब्रु॒व॒न्। ८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -179,14 +185,17 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूषं॒छ्रियं॒ वसा॑नश्चरति॒ स्वरो॑चिः ।  
-म॒हत् तद् वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥३॥  
+आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूषं॒ छ्रियं॒ वसा॑नश्चरति॒ स्वरो॑चिः।  
+म॒हत्तद्वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूषं॒ छ्रियं॒ वसा॑नश्चरति॒ स्वरो॑चिः। म॒हत्तद्वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥
+आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूषं॒ छ्रियं॒ वसा॑नश्चरति॒ स्वरो॑चिः।  
+म॒हत्तद्वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
@@ -219,7 +228,7 @@ All waited on him as he came to meet them. He self-resplendent moves endued with
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽतिष्ठन्तम्। परि। विश्वे। अभूषन्। श्रियम्। वसानः। चरति। स्वऽरोचिः। महत्। तत्। वृष्णः। असुरस्य। नाम। आ। विश्वऽरूपः। अमृतानि। तस्थौ। ८.३।
+आ॒ऽतिष्ठ॑न्तम्। परि॑। विश्वे॑। अ॒भू॒ष॒न्। श्रिय॑म्। वसा॑नः। च॒र॒ति॒। स्वऽरो॑चिः। म॒हत्। तत्। वृष्णः॑। असु॑रस्य। नाम॑। आ। वि॒श्वऽरू॑पः। अ॒मृता॑नि। त॒स्थौ॒। ८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -250,14 +259,17 @@ All waited on him as he came to meet them. He self-resplendent moves endued with
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः ।  
-विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दिव्याः पय॑स्वतीः ॥४॥  
+व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः।  
+विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दि॒व्याः पय॑स्वतीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः। विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दि॒व्याः पय॑स्वतीः ॥
+व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः।  
+विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दि॒व्याः पय॑स्वतीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
@@ -283,7 +295,7 @@ Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all
 </details>
 <details><summary>पदपाठः</summary>
 
-व्याघ्रः। अधि। वैयाघ्रे। वि। क्रमस्व। दिशः। महीः। दिशः। त्वा। सर्वाः। वाञ्छन्तु। आपः। दिव्याः। पयस्वतीः। ८.४।
+व्या॒घ्रः। अधि॑। वैया॑घ्रे। वि। क्र॒म॒स्व॒। दिशः॑। म॒हीः। दिशः॑। त्वा॒। सर्वाः॑। वा॒ञ्छ॒न्तु॒। आपः॑। दि॒व्याः। पय॑स्वतीः। ८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -315,13 +327,16 @@ Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या आपो॑ दि॒व्याः पय॑सा॒ मद॑न्त्य॒न्तरि॑क्ष उ॒त वा॑ पृथि॒व्याम्।  
-तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि॑ षि॑ञ्चामि॒ वर्च॑सा ॥५॥  
+तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि षि॑ञ्चामि॒ वर्च॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या आपो॑ दि॒व्याः पय॑सा॒ मद॑न्त्य॒न्तरि॑क्ष उ॒त वा॑ पृथि॒व्याम्। तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि षि॑ञ्चामि॒ वर्च॑सा ॥
+या आपो॑ दि॒व्याः पय॑सा॒ मद॑न्त्य॒न्तरि॑क्ष उ॒त वा॑ पृथि॒व्याम्।  
+तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि षि॑ञ्चामि॒ वर्च॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
@@ -363,7 +378,7 @@ Heaven's waters joyous in their milk, the waters of middle air, and those that e
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। आपः। दिव्याः। पयसा। मदन्ति। अन्तरिक्षे। उत। वा। पृथिव्याम्। तासाम्। त्वा। सर्वासाम्। अपाम्। अभि। सिञ्चामि। वर्चसा। ८.५।
+याः। आपः॑। दि॒व्याः। पय॑सा। मद॑न्ति। अ॒न्तरि॑क्षे। उ॒त। वा॒। पृ॒थि॒व्याम्। तासा॑म्। त्वा॒। सर्वा॑साम्। अ॒पाम्। अ॒भि। सि॒ञ्चा॒मि॒। वर्च॑सा। ८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -394,14 +409,17 @@ Heaven's waters joyous in their milk, the waters of middle air, and those that e
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः ।  
-यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत्॥६॥  
+अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः।  
+यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः। यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत् ॥
+अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः।  
+यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
@@ -428,7 +446,7 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 </details>
 <details><summary>पदपाठः</summary>
 
-अभि। त्वा। वर्चसा। असिचन्। आपः। दिव्याः। पयस्वतीः। यथा। असः। मित्रऽवर्धनः। तथा। त्वा। सविता। करत्। ८.६।
+अ॒भि। त्वा॒। वर्च॑सा। अ॒सि॒च॒न्। आपः॑। दि॒व्याः। पय॑स्वतीः। यथा॑। असः॑। मि॒त्र॒ऽवर्ध॑नः। तथा॑। त्वा॒। स॒वि॒ता। क॒र॒त्। ८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -459,14 +477,17 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय ।  
-स॒मु॒द्रं न सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व॑१न्तः ॥७॥
+ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय।  
+स॑मु॒द्रं न॑ सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व१॒॑न्तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय। स॑मु॒द्रं न॑ सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्वन्तः ॥
+ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय।  
+स॑मु॒द्रं न॑ सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व१॒॑न्तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
@@ -504,7 +525,7 @@ These, compassing the tiger, rouse the lion to great joy and bliss. As strong fl
 </details>
 <details><summary>पदपाठः</summary>
 
-एना। व्याघ्रम्। परिऽसस्वजानाः। सिंहम्। हिन्वन्ति। महते। सौभगाय। समुद्रम्। न। सुऽभुवः। तस्थिऽवांसम्। मर्मृज्यन्ते। द्वीपिनम्। अप्ऽसु। अन्तः। ८.७।
+ए॒ना। व्या॒घ्रम्। प॒रि॒ऽस॒स्व॒जा॒नाः। सिं॒हम्। हि॒न्व॒न्ति॒। म॒ह॒ते। सौभ॑गाय। स॒मु॒द्रम्। न। सु॒ऽभुवः॑। त॒स्थि॒ऽवांस॑म्। म॒र्मृ॒ज्यन्ते॑। द्वी॒पिन॑म्। अ॒प्ऽसु। अ॒न्तः। ८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: Ludwig, p. 518; Griffith, i. 302.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि ।  
-अ॒पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन्॥१॥  
+आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि।  
+अ॑पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि। अ॑पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन् ॥
+आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि।  
+अ॑पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
@@ -63,7 +66,7 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽदानेन। सम्ऽदानेन। अमित्रान्। आ। द्यामसि। अपानाः। ये। च। एषाम्। प्राणाः। असुना। असून्। सम्। अच्छिदन्। १०४.१।
+आ॒ऽदाने॑न। स॒म्ऽदाने॑न। अ॒मित्रा॑न्। आ। द्या॒म॒सि॒। अ॒पा॒नाः। ये। च॒। ए॒षा॒म्। प्रा॒णाः। असु॑ना। असू॑न्। सम्। अ॒च्छि॒द॒न्। १०४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -95,13 +98,16 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्।  
-अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम्॥२॥  
+अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्। अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम् ॥
+इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्।  
+अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
@@ -122,7 +128,7 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 </details>
 <details><summary>पदपाठः</summary>
 
-इदम्। आऽदानम्। अकरम्। तपसा। इन्द्रेण। सम्ऽशितम्। अमित्राः। ये। अत्र। नः। सन्ति। तान्। अग्ने। आ। द्य। त्वम्। १०४.२।
+इ॒दम्। आ॒ऽदान॑म्। अ॒क॒र॒म्। तप॑सा। इन्द्रे॑ण। सम्ऽशि॑तम्। अ॒मित्राः॑। ये। अत्र॑। नः॒। सन्ति॑। तान्। अ॒ग्ने॒। आ। द्य॒। त्वम्। १०४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -153,14 +159,17 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐना॑न् द्यतामिन्द्रा॒ग्नी सोमो॑ राजा॑ च मे॒दिनौ॑ ।  
-इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥३॥
+ऐना॑न्द्यतामिन्द्रा॒ग्नी सोमो॒ राजा॑ च मे॒दिनौ॑।  
+इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऐना॑न्द्यतामिन्द्रा॒ग्नी सोमो॒ राजा॑ च मे॒दिनौ॑। इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥
+ऐना॑न्द्यतामिन्द्रा॒ग्नी सोमो॒ राजा॑ च मे॒दिनौ॑।  
+इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
@@ -185,7 +194,7 @@ Indra and Agni bind them fast, Soma the King, and both the Friends! May Indra, g
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। एनान्। द्यताम्। इन्द्राग्नी इति। सोमः। राजा। च। मेदिनौ। इन्द्रः। मरुत्वान्। आऽदानम्। अमित्रेभ्यः। कृणोतु। नः। १०४.३।
+आ। ए॒ना॒न्। द्य॒ता॒म्। इ॒न्द्रा॒ग्नी इति॑। सोमः॑। राजा॑। च॒। मे॒दिनौ॑। इन्द्रः॑। म॒रुत्वा॑न्। आ॒ऽदान॑म्। अ॒मित्रे॑भ्यः। कृ॒णो॒तु॒। नः॒। १०४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,14 +32,17 @@ Translated: as a RV. hymn, by Max Müller, Ancient Sanskrit Literature (1859), p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः ।  
-यो॒३स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥१॥  
+य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः।  
+यो३॒॑ऽस्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः। यो३॒॑ऽस्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः।  
+यो३॒॑ऽस्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/01_ya_AtmadA.md">
@@ -79,7 +82,7 @@ oblation?'⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-यः आत्मऽदाः। बलऽदाः। यस्य। विश्वे। उपऽआसते। प्रऽशिषम्। यस्य। देवाः। यः। अस्य। ईशे। द्विऽपदः। यः। चतुःऽपदः। कस्मै। देवाय। हविषा। विधेम। २.१।
+यः आ॒त्म॒ऽदाः। ब॒ल॒ऽदाः। यस्य॑। विश्वे॑। उ॒प॒ऽआस॑ते। प्र॒ऽशिष॑म्। यस्य॑। दे॒वाः। यः। अ॒स्य। ईशे॑। द्वि॒ऽपदः॑। यः। चतुः॑ऽपदः। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -110,14 +113,17 @@ oblation?'⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/02_yaH_prANato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः प्रा॑ण॒तो नि॑मिष॒तो म॑हित्वैको॒ राजा॒ जग॑तो ब॒भूव॑ ।  
-यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥२॥  
+यः प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैको॒ राजा॒ जग॑तो ब॒भूव॑।  
+यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/02_yaH_prANato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैको॒ राजा॒ जग॑तो ब॒भूव॑। यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+यः प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैको॒ राजा॒ जग॑तो ब॒भूव॑।  
+यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/02_yaH_prANato.md">
@@ -144,7 +150,7 @@ control. The Anukr. passes without notice the deficiency in **b**.
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। प्राणतः। निऽमिषतः। महिऽत्वा। एकः। राजा। जगतः। बभूव। यस्य। छाया। अमृतम्। यस्य। मृत्युः। कस्मै। देवाय। हविषा। विधेम। २.२।
+यः। प्रा॒ण॒तः। नि॒ऽमि॒ष॒तः। म॒हि॒ऽत्वा। एकः॑। राजा॑। जग॑तः। ब॒भूव॑। यस्य॑। छा॒या। अ॒मृत॑म्। यस्य॑। मृ॒त्युः। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,13 +182,16 @@ control. The Anukr. passes without notice the deficiency in **b**.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं क्रन्द॑सी॒ अव॑तश्चस्कभा॒ने भि॒यसा॑ने॒ रोद॑सी॒ अह्व॑येथाम्।  
-यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥३॥  
+यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/03_yaM_krandasI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं क्रन्द॑सी॒ अव॑तश्चस्कभा॒ने भि॒यसा॑ने॒ रोद॑सी॒ अह्व॑येथाम्। यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+यं क्रन्द॑सी॒ अव॑तश्चस्कभा॒ने भि॒यसा॑ने॒ रोद॑सी॒ अह्व॑येथाम्।  
+यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/03_yaM_krandasI.md">
@@ -217,7 +226,7 @@ but calls it simply *dyulokasthaḥ*.
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। क्रन्दसी इति। अवतः। चस्कभाने इति। भियसाने इति। रोदसी इति। अह्वयेथाम्। यस्य। असौ। पन्थाः। रजसः। विऽमानः। कस्मै। देवाय। हविषा। विधेम। २.३।
+यम्। क्रन्द॑सी॒ इति॑। अव॑तः। च॒स्क॒भा॒ने इति॑। भि॒यसा॑ने॒ इति॑। रोद॑सी॒ इति॑। अह्व॑येथाम्। यस्य॑। अ॒सौ। पन्थाः॑। रज॑सः। वि॒ऽमानः॑। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -248,14 +257,17 @@ but calls it simply *dyulokasthaḥ*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॑१न्तरि॑क्षम्।  
-यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥४॥  
+यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॒न्तरि॑क्षम्।  
+यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॒न्तरि॑क्षम्। यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॒न्तरि॑क्षम्।  
+यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
@@ -289,7 +301,7 @@ irregularity of **b**.
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। द्यौः। उर्वी। पृथिवी। च। मही। यस्य। अदः। उरु। अन्तरिक्षम्। यस्य। असौ। सूरः। विऽततः। महिऽत्वा। कस्मै। देवाय। हविषा। विधेम। २.४।
+यस्य॑। द्यौः। उ॒र्वी। पृ॒थि॒वी। च॒। म॒ही। यस्य॑। अ॒दः। उ॒रु। अ॒न्तरि॑क्षम्। यस्य॑। अ॒सौ। सूरः॑। विऽत॑तः। म॒हि॒ऽत्वा। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -320,14 +332,17 @@ irregularity of **b**.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/05_yasya_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः ।  
-इ॒माश्च॑ प्र॒दिशो॒ यस्य॒ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥५॥  
+यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः।  
+इ॒माश्च॑ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/05_yasya_vishve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः। इ॒माश्च॑ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः।  
+इ॒माश्च॑ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/05_yasya_vishve.md">
@@ -361,7 +376,7 @@ make harsh and difficult resolutions.
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्य। विश्वे। हिमऽवन्तः। महिऽत्वा। समुद्रे। यस्य। रसाम्। इत्। आहुः। इमाः। च। प्रऽदिशः। यस्य। बाहू इति। कस्मै। देवाय। हविषा। विधेम। २.५।
+यस्य॑। विश्वे॑। हि॒मऽव॑न्तः। म॒हि॒ऽत्वा। स॒मु॒द्रे। यस्य॑। र॒साम्। इत्। आ॒हुः। इ॒माः। च॒। प्र॒ऽदिशः॑। यस्य॑। बा॒हू इति॑। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -392,14 +407,17 @@ make harsh and difficult resolutions.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/06_Apo_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ अग्रे॒ विश्व॑माव॒न् गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः ।  
-यासु॑ दे॒वीष्वधि॑ दे॒व आ॑सी॒त् कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥६॥  
+आपो॒ अग्रे॒ विश्व॑माव॒न्गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः।  
+यासु॑ दे॒वीष्वधि॑ दे॒व आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/06_Apo_agre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आपो॒ अग्रे॒ विश्व॑माव॒न्गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः। यासु॑ दे॒वीष्वधि॑ दे॒व आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+आपो॒ अग्रे॒ विश्व॑माव॒न्गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः।  
+यासु॑ दे॒वीष्वधि॑ दे॒व आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/06_Apo_agre.md">
@@ -437,7 +455,7 @@ of RV.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। अग्रे। विश्वम्। आवन्। गर्भम्। दधानाः। अमृताः। ऋतऽज्ञाः। यासु। देवीषु। अधि। देवः। आसीत्। कस्मै। देवाय। हविषा। विधेम। २.६।
+आपः॑। अग्रे॑। विश्व॑म्। आ॒व॒न्। गर्भ॑म्। दधा॑नाः। अ॒मृताः॑। ऋ॒त॒ऽज्ञाः। यासु॑। दे॒वीषु॑। अधि॑। दे॒वः। आसी॑त्। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -468,14 +486,17 @@ of RV.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒र॒ण्य॒ग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्।  
-स दा॑धार पृथि॒वीमु॒त द्यां कस्मै दे॒वाय॑ ह॒विषा॑ विधेम ॥७॥  
+हि॑रण्यग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्।  
+स दा॑धार पृथि॒वीमु॒त द्यां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॑रण्यग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्। स दा॑धार पृथि॒वीमु॒त द्यां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+हि॑रण्यग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्।  
+स दा॑धार पृथि॒वीमु॒त द्यां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
@@ -508,7 +529,7 @@ syllable in **c**.
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽगर्भः। सम्। अवर्तत। अग्रे। भूतस्य। जातः। पतिः। एकः। आसीत्। सः। दाधार। पृथिवीम्। उत। द्याम्। कस्मै। देवाय। हविषा। विधेम। २.७।
+हि॒र॒ण्य॒ऽग॒र्भः। सम्। अ॒व॒र्त॒त॒। अग्रे॑। भू॒तस्य॑। जा॒तः। पतिः॑। एकः॑। आ॒सी॒त्। सः। दा॒धा॒र॒। पृ॒थि॒वीम्। उ॒त। द्याम्। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -540,13 +561,16 @@ syllable in **c**.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॑ व॒त्सं ज॒नय॑न्ती॒र्गर्भ॒मग्रे॒ समै॑रयन्।  
-तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥८॥
+तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/08_Apo_vatsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आपो॑ व॒त्सं ज॒नय॑न्ती॒र्गर्भ॒मग्रे॒ समै॑रयन्। तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+आपो॑ व॒त्सं ज॒नय॑न्ती॒र्गर्भ॒मग्रे॒ समै॑रयन्।  
+तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/08_Apo_vatsam.md">
@@ -579,7 +603,7 @@ Anukr.
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। वत्सम्। जनयन्तीः। गर्भम्। अग्रे। सम्। ऐरयन्। तस्य। उत। जायमानस्य। उल्बः। आसीत्। हिरण्ययः। कस्मै। देवाय। हविषा। विधेम। २.८।
+आपः॑। व॒त्सम्। ज॒नय॑न्तीः। गर्भ॑म्। अग्रे॑। सम्। ऐ॒र॒य॒न्। तस्य॑। उ॒त। जाय॑मानस्य। उल्बः॑। आ॒सी॒त्। हि॒र॒ण्ययः॑। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

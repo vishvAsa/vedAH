@@ -36,14 +36,17 @@ A prayer for the overthrow of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व ।  
-यो नो॒ द्वेष्ट्यध॑र॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥१॥
+इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व।  
+यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व। यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥
+इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व।  
+यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
@@ -68,7 +71,7 @@ Rouse us to-day O Indra, Maghavan, hero, with thy best pos- sible and varied suc
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। ऊतिऽभिः। बहुलाभिः। नः। अद्य। यावत्ऽश्रेष्ठाभिः। मघऽवन्। शूर। जिन्व। यः। नः। द्वेष्टि। अधरः। सः। पदीष्ट। यम्। ऊं इति। द्विष्मः। तम्। ऊं इति। प्राणः। जहातु। ३२.१।
+इन्द्र॑। ऊ॒तिऽभिः॑। ब॒हुलाभिः॑। नः॒। अ॒द्य। या॒व॒त्ऽश्रे॒ष्ठाभिः॑। म॒घ॒ऽव॒न्। शू॒र॒। जि॒न्व॒। यः। नः॒। द्वेष्टि॑। अध॑रः। सः। प॒दी॒ष्ट॒। यम्। ऊं॒ इति॑। द्वि॒ष्मः। तम्। ऊं॒ इति॑। प्रा॒णः। ज॒हा॒तु॒। ३२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

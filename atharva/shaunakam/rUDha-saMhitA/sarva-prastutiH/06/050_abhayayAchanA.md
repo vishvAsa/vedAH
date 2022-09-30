@@ -36,14 +36,17 @@ A charm for the destruction of vermin
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुमश्वि॑ना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्।  
-यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्याऽय ॥१॥  
+ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुम॑श्विना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्।  
+यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्या᳡य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुम॑श्विना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्। यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्या᳡य ॥
+ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुम॑श्विना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्।  
+यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्या᳡य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/01_hataM_tardam.md">
@@ -75,7 +78,7 @@ Destroy the rat, the mole, the boring beetle, cut off their heads and crush thei
 </details>
 <details><summary>पदपाठः</summary>
 
-हतम्। तर्दम्। सम्ऽअङ्कम्। आखुम्। अश्विना। छिन्तम्। शिरः। अपि। पृष्टीः। शृणीतम्। यवान्। न। इत्। अदान्। अपि। नह्यतम्। मुखम्। अथ। अभयम्। कृणुतम्। धान्या᳡य। ५०.१।
+ह॒तम्। त॒र्दम्। स॒म्ऽअ॒ङ्कम्। आ॒खुम्। अश्वि॑ना। छि॒न्तम्। शिरः॑। अपि॑। पृ॒ष्टीः। शृ॒णी॒त॒म्। यवा॑न्। न। इत्। अदा॑न्। अपि॑। न॒ह्य॒त॒म्। मुख॑म्। अथ॑। अभ॑यम्। कृ॒णु॒त॒म्। धा॒न्या᳡य। ५०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -106,14 +109,17 @@ Destroy the rat, the mole, the boring beetle, cut off their heads and crush thei
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/02_tarda_hai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस ।  
-ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान् यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥२॥  
+तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस।  
+ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान्यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/02_tarda_hai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस। ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान्यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥
+तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस।  
+ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान्यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/02_tarda_hai.md">
@@ -139,7 +145,7 @@ Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest 
 </details>
 <details><summary>पदपाठः</summary>
 
-तर्द। है। पतङ्ग। है। जभ्य। है। उपऽक्वस। ब्रह्माऽइव। असम्ऽस्थितम्। हविः। अनदन्तः। इमान्। यवान्। अहिसन्तः। अपऽउदित। ५०.२।
+तर्द॑। है। पत॑ङ्ग। है। जभ्य॑। है। उप॑ऽक्वस। ब्र॒ह्माऽइ॑व। अस॑म्ऽस्थितम्। ह॒विः। अन॑दन्तः। इ॒मान्। यवा॑न्। अहि॑सन्तः। अ॒प॒ऽउदि॑त। ५०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,14 +176,17 @@ Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे ।  
-य आ॑र॒ण्या व्यऽद्व॒रा ये के च॒ स्थ व्यऽद्वरास्तान्त्सर्वा॑न् जम्भयामसि ॥३॥
+तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे।  
+य आ॑र॒ण्या व्य᳡द्व॒रा ये के च॒ स्थ व्य᳡द्व॒रास्तान्त्सर्वा॑ञ्जम्भयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे। य आ॑र॒ण्या व्य᳡द्व॒रा ये के च॒ स्थ व्य᳡द्व॒रास्तान्त्सर्वा॑ञ्जम्भयामसि ॥
+तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे।  
+य आ॑र॒ण्या व्य᳡द्व॒रा ये के च॒ स्थ व्य᳡द्व॒रास्तान्त्सर्वा॑ञ्जम्भयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
@@ -208,7 +217,7 @@ Hearken to me, lord of the female borer, lord of the female grub! ye rough-tooth
 </details>
 <details><summary>पदपाठः</summary>
 
-तर्दऽपते। वघाऽपते। तृष्टऽजम्भाः। आ। शृणोत। मे। ये। आरण्याः। विऽअद्वराः। ये। के। च। स्थ। विऽअद्वराः। तान्। सर्वान्। जम्भयामसि। ५०.३।
+तर्द॑ऽपते। वघा॑ऽपते। तृष्ट॑ऽजम्भाः। आ। शृ॒णो॒त॒। मे॒। ये। आ॒र॒ण्याः। वि॒ऽअ॒द्व॒राः। ये। के। च॒। स्थ। वि॒ऽअ॒द्व॒राः। तान्। सर्वा॑न्। ज॒म्भ॒या॒म॒सि॒। ५०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

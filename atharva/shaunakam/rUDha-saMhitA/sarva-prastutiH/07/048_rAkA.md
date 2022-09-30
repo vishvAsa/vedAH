@@ -36,14 +36,17 @@ A prayer for prosperity and the birth of a son
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/048_rAkA/01_rAkAmahaM_suhavA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॑ बोध॑तु॒ त्मना॑ ।  
-सीव्य॒त्वपः॑ सू॒च्याच्छिद्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्यऽम्॥१॥  
+रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑।  
+सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/048_rAkA/01_rAkAmahaM_suhavA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑। सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
+रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॒ बोध॑तु॒ त्मना॑।  
+सीव्य॒त्वपः॑ सू॒च्याच्छि॑द्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/048_rAkA/01_rAkAmahaM_suhavA.md">
@@ -68,7 +71,7 @@ I call on Raka with hair laud and reverent cry: may she, auspicious, hear us and
 </details>
 <details><summary>पदपाठः</summary>
 
-राकाम्। अहम्। सुऽहवा। सुऽस्तुती। हुवे। शृणोतु। नः। सुऽभगा। बोधतु। त्मना। सीव्यतु। अपः। सूच्या। अच्छिद्यमानया। ददातु। वीरम्। शतऽदायम्। उक्थ्य᳡म्। ५०.१।
+रा॒काम्। अ॒हम्। सु॒ऽहवा॑। सु॒ऽस्तु॒ती। हु॒वे॒। शृ॒णोतु॑। नः॒। सु॒ऽभगा॑। बोध॑तु। त्मना॑। सीव्य॑तु। अपः॑। सू॒च्या। अच्छि॑द्यमानया। ददा॑तु। वी॒रम्। श॒तऽदा॑यम्। उ॒क्थ्य᳡म्। ५०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ I call on Raka with hair laud and reverent cry: may she, auspicious, hear us and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/048_rAkA/02_yAste_rAke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यास्ते॑ राके सुम॒तयः॑ सु॑पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि ।  
-ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा ॥२॥
+यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि।  
+ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/048_rAkA/02_yAste_rAke.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि। ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा ॥
+यास्ते॑ राके सुम॒तयः॑ सु॒पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि।  
+ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/048_rAkA/02_yAste_rAke.md">
@@ -129,7 +135,7 @@ All thy kind favours, Raka! lovely in their form, wherewith thou grantest treasu
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। ते। राके। सुऽमतयः। सुऽपेशसः। याभिः। ददासि। दाशुषे। वसूनि। ताभिः। नः। अद्य। सुऽमनाः। उपऽआगहि। सहस्रऽपोषम्। सुऽभगे। रराणा। ५०.२।
+याः। ते॒। रा॒के॒। सु॒ऽम॒तयः॑। सु॒ऽपेश॑सः। याभिः॑। ददा॑सि। दा॒शुषे॑। वसू॑नि। ताभिः॑। नः॒। अ॒द्य। सु॒ऽमनाः॑। उ॒प॒ऽआग॑हि। स॒ह॒स्र॒ऽपो॒षम्। सु॒ऽभ॒गे॒। ररा॑णा। ५०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

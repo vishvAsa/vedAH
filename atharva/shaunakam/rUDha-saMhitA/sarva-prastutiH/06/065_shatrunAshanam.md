@@ -36,14 +36,17 @@ A sacrificial charm against enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑ म॒न्युरवाय॒ताव॑ बा॒हू म॑नो॒युजा॑ ।  
-परा॑शर॒ त्वं तेषां॒ परा॑ञ्चं॒ शुष्म॑मर्द॒याधा॑ नो र॒यिमा कृधि ॥१॥  
+अव॑ म॒न्युरवाय॒ताव॑ बा॒हू म॑नो॒युजा॑।  
+परा॑शर॒ त्वं तेषां॒ परा॑ञ्चं॒ शुष्म॑मर्द॒याधा॑ नो र॒यिमा कृ॑धि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अव॑ म॒न्युरवाय॒ताव॑ बा॒हू म॑नो॒युजा॑। परा॑शर॒ त्वं तेषां॒ परा॑ञ्चं॒ शुष्म॑मर्द॒याधा॑ नो र॒यिमा कृ॑धि ॥
+अव॑ म॒न्युरवाय॒ताव॑ बा॒हू म॑नो॒युजा॑।  
+परा॑शर॒ त्वं तेषां॒ परा॑ञ्चं॒ शुष्म॑मर्द॒याधा॑ नो र॒यिमा कृ॑धि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
@@ -69,7 +72,7 @@ The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, d
 </details>
 <details><summary>पदपाठः</summary>
 
-अव। मन्युः। अव। आऽयता। अव। बाहू इति। मनःऽयुजा। पराऽशर। त्वम्। तेषाम्। पराञ्चम्। शुष्मम्। अर्दय। अध। नः। रयिम्। आ। कृधि। ६५.१।
+अव॑। म॒न्युः। अव॑। आऽय॑ता। अव॑। बा॒हू इति॑। म॒नः॒ऽयुजा॑। परा॑ऽशर। त्वम्। तेषा॑म्। परा॑ञ्चम्। शुष्म॑म्। अ॒र्द॒य॒। अध॑। नः॒। र॒यिम्। आ। कृ॒धि॒। ६५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, d
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ह॑स्तेभ्यो नैर्ह॒स्तं यं दे॑वाः॒ शरु॒मस्य॑थ ।  
-वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒हम्॥२॥  
+निर्ह॑स्तेभ्यो नैर्ह॒स्तं यं दे॑वाः॒ शरु॒मस्य॑थ।  
+वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒ऽहम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्ह॑स्तेभ्यो नैर्ह॒स्तं यं दे॑वाः॒ शरु॒मस्य॑थ। वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒ऽहम् ॥
+निर्ह॑स्तेभ्यो नैर्ह॒स्तं यं दे॑वाः॒ शरु॒मस्य॑थ।  
+वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒ऽहम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
@@ -130,7 +136,7 @@ The shaft for handless fiends which, Gods! ye cast against the handless ones, Wi
 </details>
 <details><summary>पदपाठः</summary>
 
-निःऽहस्तेभ्यः। नैःऽहस्तम्। यम्। देवाः। शरुम्। अस्यथ। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। ६५.२।
+निःऽह॑स्तेभ्यः। नैः॒ऽह॒स्तम्। यम्। दे॒वाः॒। शरु॑म्। अस्य॑थ। वृ॒श्चामि॑। शत्रू॑णाम्। बा॒हून्। अ॒नेन॑। ह॒विषा॑। अ॒हम्। ६५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ The shaft for handless fiends which, Gods! ye cast against the handless ones, Wi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑श्चकार प्रथ॒मं नै॑र्ह॒स्तमसु॑रेभ्यः ।  
-जय॑न्तु सत्वा॑नो॒ मम॑ स्थि॒रेणेन्द्रे॑ण मे॒दिना॑ ॥३॥
+इन्द्र॑श्चकार प्रथ॒मं नै॑र्ह॒स्तमसु॑रेभ्यः।  
+जय॑न्तु॒ सत्वा॑नो॒ मम॑ स्थि॒रेणेन्द्रे॑ण मे॒दिना॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑श्चकार प्रथ॒मं नै॑र्ह॒स्तमसु॑रेभ्यः। जय॑न्तु॒ सत्वा॑नो॒ मम॑ स्थि॒रेणेन्द्रे॑ण मे॒दिना॑ ॥
+इन्द्र॑श्चकार प्रथ॒मं नै॑र्ह॒स्तमसु॑रेभ्यः।  
+जय॑न्तु॒ सत्वा॑नो॒ मम॑ स्थि॒रेणेन्द्रे॑ण मे॒दिना॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
@@ -188,7 +197,7 @@ Indra made first for Asuras the shaft designed for handless foes: Victorious sha
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। चकार। प्रथमम्। नैःऽहस्तम्। असुरेभ्यः। जयन्तु। सत्वानः। मम। स्थिरेण। इन्द्रेण। मेदिना। ६५.३।
+इन्द्रः॑। च॒का॒र॒। प्र॒थ॒मम्। नैः॒ऽह॒स्तम्। असु॑रेभ्यः। जय॑न्तु। सत्वा॑नः। मम॑। स्थि॒रेण॑। इन्द्रे॑ण। मे॒दिना॑। ६५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A King's address to an amulet which is to strengthen his authority
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_AyamaganparNamaNirbalI_balena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयम॑गन् पर्णम॒णिर्ब॒ली बले॑न प्रमृ॒णन्त्स॒पत्ना॑न्।  
-ओजो॑ दे॒वानां॒ पय॒ ओष॑धीनां॒ वर्च॑सा मा जिन्व॒त्वप्र॑यावन्॥१॥  
+आयम॑गन्पर्णम॒णिर्ब॒ली बले॑न प्रमृ॒णन्त्स॒पत्ना॑न्।  
+ओजो॑ दे॒वानां॒ पय॒ ओष॑धीनां॒ वर्च॑सा मा जिन्व॒त्वप्र॑यावन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_AyamaganparNamaNirbalI_balena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आयम॑गन्पर्णम॒णिर्ब॒ली बले॑न प्रमृ॒णन्त्स॒पत्ना॑न्। ओजो॑ दे॒वानां॒ पय॒ ओष॑धीनां॒ वर्च॑सा मा जिन्व॒त्वप्र॑यावन् ॥
+आयम॑गन्पर्णम॒णिर्ब॒ली बले॑न प्रमृ॒णन्त्स॒पत्ना॑न्।  
+ओजो॑ दे॒वानां॒ पय॒ ओष॑धीनां॒ वर्च॑सा मा जिन्व॒त्वप्र॑यावन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/01_AyamaganparNamaNirbalI_balena.md">
@@ -73,7 +76,7 @@ This Parna-Amulet hath come, strong and destroying with its strength my rivals. 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। पर्णऽमणिः। बली। बलेन। प्रऽमृणन्। सऽपत्नान्। ओजः। देवानाम्। पयः। ओषधीनाम्। वर्चसा। मा। जिन्वतु। अप्रऽयावन्। ५.१।
+आ। अ॒यम्। अ॒ग॒न्। प॒र्ण॒ऽम॒णिः। ब॒ली। बले॑न। प्र॒ऽमृ॒णन्। स॒ऽपत्ना॑न्। ओजः॑। दे॒वाना॑म्। पयः॑। ओष॑धीनाम्। वर्च॑सा। मा॒। जि॒न्व॒तु॒। अप्र॑ऽयावन्। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ This Parna-Amulet hath come, strong and destroying with its strength my rivals. 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/02_mayi_xatram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मयि॑ क्ष॒त्रं प॑र्णमणे॒ मयि॑ धारयताद् र॒यिम्।  
-अ॒हं रा॒ष्ट्रस्या॑भीव॒र्गे नि॒जो भू॑यासमुत्त॒मः ॥२॥  
+मयि॑ क्ष॒त्रं प॑र्णमणे॒ मयि॑ धारयताद्र॒यिम्।  
+अ॒हं रा॒ष्ट्रस्या॑भीव॒र्गे नि॒जो भू॑यासमुत्त॒मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/02_mayi_xatram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मयि॑ क्ष॒त्रं प॑र्णमणे॒ मयि॑ धारयताद्र॒यिम्। अ॒हं रा॒ष्ट्रस्या॑भीव॒र्गे नि॒जो भू॑यासमुत्त॒मः ॥
+मयि॑ क्ष॒त्रं प॑र्णमणे॒ मयि॑ धारयताद्र॒यिम्।  
+अ॒हं रा॒ष्ट्रस्या॑भीव॒र्गे नि॒जो भू॑यासमुत्त॒मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/02_mayi_xatram.md">
@@ -138,7 +144,7 @@ O Parna-Amulet, in me set firmly might and opulence. Within the compass of my ru
 </details>
 <details><summary>पदपाठः</summary>
 
-मयि। क्षत्रम्। पर्णऽमणे। मयि। धारयतात्। रयिम्। अहम्। राष्ट्रस्य। अभिऽवर्गे। निऽजः। भूयासम्। उत्ऽतमः। ५.२।
+मयि॑। क्ष॒त्रम्। प॒र्ण॒ऽम॒णे॒। मयि॑। धा॒र॒य॒ता॒त्। र॒यिम्। अ॒हम्। रा॒ष्ट्रस्य॑। अ॒भि॒ऽव॒र्गे। नि॒ऽजः। भू॒या॒स॒म्। उ॒त्ऽत॒मः। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -170,13 +176,16 @@ O Parna-Amulet, in me set firmly might and opulence. Within the compass of my ru
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं नि॑द॒धुर्वन॒स्पतौ॒ गुह्यं॑ दे॒वाः प्रि॒यं म॒णिम्।  
-तम॒स्मभ्यं॑ स॒हायु॑षा दे॒वा द॑दतु॒ भर्त॑वे ॥३॥  
+तम॒स्मभ्यं॑ स॒हायु॑षा दे॒वा द॑दतु॒ भर्त॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/03_yaM_nidadhurvanaspatau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं नि॑द॒धुर्वन॒स्पतौ॒ गुह्यं॑ दे॒वाः प्रि॒यं म॒णिम्। तम॒स्मभ्यं॑ स॒हायु॑षा दे॒वा द॑दतु॒ भर्त॑वे ॥
+यं नि॑द॒धुर्वन॒स्पतौ॒ गुह्यं॑ दे॒वाः प्रि॒यं म॒णिम्।  
+तम॒स्मभ्यं॑ स॒हायु॑षा दे॒वा द॑दतु॒ भर्त॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/03_yaM_nidadhurvanaspatau.md">
@@ -198,7 +207,7 @@ That dear mysterious Amulet which Gods have set within the tree, May the Gods gr
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। निऽदधुः। वनस्पतौ। गुह्यम्। देवाः। प्रियम्। मणिम्। तम्। अस्मभ्यम्। सह। आयुषा। देवाः। ददतु। भर्तवे। ५.३।
+यम्। नि॒ऽद॒धुः। वन॒स्पतौ॑। गुह्य॑म्। दे॒वाः। प्रि॒यम्। म॒णिम्। तम्। अ॒स्मभ्य॑म्। स॒ह। आयु॑षा। दे॒वाः। द॒द॒तु॒। भर्त॑वे। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -229,14 +238,17 @@ That dear mysterious Amulet which Gods have set within the tree, May the Gods gr
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/04_somasya_parNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोम॑स्य प॒र्णः सह॑ उ॒ग्रमाग॒न्निन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टः ।  
-तं प्रि॑यासं ब॒हु रोच॑मानो दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥४॥  
+सोम॑स्य प॒र्णः सह॑ उ॒ग्रमाग॒न्निन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टः।  
+तं प्रि॑यासं ब॒हु रोच॑मानो दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/04_somasya_parNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोम॑स्य प॒र्णः सह॑ उ॒ग्रमाग॒न्निन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टः। तं प्रि॑यासं ब॒हु रोच॑मानो दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+सोम॑स्य प॒र्णः सह॑ उ॒ग्रमाग॒न्निन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टः।  
+तं प्रि॑यासं ब॒हु रोच॑मानो दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/04_somasya_parNaH.md">
@@ -266,7 +278,7 @@ As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of S
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमस्‍य। पर्णः। सहः। उग्रम्। आ। अगन्। इन्द्रेण। दत्तः। वरुणेन। शिष्टः। तम्। प्रियासम्। बहु। रोचमानः। दीर्घायुऽत्वाय। शतऽशारदाय। ५.४।
+सोम॑स्‍य। प॒र्णः। सहः॑। उ॒ग्रम्। आ। अ॒ग॒न्। इन्द्रे॑ण। द॒त्तः। वरु॑णेन। शि॒ष्टः। तम्। प्रि॒या॒स॒म्। ब॒हु। रोच॑मानः। दी॒र्घा॒यु॒ऽत्वाय॑। श॒तऽशा॑रदाय। ५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -297,14 +309,17 @@ As Indra's gift, by Varuna instructed, Parna hath come, the mighty strength of S
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/05_A_mAruxatparNamaNirmahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ मा॑रुक्षत् पर्णम॒णिर्म॒ह्या अ॑रि॒ष्टता॑तये ।  
-यथा॒हमु॑त्त॒रोऽसा॑न्यर्य॒म्ण उ॒त सं॒विदः॑ ॥५॥  
+आ मा॑रुक्षत्पर्णम॒णिर्म॒ह्या अ॑रिष्ट॒तात॑ये।  
+यथा॒हमु॑त्त॒रोऽसा॑न्यर्य॒म्ण उ॒त सं॒विदः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/05_A_mAruxatparNamaNirmahyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ मा॑रुक्षत्पर्णम॒णिर्म॒ह्या अ॑रिष्ट॒तात॑ये। यथा॒हमु॑त्त॒रोऽसा॑न्यर्य॒म्ण उ॒त सं॒विदः॑ ॥
+आ मा॑रुक्षत्पर्णम॒णिर्म॒ह्या अ॑रिष्ट॒तात॑ये।  
+यथा॒हमु॑त्त॒रोऽसा॑न्यर्य॒म्ण उ॒त सं॒विदः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/05_A_mAruxatparNamaNirmahyA.md">
@@ -331,7 +346,7 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। मा। अरुक्षत्। पर्णऽमणिः। मह्यै। अरिष्टऽतातये। यथा। अहम्। उत्तरः। असानि। अर्यम्णः। उत। सम्ऽविदः। ५.५।
+आ। मा॒। अ॒रु॒क्ष॒त्। प॒र्ण॒ऽम॒णिः। म॒ह्यै। अ॒रि॒ष्टऽता॑तये। यथा॑। अ॒हम्। उ॒त्त॒रः। असा॑नि। अ॒र्य॒म्णः। उ॒त। स॒म्ऽविदः॑। ५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -362,14 +377,17 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये धीवा॑नो रथका॒राः क॒र्मारा॒ ये म॑नी॒षिणः॑ ।  
-उ॒प॒स्तीन् प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न् कृण्व॒भितो॒ जना॑न्॥६॥  
+ये धीवा॑नो रथका॒राः क॒र्मारा॒ ये म॑नी॒षिणः॑।  
+उ॑प॒स्तीन्प॑र्ण॒ मह्यं॑ त्वं॒ सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये धीवा॑नो रथका॒राः क॒र्मारा॒ ये म॑नी॒षिणः॑। उ॑प॒स्तीन्प॑र्ण॒ मह्यं॑ त्वं॒ सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
+ये धीवा॑नो रथका॒राः क॒र्मारा॒ ये म॑नी॒षिणः॑।  
+उ॑प॒स्तीन्प॑र्ण॒ मह्यं॑ त्वं॒ सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/06_ye_dhIvAno.md">
@@ -394,7 +412,7 @@ Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। धीवानः। रथऽकाराः। कर्माराः। ये। मनीषिणः। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभितः। जनान्। ५.६।
+ये। धीवा॑नः। र॒थ॒ऽका॒राः। क॒र्माराः॑। ये। म॒नी॒षिणः॑। उ॒प॒ऽस्तीन्। प॒र्ण॒। मह्य॑म्। त्वम्। सर्वा॑न्। कृ॒णु॒। अ॒भितः॑। जना॑न्। ५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -425,14 +443,17 @@ Sagacious builders of the car, cleaver and skilful artisans,-- Make all the men 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये राजा॑नो राज॒कृतः॑ सू॒ता ग्रा॑म॒ण्यऽश्च॒ ये।  
-उ॒प॒स्तीन् प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न् कृण्व॒भितो॒ जनान्॥७॥  
+ये राजा॑नो राज॒कृतः॑ सू॒ता ग्रा॑म॒ण्य॑श्च॒ ये।  
+उ॑प॒स्तीन्प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये राजा॑नो राज॒कृतः॑ सू॒ता ग्रा॑म॒ण्य॑श्च॒ ये। उ॑प॒स्तीन्प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
+ये राजा॑नो राज॒कृतः॑ सू॒ता ग्रा॑म॒ण्य॑श्च॒ ये।  
+उ॑प॒स्तीन्प॑र्ण॒ मह्यं॒ त्वं सर्वा॑न्कृण्व॒भितो॒ जना॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/07_ye_rAjAno.md">
@@ -464,7 +485,7 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। राजानः। राजऽकृतः। सूताः। ग्रामण्याः᳡। च। ये। उपऽस्तीन्। पर्ण। मह्यम्। त्वम्। सर्वान्। कृणु। अभितः। जनान्। ५.७।
+ये। राजा॑नः। रा॒ज॒ऽकृतः॑। सू॒ताः। ग्रा॒म॒ण्याः᳡। च॒। ये। उ॒प॒ऽस्तीन्। प॒र्ण॒। मह्य॑म्। त्वम्। सर्वा॑न्। कृ॒णु॒। अ॒भितः॑। जना॑न्। ५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -495,14 +516,17 @@ The kings and makers of the kings, troop-leaders, masters of the horse, Make all
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प॒र्णोऽसि तनू॒पानः॒ सयो॑निर्वी॒रो वी॒रेण॒ मया॑ ।  
-सं॒व॒त्स॒रस्य॒ तेज॑सा॒ तेन॒ बध्नामि त्वा मणे ॥८॥
+प॒र्णोऽसि॑ तनू॒पानः॒ सयो॑निर्वी॒रो वी॒रेण॒ मया॑।  
+सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॑ बध्नामि त्वा मणे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प॒र्णोऽसि॑ तनू॒पानः॒ सयो॑निर्वी॒रो वी॒रेण॒ मया॑। सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॑ बध्नामि त्वा मणे ॥
+प॒र्णोऽसि॑ तनू॒पानः॒ सयो॑निर्वी॒रो वी॒रेण॒ मया॑।  
+सं॑वत्स॒रस्य॒ तेज॑सा॒ तेन॑ बध्नामि त्वा मणे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/005_rAShTrasya_rAjA_rAjakRtashcha/08_parNo-si_tanUpAnaH.md">
@@ -527,7 +551,7 @@ Thou, Parna, art my body's guard, man kin my birth to me a man. With splendour o
 </details>
 <details><summary>पदपाठः</summary>
 
-पर्णः। असि। तनूऽपानः। सऽयोनिः। वीरः। वीरेण। मया। सम्ऽवत्सरस्य। तेजसा। तेन। बध्नामि। त्वा। मणे। ५.८।
+प॒र्णः। अ॒सि॒। त॒नू॒ऽपानः॑। स॒ऽयो॑निः। वी॒रः। वी॒रेण॑। मया॑। स॒म्ऽव॒त्स॒रस्य॑। तेज॑सा। तेन॑। ब॒ध्ना॒मि॒। त्वा॒। म॒णे॒। ५.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

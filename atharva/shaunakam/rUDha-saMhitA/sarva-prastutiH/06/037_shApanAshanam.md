@@ -36,14 +36,17 @@ A charm to divert Imprecation personified
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/037_shApanAshanam/01_upa_prAgAtsahasrAxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ प्रागा॑त् सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्।  
-श॒प्तार॑मन्वि॒छन् मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम्॥१॥  
+उप॒ प्रागा॑त्सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्।  
+श॒प्तार॑मन्वि॒च्छन्मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/037_shApanAshanam/01_upa_prAgAtsahasrAxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॒ प्रागा॑त्सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्। श॒प्तार॑मन्वि॒च्छन्मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम् ॥
+उप॒ प्रागा॑त्सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्।  
+श॒प्तार॑मन्वि॒च्छन्मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/037_shApanAshanam/01_upa_prAgAtsahasrAxo.md">
@@ -67,7 +70,7 @@ Hitherward, having yoked his steeds, came Imprecation, thousand-eyed, Seeking my
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। प्र। अगात्। सहस्रऽअक्षः। युक्त्वा। शपथः। रथम्। शप्तारम्। अनुऽइच्छन्। मम। वृकःऽइव। अविऽमतः। गृहम्। ३७.१।
+उप॑। प्र। अ॒गा॒त्। स॒ह॒स्र॒ऽअ॒क्षः। यु॒क्त्वा। श॒पथः॑। रथ॑म्। श॒प्तार॑म्। अ॒नु॒ऽइ॒च्छन्। मम॑। वृकः॑ऽइव। अवि॑ऽमतः। गृ॒हम्। ३७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,13 +102,16 @@ Hitherward, having yoked his steeds, came Imprecation, thousand-eyed, Seeking my
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ णो वृङ्ग्धि शपथ ह्र॒दम॒ग्निरि॑वा॒ दह॑न्।  
-श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑ ॥२॥  
+श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/037_shApanAshanam/02_pari_No.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ णो वृङ्ग्धि शपथ ह्र॒दम॒ग्निरि॑वा॒ दह॑न्। श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑ ॥
+परि॑ णो वृङ्ग्धि शपथ ह्र॒दम॒ग्निरि॑वा॒ दह॑न्।  
+श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/037_shApanAshanam/02_pari_No.md">
@@ -129,7 +135,7 @@ Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। नः। वृङ्ग्धि। शपथ। ह्रदम्। अग्निःऽइव। दहन्। शप्तारम्। अत्र। नः। जहि। दिवः। वृक्षम्ऽइव। अशनिः। ३७.२।
+परि॑। नः॒। वृ॒ङ्ग्धि॒। श॒प॒थ॒। ह्रदम्। अग्निःऽइ॑व। दह॑न्। श॒प्तार॑म्। अत्र॑। नः॒। ज॒हि॒। दि॒वः। वृ॒क्षम्ऽइ॑व। अ॒शनिः॑। ३७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,13 +167,16 @@ Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
-शुने॑ पेष्ट्र॑मि॒वाव॑क्षामं॒ तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥३॥  
+शुने॒ पेष्ट्र॑मि॒वाव॑क्षामं॒ तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/037_shApanAshanam/03_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्। शुने॒ पेष्ट्र॑मि॒वाव॑क्षामं॒ तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥
+यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्।  
+शुने॒ पेष्ट्र॑मि॒वाव॑क्षामं॒ तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/037_shApanAshanam/03_yo_naH.md">
@@ -201,7 +210,7 @@ Who curses us, himself uncursed, or, cursed, who curses us again, Him cast I as 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। शुने। पेष्ट्रम्ऽइव। अवऽक्षामम्। तम्। प्रति। अस्यामि। मृत्यवे। ३७.३।
+यः। नः॒। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। नः॒। शपा॑त्। शुने॑। पेष्ट्र॑म्ऽइव। अव॑ऽक्षामम्। तम्। प्रति॑। अ॒स्या॒मि॒। मृ॒त्यवे॑। ३७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

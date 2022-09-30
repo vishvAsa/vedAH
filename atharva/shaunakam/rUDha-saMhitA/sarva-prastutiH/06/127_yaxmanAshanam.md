@@ -32,14 +32,17 @@ Translated: Zimmer, p. 386 (with comment on the diseases); Griffith, i. 315; Blo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते ।  
-वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न॥१॥  
+वि॑द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते।  
+वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॑द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते। वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न ॥
+वि॑द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते।  
+वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
@@ -72,7 +75,7 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 </details>
 <details><summary>पदपाठः</summary>
 
-विऽद्रधस्य। बलासस्य। लोहितस्य। वनस्पते। विऽसल्पकस्य। ओषधे। मा। उत्। शिषः। पिशितम्। चन। १२७.१।
+वि॒ऽद्र॒धस्य॑। ब॒लास॑स्य। लोहि॑तस्य। व॒न॒स्प॒ते॒। वि॒ऽसल्प॑कस्य। ओ॒ष॒धे॒। मा। उत्। शि॒षः॒। पि॒शि॒तम्। च॒न। १२७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ ।  
-वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम्॥२॥  
+यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ।  
+वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/02_yau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ। वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम् ॥
+यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ।  
+वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/02_yau_te.md">
@@ -137,7 +143,7 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 </details>
 <details><summary>पदपाठः</summary>
 
-यौ। ते। बलास। तिष्ठतः। कक्षे। मुष्कौ। अपऽश्रितौ। वेद। अहम्। तस्य। भेषजम्। चीपुद्रुः। अभिऽचक्षणम्। १२७.२।
+यौ। ते॒। ब॒ला॒स॒। तिष्ठ॑तः। कक्षे॑। मु॒ष्कौ। अप॑ऽश्रितौ। वेद॑। अ॒हम्। तस्य॑। भे॒ष॒जम्। ची॒पुद्रुः॑। अ॒भि॒ऽचक्ष॑णम्। १२७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,15 +174,19 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः ।  
+यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः।  
 वि वृ॑हामो वि॒सल्प॑कं विद्र॒धं हृ॑दयाम॒यम्।  
-परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥३॥
+परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः। वि वृ॑हामो वि॒सल्प॑कं विद्र॒धं हृ॑दयाम॒यम्। परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥
+यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः।  
+वि वृ॑हामो वि॒सल्प॑कं विद्र॒धं हृ॑दयाम॒यम्।  
+परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/03_yo_angyo.md">
@@ -196,7 +206,7 @@ We draw from thee piercing pain that penetrates and racks thy limbs, That pierce
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अङ्ग्यः। यः। कर्ण्यः। यः। अक्ष्योः। विऽसल्पकः। वि। वृहामः। विऽसल्पकम्। विऽद्रधम्। हृदयऽआमयम्। परा। तम्। अज्ञातम्। यक्ष्मम्। अधराञ्चम्। सुवामसि। १२७.३।
+यः। अङ्ग्यः॑। यः। कर्ण्यः॑। यः। अ॒क्ष्योः। वि॒ऽसल्प॑कः। वि। वृ॒हा॒मः॒। वि॒ऽसल्प॑कम्। वि॒ऽद्र॒धम्। हृ॒द॒य॒ऽआ॒म॒यम्। परा॑। तम्। अज्ञा॑तम्। यक्ष्म॑म्। अ॒ध॒राञ्च॑म्। सु॒वा॒म॒सि॒। १२७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

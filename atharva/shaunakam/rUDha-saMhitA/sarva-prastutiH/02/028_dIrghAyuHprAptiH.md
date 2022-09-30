@@ -36,14 +36,17 @@ A prayer for a boy's long and happy life
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तुभ्य॑मे॒व ज॑रिमन् वर्धताम॒यं मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये॑।  
-मा॒तेव॒ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त् पा॒त्वंह॑सः ॥१॥  
+तुभ्य॑मे॒व ज॑रिमन्वर्धताम॒यम्मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये।  
+मा॒तेव॑ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त्पा॒त्वंह॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तुभ्य॑मे॒व ज॑रिमन्वर्धताम॒यम्मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये। मा॒तेव॑ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त्पा॒त्वंह॑सः ॥
+तुभ्य॑मे॒व ज॑रिमन्वर्धताम॒यम्मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये।  
+मा॒तेव॑ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त्पा॒त्वंह॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
@@ -76,7 +79,7 @@ This Child, Old Age! shall grow to meet thee only: none of the hundred other dea
 </details>
 <details><summary>पदपाठः</summary>
 
-तुभ्यम्। एव। जरिमन्। वर्धताम्। अयम्। मा। इमम्। अन्ये। मृत्यवः। हिंसिषुः। शतम्। ये। माताऽइव। पुत्रम्। प्रऽमनाः। उपऽस्थे। मित्रः। एनम्। मित्रियात्। पातु। अंहसः। २८.१।
+तुभ्य॑म्। ए॒व। ज॒रि॒म॒न्। व॒र्ध॒ता॒म्। अ॒यम्। मा। इ॒मम्। अ॒न्ये। मृ॒त्यवः॑। हिं॒सि॒षुः॒। श॒तम्। ये। मा॒ताऽइ॑व। पु॒त्रम्। प्रऽम॑नाः। उ॒पऽस्थे॑। मि॒त्रः। ए॒न॒म्। मि॒त्रिया॑त्। पा॒तु॒। अंह॑सः। २८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +110,17 @@ This Child, Old Age! shall grow to meet thee only: none of the hundred other dea
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मि॒त्र एनं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ।  
-तद॒ग्निर्होता॑ व॒युना॑नि विद्वान् विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥२॥  
+मि॒त्र ए॑नं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ।  
+तद॒ग्निर्होता॑ व॒युना॑नि वि॒द्वान्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मि॒त्र ए॑नं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ। तद॒ग्निर्होता॑ व॒युना॑नि वि॒द्वान्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥
+मि॒त्र ए॑नं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ।  
+तद॒ग्निर्होता॑ व॒युना॑नि वि॒द्वान्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
@@ -143,7 +149,7 @@ Mitra or Varuna the foe-destroyer, accordant, grant him death in course of natur
 </details>
 <details><summary>पदपाठः</summary>
 
-मित्रः। एनम्। वरुणः। वा। रिशादाः। जराऽमृत्युम्। कृणुताम्। सम्ऽविदानौ। तत्। अग्निः। होता। वयुनानि। विद्वान्। विश्वा। देवानाम्। जनिमा। विवक्ति। २८.२।
+मि॒त्रः। ए॒न॒म्। वरु॑णः। वा॒। रि॒शादाः॑। ज॒राऽमृ॑त्युम्। कृ॒णु॒ता॒म्। स॒म्ऽवि॒दा॒नौ। तत्। अ॒ग्निः। होता॑। व॒युना॑नि। वि॒द्वान्। विश्वा॑। दे॒वाना॑म्। जनि॑मा। वि॒व॒क्ति॒। २८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,14 +180,17 @@ Mitra or Varuna the foe-destroyer, accordant, grant him death in course of natur
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑ ।  
-मेमं प्रा॒णो हा॑सी॒न्मो अ॑पा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥३॥  
+त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑।  
+मेमं प्रा॒णो हा॑सीन्मो अपा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑। मेमं प्रा॒णो हा॑सीन्मो अपा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥
+त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑।  
+मेमं प्रा॒णो हा॑सीन्मो अपा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
@@ -207,7 +216,7 @@ Thou art the Lord of all terrestrial cattle, of cattle born and to be born herea
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। ईशिषे। पशूनाम्। पार्थिवानाम्। ये। जाताः। उत। वा। ये। जनित्राः। मा। इमम्। प्राणः। हासीत्। मो इति। अपानः। मा। इमम्। मित्राः। वधिषुः। मो इति। अमित्राः। २८.३।
+त्वम्। ई॒शि॒षे॒। प॒शू॒नाम्। पार्थि॑वानाम्। ये। जा॒ताः। उ॒त। वा॒। ये। ज॒नित्राः॑। मा। इ॒मम्। प्रा॒णः। हा॒सी॒त्। मो इति॑। अ॒पा॒नः। मा। इ॒मम्। मि॒त्राः। व॒धि॒षुः॒। मो इति॑। अ॒मित्राः॑। २८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -239,13 +248,16 @@ Thou art the Lord of all terrestrial cattle, of cattle born and to be born herea
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने।  
-यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥४॥  
+यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने। यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥
+द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने।  
+यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
@@ -273,7 +285,7 @@ Let Heaven thy father and let Earth thy mother, accordant, give thee death in co
 </details>
 <details><summary>पदपाठः</summary>
 
-द्यौः। त्वा। पिता। पृथिवी। माता। जराऽमृत्युम्। कृणुताम्। संविदाने इति सम्ऽविदाने। यथा। जीवाः। अदितेः। उप‍स्थे। प्राणापानाभ्याम्। गुपितः। शतम्। हिमाः। २८.४।
+द्यौः। त्वा॒। पि॒ता। पृ॒थि॒वी। मा॒ता। ज॒राऽमृ॑त्युम्। कृ॒णु॒ता॒म्। सं॒वि॒दा॒ने इति॑ स॒म्ऽवि॒दा॒ने। यथा॑। जीवाः॑। अदि॑तेः। उ॒प‍स्थे॑। प्रा॒णा॒पा॒नाभ्या॑म्। गु॒पि॒तः। श॒तम्। हिमाः॑। २८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -304,14 +316,17 @@ Let Heaven thy father and let Earth thy mother, accordant, give thee death in co
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒मम॑ग्ने॒ आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्रराजन्।  
-मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्य॑थास॑त्॥५॥
+इ॒मम॒ग्न आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्र राजन्।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्यथास॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मम॒ग्न आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्र राजन्। मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्यथास॑त् ॥
+इ॒मम॒ग्न आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्र राजन्।  
+मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्यथास॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
@@ -344,7 +359,7 @@ Lead him to life, O Agni, and to splendour, this dear child, Varuna! and thou Ki
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। अग्ने। आयुषे। वर्चसे। नय। प्रियम्। रेतः। वरुण। मित्रऽराजन्। माताऽइव। अस्मै। अदिते। शर्म। यच्छ। विश्वे। देवाः। जरत्ऽअष्टिः। यथा। असत्। २८.५।
+इ॒मम्। अ॒ग्ने॒। आयु॑षे। वर्च॑से। न॒य॒। प्रि॒यम्। रेतः॑। व॒रु॒ण॒। मि॒त्रऽरा॒ज॒न्। मा॒ताऽइ॑व। अ॒स्मै॒। अ॒दि॒ते॒। शर्म॑। य॒च्छ॒। विश्वे॑। दे॒वाः॒। ज॒रत्ऽअ॑ष्टिः। यथा॑। अस॑त्। २८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

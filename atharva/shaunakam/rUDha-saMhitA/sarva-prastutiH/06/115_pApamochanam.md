@@ -32,14 +32,17 @@ Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
-यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥१॥  
+यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
+यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्। यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
+यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
+यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
@@ -63,7 +66,7 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। विद्वांसः। यत्। अविद्वांसः। एनांसि। चकृम। वयम्। यूयम्। नः। तस्मात्। मुञ्चत। विश्वे। देवाः। सऽजोषसः। ११५.१।
+यत्। वि॒द्वांसः॑। यत्। अवि॑द्वांसः। एनां॑सि। च॒कृ॒म। व॒यम्। यू॒यम्। नः॒। तस्मा॑त्। मु॒ञ्च॒त॒। विश्वे॑। दे॒वाः॒। स॒ऽजो॒ष॒सः॒। ११५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -94,14 +97,17 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदि॒ जाग्र॒द् यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
-भू॒तं मा॒ तस्मा॒द् भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम्॥२॥  
+यदि॒ जाग्र॒द्यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
+भू॒तं मा॒ तस्मा॒द्भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/02_yadi_jAgradyadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदि॒ जाग्र॒द्यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्। भू॒तं मा॒ तस्मा॒द्भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम् ॥
+यदि॒ जाग्र॒द्यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
+भू॒तं मा॒ तस्मा॒द्भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
@@ -129,7 +135,7 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 </details>
 <details><summary>पदपाठः</summary>
 
-यदि। जाग्रत्। यदि। स्वपन्। एनः। एनस्यः। अकरम्। भूतम्। मा। तस्मात्। भव्यम्। च। द्रुपदात्ऽइव। मुञ्चताम्। ११५.२।
+यदि॑। जाग्र॑त्। यदि॑। स्वप॑न्। एनः॑। ए॒न॒स्यः॑। अक॑रम्। भू॒तम्। मा॒। तस्मा॑त्। भव्य॑म्। च॒। द्रु॒प॒दात्ऽइ॑व। मु॒ञ्च॒ता॒म्। ११५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,14 +166,17 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-द्रु॒प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव ।  
-पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥३॥
+द्रु॑प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव।  
+पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-द्रु॑प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव। पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥
+द्रु॑प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव।  
+पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
@@ -198,7 +207,7 @@ As one unfastened from a stake, or cleansed by bathing after toil, As butter whi
 </details>
 <details><summary>पदपाठः</summary>
 
-द्रुपदात्ऽइव। मुमुचानः। स्विन्नः। स्नात्वा। मलात्ऽइव। पूतम्। पवित्रेणऽइव। आज्यम्। विश्वे। शुम्भन्तु। मा। एनसः। ११५.३।
+द्रु॒प॒दात्ऽइ॑व। मु॒मु॒चा॒नः। स्वि॒न्नः। स्ना॒त्वा। मला॑त्ऽइव। पू॒तम्। प॒वित्रे॑णऽइव। आज्य॑म्। विश्वे॑। शु॒म्भ॒न्तु॒। मा॒। एन॑सः। ११५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

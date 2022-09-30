@@ -29,10 +29,7 @@ Translated: Weber, xvii. 295; Griffith, i. 121.
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27    A charm consigning an enemy to the serpents fo...
-3.27    A charm to change the ill-omened birth of twin...
-Name: Comment, dtype: object
+A charm consigning an enemy to the serpents for punishment
 </details>
 </details>
 </div>
@@ -40,15 +37,19 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्राची॒ दिग॒ग्निरधि॑पतिरसि॒तो र॑क्षि॒तादि॒त्याल इष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥१॥  
+प्राची॒ दिग॒ग्निरधि॑पतिरसि॒तो र॑क्षि॒तादि॒त्या इष॑वः।  
+तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्राची॒ दिग॒ग्निरधि॑पतिरसि॒तो र॑क्षि॒तादि॒त्या इष॑वः। तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु। यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+प्राची॒ दिग॒ग्निरधि॑पतिरसि॒तो र॑क्षि॒तादि॒त्या इष॑वः।  
+तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
@@ -82,14 +83,12 @@ to 66 syllables (*aṣṭi* is properly 64).
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27.1    Agni is regent of the East, its warder is Asit...
-3.27.1    This cow was born to bring forth offspring sin...
-Name: Comment, dtype: object
+Agni is regent of the East, its warder is Asita, the Adityas are the arrows.
+Worship to these the regents, these the warders, and to the arrows, yea, to these be worship! Within your jaws we lay the man who hateth us and whom we hate.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्राची। दिक्। अग्निः। अधिऽपतिः। असितः। रक्षिता। आदित्याः। इषवः। तेभ्यः। नमः। अधिपतिऽभ्यः। नमः। रक्षितृऽभ्यः। नमः। इषुऽभ्यः। नमः। एभ्यः। अस्तु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वः। जम्भे। दध्मः। २७.१।
+प्राची॑। दिक्। अ॒ग्निः। अधि॑ऽपतिः। अ॒सि॒तः। र॒क्षि॒ता। आ॒दि॒त्याः। इष॑वः। तेभ्यः॑। नमः॑। अधि॑पतिऽभ्यः। नमः॑। र॒क्षि॒तृऽभ्यः॑। नमः॑। इषु॑ऽभ्यः। नमः॑। ए॒भ्यः॒। अ॒स्तु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। तम्। वः॒। जम्भे॑। द॒ध्मः॒। २७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -120,15 +119,19 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दक्षि॑णा॒ दिगिन्द्रोऽधि॑पति॒स्तिर॑श्चिराजी रक्षि॒ता पि॒तर॒ इष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥२॥  
+दक्षि॑णा॒ दिगिन्द्रो॑ऽधिपति॒स्तिर॑श्चिराजी रक्षि॒ता पि॒तर॒ इष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दक्षि॑णा॒ दिगिन्द्रो॑ऽधिपति॒स्तिर॑श्चिराजी रक्षि॒ता पि॒तर॒ इष॑वः। तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु। यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+दक्षि॑णा॒ दिगिन्द्रो॑ऽधिपति॒स्तिर॑श्चिराजी रक्षि॒ता पि॒तर॒ इष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
@@ -145,14 +148,12 @@ makes the adder (*pṛ́dāku*) defender here.
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27.2    Indra is regent of the South, its warder Tiras...
-3.27.2    She brings destruction on the beasts, turned t...
-Name: Comment, dtype: object
+Indra is regent of the South, its warder Tiraschiraji, and the shafts the Fathers.
+Worship to these the regents, these the warders, and to the arrows, yea, to these be worship! Within your jaws we lay the man who hateth us and whom we hate.
 </details>
 <details><summary>पदपाठः</summary>
 
-दक्षिणा। दिक्। इन्द्रः। अधिऽपतिः। तिरश्चिऽराजिः। रक्षिता। पितरः। इषवः। तेभ्यः। नमः। अधिपतिऽभ्यः। नमः। रक्षितृऽभ्यः। नमः। इषुऽभ्यः। नमः। एभ्यः। अस्तु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वः। जम्भे। दध्मः। २७.२।
+दक्षि॑णा। दिक्। इन्द्रः॑। अधि॑ऽपतिः। तिर॑श्चिऽराजिः। र॒क्षि॒ता। पि॒तरः॑। इष॑वः। तेभ्यः॑। नमः॑। अधि॑पतिऽभ्यः। नमः॑। र॒क्षि॒तृऽभ्यः॑। नमः॑। इषु॑ऽभ्यः। नमः॑। ए॒भ्यः॒। अ॒स्तु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। तम्। वः॒। जम्भे॑। द॒ध्मः। २७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -183,15 +184,19 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒तीची॒ दिग् वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥३॥  
+प्र॒तीची॒ दिग्वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒तीची॒ दिग्वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः। तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु। यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+प्र॒तीची॒ दिग्वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
@@ -208,14 +213,12 @@ and MS. give here Soma as overlord, and the constrictor as defender.
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27.3    Of the West region Varuna is ruler, Pridaku wa...
-3.27.3    Be thou auspicious to our folk, bring luck to ...
-Name: Comment, dtype: object
+Of the West region Varuna is ruler, Pridaku warder, Nourish ment the arrows.
+Worship, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रतीची। दिक्। वरुणः। अधिऽपतिः। पृदाकुः। रक्षिता। अन्नम्। इषवः। तेभ्यः। नमः। अधिपतिऽभ्यः। नमः। रक्षितृऽभ्यः। नमः। इषुऽभ्यः। नमः। एभ्यः। अस्तु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वः। जम्भे। दध्मः। २७.३।
+प्र॒तीची॑। दिक्। वरु॑णः। अधि॑ऽपतिः। पृदा॑कुः। र॒क्षि॒ता। अन्न॑म्। इष॑वः। तेभ्यः॑। नमः॑। अधि॑पतिऽभ्यः। नमः॑। र॒क्षि॒तृऽभ्यः॑। नमः॑। इषु॑ऽभ्यः। नमः॑। ए॒भ्यः॒। अ॒स्तु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। तम्। वः॒। जम्भे॑। द॒ध्मः। २७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -246,15 +249,19 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदी॑ची॒ दिक् सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥४॥  
+उदी॑ची॒ दिक्सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदी॑ची॒ दिक्सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः। तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु। यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+उदी॑ची॒ दिक्सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
@@ -275,14 +282,12 @@ arrows.
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27.4    Soma is ruler of the Northern region, Svaja th...
-3.27.4    Let there be rain and increase here, here be t...
-Name: Comment, dtype: object
+Soma is ruler of the Northern region, Svaja the warder, lightn ing s flash the arrows.
+Worship, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-उदीची। दिक्। सोमः। अधिऽपतिः। स्वजः। रक्षिता। अशनिः। इषवः। तेभ्यः। नमः। अधिपतिऽभ्यः। नमः। रक्षितृऽभ्यः। नमः। इषुऽभ्यः। नमः। एभ्यः। अस्तु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वः। जम्भे। दध्मः। २७.४।
+उदी॑ची। दिक्। सोमः॑। अधि॑ऽपतिः। स्व॒जः। र॒क्षि॒ता। अ॒शनिः॑। इष॑वः। तेभ्यः॑। नमः॑। अधि॑पतिऽभ्यः। नमः॑। र॒क्षि॒तृऽभ्यः॑। नमः॑। इषु॑ऽभ्यः। नमः॑। ए॒भ्यः॒। अ॒स्तु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। तम्। वः॒। जम्भे॑। द॒ध्मः। २७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -313,15 +318,19 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ध्रु॒वा दिग् विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो नम॒ एभ्यो अस्तु ।  
-यो॒३ऽस्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥५॥  
+ध्रु॒वा दिग्विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ध्रु॒वा दिग्विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः। तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु। यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+ध्रु॒वा दिग्विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
@@ -341,14 +350,12 @@ the right, under *-tā*.
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27.5    Vishnu is ruler of the firm-set region, Kalmas...
-3.27.5    Where, having left all sickness of their bodie...
-Name: Comment, dtype: object
+Vishnu is ruler of the firm set region, Kalmashagriva warder, Plants the arrows.
+Worship, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-ध्रुवा। दिक्। विष्णुः। अधिऽपतिः। कल्माषऽग्रीवः। रक्षिता। वीरुधः। इषवः। तेभ्यः। नमः। अधिपतिऽभ्यः। नमः। रक्षितृऽभ्यः। नमः। इषुऽभ्यः। नमः। एभ्यः। अस्तु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वः। जम्भे। दध्मः। २७.५।
+ध्रु॒वा। दिक्। विष्णुः॑। अधि॑ऽपतिः। क॒ल्माष॑ऽग्रीवः। र॒क्षि॒ता। वी॒रुधः॑। इष॑वः। तेभ्यः॑। नमः॑। अधि॑पतिऽभ्यः। नमः॑। र॒क्षि॒तृऽभ्यः॑। नमः॑। इषु॑ऽभ्यः। नमः॑। ए॒भ्यः॒। अ॒स्तु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। तम्। वः॒। जम्भे॑। द॒ध्मः। २७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -379,15 +386,19 @@ Name: Comment, dtype: object
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऊ॒र्ध्वा दिग् बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता व॒र्षमिष॑वः ।  
-तेभ्यो॒ नमोऽधि॑पतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु ।  
-यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥६॥
+ऊ॒र्ध्वा दिग्बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता व॒र्षमिष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऊ॒र्ध्वा दिग्बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता व॒र्षमिष॑वः। तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु। यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+ऊ॒र्ध्वा दिग्बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता व॒र्षमिष॑वः।  
+तेभ्यो॒ नमो॑ऽधिपतिभ्यो॒ नमो॑ रक्षि॒तृभ्यो॒ नम॒ इषु॑भ्यो॒ नम॑ एभ्यो अस्तु।  
+यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
@@ -410,14 +421,12 @@ xxxv. 527), is hardly apt.⌋
 </details>
 <details><summary>Griffith</summary>
 
-id
-3.27.6    Brihaspati controls the topmost region, Svitra...
-3.27.6    Where lies the world of those dear friends, th...
-Name: Comment, dtype: object
+Brihaspati controls the topmost region, Svitra is warder, and the Rain the arrows.
+Worship to these the regents, these the warders, and to the arrows, yea, to these be worship,! Within your jaws we lay the man who hateth us and whom we hate.
 </details>
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वा। दिक्। बृहस्पतिः। अधिऽपतिः। श्वित्रः। रक्षिता। वर्षम्। इषवः। तेभ्यः। नमः। अधिपतिऽभ्यः। नमः। रक्षितृऽभ्यः। नमः। इषुऽभ्यः। नमः। एभ्यः। अस्तु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। तम्। वः। जम्भे। दध्मः। २७.६।
+ऊ॒र्ध्वा। दिक्। बृह॒स्पतिः॑। अधि॑ऽपतिः। श्वि॒त्रः। र॒क्षि॒ता। व॒र्षम्। इष॑वः। तेभ्यः॑। नमः॑। अधि॑पतिऽभ्यः। नमः॑। र॒क्षि॒तृऽभ्यः॑। नमः॑। इषु॑ऽभ्यः। नमः॑। ए॒भ्यः॒। अ॒स्तु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। तम्। वः॒। जम्भे॑। द॒ध्मः। २७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

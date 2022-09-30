@@ -32,14 +32,17 @@ Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑ ।  
-अ॒भ्य॑हं विश्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥१॥  
+अ॑भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑।  
+अ॒भ्य१॒॑हं वि॑श्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑। अ॒भ्यहं वि॑श्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥
+अ॑भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑।  
+अ॒भ्य१॒॑हं वि॑श्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
@@ -61,7 +64,7 @@ The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So wil
 </details>
 <details><summary>पदपाठः</summary>
 
-अभिऽभूः। यज्ञः। अभिःऽभूः। अग्निः। अभिऽभूः। सोमः। अभिऽभूः। इन्द्रः। अभि। अहम्। विश्वाः। पृतनाः। यथा। असानि। एव। विधेम। अग्निऽहोत्राः। इदम्। हविः। ९७.१।
+अ॒भि॒ऽभूः। य॒ज्ञः। अ॒भिः॒ऽभूः। अ॒ग्निः। अ॒भि॒ऽभूः। सोमः॑। अ॒भि॒ऽभूः। इन्द्रः॑। अ॒भि। अहम्। विश्वाः॑। पृत॑नाः। यथा॑। असा॑नि। ए॒व। वि॒धे॒म॒। अ॒ग्निऽहो॑त्राः। इ॒दम्। ह॒विः। ९७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,14 +95,17 @@ The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So wil
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त् क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्।  
-बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत्॥२॥  
+स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त्क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्।  
+बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त्क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्। बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त्क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्।  
+बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
@@ -128,7 +134,7 @@ omits it, prefixing instead *āré* to *bādhasva*. The comm. takes
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वधा। अस्तु। मित्रावरुणा। विपःऽचिता। प्रजाऽवत्। क्षत्रम्। मधुना। इह। पिन्वतम्। बाधेथाम्। दूरम्। निःऽऋतिम्। पराचैः। कृतम्। चित्। एनः। प्र। मुमुक्तम्। अस्मत्। ९७.२।
+स्व॒धा। अ॒स्तु॒। मि॒त्रा॒व॒रु॒णा॒। वि॒पः॒ऽचि॒ता॒। प्र॒जाऽव॑त्। क्ष॒त्रम्। मधु॑ना। इ॒ह। पि॒न्व॒त॒म्। बाधे॑थाम्। दू॒रम्। निःऽऋ॑तिम्। प॒रा॒चैः। कृ॒तम्। चि॒त्। एनः॑। प्र। मु॒मु॒क्त॒म्। अ॒स्मत्। ९७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -160,13 +166,16 @@ omits it, prefixing instead *āré* to *bādhasva*. The comm. takes
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
-ग्रा॒म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥३॥
+ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्। ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
+इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
+ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
@@ -195,7 +204,7 @@ In this strong hero be ye glad and joyful: cleave ye to him even as ye cleave to
 </details>
 <details><summary>पदपाठः</summary>
 
-इमम्। वीरम्। अनु। हर्षध्वम्। उग्रम्। इन्द्रम्। सखायः। अनु। सम्। रभध्वम्। ग्रामऽजितम्। गोऽजितम्। वज्रऽबाहुम्। जयन्तम्। अज्म। प्रऽमृणन्तम्। ओजसा। ९७.३।
+इ॒मम्। वी॒रम्। अनु॑। ह॒र्ष॒ध्व॒म्। उ॒ग्रम्। इन्द्र॑म्। स॒खा॒यः॒। अनु॑। सम्। र॒भ॒ध्व॒म्। ग्रा॒म॒ऽजित॑म्। गो॒ऽजित॑म्। वज्र॑ऽबाहुम्। जय॑न्तम्। अज्म॑। प्र॒ऽमृ॒णन्त॑म्। ओज॑सा। ९७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

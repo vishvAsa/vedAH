@@ -37,13 +37,16 @@ To Agni for protection from enemies
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नाम्।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥१॥  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नाम्। स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नाम्।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
@@ -62,7 +65,7 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 </details>
 <details><summary>पदपाठः</summary>
 
-प्र। अग्नये। वाचम्। ईरय। वृषभाय। क्षितीनाम्। सः। नः। पर्षत्। अति। द्विषः। ३४.१।
+प्र। अ॒ग्नये॑। वाच॑म्। ई॒र॒य॒। वृ॒ष॒भाय॑। क्षि॒ती॒नाम्। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑ ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥२॥  
+यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑। स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
@@ -120,7 +126,7 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। रक्षांसि। निऽजूर्वति। अग्निः। तिग्मेन। शोचिषा। सः। नः। पर्षत्। अति। द्विषः। ३४.२।
+यः। रक्षां॑सि। नि॒ऽजूर्व॑ति। अ॒ग्निः। ति॒ग्मेन॑। शो॒चिषा॑। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -151,14 +157,17 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥३॥  
+यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते। स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
@@ -178,7 +187,7 @@ He who from distance far remote shineth across the tracts of land, May he transp
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। परस्याः। पराऽवतः। तिरः। धन्व। अतिऽरोचते। सः। नः। पर्षत्। अति। द्विषः। ३४.३।
+यः। पर॑स्याः। प॒रा॒ऽवतः॑। ति॒रः। धन्व॑। अ॒ति॒ऽरोच॑ते। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -209,14 +218,17 @@ He who from distance far remote shineth across the tracts of land, May he transp
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥४॥  
+यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति। स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
@@ -236,7 +248,7 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। विश्वा। अभि। विऽपश्यति। भुवना। सम्। च। पश्यति। सः। नः। पर्षत्। अति। द्विषः। ३४.४।
+यः। विश्वा॑। अ॒भि। वि॒ऽपश्य॑ति। भुव॑ना। सम्। च॒। पश्य॑ति। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -267,14 +279,17 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत ।  
-स नः॑ पर्ष॒दति॒ द्विषः॑ ॥५॥
+यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/05_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत। स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/05_yo_asya.md">
@@ -301,7 +316,7 @@ That brilliant Agni who was born beyond this region of the air, May he transport
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। पारे। रजसः। शुक्रः। अग्निः। अजायत। सः। नः। पर्षत्। अति। द्विषः। ३४.५।
+यः। अ॒स्य। पा॒रे। रज॑सः। शु॒क्रः। अ॒ग्निः। अजा॑यत। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

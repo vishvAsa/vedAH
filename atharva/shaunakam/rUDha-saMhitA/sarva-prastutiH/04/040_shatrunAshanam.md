@@ -38,13 +38,16 @@ A charm against rival worshippers
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥१॥  
+अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्। अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
@@ -72,7 +75,7 @@ O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. M
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। पुरस्तात्। जुह्वति। जातऽवेदः। प्राच्याः। दिशः। अभिऽदासन्ति। अस्मान्। अग्निम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.१।
+ये। पु॒रस्ता॑त्। जुह्व॑ति। जात॒ऽवे॒दः॒। प्राच्याः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। अ॒ग्निम्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,13 +107,16 @@ O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. M
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये द॑क्षिण॒तो जुह्व॑ति जातवेदो॒ दक्षि॑णाया दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥२॥  
+य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/02_ye_daxiNato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये द॑क्षिण॒तो जुह्व॑ति जातवेदो॒ दक्षि॑णाया दि॒शोऽभि॒दास॑न्त्य॒स्मान्। य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥
+ये द॑क्षिण॒तो जुह्व॑ति जातवेदो॒ दक्षि॑णाया दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/02_ye_daxiNato.md">
@@ -131,11 +137,11 @@ O Jatavedas, southward sacrificers as foes assail us from the southern quarter. 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। दक्षिणतः। जुह्वति। जातऽवेदः। दक्षिणायाः। दिशः। अभिऽदासन्ति। अस्मान्। यमम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। ‍ हन्मि। ४०.२।
+ये। द॒क्षि॒ण॒तः। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। दक्षि॑णायाः। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। य॒मम्। ऋ॒त्वा। ते॒। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ‍ ह॒न्मि॒। ४०.२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। दक्षिणतः। जुह्वति। जातऽवेदः। दक्षिणायाः। दिशः। अभिऽदासन्ति। अस्मान्। यमम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। ‍ हन्मि। ४०.२।
+ये। द॒क्षि॒ण॒तः। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। दक्षि॑णायाः। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। य॒मम्। ऋ॒त्वा। ते॒। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ‍ ह॒न्मि॒। ४०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -151,13 +157,16 @@ O Jatavedas, southward sacrificers as foes assail us from the southern quarter. 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥३॥  
+वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्। वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
@@ -177,11 +186,11 @@ O Jatavedas, westward sacrificers as foes assail us from the western quarter. Fo
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। पश्चात्। जुह्वति। जातऽवेदः। प्रतीच्याः। दिशः। अभिऽदासन्ति। अस्मान्। वरुणम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.३।
+ये। प॒श्चात्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। प्र॒तीच्याः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। वरु॑णम्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। पश्चात्। जुह्वति। जातऽवेदः। प्रतीच्याः। दिशः। अभिऽदासन्ति। अस्मान्। वरुणम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.३।
+ये। प॒श्चात्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। प्र॒तीच्याः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। वरु॑णम्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -197,13 +206,16 @@ O Jatavedas, westward sacrificers as foes assail us from the western quarter. Fo
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॑त्तर॒तो जुह्व॑ति जातवेद॒ उदी॑च्या दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥४॥  
+सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/04_ya_uttarato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य उ॑त्तर॒तो जुह्व॑ति जातवेद॒ उदी॑च्या दि॒शोऽभि॒दास॑न्त्य॒स्मान्। सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+य उ॑त्तर॒तो जुह्व॑ति जातवेद॒ उदी॑च्या दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/04_ya_uttarato.md">
@@ -219,11 +231,11 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। उत्तरतः। जुह्वति। जातऽवेदः। उदीच्याः। दिशः। अभिऽदासन्ति। अस्मान्। सोमम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.४।
+ये। उ॒त्त॒र॒तः। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। उदी॑च्याः। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। सोम॑म्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.४। 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। उत्तरतः। जुह्वति। जातऽवेदः। उदीच्याः। दिशः। अभिऽदासन्ति। अस्मान्। सोमम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.४।
+ये। उ॒त्त॒र॒तः। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। उदी॑च्याः। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। सोम॑म्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -234,22 +246,25 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 </details>
 </details>
 </div>
-## ०५ ये३धस्ताज्जुह्वति जातवेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_ye3dhastAjjuhvati_jAtavedo.md">
+## ०५ येधस्ताज्जुह्वति जातवेदो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभिदास॑न्त्य॒स्मान्।  
-भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥५॥  
+ये॒३॒॑धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/05_ye3dhastAjjuhvati_jAtavedo.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॒३॒॑धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्। भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये॒३॒॑धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/05_ye3dhastAjjuhvati_jAtavedo.md">
-<details open><summary><h3>०५ ये३धस्ताज्जुह्वति जातवेदो ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
+<details open><summary><h3>०५ येधस्ताज्जुह्वति जातवेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -268,11 +283,11 @@ O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter.
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अधस्तात्। जुह्वति। जातऽवेदः। ध्रुवायाः। दिशः। अभिऽदासन्ति। अस्मान्। भूमिम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.५।
+ये। अ॒धस्ता॑त्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। ध्रु॒वायाः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। भूमि॑म्। ऋ॒त्वा। ते॒। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.५। 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अधस्तात्। जुह्वति। जातऽवेदः। ध्रुवायाः। दिशः। अभिऽदासन्ति। अस्मान्। भूमिम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.५।
+ये। अ॒धस्ता॑त्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। ध्रु॒वायाः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। भूमि॑म्। ऋ॒त्वा। ते॒। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -283,22 +298,25 @@ O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter.
 </details>
 </details>
 </div>
-## ०६ ये३ऽन्तरिक्षाज्जुह्वति जातवेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/06_ye3-ntarixAjjuhvati_jAtavedo.md">
+## ०६ येऽन्तरिक्षाज्जुह्वति जातवेदो
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये॒३ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥६॥  
+ये॑३॒॑ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/06_ye3-ntarixAjjuhvati_jAtavedo.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये॑३॒॑ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्। वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये॑३॒॑ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/06_ye3-ntarixAjjuhvati_jAtavedo.md">
-<details open><summary><h3>०६ ये३ऽन्तरिक्षाज्जुह्वति जातवेदो ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
+<details open><summary><h3>०६ येऽन्तरिक्षाज्जुह्वति जातवेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -316,11 +334,11 @@ Those who pay sacrifice, O Jatavedas, from air assail us from the midway quarter
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अन्तरिक्षात्। जुह्वति। जातऽवेदः। विऽअध्वायाः। दिशः। अभिऽदासन्ति। अस्मान्। वायुम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.६।
+ये। अ॒न्तरि॑क्षात्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। वि॒ऽअ॒ध्वायाः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। वा॒युम्। ऋ॒त्वा। ते॒। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.६। 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। अन्तरिक्षात्। जुह्वति। जातऽवेदः। विऽअध्वायाः। दिशः। अभिऽदासन्ति। अस्मान्। वायुम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.६।
+ये। अ॒न्तरि॑क्षात्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। वि॒ऽअ॒ध्वायाः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। वा॒युम्। ऋ॒त्वा। ते॒। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -336,13 +354,16 @@ Those who pay sacrifice, O Jatavedas, from air assail us from the midway quarter
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॒परि॑ष्टा॒ज्जुह्व॑ति जातवेद ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
-सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥७॥  
+सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य उ॒परि॑ष्टा॒ज्जुह्व॑ति जातवेद ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्। सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+य उ॒परि॑ष्टा॒ज्जुह्व॑ति जातवेद ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
+सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
@@ -362,11 +383,11 @@ The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For w
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। उपरिष्टात्। जुह्वति। जातऽवेदः। ऊर्ध्वायाः। दिशः। अभिऽदासन्ति। अस्मान्। सूर्यम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.७।
+ये। उ॒परि॑ष्टात्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। सूर्य॑म्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.७। 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। उपरिष्टात्। जुह्वति। जातऽवेदः। ऊर्ध्वायाः। दिशः। अभिऽदासन्ति। अस्मान्। सूर्यम्। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.७।
+ये। उ॒परि॑ष्टात्। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। सूर्य॑म्। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -381,14 +402,17 @@ The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For w
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्।  
-ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥८॥
+ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः॒ सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्।  
+ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः॒ सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्। ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः॒ सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्।  
+ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
@@ -420,7 +444,7 @@ Those from all points assail us, Jatavedas, who sacrifice from intermediate regi
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। दिशाम्। अन्तःऽदेशेभ्यः। जुह्वति। जातऽवेदः। सर्वाभ्यः। दिक्ऽभ्यः। अभिऽदासन्ति। अस्मान्। ब्रह्म। ऋत्वा। ते। पराञ्चः। व्यथन्ताम्। प्रत्यक्। एनान्। प्रतिऽसरेण। हन्मि। ४०.८।
+ये। दि॒शाम्। अ॒न्तः॒ऽदे॒शेभ्यः॑। जुह्व॑ति। जा॒त॒ऽवे॒दः॒। सर्वा॑भ्यः। दि॒क्ऽभ्यः। अ॒भि॒ऽदास॑न्ति। अ॒स्मान्। ब्रह्म॑। ऋ॒त्वा। ते। परा॑ञ्चः। व्य॒थ॒न्ता॒म्। प्र॒त्यक्। ए॒ना॒न्। प्र॒ति॒ऽस॒रेण॑। ह॒न्मि॒। ४०.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

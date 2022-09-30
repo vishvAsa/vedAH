@@ -32,23 +32,25 @@ A sacrificial formula
 </details>
 </details>
 </div>
-## ०१ यस्मात् कोशादुदभराम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/072_paramAtmA/01_yasmAt_koshAdudabharAma.md">
+## ०१ यस्मात्कोशादुदभराम वेदम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्मा॒त् कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
-कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्येण॑ तेन॑ मा देवा॒स्तप॑सावते॒ह॥१॥
+यस्मा॒त्कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
+कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्ये᳡ण॒ तेन॑ मा देवा॒स्तप॑सावते॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/072_paramAtmA/01_yasmAt_koshAdudabharAma.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्मा॒त् कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
-कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्येण॑ तेन॑ मा देवा॒स्तप॑सावते॒ह॥१॥
+यस्मा॒त्कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
+कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्ये᳡ण॒ तेन॑ मा देवा॒स्तप॑सावते॒ह ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/01_yasmAt_koshAdudabharAma.md">
-<details open><summary><h3>०१ यस्मात् कोशादुदभराम ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
+<details open><summary><h3>०१ यस्मात्कोशादुदभराम वेदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -76,7 +78,7 @@ Within the chest whence we before extracted the bunch of grass, this do we now d
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्मात्। कोशात्। उत्ऽअभराम। वेदम्। तस्मिन्। अन्तः। अव। दध्मः। एनम्। कृतम्। इष्टम्। ब्रह्मणः। वीर्ये᳡ण। तेन। मा। देवाः। तपसा। अवत। इह। ७२.१।
+यस्मा॑त्। कोशा॑त्। उ॒त्ऽअभ॑राम। वेद॑म्। तस्मि॑न्। अ॒न्तः। अव॑। द॒ध्मः॒। ए॒न॒म्। कृ॒तम्। इ॒ष्टम्। ब्रह्म॑णः। वी॒र्ये᳡ण। तेन॑। मा॒। दे॒वाः॒। तप॑सा। अ॒व॒त॒। इ॒ह। ७२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

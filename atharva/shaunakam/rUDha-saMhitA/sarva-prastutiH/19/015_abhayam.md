@@ -36,14 +36,17 @@ A prayer for peace and security
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/01_yata_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि ।  
-मघ॑वंछ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥१॥  
+यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि।  
+मघ॑वञ्छ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/01_yata_indra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि। मघ॑वञ्छ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥
+यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि।  
+मघ॑वञ्छ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/01_yata_indra.md">
@@ -74,7 +77,7 @@ Indra, give us security from that whereof we are afraid. Help us, O Maghavan, le
 </details>
 <details><summary>पदपाठः</summary>
 
-यतः। इन्द्र। भयामहे। ततः। नः। अभयम्। कृधि। मघऽवन्। शग्धि। तव। त्वम्। नः। ऊतिऽभिः। वि। द्विषः। वि। मृधः। जहि। १५.१।
+यतः॑। इ॒न्द्र॒। भया॑महे। ततः॑। नः॒। अभ॑यम्। कृ॒धि॒। मघ॑ऽवन्। श॒ग्धि। तव॑। त्वम्। नः॒। ऊ॒तिऽभिः॑। वि। द्विषः॑। वि। मृधः॑। ज॒हि॒। १५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,15 +108,17 @@ Indra, give us security from that whereof we are afraid. Help us, O Maghavan, le
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा ।  
-मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥२॥  
+इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा।  
+मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा ।  
-मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥२॥  
+इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा।  
+मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
@@ -140,7 +145,7 @@ We call on Indra, on the liberal giver: we will be prosperous in men and cattle.
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रम्। वयम्। अनुऽराधम्। हवामहे। अनु। राध्यास्म। द्विऽपदा। चतुःऽपदा। मा। नः। सेनाः। अररुषीः। उप। गुः। विषूचीः। इन्द्र। द्रुहः। वि। नाशय। १५.२।
+इन्द्र॑म्। व॒यम्। अ॒नु॒ऽरा॒धम्। ह॒वा॒म॒हे॒। अनु॑। रा॒ध्या॒स्म॒। द्वि॒ऽपदा॑। चतुः॑ऽपदा। मा। नः॒। सेनाः॑। अर॑रुषीः। उप॑। गुः॒। विषू॑चीः। इ॒न्द्र॒। द्रु॒हः। वि। ना॒श॒य॒। १५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -171,15 +176,17 @@ We call on Indra, on the liberal giver: we will be prosperous in men and cattle.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः ।  
-स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात् स पु॒रस्ता॑न्नो अस्तु ॥३॥  
+इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः।  
+स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात्स पु॒रस्ता॑न्नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः ।  
-स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात् स पु॒रस्ता॑न्नो अस्तु ॥३॥  
+इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः।  
+स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात्स पु॒रस्ता॑न्नो अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
@@ -209,7 +216,7 @@ Best, making household wealth increase. Indra our saviour, kills the foe. May he
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। त्राता। उत। वृत्रऽहा। परस्फानः। वरेण्यः। सः। रक्षिता। चरमतः। सः। मध्यतः। सः। पश्चात्। सः। पुरस्तात्। नः। अस्तु। १५.३।
+इन्द्रः॑। त्रा॒ता। उ॒त। वृ॒त्र॒ऽहा। प॒र॒स्फानः॑। वरे॑ण्यः। सः। र॒क्षि॒ता। च॒र॒म॒तः। सः। म॒ध्य॒तः। सः। प॒श्चात्। सः। पु॒रस्ता॑त्। नः॒। अ॒स्तु॒। १५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -240,14 +247,17 @@ Best, making household wealth increase. Indra our saviour, kills the foe. May he
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/04_uruM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व॑१र्यज्ज्योति॒रभ॑यं स्व॒स्ति।  
-उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥४॥  
+उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व१॒॑र्यज्ज्योति॒रभ॑यं स्व॒स्ति।  
+उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/04_uruM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्वर्यज्ज्योति॒रभ॑यं स्व॒स्ति। उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥
+उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व१॒॑र्यज्ज्योति॒रभ॑यं स्व॒स्ति।  
+उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/04_uruM_no.md">
@@ -275,7 +285,7 @@ Lead us to ample room. O thou who knowest, to happiness security, and sunlight. 
 </details>
 <details><summary>पदपाठः</summary>
 
-उरुम्। नः। लोकम्। अनु। नेषि। विद्वान्। स्वः᳡। यत्। ज्योतिः। अभयम्। स्वस्ति। उग्रा। ते। इन्द्र। स्थविरस्य। बाहू इति। उप। क्षयेम। शरणा। बृहन्ता। १५.४।
+उ॒रुम्। नः॒। लो॒कम्। अनु॑। ने॒षि॒। वि॒द्वान्। स्वः᳡। यत्। ज्योतिः॑। अभ॑यम्। स्व॒स्ति। उ॒ग्रा। ते॒। इ॒न्द्र॒। स्थवि॑रस्य। बा॒हू इति॑। उप॑। क्ष॒ये॒म॒। श॒र॒णा॒। बृ॒हन्ता॑। १५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -307,14 +317,16 @@ Lead us to ample room. O thou who knowest, to happiness security, and sunlight. 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अभ॑यं नः करत्य॒न्तरि॑क्ष॒मभ॑यं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥५॥  
+अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/05_abhayaM_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अभ॑यं नः करत्य॒न्तरि॑क्ष॒मभ॑यं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥५॥  
+अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/05_abhayaM_naH.md">
@@ -338,7 +350,7 @@ May air's mid-region give us peace and safety, safety may both these, Heaven and
 </details>
 <details><summary>पदपाठः</summary>
 
-अभयम्। नः। करति। अन्तरिक्षम्। अभयम्। द्यावापृथिवी इति। उभे इति। इमे  इति। अभयम्। पश्चात्। अभयम्। पुरस्तात्। उत्ऽतरात्। अधरात्। अभयम्। नः। अस्तु। १५.५।
+अभ॑यम्। नः॒। क॒र॒ति॒। अ॒न्तरि॑क्षम्। अभ॑यम्। द्यावा॑पृथि॒वी इति॑। उ॒भे इति॑। इ॒मे इति॑। अभ॑यम्। प॒श्चात्। अभ॑यम्। पु॒रस्ता॑त्। उ॒त्ऽत॒रात्। अ॒ध॒रात्। अभ॑यम्। नः॒। अ॒स्तु॒। १५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -369,15 +381,17 @@ May air's mid-region give us peace and safety, safety may both these, Heaven and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः ।  
-अभ॑यं॒ नक्त॒मभ॑यं॒ दिवा॑ नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥६॥
+अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः।  
+अभ॑यं॒ नक्त॒मभ॑यं दिवा नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः ।  
-अभ॑यं॒ नक्त॒मभ॑यं॒ दिवा॑ नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥६॥
+अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः।  
+अभ॑यं॒ नक्त॒मभ॑यं दिवा नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
@@ -412,7 +426,7 @@ Safety be ours from friend and from the unfriendly, safety from what we know and
 </details>
 <details><summary>पदपाठः</summary>
 
-अभयम्। मित्रात्। अभयम्। अमित्रात्। अभयम्। ज्ञातात्। अभयम्। पुरः। यः। अभयम्। नक्तम्। अभयम्। दिवा। नः। सर्वाः। आशाः। मम। मित्रम्। भवन्तु। १५.६।
+अभ॑यम्। मि॒त्रात्। अभ॑यम्। अ॒मित्रा॑त्। अभ॑यम्। ज्ञा॒तात्। अभ॑यम्। पु॒रः। यः। अभ॑यम्। नक्त॑म्। अभ॑यम्। दिवा॑। नः॒। सर्वाः॑। आशाः॑। मम॑। मि॒त्रम्। भ॒व॒न्तु॒। १५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

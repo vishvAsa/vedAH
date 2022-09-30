@@ -37,13 +37,16 @@ A prayer for surpassing strength and energy
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिं॒हे व्या॒घ्र उ॒त या पृदा॑कौ॒ त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥१॥  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/01_siMhe_vyAghra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सिं॒हे व्या॒घ्र उ॒त या पृदा॑कौ॒ त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या। इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+सिं॒हे व्या॒घ्र उ॒त या पृदा॑कौ॒ त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/01_siMhe_vyAghra.md">
@@ -65,7 +68,7 @@ What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya
 </details>
 <details><summary>पदपाठः</summary>
 
-सिंहे। व्याघ्रे। उत। या। पृदाकौ। त्विषिः। अग्नौ। ब्राह्मणे। सूर्ये। या। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.१।
+सिं॒हे। व्या॒घ्रे। उ॒त। या। पृदा॑कौ। त्विषिः॑। अ॒ग्नौ। ब्रा॒ह्म॒णे। सूर्ये॑। या। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/02_yA_hastini.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु ।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥२॥  
+या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/02_yA_hastini.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु। इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/02_yA_hastini.md">
@@ -123,11 +129,11 @@ All energy of elephant and panther, all energy of gold, men, kine, and waters, A
 </details>
 <details><summary>पदपाठः</summary>
 
-या। हस्तिनि। द्वीपिनि। या। हिरण्ये। त्विषिः। अप्ऽसु। गोषु। या। पुरुषेषु। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.२।
+या। ह॒स्तिनि॑। द्वी॒पिनि॑। या। हिर॑ण्ये। त्विषिः॑। अ॒प्ऽसु। गोषु॑। या। पुरु॑षेषु। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-या। हस्तिनि। द्वीपिनि। या। हिरण्ये। त्विषिः। अप्ऽसु। गोषु। या। पुरुषेषु। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.२।
+या। ह॒स्तिनि॑। द्वी॒पिनि॑। या। हिर॑ण्ये। त्विषिः॑। अ॒प्ऽसु। गोषु॑। या। पुरु॑षेषु। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -142,14 +148,17 @@ All energy of elephant and panther, all energy of gold, men, kine, and waters, A
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑ ।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥३॥  
+रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑। इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
@@ -171,11 +180,11 @@ Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, 
 </details>
 <details><summary>पदपाठः</summary>
 
-रथे। अक्षेषु। ऋषभस्य। वाजे। वाते। पर्जन्ये। वरुणस्य। शुष्मे। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.३।
+रथे॑। अ॒क्षेषु॑। ऋ॒ष॒भस्य॑। वाजे॑। वाते॑। प॒र्जन्ये॑। वरु॑णस्य। शुष्मे॑। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-रथे। अक्षेषु। ऋषभस्य। वाजे। वाते। पर्जन्ये। वरुणस्य। शुष्मे। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.३।
+रथे॑। अ॒क्षेषु॑। ऋ॒ष॒भस्य॑। वाजे॑। वाते॑। प॒र्जन्ये॑। वरु॑णस्य। शुष्मे॑। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -190,14 +199,17 @@ Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रा॒ज॒न्येऽदुन्दु॒भावाय॑ताया॒मश्व॑स्य॒ वाजे॒ पुरु॑षस्य मा॒यौ।  
-इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना॥४॥
+रा॑ज॒न्ये᳡ दुन्दु॒भावाय॑ताया॒मश्व॑स्य॒ वाजे॒ पुरु॑षस्य मा॒यौ।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रा॑ज॒न्ये᳡ दुन्दु॒भावाय॑ताया॒मश्व॑स्य॒ वाजे॒ पुरु॑षस्य मा॒यौ। इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+रा॑ज॒न्ये᳡ दुन्दु॒भावाय॑ताया॒मश्व॑स्य॒ वाजे॒ पुरु॑षस्य मा॒यौ।  
+इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
@@ -226,11 +238,11 @@ acknowledges four verses, and each of the four has its refrain in TB.
 </details>
 <details><summary>पदपाठः</summary>
 
-राजन्ये᳡। दुन्दुभौ। आऽयतायाम्। अश्वस्य। वाजे। पुरुषस्य। मायौ। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.४।
+रा॒ज॒न्ये᳡। दु॒न्दु॒भौ। आऽय॑तायाम्। अश्व॑स्य। वाजे॑। पुरु॑षस्य। मा॒यौ। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.४। 
 </details>
 <details><summary>पदपाठः</summary>
 
-राजन्ये᳡। दुन्दुभौ। आऽयतायाम्। अश्वस्य। वाजे। पुरुषस्य। मायौ। इन्द्रम्। या। देवी। सुऽभगा। जजान। सा। नः। आ। एतु। वर्चसा। सम्ऽविदाना। ३८.४।
+रा॒ज॒न्ये᳡। दु॒न्दु॒भौ। आऽय॑तायाम्। अश्व॑स्य। वाजे॑। पुरु॑षस्य। मा॒यौ। इन्द्र॑म्। या। दे॒वी। सु॒ऽभगा॑। ज॒जान॑। सा। नः॒। आ। ए॒तु॒। वर्च॑सा। स॒म्ऽवि॒दा॒ना। ३८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

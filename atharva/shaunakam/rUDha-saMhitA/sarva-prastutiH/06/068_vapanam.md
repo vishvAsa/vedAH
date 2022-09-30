@@ -36,14 +36,17 @@ A charm to accompany the shaving of the beard
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑ ।  
-आ॒दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥१॥  
+आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑।  
+आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑। आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
+आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑।  
+आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
@@ -72,7 +75,7 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। सविता। क्षुरेण। उष्णेन। वायो इति। उदकेन। आ। इहि। आदित्याः। रुद्राः। वसवः। उन्दन्तु। सऽचेतसः। सोमस्य। राज्ञः। वपत। प्रऽचेतसः। ६८.१।
+आ। अ॒यम्। अ॒ग॒न्। स॒वि॒ता। क्षु॒रेण॑। उ॒ष्णेन॑। वा॒यो॒ इति॑। उ॒द॒केन॑। आ। इ॒हि॒। आ॒दि॒त्याः। रु॒द्राः। वस॑वः। उ॒न्द॒न्तु॒। सऽचे॑तसः। सोम॑स्य। राज्ञः॑। व॒प॒त॒। प्रऽचे॑तसः। ६८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/02_aditiH_shmashru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा ।  
-चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥२॥  
+अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा।  
+चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/02_aditiH_shmashru.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा। चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
+अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा।  
+चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/02_aditiH_shmashru.md">
@@ -134,7 +140,7 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 </details>
 <details><summary>पदपाठः</summary>
 
-अदितिः। श्मश्रु। वपतु। आपः। उन्दन्तु। वर्चसा। चिकित्सतु। प्रजाऽपतिः। दीर्घायुऽत्वाय। चक्षसे। ६८.२।
+अदि॑तिः। श्मश्रु॑। व॒प॒तु॒। आपः॑। उ॒न्द॒न्तु॒। वर्च॑सा। चिकि॑त्सतु। प्र॒जाऽप॑तिः। दी॒र्घा॒यु॒ऽत्वाय॑। चक्ष॑से। ६८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-येनाव॑पत् सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
-तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न्॥३॥
+येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
+तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्। तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
+येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
+तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
@@ -205,7 +214,7 @@ The razor used by Savitar, for shaving, who knoweth Varuna and royal Soma, Even 
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। अवपत्। सविता। क्षुरेण। सोमस्य। राज्ञः। वरुणस्य। विद्वान्। तेन। ब्रह्माणः। वपत। इदम्। अस्य। गोऽमान्। अश्वऽवान्। अयम्। अस्तु। प्रजाऽवान्। ६८.३।
+येन॑। अव॑पत्। स॒वि॒ता। क्षु॒रेण॑। सोम॑स्य। राज्ञः॑। वरु॑णस्य। वि॒द्वान्। तेन॑। ब्र॒ह्मा॒णः॒। व॒प॒त॒। इ॒दम्। अ॒स्य। गोऽमा॑न्। अश्व॑ऽवान्। अ॒यम्। अ॒स्तु॒। प्र॒जाऽवा॑न्। ६८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -36,14 +36,17 @@ A charm to ensure a prosperous journey
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/055_mArgasvastyayanam/01_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ये ते॒ पन्था॒नोऽव॑ दि॒वो येभि॒र्विश्व॒मैर॑यः ।  
-तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥१॥
+ये ते॒ पन्था॑नोऽव दि॒वो येभि॒र्विश्व॒मैर॑यः।  
+तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/055_mArgasvastyayanam/01_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ये ते॒ पन्था॑नोऽव दि॒वो येभि॒र्विश्व॒मैर॑यः। तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥
+ये ते॒ पन्था॑नोऽव दि॒वो येभि॒र्विश्व॒मैर॑यः।  
+तेभिः॑ सुम्न॒या धे॑हि नो वसो ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/055_mArgasvastyayanam/01_ye_te.md">
@@ -71,7 +74,7 @@ Thy downward paths from heaven, whereby thou hast raised all the world to life, 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। ते। पन्थानः। अव। दिवः। येभिः। विश्वम्। ऐरयः। तेभिः। सुम्नऽया। आ। धेहि। नः। वसो इति। ५७.२।
+ये। ते॒। पन्था॑नः। अव॑। दि॒वः। येभिः॑। विश्व॑म्। ऐर॑यः। तेभिः॑। सु॒म्न॒ऽया। आ। धे॒हि॒। नः॒। व॒सो॒ इति॑। ५७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

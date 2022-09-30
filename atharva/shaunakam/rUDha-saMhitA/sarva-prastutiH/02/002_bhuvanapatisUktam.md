@@ -36,14 +36,17 @@ A charm to ensure success in gambling
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्योऽवि॒क्ष्वीड्यः॑ ।  
-तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म्॥१॥  
+दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यो॑ वि॒क्ष्वीड्यः॑।  
+तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यो॑ वि॒क्ष्वीड्यः॑। तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म् ॥
+दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यो॑ वि॒क्ष्वीड्यः॑।  
+तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
@@ -68,7 +71,7 @@ Lord of the World, divine Gandharva, only he should be honoured in the Tribes an
 </details>
 <details><summary>पदपाठः</summary>
 
-दिव्यः। गन्धर्वः। भुवनस्य। यः। पतिः। एकः। एव। नमस्यः᳡। विक्षु। ईड्यः। तम्। त्वा। यौमि। ब्रह्मणा। दिव्य। देव। नमः। ते। अस्तु। दिवि। ते। सधऽस्थम्। २.१।
+दि॒व्यः। ग॒न्ध॒र्वः। भुव॑नस्य। यः। पतिः॑। एकः॑। ए॒व। न॒म॒स्यः᳡। वि॒क्षु। ईड्यः॑। तम्। त्वा॒। यौ॒मि॒। ब्रह्म॑णा। दि॒व्य॒। दे॒व॒। नमः॑। ते॒। अ॒स्तु॒। दि॒वि। ते॒। स॒धऽस्थ॑म्। २.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ Lord of the World, divine Gandharva, only he should be honoured in the Tribes an
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य ।  
-मृ॒डाद् ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः सु॒शेवाः॑ ॥२॥  
+दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य।  
+मृ॒डाद्ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः॑ सु॒शेवाः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य। मृ॒डाद्ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः॑ सु॒शेवाः॑ ॥
+दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य।  
+मृ॒डाद्ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः॑ सु॒शेवाः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
@@ -137,7 +143,7 @@ Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' 
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवि। स्पृष्टः। यजतः। सूर्यऽत्वक्। अवऽयाता। हरसः। दैव्यस्य। मृडात्। गन्धर्वः। भुवनस्य। यः। पतिः। एकः। एव। नमस्यः᳡। सुऽशेवाः। २.२।
+दि॒वि। स्पृ॒ष्टः। य॒ज॒तः। सूर्य॑ऽत्वक्। अ॒व॒ऽया॒ता। हर॑सः। दैव्य॑स्य। मृ॒डात्। ग॒न्ध॒र्वः। भुव॑नस्य। यः। पतिः॑। एकः॑। ए॒व। न॒म॒स्यः᳡। सु॒ऽशेवाः॑। २.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न॒व॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्।  
-स॒मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥३॥  
+अ॑नव॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्।  
+स॑मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑नव॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्। स॑मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥
+अ॑नव॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्।  
+स॑मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
@@ -200,7 +209,7 @@ I came, I met these faultless, blameless beings: among the Apsarases was the Gan
 </details>
 <details><summary>पदपाठः</summary>
 
-अनवद्याभिः। सम्। ऊं इति। जग्मे। आभिः। अप्सरासु। अपि। गन्धर्वः। आसीत्। समुद्रे। आसाम्। सदनम्। मे। आहुः। यतः। सद्यः। आ। च। परा। च। यन्ति। २.३।
+अ॒न॒व॒द्याभिः॑। सम्। ऊं॒ इति॑। ज॒ग्मे॒। आ॒भिः॒। अ॒प्स॒रासु॑। अपि॑। ग॒न्ध॒र्वः। आ॒सी॒त्। स॒मु॒द्रे। आ॒सा॒म्। सद॑नम्। मे॒। आ॒हुः॒। यतः॑। स॒द्यः। आ। च॒। परा॑। च॒। यन्ति॑। २.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -231,14 +240,17 @@ I came, I met these faultless, blameless beings: among the Apsarases was the Gan
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे ।  
-ताभ्यो॑ वो देवी॒र्नम॒ इत् कृ॑णोमि ॥४॥  
+अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे।  
+ताभ्यो॑ वो देवी॒र्नम॒ इत्कृ॑णोमि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे। ताभ्यो॑ वो देवी॒र्नम॒ इत्कृ॑णोमि ॥
+अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे।  
+ताभ्यो॑ वो देवी॒र्नम॒ इत्कृ॑णोमि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
@@ -262,7 +274,7 @@ Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flas
 </details>
 <details><summary>पदपाठः</summary>
 
-अभ्रिये। दिद्युत्। नक्षत्रिये। याः। विश्वऽवसुम्। गन्धर्वम्। सचध्वे। ताभ्यः। वः। देवीः। नमः। इत्। कृणोमि। २.४।
+अभ्रि॑ये। दिद्यु॑त्। नक्ष॑त्रिये। याः। वि॒श्वऽव॑सुम्। ग॒न्ध॒र्वम्। सच॑ध्वे। ताभ्यः॑। वः॒। दे॒वीः॒। नमः॑। इत्। कृ॒णो॒मि॒। २.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -293,14 +305,17 @@ Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flas
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑ ।  
-ताभ्यो॑ गन्ध॒र्वप॑त्नीभ्योऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥५॥
+याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑।  
+ताभ्यो॑ गन्ध॒र्वभ्यो॑ ऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑। ताभ्यो॑ गन्ध॒र्वभ्यो॑ ऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥
+याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑।  
+ताभ्यो॑ गन्ध॒र्वभ्यो॑ ऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
@@ -324,7 +339,7 @@ Haunters of darkness, shrill in voice, dice-lovers, maddeners of the mind To the
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। क्लन्दाः। तमिषीचयः। अक्षऽकामाः। मनःऽमुहः। ताभ्यः। गन्धर्वऽपत्नीभ्यः। अप्सराभ्यः। अकरम्। नमः। २.५।
+याः। क्ल॒न्दाः। तमि॑षीचयः। अ॒क्षऽका॑माः। म॒नः॒ऽमुहः॑। ताभ्यः॑। ग॒न्ध॒र्वऽप॑त्नीभ्यः। अ॒प्स॒राभ्यः॑। अ॒क॒र॒म्। नमः॑। २.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

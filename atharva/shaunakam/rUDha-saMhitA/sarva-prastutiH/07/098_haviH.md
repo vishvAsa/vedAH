@@ -32,14 +32,17 @@ Translated: Henry, 40, 112; Griffith, i. 377.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/098_haviH/01_saM_barhiraktam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑ ।  
-सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गच्छतु ह॒विः स्वाहा॑ ॥१॥
+सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑।  
+सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गछतु ह॒विः स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/098_haviH/01_saM_barhiraktam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑। सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गछतु ह॒विः स्वाहा॑ ॥
+सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑।  
+सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गछतु ह॒विः स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/01_saM_barhiraktam.md">
@@ -67,7 +70,7 @@ Balmed is the Grass with butter and libation, with Indra. gracious Lord, and wit
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। बर्ह‍िः। अक्तम्। हविषा। घृतेन। सम्। इन्द्रेण। वसुना। सम्। मरुत्ऽभिः। सम्। देवैः। विश्वऽदेवेभ‍िः। अक्तम्। इन्द्रम्। गच्छतु। हविः। स्वाहा। १०३.१।
+सम्। ब॒र्ह‍िः। अ॒क्तम्। ह॒विषा॑। घृ॒तेन॑। सम्। इन्द्रे॑ण। वसु॑ना। सम्। म॒रुत्ऽभिः॑। सम्। दे॒वैः। वि॒श्वऽदे॑वेभ‍िः। अ॒क्तम्। इन्द्र॑म्। ग॒च्छ॒तु॒। ह॒विः। स्वाहा॑। १०३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

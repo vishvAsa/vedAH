@@ -36,13 +36,15 @@ A prayer for long life
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पश्ये॑म श॒रदः॑ श॒तम्॥१॥  
+पश्ये॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पश्ये॑म श॒रदः॑ श॒तम्॥१॥  
+पश्ये॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
@@ -60,7 +62,7 @@ A hundred autumns may we see.
 </details>
 <details><summary>पदपाठः</summary>
 
-पश्येम। शरदः। शतम्। ६७.१।
+पश्ये॑म। श॒रदः॑। श॒तम्। ६७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -91,13 +93,15 @@ A hundred autumns may we see.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जीवे॑म श॒रदः॑ श॒तम्॥२॥  
+जीवे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जीवे॑म श॒रदः॑ श॒तम्॥२॥  
+जीवे॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
@@ -115,7 +119,7 @@ A hundred autumns may we live.
 </details>
 <details><summary>पदपाठः</summary>
 
-जीवेम। शरदः। शतम्। ६७.२।
+जीवे॑म। श॒रदः॑। श॒तम्। ६७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -146,13 +150,15 @@ A hundred autumns may we live.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बुध्ये॑म श॒रदः॑ श॒तम्॥३॥  
+बुध्ये॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बुध्ये॑म श॒रदः॑ श॒तम्॥३॥  
+बुध्ये॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
@@ -170,7 +176,7 @@ A hundred autumns may we know.
 </details>
 <details><summary>पदपाठः</summary>
 
-बुध्येम। शरदः। शतम्। ६७.३।
+बुध्ये॑म। श॒रदः॑। श॒तम्। ६७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -201,13 +207,15 @@ A hundred autumns may we know.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-रोहे॑म श॒रदः॑ श॒तम्॥४॥  
+रोहे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रोहे॑म श॒रदः॑ श॒तम्॥४॥  
+रोहे॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
@@ -225,7 +233,7 @@ A hundred autumns may we grow.
 </details>
 <details><summary>पदपाठः</summary>
 
-रोहेम। शरदः। शतम्। ६७.४।
+रोहे॑म। श॒रदः॑। श॒तम्। ६७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -256,13 +264,15 @@ A hundred autumns may we grow.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पूषे॑म श॒रदः॑ श॒तम्॥५॥  
+पूषे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पूषे॑म श॒रदः॑ श॒तम्॥५॥  
+पूषे॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
@@ -280,7 +290,7 @@ A hundred autumns may we thrive.
 </details>
 <details><summary>पदपाठः</summary>
 
-पूषेम। शरदः। शतम्। ६७.५।
+पूषे॑म। श॒रदः॑। श॒तम्। ६७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -311,13 +321,15 @@ A hundred autumns may we thrive.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भवे॑म श॒रदः॑ श॒तम्॥६॥  
+भवे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भवे॑म श॒रदः॑ श॒तम्॥६॥  
+भवे॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
@@ -335,7 +347,7 @@ A hundred autumns may we be.
 </details>
 <details><summary>पदपाठः</summary>
 
-भवेम। शरदः। शतम्। ६७.६।
+भवे॑म। श॒रदः॑। श॒तम्। ६७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -366,13 +378,15 @@ A hundred autumns may we be.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूये॑म श॒रदः॑ श॒तम्॥७॥  
+भूये॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भूये॑म श॒रदः॑ श॒तम्॥७॥  
+भूये॑म श॒रदः॑ श॒तम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
@@ -390,7 +404,7 @@ A hundred autumns may we bide.
 </details>
 <details><summary>पदपाठः</summary>
 
-भूयेम। शरदः। शतम्। ६७.७।
+भूये॑म। श॒रदः॑। श॒तम्। ६७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -421,13 +435,15 @@ A hundred autumns may we bide.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भूय॑सीः श॒रदः॑ श॒तात्॥८॥
+भूय॑सीः श॒रदः॑ श॒तात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-भूय॑सीः श॒रदः॑ श॒तात्॥८॥
+भूय॑सीः श॒रदः॑ श॒तात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
@@ -470,7 +486,7 @@ A hundred, yea, and even more.
 </details>
 <details><summary>पदपाठः</summary>
 
-भूयसीः। शरदः। शतात्। ६७.८।
+भूय॑सीः। श॒रदः॑। श॒तात्। ६७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

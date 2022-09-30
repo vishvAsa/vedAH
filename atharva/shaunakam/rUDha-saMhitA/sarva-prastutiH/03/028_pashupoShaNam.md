@@ -32,14 +32,17 @@ Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः ।  
-यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून् क्षि॑णाति रिफ॒ती रुश॑ती ॥१॥  
+एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः।  
+यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून्क्षि॑णाति रिफ॒ती रुश॑ती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः। यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून्क्षि॑णाति रिफ॒ती रुश॑ती ॥
+एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः।  
+यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून्क्षि॑णाति रिफ॒ती रुश॑ती ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
@@ -77,7 +80,7 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-एकऽएकया। एषा। सृष्ट्या। सम्। बभूव। यत्र। गाः। असृजन्त। भूतऽकृतः। विश्वऽरूपाः। यत्र। विऽजायते। यमिनी। अपऽऋतुः। सा। पशून्। क्षिणाति। रिफती। रुशती। २८.१।
+एक॑ऽएकया। ए॒षा। सृष्ट्या॑। सम्। ब॒भू॒व॒। यत्र॑। गाः। असृ॑जन्त। भू॒त॒ऽकृतः॑। वि॒श्वऽरू॑पाः। यत्र॑। वि॒ऽजाय॑ते। य॒मिनी॑। अ॒प॒ऽऋ॒तुः। सा। प॒शून्। क्षि॒णा॒ति॒। रि॒फ॒ती। रुश॑ती। २८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -108,14 +111,17 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद् भू॒त्वा व्यद्व॑री ।  
-उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त् तथा॑ स्यो॒ना शि॒वा स्या॑त्॥२॥  
+ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद्भू॒त्वा व्यद्व॑री।  
+उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त्तथा॑ स्यो॒ना शि॒वा स्या॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद्भू॒त्वा व्यद्व॑री। उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त्तथा॑ स्यो॒ना शि॒वा स्या॑त् ॥
+ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद्भू॒त्वा व्यद्व॑री।  
+उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त्तथा॑ स्यो॒ना शि॒वा स्या॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
@@ -149,7 +155,7 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 </details>
 <details><summary>पदपाठः</summary>
 
-एषा। पशून्। सम्। क्षिणाति। क्रव्यऽअत्। भूत्वा। विऽअद्वरी। उत। एनाम्। ब्रह्मणे। दद्यात्। तथा। स्योना। शिवा। स्यात्। २८.२।
+ए॒षा। प॒शून्। सम्। क्षि॒णा॒ति॒। क्र॒व्य॒ऽअत्। भू॒त्वा। वि॒ऽअद्व॑री। उ॒त। ए॒ना॒म्। ब्र॒ह्मणे॑। द॒द्या॒त्। तथा॑। स्यो॒ना। शि॒वा। स्या॒त्। २८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -181,13 +187,16 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॒वा भ॑व॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यः शि॒वा।  
-शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥३॥  
+शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शि॒वा भ॑व॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यः शि॒वा। शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥
+शि॒वा भ॑व॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यः शि॒वा।  
+शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/03_shivA_bhava.md">
@@ -210,7 +219,7 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 </details>
 <details><summary>पदपाठः</summary>
 
-शिवा। भव। पुरुषेभ्यः। गोभ्यः। अश्वेभ्यः। शिवा। शिवा। अस्मै। सर्वस्मै। क्षेत्राय। शिवा। नः। इह। एधि। २८.३।
+शि॒वा। भ॒व॒। पुरु॑षेभ्यः। गोभ्यः॑। अश्वे॑भ्यः। शि॒वा। शि॒वा। अ॒स्मै। सर्व॑स्मै। क्षेत्रा॑य। शि॒वा। नः॒। इ॒ह। ए॒धि॒। २८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -241,13 +250,17 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॒हस्र॑सातमा भव । प॒शून् य॑मिनि पोषय ॥४॥  
+इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॑हस्र॒सात॑मा भव।  
+प॒शून्य॑मिनि पोषय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॑हस्र॒सात॑मा भव। प॒शून्य॑मिनि पोषय ॥
+इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॑हस्र॒सात॑मा भव।  
+प॒शून्य॑मिनि पोषय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
@@ -272,7 +285,7 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 </details>
 <details><summary>पदपाठः</summary>
 
-इह। पुष्टिः। इह। रसः। इह। सहस्रऽसातमा। भव। पशून्। यमिनि। पोषय। २८.४।
+इ॒ह। पुष्टिः॑। इ॒ह। रसः॑। इ॒ह। स॒ह॒स्र॒ऽसात॑मा। भ॒व॒। प॒शून्। य॒मि॒नि॒। पो॒ष॒य॒। २८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -303,14 +316,17 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्व॑१ स्वायाः॑ ।  
-तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥५॥  
+यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
+तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः स्वायाः॑। तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
+यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
+तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
@@ -334,7 +350,7 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। सुऽहार्दः। सुऽकृतः। मदन्ति। विऽहाय। रोगम्। तन्वः᳡। स्वायाः। तम्। लोकम्। यमिनी। अभिऽसंबभूव। सा। नः। मा। हिंसीत्। पुरुषान्। पशून्। च। २८.५।
+यत्र॑। सु॒ऽहार्दः॑। सु॒ऽकृतः॑। मद॑न्ति। वि॒ऽहाय॑। रोग॑म्। त॒न्वः᳡। स्वायाः॑। तम्। लो॒कम्। य॒मिनी॑। अ॒भि॒ऽसंब॑भूव। सा। नः॒। मा। हिं॒सी॒त्। पुरु॑षान्। प॒शून्। च॒। २८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -365,14 +381,17 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः ।  
-तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त् पुरु॑षान् प॒शूंश्च॑ ॥६॥
+यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः।  
+तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः। तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
+यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः।  
+तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
@@ -396,7 +415,7 @@ meter. The Anukr. should say *āstārapan̄kti* instead of *prastāra-;* its
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। सुऽहार्दाम्। सुऽकृताम्। अग्निहोत्रऽहुताम्। यत्र। लोकः। तम्। लोकम्। यमिनी। अभिऽसंबभूव। सा। नः। मा। हिंसीत्। पुरुषान्। पशून्। च। २८.६।
+यत्र॑। सु॒ऽहार्दा॑म्। सु॒ऽकृता॑म्। अ॒ग्नि॒हो॒त्र॒ऽहुता॑म्। यत्र॑। लो॒कः। तम्। लो॒कम्। य॒मिनी॑। अ॒भि॒ऽसंब॑भूव। सा। नः॒। मा। हिं॒सी॒त्। पुरु॑षान्। प॒शून्। च॒। २८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

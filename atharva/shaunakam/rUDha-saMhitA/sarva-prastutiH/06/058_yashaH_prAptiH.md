@@ -36,14 +36,17 @@ A priest's prayer for power and glory
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒शसं॒ मेन्द्रो॑ म॒घवान् कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
-य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म्॥१॥  
+य॒शसं॒ मेन्द्रो॑ म॒घवा॑न्कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
+य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒शसं॒ मेन्द्रो॑ म॒घवा॑न्कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे। य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म् ॥
+य॒शसं॒ मेन्द्रो॑ म॒घवा॑न्कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
+य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
@@ -67,7 +70,7 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 </details>
 <details><summary>पदपाठः</summary>
 
-यशसम्। मा। इन्द्रः। मघऽवान्। कृणोतु। यशसम्। द्यावापृथिवी इति। उभे इति। इमे इति। यशसम्। मा। देवः। सविता। कृणोतु। प्रियः। दातुः। दक्षिणायाः। इह। स्याम्। ५८.१।
+य॒शस॑म्। मा॒। इन्द्रः॑। म॒घऽवा॑न्। कृ॒णो॒तु॒। य॒शस॑म्। द्यावा॑पृथि॒वी इति॑। उ॒भे इति॑। इ॒मे इति॑। य॒शस॑म्। मा॒। दे॒वः। स॒वि॒ता। कृ॒णो॒तु॒। प्रि॒यः। दा॒तुः। दक्षि॑णायाः। इ॒ह। स्या॒म्। ५८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न् यथाप॒ ओष॑धीषु॒ यश॑स्वतीः ।  
-ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥२॥  
+यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न्यथाप॒ ओष॑धीषु॒ यश॑स्वतीः।  
+ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न्यथाप॒ ओष॑धीषु॒ यश॑स्वतीः। ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥
+यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न्यथाप॒ ओष॑धीषु॒ यश॑स्वतीः।  
+ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
@@ -128,7 +134,7 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इन्द्रः। द्यावापृथिव्योः। यशस्वान्। यथा। आपः। ओषधीषु। यशस्वतीः। एव। विश्वेषु। देवेषु। वयम्। सर्वेषु। यशसः। याम। ५८.२।
+यथा॑। इन्द्रः॑। द्यावा॑पृथि॒व्योः। यश॑स्वान्। यथा॑। आपः॑। ओष॑धीषु। यश॑स्वतीः। ए॒व। विश्वे॑षु। दे॒वेषु॑। व॒यम्। सर्वे॑षु। य॒शसः॑। या॒म॒। ५८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत ।  
-य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥३॥
+य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
+य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत। य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥
+य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
+य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/03_yashA_indro.md">
@@ -186,11 +195,11 @@ Indra and Agni were renowned, famous was Soma at his birth; So too am I illustri
 </details>
 <details><summary>पदपाठः</summary>
 
-यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ५८.३।
+य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ५८.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ५८.३।
+य॒शाः। इन्द्रः॑। य॒शाः। अ॒ग्निः। य॒शाः। सोमः॑। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ५८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

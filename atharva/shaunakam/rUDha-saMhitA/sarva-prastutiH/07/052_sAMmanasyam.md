@@ -36,14 +36,17 @@ A prayer for peace and concord
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः ।  
-सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम्॥१॥  
+सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः।  
+सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः। सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम् ॥
+सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः।  
+सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
@@ -66,7 +69,7 @@ Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, i
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽज्ञानम्। नः। स्वेभिः। सम्ऽज्ञानम्। अरणेभिः। सम्ऽज्ञानम्। अश्विना। युवम्। इह। अस्मासु। नि। यच्छतम्। ५४.१।
+स॒म्ऽज्ञान॑म्। नः॒। स्वेभिः॑। स॒म्ऽज्ञान॑म्। अर॑णेभिः। स॒म्ऽज्ञान॑म्। अ॒श्वि॒ना॒। यु॒वम्। इ॒ह। अ॒स्मासु॑। नि। य॒च्छ॒त॒म्। ५४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न ।  
-मा घोषा॒ उत् स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते ॥२॥
+सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न।  
+मा घोषा॒ उत्स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न। मा घोषा॒ उत्स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते ॥
+सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न।  
+मा घोषा॒ उत्स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
@@ -140,7 +146,7 @@ May we agree in mind, agree in purpose: let us not fight against the heavenly sp
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। जानामहै। मनसा। सम्। चिकित्वा। मा। युष्महि। मनसा। दैव्येन। मा। घोषाः। उत्। स्थुः। बहुले। विऽनिर्हते। मा। इषुः। पप्तत्। इन्द्रस्य। अहनि। आऽगते। ५४.२।
+सम्। जा॒ना॒म॒है॒। मन॑सा। सम्। चि॒कि॒त्वा। मा। यु॒ष्म॒हि॒। मन॑सा। दैव्ये॑न। मा। घोषाः॑। उत्। स्थुः॒। ब॒हु॒ले। वि॒ऽनिर्ह॑ते। मा। इषुः॑। प॒प्त॒त्। इन्द्र॑स्य। अह॑नि। आऽग॑ते। ५४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

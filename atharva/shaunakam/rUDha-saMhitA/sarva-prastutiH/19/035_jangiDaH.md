@@ -36,14 +36,17 @@ A similar charm addressed to the same
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/01_indrasya_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ नाम॑ गृ॒ह्णन्त॒ ऋस॑यो जङ्गि॒डं द॑दुः ।  
-दे॒वा यं च॒क्रुर्भे॑ष॒जमग्रे॑ विष्कन्ध॒दूष॑णम्॥१॥  
+इन्द्र॑स्य॒ नाम॑ गृ॒ह्णन्त॒ ऋष॑यो जङ्गि॒डं द॑दुः।  
+दे॒वा यं च॒क्रुर्भे॑ष॒जमग्रे॑ विष्कन्ध॒दूष॑णम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/01_indrasya_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्य॒ नाम॑ गृ॒ह्णन्त॒ ऋष॑यो जङ्गि॒डं द॑दुः। दे॒वा यं च॒क्रुर्भे॑ष॒जमग्रे॑ विष्कन्ध॒दूष॑णम् ॥
+इन्द्र॑स्य॒ नाम॑ गृ॒ह्णन्त॒ ऋष॑यो जङ्गि॒डं द॑दुः।  
+दे॒वा यं च॒क्रुर्भे॑ष॒जमग्रे॑ विष्कन्ध॒दूष॑णम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/01_indrasya_nAma.md">
@@ -71,7 +74,7 @@ While their lips uttered Indra's name the Rishis gave us Jangida.. Which in the 
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। नाम। गृह्णन्तः। ऋषयः। जङ्गिडम्। ददुः। देवाः। यम्। चक्रुः। भेषजम्। अग्रे। विस्कन्धऽदूषणम्। ३५.१।
+इन्द्र॑स्य। नाम॑। गृ॒ह्णन्तः॑। ऋष॑यः। ज॒ङ्गि॒डम्। द॒दुः॒। दे॒वाः। यम्। च॒क्रुः। भे॒ष॒जम्। अग्रे॑। वि॒स्क॒न्ध॒ऽदूष॑णम्। ३५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,15 +105,17 @@ While their lips uttered Indra's name the Rishis gave us Jangida.. Which in the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/02_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व ।  
-दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम्॥२॥  
+स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व।  
+दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/02_sa_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व ।  
-दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम्॥२॥  
+स नो॑ रक्षतु जङ्गि॒डो ध॑नपा॒लो धने॑व।  
+दे॒वा यं च॒क्रुर्ब्रा॑ह्म॒णाः प॑रि॒पाण॑मराति॒हम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/02_sa_no.md">
@@ -132,7 +137,7 @@ So may this Jangida guard us, even as a treasurer guards wealth,. Even this whic
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। नः। रक्षतु। जङ्गिडः। धनऽपालः। धनाऽइव। देवाः। यम्। चक्रुः। ब्राह्मणाः। परिऽपानम्। अरातिऽहम्। ३५.२।
+सः। नः॒। र॒क्ष॒तु॒। ज॒ङ्गि॒डः। ध॒न॒ऽपा॒लः। धना॑ऽइव। दे॒वाः। यम्। च॒क्रुः। ब्रा॒ह्म॒णाः। प॒रि॒ऽपान॑म्। अ॒रा॒ति॒ऽहम्। ३५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -164,14 +169,16 @@ So may this Jangida guard us, even as a treasurer guards wealth,. Even this whic
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दु॒र्हार्दः॒ संघो॑रं॒ चक्षुः॑ पाप॒कृत्वा॑न॒माग॑मम्।  
-तांस्त्वं स॑हस्रचक्षो प्रतीबो॒धेन॑ नाशय परि॒पाणो॑ऽसि जङ्गि॒डः ॥३॥  
+तांस्त्वं स॑हस्रचक्षो प्रतीबो॒धेन॑ नाशय परि॒पाणो॑ऽसि जङ्गि॒डः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/03_durhArdaH_sanghoram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दु॒र्हार्दः॒ संघो॑रं॒ चक्षुः॑ पाप॒कृत्वा॑न॒माग॑मम्।  
-तांस्त्वं स॑हस्रचक्षो प्रतीबो॒धेन॑ नाशय परि॒पाणो॑ऽसि जङ्गि॒डः ॥३॥  
+तांस्त्वं स॑हस्रचक्षो प्रतीबो॒धेन॑ नाशय परि॒पाणो॑ऽसि जङ्गि॒डः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/03_durhArdaH_sanghoram.md">
@@ -206,7 +213,7 @@ Hard-hearted men, the cruel eye, the sinner who hath come to- us, Destroy thou t
 </details>
 <details><summary>पदपाठः</summary>
 
-दुःऽहार्दः। सम्ऽघोरम्। चक्षुः। पापऽकृत्वानम्। आ। अगमम्। तान्। त्वम्। सहस्रचक्षो इति सहस्रऽचक्षो। प्रतिऽबोधेन। नाशय। परिऽपानः। असि। जङ्गिडः। ३५.३।
+दुः॒ऽहार्दः॑। सम्ऽघो॑रम्। चक्षुः॑। पा॒प॒ऽकृत्वा॑नम्। आ। अ॒ग॒म॒म्। तान्। त्वम्। स॒ह॒स्र॒च॒क्षो॒ इति॑ सहस्रऽचक्षो। प्र॒ति॒ऽबो॒धेन॑। ना॒श॒य॒। प॒रि॒ऽपानः॑। अ॒सि॒। ज॒ङ्गि॒डः। ३५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -237,15 +244,17 @@ Hard-hearted men, the cruel eye, the sinner who hath come to- us, Destroy thou t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/04_pari_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ मा दि॒वः परि॑ मा पृथि॒व्याः पर्य॒न्तरि॑क्षा॒त् परि॑ मा वी॒रुद्भ्यः॑ ।  
-परि॑ मा भू॒तात् परि॑ मो॒त भव्या॑द् दि॒शोदि॑शो जङ्गि॒डः पा॑त्व॒स्मान्॥४॥  
+परि॑ मा दि॒वः परि॑ मा पृथि॒व्याः पर्य॒न्तरि॑क्षा॒त्परि॑ मा वी॒रुद्भ्यः॑।  
+परि॑ मा भू॒तात्परि॑ मो॒त भव्या॑द्दि॒शोदि॑शो जङ्गि॒डः पा॑त्व॒स्मान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/04_pari_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ मा दि॒वः परि॑ मा पृथि॒व्याः पर्य॒न्तरि॑क्षा॒त् परि॑ मा वी॒रुद्भ्यः॑ ।  
-परि॑ मा भू॒तात् परि॑ मो॒त भव्या॑द् दि॒शोदि॑शो जङ्गि॒डः पा॑त्व॒स्मान्॥४॥  
+परि॑ मा दि॒वः परि॑ मा पृथि॒व्याः पर्य॒न्तरि॑क्षा॒त्परि॑ मा वी॒रुद्भ्यः॑।  
+परि॑ मा भू॒तात्परि॑ मो॒त भव्या॑द्दि॒शोदि॑शो जङ्गि॒डः पा॑त्व॒स्मान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/04_pari_mA.md">
@@ -268,7 +277,7 @@ Guard me from earth and guard me from the heavens, guard me from middle air, fro
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। मा। दिवः। परि। मा। पृथिव्याः। परि। अन्तरिक्षात्। परि। मा। वीरुत्ऽभ्यः। परि। मा। भूतात्। परि। मा। उत। भव्यात्। दिशःऽदिशः। जङ्गिडः। पातु। अस्मान्। ३५.४।
+परि॑। मा॒। दि॒वः। परि॑। मा॒। पृ॒थि॒व्याः। परि॑। अ॒न्तरि॑क्षात्। परि॑। मा॒। वी॒रुत्ऽभ्यः॑। परि॑। मा॒। भू॒तात्। परि॑। मा॒। उ॒त। भव्या॑त्। दि॒शःऽदि॑शः। ज॒ङ्गि॒डः। पा॒तु॒। अ॒स्मान्। ३५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -299,15 +308,17 @@ Guard me from earth and guard me from the heavens, guard me from middle air, fro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/035_jangiDaH/05_ya_RShNavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ऋ॒ष्णवो॑ दे॒वकृ॑ता॒ य उ॒तो व॑वृ॒तेऽन्यः ।  
-सर्वां॒स्तान् वि॒श्वभे॑षजोऽर॒सां ज॑ङ्गि॒डस्क॑रत्॥५॥
+य ऋ॒ष्णवो॑ दे॒वकृ॑ता॒ य उ॒तो व॑वृ॒तेऽन्यः।  
+सर्वां॒स्तान्वि॒श्वभे॑षजोऽर॒सां ज॑ङ्गि॒डस्क॑रत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/035_jangiDaH/05_ya_RShNavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य ऋ॒ष्णवो॑ दे॒वकृ॑ता॒ य उ॒तो व॑वृ॒तेऽन्यः ।  
-सर्वां॒स्तान् वि॒श्वभे॑षजोऽर॒सां ज॑ङ्गि॒डस्क॑रत्॥५॥
+य ऋ॒ष्णवो॑ दे॒वकृ॑ता॒ य उ॒तो व॑वृ॒तेऽन्यः।  
+सर्वां॒स्तान्वि॒श्वभे॑षजोऽर॒सां ज॑ङ्गि॒डस्क॑रत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/035_jangiDaH/05_ya_RShNavo.md">
@@ -345,7 +356,7 @@ All sorcerers made by the Gods, all that arise from mortal men,. These, one and 
 </details>
 <details><summary>पदपाठः</summary>
 
-ये। ऋष्णवः। देवऽकृताः। यः। उतो इति। ववृते। अन्यः। सर्वान्। तान्। विश्वऽभेषजः। अरसान्। जङ्गिडः। करत्। ३५.५।
+ये। ऋ॒ष्णवः॑। दे॒वऽकृ॑ताः। यः। उ॒तो इति॑। व॒वृ॒ते। अ॒न्यः। सर्वा॑न्। तान्। वि॒श्वऽभे॑षजः। अ॒र॒सान्। ज॒ङ्गि॒डः। क॒र॒त्। ३५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

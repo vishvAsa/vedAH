@@ -36,15 +36,17 @@ A prayer for prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/069_sukham/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑ ।  
-अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां॒  
-शमु॒षा नो॒ व्युऽच्छतु ॥१॥
+शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑।  
+अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां शमु॒षा नो॒ व्यु॑च्छतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/069_sukham/01_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑। अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां शमु॒षा नो॒ व्यु॑च्छतु ॥
+शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑।  
+अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां शमु॒षा नो॒ व्यु॑च्छतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/069_sukham/01_shaM_no.md">
@@ -73,7 +75,7 @@ May the wind kindly breathe on us, may the Sun warm us. pleasantly. May days pas
 </details>
 <details><summary>पदपाठः</summary>
 
-शम्। नः। वातः। वातु। शम्। नः। तपतु। सूर्यः। अहानि। शम्। भवन्तु। नः। शम्। रात्री। प्रति। धीयताम्। शम्। उषाः। नः। वि। उच्छतु। ७२.१।
+शम्। नः॒। वातः॑। वा॒तु॒। शम्। नः॒। त॒प॒तु॒। सूर्यः॑। अहा॑नि। शम्। भ॒व॒न्तु॒। नः॒। शम्। रात्री॑। प्रति॑। धी॒य॒ता॒म्। शम्। उ॒षाः। नः॒। वि। उ॒च्छ॒तु॒। ७२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -37,14 +37,17 @@ A charm against evil dreams
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति ।  
-ए॒वा दु॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥१॥  
+यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
+ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति। ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
+यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
+ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
@@ -68,7 +71,7 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। कलाम्। यथा। शफम्। यथा। ऋणम्। सम्ऽनयन्ति। एव। दुःऽस्वप्न्यम्। सर्वम्। अप्रिये। सम्। नयामसि। ५७.१।
+यथा॑। क॒लाम्। यथा॑। श॒फम्। यथा॑। ऋ॒णम्। स॒म्ऽनय॑न्ति। ए॒व। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। अप्रि॑ये। सम्। न॒या॒म॒सि॒। ५७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,14 +102,17 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं राजा॑नो अगुः॒ समृ॒णाम्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः ।  
-सम॒स्मासु॒ यद् दु॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दु॒ष्वप्न्यं॑ सुवाम ॥२॥  
+सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः।  
+सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः। सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
+सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः।  
+सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
@@ -141,7 +147,7 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। राजानः। अगुः। सम्। ऋणानि। अगुः। सम्। कुष्ठाः। अगुः। सम्। कलाः। अगुः। सम्। अस्मासु। यत्। दुःऽस्वप्न्यम्। निः। द्विषते। दुःऽस्वप्न्यम्। सुवाम। ५७.२।
+सम्। राजा॑नः। अ॒गुः॒। सम्। ऋ॒णानि॑। अ॒गुः॒। सम्। कु॒ष्ठाः। अ॒गुः॒। सम्। क॒लाः। अ॒गुः॒। सम्। अ॒स्मासु॑। यत्। दुः॒ऽस्वप्न्य॑म्। निः। द्वि॒ष॒ते। दुः॒ऽस्वप्न्य॑म्। सु॒वा॒म॒। ५७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -172,17 +178,19 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न ।  
-स मम॒ यः पा॒पस्तद् द्वि॑ष॒ते प्र हि॑ण्मः ।  
-मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म्॥३॥  
+देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न।  
+स मम॒ यः पा॒पस्तद्द्वि॑ष॒ते प्र हि॑ण्मः।  
+मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न ।  
-स मम॒ यः पा॒पस्तद् द्वि॑ष॒ते प्र हि॑ण्मः ।  
-मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म्॥३॥  
+देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न।  
+स मम॒ यः पा॒पस्तद्द्वि॑ष॒ते प्र हि॑ण्मः।  
+मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
@@ -219,7 +227,7 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 </details>
 <details><summary>पदपाठः</summary>
 
-देवानाम्। पत्नीनाम्। गर्भ। यमस्य। कर। यः। भद्रः। स्वप्न। सः। मम। यः। पापः। तत्। द्विषते। प्र। हिण्मः। मा। तृष्टानाम्। असि। कृष्णऽशकुनः। मुखम्। ५७.३।
+देवा॑नाम्। प॒त्नी॒ना॒म्। ग॒र्भ॒। यम॑स्य। क॒र॒। यः। भ॒द्रः। स्व॒प्न॒। सः। मम॑। यः। पा॒पः। तत्। द्वि॒ष॒ते। प्र। हि॒ण्मः॒। मा। तृ॒ष्टाना॑म्। अ॒सि॒। कृ॒ष्ण॒ऽश॒कु॒नः। मुख॑म्। ५७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -251,13 +259,16 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
-अ॒ना॒स्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दु॒ष्वप्न्यं॒ यद् गोषु॒ यच्च॑ नो गृ॒हे॥४॥  
+अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/04_taM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्। अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
+तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
+अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
@@ -307,7 +318,7 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 </details>
 <details><summary>पदपाठः</summary>
 
-तम्। त्वा। स्वप्न। तथा। सम्। विद्म। सः। त्वम्। स्वप्न। अश्वःऽइव। कायम्। अश्वःऽइव। नीनाहम्। अनास्माकम्। देवऽपीयुम्। पियारुम्। वप। यत्। अस्मासु। दुःऽस्वप्न्यम्। यत्। गोषु। यत्। च। नः। गृहे। ५७.४।
+तम्। त्वा॒। स्व॒प्न॒। तथा॑। सम्। वि॒द्म॒। सः। त्वम्। स्व॒प्न॒। अश्वः॑ऽइव। का॒यम्। अश्वः॑ऽइव। नी॒ना॒हम्। अ॒ना॒स्मा॒कम्। दे॒व॒ऽपी॒युम्। पिया॑रुम्। व॒प॒। यत्। अ॒स्मासु॑। दुः॒ऽस्वप्न्य॑म्। यत्। गोषु॑। यत्। च॒। नः॒। गृ॒हे। ५७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -338,15 +349,19 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ना॒स्मा॒कस्तद् दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
-नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑ ।  
-दु॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥५॥
+अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
+नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑।  
+दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्। नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑। दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
+अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
+नवा॑र॒त्नीनप॑मया अ॒स्माकं॒ ततः॒ परि॑।  
+दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
@@ -386,7 +401,7 @@ The evil dream that threatens us, threatens our cattle or our home. That let the
 </details>
 <details><summary>पदपाठः</summary>
 
-अनास्माकः। तत्। देवऽपीयुः। पियारुः। निष्कम्ऽइव। प्रति। मुञ्चताम्। नव। अरत्नीन्। अपऽमयाः। अस्माकम्। ततः। परि। दुःऽस्वप्न्यम्। सर्वम्। द्विषते। निः। दयामसि। ५७.५।
+अ॒ना॒स्मा॒कः। तत्। दे॒व॒ऽपी॒युः। पिया॑रुः। नि॒ष्कम्ऽइ॑व। प्रति॑। मु॒ञ्च॒ता॒म्। नव॑। अ॒र॒त्नीन्। अप॑ऽमयाः। अ॒स्माक॑म्। ततः॑। परि॑। दुः॒ऽस्वप्न्य॑म्। सर्व॑म्। द्वि॒ष॒ते। निः। द॒या॒म॒सि॒। ५७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

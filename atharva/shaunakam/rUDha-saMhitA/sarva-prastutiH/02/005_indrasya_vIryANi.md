@@ -37,13 +37,16 @@ Invitation to, and praise of Indra
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ जु॒षस्व॒ प्र व॒हा या॑हि शूर॒ हरि॑भ्याम्।  
-पिबा॑ सु॒तस्य॑ म॒तेरि॒ह मधो॑श्चका॒नश्चारु॒र्मदा॑य ॥१॥  
+पिबा॑ सु॒तस्य॑ म॒तेरि॒ह म॒धोश्च॑का॒नश्चारु॒र्मदा॑य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/01_indra_juShasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑ जु॒षस्व॒ प्र व॒हा या॑हि शूर॒ हरि॑भ्याम्। पिबा॑ सु॒तस्य॑ म॒तेरि॒ह म॒धोश्च॑का॒नश्चारु॒र्मदा॑य ॥
+इन्द्र॑ जु॒षस्व॒ प्र व॒हा या॑हि शूर॒ हरि॑भ्याम्।  
+पिबा॑ सु॒तस्य॑ म॒तेरि॒ह म॒धोश्च॑का॒नश्चारु॒र्मदा॑य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/01_indra_juShasva.md">
@@ -77,7 +80,7 @@ Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। जुषस्व। प्र। वह। आ। याहि। शूर। हरिऽभ्याम्। पिब। सुतस्य। मतेः। इह। मधोः। चकानः। चारुः। मदाय। ५.१।
+इन्द्र॑। जु॒षस्व॑। प्र। व॒ह॒। आ। या॒हि॒। शू॒र॒। हरि॑ऽभ्याम्। पिब॑। सु॒तस्य॑। म॒तेः। इ॒ह। मधोः॑। च॒का॒नः। चारुः॑। मदा॑य। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -109,13 +112,16 @@ Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ ज॒ठरं॑ न॒व्यो न पृ॒णस्व॒ मधो॑र्दि॒वो न।  
-अ॒स्य सु॒तस्य॒ स्व॑१र्णोप॑ त्वा॒ मदाः॑ सु॒वाचो॑ अगुः ॥२॥  
+अ॒स्य सु॒तस्य॒ स्व॑१र्णोप॑ त्वा॒ मदाः॑ सु॒वाचो॑ अगुः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑ ज॒ठरं॑ न॒व्यो न पृ॒णस्व॒ मधो॑र्दि॒वो न। अ॒स्य सु॒तस्य॒ स्व॑१र्णोप॑ त्वा॒ मदाः॑ सु॒वाचो॑ अगुः ॥
+इन्द्र॑ ज॒ठरं॑ न॒व्यो न पृ॒णस्व॒ मधो॑र्दि॒वो न।  
+अ॒स्य सु॒तस्य॒ स्व॑१र्णोप॑ त्वा॒ मदाः॑ सु॒वाचो॑ अगुः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
@@ -149,7 +155,7 @@ O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। जठरम्। नव्यः। न। पृणस्व। मधोः। दिवः। न। अस्य। सुतस्य स्वः᳡। न ः। उप। त्वा। मदाः। सुऽवाचः। अगुः। ५.२।
+इन्द्र॑। ज॒ठर॑म्। न॒व्यः। न। पृ॒णस्व॑। मधोः॑। दि॒वः। न। अ॒स्य। सु॒तस्य॑ स्वः॑᳡। न ः। उप॑। त्वा॒। मदाः॑। सु॒ऽवाचः॑। अ॒गुः॒। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -181,13 +187,16 @@ O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्तुरा॒षाण्मि॒त्रो वृ॒त्रं यो ज॒घान॑ य॒तीर्न।  
-बि॒भेद॑ व॒लं भृगु॒र्न स॑सहे॒ शत्रू॒न् मदे॒ सोम॑स्य ॥३॥  
+बि॒भेद॑ व॒लं भृगु॒र्न स॑सहे॒ शत्रू॒न्मदे॒ सोम॑स्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्तुरा॒षाण्मि॒त्रो वृ॒त्रं यो ज॒घान॑ य॒तीर्न। बि॒भेद॑ व॒लं भृगु॒र्न स॑सहे॒ शत्रू॒न्मदे॒ सोम॑स्य ॥
+इन्द्र॑स्तुरा॒षाण्मि॒त्रो वृ॒त्रं यो ज॒घान॑ य॒तीर्न।  
+बि॒भेद॑ व॒लं भृगु॒र्न स॑सहे॒ शत्रू॒न्मदे॒ सोम॑स्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
@@ -225,7 +234,7 @@ Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu h
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। तुराषाट्। मित्रः। वृत्रम्। यः। जघान। यतीः। न। बिभेद। वलम्। भृगुः। न। ससहे। शत्रून्। मदे। सोमस्य। ५.३।
+इन्द्रः॑। तु॒रा॒षाट्। मि॒त्रः। वृ॒त्रम्। यः। ज॒घान॑। य॒तीः। न। बि॒भेद॑। व॒लम्। भृगुः॑। न। स॒स॒हे॒। शत्रू॑न्। मदे॑। सोम॑स्य। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -256,14 +265,17 @@ Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/04_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ त्वा॑ विशन्तु सु॒तास॑ इन्द्र पृ॒णस्व॑ कु॒क्षी वि॒ड्ढि श॑क्र धि॒येह्या नः॑ ।  
-श्रु॒धी हवं॒ गिरो॑ मे जुष॒स्वेन्द्र॑ स्व॒युग्भि॒र्मत्स्वे॒ह म॒हे रणा॑य ॥४॥  
+आ त्वा॑ विशन्तु सु॒तास॑ इन्द्र पृ॒णस्व॑ कु॒क्षी वि॒ड्ढि श॑क्र धि॒येह्या नः॑।  
+श्रु॒धी हवं॒ गिरो॑ मे जुष॒स्वेन्द्र॑ स्व॒युग्भि॒र्मत्स्वे॒ह म॒हे रणा॑य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/04_A_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ त्वा॑ विशन्तु सु॒तास॑ इन्द्र पृ॒णस्व॑ कु॒क्षी वि॒ड्ढि श॑क्र धि॒येह्या नः॑। श्रु॒धी हवं॒ गिरो॑ मे जुष॒स्वेन्द्र॑ स्व॒युग्भि॒र्मत्स्वे॒ह म॒हे रणा॑य ॥
+आ त्वा॑ विशन्तु सु॒तास॑ इन्द्र पृ॒णस्व॑ कु॒क्षी वि॒ड्ढि श॑क्र धि॒येह्या नः॑।  
+श्रु॒धी हवं॒ गिरो॑ मे जुष॒स्वेन्द्र॑ स्व॒युग्भि॒र्मत्स्वे॒ह म॒हे रणा॑य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/04_A_tvA.md">
@@ -311,7 +323,7 @@ O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! 
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। त्वा। विशन्तु। सुतासः। इन्द्रः। पृणस्व। कुक्षी इति। विड्ढि। शक्र। धिया। इहि। आ। नः। श्रुधि। हवम्। गिरः। मे। जुषस्व। आ। इन्द्र। स्वयुक्ऽभिः। मत्स्व। इह। महे। रणाय। ५.४।
+आ। त्वा॒। वि॒श॒न्तु॒। सु॒तासः॑। इ॒न्द्रः॒। पृ॒णस्व॑। कु॒क्षी इति॑। वि॒ड्ढि। श॒क्र॒। धि॒या। इ॒हि॒। आ। नः॒। श्रु॒धि। हव॑म्। गिरः॑। मे॒। जु॒ष॒स्व॒। आ। इ॒न्द्र॒। स्व॒युक्ऽभिः॑। मत्स्व॑। इ॒ह। म॒हे। रणा॑य। ५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -342,14 +354,17 @@ O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॑स्य॒ नु प्रा वो॑चं वी॒र्याऽणि॒ यानि॑ च॒कार॑ प्रथ॒मानि॑ व॒ज्री।  
-अह॒न्नहि॒मन्व॒पस्त॑तर्द॒ प्र व॒क्षणा॑ अभिन॒त् पर्व॑तानाम्॥५॥  
+इन्द्र॑स्य॒ नु प्रा वो॑चं वी॒र्या॑णि॒ यानि॑ च॒कार॑ प्रथ॒मानि॑ व॒ज्री।  
+अह॒न्नहि॒मन्व॒पस्त॑तर्द॒ प्र व॒क्षणा॑ अभिन॒त्पर्व॑तानाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/05_indrasya_nu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॑स्य॒ नु प्रा वो॑चं वी॒र्या॑णि॒ यानि॑ च॒कार॑ प्रथ॒मानि॑ व॒ज्री। अह॒न्नहि॒मन्व॒पस्त॑तर्द॒ प्र व॒क्षणा॑ अभिन॒त्पर्व॑तानाम् ॥
+इन्द्र॑स्य॒ नु प्रा वो॑चं वी॒र्या॑णि॒ यानि॑ च॒कार॑ प्रथ॒मानि॑ व॒ज्री।  
+अह॒न्नहि॒मन्व॒पस्त॑तर्द॒ प्र व॒क्षणा॑ अभिन॒त्पर्व॑तानाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
@@ -377,7 +392,7 @@ Now will I tell the manly deeds of Indra, the first that he achieved, the thunde
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। नु। प्र। वोचम्। वीर्या᳡णि। यानि। चकार। प्रथमानि। वज्री। अहन्। अहिम्। अनु। अपः। ततर्द। प्र। वक्षणाः। अभिनत्। पर्वतानाम्। ५.५।
+इन्द्र॑स्य॒। नु। प्र। वो॒च॒म्। वी॒र्या᳡णि। यानि॑। च॒कार॑। प्र॒थ॒मानि॑। व॒ज्री। अह॑न्। अहि॑म्। अनु॑। अ॒पः। त॒त॒र्द॒। प्र। व॒क्षणाः॑। अ॒भि॒न॒त्। पर्व॑तानाम्। ५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -408,14 +423,17 @@ Now will I tell the manly deeds of Indra, the first that he achieved, the thunde
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं ऽ ततक्ष ।  
-वा॒श्रा इ॑व धे॒नवः॒ स्यन्द॑माना॒ अञ्जः॑ समु॒द्रमव॑ जग्मु॒रापः॑ ॥६॥  
+अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं॑ ततक्ष।  
+वा॒श्रा इ॑व धे॒नवः॒ स्यन्द॑माना॒ अञ्जः॑ समु॒द्रमव॑ जग्मु॒रापः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं॑ ततक्ष। वा॒श्रा इ॑व धे॒नवः॒ स्यन्द॑माना॒ अञ्जः॑ समु॒द्रमव॑ जग्मु॒रापः॑ ॥
+अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं॑ ततक्ष।  
+वा॒श्रा इ॑व धे॒नवः॒ स्यन्द॑माना॒ अञ्जः॑ समु॒द्रमव॑ जग्मु॒रापः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
@@ -438,7 +456,7 @@ He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar 
 </details>
 <details><summary>पदपाठः</summary>
 
-अहन्। अहिम्। पर्वते। शिश्रियाणम्। त्वष्टा। अस्मै। वज्रम्। स्वर्य᳡म्। ततक्ष। वाश्राःऽइव। धेनवः। स्यन्दमानाः। अञ्जः। समुद्रम्। अव। जग्मुः। आपः। ५.६।
+अह॑न्। अहि॑म्। पर्व॑ते। शि॒श्रि॒या॒णम्। त्वष्टा॑। अ॒स्मै॒। वज्र॑म्। स्व॒र्य᳡म्। त॒त॒क्ष॒। वा॒श्राःऽइ॑व। धे॒नवः॑। स्यन्द॑मानाः। अञ्जः॑। स॒मु॒द्रम्। अव॑। ज॒ग्मुः॒। आपः॑। ५.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -469,14 +487,17 @@ He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वृषा॒यमा॑णो अवृणीत॒ सोमं॒ त्रिक॑द्रुकेष्वपिबत् सु॒तस्य॑ ।  
-आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम्॥७॥
+वृ॑षा॒यमा॑णो अवृणीत॒ सोमं॒ त्रिक॑द्रुकेषु अपिबत्सु॒तस्य॑।  
+आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वृ॑षा॒यमा॑णो अवृणीत॒ सोमं॒ त्रिक॑द्रुकेषु अपिबत्सु॒तस्य॑। आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम् ॥
+वृ॑षा॒यमा॑णो अवृणीत॒ सोमं॒ त्रिक॑द्रुकेषु अपिबत्सु॒तस्य॑।  
+आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
@@ -506,7 +527,7 @@ Impetuous as a bull he chose the Soma, and quaffed the juices in three sacred be
 </details>
 <details><summary>पदपाठः</summary>
 
-वृषऽयमानः। अवृणीत। सोमम्। त्रिऽकद्रुकेषु। अपिबत्। सुतस्य। आ। सायकम्। मघऽवा। अदत्त। वज्रम्। अहन्। एनम्। प्रथमऽजाम्। अहीनाम्। ५.७।
+वृ॒ष॒ऽयमा॑नः। अ॒वृ॒णी॒त॒। सोम॑म्। त्रिऽक॑द्रुकेषु। अ॒पि॒ब॒त्। सु॒तस्य॑। आ। साय॑कम्। म॒घऽवा॑। अ॒द॒त्त॒। वज्र॑म्। अह॑न्। ए॒न॒म्। प्र॒थ॒म॒ऽजाम्। अही॑नाम्। ५.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

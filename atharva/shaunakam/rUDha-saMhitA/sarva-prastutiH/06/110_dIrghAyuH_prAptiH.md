@@ -32,14 +32,17 @@ Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 5
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒त्नो हि कमीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च सत्सि ।  
-स्वां चा॑ग्ने त॒न्वं पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥१॥  
+प्र॒त्नो हि कमीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑।  
+स्वां चा॑ग्ने त॒न्वं᳡ पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒त्नो हि कमीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑। स्वां चा॑ग्ने त॒न्वं᳡ पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥
+प्र॒त्नो हि कमीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑।  
+स्वां चा॑ग्ने त॒न्वं᳡ पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
@@ -66,7 +69,7 @@ Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as H
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रत्नः। हि। कम्। ईड्यः। अध्वरेषु। सनात्। च। होता। नव्यः। च। सत्सि। स्वाम्। च। अग्ने। तन्व᳡म्। प्रिप्रायस्व। अस्मभ्यम्। च। सौभगम्। आ। यजस्व। ११०.१।
+प्र॒त्नः। हि। कम्। ईड्यः॑। अ॒ध्व॒रेषु॑। स॒नात्। च॒। होता॑। नव्यः॑। च॒। स॒त्सि॒। स्वाम्। च॒। अ॒ग्ने॒। त॒न्व᳡म्। प्रि॒प्राय॑स्व। अ॒स्मभ्य॑म्। च॒। सौभ॑गम्। आ। य॒ज॒स्व॒। ११०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as H
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज्ये॒ष्ठ॒घ्न्यं जा॒तो वि॒चृतो॑र्य॒मस्य॑ मूल॒बर्ह॑णा॒त् परि॑ पाह्येनम्।  
-अत्ये॑नं नेषद् दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥२॥  
+ज्ये॑ष्ठ॒घ्न्यां जा॒तो वि॒चृतो॑र्य॒मस्य॑ मूल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
+अत्ये॑नं नेषद्दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज्ये॑ष्ठ॒घ्न्यां जा॒तो वि॒चृतो॑र्य॒मस्य॑ मूल॒बर्ह॑णा॒त्परि॑ पाह्येनम्। अत्ये॑नं नेषद्दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+ज्ये॑ष्ठ॒घ्न्यां जा॒तो वि॒चृतो॑र्य॒मस्य॑ मूल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
+अत्ये॑नं नेषद्दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
@@ -137,7 +143,7 @@ Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him f
 </details>
 <details><summary>पदपाठः</summary>
 
-ज्येष्ठऽघ्न्याम्। जातः। विऽचृतोः। यमस्य। मूलऽबर्हणात्। परि। पाहि। एनम्। अति। एनम्। नेषत्। दुःऽइतानि। विश्वा। दीर्घायुऽत्वाय। शतऽशारदाय। ११०.२।
+ज्ये॒ष्ठ॒ऽघ्न्याम्। जा॒तः। वि॒ऽचृतोः॑। य॒मस्य॑। मू॒ल॒ऽबर्ह॑णात्। परि॑। पा॒हि॒। ए॒न॒म्। अति॑। ए॒न॒म्। ने॒ष॒त्। दुः॒ऽइ॒तानि॑। विश्वा॑। दी॒र्घा॒यु॒ऽत्वाय॑। श॒तऽशा॑रदाय। ११०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -168,14 +174,17 @@ Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him f
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-व्या॒घ्रेऽह्न्य॑जनिष्ट वी॒रो न॑क्षत्र॒जा जाय॑मानः सु॒वीरः॑ ।  
-स मा व॑धीत् पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम्॥३॥
+व्या॒घ्रेऽह्न्य॑जनिष्ट वी॒रो न॑क्षत्र॒जा जाय॑मानः सु॒वीरः॑।  
+स मा व॑धीत्पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-व्या॒घ्रेऽह्न्य॑जनिष्ट वी॒रो न॑क्षत्र॒जा जाय॑मानः सु॒वीरः॑। स मा व॑धीत्पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम् ॥
+व्या॒घ्रेऽह्न्य॑जनिष्ट वी॒रो न॑क्षत्र॒जा जाय॑मानः सु॒वीरः॑।  
+स मा व॑धीत्पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
@@ -198,7 +207,7 @@ Born on the Tiger's day was he, a hero, the Constellations' child, born brave an
 </details>
 <details><summary>पदपाठः</summary>
 
-व्याघ्रे। अह्नि। अजनिष्ट। वीरः। नक्षत्रऽजाः। जायमानः। सुऽवीरः। सः। मा। वधीत्। पितरम्। वर्धमानः। मा। मातरम्। प्र। मिनीत्। जनित्रीम्। ११०.३।
+व्या॒घ्रे। अह्नि॑। अ॒ज॒नि॒ष्ट॒। वी॒रः। न॒क्ष॒त्र॒ऽजाः। जाय॑मानः। सु॒ऽवी॑रः। सः। मा। व॒धी॒त्। पि॒तर॑म्। वर्ध॑मानः। मा। मा॒तर॑म्। प्र। मि॒नी॒त्। जनि॑त्रीम्। ११०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

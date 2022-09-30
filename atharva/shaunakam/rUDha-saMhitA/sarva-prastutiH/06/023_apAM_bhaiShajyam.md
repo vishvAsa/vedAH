@@ -36,14 +36,17 @@ To the Waters
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑ ।  
-वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥१॥  
+स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑।  
+वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑। वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥
+स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑।  
+वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
@@ -69,7 +72,7 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 </details>
 <details><summary>पदपाठः</summary>
 
-सस्रुषीः। तत्। अपसः। दिवा। नक्तम्। च। सस्रुषीः। वरेण्यऽक्रतु। अहम्। अपः। देवीः। उप। ह्वये। २३.१।
+स॒स्रुषीः॑। तत्। अ॒पसः॑। दिवा॑। नक्त॑म्। च॒। स॒स्रुषीः॑। वरे॑ण्यऽक्रतु। अ॒हम्। अ॒पः। दे॒वीः। उप॑। ह्व॒ये॒। २३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ओता॒ आपः॑ कर्म॒ण्याऽमु॒ञ्चन्त्वि॒तः प्रणी॑तये ।  
-स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥२॥  
+ओता॒ आपः॑ कर्म॒ण्या॑ मु॒ञ्चन्त्वि॒तः प्रणी॑तये।  
+स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ओता॒ आपः॑ कर्म॒ण्या॑ मु॒ञ्चन्त्वि॒तः प्रणी॑तये। स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥
+ओता॒ आपः॑ कर्म॒ण्या॑ मु॒ञ्चन्त्वि॒तः प्रणी॑तये।  
+स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
@@ -132,7 +138,7 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽउताः। आपः। कर्मण्याः᳡। मुञ्चन्तु। इतः। प्रऽनीतये। सद्यः। कृण्वन्तु। एतवे। २३.२।
+आऽउ॑ताः। आपः॑। क॒र्म॒ण्याः᳡। मु॒ञ्चन्तु॑। इ॒तः। प्रऽनी॑तये। स॒द्यः। कृ॒ण्व॒न्तु॒। एत॑वे। २३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः ।  
-शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥३॥
+दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः।  
+शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः। शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥
+दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः।  
+शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
@@ -192,7 +201,7 @@ Let all the people celebrate the rite of Savitar the God. Sweet unto us be Water
 </details>
 <details><summary>पदपाठः</summary>
 
-देवस्य। सवितुः। सवे। कर्म। कृण्वन्तु। मानुषाः। शम्। नः। भवन्तु। अपः। ओषधीः। शिवाः। २३.३।
+दे॒वस्य॑। स॒वि॒तुः। स॒वे। कर्म॑। कृ॒ण्व॒न्तु॒। मानु॑षाः। शम्। नः। भ॒व॒न्तु॒। अपः। ओष॑धीः। शिवाः। २३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

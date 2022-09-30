@@ -36,14 +36,17 @@ A charm to win a bride
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः ।  
-इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥१॥  
+आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः।  
+इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः। इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥
+आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः।  
+इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
@@ -70,7 +73,7 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽगच्छतः। आऽगतस्य। नाम। गृह्णामि। आऽयतः। इन्द्रस्य। वृत्रऽघ्नः। वन्वे। वासवस्य। शतऽक्रतोः। ८२.१।
+आ॒ऽगच्छ॑तः। आऽग॑तस्य। नाम॑। गृ॒ह्णा॒मि॒। आ॒ऽय॒तः। इन्द्र॑स्य। वृ॒त्र॒ऽघ्नः। व॒न्वे॒। वा॒स॒वस्य॑। श॒तऽक्र॑तोः। ८२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,13 +105,16 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ सू॒र्यां सा॑वि॒त्रीम॒श्विनो॒हतुः॑ प॒था।  
-तेन॒ माम॑ब्रवी॒द् भगो॑ जा॒यामा व॑हता॒दिति॑ ॥२॥  
+तेन॒ माम॑ब्रवी॒द्भगो॑ जा॒यामा व॑हता॒दिति॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/02_yena_sUryAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-येन॑ सू॒र्यां सा॑वि॒त्रीम॒श्विनो॒हतुः॑ प॒था। तेन॒ माम॑ब्रवी॒द्भगो॑ जा॒यामा व॑हता॒दिति॑ ॥
+येन॑ सू॒र्यां सा॑वि॒त्रीम॒श्विनो॒हतुः॑ प॒था।  
+तेन॒ माम॑ब्रवी॒द्भगो॑ जा॒यामा व॑हता॒दिति॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
@@ -130,7 +136,7 @@ Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the As
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। सूर्याम्। सावित्रीम्। अश्विना। ऊहतुः। पथा। तेन। माम्। अब्रवीत्। भगः। जायाम्। आ। वहतात्। इति। ८२.२।
+येन॑। सू॒र्याम्। सा॒वि॒त्रीम्। अ॒श्विना॑। ऊ॒हतुः॑। प॒था। तेन॑। माम्। अ॒ब्र॒वी॒त्। भगः॑। जा॒याम्। आ। व॒ह॒ता॒त्। इति॑। ८२.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -161,14 +167,17 @@ Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the As
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यस्ते॑ऽङ्कु॒शो व॑सु॒दानो॑ बृ॒हन्नि॑न्द्र हिर॒ण्ययः॑ ।  
-तेना॑ जनीय॒ते जा॒यां मह्यं॑ धेहि शचीपते ॥३॥
+यस्ते॑ऽङ्कु॒शो व॑सु॒दानो॑ बृ॒हन्नि॑न्द्र हिर॒ण्ययः॑।  
+तेना॑ जनीय॒ते जा॒यां मह्यं॑ धेहि शचीपते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्ते॑ऽङ्कु॒शो व॑सु॒दानो॑ बृ॒हन्नि॑न्द्र हिर॒ण्ययः॑। तेना॑ जनीय॒ते जा॒यां मह्यं॑ धेहि शचीपते ॥
+यस्ते॑ऽङ्कु॒शो व॑सु॒दानो॑ बृ॒हन्नि॑न्द्र हिर॒ण्ययः॑।  
+तेना॑ जनीय॒ते जा॒यां मह्यं॑ धेहि शचीपते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
@@ -192,7 +201,7 @@ Great, Indra. is that hook of thine, bestowing treasure, wrought of gold: Therew
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। ते। अङ्कुशः। वसुऽदानः। बृहन्। इन्द्र। हिरण्ययः। तेन। जनिऽयते। जायाम्। मह्यम्। धेहि। शचीऽपते। ८२.३।
+यः। ते॒। अ॒ङ्कु॒शः। व॒सु॒ऽदानः॑। बृ॒हन्। इ॒न्द्र॒। हि॒र॒ण्ययः॑। तेन॑। ज॒नि॒ऽय॒ते। जा॒याम्। मह्य॑म्। धे॒हि॒। श॒ची॒ऽप॒ते॒। ८२.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

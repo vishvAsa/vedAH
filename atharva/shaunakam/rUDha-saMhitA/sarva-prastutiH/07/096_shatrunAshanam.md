@@ -32,14 +32,17 @@ Translated: Henry, 39, iii; Griffith, i. 376.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अस॑द॒न् गावः॒ सद॒नेऽप॑प्तद् वस॒तिं वयः॑ ।  
-आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम्॥१॥
+अस॑द॒न्गावः॒ सद॒नेऽप॑प्तद्वस॒तिं वयः॑।  
+आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अस॑द॒न्गावः॒ सद॒नेऽप॑प्तद्वस॒तिं वयः॑। आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम् ॥
+अस॑द॒न्गावः॒ सद॒नेऽप॑प्तद्वस॒तिं वयः॑।  
+आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
@@ -71,7 +74,7 @@ The kine are resting in the stall, home to her nest hath flown the bird, The hil
 </details>
 <details><summary>पदपाठः</summary>
 
-असदन्। गावः। सदने। अपप्तत्। वसतिम्। वयः। आऽस्थाने। पर्वताः। अस्थुः। स्थाम्नि। वृक्कौ। अतिष्ठिपम्। १०१.१।
+अस॑दन्। गावः॑। सद॑ने। अप॑प्तत्। व॒स॒तिम्। वयः॑। आ॒ऽस्थाने॑। पर्व॑ताः। अ॒स्थुः॒। स्थाम्नि॑। वृ॒क्कौ। अ॒ति॒ष्ठि॒प॒म्। १०१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

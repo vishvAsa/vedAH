@@ -36,14 +36,17 @@ To Affliction
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/01_ava_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अव॑ मा पाप्मन्त्सृज व॒शी सन् मृ॑डयासि नः ।  
-आ मा॑ भ॒द्रस्य॑ लो॒के पा॑प्मन् धे॒ह्यवि॑ह्रुतम्॥१॥  
+अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः।  
+आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/01_ava_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः। आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
+अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः।  
+आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/01_ava_mA.md">
@@ -67,7 +70,7 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 </details>
 <details><summary>पदपाठः</summary>
 
-अव। मा। पाप्मन्। सृज। वशी। सन्। मृडयासि। नः। आ। मा। भद्रस्य। लोके। पाप्मन्। धेहि। अविऽह्रुतम्। २६.१।
+अव॑। मा॒। पा॒प्म॒न्। सृ॒ज॒। व॒शी। सन्। मृ॒ड॒या॒सि॒। नः॒। आ। मा॒। भ॒द्रस्य॑। लो॒के। पा॒प्म॒न्। धे॒हि॒। अवि॑ऽह्रुतम्। २६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यो नः॑ पाप्म॒न् न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
-प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम्॥२॥  
+यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
+प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/02_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्। प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
+यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
+प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/02_yo_naH.md">
@@ -128,7 +134,7 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। नः। पाप्मन्। न। जहासि। तम्। ऊं इति। त्वा। जहिमः। वयम्। पथाम्। अनु। विऽआवर्तने। अन्यम्। पाप्मा। अनु। पद्यताम्। २६.२।
+यः। नः॒। पा॒प्म॒न्। न। जहा॑सि। तम्। ऊं॒ इति॑। त्वा॒। ज॒हि॒मः॒। व॒यम्। प॒थाम्। अनु॑। वि॒ऽआ॒वर्त॑ने। अ॒न्यम्। पा॒प्मा। अनु॑। प॒द्य॒ता॒म्। २६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्यत्रा॒स्मन्न्युऽच्यतु सहस्रा॒क्षो अम॑र्त्यः ।  
-यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥३॥
+अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः।  
+यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः। यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
+अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः।  
+यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
@@ -190,7 +199,7 @@ May the immortal, thousand eyed, dwell otherwhere apart from us. Let him afflict
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्यत्र। अस्मत्। नि। उच्यतु। सहस्रऽअक्षः। अमर्त्यः। यम्। द्वेषाम्। तम्। ऋच्छतु। यम्। ऊं इति। द्विष्मः। तम्। इत्। जहि। २६.३।
+अ॒न्यत्र॑। अ॒स्मत्। नि। उ॒च्य॒तु॒। स॒ह॒स्र॒ऽअ॒क्षः। अम॑र्त्यः। यम्। द्वेषा॑म्। तम्। ऋ॒च्छ॒तु॒। यम्। ऊं॒ इति॑। द्वि॒ष्मः। तम्। इत्। ज॒हि॒। २६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

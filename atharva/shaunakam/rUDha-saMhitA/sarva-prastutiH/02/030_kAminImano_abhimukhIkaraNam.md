@@ -36,14 +36,17 @@ A man's love-charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒दं भूम्या॒ अधि॒ तृणं॒ वातो॑ मथा॒य॑ति ।  
-ए॒वा म॑थ्नामि ते मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥१॥  
+यथे॒दं भूम्या॒ अधि॒ तृणं॒ वातो॑ मथा॒यति॑।  
+ए॒वा म॑थ्नामि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒दं भूम्या॒ अधि॒ तृणं॒ वातो॑ मथा॒यति॑। ए॒वा म॑थ्नामि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+यथे॒दं भूम्या॒ अधि॒ तृणं॒ वातो॑ मथा॒यति॑।  
+ए॒वा म॑थ्नामि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/01_yathedaM_bhUmyA.md">
@@ -70,7 +73,7 @@ As the wind shake this Tuft of Grass hither and thither on the ground. So do I s
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इदम्। भूम्याः। अधि। तृणम्। वातः। मथायति। एव। मथ्नामि। ते। मनः। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाः। असः। ३०.१।
+यथा॑। इ॒दम्। भूम्याः॑। अधि॑। तृण॑म्। वातः॑। म॒था॒यति॑। ए॒व। म॒थ्ना॒मि॒। ते॒। मनः॑। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाः। असः॑। ३०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ As the wind shake this Tuft of Grass hither and thither on the ground. So do I s
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सं चेन्नया॑थो अश्विना का॒मिना॒ सं च॒ वक्ष॑थः ।  
-सं वां॒ भगा॑सो अग्मत॒ सं चि॒त्तानि॒ समु॑ व्र॒ता॥२॥  
+सं चेन्नया॑थो अश्विना का॒मिना॒ सं च॒ वक्ष॑थः।  
+सं वां॒ भगा॑सो अग्मत॒ सं चि॒त्तानि॒ समु॑ व्र॒ता ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं चेन्नया॑थो अश्विना का॒मिना॒ सं च॒ वक्ष॑थः। सं वां॒ भगा॑सो अग्मत॒ सं चि॒त्तानि॒ समु॑ व्र॒ता ॥
+सं चेन्नया॑थो अश्विना का॒मिना॒ सं च॒ वक्ष॑थः।  
+सं वां॒ भगा॑सो अग्मत॒ सं चि॒त्तानि॒ समु॑ व्र॒ता ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/02_saM_chennayAtho.md">
@@ -145,7 +151,7 @@ Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fort
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। च। इत्। नयाथः। अश्विना। कामिना। सम्। च। वक्षथः। सम्। वाम्। भगासः। अग्मत। सम्। चित्तानि। सम्। ऊं इति। व्रता। ३०.२।
+सम्। च॒। इत्। नया॑थः। अ॒श्वि॒ना॒। का॒मिना॑। सम्। च॒। वक्ष॑थः। सम्। वा॒म्। भगा॑सः। अ॒ग्म॒त॒। सम्। चि॒त्तानि॑। सम्। ऊं॒ इति॑। व्र॒ता। ३०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -176,14 +182,17 @@ Ye, Asvins, lead together, ye unite and bring the loving pair. Now have the fort
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/03_yatsuparNA_vivaxavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् सु॑प॒र्णा वि॑व॒क्षवो॑ अनमी॒वा वि॑व॒क्षवः॑ ।  
-तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥३॥  
+यत्सु॑प॒र्णा वि॑व॒क्षवो॑ अनमी॒वा वि॑व॒क्षवः॑।  
+तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/03_yatsuparNA_vivaxavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्सु॑प॒र्णा वि॑व॒क्षवो॑ अनमी॒वा वि॑व॒क्षवः॑। तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥
+यत्सु॑प॒र्णा वि॑व॒क्षवो॑ अनमी॒वा वि॑व॒क्षवः॑।  
+तत्र॑ मे गछता॒द्धवं॑ श॒ल्य इ॑व॒ कुल्म॑लं॒ यथा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/03_yatsuparNA_vivaxavo.md">
@@ -211,7 +220,7 @@ When eagles, calling out aloud, are screaming in the joy of health, Then to my c
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। सुऽपर्णाः। विवक्षवः। अनमीवाः। विवक्षवः। तत्र। मे। गच्छतात्। हवम्। शल्यःऽइव। कुल्मलम्। यथा। ३०.३।
+यत्। सु॒ऽप॒र्णाः। वि॒व॒क्षवः॑। अ॒न॒मी॒वाः। वि॒व॒क्षवः॑। तत्र॑। मे॒। ग॒च्छ॒ता॒त्। हव॑म्। श॒ल्यःऽइ॑व। कुल्म॑लम्। यथा॑। ३०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -242,14 +251,17 @@ When eagles, calling out aloud, are screaming in the joy of health, Then to my c
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tadbAhyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदन्त॑रं॒ तद् बाह्यं॒ यद् बाह्यं॒ तदन्त॑रम्।  
-क॒न्याऽनां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥४॥  
+यदन्त॑रं॒ तद्बाह्यं॒ यद्बाह्यं॒ तदन्त॑रम्।  
+क॒न्या॑नां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tadbAhyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदन्त॑रं॒ तद्बाह्यं॒ यद्बाह्यं॒ तदन्त॑रम्। क॒न्या॑नां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥
+यदन्त॑रं॒ तद्बाह्यं॒ यद्बाह्यं॒ तदन्त॑रम्।  
+क॒न्या॑नां वि॒श्वरू॑पाणां॒ मनो॑ गृभायौषधे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/04_yadantaraM_tadbAhyam.md">
@@ -273,7 +285,7 @@ Let what is inward turn outside, let what is outward be within: Seize and posses
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अन्तरम्। तत्। बाह्यम्। यत्। बाह्यम्। तत्। अन्तरम्। कन्या᳡नाम्। विश्वऽरूपाणाम्। मनः। गृभाय। ओषधे। ३०.४।
+यत्। अन्त॑रम्। तत्। बाह्य॑म्। यत्। बाह्य॑म्। तत्। अन्त॑रम्। क॒न्या᳡नाम्। वि॒श्वऽरू॑पाणाम्। मनः॑। गृ॒भा॒य॒। ओ॒ष॒धे॒। ३०.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -304,14 +316,17 @@ Let what is inward turn outside, let what is outward be within: Seize and posses
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/030_kAminImano_abhimukhIkaraNam/05_eyamaganpatikAmA_janikAmo-hamAgamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-एयम॑ग॒न् पति॑कामा॒ जनि॑कामो॒ऽहमाग॑मम्।  
-अश्वः॒ कनि॑क्रद॒द् यथा॒ भगे॑ना॒हं स॒हाग॑मम्॥५॥
+एयम॑ग॒न्पति॑कामा॒ जनि॑कामो॒ऽहमाग॑मम्।  
+अश्वः॒ कनि॑क्रद॒द्यथा॒ भगे॑ना॒हं स॒हाग॑मम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/030_kAminImano_abhimukhIkaraNam/05_eyamaganpatikAmA_janikAmo-hamAgamam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-एयम॑ग॒न्पति॑कामा॒ जनि॑कामो॒ऽहमाग॑मम्। अश्वः॒ कनि॑क्रद॒द्यथा॒ भगे॑ना॒हं स॒हाग॑मम् ॥
+एयम॑ग॒न्पति॑कामा॒ जनि॑कामो॒ऽहमाग॑मम्।  
+अश्वः॒ कनि॑क्रद॒द्यथा॒ भगे॑ना॒हं स॒हाग॑मम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/030_kAminImano_abhimukhIkaraNam/05_eyamaganpatikAmA_janikAmo-hamAgamam.md">
@@ -333,7 +348,7 @@ Seeking a husband she hath come! and I came longing for a wife: Even as a loudly
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। इयम्। अगन्। पतिऽकामा। जनिऽकामः। अहम्। आ। अगमम्। अश्वः। कनिक्रदत्। यथा। भगेन। अहम्। सह। आ। अगमम्। ३०.५।
+आ। इ॒यम्। अ॒ग॒न्। पति॑ऽकामा। जनि॑ऽकामः। अ॒हम्। आ। अ॒ग॒म॒म्। अश्वः॑। कनि॑क्रदत्। यथा॑। भगे॑न। अ॒हम्। स॒ह। आ। अ॒ग॒म॒म्। ३०.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -32,15 +32,17 @@ A protective charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/01_na_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते ।  
-यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते॥१॥  
+न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते।  
+यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/01_na_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते ।  
-यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते॥१॥  
+न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते।  
+यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/01_na_tam.md">
@@ -71,7 +73,7 @@ Never Consumption, never curse touches the man, Arundhati! Whom the delicious od
 </details>
 <details><summary>पदपाठः</summary>
 
-न। तम्। यक्ष्माः। अरुन्धते। न। एनम्। शपथः। अश्नुते। यम्। भेषजस्य। गुल्गुलोः। सुरभिः। गन्धः। अश्नुते। ३८.१।
+न। तम्। यक्ष्माः॑। अरु॑न्धते। न। ए॒न॒म्। श॒पथः॑। अ॒श्नु॒ते॒। यम्। भे॒ष॒जस्य॑। गु॒ल्गु॒लोः। सु॒र॒भिः। ग॒न्धः। अ॒श्नु॒ते। ३८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +104,17 @@ Never Consumption, never curse touches the man, Arundhati! Whom the delicious od
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-विष्व॑ञ्च॒स्तस्मा॒द् यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते ।  
-यद् गु॑ल्गु॒लु सै॑न्ध॒वं यद् वाप्यासि॑ समु॒द्रिय॑म्॥२॥  
+विष्व॑ञ्च॒स्तस्मा॒द्यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते।  
+यद्गु॑ल्गु॒लु सै॑न्ध॒वं यद्वाप्यसि॑ समु॒द्रिय॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-विष्व॑ञ्च॒स्तस्मा॒द्यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते। यद्गु॑ल्गु॒लु सै॑न्ध॒वं यद्वाप्यसि॑ समु॒द्रिय॑म् ॥
+विष्व॑ञ्च॒स्तस्मा॒द्यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते।  
+यद्गु॑ल्गु॒लु सै॑न्ध॒वं यद्वाप्यसि॑ समु॒द्रिय॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
@@ -163,7 +168,7 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 </details>
 <details><summary>पदपाठः</summary>
 
-विष्वञ्चः। तस्मात्। यक्ष्माः। मृगाः। अश्वाःऽइव। ईरते। यत्। गुल्गुलु। सैन्धवम्। यत्। वा। अपि। असि। समुद्रियम्। ३८.२।
+विष्व॑ञ्चः। तस्मा॑त्। यक्ष्माः॑। मृ॒गाः। अश्वाः॑ऽइव। ई॒र॒ते॒। यत्। गु॒ल्गु॒लु। सै॒न्ध॒वम्। यत्। वा॒। अपि॑। असि॑। स॒मु॒द्रिय॑म्। ३८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -194,13 +199,15 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये ॥३॥
+उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये ॥३॥
+उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
@@ -215,7 +222,7 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 </details>
 <details><summary>पदपाठः</summary>
 
-उभयोः। अग्रभम्। नाम। अस्मै। अरिष्टऽतातये। ३८.३।
+उभयोः॑। अ॒ग्र॒भ॒म्। नाम॑। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ३८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

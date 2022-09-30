@@ -36,15 +36,17 @@ A protective charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऐतु॑ दे॒वस्त्राय॑माणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑ ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥१॥  
+ऐतु॑ दे॒वस्त्रा॑यमाणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡  ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऐतु॑ दे॒वस्त्राय॑माणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑ ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥१॥  
+ऐतु॑ दे॒वस्त्रा॑यमाणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡  ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
@@ -68,7 +70,7 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 </details>
 <details><summary>पदपाठः</summary>
 
-आ। एतु। देवः। त्रायमाणः। कुष्ठः। हिमऽवतः। परि। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.१।
+आ। ए॒तु॒। दे॒वः। त्राय॑माणः। कुष्ठः॑। हि॒मऽव॑तः। परि॑। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -99,15 +101,19 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/02_trINi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः ।  
-नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥२॥  
+त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः।  
+नद्या॒यं पुरु॑सो रिषत्।  
+यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/02_trINi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः। नद्या॒यं पुरु॑सो रिषत्। यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
+त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः।  
+नद्या॒यं पुरु॑सो रिषत्।  
+यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/02_trINi_te.md">
@@ -165,7 +171,7 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रीणि। ते। कुष्ठ। नामानि। नद्यऽमारः। नद्यऽरिषः। नद्य। अयम्। पुरुषः। रिषत्। यस्मै। परिऽब्रवीमि। त्वा। सायम्ऽप्रातः। अथो इति। दिवा। ३९.२।
+त्रीणि॑। ते॒। कु॒ष्ठ॒। नामा॑नि। न॒द्य॒ऽमा॒रः। न॒द्यऽरि॑षः। नद्य॑। अ॒यम्। पुरु॑षः। रि॒ष॒त्। यस्मै॑। प॒रि॒ऽब्रवी॑मि। त्वा॒। सा॒यम्ऽप्रा॑तः। अथो॒ इति॑। दिवा॑। ३९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -196,17 +202,19 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-जी॒व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
+जी॑व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
 नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥३॥  
+यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जी॒व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
+जी॑व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
 नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥३॥  
+यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
@@ -229,7 +237,7 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-जीवला। नाम। ते। माता। जीवन्तः। नाम। ते। पिता। नद्य। अयम्। पुरुषः। रिषत्। यस्मै। परिऽब्रवीमि। त्वा। सायम्ऽप्रातः। अथो इति। दिवा। ३९.३।
+जी॒व॒ला। नाम॑। ते॒। मा॒ता। जी॒व॒न्तः। नाम॑। ते॒। पि॒ता। नद्य॑। अ॒यम्। पुरु॑षः। रि॒ष॒त्। यस्मै॑। प॒रि॒ऽब्रवी॑मि। त्वा॒। सा॒यम्ऽप्रा॑तः। अथो॒ इति॑। दिवा॑। ३९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -260,15 +268,19 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त्त॒मो अ॒स्योष॑धीनामन॒ड्वान् जग॑तामिव व्या॒घ्रः श्वप॑दामिव ।  
+उ॑त्त॒मो अ॒स्योष॑धीनामन॒ड्वाञ्जग॑तामिव व्या॒घ्रः श्वप॑दामिव।  
 नद्या॒यं पुरु॑षो रिषत्।  
-यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥४॥  
+यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॑ दिवा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॑त्त॒मो अ॒स्योष॑धीनामन॒ड्वाञ्जग॑तामिव व्या॒घ्रः श्वप॑दामिव। नद्या॒यं पुरु॑षो रिषत्। यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॑ दिवा ॥
+उ॑त्त॒मो अ॒स्योष॑धीनामन॒ड्वाञ्जग॑तामिव व्या॒घ्रः श्वप॑दामिव।  
+नद्या॒यं पुरु॑षो रिषत्।  
+यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॑ दिवा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
@@ -291,7 +303,7 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतमः। असि। ओषधीनाम्। अनड्वान्। जगताम्ऽइव। व्याघ्रः। श्वपदाम्ऽइव। नद्य। अयम्। पुरुषः। रिषत्। यस्मै। परिऽब्रवीमि। त्वा। सायम्ऽप्रातः। अथो इति। दिवा। ३९.४।
+उ॒त्ऽत॒मः। अ॒सि॒। ओष॑धीनाम्। अ॒न॒ड्वान्। जग॑ताम्ऽइव। व्या॒घ्रः। श्वप॑दाम्ऽइव। नद्य॑। अ॒यम्। पुरु॑षः। रि॒ष॒त्। यस्मै॑। प॒रि॒ऽब्रवी॑मि। त्वा॒। सा॒यम्ऽप्रा॑तः। अथो॒ इति॑। दिवा॑। ३९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -322,19 +334,21 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑ ।  
-त्रिर्जा॒तो वि॒श्वदे॑वेभ्यः ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥५॥  
+त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑।  
+त्रिर्जा॒तो वि॒श्वदे॑वेभ्यः।  
+स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑ ।  
-त्रिर्जा॒तो वि॒श्वदे॑वेभ्यः ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥५॥  
+त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑।  
+त्रिर्जा॒तो वि॒श्वदे॑वेभ्यः।  
+स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
@@ -368,7 +382,7 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रिः। शाम्बुऽभ्यः। अङ्गिरेभ्यः। त्रिः। आदित्येभ्यः। परि। त्रिः। जातः। विश्वऽदेवेभ्यः। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.५।
+त्रिः। शाम्बु॑ऽभ्यः। अङ्गि॑रेभ्यः। त्रिः। आ॒दि॒त्येभ्यः॑। परि॑। त्रिः। जा॒तः। वि॒श्वऽदे॑वेभ्यः। सः। कुष्ठः॑। वि॒श्वऽभे॑षजः। सा॒कम्। सोमे॑न। ति॒ष्ठ॒ति॒। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -399,19 +413,21 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥६॥  
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥६॥  
+अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
@@ -440,7 +456,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.६।
+अ॒श्व॒त्थः। दे॒व॒ऽसद॑नः। तृ॒तीय॑स्याम्। इ॒तः। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। ततः॑। कुष्ठः॑। अ॒जा॒य॒त॒। सः। कुष्ठः॑। वि॒श्वऽभे॑षजः। सा॒कम्। सोमे॑न। ति॒ष्ठ॒ति॒। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -471,19 +487,21 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥७॥  
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥७॥  
+हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
@@ -504,7 +522,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.७।
+हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। ततः॑। कुष्ठः॑। अ॒जा॒य॒त॒। सः। कुष्ठः॑। वि॒श्वऽभे॑षजः। सा॒कम्। सोमे॑न। ति॒ष्ठ॒ति॒। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -535,19 +553,21 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑ ।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥८॥  
+यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कु॑ष्ठो वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑ ।  
-तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत ।  
-स कुष्ठो॑ वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति ।  
-त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः ॥८॥  
+यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑।  
+तत्रा॒मृत॑स्य॒ चक्ष॑णं॒ ततः॒ कुष्ठो॑ अजायत।  
+स कु॑ष्ठो वि॒श्वभे॑षजः सा॒कं सोमे॑न तिष्ठति।  
+त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
@@ -587,7 +607,7 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्र। न। अवऽप्रभ्रंशनम्। यत्र। हिमऽवतः। शिरः। तत्र। अमृतस्य। चक्षणम्। ततः। कुष्ठः। अजायत। सः। कुष्ठः। विश्वऽभेषजः। साकम्। सोमेन। तिष्ठति। तक्मानम्। सर्वम्। नाशय। सर्वाः। च। यातुऽधान्यः᳡। ३९.८।
+यत्र॑। न। अ॒व॒ऽप्र॒भ्रंश॑नम्। यत्र॑। हि॒मऽव॑तः। शिरः॑। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। ततः॑। कुष्ठः॑। अ॒जा॒य॒त॒। सः। कुष्ठः॑। वि॒श्वऽभे॑षजः। सा॒कम्। सोमे॑न। ति॒ष्ठ॒ति॒। त॒क्मान॑म्। सर्व॑म्। ना॒श॒य॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। ३९.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -618,15 +638,17 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं त्वा॒ वेद॒ पूर्व॒ इक्ष्वा॑को॒ यं वा॑ त्वा कुष्ठ का॒म्यः ।  
-यं वा॒ वसो॑ यमात्स्य॒स्तेनासि॑ वि॒श्वभे॑षजः ॥९॥  
+यं त्वा॒ वेद॒ पूर्व॒ इक्ष्वा॑को॒ यं वा॑ त्वा कुष्ठ का॒म्यः᳡।  
+यं वा॒ वसो॒ यमात्स्य॒स्तेना॑सि वि॒श्वभे॑षजः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं त्वा॒ वेद॒ पूर्व॒ इक्ष्वा॑को॒ यं वा॑ त्वा कुष्ठ का॒म्यः ।  
-यं वा॒ वसो॑ यमात्स्य॒स्तेनासि॑ वि॒श्वभे॑षजः ॥९॥  
+यं त्वा॒ वेद॒ पूर्व॒ इक्ष्वा॑को॒ यं वा॑ त्वा कुष्ठ का॒म्यः᳡।  
+यं वा॒ वसो॒ यमात्स्य॒स्तेना॑सि वि॒श्वभे॑षजः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/09_yaM_tvA.md">
@@ -657,7 +679,7 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। त्वा। वेद। पूर्वः। इक्ष्वाकः। यम्। वा। त्वा। कुष्ठः। काम्यः᳡। यम्। वा। वसः। यम्। आत्स्यः। तेन। असि। विश्वऽभेषजः। ३९.९।
+यम्। त्वा॒। वेद॑। पूर्वः॑। इक्ष्वा॑कः। यम्। वा॒। त्वा॒। कु॒ष्ठः॒। का॒म्यः᳡। यम्। वा॒। वसः॑। यम्। आत्स्यः॑। तेन॑। अ॒सि॒। वि॒श्वऽभे॑षजः। ३९.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -688,15 +710,17 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शी॒र्ष॒लो॒कं तृ॒तीय॑कं सद॒न्दिर्यश्च॑ हाय॒नः ।  
-त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥१०॥
+शी॑र्षलो॒कं तृती॑यकं सद॒न्दिर्यश्च॑ हाय॒नः।  
+त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-शी॒र्ष॒लो॒कं तृ॒तीय॑कं सद॒न्दिर्यश्च॑ हाय॒नः ।  
-त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥१०॥
+शी॑र्षलो॒कं तृती॑यकं सद॒न्दिर्यश्च॑ हाय॒नः।  
+त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
@@ -728,7 +752,7 @@ O thou who hast all-reaching might drive away Fever, drive it down, racking Feve
 </details>
 <details><summary>पदपाठः</summary>
 
-शीर्षऽलोकम्। तृतीयकम्। सदम्ऽदिः। यः। च। हायनः। तक्मानम्। विश्वधाऽवीर्य। अधराञ्चम्। परा। सुव। ३९.१०।
+शी॒र्ष॒ऽलो॒कम्। तृ॒तीय॑कम्। स॒द॒म्ऽदिः। यः। च॒। हा॒य॒नः। त॒क्मान॑म्। वि॒श्व॒धा॒ऽवी॒र्य॒। अ॒ध॒राञ्च॑म्। परा॑। सु॒व॒। ३९.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

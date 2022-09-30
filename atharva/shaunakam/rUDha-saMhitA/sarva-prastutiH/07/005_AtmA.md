@@ -50,8 +50,11 @@ A glorification of sacrifice
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन्। ते ह॒ नाकं॑ महि॒मानः॑ सचन्त॒ यत्र॒ पूर्वे॑ सा॒ध्याः सन्ति॑ दे॒वाः ॥
+य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन्।  
+ते ह॒ नाकं॑ महि॒मानः॑ सचन्त॒ यत्र॒ पूर्वे॑ सा॒ध्याः सन्ति॑ दे॒वाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
@@ -290,11 +293,30 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 Эти же могущества последовали на небо,  
 Где находятся прежние боги – садхья.
 </details>
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरुषः
+- नारायणः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (देवाः)आदि विद्वान् परमर्षिजन (यज्ञेन यज्ञम्-अयजन्त) अध्यात्मयज्ञ द्वारा यजनीय-सङ्गमनीय परमात्मा को अपने अन्दरसंगत करते हैं-सम्यक् प्राप्त करते हैं (तानि धर्माणि) वे ध्यान समाधिरूप कर्म (प्रथमानि-आसन्)-प्रथम के-पूर्व के हैं (ते महिमानः) वे जीवन्मुक्त आत्माएँ (ह नाकं सचन्ते) अवश्य नितान्त सुख-मोक्ष को सेवन करते हैं (यत्र) जहाँ (साध्याः) साधनासिद्ध (देवाः) विद्वान् आत्माएँ (सन्ति) हैं ॥१६॥
+</details>
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  आदि विद्वान् परम ऋषिजन अध्यात्मयज्ञ के द्वारा-उपासना के द्वारा अपने अन्दर परमात्मा का साक्षात् किया करते हैं, वे सृष्टि के आरम्भ के कर्म हैं, जो मोक्ष को प्राप्त करानेवाले हैं, जहाँ जीवन्मुक्त पहुँचा करते हैं ॥१६॥
+</details>
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (देवाः) आदिविद्वांसः परमर्षयः (यज्ञेन-यज्ञम्-अयजन्त) अध्यात्मयज्ञेन यजनीयं सङ्गमनीयं परमात्मानं स्वस्मिन् सङ्गमयन्ति (तानि धर्माणि प्रथमानि-आसन्) तानि ध्यानसमाधिरूपाणि कर्माणि प्राथमिकानि खल्वासन् (ते ह नाकं महिमानः सचन्त) ते जीवन्मुक्तात्मानः नितान्तसुखं मोक्षं सेवन्ते (यत्र साध्याः देवाः सन्ति) यत्र साधनासिद्धा आत्मानः सन्ति ॥१६॥
+</details>
 </details>
 </div>
 <details><summary>पदपाठः</summary>
 
-यज्ञेन। यज्ञम्। अयजन्त। देवाः। तानि। धर्माणि। प्रथमानि। आसन्। ते। ह। नाकम्। महिमानः। सचन्त। यत्र। पूर्वे। साध्याः। सन्ति। देवाः। ५.१।
+य॒ज्ञेन॑। य॒ज्ञम्। अ॒य॒ज॒न्त॒। दे॒वाः। तानि॑। धर्मा॑णि। प्र॒थ॒मानि॑। आ॒स॒न्। ते। ह॒। नाक॑म्। म॒हि॒मानः॑। स॒च॒न्त॒। यत्र॑। पूर्वे॑। सा॒ध्याः। सन्ति॑। दे॒वाः। ५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -325,14 +347,17 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/02_yajno_babhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑ ।  
-स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥२॥  
+य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑।  
+स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/02_yajno_babhUva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑। स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥
+य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑।  
+स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/02_yajno_babhUva.md">
@@ -359,7 +384,7 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 </details>
 <details><summary>पदपाठः</summary>
 
-यज्ञः। बभूव। सः। आ। बभूव। सः। प्र। जज्ञे। सः। ऊं  इति। ववृधे। पुनः। सः। देवानाम्। अधिऽपतिः। बभूव। सः। अस्मासु। द्रविणम्। आ। दधातु। ५.२।
+य॒ज्ञः। ब॒भू॒व॒। सः। आ। ब॒भू॒व॒। सः। प्र। ज॒ज्ञे॒। सः। ऊं॒ इति॑। व॒वृ॒धे॒। पुनः॑। सः। दे॒वाना॑म्। अधि॑ऽपतिः। ब॒भू॒व॒। सः। अ॒स्मासु॑। द्रवि॑णम्। आ। द॒धा॒तु॒। ५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -390,14 +415,17 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् दे॒वा दे॒वान् ह॒विषाय॑ज॒न्ताम॑र्त्या॒न् मन॒साम॑र्त्येन ।  
-मदे॑म॒ तत्र॑ पर॒मे व्योऽम॒न् पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥३॥  
+यद्दे॒वा दे॒वान्ह॒विषा॑ऽयज॒न्ताम॑र्त्या॒न्मन॒सा म॑र्त्येन।  
+मदे॑म॒ तत्र॑ पर॒मे व्यो᳡म॒न्पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्दे॒वा दे॒वान्ह॒विषा॑ऽयज॒न्ताम॑र्त्या॒न्मन॒सा म॑र्त्येन। मदे॑म॒ तत्र॑ पर॒मे व्यो᳡म॒न्पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥
+यद्दे॒वा दे॒वान्ह॒विषा॑ऽयज॒न्ताम॑र्त्या॒न्मन॒सा म॑र्त्येन।  
+मदे॑म॒ तत्र॑ पर॒मे व्यो᳡म॒न्पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
@@ -418,7 +446,7 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। देवाः। देवान्। हविषा। अयजन्त। अमर्त्यान‌्। मनसा। अमर्त्येन। मदेम। तत्र। परमे। विऽओमन्। पश्येम। तत्। उत्ऽइतौ। सूर्यस्य। ५.३।
+यत्। दे॒वाः। दे॒वान्। ह॒विषा॑। अय॑जन्त। अम॑र्त्यान‌्। मन॑सा। अम॑र्त्येन। मदे॑म। तत्र॑। प॒र॒मे। विऽओ॑मन्। पश्ये॑म। तत्। उत्ऽइ॑तौ। सूर्य॑स्य। ५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -449,14 +477,17 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत ।  
-अस्ति॒ नु तस्मा॒दोजी॑यो॒ यद् विहव्ये॑नेजि॒रे॥४॥  
+यत्पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत।  
+अ॑स्ति॒ नु तस्मा॒दोजी॑यो॒ यद्वि॒हव्ये॑नेजि॒रे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत। अ॑स्ति॒ नु तस्मा॒दोजी॑यो॒ यद्वि॒हव्ये॑नेजि॒रे ॥
+यत्पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत।  
+अ॑स्ति॒ नु तस्मा॒दोजी॑यो॒ यद्वि॒हव्ये॑नेजि॒रे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
@@ -485,7 +516,7 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। पुरुषेण। हविषा। यज्ञम्। देवाः। अतन्वत। अस्ति। नु। तस्मात्। ओजीयः। यत्। विऽहव्येन। ईजिरे। ५.४।
+यत्। पुरु॑षेण। ह॒विषा॑। य॒ज्ञम्। दे॒वाः। अत॑न्वत। अस्ति॑। नु। तस्मा॑त्। ओजी॑यः। यत्। वि॒ऽहव्ये॑न। ई॒जि॒रे। ५.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -516,14 +547,17 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/05_mugdhA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ग्धा दे॒वा उ॒त शुनाय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाय॑जन्त ।  
-य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॑स्तमि॑हेह ब्र॑वः ॥५॥
+मु॒ग्धा दे॒वा उ॒त शुनाऽय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाऽय॑जन्त।  
+य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/05_mugdhA_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मु॒ग्धा दे॒वा उ॒त शुनाऽय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाऽय॑जन्त। य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+मु॒ग्धा दे॒वा उ॒त शुनाऽय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाऽय॑जन्त।  
+य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/05_mugdhA_devA.md">
@@ -549,7 +583,7 @@ With dog the Gods, perplexed, have paid oblation, and with cow's limbs in sundry
 </details>
 <details><summary>पदपाठः</summary>
 
-मुग्धाः। देवाः। उत। शुना। अयजन्त। उत। गोः। अङ्गैः। पुरुऽधा। अयजन्त। यः। इमम्। यज्ञम्। मनसा। चिकेत। प्र। नः। वोचः। तम्। इह। इह। ब्रवः। ५.५।
+मु॒ग्धाः। दे॒वाः। उ॒त। शुना॑। अय॑जन्त। उ॒त। गोः। अङ्गैः॑। पु॒रु॒ऽधा। अ॒य॒ज॒न्त॒। यः। इ॒मम्। य॒ज्ञम्। मन॑सा। चि॒केत॑। प्र। नः॒। वो॒चः॒। तम्। इ॒ह। इ॒ह। ब्र॒वः॒। ५.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

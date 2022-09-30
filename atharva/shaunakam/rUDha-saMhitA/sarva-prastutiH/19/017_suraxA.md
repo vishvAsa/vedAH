@@ -36,14 +36,17 @@ A prayer for protection from dangers in all directions
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/01_agnirmA_pAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निर्मा॑ पातु॒ वसु॑भिः पु॒रस्ता॒त् तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥१॥  
+अ॒ग्निर्मा॑ पातु॒ वसु॑भिः पु॒रस्ता॒त्तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाह॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/01_agnirmA_pAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निर्मा॑ पातु॒ वसु॑भिः पु॒रस्ता॒त्तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाह॑ ॥
+अ॒ग्निर्मा॑ पातु॒ वसु॑भिः पु॒रस्ता॒त्तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाह॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/01_agnirmA_pAtu.md">
@@ -69,7 +72,7 @@ Agni from eastward guard me with the Vasus! To him I go, in him I rest: this for
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। मा। पातु। वसुऽभिः। पुरस्तात्। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.१।
+अ॒ग्निः। मा॒। पा॒तु॒। वसु॑ऽभिः। पु॒रस्ता॑त्। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ Agni from eastward guard me with the Vasus! To him I go, in him I rest: this for
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/02_vAyurmAntarixeNaitasyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वा॒युर्मा॒न्तरि॑क्षेणै॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥२॥  
+वा॒युर्मा॒न्तरि॑क्षेणै॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/02_vAyurmAntarixeNaitasyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वा॒युर्मा॒न्तरि॑क्षेणै॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+वा॒युर्मा॒न्तरि॑क्षेणै॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/02_vAyurmAntarixeNaitasyA_dishaH.md">
@@ -126,7 +132,7 @@ Vayu with Air protect me from this region. To him I go, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-वायुः। मा। अन्तरिक्षेण। एतस्याः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.२।
+वा॒युः। मा॒। अ॒न्तरि॑क्षेण। ए॒तस्याः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ Vayu with Air protect me from this region. To him I go, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/03_somo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमो॑ मा रु॒द्रैर्दक्षि॑णाया दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥३॥  
+सोमो॑ मा रु॒द्रैर्दक्षि॑णाया दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/03_somo_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोमो॑ मा रु॒द्रैर्दक्षि॑णाया दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+सोमो॑ मा रु॒द्रैर्दक्षि॑णाया दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/03_somo_mA.md">
@@ -183,7 +192,7 @@ May Soma from the south, with Rudras, guard me. To him, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमः। मा। रुद्रैः। दक्षिणायाः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.३।
+सोमः॑। मा॒। रु॒द्रैः। दक्षि॑णायाः। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -214,14 +223,17 @@ May Soma from the south, with Rudras, guard me. To him, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/04_varuNo_mAdityairetasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वरु॑णो मादि॒त्यैरे॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥४॥  
+वरु॑णो मादि॒त्यैरे॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/04_varuNo_mAdityairetasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वरु॑णो मादि॒त्यैरे॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+वरु॑णो मादि॒त्यैरे॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/04_varuNo_mAdityairetasyA.md">
@@ -242,7 +254,7 @@ Varuna with Adityas guard me from this region! To him etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-वरुणः। मा। आदित्यैः। एतस्याः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.४।
+वरु॑णः। मा॒। आ॒दि॒त्यैः। ए॒तस्याः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -273,14 +285,17 @@ Varuna with Adityas guard me from this region! To him etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/05_sUryo_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यो॑ मा॒ द्यावा॑पृथि॒वीभ्यां॑ प्र॒तीच्या॑ दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥५॥  
+सूर्यो॑ मा॒ द्यावा॑पृथि॒वीभ्यां॑ प्र॒तीच्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/05_sUryo_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सूर्यो॑ मा॒ द्यावा॑पृथि॒वीभ्यां॑ प्र॒तीच्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+सूर्यो॑ मा॒ द्यावा॑पृथि॒वीभ्यां॑ प्र॒तीच्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/05_sUryo_mA.md">
@@ -299,7 +314,7 @@ Surya with Earth and Heaven from the western region guard me well. To him, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-सूर्यः। मा। द्यावापृथिवीभ्याम्। प्रतीच्याः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.५।
+सूर्यः॑। मा॒। द्यावा॑पृथि॒वीभ्या॑म्। प्र॒तीच्याः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -330,15 +345,17 @@ Surya with Earth and Heaven from the western region guard me well. To him, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/06_Apo_mauShadhImatIretasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आपो॒ मौष॑धीमतीरे॒तस्या॑ दि॒शः पा॑न्तु॒ तासु॑ क्रमे॒ तासु॑ श्रये॒ तां पुरं॒ प्रैमि॑ ।  
-ता मा॑ रक्षन्तु॒ ता मा॑ गोपायन्तु॒ ताभ्य॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥६॥  
+आपो॒ मौष॑धीमतीरे॒तस्या॑ दि॒शः पा॑न्तु॒ तासु॑ क्रमे॒ तासु॑ श्रये॒ तां पुरं॒ प्रैमि॑।  
+ता मा॑ रक्षन्तु॒ ता मा॑ गोपायन्तु॒ ताभ्य॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/06_Apo_mauShadhImatIretasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आपो॒ मौष॑धीमतीरे॒तस्या॑ दि॒शः पा॑न्तु॒ तासु॑ क्रमे॒ तासु॑ श्रये॒ तां पुरं॒ प्रैमि॑ ।  
-ता मा॑ रक्षन्तु॒ ता मा॑ गोपायन्तु॒ ताभ्य॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥६॥  
+आपो॒ मौष॑धीमतीरे॒तस्या॑ दि॒शः पा॑न्तु॒ तासु॑ क्रमे॒ तासु॑ श्रये॒ तां पुरं॒ प्रैमि॑।  
+ता मा॑ रक्षन्तु॒ ता मा॑ गोपायन्तु॒ ताभ्य॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/06_Apo_mauShadhImatIretasyA.md">
@@ -357,7 +374,7 @@ May Waters joined with Plants protect me from this region. To them I go, in them
 </details>
 <details><summary>पदपाठः</summary>
 
-आपः। मा। ओषधीऽमतीः। एतस्याः। दिशः। पान्तु। तासु। क्रमे। तासु। श्रये। ताम्। पुरम्। प्र। एमि। ताः। मा। रक्षन्तु। ताः। मा। गोपायन्तु। ताभ्यः। आत्मानम्। परि। ददे। स्वाहा। १७.६।
+आपः॑। मा॒। ओष॑धीऽमतीः। ए॒तस्याः॑। दि॒शः। पा॒न्तु॒। तासु॑। क्र॒मे॒। तासु॑। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। ताः। मा॒। र॒क्ष॒न्तु॒। ताः। मा॒। गो॒पा॒य॒न्तु॒। ताभ्यः॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -388,14 +405,17 @@ May Waters joined with Plants protect me from this region. To them I go, in them
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/07_vishvakarmA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वि॒श्वक॑र्मा मा सप्तऋ॒षिभि॒रुदी॑च्या दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॑ परि॑ ददे॒ स्वाहा॑ ॥७॥  
+वि॒श्वक॑र्मा मा सप्तऋ॒षिभि॒रुदी॑च्या दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/07_vishvakarmA_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वि॒श्वक॑र्मा मा सप्तऋ॒षिभि॒रुदी॑च्या दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+वि॒श्वक॑र्मा मा सप्तऋ॒षिभि॒रुदी॑च्या दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/07_vishvakarmA_mA.md">
@@ -414,7 +434,7 @@ May Visvakarman with the Seven Rishis be my protector from the northern region. 
 </details>
 <details><summary>पदपाठः</summary>
 
-विश्वऽकर्मा। मा। सप्तऋषिऽभिः। उदीच्याः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.७।
+वि॒श्वऽक॑र्मा। मा॒। स॒प्त॒ऋ॒षिऽभिः॑। उदी॑च्याः। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -445,14 +465,17 @@ May Visvakarman with the Seven Rishis be my protector from the northern region. 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/08_indro_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्रो॑ मा म॒रुत्वा॑ने॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥८॥  
+इन्द्रो॑ मा म॒रुत्वा॑ने॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॑ प्रैमि।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/08_indro_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्रो॑ मा म॒रुत्वा॑ने॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॑ प्रैमि। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+इन्द्रो॑ मा म॒रुत्वा॑ने॒तस्या॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॑ प्रैमि।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/08_indro_mA.md">
@@ -475,7 +498,7 @@ May Indra, Marut-girt, protect me from this region. To him, etc.
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्‍द्रः। मा। मरुत्ऽवान्। एतस्याः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.८।
+इन्‍द्रः॑। मा॒। म॒रुत्ऽवा॑न्। ए॒तस्याः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -506,14 +529,17 @@ May Indra, Marut-girt, protect me from this region. To him, etc.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/09_prajApatirmA_prajananavAntsaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्र॒जाप॑तिर्मा प्र॒जन॑नवान्त्स॒ह प्र॒तिष्ठा॑या ध्रु॒वाया॑ दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥९॥  
+प्र॒जाप॑तिर्मा प्र॒जन॑नवान्त्स॒ह प्र॑ति॒ष्ठाया॑ ध्रु॒वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/09_prajApatirmA_prajananavAntsaha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्र॒जाप॑तिर्मा प्र॒जन॑नवान्त्स॒ह प्र॑ति॒ष्ठाया॑ ध्रु॒वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+प्र॒जाप॑तिर्मा प्र॒जन॑नवान्त्स॒ह प्र॑ति॒ष्ठाया॑ ध्रु॒वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/09_prajApatirmA_prajananavAntsaha.md">
@@ -543,7 +569,7 @@ Prajapati, of generative power, with the Pratishlha save me from the nadir! To h
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। मा। प्रजननऽवान्। सह। प्रतिऽस्थायाः। ध्रुवायाः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.९।
+प्र॒जाऽप॑तिः। मा॒। प्र॒जन॑नऽवान्। स॒ह। प्र॒तिऽस्था॑याः। ध्रु॒वायाः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -574,14 +600,17 @@ Prajapati, of generative power, with the Pratishlha save me from the nadir! To h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/017_suraxA/10_bRhaspatirmA_vishvairdevairUrdhvAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-बृह॒स्पति॑र्मा॒ विश्वै॑र्दे॒वैरू॒र्ध्वाया॑ दि॒शः पा॑तु॒ तस्मि॑न् क्रमे॒ तस्मिं॑छ्रये॒ तां पुरं॒ प्रैमि॑ ।  
-स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥१०॥
+बृह॒स्पति॑र्मा॒ विश्वै॑र्दे॒वैरू॒र्ध्वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/017_suraxA/10_bRhaspatirmA_vishvairdevairUrdhvAyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-बृह॒स्पति॑र्मा॒ विश्वै॑र्दे॒वैरू॒र्ध्वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑। स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+बृह॒स्पति॑र्मा॒ विश्वै॑र्दे॒वैरू॒र्ध्वाया॑ दि॒शः पा॑तु॒ तस्मि॑न्क्रमे॒ तस्मि॑ञ्छ्रये॒ तां पुरं॒ प्रैमि॑।  
+स मा॑ रक्षतु॒ स मा॑ गोपायतु॒ तस्मा॑ आ॒त्मानं॒ परि॑ ददे॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/017_suraxA/10_bRhaspatirmA_vishvairdevairUrdhvAyA.md">
@@ -604,7 +633,7 @@ Brihaspati, joined by the Visvedevas, protect me from the region of the zenith! 
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिः। मा। विश्वैः। देवैः। ऊर्ध्वायाः। दिशः। पातु। तस्मिन्। क्रमे। तस्मिन्। श्रये। ताम्। पुरम्। प्र। ‍ एमि। सः। मा। रक्षतु। सः। मा। गोपायतु। तस्मै। आत्मानम्। परि। ददे। स्वाहा। १७.१०।
+बृह॒स्पतिः॑। मा॒। विश्वैः॑। दे॒वैः। ऊ॒र्ध्वायाः॑। दि॒शः। पा॒तु॒। तस्मि॑न्। क्र॒मे॒। तस्मि॑न्। श्र॒ये॒। ताम्। पुर॑म्। प्र। ‍ ए॒मि॒। सः। मा॒। र॒क्ष॒तु॒। सः। मा॒। गो॒पा॒य॒तु॒। तस्मै॑। आ॒त्मान॑म्। परि॑। द॒दे॒। स्वाहा॑। १७.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

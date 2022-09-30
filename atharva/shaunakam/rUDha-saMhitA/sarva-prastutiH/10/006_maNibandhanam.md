@@ -36,13 +36,17 @@ The glorification of an all-powerful amulet
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/01_arAtIyorbhrAtRvyasya_durhArdo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒रा॒ती॒योर्भ्रातृ॑व्यस्य दु॒र्हार्दो॑ द्विष॒तः शिरः॑ । अपि॑ वृश्चा॒म्योज॑सा ॥१॥  
+अराती॒योर्भ्रातृ॑व्यस्य दु॒र्हार्दो॑ द्विष॒तः शिरः॑।  
+अपि॑ वृश्चा॒म्योज॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/01_arAtIyorbhrAtRvyasya_durhArdo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अराती॒योर्भ्रातृ॑व्यस्य दु॒र्हार्दो॑ द्विष॒तः शिरः॑। अपि॑ वृश्चा॒म्योज॑सा ॥
+अराती॒योर्भ्रातृ॑व्यस्य दु॒र्हार्दो॑ द्विष॒तः शिरः॑।  
+अपि॑ वृश्चा॒म्योज॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/01_arAtIyorbhrAtRvyasya_durhArdo.md">
@@ -66,7 +70,7 @@ With power I cut away the head of my malignant rival, of mine evil-hearted enemy
 </details>
 <details><summary>पदपाठः</summary>
 
-अरातिऽयोः। भ्रातृव्यस्य। दुःऽहार्दः। द्विषतः। शिरः। अपि। वृश्चामि। ओजसा। ६.१।
+अ॒रा॒ति॒ऽयोः। भ्रातृ॑व्यस्य। दुः॒ऽहार्दः॑। द्वि॒ष॒तः। शिरः॑। अपि॑। वृ॒श्चा॒मि॒। ओज॑सा। ६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +101,17 @@ With power I cut away the head of my malignant rival, of mine evil-hearted enemy
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/02_varma_mahyamayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वर्म॒ मह्य॑म॒यं म॒णिः फाला॑ज्जा॒तः क॑रिष्यति ।  
-पू॒र्णो म॒न्थेन॒ माग॑म॒द् रसे॑न स॒ह वर्च॑सा ॥२॥  
+वर्म॒ मह्य॑म॒यं म॒णिः फाला॑ज्जा॒तः क॑रिष्यति।  
+पू॒र्णो म॒न्थेन॒ माग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/02_varma_mahyamayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वर्म॒ मह्य॑म॒यं म॒णिः फाला॑ज्जा॒तः क॑रिष्यति। पू॒र्णो म॒न्थेन॒ माग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
+वर्म॒ मह्य॑म॒यं म॒णिः फाला॑ज्जा॒तः क॑रिष्यति।  
+पू॒र्णो म॒न्थेन॒ माग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/02_varma_mahyamayam.md">
@@ -126,7 +133,7 @@ This Amulet of citron-wood shall make for me a trusty shield Filled with the min
 </details>
 <details><summary>पदपाठः</summary>
 
-वर्म। मह्यम्। अयम्। मणिः। फालात्। जातः। करिष्यति। पूर्णः। मन्थेन। मा। आ। अगमत्। रसेन। सह। वर्चसा। ६.२।
+वर्म॑। मह्य॑म्। अ॒यम्। म॒णिः। फाला॑त्। जा॒तः। क॒रि॒ष्य॒ति॒। पू॒र्णः। म॒न्थेन॑। मा॒। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +164,17 @@ This Amulet of citron-wood shall make for me a trusty shield Filled with the min
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/03_yattvA_shikvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् त्वा॑ शि॒क्वः प॒राव॑धी॒त् तक्षा॒ हस्ते॑न॒ वास्या॑ ।  
-आप॑स्त्वा॒ तस्म॑ज्जीव॒लाः पु॒नन्तु॒ शुच॑यः॒ शुचि॑म्॥३॥  
+यत्त्वा॑ शि॒क्वः प॒राव॑धी॒त्तक्षा॒ हस्ते॑न॒ वास्या॑।  
+आप॑स्त्वा॒ तस्मा॑ज्जीव॒लाः पु॒नन्तु॒ शुच॑यः॒ शुचि॑म् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/03_yattvA_shikvaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्त्वा॑ शि॒क्वः प॒राव॑धी॒त्तक्षा॒ हस्ते॑न॒ वास्या॑। आप॑स्त्वा॒ तस्मा॑ज्जीव॒लाः पु॒नन्तु॒ शुच॑यः॒ शुचि॑म् ॥
+यत्त्वा॑ शि॒क्वः प॒राव॑धी॒त्तक्षा॒ हस्ते॑न॒ वास्या॑।  
+आप॑स्त्वा॒ तस्मा॑ज्जीव॒लाः पु॒नन्तु॒ शुच॑यः॒ शुचि॑म् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/03_yattvA_shikvaH.md">
@@ -189,7 +199,7 @@ What though the strong-armed carpenter have cleft thee with his hand and axe. Pu
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। त्वा। शिक्वः। पराऽअवधीत्। तक्षा। हस्तेन। वास्या। आपः। त्वा। तस्मात्। जीवलाः। पुनन्तु। शुचयः। शुचिम्। ६.३।
+यत्। त्वा॒। शि॒क्वः। प॒रा॒ऽअव॑धीत्। तक्षा॑। हस्ते॑न। वास्या॑। आपः॑। त्वा॒। तस्मा॑त्। जी॒व॒लाः। पु॒नन्तु॑। शुच॑यः। शुचि॑म्। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -220,13 +230,17 @@ What though the strong-armed carpenter have cleft thee with his hand and axe. Pu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/04_hiraNyasragayaM_maNiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यस्रग॒यं म॒णिः श्र॒द्धां य॒ज्ञं महो॒ दध॑त्। गृ॒हे व॑सतु॒ नोऽति॑थिः ॥४॥  
+हिर॑ण्यस्रग॒यं म॒णिः श्र॒द्धां य॒ज्ञं महो॒ दध॑त्।  
+गृ॒हे व॑सतु॒ नोऽति॑थिः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/04_hiraNyasragayaM_maNiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हिर॑ण्यस्रग॒यं म॒णिः श्र॒द्धां य॒ज्ञं महो॒ दध॑त्। गृ॒हे व॑सतु॒ नोऽति॑थिः ॥
+हिर॑ण्यस्रग॒यं म॒णिः श्र॒द्धां य॒ज्ञं महो॒ दध॑त्।  
+गृ॒हे व॑सतु॒ नोऽति॑थिः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/04_hiraNyasragayaM_maNiH.md">
@@ -246,7 +260,7 @@ This Amulet, decked with chain of gold, shall give faith, sacrifice, and might, 
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽस्रक्। अयम्। मणिः। श्रध्दाम्। यज्ञम्। महः। दधत्। गृहे। वसतु। नः। अतिथिः। ६.४।
+हिर॑ण्यऽस्रक्। अ॒यम्। म॒णिः। श्र॒ध्दाम्। य॒ज्ञम्। महः॑। दध॑त्। गृ॒हे। व॒स॒तु॒। नः॒। अति॑थिः। ६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -277,14 +291,17 @@ This Amulet, decked with chain of gold, shall give faith, sacrifice, and might, 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/05_tasmai_ghRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्मै॑ घृ॒तं सुरां॒ मध्वन्न॑मन्नं क्षदामहे ।  
-स नः॑ पि॒तेव॑ पु॒त्रेभ्यः॒ श्रेयः॑श्रेयश्चिकित्सतु॒ भूयो॑भूयः॒ श्वःश्वो॑ दे॒वेभ्यो॒ म॒णिरेत्य॑ ॥५॥  
+तस्मै॑ घृ॒तं सुरां॒ मध्वन्न॑मन्नं क्षदामहे।  
+स नः॑ पि॒तेव॑ पु॒त्रेभ्यः॒ श्रेयः॑ श्रेयश्चिकित्सतु॒ भूयो॑भूयः॒ श्वःश्वो॑ दे॒वेभ्यो॑ म॒णिरेत्य॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/05_tasmai_ghRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्मै॑ घृ॒तं सुरां॒ मध्वन्न॑मन्नं क्षदामहे। स नः॑ पि॒तेव॑ पु॒त्रेभ्यः॒ श्रेयः॑ श्रेयश्चिकित्सतु॒ भूयो॑भूयः॒ श्वःश्वो॑ दे॒वेभ्यो॑ म॒णिरेत्य॑ ॥
+तस्मै॑ घृ॒तं सुरां॒ मध्वन्न॑मन्नं क्षदामहे।  
+स नः॑ पि॒तेव॑ पु॒त्रेभ्यः॒ श्रेयः॑ श्रेयश्चिकित्सतु॒ भूयो॑भूयः॒ श्वःश्वो॑ दे॒वेभ्यो॑ म॒णिरेत्य॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/05_tasmai_ghRtam.md">
@@ -308,7 +325,7 @@ To this we give apportioned food, clarified butter, wine, and meath. May it prov
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्मै। घृतम्। सुराम्। मधु। अन्नम्ऽअन्नम्। क्षदामहे। सः। नः। पिताऽइव। पुत्रेभ्यः। श्रेयःऽश्रयः। चिकित्सतु। भूयःऽभूयः। ‍ श्वःऽश्वः। देवेभ्यः। मणिः। आऽइत्य। ६.५।
+तस्मै॑। घृ॒तम्। सुरा॑म्। मधु॑। अन्न॑म्ऽअन्नम्। क्ष॒दा॒म॒हे॒। सः। नः॒। पि॒ताऽइ॑व। पु॒त्रेभ्यः॑। श्रेयः॑ऽश्रयः। चि॒कि॒त्स॒तु॒। भूयः॑ऽभूयः। ‍ श्वःऽश्वः॑। दे॒वेभ्यः॑। म॒णिः। आ॒ऽइत्य॑। ६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -339,14 +356,17 @@ To this we give apportioned food, clarified butter, wine, and meath. May it prov
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/06_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से ।  
-तम॒ग्निः प्रत्य॑मुञ्चत॒ सो अ॑स्मै दुह॒ आज्यं॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥६॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तम॒ग्निः प्रत्य॑मुञ्चत॒ सो अ॑स्मै दुह॒ आज्यं॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/06_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से। तम॒ग्निः प्रत्य॑मुञ्चत॒ सो अ॑स्मै दुह॒ आज्यं॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तम॒ग्निः प्रत्य॑मुञ्चत॒ सो अ॑स्मै दुह॒ आज्यं॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/06_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
@@ -372,7 +392,7 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। अग्निः। प्रति। अमुञ्चत। सः। अस्मै। दुहे। आज्यम्। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.६।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। म॒णिम्। फाल॑म्। घृ॒त॒ऽश्चुत॑म्। उ॒ग्रम्। ख॒दि॒रम्। ओज॑से। तम्। अ॒ग्निः। प्रति॑। अ॒मु॒ञ्च॒त॒। सः। अ॒स्मै॒। दु॒हे॒। आज्य॑म्। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -403,15 +423,19 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/07_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से ।  
-तमिन्द्रः॒ प्रत्य॑मुञ्च॒तौज॑से वी॒र्याऽय॒ कम्।  
-सो अ॑स्मै॒ बल॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥७॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तमिन्द्रः॒ प्रत्य॑मुञ्च॒तौज॑से वी॒र्या᳡य॒ कम्।  
+सो अ॑स्मै॒ बल॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/07_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से। तमिन्द्रः॒ प्रत्य॑मुञ्च॒तौज॑से वी॒र्या᳡य॒ कम्। सो अ॑स्मै॒ बल॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तमिन्द्रः॒ प्रत्य॑मुञ्च॒तौज॑से वी॒र्या᳡य॒ कम्।  
+सो अ॑स्मै॒ बल॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/07_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
@@ -430,7 +454,7 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। इन्द्रः। प्रति। अमुञ्चत। ओजसे। वीर्या᳡य। कम्। सः। अस्मै। बलम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.७।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। म॒णिम्। फाल॑म्। घृ॒त॒ऽश्चुत॑म्। उ॒ग्रम्। ख॒दि॒रम्। ओज॑से। तम्। इन्द्रः॑। प्रति॑। अ॒मु॒ञ्च॒त॒। ओज॑से। वी॒र्या᳡य। कम्। सः। अ॒स्मै॒। बल॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -461,15 +485,19 @@ The Charm Brihaspati hath bound, the fatness-dropping citron- wood, the potent K
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/08_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से ।  
-तं सोमः॒ प्रत्य॑मुञ्चत म॒हे श्रोत्रा॑य॒ चक्ष॑से ।  
-सो अ॑स्मै॒ वर्च॒ इद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥८॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तं सोमः॒ प्रत्य॑मुञ्चत म॒हे श्रोत्रा॑य॒ चक्ष॑से।  
+सो अ॑स्मै॒ वर्च॒ इद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/08_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से। तं सोमः॒ प्रत्य॑मुञ्चत म॒हे श्रोत्रा॑य॒ चक्ष॑से। सो अ॑स्मै॒ वर्च॒ इद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तं सोमः॒ प्रत्य॑मुञ्चत म॒हे श्रोत्रा॑य॒ चक्ष॑से।  
+सो अ॑स्मै॒ वर्च॒ इद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/08_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
@@ -489,7 +517,7 @@ The Charin Brihaspati, etc. This Charm hath Soma put on him for might, for heari
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। सोमः। प्रति। अमुञ्चत। महे। श्रोत्राय। चक्षसे। सः। अस्मै। वर्चः। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.८।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। म॒णिम्। फाल॑म्। घृ॒त॒ऽश्चुत॑म्। उ॒ग्रम्। ख॒दि॒रम्। ओज॑से। तम्। सोमः॑। प्रति॑। अ॒मु॒ञ्च॒त॒। म॒हे। श्रोत्रा॑य। चक्ष॑से। सः। अ॒स्मै॒। वर्चः॑। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -520,15 +548,19 @@ The Charin Brihaspati, etc. This Charm hath Soma put on him for might, for heari
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/09_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से ।  
-तं सूर्यः॒ प्रत्य॑मुञ्चत॒ तेने॒मा अ॑जय॒द् दिशः॑ ।  
-सो अ॑स्मै॒ भूति॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥९॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तं सूर्यः॒ प्रत्य॑मुञ्चत॒ तेने॒मा अ॑जय॒द्दिशः॑।  
+सो अ॑स्मै॒ भूति॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/09_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से। तं सूर्यः॒ प्रत्य॑मुञ्चत॒ तेने॒मा अ॑जय॒द्दिशः॑। सो अ॑स्मै॒ भूति॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+तं सूर्यः॒ प्रत्य॑मुञ्चत॒ तेने॒मा अ॑जय॒द्दिशः॑।  
+सो अ॑स्मै॒ भूति॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/09_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
@@ -551,7 +583,7 @@ The Charm Brihaspati, etc. This Surya put on him, with this conquered the region
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। सूर्यः। प्रति। अमुञ्चत। तेन। इमाः। अजयत्। दिशः। सः। अस्मै। भूतिम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.९।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। म॒णिम्। फाल॑म्। घृ॒त॒ऽश्चुत॑म्। उ॒ग्रम्। ख॒दि॒रम्। ओज॑से। तम्। सूर्यः॑। प्रति॑। अ॒मु॒ञ्च॒त॒। तेन॑। इ॒माः। अ॒ज॒य॒त्। दिशः॑। सः। अ॒स्मै॒। भूति॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -582,15 +614,19 @@ The Charm Brihaspati, etc. This Surya put on him, with this conquered the region
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/10_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से ।  
-तं बिभ्र॑च्च॒न्द्रमा॑ म॒णिमसु॑राणां॒ पुरो॑ऽजयद् दान॒वानां॑ हिर॒ण्ययीः॑ ।  
-सो अ॑स्मै॒ श्रिय॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वः॒श्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१०॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+त बिभ्र॑च्च॒न्द्रमा॑ म॒णिमसु॑राणां॒ पुरो॑ऽजयद्दान॒वानां॑ हिर॒ण्ययीः॑।  
+सो अ॑स्मै॒ श्रिय॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/10_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से। त बिभ्र॑च्च॒न्द्रमा॑ म॒णिमसु॑राणां॒ पुरो॑ऽजयद्दान॒वानां॑ हिर॒ण्ययीः॑। सो अ॑स्मै॒ श्रिय॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्म॒णिं फालं॑ घृत॒श्चुत॑मु॒ग्रं ख॑दि॒रमोज॑से।  
+त बिभ्र॑च्च॒न्द्रमा॑ म॒णिमसु॑राणां॒ पुरो॑ऽजयद्दान॒वानां॑ हिर॒ण्ययीः॑।  
+सो अ॑स्मै॒ श्रिय॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/10_yamabadhnAdbRhaspatirmaNiM_phAlam.md">
@@ -611,7 +647,7 @@ The Charm Brihaspati, etc. This Charm did Chandra wear, with this conquered the 
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। मणिम्। फालम्। घृतऽश्चुतम्। उग्रम्। खदिरम्। ओजसे। तम्। बिभ्रत्। चन्द्रमाः। मणिम्। असुराणाम्। पुरः। अजयत्। दानवानाम्। हिरण्ययीः। सः। अस्मै। श्रियम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१०।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। म॒णिम्। फाल॑म्। घृ॒त॒ऽश्चुत॑म्। उ॒ग्रम्। ख॒दि॒रम्। ओज॑से। तम्। बिभ्र॑त्। च॒न्द्रमाः॑। म॒णिम्। असु॑राणाम्। पुरः॑। अ॒ज॒य॒त्। दा॒न॒वाना॑म्। हि॒र॒ण्ययीः॑। सः। अ॒स्मै॒। श्रिय॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -642,14 +678,17 @@ The Charm Brihaspati, etc. This Charm did Chandra wear, with this conquered the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/11_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-सो अ॑स्मै वा॒जिन॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥११॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+सो अ॑स्मै वा॒जिन॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/11_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। सो अ॑स्मै वा॒जिन॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+सो अ॑स्मै वा॒जिन॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/11_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -677,7 +716,7 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। सः। अस्मै। वाजिनम्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.११।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। सः। अ॒स्मै॒। वा॒जिन॑म्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -708,14 +747,19 @@ The Amulet Brihaspati bound on the swiftly-moving Wind. This yieldeth him a vigo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/12_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ । तेने॒मां म॒णिना॑ कृ॒षिम॒श्विना॑व॒भि र॑क्षतः ।  
-स भि॒षग्भ्यां॒ महो॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१२॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तेने॒मां म॒णिना॑ कृ॒षिम॒श्विना॑व॒भि र॑क्षतः।  
+स भि॒षग्भ्यां॒ महो॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/12_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। तेने॒मां म॒णिना॑ कृ॒षिम॒श्विना॑व॒भि र॑क्षतः। स भि॒षग्भ्यां॒ महो॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तेने॒मां म॒णिना॑ कृ॒षिम॒श्विना॑व॒भि र॑क्षतः।  
+स भि॒षग्भ्यां॒ महो॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/12_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -735,7 +779,7 @@ The Asvins with this Amulet protect this culture of our fields. This yields the 
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तेन। इमाम्। मणिना। कृषिम्। अश्विनौ। अभि। रक्षतः। सः। भिषक्ऽभ्याम्। महः। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१२।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तेन॑। इ॒माम्। म॒णिना॑। कृ॒षिम्। अ॒श्विनौ॑। अ॒भि। र॒क्ष॒तः॒। सः। भि॒षक्ऽभ्या॑म्। महः॑। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -766,15 +810,19 @@ The Asvins with this Amulet protect this culture of our fields. This yields the 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/13_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तं बिभ्र॑त् सवि॒ता म॒णिं तेने॒दम॑जय॒त् स्वः ।  
-सो अ॑स्मै सू॒नृतां॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१३॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तं बिभ्र॑त्सवि॒ता म॒णिं तेने॒दम॑जय॒त्स्वः᳡।  
+सो अ॑स्मै सू॒नृतां॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/13_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। तं बिभ्र॑त्सवि॒ता म॒णिं तेने॒दम॑जय॒त्स्वः᳡। सो अ॑स्मै सू॒नृतां॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तं बिभ्र॑त्सवि॒ता म॒णिं तेने॒दम॑जय॒त्स्वः᳡।  
+सो अ॑स्मै सू॒नृतां॑ दुहे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/13_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -794,7 +842,7 @@ Savitar wore this Amulet: herewith he won this lucid heaven. This yields him glo
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। बिभ्रत्। सविता। मणिम्। तेन। इदम्। अजयत्। स्वः᳡। सः। अस्मै। सूनृताय। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१३।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। बिभ्र॑त्। स॒वि॒ता। म॒णिम्। तेन॑। इ॒दम्। अ॒ज॒य॒त्। स्वः᳡। सः। अ॒स्मै॒। सू॒नृता॑य। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -825,15 +873,19 @@ Savitar wore this Amulet: herewith he won this lucid heaven. This yields him glo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/14_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तमापो॒ बिभ्र॑तीर्म॒णिं सदा॑ धाव॒न्त्यक्षि॑ताः ।  
-स आ॑भ्यो॒ऽमृत॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१४॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तमापो॒ बिभ्र॑तीर्म॒णिं सदा॑ धाव॒न्त्यक्षि॑ताः।  
+स आ॑भ्यो॒ऽमृत॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/14_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। तमापो॒ बिभ्र॑तीर्म॒णिं सदा॑ धाव॒न्त्यक्षि॑ताः। स आ॑भ्यो॒ऽमृत॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तमापो॒ बिभ्र॑तीर्म॒णिं सदा॑ धाव॒न्त्यक्षि॑ताः।  
+स आ॑भ्यो॒ऽमृत॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/14_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -853,7 +905,7 @@ Wearing this Charm the Waters flow eternally inviolate. This yieldeth them ambro
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। आपः। बिभ्रतीः। मणिम्। सदा। धावन्ति। अक्षिताः। सः। आभ्यः। अमृतम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१४।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। आपः॑। बिभ्र॑तीः। म॒णिम्। सदा॑। धा॒व॒न्ति॒। अक्षि॑ताः। सः। आ॒भ्यः॒। अ॒मृत॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -884,14 +936,19 @@ Wearing this Charm the Waters flow eternally inviolate. This yieldeth them ambro
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/15_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।तं राजा॒ वरु॑णो म॒णिं प्रत्य॑मुञ्चत शं॒भुव॑म्।  
-सो अ॑स्मै स॒त्यमिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१५॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तं राजा॒ वरु॑णो म॒णिं प्रत्य॑मुञ्चत शं॒भुव॑म्।  
+सो अ॑स्मै स॒त्यमिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/15_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। तं राजा॒ वरु॑णो म॒णिं प्रत्य॑मुञ्चत शं॒भुव॑म्। सो अ॑स्मै स॒त्यमिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तं राजा॒ वरु॑णो म॒णिं प्रत्य॑मुञ्चत शं॒भुव॑म्।  
+सो अ॑स्मै स॒त्यमिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/15_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -911,7 +968,7 @@ King Varuna assumed and wore this salutary Amulet. This yieldeth him his truthfu
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। राजा। वरुणः। मणिम्। प्रति। अमुञ्चत। शम्ऽभुवम्। सः। अस्मै। सत्यम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१५।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। राजा॑। वरु॑णः। म॒णिम्। प्रति॑। अ॒मु॒ञ्च॒त॒। श॒म्ऽभुव॑म्। सः। अ॒स्मै॒। स॒त्यम्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -942,15 +999,19 @@ King Varuna assumed and wore this salutary Amulet. This yieldeth him his truthfu
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/16_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तं दे॒वा बिभ्र॑तो म॒णिं सर्वां॑ल्लो॒कान् यु॒धाज॑यन्।  
-स ए॑भ्यो॒ जिति॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१६॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तं दे॒वा बिभ्र॑तो म॒णिं सर्वां॑ल्लो॒कान्यु॒धाज॑यन्।  
+स ए॑भ्यो॒ जिति॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/16_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। तं दे॒वा बिभ्र॑तो म॒णिं सर्वां॑ल्लो॒कान्यु॒धाज॑यन्। स ए॑भ्यो॒ जिति॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तं दे॒वा बिभ्र॑तो म॒णिं सर्वां॑ल्लो॒कान्यु॒धाज॑यन्।  
+स ए॑भ्यो॒ जिति॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/16_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -972,7 +1033,7 @@ Wearing this Amulet the Gods conquered in battle all the worlds. This yieldeth v
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। देवाः। बिभ्रतः। मणिम्। सर्वान्। लोकान्। युधा। अजयन्। सः। एभ्यः। जितिम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१६।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। देवाः। बिभ्र॑तः। म॒णिम्। सर्वा॑न्। लो॒कान्। यु॒धा। अ॒ज॒य॒न्। सः। ए॒भ्यः॒। जिति॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1003,15 +1064,19 @@ Wearing this Amulet the Gods conquered in battle all the worlds. This yieldeth v
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/17_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑ ।  
-तमि॒मं दे॒वता॑ म॒णिं प्रत्य॑मुञ्चन्त शं॒भुव॑म्।  
-स आ॑भ्यो॒ विश्व॒मिद् दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥१७॥  
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तमि॒मं दे॒वता॑ म॒णिं प्रत्य॑मुञ्चन्त श॒म्भुव॑म्।  
+स आ॑भ्यो॒ विश्व॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/17_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑। तमि॒मं दे॒वता॑ म॒णिं प्रत्य॑मुञ्चन्त श॒म्भुव॑म्। स आ॑भ्यो॒ विश्व॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+यमब॑ध्ना॒द्बृह॒स्पति॒र्वाता॑य म॒णिमा॒शवे॑।  
+तमि॒मं दे॒वता॑ म॒णिं प्रत्य॑मुञ्चन्त श॒म्भुव॑म्।  
+स आ॑भ्यो॒ विश्व॒मिद्दु॑हे॒ भूयो॑भूयः॒ श्वःश्व॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/17_yamabadhnAdbRhaspatirvAtAya_maNimAshave.md">
@@ -1035,7 +1100,7 @@ The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet t
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। वाताय। मणिम्। आशवे। तम्। इमम्। देवताः। मणिम्। प्रति। अमुञ्चन्त। शम्ऽभुवम्। सः। आभ्यः। विश्वम्। इत्। दुहे। भूयःऽभूयः। श्वःऽश्वः। तेन। त्वम्। द्विषतः। जहि। ६.१७।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। वाता॑य। म॒णिम्। आ॒शवे॑। तम्। इ॒मम्। दे॒वताः॑। म॒णिम्। प्रति॑। अ॒मु॒ञ्च॒न्त॒। श॒म्ऽभुव॑म्। सः। आ॒भ्यः॒। विश्व॑म्। इत्। दु॒हे॒। भूयः॑ऽभूयः। श्वःऽश्वः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.१७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1066,13 +1131,17 @@ The Amulet Brihaspati formed for the swiftly-moving Wind, This salutary Amulet t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/18_RtavastamabadhnatArtavAstamabadhnata_saMvatsara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ऋ॒तव॒स्तम॑बध्नतार्त॒वास्तम॑बध्नत । सं॒व॒त्स॒रस्तं ब॒द्ध्वा सर्वं॑ भू॒तं वि र॑क्षति ॥१८॥  
+ऋ॒तव॒स्तम॑बध्नतार्त॒वास्तम॑बध्नत।  
+सं॑वत्स॒रस्तं ब॒द्ध्वा सर्वं॑ भू॒तं वि र॑क्षति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/18_RtavastamabadhnatArtavAstamabadhnata_saMvatsara.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तव॒स्तम॑बध्नतार्त॒वास्तम॑बध्नत। सं॑वत्स॒रस्तं ब॒द्ध्वा सर्वं॑ भू॒तं वि र॑क्षति ॥
+ऋ॒तव॒स्तम॑बध्नतार्त॒वास्तम॑बध्नत।  
+सं॑वत्स॒रस्तं ब॒द्ध्वा सर्वं॑ भू॒तं वि र॑क्षति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/18_RtavastamabadhnatArtavAstamabadhnata_saMvatsara.md">
@@ -1092,7 +1161,7 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतवः। तम्। अबध्नत। आर्तवाः। तम्। अबध्नत। सम्ऽवत्सरः। तम्। बध्द्वा। सर्वम्। भूतम्। वि। रक्षति। ६.१८।
+ऋ॒तवः॑। तम्। अ॒ब॒ध्न॒त॒। आ॒र्त॒वाः। तम्। अ॒ब॒ध्न॒त॒। स॒म्ऽव॒त्स॒रः। तम्। ब॒ध्द्वा। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। ६.१८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1123,14 +1192,17 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/19_antardeshA_abadhnata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्त॒र्दे॒शा अ॑बध्नत प्र॒दिश॒स्तम॑बध्नत ।  
-प्र॒जाप॑तिसृष्टो म॒णिर्द्वि॑ष॒तो मेऽध॑राँ अकः ॥१९॥  
+अ॑न्तर्दे॒शा अ॑बध्नत प्र॒दिश॒स्तम॑बध्नत।  
+प्र॒जाप॑तिसृष्टो म॒णिर्द्वि॑ष॒तो मेऽध॑राँ अकः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/19_antardeshA_abadhnata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑न्तर्दे॒शा अ॑बध्नत प्र॒दिश॒स्तम॑बध्नत। प्र॒जाप॑तिसृष्टो म॒णिर्द्वि॑ष॒तो मेऽध॑राँ अकः ॥
+अ॑न्तर्दे॒शा अ॑बध्नत प्र॒दिश॒स्तम॑बध्नत।  
+प्र॒जाप॑तिसृष्टो म॒णिर्द्वि॑ष॒तो मेऽध॑राँ अकः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/19_antardeshA_abadhnata.md">
@@ -1149,7 +1221,7 @@ The regions of the heaven, the points that lie between them fashioned it. Create
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तःऽदेशाः। अबध्नत। प्रऽदिशः। तम्। अबध्नत। प्रजापतिऽसृष्टः। मणिः। द्विषतः। मे। अधरान्। अकः। ६.१९।
+अ॒न्तः॒ऽदे॒शाः। अ॒ब॒ध्न॒त॒। प्र॒ऽदिशः॑। तम्। अ॒ब॒ध्न॒त॒। प्र॒जाप॑तिऽसृष्टः। म॒णिः। द्वि॒ष॒तः। मे॒। अध॑रान्। अ॒कः॒। ६.१९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1180,14 +1252,17 @@ The regions of the heaven, the points that lie between them fashioned it. Create
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/20_atharvANo_abadhnatAtharvaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अथ॑र्वाणो अबध्नताथर्व॒णा अ॑बध्नत ।  
-तौर्मे॒दिनो॒ अङ्गि॑रसो॒ दस्यू॑नां बिभिदुः॒ पुर॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥२०॥  
+अथ॑र्वाणो अबध्नताथर्व॒णा अ॑बध्नत।  
+तैर्मे॒दिनो॒ अङ्गि॑रसो॒ दस्यू॑नां बिभिदुः॒ पुर॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/20_atharvANo_abadhnatAtharvaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अथ॑र्वाणो अबध्नताथर्व॒णा अ॑बध्नत। तैर्मे॒दिनो॒ अङ्गि॑रसो॒ दस्यू॑नां बिभिदुः॒ पुर॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+अथ॑र्वाणो अबध्नताथर्व॒णा अ॑बध्नत।  
+तैर्मे॒दिनो॒ अङ्गि॑रसो॒ दस्यू॑नां बिभिदुः॒ पुर॒स्तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/20_atharvANo_abadhnatAtharvaNA.md">
@@ -1207,7 +1282,7 @@ Atharvan made the Amulet, Atharvan's children fashioned it. With them the sage A
 </details>
 <details><summary>पदपाठः</summary>
 
-अथर्वाणः। अबध्नत। आथर्वणाः। अबध्नत। तैः। मेदिनः। अङ्गिरसः। दस्यूनाम्। बिभिदुः। पुरः। तेन। त्वम्। द्विषतः। जहि। ६.२०।
+अथ॑र्वाणः। अ॒ब॒ध्न॒त॒। आ॒थ॒र्व॒णाः। अ॒ब॒ध्न॒त॒। तैः। मे॒दिनः॑। अङ्गि॑रसः। दस्यू॑नाम्। बि॒भि॒दुः॒। पुरः॑। तेन॑। त्वम्। द्वि॒ष॒तः। ज॒हि॒। ६.२०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1238,14 +1313,17 @@ Atharvan made the Amulet, Atharvan's children fashioned it. With them the sage A
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/21_taM_dhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तं धा॒ता प्रत्य॑मुञ्चत॒ स भू॒तं व्यऽकल्पयत्।  
-तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥२१॥  
+तं धा॒ता प्रत्य॑मुञ्चत॒ स भू॒तं व्य᳡कल्पयत्।  
+तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/21_taM_dhAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तं धा॒ता प्रत्य॑मुञ्चत॒ स भू॒तं व्य᳡कल्पयत्। तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+तं धा॒ता प्रत्य॑मुञ्चत॒ स भू॒तं व्य᳡कल्पयत्।  
+तेन॒ त्वं द्वि॑ष॒तो ज॑हि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/21_taM_dhAtA.md">
@@ -1265,7 +1343,7 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 </details>
 <details><summary>पदपाठः</summary>
 
-तम्। धाता। प्रति। अमुञ्चत। सः। भूतम्। वि। अकल्पयत्। तेन। त्वम्। द्व‍िषतः। जहि। ६.२१।
+तम्। धा॒ता। प्रति॑। अ॒मु॒ञ्च॒त॒। सः। भू॒तम्। वि। अ॒क॒ल्प॒य॒त्। तेन॑। त्वम्। द्व‍ि॒ष॒तः। ज॒हि॒। ६.२१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1296,14 +1374,17 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/22_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑म॒द् रसे॑न स॒ह वर्च॑सा ॥२२॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/22_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒द्रसे॑न स॒ह वर्च॑सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/22_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1330,7 +1411,7 @@ The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet her
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। रसेन। सह। वर्चसा। ६.२२।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1361,14 +1442,17 @@ The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet her
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/23_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑मत् स॒ह गोभि॑रजा॒विभि॒रन्ने॑न प्र॒जया॑ स॒ह॥२३॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मत्स॒ह गोभि॑रजा॒विभि॒रन्ने॑न प्र॒जया॑ स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/23_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑मत्स॒ह गोभि॑रजा॒विभि॒रन्ने॑न प्र॒जया॑ स॒ह ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मत्स॒ह गोभि॑रजा॒विभि॒रन्ने॑न प्र॒जया॑ स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/23_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1387,7 +1471,7 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। गोभिः। अजाविऽभिः। अन्नेन। प्रऽजया। सह। ६.२३।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। स॒ह। गोभिः॑। अ॒जा॒विऽभिः॑। अन्ने॑न। प्र॒ऽजया॑। स॒ह। ६.२३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1418,14 +1502,17 @@ The Amulet, etc. That Amulet here hath come to me, hath come with cows, and goat
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/24_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑मत् स॒ह व्री॑हिय॒वाभ्यां॒ मह॑सा॒ भूत्या॑ स॒ह॥२४॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मत्स॒ह व्री॑हिय॒वाभ्यां॒ मह॑सा॒ भूत्या॑ स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/24_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑मत्स॒ह व्री॑हिय॒वाभ्यां॒ मह॑सा॒ भूत्या॑ स॒ह ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मत्स॒ह व्री॑हिय॒वाभ्यां॒ मह॑सा॒ भूत्या॑ स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/24_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1444,7 +1531,7 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सह। व्रीहिऽयवाभ्याम्। महसा। भूत्या। सह। ६.२४।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। स॒ह। व्री॒हि॒ऽय॒वाभ्या॑म्। मह॑सा। भूत्या॑। स॒ह। ६.२४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1475,14 +1562,17 @@ The Amulet, etc. That Amulet here hath come to me with store of barley and of ri
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/25_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑म॒न्मधो॑र्घृ॒तस्य॒ धार॑या की॒लाले॑न म॒णिः स॒ह॥२५॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒न्मधो॑र्घृ॒तस्य॒ धार॑या की॒लाले॑न म॒णिः स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/25_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑म॒न्मधो॑र्घृ॒तस्य॒ धार॑या की॒लाले॑न म॒णिः स॒ह ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒न्मधो॑र्घृ॒तस्य॒ धार॑या की॒लाले॑न म॒णिः स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/25_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1501,7 +1591,7 @@ The Amulet, etc. That Amulet here hath come to me with streams of butter and of 
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। मधोः। घृतस्‍य। धारया। कीलालेन। मणिः। सह। ६.२५।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। मधोः॑। घृ॒तस्‍य॑। धार॑या। की॒लाले॑न। म॒णिः। स॒ह। ६.२५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1532,14 +1622,17 @@ The Amulet, etc. That Amulet here hath come to me with streams of butter and of 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/26_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॑ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑मदू॒र्जया॒ पय॑सा स॒ह द्रवि॑णेन श्रि॒या स॒ह॥२६॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मदू॒र्जया॒ पय॑सा स॒ह द्रवि॑णेन श्रि॒या स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/26_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑मदू॒र्जया॒ पय॑सा स॒ह द्रवि॑णेन श्रि॒या स॒ह ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑मदू॒र्जया॒ पय॑सा स॒ह द्रवि॑णेन श्रि॒या स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/26_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1558,7 +1651,7 @@ The Amulet, etc. That Amulet here hath come to me with power and abundant streng
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। ऊर्जया। पयसा। सह। द्रविणेन। श्रिया। सह। ६.२६।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। ऊ॒र्जया॑। पय॑सा। स॒ह। द्रवि॑णेन। श्रि॒या। स॒ह। ६.२६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1589,14 +1682,17 @@ The Amulet, etc. That Amulet here hath come to me with power and abundant streng
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/27_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॑ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑म॒त् तेज॑सा॒ त्विष्या॑ स॒ह यश॑सा की॒र्त्याऽ स॒ह॥२७॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒त्तेज॑सा॒ त्विष्या॑ स॒ह यश॑सा की॒र्त्या᳡ स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/27_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑म॒त्तेज॑सा॒ त्विष्या॑ स॒ह यश॑सा की॒र्त्या᳡ स॒ह ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒त्तेज॑सा॒ त्विष्या॑ स॒ह यश॑सा की॒र्त्या᳡ स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/27_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1619,7 +1715,7 @@ The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। तेजसा। त्विष्या। सह। यशसा। कीर्त्या᳡। सह। ६.२७।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। तेज॑सा। त्विष्या॑। स॒ह। यश॑सा। की॒र्त्या᳡। स॒ह। ६.२७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1650,14 +1746,17 @@ The Amulet, etc.. That Amulet here hath come to me with splendour and a blaze of
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/28_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यमब॑ध्ना॒द् बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
-स मा॒यं म॒णिराग॑मत् सर्वा॑भि॒र्भूति॑भिः स॒ह॥२८॥  
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒त्सर्वा॑भि॒र्भूति॑भिः स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/28_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्। स मा॒यं म॒णिराग॑म॒त्सर्वा॑भि॒र्भूति॑भिः स॒ह ॥
+यमब॑ध्ना॒द्बृह॒स्पति॑र्दे॒वेभ्यो॒ असु॑रक्षितिम्।  
+स मा॒यं म॒णिराग॑म॒त्सर्वा॑भि॒र्भूति॑भिः स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/28_yamabadhnAdbRhaspatirdevebhyo_asuraxitim.md">
@@ -1676,7 +1775,7 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सर्वाभिः। भूतिःऽभिः। सह। ६.२८।
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। सर्वा॑भिः। भूतिः॑ऽभिः। स॒ह। ६.२८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1707,14 +1806,17 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/29_tamimaM_devatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तमि॒मं दे॒वता॑ म॒णिं मह्यं॑ ददतु॒ पुष्ट॑ये ।  
-अ॒भि॒भुं क्ष॑त्र॒वर्ध॑नं सपत्न॒दम्भ॑नं म॒णिम्॥२९॥  
+तमि॒मं दे॒वता॑ म॒णिं मह्यं॑ ददतु॒ पुष्ट॑ये।  
+अ॑भि॒भुं क्ष॑त्र॒वर्ध॑नं सपत्न॒दम्भ॑नं म॒णिम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/29_tamimaM_devatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तमि॒मं दे॒वता॑ म॒णिं मह्यं॑ ददतु॒ पुष्ट॑ये। अ॑भि॒भुं क्ष॑त्र॒वर्ध॑नं सपत्न॒दम्भ॑नं म॒णिम् ॥
+तमि॒मं दे॒वता॑ म॒णिं मह्यं॑ ददतु॒ पुष्ट॑ये।  
+अ॑भि॒भुं क्ष॑त्र॒वर्ध॑नं सपत्न॒दम्भ॑नं म॒णिम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/29_tamimaM_devatA.md">
@@ -1736,7 +1838,7 @@ That Amulet may the Deities bestow on me to win success, The conquering, strengt
 </details>
 <details><summary>पदपाठः</summary>
 
-तम्। इमम्। देवताः। मणिम्। मह्यम्। ददतु। पुष्टये। अभिऽभुम्। क्षत्रऽवर्धनम्। सपत्नऽदम्भनम्। मणिम्। ६.२९।
+तम्। इ॒मम्। दे॒वताः॑। म॒णिम्। मह्य॑म्। द॒द॒तु॒। पुष्ट॑ये। अ॒भि॒ऽभुम्। क्ष॒त्र॒ऽवर्ध॑नम्। स॒प॒त्न॒ऽदम्भ॑नम्। म॒णिम्। ६.२९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1768,13 +1870,16 @@ That Amulet may the Deities bestow on me to win success, The conquering, strengt
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॑णा॒ तेज॑सा स॒ह प्रति॑ मुञ्चामि मे शि॒वम्।  
-अ॒स॒प॒त्नः स॑पत्न॒हा स॒पत्ना॒न् मेऽध॑रां अकः ॥३०॥  
+अ॑सप॒त्नः स॑पत्न॒हा स॒पत्ना॒न्मेऽध॑राँ अकः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/30_brahmaNA_tejasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ब्रह्म॑णा॒ तेज॑सा स॒ह प्रति॑ मुञ्चामि मे शि॒वम्। अ॑सप॒त्नः स॑पत्न॒हा स॒पत्ना॒न्मेऽध॑राँ अकः ॥
+ब्रह्म॑णा॒ तेज॑सा स॒ह प्रति॑ मुञ्चामि मे शि॒वम्।  
+अ॑सप॒त्नः स॑पत्न॒हा स॒पत्ना॒न्मेऽध॑राँ अकः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/30_brahmaNA_tejasA.md">
@@ -1797,7 +1902,7 @@ I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रह्मणा। तेजसा। सह। प्रति। मुञ्चामि। मे। शिवम्। असपत्नः। सपत्नऽहा। सऽपत्नान्। मे। अधरान्। अक। ६.३०।
+ब्रह्म॑णा। तेज॑सा। स॒ह। प्रति॑। मु॒ञ्चा॒मि॒। मे॒। शि॒वम्। अ॒स॒प॒त्नः। स॒प॒त्न॒ऽहा। स॒ऽपत्ना॑न्। मे॒। अध॑रान्। अ॒क॒। ६.३०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1828,15 +1933,19 @@ I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/31_uttaraM_dviShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उत्त॑रं द्विष॒तो माम॒यं म॒णिः कृ॑णोतु देव॒जाः ।  
-यस्य॑ लो॒का इ॒मे त्रयः॒ पयो॑ दु॒ग्धमु॒पास॑ते ।  
-स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥३१॥  
+उत्त॑रं द्विष॒तो माम॒यं म॒णिः कृ॑णोतु देव॒जाः।  
+यस्य॑ लो॒का इ॒मे त्रयः॒ पयो॑ दु॒ग्धमु॒पास॑ते।  
+स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/31_uttaraM_dviShato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उत्त॑रं द्विष॒तो माम॒यं म॒णिः कृ॑णोतु देव॒जाः। यस्य॑ लो॒का इ॒मे त्रयः॒ पयो॑ दु॒ग्धमु॒पास॑ते। स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
+उत्त॑रं द्विष॒तो माम॒यं म॒णिः कृ॑णोतु देव॒जाः।  
+यस्य॑ लो॒का इ॒मे त्रयः॒ पयो॑ दु॒ग्धमु॒पास॑ते।  
+स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/31_uttaraM_dviShato.md">
@@ -1862,7 +1971,7 @@ May this Chaim, offspring of the Gods, make me superior to my foe. So may this c
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्ऽतरम्। द्विषतः। माम्। अयम्। मणिः। कृणोतु। देवऽजाः। यस्य। लोकाः। इमे। त्रयः। पयः। दुग्धम्। उपऽआसते। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३१।
+उत्ऽत॑रम्। द्वि॒ष॒तः। माम्। अ॒यम्। म॒णिः। कृ॒णो॒तु॒। दे॒व॒ऽजाः। यस्य॑। लो॒काः। इ॒मे। त्रयः॑। पयः॑। दु॒ग्धम्। उ॒प॒ऽआस॑ते। सः। मा॒। अ॒यम्। अधि॑। रो॒ह॒तु॒। म॒णिः। श्रैष्ठ्या॑य। मू॒र्ध॒तः। ६.३१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1893,14 +2002,17 @@ May this Chaim, offspring of the Gods, make me superior to my foe. So may this c
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/32_yaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यं दे॒वाः पि॒तरो॑ मनु॒ष्याऽ उप॒जीव॑न्ति सर्व॒दा।  
-स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥३२॥  
+यं दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ उप॒जीव॑न्ति सर्व॒दा।  
+स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/32_yaM_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यं दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ उप॒जीव॑न्ति सर्व॒दा। स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
+यं दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ उप॒जीव॑न्ति सर्व॒दा।  
+स मा॒यमधि॑ रोहतु म॒णिः श्रैष्ठ्या॑य मूर्ध॒तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/32_yaM_devAH.md">
@@ -1920,7 +2032,7 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 </details>
 <details><summary>पदपाठः</summary>
 
-यम्। देवाः। पितरः। मनुष्याः᳡। उपऽजीवन्ति। सर्वदा। सः। मा। अयम्। अधि। रोहतु। मणिः। श्रैष्ठ्याय। मूर्धतः। ६.३२।
+यम्। दे॒वाः। पि॒तरः॑। म॒नु॒ष्याः᳡। उ॒प॒ऽजीव॑न्ति। स॒र्व॒दा। सः। मा॒। अ॒यम्। अधि॑। रो॒ह॒तु॒। म॒णिः। श्रैष्ठ्या॑य। मू॒र्ध॒तः। ६.३२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -1951,14 +2063,17 @@ The Charm to which men, Fathers, Gods look ever for their maintenance, May this 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/33_yathA_bIjamurvarAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ बीज॑मु॒र्वरा॑यां कृ॒ष्टे फाले॑न॒ रोह॑ति ।  
-ए॒वा मयि॑ प्र॒जा प॒शवोऽन्न॑मन्नं॒ वि रो॑हतु ॥३३॥  
+यथा॒ बीज॑मु॒र्वरा॑यां कृ॒ष्टे फाले॑न॒ रोह॑ति।  
+ए॒वा मयि॑ प्र॒जा प॒शवोऽन्न॑मन्नं॒ वि रो॑हतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/33_yathA_bIjamurvarAyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ बीज॑मु॒र्वरा॑यां कृ॒ष्टे फाले॑न॒ रोह॑ति। ए॒वा मयि॑ प्र॒जा प॒शवोऽन्न॑मन्नं॒ वि रो॑हतु ॥
+यथा॒ बीज॑मु॒र्वरा॑यां कृ॒ष्टे फाले॑न॒ रोह॑ति।  
+ए॒वा मयि॑ प्र॒जा प॒शवोऽन्न॑मन्नं॒ वि रो॑हतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/33_yathA_bIjamurvarAyAm.md">
@@ -1979,7 +2094,7 @@ As, when the plough hath tilled the soil, the seed springs up in. fertile land, 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। बीजम्। उर्वरायाम्। कृष्टे। फालेन। रोहति। एव। मयि। प्रऽजा। पशवः। अन्नम्ऽअन्नम्। वि। रोहतु। ६.३३।
+यथा॑। बीज॑म्। उ॒र्वरा॑याम्। कृ॒ष्टे। फाले॑न। रोह॑ति। ए॒व। मयि॑। प्र॒ऽजा। प॒शवः॑। अन्न॑म्ऽअन्नम्। वि। रो॒ह॒तु॒। ६.३३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -2011,13 +2126,16 @@ As, when the plough hath tilled the soil, the seed springs up in. fertile land, 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्मै॑ त्वा यज्ञवर्धन॒ मणे॑ प्र॒त्यमु॑चं शि॒वम्।  
-तं त्वं श॑तदक्षिण॒ मणे॒ श्रैष्ठ्या॑य जिन्वतात्॥३४॥  
+तं त्वं श॑तदक्षिण॒ मणे॑ श्रैष्ठ्याय जिन्वतात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/34_yasmai_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यस्मै॑ त्वा यज्ञवर्धन॒ मणे॑ प्र॒त्यमु॑चं शि॒वम्। तं त्वं श॑तदक्षिण॒ मणे॑ श्रैष्ठ्याय जिन्वतात् ॥
+यस्मै॑ त्वा यज्ञवर्धन॒ मणे॑ प्र॒त्यमु॑चं शि॒वम्।  
+तं त्वं श॑तदक्षिण॒ मणे॑ श्रैष्ठ्याय जिन्वतात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/34_yasmai_tvA.md">
@@ -2038,7 +2156,7 @@ Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preemi
 </details>
 <details><summary>पदपाठः</summary>
 
-यस्मै। त्वा। यज्ञऽवर्धन। मणे। प्रतिऽअमुञ्चम्। शिवम्। तम्। त्वम्। शतऽदक्षिण। मणे। श्रैष्ठ्याय। जिन्वतात्। ६.३४।
+यस्मै॑। त्वा॒। य॒ज्ञ॒ऽव॒र्ध॒न॒। मणे॑। प्र॒ति॒ऽअमु॑ञ्चम्। शि॒वम्। तम्। त्वम्। श॒त॒ऽद॒क्षि॒ण॒। मणे॑। श्रैष्ठ्या॑य। जि॒न्व॒ता॒त्। ६.३४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -2069,14 +2187,17 @@ Charm, forwarder of sacrifice, who hast a hundred priestly fees. Speed to preemi
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/006_maNibandhanam/35_etamidhmaM_samAhitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ए॒तमि॒ध्मं स॒माहि॑तं जुषा॒णो अग्ने॒ प्रति॑ हर्य॒ होमैः॑ ।  
-तस्मि॑न् विदेम सुम॒तिं स्व॒स्ति प्र॒जां चक्षुः॑ प॒शून्त्समि॑द्धे जा॒तवे॑दसि॒ ब्रह्म॑णा ॥३५॥
+ए॒तमि॒ध्मं स॒माहि॑तं जुष॒णो अग्ने॒ प्रति॑ हर्य॒ होमैः॑।  
+तस्मि॑न्विधेम सुम॒तिं स्व॒स्ति प्र॒जां चक्षुः॑ प॒शून्त्समि॑द्धे जा॒तवे॑दसि॒ ब्रह्म॑णा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/006_maNibandhanam/35_etamidhmaM_samAhitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ए॒तमि॒ध्मं स॒माहि॑तं जुष॒णो अग्ने॒ प्रति॑ हर्य॒ होमैः॑। तस्मि॑न्विधेम सुम॒तिं स्व॒स्ति प्र॒जां चक्षुः॑ प॒शून्त्समि॑द्धे जा॒तवे॑दसि॒ ब्रह्म॑णा ॥
+ए॒तमि॒ध्मं स॒माहि॑तं जुष॒णो अग्ने॒ प्रति॑ हर्य॒ होमैः॑।  
+तस्मि॑न्विधेम सुम॒तिं स्व॒स्ति प्र॒जां चक्षुः॑ प॒शून्त्समि॑द्धे जा॒तवे॑दसि॒ ब्रह्म॑णा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/006_maNibandhanam/35_etamidhmaM_samAhitam.md">
@@ -2110,7 +2231,7 @@ Love thou, O Agni, pleased with burnt oblations, this sacred fuel that is ranged
 </details>
 <details><summary>पदपाठः</summary>
 
-एतम्। इध्मम्। सम्ऽआहितम्। जुषाणः। अग्ने। प्रति। हर्य। होमैः। तस्मिन्। विदेम। सुऽमतिम्। स्वस्ति। प्रऽजाम्। चक्षुः। पशून्। सम्ऽइध्दे। जातऽवेदसि। ब्रह्मणा। ६.३५।
+ए॒तम्। इ॒ध्मम्। स॒म्ऽआहि॑तम्। जु॒षा॒णः। अग्ने॑। प्रति॑। ह॒र्य॒। होमैः॑। तस्मि॑न्। वि॒दे॒म॒। सु॒ऽम॒तिम्। स्व॒स्ति। प्र॒ऽजाम्। चक्षुः॑। प॒शून्। सम्ऽइ॑ध्दे। जा॒तऽवे॑दसि। ब्रह्म॑णा। ६.३५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

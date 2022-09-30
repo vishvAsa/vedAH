@@ -37,14 +37,16 @@ A charm for long life
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॒ जीव॒ सूर्य॒ जीव॒ देवा॒ जीवा॑ जी॒व्यास॑म॒हम्।  
-सर्व॒मायु॑र्जीव्यासम्॥१॥
+सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/070_pUrNAyuH/01_indra_jIva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 इन्द्र॒ जीव॒ सूर्य॒ जीव॒ देवा॒ जीवा॑ जी॒व्यास॑म॒हम्।  
-सर्व॒मायु॑र्जीव्यासम्॥१॥
+सर्व॒मायु॑र्जीव्यासम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/070_pUrNAyuH/01_indra_jIva.md">
@@ -65,7 +67,7 @@ Live, Indra. Live Surya. Live, ye Gods. I fain would live. Fain would I live my 
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्र। जीव। सूर्य। जीव। देवाः। जीवाः। जीव्यासम्। अहम्। सर्वम्। आयुः। जीव्यासम्। ७०.१।
+इन्द्र॑। जीव॑। सूर्य॑। जीव॑। देवाः॑। जीवाः॑। जी॒व्यास॑म्। अ॒हम्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ७०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

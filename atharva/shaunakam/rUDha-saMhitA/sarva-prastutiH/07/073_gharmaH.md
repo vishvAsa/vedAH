@@ -36,14 +36,17 @@ An invitation to the Asvins
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑ ।  
-व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना॒ हवा॑महे सध॒मादे॑षु का॒रवः॑ ॥१॥  
+समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑।  
+व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना हवामहे सध॒मादे॑षु का॒रवः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑। व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना हवामहे सध॒मादे॑षु का॒रवः॑ ॥
+समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑।  
+व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना हवामहे सध॒मादे॑षु का॒रवः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
@@ -72,7 +75,7 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽइध्दः। अग्निः। वृषणा। रथी। दिवः। तप्तः। धर्मः। दुह्यते। वाम्। इषे। मधु। वयम्। हि। वाम्। पुरुऽदमासः। अश्विना। हवामहे। सधऽमादेषु। कारवः। ७७.१।
+सम्ऽइ॑ध्दः। अ॒ग्निः। वृ॒ष॒णा॒। र॒थी। दि॒वः। त॒प्तः। ध॒र्मः। दु॒ह्य॒ते॒। वा॒म्। इ॒षे। मधु॑। व॒यम्। हि। वा॒म्। पु॒रु॒ऽदमा॑सः। अ॒श्वि॒ना॒। हवा॑महे। स॒ध॒ऽमादे॑षु। का॒रवः॑। ७७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,13 +107,16 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्।  
-दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥२॥  
+दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/02_samiddho_agnirashvinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्। दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥
+समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्।  
+दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
@@ -134,7 +140,7 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽइध्दः। अग्निः। अश्विना। तप्तः। वाम्। धर्मः। आ। गतम्। दुह्यन्ते। नूनम्। वृषणा। इह। धेनवः। दस्रा। मदन्ति। वेधसः। ७७.२।
+सम्ऽइ॑ध्दः। अ॒ग्निः। अ॒श्वि॒ना॒। त॒प्तः। वा॒म्। ध॒र्मः। आ। ग॒त॒म्। दु॒ह्यन्ते॑। नू॒नम्। वृ॒ष॒णा॒। इ॒ह। धे॒नवः॑। दस्रा॑। मद॑न्ति। वे॒धसः॑। ७७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑ ।  
-तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥३॥  
+स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑।  
+तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑। तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥
+स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑।  
+तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
@@ -196,7 +205,7 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 </details>
 <details><summary>पदपाठः</summary>
 
-स्वाहाऽकृतः। शुचिः। देवेषु। यज्ञः। यः। अश्विनोः। चमसः। देवऽपानः। तम्। ऊं इति। विश्वे। अमृतासः। जुषाणाः। गन्धर्वस्य। प्रति। आस्ना। रिहन्ति। ७७.३।
+स्वाहा॑ऽकृतः। शुचिः॑। दे॒वेषु॑। य॒ज्ञः। यः। अ॒श्विनोः॑। च॒म॒सः॒। दे॒व॒ऽपानः॑। तम्। ऊं॒ इति॑। विश्वे॑। अ॒मृता॑सः। जु॒षा॒णाः। ग॒न्ध॒र्वस्य॑। प्रति॑। आ॒स्ना। रि॒ह॒न्ति॒। ७७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -228,13 +237,16 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्।  
-माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोच॒ने दि॒वः ॥४॥  
+माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोचने दि॒वः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्। माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोचने दि॒वः ॥
+यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्।  
+माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोचने दि॒वः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
@@ -264,7 +276,7 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। उस्रियासु। आऽहुतम्। घृतम्। पयः। अयम्। सः। वाम्। अश्विना। भागः। आ। गतम्। माध्वी इति। धर्तारा। विदथस्य। सत्पती इति सत्ऽपती। तप्तम्। घर्मम्। पिबतम्। रोचने। दिवः। ७७.४।
+यत्। उ॒स्रिया॑सु। आऽहु॑तम्। घृ॒तम्। पयः॑। अ॒यम्। सः। वा॒म्। अ॒श्वि॒ना॒। भा॒गः। आ। ग॒त॒म्। माध्वी॒ इति॑। ध॒र्ता॒रा॒। वि॒द॒थ॒स्य॒। स॒त्प॒ती॒ इति॑ सत्ऽपती। त॒प्तम्। घ॒र्मम्। पि॒ब॒त॒म्। रो॒च॒ने। दि॒वः। ७७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -296,13 +308,16 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्।  
-मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उ॒स्रिया॑याः ॥५॥  
+मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उस्रियायाः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/05_tapto_vAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्। मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उस्रियायाः ॥
+त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्।  
+मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उस्रियायाः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/05_tapto_vAm.md">
@@ -334,7 +349,7 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 </details>
 <details><summary>पदपाठः</summary>
 
-तप्तः। वाम्। धर्मः। नक्षतु। स्वऽहोता। प्र। वाम्। अध्वर्युः। चरतु। पयस्वान्। मधोः। दुग्धस्य। अश्विना। तनायाः। वीतम्। पातम्। पयसः। उस्रियायाः। ७७.५।
+त॒प्तः। वा॒म्। ध॒र्मः। न॒क्ष॒तु॒। स्वऽहो॑ता। प्र। वा॒म्। अ॒ध्व॒र्युः। च॒र॒तु॒। पय॑स्वान्। मधोः॑। दु॒ग्धस्य॑। अ॒श्वि॒ना॒। त॒नायाः॑। वी॒तम्। पा॒तम्। पय॑सः। उ॒स्रिया॑याः। ७७.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -365,14 +380,17 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/06_upa_drava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः ।  
-वि नाक॑मख्यत् सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मुषसो॒ वि रा॑जति ॥६॥  
+उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः।  
+वि नाक॑मख्यत्सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/06_upa_drava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः। वि नाक॑मख्यत्सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
+उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः।  
+वि नाक॑मख्यत्सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/06_upa_drava.md">
@@ -410,7 +428,7 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। द्रव। पयसा। गोऽधुक्। ओषम्। आ। घर्मे। सिञ्च। पयः। उस्रियायाः। वि। नाकम्। अख्यत्। सविता। वरेण्यः। अनुऽप्रयानम्। उषसः। वि। राजति। ७७.६।
+उप॑। द्र॒व॒। पय॑सा। गो॒ऽधु॒क्। ओ॒षम्। आ। घ॒र्मे। सि॒ञ्च॒। पयः॑। उ॒स्रिया॑याः। वि। नाक॑म्। अ॒ख्य॒त्। स॒वि॒ता। वरे॑ण्यः। अ॒नु॒ऽप्र॒यान॑म्। उ॒षसः॑। वि। रा॒ज॒ति॒। ७७.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -442,13 +460,16 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
-श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभीऽद्धो घ॒र्मस्तदु॒ षु प्र वो॑चत्॥७॥  
+श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी᳡द्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/07_upa_hvaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्। श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभीद्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
+उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
+श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी᳡द्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/07_upa_hvaye.md">
@@ -473,7 +494,7 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। ह्वये। सुऽदुघाम्। धेनुम्। एताम्। सुऽहस्तः। गोऽधुक्। उत। दोहत्। एनाम्। श्रेष्ठम्। सवम्। सविता। साविषत्। नः। अभिऽइध्दः। घर्मः। तत्। ऊं इति। सु। प्र। वोचत्। ७७.७।
+उप॑। ह्व॒ये॒। सु॒ऽदुघा॑म्। धे॒नुम्। ए॒ताम्। सु॒ऽहस्तः॑। गो॒ऽधुक्। उ॒त। दो॒ह॒त्। ए॒ना॒म्। श्रेष्ठ॑म्। स॒वम्। स॒वि॒ता। सा॒वि॒ष॒त्। नः॒। अ॒भिऽइ॑ध्दः। घ॒र्मः। तत्। ऊं॒ इति॑। सु। प्र। वो॒च॒त्। ७७.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -504,14 +525,17 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हि॒ङ्कृ॒ण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒च्छन्ती॒ मन॑सा॒ न्याग॑न्।  
-दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥८॥  
+हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒छन्ती॒ मन॑सा॒ न्याग॑न्।  
+दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒छन्ती॒ मन॑सा॒ न्याग॑न्। दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
+हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒छन्ती॒ मन॑सा॒ न्याग॑न्।  
+दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
@@ -537,7 +561,7 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 </details>
 <details><summary>पदपाठः</summary>
 
-हिङ्ऽकृण्वती। वसुऽपत्नी। वसूनाम्। वत्सम्। इच्छन्ती। मनसा। निऽआगन्। दुहाम्। अश्व‍िऽभ्याम्। पयः। अघ्न्या। इयम्। सा। वर्धताम्। महते। सौभगाय। ७७.८।
+हि॒ङ्ऽकृ॒ण्व॒ती। व॒सु॒ऽपत्नी॑। वसू॑नाम्। व॒त्सम्। इ॒च्छन्ती॑। मन॑सा। नि॒ऽआग॑न्। दु॒हाम्। अ॒श्व‍िऽभ्या॑म्। पयः॑। अ॒घ्न्या। इ॒यम्। सा। व॒र्ध॒ता॒म्। म॒ह॒ते। सौभ॑गाय। ७७.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -569,13 +593,16 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्।  
-विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥९॥  
+विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/09_juShTo_damUnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्। विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
+जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्।  
+विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/09_juShTo_damUnA.md">
@@ -601,7 +628,7 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 </details>
 <details><summary>पदपाठः</summary>
 
-जुष्टः। दमूनाः। अतिथिः। दुरोणे। इमम्। नः। यज्ञम्। उप। याहि। विद्वान्। विश्वाः। अग्ने। अभिऽयुजः। विऽहत्य। शत्रुऽयताम्। आ। भर। भोजनानि। ७७.९।
+जुष्टः॑। दमू॑नाः। अति॑थिः। दु॒रो॒णे। इ॒मम्। नः॒। य॒ज्ञम्। उप॑। या॒हि॒। वि॒द्वान्। विश्वाः॑। अ॒ग्ने॒। अ॒भि॒ऽयुजः॑। वि॒ऽहत्य॑। श॒त्रु॒ऽय॒ताम्। आ। भ॒र॒। भोज॑नानि। ७७.९। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -632,14 +659,17 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/10_agne_shardha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु ।  
-सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥१०॥  
+अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु।  
+सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/10_agne_shardha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु। सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥
+अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु।  
+सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/10_agne_shardha.md">
@@ -667,7 +697,7 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्ने। शर्ध। महते। सौभगाय। तव। द्युम्नानि। उत्ऽतमानि। सन्तु। सम्। जाःऽपत्यम्। सुऽयमम्। आ। कृणुष्व। शत्रुयऽयताम्। अभि। तिष्ठ। महांसि। ७७.१०।
+अग्ने॑। शर्ध॑। म॒ह॒ते। सौभ॑गाय। तव॑। द्यु॒म्नानि॑। उ॒त्ऽत॒मानि॑। स॒न्तु॒। सम्। जाः॒ऽप॒त्यम्। सु॒ऽयम॑म्। आ। कृ॒णु॒ष्व॒। श॒त्रु॒यऽय॒ताम्। अ॒भि। ति॒ष्ठ॒। महां॑सि। ७७.१०। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -698,14 +728,17 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सू॒य॒व॒साद् भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम ।  
-अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॒ पिब॑ शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥११॥
+सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम।  
+अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॑ पिब शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम। अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॑ पिब शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
+सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम।  
+अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॑ पिब शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
@@ -733,7 +766,7 @@ Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealth
 </details>
 <details><summary>पदपाठः</summary>
 
-सुयवसऽअत्। भगऽवती। हि। भूयाः। अध। वयम्। भगऽवन्तः। स्याम। अध्दि। तृणम्। अघ्न्ये। विश्वऽदानीम्। पिब। शुध्दम्। उदकम्। आऽचरन्ती। ७७.११।
+सु॒य॒व॒स॒ऽअत्। भग॑ऽवती। हि। भू॒याः। अध॑। व॒यम्। भग॑ऽवन्तः। स्या॒म॒। अ॒ध्दि। तृण॑म्। अ॒घ्न्ये॒। वि॒श्व॒ऽदानी॑म्। पिब॑। शु॒ध्दम्। उ॒द॒कम्। आ॒ऽचर॑न्ती। ७७.११। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

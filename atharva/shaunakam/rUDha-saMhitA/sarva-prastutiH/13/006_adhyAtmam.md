@@ -24,14 +24,15 @@ title = "००६ अध्यात्मम्"
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/01_brahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ब्रह्म॑ च॒ तप॑श्च की॒र्तिश्च॒ यश॒श्चाम्भ॑श्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ।  
-य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२२॥  
+ब्रह्म॑ च॒ तप॑श्च की॒र्तिश्च॒ यश॑श्चाम्भश्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/01_brahma_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 ब्रह्म॑ च॒ तप॑श्च की॒र्तिश्च॒ यश॑श्चाम्भश्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/01_brahma_cha.md">
@@ -52,7 +53,7 @@ This is vs. 14 over again, with two more items prefixed.
 </details>
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। च। तपः। च। कीर्तिः। च। यशः। च। अम्भः। च। नभः। च। ब्राह्मणऽवर्चसम्। च। अन्नम्। च। अन्नऽअद्यम्। च। ६,१।
+ब्रह्म॑। च॒। तपः॑। च॒। की॒र्तिः। च॒। यशः॑। च॒। अम्भः॑। च॒। नभः॑। च॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सम्। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च। ६,१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -83,13 +84,15 @@ This is vs. 14 over again, with two more items prefixed.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/02_bhUtaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-भू॒तं च॒ भव्यं॑ च श्र॒द्धा च॒ रुचि॑श्च स्व॒र्गश्च॑ स्व॒धा च॑। य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२३॥  
+भू॒तं च॒ भव्यं॑ च श्र॒द्धा च॒ रुचि॑श्च स्व॒र्गश्च॑ स्व॒धा च॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/02_bhUtaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 भू॒तं च॒ भव्यं॑ च श्र॒द्धा च॒ रुचि॑श्च स्व॒र्गश्च॑ स्व॒धा च॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/02_bhUtaM_cha.md">
@@ -112,7 +115,7 @@ evidently called for.
 </details>
 <details><summary>पदपाठः</summary>
 
-भूतम्। च। भव्यम्। च। श्रध्दा। च। रुचिः। च। स्वऽगः। च। स्वधा। च। ६.२।
+भू॒तम्। च॒। भव्य॑म्। च॒। श्र॒ध्दा। च॒। रुचिः॑। च॒। स्व॒ऽगः। च॒। स्व॒धा। च॒। ६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -143,13 +146,15 @@ evidently called for.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/03_ya_etam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥२४॥  
+य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/03_ya_etam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/03_ya_etam.md">
@@ -169,7 +174,7 @@ separately described by the Anukr.
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। एतम्। देवम्। एकऽवृतम्। वेद। ६.३।
+यः। ए॒तम्। दे॒वम्। ए॒क॒ऽवृत॑म्। वेद॑। ६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -200,13 +205,15 @@ separately described by the Anukr.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/04_sa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स ए॒व मृ॒त्युः सो॒३ऽमृतं॒ सो॒३ऽभ्वं॑१ स रक्षः॑ ॥२५॥  
+स ए॒व मृ॒त्युः सो॒३॒॑मृतं॒ सो॒३॒॑भ्वं१॒॑ स रक्षः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/04_sa_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स ए॒व मृ॒त्युः सो॒३॒॑मृतं॒ सो॒३॒॑भ्वं१॒॑ स रक्षः॑ ॥
+स ए॒व मृ॒त्युः सो॒३॒॑मृतं॒ सो॒३॒॑भ्वं१॒॑ स रक्षः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/04_sa_eva.md">
@@ -228,7 +235,7 @@ read *só amṛ́taṁ só abhvàm.*
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। एव। मृत्युः। सः। अमृतम्। सः। अभ्व᳡म्। सः। रक्षः। ६.४।
+सः। ए॒व। मृ॒त्युः। सः। अ॒मृत॑म्। सः। अ॒भ्व᳡म्। सः। रक्षः॑। ६.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -259,13 +266,15 @@ read *só amṛ́taṁ só abhvàm.*
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/05_sa_rudro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स रु॒द्रो व॑सु॒वनि॑र्वसु॒देये॑ नमोवा॒के व॑षट्का॒रोऽनु॒ संहि॑तः ॥२६॥  
+स रु॒द्रो व॑सु॒वनि॑र्वसु॒देये॑ नमोवा॒के व॑षट्का॒रोऽनु॒ संहि॑तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/05_sa_rudro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 स रु॒द्रो व॑सु॒वनि॑र्वसु॒देये॑ नमोवा॒के व॑षट्का॒रोऽनु॒ संहि॑तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/05_sa_rudro.md">
@@ -293,7 +302,7 @@ we restore *-kāró ánu*.
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। रुद्रः। वसुऽवनिः। वसुऽदेये। नमःऽवाके। वषट्ऽकारः। अनु। सम्ऽहितः। ६.५।
+सः। रु॒द्रः। व॒सु॒ऽवनिः॑। व॒सु॒ऽदेये॑। न॒मः॒ऽवा॒के। व॒ष॒ट्ऽका॒रः। अनु॑। सम्ऽहि॑तः। ६.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -324,13 +333,15 @@ we restore *-kāró ánu*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/06_tasyeme_sarve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्ये॒मे सर्वे॑ या॒तव॒ उप॑ प्र॒शिष॑मासते ॥२७॥  
+तस्ये॒मे सर्वे॑ या॒तव॒ उप॑ प्र॒शिष॑मासते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/06_tasyeme_sarve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 तस्ये॒मे सर्वे॑ या॒तव॒ उप॑ प्र॒शिष॑मासते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/06_tasyeme_sarve.md">
@@ -349,7 +360,7 @@ we restore *-kāró ánu*.
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्य। इमे। सर्वे। यावतः। उप। प्रऽशिषम्। आसते। ६.६।
+तस्य॑। इ॒मे। सर्वे॑। या॒वतः॑। उप॑। प्र॒ऽशिष॑म्। आ॒स॒ते॒। ६.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -380,13 +391,15 @@ we restore *-kāró ánu*.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्या॒मू सर्वा॒ नक्ष॑त्रा॒ वशे॑ च॒न्द्रम॑सा स॒ह॥२८॥
+तस्या॒मू सर्वा॒ नक्ष॑त्रा॒ वशे॑ च॒न्द्रम॑सा स॒ह ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 तस्या॒मू सर्वा॒ नक्ष॑त्रा॒ वशे॑ च॒न्द्रम॑सा स॒ह ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
@@ -407,7 +420,7 @@ uṣṇih; 41. sāmnī bṛhatī; 43. ārṣī gāyatrī; 44. sāmny anuṣṭub
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्य। अम्। सर्वा। नक्षत्रा। वशे। चन्द्रमसा। सह। ६.७।
+तस्य॑। अ॒म्। सर्वा॑। नक्ष॑त्रा। वशे॑। च॒न्द्रम॑सा। स॒ह। ६.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

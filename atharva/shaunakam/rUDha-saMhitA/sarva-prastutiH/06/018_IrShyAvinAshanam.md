@@ -37,13 +37,16 @@ A charm to banish jealousy
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्।  
-अ॒ग्निं हृ॑द॒य्यं॑१ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥१॥  
+अ॒ग्निं हृ॑द॒य्यं१॒॑ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्। अ॒ग्निं हृ॑द॒य्यं शोकं॒ तं ते॒ निर्वा॑पयामसि ॥
+ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्।  
+अ॒ग्निं हृ॑द॒य्यं१॒॑ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
@@ -65,7 +68,7 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 </details>
 <details><summary>पदपाठः</summary>
 
-ईर्ष्यायाः। ध्राजिम्। प्रथमाम्। प्रथमस्याः। उत। अपराम्। अग्निम्। हृदय्य᳡म्। शोकम्। तम्। ते। निः। वापयामसि। १८.१।
+ई॒र्ष्यायाः॑। ध्राजि॑म्। प्र॒थ॒माम्। प्र॒थ॒मस्याः॑। उ॒त। अप॑राम्। अ॒ग्निम्। हृ॒द॒य्य᳡म्। शोक॑म्। तम्। ते॒। निः। वा॒प॒या॒म॒सि॒। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा ।  
-यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥२॥  
+यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा।  
+यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा। यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥
+यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा।  
+यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
@@ -125,7 +131,7 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। भूमिः। मृतऽमनाः। मृतात्। मृतमनःऽतरा। यथा। उत। मम्रुषः। मनः। एव। ईर्ष्योः। मृतम्। मनः। १८.२।
+यथा॑। भूमिः॑। मृ॒तऽम॑नाः। मृ॒तात्। मृ॒तम॑नःऽतरा॑। यथा॑। उ॒त। म॒म्रुषः॑। मनः॑। ए॒व। ई॒र्ष्योः। मृ॒तम्। मनः॑। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,14 +162,17 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒दो यत् ते हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्।  
-तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥३॥
+अ॒दो यत्ते॑ हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्।  
+तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒दो यत्ते॑ हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्। तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥
+अ॒दो यत्ते॑ हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्।  
+तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
@@ -191,7 +200,7 @@ The thought that harbours in thy heart, the fluttering doubt that dwells therein
 </details>
 <details><summary>पदपाठः</summary>
 
-अदः। यत्। ते। हृदि। श्रितम्। मनःऽकम्। पतयिष्णुकम्। ततः। ते। ईर्ष्याम्। मुञ्चामि। निः। ऊष्माणम्। दृंतेःऽइव। १८.३।
+अ॒दः। यत्। ते॒। हृ॒दि। श्रि॒तम्। म॒नः॒ऽकम्। प॒त॒यि॒ष्णु॒कम्। ततः॑। ते॒। ई॒र्ष्याम्। मु॒ञ्चा॒मि॒। निः। ऊ॒ष्माण॑म्। दृंतेः॑ऽइव। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

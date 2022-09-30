@@ -36,14 +36,17 @@ A prayer for children and booty
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/049_devapatnyaH/01_devAnAM_patnIrushatIravantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये ।  
-याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु ॥१॥  
+दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये।  
+याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/049_devapatnyaH/01_devAnAM_patnIrushatIravantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये। याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु ॥
+दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये।  
+याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/049_devapatnyaH/01_devAnAM_patnIrushatIravantu.md">
@@ -69,7 +72,7 @@ May the Gods' Consorts aid us of their own free will, help us to offspring and t
 </details>
 <details><summary>पदपाठः</summary>
 
-देवानाम्। पत्नीः। उशतीः। अवन्तु। नः। प्र। अवन्तु। नः। तुजये। वाजऽसातये। याः। पार्थिवासः। याः। अपाम्। अपि। व्रते। ताः। नः। देवीः। सुऽहवाः। शर्म। यच्छन्तु। ५१.१।
+दे॒वाना॑म्। पत्नीः॑। उ॒श॒तीः। अ॒व॒न्तु॒। नः॒। प्र। अ॒व॒न्तु॒। नः॒। तु॒जये॑। वाज॑ऽसातये। याः। पार्थि॑वासः। याः। अ॒पाम्। अपि॑। व्र॒ते। ताः। नः॒। दे॒वीः॒। सु॒ऽहवाः॑। शर्म॑। य॒च्छ॒न्तु॒। ५१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ May the Gods' Consorts aid us of their own free will, help us to offspring and t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/049_devapatnyaH/02_uta_gnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य॑१ग्नाय्य॒श्विनी॒ राट्।  
-आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम्॥२॥
+उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट्।  
+आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/049_devapatnyaH/02_uta_gnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्यग्नाय्य॒श्विनी॒ राट्। आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
+उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य१॒॑ग्नाय्य॒श्विनी॒ राट्।  
+आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/049_devapatnyaH/02_uta_gnA.md">
@@ -131,7 +137,7 @@ May the Dames, wives of Gods, enjoy our presents, Rat, Asvini Indrani and Agnayi
 </details>
 <details><summary>पदपाठः</summary>
 
-उत। ग्नाः। व्यन्तु। देवऽपत्नीः। इन्द्राणी। अग्नायी। अश्विनी। राट्। आ। रोदसी। वरुणानी। शृणोतु। व्यन्तु। देवीः। यः। ऋतुः। जनीनाम्। ५१.२।
+उ॒त। ग्नाः। व्य॒न्तु॒। दे॒वऽप॑त्नीः। इ॒न्द्रा॒णी। अ॒ग्नायी॑। अ॒श्विनी॑। राट्। आ। रोद॑सी। व॒रु॒णा॒नी। शृ॒णो॒तु॒। व्यन्तु॑। दे॒वीः। यः। ऋ॒तुः। जनी॑नाम्। ५१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

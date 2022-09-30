@@ -36,15 +36,17 @@ A prayer for long life prosperity and final happiness in heaven
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/061_pUrNAyuH/01_tanUstanvA_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त॒नूस्त॒न्वा मे सहे द॒तः सर्व॒मायु॑रशीय ।  
-स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे॥१॥
+त॒नूस्त॒न्वा᳡ मे सहे द॒तः सर्व॒मायु॑रशीय।  
+स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/061_pUrNAyuH/01_tanUstanvA_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त॒नूस्त॒न्वा मे सहे द॒तः सर्व॒मायु॑रशीय ।  
-स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे॥१॥
+त॒नूस्त॒न्वा᳡ मे सहे द॒तः सर्व॒मायु॑रशीय।  
+स्यो॒नं मे॑ सीद पु॒रुः पृ॑णस्व॒ पव॑मानः स्व॒र्गे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/061_pUrNAyuH/01_tanUstanvA_me.md">
@@ -73,7 +75,7 @@ May my self remain in my body: may I enjoy the full time of life, Rest thee plea
 </details>
 <details><summary>पदपाठः</summary>
 
-तनूः। तन्वा᳡। मे। सहे। दतः। सर्वम्। आयुः। अशीय। स्योनम्। मे। सीद। पुरुः। पृणस्व। पवमानः। स्वःऽगे। ६१.१।
+त॒नूः। त॒न्वा᳡। मे॒। स॒हे॒। द॒तः। सर्व॑म्। आयुः॑। अ॒शी॒य॒। स्यो॒नम्। मे॒। सी॒द॒। पु॒रुः। पृ॒ण॒स्व॒। पव॑मानः। स्वः॒ऽगे। ६१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

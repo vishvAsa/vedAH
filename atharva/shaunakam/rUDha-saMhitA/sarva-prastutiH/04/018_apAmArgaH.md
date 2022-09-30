@@ -36,14 +36,17 @@ A counter-charm against the incantations of enemies
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒मावती॑ ।  
-कृ॒णोमि॑ स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥१॥  
+स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒माव॑ती।  
+कृ॑णोमि स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒माव॑ती। कृ॑णोमि स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥
+स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒माव॑ती।  
+कृ॑णोमि स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/01_samaM_jyotiH.md">
@@ -75,7 +78,7 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 </details>
 <details><summary>पदपाठः</summary>
 
-समम्। ज्योतिः। सूर्येण। अह्ना। रात्री। समऽवती। कृणोमि। सत्यम्। ऊतये। अरसाः। सन्तु। कृत्वरीः। १८.१।
+स॒मम्। ज्योतिः॑। सूर्ये॑ण। अह्ना॑। रात्री॑। स॒मऽव॑ती। कृ॒णोमि॑। स॒त्यम्। ऊ॒तये॑। अ॒र॒साः। स॒न्तु॒। कृत्व॑रीः। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,13 +110,16 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो दे॑वाः कृ॒त्यां कृ॒त्वा हरा॒दवि॑दुषो गृ॒हम्।  
-व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम्॥२॥  
+व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/02_yo_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यो दे॑वाः कृ॒त्यां कृ॒त्वा हरा॒दवि॑दुषो गृ॒हम्। व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम् ॥
+यो दे॑वाः कृ॒त्यां कृ॒त्वा हरा॒दवि॑दुषो गृ॒हम्।  
+व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/02_yo_devAH.md">
@@ -136,7 +142,7 @@ Gods! if one make and bring a spell on some man's house who knows it not, Close 
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। देवाः। कृत्याम्। कृत्वा। हरात्। अविदुषः। गृहम्। वत्सः। धारुःऽइव। मातरम्। तम्। प्रत्यक्। उप। पद्यताम्। १८.२।
+यः। दे॒वाः॒। कृ॒त्याम्। कृ॒त्वा। हरा॑त्। अवि॑दुषः। गृ॒हम्। व॒त्सः। धा॒रुःऽइ॑व। मा॒तर॑म्। तम्। प्र॒त्यक्। उप॑। प॒द्य॒ता॒म्। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -167,14 +173,17 @@ Gods! if one make and bring a spell on some man's house who knows it not, Close 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति ।  
-अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट् क॑रिक्रति ॥३॥  
+अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति।  
+अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट्क॑रिक्रति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति। अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट्क॑रिक्रति ॥
+अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति।  
+अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट्क॑रिक्रति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/03_amA_kRtvA.md">
@@ -211,7 +220,7 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 </details>
 <details><summary>पदपाठः</summary>
 
-अमा। कृत्वा। पाप्मानम्। यः। तेन। अन्यम्। जिघांसति। अश्मानः। तस्याम्। दग्धायाम्। बहुलाः। फट्। करिक्रति। १८.३।
+अ॒मा। कृ॒त्वा। पा॒प्मान॑म्। यः। तेन॑। अ॒न्यम्। जिघां॑सति। अश्मा॑नः। तस्या॑म्। द॒ग्धाया॑म्। ब॒हु॒लाः। फट्। क॒रि॒क्र॒ति॒। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -242,14 +251,17 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सह॑स्रधाम॒न् विशि॑खा॒न् विग्री॑वां छायया॒ त्वम्।  
-प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥४॥  
+सह॑स्रधाम॒न्विशि॑खा॒न्विग्री॑वां छायया॒ त्वम्।  
+प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सह॑स्रधाम॒न्विशि॑खा॒न्विग्री॑वां छायया॒ त्वम्। प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥
+सह॑स्रधाम॒न्विशि॑खा॒न्विग्री॑वां छायया॒ त्वम्।  
+प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
@@ -280,7 +292,7 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 </details>
 <details><summary>पदपाठः</summary>
 
-सहस्रऽधामन्। विऽशिखान्। विऽग्रीवान्। शायय। त्वम्। प्रति। स्म। चक्रुषे। कृत्याम्। प्रियाम्। प्रियऽवते। हर। १८.४।
+सह॑स्रऽधामन्। विऽशि॑खान्। विऽग्री॑वान्। शा॒य॒य॒। त्वम्। प्रति॑। स्म॒। च॒क्रुषे॑। कृ॒त्याम्। प्रि॒याम्। प्रि॒यऽव॑ते। ह॒र॒। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -311,14 +323,17 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒नया॒हमोष॑ध्या सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
-यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥५॥  
+अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
+यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्। यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
+अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
+यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
@@ -342,7 +357,7 @@ I with this Plant have ruined all malignant powers of witchery. The spell which 
 </details>
 <details><summary>पदपाठः</summary>
 
-अनया। अहम्। ओषध्या। सर्वाः। कृत्याः। अदूदुषम्। याम्। क्षेत्रे। चक्रुः। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १८.५।
+अ॒नया॑। अ॒हम्। ओष॑ध्या। सर्वाः॑। कृ॒त्याः। अ॒दू॒दु॒ष॒म्। याम्। क्षेत्रे॑। च॒क्रुः। याम्। गोषु॑। याम्। वा॒। ते॒। पुरु॑षेषु। १८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -374,13 +389,16 @@ I with this Plant have ruined all malignant powers of witchery. The spell which 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
-च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥६॥  
+च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/06_yashchakAra_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्। च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥
+यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
+च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/06_yashchakAra_na.md">
@@ -416,7 +434,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिम्। चकार। भद्रम्। अस्मभ्यम्। आत्मने। तपनम्। तु। सः। १८.६।
+यः। च॒कार॑। न। श॒शाक॑। कर्तु॑म्। श॒श्रे। पाद॑म्। अ॒ङ्गुरि॑म्। च॒कार॑। भ॒द्रम्। अ॒स्मभ्य॑म्। आ॒त्मने॑। तप॑नम्। तु। सः। १८.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -447,14 +465,17 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒पा॒मा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः ।  
-अपाह॑ यातुधा॒नीरप॒ सर्वा॒ अरा॒य्यः ॥७॥  
+अ॑पामा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः।  
+अपाह॑ यातुधा॒नीरप॒ सर्वा॑ अरा॒य्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑पामा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः। अपाह॑ यातुधा॒नीरप॒ सर्वा॑ अरा॒य्यः॑ ॥
+अ॑पामा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः।  
+अपाह॑ यातुधा॒नीरप॒ सर्वा॑ अरा॒य्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
@@ -476,7 +497,7 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 </details>
 <details><summary>पदपाठः</summary>
 
-अपामार्गः। अप। मार्ष्टु। क्षेत्रियम्। शपथः। च। यः। अप। अह। यातुऽधानीः। अप। सर्वाः। अराय्यः᳡। १८.७।
+अ॒पा॒मा॒र्गः। अप॑। मा॒र्ष्टु॒। क्षे॒त्रि॒यम्। श॒पथः॑। च॒। यः। अप॑। अह॑। या॒तु॒ऽधा॒नीः। अप॑। सर्वाः॑। अ॒रा॒य्यः᳡। १८.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -507,14 +528,17 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः ।  
-अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॒ मृज्महे ॥८॥
+अ॑प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः॑।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॑प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः॑। अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+अ॑प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः॑।  
+अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
@@ -536,7 +560,7 @@ Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamar
 </details>
 <details><summary>पदपाठः</summary>
 
-अपऽमृज्य। यातुऽधानान्। अप। सर्वाः। अराय्यः᳡। अपामार्गः। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १८.८।
+अ॒प॒ऽमृज्य॑। या॒तु॒ऽधाना॑न्। अप॑। सर्वाः॑। अ॒रा॒य्यः᳡। अपा॑मार्गः। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १८.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

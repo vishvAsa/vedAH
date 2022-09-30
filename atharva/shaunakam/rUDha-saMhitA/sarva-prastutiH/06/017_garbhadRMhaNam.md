@@ -37,13 +37,16 @@ A charm to ensure conception
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥१॥  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/01_yatheyaM_pRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे। ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+यथे॒यं पृ॑थि॒वी म॒ही भू॒तानां॒ गर्भ॑माद॒धे।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/01_yatheyaM_pRthivI.md">
@@ -67,7 +70,7 @@ Even as this mighty Earth conceived the germ of all the things that be, So may t
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। भूतानाम्। गर्भम्। आऽदधे। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.१।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -98,14 +101,17 @@ Even as this mighty Earth conceived the germ of all the things that be, So may t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान् वन॒स्पती॑न्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥२॥  
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्। ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धारे॒मान्वन॒स्पती॑न्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/02_yatheyaM_pRthivI.md">
@@ -126,11 +132,11 @@ Even as this mighty Earth hath borne and bears the stately forest trees, So may 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। इमान्। वनस्पतीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.२।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। इमान्। वनस्पतीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.२।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। इ॒मान्। वन॒स्पती॑न्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -145,14 +151,17 @@ Even as this mighty Earth hath borne and bears the stately forest trees, So may 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान् गि॒रीन्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥३॥  
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान्गि॒रीन्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान्गि॒रीन्। ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ पर्व॑तान्गि॒रीन्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/03_yatheyaM_pRthivI.md">
@@ -171,11 +180,11 @@ Even as this mighty Earth hath borne and bears the mountains and the hills, So m
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। पर्वतान्। गिरीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.३।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। पर्व॑तान्। गि॒रीन्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। पर्वतान्। गिरीन्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.३।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। पर्व॑तान्। गि॒रीन्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -191,13 +200,16 @@ Even as this mighty Earth hath borne and bears the mountains and the hills, So m
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्।  
-ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥४॥
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/017_garbhadRMhaNam/04_yatheyaM_pRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्। ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+यथे॒यं पृ॑थि॒वी म॒ही दा॒धार॒ विष्ठि॑तं॒ जग॑त्।  
+ए॒वा ते॑ ध्रियतां॒ गर्भो॒ अनु॒ सूतुं॒ सवि॑तवे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/017_garbhadRMhaNam/04_yatheyaM_pRthivI.md">
@@ -216,11 +228,11 @@ Even as this mighty Earth supports the moving world that dwells thereon, So may 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.४।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.४। 
 </details>
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.४।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भः॑। अनु॑। सूतु॑म्। सवि॑तवे। १७.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

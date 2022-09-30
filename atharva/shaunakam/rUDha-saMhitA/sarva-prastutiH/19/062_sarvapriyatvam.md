@@ -36,15 +36,17 @@ A prayer for the love of Gods and men
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/062_sarvapriyatvam/01_priyaM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु ।  
-प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥१॥
+प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु।  
+प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/062_sarvapriyatvam/01_priyaM_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु ।  
-प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥१॥
+प्रि॒यं मा॑ कृणु दे॒वेषु॑ प्रि॒यं राज॑सु मा कृणु।  
+प्रि॒यं सर्व॑स्य॒ पश्य॑त उ॒त शू॒द्र उ॒तार्ये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/062_sarvapriyatvam/01_priyaM_mA.md">
@@ -78,7 +80,7 @@ Make me beloved among the Gods, beloved among the Princes, make Me dear to every
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रियम्। मा। कृणु। देवेषु। प्रियम्। राजऽसु। मा। कृणु। प्रियम्। सर्वस्य। पश्यत। उत। शूद्रे। उत। आर्ये। ६२.१।
+प्रि॒यम्। मा॒। कृ॒णु॒। दे॒वेषु॑। प्रि॒यम्। राज॑ऽसु। मा॒। कृ॒णु॒। प्रि॒यम्। सर्व॑स्य। पश्य॑त। उ॒त। शू॒द्रे। उ॒त। आर्ये॑। ६२.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

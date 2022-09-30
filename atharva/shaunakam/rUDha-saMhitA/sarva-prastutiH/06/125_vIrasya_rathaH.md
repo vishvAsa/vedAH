@@ -32,14 +32,17 @@ Translated: by the RV. translators; and, as AV. hymn, by Ludwig again, p. 459; G
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-वन॑स्पते वी॒ड्वऽङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑ ।  
-गोभिः॒ संन॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥१॥  
+वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑।  
+गोभिः॒ संन॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑। गोभिः॒ संन॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
+वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑।  
+गोभिः॒ संन॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
@@ -55,7 +58,7 @@ Mayst thou, O Tree, be firm indeed in body, our friend that furthers us, a goodl
 </details>
 <details><summary>पदपाठः</summary>
 
-वनस्पते। वीडुऽअङ्गः। हि। भूयाः। अस्मत्ऽसखा। प्रऽतरणः। सुऽवीरः। गोभिः। सम्ऽनध्दः। असि। वीडयस्व। आऽस्थाता। ते। जयतु। जेत्वानि। १२५.१।
+वन॑स्पते। वी॒डुऽअ॑ङ्गः। हि। भू॒याः। अ॒स्मत्ऽस॑खा। प्र॒ऽतर॑णः। सु॒ऽवीरः॑। गोभिः॑। सम्ऽन॑ध्दः। अ॒सि॒। वी॒डय॑स्व। आ॒ऽस्था॒ता। ते॒। ज॒य॒तु॒। जेत्वा॑नि। १२५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -86,14 +89,17 @@ Mayst thou, O Tree, be firm indeed in body, our friend that furthers us, a goodl
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑ ।  
-अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑त॒मिन्द्र॑स्य॒ वज्रं॑ ह॒विषा॒ रथं॑ यज ॥२॥  
+दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑।  
+अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑तमिन्द्रस्य॒ वज्रं॑ हविषा॒ रथं॑ यज ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑। अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑तमिन्द्रस्य॒ वज्रं॑ हविषा॒ रथं॑ यज ॥
+दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑।  
+अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑तमिन्द्रस्य॒ वज्रं॑ हविषा॒ रथं॑ यज ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
@@ -123,7 +129,7 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवः। पृथिव्याः। परि। ओजः। उत्ऽभृतम्। वनस्पतिऽभ्यः। परि। आऽभृतम्। सहः। अपाम्। ओज्मानम्। परि। गोभिः। आऽवृतम्। इन्द्रस्य। वज्रम्। हविषा। रथम्। यज। १२५.२।
+दि॒वः। पृ॒थि॒व्याः। परि॑। ओजः॑। उत्ऽभृ॑तम्। वन॒स्पति॑ऽभ्यः। परि॑। आऽभृ॑तम्। सहः॑। अ॒पाम्। ओ॒ज्मान॑म्। परि॑। गोभिः॑। आऽवृ॑तम्। इन्द्र॑स्य। वज्र॑म्। ह॒विषा॑। रथ॑म्। य॒ज॒। १२५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -154,14 +160,17 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑ ।  
-स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृभाय ॥३॥
+इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑।  
+स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑। स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ॥
+इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑।  
+स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
@@ -186,7 +195,7 @@ Thou bolt of Indra, vanguard of the Maruts, close knit to Varuna and child of Mi
 </details>
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। ओजः। मरुताम्। अनीकम्। मित्रस्य। गर्भः। वरुणस्य। नाभिः। सः। इमाम्। नः। हव्यऽदातिम्। जुषाणः। देव। रथ। प्रति। हव्या। गृभाय। १२५३।
+इन्द्र॑स्य। ओजः॑। म॒रुता॑म्। अनी॑कम्। मि॒त्रस्य॑। गर्भः॑। वरु॑णस्य। नाभिः॑। सः। इ॒माम्। नः॒। ह॒व्यऽदा॑तिम्। जु॒षा॒णः। देव॑। र॒थ॒। प्रति॑। ह॒व्या। गृ॒भा॒य॒। १२५३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

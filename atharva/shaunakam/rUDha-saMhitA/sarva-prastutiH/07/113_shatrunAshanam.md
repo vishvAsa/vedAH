@@ -33,14 +33,17 @@ Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके ।  
-यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥१॥  
+तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके।  
+यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके। यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥
+तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके।  
+यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
@@ -71,7 +74,7 @@ Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That
 </details>
 <details><summary>पदपाठः</summary>
 
-तृष्टिके। तृष्टऽवन्दने। उत्। अमूम्। छिन्धि। तृष्टिके। यथा। कृतऽद्विष्टा। असः। अमुष्मै। शेप्याऽवते। ११८.१।
+तृष्टि॑के। तृष्ट॑ऽवन्दने। उत्। अ॒मूम्। छि॒न्धि॒। तृ॒ष्टि॒के॒। यथा॑। कृ॒तऽद्वि॑ष्टा। असः॑। अ॒मुष्मै॑। शे॒प्याऽव॑ते। ११८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्यऽसि ।  
-परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥२॥
+तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्य᳡सि।  
+परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्य᳡सि। परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥
+तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्य᳡सि।  
+परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
@@ -133,7 +139,7 @@ Thou, rugged Plant, art rude and rough, Visha, Vishataki art thou. That thou may
 </details>
 <details><summary>पदपाठः</summary>
 
-तृष्टा। असि। तृष्टिका। विषा। विषातकी। असि। परिऽवृक्ता। यथा। अससि। ऋषभस्य। वशाऽइव। ११८.२।
+तृ॒ष्टा। अ॒सि॒। तृ॒ष्टि॒का। वि॒षा। वि॒षा॒त॒की। अ॒सि॒। परि॑ऽवृक्ता। यथा॑। अस॑सि। ऋ॒ष॒भस्य॑। व॒शाऽइ॑व। ११८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

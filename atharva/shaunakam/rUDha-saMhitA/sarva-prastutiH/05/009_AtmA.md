@@ -36,13 +36,15 @@ A prayer to Heaven and Earth for protection and assistance
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/01_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वे स्वाहा॑ ॥१॥  
+दिवे॒ स्वाहा॑ ॥१॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/01_dive_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दिवे॒ स्वाहा॑ ॥१॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/01_dive_svAhA.md">
@@ -60,11 +62,11 @@ All hail to Heaven!
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवे। स्वाहा। ९.१।
+दि॒वे। स्वाहा॑। ९.१। 
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवे। स्वाहा। ९.१।
+दि॒वे। स्वाहा॑। ९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -79,13 +81,15 @@ All hail to Heaven!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ॥२॥  
+पृ॒थि॒व्यै स्वाहा॑ ॥२॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 पृ॒थि॒व्यै स्वाहा॑ ॥२॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/02_pRthivyai_svAhA.md">
@@ -103,11 +107,11 @@ All hail to Earth!
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। स्वाहा। ९.२।
+पृ॒थि॒व्यै। स्वाहा॑। ९.२। 
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। स्वाहा। ९.२।
+पृ॒थि॒व्यै। स्वाहा॑। ९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -122,13 +126,15 @@ All hail to Earth!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/03_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥३॥  
+अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/03_antarixAya_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/03_antarixAya_svAhA.md">
@@ -146,11 +152,11 @@ All hail to Air!
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षाय। स्वाहा। ९.३।
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.३। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षाय। स्वाहा। ९.३।
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,13 +171,15 @@ All hail to Air!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/04_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥४॥  
+अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/04_antarixAya_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/04_antarixAya_svAhA.md">
@@ -189,11 +197,11 @@ All hail to Air!
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षाय। स्वाहा। ९.४।
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.४। 
 </details>
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षाय। स्वाहा। ९.४।
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -208,13 +216,15 @@ All hail to Air!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/05_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-दि॒वेस्वाहा॑ ॥५॥  
+दि॒वे स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/05_dive_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 दि॒वे स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/05_dive_svAhA.md">
@@ -232,11 +242,11 @@ All hail to Heaven!
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवे। स्वाहा। ९.५।
+दि॒वे। स्वाहा॑। ९.५। 
 </details>
 <details><summary>पदपाठः</summary>
 
-दिवे। स्वाहा। ९.५।
+दि॒वे। स्वाहा॑। ९.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -251,13 +261,15 @@ All hail to Heaven!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पृ॒थि॒व्यै स्वाहा॑ ॥६॥  
+पृ॒थि॒व्यै स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 पृ॒थि॒व्यै स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/06_pRthivyai_svAhA.md">
@@ -276,11 +288,11 @@ All hail to Eartht!
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। स्वाहा। ९.६।
+पृ॒थि॒व्यै। स्वाहा॑। ९.६। 
 </details>
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। स्वाहा। ९.६।
+पृ॒थि॒व्यै। स्वाहा॑। ९.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -295,14 +307,17 @@ All hail to Eartht!
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/07_sUryo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्।  
-अ॒स्तृ॒तो नामा॒हम॒य म॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥७॥  
+सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३॒॑न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्।  
+अ॒स्तृ॒तो नामा॒हम॒यम॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/07_sUryo_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३॒॑न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्। अ॒स्तृ॒तो नामा॒हम॒यम॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥
+सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३॒॑न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्।  
+अ॒स्तृ॒तो नामा॒हम॒यम॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/07_sUryo_me.md">
@@ -322,7 +337,7 @@ Mine eye is Siirya and my breath is Vata, Air is my soul and Prithivi my body. I
 </details>
 <details><summary>पदपाठः</summary>
 
-सूर्यः। मे। चक्षुः। वातः। प्राणः। अन्तरिक्षम्। आत्मा। पृथिवी। शरीरम्। अस्तृतः। नाम। अहम्। अयम्। अस्मि। सः। आत्मानम्। नि। दधे। द्यावापृथिवीभ्याम्। गोपीथाय। ९.७।
+सूर्यः॑। मे॒। चक्षुः॑। वातः॑। प्रा॒णः। अ॒न्तरि॑क्षम्। आ॒त्मा। पृ॒थि॒वी। शरी॑रम्। अ॒स्तृ॒तः। नाम॑। अ॒हम्। अ॒यम्। अ॒स्मि॒। सः। आ॒त्मान॑म्। नि। द॒धे॒। द्यावा॑पृथि॒वीभ्या॑म्। गो॒पी॒थाय॑। ९.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -353,15 +368,19 @@ N/A
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उदायु॒रुद् बल॒मुत् कृ॒तमुत् कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्।  
-आयु॑ष्कृ॒दायु॑ष्पत्नी॒ स्वधा॑वन्तौ गो॒पा मे॑ स्तं गोपा॒यतं॑ मा ।  
-आ॒त्म॒सदौ॑ मे स्तं॒ मा॑ हिंसिष्टम्॥८॥
+उदायु॒रुद्बल॒मुत्कृ॒तमुत्कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्।  
+आयु॑ष्कृ॒दायु॑ष्पत्नी॒ स्वधा॑वन्तौ गो॒पा मे॑ स्तं गोपा॒यतं॑ मा।  
+आ॒त्म॒सदौ॑ मे स्तं॒ मा मा॑ हिंसिष्टम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उदायु॒रुद्बल॒मुत्कृ॒तमुत्कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्। आयु॑ष्कृ॒दायु॑ष्पत्नी॒ स्वधा॑वन्तौ गो॒पा मे॑ स्तं गोपा॒यतं॑ मा। आ॒त्म॒सदौ॑ मे स्तं॒ मा मा॑ हिंसिष्टम् ॥
+उदायु॒रुद्बल॒मुत्कृ॒तमुत्कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्।  
+आयु॑ष्कृ॒दायु॑ष्पत्नी॒ स्वधा॑वन्तौ गो॒पा मे॑ स्तं गोपा॒यतं॑ मा।  
+आ॒त्म॒सदौ॑ मे स्तं॒ मा मा॑ हिंसिष्टम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
@@ -390,7 +409,7 @@ Exalt my life, my strength, my deed and action; increase my understanding and my
 </details>
 <details><summary>पदपाठः</summary>
 
-उत्। आयुः। उत्। बलम्। उत्। कृतम्। उत्। कृत्याम्। उत्। मनीषाम्। उत्। इन्द्रियम्। आयुःऽकृत्। आयुष्पत्नीत्यायुःऽपत्नी। स्वधाऽवन्तौ। गोपा। मे। रतम्। गोपायतम्। मा। आत्मऽसदौ। मे। स्तम्। मा। मा। हिंसिष्टम्। ९.८।
+उत्। आयुः॑। उत्। बल॑म्। उत्। कृ॒तम्। उत्। कृ॒त्याम्। उत्। म॒नी॒षाम्। उत्। इ॒न्द्रि॒यम्। आयुः॑ऽकृत्। आयु॑ष्पत्नी॒त्यायुः॑ऽपत्नी। स्वधा॑ऽवन्तौ। गो॒पा। मे॒। रत॒म्। गो॒पा॒यत॑म्। मा॒। आ॒त्म॒ऽसदौ॑। मे॒। स्त॒म्। मा। मा॒। हिं॒सि॒ष्ट॒म्। ९.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

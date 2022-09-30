@@ -32,14 +32,17 @@ A priest's prayer for power and glory
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-गि॒राव॑र॒गरा॑टेषु॒ हिर॑ण्ये॒ गोषु॒ यद् यशः॑ ।  
-सुरा॑यां सि॒च्यमा॑नायां की॒लाले॒ मधु॒ तन्मयि॑ ॥१॥  
+गि॒राव॑र॒गरा॑टेषु॒ हिर॑ण्ये॒ गोषु॒ यद्यशः॑।  
+सुरा॑यां सि॒च्यमा॑नायां की॒लाले॒ मधु॒ तन्मयि॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-गि॒राव॑र॒गरा॑टेषु॒ हिर॑ण्ये॒ गोषु॒ यद्यशः॑। सुरा॑यां सि॒च्यमा॑नायां की॒लाले॒ मधु॒ तन्मयि॑ ॥
+गि॒राव॑र॒गरा॑टेषु॒ हिर॑ण्ये॒ गोषु॒ यद्यशः॑।  
+सुरा॑यां सि॒च्यमा॑नायां की॒लाले॒ मधु॒ तन्मयि॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
@@ -66,7 +69,7 @@ Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the swe
 </details>
 <details><summary>पदपाठः</summary>
 
-गिरौ। अरगराटेषु। हिरण्ये। गोषु। यत्। यशः। सुरायाम्। सिच्यमानायाम्। कीलाले। मधु। तत्। मयि। ६९.१।
+गि॒रौ। अ॒र॒गरा॑टेषु। हिर॑ण्ये। गोषु॑। यत्। यशः॑। सुरा॑याम्। सि॒च्यमा॑नायाम्। की॒लाले॑। मधु॑। तत्। मयि॑। ६९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,14 +100,17 @@ Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the swe
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती ।  
-यथा॒ भर्ग॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॑ अनु॑ ॥२॥  
+अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती।  
+यथा॒ भर्ग॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॒ अनु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती। यथा॒ भर्ग॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॒ अनु॑ ॥
+अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती।  
+यथा॒ भर्ग॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॒ अनु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
@@ -126,7 +132,7 @@ With your delicious honey balm me, Asvins, Lords of splendid light! That clear a
 </details>
 <details><summary>पदपाठः</summary>
 
-अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभः। पती इति। यथा। भर्गस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। ६९.२।
+अश्वि॑ना। सा॒र॒घेण॑। मा॒। मधु॑ना। अ॒ङ्क्त॒म्। शु॒भः॒। प॒ती॒ इति॑। यथा॑। भर्ग॑स्वतीम्। वाच॑म्। आ॒ऽवदा॑नि। जना॑न्। अनु॑। ६९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -157,14 +163,17 @@ With your delicious honey balm me, Asvins, Lords of splendid light! That clear a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/03_mayi_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मयि॒ वर्चो॒ अथो॒ यशोऽथो॑ य॒ज्ञस्य॒ यत् पयः॑ ।  
-तन्मयि॑ प्र॒जाप॑तिर्दि॒वि द्यामि॑व दृंहतु ॥३॥
+मयि॒ वर्चो॒ अथो॒ यशोऽथो॑ य॒ज्ञस्य॒ यत्पयः॑।  
+तन्मयि॑ प्र॒जाप॑तिर्दि॒वि द्यामि॑व दृंहतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/03_mayi_varcho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मयि॒ वर्चो॒ अथो॒ यशोऽथो॑ य॒ज्ञस्य॒ यत्पयः॑। तन्मयि॑ प्र॒जाप॑तिर्दि॒वि द्यामि॑व दृंहतु ॥
+मयि॒ वर्चो॒ अथो॒ यशोऽथो॑ य॒ज्ञस्य॒ यत्पयः॑।  
+तन्मयि॑ प्र॒जाप॑तिर्दि॒वि द्यामि॑व दृंहतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/03_mayi_varcho.md">
@@ -189,7 +198,7 @@ In me be strength, in me be fame, in me the power of sacrifice: Prajapati establ
 </details>
 <details><summary>पदपाठः</summary>
 
-मयि। वर्चः। अथो इति। यशः। अथो इति। यज्ञस्य। यत्। पयः। तत्। मयि। प्रजाऽपतिः। दिवि। द्याम्ऽइव। ‍ दृंहतु। ६९.३।
+मयि॑। वर्चः॑। अथो॒ इति॑। यशः॑। अथो॒ इति॑। य॒ज्ञस्य॑। यत्। पयः॑। तत्। मयि॑। प्र॒जाऽप॑तिः। दि॒वि। द्याम्ऽइ॑व। ‍ दृं॒ह॒तु॒। ६९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

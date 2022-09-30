@@ -36,14 +36,17 @@ A prayer to Lightning, for happiness
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/01_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे ।  
-नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥१॥  
+नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे॑।  
+नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/01_namaste_astu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे॑। नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥
+नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे॑।  
+नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/01_namaste_astu.md">
@@ -71,7 +74,7 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अस्तु। विऽद्युते। नमः। ते। स्तनयित्नवे। नमः। ते। अस्तु। अश्मने। येन। दुःऽदाशे। अस्यसि। १३.१।
+नमः॑। ते॒। अ॒स्तु॒। वि॒ऽद्युते॑। नमः॑। ते॒। स्त॒न॒यि॒त्नवे॑। नमः॑। ते॒। अ॒स्तु॒। अश्म॑ने। येन॑। दुः॒ऽदाशे॑। अस्य॑सि। १३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,14 +105,17 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/02_namaste_pravato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि ।  
-मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥२॥  
+नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि।  
+मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/02_namaste_pravato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि। मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥
+नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि।  
+मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/02_namaste_pravato.md">
@@ -135,7 +141,7 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। प्रऽवतः। नपात्। यतः। तपः। सम्ऽऊहसि। मृडय। नः। तनूभ्यः। मयः। तोकेभ्यः। कृधि।
+नमः॑। ते॒। प्र॒ऽव॒तः॒। न॒पा॒त्। यतः॑। तपः॑। स॒म्ऽऊह॑सि। मृडय॑। नः॒। त॒नूभ्यः॑। मयः॑। तो॒केभ्यः॑। कृ॒धि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -166,14 +172,17 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/03_pravato_napAnnama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः ।  
-वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत् स॑मु॒द्रे अ॒न्तर्नि॑हि॑तासि॒ नाभिः॑ ॥३॥  
+प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः।  
+वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत्स॑मु॒द्रे अ॒न्तर्निहि॑तासि॒ नाभिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/03_pravato_napAnnama.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः। वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत्स॑मु॒द्रे अ॒न्तर्निहि॑तासि॒ नाभिः॑ ॥
+प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः।  
+वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत्स॑मु॒द्रे अ॒न्तर्निहि॑तासि॒ नाभिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/03_pravato_napAnnama.md">
@@ -198,7 +207,7 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रऽवतः। नपात्। नमः। एव। अस्तु। तुभ्यम्। नमः। ते। हेतये। तपुषे। च। कृण्मः। विद्मः। ते। धाम। परमम्। गुहा। यत्। समुद्रे। अन्तः। निऽहिता। असि। नाभिः।
+प्रऽव॑तः। न॒पा॒त्। नमः॑। ए॒व। अ॒स्तु॒। तुभ्य॑म्। नमः॑। ते॒। हे॒तये॑। तपु॑षे। च॒। कृ॒ण्मः॒। वि॒द्मः। ते॒। धाम॑। प॒र॒मम्। गुहा॑। यत्। स॒मु॒द्रे। अ॒न्तः। निऽहि॑ता। अ॒सि॒। नाभिः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -230,13 +239,16 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्।  
-सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥४॥
+सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/04_yAM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्। सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥
+यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्।  
+सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/04_yAM_tvA.md">
@@ -264,7 +276,7 @@ Thou, Arrow, which the host of Gods created, making it strong and mighty for the
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। त्वा। देवाः। असृजन्त। विश्वे। इषुम्। कृण्वानाः। असनाय। धृष्णुम्। सा। नः। मृड। विदधे। गृणाना। तस्यै। ते। नमः। अस्तु। देवि।
+याम्। त्वा॒। दे॒वाः। असृ॑जन्त। विश्वे॑। इषु॑म्। कृ॒ण्वा॒नाः। अस॑नाय। धृ॒ष्णुम्। सा। नः॒। मृ॒ड॒। वि॒दधे॑। गृ॒णा॒ना। तस्यै॑। ते॒। नमः॑। अ॒स्तु॒। दे॒वि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

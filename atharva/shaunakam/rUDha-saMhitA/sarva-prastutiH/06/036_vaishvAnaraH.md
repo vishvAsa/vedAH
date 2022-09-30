@@ -43,8 +43,11 @@ In praise of Agni Vaisvanara
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्। अज॑स्रं घ॒र्ममी॑महे ॥
+ऋ॒तावा॑नं वैश्वान॒रमृ॒तस्य॒ ज्योति॑ष॒स्पति॑म्।  
+अज॑स्रं घ॒र्ममी॑महे ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
@@ -76,7 +79,7 @@ The immortal cauldron we seek.
 </details>
 <details><summary>पदपाठः</summary>
 
-ऋतऽवानम्। वैश्वानरम्। ऋतस्य। ज्योतिषः। पतिम्। अजस्रम्। घर्मम्। ईमहे। ३६.१।
+ऋ॒तऽवा॑नम्। वै॒श्वा॒न॒रम्। ऋ॒तस्य॑। ज्योति॑षः। पति॑म्। अज॑स्रम्। घ॒र्मम्। ई॒म॒हे॒। ३६.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -107,14 +110,17 @@ The immortal cauldron we seek.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-स विश्वा॑ प्रति॑ चाक्लृप ऋ॒तूंरुत् सृ॑जते व॒शी।  
-य॒ज्ञस्य॒ वय॑ उत्ति॒रन्॥२॥  
+स विश्वा॒ प्रति॑ चाक्लृप ऋ॒तूंरुत्सृ॑जते व॒शी।  
+य॒ज्ञस्य॒ वय॑ उत्ति॒रन् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-स विश्वा॒ प्रति॑ चाक्लृप ऋ॒तूंरुत्सृ॑जते व॒शी। य॒ज्ञस्य॒ वय॑ उत्ति॒रन् ॥
+स विश्वा॒ प्रति॑ चाक्लृप ऋ॒तूंरुत्सृ॑जते व॒शी।  
+य॒ज्ञस्य॒ वय॑ उत्ति॒रन् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/02_sa_vishvA.md">
@@ -144,7 +150,7 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 </details>
 <details><summary>पदपाठः</summary>
 
-सः। विश्वा। प्रति। चक्लृपे। ऋतून्। उत्। सृजते। वशी। यज्ञस्य। वयः। उत्ऽतिरन्। ३६.२।
+सः। विश्वा॑। प्रति॑। च॒क्लृ॒पे॒। ऋ॒तून्। उत्। सृ॒ज॒ते॒। व॒शी। य॒ज्ञस्य॑। वयः॑। उ॒त्ऽति॒रन्। ३६.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -175,14 +181,17 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य ।  
-स॒म्राडेको॒ वि रा॑जति ॥३॥
+अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य।  
+स॒म्राडेको॒ वि रा॑जति ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य। स॒म्राडेको॒ वि रा॑जति ॥
+अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य।  
+स॒म्राडेको॒ वि रा॑जति ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
@@ -207,7 +216,7 @@ Agni Kama in other homes shines forth the sole imperial Lord of all that is and 
 </details>
 <details><summary>पदपाठः</summary>
 
-अग्निः। परेषु। धामऽसु। कामः। भूतस्य। भव्यस्य। सम्ऽराट्‌। एकः। वि। राजति। ३६.३।
+अ॒ग्निः। परे॑षु। धाम॑ऽसु। कामः॑। भूतस्य॑। भव्य॑स्य। स॒म्ऽराट्‌। एकः॑। वि। रा॒ज॒ति॒। ३६.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

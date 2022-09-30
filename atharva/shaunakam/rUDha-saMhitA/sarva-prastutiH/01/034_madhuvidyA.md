@@ -36,14 +36,17 @@ A young man's love-charm
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि ।  
-मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥१॥  
+इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि।  
+मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि। मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥
+इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि।  
+मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
@@ -65,7 +68,7 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 </details>
 <details><summary>पदपाठः</summary>
 
-इयम्। वीरुत्। मधुऽजाता। मधुना। त्वा। खनामसि। मधोः। अधि। प्रऽजाता। असि। सा। नः। मधुऽमतः। कृधि।
+इ॒यम्। वी॒रुत्। मधु॑ऽजाता। मधु॑ना। त्वा॒। ख॒ना॒म॒सि॒। मधोः॑। अधि॑। प्रऽजा॑ता। अ॒सि॒। सा। नः॒। मधु॑ऽमतः। कृ॒धि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -97,13 +100,16 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्।  
-ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥२॥  
+ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/02_jihvAyA_agre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्। ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्।  
+ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/02_jihvAyA_agre.md">
@@ -131,7 +137,7 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 </details>
 <details><summary>पदपाठः</summary>
 
-जिह्वायाः। अग्रे। मधु। मे। जिह्वाऽमूले। मधूलकम्। मम। इत्। अह। क्रतौ। असः। मम। चित्तम्। उपऽआयसि।
+जि॒ह्वायाः॑। अग्रे॑। मधु॑। मे॒। जि॒ह्वा॒ऽमू॒ले। म॒धूल॑कम्। मम॑। इत्। अह॑। क्रतौ॑। असः॑। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,13 +169,16 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्।  
-वा॒चा व॑दामि॒ मधु॑मद् भू॒यासं॒ मधु॑संदृशः ॥३॥  
+वा॒चा व॑दामि॒ मधु॑मद्भू॒यासं॒ मधु॑संदृशः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्। वा॒चा व॑दामि॒ मधु॑मद्भू॒यासं॒ मधु॑संदृशः ॥
+मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्।  
+वा॒चा व॑दामि॒ मधु॑मद्भू॒यासं॒ मधु॑संदृशः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
@@ -193,7 +202,7 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 </details>
 <details><summary>पदपाठः</summary>
 
-मधुऽमत। मे। निऽक्रमणम्। मधुऽमत्। मे। पराऽअयनम्। वाचा। वदामि। मधुऽमत्। भूयासम्। मधुऽसंदृशः।
+मधु॑ऽमत। मे॒। नि॒ऽक्रम॑णम्। मधु॑ऽमत्। मे॒। प॒रा॒ऽअय॑नम्। वा॒चा। व॒दा॒मि॒। मधु॑ऽमत्। भू॒यास॑म्। मधु॑ऽसंदृशः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,14 +233,17 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः ।  
-मामित् किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥४॥  
+मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः।  
+मामित्किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः। मामित्किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥
+मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः।  
+मामित्किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
@@ -259,7 +271,7 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 </details>
 <details><summary>पदपाठः</summary>
 
-मधोः। अस्मि। मधुऽतरः। मदुघात्। मधुमत्ऽतरः। माम्। इत्। किल। त्वम्। वनाः। शाखाम्। मधुमतीम्ऽइव।
+मधोः॑। अ॒स्मि॒। मधु॑ऽतरः। म॒दुघा॑त्। मधु॑मत्ऽतरः। माम्। इत्। किल॑। त्वम्। वनाः॑। शाखा॑म्। मधु॑मतीम्ऽइव। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -290,14 +302,17 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/05_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे ।  
-यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥५॥
+परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे।  
+यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/05_pari_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे। यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे।  
+यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/05_pari_tvA.md">
@@ -328,7 +343,7 @@ Around thee have I girt a zone of sugar-cane to banish hate. That thou mayst be 
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। त्वा। परिऽतत्नुना। इक्षुणा। अगाम्। अविऽद्विषे। यथा। माम्। कामिनी। असः। यथा। मत्। न। अपऽगाँः। असः।
+परि॑। त्वा॒। प॒रि॒ऽत॒त्नुना॑। इ॒क्षुणा॑। अ॒गा॒म्। अवि॑ऽद्विषे। यथा॑। माम्। का॒मिनी॑। असः॑। यथा॑। मत्। न। अप॑ऽगाँः। असः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

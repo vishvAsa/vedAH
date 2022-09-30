@@ -31,21 +31,23 @@ Vratya
 </details>
 </details>
 </div>
-## ०१ तस्य व्रात्यस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/01_tasya_vrAtyasya.md">
+## ०१ तस्यव्रात्यस्य
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/01_tasyavrAtyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-तस्य॒ व्रात्य॑स्य ॥१॥  
+तस्य॒व्रात्य॑स्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/01_tasya_vrAtyasya.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/01_tasyavrAtyasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-तस्य॒ व्रात्य॑स्य ॥१॥  
+तस्य॒व्रात्य॑स्य ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/01_tasya_vrAtyasya.md">
-<details open><summary><h3>०१ तस्य व्रात्यस्य ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/01_tasyavrAtyasya.md">
+<details open><summary><h3>०१ तस्यव्रात्यस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -59,7 +61,7 @@ Of that Vratya.
 </details>
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। १८.१।
+तस्य॑। व्रात्य॑स्य। १८.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -86,21 +88,23 @@ Of that Vratya.
 </details>
 </details>
 </div>
-## ०२ यदस्य दक्षिणमक्ष्यसौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/02_yadasya_daxiNamaxyasau.md">
+## ०२ यदस्यदक्षिणमक्ष्यसौ स
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/02_yadasyadaxiNamaxyasau_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॑स्य॒ दक्षि॑ण॒मक्ष्य॒सौ स आ॑दि॒त्यो यद॑स्य स॒व्यमक्ष्य॒सौ स च॒न्द्रमाः॑ ॥२॥  
+यद॑स्य॒दक्षि॑ण॒मक्ष्य॒सौ स आ॑दि॒त्यो यद॑स्य स॒व्यमक्ष्य॒सौ स च॒न्द्रमाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/02_yadasya_daxiNamaxyasau.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/02_yadasyadaxiNamaxyasau_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद॑स्य॒ दक्षि॑ण॒मक्ष्य॒सौ स आ॑दि॒त्यो यद॑स्य स॒व्यमक्ष्य॒सौ स च॒न्द्रमाः॑ ॥२॥  
+यद॑स्य॒दक्षि॑ण॒मक्ष्य॒सौ स आ॑दि॒त्यो यद॑स्य स॒व्यमक्ष्य॒सौ स च॒न्द्रमाः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/02_yadasya_daxiNamaxyasau.md">
-<details open><summary><h3>०२ यदस्य दक्षिणमक्ष्यसौ ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/02_yadasyadaxiNamaxyasau_sa.md">
+<details open><summary><h3>०२ यदस्यदक्षिणमक्ष्यसौ स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -115,7 +119,7 @@ The right eye is the Sun and the left eye is the Moon.
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अस्य। दक्षिणम्। अक्षि। असौ। सः। आदित्यः। यत्। अस्य। सव्यम्। अक्षि। असौ। सः। चन्द्रमाः। १८.२।
+यत्। अ॒स्य॒। दक्षि॑णम्। अक्षि॑। अ॒सौ। सः। आ॒दि॒त्यः। यत्। अ॒स्य॒। स॒व्यम्। अक्षि॑। अ॒सौ। सः। च॒न्द्रमाः॑। १८.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -142,21 +146,23 @@ The right eye is the Sun and the left eye is the Moon.
 </details>
 </details>
 </div>
-## ०३ योऽस्य दक्षिणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/03_yo-sya_daxiNaH.md">
+## ०३ योऽस्यदक्षिणः कर्णोऽयम्
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/03_yo-syadaxiNaH_karNo-yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-योऽस्य॒ दक्षि॑णः॒ कर्णो॒ऽयं सो अ॒ग्निर्योऽस्य स॒व्यः कर्णो॒ऽयं स पव॑मानः ॥३॥  
+यो᳡ऽस्य॒दक्षि॑णः॒ कर्णो॒ऽयं सो अ॒ग्निर्यो᳡ऽस्य॑ स॒व्यः कर्णो॒ऽयं स पव॑मानः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/03_yo-sya_daxiNaH.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/03_yo-syadaxiNaH_karNo-yam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-योऽस्य॒ दक्षि॑णः॒ कर्णो॒ऽयं सो अ॒ग्निर्योऽस्य स॒व्यः कर्णो॒ऽयं स पव॑मानः ॥३॥  
+यो᳡ऽस्य॒दक्षि॑णः॒ कर्णो॒ऽयं सो अ॒ग्निर्यो᳡ऽस्य॑ स॒व्यः कर्णो॒ऽयं स पव॑मानः ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/03_yo-sya_daxiNaH.md">
-<details open><summary><h3>०३ योऽस्य दक्षिणः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/03_yo-syadaxiNaH_karNo-yam.md">
+<details open><summary><h3>०३ योऽस्यदक्षिणः कर्णोऽयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -171,7 +177,7 @@ His right ear is Agni and his left ear is Pavamana.
 </details>
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। दक्षिणः। कर्णः। अयम्। सः। अग्निः। यः। अस्य। सव्यः। कर्णः। अयम्। सः। पवमानः। १८.३।
+यः। अ॒स्य॒। दक्षि॑णः। कर्णः॑। अ॒यम्। सः। अ॒ग्निः। यः। अ॒स्य॒। स॒व्यः। कर्णः॑। अ॒यम्। सः। पव॑मानः। १८.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -198,21 +204,23 @@ His right ear is Agni and his left ear is Pavamana.
 </details>
 </details>
 </div>
-## ०४ अहोरात्रे नासिके
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/04_ahorAtre_nAsike.md">
+## ०४ अहोरात्रेनासिके दितिश्चादितिश्च
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒हो॒रा॒त्रे नासि॑के॒ दिति॒श्चादि॑तिश्च शीर्षकपा॒ले सं॑वत्स॒रः शिरः॑ ॥४॥  
+अ॑होरा॒त्रेनासि॑के॒ दिति॒श्चादि॑तिश्च शीर्षकपा॒ले सं॑वत्स॒रः शिरः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/04_ahorAtre_nAsike.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हो॒रा॒त्रे नासि॑के॒ दिति॒श्चादि॑तिश्च शीर्षकपा॒ले सं॑वत्स॒रः शिरः॑ ॥४॥  
+अ॑होरा॒त्रेनासि॑के॒ दिति॒श्चादि॑तिश्च शीर्षकपा॒ले सं॑वत्स॒रः शिरः॑ ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/04_ahorAtre_nAsike.md">
-<details open><summary><h3>०४ अहोरात्रे नासिके ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/04_ahorAtrenAsike_ditishchAditishcha.md">
+<details open><summary><h3>०४ अहोरात्रेनासिके दितिश्चादितिश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -227,7 +235,7 @@ Day and Night are his nostrils. Diti and Aditi are his head and skull.
 </details>
 <details><summary>पदपाठः</summary>
 
-अहोरात्रे इति। नासिके इति। दितिः। च। अदितिः। च। शीर्षकपाले इति शीर्षऽकपाले। सम्ऽवत्सरः। शिरः। १८.४।
+अ॒हो॒रा॒त्रे इति॑। नासि॑के॒ इति॑। दितिः॑। च॒। अदि॑तिः। च॒। शी॒र्ष॒क॒पा॒ले इति॑ शी॒र्ष॒ऽक॒पा॒ले। स॒म्ऽव॒त्स॒रः। शिरः॑। १८.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -254,21 +262,23 @@ Day and Night are his nostrils. Diti and Aditi are his head and skull.
 </details>
 </details>
 </div>
-## ०५ अह्ना प्रत्यङ्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/05_ahnA_pratya~N.md">
+## ०५ अह्नाप्रत्यङ्व्रात्यो रात्र्या
+<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/018_adhyAtma-prakaraNam/05_ahnApratya~NvrAtyo_rAtryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अह्ना॑ प्र॒त्यङ् व्रात्यो॒ रात्र्या॒ प्राङ् नमो॒ व्रात्या॑य ॥५॥
+अह्ना॑प्र॒त्यङ्व्रात्यो॒ रात्र्या॒ प्राङ्नमो॒ व्रात्या॑य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/05_ahnA_pratya~N.md">
+<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/018_adhyAtma-prakaraNam/05_ahnApratya~NvrAtyo_rAtryA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अह्ना॑ प्र॒त्यङ् व्रात्यो॒ रात्र्या॒ प्राङ् नमो॒ व्रात्या॑य ॥५॥
+अह्ना॑प्र॒त्यङ्व्रात्यो॒ रात्र्या॒ प्राङ्नमो॒ व्रात्या॑य ॥
+</details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/05_ahnA_pratya~N.md">
-<details open><summary><h3>०५ अह्ना प्रत्यङ् ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/018_adhyAtma-prakaraNam/05_ahnApratya~NvrAtyo_rAtryA.md">
+<details open><summary><h3>०५ अह्नाप्रत्यङ्व्रात्यो रात्र्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
 ##### Translation
@@ -287,7 +297,7 @@ By day the Vratya is turned westward, by night he is turned eastward. Worship to
 </details>
 <details><summary>पदपाठः</summary>
 
-अह्ना। प्रत्यङ्। व्रात्यः। रात्र्या। प्राङ्। नमः। व्रात्याय। १८.५।
+अह्ना॑। प्र॒त्यङ्। व्रात्यः॑। रात्र्या॑। प्राङ्। नमः॑। व्रात्या॑य। १८.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

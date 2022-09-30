@@ -37,13 +37,16 @@ A charm to ensure victory in battle
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्।  
-अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥१॥
+अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/085_ariShTanemiH/01_tyamU_Shu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्। अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
+त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्।  
+अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/01_tyamU_Shu.md">
@@ -69,7 +72,7 @@ This very mighty one whom Gods urge onward, the conqueror of cars, ever triumpha
 </details>
 <details><summary>पदपाठः</summary>
 
-त्यम्। ऊं इति। सु। वाजिनम्। देवऽजूतम्। सहःऽवानम्। तरुतारम्। रथानाम्। अरिष्टऽनेमिम्। पृतनाऽजिम्। आशुम्। स्वस्तये। तार्क्ष्यम्। इह। आ। हुवेम। ९०.१।
+त्यम्। ऊं॒ इति॑। सु। वा॒जिन॑म्। दे॒वऽजू॑तम्। सहः॑ऽवानम्। त॒रु॒तार॑म्। रथा॑नाम्। अरि॑ष्टऽनेमिम्। पृ॒त॒ना॒ऽजिम्। आ॒शुम्। स्व॒स्तये॑। तार्क्ष्य॑म्। इ॒ह। आ। हु॒वे॒म॒। ९०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

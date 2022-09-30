@@ -32,14 +32,17 @@ A charm against jaundice
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अनु॒ सूर्य॒मुद॑यतां हृद्दयो॒तो ह॑रि॒मा च॑ ते ।  
-गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥१॥  
+अनु॒ सूर्य॒मुद॑यतां हृद्द्यो॒तो ह॑रि॒मा च॑ ते।  
+गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अनु॒ सूर्य॒मुद॑यतां हृद्द्यो॒तो ह॑रि॒मा च॑ ते। गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥
+अनु॒ सूर्य॒मुद॑यतां हृद्द्यो॒तो ह॑रि॒मा च॑ ते।  
+गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
@@ -70,7 +73,7 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 </details>
 <details><summary>पदपाठः</summary>
 
-अनु। सूर्यम्। उत्। अयताम्। हृत्ऽद्योतः। हरिमा। च। ते। गोः। रोहितस्य। वर्णेन। तेन। त्वा। परि। दध्मसि।
+अनु॑। सूर्य॑म्। उत्। अ॒य॒ता॒म्। हृ॒त्ऽद्यो॒तः। ह॒रि॒मा। च॒। ते॒। गोः। रोहि॑तस्य। वर्णे॑न। तेन॑। त्वा॒। परि॑। द॒ध्म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -101,14 +104,17 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि ।  
-यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त्॥२॥  
+परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि।  
+यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि। यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त् ॥
+परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि।  
+यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
@@ -132,7 +138,7 @@ Ppp. has a different second half-verse: *yathā tvam arapā 'so atho
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। त्चा। रोहितैः। वर्णैः। दीर्घायुऽत्वाय। दध्मसि। यथा। अयम्। अरपाः। असत्। अथो इति। अहरितः। भुवत्।
+परि॑। त्चा॒। रोहि॑तैः। वर्णैः॑। दी॒र्घा॒यु॒ऽत्वाय॑। द॒ध्म॒सि॒। यथा॑। अ॒यम्। अ॒र॒पाः। अस॑त्। अथो॒ इति॑। अह॑रितः। भुव॑त्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -163,14 +169,17 @@ Ppp. has a different second half-verse: *yathā tvam arapā 'so atho
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-या रोहि॑णीर्देव॒त्या॒३ गावो॒ या उ॒त रोहि॑णीः ।  
-रू॒पंरू॑पं वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि ॥३॥  
+या रोहि॑णीर्देव॒त्या॑३ गावो॒ या उ॒त रोहि॑णीः।  
+रू॒पंरू॑पं॒ वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या रोहि॑णीर्देव॒त्या॑३ गावो॒ या उ॒त रोहि॑णीः। रू॒पंरू॑पं॒ वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि ॥
+या रोहि॑णीर्देव॒त्या॑३ गावो॒ या उ॒त रोहि॑णीः।  
+रू॒पंरू॑पं॒ वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
@@ -196,7 +205,7 @@ Rohiṇī, our Aldebaran. Ppp. reads *rohiṇīr devatyā*, and in **b**
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। रोहिणीः। देवत्याः। गावः। याः। उत। रोहिणीः। रूपम्ऽरूपम्। वयःऽवयः। ताभिः। त्वा। परि। दध्मसि।
+याः। रोहि॑णीः। दे॒व॒त्याः। गावः॑। याः। उ॒त। रोहि॑णीः। रू॒पम्ऽरू॑पम्। वयः॑ऽवयः। ताभिः॑। त्वा॒। परि॑। द॒ध्म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -227,14 +236,17 @@ Rohiṇī, our Aldebaran. Ppp. reads *rohiṇīr devatyā*, and in **b**
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-शुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि ।  
-अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि ॥४॥
+सुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि।  
+अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि। अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि ॥
+सुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि।  
+अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
@@ -261,7 +273,7 @@ a yellow water-wagtail. ⌊Ppp. has in **b** *prapaṇākāśa*.⌋
 </details>
 <details><summary>पदपाठः</summary>
 
-सुकेषु। ते। हरिमाणम्। रोपणाकासु। दध्मसि। अथो इति। हारिद्रवेषु। ते। हरिमाणम्। नि। दध्मसि।
+सुके॑षु। ते॒। ह॒रि॒माण॑म्। रो॒प॒णाका॑सु। द॒ध्म॒सि॒। अथो॒ इति॑। हारि॑द्रवेषु। ते॒। ह॒रि॒माण॑म्। नि। द॒ध्म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

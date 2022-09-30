@@ -36,14 +36,17 @@ In praise of Agni
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/071_agniH/01_pari_tvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि ।  
-धृ॒षद् व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥१॥
+परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि।  
+धृ॒षद्व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/071_agniH/01_pari_tvAgne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि। धृ॒षद्व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥
+परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि।  
+धृ॒षद्व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/071_agniH/01_pari_tvAgne.md">
@@ -77,7 +80,7 @@ We set thee round us as a fort, victorious Agni! thee a sage, Bold in thy colour
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। त्वा। अग्ने। पुरम्। वयम्। विप्रम्। सहस्य। धीमहि। धृषत्ऽवर्णम्। दिवेऽदिवे। हन्तारम्। भङ्गुरऽवतः। ७४.१।
+परि॑। त्वा॒। अ॒ग्ने॒। पुर॑म्। व॒यम्। विप्र॑म्। स॒ह॒स्य॒। धी॒म॒हि॒। धृ॒षत्ऽव॑र्णम्। दि॒वेऽदि॑वे। ह॒न्तार॑म्। भ॒ङ्गु॒रऽव॑तः। ७४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

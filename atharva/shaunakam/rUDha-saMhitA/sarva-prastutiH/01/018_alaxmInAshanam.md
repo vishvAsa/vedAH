@@ -36,14 +36,17 @@ A charm to avert evil spirits of misfortune and to secure prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निर्ल॒क्ष्म्यं ऽ लला॒म्यं॑१ निररा॑तिं सुवामसि ।  
-अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥१॥  
+निर्ल॒क्ष्म्यं॑ लला॒म्यं॑१ निररा॑तिं सुवामसि।  
+अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निर्ल॒क्ष्म्यं॑ लला॒म्यं॑१ निररा॑तिं सुवामसि। अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥
+निर्ल॒क्ष्म्यं॑ लला॒म्यं॑१ निररा॑तिं सुवामसि।  
+अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
@@ -73,7 +76,7 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 </details>
 <details><summary>पदपाठः</summary>
 
-‍निः। लक्ष्म्यम्। ललाम्यम्। निः। अरातिम्। सुवामसि। अथ। या। भद्रा। तानि। नः। प्रऽजायै। अरातिम्। नयामसि।
+‍निः। ल॒क्ष्म्यम्। ल॒ला॒म्यम्। निः। अरा॑तिम्। सु॒वा॒म॒सि॒। अथ॑। या। भ॒द्रा। तानि॑। नः॒। प्र॒ऽजायै॑। अरा॑तिम्। न॒या॒म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -104,14 +107,17 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-निरर॑णिं सवि॒ता सा॑विषक् प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा।  
-निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥२॥  
+निरर॑णिं सवि॒ता सा॑विषक्प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा।  
+निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-निरर॑णिं सवि॒ता सा॑विषक्प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा। निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥
+निरर॑णिं सवि॒ता सा॑विषक्प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा।  
+निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
@@ -143,7 +149,7 @@ Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hand
 </details>
 <details><summary>पदपाठः</summary>
 
-निः। अरणिम्। सविता। साविषक्। पदोः। निः। हस्तयोः। वरुणः। मित्रः। अर्यमा। निः। अस्मभ्यम्। अनुऽमतिः। रराणा। प्र। इमाम्। देवाः। असाविषुः। सौभगाय।
+निः। अर॑णिम्। स॒वि॒ता। सा॒वि॒ष॒क्। प॒दोः। निः। हस्त॑योः। वरु॑णः। मि॒त्रः। अ॒र्य॒मा। निः। अ॒स्मभ्य॑म्। अनु॑ऽमतिः। ररा॑णा। प्र। इ॒माम्। दे॒वाः। अ॒सा॒वि॒षुः॒। सौभ॑गाय। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -174,14 +180,17 @@ Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hand
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् त॑ आ॒त्मनि॑ त॒न्वां ऽ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा ।  
-सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥३॥  
+यत्त॑ आ॒त्मनि॑ त॒न्वां॑ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा।  
+सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्त॑ आ॒त्मनि॑ त॒न्वां॑ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा। सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥
+यत्त॑ आ॒त्मनि॑ त॒न्वां॑ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा।  
+सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
@@ -206,7 +215,7 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। ते। आत्मनि। तन्वाम्। घोरम्। अस्ति। यत्। वा। केशेषु। प्रतिऽचक्षणे। वा। सर्वम्। तत्। वाचा। अप। हन्मः। वयम्। देवः। त्वा। सविता। सूदयतु।
+यत्। ते॒। आ॒त्मनि॑। त॒न्वाम्। घो॒रम्। अस्ति॑। यत्। वा॒। केशे॑षु। प्र॒ति॒ऽचक्ष॑णे। वा॒। सर्व॑म्। तत्। वा॒चा। अप॑। ह॒न्मः॒। व॒यम्। दे॒वः। त्वा॒। स॒वि॒ता। सू॒द॒य॒तु॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -238,13 +247,16 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त।  
-वि॒ली॒ढ्यं ऽ लला॒म्यं॑१ ता अ॒स्मन्ना॑शयामसि ॥४॥
+वि॑ली॒ढ्यं॑ लला॒म्यं१॒॑ ता अ॒स्मन्ना॑शयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त। वि॑ली॒ढ्यं॑ लला॒म्यं ता अ॒स्मन्ना॑शयामसि ॥
+रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त।  
+वि॑ली॒ढ्यं॑ लला॒म्यं१॒॑ ता अ॒स्मन्ना॑शयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
@@ -273,7 +285,7 @@ Antelope-foot, and Bullock-tooth, Cow-terrifier, Vapour-form, The Licker, and th
 </details>
 <details><summary>पदपाठः</summary>
 
-रिश्यऽपदीम्। वृषऽदतीम्। गोऽसेधाम्। विऽधमाम्। उत। विऽलीढ्यम्। ललाम्यम्। ताः। अस्मत्। नाशयामसि।
+रिश्य॑ऽपदीम्। वृष॑ऽदतीम्। गो॒ऽसे॒धाम्। वि॒ऽध॒माम्। उ॒त। वि॒ऽली॒ढ्यम्। ल॒ला॒म्यम्। ताः। अ॒स्मत्। ना॒श॒या॒म॒सि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

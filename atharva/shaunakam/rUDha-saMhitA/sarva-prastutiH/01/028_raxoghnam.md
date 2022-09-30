@@ -36,14 +36,17 @@ A prayer to Agni for the destruction of evil spirits
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-उप॒ प्रागा॑द् दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः ।  
-दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न् किमी॒दिनः॑ ॥१॥  
+उप॒ प्रागा॑द्दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः।  
+दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न्किमी॒दिनः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-उप॒ प्रागा॑द्दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः। दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न्किमी॒दिनः॑ ॥
+उप॒ प्रागा॑द्दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः।  
+दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न्किमी॒दिनः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/01_upa_prAgAddevo.md">
@@ -65,7 +68,7 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 </details>
 <details><summary>पदपाठः</summary>
 
-उप। प्र। अगात्। देवः। अग्निः। रक्षःऽहा। अमीवऽचातनः। दहन्। अप। इयाविनः। यातुऽधानान्। किमीदिनः।
+उप॑। प्र। अ॒गा॒त्। दे॒वः। अ॒ग्निः। र॒क्षः॒ऽहा। अ॒मी॒व॒ऽचात॑नः। दह॑न्। अप॑। इ॒या॒विनः॑। या॒तु॒ऽधाना॑न्। कि॒मी॒दिनः॑। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/02_prati_daha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-प्रति॑ दह यातु॒धाना॒न् प्रति॑ देव किमी॒दिनः॑ ।  
-प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः ॥२॥  
+प्रति॑ दह यातु॒धाना॒न्प्रति॑ देव किमी॒दिनः॑।  
+प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/02_prati_daha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-प्रति॑ दह यातु॒धाना॒न्प्रति॑ देव किमी॒दिनः॑। प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः॑ ॥
+प्रति॑ दह यातु॒धाना॒न्प्रति॑ देव किमी॒दिनः॑।  
+प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/02_prati_daha.md">
@@ -124,7 +130,7 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 </details>
 <details><summary>पदपाठः</summary>
 
-प्रति। दह। यातुऽधानान्। प्रति। देव। किमीदिनः। प्रतीचीः। कृष्णऽवर्तने। सम्। दह। यातुऽधान्यः।
+प्रति॑। द॒ह॒। या॒तु॒ऽधाना॑न्। प्रति॑। दे॒व॒। कि॒मी॒दिनः॑। प्र॒तीचीः॑। कृ॒ष्ण॒ऽव॒र्त॒ने॒। सम्। द॒ह॒। या॒तु॒ऽधा॒न्यः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -156,13 +162,16 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
-या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा॥३॥  
+या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/03_yA_shashApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे। या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
+या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
+या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/03_yA_shashApa.md">
@@ -192,7 +201,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 </details>
 <details><summary>पदपाठः</summary>
 
-या। शशाप। शपनेन। या। अघम्। मूरम्। आऽदधे। या। रसस्य। हरणाय। जातम्। आऽरेभे। तोकम्। अत्तु। सा।
+या। श॒शाप॑। शप॑नेन। या। अ॒घम्। मूर॑म्। आ॒ऽद॒धे। या। रस॑स्य। हर॑णाय। जा॒तम्। आ॒ऽरे॒भे। तो॒कम्। अ॒त्तु॒। सा। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -223,14 +232,17 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्यऽम्।  
-अधा॑ मि॒थो वि॑के॒श्यो॒३वि घ्न॑तां यातुधा॒न्यो॒३वि तृ॑ह्यन्तामरा॒य्यः ॥४॥
+पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्य॑म्।  
+अधा॑ मि॒थो वि॑के॒श्यो॑३ वि घ्न॑तां यातुधा॒न्यो॑३ वि तृ॑ह्यन्तामरा॒य्यः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्य॑म्। अधा॑ मि॒थो वि॑के॒श्यो॑३ वि घ्न॑तां यातुधा॒न्यो॑३ वि तृ॑ह्यन्तामरा॒य्यः॑ ॥
+पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्य॑म्।  
+अधा॑ मि॒थो वि॑के॒श्यो॑३ वि घ्न॑तां यातुधा॒न्यो॑३ वि तृ॑ह्यन्तामरा॒य्यः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
@@ -257,7 +269,7 @@ Let her, the Yatudhani eat son, sister, and her daughter's. child. Now let the t
 </details>
 <details><summary>पदपाठः</summary>
 
-पुत्रम्। अत्तु। यातुऽधानीः। स्वसारम्। उत। नप्त्यम्। अध। मिथः। विऽकेश्यः। वि। घ्नताम्। यातुऽधान्यः। वि। तृह्यन्ताम्। अराय्यः।
+पु॒त्रम्। अ॒त्तु॒। या॒तु॒ऽधा॒नीः। स्वसा॑रम्। उ॒त। न॒प्त्यम्। अध॑। मि॒थः। वि॒ऽके॒श्यः। वि। घ्न॒ता॒म्। या॒तु॒ऽधा॒न्यः। वि। तृ॒ह्य॒न्ता॒म्। अ॒रा॒य्यः। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -33,14 +33,17 @@ Translated: Muir, iv2. 333; Ludwig, p. 322; Griffith, i. 296.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-य॒मो मृ॒त्युर॑घमा॒रो नि॑रृ॒थो ब॒भ्रुः श॒र्वोऽस्ता॒ नील॑शिखण्डः ।  
-दे॒व॒ज॒नाः सेन॑योत्तस्थि॒वांस॒स्ते अ॒स्माकं॒ परि॑ वृञ्जन्तु वी॒रान्॥१॥  
+य॒मो मृ॒त्युर॑घमा॒रो नि॑रृ॒थो ब॒भ्रुः श॒र्वोऽस्ता॒ नील॑शिखण्डः।  
+दे॑वज॒नाः सेन॑योत्तस्थि॒वांस॒स्ते अ॒स्माकं॒ परि॑ वृञ्जन्तु वी॒रान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-य॒मो मृ॒त्युर॑घमा॒रो नि॑रृ॒थो ब॒भ्रुः श॒र्वोऽस्ता॒ नील॑शिखण्डः। दे॑वज॒नाः सेन॑योत्तस्थि॒वांस॒स्ते अ॒स्माकं॒ परि॑ वृञ्जन्तु वी॒रान् ॥
+य॒मो मृ॒त्युर॑घमा॒रो नि॑रृ॒थो ब॒भ्रुः श॒र्वोऽस्ता॒ नील॑शिखण्डः।  
+दे॑वज॒नाः सेन॑योत्तस्थि॒वांस॒स्ते अ॒स्माकं॒ परि॑ वृञ्जन्तु वी॒रान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
@@ -65,7 +68,7 @@ Yama, Death direly fatal, the Destroyer, with his black crest, Sarva the tawny a
 </details>
 <details><summary>पदपाठः</summary>
 
-यमः। मृत्युः। अघऽमारः। निःऽऋथः। बभ्रुः। शर्वः। अस्ता। नीलऽशिखण्डः। देवऽजनाः। सेनया। उत्तस्थिऽवांसः। ते। अस्माकम्। परि। वृञ्जन्तु। वीरान्। ९३.१।
+य॒मः। मृ॒त्युः। अ॒घ॒ऽमा॒रः। निः॒ऽऋ॒थः। ब॒भ्रुः। श॒र्वः। अस्ता॑। नील॑ऽशिखण्डः। दे॒व॒ऽज॒नाः। सेन॑या। उ॒त्त॒स्थि॒ऽवांसः॑। ते। अ॒स्माक॑म्। परि॑। वृ॒ञ्ज॒न्तु॒। वी॒रान्। ९३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -96,14 +99,17 @@ Yama, Death direly fatal, the Destroyer, with his black crest, Sarva the tawny a
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/02_manasA_homairharasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मन॑सा॒ होमै॒र्हर॑सा घृ॒तेन॑ श॒र्वायास्त्र॑ उ॒त राज्ञे॑ भ॒वाय॑ ।  
-न॒म॒स्येऽभ्यो॒ नम॑ एभ्यः कृणोम्य॒न्यत्रा॒स्मद॒घवि॑षा नयन्तु ॥२॥  
+मन॑सा॒ होमै॒र्हर॑सा घृ॒तेन॑ श॒र्वायास्त्र॑ उ॒त राज्ञे॑ भ॒वाय॑।  
+न॑म॒स्ये᳡भ्यो॒ नम॑ एभ्यः कृणोम्य॒न्यत्रा॒स्मद॒घवि॑षा नयन्तु ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/02_manasA_homairharasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मन॑सा॒ होमै॒र्हर॑सा घृ॒तेन॑ श॒र्वायास्त्र॑ उ॒त राज्ञे॑ भ॒वाय॑। न॑म॒स्ये᳡भ्यो॒ नम॑ एभ्यः कृणोम्य॒न्यत्रा॒स्मद॒घवि॑षा नयन्तु ॥
+मन॑सा॒ होमै॒र्हर॑सा घृ॒तेन॑ श॒र्वायास्त्र॑ उ॒त राज्ञे॑ भ॒वाय॑।  
+न॑म॒स्ये᳡भ्यो॒ नम॑ एभ्यः कृणोम्य॒न्यत्रा॒स्मद॒घवि॑षा नयन्तु ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/02_manasA_homairharasA.md">
@@ -128,7 +134,7 @@ With mind, burnt offerings, butter, and libation, to royal Bhava and the archer 
 </details>
 <details><summary>पदपाठः</summary>
 
-मनसा। होमैः। हरसा। घृतेन। शर्वाय। अस्त्रे। उत। राज्ञे। भवाय। नमस्ये᳡भ्यः। नमः। एभ्यः। कृणोमि। अन्यत्र। अस्मत्। अघऽविषाः। नयन्तु। ९३.२।
+मन॑सा। होमैः॑। हर॑सा। घृ॒तेन॑। श॒र्वाय॑। अस्त्रे॑। उ॒त। राज्ञे॑। भ॒वाय॑। न॒म॒स्ये᳡भ्यः। नमः॑। ए॒भ्यः॒। कृ॒णो॒मि॒। अ॒न्यत्र॑। अ॒स्मत्। अ॒घऽवि॑षाः। न॒य॒न्तु॒। ९३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -159,14 +165,17 @@ With mind, burnt offerings, butter, and libation, to royal Bhava and the archer 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/03_trAyadhvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद् विश्वे॑ देवा मरुतो विश्ववेदसः ।  
-अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म ॥३॥
+त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद्विश्वे॑ देवा मरुतो विश्ववेदसः।  
+अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/03_trAyadhvaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद्विश्वे॑ देवा मरुतो विश्ववेदसः। अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म ॥
+त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद्विश्वे॑ देवा मरुतो विश्ववेदसः।  
+अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/03_trAyadhvaM_no.md">
@@ -191,7 +200,7 @@ Save us, All-Gods and all-possessing Maruts, from murderous stroke and things th
 </details>
 <details><summary>पदपाठः</summary>
 
-त्रायध्वम्। नः। अघऽविषाभ्यः। वधात्। विश्वे। देवाः। मरुतः। विश्वऽवेदसः। अग्नीषोमा। वरुणः। पूतऽदक्षाः। वातापर्जन्ययोः। सुऽमतौ। स्याम। ९३.३।
+त्राय॑ध्वम्। नः॒। अ॒घऽवि॑षाभ्यः। व॒धात्। विश्वे॑। दे॒वाः॒। म॒रु॒तः॒। वि॒श्व॒ऽवे॒द॒सः॒। अ॒ग्नीषोमा॑। वरु॑णः। पू॒तऽद॑क्षाः। वा॒ता॒प॒र्ज॒न्ययोः॑। सु॒ऽम॒तौ। स्या॒म॒। ९३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

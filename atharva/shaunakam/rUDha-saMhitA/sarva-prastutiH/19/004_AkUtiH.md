@@ -36,15 +36,17 @@ A prayer, accompanying sacrifice, for the attainment of a wish
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः ।  
-तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥१॥  
+यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः।  
+तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः ।  
-तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥१॥  
+यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः।  
+तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
@@ -83,7 +85,7 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। आऽहुतिम्। प्रथमाम्। अथर्वा। या। जाता। या। हव्यम्। अकृणोत्। जातऽवेदाः। ताम्। ते। एताम्। प्रथमः। जोहवीमि। ताभिः। स्तुप्तः। वहतु। हव्यम्। अग्निः। अग्नये। स्वाहा। ४.१।
+याम्। आऽहु॑तिम्। प्र॒थ॒माम्। अथ॑र्वा। या। जा॒ता॑। या। ह॒व्यम्। अकृ॑णोत्। जा॒तऽवे॑दाः। ताम्। ते॒। ए॒ताम्। प्र॒थ॒मः। जो॒ह॒वी॒मि॒। ताभिः॑। स्तु॒प्तः। व॒ह॒तु॒। ह॒व्यम्। अ॒ग्निः। अ॒ग्नये॑। स्वाहा॑। ४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -114,15 +116,17 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु ।  
-यामा॒शामे॑मि॒ केव॑ली॒ सा मे॑ अस्तु॒ विदे॑यमेनां॒ मन॑सि॒ प्रवि॑ष्टाम्॥२॥  
+आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
+यामा॒शामेमि॒ केव॑ली॒ सा मे॑ अस्तु वि॒देय॑मेनां॒ मन॑सि॒ प्रवि॑ष्टाम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु ।  
-यामा॒शामे॑मि॒ केव॑ली॒ सा मे॑ अस्तु॒ विदे॑यमेनां॒ मन॑सि॒ प्रवि॑ष्टाम्॥२॥  
+आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
+यामा॒शामेमि॒ केव॑ली॒ सा मे॑ अस्तु वि॒देय॑मेनां॒ मन॑सि॒ प्रवि॑ष्टाम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/02_AkUtiM_devIm.md">
@@ -153,7 +157,7 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽकूतिम्। देवीम्। सुऽभगाम्। पुरः। दधे। चित्तस्य। माता। सुऽहवा। नः। अस्तु। याम्। आऽशाम्। एमि। केवली। सा। मे। अस्तु। विदेयम्। एनाम्। मनसि। प्रऽविष्टाम्। ४.२।
+आऽकू॑तिम्। दे॒वीम्। सु॒ऽभगा॑म्। पु॒रः। द॒धे॒। चि॒त्तस्य॑। मा॒ता। सु॒ऽहवा॑। नः॒। अ॒स्तु॒। याम्। आ॒ऽशाम्। ए॒मि॒। केव॑ली। सा। मे॒। अ॒स्तु॒। विदे॑यम्। ए॒ना॒म्। मन॑सि। प्रऽवि॑ष्टाम्। ४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -184,15 +188,17 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/03_AkUtyA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि ।  
-अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥३॥  
+आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि।  
+अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/03_AkUtyA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि ।  
-अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥३॥  
+आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि।  
+अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/03_AkUtyA_no.md">
@@ -214,7 +220,7 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 </details>
 <details><summary>पदपाठः</summary>
 
-आऽकूत्या। नः। बृहस्पते। आऽकूत्या। नः। उप। आ। गहि। अथो इति। भगस्य। नः। धेहि। अथो इति। नः। सुऽहवः। भव। ४.३।
+आऽकू॑त्या। नः॒। बृ॒ह॒स्प॒ते॒। आऽकू॑त्या। नः॒। उप॑। आ। ग॒हि॒। अथो॒ इति॑। भग॑स्य। नः॒। धे॒हि॒। अथो॒ इति॑। नः॒। सु॒ऽहवः॑। भ॒व॒। ४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -246,14 +252,16 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पति॑र्म॒ आकू॑तिमाङ्गिर॒सः प्रति॑ जानातु॒ वाच॑मे॒ताम्।  
-यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान्॥४॥
+यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 बृह॒स्पति॑र्म॒ आकू॑तिमाङ्गिर॒सः प्रति॑ जानातु॒ वाच॑मे॒ताम्।  
-यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान्॥४॥
+यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
@@ -284,7 +292,7 @@ Prajapati Angirasa with favour regard this word and this my settled purpose! May
 </details>
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिः। मे। आऽकूतिम्। आङ्गिरसः। प्रति। जानातु। वाचम्। एताम्। यस्य। देवाः। देवताः। सम्ऽबभूवुः। सः। सुऽप्रनीताः। कामः। अनु। एतु। अस्मान्। ४.४।
+बृह॒स्पतिः॑। मे॒। आऽकू॑तिम्। आ॒ङ्गि॒र॒सः। प्रति॑। जा॒ना॒तु॒। वाच॑म्। ए॒ताम्। यस्य॑। दे॒वाः। दे॒वताः॑। स॒म्ऽब॒भू॒वुः॒। सः। सु॒ऽप्रनी॑ताः। कामः॑। अनु॑। ए॒तु॒। अ॒स्मान्। ४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

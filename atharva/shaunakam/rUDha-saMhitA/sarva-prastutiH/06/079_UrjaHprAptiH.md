@@ -36,14 +36,17 @@ A prayer for seasonable rain and prosperity
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु ।  
-अस॑मातिं गृहेषु॑ नः ॥१॥  
+अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु।  
+अस॑मातिं गृ॒हेषु॑ नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु। अस॑मातिं गृ॒हेषु॑ नः ॥
+अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु।  
+अस॑मातिं गृ॒हेषु॑ नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/01_ayaM_no.md">
@@ -74,7 +77,7 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्। नः। नभसः। पतिः। सम्ऽस्फानः। अभि। रक्षतु। असमातिम्। गृहेषु। नः। ७९.१।
+अ॒यम्। नः॒। नभ॑सः। पतिः॑। स॒म्ऽस्फानः॑। अ॒भि। र॒क्ष॒तु॒। अस॑मातिम्। गृ॒हेषु॑। नः॒। ७९.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -105,14 +108,17 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-त्वं नो॑ नभसस्पत ऊर्जं॑ गृ॒हेषु॑ धारय ।  
-आ पु॒ष्टमेत्वा वसु॑ ॥२॥  
+त्वं नो॒ नभ॑सस्पत॒ ऊर्जं॑ गृ॒हेषु॑ धारय।  
+आ पु॒ष्टमे॒त्वा वसु॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-त्वं नो॒ नभ॑सस्पत॒ ऊर्जं॑ गृ॒हेषु॑ धारय। आ पु॒ष्टमे॒त्वा वसु॑ ॥
+त्वं नो॒ नभ॑सस्पत॒ ऊर्जं॑ गृ॒हेषु॑ धारय।  
+आ पु॒ष्टमे॒त्वा वसु॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/02_tvaM_no.md">
@@ -134,7 +140,7 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 </details>
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। नभसः। पते। ऊर्जम्। गृहेषु। धारय। आ। पुष्टम्। एतु। आ। वसु। ७९.२।
+त्वम्। नः॒। न॒भ॒सः॒। प॒ते॒। ऊर्ज॑म्। गृ॒हेषु॑। धा॒र॒य॒। आ। पु॒ष्टम्। ए॒तु॒। आ। वसु॑। ७९.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-देव॑ संस्फान सहस्रापो॒षस्ये॑शिषे ।  
-तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥३॥
+देव॑ सं॒स्फान॑ सहस्रापो॒षस्ये॑शिषे।  
+तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-देव॑ सं॒स्फान॑ सहस्रापो॒षस्ये॑शिषे। तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥
+देव॑ सं॒स्फान॑ सहस्रापो॒षस्ये॑शिषे।  
+तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
@@ -200,7 +209,7 @@ Thou, God bedewed with drops, art Lord of infinite prosperity. Grant us thereof,
 </details>
 <details><summary>पदपाठः</summary>
 
-देव। सम्ऽस्फान। सहस्रऽपोषस्य। ईशिषे। तस्य। नः। रास्व। तस्य। नः। धेहि। तस्य। ते। भक्तिऽवांसः। स्याम। ७९.३।
+देव॑। स॒म्ऽस्फा॒न॒। स॒ह॒स्र॒ऽपो॒षस्य॑। ई॒शि॒षे॒। तस्य॑। नः॒। रा॒स्व॒। तस्य॑। नः। धे॒हि॒। तस्य॑। ते॒। भ॒क्ति॒ऽवांसः॑। स्या॒म॒। ७९.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

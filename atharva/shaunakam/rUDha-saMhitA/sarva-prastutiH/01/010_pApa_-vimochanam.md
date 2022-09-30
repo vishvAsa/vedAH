@@ -36,14 +36,17 @@ Absolution of a sinner after intercession with Varuna
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑ ।  
-तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥१॥  
+अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑।  
+तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑। तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥
+अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑।  
+तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
@@ -69,7 +72,7 @@ This Lord is the Gods' ruler; for the wishes of Varuna the King must be accompli
 </details>
 <details><summary>पदपाठः</summary>
 
-अयम्‍। देवानाम्‍। असुरः। वि। राजति। वशा। हि। सत्या। वरुणस्य। राज्ञः। ततः। परि। ब्रह्मणा। शाशदानः। उग्रस्य। मन्योः। उत्‍। इमम्‍। नयामि।
+अ॒यम्‍। दे॒वाना॑म्‍। असु॑रः। वि। रा॒ज॒ति॒। वशा॑। हि। स॒त्या। वरु॑णस्य। राज्ञः॑। ततः॑। परि॑। ब्रह्म॑णा। शाश॑दानः। उ॒ग्रस्य॑। म॒न्योः। उत्‍। इ॒मम्‍। न॒या॒मि॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,14 +103,17 @@ This Lord is the Gods' ruler; for the wishes of Varuna the King must be accompli
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते राजन् वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॒ऽग्र निचि॒केषि॑ द्रु॒ग्धम् ।  
-स॒हस्र॑म॒न्यान् प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम्॥२॥  
+नम॑स्ते राजन्वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॑ग्र निचि॒केषि॑ द्रु॒ग्धम्।  
+स॒हस्र॑म॒न्यान्प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते राजन्वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॑ग्र निचि॒केषि॑ द्रु॒ग्धम्। स॒हस्र॑म॒न्यान्प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम् ॥
+नम॑स्ते राजन्वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॑ग्र निचि॒केषि॑ द्रु॒ग्धम्।  
+स॒हस्र॑म॒न्यान्प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
@@ -134,7 +140,7 @@ Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest ever
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। राजन्‍। वरुण। अस्तु। मन्यवे। विश्वम्‍। हि। उग्र। निऽचिकेषि। द्रुग्धम्‍। सहस्रम्‍। अन्यान्‍। प्र। सुवामि। साकम्‍। शतम्‍। जीवाति। शरदः। तव। अयम्‍।
+नमः॑। ते॒। रा॒ज॒न्‍। व॒रु॒ण॒। अ॒स्तु॒। म॒न्यवे॑। विश्व॑म्‍। हि। उ॒ग्र॒। नि॒ऽचि॒केषि॑। द्रु॒ग्धम्‍। स॒हस्र॑म्‍। अ॒न्यान्‍। प्र। सु॒वा॒मि॒। सा॒कम्‍। श॒तम्‍। जी॒वा॒ति॒। श॒रदः॑। तव॑। अ॒यम्‍। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -165,14 +171,17 @@ Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest ever
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यदु॒वक्थानृ॑तं जि॒ह्वया॑ वृजि॒नं ब॒हु।  
-राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम्॥३॥  
+यदु॒वक्थानृ॑तम्जि॒ह्वया॑ वृजि॒नं ब॒हु।  
+राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यदु॒वक्थानृ॑तम्जि॒ह्वया॑ वृजि॒नं ब॒हु। राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम् ॥
+यदु॒वक्थानृ॑तम्जि॒ह्वया॑ वृजि॒नं ब॒हु।  
+राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
@@ -193,7 +202,7 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्‍। उवक्थ। अनृतम्‍। जिह्वया। वृजिनम्‍। बहु। राज्ञः। त्वा। सत्यऽधर्मणः। मुञ्चामि। वरुणात्। अहम्।
+यत्‍। उ॒वक्थ॑। अनृ॑तम्‍। जि॒ह्वया॑। वृ॒जि॒नम्‍। ब॒हु। राज्ञः॑। त्वा॒। स॒त्यऽध॑र्मणः। मु॒ञ्चामि॑। वरु॑णात्। अ॒हम्। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -224,14 +233,17 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑ ।  
-स॒जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥४॥
+मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑।  
+स॑जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑। स॑जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥
+मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑।  
+स॑जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
@@ -258,7 +270,7 @@ I free thee from Vaisvanara, from the great surging flood of sin. Call thou thy 
 </details>
 <details><summary>पदपाठः</summary>
 
-मुञ्चामि। त्वा। वैश्वानरात्। अर्णवात्। महतः। परि। सऽजातान्। उग्र। इह। आ। वद। ब्रह्म। च। अप। चिकीहि। नः।
+मु॒ञ्चामि॑। त्वा॒। वै॒श्वा॒न॒रात्। अ॒र्ण॒वात्। म॒ह॒तः। परि॑। स॒ऽजा॒तान्। उ॒ग्र॒। इ॒ह। आ। व॒द॒। ब्रह्म॑। च॒। अप॑। चि॒की॒हि॒। नः॒। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

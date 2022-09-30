@@ -36,14 +36,17 @@ A prayer for delivery from sin and sickness
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/01_somArudrA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमा॑रुद्रा॒ वि वृ॑हतं॒ विषू॑ची॒ममी॑ वा॒ या नो॒ गय॑मावि॒वेश॑ ।  
-बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत्॥१॥  
+सोमा॑रुद्रा॒ वि वृ॑हतं विषूची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑।  
+बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/01_somArudrA_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोमा॑रुद्रा॒ वि वृ॑हतं विषूची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑। बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+सोमा॑रुद्रा॒ वि वृ॑हतं विषूची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑।  
+बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/01_somArudrA_vi.md">
@@ -72,7 +75,7 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमारुद्रा। वि। वृहतम्। विषूचीम्। अमीवा। या। नः। गयम्। आऽविवेश। बाधेथाम्। दूरम्। निःऽऋतिम्। पराचैः। कृतम्। चित्। एनः। प्र। मुमुक्तम्। अस्मत्। ४३.१।
+सोमा॑रुद्रा। वि। वृ॒ह॒त॒म्। विषू॑चीम्। अमी॑वा। या। नः॒। गय॑म्। आ॒ऽवि॒वेश॑। बाधे॑थाम्। दू॒रम्। निःऽऋ॑तिम्। प॒रा॒चैः। कृ॒तम्। चि॒त्। एनः॑। प्र। मु॒मु॒क्त॒म्। अ॒स्मत्। ४३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -103,14 +106,17 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद् विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्।  
-अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त् त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत्॥२॥
+सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद्विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्।  
+अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त्त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद्विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्। अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त्त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
+सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद्विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्।  
+अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त्त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
@@ -132,7 +138,7 @@ Lay on our bodies, O ye twain, O Soma and Rudra, all those balms that heal disea
 </details>
 <details><summary>पदपाठः</summary>
 
-सोमारुद्रा। युवम्। एतानि। अस्मत्। विश्वा। तनूषु। भेषजानि। धत्तम्। अव। स्यतम्। मुञ्चतम्। यत्। नः। असत्। तनूषु। बध्दम्। कृतम्। एनः। अस्मत्। ४३.२।
+सोमा॑रुद्रा। यु॒वम्। ए॒तानि॑। अ॒स्मत्। विश्वा॑। त॒नूषु॑। भे॒ष॒जानि॑। ध॒त्त॒म्। अव॑। स्य॒त॒म्। मु॒ञ्चत॑म्। यत्। नः॒। अस॑त्। त॒नूषु॑। ब॒ध्दम्। कृ॒तम्। एनः॑। अ॒स्मत्। ४३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

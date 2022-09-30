@@ -37,14 +37,16 @@ A benediction on a newly elected King
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ दे॒वं स॑वि॒तारं॒ परि॑ दे॒वा अधा॑रयन्।  
-तेने॒मं ब्र॑ह्मणस्पते॒ परि॑ रा॒ष्ट्राय॑ धत्तन ॥१॥  
+तेने॒मं ब्र॑ह्मणस्पते॒ परि॑ रा॒ष्ट्राय॑ धत्तन ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/01_yena_devam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
 येन॑ दे॒वं स॑वि॒तारं॒ परि॑ दे॒वा अधा॑रयन्।  
-तेने॒मं ब्र॑ह्मणस्पते॒ परि॑ रा॒ष्ट्राय॑ धत्तन ॥१॥  
+तेने॒मं ब्र॑ह्मणस्पते॒ परि॑ रा॒ष्ट्राय॑ धत्तन ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/01_yena_devam.md">
@@ -71,7 +73,7 @@ Do ye, O Brahmanaspati, invest for the royal sway this man. With that wherewith 
 </details>
 <details><summary>पदपाठः</summary>
 
-येन। देवम्। सवितारम्। परि। देवाः। अधारयन्। तेन। इमम्। ब्रह्मणः। पते। परि। राष्ट्राय। धत्तन। २४.१।
+येन॑। दे॒वम्। स॒वि॒तार॑म्। परि॑। दे॒वाः। अधा॑रयन्। तेन॑। इ॒मम्। ब्र॒ह्म॒णः॒। प॒ते॒। परि॑। रा॒ष्ट्राय॑। ध॒त्त॒न॒। २४.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -102,15 +104,17 @@ Do ye, O Brahmanaspati, invest for the royal sway this man. With that wherewith 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/02_parImamindramAyuShe_mahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन ।  
-यथै॑नं ज॒रसे॑ न॒यां ज्योक् क्ष॒त्रेऽधि॑ जागरत्॥२॥  
+परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन।  
+यथै॑नं ज॒रसे॒ नयां ज्योक्क्ष॒त्रेऽधि॑ जागरत् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/02_parImamindramAyuShe_mahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन ।  
-यथै॑नं ज॒रसे॑ न॒यां ज्योक् क्ष॒त्रेऽधि॑ जागरत्॥२॥  
+परी॒ममिन्द्र॒मायु॑षे म॒हे क्ष॒त्राय॑ धत्तन।  
+यथै॑नं ज॒रसे॒ नयां ज्योक्क्ष॒त्रेऽधि॑ जागरत् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/02_parImamindramAyuShe_mahe.md">
@@ -146,7 +150,7 @@ Invest this Indra for long life, invest him for great princely power, That I may
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। इमम्। इन्द्रम्। आयुषे। महे। क्षत्राय। धत्तन। यथा। एनम्। जरसे। नयाम्। ज्योक्। क्षत्रे। अधि। जागरत्। २४.२।
+परि॑। इ॒मम्। इन्द्र॑म्। आयु॑षे। म॒हे। क्ष॒त्राय॑। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। क्ष॒त्रे। अधि॑। जा॒ग॒र॒त्। २४.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -177,14 +181,17 @@ Invest this Indra for long life, invest him for great princely power, That I may
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/03_parImaM_somamAyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन ।  
-यथै॑नं ज॒रसे॒ नयां ज्योक् क्ष॒त्रेऽधि॑ जागरत् ॥३॥  
+परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन।  
+यथै॑नं ज॒रसे॑ न॒यां ज्योक्श्रोत्रेऽधि॑ जागरत्॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/03_parImaM_somamAyuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन। यथै॑नं ज॒रसे॑ न॒यां ज्योक्श्रोत्रेऽधि॑ जागरत्॥
+परी॒मं सोम॒मायु॑षे म॒हे श्रोत्रा॑य धत्तन।  
+यथै॑नं ज॒रसे॑ न॒यां ज्योक्श्रोत्रेऽधि॑ जागरत्॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/03_parImaM_somamAyuShe.md">
@@ -210,7 +217,7 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। इमम्। सोमम्। आयुषे। महे। श्रोत्राय। धत्तन। यथा। एनम्। जरसे। नयाम्। ज्योक्। श्रोत्रे। अधि। जागरत्। २४.३।
+परि॑। इ॒मम्। सोम॑म्। आयु॑षे। म॒हे। श्रोत्रा॑य। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। श्रोत्रे॑। अधि॑। जा॒ग॒र॒त्। २४.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -241,15 +248,17 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/04_pari_dhatta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑ ।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत् सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥४॥  
+परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑।  
+बृह॒स्पतिः॒ प्राय॑च्छ॒द्वास॑ ए॒तत्सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/04_pari_dhatta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑ ।  
-बृह॒स्पतिः॒ प्राय॑च्छ॒द् वास॑ ए॒तत् सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥४॥  
+परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑।  
+बृह॒स्पतिः॒ प्राय॑च्छ॒द्वास॑ ए॒तत्सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/04_pari_dhatta.md">
@@ -275,7 +284,7 @@ For us, surround him, cover him with splendour, give him long life, and death wh
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। धत्त। धत्त। नः। वर्चसा। इमम्। जराऽमृत्युम्। कृणुत। दीर्घम्। आयुः। बृहस्पतिः। प्र। अयच्छत्। वासः। एतत्। सोमाय। राज्ञे। परिऽधातवै। ऊं इति। २४.४।
+परि॑। ध॒त्त॒। ध॒त्त। नः॒। वर्च॑सा। इ॒मम्। ज॒राऽमृ॑त्युम्। कृ॒णु॒त॒। दी॒र्घम्। आयुः॑। बृह॒स्पतिः॑। प्र। अ॒य॒च्छ॒त्। वासः॑। ए॒तत्। सोमा॑य। राज्ञे॑। परि॑ऽधात॒वै। ऊं॒ इति॑। २४.४। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -306,15 +315,17 @@ For us, surround him, cover him with splendour, give him long life, and death wh
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/05_jarAM_su.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-ज॒रां सु ग॑च्छ॒ परि॑ धत्स्व॒ वासो॒ भवा॑ गृष्टी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥५॥  
+ज॒रां सु ग॑च्छ॒ परि॑ धत्स्व॒ वासो॒ भवा॑ गृष्टी॒नाम॑भिशस्ति॒पा उ॑।  
+श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/05_jarAM_su.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-ज॒रां सु ग॑च्छ॒ परि॑ धत्स्व॒ वासो॒ भवा॑ गृष्टी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥५॥  
+ज॒रां सु ग॑च्छ॒ परि॑ धत्स्व॒ वासो॒ भवा॑ गृष्टी॒नाम॑भिशस्ति॒पा उ॑।  
+श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/05_jarAM_su.md">
@@ -350,7 +361,7 @@ Advance to good old age: endue the mantle. Be thou our heifers' guard from impre
 </details>
 <details><summary>पदपाठः</summary>
 
-जराम्। सु। गच्छ। परि। धत्स्व। वासः। भव। गृष्टीनाम्। अभिशस्तिऽपाः। ऊं इति। शतम्। च। जीव। शरदः। पुरूचीः। रायः। च। पोषम्। उपऽसंव्ययस्व। २४.५।
+ज॒राम्। सु। ग॒च्छ॒। परि॑। ध॒त्स्व॒। वासः॑। भव॑। गृ॒ष्टी॒नाम्। अ॒भि॒श॒स्ति॒ऽपाः। ऊं॒ इति॑। श॒तम्। च॒। जीव॑। श॒रदः॑। पु॒रू॒चीः। रा॒यः। च॒। पोष॑म्। उ॒प॒ऽसंव्य॑यस्व। २४.५। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -381,15 +392,17 @@ Advance to good old age: endue the mantle. Be thou our heifers' guard from impre
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/06_parIdaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्वापी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒चीर्वसू॑नि॒ चारु॒र्वि भ॑जासि॒ जीव॑न्॥६॥  
+परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्वापी॒नाम॑भिशस्ति॒पा उ॑।  
+श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒चीर्वसू॑नि॒ चारु॒र्वि भ॑जासि॒ जीव॑न् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/06_parIdaM_vAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्वापी॒नाम॑भिशस्ति॒पा उ॑ ।  
-श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒चीर्वसू॑नि॒ चारु॒र्वि भ॑जासि॒ जीव॑न्॥६॥  
+परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्वापी॒नाम॑भिशस्ति॒पा उ॑।  
+श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒चीर्वसू॑नि॒ चारु॒र्वि भ॑जासि॒ जीव॑न् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/06_parIdaM_vAso.md">
@@ -431,7 +444,7 @@ Thou for weal hast clothed thee in this garment: thou hast become our cows' sure
 </details>
 <details><summary>पदपाठः</summary>
 
-परि। इदम्। वासः। अधिथाः। स्वस्तये। अभूः। वापीनाम्। अभिशस्तिऽपाः। ऊं इति। शतम्। च। जीव। शरदः। पुरूचीः। वसूनि। चारुः। वि। भजासि। जीवन्। २४.६।
+परि॑। इ॒दम्। वासः॑। अ॒धि॒थाः॒। स्व॒स्तये॑। अभूः॑। वा॒पी॒नाम्। अ॒भि॒श॒स्ति॒ऽपाः। ऊं॒ इति॑। श॒तम्। च॒। जीव॑। श॒रदः॑। पु॒रू॒चीः। वसू॑नि। चारुः॑। वि। भ॒जा॒सि॒। जीव॑न्। २४.६। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -462,15 +475,17 @@ Thou for weal hast clothed thee in this garment: thou hast become our cows' sure
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/07_yogeyoge_tavastaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-योगे॑योगे त॒वस्त॑रं वाजे॑वाजे हवामहे ।  
-सखा॑य॒ इन्द्र॑मू॒तये॑ ॥७॥  
+योगे॑योगे त॒वस्त॑रं॒ वाजे॑वाजे हवामहे।  
+सखा॑य॒ इन्द्र॑मू॒तये॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/07_yogeyoge_tavastaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-योगे॑योगे त॒वस्त॑रं वाजे॑वाजे हवामहे ।  
-सखा॑य॒ इन्द्र॑मू॒तये॑ ॥७॥  
+योगे॑योगे त॒वस्त॑रं॒ वाजे॑वाजे हवामहे।  
+सखा॑य॒ इन्द्र॑मू॒तये॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/07_yogeyoge_tavastaram.md">
@@ -493,7 +508,7 @@ In every need, in every fray we call, as friends, to succour us, Indra the might
 </details>
 <details><summary>पदपाठः</summary>
 
-योगेऽयोगे। तवःऽतरम्। वाजेऽवाजे। हवामहे। सखायः। इन्द्रम्। ऊतये। २४.७।
+योगे॑ऽयोगे। त॒वःऽत॑रम्। वाजे॑ऽवाजे। ह॒वा॒म॒हे॒। सखा॑यः। इन्द्र॑म्। ऊ॒तये॑। २४.७। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -524,15 +539,17 @@ In every need, in every fray we call, as friends, to succour us, Indra the might
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/024_rAShTram/08_hiraNyavarNo_ajaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-हिर॑ण्यवर्णो अ॒जरः॑ सु॒वीरो॑ ज॒रामृ॑त्युः प्र॒जया॒ सं वि॑शस्व ।  
-तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑ ॥८॥
+हिर॑ण्यवर्णो अ॒जरः॑ सु॒वीरो॑ ज॒रामृ॑त्युः प्र॒जया॒ सं वि॑शस्व।  
+तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/024_rAShTram/08_hiraNyavarNo_ajaraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-हिर॑ण्यवर्णो अ॒जरः॑ सु॒वीरो॑ ज॒रामृ॑त्युः प्र॒जया॒ सं वि॑शस्व ।  
-तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑ ॥८॥
+हिर॑ण्यवर्णो अ॒जरः॑ सु॒वीरो॑ ज॒रामृ॑त्युः प्र॒जया॒ सं वि॑शस्व।  
+तद॒ग्निरा॑ह॒ तदु॒ सोम॑ आह॒ बृह॒स्पतिः॑ सवि॒ता तदिन्द्रः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/024_rAShTram/08_hiraNyavarNo_ajaraH.md">
@@ -557,7 +574,7 @@ Gold-coloured, undecaying, blest with heroes, dwell, dying in old age, with chil
 </details>
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णः। अजरः। सुऽवीरः। जराऽमृत्युः। प्रऽजया। सम्। विशस्व। तत्। अग्निः। आह। तत्। ऊं इति। सोमः। आह। बृहस्पतिः। सविता। तत्। इन्द्रः। २४.८।
+हिर॑ण्यऽवर्णः। अ॒जरः॑। सु॒ऽवीरः॑। ज॒राऽमृ॑त्युः। प्र॒ऽजया॑। सम्। वि॒श॒स्व॒। तत्। अ॒ग्निः। आ॒ह॒। तत्। ऊं॒ इति॑। सोमः॑। आ॒ह॒। बृह॒स्पतिः॑। स॒वि॒ता। तत्। इन्द्रः॑। २४.८। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

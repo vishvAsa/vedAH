@@ -32,14 +32,17 @@ Translated: Griffith, i. 321.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे ।  
-स्क॒न्धान॒मुष्य॑ शा॒तय॑न् वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥१॥  
+यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे।  
+स्क॒न्धान॒मुष्य॑ शा॒तय॑न्वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे। स्क॒न्धान॒मुष्य॑ शा॒तय॑न्वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे।  
+स्क॒न्धान॒मुष्य॑ शा॒तय॑न्वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
@@ -62,7 +65,7 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। अश्नामि। बलम्। कुर्वे। इत्थम्। वज्रम्। आ। ददे। स्कन्धान्। अमुष्य। शातयन्। वृत्रस्यऽइव। शचीऽपतिः। १३५.१।
+यत्। अ॒श्नामि॑। बल॑म्। कु॒र्वे॒। इ॒त्थम्। वज्र॑म्। आ। द॒दे॒। स्क॒न्धान्। अ॒मुष्य॑। शा॒तय॑न्। वृ॒त्रस्य॑ऽइव। शची॒ऽपतिः॑। १३५.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -93,14 +96,17 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यत् पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः ।  
-प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम्॥२॥  
+यत्पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः।  
+प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यत्पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः। प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम् ॥
+यत्पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः।  
+प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
@@ -121,7 +127,7 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। पिबामि। सम्। पिबामि। समुद्रःऽइव। सम्ऽपिबः। प्राणान्। अमुष्य। सम्ऽपाय। सम्। पिबामः। अमुम्। वयम्। १३५.२।
+यत्। पिबा॑मि। सम्। पि॒बा॒मि॒। स॒मु॒द्रःऽइ॑व। स॒म्ऽपि॒बः। प्रा॒णान्। अ॒मुष्य॑। स॒म्ऽपाय॑। सम्। पि॒बा॒मः॒। अ॒मुम्। व॒यम्। १३५.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यद् गिरा॑मि॒ सं गि॑रामि समु॒द्र इ॑व संगि॒रः ।  
-प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम्॥३॥
+यद्गिरा॑मि॒ सं गिरा॑मि समु॒द्र इ॑व संगि॒रः।  
+प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यद्गिरा॑मि॒ सं गिरा॑मि समु॒द्र इ॑व संगि॒रः। प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम् ॥
+यद्गिरा॑मि॒ सं गिरा॑मि समु॒द्र इ॑व संगि॒रः।  
+प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
@@ -182,7 +191,7 @@ Whate'er I eat I swallow up, even as the sea that swallows all. Swallowing that 
 </details>
 <details><summary>पदपाठः</summary>
 
-यत्। गिरामि। सम्। गिरामि। समुद्रःऽइव। सम्ऽगिरः। प्राणान्। अमुष्य। सम्ऽगीर्य। सम्। गिरामः। अमुम्। वयम्। १३५.३।
+यत्। गिरा॑मि। सम्। गि॒रा॒मि॒। स॒मु॒द्रःऽइ॑व। स॒म्ऽगि॒रः। प्रा॒णान्। अ॒मुष्य॑। स॒म्ऽगीर्य॑। सम्। गि॒रा॒मः॒। अ॒मुम्। व॒यम्। १३५.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

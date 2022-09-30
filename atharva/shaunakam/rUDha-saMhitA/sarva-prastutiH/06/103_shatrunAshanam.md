@@ -33,13 +33,16 @@ Translated: Ludwig, p. 518; Griffith, i. 301.
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्।  
-सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥१॥  
+सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/01_sandAnaM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्। सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥
+सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्।  
+सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/01_sandAnaM_vo.md">
@@ -60,7 +63,7 @@ Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryama
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्ऽदानम्। वः। बृहस्पतिः। सम्ऽदानम्। सविता। करत्। सम्ऽदानम्। मित्रः। अर्यमा। सम्ऽदानम्। भगः। अश्विना। १०३.१।
+स॒म्ऽदान॑म्। वः॒। बृह॒स्पतिः॑। स॒म्ऽदान॑म्। स॒वि॒ता। क॒र॒त्। स॒म्ऽदान॑म्। मि॒त्रः। अ॒र्य॒मा। स॒म्ऽदान॑म्। भगः॑। अ॒श्विना॑। १०३.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,13 +95,16 @@ Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryama
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्।  
-इन्द्र॒स्तान् पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम्॥२॥  
+इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्। इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्।  
+इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
@@ -121,7 +127,7 @@ I bind together all of them, the first, the last, the middlemost. Indra hath gir
 </details>
 <details><summary>पदपाठः</summary>
 
-सम्। परमान्। सम्। अवमान्। अथो इति। सम्। द्यामि। मध्यमान्। इन्द्रः। तान्। परि। अहाः। दाम्ना। तान्। अग्ने। सम्। द्य। त्वम्। १०३.२।
+सम्। प॒र॒मान्। सम्। अ॒व॒मान्। अथो॒ इति॑। सम्। द्या॒मि॒। म॒ध्य॒मान्। इन्द्रः॑। तान्। परि॑। अ॒हाः॒। दाम्ना॑। तान्। अ॒ग्ने॒। सम्। द्य॒। त्वम्। १०३.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ I bind together all of them, the first, the last, the middlemost. Indra hath gir
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/03_amI_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-अ॒मी ये युध॑मा॒यन्ति॑ के॒तून् कृ॒त्वानी॑क॒शः ।  
-इन्द्र॒स्तान् पर्य॑हा॒र्दाम्न॒ तान॑ग्ने॒ सं द्या॒ त्वम्॥३॥
+अ॒मी ये युध॑मा॒यन्ति॑ के॒तून्कृ॒त्वानी॑क॒शः।  
+इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/03_amI_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒मी ये युध॑मा॒यन्ति॑ के॒तून्कृ॒त्वानी॑क॒शः। इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+अ॒मी ये युध॑मा॒यन्ति॑ के॒तून्कृ॒त्वानी॑क॒शः।  
+इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/03_amI_ye.md">
@@ -180,7 +189,7 @@ Those yonder who approach to fight, with banners raised along their ranks, Indra
 </details>
 <details><summary>पदपाठः</summary>
 
-अमी इति। ये। युधम्। आऽयन्ति। केतून्। कृत्वा। अनीकऽशः। इन्द्रः। तान्। परि। अहाः। दाम्ना। तान्। अग्ने। सम्। द्य। त्वम्। १०३.३।
+अ॒मी इति॑। ये। युध॑म्। आ॒ऽयन्ति॑। के॒तून्। कृ॒त्वा। अ॒नी॒क॒ऽशः। इन्द्रः॑। तान्। परि॑। अ॒हाः॒। दाम्ना॑। तान्। अ॒ग्ने॒। सम्। द्य॒। त्वम्। १०३.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

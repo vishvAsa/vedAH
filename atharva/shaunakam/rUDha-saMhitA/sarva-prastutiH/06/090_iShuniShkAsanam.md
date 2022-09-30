@@ -32,14 +32,17 @@ Translated: Grill, 14, 168; Griffith, i. 294; Bloomfield, 11, 506.
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च ।  
-इ॒दं ताम॒द्य त्वद् व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥१॥  
+यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च।  
+इ॒दं ताम॒द्य त्वद्व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च। इ॒दं ताम॒द्य त्वद्व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥
+यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च।  
+इ॒दं ताम॒द्य त्वद्व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/01_yAM_te.md">
@@ -61,7 +64,7 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 </details>
 <details><summary>पदपाठः</summary>
 
-याम्। ते। रुद्रः। इषुम्। आस्यत्। अङ्गेभ्यः। हृदयायः। च। इदम्। ताम्। अद्य। त्वत्। वयम्। विषूचीम्। वि। वृहामसि। ९०.१।
+याम्। ते॒। रु॒द्रः। इषु॑म्। आस्य॑त्। अङ्गे॑भ्यः। हृद॑यायः। च॒। इ॒दम्। ताम्। अ॒द्य। त्वत्। व॒यम्। विषू॑चीम्। वि। वृ॒हा॒म॒सि॒। ९०.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -92,14 +95,17 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः ।  
-तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥२॥  
+यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः।  
+तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः। तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥
+यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः।  
+तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
@@ -121,7 +127,7 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 </details>
 <details><summary>पदपाठः</summary>
 
-याः। ते। शतम्। धमनयः। अङ्गानि। अनु। विऽस्थिताः। तासाम्। ते। सर्वासाम्। वयम्। निः। विषाणि। ह्वयामसि। ९०.२।
+याः। ते॒। श॒तम्। ध॒मन॑यः। अङ्गा॑नि। अनु॑। विऽस्थि॑ताः। तासा॑म्। ते॒। सर्वा॑साम्। व॒यम्। निः। वि॒षाणि॑। ह्व॒या॒म॒सि॒। ९०.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -152,14 +158,17 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 <div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
-नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै ।  
-नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥३॥
+नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै।  
+नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै। नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥
+नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै।  
+नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
@@ -182,7 +191,7 @@ Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to
 </details>
 <details><summary>पदपाठः</summary>
 
-नमः। ते। रुद्र। अस्यते। नमः। प्रतिऽहितायै। नमः। विऽसृज्यमानायै। नमः। निऽपतितायै। ९०.३।
+नमः॑। ते॒। रु॒द्र॒। अस्य॑ते। नमः॑। प्रति॑ऽहितायै। नमः॑। वि॒ऽसृ॒ज्यमा॑नायै। नमः॑। निऽप॑तितायै। ९०.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

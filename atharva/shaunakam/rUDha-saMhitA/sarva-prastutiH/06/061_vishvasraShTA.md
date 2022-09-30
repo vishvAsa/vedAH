@@ -37,13 +37,16 @@ A prayer for prosperity and greatness
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मह्य॒मापो॒ मधु॑म॒देर॑यन्तां॒ मह्यं॒ सूरो॑ अभर॒ज्ज्योति॑षे॒ कम्।  
-मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात्॥१॥  
+मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात् ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-मह्य॒मापो॒ मधु॑म॒देर॑यन्तां॒ मह्यं॒ सूरो॑ अभर॒ज्ज्योति॑षे॒ कम्। मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात् ॥
+मह्य॒मापो॒ मधु॑म॒देर॑यन्तां॒ मह्यं॒ सूरो॑ अभर॒ज्ज्योति॑षे॒ कम्।  
+मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात् ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
@@ -68,7 +71,7 @@ The Waters send me what is sweet and pleasant, Sura bring all I need for light a
 </details>
 <details><summary>पदपाठः</summary>
 
-मह्यम्। आपः। मधुऽमत्। आ। ईरयन्ताम्। मह्यम्। सुरः। अभरत्। ज्योतिषे। कम्। मह्यम्। देवाः। उत। विश्वे। तपःऽजाः। मह्यम्। देवः। सविता। व्यचः। धात्। ६१.१।
+मह्य॑म्। आपः॑। मधु॑ऽमत्। आ। ई॒र॒य॒न्ता॒म्। मह्य॑म्। सुरः॑। अ॒भ॒र॒त्। ज्योति॑षे। कम्। मह्य॑म्। दे॒वाः। उ॒त। विश्वे॑। त॒पः॒ऽजाः। मह्य॑म्। दे॒वः। स॒वि॒ता। व्यचः॑। धा॒त्। ६१.१। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -100,13 +103,16 @@ The Waters send me what is sweet and pleasant, Sura bring all I need for light a
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हं वि॑वेच पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सा॒कम्।  
-अ॒हं स॒त्यमनृ॑तं॒ यद् वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥२॥  
+अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/02_ahaM_vivecha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं वि॑वेच पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सा॒कम्। अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥
+अ॒हं वि॑वेच पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सा॒कम्।  
+अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/02_ahaM_vivecha.md">
@@ -137,7 +143,7 @@ I set the heaven and the earth asunder, I brought all seven sea- sons into being
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। विवेच। पृथिवीम्। उत। द्याम्। अहम्। ऋतन्। अजनयम्। सप्त। साकम्। अहम्। सत्यम्। अनृतम्। यत्। वदामि। अहम्। दैवीम्। परि। वाचम्। विशः। च। ६१.२।
+अ॒हम्। वि॒वे॒च॒। पृ॒थि॒वीम्। उ॒त। द्याम्। अ॒हम्। ऋ॒तन्। अ॒ज॒न॒य॒म्। स॒प्त। सा॒कम्। अ॒हम्। स॒त्यम्। अनृ॑तम्। यत्। वदा॑मि। अ॒हम्। दैवी॑म्। परि॑। वाच॑म्। विशः॑। च॒। ६१.२। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
@@ -169,13 +175,16 @@ I set the heaven and the earth asunder, I brought all seven sea- sons into being
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्।  
-अ॒हं स॒त्वमनृ॑तं॒ यद् वदा॑मि यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥३॥
+अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑मि॒ यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/03_ahaM_jajAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
+<details><summary>मूलम् (VS)</summary>
 
-अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्। अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑मि॒ यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥
+अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्।  
+अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑मि॒ यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥
+</details>
 </details>
 </div>
 <div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/03_ahaM_jajAna.md">
@@ -204,7 +213,7 @@ I gave existence to the earth and heaven, I made the seasons and the seven river
 </details>
 <details><summary>पदपाठः</summary>
 
-अहम्। जजान। पृथिवीम्। उत। द्याम्। अहम्। ऋतून्। अजनयम्। सप्त। सिन्धून्। अहम्। सत्यम्। अनृतम्। यत्। वदामि। यः। अग्नीषोमौ। अजुषे। सखाया। ६१.३।
+अ॒हम्। ज॒जा॒न॒। पृ॒थि॒वीम्। उ॒त। द्याम्। अ॒हम्। ऋ॒तून्। अ॒ज॒न॒य॒म्। स॒प्त। सिन्धू॑न्। अ॒हम्। स॒त्यम्। अनृ॑तम्। यत्। वदा॑मि। यः। अ॒ग्नी॒षो॒मौ। अजु॑षे। सखा॑या। ६१.३। 
 </details>
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
