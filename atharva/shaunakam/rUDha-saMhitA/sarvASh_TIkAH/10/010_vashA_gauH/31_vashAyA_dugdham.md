@@ -23,7 +23,7 @@ When these, Sadhyas and Vasus, have drunk the out-pourings of the Cow, They in t
 
 <details><summary>पदपाठः</summary>
 
-वशायाः। दुग्धम्। पीत्वा। साध्याः। वसवः। च। ये। ते। वै। ब्रध्नस्य। विष्टपि। पयः। अस्याः। उप। आसते। १०.३१।
+व॒शाया॑ः। दु॒ग्धम्। पी॒त्वा। सा॒ध्याः। वस॑वः। च॒। ये। ते। वै। ब्र॒ध्नस्य॑। वि॒ष्टपि॑। पय॑ः। अ॒स्या॒ः। उप॑। आ॒स॒ते॒। १०.३१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

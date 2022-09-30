@@ -24,7 +24,7 @@ When Prana with a thunderous voice shouts his loud message to the plants, They s
 
 <details><summary>पदपाठः</summary>
 
-यत्। प्राणः। स्तनयित्नुना। अभिऽक्रन्दति। ओषधीः। प्र। वीयन्ते। गर्भान्। दधते। अथो इति। बह्वीः। वि। जायन्ते। ६.३।
+यत्। प्रा॒णः। स्त॒न॒यि॒त्नुना॑। अ॒भि॒ऽक्रन्द॑ति। ओष॑धीः। प्र। वी॒य॒न्ते॒। गर्भा॑न्। द॒ध॒ते॒। अथो॒ इति॑। ब॒ह्वीः। वि। जा॒य॒न्ते॒। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ Within the residue whereof the Gods arranged six eightieth parts--
 
 <details><summary>पदपाठः</summary>
 
-यस्य। देवाः। अकल्पन्त। उत्ऽशिष्टे। षट्। अशीतयः। ३.२१।
+यस्य॑। दे॒वाः। अक॑ल्पन्त। उत्ऽशि॑ष्टे। षट्। अ॒शी॒तय॑ः। ३.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

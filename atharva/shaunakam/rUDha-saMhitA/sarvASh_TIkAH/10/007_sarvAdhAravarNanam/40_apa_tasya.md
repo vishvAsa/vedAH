@@ -19,7 +19,7 @@ Darkness is chased away from him: he is exempt from all dist- ress. In him are a
 
 <details><summary>पदपाठः</summary>
 
-अप। तस्य। हतम्। तमः। विऽआवृतः। सः। पाप्मना। सर्वाणि। तस्मिन्। ज्योतिषि। यानि। त्रीणि। प्रजाऽपतौ। ७.४०।
+अप॑। तस्य॑। ह॒तम्। तम॑ः। वि॒ऽआवृ॑तः। सः। पा॒प्मना॑। सर्वा॑णि। तस्मि॑न्। ज्योति॑षि। यानि॑। त्रीणि॑। प्र॒जाऽप॑तौ। ७.४०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

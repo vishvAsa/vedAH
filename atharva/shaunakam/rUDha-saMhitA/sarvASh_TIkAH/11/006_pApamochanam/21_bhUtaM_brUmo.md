@@ -23,7 +23,7 @@ The spirit, yea, the spirits' Lord, ruler of spirits, we address. Together let a
 
 <details><summary>पदपाठः</summary>
 
-भूतम्। ब्रूमः। भूतऽपतिम्। भूतानाम्। उत। यः। वशी। भूतानि। सर्वा। सम्ऽगत्य। ते। नः। मुञ्चन्तु। अंहसः। ८.२१।
+भू॒तम्। ब्रू॒म॒ः। भू॒त॒ऽपति॑म्। भू॒ताना॑म्। उ॒त। यः। व॒शी। भू॒तानि॑। सर्वा॑। स॒म्ऽगत्य॑। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

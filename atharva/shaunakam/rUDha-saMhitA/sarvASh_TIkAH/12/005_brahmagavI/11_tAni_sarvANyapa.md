@@ -55,7 +55,7 @@ All these blessings of a Kshatriya depart from him when he oppresseth the Brahma
 
 <details><summary>पदपाठः</summary>
 
-तानि। सर्वाणि। अप। क्रामन्ति। ब्रह्मऽगवीम्। आऽददानस्य। जिनतः। ब्राह्मणम्। क्षत्रियस्य। ६.५।
+तानि॑। सर्वा॑णि। अप॑। क्रा॒म॒न्ति॒। ब्र॒ह्म॒ऽग॒वीम्। आ॒ऽददा॑नस्य। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

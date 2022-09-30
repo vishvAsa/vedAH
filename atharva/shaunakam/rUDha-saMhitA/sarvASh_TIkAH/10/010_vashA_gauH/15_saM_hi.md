@@ -20,7 +20,7 @@ Come with the Sun, come hitherward with every creature that hath eyes, Bearing a
 
 <details><summary>पदपाठः</summary>
 
-सम्। हि। सूर्येण। अगत। सम्। ऊं इति। सर्वेण। चक्षुषा। वशा। समुद्रम्। अति। अख्यत्। भद्रा। ज्योतींषि। बिभ्रती। १०.१५।
+सम्। हि। सूर्ये॑ण। अग॑त। सम्। ऊं॒ इति॑। सर्वे॑ण। चक्षु॑षा। व॒शा। स॒मु॒द्रम्। अति॑। अ॒ख्य॒त्। भ॒द्रा। ज्योतीं॑षि। बिभ्र॑ती। १०.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

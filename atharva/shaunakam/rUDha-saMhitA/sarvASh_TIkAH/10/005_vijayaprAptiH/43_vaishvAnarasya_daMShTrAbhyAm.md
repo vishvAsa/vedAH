@@ -20,7 +20,7 @@ Let the shot missile catch him with Vaisvanara's two mighty fangs. This offering
 
 <details><summary>पदपाठः</summary>
 
-वैश्वानरस्य। दंष्ट्राभ्याम्। हेतिः। तम्। सम्। अधात्। अभि। इयम्। तम्। प्सातु। आऽहुतिः। सम्ऽइत्। देवी। सहीयसी। ५.४३।
+वै॒श्वा॒न॒रस्य॑। दंष्ट्रा॑भ्याम्। हे॒तिः। तम्। सम्। अ॒धा॒त्। अ॒भि। इ॒यम्। तम्। प्सा॒तु॒। आऽहु॑तिः। स॒म्ऽइत्। दे॒वी। सही॑यसी। ५.४३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

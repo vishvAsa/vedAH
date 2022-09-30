@@ -20,7 +20,7 @@ When he is yoking he belongs to the All-Gods, when yoked he is Prajapati, when u
 
 <details><summary>पदपाठः</summary>
 
-युज्यमानः। वैश्वऽदेवः। युक्तः। प्रजाऽपतिः। विऽमुक्तः। सर्वम्। १२.२४।
+यु॒ज्यमा॑नः। वै॒श्व॒ऽदे॒वः। यु॒क्तः। प्र॒जाऽप॑तिः। विऽमु॑क्तः। सर्व॑म्। १२.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

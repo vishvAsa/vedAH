@@ -20,7 +20,7 @@ The Visve Devas from above shall come depressing it with might, And in the midst
 
 <details><summary>पदपाठः</summary>
 
-विश्वे। देवाः। उपरिष्टात्। उब्जन्तः। यन्तु। ओजसा। मध्येन। घ्नन्तः। यन्तु। सेनाम्। अङ्गिरसः। महीम्। ८.१३।
+विश्वे॑। दे॒वाः। उ॒परि॑ष्टात्। उ॒ब्जन्त॑ः। य॒न्तु॒। ओज॑सा। मध्ये॑न। घ्नन्त॑ः। य॒न्तु॒। सेना॑म्। अङ्गि॑रसः। म॒हीम्। ८.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ The Goat Panchaudana, when cooked, transporteth, repelling Nirriti, to the world
 
 <details><summary>पदपाठः</summary>
 
-अजः। पक्वः। स्वःऽगे। लोके। दधाति। पञ्चऽओदनः। निःऽऋतिम्। बाधमानः। तेन। लोकान्। सूर्यऽवतः। जयेम। ५.१८।
+अ॒जः। प॒क्वः। स्व॒ःऽगे। लो॒के। द॒धा॒ति॒। पञ्च॑ऽओदनः। निःऽऋ॑तिम्। बाध॑मानः। तेन॑। लो॒कान्। सूर्य॑ऽवतः। ज॒ये॒म॒। ५.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

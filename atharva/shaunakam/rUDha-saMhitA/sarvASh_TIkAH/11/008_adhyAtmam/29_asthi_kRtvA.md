@@ -25,7 +25,7 @@ Fuel they turned to bone, and then they set light waters in the frame. The molte
 
 <details><summary>पदपाठः</summary>
 
-अस्थि। कृत्वा। सम्ऽइधम्। तत्। अष्ट। आपः। असादयन्। रेतः। कृत्वा। आज्यम्। देवाः। पुरुषम्। आ। अविशन्। १०.२९।
+अस्थि॑। कृ॒त्वा। स॒म्ऽइध॑म्। तत्। अ॒ष्ट। आप॑ः। अ॒सा॒द॒य॒न्। रेत॑ः। कृ॒त्वा। आज्य॑म्। दे॒वाः। पुरु॑षम्। आ। अ॒वि॒श॒न्। १०.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

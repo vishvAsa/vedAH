@@ -21,7 +21,7 @@ O Cow, become a tracker through the curse the Brahman hath pronounced,
 
 <details><summary>पदपाठः</summary>
 
-अघ्न्ये। पदऽवीः। भव। ब्राह्मणस्य। अभिऽशस्त्या। १०.१२।
+अघ्न्ये॑। प॒द॒ऽवीः। भ॒व॒। ब्रा॒ह्म॒णस्य॑। अ॒भिऽश॑स्त्या। १०.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

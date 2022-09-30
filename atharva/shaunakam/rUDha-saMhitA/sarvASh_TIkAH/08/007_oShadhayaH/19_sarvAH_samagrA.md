@@ -21,7 +21,7 @@ Let all the congregated Plants attend and mark mine utterance, That we may rescu
 
 <details><summary>पदपाठः</summary>
 
-सर्वाः। सम्ऽअग्राः। ओषधीः। बोधन्तु। वचसः। मम। यथा। इमम्। पारयामसि। पुरुषम्। दुःऽइतात्। अधि। ७.१९।
+सर्वा॑ः। स॒म्ऽअ॒ग्राः। ओष॑धीः। बोध॑न्तु। वच॑सः। मम॑। यथा॑। इ॒मम्। पा॒रया॑मसि। पुरु॑षम्। दु॒ःऽइ॒तात्। अधि॑। ७.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

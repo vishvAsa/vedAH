@@ -22,7 +22,7 @@ Sharp as a razor when she beholdeth, she thundereth when she belloweth.
 
 <details><summary>पदपाठः</summary>
 
-क्षुरऽपविः। ईक्षमाणा। वाश्यमाना। अभि। स्फूर्जति। ७.९।
+क्षु॒रऽप॑विः। ईक्ष॑माणा। वाश्य॑माना। अ॒भि। स्फू॒र्ज॒ति॒। ७.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

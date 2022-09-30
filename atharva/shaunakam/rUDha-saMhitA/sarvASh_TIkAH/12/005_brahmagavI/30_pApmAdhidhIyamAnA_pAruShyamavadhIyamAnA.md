@@ -18,7 +18,7 @@ Misery while being additionally acquired, contumely and abuse while being put in
 
 <details><summary>पदपाठः</summary>
 
-पाप्मा। अधिऽधीयमाना। पारुष्यम्। अवऽधीयमाना। ९.३।
+पा॒प्मा। अ॒धि॒ऽधी॒यमा॑ना। पारु॑ष्यम्। अ॒व॒ऽधीयमा॑ना। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

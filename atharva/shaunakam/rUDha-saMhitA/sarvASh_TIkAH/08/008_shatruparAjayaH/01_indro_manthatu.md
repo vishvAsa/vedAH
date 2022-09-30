@@ -21,7 +21,7 @@ Indra the Shaker shake them up, brave, hero, fortdemolisher, That into thousand 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। मन्थतु। मन्थिता। शक्रः। शूरः। पुरम्ऽदरः। यथा। हनाम। सेनाः। अमित्राणाम्। सहस्रऽशः। ८.१।
+इन्द्र॑ः। म॒न्थ॒तु॒। मन्थि॑ता। श॒क्रः। शूर॑ः। पु॒र॒म्ऽद॒रः। यथा॑। हना॑म। सेना॑ः। अ॒मित्रा॑णाम्। स॒ह॒स्र॒ऽशः। ८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -18,7 +18,7 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 
 <details><summary>पदपाठः</summary>
 
-ताम्। उप। अह्वयन्त। ११.३।
+ताम्। उप॑। अ॒ह्व॒य॒न्त॒। ११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

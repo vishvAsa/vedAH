@@ -21,7 +21,7 @@ As, when the plough hath tilled the soil, the seed springs up in. fertile land, 
 
 <details><summary>पदपाठः</summary>
 
-यथा। बीजम्। उर्वरायाम्। कृष्टे। फालेन। रोहति। एव। मयि। प्रऽजा। पशवः। अन्नम्ऽअन्नम्। वि। रोहतु। ६.३३।
+यथा॑। बीज॑म्। उ॒र्वरा॑याम्। कृ॒ष्टे। फाले॑न। रोह॑ति। ए॒व। मयि॑। प्र॒ऽजा। प॒शव॑ः। अन्न॑म्ऽअन्नम्। वि। रो॒ह॒तु॒। ६.३३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

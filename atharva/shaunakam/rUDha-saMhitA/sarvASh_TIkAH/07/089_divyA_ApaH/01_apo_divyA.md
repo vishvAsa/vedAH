@@ -30,7 +30,7 @@ The heavenly Waters have I ranged: we have been sated with their dew. Here, Agni
 
 <details><summary>पदपाठः</summary>
 
-अपः। दिव्याः। अचायिषम्। रसेन। सम्। अपृक्ष्महि। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। ९४.१।
+अ॒पः। दि॒व्याः। अ॒चा॒यि॒ष॒म्। रसे॑न। सम्। अ॒पृ॒क्ष्म॒हि॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। ९४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

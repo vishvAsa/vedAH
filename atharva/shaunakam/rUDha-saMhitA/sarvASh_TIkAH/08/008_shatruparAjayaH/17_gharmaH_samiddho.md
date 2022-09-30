@@ -30,7 +30,7 @@ The Gharma hath been warmed with fire: this Homa slays a thousand men. Let Bhava
 
 <details><summary>पदपाठः</summary>
 
-घर्मः। सम्ऽइध्दः। अग्निना। अयम्। होमः। सहस्रऽहः। भवः। च। पृश्निऽबाहुः। च। शर्व। सेनाम्। अमूम्। हतम्। ८.१७।
+घ॒र्मः। सम्ऽइ॑ध्दः। अ॒ग्निना॑। अ॒यम्। होम॑ः। स॒ह॒स्र॒ऽहः। भ॒वः। च॒। पृश्नि॑ऽबाहुः। च॒। शर्व॑। सेना॑म्। अ॒मूम्। ह॒त॒म्। ८.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

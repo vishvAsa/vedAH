@@ -21,7 +21,7 @@ She mounted up, and, into four divided, she took her station in the air's mid-re
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। सभायाम्। नि। अक्रामत्। १०.८।
+सा। उत्। अ॒क्रा॒म॒त्। सा। स॒भाया॑म्। नि। अ॒क्रा॒म॒त्। १०.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

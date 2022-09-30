@@ -21,7 +21,7 @@ Affrighted by the Varana let my rivals near akin to me Pass to the region void o
 
 <details><summary>पदपाठः</summary>
 
-वरणेन। प्रऽव्यथिताः। भ्रातृव्याः। मे। सऽबन्धवः। असूर्तम्। रजः। अपि। अगुः। ते। यन्तु। अधमम्। तमः। ३.९।
+व॒र॒णेन॑। प्रऽव्य॑थिताः। भ्रातृ॑व्याः। मे॒। सऽब॑न्धवः। अ॒सूर्त॑म्। रज॑ः। अपि॑। अ॒गु॒ः। ते। य॒न्तु॒। अ॒ध॒मम्। तम॑ः। ३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

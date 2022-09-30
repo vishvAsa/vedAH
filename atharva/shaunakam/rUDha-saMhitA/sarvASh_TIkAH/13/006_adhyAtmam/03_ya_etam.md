@@ -20,7 +20,7 @@ separately described by the Anukr.
 
 <details><summary>पदपाठः</summary>
 
-यः। एतम्। देवम्। एकऽवृतम्। वेद। ६.३।
+यः। ए॒तम्। दे॒वम्। ए॒क॒ऽवृत॑म्। वेद॑। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

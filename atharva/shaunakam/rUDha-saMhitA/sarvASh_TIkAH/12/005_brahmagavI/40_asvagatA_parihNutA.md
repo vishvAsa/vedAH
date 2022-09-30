@@ -20,7 +20,7 @@ Homelessness is she when denied her rights.
 
 <details><summary>पदपाठः</summary>
 
-अस्वगता। परिऽह्नुता। ९.२।
+अ॒स्व॒गता॑। परि॑ऽह्नुता। ९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

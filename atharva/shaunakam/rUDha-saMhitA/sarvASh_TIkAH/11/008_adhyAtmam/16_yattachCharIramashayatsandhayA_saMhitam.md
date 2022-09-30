@@ -24,7 +24,7 @@ What time the might body lay firmly compact with tie and bond, Who gave its colo
 
 <details><summary>पदपाठः</summary>
 
-यत्। तत्। शरीरम्। अशयत्। सम्ऽधया। सम्ऽहितम्। महत्। येन। इदम्। अद्य। रोचते। कः। अस्मिन्। वर्णम्। आ। अभरत्। १०.१६।
+यत्। तत्। शरी॑रम्। अश॑यत्। स॒म्ऽधया॑। सम्ऽहि॑तम्। म॒हत्। येन॑। इ॒दम्। अ॒द्य। रोच॑ते। कः। अ॒स्मि॒न्। वर्ण॑म्। आ। अ॒भ॒र॒त्। १०.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

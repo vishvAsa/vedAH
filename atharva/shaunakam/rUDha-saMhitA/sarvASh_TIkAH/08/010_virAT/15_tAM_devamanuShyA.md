@@ -18,7 +18,7 @@ They drew the Waters forth with Vamadevya, with Yajnayaj- niya they milked out w
 
 <details><summary>पदपाठः</summary>
 
-ताम्। देवऽमनुष्याः᳡। अब्रुवन्। इयम्। एव। तत्। वेद। यत्। उभये। उपऽजीवेम। इमाम्। उप। ह्वयामहै। इति। ११.२।
+ताम्। दे॒व॒ऽम॒नु॒ष्या᳡ः। अ॒ब्रु॒व॒न्। इ॒यम्। ए॒व। तत्। वे॒द॒। यत्। उ॒भये॑। उ॒प॒ऽजीवे॑म। इ॒माम्। उप॑। ह्व॒या॒म॒है॒। इति॑। ११.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

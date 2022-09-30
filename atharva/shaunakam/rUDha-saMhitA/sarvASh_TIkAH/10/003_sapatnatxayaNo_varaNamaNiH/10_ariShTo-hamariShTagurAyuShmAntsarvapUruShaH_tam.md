@@ -22,7 +22,7 @@ Safe are my cattle, safe am I, long-lived with all my men around. This Varana, m
 
 <details><summary>पदपाठः</summary>
 
-अरिष्टः। अहम्। अरिष्टऽगुः। आयुष्मान्। सर्वऽपुरुषः। तम्। मा। अयम्। वरणः। मणिः। परि। पातु। दिशःऽदिशः। ३.१०।
+अरि॑ष्टः। अ॒हम्। अरि॑ष्टऽगुः। आयु॑ष्मान्। सर्व॑ऽपुरुषः। तम्। मा॒। अ॒यम्। व॒र॒णः। म॒णिः। परि॑। पा॒तु॒। दि॒शःऽदि॑शः। ३.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

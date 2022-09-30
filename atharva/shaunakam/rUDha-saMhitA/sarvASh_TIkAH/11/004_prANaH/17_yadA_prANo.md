@@ -23,7 +23,7 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 
 <details><summary>पदपाठः</summary>
 
-यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। ओषधयः। प्र। जायन्ते। अथो इति। याः। काः। च। वीरुधः। ६.१७।
+य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। ओष॑धयः। प्र। जा॒य॒न्ते॒। अथो॒ इति॑। याः। काः। च॒। वी॒रुध॑ः। ६.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

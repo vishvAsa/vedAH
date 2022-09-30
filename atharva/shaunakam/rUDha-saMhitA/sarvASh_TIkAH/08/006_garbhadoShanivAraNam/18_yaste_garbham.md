@@ -22,7 +22,7 @@ If one should touch thy coming babe or kill thine infant newly born, The yellow 
 
 <details><summary>पदपाठः</summary>
 
-यः। ते। गर्भम्। प्रतिऽमृशात्। जातम्। वा। मारयाति। ते। पिङ्गः। तम्। उग्रऽधन्वा। कृणोतु। हृदयाविधम्। ६.१८।
+यः। ते॒। गर्भ॑म्। प्र॒ति॒ऽमृ॒शात्। जा॒तम्। वा॒। मा॒रया॑ति। ते॒। पि॒ङ्गः। तम्। उ॒ग्रऽध॑न्वा। कृ॒णोतु॑। हृ॒द॒या॒विध॑म्। ६.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

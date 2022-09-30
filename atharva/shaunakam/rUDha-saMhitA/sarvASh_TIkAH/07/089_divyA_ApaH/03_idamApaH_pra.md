@@ -32,7 +32,7 @@ Ye Waters, wash away this stain and whatsoever taint be here, Each sinful wrong 
 
 <details><summary>पदपाठः</summary>
 
-इदम्। आपः। प्र। वहत। अवद्यम्। च। मलम्। च। यत्। यत्। च। अभिऽदुद्रोह। अनृतम्। यत्। च। शेपे। अभीरुणम्। ९४.३।
+इ॒दम्। आ॒प॒ः। प्र। व॒ह॒त॒। अ॒व॒द्यम्। च॒। मल॑म्। च॒। यत्। यत्। च॒। अ॒भि॒ऽदु॒द्रोह॑। अनृ॑तम्। यत्। च॒। शे॒पे। अ॒भीरु॑णम्। ९४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

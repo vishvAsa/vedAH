@@ -19,7 +19,7 @@ Snatch thou the hair from off his head, and from his body strip the skin:
 
 <details><summary>पदपाठः</summary>
 
-लोमानि। अस्य। सम्। छिन्धि। त्वचम्। अस्य। वि। वेष्टय। ११.७।
+लोमा॑नि। अ॒स्य॒। सम्। छि॒न्धि॒। त्वच॑म्। अ॒स्य॒। वि। वे॒ष्ट॒य॒। ११.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ A God, thou injurest the Gods: thou movest in the ocean's depth. Men kindle comm
 
 <details><summary>पदपाठः</summary>
 
-देवः। देवान्। मर्चयसि। अन्तः। चरसि। अर्णवे। समानम्। अग्निम्। इन्धते। तम्। विदुः। कवयः। परे। १.४०।
+दे॒वः। दे॒वान्। म॒र्च॒य॒सि॒। अ॒न्तः। च॒र॒सि॒। अ॒र्ण॒वे। स॒मा॒नम्। अ॒ग्निम्। इ॒न्ध॒ते॒। तम्। वि॒दु॒ः। क॒वय॑ः। परे॑। १.४०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

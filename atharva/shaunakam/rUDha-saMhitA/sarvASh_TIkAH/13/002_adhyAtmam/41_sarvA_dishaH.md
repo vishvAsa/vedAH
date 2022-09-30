@@ -21,7 +21,7 @@ To all the regions Rohita came, the imperial Lord of heaven. He watches over oce
 
 <details><summary>पदपाठः</summary>
 
-सर्वाः। दिशः। सम्। अचरत्। रोहितः। अधिऽपतिः। दिवः। दिवम्। समुद्रम्। आत्। भूमिम्। सर्वम्। भूतम्। वि। रक्षति। २.४१।
+सर्वा॑ः। दिश॑ः। सम्। अ॒च॒र॒त्। रोहि॑तः। अधि॑ऽपतिः। दि॒वः। दिव॑म्। स॒मु॒द्रम्। आत्। भूमि॑म्। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। २.४१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

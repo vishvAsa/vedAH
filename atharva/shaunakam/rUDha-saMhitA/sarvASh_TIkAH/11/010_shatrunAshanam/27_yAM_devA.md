@@ -7,7 +7,6 @@ title = "२७ यां देवा"
 With the [ritual] the deva-s attend, which has no failure, by that indra, the slayer of vR^itra, shall kill with the three-pronged vajra. 
 </details>
 
-
 <details><summary>Whitney</summary>
 
 ### Translation
@@ -42,7 +41,7 @@ With this which Gods attend, with this which never fails to gain its end, Let In
 
 <details><summary>पदपाठः</summary>
 
-याम्। देवाः। अनुऽतिष्ठन्ति। यस्याः। न। अस्ति। विऽराधनम्। तया। इन्द्रः। हन्तु। वृत्रऽहा। वज्रेण। त्रिऽसंधिना। १२.२७।
+याम्। दे॒वाः। अ॒नु॒ऽतिष्ठ॑न्ति। यस्या॑ः। न। अस्ति॑। वि॒ऽराध॑नम्। तया॑। इन्द्र॑ः। ह॒न्तु॒। वृ॒त्र॒ऽहा। वज्रे॑ण। त्रिऽसं॑धिना। १२.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

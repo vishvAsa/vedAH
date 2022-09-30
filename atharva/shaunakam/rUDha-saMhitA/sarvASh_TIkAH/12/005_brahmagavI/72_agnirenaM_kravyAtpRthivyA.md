@@ -20,7 +20,7 @@ From earth let the Carnivorous Agni drive him, let Vayu burn. him from mid-air's
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। एनम्। क्रव्यऽअत्। पृथिव्याः। नुदताम्। उत्। ओषतु। वायुः। अन्तरिक्षात्। महतः। वरिम्णः। १.११।
+अ॒ग्निः। ए॒न॒म्। क्र॒व्य॒ऽअत्। पृ॒थि॒व्याः। नु॒द॒ता॒म्। उत्। ओ॒ष॒तु॒। वा॒युः। अ॒न्तरि॑क्षात्। म॒ह॒तः। व॒रि॒म्णः। १.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

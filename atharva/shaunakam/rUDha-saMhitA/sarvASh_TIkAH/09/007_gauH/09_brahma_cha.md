@@ -19,7 +19,7 @@ Priestly rank and princely power are the hips, and strength is. the thigh.
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। च। क्षत्रम्। च। श्रोणी इति। बलम्। ऊरू इति। १२.९।
+ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। श्रोणी॒ इति॑। बल॑म्। ऊ॒रू इति॑। १२.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

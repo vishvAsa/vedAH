@@ -22,7 +22,7 @@ Dark-kneed, invested with a fiery mantle, Prithivi sharpen me and give me splend
 
 <details><summary>पदपाठः</summary>
 
-अग्निऽवासाः। पृथिवी। असितऽज्ञूः। त्विषिऽमन्तम्। सम्ऽशितम्। मा। कृणोतु। १.२१।
+अ॒ग्निऽवा॑साः। पृ॒थि॒वी। अ॒सि॒त॒ऽज्ञूः। त्विषि॑ऽमन्तम्। सम्ऽशि॑तम्। मा॒। कृ॒णो॒तु॒। १.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

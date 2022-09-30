@@ -21,7 +21,7 @@ The black and hairy Asura, and Stambaja and Tundika, Arayas from this girl we dr
 
 <details><summary>पदपाठः</summary>
 
-यः। कृष्णः। केशी। असुरः। स्तम्बऽजः। उत। तुण्डिकः। अरायान्। अस्याः। मुष्काभ्याम्। भंससः। अप। हन्मसि। ६.५।
+यः। कृ॒ष्णः। के॒शी। असु॑रः। स्त॒म्ब॒ऽजः। उ॒त। तुण्डि॑कः। अ॒राया॑न्। अ॒स्या॒ः। मु॒ष्काभ्या॑म्। भंस॑सः। अप॑। ह॒न्म॒सि॒। ६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

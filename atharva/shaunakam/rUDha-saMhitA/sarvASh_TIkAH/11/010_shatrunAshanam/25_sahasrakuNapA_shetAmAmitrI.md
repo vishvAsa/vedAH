@@ -23,7 +23,7 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 
 <details><summary>पदपाठः</summary>
 
-सहस्रऽकुणपा। शेताम्। आमित्री। सेना। सम्ऽअरे। वधानाम्। विऽविध्दा। ककजाऽकृता। १२.२५।
+स॒हस्र॑ऽकुणपा। शे॒ता॒म्। आ॒मि॒त्री। सेना॑। स॒म्ऽअ॒रे। व॒धाना॑म्। विऽवि॑ध्दा। क॒क॒जाऽकृ॑ता। १२.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

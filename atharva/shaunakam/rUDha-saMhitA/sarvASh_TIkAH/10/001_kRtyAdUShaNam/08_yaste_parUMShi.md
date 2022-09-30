@@ -21,7 +21,7 @@ He who composed thy limbs with thought as a deft joiner builds a car, Go to him:
 
 <details><summary>पदपाठः</summary>
 
-यः। ते। परूंषि। सम्ऽदधौ। रथस्यऽइव। ऋभुः। धिया। तम्। गच्छ। तत्र। ते। अयनम्। अज्ञातः। ते। अयम्। जनः। १.८।
+यः। ते॒। परूं॑षि। स॒म्ऽद॒धौ। रथ॑स्यऽइव। ऋ॒भुः। धि॒या। तम्। ग॒च्छ॒। तत्र॑। ते॒। अय॑नम्। अज्ञा॑तः। ते॒। अ॒यम्। जन॑ः। १.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

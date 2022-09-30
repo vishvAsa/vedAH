@@ -20,7 +20,7 @@ Who out of many, tell me, is that Skambha He in whose body are contained all thr
 
 <details><summary>पदपाठः</summary>
 
-यस्य। त्रयःऽत्रिंशत्। देवाः। अङ्गे। सर्वे। सम्ऽआहिताः। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.१३।
+यस्य॑। त्रय॑ःऽत्रिंशत्। दे॒वाः। अङ्गे॑। सर्वे॑। स॒म्ऽआहि॑ताः। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Drive off Carnivorous Agni, thou Agni who eatest not the flesh;. carry oblation 
 
 <details><summary>पदपाठः</summary>
 
-अग्ने। अक्रव्यऽअत्। निः। क्रव्यऽअदम्। नुद। आ। देवऽयजनम्। वह। २.४२।
+अग्ने॑। अ॒क्र॒व्य॒ऽअ॒त्। निः। क्र॒व्य॒ऽअद॑म्। नु॒द॒। आ। दे॒व॒ऽयज॑नम्। व॒ह॒। २.४२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

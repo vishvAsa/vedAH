@@ -21,7 +21,7 @@ Forth go the Sadhyas in their might bearing one netpole raised aloft. One pole t
 
 <details><summary>पदपाठः</summary>
 
-साध्याः। एकम्। जालऽदण्डम्। उत्ऽयत्य। यन्ति। ओजसा। रुद्राः। एकम्। वसवः। एकम्। आदित्यैः। एकः। उत्ऽयतः। ८.१२।
+सा॒ध्याः। एक॑म्। जा॒ल॒ऽद॒ण्डम्। उ॒त्ऽयत्य॑। य॒न्ति॒। ओज॑सा। रु॒द्राः। एक॑म्। वस॑वः। एक॑म्। आ॒दि॒त्यैः। एक॑ः। उत्ऽय॑तः। ८.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -30,7 +30,7 @@ From any evil we have done, act of impurity or sin, Let waters purge me and from
 
 <details><summary>पदपाठः</summary>
 
-यत्। रिप्रम्। शमलम्। चकृम। यत्। च। दुःऽकृतम्। आपः। मा। तस्मात्। शुम्भन्तु। अग्नेः। सम्ऽकसुकात्। च। यत्। २.४०।
+यत्। रि॒प्रम्। शम॑लम्। च॒कृ॒म। यत्। च॒। दु॒ःऽकृ॒तम्। आप॑ः। मा॒। तस्मा॑त्। शु॒म्भ॒न्तु॒। अ॒ग्नेः। सम्ऽक॑सुकात्। च॒। यत्। २.४०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

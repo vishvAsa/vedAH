@@ -52,7 +52,7 @@ I am victorious, I am called the lord superior on earth, Triumphant, all-o'erpow
 
 <details><summary>पदपाठः</summary>
 
-अहम्। अस्मि। सहमानः। उत्तरः। नाम। भूम्याम्। अभीषाट्। अस्मि। विश्वाषाट्। आशाम्ऽआशाम्। विऽससहिः। १.५४।
+अ॒हम्। अ॒स्मि॒। सह॑मानः। उत्त॑रः। नाम॑। भूम्या॑म्। अ॒भी॒षाट्। अ॒स्मि॒। वि॒श्वा॒षाट्। आशा॑म्ऽआशाम्। वि॒ऽस॒स॒हिः। १.५४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

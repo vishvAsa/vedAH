@@ -23,7 +23,7 @@ He waits, and aiming with his shaft smites him who first would shoot at him, And
 
 <details><summary>पदपाठः</summary>
 
-उत। हन्ति। पूर्वऽआसिनम्। प्रतिऽआदाय। अपरः। इष्वा। उत। पूर्वस्य। निऽघ्नतः। नि। हन्ति। अपरः। प्रति। १.२७।
+उ॒त। ह॒न्ति॒। पू॒र्व॒ऽआ॒सिन॑म्। प्र॒ति॒ऽआ॒दाय॑। अप॑रः। इष्वा॑। उ॒त। पूर्व॑स्य। नि॒ऽघ्न॒तः। नि। ह॒न्ति॒। अप॑रः। प्रति॑। १.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

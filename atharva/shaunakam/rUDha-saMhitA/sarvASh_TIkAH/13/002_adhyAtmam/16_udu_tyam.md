@@ -30,7 +30,7 @@ His heralds bear him up aloft, the God who knoweth all that live, Surya, that al
 
 <details><summary>पदपाठः</summary>
 
-उत्। ऊं इति। त्यम्। जातऽवेदसम्। देवम्। वहन्त᳡ देव॒यज॑नि। केतवः। दृशे। विश्वाय। सूर्यम्। २.१६।
+उत्। ऊं॒ इति॑। त्यम्। जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्त‍ि॒। के॒तव॑ः। दृ॒शे। विश्वा॑य। सूर्य॑म्। २.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 
 <details><summary>पदपाठः</summary>
 
-यत्। अभिऽवदति। दीक्षाम्। उप। एति। यत्। उदकम्। याचति। अपः। प्र। नयति। ६.४।
+यत्। अ॒भि॒ऽवद॑ति। दी॒क्षाम्। उप॑। ए॒ति॒। यत्। उ॒द॒कम्। याच॑ति। अ॒पः। प्र। न॒य॒ति॒। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

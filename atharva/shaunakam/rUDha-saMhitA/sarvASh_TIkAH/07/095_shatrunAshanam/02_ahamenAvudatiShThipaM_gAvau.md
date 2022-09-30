@@ -22,7 +22,7 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 
 <details><summary>पदपाठः</summary>
 
-अहम्। एनौ। उत्। अतिष्ठिपम्। गावौ। श्रान्तसदौऽइव। कुर्कुरौऽइव। कूजन्तौ। उत्ऽअवन्तौ। वृकौऽइव। १००.२।
+अ॒हम्। ए॒नौ॒। उत्। अ॒ति॒ष्ठि॒प॒म्। गावौ॑। श्रा॒न्त॒सदौ॑ऽइव। कु॒र्कु॒रौऽइ॑व। कूज॑न्तौ। उ॒त्ऽअव॑न्तौ। वृकौ॑ऽइव। १००.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

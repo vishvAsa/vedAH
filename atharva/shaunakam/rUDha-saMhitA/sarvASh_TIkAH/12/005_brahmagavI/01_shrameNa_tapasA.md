@@ -27,7 +27,7 @@ Created by toil and holy fervour, found by devotion, resting in right;
 
 <details><summary>पदपाठः</summary>
 
-श्रमेण। तपसा। सृष्टा। ब्रह्मणा। वित्ता। ऋते। श्रिता। ५.१।
+श्रमे॑ण। तप॑सा। सृ॒ष्टा। ब्रह्म॑णा। वि॒त्ता। ऋ॒ते। श्रि॒ता। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she y
 
 <details><summary>पदपाठः</summary>
 
-महत्। एषा। अव। तपति। चरन्ती। गोषु। गौः। अपि। अथो इति। ह। गोऽपतये। वशा। अददुषे। विषम्। दुहे। ४.३९।
+म॒हत्। ए॒षा। अव॑। त॒प॒ति॒। चर॑न्ती। गोषु॑। गौः। अपि॑। अथो॒ इति॑। ह॒। गोऽप॑तये। व॒शा। अद॑दुषे। वि॒षम्। दु॒हे॒। ४.३९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

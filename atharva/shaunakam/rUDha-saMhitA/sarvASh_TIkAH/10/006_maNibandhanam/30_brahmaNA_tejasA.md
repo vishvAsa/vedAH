@@ -23,7 +23,7 @@ I bind on me my happy fate with holy prayer and energy. Foeless destroyer of the
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मणा। तेजसा। सह। प्रति। मुञ्चामि। मे। शिवम्। असपत्नः। सपत्नऽहा। सऽपत्नान्। मे। अधरान्। अक। ६.३०।
+ब्रह्म॑णा। तेज॑सा। स॒ह। प्रति॑। मु॒ञ्चा॒मि॒। मे॒। शि॒वम्। अ॒स॒प॒त्नः। स॒प॒त्न॒ऽहा। स॒ऽपत्ना॑न्। मे॒। अध॑रान्। अ॒क॒। ६.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

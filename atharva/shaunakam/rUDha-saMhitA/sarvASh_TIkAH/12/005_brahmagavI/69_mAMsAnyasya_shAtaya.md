@@ -18,7 +18,7 @@ Tear out his sinews, cause his flesh to fall in pieces from his frame.
 
 <details><summary>पदपाठः</summary>
 
-मांसानि। अस्य। शातय। स्नावानि। अस्य। सम्। वृह। ११.८।
+मां॒सानि॑। अ॒स्य॒। शा॒त॒य॒। स्नावा॑नि। अ॒स्य॒। सम्। वृ॒ह॒। ११.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

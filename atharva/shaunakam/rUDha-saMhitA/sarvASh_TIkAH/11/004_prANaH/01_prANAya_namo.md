@@ -19,7 +19,7 @@ Homage to Prana, him who hath dominion o'er the universe, Who hath become the So
 
 <details><summary>पदपाठः</summary>
 
-प्राणाय। नमः। यस्य। सर्वम्। इदम्। वशे। यः। भूतः। सर्वस्य। ईश्वरः। यस्मिन्। सर्वम्। प्रतिऽस्थितम्। ६.१।
+प्रा॒णाय॑। नम॑ः। यस्य॑। सर्व॑म्। इ॒दम्। वशे॑। यः। भू॒तः। सर्व॑स्य। ई॒श्व॒रः। यस्मि॑न्। सर्व॑म्। प्रति॑ऽस्थितम्। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

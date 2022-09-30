@@ -21,7 +21,7 @@ The comm. explains *bradhna* as *sūryamaṇḍalamadhyavartī ”śvaraḥ*, an
 
 <details><summary>पदपाठः</summary>
 
-एतत्। वै। ब्रध्नस्य। विष्टपम्। यत्। ओदनः। ५.१।
+ए॒तत्। वै। ब्र॒ध्नस्य॑। वि॒ष्टप॑म्। यत्। ओ॒द॒नः। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

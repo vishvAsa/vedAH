@@ -18,7 +18,7 @@ Crush thou his bones together, strike and beat the marrow out of him.
 
 <details><summary>पदपाठः</summary>
 
-अस्थीनि। अस्य। पीडय। मज्जानम्। अस्य। निः। जहि। ११.९।
+अस्थी॑नि। अ॒स्य॒। पी॒ड॒य॒। म॒ज्जान॑म्। अ॒स्य॒। निः। ज॒हि॒। ११.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Nest upon nest hath been imposed, compartment on compart- ment laid: There man s
 
 <details><summary>पदपाठः</summary>
 
-कुलाये। अधि। कुलायम्। कोशे। कोशः। सम्ऽउब्जितः। तत्र। मर्तः। वि। जायते। यस्मात्। विश्वम्। प्रऽजायते। ३.२०।
+कु॒लाये॑। अधि॑। कु॒लाय॑म्। कोशे॑। कोश॑ः। सम्ऽउ॑ब्जितः। तत्र॑। मर्त॑ः। वि। जा॒य॒ते॒। यस्मा॑त्। विश्व॑म्। प्र॒ऽजाय॑ते। ३.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

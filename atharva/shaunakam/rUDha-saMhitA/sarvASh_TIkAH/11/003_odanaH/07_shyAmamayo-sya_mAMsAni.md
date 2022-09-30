@@ -19,7 +19,7 @@ Grey iron is its flesh, copper its blood.
 
 <details><summary>पदपाठः</summary>
 
-श्यामम्। अयः। अस्य। मांसानि। लोहितम्। अस्य। लोहितम्। ३.७।
+श्या॒मम्। अय॑ः। अ॒स्य॒। मां॒सानि॑। लोहि॑तम्। अ॒स्य॒। लोहि॑तम्। ३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

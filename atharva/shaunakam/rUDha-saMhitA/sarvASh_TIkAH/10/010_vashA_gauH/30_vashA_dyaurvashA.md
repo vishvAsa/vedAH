@@ -20,7 +20,7 @@ The Cow is Heaven, the Cow is Earth, the Cow is Vishnu, Lord of Life. e The Sadh
 
 <details><summary>पदपाठः</summary>
 
-वशा। द्यौः। वशा। पृथिवी। वशा। विष्णुः। प्रजाऽपतिः। वशायाः। दुग्धम्। अपिबन्। साध्याः। वसवः। च। ये। १०.३०।
+व॒शा। द्यौः। व॒शा। पृ॒थि॒वी। व॒शा। विष्णु॑ः। प्र॒जाऽप॑तिः। व॒शाया॑ः। दु॒ग्धम्। अ॒पि॒ब॒न्। सा॒ध्याः। वस॑वः। च॒। ये। १०.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

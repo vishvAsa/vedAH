@@ -21,7 +21,7 @@ Gods whose abode is in the heaven and those who dwell in middle air, And Mighty 
 
 <details><summary>पदपाठः</summary>
 
-ये। देवाः। दिविऽसदः। अन्तरिक्षऽसदः। च। ये। पृथिव्याम्। शक्राः। ये। श्रिताः। ते। नः। मुञ्चन्तु। अंहसः। ८.१२।
+ये। दे॒वाः। दि॒वि॒ऽसद॑ः। अ॒न्त॒रि॒क्ष॒ऽसद॑ः। च॒। ये। पृ॒थि॒व्याम्। श॒क्राः। ये। श्रि॒ताः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

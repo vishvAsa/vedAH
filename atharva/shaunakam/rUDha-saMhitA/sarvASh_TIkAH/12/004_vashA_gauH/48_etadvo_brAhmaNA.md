@@ -20,7 +20,7 @@ This Brahmans! is your sacrifice: thus should one think when he is asked, What t
 
 <details><summary>पदपाठः</summary>
 
-एतत्। वः। ब्राह्मणाः। हविः। इति। मन्वीत। याचितः। वशाम्। च। इत्। एनम्। याचेयुः। या। भीमा। अददुषः। गृहे। ४.४८।
+ए॒तत्। व॒ः। ब्रा॒ह्म॒णा॒ः। ह॒विः। इति॑। म॒न्वी॒त॒। या॒चि॒तः। व॒शाम्। च॒। इत्। ए॒न॒म्। याचे॑युः। या। भी॒मा। अद॑दुषः। गृ॒हे। ४.४८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

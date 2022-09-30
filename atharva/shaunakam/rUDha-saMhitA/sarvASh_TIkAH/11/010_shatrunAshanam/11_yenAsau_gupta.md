@@ -19,7 +19,7 @@ The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose pr
 
 <details><summary>पदपाठः</summary>
 
-येन। असौ। गुप्तः। आदित्यः। उभौ। इन्द्रः। च। तिष्ठतः। त्रिऽसंधिम्। देवाः। अभजन्त। ओजसे। च। बलाय। च। १२.११।
+येन॑। अ॒सौ। गु॒प्तः। आ॒दि॒त्यः। उ॒भौ। इन्द्र॑ः। च॒। तिष्ठ॑तः। त्रिऽसं॑धिम्। दे॒वाः। अ॒भ॒ज॒न्त॒। ओज॑से। च॒। बला॑य। च॒। १२.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

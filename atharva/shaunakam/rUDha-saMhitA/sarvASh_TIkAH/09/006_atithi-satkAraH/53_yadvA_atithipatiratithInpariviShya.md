@@ -21,7 +21,7 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 
 <details><summary>पदपाठः</summary>
 
-यत्। वै। अतिथिऽपतिः। अतिथीन्। परिऽविष्य। गृहान्। उपऽउदैति। अवऽभृथम्। एव। तत्। उपऽअवैति। ११.५।
+यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प॒रि॒ऽविष्य॑। गृ॒हान्। उ॒प॒ऽउ॒दैति॑। अ॒व॒ऽभृथ॑म्। ए॒व। तत्। उ॒प॒ऽअवै॑ति। ११.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

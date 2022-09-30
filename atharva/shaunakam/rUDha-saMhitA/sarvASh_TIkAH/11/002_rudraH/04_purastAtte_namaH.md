@@ -21,7 +21,7 @@ We offer reverence to thee from eastward, and from north and south, From all the
 
 <details><summary>पदपाठः</summary>
 
-पुरस्तात्। ते। नमः। कृण्मः। उत्तरात्। अधरात्। उत। अभिऽवर्गात्। दिवः। परि। अन्तरिक्षाय। ते। नमः। २.४।
+पु॒रस्ता॑त्। ते॒। नम॑ः। कृ॒ण्म॒ः। उ॒त्त॒रात्। अ॒ध॒रात्। उ॒त। अ॒भि॒ऽव॒र्गात्। दि॒वः। परि॑। अ॒न्तरि॑क्षाय। ते॒। नम॑ः। २.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

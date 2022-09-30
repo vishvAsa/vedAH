@@ -22,7 +22,7 @@ The comm. explains *sarvajyāním* by *prajāpśvādirūpasya sarvasyā
 
 <details><summary>पदपाठः</summary>
 
-न। च। प्राणम्। रुणध्दि। सर्वऽज्यानिम्। जीयते। ५.६।
+न। च॒। प्रा॒णम्। रु॒णध्दि॑। स॒र्व॒ऽज्या॒निम्। जी॒य॒ते॒। ५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

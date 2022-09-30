@@ -28,7 +28,7 @@ Whoever twitches up her ears is separated from the Gods. He deems he makes a mar
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्याः। कर्णौ। आऽस्कुनोति। आ। सः। देवेषु। वृश्चते। लक्ष्म। कुर्वे। इति। मन्यते। कनीयः। कृणुते। स्वम्। ४.६।
+यः। अ॒स्या॒ः। कर्णौ॑। आ॒ऽस्कु॒नोति॑। आ। सः। दे॒वेषु॑। वृ॒श्च॒ते॒। लक्ष्म॑। कु॒र्वे॒। इति॑। मन्य॑ते। कनी॑यः। कृ॒णु॒ते॒। स्वम्। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

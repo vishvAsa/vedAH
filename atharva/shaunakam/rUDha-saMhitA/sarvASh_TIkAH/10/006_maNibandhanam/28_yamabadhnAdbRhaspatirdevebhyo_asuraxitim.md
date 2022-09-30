@@ -19,7 +19,7 @@ The Amulet Brihaspati made for the Gods, that slew the fiends, That Amulet here 
 
 <details><summary>पदपाठः</summary>
 
-यम्। अबध्नात्। बृहस्पतिः। देवेभ्यः। असुरऽक्षितिम्। सः। मा। अयम्। मणिः। आ। अगमत्। सर्वाभिः। भूतिःऽभिः। सह। ६.२८।
+यम्। अब॑ध्नात्। बृह॒स्पति॑ः। दे॒वेभ्य॑ः। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। सर्वा॑भिः। भूति॑ःऽभिः। स॒ह। ६.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ She rose, she came unto the Gods. They called her, crying, O Vigour, come to us,
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। पितृन्। आ। अगच्छत्। ताम्। पितरः। अघ्नत। सा। मासि। सम्। अभवत्। १२.३।
+सा। उत्। अ॒क्रा॒म॒त्। सा। पि॒तृन्। आ। अ॒ग॒च्छ॒त्। ताम्। पि॒तर॑ः। अ॒घ्न॒त॒। सा। मा॒सि। सम्। अ॒भ॒व॒त्। १२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

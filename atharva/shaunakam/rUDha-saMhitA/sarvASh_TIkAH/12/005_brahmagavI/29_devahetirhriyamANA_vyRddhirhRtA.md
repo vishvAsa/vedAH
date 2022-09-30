@@ -24,7 +24,7 @@ A destructive missile of Gods when she is being seized, misfortune when carried 
 
 <details><summary>पदपाठः</summary>
 
-देवऽहेतिः। ह्रियमाणा। विऽऋध्दिः। हृता। ८.२।
+दे॒व॒ऽहे॒तिः। ह्रि॒यमा॑णा। विऽऋ॑ध्दिः। हृ॒ता। ८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

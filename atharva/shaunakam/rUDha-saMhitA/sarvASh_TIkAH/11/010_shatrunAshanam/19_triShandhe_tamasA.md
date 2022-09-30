@@ -21,7 +21,7 @@ Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none
 
 <details><summary>पदपाठः</summary>
 
-त्रिऽसंधे। तमसा। त्वम्। अमित्रान्। परि। वारय। पृषदाज्यऽप्रनुत्तानाम्। मा। अमीषाम्। मोचि। कः। चन। १२.१९।
+त्रिऽसं॑धे। तम॑सा। त्वम्। अ॒मित्रा॑न्। परि॑। वा॒र॒य॒। पृ॒ष॒दा॒ज्यऽप्र॑नुत्तानाम्। मा। अ॒मीषा॑म्। मो॒चि॒। कः। च॒न। १२.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

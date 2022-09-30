@@ -22,7 +22,7 @@ Discord by her smell, grief when she is being eviscerated: ser- pent with poison
 
 <details><summary>पदपाठः</summary>
 
-असम्ऽज्ञा। गन्धेन। शुक्। उध्द्रियमाणा। आशीविषः। उध्दृता। ८.७।
+अस॑म्ऽज्ञा। ग॒न्धेन॑। शुक्। उ॒ध्द्रि॒यमा॑णा। आ॒शी॒वि॒षः। उध्दृ॑ता। ८.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

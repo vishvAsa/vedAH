@@ -22,7 +22,7 @@ Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make the
 
 <details><summary>पदपाठः</summary>
 
-क्रोडौ। ते। स्ताम्। पुरोडाशौ। आज्येन। अभिऽधारितौ। तौ। पक्षौ। देवि। कृत्वा। सा। पक्तारम्। दिवम्। वह। ९.२५।
+क्रो॒डौ। ते॒। स्ता॒म्। पु॒रो॒डाशौ॑। आज्ये॑न। अ॒भिऽधा॑रितौ। तौ। प॒क्षौ। दे॒वि॒। कृ॒त्वा। सा। प॒क्तार॑म्। दिव॑म्। व॒ह॒। ९.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

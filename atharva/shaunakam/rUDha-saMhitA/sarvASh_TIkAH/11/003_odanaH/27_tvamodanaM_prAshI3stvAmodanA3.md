@@ -21,7 +21,7 @@ Thou hast eaten the Odana and the Odana will eat thee.
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। ओदनम्। प्र। आशी३ः। त्वाम्। ओदना३ः। इति। ३.२७।
+त्वम्। ओ॒द॒नम्। प्र। आ॑शी३ः। त्वाम्। ओ॒द॒ना३ः। इति॑। ३.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

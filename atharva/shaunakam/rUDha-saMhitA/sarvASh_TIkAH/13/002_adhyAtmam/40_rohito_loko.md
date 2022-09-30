@@ -22,7 +22,7 @@ He, Rohita, became the world: Rohita gave the heaven its heat. Rohita with his b
 
 <details><summary>पदपाठः</summary>
 
-रोहितः। लोकः। अभवत्। रोहितः। अति। अतपत्। दिवम्। रोहितः। रश्मिऽभिः। भूमिम्। समुद्रम्। अनु। सम्। चरत्। २.४०।
+रोहि॑तः। लो॒कः। अ॒भ॒व॒त्। रोहि॑तः। अति॑। अ॒त॒प॒त्। दिव॑म्। रोहि॑तः। र॒श्मिऽभि॑ः। भूमि॑म्। स॒मु॒द्रम्। अनु॑। सम्। च॒र॒त्। २.४०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

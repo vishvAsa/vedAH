@@ -24,7 +24,7 @@ Here spread are snares of Death wherefrom thou, once within them, ne'er art free
 
 <details><summary>पदपाठः</summary>
 
-इमे। उप्ताः। मृत्युऽपाशाः। यान्। आऽक्रम्य। न। मुच्यसे। अमुष्याः। हन्तु। सेनायाः। इदम्। कूटम्। सहस्रऽशः। ८.१६।
+इ॒मे। उ॒प्ताः। मृ॒त्यु॒ऽपा॒शाः। यान्। आ॒ऽक्रम्य॑। न। मु॒च्यसे॑। अ॒मुष्या॑ः। ह॒न्तु॒। सेना॑याः। इ॒दम्। कूट॑म्। स॒ह॒स्र॒ऽशः। ८.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

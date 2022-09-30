@@ -20,7 +20,7 @@ Standing westwards he is Dhatar, standing northwards Savitar.
 
 <details><summary>पदपाठः</summary>
 
-प्रत्यङ्। तिष्ठन्। धाता। उदङ्। तिष्ठन्। सविता। १२.२१।
+प्र॒त्यङ्। तिष्ठ॑न्। धा॒ता। उद॑ङ्। तिष्ठ॑न्। स॒वि॒ता। १२.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

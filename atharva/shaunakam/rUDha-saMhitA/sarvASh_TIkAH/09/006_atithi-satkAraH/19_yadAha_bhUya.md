@@ -23,7 +23,7 @@ When he says, Bring out more, he lengthens his life thereby.
 
 <details><summary>पदपाठः</summary>
 
-यत्। आह। भूयः। उत्। हर। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ७.२।
+यत्। आह॑। भूय॑ः। उत्। ह॒र॒। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

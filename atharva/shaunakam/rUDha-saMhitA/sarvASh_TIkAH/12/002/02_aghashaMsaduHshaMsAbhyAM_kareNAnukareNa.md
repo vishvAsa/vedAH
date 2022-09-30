@@ -23,7 +23,7 @@ With this we chase and banish all consumptive malady and Death, With sinner anda
 
 <details><summary>पदपाठः</summary>
 
-अघशंसऽदुःशंसाभ्याम्। करेण। अनुऽकरेण। च। यक्ष्मम्। च। सर्वम्। तेन। इतः। मृत्युम्। च। निः। अजामसि। २.२।
+अ॒घ॒शं॒स॒ऽदु॒ःशं॒साभ्या॑म्। क॒रेण॑। अ॒नु॒ऽक॒रेण॑। च॒। यक्ष्म॑म्। च॒। सर्व॑म्। तेन॑। इ॒तः। मृ॒त्युम्। च॒। निः। अ॒जा॒म॒सि॒। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

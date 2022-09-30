@@ -19,7 +19,7 @@ Here again the Anukr. requires us to read *divò ‘j-*.
 
 <details><summary>पदपाठः</summary>
 
-सः। वै। दिवः। अजायत। तस्मात्। द्यौः। अधि। अजायत। ७.५।
+सः। वै। दि॒वः। अ॒जा॒य॒त॒। तस्मा॑त्। द्यौः। अधि॑। अ॒जा॒य॒त॒। ७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

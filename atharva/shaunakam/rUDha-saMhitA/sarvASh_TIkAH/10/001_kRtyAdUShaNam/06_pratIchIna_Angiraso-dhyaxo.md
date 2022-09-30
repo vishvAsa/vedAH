@@ -22,7 +22,7 @@ Against her comes the Angirasa, the Priest whose eye is over us. Turn back all w
 
 <details><summary>पदपाठः</summary>
 
-प्रतीचीनः। अङ्गिरसः। अधिऽअक्षः। नः। पुरःऽहितः। प्रतीचीः। कृत्याः। आऽकृत्य। अमून्। कृत्याऽकृतः। जहि। १.६।
+प्र॒ती॒चीन॑ः। अ॒ङ्गि॒र॒सः। अधि॑ऽअक्षः। न॒ः। पु॒रःऽहि॑तः। प्र॒तीची॑ः। कृ॒त्याः। आ॒ऽकृत्य॑। अ॒मून्। कृ॒त्या॒ऽकृत॑ः। ज॒हि॒। १.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

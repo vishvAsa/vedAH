@@ -22,7 +22,7 @@ Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm 
 
 <details><summary>पदपाठः</summary>
 
-या। ते। प्राण। प्रिया। तनूः। यो इति। ते। प्राण। प्रेयसी। अथो इति। यत्। भेषजम्। तव। तस्य। नः। धेहि। जीवसे। ६.९।
+या। ते॒। प्रा॒ण॒। प्रि॒या। त॒नूः। यो इति॑। ते॒। प्रा॒ण॒। प्रेय॑सी। अथो॒ इति॑। यत्। भे॒ष॒जम्। तव॑। तस्य॑। न॒ः। धे॒हि॒। जी॒वसे॑। ६.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

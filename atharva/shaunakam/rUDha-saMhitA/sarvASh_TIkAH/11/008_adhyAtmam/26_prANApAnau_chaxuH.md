@@ -21,7 +21,7 @@ Inbreath and outbreath, ear and eye, decay and freedom from decay. Breath upward
 
 <details><summary>पदपाठः</summary>
 
-प्राणापानौ। चक्षुः। श्रोत्रम्। अक्षितिः। च। क्षितिः। च। या। व्यानऽउदानौ। वाक्। मनः। शरीरेण। ते। ईयन्ते। १०.२६।
+प्रा॒णा॒पा॒नौ। चक्षु॑ः। श्रोत्र॑म्। अक्षि॑तिः। च॒। क्षिति॑ः। च॒। या। व्या॒न॒ऽउ॒दा॒नौ। वाक्। मन॑ः। शरी॑रेण। ते। ई॒य॒न्ते॒। १०.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

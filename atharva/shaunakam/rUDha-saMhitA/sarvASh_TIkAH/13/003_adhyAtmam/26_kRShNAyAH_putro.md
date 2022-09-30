@@ -21,7 +21,7 @@ Born is the darksome Mother's Son, the whitely shining Calf of Night. He, Rohita
 
 <details><summary>पदपाठः</summary>
 
-कृष्णायाः। पुत्रः। अर्जुनः। रात्र्याः। वत्सः। अजायत। सः। ह। द्याम्। अधि। रोहति। रुहः। रुरोह। रोहितः। ३.२६।
+कृ॒ष्णाया॑ः। पु॒त्रः। अर्जु॑नः। रात्र्या॑ः। व॒त्सः। अ॒जा॒य॒त॒। सः। ह॒। द्याम्। अधि॑। रो॒ह॒ति॒। रुह॑ः। रु॒रो॒ह॒। रोहि॑तः। ३.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

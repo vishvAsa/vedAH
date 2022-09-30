@@ -21,7 +21,7 @@ uṣṇih; 41. sāmnī bṛhatī; 43. ārṣī gāyatrī; 44. sāmny anuṣṭub
 
 <details><summary>पदपाठः</summary>
 
-तस्य। अम्। सर्वा। नक्षत्रा। वशे। चन्द्रमसा। सह। ६.७।
+तस्य॑। अ॒म्। सर्वा॑। नक्ष॑त्रा। वशे॑। च॒न्द्रम॑सा। स॒ह। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

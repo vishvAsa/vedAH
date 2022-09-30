@@ -26,7 +26,7 @@ I cast away a handful here, hurtful, injurious to health. I lift another handful
 
 <details><summary>पदपाठः</summary>
 
-इदम्। अहम्। रुशन्तम्। ग्राभम्। तनूऽदूषिम्। अप। ऊहामि। यः। भद्रः। रोचनः। तम्। उत्। अचामि। १.३८।
+इ॒दम्। अ॒हम्। रुश॑न्तम्। ग्रा॒भम्। त॒नू॒ऽदूषि॑म्। अप॑। ऊ॒हा॒मि॒। यः। भ॒द्रः। रो॒च॒नः। तम्। उत्। अ॒चा॒मि॒। १.३८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

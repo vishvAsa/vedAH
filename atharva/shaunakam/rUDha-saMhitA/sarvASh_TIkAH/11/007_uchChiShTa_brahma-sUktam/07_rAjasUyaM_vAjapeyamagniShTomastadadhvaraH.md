@@ -22,7 +22,7 @@ The Vajapeya, Royal Rite, the Agnishoma and its forms, Hymns, joyfullest with li
 
 <details><summary>पदपाठः</summary>
 
-राजऽसूयम्। वाजऽपेयम्। अग्निऽस्तोमः। तत्। अध्वरः। अर्कऽअश्वमेधौ। उत्ऽशिष्टे। जीवऽबर्हिः। मदिन्ऽतमः। ९.७।
+रा॒ज॒ऽसूय॑म्। वा॒ज॒ऽपेय॑म्। अ॒ग्नि॒ऽस्तो॒मः। तत्। अ॒ध्व॒रः। अ॒र्क॒ऽअ॒श्व॒मे॒धौ। उत्ऽशि॑ष्टे। जी॒वऽब॑र्हिः। म॒दिन्ऽत॑मः। ९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

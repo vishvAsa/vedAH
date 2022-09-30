@@ -19,7 +19,7 @@ For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: f
 
 <details><summary>पदपाठः</summary>
 
-अग्नीषोमाभ्याम्। कामाय। मित्राय। वरुणाय। च। तेभ्यः। याचन्ति। ब्राह्मणाः। तेषु। आ। वृश्चते। अददत्। ४.२६।
+अ॒ग्नीषोमा॑भ्याम्। कामा॑य। मि॒त्राय॑। वरु॑णाय। च॒। तेभ्य॑ः। या॒च॒न्ति॒। ब्रा॒ह्म॒णाः। तेषु॑। आ। वृ॒श्च॒ते॒। अद॑दत्। ४.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

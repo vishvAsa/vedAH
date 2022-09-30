@@ -21,7 +21,7 @@ This Charm, foe-slayer, served by many heroes, strong, power- ful, victorious, a
 
 <details><summary>पदपाठः</summary>
 
-अयम्। मणिः। सपत्नऽहा। सुऽवीरः। सहस्वान्। वाजी। सहमानः। उग्रः। प्रत्यक्। कृत्याः। दूषयन्। एति। वीरः। ५.२।
+अ॒यम्। म॒णिः। स॒प॒त्न॒ऽहा। सु॒ऽवीर॑ः। सह॑स्वान्। वा॒जी। सह॑मानः। उ॒ग्रः। प्र॒त्यक्। कृ॒त्याः। दूषय॑न्। ए॒ति॒। वी॒रः। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

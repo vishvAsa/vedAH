@@ -22,7 +22,7 @@ As all these living creatures are thy tributaries, Prana, so Shall they bring tr
 
 <details><summary>पदपाठः</summary>
 
-यथा। प्राण। बलिऽहृतः। तुभ्यम्। सर्वाः। प्रऽजाः। इमाः। एव। तस्मै। बलिम्। हरान्। यः। त्वा। शृणवत्। सुऽश्रवः। ६.१९।
+यथा॑। प्रा॒ण॒। ब॒लि॒ऽहृत॑ः। तुभ्य॑म्। सर्वा॑ः। प्र॒ऽजाः। इ॒माः। ए॒व। तस्मै॑। ब॒लिम्। ह॒रा॒न्। यः। त्वा॒। शृ॒णव॑त्। सु॒ऽश्र॒व॒ः। ६.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -54,7 +54,7 @@ She mounted up, she came to men: they killed her Presently she regained her life
 
 <details><summary>पदपाठः</summary>
 
-अपः। वामऽदेव्येन। यज्ञम्। यज्ञायज्ञियेन। ११.८।
+अ॒पः। वा॒म॒ऽदे॒व्येन॑। य॒ज्ञम्। य॒ज्ञा॒य॒ज्ञिये॑न। ११.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

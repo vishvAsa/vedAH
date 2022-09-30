@@ -31,7 +31,7 @@ She mounted up, the Eastward fire she entered. He who knows this becomes the God
 
 <details><summary>पदपाठः</summary>
 
-गृहऽमेधी। गृहऽपतिः। भवति। यः। एवम्। वेद। १०.३।
+गृ॒ह॒ऽमे॒धी। गृ॒हऽप॑तिः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

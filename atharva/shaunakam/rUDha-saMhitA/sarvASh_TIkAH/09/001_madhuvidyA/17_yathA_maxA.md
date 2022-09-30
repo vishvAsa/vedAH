@@ -23,7 +23,7 @@ As over honey flies besmear this honey which the bees have made, So may both Asv
 
 <details><summary>पदपाठः</summary>
 
-यथा। मक्षाः। इदम्। मधु। निऽअञ्जन्ति। मधौ। अधि। एव। मे। अश्विना। वर्चः। तेजः। बलम्। ओजः। च। ध्रियताम्। १.१७।
+यथा॑। मक्षा॑ः। इ॒दम्। मधु॑। नि॒ऽअ॒ञ्जन्ति॑। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्च॑ः। तेज॑ः। बल॑म्। ओज॑ः। च॒। ध्रि॒य॒ता॒म्। १.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Ill fall on him who doeth ill, on him who curseth fall the curse! We drive her b
 
 <details><summary>पदपाठः</summary>
 
-अघम्। अस्तु। अघऽकृते। शपथः। शपथिऽयते। प्रत्यक्। प्रतिऽप्रहिण्मः। यथा। कृत्याऽकृतम्। हनत्। १.५।
+अ॒घम्। अ॒स्तु॒। अ॒घऽकृते॑। श॒पथ॑ः। श॒प॒थि॒ऽय॒ते। प्र॒त्यक्। प्र॒ति॒ऽप्रहि॑ण्मः। यथा॑। कृ॒त्या॒ऽकृत॑म्। हनत्। १.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

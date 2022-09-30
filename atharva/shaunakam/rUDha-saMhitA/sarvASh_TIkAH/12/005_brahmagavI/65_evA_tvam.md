@@ -19,7 +19,7 @@ So, Goddess Cow, do thou from him, the Brahmans' tyrant, criminal, niggard, blas
 
 <details><summary>पदपाठः</summary>
 
-एव। त्वम्। देवि। अघ्न्ये। ब्रह्मऽज्यस्य। कृतऽआगसः। देवऽपीयोः। अराधसः। ११.४।
+ए॒व। त्वम्। दे॒वि॒। अ॒घ्न्ये॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धस॑ः। ११.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

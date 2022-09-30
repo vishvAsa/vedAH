@@ -22,7 +22,7 @@ He only joineth battle, yea, he who alone controlleth her. Now sacrifices have b
 
 <details><summary>पदपाठः</summary>
 
-युधः। एकः। सम्। सृजति। यः। अस्याः। एकः। इत्। वशी। तरांसि। यज्ञा। अभवन्। तरसाम्। चक्षुः। अभवत्। वशा। १०.२४।
+युध॑ः। एक॑ः। सम्। सृ॒ज॒ति॒। यः। अ॒स्या॒ः। एक॑ः। इत्। व॒शी। तरां॑सि। य॒ज्ञा। अ॒भ॒व॒न्। तर॑साम्। चक्षु॑ः। अ॒भ॒व॒त्। व॒शा। १०.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Let him smite down in death and burn the foeman who attacketh me. Our adversarie
 
 <details><summary>पदपाठः</summary>
 
-हन्तु। एनान्। प्र। दहतु। अरिः। यः। नः। पृतन्यत᳡ देव॒यज॑नि। क्रव्यऽअदा। अग्निना। वयम्। सऽपत्नान्। प्र। दहामसि। १.२९।
+हन्तु॑। ए॒ना॒न्। प्र। द॒ह॒तु॒। अरि॑ः। यः। न॒ः। पृ॒त॒न्यत‍ि॑। क्र॒व्य॒ऽअदा॑। अ॒ग्निना॑। व॒यम्। स॒ऽपत्ना॑न्। प्र। द॒हा॒म॒सि॒। १.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

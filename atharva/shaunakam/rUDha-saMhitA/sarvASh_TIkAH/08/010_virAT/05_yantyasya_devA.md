@@ -19,7 +19,7 @@ She mounted up, she entered the Assembly. He who knows this becomes polite and c
 
 <details><summary>पदपाठः</summary>
 
-यन्ति। अस्य। देवाः। देवऽहूतिम्। प्रियः। देवानाम्। भवति। यः। एवम्। वेद। । १०.५।
+यन्ति॑। अ॒स्य॒। दे॒वाः। दे॒वऽहू॑तिम्। प्रि॒यः। दे॒वाना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। । १०.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

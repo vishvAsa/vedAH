@@ -21,7 +21,7 @@ I loosen and remove from thee thy covering formed by mats of reed. What Varuna h
 
 <details><summary>पदपाठः</summary>
 
-इटस्य। ते। वि। चृतामि। अप᳡ देव॒यज॑निऽनध्दम्। अपऽऊर्णुवन्। वरुणेन। सम्ऽउब्जिताम्। मित्रः। प्रातः। वि। उब्जतु। ३.१८।
+इट॑स्य। ते॒। वि। चृ॒ता॒मि॒। अप‍ि॑ऽनध्दम्। अ॒प॒ऽऊ॒र्णु॒वन्। वरु॑णेन। सम्ऽउ॑ब्जिताम्। मि॒त्रः। प्रा॒तः। वि। उ॒ब्ज॒तु॒। ३.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

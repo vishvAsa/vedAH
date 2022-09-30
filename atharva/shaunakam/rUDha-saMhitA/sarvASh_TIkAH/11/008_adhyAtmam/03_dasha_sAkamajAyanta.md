@@ -21,7 +21,7 @@ Ten Gods before the Gods were born together in the ancient time. Whoso may know 
 
 <details><summary>पदपाठः</summary>
 
-दश। साकम्। अजायन्त। देवाः। देवेभ्यः। पुरा। यः। वै। तान्। विद्यात्। प्रतिऽअक्षम्। सः। वै। अद्य। महत्। वदेत्। १०.३।
+दश॑। सा॒कम्। अ॒जा॒य॒न्त॒। दे॒वाः। दे॒वेभ्य॑ः। पु॒रा। यः। वै। तान्। वि॒द्यात्। प्र॒ति॒ऽअक्ष॑म्। सः। वै। अ॒द्य। म॒हत्। व॒दे॒त्। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

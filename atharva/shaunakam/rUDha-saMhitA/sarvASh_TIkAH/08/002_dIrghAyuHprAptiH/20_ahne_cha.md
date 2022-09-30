@@ -23,7 +23,7 @@ We give thee over as a charge to Day and Night, in trust to both. Keep him for m
 
 <details><summary>पदपाठः</summary>
 
-अह्ने। च। त्वा। रात्रये। च। उभाभ्याम्। परि। दद्मसि। अरायेभ्यः। जिघत्सुऽभ्यः। इमम्। मे। परि। रक्षत। २.२०।
+अह्ने॑। च॒। त्वा॒। रात्र॑ये। च॒। उ॒भाभ्या॑म्। परि॑। द॒द्म॒सि॒। अ॒राये॑भ्यः। जि॒घ॒त्सुऽभ्य॑ः। इ॒मम्। मे॒। परि॑। र॒क्ष॒त॒। २.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

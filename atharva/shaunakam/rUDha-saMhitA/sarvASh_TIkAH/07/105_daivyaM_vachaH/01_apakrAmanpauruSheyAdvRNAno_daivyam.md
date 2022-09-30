@@ -23,7 +23,7 @@ Leaving humanity behind, making the heavenly word thy choice, With all thy frien
 
 <details><summary>पदपाठः</summary>
 
-अपऽक्रामन्। पौरुषेयात्। वृणानः। दैव्यम्। वचः। प्रऽनीतीः। अभिऽआवर्तस्व। विश्वेभ᳡ देव॒यज॑निः। सखिऽभिः। सह। ११०.१।
+अ॒प॒ऽक्राम॑न्। पौरु॑षेयात्। वृ॒णा॒नः। दैव्य॑म्। वच॑ः। प्रऽनी॑तीः। अ॒भि॒ऽआव॑र्तस्व। विश्वे॑भ‍िः। सखि॑ऽभिः। स॒ह। ११०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 
 <details><summary>पदपाठः</summary>
 
-अप। अनति। प्र। अनति। पुरुषः। गर्भे। अन्तरा। यदा। त्वम्। प्राण। जिन्वसि। अथ। सः। जायते। पुनः। ६.१४।
+अप॑। अ॒न॒ति॒। प्र। अ॒न॒ति॒। पुरु॑षः। गर्भे॑। अ॒न्त॒रा। य॒दा। त्वम्। प्रा॒ण॒। जिन्व॑सि। अथ॑। सः। जा॒य॒ते॒। पुन॑ः। ६.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

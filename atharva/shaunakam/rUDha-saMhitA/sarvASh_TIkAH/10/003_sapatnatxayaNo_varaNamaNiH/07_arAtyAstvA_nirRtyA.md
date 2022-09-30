@@ -20,7 +20,7 @@ From Mischief, from Malignity, from incantation, from alarm, From death, from st
 
 <details><summary>पदपाठः</summary>
 
-अरात्याः। त्वा। निःऽऋत्याः। अभिऽचारात्। अथो इति। भयात्। मृत्योः। ओजीयसः। वधात्। वरणः। वारयिष्यते। ३.७।
+अरा॑त्याः। त्वा॒। निःऽऋ॑त्याः। अ॒भि॒ऽचा॒रात्। अथो॒ इति॑। भ॒यात्। मृ॒त्योः। ओजी॑यसः। व॒धात्। व॒र॒णः। वा॒र॒यि॒ष्य॒ते॒। ३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

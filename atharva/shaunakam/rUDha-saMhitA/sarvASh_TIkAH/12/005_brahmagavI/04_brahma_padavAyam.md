@@ -20,7 +20,7 @@ Brahma her guide, the Brahman her lord and ruler;
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्म। पदऽवायम्। ब्राह्मणः। अधिऽपतिः। ५.४।
+ब्रह्म॑। प॒द॒ऽवा॒यम्। ब्रा॒ह्म॒णः। अधि॑ऽपतिः। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

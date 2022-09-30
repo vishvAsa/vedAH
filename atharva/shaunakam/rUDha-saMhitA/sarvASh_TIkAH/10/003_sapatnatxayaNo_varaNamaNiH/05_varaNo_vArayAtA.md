@@ -23,7 +23,7 @@ Guard against ill of varied kind is Varana this heavenly Plant. The Gods have st
 
 <details><summary>पदपाठः</summary>
 
-वरणः। वारयातै। अयम्। देवः। वनस्पतिः। यक्ष्मः। यः। अस्मिन्। आऽविष्टः। तम्। ऊं इति। देवाः। अवीवरन्। ३.५।
+व॒र॒णः। वा॒र॒या॒तै॒। अ॒यम्। दे॒वः। वन॒स्पति॑ः। यक्ष्म॑ः। यः। अ॒स्मिन्। आऽवि॑ष्टः। तम्। ऊं॒ इति॑। दे॒वाः। अ॒वी॒व॒र॒न्। ३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

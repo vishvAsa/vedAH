@@ -26,7 +26,7 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 
 <details><summary>पदपाठः</summary>
 
-अपः। वामऽदेव्यम्। यज्ञम्। यज्ञायज्ञियम्। यः। एवम्। वेद। ११.१०।
+अ॒पः। वा॒म॒ऽदे॒व्यम्। य॒ज्ञम्। य॒ज्ञा॒य॒ज्ञिय॑म्। यः। ए॒वम्। वेद॑। ११.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

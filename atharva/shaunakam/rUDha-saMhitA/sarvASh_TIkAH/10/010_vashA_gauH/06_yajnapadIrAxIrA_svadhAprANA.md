@@ -23,7 +23,7 @@ Her foot is sacrifice, her milk libation, Svadha her breath, Mahi- luka the migh
 
 <details><summary>पदपाठः</summary>
 
-यज्ञऽपदी। इराऽक्षीरा। स्वधाऽप्राणा। महीलुका। वशा। पर्जन्यऽपत्नी। देवान्। अपि। एति। ब्रह्मणा। १०.६।
+य॒ज्ञ॒ऽप॒दी। इरा॑ऽक्षीरा। स्व॒धाऽप्रा॑णा। म॒हीलु॑का। व॒शा। प॒र्जन्य॑ऽपत्नी। दे॒वान्। अपि॑। ए॒ति॒। ब्रह्म॑णा। १०.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

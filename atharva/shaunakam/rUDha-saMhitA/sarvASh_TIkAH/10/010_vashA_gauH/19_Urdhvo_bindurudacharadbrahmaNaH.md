@@ -20,7 +20,7 @@ From Brahma's summit there went forth a drop that mounted up on high: From that 
 
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वः। बिन्दुः। उत्। अचरत्। ब्रह्मणः। ककुदात्। अधि। ततः। त्वम्। जज्ञिषे। वशे। ततः। होता। अजायत। १०.१९।
+ऊ॒र्ध्वः। बि॒न्दुः। उत्। अ॒च॒र॒त्। ब्रह्म॑णः। ककु॑दात्। अधि॑। तत॑ः। त्वम्। ज॒ज्ञि॒षे॒। व॒शे॒। तत॑ः। होता॑। अ॒जा॒य॒त॒। १०.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

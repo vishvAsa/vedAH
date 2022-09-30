@@ -18,7 +18,7 @@ Rend, rend to pieces, rend away, destroy, destroy him utterly.
 
 <details><summary>पदपाठः</summary>
 
-छिन्धि। आ। छिन्धि। प्र। छिन्धि। अपि। क्षापय। क्षापय। १०.५।
+छि॒न्धि॒। आ। छि॒न्धि॒। प्र। छि॒न्धि॒। अपि॑। क्षा॒प॒य॒। क्षा॒पय॑। १०.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

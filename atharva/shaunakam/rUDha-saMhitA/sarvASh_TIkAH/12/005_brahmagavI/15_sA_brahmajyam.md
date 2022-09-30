@@ -23,7 +23,7 @@ This, the Brahman's cow, being appropriated, holdeth bound in the fetter of Deat
 
 <details><summary>पदपाठः</summary>
 
-सा। ब्रह्मऽज्यम्। देवऽपीयुम्। ब्रह्मऽगवी। आऽदीयमाना। मृत्योः। पड्वीशे। आ। द्यति। ७.४।
+सा। ब्र॒ह्म॒ऽज्यम्। दे॒व॒ऽपी॒युम्। ब्र॒ह्म॒ऽग॒वी। आ॒ऽदी॒यमा॑ना। मृ॒त्योः। पड्वी॑शे। आ। द्य॒ति॒। ७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

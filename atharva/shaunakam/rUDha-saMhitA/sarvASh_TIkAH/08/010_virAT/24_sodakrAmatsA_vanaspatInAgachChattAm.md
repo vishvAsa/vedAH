@@ -28,7 +28,7 @@ She mounted up, she came to men. They called her, Come unto- us, come hither tho
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। वनस्पतीन्। आ। अगच्छत्। ताम्। वनस्पतयः। अघ्नत। सा। सम्ऽवत्सरे। सम्। अभवत्। १२.१।
+सा। उत्। अ॒क्रा॒म॒त्। सा। वन॒स्पती॑न्। आ। अ॒ग॒च्छ॒त्। ताम्। वन॒स्पत॑यः। अ॒घ्न॒त॒। सा। स॒म्ऽव॒त्स॒रे। सम्। अ॒भ॒व॒त्। १२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

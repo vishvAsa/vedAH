@@ -20,7 +20,7 @@ The pestle and mortar are really the stones of the Soma press.
 
 <details><summary>पदपाठः</summary>
 
-यानि। उलूखलऽमुसलानि। ग्रावाणः। एव। ते। ६.१५।
+यानि॑। उ॒लू॒ख॒ल॒ऽमु॒स॒लानि॑। ग्रावा॑णः। ए॒व। ते। ६.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

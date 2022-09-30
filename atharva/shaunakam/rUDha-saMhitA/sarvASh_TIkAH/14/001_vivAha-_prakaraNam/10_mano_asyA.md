@@ -20,7 +20,7 @@ Her spirit was the bridal car, the canopy thereof was heaven: Two radiant oxen f
 
 <details><summary>पदपाठः</summary>
 
-मनः। अस्याः। अनः। आसीत्। द्यौः। आसीत्। उत। छदिः। शुक्रौ। अनड्वाहौ। आस्ताम्। यत्। अयात्। सूर्या। पतिम्। १.१०।
+मन॑ः। अ॒स्या॒ः। अन॑ः। आ॒सी॒त्। द्यौः। आ॒सी॒त्। उ॒त। छ॒दिः। शु॒क्रौ। अ॒न॒ड्वाहौ॑। आ॒स्ता॒म्। यत्। अया॑त्। सू॒र्या। पति॑म्। १.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

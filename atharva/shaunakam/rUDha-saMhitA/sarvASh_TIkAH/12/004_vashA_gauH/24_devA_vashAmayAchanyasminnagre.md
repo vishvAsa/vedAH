@@ -26,7 +26,7 @@ The Deities begged the Cow from him with whom at first she was produced: Her, th
 
 <details><summary>पदपाठः</summary>
 
-देवाः। वशाम्। अयाचन्। यस्मिन्। अग्रे। अजायत। ताम्। एताम्। विद्यात्। नारदः। सह। देवैः। उत्। आजत। ४.२४।
+दे॒वाः। व॒शाम्। अ॒या॒च॒न्। यस्मि॑न्। अग्रे॑। अजा॑यत। ताम्। ए॒ताम्। वि॒द्या॒त्। नार॑दः। स॒ह। दे॒वैः। उत्। आ॒ज॒त॒। ४.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

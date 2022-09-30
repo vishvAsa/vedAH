@@ -21,7 +21,7 @@ Verily let this Amulet, circular, potent, conquering, Happy and fortunate defenc
 
 <details><summary>पदपाठः</summary>
 
-अयम्। इत्। वै। प्रतिऽवर्तः। ओजस्वान्। सम्ऽजयः। मणिः। प्रऽजाम्। धनम्। च। रक्षतु। परिऽपानः। सुऽमङ्गलः। ५.१६।
+अ॒यम्। इत्। वै। प्र॒ति॒ऽव॒र्तः। ओज॑स्वान्। स॒म्ऽज॒यः। म॒णिः। प्र॒ऽजाम्। धन॑म्। च॒। र॒क्ष॒तु॒। प॒रि॒ऽपान॑ः। सु॒ऽम॒ङ्गल॑ः। ५.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

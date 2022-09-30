@@ -21,7 +21,7 @@ Adityas, Rudra, Vasus, Gods aloft in heaven, Atharvan's sons, The sages, sons of
 
 <details><summary>पदपाठः</summary>
 
-आदित्याः। रुद्राः। वसवः। दिवि। देवाः। अथर्वाणः। अङ्गिरसः। मनीषिणः। ते। नः। मुञ्चन्तु। अंहसः। ८.१३।
+आ॒दि॒त्याः। रु॒द्राः। वस॑वः। दि॒वि। दे॒वाः। अथ॑र्वाणः। अङ्गि॑रसः। म॒नी॒षिण॑ः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 
 <details><summary>पदपाठः</summary>
 
-यत्। प्राणः। ऋतौ। आऽगते। अभिऽक्रन्दति। ओषधीः। सर्वम्। तदा। प्र। मोदते। यत्। किम्। च। भूम्याम्। अधि। ६.४।
+यत्। प्रा॒णः। ऋ॒तौ। आऽग॑ते। अ॒भि॒ऽक्रन्द॑ति। ओष॑धीः। सर्व॑म्। त॒दा। प्र। मो॒द॒ते॒। यत्। किम्। च॒। भूम्या॑म्। अधि॑। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -18,7 +18,7 @@ That he may go from Yama's home afar into the worlds of sin. its
 
 <details><summary>पदपाठः</summary>
 
-यथा। अयात्। यमऽसदनात्। पापऽलोकान्। पराऽवतः। ११.३।
+यथा॑। अया॑त्। य॒म॒ऽस॒द॒नात्। पा॒प॒ऽलो॒कान्। प॒रा॒ऽवत॑ः। ११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

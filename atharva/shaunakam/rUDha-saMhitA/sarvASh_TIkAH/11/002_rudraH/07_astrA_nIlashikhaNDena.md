@@ -27,7 +27,7 @@ Never may we contend with him, the mighty archer, thousand- eyed. Rudra who wear
 
 <details><summary>पदपाठः</summary>
 
-अस्त्रा। नीलऽशिखण्डेन। सहस्रऽअक्षेण। वाजिना। रुद्रेण। अर्धकऽघातिना। तेन। मा। सम्। अरामह᳡ देव॒यज॑नि। २.७।
+अस्त्रा॑। नील॑ऽशिखण्डेन। स॒ह॒स्र॒ऽअ॒क्षेण॑। वा॒जिना॑। रु॒द्रेण॑। अ॒र्ध॒क॒ऽघा॒तिना॑। तेन॑। मा। सम्। अ॒रा॒म॒ह‍ि॒। २.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

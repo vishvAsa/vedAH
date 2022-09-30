@@ -21,7 +21,7 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। गार्हऽपत्ये। नि। अक्रामत्। १०.२।
+सा। उत्। अ॒क्रा॒म॒त्। सा। गार्ह॑ऽपत्ये। नि। अ॒क्रा॒म॒त्। १०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -31,7 +31,7 @@ Strike out, white courser! with thy foot, strike both with fore and hinder foot,
 
 <details><summary>पदपाठः</summary>
 
-अव। श्वेत। पदा। जहि। पूर्वेण। च। अपरेण। च। उदप्लुतम्ऽइव। दारु। अहीनाम्। अरसम्। विषम्। वाः। उग्रम्। ४.३।
+अव॑। श्वे॒त॒। प॒दा। ज॒हि॒। पूर्वे॑ण। च॒। अप॑रेण। च॒। उ॒दप्लु॒तम्ऽइ॑व। दारु॑। अही॑नाम्। अ॒र॒सम्। वि॒षम्। वाः। उ॒ग्रम्। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 
 <details><summary>पदपाठः</summary>
 
-उरुः। पृथुः। सुऽभूः। भुवः। इति। त्वा। उप। आस्महे। वयम्। ९.१।
+उ॒रुः। पृ॒थुः। सु॒ऽभूः। भुव॑ः। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

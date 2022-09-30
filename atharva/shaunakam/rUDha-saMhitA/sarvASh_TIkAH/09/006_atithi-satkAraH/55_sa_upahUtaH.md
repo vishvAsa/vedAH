@@ -35,7 +35,7 @@ He having been invited on earth, regales, invited in that, which wears all vario
 
 <details><summary>पदपाठः</summary>
 
-सः। उपऽहूतः। पृथिव्याम्। भक्षयति। उपऽहूतः। तस्मिन्। यत्। पृथिव्याम्। विश्वऽरूपम्। ११.७।
+सः। उप॑ऽहूतः। पृ॒थि॒व्याम्। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। पृ॒थि॒व्याम्। वि॒श्वऽरू॑पम्। ११.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

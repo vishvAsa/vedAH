@@ -24,7 +24,7 @@ Let us not, Indra, leave the path, the Soma-presser's sacrifice. Let not maligni
 
 <details><summary>पदपाठः</summary>
 
-मा। प्र। गाम। पथः। वयम्। मा। यज्ञात्। इन्द्र। सोमिनः। मा। अन्तः। स्थुः। नः। अरातयः। १.५९।
+मा। प्र। गा॒म॒। प॒थः। व॒यम्। मा। य॒ज्ञात्। इ॒न्द्र॒। सो॒मिन॑ः। मा। अ॒न्तः। स्थु॒ः। न॒ः। अरा॑तयः। १.५९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

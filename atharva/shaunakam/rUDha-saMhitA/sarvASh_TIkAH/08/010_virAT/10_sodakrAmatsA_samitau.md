@@ -18,7 +18,7 @@ Thus did they cry to her:
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। सम्ऽइतौ। नि। अक्रामत्। १०.१०।
+सा। उत्। अ॒क्रा॒म॒त्। सा। सम्ऽइ॑तौ। नि। अ॒क्रा॒म॒त्। १०.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

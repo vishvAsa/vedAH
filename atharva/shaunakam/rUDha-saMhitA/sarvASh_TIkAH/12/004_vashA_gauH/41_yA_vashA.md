@@ -26,7 +26,7 @@ Narada chose the terrible Vilipti out of all the cows Which the Gods formed and 
 
 <details><summary>पदपाठः</summary>
 
-याः। वशाः। उत्ऽअकल्पयन्। देवाः। यज्ञात्। उत्ऽएत्य। तासाम्। विऽलिप्त्यम्। भीमाम्। उत्ऽआकुरुत। नारदः। ४.४१।
+याः। व॒शाः। उ॒त्ऽअक॑ल्पयन्। दे॒वाः। य॒ज्ञात्। उ॒त्ऽएत्य॑। तासा॑म्। वि॒ऽलि॒प्त्यम्। भी॒माम्। उ॒त्ऽआकु॑रुत। ना॒र॒दः। ४.४१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

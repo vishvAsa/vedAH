@@ -25,7 +25,7 @@ Air was the net; the poles thereof were the great quarters of the sky: Sakra the
 
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षम्। जालम्। आसीत्। जालऽदण्डाः। दिशः। महीः। तेन। अभिऽधाय। दस्यूनाम्। शक्रः। सेनाम्। अप। अवपत्। ८.५।
+अ॒न्तरि॑क्षम्। जाल॑म्। आ॒सी॒त्। जा॒ल॒ऽद॒ण्डाः। दिश॑ः। म॒हीः। तेन॑। अ॒भि॒ऽधाय॑। दस्यू॑नाम्। श॒क्रः। सेना॑म्। अप॑। अ॒व॒प॒त्। ८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

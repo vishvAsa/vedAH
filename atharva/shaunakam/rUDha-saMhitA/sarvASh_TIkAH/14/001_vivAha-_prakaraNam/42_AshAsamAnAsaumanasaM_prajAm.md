@@ -29,7 +29,7 @@ Saying thy prayer for cheerfulness, children, prosperity, and wealth, Devoted to
 
 <details><summary>पदपाठः</summary>
 
-आऽशासाना। सौमनसम्। प्रऽजाम्। सौभाग्यम्। रयिम्। पत्युः। अनुऽव्रता। भूत्वा। सम्। नह्यस्व। अमृताय। कम्। १.४२।
+आ॒ऽशासा॑ना। सौ॒म॒न॒सम्। प्र॒ऽजाम्। सौभा॑ग्यम्। र॒यिम्। पत्यु॑ः। अनु॑ऽव्रता। भू॒त्वा। सम्। न॒ह्य॒स्व॒। अ॒मृता॑य। कम्। १.४२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

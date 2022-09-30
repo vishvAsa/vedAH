@@ -30,7 +30,7 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 
 <details><summary>पदपाठः</summary>
 
-अपि। वृश्च। पुराणऽवत्। व्रततेःऽइव। गुष्पितम्। ओजः। दासस्य। दम्भय। ९५.१।
+अपि॑। वृ॒श्च॒। पु॒रा॒ण॒ऽवत्। व्र॒तते॑ःऽइव। गु॒ष्पि॒तम्। ओज॑ः। दा॒सस्य॑। द॒म्भ॒य॒। ९५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

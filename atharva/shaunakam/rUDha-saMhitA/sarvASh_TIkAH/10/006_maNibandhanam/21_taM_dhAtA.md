@@ -20,7 +20,7 @@ Dhatar bound on this Amulet: he ranged and ordered all that is. With this do tho
 
 <details><summary>पदपाठः</summary>
 
-तम्। धाता। प्रति। अमुञ्चत। सः। भूतम्। वि। अकल्पयत्। तेन। त्वम्। द्व᳡ देव॒यज॑निषतः। जहि। ६.२१।
+तम्। धा॒ता। प्रति॑। अ॒मु॒ञ्च॒त॒। सः। भू॒तम्। वि। अ॒क॒ल्प॒य॒त्। तेन॑। त्वम्। द्व‍ि॒ष॒तः। ज॒हि॒। ६.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

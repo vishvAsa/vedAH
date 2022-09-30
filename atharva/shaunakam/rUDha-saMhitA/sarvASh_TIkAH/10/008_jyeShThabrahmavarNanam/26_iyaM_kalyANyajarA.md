@@ -24,7 +24,7 @@ This fair one is untouched by age, immortal in a mortal's house. He for whom she
 
 <details><summary>पदपाठः</summary>
 
-इयम्। कल्याणी। अजरा। मर्त्यस्य। अमृता। गृहे। यस्मै। कृता। शये। सः। यः। चकार। जजार। सः। ८.२६।
+इ॒यम्। क॒ल्या॒णी। अ॒जरा॑। मर्त्य॑स्य। अ॒मृता॑। गृ॒हे। यस्मै॑। कृ॒ता। शये॑। सः। यः। च॒कार॑। ज॒जार॑। सः। ८.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

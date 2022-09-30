@@ -26,7 +26,7 @@ Thou art a Bull that mounts to heaven: to Rishis and their off- spring go. Rest 
 
 <details><summary>पदपाठः</summary>
 
-वृषभः। असि। स्वःऽगः। ऋषीन्। आर्षेयान्। गच्छ। सुऽकृताम्। लोके। सीद। तत्र। नौ। संस्कृतम्। १.३५।
+वृ॒ष॒भः। अ॒सि॒। स्व॒ःऽगः। ऋषी॑न्। आ॒र्षे॒यान्। ग॒च्छ॒। सु॒ऽकृता॑म्। लो॒के। सी॒द॒। तत्र॑। नौ॒। सं॒स्कृ॒तम्। १.३५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

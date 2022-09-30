@@ -19,7 +19,7 @@ Go onward, horse of Pedu! go thou first: we follow after thee. Cast thou aside t
 
 <details><summary>पदपाठः</summary>
 
-पैद्व। प्र। इहि। प्रथमः। अनु। त्वा। वयम्। आ। ईमसि। अहीन्। वि। अस्यतात्। पथः। येन। स्म। वयम्। आऽईमसि। ४.६।
+पैद्व॑। प्र। इ॒हि॒। प्र॒थ॒मः। अनु॑। त्वा॒। व॒यम्। आ। ई॒म॒सि॒। अही॑न्। वि। अ॒स्य॒ता॒त्। प॒थः। येन॑। स्म॒। व॒यम्। आ॒ऽई॒मसि॑। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

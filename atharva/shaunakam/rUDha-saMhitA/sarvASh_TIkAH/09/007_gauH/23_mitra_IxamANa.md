@@ -21,7 +21,7 @@ He is Mitra when he looks about him, and when he hath turned round he is joy.
 
 <details><summary>पदपाठः</summary>
 
-मित्रः। ईक्षमाणः। आऽवृत्तः। आऽनन्दः। १२.२३।
+मि॒त्रः। ईक्ष॑माणः। आऽवृ॑त्तः। आ॒ऽन॒न्दः। १२.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

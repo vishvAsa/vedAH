@@ -24,7 +24,7 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 
 <details><summary>पदपाठः</summary>
 
-यज्ञ। यज्ञम्। गच्छ। यज्ञऽपतिम्। गच्छ। स्वाम्। योनिम्। गच्छ। स्वाहा। १०२.५।
+यज्ञ॑। य॒ज्ञम्। ग॒च्छ॒। य॒ज्ञऽप॑तिम्। ग॒च्छ॒। स्वाम्। योनि॑म्। ग॒च्छ॒। स्वाहा॑। १०२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

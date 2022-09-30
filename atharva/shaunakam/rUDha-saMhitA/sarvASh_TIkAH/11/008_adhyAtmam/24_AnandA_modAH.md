@@ -22,7 +22,7 @@ Enjoyments, pleasures, and delights, gladness, and rapturous ecstasies. Laughter
 
 <details><summary>पदपाठः</summary>
 
-आऽनन्दाः। मोदाः। प्रऽमुदः। अभिमोदऽमुदः। च। ये। हसः। नरिष्टा। नृत्तानि। शरीरम्। अनु। प्र। अविशन्। १०.२४।
+आ॒ऽन॒न्दाः। मोदा॑ः। प्र॒ऽमुद॑ः। अ॒भि॒मो॒द॒ऽमुद॑ः। च॒। ये। ह॒सः। न॒रिष्टा॑। नृ॒त्तानि॑। शरी॑रम्। अनु॑। प्र। अ॒वि॒श॒न्। १०.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

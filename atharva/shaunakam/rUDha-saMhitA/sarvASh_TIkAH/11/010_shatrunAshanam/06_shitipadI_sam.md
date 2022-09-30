@@ -23,7 +23,7 @@ May this four-footed White-foot, may this arrow brace and bind thee fast: Togeth
 
 <details><summary>पदपाठः</summary>
 
-शितिऽपदी। सम्। द्यतु। शरव्या᳡। इयम्। चतुःऽपदी। कृत्ये। अमित्रेभ्यः। भव। त्रिऽसंधेः। सह। सेनया। १२.६।
+शि॒ति॒ऽप॒दी। सम्। द्य॒तु॒। श॒र॒व्या᳡। इ॒यम्। चतु॑ःऽपदी। कृत्ये॑। अ॒मित्रे॑भ्यः। भ॒व॒। त्रिऽसं॑धेः। स॒ह। सेन॑या। १२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

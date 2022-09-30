@@ -23,7 +23,7 @@ Luller to rest, and gatherer-up of treasures, Savitar like a God whose laws are 
 
 <details><summary>पदपाठः</summary>
 
-निऽवेशनः। सम्ऽगमनः। वसूनाम्। देवःऽइव। सविता। सत्यऽधर्मा। इन्द्रः। न। तस्थौ। सम्ऽअरे। धनानाम्। ८.४२।
+नि॒ऽवेश॑नः। स॒म्ऽगम॑नः। वसू॑नाम्। दे॒वःऽइ॑व। स॒वि॒ता। स॒त्यऽध॑र्मा। इन्द्र॑ः। न। त॒स्थौ॒। स॒म्ऽअ॒रे। धना॑नाम्। ८.४२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

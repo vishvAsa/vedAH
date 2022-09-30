@@ -23,7 +23,7 @@ The Residue the Father's sire, who bears this universe, supports Vishuvan, Upaha
 
 <details><summary>पदपाठः</summary>
 
-उपऽहव्यम्। विषुऽवन्तम्। ये। च। यज्ञाः। गुहा। हिताः। बिभर्ति। भर्ता। विश्वस्य। उत्ऽशिष्टः। जनितुः। पिता। ९.१५।
+उ॒प॒ऽहव्य॑म्। वि॒षु॒ऽवन्त॑म्। ये। च॒। य॒ज्ञाः। गुहा॑। हि॒ताः। बिभ॑र्ति। भ॒र्ता। विश्व॑स्य। उत्ऽशि॑ष्टः। ज॒नि॒तुः। पि॒ता। ९.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

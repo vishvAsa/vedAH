@@ -31,7 +31,7 @@ Onward I urge your gathered floods: enter your own abiding- place, Uninjured and
 
 <details><summary>पदपाठः</summary>
 
-समुद्रम्। वः। प्र। हिणोमि। स्वाम्। योनिम्। अपि। इतन। अरिष्टाः। सर्वऽहायसः। मा। च। नः। किम्। चन। आममत्। ५.२३।
+स॒मु॒द्रम्। व॒ः। प्र। हि॒णो॒मि॒। स्वाम्। योनि॑म्। अपि॑। इ॒त॒न॒। अरि॑ष्टाः। सर्व॑ऽहायसः। मा। च॒। न॒ः। किम्। च॒न। आ॒म॒म॒त्। ५.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

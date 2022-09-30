@@ -26,7 +26,7 @@ Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with 
 
 <details><summary>पदपाठः</summary>
 
-यः। एवम्। विदुषे। अदत्त्वा। अथ। अन्येभ्यः। ददत्। वशाम्। दुःऽगा। तस्मै। अधिऽस्थाने। पृथिवी। सहऽदेवता। ४.२३।
+यः। ए॒वम्। वि॒दुषे॑। अद॑त्त्वा। अथ॑। अ॒न्येभ्य॑ः। दद॑त्। व॒शाम्। दु॒ःऽगा। तस्मै॑। अ॒धि॒ऽस्थाने॑। पृ॒थि॒वी। स॒हऽदे॑वता। ४.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

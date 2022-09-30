@@ -22,7 +22,7 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अस्तु। आऽयते। नमः। अस्तु। पराऽयते। नमः। ते। प्राण। तिष्ठते। आसीनाय। उत। ते। नमः। ६.७।
+नम॑ः। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नम॑ः। अ॒स्तु॒। प॒रा॒ऽय॒ते। नम॑ः। ते॒। प्रा॒ण॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नम॑ः। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

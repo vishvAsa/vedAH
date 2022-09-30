@@ -22,7 +22,7 @@ Through whom seeks he Parjanya out, and Soma of the piercing sight? Through whom
 
 <details><summary>पदपाठः</summary>
 
-केन। पर्जन्यम्। अनु। एति। केन। सोमम्। विऽचक्षणम्। केन। यज्ञम्। च। अध्दाम्। च। केन। अस्मिन्। निऽहितम्। मनः। २.१९।
+केन॑। प॒र्जन्य॑म्। अनु॑। ए॒ति॒। केन॑। सोम॑म्। वि॒ऽच॒क्ष॒णम्। केन॑। य॒ज्ञम्। च॒। अ॒ध्दाम्। च॒। केन॑। अ॒स्मि॒न्। निऽहि॑तम्। मन॑ः। २.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 
 <details><summary>पदपाठः</summary>
 
-सर्वदा। वै। एषः। युक्तऽग्रावा। आर्द्रऽपवित्रः। विततऽअध्वरः। आहृतऽयज्ञक्रतुः। यः। उपऽहरति। ७.१०।
+स॒र्व॒दा। वै। ए॒षः। यु॒क्तऽग्रा॑वा। आ॒र्द्रऽप॑वित्रः। वित॑तऽअध्वरः। आहृ॑तऽयज्ञक्रतुः। यः। उ॒प॒ऽहर॑ति। ७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

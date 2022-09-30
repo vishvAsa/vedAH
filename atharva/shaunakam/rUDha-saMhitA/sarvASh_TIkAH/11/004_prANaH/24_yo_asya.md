@@ -22,7 +22,7 @@ May he who rules this Universe of varied sort, that stirs and works, Prana, aler
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। सर्वऽजन्मनः। ईशे। सर्वस्य। चेष्टतः। अतन्द्रः। ब्रह्मणा। धीरः। प्राणः। मा। अनु। तिष्ठतु। ६.२४।
+यः। अ॒स्य। स॒र्वऽज॑न्मनः। ईशे॑। सर्व॑स्य। चेष्ट॑तः। अत॑न्द्रः। ब्रह्म॑णा। धीर॑ः। प्रा॒णः। मा॒। अनु॑। ति॒ष्ठ॒तु॒। ६.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

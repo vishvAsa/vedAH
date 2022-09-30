@@ -24,7 +24,7 @@ Durnama and Sunama both are eager to converse with her. We drive away Arayas: le
 
 <details><summary>पदपाठः</summary>
 
-दुःऽनामा। च। सुऽनाम। च। उभा। सम्ऽवृतम्। इच्छतः। अरायान्। अप। हन्मः। सुऽनामा। स्त्रैणम्। इच्छताम्। ६.४।
+दु॒ःऽनामा॑। च॒। सु॒ऽनाम॑। च॒। उ॒भा। स॒म्ऽवृत॑म्। इ॒च्छ॒त॒ः। अ॒राया॑न्। अप॑। ह॒न्म॒ः। सु॒ऽनामा॑। स्त्रैण॑म्। इ॒च्छ॒ता॒म्। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

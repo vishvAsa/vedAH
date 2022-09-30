@@ -22,7 +22,7 @@ Tiraschirajis have been slain, and vipers crushed and brayed to bits. Slay Darvi
 
 <details><summary>पदपाठः</summary>
 
-हताः। तिरश्चिऽराजयः। निऽपिष्टासः। पृदाकवः। दर्विम्। करिक्रतम्। श्वित्रम्। दर्भेषु। असितम्। जहि। ४.१३।
+ह॒ताः। तिर॑श्चिऽराजयः। निऽपि॑ष्टासः। पृदा॑कवः। दर्वि॑म्। करि॑क्रतम्। श्वि॒त्रम्। द॒र्भेषु॑। अ॒सि॒तम्। ज॒हि॒। ४.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

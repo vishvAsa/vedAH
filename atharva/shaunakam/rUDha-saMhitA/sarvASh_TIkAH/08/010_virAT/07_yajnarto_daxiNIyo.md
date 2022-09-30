@@ -29,7 +29,7 @@ She mounted up, she entered Consultation. Whoso knows this is fit to be consulte
 
 <details><summary>पदपाठः</summary>
 
-यज्ञऽऋतः। दक्षिणीयः। वासतेयः। भवति। यः। एवम्। वेद। १०.७।
+य॒ज्ञऽऋ॑तः। द॒क्षि॒णीय॑ः। वास॑तेयः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

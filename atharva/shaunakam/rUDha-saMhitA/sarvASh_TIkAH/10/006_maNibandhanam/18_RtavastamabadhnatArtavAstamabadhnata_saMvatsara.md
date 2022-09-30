@@ -20,7 +20,7 @@ The seasons formed that Amulet, the Groups of Seasons fashion- ed it. The Year h
 
 <details><summary>पदपाठः</summary>
 
-ऋतवः। तम्। अबध्नत। आर्तवाः। तम्। अबध्नत। सम्ऽवत्सरः। तम्। बध्द्वा। सर्वम्। भूतम्। वि। रक्षति। ६.१८।
+ऋ॒तव॑ः। तम्। अ॒ब॒ध्न॒त॒। आ॒र्त॒वाः। तम्। अ॒ब॒ध्न॒त॒। स॒म्ऽव॒त्स॒रः। तम्। ब॒ध्द्वा। सर्व॑म्। भू॒तम्। वि। र॒क्ष॒ति॒। ६.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

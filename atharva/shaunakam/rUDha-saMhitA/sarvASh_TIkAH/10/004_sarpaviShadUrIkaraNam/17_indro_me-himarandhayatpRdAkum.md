@@ -24,7 +24,7 @@ Indra hath given him up to me, the female viper and the male, The adder, him wit
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। मे। अहिम्। अरन्धयत्। पृदाकुम्। च। पृदाक्वम्। स्वजम्। तिरश्चिऽराजिम्। कसर्णीलम्। दशोनसिम्। ४.१७।
+इन्द्र॑ः। मे॒। अहि॑म्। अ॒र॒न्ध॒य॒त्। पृदा॑कुम्। च॒। पृ॒दा॒क्वम्। स्व॒जम्। तिर॑श्चिऽराजिम्। क॒स॒र्णील॑म्। दशो॑नसिम्। ४.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

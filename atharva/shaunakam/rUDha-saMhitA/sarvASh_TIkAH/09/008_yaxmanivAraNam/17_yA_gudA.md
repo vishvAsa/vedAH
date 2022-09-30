@@ -23,7 +23,7 @@ The pains that through the bowels creep, disordering the inward parts, Let them 
 
 <details><summary>पदपाठः</summary>
 
-याः। गुदाः। अनुऽसर्पन्ति। आन्त्राणि। मोहयन्ति। च। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१७।
+याः। गुदा॑ः। अ॒नु॒ऽसर्प॑न्ति। आ॒न्त्राणि॑। मो॒हय॑न्ति। च॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

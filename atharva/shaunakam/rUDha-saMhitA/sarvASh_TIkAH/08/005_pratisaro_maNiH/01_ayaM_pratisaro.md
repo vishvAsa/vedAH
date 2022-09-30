@@ -23,7 +23,7 @@ Upon the strong is bound the strong, this magic cord, this Amu- let, Potent, foe
 
 <details><summary>पदपाठः</summary>
 
-अयम्। प्रतिऽसरः। मणिः। वीरः। वीराय। बध्यते। वीर्य᳡वान्। सपत्नऽहा। शूरऽवीरः। परिऽपानः। सुऽमङ्गलः। ५.१।
+अ॒यम्। प्र॒ति॒ऽस॒रः। म॒णिः। वी॒रः। वी॒राय॑। ब॒ध्य॒ते॒। वी॒र्य᳡वान्। स॒प॒त्न॒ऽहा। शूर॑ऽवीरः। प॒रि॒ऽपान॑ः। सु॒ऽम॒ङ्गल॑ः। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Omniscient Aditya, make full many a corpse to disappear. Let this devoted army o
 
 <details><summary>पदपाठः</summary>
 
-अन्तः। धेहि। जातऽवेदः। आदित्य। कुणपम्। बहु। त्रिऽसंधेः। इयम्। सेना। सुऽहिता। अस्तु। मे। वशे। १२.४।
+अ॒न्तः। धे॒हि॒। जा॒त॒ऽवे॒द॒ः। आदि॑त्य। कुण॑पम्। ब॒हु। त्रिऽसं॑धेः। इ॒यम्। सेना॑। सुऽहि॑ता। अ॒स्तु॒। मे॒। वशे॑। १२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ Of her the Gods and men said, This she knoweth. That we may both have life let u
 
 <details><summary>पदपाठः</summary>
 
-यन्ति। अस्य। सभाम्। सभ्यः। भवति। यः। एवम्। वेद। १०.९।
+यन्ति॑। अ॒स्य॒। स॒भाम्। सभ्य॑ः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

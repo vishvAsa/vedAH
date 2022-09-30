@@ -19,7 +19,7 @@ Having become Flesh-eating Agni the Brahman's cow entereth into and devoureth th
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। क्रव्यऽअत्। भूत्वा। ब्रह्मऽगवी। ब्रह्मऽज्यम्‌। प्रऽविश्य। अत्ति। ९.३।
+अ॒ग्निः। क्र॒व्य॒ऽअत्। भू॒त्वा। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्‌। प्र॒ऽविश्य॑। अ॒त्ति॒। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

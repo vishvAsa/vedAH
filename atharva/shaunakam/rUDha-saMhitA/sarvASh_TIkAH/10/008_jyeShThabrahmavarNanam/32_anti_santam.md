@@ -22,7 +22,7 @@ When he is near she leaves him not, she sees him not though he is near. Behold t
 
 <details><summary>पदपाठः</summary>
 
-अन्ति। सन्तम्। न। जहाति। अन्ति। सन्तम्। न। पश्यति। देवस्य। पश्य। काव्यम्। न। ममार। न। जीर्यति। ८.३२।
+अन्ति॑। सन्त॑म्। न। ज॒हा॒ति॒। अन्ति॑। सन्त॑म्। न। प॒श्य॒ति॒। दे॒वस्य॑। प॒श्य॒। काव्य॑म्। न। म॒मा॒र॒। न। जी॒र्य॒ति॒। ८.३२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

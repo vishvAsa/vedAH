@@ -25,7 +25,7 @@ Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smit
 
 <details><summary>पदपाठः</summary>
 
-यः। च। कवची। यः। च। अकवचः। अमित्रः। यः। च। अज्मनि। ज्याऽपाशैः। कवचऽपाशैः। अज्मना। अभिऽहतः। शयाम्। १२.२२।
+यः। च॒। क॒व॒ची। यः। च॒। अ॒क॒व॒चः। अ॒मित्र॑ः। यः। च॒। अज्म॑नि। ज्या॒ऽपा॒शैः। क॒व॒च॒ऽपा॒शैः। अज्म॑ना। अ॒भिऽह॑तः। श॒या॒म्। १२.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

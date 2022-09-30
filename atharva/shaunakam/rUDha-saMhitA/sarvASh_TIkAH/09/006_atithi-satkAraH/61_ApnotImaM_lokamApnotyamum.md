@@ -22,7 +22,7 @@ He gains this world and the world yonder.
 
 <details><summary>पदपाठः</summary>
 
-आप्नोति। इमम्। लोकम्। आप्नोति। अमुम्। ११.१३।
+आ॒प्नोति॑। इ॒मम्। लो॒कम्। आ॒प्नोति॑। अ॒मुम्। ११.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

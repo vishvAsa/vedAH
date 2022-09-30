@@ -21,7 +21,7 @@ Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her 
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। आऽमन्त्रणे। नि। अक्रामत्। १०.१२।
+सा। उत्। अ॒क्रा॒म॒त्। सा। आ॒ऽमन्त्र॑णे। नि। अ॒क्रा॒म॒त्। १०.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

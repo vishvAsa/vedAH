@@ -21,7 +21,7 @@ Loss of power while sacrificially presented, humiliation when she hath been offe
 
 <details><summary>पदपाठः</summary>
 
-अभूतिः। उपऽह्रियमाणा। पराऽभूतिः। उपऽहृता। ८.८।
+अभू॑तिः। उ॒प॒ऽह्रि॒यमा॑णा। परा॑ऽभूतिः। उप॑ऽहृता। ८.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

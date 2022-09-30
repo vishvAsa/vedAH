@@ -18,7 +18,7 @@ A missile when milking, pain in the head when milked;
 
 <details><summary>पदपाठः</summary>
 
-मेनिः। दुह्यमाना। शीर्षक्तिः। दुग्धा। ७.१२।
+मे॒निः। दु॒ह्यमा॑ना। शी॒र्ष॒क्तिः। दु॒ग्धा। ७.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ The Kshatriya's mother is the Cow, thy mother, Svadha! is the Cow. Sacrifice is 
 
 <details><summary>पदपाठः</summary>
 
-वशा। माता। राजन्य᳡स्य। वशा। माता। स्वधे। तव। वशायाः। यज्ञे। आयुधम्। ततः। चित्तम्। अजायत। १०.१८।
+व॒शा। मा॒ता। रा॒ज॒न्य᳡स्य। व॒शा। मा॒ता। स्व॒धे॒। तव॑। व॒शाया॑ः। य॒ज्ञे। आयु॑धम्। तत॑ः। चि॒त्तम्। अ॒जा॒य॒त॒। १०.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

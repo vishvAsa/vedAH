@@ -22,7 +22,7 @@ Through whom did he spread waters out, through whom did he make Day to shine? Th
 
 <details><summary>पदपाठः</summary>
 
-केन। आपः। अनु। अतनुत। केन। अहः। अकरोत्। रुचे। उषसम्। केन। अनु। ऐन्ध्द। केन। सायम्ऽभवम्। ददे। २.१६।
+केन॑। आप॑ः। अनु॑। अ॒त॒नु॒त॒। केन॑। अह॑ः। अ॒क॒रो॒त्। रु॒चे। उ॒षस॑म्। केन॑। अनु॑। ऐ॒न्ध्द॒। केन॑। सा॒य॒म्ऽभ॒वम्। द॒दे॒। २.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

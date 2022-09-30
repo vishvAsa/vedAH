@@ -22,7 +22,7 @@ The Deities have begged the Cow, using the Brahman as their mouth: The man who g
 
 <details><summary>पदपाठः</summary>
 
-देवाः। वशाम्। अयाचन्। मुखम्। कृत्वा। ब्राह्मणम्। तेषाम्। सर्वेषाम्। अददत्। हेडम्। नि। एति। मानुषः। ४.२०।
+दे॒वाः। व॒शाम्। अ॒या॒च॒न्। मुख॑म्। कृ॒त्वा। ब्राह्म॑णम्। तेषा॑म्। सर्वे॑षाम्। अद॑दत्। हेड॑म्। नि। ए॒ति॒। मानु॑षः। ४.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

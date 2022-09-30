@@ -15,7 +15,7 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 
 <details><summary>पदपाठः</summary>
 
-सः। उपऽहूतः। लोकेषु। भक्षयति। उपऽहूतः। तस्मिन्। यत्। लोकेषु। विश्वऽरूपम्। ११.१।
+सः। उप॑ऽहूतः। लो॒केषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। लो॒केषु॑। वि॒श्वऽरू॑पम्। ११.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

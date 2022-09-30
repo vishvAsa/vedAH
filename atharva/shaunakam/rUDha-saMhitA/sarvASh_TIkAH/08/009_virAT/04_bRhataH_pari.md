@@ -20,7 +20,7 @@ Out of the Brihat as the sixth five Salmons have been fashioned forth: From Brih
 
 <details><summary>पदपाठः</summary>
 
-बृहतः। परि। सामानि। षष्ठात्। पञ्च। अधि। निःऽमिता। बृहत्। बृहत्याः। निःऽमितम्। कुत ः। अधि। बृहती। मिता। ९.४।
+बृ॒ह॒तः। परि॑। सामा॑नि। ष॒ष्ठात्। पञ्च॑। अधि॑। निःऽमि॑ता। बृ॒हत्। बृ॒ह॒त्याः। निःऽमि॑तम्। कुत॑ ः। अधि॑। बृ॒ह॒ती। मि॒ता। ९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

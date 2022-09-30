@@ -27,7 +27,7 @@ Raibhi was her dear bridal friend, and Narasatisi led her home. Lovely to see wa
 
 <details><summary>पदपाठः</summary>
 
-रैभी। आसीत्। अनुऽदेयी। नाराशंसी। निऽओचनी। सूर्यायाः। भद्रम्। इत्। वासः। गाथया। एति। परिष्कृता। १.७।
+रैभी॑। आ॒सी॒त्। अ॒नु॒ऽदेयी॑। ना॒रा॒शं॒सी। नि॒ऽओच॑नी। सू॒र्याया॑ः। भ॒द्रम्। इत्। वास॑ः। गाथ॑या। ए॒ति॒। परि॑ष्कृता। १.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

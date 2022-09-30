@@ -19,7 +19,7 @@ The Anukr., as above, forces the elision *yajñò ‘j-*.
 
 <details><summary>पदपाठः</summary>
 
-सः। वै। यज्ञात्। अजायत। तस्मात्। यज्ञः। अजायत। ७.११।
+सः। वै। य॒ज्ञात्। अ॒जा॒य॒त॒। तस्मा॑त्। य॒ज्ञः। अ॒जा॒य॒त॒। ७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

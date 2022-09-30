@@ -18,7 +18,7 @@ Consuming, burning all things up, the thunderbolt of spell and charm.
 
 <details><summary>पदपाठः</summary>
 
-ओषन्ती। सम्ऽओषन्ती। ब्रह्मणः। वज्रः। १०.८।
+ओष॑न्ती। स॒म्ऽओष॑न्ती। ब्रह्म॑णः। वज्र॑ः। १०.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

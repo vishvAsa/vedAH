@@ -18,7 +18,7 @@ As the guest of the seated company he himself offers up sacrifice.
 
 <details><summary>पदपाठः</summary>
 
-तेषाम्। आऽसन्नानाम्। अतिथिः। आत्मन्। जुहोति। ७.४।
+तेषा॑म्। आऽस॑न्नानाम्। अति॑थिः। आ॒त्मन्। जु॒हो॒ति॒। ७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

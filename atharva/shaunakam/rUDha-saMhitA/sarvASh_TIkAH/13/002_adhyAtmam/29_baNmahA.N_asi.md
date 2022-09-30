@@ -27,7 +27,7 @@ Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grand
 
 <details><summary>पदपाठः</summary>
 
-बट्। महान्। असि। सूर्य। बट्। आदित्य। महान्। असि। महान्। ते। महतः। महिमा। त्वम्। आदित्य। महान्। असि। २.२९।
+बट्। म॒हान्। अ॒सि॒। सू॒र्य॒। बट्। आ॒दि॒त्य॒। म॒हान्। अ॒सि॒। म॒हान्। ते॒। म॒ह॒तः। म॒हि॒मा। त्वम्। आ॒दि॒त्य॒। म॒हान्। अ॒सि॒। २.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

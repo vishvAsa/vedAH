@@ -21,7 +21,7 @@ I with this salutary herb have ruined all their magic arts, The spell which they
 
 <details><summary>पदपाठः</summary>
 
-अनया। अहम्। ओषध्या। सर्वाः। कृत्वाः। अदूदुषम्। याम्। क्षेत्रे। चक्रुः। याम्। गोषु। याम्। वा। ते। पुरुषेषु। १.४।
+अ॒नया॑। अ॒हम्। ओष॑ध्या। सर्वा॑ः। कृ॒त्वाः। अ॒दू॒दु॒ष॒म्। याम्। क्षेत्रे॑। च॒क्रुः। याम्। गोषु॑। याम्। वा॒। ते॒। पुरु॑षेषु। १.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

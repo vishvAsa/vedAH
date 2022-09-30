@@ -28,7 +28,7 @@ I free thee from the cord, I loose the bond, I loose the fastening. Even here, p
 
 <details><summary>पदपाठः</summary>
 
-वि। ते। मुञ्चामि। रशनाम्। वि। योक्त्रम्। वि। निऽयोजनम्। इह। एव। त्वम्। अजस्रः। एधि। अग्ने। ८३.१।
+वि। ते॒। मु॒ञ्चा॒मि॒। र॒श॒नाम्। वि। योक्त्र॑म्। वि। नि॒ऽयोज॑नम्। इ॒ह। ए॒व। त्वम्। अज॑स्रः। ए॒धि॒। अ॒ग्ने॒। ८३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

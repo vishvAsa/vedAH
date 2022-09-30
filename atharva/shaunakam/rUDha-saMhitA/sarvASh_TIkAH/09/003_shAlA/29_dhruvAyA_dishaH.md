@@ -18,7 +18,7 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 
 <details><summary>पदपाठः</summary>
 
-ध्रुवायाः। दिशः शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्ये᳡भ्यः। ३.२९।
+ध्रु॒वाया॑ः। दि॒शः शाला॑याः। नम॑ः। म॒हि॒म्ने। स्वाहा॑। दे॒वेभ्य॑ः। स्वा॒ह्ये᳡भ्यः। ३.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

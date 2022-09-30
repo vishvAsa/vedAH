@@ -21,7 +21,7 @@ Come, Strength! come, Food! come, Charmer! come, Free- giver!
 
 <details><summary>पदपाठः</summary>
 
-यन्ति। अस्य। सम्ऽइतिम्। साम्ऽइत्यः। भवति। यः। एवम्। वेद। १०.११।
+यन्ति॑। अ॒स्य॒। सम्ऽइ॑तिम्। सा॒म्ऽइ॒त्यः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

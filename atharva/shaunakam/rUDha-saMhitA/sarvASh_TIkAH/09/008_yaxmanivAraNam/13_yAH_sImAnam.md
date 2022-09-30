@@ -23,7 +23,7 @@ The penetrating stabs of pain which rend asunder crown and head, Let them depart
 
 <details><summary>पदपाठः</summary>
 
-याः। सीमानम्। विऽरुजन्ति। मूर्धानम्। प्रति। अर्षणीः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१३।
+याः। सी॒मान॑म्। वि॒ऽरु॒जन्ति॑। मू॒र्धान॑म्। प्रति॑। अ॒र्ष॒णीः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ To him, the Full Moon's mighty Bull, we pay our solemn sacri- fice. May he besto
 
 <details><summary>पदपाठः</summary>
 
-वृषभम्। वाजिनम्। वयम्। पौर्णऽमासम्। यजामहे। सः। नः। ददातु। अक्षिताम्। रयिम्। अनुपऽदस्वतीम्। ८५.२।
+वृ॒ष॒भम्। वा॒जिन॑म्। व॒यम्। पौ॒र्ण॒ऽमा॒सम्। य॒जा॒म॒हे॒। सः। न॒ः। द॒दा॒तु॒। अक्षि॑ताम्। र॒यिम्। अनु॑पऽदस्वतीम्। ८५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ We give the essence of that stream of nectar of this man to drink: So I prepare 
 
 <details><summary>पदपाठः</summary>
 
-तस्य। अमृतस्य। इमम्। बलम्। पुरुषम्। पाययामसि। अथो इति। कृणोमि। भेषजम्। यथा। असत्। शतऽहायनः। ७.२२।
+तस्य॑। अ॒मृत॑स्य। इ॒मम्। बल॑म्। पुरु॑षम्। पा॒य॒या॒म॒सि॒। अथो॒ इति॑। कृ॒णो॒मि॒। भे॒ष॒जम्। यथा॑। अस॑त्। श॒तऽहा॑यनः। ७.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Would say, Not small, nor devoid of moistening sauce; not this, nor any- thing w
 
 <details><summary>पदपाठः</summary>
 
-न। अल्पः। इति। ब्रूयात्। न। अनुपऽसेचनः। इति। न। इदम्। च। किम्। च। इति। ३.२४।
+न। अल्प॑ः। इति॑। ब्रू॒या॒त्। न। अ॒नु॒प॒ऽसे॒च॒नः। इति॑। न। इ॒दम्। च॒। किम्। च॒। इति॑। ३.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

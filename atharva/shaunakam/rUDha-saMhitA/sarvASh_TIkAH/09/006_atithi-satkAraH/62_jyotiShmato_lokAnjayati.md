@@ -33,7 +33,7 @@ He who hath this knowledge wins the luminous spheres.
 
 <details><summary>पदपाठः</summary>
 
-ज्योतिष्मतः। लोकान्। जयति। यः। एवम्। वेद। ११.१४।
+ज्योति॑ष्मतः। लो॒कान्। ज॒य॒ति॒। यः। ए॒वम्। वेद॑। ११.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Indrani is the hinder parts, Vayu the tail, Pavamana the hair.
 
 <details><summary>पदपाठः</summary>
 
-इन्द्राणी। भसत्। वायुः। पुच्छम्। पवमानः। बालाः। १२.८।
+इ॒न्द्रा॒णी। भ॒सत्। वा॒युः। पुच्छ॑म्। पव॑मानः। बाला॑ः। १२.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

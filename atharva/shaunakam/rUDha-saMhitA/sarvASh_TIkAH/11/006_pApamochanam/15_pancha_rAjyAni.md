@@ -24,7 +24,7 @@ To the five kingdoms of the plants which Soma rules as Lord we speak. Darbha, he
 
 <details><summary>पदपाठः</summary>
 
-पञ्च। राज्यानि। वीरुधाम्। सोमऽश्रेष्ठानि। ब्रूमः। दर्भः। भङ्गः। यवः। सहः। ते। नः। मुञ्चन्तु। अंहसः। ८.१५।
+पञ्च॑। रा॒ज्यानि॑। वी॒रुधा॑म्। सोम॑ऽश्रेष्ठानि। ब्रू॒म॒ः। द॒र्भः। भ॒ङ्गः। यव॑ः। सह॑ः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,7 @@ The Brahman's cow when eaten cuts off the injurer of Brahmans both from this wor
 
 <details><summary>पदपाठः</summary>
 
-अशिता। लोकात्। छिनत्ति। ब्रह्मऽगवी। ब्रह्मऽज्यम्। अस्मात्। च। अमुष्मात्। च। ८.११।
+अ॒शि॒ता। लो॒कात्। छि॒न॒त्ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यम्। अ॒स्मात्। च॒। अ॒मुष्मा॑त्। च॒। ८.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ May this great Earth receive the skin, this Goddess Prithivi, showing us her lov
 
 <details><summary>पदपाठः</summary>
 
-इयम्। मही। प्रति। गृह्णातु। चर्म। पृथिवी। देवी। सुऽमनस्यमाना। अथ। गच्छेम। सुऽकृतस्य। लोकम्। १.८।
+इ॒यम्। म॒ही। प्रति॑। गृ॒ह्णा॒तु॒। चर्म॑। पृ॒थि॒वी। दे॒वी। सु॒ऽम॒न॒स्यमा॑ना। अथ॑। ग॒च्छे॒म॒। सु॒ऽकृ॒तस्य॑। लो॒कम्। १.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

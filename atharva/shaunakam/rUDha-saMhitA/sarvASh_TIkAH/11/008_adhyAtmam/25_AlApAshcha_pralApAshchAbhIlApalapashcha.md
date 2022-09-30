@@ -23,7 +23,7 @@ Discourse and conversation, and the shrill-resounding cries of woe, All entered 
 
 <details><summary>पदपाठः</summary>
 
-आऽलापाः। च। प्रऽलापाः। च। अभिलापऽलपः। च। ये। शरीरम्। सर्वे। प्र। अविशन्। आऽयुजः। प्रऽयुजः। युजः। १०.२५।
+आ॒ऽला॒पाः। च॒। प्र॒ऽला॒पाः। च॒। अ॒भि॒ला॒प॒ऽलप॑ः। च॒। ये। शरी॑रम्। सर्वे॑। प्र। अ॒वि॒श॒न्। आ॒ऽयुज॑ः। प्र॒ऽयुज॑ः। युज॑ः। १०.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ And those, Vachaspati, our own five seasons, sacred to Visva- karman their creat
 
 <details><summary>पदपाठः</summary>
 
-पते। ऋतवः। पञ्च। ये। नौ। वैश्वऽकर्मणा। परि। ये। सम्ऽबभूवुः। परि। रोहितः। आयुषा। वर्चसा। दधातु। १.१८।
+प॒ते॒। ऋ॒तव॑ः। पञ्च॑। ये। नौ॒। वै॒श्व॒ऽक॒र्म॒णा। परि॑। ये। स॒म्ऽब॒भू॒वुः। परि॑। रोहि॑तः। आयु॑षा। वर्च॑सा। द॒धा॒तु॒। १.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

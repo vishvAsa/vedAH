@@ -21,8 +21,8 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 
 <details><summary>पदपाठः</summary>
 
-सः। यः। एवम्। विद्वान्। सर्पिः। उपऽसिच्य। उपऽहरति। ९.३।  
-यावत्। अतिऽरात्रेण। इष्ट्वा। उपऽहरति। ९.४।
+सः । यः । ए॒वम् । वि॒द्वान् । स॒र्पिः । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.३।  
+याव॑त् । अ॒ति॒ऽरा॒त्रेण॑ । इ॒ष्ट्वा । उ॒प॒ऽहर॑ति ॥ ९.४।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

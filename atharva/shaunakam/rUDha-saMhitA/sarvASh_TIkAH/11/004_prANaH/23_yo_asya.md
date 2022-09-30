@@ -27,7 +27,7 @@ Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। विश्वऽजन्मनः। ईशे। विश्वस्य। चेष्टतः। अन्येषु। क्षिप्रऽधन्वने। तस्मै। प्राण। नमः। अस्तु। ते। ६.२३।
+यः। अ॒स्य। वि॒श्वऽज॑न्मनः। ईशे॑। विश्व॑स्य। चेष्ट॑तः। अन्ये॑षु। क्षि॒प्रऽध॑न्वने। तस्मै॑। प्रा॒ण॒। नम॑ः। अ॒स्तु॒। ते॒। ६.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

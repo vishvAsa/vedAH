@@ -21,7 +21,7 @@ We call on Savitar the God, on Pushan the establisher, Tvashtar the foremost we 
 
 <details><summary>पदपाठः</summary>
 
-ब्रूमः। देवम्। सवितारम्। धातारम्। उत। पूषणम्। त्वष्टारम्। अग्रियम्। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.३।
+ब्रू॒मः। दे॒वम्। स॒वि॒तार॑म्। धा॒तार॑म्। उ॒त। पू॒षण॑म्। त्वष्टा॑रम्। अ॒ग्रि॒यम्। ब्रू॒म॒ः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

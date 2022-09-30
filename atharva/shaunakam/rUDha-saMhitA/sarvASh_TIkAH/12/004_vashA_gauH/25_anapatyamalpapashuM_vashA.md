@@ -23,7 +23,7 @@ The Cow deprives of progeny and makes him poor in cattle who Retains in his poss
 
 <details><summary>पदपाठः</summary>
 
-अनपत्यम्। अल्पऽपशुम्। वशा। कृणोति। पुरुषम्। ब्राह्मणैः। च। याचिताम्। अथ। एनाम्। निऽप्रिययते। ४.२५।
+अ॒न॒प॒त्यम्। अल्प॑ऽपशुम्। व॒शा। कृ॒णो॒ति॒। पुरु॑षम्। ब्रा॒ह्म॒णैः। च॒। या॒चि॒ताम्। अथ॑। ए॒ना॒म्। नि॒ऽप्रि॒य॒यते॑। ४.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

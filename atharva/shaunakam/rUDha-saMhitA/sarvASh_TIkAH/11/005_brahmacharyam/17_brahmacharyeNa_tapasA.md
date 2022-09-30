@@ -20,7 +20,7 @@ By Fervour and by self-restraint the King protects the realm he rules. By self-r
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मऽचर्येण। तपसा। राजा। राष्ट्रम्। वि। रक्षति। आऽचार्यः᳡। ब्रह्मऽचर्येण। ब्रह्मऽचारिणम्। इच्छते। ७.१७।
+ब्र॒ह्म॒ऽचर्ये॑ण। तप॑सा। राजा॑। रा॒ष्ट्रम्। वि। र॒क्ष॒ति॒। आ॒ऽचा॒र्य᳡ः। ब्र॒ह्म॒ऽचर्ये॑ण। ब्र॒ह्म॒ऽचा॒रिण॑म्। इ॒च्छ॒ते॒। ७.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ The pains that suck the marrow out, and rend and tear the bones apart, May they 
 
 <details><summary>पदपाठः</summary>
 
-याः। मज्ज्ञः। निःऽधयन्ति। परूंषि। विऽरुजन्ति। च। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१८।
+याः। म॒ज्ज्ञः। नि॒ःऽधय॑न्ति। परूं॑षि। वि॒ऽरु॒जन्ति॑। च॒। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

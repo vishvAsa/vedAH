@@ -20,7 +20,7 @@ Hearken to this my word; then go thither away whence thou hast come; to him who 
 
 <details><summary>पदपाठः</summary>
 
-एतत्। हि। शृणु। मे। वचः। अथ। इहि। यतः। आऽइयथ। यः। त्वा। चकार। तम्। प्रति। १.२८।
+ए॒तत्। हि। शृ॒णु। मे॒। वच॑ः। अथ॑। इ॒हि॒। यत॑ः। आ॒ऽइ॒यथ॑। यः। त्वा॒। च॒कार॑। तम्। प्रति॑। १.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Quickly they ask about him, What is this? What thing hath happened here?
 
 <details><summary>पदपाठः</summary>
 
-क्षिप्रम्। वै। तस्य। पृच्छन्ति। यत्। तत्। आसी३त्। इदम्। नु। ता३त्। इति। १,४।
+क्षि॒प्रम्। वै। तस्य॑। पृ॒च्छ॒न्ति॒। यत्। तत्। आसी॑३त्। इ॒दम्। नु। ता३त्। इति॑। १,४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

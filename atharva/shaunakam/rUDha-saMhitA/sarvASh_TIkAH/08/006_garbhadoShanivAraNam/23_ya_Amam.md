@@ -23,7 +23,7 @@ Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feede
 
 <details><summary>पदपाठः</summary>
 
-ये। आमम्। मांसम्। अदन्ति। पौरुषेयम्। च। ये। क्रविः। गर्भान्। खादन्ति। केशऽवाः। तान्। इतः। नाशयामसि। ६.२३।
+ये। आ॒मम्। मां॒सम्। अ॒दन्ति॑। पौरु॑षेयम्। च॒। ये। क्र॒विः। गर्भा॑न्। खाद॑न्ति। के॒श॒ऽवाः। तान्। इ॒तः। ना॒श॒या॒म॒सि॒। ६.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

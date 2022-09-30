@@ -26,7 +26,7 @@ Unborn art thou, O Goat: to heaven thou goest. Though thee Angirases knew that r
 
 <details><summary>पदपाठः</summary>
 
-अजः। असि। अज। स्वःऽगः। असि। त्वया। लोकम्। अङ्गिरसः। प्र। अजानन्। तम्। लोकम्। पुण्यम्। प्र। ज्ञेषम्। ५.१६।
+अ॒जः। अ॒सि॒। अज॑। स्व॒ःऽगः। अ॒सि॒। त्वया॑। लो॒कम्। अङ्गि॑रसः। प्र। अ॒जा॒न॒न्। तम्। लो॒कम्। पुण्य॑म्। प्र। ज्ञे॒ष॒म्। ५.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Mitra and Varuna are the shoulder-blades. Tvashtar and Arya- man the fore-arms, 
 
 <details><summary>पदपाठः</summary>
 
-मित्रः। च। वरुणः। च। अंसौ। त्वष्टा। च। अर्यमा। च। दोषणी इति। महाऽदेवः। बाहू इति। १२.७।
+मि॒त्रः। च॒। वरु॑णः। च॒। अंसौ॑। त्वष्टा॑। च॒। अ॒र्य॒मा। च॒। दो॒षणी॒ इति॑। म॒हा॒ऽदे॒वः। बा॒हू इति॑। १२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

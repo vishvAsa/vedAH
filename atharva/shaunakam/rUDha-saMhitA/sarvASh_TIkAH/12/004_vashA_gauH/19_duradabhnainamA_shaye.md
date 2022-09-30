@@ -27,7 +27,7 @@ If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the
 
 <details><summary>पदपाठः</summary>
 
-दुरदभ्ना। एनम्। आ। शये। याचिताम्। च। न। दित्सति। न। अस्मै। कामाः। सम। ऋध्यन्ते। याम्। अदत्वा। चिकीर्षति। ४.१९।
+दु॒र॒द॒भ्ना। ए॒न॒म्। आ। श॒ये॒। या॒चि॒ताम्। च॒। न। दित्स॑ति। न। अ॒स्मै॒। कामा॑ः। सम। ऋ॒ध्य॒न्ते॒। याम्। अद॑त्वा। चिकी॑र्षति। ४.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

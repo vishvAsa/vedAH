@@ -20,7 +20,7 @@ The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, 
 
 <details><summary>पदपाठः</summary>
 
-याः। बभ्रवः। याः। च। शुक्राः। रोहिणीः। उत। पृश्नयः। असिक्नीः। कृष्णाः। ओषधीः। सर्वाः। अच्छऽआवदामसि। ७.१।
+याः। ब॒भ्रव॑ः। याः। च॒। शु॒क्राः। रोहि॑णीः। उ॒त। पृश्न॑यः। असि॑क्नीः। कृ॒ष्णाः। ओष॑धीः। सर्वा॑ः। अ॒च्छ॒ऽआव॑दामसि। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

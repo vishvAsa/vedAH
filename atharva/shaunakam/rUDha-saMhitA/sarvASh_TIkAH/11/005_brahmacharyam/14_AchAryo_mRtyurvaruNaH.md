@@ -27,7 +27,7 @@ The Master is Death, Varuna, Soma, the plants of earth, and milk. The thunder-cl
 
 <details><summary>पदपाठः</summary>
 
-आऽचार्यः᳡। मृत्युः। वरुणः। सोमः। ओषधयः। पयः। जीमूताः। आसन्। सत्वानः। तैः। इदम्। स्वः᳡। आऽभृतम्। ७.१४।
+आ॒ऽचा॒र्य᳡ः। मृ॒त्युः। वरु॑णः। सोम॑ः। ओष॑धयः। पय॑ः। जी॒मूता॑ः। आ॒स॒न्। सत्वा॑नः। तैः। इ॒दम्। स्व᳡ः। आऽभृ॑तम्। ७.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

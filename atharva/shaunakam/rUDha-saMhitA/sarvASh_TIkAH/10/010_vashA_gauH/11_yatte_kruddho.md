@@ -20,7 +20,7 @@ O Cow, the milk which in his wrath the Lord of Riches took from thee, That same 
 
 <details><summary>पदपाठः</summary>
 
-यत्। ते। क्रुध्दः। धनऽपतिः। आ। क्षीरम्। अहरत्। वशे। इदम्। तत्। अद्य। नाकः। त्रिषु। पात्रेषु। रक्षति। १०.११।
+यत्। ते॒। क्रु॒ध्दः। धन॑ऽपतिः। आ। क्षी॒रम्। अह॑रत्। व॒शे॒। इ॒दम्। तत्। अ॒द्य। नाक॑ः। त्रि॒षु। पात्रे॑षु। र॒क्ष॒ति॒। १०.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

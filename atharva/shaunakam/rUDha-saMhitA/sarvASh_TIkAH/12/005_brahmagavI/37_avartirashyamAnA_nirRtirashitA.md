@@ -18,7 +18,7 @@ Poverty while she is being eaten. Destruction when eaten.
 
 <details><summary>पदपाठः</summary>
 
-अवर्तिः। अश्यमाना। निःऽऋतिः। अशिता। ८.१०।
+अव॑र्तिः। अ॒श्यमा॑ना। निःऽऋ॑तिः। अ॒शि॒ता। ८.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

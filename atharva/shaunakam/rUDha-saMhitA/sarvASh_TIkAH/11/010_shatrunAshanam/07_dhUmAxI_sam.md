@@ -25,7 +25,7 @@ Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be th
 
 <details><summary>पदपाठः</summary>
 
-धूमऽअक्षीः। सम्। पततु। कृधुऽकर्णी। च। क्रोशतु। त्रिऽसंधेः। सेनया। जिते। अरुणाः। सन्तु। केतवः। १२.७।
+धू॒म॒ऽअ॒क्षीः। सम्। प॒त॒तु॒। कृ॒धु॒ऽक॒र्णी। च॒। क्रो॒श॒तु॒। त्रिऽसं॑धेः। सेन॑या। जि॒ते। अ॒रु॒णाः। स॒न्तु॒। के॒तव॑ः। १२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

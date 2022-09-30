@@ -23,7 +23,7 @@ As from the salutary plants I deftly pick the fibres out, And guide them skilful
 
 <details><summary>पदपाठः</summary>
 
-ओषधीनाम्। अहम्। वृणे। उर्वरीःऽइव। साधुऽया। नयामि। अर्वतीःऽइव। अहे। निःऽऐतु। ते। विषम्। ४.२१।
+ओष॑धीनाम्। अ॒हम्। वृ॒णे॒। उ॒र्वरी॑ःऽइव। सा॒धु॒ऽया। नया॑मि। अर्व॑तीःऽइव। अहे॑। नि॒ःऽऐतु॑। ते॒। वि॒षम्। ४.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

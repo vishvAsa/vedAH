@@ -19,7 +19,7 @@ With the Rathantara the Gods milked from her the Plants, and all the wide expans
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। अन्तरिक्षे। चतुःऽधा। विऽक्रान्ता। अतिष्ठत्। ११.१।
+सा। उत्। अ॒क्रा॒म॒त्। सा। अ॒न्तरि॑क्षे। च॒तु॒ःऽधा। विऽक्रा॑न्ता। अ॒ति॒ष्ठ॒त्। ११.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

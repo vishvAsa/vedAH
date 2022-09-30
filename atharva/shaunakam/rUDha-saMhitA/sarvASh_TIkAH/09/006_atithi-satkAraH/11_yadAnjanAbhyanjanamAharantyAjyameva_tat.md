@@ -23,7 +23,7 @@ The ointment that they bring for injunction is just clarified liquid butter.
 
 <details><summary>पदपाठः</summary>
 
-यत्। आञ्जनऽअभ्यञ्जनम्। आऽहरन्ति। आज्यम्। एव। तत्। ६.११।
+यत्। आ॒ञ्ज॒न॒ऽअ॒भ्य॒ञ्ज॒नम्। आ॒ऽहर॑न्ति। आज्य॑म्। ए॒व। तत्। ६.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

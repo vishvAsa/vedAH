@@ -19,7 +19,7 @@ Long life and goodly form, and name and fame, inbreathing and expiration, and si
 
 <details><summary>पदपाठः</summary>
 
-आयुः। च। रूपम्। च। नाम। च। कीर्तिः। च। प्राणः। च। अपानः। च। चक्षुः। च। श्रोत्रम्। च। ६.३।
+आयु॑ः। च॒। रू॒पम्। च॒। नाम॑। च॒। की॒र्तिः। च॒। प्रा॒णः। च॒। अ॒पा॒नः। च॒। चक्षु॑ः। च॒। श्रोत्र॑म्। च॒। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

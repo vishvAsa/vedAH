@@ -26,7 +26,7 @@ With Indra's and with Manyu's aid may we subdue our enemies, resistlessly destro
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रेण। मन्युना। वयम्। अभि। स्याम। पृतन्यतः। घ्नन्तः। वृत्राणि। अप्रति। ९८.१।
+इन्द्रे॑ण। म॒न्युना॑। व॒यम्। अ॒भि। स्या॒म॒। पृ॒तन्य॒तः। घ्नन्त॑ः। वृ॒त्राणि॑। अ॒प्र॒ति। ९८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

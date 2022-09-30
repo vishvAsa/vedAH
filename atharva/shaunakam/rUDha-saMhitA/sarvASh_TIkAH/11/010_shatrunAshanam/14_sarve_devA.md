@@ -20,7 +20,7 @@ Over to us come all the Gods who eat the hallowed sacrifice With this oblation b
 
 <details><summary>पदपाठः</summary>
 
-सर्वे। देवाः। अतिऽआयन्ति। ये। अश्नन्ति। वषट्ऽकृतम्। इमाम्। जुषध्वम्। आऽहुतिम्। इतः। जयत। मा। अमुतः। १२.१४।
+सर्वे॑। दे॒वाः। अ॒ति॒ऽआय॑न्ति। ये। अ॒श्नन्ति॑। वष॑ट्ऽकृतम्। इ॒माम्। जु॒ष॒ध्व॒म्। आऽहु॑तिम्। इ॒तः। ज॒य॒त॒। मा। अ॒मुत॑ः। १२.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

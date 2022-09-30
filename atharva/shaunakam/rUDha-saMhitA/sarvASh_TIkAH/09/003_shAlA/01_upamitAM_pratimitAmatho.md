@@ -22,7 +22,7 @@ We loose the ties and fastenings of the house that holds all precious things, Th
 
 <details><summary>पदपाठः</summary>
 
-उपऽमिताम्। प्रतिऽमिताम्। अथो इति। परिऽमिताम्। उत। शालायाः। विश्वऽवारायाः। नध्दानि। वि। चृतामसि। ३.१।
+उ॒प॒ऽमिता॑म्। प्र॒ति॒ऽमिता॑म्। अथो॒ इति॑। प॒रि॒ऽमिता॑म्। उ॒त। शाला॑याः। वि॒श्वऽवा॑रायाः। न॒ध्दानि॑। वि। चृ॒ता॒म॒सि॒। ३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

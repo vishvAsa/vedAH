@@ -22,7 +22,7 @@ Prajapati and Parameshthin are the two horns, Indra is the head, Agni the forehe
 
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। च। परमेऽस्थी। च। शृङ्गे इति। इन्द्रः। शिरः। अग्निः। ललाटम्। यमः। कृकाटम्। १२.१।
+प्र॒जाऽप॑तिः। च॒। प॒र॒मे॒ऽस्थी। च॒। शृङ्गे॒ इति॑। इन्द्र॑ः। शिर॑ः। अ॒ग्निः। ल॒लाट॑म्। य॒मः। कृका॑टम्। १२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

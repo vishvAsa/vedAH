@@ -23,7 +23,7 @@ them; ours makes the necessary emendation to *bhávati*. We might expect
 
 <details><summary>पदपाठः</summary>
 
-सः। यः। एवम्। विदुषः। उपऽद्रष्टा। भवति। प्राणम्। रुणध्दि। ५.५।
+सः। यः। ए॒वम्। वि॒दुष॑ः। उ॒प॒ऽद्र॒ष्टा। भ॒व॒ति॒। प्रा॒णम्। रु॒ण॒ध्दि॒। ५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

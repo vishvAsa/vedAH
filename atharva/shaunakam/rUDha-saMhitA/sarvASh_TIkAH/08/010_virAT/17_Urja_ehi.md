@@ -27,7 +27,7 @@ Waters from Vamdevya come, from Yajnayajniya sacrifice.
 
 <details><summary>पदपाठः</summary>
 
-ऊर्जे। आ। इहि। स्वधे। आ। इहि। सूनृते। आ। इहि। इराऽवति। आ। इहि। इति। ११.४।
+ऊर्जे॑। आ। इ॒हि॒। स्वधे॑। आ। इ॒हि॒। सूनृ॑ते। आ। इ॒हि॒। इरा॑ऽवति। आ। इ॒हि॒। इति॑। ११.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

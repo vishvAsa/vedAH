@@ -22,7 +22,7 @@ Gandharvas and Apsarases, Kimidins, and malignant sprites, Pisachas all, and Rak
 
 <details><summary>पदपाठः</summary>
 
-ये। गन्धर्वाः। अप्सरसः। ये। च। अरायाः। किमीदिनः। पिशाचान्। सर्वा। रक्षांसि। तान्। अस्मत्। भूमे। यवय। १.५०।
+ये। ग॒न्ध॒र्वाः। अ॒प्स॒रस॑ः। ये। च॒। अ॒राया॑ः। कि॒मी॒दिन॑ः। पि॒शा॒चान्। सर्वा॑। रक्षां॑सि। तान्। अ॒स्मत्। भू॒मे॒। य॒व॒य॒। १.५०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

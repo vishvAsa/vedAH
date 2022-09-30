@@ -28,7 +28,7 @@ Quickly around his funeral fire dance women with dishevelled locks, Striking the
 
 <details><summary>पदपाठः</summary>
 
-तस्य। आऽदहनम्। परि। नृत्यन्ति। केशिनीः। आऽघ्नानाः। पाणिना। उरसि। कुर्वाणाः। पापम्। ऐलबम्। १०.२।
+तस्य॑। आ॒ऽदह॑नम्। परि॑। नृ॒त्य॒न्ति॒। के॒शिनी॑ः। आ॒ऽघ्ना॒नाः। पा॒णिना॑। उर॑सि। कु॒र्वा॒णाः। पा॒पम्। ऐ॒ल॒बम्। १०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

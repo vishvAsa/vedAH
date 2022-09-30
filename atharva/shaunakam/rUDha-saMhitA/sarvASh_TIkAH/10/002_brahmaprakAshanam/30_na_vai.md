@@ -22,7 +22,7 @@ Sight leaves him not, breath quits not him before life's natural decay, Who know
 
 <details><summary>पदपाठः</summary>
 
-न। वै। तम्। चक्षुः। जहाति। न। प्राणः। जरसः। पुरा। पुरम्। यः। ब्रह्मणः। वेद। यस्याः। पुरुषः। उच्यते। २.३०।
+न। वै। तम्। चक्षु॑ः। ज॒हा॒ति॒। न। प्रा॒णः। ज॒रस॑ः। पु॒रा। पुर॑म्। यः। ब्रह्म॑णः। वेद॑। यस्या॑ः। पुरु॑षः। उ॒च्यते॑। २.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

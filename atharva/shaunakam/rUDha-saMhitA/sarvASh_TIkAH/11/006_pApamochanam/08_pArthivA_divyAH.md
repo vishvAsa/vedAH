@@ -23,7 +23,7 @@ All creatures both of heaven and earth, wild beasts and sylvan animals, And wing
 
 <details><summary>पदपाठः</summary>
 
-पार्थिवाः। दिव्याः। पशवः। आरण्याः। उत। ये। मृगाः। शकुन्तान्। पक्षिणः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.८।
+पार्थि॑वाः। दि॒व्याः। प॒शव॑ः। आ॒र॒ण्याः। उ॒त। ये। मृ॒गाः। श॒कुन्ता॑न्। प॒क्षिण॑ः। ब्रू॒म॒ः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

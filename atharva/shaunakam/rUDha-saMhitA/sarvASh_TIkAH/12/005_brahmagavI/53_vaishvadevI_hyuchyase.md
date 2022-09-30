@@ -20,7 +20,7 @@ Of evil womb, thou witchcraft hid, for Vaisvadevi is thy name,
 
 <details><summary>पदपाठः</summary>
 
-वैश्वऽदेवी। हि। उच्यसे। कृत्या। कूल्बजम्। आऽवृता। १०.७।
+वै॒श्व॒ऽदे॒वी। हि। उ॒च्यसे॑। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। १०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

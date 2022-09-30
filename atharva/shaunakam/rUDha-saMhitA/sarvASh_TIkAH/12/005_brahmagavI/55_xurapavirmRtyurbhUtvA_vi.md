@@ -21,7 +21,7 @@ Go thou, becoming Mrityu sharp as razor's edge pursue thy course:
 
 <details><summary>पदपाठः</summary>
 
-क्षुरऽपविः। मृत्युः। भूत्वा। वि। धाव। त्वम्। १०.९।
+क्षु॒रऽप॑विः। मृ॒त्युः। भू॒त्वा। वि। धा॒व॒। त्वम्। १०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

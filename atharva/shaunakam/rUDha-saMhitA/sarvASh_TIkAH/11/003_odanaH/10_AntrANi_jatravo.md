@@ -15,7 +15,7 @@ Collar-bones are its entrails, straps its intestines.
 
 <details><summary>पदपाठः</summary>
 
-आन्त्राणि। जत्रवः। गुदाः। वरत्राः। ३.१०।
+आ॒न्त्राणि॑। ज॒त्रव॑ः। गुदा॑ः। व॒र॒त्राः। ३.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

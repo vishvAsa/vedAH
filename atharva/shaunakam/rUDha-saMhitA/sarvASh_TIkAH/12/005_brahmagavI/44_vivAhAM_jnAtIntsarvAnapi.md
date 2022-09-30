@@ -22,7 +22,7 @@ The Brahman's cow, not restored by a Kshatriya, ruins the marriages and all the 
 
 <details><summary>पदपाठः</summary>
 
-विऽवाहान्। ज्ञातीन्। सर्वान्। अपि। क्षापयति। ब्रह्मऽगवी। ब्रह्मऽज्यस्य। क्षत्रियेण। अपुनःऽदीयमाना। ९.६।
+वि॒ऽवा॒हान्। ज्ञा॒तीन्। सर्वा॑न्। अपि॑। क्षा॒प॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। क्ष॒त्रिये॑ण। अपु॑नःऽदीयमाना। ९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

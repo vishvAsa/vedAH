@@ -22,7 +22,7 @@ All poison that the sun and fire, all that the earth and plants contain, Poison 
 
 <details><summary>पदपाठः</summary>
 
-यत्। अग्नौ। सूर्ये। विषम्। पृथिव्याम्। ओषधीषु। यत्। कान्दाऽविषम्। कनक्नकम्। निःऽऐतु। आ। एतु। ते। विषम्। ४.२२।
+यत्। अ॒ग्नौ। सूर्ये॑। वि॒षम्। पृ॒थि॒व्याम्। ओष॑धीषु। यत्। का॒न्दा॒ऽवि॒षम्। क॒नक्न॑कम्। नि॒ःऽऐतु॑। आ। ए॒तु॒। ते॒। वि॒षम्। ४.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ That is indeed Atharvan's head, the well-closed casket of the Gods. Spirit and F
 
 <details><summary>पदपाठः</summary>
 
-तत्। वै। अथर्वणः। शिरः। देवऽकोशः। सम्ऽउब्जितः। तत्। प्राणः। अभि। रक्षति। शिरः। अन्नम्। अथो इति। मनः। २.२७।
+तत्। वै। अथ॑र्वणः। शिर॑ः। दे॒व॒ऽको॒शः। सम्ऽउ॑ब्जितः। तत्। प्रा॒णः। अ॒भि। र॒क्ष॒ति॒। शिर॑ः। अन्न॑म्। अथो॒ इति॑। मन॑ः। २.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

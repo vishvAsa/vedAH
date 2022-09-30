@@ -24,7 +24,7 @@ Yearn not for the departed ones, for those who lead men far away. Rise up from d
 
 <details><summary>पदपाठः</summary>
 
-मा। गतानाम्। आ। दीधीथाः। ये। नयन्ति। पराऽवतम्। आ। रोह। तमसः। ज्योतिः। आ। इहि। आ। ते। हस्तौ। रभामहे। १.८।
+मा। ग॒ताना॑म्। आ। दी॒धी॒था॒ः। ये। नय॑न्ति। प॒रा॒ऽवत॑म्। आ। रो॒ह॒। तम॑सः। ज्योति॑ः। आ। इ॒हि॒। आ। ते॒। हस्तौ॑। र॒भा॒म॒हे॒। १.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ All Waters, all the Deities. Viraj with Brahma at her side: Brahma into the body
 
 <details><summary>पदपाठः</summary>
 
-याः। आपः। याः। च। देवताः। या। विऽराट्। ब्रह्मणा। सह। शरीरम्। ब्रह्म। प्र। अविशत्। शरीरे। अधि। प्रजाऽपतिः। १०.३०।
+याः। आप॑ः। याः। च॒। दे॒वता॑ः। या। वि॒ऽराट्। ब्रह्म॑णा। स॒ह। शरी॑रम्। ब्रह्म॑। प्र। अ॒वि॒श॒त्। शरी॑रे। अधि॑। प्र॒जाऽप॑तिः। १०.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

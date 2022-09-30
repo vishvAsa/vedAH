@@ -23,7 +23,7 @@ Following him, the Brahman's cow extinguisheth the vital breath of the injurer o
 
 <details><summary>पदपाठः</summary>
 
-अनुऽगच्छन्ती। प्राणान्। उप। दासयति। ब्रह्मऽगवी। ब्रह्मऽज्यस्य। ७.१६।
+अ॒नु॒ऽगच्छ॑न्ती। प्रा॒णान्। उप॑। दा॒स॒य॒ति॒। ब्र॒ह्म॒ऽग॒वी। ब्र॒ह्म॒ऽज्यस्य॑। ७.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Thou, rugged Plant, art rude and rough, Visha, Vishataki art thou. That thou may
 
 <details><summary>पदपाठः</summary>
 
-तृष्टा। असि। तृष्टिका। विषा। विषातकी। असि। परिऽवृक्ता। यथा। अससि। ऋषभस्य। वशाऽइव। ११८.२।
+तृ॒ष्टा। अ॒सि॒। तृ॒ष्टि॒का। वि॒षा। वि॒षा॒त॒की। अ॒सि॒। परि॑ऽवृक्ता। यथा॑। अस॑सि। ऋ॒ष॒भस्य॑। व॒शाऽइ॑व। ११८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -33,7 +33,7 @@ The deathless balm that Matali knows, purchased at a chariot's price, Indra effu
 
 <details><summary>पदपाठः</summary>
 
-यत्। मातली। रथऽक्रीतम्। अमृतम्। वेद। भेषजम्। तत्। इन्द्रः। अप्ऽसु। प्र। अवेशयत्। तत्। आपः। दत्त। भेषजम्। ८.२३।
+यत्। मात॑ली। र॒थ॒ऽक्री॒तम्। अ॒मृत॑म्। वेद॑। भे॒ष॒जम्। तत्। इन्द्र॑ः। अ॒प्ऽसु। प्र। अ॒वे॒श॒य॒त्। तत्। आप॑ः। द॒त्त॒। भे॒ष॒जम्। ८.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

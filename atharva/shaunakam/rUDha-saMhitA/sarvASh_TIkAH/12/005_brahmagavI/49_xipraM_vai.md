@@ -19,7 +19,7 @@ Quickly the wolves are howling in the habitation where he lived:
 
 <details><summary>पदपाठः</summary>
 
-तस्य। वास्तुषु। वृकाः। कुर्वते। ऐलबम्। १०.३।
+तस्य॑। वास्तु॑षु। वृका॑ः। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ The young maid of Kirata race, a little damsel, digs the drug, Digs it with shov
 
 <details><summary>पदपाठः</summary>
 
-कैरातिका। कुमारिका। सका। खनति। भेषजम्। हिरण्ययीभिः। अभ्रिऽभिः। गिरीणाम्। उप। सानुषु। ४.१४।
+कै॒रा॒ति॒का। कु॒मा॒रि॒का। स॒का। ख॒न॒ति॒। भे॒ष॒जम्। हि॒र॒ण्ययी॑भिः। अभ्रि॑ऽभिः। गि॒री॒णाम्। उप॑। सानु॑षु। ४.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

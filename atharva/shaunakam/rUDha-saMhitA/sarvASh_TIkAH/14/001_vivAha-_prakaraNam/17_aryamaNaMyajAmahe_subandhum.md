@@ -31,7 +31,7 @@ Worship we pay to Aryaman, finder of husbands, kindly friend. As from its stalk 
 
 <details><summary>पदपाठः</summary>
 
-अर्यमणम्। यजामहे। सुऽबन्धुम्। पतिऽवेदनम्। उर्वारुकम्ऽइव। बन्धनात्। प्र। इतः। मुञ्चामि। न। अमुतः। १.१७।
+अ॒र्य॒मण॑म्। य॒जा॒म॒हे॒। सु॒ऽब॒न्धुम्। प॒ति॒ऽवेद॑नम्। उ॒र्वा॒रु॒कम्ऽइ॑व। बन्ध॑नात्। प्र। इ॒तः। मु॒ञ्चा॒मि॒। न। अ॒मुत॑ः। १.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

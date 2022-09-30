@@ -18,7 +18,7 @@ I indeed have not eaten the Odana, nor has the Odana eaten me.
 
 <details><summary>पदपाठः</summary>
 
-न। एव। अहम्। ओदनम्। न। माम्। ओदनः। ३.३०।
+न। ए॒व। अ॒हम्। ओ॒द॒नम्। न। माम्। ओ॒द॒नः। ३.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

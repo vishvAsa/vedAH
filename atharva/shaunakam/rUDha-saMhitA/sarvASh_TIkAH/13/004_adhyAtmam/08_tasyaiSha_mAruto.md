@@ -21,7 +21,7 @@ His are these banded Maruts: they move gathered close like porters' thongs.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। एषः। मारुतः। गणः। सः। एति। शिक्याऽकृतः। ४.८।
+तस्य॑। ए॒षः। मारु॑तः। ग॒णः। सः। ए॒ति॒। शि॒क्याऽकृ॑तः। ४.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

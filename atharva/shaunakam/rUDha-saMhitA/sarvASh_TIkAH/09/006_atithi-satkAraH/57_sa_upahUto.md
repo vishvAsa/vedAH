@@ -20,7 +20,7 @@ He having been invited in the sky, regales, invited, in that which wears all var
 
 <details><summary>पदपाठः</summary>
 
-सः। उपऽहूतः। दिव᳡ देव॒यज॑नि। भक्षयति। उपऽहूतः। तस्मिन्। यत्। दिवि। विश्वऽरूपम्। ११.९।
+सः। उप॑ऽहूतः। दि॒व‍ि। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दि॒वि। वि॒श्वऽरू॑पम्। ११.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

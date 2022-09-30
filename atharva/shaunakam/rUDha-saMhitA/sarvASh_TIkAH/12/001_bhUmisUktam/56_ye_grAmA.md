@@ -23,7 +23,7 @@ In hamlets and in woodland, and in all assemblages on earth, In gatherings, meet
 
 <details><summary>पदपाठः</summary>
 
-ये। ग्रामाः। यत्। अरण्यम्। याः। सभाः। अधि। भूम्याम्। ये। सम्ऽग्रामाः। सम्ऽइतयः। तेषु। चारु। वदेम। ते। १.५६।
+ये। ग्रामा॑ः। यत्। अर॑ण्यम्। याः। स॒भाः। अधि॑। भूम्या॑म्। ये। स॒म्ऽग्रा॒माः। सम्ऽइ॑तयः। तेषु॑। चारु॑। व॒दे॒म॒। ते॒। १.५६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

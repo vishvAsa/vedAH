@@ -20,7 +20,7 @@ Thought was her coverlet, the power of sight was unguent for her eyes: Her treas
 
 <details><summary>पदपाठः</summary>
 
-चित्तिः। आः। उपऽबर्हणम्। चक्षुः। आः। अभिऽअञ्जनम्। द्यौः। भूमि। कोशः। आसीत्। यत्। अयात्। सूर्या। पतिम्। १.६।
+चित्ति॑ः। आ॒ः। उ॒प॒ऽबर्ह॑णम्। चक्षु॑ः। आ॒ः। अ॒भि॒ऽअञ्ज॑नम्। द्यौः। भूमि॑। कोश॑ः। आ॒सी॒त्। यत्। अया॑त्। सू॒र्या। पति॑म्। १.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

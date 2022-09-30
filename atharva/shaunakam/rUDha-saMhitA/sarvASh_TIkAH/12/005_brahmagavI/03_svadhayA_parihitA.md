@@ -23,7 +23,7 @@ Girt round with inherent power, fortified with faith, protected, by consecration
 
 <details><summary>पदपाठः</summary>
 
-स्वधया। परिऽहिता। श्रध्दया। परिऽऊढा। दीक्षया। गुप्ता। यज्ञे। प्रतिऽस्थिता। लोकः। निऽधनम्। ५.३।
+स्व॒धया॑। परि॑ऽहिता। श्र॒ध्दया॑। परि॑ऽऊढा। दी॒क्षया॑। गु॒प्ता। य॒ज्ञे। प्रति॑ऽस्थिता। लो॒कः। नि॒ऽधन॑म्। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

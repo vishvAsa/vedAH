@@ -26,7 +26,7 @@ Auspicious unto thee be rice and barley, causing no painful sick- ness or consum
 
 <details><summary>पदपाठः</summary>
 
-शिवौ। ते। स्ताम्। व्रीहिऽयवौ। अबलासौ। अदोमधौ। एतौ। यक्ष्मम्। वि। बाधेते इति। एतौ। मुञ्चतः। अंहसः। २.१८।
+शि॒वौ। ते॒। स्ता॒म्। व्री॒हि॒ऽय॒वौ। अ॒ब॒ला॒सौ। अ॒दो॒म॒धौ। ए॒तौ। यक्ष्म॑म्। वि। बा॒धे॒ते॒ इति॑। ए॒तौ। मु॒ञ्च॒त॒ः। अंह॑सः। २.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

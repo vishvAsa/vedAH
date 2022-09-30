@@ -18,7 +18,7 @@ title = "०४ न पञ्चमो"
 
 <details><summary>पदपाठः</summary>
 
-न। पञ्चमः। न। षष्ठः। सप्तमः। न। ५.४।
+न। प॒ञ्च॒मः। न। ष॒ष्ठः। स॒प्त॒मः। न। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

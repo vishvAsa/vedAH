@@ -23,7 +23,7 @@ Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I cal
 
 <details><summary>पदपाठः</summary>
 
-वराहः। वेद। वीरुधम्। नकुलः। वेद। भेषजीम्। सर्पाः। गन्धर्वाः। याः। विदुः। ताः। अस्मै। अवसे। हुवे। ७.२३।
+व॒रा॒हः। वे॒द॒। वी॒रुध॑म्। न॒कु॒लः। वे॒द॒। भे॒ष॒जीम्। स॒र्पाः। ग॒न्ध॒र्वाः। याः। वि॒दुः। ताः। अ॒स्मै। अव॑से। हु॒वे॒। ७.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

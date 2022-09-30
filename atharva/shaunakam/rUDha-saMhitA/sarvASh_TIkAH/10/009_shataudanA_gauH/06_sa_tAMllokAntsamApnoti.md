@@ -22,7 +22,7 @@ That man completely wins those worlds, both of the heavens and of the earth, Who
 
 <details><summary>पदपाठः</summary>
 
-सः। तान्। लोकान्। सम्। आप्नोति। ये। दिव्याः। ये। च। पार्थिवाः। हिरण्यऽज्योतिषम्। कृत्वा। यः। ददाति। शतऽओदनाम्। ९.६।
+सः। तान्। लो॒कान्। सम्। आ॒प्नो॒ति॒। ये। दि॒व्याः। ये। च॒। पार्थि॑वाः। हिर॑ण्यऽज्योतिषम्। कृ॒त्वा। यः। ददा॑ति। श॒तऽओ॑दनाम्। ९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

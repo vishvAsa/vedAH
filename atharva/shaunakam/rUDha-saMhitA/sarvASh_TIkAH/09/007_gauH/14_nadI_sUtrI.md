@@ -21,7 +21,7 @@ The river is the womb, the Lords of the Rain are the breasts,. the thunder is th
 
 <details><summary>पदपाठः</summary>
 
-नदी। सूत्री। वर्षस्य। पतयः। स्तनाः। स्तनयित्नुः। ऊधः। १२.१४।
+न॒दी। सू॒त्री। व॒र्षस्य॑। पत॑यः। स्तना॑ः। स्त॒न॒यि॒त्नुः। ऊध॑ः। १२.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

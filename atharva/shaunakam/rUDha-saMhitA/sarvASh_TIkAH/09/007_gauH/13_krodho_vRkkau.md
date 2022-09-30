@@ -19,7 +19,7 @@ Wrath is the kidneys, anger the testes, offspring the generative organ.
 
 <details><summary>पदपाठः</summary>
 
-क्रोधः। वृक्कौ। मन्युः। आण्डौ। प्रऽजा। शेपः। १२.१३।
+क्रोध॑ः। वृ॒क्कौ। म॒न्युः। आ॒ण्डौ। प्र॒ऽजा। शेप॑ः। १२.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

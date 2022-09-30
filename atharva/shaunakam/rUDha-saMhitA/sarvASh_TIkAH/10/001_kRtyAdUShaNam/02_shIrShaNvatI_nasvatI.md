@@ -24,7 +24,7 @@ Complete, with head and nose and ears, all-beauteous, wrought with magic skill A
 
 <details><summary>पदपाठः</summary>
 
-शीर्षण्ऽवती। नस्वती। कर्णिनी। कृत्याऽकृता। सम्ऽभृता। विश्वऽरूपा। सा। आरात्। एतु। अप। नुदामः। एनाम्। १.२।
+शी॒र्ष॒ण्ऽवती॑। न॒स्वती॑। क॒र्णिनी॑। कृ॒त्या॒ऽकृता॑। सम्ऽभृ॑ता। वि॒श्वऽरू॑पा। सा। आ॒रात्। ए॒तु॒। अप॑। नु॒दा॒म॒ः। ए॒ना॒म्। १.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

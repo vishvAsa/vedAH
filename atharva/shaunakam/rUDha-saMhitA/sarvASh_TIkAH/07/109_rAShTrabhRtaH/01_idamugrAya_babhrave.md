@@ -26,7 +26,7 @@ My homage to the strong, the brown, the sovran lord among the dice! Butter on Ka
 
 <details><summary>पदपाठः</summary>
 
-इदम्। उग्राय। बभ्रवे। नमः। यः। अक्षेषु। तनूऽवशी। घृतेन। कलिम्। शिक्षामि। सः। नः। मृडाति। ईदृशे। ११४.१।
+इ॒दम्। उ॒ग्राय॑। ब॒भ्रवे॑। नम॑ः। यः। अ॒क्षेषु॑। त॒नू॒ऽव॒शी। घृ॒तेन॑। कलि॑म्। शि॒क्षा॒मि॒। सः। न॒ः। मृ॒डा॒ति॒। ई॒दृशे॑। ११४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 
 <details><summary>पदपाठः</summary>
 
-एते। वै। प्रियाः। च। अप्रियाः। च। ऋत्विजः। स्वःऽगम्। लोकम्। गमयन्ति। यत्। अतिथयः। ७.६।
+ए॒ते। वै। प्रि॒याः। च॒। अप्रि॑याः। च॒। ऋ॒त्विज॑ः। स्व॒ःऽगम्। लो॒कम्। ग॒म॒य॒न्ति॒। यत्। अति॑थयः। ७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

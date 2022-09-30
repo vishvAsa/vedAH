@@ -21,7 +21,7 @@ Through hundred autumn seasons, long to live, I wear this Varana. May it bestow 
 
 <details><summary>पदपाठः</summary>
 
-इमम्। बिभर्मि। वरणम्। आयुष्मान्। शतऽशारदः। सः। मे। राष्ट्रम्। च। क्षत्रम्। च। पशून्। ओजः। च। मे। दधत्। ३.१२।
+इ॒मम्। बि॒भ॒र्मि॒। व॒र॒णम्। आयु॑ष्मान्। श॒तऽशा॑रदः। सः। मे॒। रा॒ष्ट्रम्। च॒। क्ष॒त्रम्। च॒। प॒शून्। ओज॑ः। च॒। मे॒। द॒ध॒त्। ३.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

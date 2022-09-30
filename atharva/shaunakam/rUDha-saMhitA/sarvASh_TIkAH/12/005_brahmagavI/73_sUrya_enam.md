@@ -36,7 +36,7 @@ From heaven let Surya drive him and consume him.
 
 <details><summary>पदपाठः</summary>
 
-सूर्यः। एनम्। दिवः। प्र। नुदताम्। नि। ओषतु। ११.१२।
+सूर्य॑ः। ए॒न॒म्। दि॒वः। प्र। नु॒द॒ता॒म्। नि। ओ॒ष॒तु॒। ११.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

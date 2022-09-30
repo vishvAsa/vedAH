@@ -20,7 +20,7 @@ Hither the young uuconquered leech who slays the speckled snake hath come. He ve
 
 <details><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। युवा। भिषक्। पृश्निऽहा। अपराऽजितः। सः। वै। स्वजस्य। जम्भनः। उभयोः। वृश्चिकस्य। च। ४.१५।
+आ। अ॒यम्। अ॒ग॒न्। युवा॑। भि॒षक्। पृ॒श्नि॒ऽहा। अप॑राऽजितः। सः। वै। स्व॒जस्य॑। जम्भ॑नः। उ॒भयो॑ः। वृश्चि॑कस्य। च॒। ४.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

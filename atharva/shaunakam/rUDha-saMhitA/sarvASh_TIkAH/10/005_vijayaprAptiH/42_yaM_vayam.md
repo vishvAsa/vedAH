@@ -23,7 +23,7 @@ We hunt that man, we beat him down and slay him with our murderous blows. We wit
 
 <details><summary>पदपाठः</summary>
 
-यम्। वयम्। मृगयामहे। तम्। वधैः। स्तृणवामहै। विऽआत्ते। परमेऽस्थिनः। ब्रह्मणा। आ। अपीपदाम। तम्। ५.४२।
+यम्। व॒यम्। मृ॒गया॑महे। तम्। व॒धैः। स्तृ॒ण॒वा॒म॒है॒। वि॒ऽआत्ते॑। प॒र॒मे॒ऽस्थिन॑ः। ब्रह्म॑णा। आ। अ॒पी॒प॒दा॒म॒। तम्। ५.४२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

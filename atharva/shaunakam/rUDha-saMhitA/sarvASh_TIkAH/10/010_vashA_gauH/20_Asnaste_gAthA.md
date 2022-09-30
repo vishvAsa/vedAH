@@ -21,7 +21,7 @@ Forth from thy mouth the Gathas came, from thy neck's nape sprang strength, O Co
 
 <details><summary>पदपाठः</summary>
 
-आस्नः। ते। गाथाः। अभवन्। उष्णिहाभ्यः। बलम्। वशे। पाजस्या᳡त्। जज्ञे। यज्ञः। स्तनेभ्यः। रश्मयः। तव। १०.२०।
+आ॒स्नः। ते॒। गाथा॑ः। अ॒भ॒व॒न्। उ॒ष्णिहा॑भ्यः। बल॑म्। व॒शे॒। पा॒ज॒स्या᳡त्। ज॒ज्ञे॒। य॒ज्ञः। स्तने॑भ्यः। र॒श्मय॑ः। तव॑। १०.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

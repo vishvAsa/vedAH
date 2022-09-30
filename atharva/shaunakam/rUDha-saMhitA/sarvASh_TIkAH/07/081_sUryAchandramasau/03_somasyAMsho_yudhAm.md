@@ -28,7 +28,7 @@ O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect,
 
 <details><summary>पदपाठः</summary>
 
-सोमस्य। अंशो इति। युधाम्। पते। अनूनः। नाम। वै। असि। अनूनम्। दर्श। मा। कृधि। प्रऽजया। च। धनेन। च। ८६.३।
+सोम॑स्य। अं॒शो॒ इति॑। यु॒धा॒म्। प॒ते॒। अनू॑नः। नाम॑। वै। अ॒सि॒। अनू॑नम्। द॒र्श॒। मा॒। कृ॒धि॒। प्र॒ऽजया॑। च॒। धने॑न। च॒। ८६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

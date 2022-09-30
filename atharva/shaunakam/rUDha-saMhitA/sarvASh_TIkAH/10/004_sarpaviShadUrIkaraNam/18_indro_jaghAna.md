@@ -20,7 +20,7 @@ O Serpent, Indra hath destroyed the sire who first engendered thee: And when the
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। जघान। प्रथमम्। जनितारम्। अहे। तव। तेषाम्। ऊं इति। तृह्यमाणानाम्। कः। स्वित्। तेषाम्। असत्। रसः। ४.१८।
+इन्द्र॑ः। ज॒घा॒न॒। प्र॒थ॒मम्। ज॒नि॒तार॑म्। अ॒हे॒। तव॑। तेषा॑म्। ऊं॒ इति॑। तृ॒ह्यमा॑णानाम्। कः। स्वि॒त्। तेषा॑म्। अ॒स॒त्। रस॑ः। ४.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

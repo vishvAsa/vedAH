@@ -21,7 +21,7 @@ The malady whose awful look makes a man quiver with alarm, Fever whom every Autu
 
 <details><summary>पदपाठः</summary>
 
-यस्य। भीमः। प्रतिऽकाशः। उत्ऽवेपयति। पुरुषम्। तक्मानम्। विश्वऽशारदम्। बहिः। निः। मन्त्रयामहे। १३.६।
+यस्य॑। भी॒मः। प्र॒ति॒ऽका॒शः। उ॒त्ऽवे॒पय॑ति। पुरु॑षम्। त॒क्मान॑म्। वि॒श्वऽशा॑रदम्। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ sacrifice.
 
 <details><summary>पदपाठः</summary>
 
-तेषाम्। प्रऽज्ञानाय। यज्ञम्। असृजत। ५.४।
+तेषा॑म्। प्र॒ऽज्ञाना॑य। य॒ज्ञम्। अ॒सृ॒ज॒त॒। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

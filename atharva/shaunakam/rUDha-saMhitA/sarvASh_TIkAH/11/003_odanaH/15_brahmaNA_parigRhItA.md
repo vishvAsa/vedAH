@@ -15,7 +15,7 @@ Received by the Brahman, it has been carried round.
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मणा। परिऽगृहिता। साम्ना। परिऽऊढा। ३.१५।
+ब्रह्म॑णा। परि॑ऽगृहिता। साम्ना॑। परि॑ऽऊढा। ३.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

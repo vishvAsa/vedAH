@@ -23,7 +23,7 @@ Surya is eager to obtain all wealth that lies along the sea, Great is the course
 
 <details><summary>पदपाठः</summary>
 
-यत्। समुद्रम्। अनु। श्रितम्। तत्। सिषासति। सूर्यः। अध्वा। अस्य। विऽततः। महान्। पूर्वः। च। अपरः। च। यः। 2.१४।
+यत्। स॒मु॒द्रम्। अनु॑। श्रि॒तम्। तत्। सि॒षा॒स॒ति॒। सूर्य॑ः। अध्वा॑। अ॒स्य॒। विऽत॑तः। म॒हान्। पूर्व॑ः। च॒। अप॑रः। च॒। यः। 2.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

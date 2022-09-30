@@ -24,7 +24,7 @@ Thou art the bound of Varuna the King. Bind, such an one, the son of such a woma
 
 <details><summary>पदपाठः</summary>
 
-राज्ञः। वरुणस्य। बन्धः। असि। सः। अमुम्। आमुष्यायणम्। अमुष्याः। पुत्रम्। अन्ने। प्राणे। बधान। ५.४४।
+राज्ञ॑ः। वरु॑णस्य। ब॒न्धः। अ॒सि॒। सः। अ॒मुम्। आ॒मु॒ष्या॒य॒णम्। अ॒मुष्या॑ः। पु॒त्रम्। अन्ने॑। प्रा॒णे। ब॒धा॒न॒। ५.४४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

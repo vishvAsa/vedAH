@@ -19,7 +19,7 @@ Thou hast eaten this averted; thy inward breath will leave thee; so he said to t
 
 <details><summary>पदपाठः</summary>
 
-पराञ्चम्। च। एनम्। प्रऽआशीः। प्राणाः। त्वा। हास्यन्ति। इति। एनम्। आह। ३.२८।
+परा॑ञ्चम्। च॒। ए॒न॒म्। प्र॒ऽआशी॑ः। प्रा॒णाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

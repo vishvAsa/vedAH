@@ -24,7 +24,7 @@ The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisi
 
 <details><summary>पदपाठः</summary>
 
-हरिमाणम्। ते। अङ्गेभ्यः। अप्वाम्। अन्तरा। उदरात्। यक्ष्मःऽधाम्। अन्तः। आत्मनः। बहिः। निः। मन्त्रयामहे। १३.९।
+ह॒रि॒माण॑म्। ते॒। अङ्गे॑भ्यः। अ॒प्वाम्। अ॒न्त॒रा। उ॒दरा॑त्। य॒क्ष्म॒ःऽधाम्। अ॒न्तः। आ॒त्मन॑ः। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

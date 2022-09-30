@@ -15,7 +15,7 @@ The jar covered with the Rich has been solemnly directed by the priestly office.
 
 <details><summary>पदपाठः</summary>
 
-ऋचा। कुम्भी। अधिऽहिता। आर्त्विज्येन। प्रऽइषिता। ३.१४।
+ऋ॒चा। कु॒म्भी। अधि॑ऽहिता। आर्त्वि॑ज्येन। प्रऽइ॑षिता। ३.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

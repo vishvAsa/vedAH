@@ -23,7 +23,7 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 
 <details><summary>पदपाठः</summary>
 
-यत्। कशिपुऽउपबर्हणम्। आऽहरन्ति। परिऽधयः। एव। ते। ६.१०।
+यत्। क॒शि॒पु॒ऽउ॒प॒ब॒र्ह॒णम्। आ॒ऽहर॑न्ति। प॒रि॒ऽधय॑ः। ए॒व। ते। ६.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

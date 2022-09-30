@@ -21,7 +21,7 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 
 <details><summary>पदपाठः</summary>
 
-यत्। सभागयति। दक्षिणाः। सभागयति। यत्। अनुऽतिष्ठते। उत्ऽअवस्यति। एव। तत्। ११.६।
+यत्। स॒भा॒गय॑ति। दक्षि॑णाः। स॒भा॒ग॒य॒ति॒। यत्। अ॒नु॒ऽतिष्ठ॑ते। उ॒त्ऽअव॑स्यति। ए॒व। तत्। ११.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

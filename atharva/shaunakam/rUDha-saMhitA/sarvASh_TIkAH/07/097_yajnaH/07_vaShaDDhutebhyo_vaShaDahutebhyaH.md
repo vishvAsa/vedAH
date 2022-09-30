@@ -22,7 +22,7 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 
 <details><summary>पदपाठः</summary>
 
-वषट्। हुतेभ्यः। वषट्। अहुतेभ्यः। देवाः। गातुऽविदः। गातुम्। वित्त्वा। गातुम्। इत। १०२.७।
+वष॑ट्। हु॒तेभ्य॑ः। वष॑ट्। अहु॑तेभ्यः। देवा॑ः। गा॒तु॒ऽवि॒द॒ः। गा॒तुम्। वि॒त्त्वा। गा॒तुम्। इ॒त॒। १०२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

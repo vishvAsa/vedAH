@@ -18,7 +18,7 @@ With hundred-knotted thunderbolt, sharpened and edged with razor-blades,
 
 <details><summary>पदपाठः</summary>
 
-वज्रेण। शतऽपर्वणा। तीक्ष्णेन। क्षुरऽभृष्टिना। ११.५।
+वज्रे॑ण। श॒तऽप॑र्वणा। ती॒क्ष्णेन॑। क्षु॒रऽभृ॑ष्टिना। ११.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

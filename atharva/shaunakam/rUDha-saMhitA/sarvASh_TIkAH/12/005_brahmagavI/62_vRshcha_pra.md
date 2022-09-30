@@ -18,7 +18,7 @@ Rend, rend to bits, rend through and through, scorch and con- sume and burn to d
 
 <details><summary>पदपाठः</summary>
 
-वृश्च। प्र। वृश्च। सम्। वृश्च। दह। प्र। दह। सम्। दह। ११.१।
+वृ॒श्च॒। प्र। वृ॒श्च॒। सम्। वृ॒श्च॒। दह॑। प्र। द॒ह॒। सम्। द॒ह॒। ११.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -18,7 +18,7 @@ Strike off the shoulders and the head.
 
 <details><summary>पदपाठः</summary>
 
-प्र। स्कन्धान्। प्र। शिरः। जहि। ११.६।
+प्र। स्क॒न्धान्। प्र। शिर॑ः। ज॒हि॒। ११.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Solicited by Indra, still Bheda refused to give this Cow. In strife for victory 
 
 <details><summary>पदपाठः</summary>
 
-उत। एनाम्। भेदः। न। अददात्। वशाम्। इन्द्रेण। याचितः। तस्मात्। तम्। देवाः। आगसः। अवृश्चन्। अहम्ऽउत्तरे। ४.५०।
+उ॒त। ए॒ना॒म्। भे॒दः। न। अ॒द॒दा॒त्। व॒शाम्। इन्द्रे॑ण। या॒चि॒तः। तस्मा॑त्। तम्। दे॒वाः। आग॑सः। अवृ॑श्चन्। अ॒ह॒म्ऽउ॒त्त॒रे। ४.५०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

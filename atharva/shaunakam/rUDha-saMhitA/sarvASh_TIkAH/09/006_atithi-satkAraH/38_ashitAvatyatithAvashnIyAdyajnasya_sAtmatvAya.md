@@ -25,7 +25,7 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 
 <details><summary>पदपाठः</summary>
 
-अशितऽवति। अतिथौ। अश्नीयात्। यज्ञस्य। सात्मऽत्वाय। यज्ञस्य। अविऽछेदाय। तत्। व्रतम्। ८.८।
+अ॒शि॒तऽव॑ति। अति॑थौ। अ॒श्नी॒या॒त्। य॒ज्ञस्य॑। सा॒त्म॒ऽत्वाय॑। य॒ज्ञस्य॑। अवि॑ऽछेदाय। तत्। व्र॒तम्। ८.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

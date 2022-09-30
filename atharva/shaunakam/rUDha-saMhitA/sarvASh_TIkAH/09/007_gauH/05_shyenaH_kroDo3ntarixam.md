@@ -23,7 +23,7 @@ The Syena ceremony is the breast, Air is the region of the belly,. Brihaspati is
 
 <details><summary>पदपाठः</summary>
 
-श्येनः। क्रोडः। अन्तर᳡ देव॒यज॑निक्षम्। पाजस्य᳡म्। बृहस्पतिः। ककुत्। बृहतीः। कीकसाः। १२.५।
+श्ये॒नः। क्रो॒डः। अ॒न्तर‍ि॑क्षम्। पा॒ज॒स्य᳡म्। बृह॒स्पति॑ः। क॒कुत्। बृ॒ह॒तीः। कीक॑साः। १२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

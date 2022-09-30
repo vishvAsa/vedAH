@@ -25,7 +25,7 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 
 <details><summary>पदपाठः</summary>
 
-प्र। पत। इतः। पापि। लक्ष्मि। नश्य। इतः। प्र। अमुतः। पत। अयस्मयेन। अङ्केन। द्विषते। त्वा। आ। सजामसि। १२०.१।
+प्र। प॒त॒। इ॒तः। पा॒पि॒। ल॒क्ष्मि॒। नश्य॑। इ॒तः। प्र। अ॒मुत॑ः। प॒त॒। अ॒य॒स्मये॑न। अ॒ङ्केन॑। द्वि॒ष॒ते। त्वा॒। आ। स॒जा॒म॒सि॒। १२०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

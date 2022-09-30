@@ -20,7 +20,7 @@ Whoever for his armour takes an amulet of the Sraktya tree, Like the Sun risen u
 
 <details><summary>पदपाठः</summary>
 
-ये। स्राक्त्यम्। मणिम्। जनाः। वर्माणि। कृण्वते। सूर्यःऽइव। दिवम्। आऽरुह्य। वि। कृत्याः। बाधते। वशी। ५.७।
+ये। स्रा॒क्त्यम्। म॒णिम्। जना॑ः। वर्मा॑णि। कृ॒ण्वते॑। सूर्य॑ःऽइव। दिव॑म्। आ॒ऽरुह्य॑। वि। कृ॒त्याः। बा॒ध॒ते॒। व॒शी। ५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

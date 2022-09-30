@@ -21,7 +21,7 @@ Invested with truth, surrounded with honour, compassed about with glory;
 
 <details><summary>पदपाठः</summary>
 
-सत्येन। आऽवृता। श्रिया। प्रावृता। यशसा। परिऽवृता। ५.२।
+स॒त्येन॑। आऽवृ॑ता। श्रि॒या। प्रावृ॑ता। यश॑सा। परि॑ऽवृता। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

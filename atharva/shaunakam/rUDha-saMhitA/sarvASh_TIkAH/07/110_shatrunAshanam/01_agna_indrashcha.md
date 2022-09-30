@@ -28,7 +28,7 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 
 <details><summary>पदपाठः</summary>
 
-अग्ने। इन्द्रः। च। दाशुषे। हतः। वृत्राणि। अप्रति। उभा। हि। वृत्रहन्ऽतमा। ११५.१।
+अग्ने॑। इन्द्र॑ः। च॒। दा॒शुषे॑। ह॒तः। वृ॒त्राणि॑। अ॒प्र॒ति। उ॒भा। हि। वृ॒त्र॒हन्ऽत॑मा। ११५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

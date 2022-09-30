@@ -26,7 +26,7 @@ Unlovely is his body when it glistens with that wicked fiend, What time the husb
 
 <details><summary>पदपाठः</summary>
 
-अश्लीला। तनूः। भवति। रुशती। पापया। अमुया। पतिः। यत्। वध्वः᳡। वाससः। स्वम्। अङ्गम्। अभिऽऊर्णुते। १.२७।
+अ॒श्ली॒ला। त॒नूः। भ॒व॒ति॒। रुश॑ती। पा॒पया॑। अ॒मु॒या। पति॑ः। यत्। व॒ध्व᳡ः। वास॑सः। स्वम्। अङ्ग॑म्। अ॒भि॒ऽऊ॒र्णु॒ते। १.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

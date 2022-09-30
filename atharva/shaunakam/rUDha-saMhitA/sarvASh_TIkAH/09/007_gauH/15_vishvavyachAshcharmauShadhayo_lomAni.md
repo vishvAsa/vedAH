@@ -20,7 +20,7 @@ The All-embracing (Aditi) is the hide, the herbs are her hair,. and the Lunar Ma
 
 <details><summary>पदपाठः</summary>
 
-विश्वऽव्यचाः। चर्म। ओषधयः। लोमानि। नक्षत्राणि। रूपम्। १२.१५।
+वि॒श्वऽव्य॑चाः। चर्म॑। ओष॑धयः। लोमा॑नि। नक्ष॑त्राणि। रू॒पम्। १२.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

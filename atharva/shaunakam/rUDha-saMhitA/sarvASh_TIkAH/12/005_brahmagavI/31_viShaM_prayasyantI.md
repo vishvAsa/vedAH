@@ -21,7 +21,7 @@ Poison when in agitation, fever when seasoned with condi- ments;
 
 <details><summary>पदपाठः</summary>
 
-विषम्। प्रऽयस्यन्ती। तक्मा। प्रऽयस्ता। ८.४।
+वि॒षम्। प्र॒ऽयस्य॑न्ती। त॒क्मा। प्रऽय॑स्ता। ८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

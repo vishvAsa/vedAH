@@ -22,7 +22,7 @@ Who out of many, tell me, is that Skambha, On whom Prajapati set up and firmly s
 
 <details><summary>पदपाठः</summary>
 
-यस्मिन्। स्तब्ध्वा। प्रजाऽपतिः। लोकान्। सर्वान्। अधारयत्। स्कम्भम्। तम्। ब्रूहि। कतमः। स्वित्। एव। सः। ७.७।
+यस्मि॑न्। स्त॒ब्ध्वा। प्र॒जाऽप॑तिः। लो॒कान्। सर्वा॑न्। अधा॑रयत्। स्क॒म्भम्। तम्। ब्रू॒हि॒। क॒त॒मः। स्वि॒त्। ए॒व। सः। ७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

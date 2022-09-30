@@ -28,7 +28,7 @@ Both Gods and mortal men depend for life and being on the Cow. She hath become t
 
 <details><summary>पदपाठः</summary>
 
-वशाम्। देवाः। उप। जीवन्ति। वशाम्। मनुष्याः᳡। उत। वशा। इदम्। सर्वम्। अभवत्। यावत्। सूर्यः। विऽपश्यति। १०.३४।
+व॒शाम्। दे॒वाः। उप॑। जी॒व॒न्ति॒। व॒शाम्। म॒नु॒ष्या᳡ः। उ॒त। व॒शा। इ॒दम्। सर्व॑म्। अ॒भ॒व॒त्। याव॑त्। सूर्य॑ः। वि॒ऽपश्य॑ति। १०.३४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

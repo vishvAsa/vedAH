@@ -21,7 +21,7 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 
 <details><summary>पदपाठः</summary>
 
-इमाः। आपः। प्र। भरामि। अयक्ष्माः। यक्ष्मऽनाशनीः। गृहान्। उप। प्र। सीदामि। अमृतेन। सह। अग्निना। ३.२३।
+इ॒माः। आप॑ः। प्र। भ॒रा॒मि॒। अ॒य॒क्ष्माः। य॒क्ष्म॒ऽनाश॑नीः। गृ॒हान्। उप॑। प्र। सी॒दा॒मि॒। अ॒मृते॑न। स॒ह। अ॒ग्निना॑। ३.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

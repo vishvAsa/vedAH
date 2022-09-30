@@ -26,7 +26,7 @@ By Soma are the Adityas strong, by Soma mighty is the earth: Thus Soma in the la
 
 <details><summary>पदपाठः</summary>
 
-सोमेन। आदित्याः। बलिनः। सोमेन। पृथिवी। मही। अथो इति। नक्षत्राणाम्। एषाम्। उपऽस्थे। सोमः। आऽहितः। १.२।
+सोमे॑न। आ॒दि॒त्याः। ब॒लिन॑ः। सोमे॑न। पृ॒थि॒वी। म॒ही। अथो॒ इति॑। नक्ष॑त्राणाम्। ए॒षाम्। उ॒पऽस्थे॑। सोम॑ः। आऽहि॑तः। १.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

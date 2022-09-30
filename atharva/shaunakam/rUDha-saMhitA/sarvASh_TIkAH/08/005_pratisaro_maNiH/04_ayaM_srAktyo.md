@@ -21,7 +21,7 @@ May this encircling magic cord, this Amulet of Sraktya wood, Mighty, subduing en
 
 <details><summary>पदपाठः</summary>
 
-अयम्। स्राक्त्यः। मणिः। प्रतिऽवर्तः। प्रतिऽसरः। ओजस्वान्। विऽमृधः। वशी। सः। अस्मान्। पातु। सर्वतः। ५.४।
+अ॒यम्। स्रा॒क्त्यः। म॒णिः। प्र॒ति॒ऽव॒र्तः। प्र॒ति॒ऽस॒रः। ओज॑स्वान्। वि॒ऽमृ॒धः। व॒शी। सः। अ॒स्मान्। पा॒तु॒। स॒र्वत॑ः। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

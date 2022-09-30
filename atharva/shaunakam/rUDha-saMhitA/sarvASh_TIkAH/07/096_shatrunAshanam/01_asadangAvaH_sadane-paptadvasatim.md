@@ -32,7 +32,7 @@ The kine are resting in the stall, home to her nest hath flown the bird, The hil
 
 <details><summary>पदपाठः</summary>
 
-असदन्। गावः। सदने। अपप्तत्। वसतिम्। वयः। आऽस्थाने। पर्वताः। अस्थुः। स्थाम्नि। वृक्कौ। अतिष्ठिपम्। १०१.१।
+अस॑दन्। गाव॑ः। सद॑ने। अप॑प्तत्। व॒स॒तिम्। वय॑ः। आ॒ऽस्थाने॑। पर्व॑ताः। अ॒स्थु॒ः। स्थाम्नि॑। वृ॒क्कौ। अ॒ति॒ष्ठि॒प॒म्। १०१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

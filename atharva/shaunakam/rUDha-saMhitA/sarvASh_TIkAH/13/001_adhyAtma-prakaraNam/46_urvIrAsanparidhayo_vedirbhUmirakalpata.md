@@ -20,7 +20,7 @@ The earth was made his altar, and the wide expanses were the fence. There Rohita
 
 <details><summary>पदपाठः</summary>
 
-उर्वीः। आसन्। परिऽधयः। वेदिः। भूमिः। अकल्पत। तत्र। एतौ। अग्नी इति। आ। अधत्त। हिमम्। घ्रंसम्। च। रोहितः। १.४६।
+उ॒र्वीः। आ॒स॒न्। प॒रि॒ऽधय॑ः। वेदि॑ः। भूमि॑ः। अ॒क॒ल्प॒त॒। तत्र॑। ए॒तौ। अ॒ग्नी इति॑। आ। अ॒ध॒त्त॒। हि॒मम्। घ्रं॒सम्। च॒। रोहि॑तः। १.४६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

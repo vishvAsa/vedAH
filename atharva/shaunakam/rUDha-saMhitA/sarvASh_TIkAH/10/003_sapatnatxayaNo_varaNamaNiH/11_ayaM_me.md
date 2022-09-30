@@ -22,7 +22,7 @@ This Varana is on my breast, the sovran, the celestial Plant. Let it afflict my 
 
 <details><summary>पदपाठः</summary>
 
-अयम्। मे। वरणः। उरसि। राजा। देवः। वनस्पतिः। सः। मे। शत्रून्। वि। बाधताम्। इन्द्रः। दस्यून्ऽइव। असुरान्। ३.११।
+अ॒यम्। मे॒। व॒र॒णः। उर॑सि। राजा॑। दे॒वः। वन॒स्पति॑ः। सः। मे॒। शत्रू॑न्। वि। बा॒ध॒ता॒म्। इन्द्र॑ः। दस्यू॑न्ऽइव। असु॑रान्। ३.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

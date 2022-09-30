@@ -23,7 +23,7 @@ All those who on their shoulders bear a head of monstrous magnitude, Who pierce 
 
 <details><summary>पदपाठः</summary>
 
-ये। आत्मानम्। अतिऽमात्रम्। अंसे। आऽधाय। बिभ्रति। स्त्रीणाम्। श्रोणिऽप्रतोदिनः। इन्द्र। रक्षांसि। नाशय। ६.१३।
+ये। आ॒त्मान॑म्। अ॒ति॒ऽमा॒त्रम्। अंसे॑। आ॒ऽधाय॑। बिभ्र॑ति। स्त्री॒णाम्। श्रो॒णि॒ऽप्र॒तो॒दिन॑ः। इन्द्र॑। रक्षां॑सि। ना॒श॒य॒। ६.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

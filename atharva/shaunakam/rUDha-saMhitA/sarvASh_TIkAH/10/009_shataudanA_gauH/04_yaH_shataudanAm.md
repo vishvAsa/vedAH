@@ -21,7 +21,7 @@ He who prepares the Hundredfold Oblation gains each wish thereby: For all his mi
 
 <details><summary>पदपाठः</summary>
 
-यः। शतऽओदनाम्। पचति। कामऽप्रेण। सः। कल्पते। प्रीताः। हि। अस्य। ऋत्विजः। सर्वे। यन्ति। यथाऽयथम्। ९.४।
+यः। श॒तऽओ॑दनाम्। पच॑ति। का॒म॒ऽप्रेण॑। सः। क॒ल्प॒ते॒। प्री॒ताः। हि। अ॒स्य॒। ऋ॒त्विज॑ः। सर्वे॑। यन्ति॑। य॒था॒ऽय॒थम्। ९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

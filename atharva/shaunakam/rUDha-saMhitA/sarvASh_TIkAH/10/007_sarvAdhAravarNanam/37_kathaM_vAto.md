@@ -22,7 +22,7 @@ Why doth the Wind move ceaselessly? Why doth the spirit take no rest? Why do the
 
 <details><summary>पदपाठः</summary>
 
-कथम्। वातः। न। इलयति। कथम्। न। रमते। मनः। किम्। आपः। सत्यम्। प्रऽईप्सन्तीः। न। इलयन्ति। कदा। चन। ७.३७।
+क॒थम्। वात॑ः। न। इ॒ल॒य॒ति॒। क॒थम्। न। र॒म॒ते॒। मन॑ः। किम्। आप॑ः। स॒त्यम्। प्र॒ऽईप्स॑न्तीः। न। इ॒ल॒य॒न्ति॒। क॒दा। च॒न। ७.३७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

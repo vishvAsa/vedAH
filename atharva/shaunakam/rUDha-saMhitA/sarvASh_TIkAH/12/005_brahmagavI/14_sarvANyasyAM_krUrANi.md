@@ -18,7 +18,7 @@ In her are all dreadful, deeds, all slaughters of mankind.
 
 <details><summary>पदपाठः</summary>
 
-सर्वाणि। अस्याम्। क्रूराणि। सर्वे। पुरुषऽवधाः। ७.३।
+सर्वा॑णि। अ॒स्या॒म्। क्रू॒राणि॑। सर्वे॑। पु॒रु॒ष॒ऽव॒धाः। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

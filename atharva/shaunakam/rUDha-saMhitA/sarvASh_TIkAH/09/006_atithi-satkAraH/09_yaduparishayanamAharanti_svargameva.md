@@ -22,7 +22,7 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 
 <details><summary>पदपाठः</summary>
 
-यत्। उपरिऽशयनम्। आऽहरन्ति। स्वःऽगम्। एव। तेन। लोकम्। अव। रुन्ध्दे। ६.९।
+यत्। उ॒प॒रि॒ऽश॒य॒नम्। आ॒ऽहर॑न्ति। स्व॒ःऽगम्। ए॒व। तेन॑। लो॒कम्। अव॑। रु॒न्ध्दे॒। ६.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

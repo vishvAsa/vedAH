@@ -26,7 +26,7 @@ Wounding like an arrow when she is fastened by her mouth, contention when she is
 
 <details><summary>पदपाठः</summary>
 
-शरव्या᳡। मुखे। अपिऽनह्यमाने। ऋतिः। हन्यमानाः। ७.१४।
+श॒र॒व्या᳡। मुखे॑। अ॒पि॒ऽन॒ह्यमा॑ने। ऋति॑ः। ह॒न्यमा॑नाः। ७.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

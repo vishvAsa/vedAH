@@ -23,7 +23,7 @@ Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati com
 
 <details><summary>पदपाठः</summary>
 
-यः। वेहतम्। मन्यमानः। अमा। च। पचते। वशाम्। अपि। अस्य। पुत्रान्। पौत्रान्। च। याचयते। बृहस्पतिः। ४.३८।
+यः। वे॒हत॑म्। मन्य॑मानः। अ॒मा। च॒। पच॑ते। व॒शाम्। अपि॑। अ॒स्य॒। पु॒त्रान्। पौत्रा॑न्। च॒। या॒चय॑ते। बृह॒स्पति॑ः। ४.३८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

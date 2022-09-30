@@ -25,7 +25,7 @@ Trees of the forest, trees that bear flower and fruit, and herbs and plants, Qua
 
 <details><summary>पदपाठः</summary>
 
-वनस्पतीन्। वानस्पत्यान्‌। ओषधीः। उत। वीरुधः। द्विऽपात्। चतुःऽपात्। इष्णामि। यथा। सेनाम्। अमूम्। हनन्। ८.१४।
+वन॒स्पती॑न्। वा॒न॒स्प॒त्यान्‌। ओष॑धीः। उ॒त। वी॒रुध॑ः। द्वि॒ऽपात्। चतु॑ःऽपात्। इ॒ष्णा॒मि॒। यथा॑। सेना॑म्। अ॒मूम्। हन॑न्। ८.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

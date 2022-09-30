@@ -23,7 +23,7 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 
 <details><summary>पदपाठः</summary>
 
-मूढाः। अमित्राः। निऽअर्बुदे। जहि। एषाम्। वरम्ऽवरम्। अनया। जहि। सेनया। १२.२१।
+मू॒ढाः। अ॒मित्रा॑ः। नि॒ऽअ॒र्बु॒दे॒। ज॒हि। ए॒षा॒म्। वर॑म्ऽवरम्। अ॒नया॑। ज॒हि॒। सेन॑या। १२.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

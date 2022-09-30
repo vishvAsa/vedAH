@@ -21,7 +21,7 @@ Thou, yonder, knowest all things here, when here thou knowest what is there. Fro
 
 <details><summary>पदपाठः</summary>
 
-अमुत्र। सन्। इह। वेत्थ। इतः। सन्। तानि। पश्यसि। इतः। पश्यन्ति। रोचनम्। दिवि। सूर्यम्। विपःऽचितम्। १.३९।
+अ॒मुत्र॑। सन्। इ॒ह। वे॒त्थ॒। इ॒तः। सन्। तानि॑। प॒श्य॒सि॒। इ॒तः। प॒श्य॒न्ति॒। रो॒च॒नम्। दि॒वि। सूर्य॑म्। वि॒प॒ःऽचित॑म्। १.३९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

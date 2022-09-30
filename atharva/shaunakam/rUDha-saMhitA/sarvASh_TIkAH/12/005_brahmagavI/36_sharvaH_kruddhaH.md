@@ -18,7 +18,7 @@ Wrathful Sarva while being carved. Simida when cut up:
 
 <details><summary>पदपाठः</summary>
 
-शर्वः। क्रुध्दः। पिश्यमाना। शिमिदा। पिशिता। ८.९।
+श॒र्वः। क्रु॒ध्दः। पि॒श्यमा॑ना। शिमि॑दा। पि॒शि॒ता। ८.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

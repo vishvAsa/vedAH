@@ -22,7 +22,7 @@ Months, half-months, sections of the year, seasons are in the Residue, The water
 
 <details><summary>पदपाठः</summary>
 
-अर्धऽमासाः। च। मासाः। च। आर्तवाः। ऋतुऽभिः। सह। उत्ऽशिष्टे। घोषिणीः। आपः। स्तनयित्नुः। श्रुतिः। मही। ९.२०।
+अ॒र्ध॒ऽमा॒साः। च॒। मासा॑ः। च॒। आ॒र्त॒वाः। ऋ॒तुऽभि॑ः। स॒ह। उत्ऽशि॑ष्टे। घो॒षिणी॑ः। आप॑ः। स्त॒न॒यि॒त्नुः। श्रुति॑ः। म॒ही। ९.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 
 <details><summary>पदपाठः</summary>
 
-याः। हृदयम्। उपऽऋषन्ति। अनुऽतन्वन्ति। कीकसाः। अहिंसन्तीः। अनामयाः। निः। द्रवन्तु। बहिः। बिलम्। १३.१४।
+याः। हृद॑यम्। उ॒प॒ऽऋ॒षन्ति॑। अ॒नु॒ऽत॒न्वन्ति॑। कीक॑साः। अहिं॑सन्तीः। अ॒ना॒म॒याः। निः। द्र॒व॒न्तु॒। ब॒हिः। बिल॑म्। १३.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

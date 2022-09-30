@@ -21,7 +21,7 @@ He who collected timber for the work and built thee up, O House, Made thee for c
 
 <details><summary>पदपाठः</summary>
 
-यः। त्वा। शाले। निऽमिमाय। सम्ऽजभार। वनस्पतीन्। प्रऽजायै। चक्रे। त्वा। शाले। परमेऽस्थी। प्रजाऽपतिः। ३.११।
+यः। त्वा॒। शा॒ले॒। नि॒ऽमि॒माय॑। स॒म्ऽज॒भार॑। वन॒स्पती॑न्। प्र॒ऽजायै॑। च॒क्रे॒। त्वा॒। शा॒ले॒। प॒र॒मे॒ऽस्थी। प्र॒जाऽप॑तिः। ३.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

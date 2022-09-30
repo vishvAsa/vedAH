@@ -19,7 +19,7 @@ His are the nine supports, the casks set in nine several places here.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। इमे। नव। कोशाः। विष्टम्भाः। नवऽधा। हिताः। ४.१०।
+तस्य॑। इ॒मे। नव॑। कोशा॑ः। वि॒ष्ट॒म्भाः। न॒व॒ऽधा। हि॒ताः। ४.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

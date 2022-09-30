@@ -19,7 +19,7 @@ Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healin
 
 <details><summary>पदपाठः</summary>
 
-अग्नेः। घासः। अपाम्। गर्भः। याः। रोहन्ति। पुनःऽनवाः। ध्रुवाः। सहस्रऽनाम्नीः। भेषजीः। सन्तु। आऽभृताः। ७.८।
+अ॒ग्नेः। घा॒सः। अ॒पाम्। गर्भ॑ः। याः। रोह॑न्ति। पुन॑ःऽनवाः। ध्रु॒वाः। स॒हस्र॑ऽनाम्नीः। भे॒ष॒जीः। स॒न्तु॒। आऽभृ॑ताः। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

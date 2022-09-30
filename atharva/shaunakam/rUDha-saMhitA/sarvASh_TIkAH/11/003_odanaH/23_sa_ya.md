@@ -18,7 +18,7 @@ He who may know the magnitude of the Odana.
 
 <details><summary>पदपाठः</summary>
 
-सः। यः। ओदनस्य। महिमानम्। विद्यात्। ३.२३।
+सः। यः। ओ॒द॒नस्य॑। म॒हि॒मान॑म्। वि॒द्यात्। ३.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

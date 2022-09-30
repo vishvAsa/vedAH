@@ -20,7 +20,7 @@ The Cow Celestial received that Soma in three vessels, where. Atharvan, consecra
 
 <details><summary>पदपाठः</summary>
 
-त्रिषु। पात्रेषु। तम्। सोमम्। आ। देवी। अहरत्। वशा। अथर्वा। यत्र। दीक्षितः। बर्हिषि। आस्त। हिरण्यये। १०.१२।
+त्रि॒षु। पात्रे॑षु। तम्। सोम॑म्। आ। दे॒वी। अ॒ह॒र॒त्। व॒शा। अथ॑र्वा। यत्र॑। दी॒क्षि॒तः। ब॒र्हिषि॑। आस्त॑। हि॒र॒ण्यये॑। १०.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

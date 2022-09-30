@@ -92,7 +92,7 @@ The Odana has just eaten the Odana. 2
 
 <details><summary>पदपाठः</summary>
 
-ओदनः। एव। ओदनम्। प्र। आशीत्। ३.३१।
+ओ॒द॒नः। ए॒व। ओ॒द॒नम्। प्र। आ॒शी॒त्। ३.३१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

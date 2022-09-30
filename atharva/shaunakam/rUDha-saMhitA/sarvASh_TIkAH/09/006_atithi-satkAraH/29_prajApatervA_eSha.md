@@ -19,7 +19,7 @@ The man who offers food follows the steps of Prajapati.
 
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतेः। वै। एषः। विऽक्रमान्। अनुऽविक्रमते। यः। उपऽहरति। ७.१२।
+प्र॒जाऽप॑तेः। वै। ए॒षः। वि॒ऽक्र॒मान्। अ॒नु॒ऽविक्र॑मते। यः। उ॒प॒ऽहर॑ति। ७.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

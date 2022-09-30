@@ -23,7 +23,7 @@ Hostility when being cut to pieces, woe to children when the portions are distri
 
 <details><summary>पदपाठः</summary>
 
-वैरम्। विऽकृत्यमाना। पौत्रऽआद्यम्। विऽभाज्यमाना। ८.१।
+वैर॑म्। वि॒ऽकृ॒त्यमा॑ना। पौत्र॑ऽआद्यम्। वि॒ऽभा॒ज्यमा॑ना। ८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

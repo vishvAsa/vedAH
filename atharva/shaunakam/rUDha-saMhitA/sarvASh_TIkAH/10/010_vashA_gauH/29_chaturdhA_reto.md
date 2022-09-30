@@ -19,7 +19,7 @@ Four-parted was the Cow's prolific humour. One-fourth is Water, one-fourth life 
 
 <details><summary>पदपाठः</summary>
 
-चतुःऽधा। रेतः। अभवत्। वशायाः। आपः। तुरीयम्। अमृतम्। तुरीयम्। यज्ञः। तुरीयम्। पशवः। तुरीयम्। १०.२९।
+च॒तु॒ःऽधा। रेत॑ः। अ॒भ॒व॒त्। व॒शाया॑ः। आप॑ः। तुरी॑यम्। अ॒मृत॑म्। तुरी॑यम्। य॒ज्ञः। तुरी॑यम्। प॒शव॑ः। तुरी॑यम्। १०.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

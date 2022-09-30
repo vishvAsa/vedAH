@@ -22,7 +22,7 @@ Hitherward we invite with prayer the Cow who pours a thou- sand streams, By whom
 
 <details><summary>पदपाठः</summary>
 
-यया। द्यौः। यया। पृथिवी। यया। आपः। गुपिताः। इमाः। वशाम्। सहस्रऽधाराम्। ब्रह्मणा। अच्छऽआवदामसि। १०.४।
+यया॑। द्यौः। यया॑। पृ॒थि॒वी। यया॑। आप॑ः। गु॒पि॒ताः। इ॒माः। व॒शाम्। स॒हस्र॑ऽधाराम्। ब्रह्म॑णा। अ॒च्छ॒ऽआव॑दामसि। १०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

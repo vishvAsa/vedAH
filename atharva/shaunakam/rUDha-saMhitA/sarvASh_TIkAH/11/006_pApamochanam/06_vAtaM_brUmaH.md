@@ -19,7 +19,7 @@ Vata, Parjanya we address, the Quarters, and the Firmament, And all the Regions 
 
 <details><summary>पदपाठः</summary>
 
-वातम्। ब्रूमः। पर्जन्यम्। अन्तरिक्षम्। अथो इति। दिशः। आशाः। च। सर्वाः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.६।
+वात॑म्। ब्रू॒म॒ः। प॒र्जन्य॑म्। अ॒न्तरि॑क्षम्। अथो॒ इति॑। दिश॑ः। आशा॑ः। च। सर्वा॑ः। ब्रू॒म॒ः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

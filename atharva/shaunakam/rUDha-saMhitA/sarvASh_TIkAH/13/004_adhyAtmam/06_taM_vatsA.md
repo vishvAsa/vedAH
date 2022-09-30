@@ -23,7 +23,7 @@ Calves, joined, stand close beside him, ten in number, with one single head.
 
 <details><summary>पदपाठः</summary>
 
-तम्। वत्साः। उप। तिष्ठन्ति। एकऽशीर्षाणः। युताः। दश। ४.६।
+तम्। व॒त्साः। उप॑। ति॒ष्ठ॒न्ति॒। एक॑ऽशीर्षाणः। यु॒ताः। दश॑। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

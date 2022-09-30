@@ -20,7 +20,7 @@ Sitting he is Agni, when he hath stood up he is the Asvins.
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। आसीनः। उत्थितः। अश्विना। १२.१९।
+अ॒ग्निः। आसी॑नः। उत्थि॑तः। अ॒श्विना॑। १२.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

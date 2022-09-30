@@ -23,7 +23,7 @@ They made a jest of kindred's curse: a jar of Soma juice was set, What time the 
 
 <details><summary>पदपाठः</summary>
 
-क्रोडः। आसीत्। जामिऽशंसस्य। सोमस्य। कलशः। धृतः। देवाः। सम्ऽगत्य। यत्। सर्वे। ऋषभम्। विऽअकल्पयन्। ४.१५।
+क्रो॒डः। आ॒सी॒त्। जा॒मि॒ऽशं॒सस्य॑। सोम॑स्य। क॒लश॑ः। धृ॒तः। दे॒वाः। स॒म्ऽगत्य॑। यत्। सर्वे॑। ऋ॒ष॒भम्। वि॒ऽअक॑ल्पयन्। ४.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

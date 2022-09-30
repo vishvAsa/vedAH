@@ -22,7 +22,7 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 
 <details><summary>पदपाठः</summary>
 
-यत्। प्रतिऽशृणोति। प्रतिऽआश्रावयति। एव। तत्। ११.२।
+यत्। प्र॒ति॒ऽशृ॒णोति॑। प्र॒ति॒ऽआश्रा॑वयति। ए॒व। तत्। ११.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

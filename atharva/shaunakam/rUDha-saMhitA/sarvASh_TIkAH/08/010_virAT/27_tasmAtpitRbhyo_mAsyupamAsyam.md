@@ -27,7 +27,7 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 
 <details><summary>पदपाठः</summary>
 
-तस्मात्। पितृऽभ्यः। मासि। उपऽमास्यम्। ददति। प्र। पितृऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.४।
+तस्मा॑त्। पि॒तृऽभ्य॑ः। मा॒सि। उप॑ऽमास्यम्। द॒द॒ति॒। प्र। पि॒तृ॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। यः। ए॒वम्। वेद॑। १२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

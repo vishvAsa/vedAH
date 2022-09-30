@@ -29,7 +29,7 @@ On measure Brihati is based, and measure on the measurer: From magic might came 
 
 <details><summary>पदपाठः</summary>
 
-बृहती। परि। मात्रायाः। मातुः। मात्रा। अधि। निःऽमिता। माया। ह। जज्ञे। मायायाः। मायायाः। मातली। परि। ९.५।
+बृ॒ह॒ती। परि॑। मात्रा॑याः। मा॒तुः। मात्रा॑। अधि॑। निःऽमि॑ता। मा॒या। ह॒। ज॒ज्ञे॒। मा॒याया॑ः। मा॒याया॑ः। मात॑ली। परि॑। ९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

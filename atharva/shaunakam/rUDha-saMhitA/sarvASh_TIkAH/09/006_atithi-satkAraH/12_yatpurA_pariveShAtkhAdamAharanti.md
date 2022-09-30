@@ -21,7 +21,7 @@ The food they bring before the general distribution represents the two sacrifici
 
 <details><summary>पदपाठः</summary>
 
-यत्। पुरा। परिऽवेषात्। खादम्। आऽहरन्ति। पुरोडाशौ। एव। तौ। ६.१२।
+यत्। पु॒रा। प॒रि॒ऽवे॒षात्। खा॒दम्। आ॒ऽहर॑न्ति। पु॒रो॒डाशौ॑। ए॒व। तौ। ६.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

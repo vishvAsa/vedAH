@@ -23,7 +23,7 @@ May all the sweetness that is found in hills and mountains, steeds and kine, And
 
 <details><summary>पदपाठः</summary>
 
-यत्। गिरिषु। पर्वतेषु। गोषु। अश्वेषु। यत्। मधु। सुरायाम्। सिच्यमानायाम्। यत्। तत्र। मधु। तत्। मयि। १.१८।
+यत्। गि॒रिषु॑। पर्व॑तेषु। गोषु॑। अश्वे॑षु। यत्। मधु॑। सुरा॑याम्। सि॒च्यमा॑नायाम्। यत्। तत्र॑। मधु॑। तत्। मयि॑। १.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

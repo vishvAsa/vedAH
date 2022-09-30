@@ -20,7 +20,7 @@ As to the meter, see the note to the preceding verse.
 
 <details><summary>पदपाठः</summary>
 
-सः। वै। ऋक्ऽभ्यः। अजायत। तस्मात्। ऋचः। अजायन्त। ७.१०।
+सः। वै। ऋ॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। ऋच॑ः। अ॒जा॒य॒न्त॒। ७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

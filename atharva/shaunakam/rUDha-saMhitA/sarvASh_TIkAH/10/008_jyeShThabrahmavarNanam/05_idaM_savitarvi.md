@@ -26,7 +26,7 @@ Discern thou this, O Savitar. Six are the twins, one singly born. They claim rel
 
 <details><summary>पदपाठः</summary>
 
-इदम्। सवितः। वि। जानीहि। षट्। यमाः। एकः। एकऽजः। तस्मिन्। ह। अपिऽत्वम्। इच्छन्ते। यः। एषाम्। एकः। एकऽजः। ८.५।
+इ॒दम्। स॒वि॒त॒ः। वि। जा॒नी॒हि॒। षट्। य॒माः। एक॑ः। ए॒क॒ऽजः। तस्मि॑न्। ह॒। अ॒पिऽत्वम्। इ॒च्छ॒न्ते॒। यः। ए॒षा॒म्। एक॑ः। ए॒क॒ऽजः। ८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

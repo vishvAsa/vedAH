@@ -29,7 +29,7 @@ Whereon the Deities, whereon men too have purified themselves, Exalting fatness,
 
 <details><summary>पदपाठः</summary>
 
-यस्मिन्। देवाः। अमृजत। यस्मिन्। मनुष्याः᳡। उत। तस्मिन्। घृतऽस्तावः। मृष्वा। आ। त्वम्। अग्ने। दिवम्। रुह। २.१७।
+यस्मि॑न्। दे॒वाः। अमृ॑जत। यस्मि॑न्। म॒नु॒ष्या᳡ः। उ॒त। तस्मि॑न्। घृ॒त॒ऽस्ताव॑ः। मृ॒ष्वा। आ। त्वम्। अ॒ग्ने॒। दिव॑म्। रु॒ह॒। २.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

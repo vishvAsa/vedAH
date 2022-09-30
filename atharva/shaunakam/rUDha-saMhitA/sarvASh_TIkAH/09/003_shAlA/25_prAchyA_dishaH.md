@@ -21,7 +21,7 @@ Now from the east side of the house to the Great Power be homage paid! Hail to t
 
 <details><summary>पदपाठः</summary>
 
-प्राच्याः। दिशः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्ये᳡भ्यः। ३.२५।
+प्राच्या॑ः। दि॒शः। शाला॑याः। नम॑ः। म॒हि॒म्ने। स्वाहा॑। दे॒वेभ्य॑ः। स्वा॒ह्ये᳡भ्यः। ३.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

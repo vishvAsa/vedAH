@@ -19,7 +19,7 @@ An arrow when she draweth up her hooves, and Mahadeva when she looketh around;
 
 <details><summary>पदपाठः</summary>
 
-हेतिः। शफान्। उत्ऽखिदन्ती। महाऽदेवः। अपऽईक्षमाणा। ७.८।
+हे॒तिः। श॒फान्। उ॒त्ऽखि॒दन्ती॑। म॒हा॒ऽदे॒वः। अ॒प॒ऽईक्ष॑माणा। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Fain would I bring forth sweetness, fain would make it mine. Bringing milk, Agni
 
 <details><summary>पदपाठः</summary>
 
-मधु। जनिषीय। मधु। वंशिषीय। पयस्वान्। अग्ने। आ। अगमम्। तम्। मा। सम्। सृज। वर्चसा। १.१४।
+मधु॑। ज॒नि॒षी॒य॒। मधु॑। वं॒शि॒षी॒य॒। पय॑स्वान्। अ॒ग्ने॒। आ। अ॒ग॒म॒म्। तम्। मा॒। सम्। सृ॒ज॒। वर्च॑सा। १.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

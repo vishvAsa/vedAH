@@ -22,7 +22,7 @@ Uprooting when she is being turned round, destruction when she hath been turned 
 
 <details><summary>पदपाठः</summary>
 
-मूलऽबर्हणी। परिऽआक्रियमाणा। क्षितिः। परिऽआकृता। ८.६।
+मू॒ल॒ऽबर्ह॑णी। प॒रि॒ऽआ॒क्रि॒यमा॑णा। क्षिति॑ः। प॒रि॒ऽआकृ॑ता। ८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

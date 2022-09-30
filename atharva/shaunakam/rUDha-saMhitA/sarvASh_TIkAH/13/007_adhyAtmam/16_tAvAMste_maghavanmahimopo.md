@@ -21,7 +21,7 @@ required by the Anukr. ⌊It reads naturally as 9 + 8.⌋
 
 <details><summary>पदपाठः</summary>
 
-तावान्। ते। मघऽवन्। महिमा। उपो इति। ते। तन्वः᳡। शतम्। ७.१६।
+तावा॑न्। ते॒। म॒घ॒ऽव॒न्। म॒हि॒मा। उपो॒ इति॑। ते॒। त॒न्व᳡ः। श॒तम्। ७.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Of the Kshatriya who taketh to himself this Brahman's cow and oppresseth the Bra
 
 <details><summary>पदपाठः</summary>
 
-ताम्। आऽददानस्य। ब्रह्मऽगवीम्। जिनतः। ब्राह्मणम्। क्षत्रियस्य। ५.५।
+ताम्। आ॒ऽददा॑नस्य। ब्र॒ह्म॒ऽग॒वीम्। जि॒न॒तः। ब्रा॒ह्म॒णम्। क्ष॒त्रिय॑स्य। ५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

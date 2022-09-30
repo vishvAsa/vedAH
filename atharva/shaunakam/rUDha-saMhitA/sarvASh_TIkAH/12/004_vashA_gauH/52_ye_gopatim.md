@@ -23,7 +23,7 @@ They who seduce the owner of the Cow and say, Bestow her not. Encounter through 
 
 <details><summary>पदपाठः</summary>
 
-ये। गोऽपतिम्। पराऽनीय। अथ। आहुः। मा। ददाः। इति। रुद्रस्य। अस्ताम्। ते। हेतिम्। परि। यन्ति। अचित्त्या। ४.५२।
+ये। गोऽप॑तिम्। प॒रा॒ऽनीय॑। अथ॑। आ॒हुः। मा। द॒दा॒ः। इति॑। रु॒द्रस्य॑। अ॒स्ताम्। ते। हे॒तिम्। परि॑। य॒न्ति॒। अचि॑त्त्या। ४.५२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

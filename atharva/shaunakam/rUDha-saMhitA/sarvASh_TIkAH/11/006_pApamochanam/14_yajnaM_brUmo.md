@@ -23,7 +23,7 @@ To sacrifice, to worshipper, hymns, songs, and healing charms, we speak, To prie
 
 <details><summary>पदपाठः</summary>
 
-यज्ञम्। ब्रूमः। यजमानम्। ऋचः। सामानि। भेषजा। यजूंषि। होत्राः। ब्रूमः। ते। नः। मुञ्चन्तु। अंहसः। ८.१४।
+य॒ज्ञम्। ब्रू॒म॒ः। यज॑मानम्। ऋच॑ः। सामा॑नि। भे॒ष॒जा। यजूं॑षि। होत्रा॑ः। ब्रू॒म॒ः। ते। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ८.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

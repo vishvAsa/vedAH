@@ -20,7 +20,7 @@ Like a rich treasure stored away in safety is the Brahmans' Cow. Therefore men c
 
 <details><summary>पदपाठः</summary>
 
-यथा। शेवऽधिः। निऽहितः। ब्राह्मणानाम्। तथा। वशा। ताम्। एतत्। अच्छऽआयन्ति। यस्मिन्। कस्मिन्। च। जायते। ४.१४।
+यथा॑। शे॒व॒ऽधिः। निऽहि॑तः। ब्रा॒ह्म॒णाना॑म्। तथा॑। व॒शा। ताम्। ए॒तत्। अ॒च्छ॒ऽआय॑न्ति। यस्मि॑न्। कस्मि॑न्। च॒। जाय॑ते। ४.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

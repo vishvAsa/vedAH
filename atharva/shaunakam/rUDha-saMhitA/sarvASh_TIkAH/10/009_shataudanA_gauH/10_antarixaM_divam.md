@@ -20,7 +20,7 @@ The man who pays the Hundredfold Oblation winneth all the worlds, Air, heaven, a
 
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षम्। दिवम्। भूमिम्। आदित्यान्। मरुतः। दिशः। लोकान्। सः। सर्वान्। आप्नोति। यः। ददाति। शतऽओदनाम्। ९.१०।
+अ॒न्तरि॑क्षम्। दिव॑म्। भूमि॑म्। आ॒दि॒त्यान्। म॒रुत॑ः। दिश॑ः। लो॒कान्। सः। सर्वा॑न्। आ॒प्नो॒ति॒। यः। ददा॑ति। श॒तऽओ॑दनाम्। ९.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

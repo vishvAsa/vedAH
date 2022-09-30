@@ -22,7 +22,7 @@ Thou bearest off the tyrants' strength, their store of merit, and their prayers.
 
 <details><summary>पदपाठः</summary>
 
-आ। दत्से। जिनताम्। वर्चः। इष्टम्। पूर्तम्। च। आऽशिषः। १०.१०।
+आ। द॒त्से॒। जि॒न॒ताम्। वर्च॑ः। इ॒ष्टम्। पू॒र्तम्। च॒। आ॒ऽशिष॑ः। १०.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

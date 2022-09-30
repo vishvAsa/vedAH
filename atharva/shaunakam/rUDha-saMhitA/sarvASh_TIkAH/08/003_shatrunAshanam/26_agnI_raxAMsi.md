@@ -24,7 +24,7 @@ Bright, radiant, meet to be adored, immortal with refulgent glow, Agni drives Ra
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। रक्षांसि। सेधति। शुक्रऽशोचिः। अमर्त्य। शुचिः। पावकः। ईड्यः। ३.२६।
+अ॒ग्निः। रक्षां॑सि। से॒ध॒ति॒। शु॒क्रऽशो॑चिः। अम॑र्त्य। शुचि॑ः। पा॒व॒कः। ईड्य॑ः। ३.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

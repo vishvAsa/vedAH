@@ -23,7 +23,7 @@ Not one of them is incompetent to sacrifice.
 
 <details><summary>पदपाठः</summary>
 
-तेषाम्। न। कः। चन। अहोता। ११.४।
+तेषा॑म्। न। कः। च॒न। अहो॑ता। ११.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

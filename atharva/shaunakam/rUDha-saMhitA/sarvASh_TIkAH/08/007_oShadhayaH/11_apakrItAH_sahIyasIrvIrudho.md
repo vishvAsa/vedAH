@@ -21,7 +21,7 @@ Let purchased Plants of mightier power, Plants that are praised for excellence. 
 
 <details><summary>पदपाठः</summary>
 
-अपऽक्रीताः। सहीयसीः। वीरुधः। याः। अभिऽस्तुताः। त्रायन्ताम्। अस्मिन्। ग्रामे। गाम्। अश्वम्। पुरुषम्। पशुम्। ७.११।
+अ॒प॒ऽक्री॒ताः। सही॑यसीः। वी॒रुध॑ः। याः। अ॒भिऽस्तु॑ताः। त्राय॑न्ताम्। अ॒स्मिन्। ग्रामे॑। गाम्। अश्व॑म्। पुरु॑षम्। प॒शुम्। ७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

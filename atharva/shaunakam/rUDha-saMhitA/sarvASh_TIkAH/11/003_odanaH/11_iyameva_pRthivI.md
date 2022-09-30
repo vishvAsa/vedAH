@@ -15,7 +15,7 @@ This earth, verily becomes the jar, and heaven the cover of the Odana as it is c
 
 <details><summary>पदपाठः</summary>
 
-इयम्। एव। पृथिवी। कुम्भी। भवति। राध्यमानस्य। ओदनस्य। द्यौः। अपिऽधानम्। ३.११।
+इ॒यम्। ए॒व। पृ॒थि॒वी। कु॒म्भी। भ॒व॒ति॒। राध्य॑मानस्य। ओ॒द॒नस्य॑। द्यौः। अ॒पि॒ऽधान॑म्। ३.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

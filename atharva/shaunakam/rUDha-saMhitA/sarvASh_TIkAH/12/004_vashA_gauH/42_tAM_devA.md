@@ -29,7 +29,7 @@ The Gods considered her in doubt whether she were a Cow or not. Mirada spake of 
 
 <details><summary>पदपाठः</summary>
 
-ताम्। देवाः। अमीमांसन्त। वशा। इया३म्। अवशा३। इति। ताम्। अब्रवीत्। नारदः। एषा। वशानाम्। वशऽतमा। इति। ४.४२।
+ताम्। दे॒वाः। अ॒मी॒मां॒स॒न्त॒। व॒शा। इ॒या३म्। अव॑शा३। इति॑। ताम्। अ॒ब्र॒वी॒त्। ना॒र॒दः। ए॒षा। व॒शाना॑म्। व॒शऽत॑मा। इति॑। ४.४२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

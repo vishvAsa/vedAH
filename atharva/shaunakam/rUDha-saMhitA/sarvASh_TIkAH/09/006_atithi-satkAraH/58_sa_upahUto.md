@@ -21,7 +21,7 @@ He, having been invited among the gods, regales, invited in that which wears all
 
 <details><summary>पदपाठः</summary>
 
-सः। उपऽहूतः। देवेषु। भक्षयति। उपऽहूतः। तस्मिन्। यत्। देवेषु। विश्वऽरूपम्। ११.१०।
+सः। उप॑ऽहूतः। दे॒वेषु॑। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। दे॒वेषु॑। वि॒श्वऽरू॑पम्। ११.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

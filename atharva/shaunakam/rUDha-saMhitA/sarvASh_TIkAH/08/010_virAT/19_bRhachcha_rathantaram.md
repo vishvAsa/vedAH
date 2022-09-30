@@ -24,7 +24,7 @@ She mounted up, she came unto the Fathers: they killed her: in a month she re-ex
 
 <details><summary>पदपाठः</summary>
 
-बृहत्। च। रथम्ऽतरम्। च। द्वौ। स्तनौ। आस्ताम्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। द्वौ। ११.६।
+बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। द्वौ। स्तनौ॑। आस्ता॑म्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। द्वौ। ११.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

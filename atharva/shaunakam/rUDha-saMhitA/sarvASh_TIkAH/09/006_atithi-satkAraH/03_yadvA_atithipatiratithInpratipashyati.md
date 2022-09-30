@@ -22,7 +22,7 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 
 <details><summary>पदपाठः</summary>
 
-यत्। वै। अतिथिऽपतिः। अतिथीन्। प्रतिऽपश्यति। देवऽयजनम्। प्र। ईक्षते। ६.३।
+यत्। वै। अति॑थिऽपतिः। अति॑थीन्। प्र॒ति॒ऽपश्य॑ति। दे॒व॒ऽयजन॑म्। प्र। ई॒क्ष॒ते॒। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

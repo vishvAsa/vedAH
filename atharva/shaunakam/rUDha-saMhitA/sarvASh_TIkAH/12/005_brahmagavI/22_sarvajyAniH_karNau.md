@@ -21,7 +21,7 @@ Utter destruction when she moveth her ears this way and that, Consumption when s
 
 <details><summary>पदपाठः</summary>
 
-सर्वऽज्यानिः। कर्णौ। वरीवर्जयन्ती। राजऽयक्ष्मः। मेहन्ती। ७.११।
+स॒र्व॒ऽज्या॒निः। कर्णौ॑। व॒री॒व॒र्जय॑न्ती। रा॒ज॒ऽय॒क्ष्मः। मेह॑न्ती। ७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

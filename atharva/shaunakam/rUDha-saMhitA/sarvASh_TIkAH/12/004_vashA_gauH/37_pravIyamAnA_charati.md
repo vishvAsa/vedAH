@@ -19,7 +19,7 @@ Enraged against her owner roams the Cow when she hath been impregned. He deemed 
 
 <details><summary>पदपाठः</summary>
 
-प्रऽवीयमाना। चरति। क्रुध्दा। गोऽपतये। वशा। वेहतम्। मा। मन्यमानः। मृत्योः। पाशेषु। बध्यताम्। ४.३७।
+प्र॒ऽवी॒यमा॑ना। च॒र॒ति॒। क्रु॒ध्दा। गोऽप॑तये। व॒शा। वे॒हत॑म्। मा॒। मन्य॑मानः। मृ॒त्योः। पाशे॑षु। ब॒ध्य॒ता॒म्। ४.३७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

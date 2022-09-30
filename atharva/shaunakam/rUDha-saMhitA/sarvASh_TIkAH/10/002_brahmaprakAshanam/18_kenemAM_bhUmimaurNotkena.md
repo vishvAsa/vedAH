@@ -21,7 +21,7 @@ Through whom did he bedeck the earth, through whom did he encompass heaven? Whos
 
 <details><summary>पदपाठः</summary>
 
-केन। इमाम्। भूमिम्। और्णोत्। केन। परि। अभवत्। दिवम्। केन। अभि। मह्ना। पर्वतान्। केन। कर्माणि। पुरुषः। २.१८।
+केन॑। इ॒माम्। भूमि॑म्। औ॒र्णो॒त्। केन॑। परि॑। अ॒भ॒व॒त्। दिव॑म्। केन॑। अ॒भि। म॒ह्ना। पर्व॑तान्। केन॑। कर्मा॑णि। पुरु॑षः। २.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

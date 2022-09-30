@@ -28,7 +28,7 @@ O Agni, kindled and adored, turn not away to visit us. Shine brightly even there
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽइध्दः। अग्ने। आऽहुतः। सः। नः। मा। अभिऽअपक्रमीः। अत्र। एव। दीदिहि। द्यवि। ज्योक्। च। सूर्यम्। दृशे। २.१८।
+सम्ऽइ॑ध्दः। अ॒ग्ने॒। आ॒ऽहु॒त॒ः। सः। न॒ः। मा। अ॒भि॒ऽअप॑क्रमीः। अत्र॑। ए॒व। दी॒दि॒हि॒। द्यवि॑। ज्योक्। च॒। सूर्य॑म्। दृ॒शे। २.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Running she is a thunderbolt, when driven away she is Vaisva- nara;
 
 <details><summary>पदपाठः</summary>
 
-वज्रः। धावन्ती। वैश्वानरः। उत्ऽवीता। ७.७।
+वज्र॑ः। धाव॑न्ती। वै॒श्वा॒न॒रः। उत्ऽवी॑ता। ७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

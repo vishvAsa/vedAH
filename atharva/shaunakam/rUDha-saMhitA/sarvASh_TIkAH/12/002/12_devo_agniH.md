@@ -21,7 +21,7 @@ Agni the God, the Breaker-up, hath mounted to the heights of heaven. Released fr
 
 <details><summary>पदपाठः</summary>
 
-देवः। अग्निः। सम्ऽकसुकः। दिवः। पृष्ठानि। आ। अरुहत्। मुच्यमानः। निः। एनसः। अमोक्। अस्मान्। अशस्त्याः। २.१२।
+दे॒वः। अ॒ग्निः। सम्ऽक॑सुकः। दि॒वः। पृ॒ष्ठानि॑। आ। अ॒रु॒ह॒त्। मु॒च्यमा॑नः। निः। एन॑सः। अमो॑क्। अ॒स्मान्। अश॑स्त्याः। २.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

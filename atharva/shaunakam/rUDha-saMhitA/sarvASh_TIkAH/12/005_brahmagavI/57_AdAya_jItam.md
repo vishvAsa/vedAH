@@ -19,7 +19,7 @@ Bearing off wrong, thou givest in that world to him who hath been wronged.
 
 <details><summary>पदपाठः</summary>
 
-आऽदाय। जीतम्। जीताय। लोके। अमुष्मिन्। प्र। यच्छसि। १०.११।
+आ॒ऽदाय॑। जी॒तम्। जी॒ताय॑। लो॒के। अ॒मुष्मि॑न्। प्र। य॒च्छ॒सि॒। १०.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

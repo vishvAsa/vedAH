@@ -20,7 +20,7 @@ Agni is he, and Siirya, he is verily Mahayama.
 
 <details><summary>पदपाठः</summary>
 
-सः। अग्निः। सः। ऊं इति। सूर्यः। सः। ऊं इति। एव। महाऽयमः। ४.५।
+सः। अ॒ग्निः। सः। ऊं॒ इति॑। सूर्य॑ः। सः। ऊं॒ इति॑। ए॒व। म॒हा॒ऽय॒मः। ४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

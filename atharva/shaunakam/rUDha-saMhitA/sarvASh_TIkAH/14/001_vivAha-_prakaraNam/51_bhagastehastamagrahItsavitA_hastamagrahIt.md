@@ -24,7 +24,7 @@ Bhaga and Savitar the God have clasped that hand of thine in theirs, By rule and
 
 <details><summary>पदपाठः</summary>
 
-भगः। ते। हस्तम्। अग्रहीत्। सविता। हस्तम्। अग्रहीत्। पत्नी। त्वम्। असि। धर्मणा। अहम्। गृहऽपतिः। तव। १.५१।
+भग॑ः। ते॒। हस्त॑म्। अ॒ग्र॒ही॒त्। स॒वि॒ता। हस्त॑म्। अ॒ग्र॒ही॒त्। पत्नी॑। त्वम्। अ॒सि॒। धर्म॑णा। अ॒हम्। गृ॒हऽप॑तिः। तव॑। १.५१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ If the disease originates from love, from hatred, from the heart, Forth from the
 
 <details><summary>पदपाठः</summary>
 
-यदि। कामात्। अपऽकामात्। हृदयात्। जायते। परि। हृदः। बलासम्। अङ्गेभ्यः। बहिः। निः। मन्त्रयामहे। १३.८।
+यदि॑। कामा॑त्। अ॒प॒ऽका॒मात्। हृद॑यात्। जाय॑ते। परि॑। हृ॒दः। ब॒लास॑म्। अङ्गे॑भ्यः। ब॒हिः। निः। म॒न्त्र॒या॒म॒हे॒। १३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

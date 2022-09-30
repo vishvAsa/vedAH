@@ -25,7 +25,7 @@ What they spread upon the floor is just Sacrificial Grass.
 
 <details><summary>पदपाठः</summary>
 
-यत्। उपऽस्तृणन्ति। बर्हिः। एव। तत्। ६.८।
+यत्। उ॒प॒ऽस्तृ॒णन्ति॑। ब॒र्हिः। ए॒व। तत्। ६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

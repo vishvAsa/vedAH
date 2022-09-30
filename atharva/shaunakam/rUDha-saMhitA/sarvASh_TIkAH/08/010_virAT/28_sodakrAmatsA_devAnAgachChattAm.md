@@ -27,7 +27,7 @@ She mounted up, she came to Other People. They called her, crying, Come, Conceal
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। देवान्। आ। अगच्छत्। ताम्। देवाः। अघ्नत। सा। अर्धऽमासे। सम्। अभवत्। १२.५।
+सा। उत्। अ॒क्रा॒म॒त्। सा। दे॒वान्। आ। अ॒ग॒च्छ॒त्। ताम्। दे॒वाः। अ॒घ्न॒त॒। सा। अ॒र्ध॒ऽमा॒से। सम्। अ॒भ॒व॒त्। १२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

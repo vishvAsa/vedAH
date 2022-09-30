@@ -33,7 +33,7 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 
 <details><summary>पदपाठः</summary>
 
-तस्मात्। देवेभ्यः। अर्धऽमासे। वषट्। कुर्वन्ति। प्र। देवऽयानम्। पन्थाम्। जानाति। यः। एवम्। वेद। १२.६।
+तस्मा॑त्। दे॒वेभ्य॑ः। अ॒र्ध॒ऽमा॒से। वष॑ट्। कु॒र्व॒न्ति॒। प्र। दे॒व॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। यः। ए॒वम्। वेद॑। १२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

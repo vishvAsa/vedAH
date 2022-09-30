@@ -23,7 +23,7 @@ All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants
 
 <details><summary>पदपाठः</summary>
 
-आथर्वणीः। आङ्गिरसीः। दैवीः। मनुष्यऽजाः। उत। ओषधयः। प्र। जायन्ते। यदा। त्वम्। प्राण। जिन्वसि। ६.१६।
+आ॒थ॒र्व॒णीः। आ॒ङ्गि॒र॒सीः। दैवी॑ः। म॒नु॒ष्य॒ऽजाः। उ॒त। ओष॑धयः। प्र। जा॒य॒न्ते॒। य॒दा। त्वम्। प्रा॒ण॒। जिन्व॑सि। ६.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

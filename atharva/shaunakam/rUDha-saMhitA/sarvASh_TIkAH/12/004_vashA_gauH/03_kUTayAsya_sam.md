@@ -29,7 +29,7 @@ They perish through a hornless cow, a lame cow sinks them in a pit. Through a ma
 
 <details><summary>पदपाठः</summary>
 
-कूटया। अस्य। सम्। शीर्यन्ते। श्लोणया। काटम्। अर्दति। बण्डया। दह्यन्ते। गृहाः। काणया। दीयते। स्वम्। ४.३।
+कू॒टया॑। अ॒स्य॒। सम्। शी॒र्य॒न्ते॒। श्लो॒णया॑। का॒टम्। अ॒र्द॒ति॒। ब॒ण्डया॑। द॒ह्य॒न्ते॒। गृ॒हाः। का॒णया॑। दी॒य॒ते॒। स्वम्। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

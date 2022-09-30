@@ -19,7 +19,7 @@ The regions of the heaven, the points that lie between them fashioned it. Create
 
 <details><summary>पदपाठः</summary>
 
-अन्तःऽदेशाः। अबध्नत। प्रऽदिशः। तम्। अबध्नत। प्रजापतिऽसृष्टः। मणिः। द्विषतः। मे। अधरान्। अकः। ६.१९।
+अ॒न्त॒ःऽदे॒शाः। अ॒ब॒ध्न॒त॒। प्र॒ऽदिश॑ः। तम्। अ॒ब॒ध्न॒त॒। प्र॒जाप॑तिऽसृष्टः। म॒णिः। द्वि॒ष॒तः। मे॒। अध॑रान्। अ॒क॒ः। ६.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ Truth is the base that bears the earth; by Surya are the heavens upheld. By Law 
 
 <details><summary>पदपाठः</summary>
 
-सत्येन। उत्तभिता। भूमिः। सूर्येण। उत्तभिता। द्यौः। ऋतेन। आदित्याः। तिष्ठन्ति। दिवि। सोमः। अधि। श्रितः। १.१।
+स॒त्येन॑। उत्त॑भिता। भूमि॑ः। सूर्ये॑ण। उत्त॑भिता। द्यौः। ऋ॒तेन॑। आ॒दि॒त्याः। ति॒ष्ठ॒न्ति॒। दि॒वि॒। सोम॑ः। अधि॑। श्रि॒तः। १.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

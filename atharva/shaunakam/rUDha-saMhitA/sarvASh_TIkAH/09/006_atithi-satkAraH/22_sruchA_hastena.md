@@ -22,7 +22,7 @@ With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with
 
 <details><summary>पदपाठः</summary>
 
-स्रुचा। हस्तेन। प्राणे। यूपे। स्रुक्ऽकारेण। वषट्ऽकारेण। ७.५।
+स्रु॒चा। हस्ते॑न। प्रा॒णे। यूपे॑। स्रु॒क्ऽका॒रेण॑। व॒ष॒ट्ऽका॒रेण॑। ७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

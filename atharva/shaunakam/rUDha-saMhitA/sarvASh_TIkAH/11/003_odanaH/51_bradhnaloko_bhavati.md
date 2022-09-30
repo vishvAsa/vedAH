@@ -19,7 +19,7 @@ to the summit of the ruddy one, who knoweth thus.
 
 <details><summary>पदपाठः</summary>
 
-ब्रध्नऽलोकः। भवति। ब्रध्नस्य। विष्टपि। श्रयते। यः। एवम्। वेद। ५.२।
+ब्र॒ध्नऽलो॑कः। भ॒व॒ति॒। ब्र॒ध्नस्य॑। वि॒ष्टपि॑। श्र॒य॒ते॒। यः। ए॒वम्। वेद॑। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

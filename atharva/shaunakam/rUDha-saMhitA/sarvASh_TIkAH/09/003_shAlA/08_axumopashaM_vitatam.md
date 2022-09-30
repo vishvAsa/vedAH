@@ -25,7 +25,7 @@ We with our incantation loose the net that hath a thousand. eyes. The diadem, se
 
 <details><summary>पदपाठः</summary>
 
-अक्षुम्। ओपशम्। विऽततम्। सहस्रऽअक्षम्। विषुऽवति। अवऽनध्दम्। अभिऽहितम्। ब्रह्मणा। वि। चृतामसि। ३.८।
+अक्षु॑म्। ओ॒प॒शम्। विऽत॑तम्। स॒ह॒स्र॒ऽअ॒क्षम्। वि॒षु॒ऽवति॑। अव॑ऽनध्दम्। अ॒भिऽहि॑तम्। ब्रह्म॑णा। वि। चृ॒ता॒म॒सि॒। ३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

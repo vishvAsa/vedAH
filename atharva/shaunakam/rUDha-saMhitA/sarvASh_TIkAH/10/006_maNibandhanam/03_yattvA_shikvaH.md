@@ -25,7 +25,7 @@ What though the strong-armed carpenter have cleft thee with his hand and axe. Pu
 
 <details><summary>पदपाठः</summary>
 
-यत्। त्वा। शिक्वः। पराऽअवधीत्। तक्षा। हस्तेन। वास्या। आपः। त्वा। तस्मात्। जीवलाः। पुनन्तु। शुचयः। शुचिम्। ६.३।
+यत्। त्वा॒। शि॒क्वः। प॒रा॒ऽअव॑धीत्। तक्षा॑। हस्ते॑न। वास्या॑। आप॑ः। त्वा॒। तस्मा॑त्। जी॒व॒लाः। पु॒नन्तु॑। शुच॑यः। शुचि॑म्। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ She cuts off relationship on the father's side and destroys mater- nal kinship.
 
 <details><summary>पदपाठः</summary>
 
-छिनत्ति। अस्य। पितृऽबन्धु। परा। भावयति। मातृऽबन्धु। ९.५।
+छि॒नत्ति॑। अ॒स्य॒। पि॒तृ॒ऽब॒न्धु। परा॑। भा॒व॒य॒ति॒। मा॒तृ॒ऽब॒न्धु। ९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

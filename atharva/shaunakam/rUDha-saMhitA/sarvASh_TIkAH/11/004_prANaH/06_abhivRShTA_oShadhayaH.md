@@ -20,7 +20,7 @@ Watered by Prana's rain the plants have raised their voices in accord: Thou hast
 
 <details><summary>पदपाठः</summary>
 
-अभिऽवृष्टाः। ओषधयः। प्राणेन। सम्। अवादिरन्। आयुः। वै। नः। प्र। अतीतरः। सर्वाः। नः। सुरभीः। अकः। ६.६।
+अ॒भिऽवृ॑ष्टाः। ओष॑धयः। प्रा॒णेन॑। सम्। अ॒वा॒दि॒र॒न्। आयु॑ः। वै। न॒ः। प्र। अ॒ती॒त॒र॒ः। सर्वा॑ः। न॒ः। सु॒र॒भीः। अ॒क॒ः। ६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

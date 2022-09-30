@@ -20,7 +20,7 @@ Milk and flavour, and food and nourishment, and right and truth, and action and 
 
 <details><summary>पदपाठः</summary>
 
-पयः। च। रसः। च। अन्नम्। च। अन्नऽअद्यम्। च। ऋतम्। च। सत्यम्। च। इष्टम्। च। पूर्तम्‌। च। प्रऽजा। च। पशवः। च। ६.४।
+पय॑ः। च॒। रस॑ः। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। ऋ॒तम्। च॒। स॒त्यम्। च॒। इ॒ष्टम्। च॒। पू॒र्तम्‌। च॒। प्र॒ऽजा। च॒। प॒शव॑ः। च॒। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

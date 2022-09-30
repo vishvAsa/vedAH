@@ -25,7 +25,7 @@ What time the Dasi woman throws lye on the droppings of the Cow, Misshapen birth
 
 <details><summary>पदपाठः</summary>
 
-यत्। अस्याः। पल्पूलनम्। शकृत्। दासी। सम्ऽअस्यति। ततः। अपऽरूपम्। जायते। तस्मात्। अविऽएष्यत्। एनसः। ४.९।
+यत्। अ॒स्या॒ः। पल्पू॑लनम्। शकृ॑त्। दा॒सी। स॒म्ऽअस्य॑ति। तत॑ः। अप॑ऽरूपम्। जा॒य॒ते॒। तस्मा॑त्। अवि॑ऽएष्यत्। एन॑सः। ४.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

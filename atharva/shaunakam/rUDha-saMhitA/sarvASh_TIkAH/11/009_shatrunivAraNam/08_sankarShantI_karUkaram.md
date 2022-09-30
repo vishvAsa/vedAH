@@ -29,7 +29,7 @@ Snatching away the vertebra, while with her thought she seeks her son, Her husba
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽकर्षन्ती। करूकरम्। मनसा। पुत्रम्। इच्छन्ती। पतिम्। भ्रातरम्। आत्। स्वान्। रदिते। अर्बुदे। तव। ११.८।
+स॒म्ऽकर्ष॑न्ती। क॒रूक॑रम्। मन॑सा। पु॒त्रम्। इ॒च्छन्ती॑। पति॑म्। भ्रात॑रम्। आत्। स्वान्। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। ११.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

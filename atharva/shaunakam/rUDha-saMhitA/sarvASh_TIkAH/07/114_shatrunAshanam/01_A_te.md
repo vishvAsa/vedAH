@@ -24,7 +24,7 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 
 <details><summary>पदपाठः</summary>
 
-आ। ते। ददे। वक्षणाभ्यः। आ। ते। अहम्। हृदयात्। ददे। आ। ते। मुखस्य। सम्ऽकाशात्। सर्वम्। ते। वर्चः। आ। ददे। ११९.१।
+आ। ते॒। द॒दे॒। व॒क्षणा॑भ्यः। आ। ते॒। अ॒हम्। हृद॑यात्। द॒दे॒। आ। ते॒। मुख॑स्य। सम्ऽका॑शात्। सर्व॑म्। ते॒। वर्च॑ः। आ। द॒दे॒। ११९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

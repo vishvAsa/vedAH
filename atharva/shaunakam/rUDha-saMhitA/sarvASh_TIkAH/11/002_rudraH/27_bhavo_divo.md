@@ -26,7 +26,7 @@ Ruler of heaven and Lord of earth is Bhava: Bhava hath filled the spacious air's
 
 <details><summary>पदपाठः</summary>
 
-भवः। दिवः। भवः। ईशे। पृथिव्याः। भवः। आ। पप्रे। उरु। अन्तरिक्षम्। तस्मै। नमः। यतमस्याम्। दिशि। इतः। २.२७।
+भ॒वः। दि॒वः। भ॒वः। ई॒शे॒। पृ॒थि॒व्याः। भ॒वः। आ। प॒प्रे॒। उ॒रु। अ॒न्तरि॑क्षम्। तस्मै॑। नम॑ः। य॒त॒मस्या॑म्। दि॒शि। इ॒तः। २.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

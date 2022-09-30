@@ -18,7 +18,7 @@ He brings oblations: he makes the men sit down.
 
 <details><summary>पदपाठः</summary>
 
-उप। हरति। हवींषि। आ। सादयति। ७.३।
+उप॑। ह॒र॒ति॒। ह॒वींषि॑। आ। सा॒द॒य॒ति॒। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

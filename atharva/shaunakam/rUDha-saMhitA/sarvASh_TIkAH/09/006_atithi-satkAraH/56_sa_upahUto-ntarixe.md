@@ -20,7 +20,7 @@ He, having been invited in air, regales, invited, in that which wears all variou
 
 <details><summary>पदपाठः</summary>
 
-सः। उपऽहूतः। अन्तरिक्षे। भक्षयति। उपऽहूतः। तस्मिन्। यत्। अन्तरिक्षे। विश्वऽरूपम्। ११.८।
+सः। उप॑ऽहूतः। अ॒न्तरि॑क्षे। भ॒क्ष॒य॒ति॒। उप॑ऽहूतः। तस्मि॑न्। यत्। अ॒न्तरि॑क्षे। वि॒श्वऽरू॑पम्। ११.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

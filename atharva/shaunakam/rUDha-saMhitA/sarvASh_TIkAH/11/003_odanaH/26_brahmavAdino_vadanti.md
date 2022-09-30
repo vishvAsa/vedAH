@@ -37,7 +37,7 @@ The theologians say, Thou hast eaten the averted Odana and the Odana turned hith
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मऽवादिनः। वदन्ति। पराञ्चम्। ओदनम्। प्र। आशी३ः। प्रत्यञ्चा३म्। इति। ३.२६।
+ब्र॒ह्म॒ऽवा॒दिन॑ः। व॒द॒न्ति॒। परा॑ञ्चम्। ओ॒द॒नम्। प्र। आ॒शी३ः। प्र॒त्यञ्चा३म्। इति॑। ३.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

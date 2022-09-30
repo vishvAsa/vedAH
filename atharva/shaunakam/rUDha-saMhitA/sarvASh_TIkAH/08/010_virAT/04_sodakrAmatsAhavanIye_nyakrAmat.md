@@ -25,7 +25,7 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। आऽहवनीये। नि। अक्रामत्। १०.४।
+सा। उत्। अ॒क्रा॒म॒त्। सा। आ॒ऽह॒व॒नीये॑। नि। अ॒क्रा॒म॒त्। १०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

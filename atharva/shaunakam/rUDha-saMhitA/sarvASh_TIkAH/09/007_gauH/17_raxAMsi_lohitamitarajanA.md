@@ -19,7 +19,7 @@ Rakshasas are the blood, the Other Folk are the contents of the Stomach.
 
 <details><summary>पदपाठः</summary>
 
-रक्षांसि। लोहितम्। इतरऽजनाः। ऊबध्यम्। १२.१७।
+रक्षां॑सि। लोहि॑तम्। इ॒त॒र॒ऽज॒नाः। ऊब॑ध्यम्। १२.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

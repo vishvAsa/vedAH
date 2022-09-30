@@ -21,7 +21,7 @@ Death is she when she loweth, and a fierce God when she whis- keth her tail;
 
 <details><summary>पदपाठः</summary>
 
-मृत्युः। हिङ्कृण्वती। उग्रः। देवः। पुच्छम्। परिऽअस्यन्ती। ७.१०।
+मृ॒त्युः। हि॒ङ्कृ॒ण्व॒ती। उ॒ग्रः। दे॒वः। पुच्छ॑म्। प॒रि॒ऽअस्य॑न्ती। ७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

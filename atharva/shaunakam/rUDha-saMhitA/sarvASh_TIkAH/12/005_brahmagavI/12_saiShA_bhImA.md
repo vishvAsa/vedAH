@@ -21,7 +21,7 @@ Terrible is she this Brahman's cow, and fearfully venomous, visibly witchcraft.
 
 <details><summary>पदपाठः</summary>
 
-सा। एषा। भीमा। ब्रह्मऽगवी। अघऽविषा। सऽअक्षात्। कृत्या। कूल्बजम्। आऽवृता। ७.१।
+सा। ए॒षा। भी॒मा। ब्र॒ह्म॒ऽग॒वी। अ॒घऽवि॑षा। स॒ऽअ॒क्षात्। कृ॒त्या। कूल्ब॑जम्। आऽवृ॑ता। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ May both the Asvins, Lords of Light, balm me with honey of the bees, That I may 
 
 <details><summary>पदपाठः</summary>
 
-अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभः। पती इति। यथा। वर्चस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। १.१९।
+अश्वि॑ना। सा॒र॒घेण॑। मा॒। मधु॑ना। अ॒ङ्क्त॒म्। शु॒भ॒ः। प॒ती॒ इति॑। यथा॑। वर्च॑स्वतीम्। वाच॑म्। आ॒ऽवदा॑नि। जना॑न्। अनु॑। १.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

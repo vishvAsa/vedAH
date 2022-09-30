@@ -21,7 +21,7 @@ Those Gods who were of old, the Ten begotten earlier than the Gods, What world d
 
 <details><summary>पदपाठः</summary>
 
-ये। ते। आसन्। दश। जाताः। देवाः। देवेभ्यः। पुरा। पुत्रेभ्यः। लोकम्। दत्त्वा। कस्मिन्। ते। लोके। आसते। १०.१०।
+ये। ते। आस॑न्। दश॑। जा॒ताः। दे॒वाः। दे॒वेभ्य॑ः। पु॒रा। पु॒त्रेभ्य॑ः। लो॒कम्। द॒त्त्वा। कस्मि॑न्। ते। लो॒के। आ॒स॒ते॒। १०.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

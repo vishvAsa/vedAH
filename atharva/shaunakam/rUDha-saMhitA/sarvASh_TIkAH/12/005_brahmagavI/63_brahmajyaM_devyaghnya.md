@@ -21,7 +21,7 @@ Consume thou, even from the root, the Brahmans' tyrant, god- like Cow!
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मऽज्यम्। देवि। अघ्न्ये। आ। मूलात्। अनुऽसंदहः। ११.२।
+ब्र॒ह्म॒ऽज्यम्। दे॒वि॒। अ॒घ्न्ये॒। आ। मूला॑त्। अ॒नु॒ऽसंद॑हः। ११.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ He stablished heat and cold, he made the mountains sacrificial posts. Then both 
 
 <details><summary>पदपाठः</summary>
 
-हिमम। घ्रंसम्। च। आऽधाय। यूपान्। कृत्वा। पर्वतान्। वर्षऽआज्यौ। अग्नी इति। ईजाते इति। रोहितस्य। स्वःऽविदः। १.४७।
+हि॒मम। घ्रं॒सम्। च॒। आ॒ऽधाय॑। यूपा॑न्। कृ॒त्वा। पर्व॑तान्। व॒र्षऽआ॑ज्यौ। अ॒ग्नी इति॑। ई॒जा॒ते॒ इति॑। रोहि॑तस्य। स्व॒ःऽविद॑ः। १.४७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

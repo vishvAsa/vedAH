@@ -20,7 +20,7 @@ When they call the man who prepares food they summon the preparer of oblation.
 
 <details><summary>पदपाठः</summary>
 
-यत्। अशनऽकृतम्। ह्वयन्ति। हविःऽकृतम्। एव। तत्। ह्वयन्ति। ६.१३।
+यत्। अ॒श॒न॒ऽकृत॑म्। ह्वय॑न्ति। ह॒वि॒ःऽकृत॑म्। ए॒व। तत्। ह्व॒य॒न्ति॒। ६.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

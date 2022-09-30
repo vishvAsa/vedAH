@@ -21,7 +21,7 @@ Consumptions with their Colic pains which make thy limbs insensible I have evoke
 
 <details><summary>पदपाठः</summary>
 
-ये। अङ्गानि। मदयन्ति। यक्ष्मासः। रोपणाः। तव। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.१९।
+ये। अङ्गा॑नि। म॒दय॑न्ति। यक्ष्मा॑सः। रो॒प॒णाः। तव॑। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

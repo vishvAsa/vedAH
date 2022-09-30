@@ -29,7 +29,7 @@ Roaming in many a place the Cow is the stored treasure of the Gods, Make manifes
 
 <details><summary>पदपाठः</summary>
 
-वशा। चरन्ती। बहुऽधा। देवानाम्। निऽहितः। निऽधिः। आविः। कृणुष्व। रूपाणि। यदा। स्थाम। जिघांसति। ४.२९।
+व॒शा। चर॑न्ती। ब॒हु॒ऽधा। दे॒वाना॑म्। निऽहि॑तः। नि॒ऽधिः। आ॒विः। कृ॒णु॒ष्व॒। रू॒पाणि॑। य॒दा। स्थाम॑। जिघां॑सति। ४.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

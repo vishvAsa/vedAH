@@ -20,7 +20,7 @@ All men behold him with the eye, but with the mind they know not him. Holding al
 
 <details><summary>पदपाठः</summary>
 
-ऊर्ध्वम्। भरन्तम्। उदकम्। कुम्भेनऽइव। उदऽहार्य᳡म्। पश्यन्ति। सर्वे। चक्षुषा। न। सर्वे। मनसा। विदुः। ८.१४।
+ऊ॒र्ध्वम्। भर॑न्तम्। उ॒द॒कम्। कु॒म्भेन॑ऽइव। उ॒द॒ऽहा॒र्य᳡म्। पश्य॑न्ति। सर्वे॑। चक्षु॑षा। न। सर्वे॑। मन॑सा। वि॒दु॒ः। ८.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

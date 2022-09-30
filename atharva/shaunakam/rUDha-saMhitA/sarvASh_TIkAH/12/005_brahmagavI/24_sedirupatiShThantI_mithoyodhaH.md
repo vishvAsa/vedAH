@@ -19,7 +19,7 @@ The taking away of strength when she approacheth, a hand-to- hand fighter when r
 
 <details><summary>पदपाठः</summary>
 
-सेदिः। उपऽतिष्ठन्ती। मिथःऽयोधः। पराऽसृष्टा। ७.१३।
+से॒दिः। उ॒प॒ऽतिष्ठ॑न्ती। मि॒थ॒ःऽयो॒धः। परा॑ऽसृष्टा। ७.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

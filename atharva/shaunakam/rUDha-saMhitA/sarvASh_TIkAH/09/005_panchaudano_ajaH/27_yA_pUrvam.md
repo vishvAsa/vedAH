@@ -23,7 +23,7 @@ When she who hath been wedded finds a second husband after- ward, The twain shal
 
 <details><summary>पदपाठः</summary>
 
-या। पूर्वम्। पतिम्। वित्त्वा। अथ। अन्यम्। विन्दते। अपरम्। पञ्चऽओदनम्। च। तौ। अजम्। ददातः। न। वि। योषतः। ५.२७।
+या। पूर्व॑म्। पति॑म्। वि॒त्त्वा। अथ॑। अ॒न्यम्। वि॒न्दते॑। अप॑रम्। पञ्च॑ऽओदनम्। च॒। तौ। अ॒जम्। ददा॑तः। न। वि। यो॒ष॒त॒ः। ५.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

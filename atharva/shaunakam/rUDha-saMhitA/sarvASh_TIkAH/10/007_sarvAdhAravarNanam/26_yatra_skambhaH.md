@@ -23,7 +23,7 @@ Where Skambha generating gave the Ancient World its shape and form, They recogni
 
 <details><summary>पदपाठः</summary>
 
-यत्र। स्कम्भः। प्रऽजनयन्। पुराणम्। विऽअवर्तयत्। एकम्। तत्। अङ्गम्। स्कम्भस्य। पुराणम्। अनुऽसंविदुः। ७.२६।
+यत्र॑। स्क॒म्भः। प्र॒ऽज॒नय॑न्। पु॒रा॒णम्। वि॒ऽअव॑र्तयत्। एक॑म्। तत्। अङ्ग॑म्। स्क॒म्भस्य॑। पु॒रा॒णम्। अ॒नु॒ऽसंवि॑दुः। ७.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

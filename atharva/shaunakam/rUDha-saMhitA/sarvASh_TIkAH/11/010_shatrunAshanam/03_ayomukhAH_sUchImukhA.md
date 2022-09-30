@@ -8,7 +8,6 @@ title = "०३ अयोमुखाः सूचीमुखा"
 Metal-headed, point-headed, barb-headed, flesh-eating, with the speed of wind, stick to the enemies, together with the three-pronged vajra.
 </details>
 
-
 <details><summary>Whitney</summary>
 
 ### Translation
@@ -30,7 +29,7 @@ Let those with iron faces, with faces like needles or like combs, Flesh-eaters, 
 
 <details><summary>पदपाठः</summary>
 
-अयःऽमुखाः। सूचीऽमुखाः। अथो इति। विकङ्कतीऽमुखाः। क्रव्यऽअदः। वातऽरंहसः। आ। सजन्तु। अमित्रान्। वज्रेण। त्रिऽसंधिना। १२.३।
+अय॑ःऽमुखाः। सू॒चीऽमु॑खाः। अथो॒ इति॑। वि॒क॒ङ्क॒तीऽमु॑खाः। क्र॒व्य॒ऽअद॑ः। वात॑ऽरंहसः। आ। स॒ज॒न्तु॒। अ॒मित्रा॑न्। वज्रे॑ण। त्रिऽसं॑धिना। १२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

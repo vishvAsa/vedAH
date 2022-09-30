@@ -20,7 +20,7 @@ The men of evil counsel who advise refusal of the Cow, Miscreants, through their
 
 <details><summary>पदपाठः</summary>
 
-ये। वशायाः। अदानाय। वदन्ति। परिऽरापिणः। इन्द्रस्य। मन्यवे। जाल्माः। आ। वृश्चन्ते। अचित्त्या। ४.५१।
+ये। व॒शाया॑ः। अदा॑नाय। वद॑न्ति। प॒रि॒ऽरा॒पिण॑ः। इन्द्र॑स्य। म॒न्यवे॑। जा॒ल्माः। आ। वृ॒श्च॒न्ते॒। अचि॑त्त्या। ४.५१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

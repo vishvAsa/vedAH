@@ -20,7 +20,7 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 
 <details><summary>पदपाठः</summary>
 
-सा। उत्। अक्रामत्। सा। दक्षिणऽअग्नौ। नि। अक्रामत्। १०.६।
+सा। उत्। अ॒क्रा॒म॒त्। सा। द॒क्षि॒ण॒ऽअ॒ग्नौ। नि। अ॒क्रा॒म॒त्। १०.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

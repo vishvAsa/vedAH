@@ -21,7 +21,7 @@ Homage, O Bhava, Lord of Beasts, unto thy face and all thine eyes, To skin, and 
 
 <details><summary>पदपाठः</summary>
 
-मुखाय। ते। पशुऽपते। यानि। चक्षूंषि। ते। भव। त्वचे। रूपाय। सम्ऽदृशे। प्रतीचीनाय। ते। नमः। २.५।
+मुखा॑य। ते॒। प॒शु॒ऽप॒ते॒। यानि॑। चक्षूं॑षि। ते॒। भ॒व॒। त्व॒चे। रू॒पाय॑। स॒म्ऽदृशे॑। प्र॒ती॒चीना॑य। ते॒। नम॑ः। २.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

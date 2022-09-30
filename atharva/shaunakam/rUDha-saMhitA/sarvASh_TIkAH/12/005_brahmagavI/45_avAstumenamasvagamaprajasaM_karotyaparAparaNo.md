@@ -22,7 +22,7 @@ She makes him houseless, homeless, childless: he is extinguished without posteri
 
 <details><summary>पदपाठः</summary>
 
-अवास्तुम्। एनम्। अस्वगम्। अप्रजसम्। करोति। अपराऽपरणः। भवति। क्षीयते। ९.७।
+अ॒वा॒स्तुम्। ए॒न॒म्। अस्व॑गम्। अप्र॑जसम्। क॒रो॒ति॒। अ॒प॒रा॒ऽप॒र॒णः। भ॒व॒ति॒। क्षी॒यते॑। ९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

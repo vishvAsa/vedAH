@@ -24,7 +24,7 @@ May she, the Earth, assign to us the opulence for which we yearn, May Bhaga shar
 
 <details><summary>पदपाठः</summary>
 
-सा। नः। भूमिः। आ। दिशतु। यत्। धनम्। कामयामहे। भगः। अनुऽप्रयुङ्क्ताम्। इन्द्रः। एतु। पुरःऽगवः। १.४०।
+सा। न॒ः। भूमि॑ः। आ। दि॒श॒तु॒। यत्। धन॑म्। का॒मया॑महे। भग॑ः। अ॒नु॒ऽप्रयु॑ङ्क्ताम्। इन्द्र॑ः। ए॒तु॒। पु॒र॒ःऽग॒वः। १.४०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ With power I cut away the head of my malignant rival, of mine evil-hearted enemy
 
 <details><summary>पदपाठः</summary>
 
-अरातिऽयोः। भ्रातृव्यस्य। दुःऽहार्दः। द्विषतः। शिरः। अपि। वृश्चामि। ओजसा। ६.१।
+अ॒रा॒ति॒ऽयोः। भ्रातृ॑व्यस्य। दु॒ःऽहार्द॑ः। द्वि॒ष॒तः। शिर॑ः। अपि॑। वृ॒श्चा॒मि॒। ओज॑सा। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

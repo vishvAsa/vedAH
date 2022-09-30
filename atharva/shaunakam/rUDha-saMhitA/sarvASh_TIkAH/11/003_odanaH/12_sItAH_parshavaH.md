@@ -15,7 +15,7 @@ Furrows are its ribs, sandy soils the undigested contents of its stomach.
 
 <details><summary>पदपाठः</summary>
 
-सीताः। पर्शवः। सिकताः। ऊबध्यम्। ३.१२।
+सीता॑ः। पर्श॑वः। सिक॑ताः। ऊब॑ध्यम्। ३.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

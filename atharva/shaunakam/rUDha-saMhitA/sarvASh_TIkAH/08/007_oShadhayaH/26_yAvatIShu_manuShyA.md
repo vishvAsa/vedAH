@@ -20,7 +20,7 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 
 <details><summary>पदपाठः</summary>
 
-यावतीषु। मनुष्याः᳡। भेषजम्। भिषजः। विदुः। तावतीः। विश्वऽभेषजीः। आ। भरामि। त्वाम्‌। अभि। ७.२६।
+याव॑तीषु। म॒नु॒ष्या᳡ः। भे॒ष॒जम्। भि॒षज॑ः। वि॒दुः। ताव॑तीः। वि॒श्वऽभे॑षजीः। आ। भ॒रा॒मि॒। त्वाम्‌। अ॒भि। ७.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -38,7 +38,7 @@ The Breaker-up, the Burster, the Destroyer, and the Silent One, These have expel
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽकसुकः। विऽकसुकः। निःऽऋथः। यः। च। निऽस्वरः। ते। ते। यक्ष्मम्। सऽवेदसः। दूरात्। दूरम्। अनीनशन्। २.१४।
+सम्ऽक॑सुकः। विऽक॑सुकः। नि॒ःऽऋ॒थः। यः। च॒। नि॒ऽस्व॒रः। ते। ते॒। यक्ष्म॑म्। सऽवे॑दसः। दू॒रात्। दू॒रम्। अ॒नी॒न॒श॒न्। २.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Subduing all our adversaries, Agni, give us their food, their strength and their
 
 <details><summary>पदपाठः</summary>
 
-सर्वान्। अग्ने। सहमानः। सऽपत्नान्। आ। एषाम्। ऊर्जम्। रयिम्। अस्मासु। धेहि। २.४६।
+सर्वा॑न्। अ॒ग्ने॒। सह॑मानः। स॒ऽपत्ना॑न्। आ। ए॒षा॒म्। ऊर्ज॑म्। र॒यिम्। अ॒स्मासु॑। धे॒हि॒। २.४६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

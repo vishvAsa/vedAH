@@ -23,7 +23,7 @@ Homage be paid him with ten Sakvari verses who stands established in the air's m
 
 <details><summary>पदपाठः</summary>
 
-यः। अन्तर᳡ देव॒यज॑निक्षे। तिष्ठति। विऽस्तभितः। अयज्वनः। प्रऽमृणन्। देवऽपीयून्। तस्मै। नमः। दशऽभिः। शक्वरीभिः। २.२३।
+यः। अ॒न्तर‍ि॑क्षे। तिष्ठ॑ति। विऽस्त॑भितः। अय॑ज्वनः। प्र॒ऽमृ॒णन्। दे॒व॒ऽपी॒यून्। तस्मै॑। नम॑ः। द॒शऽभि॑ः। शक्व॑रीभिः। २.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

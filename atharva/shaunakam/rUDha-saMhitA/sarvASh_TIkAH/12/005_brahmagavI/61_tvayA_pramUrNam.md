@@ -26,7 +26,7 @@ Let Agni burn the spiteful wretch when crushed to death and slain by thee.
 
 <details><summary>पदपाठः</summary>
 
-त्वया। प्रऽमूर्णम्। मृदितम्। अग्निः। दहतु। दुःऽचितम्। १०.१५।
+त्वया॑। प्रऽमू॑र्णम्। मृ॒दि॒तम्। अ॒ग्निः। द॒ह॒तु॒। दु॒ःऽचित॑म्। १०.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

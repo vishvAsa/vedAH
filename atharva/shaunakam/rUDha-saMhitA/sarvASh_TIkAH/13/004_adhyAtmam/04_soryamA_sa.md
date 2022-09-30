@@ -18,7 +18,7 @@ Rudra, and Mahadeva, he is Aryaman and Varuna.
 
 <details><summary>पदपाठः</summary>
 
-सः। अर्यमा। सः। वरुणः। सः। रुद्रः। सः। महाऽदेवः। ४.४।
+सः। अ॒र्य॒मा। सः। वरु॑णः। सः। रु॒द्रः। सः। म॒हा॒ऽदे॒वः। ४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ This Amulet of citron-wood shall make for me a trusty shield Filled with the min
 
 <details><summary>पदपाठः</summary>
 
-वर्म। मह्यम्। अयम्। मणिः। फालात्। जातः। करिष्यति। पूर्णः। मन्थेन। मा। आ। अगमत्। रसेन। सह। वर्चसा। ६.२।
+वर्म॑। मह्य॑म्। अ॒यम्। म॒णिः। फाला॑त्। जा॒तः। क॒रि॒ष्य॒ति॒। पू॒र्णः। म॒न्थेन॑। मा॒। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

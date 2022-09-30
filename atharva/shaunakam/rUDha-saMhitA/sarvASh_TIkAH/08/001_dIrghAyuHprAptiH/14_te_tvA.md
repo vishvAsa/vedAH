@@ -20,7 +20,7 @@ Let these be thy preservers, these thy keepers. All hail to these, to these be l
 
 <details><summary>पदपाठः</summary>
 
-ते। त्वा। रक्षन्तु। ते। त्वा। गोपायन्तु। तेभ्यः। नमः। तेभ्यः। स्वाहा। १.१४।
+ते। त्वा॒। र॒क्ष॒न्तु॒। ते। त्वा॒। गो॒पा॒य॒न्तु॒। तेभ्य॑ः। नम॑ः। तेभ्य॑ः। स्वाहा॑। १.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

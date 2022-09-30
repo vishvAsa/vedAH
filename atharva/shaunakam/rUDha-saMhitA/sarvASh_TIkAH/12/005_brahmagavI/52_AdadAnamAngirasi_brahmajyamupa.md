@@ -20,7 +20,7 @@ Destroy Angirasi! the wretch who robs and wrongs the Brah- mans, born.
 
 <details><summary>पदपाठः</summary>
 
-आऽददानम्। आङ्गिरसि। ब्रह्मऽज्यम्। उप। दासय। १०.६।
+आ॒ऽददा॑नम्। आ॒ङ्गि॒र॒सि॒। ब्र॒ह्म॒ऽज्यम्। उप॑। दा॒स॒य॒। १०.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,8 +22,8 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 
 <details><summary>पदपाठः</summary>
 
-सः। यः। एवम्। विद्वान्। मधु। उपऽसिच्य। उपऽहरति। ९.५।  
-यावत्। सत्त्रऽसद्येन। इष्ट्वा। उपऽहरति। ९.६।
+सः । यः । ए॒वम् । वि॒द्वान् । मधु॑ । उ॒प॒ऽसिच्य॑ । उ॒प॒ऽहर॑ति ॥ ९.५।  
+याव॑त् ।‍ स॒त्त्र॒ऽसद्ये॑न । इ॒ष्ट्वा । उ॒प॒ऽहर॑ति ॥ ९.६।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

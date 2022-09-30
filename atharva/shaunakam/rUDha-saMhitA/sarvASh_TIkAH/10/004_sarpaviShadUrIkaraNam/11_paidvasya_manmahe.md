@@ -21,7 +21,7 @@ We fix our thoughts on Pedu's horse, strong, off-spring of a stedfast line. Behi
 
 <details><summary>पदपाठः</summary>
 
-पैद्वस्य। मन्महे। वयम्। स्थिरस्य। स्थिरऽधाम्नः। इमे। पश्चा। पृदाकवः। प्रऽदीध्यतः। आसते। ४.११।
+पै॒द्वस्य॑। म॒न्म॒हे॒। व॒यम्। स्थि॒रस्य॑। स्थि॒रऽधा॑म्नः। इ॒मे। प॒श्चा। पृदा॑कवः। प्र॒ऽदीध्य॑तः। आ॒स॒ते॒। ४.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

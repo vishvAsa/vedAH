@@ -23,7 +23,7 @@ Come hither with the Soma, come with every footed thing; the Cow With Kalis and 
 
 <details><summary>पदपाठः</summary>
 
-सम्। हि। सोमेन। अगत। सम्। ऊं इति। सर्वेण। पत्ऽवता। वशा। समुद्रम्। अधि। अस्थात्। गन्धर्वैः। कलिऽभिः। सह। १०.१३।
+सम्। हि। सोमे॑न। अग॑त। सम्। ऊं॒ इति॑। सर्वे॑ण। प॒त्ऽवता॑। व॒शा। स॒मु॒द्रम्। अधि॑। अ॒स्था॒त्। ग॒न्ध॒र्वैः। क॒लिऽभि॑ः। स॒ह। १०.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

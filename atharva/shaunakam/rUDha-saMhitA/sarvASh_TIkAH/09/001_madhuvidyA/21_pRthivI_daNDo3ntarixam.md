@@ -22,7 +22,7 @@ The Whip itself is Heaven, Earth is the handle, the point of juncture is the Air
 
 <details><summary>पदपाठः</summary>
 
-पृथिवी। दण्डः। अन्तरिक्षम्। गर्भः। द्यौः। कशा। विऽद्युत्। प्रऽकशः। हिरण्ययः। बिन्दुः। १.२१। ।
+पृ॒थि॒वी। द॒ण्डः। अ॒न्तरि॑क्षम्। गर्भ॑ः। द्यौः। कशा॑। वि॒ऽद्युत्। प्र॒ऽक॒शः। हि॒र॒ण्यय॑ः। बि॒न्दुः। १.२१। । 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

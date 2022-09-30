@@ -19,7 +19,7 @@ Let the floods hurry on and bear the poison of all snakes afar. Tiraschirajis ha
 
 <details><summary>पदपाठः</summary>
 
-अहीनाम्। सर्वेषाम्। विषम्। परा। वहन्तु। सिन्धवः। हताः। तिरश्चिऽराजयः। निऽपिष्टासः। पृदाकवः। ४.२०।
+अही॑नाम्। सर्वे॑षाम्। वि॒षम्। परा॑। व॒ह॒न्तु॒। सिन्ध॑वः। ह॒ताः। तिर॑श्चिऽराजयः। निऽपि॑ष्टासः। पृदा॑कवः। ४.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

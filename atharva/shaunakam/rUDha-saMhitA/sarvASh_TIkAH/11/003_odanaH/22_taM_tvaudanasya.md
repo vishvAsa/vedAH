@@ -18,7 +18,7 @@ I ask thee, of this Odana what is the mighty magnitude.
 
 <details><summary>पदपाठः</summary>
 
-तम्। त्वा। ओदनस्य। पृच्छामि। यः। अस्य। महिमा। महान्। ३.२२।
+तम्। त्वा॒। ओ॒द॒नस्य॑। पृ॒च्छा॒मि॒। यः। अ॒स्य॒। म॒हि॒मा। म॒हान्। ३.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

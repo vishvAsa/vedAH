@@ -25,7 +25,7 @@ Songs were the cross-bars of the pole, Kurira metre docked her head. Both Asvins
 
 <details><summary>पदपाठः</summary>
 
-स्तोमाः। आसन्। प्रतिऽधयः। कुरीरम्। छन्दः। ओपशः। सूर्यायाः। अश्विना। वरा। अग्निः। आसीत्। पुरःऽगवः। १.८।
+स्तोमा॑ः। आ॒स॒न्। प्र॒ति॒ऽधय॑ः। कु॒रीर॑म्। छन्द॑ः। ओ॒प॒शः। सू॒र्याया॑ः। अ॒श्विना॑। व॒रा। अ॒ग्निः। आ॒सी॒त्। पु॒र॒ःऽग॒वः। १.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

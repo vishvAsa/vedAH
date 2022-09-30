@@ -24,7 +24,7 @@ We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose t
 
 <details><summary>पदपाठः</summary>
 
-वंशानाम्। ते। नहनानाम्। प्राणहस्य। तृणस्य। च। पक्षाणाम्। विश्वऽवारे। ते। नध्दानि। वि। चृतामसि। ३.४।
+वं॒शाना॑म्। ते॒। नह॑नानाम्। प्रा॒ण॒हस्य॑। तृण॑स्य। च॒। प॒क्षाणा॑म्। वि॒श्व॒ऽवा॒रे॒। ते॒। न॒ध्दानि॑। वि। चृ॒ता॒म॒सि॒। ३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

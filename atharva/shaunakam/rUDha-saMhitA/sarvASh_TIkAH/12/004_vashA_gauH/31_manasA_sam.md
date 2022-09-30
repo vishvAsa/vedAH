@@ -19,7 +19,7 @@ This thought he settles in his mind. This safely goeth to the Gods. Then verily 
 
 <details><summary>पदपाठः</summary>
 
-मनसा। सम्। कल्पयति। तत्। देवान्। अपि। गच्छति। ततः। ह। ब्रह्माणः। वशाम्। उपऽप्रयन्ति। याचितुम्। ४.३१।
+मन॑सा। सम्। क॒ल्प॒य॒ति॒। तत्। दे॒वान्। अपि॑। ग॒च्छ॒ति॒। तत॑ः। ह॒। ब्र॒ह्माण॑ः। व॒शाम्। उ॒प॒ऽप्रय॑न्ति। याचि॑तुम्। ४.३१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

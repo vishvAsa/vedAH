@@ -20,7 +20,7 @@ This verily is omniform, wearing all forms, bovine-formed.
 
 <details><summary>पदपाठः</summary>
 
-एतत्। वै। विश्वऽरूपम्। सर्वऽरूपम्। गोऽरूपम्। १२.२५।
+ए॒तत्। वै। वि॒श्वऽरू॑पम्। सर्व॑ऽरूपम्। गो॒ऽरू॒पम्। १२.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

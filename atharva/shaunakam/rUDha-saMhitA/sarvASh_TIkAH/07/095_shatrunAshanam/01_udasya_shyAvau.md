@@ -27,7 +27,7 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 
 <details><summary>पदपाठः</summary>
 
-उत्। अस्य। श्यावौ। विथुरौ। गृध्रौ। द्यामऽइव। पेततुः। उच्छोचनऽप्रशोचनौ। अस्य। उत्ऽशोचनौ। हृदः। १००.१।
+उत्। अ॒स्य॒। श्या॒वौ। वि॒थु॒रौ। गृध्रौ॑। द्यामऽइ॑व। पे॒त॒तु॒ः। उ॒च्छो॒च॒न॒ऽप्र॒शो॒च॒नौ। अ॒स्य। उ॒त्ऽशोच॑नौ। हृ॒दः। १००.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

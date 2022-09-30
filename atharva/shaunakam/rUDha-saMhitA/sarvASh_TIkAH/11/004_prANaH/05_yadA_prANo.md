@@ -22,7 +22,7 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 
 <details><summary>पदपाठः</summary>
 
-यदा। प्राणः। अभिऽअवर्षीत्। वर्षेण। पृथिवीम्। महीम्। पशवः। तत्। प्र। मोदन्ते। महः। वै। नः। भविष्यति। ६.५।
+य॒दा। प्रा॒णः। अ॒भि॒ऽअव॑र्षीत्। व॒र्षेण॑। पृ॒थि॒वीम्। म॒हीम्। प॒शव॑ः। तत्। प्र। मो॒द॒न्ते॒। मह॑ः। वै। न॒ः। भ॒वि॒ष्य॒ति॒। ६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

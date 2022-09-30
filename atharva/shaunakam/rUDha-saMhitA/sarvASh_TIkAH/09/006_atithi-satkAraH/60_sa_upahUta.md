@@ -18,7 +18,7 @@ He, having been invited hath been invited.
 
 <details><summary>पदपाठः</summary>
 
-सः। उपऽहूतः। उपहूतः। ११.१२।
+सः। उप॑ऽहूतः। उप॑हूतः। ११.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ When, covered round about with gold, thou stoodest there, O Holy One, The ocean 
 
 <details><summary>पदपाठः</summary>
 
-अभिऽवृता। हिरण्येन। यत्। अतिष्ठः। ऋतऽवरि। अश्वः। समुद्रः। भूत्वा। अधि। अस्कन्दत्। वशे। त्वा। १०.१६।
+अ॒भिऽवृ॑ता। हिर॑ण्येन। यत्। अति॑ष्ठः। ऋ॒त॒ऽव॒रि॒। अश्व॑ः। स॒मु॒द्रः। भू॒त्वा। अधि॑। अ॒स्क॒न्द॒त्। व॒शे॒। त्वा॒। १०.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

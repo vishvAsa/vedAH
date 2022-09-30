@@ -22,7 +22,7 @@ Rohita, in primeval days Prajapati, was, after, Time, Mouth of all sacrifices, h
 
 <details><summary>पदपाठः</summary>
 
-रोहितः। कालः। अभवत्। रोहितः। अग्रे। प्रजाऽपतिः। रोहितः। यज्ञानाम्। मुखम्। रोहितः। स्वः᳡। आ। अभरत्। २.३९।
+रोहि॑तः। का॒लः। अ॒भ॒व॒त्। रोहि॑तः। अग्रे॑। प्र॒जाऽप॑तिः। रोहि॑तः। य॒ज्ञाना॑म्। मुख॑म्। रोहि॑तः। स्व᳡ः। आ। अ॒भ॒र॒त्। २.३९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

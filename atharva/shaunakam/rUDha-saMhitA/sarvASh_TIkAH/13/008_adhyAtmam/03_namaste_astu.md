@@ -22,7 +22,7 @@ combination *te astu*.
 
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अस्तु। पश्यत। पश्य। मा। पश्यत। ८.३।
+नम॑ः। ते॒। अ॒स्तु॒। प॒श्य॒त॒। पश्य॑। मा॒। प॒श्य॒त॒। ८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

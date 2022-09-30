@@ -18,7 +18,7 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 
 <details><summary>पदपाठः</summary>
 
-प्राजाऽपत्यः। वै। एतस्य। यज्ञः। विऽततः। यः। उपऽहरति। ७.११।
+प्रा॒जा॒ऽप॒त्यः। वै। ए॒तस्य॑। य॒ज्ञः। विऽत॑तः। यः। उ॒प॒ऽहर॑ति। ७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

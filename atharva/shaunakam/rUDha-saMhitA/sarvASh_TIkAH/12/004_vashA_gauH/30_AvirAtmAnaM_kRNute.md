@@ -25,7 +25,7 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 
 <details><summary>पदपाठः</summary>
 
-आविः। आत्मानम्। कृणुते। यदा। स्थाम। जिघांसति। अथो इति। ह। ब्रह्मऽभ्यः। वशा। याञ्चाय। कृणुते। मनः। ४.३०।
+आ॒विः। आ॒त्मान॑म्। कृ॒णु॒ते॒। य॒दा। स्थाम॑। जिघां॑सति। अथो॒ इति॑। ह॒। ब्र॒ह्मऽभ्य॑ः। व॒शा। या॒ञ्चाय॑। कृ॒णु॒ते॒। मन॑ः। ४.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

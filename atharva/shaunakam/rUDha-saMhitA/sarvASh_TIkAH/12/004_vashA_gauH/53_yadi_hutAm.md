@@ -32,7 +32,7 @@ If in his home one cooks the Cow, sacrificed or not sacrificed. Wronger of Gods 
 
 <details><summary>पदपाठः</summary>
 
-यदि। हुताम्। यदि। अहुताम्। अमा। च। पचते। वशाम्। देवान्। सऽब्राह्मणान्। ऋत्वा। जिह्मः। लोकात्। निः। ऋच्छति। ४.५३।
+यदि॑। हु॒ताम्। यदि॑। अहु॑ताम्। अ॒मा। च॒। पच॑ते। व॒शाम्। दे॒वान्। सऽब्रा॑ह्मणान्। ऋ॒त्वा। जि॒ह्मः। लो॒कात्। निः। ऋ॒च्छ॒ति॒। ४.५३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

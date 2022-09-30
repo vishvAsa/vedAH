@@ -19,7 +19,7 @@ He would not declare it to be greater than the giver imagines it to be.
 
 <details><summary>पदपाठः</summary>
 
-यावत्। दाता। अभिऽमनस्येत। तत्। न। अति। वदेत्। ३.२५।
+याव॑त्। दा॒ता। अ॒भि॒ऽम॒न॒स्येत॑। तत्। न। अति॑। व॒दे॒त्। ३.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

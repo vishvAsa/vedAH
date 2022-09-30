@@ -19,7 +19,7 @@ No mortal beings slay him, no Gandharvas, no Apsarases; O'er all the regions he 
 
 <details><summary>पदपाठः</summary>
 
-न। एनम्। घ्नन्ति। अप्सरसः। न। गन्धर्वाः। न। मर्त्याः। सर्वाः। दिशः। वि। राजति। यः। बिभर्ति। इमम्। मणिम्। ५.१३।
+न। ए॒न॒म्। घ्न॒न्ति॒। अ॒प्स॒रस॑ः। न। ग॒न्ध॒र्वाः। न। मर्त्या॑ः। सर्वा॑ः। दिश॑ः। वि। रा॒ज॒ति॒। यः। बिभ॑र्ति। इ॒मम्। म॒णिम्। ५.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

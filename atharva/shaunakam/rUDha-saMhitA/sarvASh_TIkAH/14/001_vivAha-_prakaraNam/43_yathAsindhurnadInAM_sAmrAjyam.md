@@ -25,7 +25,7 @@ As vigorous Sindhu won himself imperial lordship of the streams, So be imperial 
 
 <details><summary>पदपाठः</summary>
 
-यथा। सिन्धुः। नदीनाम्। साम्ऽराज्यम्। सुसुवे। वृषा। एव। त्वम्। सम्ऽराज्ञी। एधि। पत्युः। अस्तम्। पराऽइत्य। १.४३।
+यथा॑। सिन्धु॑ः। न॒दीना॑म्। साम्ऽरा॑ज्यम्। सु॒सु॒वे। वृषा॑। ए॒व। त्वम्। स॒म्ऽराज्ञी॑। ए॒धि॒। पत्यु॑ः। अस्त॑म्। प॒रा॒ऽइत्य॑। १.४३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

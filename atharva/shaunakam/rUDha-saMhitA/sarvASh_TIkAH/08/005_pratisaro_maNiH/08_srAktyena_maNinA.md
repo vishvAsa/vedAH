@@ -19,7 +19,7 @@ With Amulet of Sraktya wood, as with a thoughtful Rishi's aid, In every fight ha
 
 <details><summary>पदपाठः</summary>
 
-स्राक्त्येन। मणिना। ऋषिणाऽइव। मनीषिणा। अजैषम्। सर्वाः। पृतनाः। वि। मृधः। हन्मि। रक्षसः। ५.८।
+स्रा॒क्त्येन॑। म॒णिना॑। ऋषि॑णाऽइव। म॒नी॒षिणा॑। अजै॑षम्। सर्वा॑ः। पृत॑नाः। वि। मृध॑ः। ह॒न्मि॒। र॒क्षस॑ः। ५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

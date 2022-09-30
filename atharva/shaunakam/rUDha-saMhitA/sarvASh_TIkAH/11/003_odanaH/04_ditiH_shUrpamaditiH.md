@@ -19,7 +19,7 @@ Diti is the winnowing basket, Aditi is she who holds it, Vata is the sifter.
 
 <details><summary>पदपाठः</summary>
 
-दितिः। शूर्पम्। अदितिः। शूर्पऽग्राही। वातः। अप। अविनक्। ३.४।
+दिति॑ः। शूर्प॑म्। अदि॑तिः। शू॒र्प॒ऽग्रा॒ही। वात॑ः। अप॑। अ॒वि॒न॒क्। ३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,7 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 
 <details><summary>पदपाठः</summary>
 
-एतत्। वै। ऊं इति। स्वादीयः। यत्। अधिऽगवम्। क्षीरम्। वा। मांसम्। वा। तत्। एव। न। अश्नीयात्। ८.९।
+ए॒तत्। वै। ऊं॒ इति॑। स्वादी॑यः। यत्। अ॒धि॒ऽग॒वम्। क्षी॒रम्। वा॒। मां॒सम्। वा॒। तत्। ए॒व। न। अ॒श्नी॒या॒त्। ८.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

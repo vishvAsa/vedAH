@@ -21,7 +21,7 @@ Hitherward let the sapient come, the friendly sharers o f my speech. That we may
 
 <details><summary>पदपाठः</summary>
 
-इह। आ। यन्तु। प्रऽचेतसः। मेदिनीः। वचसः। मम। यथा। इमम्। पारयामसि। पुरुषम्। दुःऽइतात्। अधि। ७.७।
+इ॒ह। आ। य॒न्तु॒। प्रऽचे॑तसः। मे॒दिनी॑ः। वच॑सः। मम॑। यथा॑। इ॒मम्। पा॒रया॑मसि। पुरु॑षम्। दु॒ःऽइ॒तात्। अधि॑। ७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

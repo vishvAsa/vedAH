@@ -21,7 +21,7 @@ Homage to kine and steeds! to all that shall be born within the house We loose t
 
 <details><summary>पदपाठः</summary>
 
-गोभ्यः। अश्वेभ्यः। नमः। यत्। शालायाम्। विऽजायते। विजाऽवति। प्रजाऽवति। वि। ते। पाशान्। चृतामसि। ३.१३।
+गोभ्य॑ः। अश्वे॑भ्यः। नम॑ः। यत्। शाला॑याम्। वि॒ऽजाय॑ते। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

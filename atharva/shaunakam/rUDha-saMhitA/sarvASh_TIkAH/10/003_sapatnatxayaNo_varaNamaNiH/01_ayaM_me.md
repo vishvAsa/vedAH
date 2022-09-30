@@ -25,7 +25,7 @@ Here is my charm the Varana, slayer of rivals, strong in act. With this grasp th
 
 <details><summary>पदपाठः</summary>
 
-अयम्। मे। वरणः। मणिः। सपत्नऽक्षयणः। वृषा। तेन। आ। रभस्व। त्वम्। शत्रून्। प्र। मृणीहि। दुरस्यतः। ३.१।
+अयम्। मे॒। व॒र॒णः। म॒णिः। स॒प॒त्न॒ऽक्षय॑णः। वृषा॑। तेन॑। आ। र॒भ॒स्व॒। त्वम्। शत्रू॑न्। प्र। मृ॒णी॒हि॒। दु॒र॒स्य॒तः। ३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

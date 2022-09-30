@@ -21,7 +21,7 @@ The Cow hath welcomed sacrifice: the Cow hath held the Sun in place. Together wi
 
 <details><summary>पदपाठः</summary>
 
-वशा। यज्ञम्। प्रति। अगृह्णात्। वशा। सूर्यम्। अधारयत्। वशायाम्। अन्तः। अविशत्। ओदनः। ब्रह्मणा। सह। १०.२५।
+व॒शा। य॒ज्ञम्। प्रति॑। अ॒गृ॒ह्णा॒त्। व॒शा। सूर्य॑म्। अ॒धा॒र॒य॒त्। व॒शाया॑म्। अ॒न्तः। अ॒वि॒श॒त्। ओ॒द॒नः। ब्र॒ह्मणा॑। स॒ह। १०.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

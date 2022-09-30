@@ -23,7 +23,7 @@ The five Sky regions, Goddesses, and the twelve Seasons which are Gods. The teet
 
 <details><summary>पदपाठः</summary>
 
-याः। देवीः। पञ्च। प्रऽदिशः। ये। देवाः। द्वादश। ऋतवः। सम्ऽवत्सरस्य। ये। दंष्ट्रा। ते। नः। सन्तु। सदा। शिवाः। ८.२२।
+याः। दे॒वीः। पञ्च॑। प्र॒ऽदिश॑ः। ये। दे॒वाः। द्वाद॑श। ऋ॒तव॑ः। स॒म्ऽव॒त्स॒रस्य॑। ये। दंष्ट्रा॑। ते। न॒ः। स॒न्तु॒। सदा॑। शि॒वाः। ८.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

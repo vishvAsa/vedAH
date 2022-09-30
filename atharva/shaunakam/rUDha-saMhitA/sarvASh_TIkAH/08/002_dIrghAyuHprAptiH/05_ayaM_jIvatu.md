@@ -21,7 +21,7 @@ Let this man live, let him not die: we raise him, we recover him. I make for him
 
 <details><summary>पदपाठः</summary>
 
-अयम्। जीवतु। मा। मृत। इमम्। सम्। ईरयामसि। कृणोमि। अस्मै। भेषजम्‌। मृत्यो इति। मा। पुरुषम्। वधीः। २.५।
+अ॒यम्। जी॒व॒तु॒। मा। मृ॒त॒। इ॒मम्। सम्। ई॒र॒या॒म॒सि॒। कृ॒णोमि॑। अ॒स्मै॒। भे॒ष॒जम्‌। मृत्यो॒ इति॑। मा। पुरु॑षम्। व॒धी॒ः। २.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

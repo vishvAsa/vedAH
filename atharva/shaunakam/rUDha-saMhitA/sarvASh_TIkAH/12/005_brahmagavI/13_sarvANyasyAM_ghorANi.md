@@ -18,7 +18,7 @@ In her are all horrors and all death.
 
 <details><summary>पदपाठः</summary>
 
-सर्वाणि। अस्याम्। घोराणि। सर्वे। च। मृत्यवः। ७.२।
+सर्वा॑णि। अ॒स्या॒म्। घो॒राणि॑। सर्वे॑। च॒। मृ॒त्यव॑ः। ७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

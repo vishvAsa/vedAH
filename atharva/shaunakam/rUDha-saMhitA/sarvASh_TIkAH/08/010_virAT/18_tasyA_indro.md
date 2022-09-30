@@ -24,7 +24,7 @@ She rose, she came unto the tress: they killed her. A year went by and she again
 
 <details><summary>पदपाठः</summary>
 
-तस्याः। इन्द्रः। वत्सः। आसीत्। गायत्री। अभिऽधानी। अभ्रम्। ऊधः। ११.५।
+तस्या॑ः। इन्द्र॑ः। व॒त्सः। आसी॑त्। गा॒य॒त्री। अ॒भि॒ऽधानी॑। अ॒भ्रम्। ऊध॑ः। ११.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

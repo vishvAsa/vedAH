@@ -19,7 +19,7 @@ The caldron flames round the oblation (charu) whose mouth consists of five openi
 
 <details><summary>पदपाठः</summary>
 
-चरुम्। पञ्चऽबिलम्। उखम्। घर्मः। अभि। इन्धे। ३.१८।
+च॒रुम्। पञ्च॑ऽबिलम्। उ॒खम्। घ॒र्मः। अ॒भि। इ॒न्धे॒। ३.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

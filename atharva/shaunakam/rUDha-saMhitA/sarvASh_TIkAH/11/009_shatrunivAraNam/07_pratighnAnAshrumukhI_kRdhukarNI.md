@@ -29,7 +29,7 @@ Beating her breast, with tearful face, let the short-earned, the wild-haired hag
 
 <details><summary>पदपाठः</summary>
 
-प्रतिऽघ्नाना। अश्रुऽमुखी। कृधुऽकर्णी। च। क्रोशतु। विऽकेशी। पुरुषे। हते। रदिते। अर्बुदे। तव। ११.७।
+प्र॒ति॒ऽघ्ना॒ना। अ॒श्रु॒ऽमु॒खी। कृ॒धु॒ऽक॒र्णी। च॒। क्रो॒श॒तु॒। वि॒ऽके॒शी। पुरु॑षे। ह॒ते। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। ११.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

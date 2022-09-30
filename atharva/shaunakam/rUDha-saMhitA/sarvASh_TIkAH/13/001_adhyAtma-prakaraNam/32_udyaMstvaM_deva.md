@@ -21,7 +21,7 @@ Ascending up on high, O God. O Surya, drive my foes away. Yea, beat them backwar
 
 <details><summary>पदपाठः</summary>
 
-उत्ऽयन्। त्वम्। देव। सूर्य। सऽपत्नान्। अव। मे। जहि। अव। एनान्। अश्मना। जहि। ते। यन्तु। अधमम्। तमः। १.३२।
+उ॒त्ऽयन्। त्वम्। दे॒व॒। सू॒र्य॒। स॒ऽपत्ना॑न्। अव॑। मे॒। ज॒हि॒। अव॑। ए॒ना॒न्। अश्म॑ना। ज॒हि॒। ते॒। य॒न्तु॒। अ॒ध॒मम्। तम॑ः। १.३२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

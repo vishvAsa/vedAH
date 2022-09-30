@@ -23,7 +23,7 @@ This is the remedy against Aghasva and the adder, both: Indra and Paidva have su
 
 <details><summary>पदपाठः</summary>
 
-अघऽअश्वस्य। इदम्। भेषजम्। उभयोः। स्वजस्य। च। इन्द्रः। मे। अहिम्। अघऽयन्तम्। अहिम्। पैद्वः। अरन्धयत्। ४.१०।
+अ॒घ॒ऽअ॒श्वस्य॑। इ॒दम्। भे॒ष॒जम्। उ॒भयो॑ः। स्व॒जस्य॑। च॒। इन्द्र॑ः। मे॒। अहि॑म्। अ॒घ॒ऽयन्त॑म्। अहि॑म्। पै॒द्वः। अ॒र॒न्ध॒य॒त्। ४.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

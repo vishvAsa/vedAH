@@ -19,7 +19,7 @@ The man who hath this knowledge may receive the Cow with. welcoming. So for the 
 
 <details><summary>पदपाठः</summary>
 
-यः। एवम्। विद्यात्। सः। वशाम्। प्रति। गृह्णीयात्। तथा। हि। यज्ञः। सर्वऽपात्। दुहे। दात्रे। अनपऽस्फुरन्। १०.२७।
+यः। ए॒वम्। वि॒द्यात्। सः। व॒शाम्। प्रति॑। गृ॒ह्णी॒या॒त्। तथा॑। हि। य॒ज्ञः। सर्व॑ऽपात्। दु॒हे। दा॒त्रे। अन॑पऽस्फुरन्। १०.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

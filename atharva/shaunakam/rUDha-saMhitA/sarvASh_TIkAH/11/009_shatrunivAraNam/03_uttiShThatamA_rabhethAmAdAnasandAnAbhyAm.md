@@ -22,7 +22,7 @@ Rise both of you: begin your work with fettering and binding. fast, Assail, both
 
 <details><summary>पदपाठः</summary>
 
-उत्। तिष्ठतम्। आ। रभेथाम्। आदानऽसंदानाभ्याम्। अमित्राणाम्। सेनाः। अभि। धत्तम्। अर्बुदे। ११.३।
+उत्। ति॒ष्ठ॒त॒म्। आ। र॒भे॒था॒म्। आ॒दा॒न॒ऽसं॒दा॒नाभ्या॑म्। अ॒मित्रा॑णाम्। सेना॑ः। अ॒भि। ध॒त्त॒म्। अ॒र्बु॒दे॒। ११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

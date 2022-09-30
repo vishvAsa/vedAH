@@ -18,7 +18,7 @@ She sunders all his members, joints, and roots.
 
 <details><summary>पदपाठः</summary>
 
-सर्वा। अस्य। अङ्गा। पर्वा। मूलानि। वृश्चति। ९.४।
+सर्वा॑। अ॒स्य॒। अङ्गा॑। पर्वा॑। मूला॑नि। वृ॒श्च॒ति॒। ९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

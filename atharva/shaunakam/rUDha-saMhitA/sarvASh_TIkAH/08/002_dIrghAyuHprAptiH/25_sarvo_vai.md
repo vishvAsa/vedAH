@@ -22,7 +22,7 @@ Here verily all creatures live, the cow, the horse, the man, the beast, Here whe
 
 <details><summary>पदपाठः</summary>
 
-सर्वः। वै। तत्र। जीवति। गौः। अश्वः। पुरुषः। पशुः। यत्र। इदम्। ब्रह्म। क्रियते। परिऽधिः। जीवनाय। कम्। २.२५।
+सर्व॑ः। वै। तत्र॑। जी॒व॒ति॒। गौः। अश्व॑ः। पुरु॑षः। प॒शु॒ः। यत्र॑। इ॒दम्। ब्रह्म॑। क्रि॒यते॑। प॒रि॒ऽधिः। जीव॑नाय। कम्। २.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Both breaths are rice and barley, and Prana is called the toiling ox: In barley 
 
 <details><summary>पदपाठः</summary>
 
-प्राणापानौ। व्रीहिऽयवौ। अनड्वान्। प्राणः। उच्यते। यवे। ह। प्राणः। आऽहितः। अपानः। व्रीहिः। उच्यते। ६.१३।
+प्रा॒णा॒पा॒नौ। व्री॒हि॒ऽय॒वौ। अ॒न॒ड्वान्। प्रा॒णः। उ॒च्य॒ते॒। यवे॑। ह॒। प्रा॒णः। आऽहि॑तः। अ॒पा॒नः। व्री॒हिः। उ॒च्य॒ते॒। ६.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

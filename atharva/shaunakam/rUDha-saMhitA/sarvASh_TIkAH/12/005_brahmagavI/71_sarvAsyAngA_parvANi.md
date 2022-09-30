@@ -18,7 +18,7 @@ Dislocate all his limbs and joints.
 
 <details><summary>पदपाठः</summary>
 
-सर्वा। अस्य। अङ्गा। पर्वाणि। वि। श्रथय। ११.१०।
+सर्वा॑। अ॒स्य॒। अङ्गा॑। पर्वा॑णि। वि। श्र॒थ॒य॒। ११.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

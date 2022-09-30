@@ -22,7 +22,7 @@ When he summons the door-keeper he gives instruction.
 
 <details><summary>पदपाठः</summary>
 
-यत्। क्षत्तारम्। ह्वयति। आ। श्रावयति। एव। तत्। ११.१।
+यत्। क्ष॒त्तार॑म्। ह्वय॑ति। आ। श्रा॒व॒य॒ति॒। ए॒व। तत्। ११.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

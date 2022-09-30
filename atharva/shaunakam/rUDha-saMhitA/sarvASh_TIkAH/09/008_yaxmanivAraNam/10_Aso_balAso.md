@@ -19,7 +19,7 @@ Let wasting malady turn to dust, become the water of disease. I have evoked the 
 
 <details><summary>पदपाठः</summary>
 
-आसः। बलासः। भवतु। मूत्रम्। भवतु। आमयत्। यक्ष्माणाम्। सर्वेषाम्। विषम्। निः। अवोचम्। अहम्। त्वत्। १३.१०।
+आस॑ः। ब॒लास॑ः। भव॑तु। मूत्र॑म्। भ॒व॒तु॒। आ॒मय॑त्। यक्ष्मा॑णाम्। सर्वे॑षाम्। वि॒षम्। निः। अ॒वो॒च॒म्। अ॒हम्। त्वत्। १३.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -49,7 +49,7 @@ of our hymns 1-3, plus 6 *paryāyas* of our hymn 4) and the verses as
 
 <details><summary>पदपाठः</summary>
 
-अन्नऽअद्येन। यशसा। तेजसा। ब्राह्मणऽवर्चसेन। ९.५।
+अ॒न्न॒ऽअद्ये॑न। यश॑सा। तेज॑सा। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सेन॑। ९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
