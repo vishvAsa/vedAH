@@ -18,12 +18,12 @@ All hail to Heaven!
 
 <details><summary>पदपाठः</summary>
 
-दिवे। स्वाहा। ९.१।
+दि॒वे। स्वाहा॑। ९.१। 
 </details>
 
 <details><summary>पदपाठः</summary>
 
-दिवे। स्वाहा। ९.१।
+दि॒वे। स्वाहा॑। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -33,3 +33,4 @@ All hail to Heaven!
 - दैवी बृहती
 - आत्मा सूक्त
 </details>
+

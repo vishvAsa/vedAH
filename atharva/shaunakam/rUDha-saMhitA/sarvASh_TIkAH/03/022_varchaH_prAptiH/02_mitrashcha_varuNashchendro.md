@@ -28,7 +28,7 @@ On this have Mitra, Varuna, Indra, and Rudra fixed their thought. May those all-
 
 <details><summary>पदपाठः</summary>
 
-मित्रः। च। वरुणः। च। इन्द्रः। रुद्रः। च। चेततु। देवासः। विश्वऽधायसः। ते। मा। अञ्जन्तु। वर्चसा। २२.२।
+मि॒त्रः। च॒। वरु॑णः। च॒। इन्द्र॑ः। रु॒द्रः। च॒। चे॒त॒तु॒। दे॒वास॑ः। वि॒श्वऽधा॑यसः। ते। मा॒। अ॒ञ्ज॒न्तु॒। वर्च॑सा। २२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

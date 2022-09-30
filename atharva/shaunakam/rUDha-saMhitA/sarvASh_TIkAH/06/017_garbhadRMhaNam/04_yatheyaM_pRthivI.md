@@ -19,12 +19,12 @@ Even as this mighty Earth supports the moving world that dwells thereon, So may 
 
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.४।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भ॑ः। अनु॑। सूतु॑म्। सवि॑तवे। १७.४। 
 </details>
 
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। दाधार। विऽस्थितम्। जगत्। एव। ते। ध्रियताम्। गर्भः। अनु। सूतुम्। सवितवे। १७.४।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। दा॒धार॑। विऽस्थि॑तम्। जग॑त्। ए॒व। ते॒। ध्रि॒य॒ता॒म्। गर्भ॑ः। अनु॑। सूतु॑म्। सवि॑तवे। १७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -34,3 +34,4 @@ Even as this mighty Earth supports the moving world that dwells thereon, So may 
 - अनुष्टुप्
 - गर्भदृंहण सूक्त
 </details>
+

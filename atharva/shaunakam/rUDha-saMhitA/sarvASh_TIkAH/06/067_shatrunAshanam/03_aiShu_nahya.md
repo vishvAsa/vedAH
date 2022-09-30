@@ -30,7 +30,7 @@ Gird thou a bullock's hide on these, make those as timid as the deer. Let the fo
 
 <details><summary>पदपाठः</summary>
 
-आ। एषु। नह्य। वृषा। अजिनम्। हरिणस्य। भियम्। कृधि। पराङ्। अमित्रः। एषतु। अर्वाची। गौः। उप। एषतु। ६७.३।
+आ। ए॒षु॒। न॒ह्य॒। वृषा॑। अ॒जिन॑म्। ह॒रि॒णस्य॑। भिय॑म्। कृ॒धि॒। परा॑ङ्। अ॒मित्र॑ः। एष॑तु। अ॒र्वाची॑। गौः। उप॑। ए॒ष॒तु॒। ६७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ We with the speech of Indra and of Mitra and of Varuna. We with the speech of al
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। वचसा। वयम्। मित्रस्य। वरुणस्य। च। देवानाम्। सर्वेषाम्। वाचा। यक्ष्मम्। ते। वारयामहे। ८५.२।
+इन्द्र॑स्य। वच॑सा। व॒यम्। मि॒त्रस्य॑। वरु॑णस्य। च॒। दे॒वाना॑म्। सर्वे॑षाम्। वा॒चा। यक्ष्म॑म्। ते॒। वा॒र॒या॒म॒हे॒। ८५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

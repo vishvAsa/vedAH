@@ -27,7 +27,7 @@ That little spring of water which is running downward from the hill I turn to he
 
 <details><summary>पदपाठः</summary>
 
-अदः। यत्। अवऽधावति। अवत्ऽकम्। अधि। पर्वतात्। तत्। ते। कृणोमि। भेषजम्। सुऽभेषजम्। यथा। अससि। ३.१।
+अ॒दः। यत्। अ॒व॒ऽधाव॑ति। अ॒व॒त्ऽकम्। अधि॑। पर्व॑तात्। तत्। ते॒। कृ॒णो॒मि॒। भे॒ष॒जम्। सुऽभे॑षजम्। यथा॑। अस॑सि। ३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

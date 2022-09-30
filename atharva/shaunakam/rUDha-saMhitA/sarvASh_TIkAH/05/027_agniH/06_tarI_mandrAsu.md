@@ -15,7 +15,7 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 
 <details><summary>पदपाठः</summary>
 
-तरी। मन्द्रासु। प्रऽयक्षु। वसवः। च। अतिष्ठन्। वसुऽधातरः। च। २७.६।
+त॒री। म॒न्द्रासु॑। प्र॒ऽयक्षु॑। वस॑वः। च॒। अति॑ष्ठन्। व॒सु॒ऽधात॑रः। च॒। २७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

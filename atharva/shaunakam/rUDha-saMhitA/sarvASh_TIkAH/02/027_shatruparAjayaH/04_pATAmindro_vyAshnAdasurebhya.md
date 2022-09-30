@@ -34,7 +34,7 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 
 <details><summary>पदपाठः</summary>
 
-पाटाम्। इन्द्रः। वि। आश्नात्। असुरेभ्यः। स्तरीतवे। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.४।
+पा॒टाम्। इन्द्र॑ः। वि। आ॒श्ना॒त्। असु॑रेभ्यः। स्तरी॑तवे। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

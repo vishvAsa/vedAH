@@ -20,7 +20,7 @@ Here Aditi is come--All hail!--preparing the rite with grass and lustral waters.
 
 <details><summary>पदपाठः</summary>
 
-आ। इयम्। अगन्। बर्हिषा। प्रऽउक्षणीभिः। यज्ञम्। तन्वाना। अदितिः। स्वाहा। २६.६।
+आ। इ॒यम्। अ॒ग॒न्। ब॒र्हिषा॑। प्र॒ऽउक्ष॑णीभिः। य॒ज्ञम्। त॒न्वा॒ना। अदि॑तिः। स्वाहा॑। २६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

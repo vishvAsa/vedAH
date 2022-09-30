@@ -26,7 +26,7 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 
 <details><summary>पदपाठः</summary>
 
-परि। इमे। अग्निम्। अर्षत। परि। इमे। गाम्। अनेषत। देवेषु। अक्रत। श्रवः। कः। इमान्। आ। दधर्षति। २८.२।
+परि॑। इ॒मे। अ॒ग्निम्। अ॒र्ष॒त॒। परि॑। इ॒मे। गाम्। अ॒ने॒ष॒त॒। दे॒वेषु॑। अ॒क्र॒त॒। श्रव॑ः। कः। इ॒मान्। आ। द॒ध॒र्ष॒ति॒। २८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

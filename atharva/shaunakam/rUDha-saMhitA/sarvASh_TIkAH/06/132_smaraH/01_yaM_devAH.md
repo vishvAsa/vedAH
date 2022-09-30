@@ -20,7 +20,7 @@ The Philter, burning with the pangs of yearning love, which Gods have poured wit
 
 <details><summary>पदपाठः</summary>
 
-यम्। देवाः। स्मरम्। असिञ्चन्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.१।
+यम्। दे॒वाः। स्म॒रम्। असि॑ञ्चन्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

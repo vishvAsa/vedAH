@@ -32,7 +32,7 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 
 <details><summary>पदपाठः</summary>
 
-पिप्पली। क्षिप्तऽभेषजी। उत। अतिविध्दऽभेषजी। ताम्। देवाः। सम्। अकल्पयन्। इयम्। जीवितवै। अलम्। १०९.१।
+पि॒प्प॒ली। क्षि॒प्त॒ऽभे॒ष॒जी। उ॒त। अ॒ति॒वि॒ध्द॒ऽभे॒ष॒जी। ताम्। दे॒वाः। सम्। अ॒क॒ल्प॒य॒न्। इ॒यम्। जीवि॑त॒वै। अल॑म्। १०९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

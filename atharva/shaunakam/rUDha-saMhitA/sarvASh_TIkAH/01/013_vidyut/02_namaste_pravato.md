@@ -26,7 +26,7 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 
 <details><summary>पदपाठः</summary>
 
-नमः। ते। प्रऽवतः। नपात्। यतः। तपः। सम्ऽऊहसि। मृडय। नः। तनूभ्यः। मयः। तोकेभ्यः। कृधि।
+नम॑ः। ते॒। प्र॒ऽव॒त॒ः। न॒पा॒त्। यत॑ः। तप॑ः। स॒म्ऽऊह॑सि। मृडय॑। न॒ः। त॒नूभ्य॑ः। मय॑ः। तो॒केभ्य॑ः। कृ॒धि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -18,12 +18,12 @@ All hail to Earth!
 
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। स्वाहा। ९.२।
+पृ॒थि॒व्यै। स्वाहा॑। ९.२। 
 </details>
 
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। स्वाहा। ९.२।
+पृ॒थि॒व्यै। स्वाहा॑। ९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -33,3 +33,4 @@ All hail to Earth!
 - दैवी त्रिष्टुप्
 - आत्मा सूक्त
 </details>
+

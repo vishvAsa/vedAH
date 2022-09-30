@@ -28,7 +28,7 @@ Endowed with universal power! send Fever down-ward, far away, The spotty, like r
 
 <details><summary>पदपाठः</summary>
 
-यः। परुषः। पारुषेयः। अवध्वंसःऽइव। अरुणः। तक्मानम्। विश्वधाऽवीर्य। अधराञ्चम्। परा। सुव। २२.३।
+यः। प॒रु॒षः। पा॒रु॒षे॒यः। अ॒व॒ध्वं॒सःऽइ॑व। अ॒रु॒णः। त॒क्मान॑म्। वि॒श्व॒धा॒ऽवी॒र्य॒। अ॒ध॒राञ्च॑म्। परा॑। सु॒व॒। २२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

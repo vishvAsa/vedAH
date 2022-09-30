@@ -31,7 +31,7 @@ Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee an
 
 <details><summary>पदपाठः</summary>
 
-सत्यऽजितम्। शपथऽयावनीम्। सहमानम्। पुनःऽसराम्। सर्वाः। सम्। अह्वि। ओषधीः। इतः। नः। पारयात्। इति। १७.२।
+स॒त्य॒ऽजित॑म्। श॒प॒थ॒ऽयाव॑नीम्। सह॑मानम्। पु॒न॒ःऽस॒राम्। सर्वा॑ः। सम्। अ॒ह्वि॒। ओष॑धीः। इ॒तः। न॒ः। पा॒र॒या॒त्। इति॑। १७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -36,7 +36,7 @@ With Seasons and with Lengths of Time, for vigour and exten- ded life, With all 
 
 <details><summary>पदपाठः</summary>
 
-ऋतुऽभिः। त्वा। आर्तवैः। आयुषे। वर्चसे। त्वा। सम्ऽवत्सरस्य। तेजसा। तेन। सम्ऽहनु। कृण्मसि। २८.१३।
+ऋ॒तुऽभि॑ः। त्वा॒। आ॒र्त॒वैः। आयु॑षे। वर्च॑से। त्वा॒। स॒म्ऽव॒त्स॒रस्य॑। तेज॑सा। तेन॑। सम्ऽह॑नु। कृ॒ण्म॒सि॒। २८.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 
 <details><summary>पदपाठः</summary>
 
-यः। च। सापत्नः। शपथः। जाम्याः। शपथः। च। यः। ब्रह्मा। यत्। मन्युतः। शपात्। सर्वम्। तत्। नः। अधःऽपदम्। ७.२।
+यः। च॒। सा॒प॒त्नः। श॒पथ॑ः। जा॒म्याः। श॒पथ॑ः। च॒। यः। ब्र॒ह्मा। यत्। म॒न्यु॒तः। शपा॑त्। सर्व॑म्। तत्। न॒ः। अ॒ध॒ःऽप॒दम्। ७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

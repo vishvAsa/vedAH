@@ -25,7 +25,7 @@ Thou, weapon of the Rishis, art adored and served with sacrifice. First tasting 
 
 <details><summary>पदपाठः</summary>
 
-आऽहुता। असि। अभिऽहुता। ऋषीणाम्। असि। आयुधम्। पूर्वा। व्रतस्य। प्रऽअश्नती। वीरऽघ्नी। भव। मेखले। १३३.२।
+आऽहु॑ता। अ॒सि॒। अ॒भिऽहु॑ता। ऋषी॑णाम्। अ॒सि॒। आयु॑धम्। पूर्वा॑। व्र॒तस्य॑। प्र॒ऽअ॒श्न॒ती। वी॒र॒ऽघ्नी। भ॒व॒। मे॒ख॒ले॒। १३३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ All Rivers who have Sindhu for your Lady, Sindhu for your Queen, Give us the bal
 
 <details><summary>पदपाठः</summary>
 
-सिन्धुऽपत्नीः। सिन्धुऽराज्ञीः। सर्वाः। याः। नद्यः᳡। स्थन। दत्त। नः। तस्य। भेषजम्। तेन। वः। भुनजामहै। २४.३।
+सिन्धु॑ऽपत्नीः। सिन्धु॑ऽराज्ञीः। सर्वा॑ः। याः। न॒द्य᳡ः। स्थन॑। द॒त्त। न॒ः। तस्य॑। भे॒ष॒जम्। तेन॑। व॒ः। भु॒न॒जा॒म॒है॒। २४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

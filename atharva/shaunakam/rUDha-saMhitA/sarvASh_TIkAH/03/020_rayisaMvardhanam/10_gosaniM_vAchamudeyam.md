@@ -25,7 +25,7 @@ May speech that winneth cows be mine. With splendour mount thou over me. May Vay
 
 <details><summary>पदपाठः</summary>
 
-गोऽसनिम्। वाचम्। उदेयम्। वर्चसा। मा। अभिऽउदिहि। आ। रुन्धाम्। सर्वतः। वायुः। त्वष्टा। पोषम्। दधातु। मे। २०.१०।
+गो॒ऽसनि॑म्। वाच॑म्। उ॒दे॒य॒म्। वर्च॑सा। मा॒। अ॒भि॒ऽउदि॑हि। आ। रु॒न्धा॒म्। स॒र्वत॑ः। वा॒युः। त्वष्टा॑। पोष॑म्। द॒धा॒तु॒। मे॒। २०.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

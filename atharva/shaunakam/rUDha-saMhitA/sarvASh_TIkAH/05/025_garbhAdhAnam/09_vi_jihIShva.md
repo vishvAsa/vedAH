@@ -27,7 +27,7 @@ Prepare thee, Barhatsama, let the germ be laid within thy side. The Soma-drinkin
 
 <details><summary>पदपाठः</summary>
 
-वि। जिहीष्व। बार्हत्ऽसामे। गर्भः। ते। योनिम्। आ। शयाम्। अदुः। ते। देवाः। पुत्रम्। सोमऽपाः। उभयाविनम्। २५.९।
+वि। जि॒ही॒ष्व॒। बा॒र्ह॒त्ऽसा॒मे॒। गर्भ॑ः। ते॒। योनि॑म्। आ। श॒या॒म्। अदु॑ः। ते॒। दे॒वाः। पु॒त्रम्। सो॒म॒ऽपाः। उ॒भ॒या॒विन॑म्। २५.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 
 <details><summary>पदपाठः</summary>
 
-पञ्चऽअपूपम्। शितिऽपादम्। अविम्। लोकेन। सम्ऽमितम्। प्रऽदाता। उप। जीवति। पितृणाम्। लोके। अक्षितम्। २९.४।
+पञ्च॑ऽअपूपम्। शि॒ति॒ऽपाद॑म्। अवि॑म्। लो॒केन॑। सम्ऽमि॑तम्। प्र॒ऽदा॒ता। उप॑। जी॒व॒ति॒। पि॒तृ॒णाम्। लो॒के। अक्षि॑तम्। २९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

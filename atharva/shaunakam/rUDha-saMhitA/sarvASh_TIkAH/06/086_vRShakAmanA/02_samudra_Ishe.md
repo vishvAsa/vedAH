@@ -21,7 +21,7 @@ The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent o
 
 <details><summary>पदपाठः</summary>
 
-समुद्रः। ईशे। स्रवताम्। अग्निः। पृथिव्याः। वशी। चन्द्रमाः। नक्षत्राणाम्। ईशे। त्वम्। एकऽवृषः। भव। ८६.२।
+स॒मु॒द्रः। ई॒शे॒। स्र॒वता॑म्। अ॒ग्निः। पृ॒थि॒व्याः। व॒शी। च॒न्द्रमा॑ः। नक्ष॑त्राणाम्। ई॒शे॒। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

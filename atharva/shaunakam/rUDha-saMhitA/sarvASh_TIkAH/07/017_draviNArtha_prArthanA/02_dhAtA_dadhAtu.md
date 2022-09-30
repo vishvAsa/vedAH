@@ -28,7 +28,7 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 
 <details><summary>पदपाठः</summary>
 
-धाता। दधातु। दाशुषे। प्राचीम्। जीवातुम्। अक्षिताम्। वयम्। देवस्य। धीमहि। सुऽमतिम्। विश्वऽराधसः। १८.२।
+धा॒ता। द॒धा॒तु॒। दा॒शुषे॑। प्राची॑म्। जी॒वातु॑म्। अक्षि॑ताम्। व॒यम्। दे॒वस्य॑। धी॒म॒हि॒। सु॒ऽम॒तिम्। वि॒श्वऽरा॑धसः। १८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

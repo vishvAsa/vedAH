@@ -18,7 +18,7 @@ The Philter, burning with the pangs of longing, which Indrani hath effused withi
 
 <details><summary>पदपाठः</summary>
 
-यम्। इन्द्राणी। स्मरम्। असिञ्चत्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.३।
+यम्। इ॒न्द्रा॒णी। स्म॒रम्। असि॑ञ्चत्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

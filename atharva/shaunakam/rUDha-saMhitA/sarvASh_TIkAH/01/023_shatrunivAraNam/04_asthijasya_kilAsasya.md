@@ -22,7 +22,7 @@ I with my spell have chased away the pallid sign of leprosy, Caused by infection
 
 <details><summary>पदपाठः</summary>
 
-अस्थिऽजस्य। किलासस्य। तनूऽजस्य। च। यत्। त्वचि। दूप्या। कृतस्य। ब्रह्मणा। लक्ष्म। श्वेतम्। अनीनशम्।
+अ॒स्थि॒ऽजस्य॑। कि॒लास॑स्य। त॒नू॒ऽजस्य॑। च॒। यत्। त्व॒चि। दूप्या॑। कृ॒तस्य॑। ब्रह्म॑णा। लक्ष्म॑। श्वे॒तम्। अ॒नी॒न॒श॒म्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ To all the quarters of the sky let clang of bowstrings and our Drums. Cry out to
 
 <details><summary>पदपाठः</summary>
 
-ज्याऽघोषाः। दुन्दुभयः। अभि। क्रोशन्तु। याः। दिशः। सेनाः। पराऽजिताः। यतीः। अमित्राणाम्। अनीकऽशः। २१.९।
+ज्या॒ऽघो॒षाः। दु॒न्दु॒भय॑ः। अ॒भि। क्रो॒श॒न्तु॒। याः। दिश॑ः। सेना॑ः। परा॑ऽजिताः। य॒तीः। अ॒मित्रा॑णाम्। अ॒नी॒क॒ऽशः। २१.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

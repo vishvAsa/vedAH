@@ -44,7 +44,7 @@ Look ye on Vishnu's works, whereby the friend of Indra, close- allied, Hath let 
 
 <details><summary>पदपाठः</summary>
 
-विष्णोः। कर्माणि। पश्यत। यतः। व्रतानि। पस्पशे। इन्द्रस्य। युज्यः। सखा। २७.६।
+विष्णो॑ः। कर्मा॑णि। प॒श्य॒त॒। यत॑ः। व्र॒तानि॑। प॒स्प॒शे। इन्द्र॑स्य। युज्य॑ः। सखा॑। २७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

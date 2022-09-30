@@ -21,7 +21,7 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 
 <details><summary>पदपाठः</summary>
 
-वि। आर्त्या। पवमानः। वि। शक्रः। पापऽकृत्यया। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.२।
+वि। आर्त्या॑। पव॑मानः। वि। श॒क्रः। पा॒प॒ऽकृ॒त्यया॑। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

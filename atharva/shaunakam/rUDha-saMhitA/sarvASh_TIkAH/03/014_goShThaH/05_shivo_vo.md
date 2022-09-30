@@ -35,7 +35,7 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 
 <details><summary>पदपाठः</summary>
 
-शिवः। वः। गोऽस्थः। भवतु। शारिशाकाऽइव। पुष्यत। इह। एव। उत। प्र। जायध्वम्। मया। वः। सम्। सृजामसि। १४.५।
+शि॒वः। व॒ः। गो॒ऽस्थः। भ॒व॒तु॒। शा॒रि॒शाका॑ऽइव। पु॒ष्य॒त॒। इ॒ह। ए॒व। उ॒त। प्र। जा॒य॒ध्व॒म्। मया॑। व॒ः। सम्। सृ॒जा॒म॒सि॒। १४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

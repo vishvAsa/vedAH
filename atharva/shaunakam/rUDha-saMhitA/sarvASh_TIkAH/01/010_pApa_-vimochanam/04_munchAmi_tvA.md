@@ -27,7 +27,7 @@ I free thee from Vaisvanara, from the great surging flood of sin. Call thou thy 
 
 <details><summary>पदपाठः</summary>
 
-मुञ्चामि। त्वा। वैश्वानरात्। अर्णवात्। महतः। परि। सऽजातान्। उग्र। इह। आ। वद। ब्रह्म। च। अप। चिकीहि। नः।
+मु॒ञ्चामि॑। त्वा॒। वै॒श्वा॒न॒रात्। अ॒र्ण॒वात्। म॒ह॒तः। परि॑। स॒ऽजा॒तान्। उ॒ग्र॒। इ॒ह। आ। व॒द॒। ब्रह्म॑। च॒। अप॑। चि॒की॒हि॒। न॒ः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

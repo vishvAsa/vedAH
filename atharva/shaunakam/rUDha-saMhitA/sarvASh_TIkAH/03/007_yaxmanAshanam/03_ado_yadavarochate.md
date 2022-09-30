@@ -31,7 +31,7 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 
 <details><summary>पदपाठः</summary>
 
-अदः। यत्। अवऽरोचते। चतुष्पक्षम्ऽइव। छदिः। तेन। ते। सर्वम्। क्षेत्रियम्। अङ्गेभ्यः। नाशयामसि। ७.३।
+अ॒दः। यत्। अ॒व॒ऽरोच॑ते। चतु॑ष्पक्षम्ऽइव। छ॒दिः। तेन॑। ते॒। सर्व॑म्। क्षे॒त्रि॒यम्। अङ्गे॑भ्यः। ना॒श॒या॒म॒सि॒। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -32,7 +32,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 
 <details><summary>पदपाठः</summary>
 
-हिरण्ययी। नौः। अचरत्। हिरण्यऽबन्धना। दिवि। तत्र। अमृतस्य। पुष्पम्। देवाः। कुष्ठम्। अवन्वत। ४.४।
+हि॒र॒ण्ययी॑। नौः। अ॒च॒र॒त्। हिर॑ण्यऽबन्धना। दि॒वि। तत्र॑। अ॒मृत॑स्य। पुष्प॑म्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 
 <details><summary>पदपाठः</summary>
 
-दर्शय। मा। यातुऽधानान्। दर्शय। यातुऽधान्यः᳡। पिशाचान्। सर्वान्। दर्शय। इति। त्वा। आ। रभे। ओषधे। २०.६।
+द॒र्शय॑। मा॒। या॒तु॒ऽधाना॑न्। द॒र्शय॑। या॒तु॒ऽधा॒न्य᳡ः। पि॒शा॒चान्। सर्वा॑न्। द॒र्श॒य॒। इति॑। त्वा॒। आ। र॒भे॒। ओ॒ष॒धे॒। २०.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

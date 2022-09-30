@@ -21,7 +21,7 @@ The Brahman's cow is like a snake, charged with due poison, clothed with skin. R
 
 <details><summary>पदपाठः</summary>
 
-आऽविष्टिता। अघऽविषा। पृदाकूःऽइव। चर्मणा। सा। ब्राह्मणस्य। राजन्य। तुष्टा। एषा। गौः। अनाद्या। १८.३।
+आऽवि॑ष्टिता। अ॒घऽवि॑षा। पृ॒दा॒कूःऽइ॑व। चर्म॑णा। सा। ब्रा॒ह्म॒णस्य॑। रा॒ज॒न्य॒। तु॒ष्टा। ए॒षा। गौः। अ॒ना॒द्या। १८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

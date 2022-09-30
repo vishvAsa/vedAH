@@ -24,7 +24,7 @@ We stay disease and indigence, and chase Sadanvas with the Shell. May the all-he
 
 <details><summary>पदपाठः</summary>
 
-शङ्खेन। अमीवाम्। अमतिम्। शङ्खेन। उत। सदान्वाः। शङ्खः। नः। विश्वऽभेषजः। कृशनः। पातु। अंहसः। १०.३।
+श॒ङ्खेन॑। अमी॑वाम्। अम॑तिम्। श॒ङ्खेन॑। उ॒त। स॒दान्वा॑ः। श॒ङ्खः। न॒ः। वि॒श्वऽभे॑षजः। कृश॑नः। पा॒तु॒। अंह॑सः। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

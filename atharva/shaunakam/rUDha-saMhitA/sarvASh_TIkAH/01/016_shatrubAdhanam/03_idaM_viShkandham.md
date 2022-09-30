@@ -28,7 +28,7 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 
 <details><summary>पदपाठः</summary>
 
-इदम्। विऽस्कन्धम्। सहते। इदम्। बाधते। अत्त्रिणः। अनेन। विश्वा। ससहे। या। जातानि। पिशाच्याः।
+इ॒दम्। विऽस्क॑न्धम्। स॒ह॒ते॒। इ॒दम्। बा॒ध॒ते॒। अ॒त्त्रिण॑ः। अ॒नेन॑। विश्वा॑। स॒स॒हे॒। या। जा॒तानि॑। पि॒शा॒च्याः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

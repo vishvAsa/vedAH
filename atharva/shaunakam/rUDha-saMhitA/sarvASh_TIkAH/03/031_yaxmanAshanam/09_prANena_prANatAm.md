@@ -22,7 +22,7 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 
 <details><summary>पदपाठः</summary>
 
-प्राणेन। प्राणताम्। प्र। अन। इह। एव। भव। मा। मृथाः। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.९।
+प्रा॒णेन॑। प्रा॒ण॒ताम्। प्र। अ॒न॒। इ॒ह। ए॒व। भ॒व॒। मा। मृ॒था॒ः। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

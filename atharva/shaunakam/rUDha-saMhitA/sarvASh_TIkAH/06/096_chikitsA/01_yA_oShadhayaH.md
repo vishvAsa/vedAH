@@ -27,7 +27,7 @@ The many plants of hundred shapes and forms that Soma rules as King, Commanded b
 
 <details><summary>पदपाठः</summary>
 
-याः। ओषधयः। सोमऽराज्ञीः। बह्वीः। शतऽविचक्षणाः। बृहस्पतिऽप्रसूताः। ताः। नः। मुञ्चन्तु। अंहसः। ९६.१।
+याः। ओष॑धयः। सोम॑ऽराज्ञीः। ब॒ह्वीः। श॒तऽवि॑चक्षणाः। बृह॒स्पति॑ऽप्रसूताः। ताः। न॒ः। मु॒ञ्च॒न्तु॒। अंह॑सः। ९६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Power art thou, give me power. All hail!
 
 <details><summary>पदपाठः</summary>
 
-ओजः। असि। ओजः। मे। दाः। स्वाहा। १७.१।
+ओज॑ः। अ॒सि॒। ओज॑ः। मे॒। दा॒ः। स्वाहा॑। १७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

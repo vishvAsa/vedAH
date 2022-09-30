@@ -23,7 +23,7 @@ One-coloured, is thy mother's name, One-coloured is thy father called: One-colou
 
 <details><summary>पदपाठः</summary>
 
-सऽरूपा। नाम। ते। माता। सऽरूपः। नाम। ते। पिता। सरूपऽकृत्। त्वम्। ओषधे। सा। सऽरूपम्। इदम्। कृधि।
+सऽरू॑पा। नाम॑। ते॒। मा॒ता। सऽरू॑पः। नाम॑। ते॒। पि॒ता। स॒रू॒प॒ऽकृत्। त्वम्। ओ॒ष॒धे॒। सा। सऽरू॑पम्। इ॒दम्। कृ॒धि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Present the sacrifice to her, to Sinivali, Queen of men, Beauti- ful-fingered, l
 
 <details><summary>पदपाठः</summary>
 
-या। सुऽबाहुः। सुऽअङ्गुरिः। सुऽसूमा। बहुऽसूवरी। तस्यै। विश्पत्न्यै। हविः। सिनीवाल्यै। जुहोतन। ४८.२।
+या। सु॒ऽबा॒हुः। सु॒ऽअ॒ङ्गु॒रिः। सु॒ऽसूमा॑। ब॒हु॒ऽसूव॑री। तस्यै॑। वि॒श्पत्न्यै॑। ह॒विः। सि॒नी॒वा॒ल्यै। जु॒हो॒त॒न॒। ४८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ following verse, thus ⌊making 83 a *tṛca* and 84 a *caturṛca*.⌋ ⌊An
 
 <details><summary>पदपाठः</summary>
 
-वीहि। स्वाम्। आऽहुतिम्। जुषाणः। मनसा। स्वाहा। मनसा। यत्। इदम्। जुहोमि। ८३.४।
+वी॒हि। स्वाम्। आऽहु॑तिम्। जु॒षा॒णः। मन॑सा। स्वाहा॑। मन॑सा। यत्। इ॒दम्। जु॒होमि॑। ८३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

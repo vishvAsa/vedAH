@@ -25,7 +25,7 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 
 <details><summary>पदपाठः</summary>
 
-यत्। अग्ने। तपसा। तपः। उपऽतप्यामहे। तपः। प्रियाः। श्रुतस्य। भूयास्म। आयुष्मन्तः। सुऽमेधसः। ६३.१।
+यत्। अ॒ग्ने॒। तप॑सा। तप॑ः। उ॒प॒ऽत॒प्याम॑हे। तप॑ः। प्रि॒याः। श्रु॒तस्य॑। भू॒या॒स्म॒। आयु॑ष्मन्तः। सु॒ऽमे॒धस॑ः। ६३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

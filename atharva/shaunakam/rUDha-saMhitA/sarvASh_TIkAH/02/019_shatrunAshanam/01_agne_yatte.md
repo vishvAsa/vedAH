@@ -21,7 +21,7 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। तपः। तेन। तम्। प्रति। तप। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.१।
+अग्ने॑। यत्। ते॒। तप॑ः। तेन॑। तम्। प्रति॑। त॒प॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

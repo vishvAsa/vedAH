@@ -25,7 +25,7 @@ Your wives are the Apsarases, and ye, Gandharvas, are their lords. Run ye, immor
 
 <details><summary>पदपाठः</summary>
 
-जायाः। इत्। वः। अप्सरसः। गन्धर्वाः। पतयः। यूयम्। अप। धावत। अमर्त्याः। मर्त्यान्। मा। सचध्वम्। ३७.१२।
+जा॒याः। इत्। व॒ः। अ॒प्स॒रस॑ः। गन्ध॑र्वाः। पत॑यः। यू॒यम्। अप॑। धा॒व॒त॒। अ॒म॒र्त्या॒ः। मर्त्या॑न्। मा। स॒च॒ध्व॒म्। ३७.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Let not the piercers find us, nor let those who wound discover us. O Indra, make
 
 <details><summary>पदपाठः</summary>
 
-मा। नः। विदन्। विऽव्याधिनः। मो इति। अभिऽव्याधिनः। विदन्। आरात्। शरव्याः। अस्मत्। विषूचीः। इन्द्र। पातय।
+मा। न॒ः। वि॒द॒न्। वि॒ऽव्या॒धिन॑ः। मो इति॑। अ॒भि॒ऽव्या॒धिन॑ः। वि॒द॒न्। आ॒रात्। श॒र॒व्याः। अ॒स्मत्। विषू॑चीः। इ॒न्द्र॒। पा॒त॒य॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

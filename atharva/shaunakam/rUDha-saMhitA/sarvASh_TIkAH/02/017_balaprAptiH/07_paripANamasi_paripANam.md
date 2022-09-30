@@ -23,7 +23,7 @@ Shield art thou, shield me well. All hail
 
 <details><summary>पदपाठः</summary>
 
-परिऽपानम्। असि। परिऽपानम्। मे। दाः। स्वाहा। १७.७।
+प॒रि॒ऽपान॑म्। अ॒सि॒। प॒रि॒ऽपान॑म्। मे॒। दा॒ः। स्वाहा॑। १७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 
 <details><summary>पदपाठः</summary>
 
-त᳡ देव॒यज॑निरश्चिऽराजेः। असितात्। पृदाकोः। परि। सम्ऽभृतम्। तत्। कङ्कपर्वणः। विषम्। इयम्। वीरुत्। अनीनशत्। ५८.१।
+त‍िर॑श्चिऽराजेः। अ॒सि॒तात्। पृदा॑कोः। परि॑। सम्ऽभृ॑तम्। तत्। क॒ङ्कप॑र्वणः। वि॒षम्। इ॒यम्। वी॒रुत्। अ॒नी॒न॒श॒त्। ५८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

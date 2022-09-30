@@ -29,7 +29,7 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 
 <details><summary>पदपाठः</summary>
 
-न। आऽधृषे। आ। दधृषते। धृषाणः। धृषितः। शवः। पुरा। यथा। व्यथिः। श्रवः। इन्द्रस्य। न। आऽधृषे। शवः। ३३.२।
+न। आ॒ऽधृ॒षे॒। आ। द॒धृ॒ष॒ते॒। धृ॒षा॒णः। धृ॒षि॒तः। शव॑ः। पु॒रा। यथा॑। व्य॒थिः। श्रव॑ः। इन्द्र॑स्य। न। आ॒ऽधृ॒षे॒। शव॑ः। ३३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 
 <details><summary>पदपाठः</summary>
 
-श्येनः। असि। गायत्रऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.१।
+श्ये॒नः। अ॒सि॒। गा॒य॒त्रऽछ॑न्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

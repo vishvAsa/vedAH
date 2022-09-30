@@ -22,7 +22,7 @@ Two tigers have grown up who long to eat the mother and the sire: Soothe, Brahma
 
 <details><summary>पदपाठः</summary>
 
-यौ। व्याघ्रौ। अवऽरूढौ। जिघत्सतः। पितरम्। मातरम्। च। तौ। दन्तौ। ब्रह्मणः। पते। शिवौ। कृणु। जातऽवेदः। १४०.१।
+यौ। व्या॒घ्रौ। अव॑ऽरूढौ। जिघ॑त्सतः। पि॒तर॑म्। मा॒तर॑म्। च॒। तौ। दन्तौ॑। ब्र॒ह्म॒ण॒ः। प॒ते॒। शि॒वौ। कृ॒णु॒। जा॒त॒ऽवे॒द॒ः। १४०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

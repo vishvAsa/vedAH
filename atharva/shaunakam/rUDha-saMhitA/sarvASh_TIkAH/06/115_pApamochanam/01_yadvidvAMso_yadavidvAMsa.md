@@ -24,7 +24,7 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 
 <details><summary>पदपाठः</summary>
 
-यत्। विद्वांसः। यत्। अविद्वांसः। एनांसि। चकृम। वयम्। यूयम्। नः। तस्मात्। मुञ्चत। विश्वे। देवाः। सऽजोषसः। ११५.१।
+यत्। वि॒द्वांस॑ः। यत्। अवि॑द्वांसः। एनां॑सि। च॒कृ॒म। व॒यम्। यू॒यम्। न॒ः। तस्मा॑त्। मु॒ञ्च॒त॒। विश्वे॑। दे॒वा॒ः। स॒ऽजो॒ष॒स॒ः। ११५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

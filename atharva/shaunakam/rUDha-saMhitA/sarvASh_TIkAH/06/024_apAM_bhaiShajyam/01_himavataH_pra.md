@@ -25,7 +25,7 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 
 <details><summary>पदपाठः</summary>
 
-हिमऽवतः। प्र। स्रवन्ति। सिन्धौ। समह। सम्ऽगमः। आपः। ह। मह्यम्। तत्। देवीः। ददन्। हृद्द्योतऽभेषजम्। २४.१।
+हि॒मऽव॑तः। प्र। स्र॒व॒न्ति॒। सिन्धौ॑। स॒म॒ह॒। स॒म्ऽग॒मः। आप॑ः। ह॒। मह्य॑म्। तत्। दे॒वीः। दद॑न्। हृ॒द्द्यो॒त॒ऽभे॒ष॒जम्। २४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

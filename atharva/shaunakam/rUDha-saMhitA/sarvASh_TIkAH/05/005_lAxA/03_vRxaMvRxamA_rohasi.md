@@ -21,7 +21,7 @@ Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is
 
 <details><summary>पदपाठः</summary>
 
-वृक्षम्ऽवृक्षम्। आ। रोहसि। वृषण्यन्तीऽइव। कन्यला। जयन्ती। प्रतिऽआतिष्ठन्ती। स्परणी। नाम। वै। असि। ५.३।
+वृ॒क्षम्ऽवृ॑क्षम्। आ। रो॒ह॒सि॒। वृ॒ष॒ण्यन्ती॑ऽइव। क॒न्यला॑। जय॑न्ती। प्र॒ति॒ऽआ॒तिष्ठ॑न्ती। स्पर॑णी। नाम॑। वै। अ॒सि॒। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

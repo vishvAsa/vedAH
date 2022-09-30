@@ -23,7 +23,7 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 
 <details><summary>पदपाठः</summary>
 
-उत्। अग्रभम्। परिऽपानात्। यातुऽधानम्। किमीदिनम्। तेन। अहम्। सर्वम्। पश्यामि। उत। शूद्रम्। उत। आर्यम्। २०.८।
+उत्। अ॒ग्र॒भ॒म्। प॒रि॒ऽपाना॑त्। या॒तु॒ऽधान॑म्। कि॒मी॒दिन॑म्। तेन॑। अ॒हम्। सर्व॑म्। प॒श्या॒मि॒। उ॒त। शू॒द्रम्। उ॒त। आर्य॑म्। २०.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful
 
 <details><summary>पदपाठः</summary>
 
-वैकङ्कतेन। इध्मेन। देवेभ्यः। आज्यम्। वह। अग्ने। तान्। इह। मादय। सर्वे। आ। यन्तु। मे। हवम्। ८.१।
+वै॒क॒ङ्क॒तेन॑। इ॒ध्मेन॑। दे॒वेभ्य॑ः। आज्य॑म्। व॒ह॒। अग्ने॑। तान्। इ॒ह। मा॒द॒य॒। सर्वे॑। आ। य॒न्तु॒। मे॒। हव॑म्। ८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

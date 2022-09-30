@@ -20,7 +20,7 @@ Now hath the portal been unclosed as, of the sea that holds the flood: Thus let,
 
 <details><summary>पदपाठः</summary>
 
-विऽसितम्। ते। वस्तिऽबिलम्। समुद्रस्य। उदधेःऽइव। एव। ते। मूत्रम्। मुच्यताम्। बहिः। वाल्। इति। सर्वकम्।
+विऽसि॑तम्। ते॒। व॒स्ति॒ऽबि॒लम्। स॒मुद्रस्य॑। उ॒द॒धेःऽइ॑व। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। वाल्। इति॑। स॒र्व॒कम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Let what is inward turn outside, let what is outward be within: Seize and posses
 
 <details><summary>पदपाठः</summary>
 
-यत्। अन्तरम्। तत्। बाह्यम्। यत्। बाह्यम्। तत्। अन्तरम्। कन्या᳡नाम्। विश्वऽरूपाणाम्। मनः। गृभाय। ओषधे। ३०.४।
+यत्। अन्त॑रम्। तत्। बाह्य॑म्। यत्। बाह्य॑म्। तत्। अन्त॑रम्। क॒न्या᳡नाम्। वि॒श्वऽरू॑पाणाम्। मन॑ः। गृ॒भा॒य॒। ओ॒ष॒धे॒। ३०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

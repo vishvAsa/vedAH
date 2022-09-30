@@ -25,7 +25,7 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 
 <details><summary>पदपाठः</summary>
 
-उत्। आयुषा। सम्। आयुषा। उत्। ओषधीनाम्। रसेन। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१०।
+उत्। आयु॑षा। सम्। आयु॑षा। उत्। ओष॑धीनाम्। रसे॑न। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -27,7 +27,7 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 
 <details><summary>पदपाठः</summary>
 
-सहे। पिशाचान्। सहसा। आ। एषाम्। द्रविणम्। ददे। सर्वान्। दुरस्यतः। हन्मि। सम्। मे। आऽकूतिः। ऋध्यताम्। ३६.४।
+सहे॑। पि॒शा॒चान्। सह॑सा। आ। ए॒षा॒म्। द्रवि॑णम्। द॒दे॒। सर्वा॑न्। दु॒र॒स्य॒तः। ह॒न्मि॒। सम्। मे॒। आऽकू॑तिः। ऋ॒ध्य॒ता॒म्। ३६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

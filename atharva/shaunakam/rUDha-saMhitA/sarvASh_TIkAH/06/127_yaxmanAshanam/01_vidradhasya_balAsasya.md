@@ -33,7 +33,7 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 
 <details><summary>पदपाठः</summary>
 
-विऽद्रधस्य। बलासस्य। लोहितस्य। वनस्पते। विऽसल्पकस्य। ओषधे। मा। उत्। शिषः। पिशितम्। चन। १२७.१।
+वि॒ऽद्र॒धस्य॑। ब॒लास॑स्य। लोहि॑तस्य। व॒न॒स्प॒ते॒। वि॒ऽसल्प॑कस्य। ओ॒ष॒धे॒। मा। उत्। शि॒ष॒ः। पि॒शि॒तम्। च॒न। १२७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

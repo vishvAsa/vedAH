@@ -33,7 +33,7 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 
 <details><summary>पदपाठः</summary>
 
-आऽतन्वानाः। आऽयच्छन्तः। अस्यन्तः। ये। च। धावथ। निःऽहस्ताः। शत्रवः। स्थन। इन्द्रः। वः। अद्य। परा। अशरीत्। ६६.२।
+आ॒ऽत॒न्वा॒नाः। आ॒ऽयच्छ॑न्तः। अस्य॑न्तः। ये। च॒। धाव॑थ। निःऽह॑स्ताः। श॒त्र॒व॒ः। स्थ॒न॒। इन्द्र॑ः। व॒ः। अ॒द्य। परा॑। अ॒श॒री॒त्। ६६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

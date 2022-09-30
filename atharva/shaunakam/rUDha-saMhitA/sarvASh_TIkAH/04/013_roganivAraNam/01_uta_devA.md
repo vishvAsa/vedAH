@@ -27,7 +27,7 @@ Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods
 
 <details><summary>पदपाठः</summary>
 
-उत। देवाः। अवऽहितम्। देवाः। उत्। नयथ। पुनः। उत। आगः। चक्रुषम्। देवाः। देवाः। जीवयथा। पुनः। १३.1।
+उ॒त। दे॒वा॒ः। अव॑ऽहितम्। देवा॑ः। उत्। न॒य॒थ॒। पुन॑ः। उ॒त। आग॑ः। च॒क्रुष॑म्। दे॒वा॒ः। देवा॑ः। जी॒वय॑था। पुन॑ः। १३.1। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

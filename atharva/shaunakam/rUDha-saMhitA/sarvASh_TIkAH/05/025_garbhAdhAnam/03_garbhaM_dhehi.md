@@ -25,7 +25,7 @@ O Sinivali, set the germ, set thou the germ, Sarasvati! In thee let both the Asv
 
 <details><summary>पदपाठः</summary>
 
-गर्भम्। धेहि। सिनीवालि। गर्भम्। धेहि। सरस्वति। गर्भम्। ते। अश्विना। उभा। आ। धत्ताम्। पुष्करऽस्रजा। २५.३।
+गर्भ॑म्। धे॒हि॒। सि॒नी॒वा॒लि॒। गर्भ॑म्। धे॒हि॒। स॒र॒स्व॒ति॒। गर्भ॑म्। ते॒। अ॒श्विना॑। उ॒भा। आ। ध॒त्ता॒म्। पुष्क॑रऽस्रजा। २५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this prote
 
 <details><summary>पदपाठः</summary>
 
-समुद्रात्। जातः। मणिः। वृत्रात्। जातः। दिवाऽकरः। सः। अस्मान्। सर्वतः। पातु। हेत्याः। देवऽअसुरेभ्यः। १०.५।
+स॒मु॒द्रात्। जा॒तः। म॒णिः। वृ॒त्रात्। जा॒तः। दि॒वा॒ऽक॒रः। सः। अ॒स्मान्। स॒र्वत॑ः। पा॒तु॒। हे॒त्याः। दे॒व॒ऽअ॒सु॒रेभ्य॑ः। १०.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

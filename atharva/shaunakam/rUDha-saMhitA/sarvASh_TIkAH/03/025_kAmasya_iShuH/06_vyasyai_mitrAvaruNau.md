@@ -25,7 +25,7 @@ Mitra and Varuna, expel all thought and purpose from her heart. Deprive her of h
 
 <details><summary>पदपाठः</summary>
 
-वि। अस्यै। मित्रावरुणौ। हृदः। चित्तानि। अस्यतम्। अथ। एनाम्। अक्रतुम्। कृत्वा। मम। एव। कृणुतम्। वशे। २५.६।
+वि। अ॒स्यै॒। मि॒त्रा॒व॒रु॒णौ॒। हृ॒दः। चि॒त्तानि॑। अ॒स्य॒त॒म्। अथ॑। ए॒ना॒म्। अ॒क्र॒तुम्। कृ॒त्वा। मम॑। ए॒व। कृ॒णु॒त॒म्। वशे॑। २५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

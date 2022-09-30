@@ -21,7 +21,7 @@ His milch-cow doth not profit one, his draught-ox masters not the yoke, Wherever
 
 <details><summary>पदपाठः</summary>
 
-न। अस्य। धेनुः। कल्याणी। न। अनड्वान्। सहते। धुरम्। विऽजानिः। यत्र। ब्राह्मणः। रात्रिम्। वसति। पापया। १७.१८।
+न। अ॒स्य॒। धे॒नुः। क॒ल्या॒णी। न। अ॒न॒ड्वान्। स॒ह॒ते॒। धुर॑म्। विऽजा॑निः। यत्र॑। ब्रा॒ह्म॒णः। रात्रि॑म्। वस॑ति। पा॒पया॑। १७.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

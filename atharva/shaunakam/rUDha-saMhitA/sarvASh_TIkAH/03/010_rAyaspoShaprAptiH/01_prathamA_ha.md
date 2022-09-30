@@ -30,7 +30,7 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 
 <details><summary>पदपाठः</summary>
 
-प्रथमा। ह। वि। उवास। सा। धेनुः। अभवत्। यमे। सा। नः। पयस्वती। दुहाम्। उत्तराम्ऽउत्तराम्। समाम्। १०.१।
+प्र॒थ॒मा। ह॒। वि। उ॒वा॒स॒। सा। धे॒नुः। अ॒भ॒व॒त्। य॒मे। सा। न॒ः। पय॑स्वती। दु॒हा॒म्। उत्त॑राम्ऽउत्तराम्। समा॑म्। १०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

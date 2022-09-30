@@ -26,7 +26,7 @@ Rise up, put forth thy manly strength, and lay thy germ within the womb. A bull 
 
 <details><summary>पदपाठः</summary>
 
-अधि। स्कन्द। वीरयस्व। गर्भम्। आ। धेहि। योन्याम्। वृषा। असि। वृष्ण्यऽवन्। प्रऽजायै। त्वा। आ। नयामसि। २५.८।
+अधि॑। स्क॒न्द॒। वी॒रय॑स्व। गर्भ॑म्। आ। धे॒हि॒। योन्या॑म्। वृषा॑। अ॒सि॒। वृ॒ष्ण्य॒ऽव॒न्। प्र॒ऽजायै॑। त्वा॒। आ। न॒या॒म॒सि॒। २५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Oppressor of the Brahmans! tears wept by the man who suffers wrong, These are th
 
 <details><summary>पदपाठः</summary>
 
-अश्रूणि। कृपमाणस्य। यानि। जीतस्य। ववृतुः। तम्। वै। ब्रह्मऽज्य। ते। देवाः। अपाम्। भागम्। अधारयन्। १९.१३।
+अश्रू॑णि। कृप॑माणस्य। यानि॑। जी॒तस्य॑। व॒वृ॒तुः। तम्। वै। ब्र॒ह्म॒ऽज्य॒। ते॒। दे॒वाः। अ॒पाम्। भा॒गम्। अ॒धा॒र॒य॒न्। १९.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

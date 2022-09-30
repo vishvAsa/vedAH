@@ -24,7 +24,7 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 
 <details><summary>पदपाठः</summary>
 
-अजिरऽअधिराजौ। श्येनौ। संपातिनौऽइव। आज्यम्। पृतन्यतः। हताम्। यः। नः। कः। च। अभिऽअघायति। ७३.३।
+अ॒जि॒र॒ऽअ॒धि॒रा॒जौ। श्ये॒नौ। सं॒पा॒तिनौ॑ऽइव। आज्य॑म्। पृ॒त॒न्य॒तः। ह॒ता॒म्। यः। न॒ः। कः। च॒। अ॒भि॒ऽअ॒घा॒यति। ७३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

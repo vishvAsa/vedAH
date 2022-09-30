@@ -20,7 +20,7 @@ Let Vishnu in this rite in varied manner--All hail! use well- yoked steeds, his 
 
 <details><summary>पदपाठः</summary>
 
-विष्णुः। युनक्तु। बहुऽधा। तपासि। अस्मिन्। यज्ञे। सुऽयुजः। स्वाहा। २६.७।
+विष्णु॑ः। यु॒न॒क्तु॒। ब॒हु॒ऽधा। तपा॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुज॑ः। स्वाहा॑। २६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

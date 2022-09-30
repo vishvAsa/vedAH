@@ -21,7 +21,7 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 
 <details><summary>पदपाठः</summary>
 
-आ। अहम्। तनोमि। ते। पसः। अधि। ज्याम्ऽइव। धन्वनि। क्रमस्व। ऋशःऽइव। रोहितम्। अनवऽग्लायता। सदा। १०१.३।
+आ। अ॒हम्। त॒नो॒मि॒। ते॒। पस॑ः। अधि॑। ज्याम्ऽइ॑व। धन्व॑नि। क्रम॑स्व। ऋश॑ःऽइव। रो॒हित॑म्। अन॑वऽग्लायता। सदा॑। १०१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ Three lives of Jamadagni, thrice the vital force of Kasyapa, Three sights of imm
 
 <details><summary>पदपाठः</summary>
 
-त्रिऽआयुषम्। जमत्ऽअग्नेः। कश्यपस्य। त्रिऽआयुषम्। त्रेधा। अमृतस्य। चक्षणम्। त्रिणि। आयूंषि। ते। अकरम्। २८.७।
+त्रि॒ऽआ॒यु॒षम्। ज॒मत्ऽअ॑ग्नेः। क॒श्यप॑स्य। त्रि॒ऽआ॒यु॒षम्। त्रे॒धा। अ॒मृत॑स्य। चक्ष॑णम्। त्रिणि॑। आयूं॑षि। ते॒। अ॒क॒र॒म्। २८.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

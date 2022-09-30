@@ -24,7 +24,7 @@ For coverings men have bartered thee, for skins of deer and woven cloths. Thou a
 
 <details><summary>पदपाठः</summary>
 
-पवस्तैः। त्वा। परि। अक्रीणन्। दूर्शेभिः। अजिनैः। उत। प्रऽक्रीः। असि। त्वम्। ओषधे। अभ्रिऽखाते। न। रूरुपः। ७.६।
+प॒वस्तै॑ः। त्वा॒। परि॑। अ॒क्री॒ण॒न्। दू॒र्शेभि॑ः। अ॒जिनै॑ः। उ॒त। प्र॒ऽक्रीः। अ॒सि॒। त्वम्। ओ॒ष॒धे॒। अभ्रि॑ऽखाते। न। रू॒रु॒प॒ः। ७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

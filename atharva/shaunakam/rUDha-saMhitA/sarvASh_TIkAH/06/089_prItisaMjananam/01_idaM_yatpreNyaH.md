@@ -23,7 +23,7 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 
 <details><summary>पदपाठः</summary>
 
-इदम्। यत्। प्रेण्यः। शिरः। दत्तम्। सोमन। वृष्ण्यम्। ततः। परि। प्रऽजातेन। हार्दिम्। ते। शोचयामसि। ८९.१।
+इ॒दम्। यत्। प्रे॒ण्यः। शिर॑ः। द॒त्तम्। सोम॑न। वृष्ण्य॑म्। तत॑ः। परि॑। प्रऽजा॑तेन। हार्दि॑म्। ते॒। शो॒च॒या॒म॒सि॒। ८९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

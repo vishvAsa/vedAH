@@ -25,7 +25,7 @@ Indra restrained you with his might. Goddesses, as ye glided on Not in accordanc
 
 <details><summary>पदपाठः</summary>
 
-अपऽकामम्। स्यन्दमानाः। अवीवरत। वः। हि। कम्। इन्द्रः। वः। शक्तिऽभिः। देवीः। तस्मात्। वाः। नाम। वः। हितम्। १३.३।
+अ॒प॒ऽका॒मम्। स्यन्द॑मानाः। अवी॑वरत। व॒ः। हि। क॒म्। इन्द्र॑ः। व॒ः। शक्ति॑ऽभिः। दे॒वी॒ः। तस्मा॑त्। वाः। नाम॑। वः। हि॒तम्। १३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

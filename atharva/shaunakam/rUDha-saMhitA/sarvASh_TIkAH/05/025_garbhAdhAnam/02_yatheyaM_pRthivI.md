@@ -25,7 +25,7 @@ Even as this broad earth received the germ of all the things that be, Thus withi
 
 <details><summary>पदपाठः</summary>
 
-यथा। इयम्। पृथिवी। मही। भूतानाम्। गर्भम्। आऽदधे। एव। आ। दधामि। ते। गर्भम्। तस्मै। त्वाम्। अवसे। हुवे। २५.२।
+यथा॑। इ॒यम्। पृ॒थि॒वी। म॒ही। भू॒ताना॑म्। गर्भ॑म्। आ॒ऽद॒धे। ए॒व। आ। द॒धा॒मि॒। ते॒। गर्भ॑म्। तस्मै॑। त्वाम्। अव॑से। हु॒वे॒। २५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

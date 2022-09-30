@@ -25,7 +25,7 @@ Go forward, feet, press quickly on, bring to the house of him who pays. Unconque
 
 <details><summary>पदपाठः</summary>
 
-प्र। इतम्। पादौ। प्र। स्फुरतम्। वहतम्। पृणतः। गृहान्। इन्द्राणी। एतु। प्रथमा। अजीता। अमुषिता। पुरः।
+प्र। इ॒त॒म्। पा॒दौ॒। प्र। स्फु॒र॒त॒म्। वह॑तम्। पृ॒ण॒तः। गृ॒हान्। इ॒न्द्रा॒णी। ए॒तु॒। प्र॒थ॒मा। अजी॑ता। अमु॑षिता। पु॒रः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ is "untruth" (vs. 5) to be commended as an example. ⌊Weber would read
 
 <details><summary>पदपाठः</summary>
 
-यथा। भूतम्। च। भव्यम्। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.६।
+यथा॑। भू॒तम्। च॒। भव्य॑म्। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भे॒ः। १५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

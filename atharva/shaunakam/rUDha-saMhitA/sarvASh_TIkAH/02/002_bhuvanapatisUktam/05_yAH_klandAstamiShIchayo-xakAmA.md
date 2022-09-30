@@ -24,7 +24,7 @@ Haunters of darkness, shrill in voice, dice-lovers, maddeners of the mind To the
 
 <details><summary>पदपाठः</summary>
 
-याः। क्लन्दाः। तमिषीचयः। अक्षऽकामाः। मनःऽमुहः। ताभ्यः। गन्धर्वऽपत्नीभ्यः। अप्सराभ्यः। अकरम्। नमः। २.५।
+याः। क्ल॒न्दाः। तमि॑षीचयः। अ॒क्षऽका॑माः। म॒न॒ःऽमुह॑ः। ताभ्य॑ः। ग॒न्ध॒र्वऽप॑त्नीभ्यः। अ॒प्स॒राभ्य॑ः। अ॒क॒र॒म्। नम॑ः। २.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

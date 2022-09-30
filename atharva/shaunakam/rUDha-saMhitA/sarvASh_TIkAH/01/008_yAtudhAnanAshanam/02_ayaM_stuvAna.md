@@ -23,7 +23,7 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 
 <details><summary>पदपाठः</summary>
 
-अयम्। स्तुवानः। आ। अगमत्। इमम्। स्म। प्रति। हर्यत। बृहस्पते। वशे। लब्ध्वा। अग्नीषोमा। वि। विध्यतम्। ।
+अ॒यम्। स्तु॒वा॒नः। आ। अ॒ग॒म॒त्। इ॒मम्। स्म॒। प्रति॑। ह॒र्य॒त॒। बृह॑स्पते। वशे॑। ल॒ब्ध्वा। अग्नी॑षोमा। वि। वि॒ध्य॒त॒म्। । 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

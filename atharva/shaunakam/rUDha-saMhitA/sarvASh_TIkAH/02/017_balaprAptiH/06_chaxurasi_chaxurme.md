@@ -18,7 +18,7 @@ Eye art thou, give me eyes. All hail!
 
 <details><summary>पदपाठः</summary>
 
-चक्षुः। असि। चक्षुः। मे। दाः। स्वाहा। १७.६।
+चक्षु॑ः। अ॒सि॒। चक्षु॑ः। मे॒। दा॒ः। स्वाहा॑। १७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

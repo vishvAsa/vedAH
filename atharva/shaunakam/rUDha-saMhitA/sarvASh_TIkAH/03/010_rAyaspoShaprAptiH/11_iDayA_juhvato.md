@@ -27,7 +27,7 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 
 <details><summary>पदपाठः</summary>
 
-इडया। जुह्वतः। वयम्। देवान्। घृतऽवता। यजे। गृहान्। अलुभ्यतः। वयम्। सम्। विशेम। उप। गोऽमतः। १०.११।
+इड॑या। जुह्व॑तः। व॒यम्। दे॒वान्। घृ॒तऽव॑ता। य॒जे॒। गृ॒हान्। अलु॑भ्यतः। व॒यम्। सम्। वि॒शे॒म॒। उप। गोऽम॑तः। १०.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

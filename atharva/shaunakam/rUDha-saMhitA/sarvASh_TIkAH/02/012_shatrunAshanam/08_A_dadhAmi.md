@@ -34,7 +34,7 @@ In Jatavedas kindled flame I set the place assigned to thee. Let fire consume th
 
 <details><summary>पदपाठः</summary>
 
-आ। दधामि। ते। पदम्। सम्ऽइध्दे। जातऽवेदसि। अग्निः। शरीरम्। वेवेष्टु। असुम्। वाक्। अपि। गच्छतु। १२.८।
+आ। द॒धा॒मि॒। ते॒। प॒दम्। सम्ऽइ॑ध्दे। जा॒तऽवे॑दसि। अ॒ग्निः। शरी॑रम्। वे॒वे॒ष्टु॒। असु॑म्। वाक्। अपि॑। ग॒च्छ॒तु॒। १२.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

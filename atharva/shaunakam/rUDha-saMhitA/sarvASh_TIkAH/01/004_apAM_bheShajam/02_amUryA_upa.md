@@ -20,7 +20,7 @@ May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth
 
 <details><summary>पदपाठः</summary>
 
-अमूः। याः। उप। सूर्ये। याभिः। वा। सूर्यः। सह। ताः। नः। हिन्वन्तु। अध्वरम्।
+अ॒मूः। याः। उप॑। सूर्ये॑। याभि॑ः। वा॒। सूर्य॑ः। स॒ह। ताः। नः॒। हि॒न्व॒न्तु॒। अ॒ध्व॒रम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Tabuva or not Tabuva, thou verily art not Tabuva: poison is killed by Tabuva. Ta
 
 <details><summary>पदपाठः</summary>
 
-ताबुवम्। न। ताबुवम्। न। घ। इत्। त्वम्। असि। ताबुवम्। ताबुवेन। अरसम्। विषम्। १३.१०।
+ता॒बुव॑म्। न। ता॒बुव॑म्। न। घ॒। इत्। त्वम्। अ॒सि॒। ता॒बुव॑म्। ता॒बुवे॑न। अ॒र॒सम्। वि॒षम्। १३.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

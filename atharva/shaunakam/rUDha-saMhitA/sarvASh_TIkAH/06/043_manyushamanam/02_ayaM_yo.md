@@ -23,7 +23,7 @@ This Plant that hath abundant roots spreads to the place where waters meet. Soot
 
 <details><summary>पदपाठः</summary>
 
-अयम्। यः। भूरिऽमूलः। समुद्रम्। अवऽतिष्ठति। दर्भः। पृथिव्याः। उत्थितः। मन्युऽशमनः। उच्यते। ४३.२।
+अ॒यम्। यः। भूरि॑ऽमूलः। स॒मु॒द्रम्। अ॒व॒ऽतिष्ठ॑ति। द॒र्भः। पृ॒थि॒व्याः। उत्थि॑तः। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

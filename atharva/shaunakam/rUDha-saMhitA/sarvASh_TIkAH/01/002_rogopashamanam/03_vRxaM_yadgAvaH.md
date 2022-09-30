@@ -24,7 +24,7 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 
 <details><summary>पदपाठः</summary>
 
-वृक्षम्। यत्। गावः। परिऽसखजानाः। अनुऽस्फुरम्। शरम्। अर्चन्ति। ॠभुम्। शरुम्। अस्मत्। यवय। दिद्युम्। इन्द्र।
+वृ॒क्षम्। यत्। गावः॑। प॒रि॒ऽस॒ख॒जा॒नाः। अ॒नु॒ऽस्फु॒रम्। श॒रम्। अर्च॑न्ति। ॠ॒भुम्। शरु॑म्। अ॒स्मत्। य॒व॒य॒। दि॒द्युम्। इ॒न्द्र॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

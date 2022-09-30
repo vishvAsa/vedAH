@@ -27,7 +27,7 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 
 <details><summary>पदपाठः</summary>
 
-आऽगच्छतः। आऽगतस्य। नाम। गृह्णामि। आऽयतः। इन्द्रस्य। वृत्रऽघ्नः। वन्वे। वासवस्य। शतऽक्रतोः। ८२.१।
+आ॒ऽगच्छ॑तः। आऽग॑तस्य। नाम॑। गृ॒ह्णा॒मि॒। आ॒ऽय॒तः। इन्द्र॑स्य। वृ॒त्र॒ऽघ्नः। व॒न्वे॒। वा॒स॒वस्य॑। श॒तऽक्र॑तोः। ८२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

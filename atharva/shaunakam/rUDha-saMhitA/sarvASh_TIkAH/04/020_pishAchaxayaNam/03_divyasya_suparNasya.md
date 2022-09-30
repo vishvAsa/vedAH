@@ -22,7 +22,7 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 
 <details><summary>पदपाठः</summary>
 
-दिव्यस्य। सुऽपर्णस्य। तस्य। ह। असि। कनीनिका। सा। भूमिम्। आ। रुरोहिथ। वह्यम्। श्रान्ता। वधूःऽइव। २०.३।
+दि॒व्यस्य॑। सु॒ऽप॒र्णस्य॑। तस्य॑। ह॒। अ॒सि॒। क॒नीनि॑का। सा। भूमि॑म्। आ। रु॒रो॒हि॒थ॒। व॒ह्यम्। श्रा॒न्ता। व॒धूःऽइ॑व। २०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

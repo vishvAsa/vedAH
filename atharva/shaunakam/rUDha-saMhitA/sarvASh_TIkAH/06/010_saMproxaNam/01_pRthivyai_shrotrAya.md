@@ -20,7 +20,7 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 
 <details><summary>पदपाठः</summary>
 
-पृथिव्यै। श्रोत्राय। वनस्पतिऽभ्यः। अग्नये। अधिऽपतये। स्वाहा। १०.१।
+पृ॒थि॒व्यै। श्रोत्रा॑य। वन॒स्पति॑ऽभ्यः। अ॒ग्नये॑। अधि॑ऽपतये। स्वाहा॑। १०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

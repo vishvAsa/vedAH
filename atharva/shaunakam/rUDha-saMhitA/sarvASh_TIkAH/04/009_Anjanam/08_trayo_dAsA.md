@@ -24,7 +24,7 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 
 <details><summary>पदपाठः</summary>
 
-त्रयः। दासाः। आऽअञ्जनस्य। तक्मा। बलासः। आत्। अहिः। वर्षिष्ठः। पर्वतानाम्। त्रिऽककुत्। नाम। ते। पिता। ९.८।
+त्रय॑ः। दा॒साः। आ॒ऽअञ्ज॑नस्य। त॒क्मा। ब॒लास॑ः। आत्। अहि॑ः। वर्षि॑ष्ठः। पर्व॑तानाम्। त्रि॒ऽक॒कुत्। नाम॑। ते॒। पि॒ता। ९.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

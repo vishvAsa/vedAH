@@ -27,7 +27,7 @@ Of all thy hundred remedies, a thousand remedies combined. This is the surest cu
 
 <details><summary>पदपाठः</summary>
 
-शतम्। या। भेषजानि। ते। सहस्रम्। समऽगतानि। च। श्रेष्ठम्। आस्रावऽभेषजम्। वसिष्ठम्। रोगऽनाशनम्। ४४.२।
+श॒तम्। या। भे॒ष॒जानि॑। ते॒। स॒हस्र॑म्। समऽग॑तानि। च॒। श्रेष्ठ॑म्। आ॒स्रा॒व॒ऽभे॒ष॒जम्। वसि॑ष्ठम्। रो॒ग॒ऽनाश॑नम्। ४४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

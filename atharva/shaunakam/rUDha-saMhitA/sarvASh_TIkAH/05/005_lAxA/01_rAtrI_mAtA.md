@@ -27,7 +27,7 @@ Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is 
 
 <details><summary>पदपाठः</summary>
 
-रात्री। माता। नभः। पिता। अर्यमा। ते। पितामहः। सिलाची। नाम। वै। असि। सा। देवानाम्। असि। स्वसा। ५.१।
+रात्री॑। मा॒ता। नभ॑ः। पि॒ता। अ॒र्य॒मा। ते॒। पि॒ता॒म॒हः। सि॒ला॒ची। नाम॑। वै। अ॒सि॒। सा। दे॒वाना॑म्। अ॒सि॒। स्वसा॑। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

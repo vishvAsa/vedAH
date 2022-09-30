@@ -25,7 +25,7 @@ O Agni, with the splendour that is thine darken the man who hates us, whom we ha
 
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। तेजः। तेन। तम्। अतेजसम्। कृणु। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.५।
+अग्ने॑। यत्। ते॒। तेज॑ः। तेन॑। तम्। अ॒ते॒जस॑म्। कृ॒णु॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

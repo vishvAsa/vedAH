@@ -29,7 +29,7 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 
 <details><summary>पदपाठः</summary>
 
-अपऽचितः। प्र। पतत। सुऽपर्णः। वसतेःऽइव। सूर्यः। कृणोतु। भेषजम्। चन्द्रमाः। वः। अप। उच्छतु। ८३.१।
+अप॑ऽचितः। प्र। प॒त॒त॒। सु॒ऽप॒र्णः। व॒स॒तेःऽइ॑व। सूर्य॑ः। कृ॒णोतु॑। भे॒ष॒जम्। च॒न्द्रमा॑ः। व॒ः। अप॑। उ॒च्छ॒तु॒। ८३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

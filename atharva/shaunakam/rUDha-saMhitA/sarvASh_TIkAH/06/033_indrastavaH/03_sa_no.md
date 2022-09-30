@@ -27,7 +27,7 @@ May he bestow on us that wealth, far-spreading, bright with yellow hue. Indra is
 
 <details><summary>पदपाठः</summary>
 
-सः। नः। ददातु। ताम्। रयिम्। उरुम्। पिशङ्गऽसंदृशम्। इन्द्रः। पतिः। तुविऽतमः। जनेषु। आ। ३३.३।
+सः। न॒ः। द॒दा॒तु॒। ताम्। र॒यिम्। उ॒रुम्। पि॒शङ्ग॑ऽसंदृशम्। इन्द्र॑ः। पति॑ः। तु॒विऽत॑मः। जने॑षु। आ। ३३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ With fortune of the Sisu tree--with Indra as my friend to aid I give myself a ha
 
 <details><summary>पदपाठः</summary>
 
-भगेन। मा। शांशपेन। साकम्। इन्द्रेण। मेदिना। कृणोमि। भगिनम्। मा। अप। द्रान्तु। अरातयः। १२९.१।
+भगे॑न। मा॒। शां॒श॒पेन॑। सा॒कम्। इन्द्रे॑ण। मे॒दिना॑। कृ॒णोमि॑। भ॒गिन॑म्। मा॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

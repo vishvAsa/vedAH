@@ -31,7 +31,7 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 
 <details><summary>पदपाठः</summary>
 
-अयम्। नः। नभसः। पतिः। सम्ऽस्फानः। अभि। रक्षतु। असमातिम्। गृहेषु। नः। ७९.१।
+अ॒यम्। न॒ः। नभ॑सः। पति॑ः। स॒म्ऽस्फान॑ः। अ॒भि। र॒क्ष॒तु॒। अस॑मातिम्। गृ॒हेषु॑। न॒ः। ७९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

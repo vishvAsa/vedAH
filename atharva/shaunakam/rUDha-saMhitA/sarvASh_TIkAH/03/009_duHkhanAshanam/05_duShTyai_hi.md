@@ -28,7 +28,7 @@ Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impra
 
 <details><summary>पदपाठः</summary>
 
-दुष्ट्यै। हि। त्वा। भत्स्यामि। दूषयिष्यामि। काबवम्। उत्। आशवः। रथाःऽइव। शपथेभिः। सरिष्यथ। ९.५।
+दुष्ट्यै॑। हि। त्वा॒। भ॒त्स्यामि॑। दू॒ष॒यि॒ष्यामि॑। का॒ब॒वम्। उत्। आ॒शव॑ः। रथा॑ःऽइव। श॒पथे॑भिः। स॒रि॒ष्य॒थ॒। ९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

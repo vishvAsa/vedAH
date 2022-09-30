@@ -21,7 +21,7 @@ Indra was glorious at his birth; Agni, Soma were born renowned. And glorious am 
 
 <details><summary>पदपाठः</summary>
 
-यशाः। इन्द्रः। यशाः। अग्निः। यशाः। सोमः। अजायत। यशाः। विश्वस्य। भूतस्य। अहम्। अस्मि। यशःऽतमः। ३९.३।
+य॒शाः। इन्द्र॑ः। य॒शाः। अ॒ग्निः। य॒शाः। सोम॑ः। अ॒जा॒य॒त॒। य॒शाः। विश्व॑स्य। भू॒तस्य॑। अ॒हम्। अ॒स्मि॒। य॒शःऽत॑मः। ३९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

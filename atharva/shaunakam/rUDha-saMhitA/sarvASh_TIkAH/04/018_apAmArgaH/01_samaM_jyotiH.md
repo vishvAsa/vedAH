@@ -32,7 +32,7 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 
 <details><summary>पदपाठः</summary>
 
-समम्। ज्योतिः। सूर्येण। अह्ना। रात्री। समऽवती। कृणोमि। सत्यम्। ऊतये। अरसाः। सन्तु। कृत्वरीः। १८.१।
+स॒मम्। ज्योति॑ः। सूर्ये॑ण। अह्ना॑। रात्री॑। स॒मऽव॑ती। कृ॒णोमि॑। स॒त्यम्। ऊ॒तये॑। अ॒र॒साः। स॒न्तु॒। कृत्व॑रीः। १८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

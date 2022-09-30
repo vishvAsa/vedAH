@@ -26,7 +26,7 @@ Malady that affects the head, eye-weakness, bodily defect-- All this let Kushtha
 
 <details><summary>पदपाठः</summary>
 
-शीर्षऽआमयम्। उपऽहत्याम्। अक्ष्योः। तन्वः᳡। रपः। कुष्ठः। तत्। सर्वम्। निः। करत्। दैवम्। समह। वृष्ण्यम्। ४.१०।
+शी॒र्ष॒ऽआ॒म॒यम्। उ॒प॒ऽह॒त्याम्। अ॒क्ष्योः। त॒न्व᳡ः। रप॑ः। कुष्ठ॑ः। तत्। सर्व॑म्। निः। क॒र॒त्। दैव॑म्। स॒म॒ह॒। वृष्ण्य॑म्। ४.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

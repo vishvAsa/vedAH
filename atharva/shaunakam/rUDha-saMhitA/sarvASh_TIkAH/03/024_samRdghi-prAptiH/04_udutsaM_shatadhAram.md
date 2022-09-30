@@ -29,7 +29,7 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 
 <details><summary>पदपाठः</summary>
 
-उत्। उत्सम्। शतऽधारम्। सहस्रऽधारम्। अक्षितम्। एव। अस्माक। इदम्। धान्य᳡म्। सहस्रऽधारम्। अक्षितम्। २४.४।
+उत्। उत्स॑म्। श॒तऽधा॑रम्। स॒हस्र॑ऽधारम्। अक्षि॑तम्। ए॒व। अ॒स्माक॑। इ॒दम्। धा॒न्य᳡म्। स॒हस्र॑ऽधारम्। अक्षि॑तम्। २४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

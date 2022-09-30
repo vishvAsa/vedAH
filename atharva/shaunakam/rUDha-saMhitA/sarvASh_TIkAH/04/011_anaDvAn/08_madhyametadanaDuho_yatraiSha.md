@@ -29,7 +29,7 @@ The middle of the Bullock's neck, there where the shoulder-bar is placed, Extend
 
 <details><summary>पदपाठः</summary>
 
-मध्यम्। एतत्। अनडुहः। यत्र। एषः। वहः। आऽहितः। एतावत्। अस्य। प्राचीनम्। यावान्। प्रत्यङ्। सम्ऽआहितः। ११.८।
+मध्य॑म्। ए॒तत्। अ॒न॒डुह॑ः। यत्र॑। ए॒षः। वह॑ः। आऽहि॑तः। ए॒ताव॑त्। अ॒स्य॒। प्रा॒चीन॑म्। यावा॑न्। प्र॒त्यङ्। स॒म्ऽआहि॑तः। ११.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

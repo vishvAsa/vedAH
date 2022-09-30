@@ -19,7 +19,7 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 
 <details><summary>पदपाठः</summary>
 
-प्रति। तम्। अभि। चर। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.३।
+प्रति॑। तम्। अ॒भि। च॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

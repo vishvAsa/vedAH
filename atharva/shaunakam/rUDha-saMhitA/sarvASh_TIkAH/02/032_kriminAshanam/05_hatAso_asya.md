@@ -29,7 +29,7 @@ Slain are his ministers, and slain his followers and retinue: Yes, those that se
 
 <details><summary>पदपाठः</summary>
 
-हतासः। अस्य। वेशसः। हतासः। परिऽवेशसः। अथो इति। ये। क्षुल्लकाःऽइव। सर्वे। ते। क्रिमयः। हताः। ३२.५।
+ह॒तास॑ः। अ॒स्य॒। वे॒शस॑ः। ह॒तास॑ः। परि॑ऽवेशसः। अथो॒ इति॑। ये। क्षु॒ल्ल॒काःऽइ॑व। सर्वे॑। ते। क्रिम॑यः। ह॒ताः। ३२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

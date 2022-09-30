@@ -25,7 +25,7 @@ The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the 
 
 <details><summary>पदपाठः</summary>
 
-गौः। एव। तान्। हन्यमाना। वैतऽहव्यान्। अव। अतिरत्। ये। केसरऽप्राबन्धायाः। चरमऽअजाम्। अपेचिरन्। १८.११।
+गौः। ए॒व। तान्। ह॒न्यमा॑ना। वै॒त॒ऽह॒व्यान्। अव॑। अ॒ति॒र॒त्। ये। केस॑रऽप्राबन्धायाः। च॒र॒म॒ऽअजा॑म्। अपे॑चिरन्। १८.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

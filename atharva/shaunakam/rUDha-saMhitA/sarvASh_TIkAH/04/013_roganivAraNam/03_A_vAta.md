@@ -26,7 +26,7 @@ Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou wh
 
 <details><summary>पदपाठः</summary>
 
-आ। वात। वाहि। भेषजम्। वि। वात। वाहि। यत्। रपः। त्वम्। हि। विश्वऽभेषज। देवानाम्। दूतः। ईयसे। १३.३।
+आ। वा॒त॒। वा॒हि॒। भे॒ष॒जम्। वि। वा॒त॒। वा॒हि॒। यत्। रप॑ः। त्वम्। हि। वि॒श्व॒ऽभे॒ष॒ज॒। दे॒वाना॑म्। दू॒तः। ईय॑से। १३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 
 <details><summary>पदपाठः</summary>
 
-येन। वेहत्। बभूविथ। नाशयामसि। तत्। त्वत्। इदम्। तत्। अन्यत्र। त्वत्। अप। दूरे। नि। दध्मसि। २३.१।
+येन॑। वे॒हत्। ब॒भूवि॑थ। ना॒शया॑मसि। तत्। त्वत्। इ॒दम्। तत्। अ॒न्यत्र॑। त्वत्। अप॑। दू॒रे। नि। द॒ध्म॒सि॒। २३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

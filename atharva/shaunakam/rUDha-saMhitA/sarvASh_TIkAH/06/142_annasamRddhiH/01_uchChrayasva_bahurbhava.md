@@ -25,7 +25,7 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 
 <details><summary>पदपाठः</summary>
 
-उत्। श्रयस्व। बहुः। भव। स्वेन। महसा। यव। मृणीहि। विश्वा। पात्राणि। मा। त्वा। दिव्या। अशनिः। वधीत्। १४२.१।
+उत्। श्र॒य॒स्व॒। ब॒हुः। भ॒व॒। स्वेन॑। मह॑सा। य॒व॒। मृ॒णी॒हि। विश्वा॑। पात्रा॑णि। मा। त्वा॒। दि॒व्या। अ॒शनि॑ः। व॒धी॒त्। १४२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

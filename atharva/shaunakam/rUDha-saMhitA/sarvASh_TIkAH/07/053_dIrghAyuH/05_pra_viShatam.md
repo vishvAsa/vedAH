@@ -21,7 +21,7 @@ Enter him, both ye breaths, like two draught-oxen entering their stall. Let him,
 
 <details><summary>पदपाठः</summary>
 
-प्र। विशतम्। प्राणापानौ। अनड्वाहौऽइव। व्रजम्। अयम्। जरिम्णः। शेवऽधिः। अरिष्टः। इह। वर्धताम्। ५५.५।
+प्र। वि॒श॒त॒म्। प्रा॒णा॒पा॒नौ॒। अ॒न॒ड्वाहौ॑ऽइव। व्र॒जम्। अ॒यम्। ज॒रि॒म्णः। शे॒व॒ऽधिः। अरिष्ट॑ः। इ॒ह। व॒र्ध॒ता॒म्। ५५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

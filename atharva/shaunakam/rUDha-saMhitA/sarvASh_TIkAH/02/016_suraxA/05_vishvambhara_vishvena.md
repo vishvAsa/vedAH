@@ -27,7 +27,7 @@ Preserve me with all care. O All-Sustainer! All hail to thee!
 
 <details><summary>पदपाठः</summary>
 
-विश्वम् ऽभर। विश्वेन। मा। भरसा। पाहि। स्वाहा। १६.५।
+विश्व॑म् ऽभर। विश्वे॑न। मा॒। भर॑सा। पा॒हि॒। स्वाहा॑। १६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

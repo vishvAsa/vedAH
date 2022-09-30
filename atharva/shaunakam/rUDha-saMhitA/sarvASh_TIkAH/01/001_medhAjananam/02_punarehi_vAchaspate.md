@@ -25,7 +25,7 @@ Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose t
 
 <details><summary>पदपाठः</summary>
 
-पुनः। आ। इहि। वाचः। पते। देवेन। मनसा। सह। वसोः। पते। नि। रमय। मयि। एव। अस्तु। मयि। श्रुतम्।
+पुन॑ः। आ। इ॒हि॒। वा॒चः॒। प॒ते॒। दे॒वेन॑। मन॑सा। स॒ह। वसो॑ः। प॒ते॒। नि। र॒म॒य॒। मयि॑। ए॒व। अ॒स्तु। मयि॑। श्रु॒तम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

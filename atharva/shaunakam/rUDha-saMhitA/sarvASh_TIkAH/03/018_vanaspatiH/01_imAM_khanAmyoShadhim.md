@@ -25,7 +25,7 @@ From out the earth I dig this Plant, and herb of most effectual power, Wherewith
 
 <details><summary>पदपाठः</summary>
 
-इमाम्। खनामि। ओषधिम्। वीरुधाम्। बलवत्ऽतमाम्। यया। सऽपत्नीम्। बाधते। यया। सम्ऽविन्दते। पतिम्। १८.१।
+इ॒माम्। ख॒ना॒मि॒। ओष॑धिम्। वी॒रुधा॑म्। बल॑वत्ऽतमाम्। यया॑। स॒ऽपत्नी॑म्। बाध॑ते। यया॑। स॒म्ऽवि॒न्दते॑। पति॑म्। १८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

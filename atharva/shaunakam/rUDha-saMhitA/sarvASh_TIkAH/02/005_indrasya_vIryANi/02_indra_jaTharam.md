@@ -34,7 +34,7 @@ O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। जठरम्। नव्यः। न। पृणस्व। मधोः। दिवः। न। अस्य। सुतस्य स्वः᳡। न ः। उप। त्वा। मदाः। सुऽवाचः। अगुः। ५.२।
+इन्द्र॑। ज॒ठर॑म्। न॒व्यः। न। पृ॒णस्व॑। मधो॑ः। दि॒वः। न। अ॒स्य। सु॒तस्य॑ स्व॑᳡ः। न ः। उप॑। त्वा॒। मदा॑ः। सु॒ऽवाच॑ः। अ॒गु॒ः। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

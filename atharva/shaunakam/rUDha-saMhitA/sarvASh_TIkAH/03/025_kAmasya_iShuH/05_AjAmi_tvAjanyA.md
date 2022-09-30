@@ -22,7 +22,7 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 
 <details><summary>पदपाठः</summary>
 
-आ। अजामि। त्वा। आऽअजन्या। परि। मातुः। अथो  इति। पितुः। यथा। मम। क्रतौ। असः। मम। चित्तम्। उपऽआयसि। २५.५।
+आ। अ॒जा॒मि॒। त्वा॒। आ॒ऽअज॑न्या। परि॑। मा॒तुः। अथो॒ इति॑। पि॒तुः। यथा॑। मम॑। क्रतौ॑। अस॑ः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। २५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ When men pierced Brihatsaman through, the Brahman, son of Angiras, The ram with 
 
 <details><summary>पदपाठः</summary>
 
-ये। बृहत्ऽसामानम्। अङ्गिरसम्। आर्पयन्। ब्राह्मणम्। जनाः। पेत्वः। तेषाम्। उभयादम्। अविः। तोकानि। आवयत्। १९.२।
+ये। बृ॒हत्ऽसा॑मानम्। अ॒ङ्गि॒र॒सम्। आर्प॑यन्। ब्रा॒ह्म॒णम्। जना॑ः। पेत्व॑ः। तेषा॑म्। उ॒भ॒याद॑म्। अवि॑ः। तो॒कानि॑। आ॒व॒य॒त्। १९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ I pray the Floods to send us balm, those who bear rule o'er precious things, And
 
 <details><summary>पदपाठः</summary>
 
-ईशानाः। वार्याणाम्। क्षयन्तीः। चर्षणीनाम्। अपः। याचामि। भेषजम्।
+ईशा॑नाः। वार्या॑णाम्। क्षय॑न्तीः। च॒र्ष॒णी॒नाम्। अ॒पः। या॒चा॒मि॒। भे॒ष॒जम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

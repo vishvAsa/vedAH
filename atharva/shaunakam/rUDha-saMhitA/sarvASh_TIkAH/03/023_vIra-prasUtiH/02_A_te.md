@@ -25,7 +25,7 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 
 <details><summary>पदपाठः</summary>
 
-आ। ते। योनिम्। गर्भः। एतु। पुमान्। बाणःऽइव। इषुऽधिम्। आ। वीरः। अत्र। जायताम्। पुत्रः। ते। दशऽमास्यः। २३.२।
+आ। ते॒। योनि॑म्। गर्भ॑ः। ए॒तु॒। पुमा॑न्। बाण॑ःऽइव। इ॒षु॒ऽधिम्। आ। वी॒रः। अत्र॑। जा॒य॒ता॒म्। पु॒त्रः। ते॒। दश॑ऽमास्यः। २३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

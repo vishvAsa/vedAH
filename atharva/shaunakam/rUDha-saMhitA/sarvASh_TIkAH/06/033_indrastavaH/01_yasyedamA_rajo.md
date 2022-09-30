@@ -30,7 +30,7 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 
 <details><summary>पदपाठः</summary>
 
-यस्य। इदम्। आ। रजः। युजः। तुजे। जनाः। वनम्। स्वः᳡। इन्द्रस्य। रन्त्यम्। बृहत्। ३३.१।
+यस्य॑। इ॒दम्। आ। रज॑ः। युज॑ः। तु॒जे। जना॑ः। वन॑म्। स्व᳡ः। इन्द्र॑स्य। रन्त्य॑म्। बृ॒हत्। ३३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ For you we fain would go to him to whose abode ye send us forth, And, Waters, gi
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। अरम्। गमाम। वः। यस्य। क्षयाय। जिन्वथ। आपः। जनयथ। च। नः।
+तस्मै॑। अर॑म्। ग॒मा॒म॒। व॒ः। यस्य॑। क्षया॑य। जिन्व॑थ। आप॑ः। ज॒नय॑थ। च॒। न॒ः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

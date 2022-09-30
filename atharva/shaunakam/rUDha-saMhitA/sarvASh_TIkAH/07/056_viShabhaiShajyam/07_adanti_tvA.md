@@ -24,7 +24,7 @@ The emmets make a meal of thee and peahens tear and mangle thee: All ye are cryi
 
 <details><summary>पदपाठः</summary>
 
-अदन्ति। त्वा। पिपीलिकाः। वि। वृश्चन्ति। मयूर्यः᳡। सर्वे। भल। ब्रवाथ। शार्कोटम्। अरसम्। विषम्। ५८.७।
+अ॒दन्ति॑। त्वा॒। पि॒पीलि॑काः। वि। वृ॒श्च॒न्ति॒। म॒यू॒र्य᳡ः। सर्वे॑। भ॒ल॒। ब्र॒वा॒थ॒। शार्को॑टम्। अ॒र॒सम्। वि॒षम्। ५८.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

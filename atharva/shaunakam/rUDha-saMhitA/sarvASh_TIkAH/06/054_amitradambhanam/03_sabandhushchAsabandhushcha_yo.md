@@ -23,7 +23,7 @@ The man who shows us enmity, whether a stranger or akin, Thou wilt give up entir
 
 <details><summary>पदपाठः</summary>
 
-सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ५४.३।
+सऽब॑न्धुः। च॒। अस॑बन्धुः। च॒। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। सर्व॑म्। तम्। र॒न्ध॒या॒सि॒। मे॒। यज॑मानाय। सु॒न्वते॒। ५४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

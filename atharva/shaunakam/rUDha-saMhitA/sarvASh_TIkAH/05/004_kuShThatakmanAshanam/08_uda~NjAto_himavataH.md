@@ -23,7 +23,7 @@ Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There t
 
 <details><summary>पदपाठः</summary>
 
-उदङ्। जातः। हिमऽवतः। सः। प्राच्याम्। नीयसे। जनम्। तत्र। कुष्ठस्य। नामानि। उत्ऽतमानि। वि। भेजिरे। ४.८।
+उद॑ङ्। जा॒तः। हि॒मऽव॑तः। सः। प्रा॒च्याम्। नी॒य॒से॒। जन॑म्। तत्र॑। कुष्ठ॑स्य। नामा॑नि। उ॒त्ऽत॒मानि॑। वि। भे॒जि॒रे॒। ४.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

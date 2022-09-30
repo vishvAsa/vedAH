@@ -21,7 +21,7 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 
 <details><summary>पदपाठः</summary>
 
-नमः। ते। अधिऽवाकाय। पराऽवाकाय। ते। नमः। सुऽमत्यै। मृत्यो इति। ते। नमः। दुःऽमत्यै। ते। इदम्। नमः। १३.२।
+नम॑ः। ते॒। अ॒धि॒ऽवा॒काय॑। प॒रा॒ऽवा॒काय॑। ते॒। नम॑ः। सु॒ऽम॒त्यै। मृ॒त्यो॒ इति॑। ते॒। नम॑ः। दु॒ःऽम॒त्यै। ते॒। इ॒दम्। नम॑ः। १३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

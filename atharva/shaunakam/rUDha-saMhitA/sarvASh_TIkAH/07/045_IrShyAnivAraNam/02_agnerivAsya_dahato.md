@@ -16,7 +16,7 @@ As one with water quencheth fire, so calm this lover's jealousy, Like heat of fi
 
 <details><summary>पदपाठः</summary>
 
-अग्नेःऽइव। अस्य। दहतः। दावस्य। दहतः। पृथक्। एताम्। एतस्य। ईर्ष्याम्। उद्ना। अग्निम्ऽइव। शमय। ४७.१।
+अ॒ग्नेःऽइ॑व। अ॒स्य॒। दह॑तः। दा॒वस्य॑। दह॑तः। पृथ॑क्। ए॒ताम्। ए॒तस्य॑। ई॒र्ष्याम्। उ॒द्ना। अ॒ग्निम्ऽइ॑व। श॒म॒य॒। ४७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

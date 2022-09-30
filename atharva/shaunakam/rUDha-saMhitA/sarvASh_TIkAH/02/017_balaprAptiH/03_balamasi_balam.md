@@ -19,7 +19,7 @@ Strength art thou, give me strength. All hail!
 
 <details><summary>पदपाठः</summary>
 
-बलम्। असि। बलम्। मे। दाः। स्वाहा। १७.३।
+बल॑म्। अ॒सि॒। बल॑म्। मे॒। दा॒ः। स्वाहा॑। १७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

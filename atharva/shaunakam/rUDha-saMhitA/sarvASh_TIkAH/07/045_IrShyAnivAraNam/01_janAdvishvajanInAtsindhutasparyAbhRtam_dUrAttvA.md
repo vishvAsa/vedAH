@@ -51,7 +51,7 @@ Brought hitherward from Sindhu, from a folk of every mingled race, Fetched from 
 
 <details><summary>पदपाठः</summary>
 
-जनात्। विश्वऽजनीनात्। सिन्धुतः। परि। आऽभृतम्। दूरात्। त्वा। मन्ये। उत्ऽभृतम्। ईर्ष्यायाः। नाम। भेषजम्। ४६.१।
+जना॑त्। वि॒श्व॒ऽज॒नीना॑त्। सि॒न्धु॒तः। परि॑। आऽभृ॑तम्। दू॒रात्। त्वा॒। म॒न्ये॒। उत्ऽभृ॑तम्। ई॒र्ष्याया॑ः। नाम॑। भे॒ष॒जम्। ४६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

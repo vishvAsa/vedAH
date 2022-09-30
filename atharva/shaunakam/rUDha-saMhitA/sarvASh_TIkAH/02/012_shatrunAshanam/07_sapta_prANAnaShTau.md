@@ -35,7 +35,7 @@ Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Ag
 
 <details><summary>पदपाठः</summary>
 
-सप्त। प्राणान्। अष्टौ। मन्यः। तान्। ते। वृश्चामि। ब्रह्मणा। अयाः। यमस्य। सदनम्। अग्निऽदूतः। अरम्ऽकृतः। १२.७।
+स॒प्त। प्रा॒णान्। अ॒ष्टौ। म॒न्यः। तान्। ते॒। वृ॒श्चा॒मि॒। ब्रह्म॑णा। अया॑ः। य॒मस्य॑। सद॑नम्। अ॒ग्निऽदू॑तः। अर॑म्ऽकृतः। १२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

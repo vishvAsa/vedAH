@@ -29,7 +29,7 @@ Bring the Kimidin hither, bring the Yatudhana self-declared For Agni, God, thou,
 
 <details><summary>पदपाठः</summary>
 
-स्तुवानम्। अग्ने। आ। वह। यातुधानम्। किमीदिनम्। त्वम्। हि। देव। वन्दितः। हन्ता। दस्योः। वभूविथ।
+स्तु॒वा॒नम्। अ॒ग्ने॒। आ। व॒ह॒। या॒तु॒धान॑म्। कि॒मी॒दिन॑म्। त्वम्। हि। दे॒व॒। व॒न्दि॒तः। ह॒न्ता। दस्यो॑ः। व॒भूवि॑थ। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

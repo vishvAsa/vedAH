@@ -23,7 +23,7 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 
 <details><summary>पदपाठः</summary>
 
-सुपर्णऽसुवने। गिरौ। जातम्। हिमऽवतः। परि। धनैः। अभि। श्रुत्वा। यन्ति। विदुः। हि। तक्मऽनाशनम्। ४.२।
+सु॒प॒र्ण॒ऽसुव॑ने। गि॒रौ। जा॒तम्। हि॒मऽव॑तः। परि॑। धनै॑ः। अ॒भि। श्रु॒त्वा। य॒न्ति॒। वि॒दुः। हि। त॒क्म॒ऽनाश॑नम्। ४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

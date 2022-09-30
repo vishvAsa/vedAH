@@ -28,7 +28,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin, Or seize
 
 <details><summary>पदपाठः</summary>
 
-या। शशाप। शपनेन। या। अघम्। मूरम्। आऽदधे। या। रसस्य। हरणाय। जातम्। आऽरेभे। तोकम्। अत्तु। सा। १७.३।
+या। श॒शाप॑। शप॑नेन। या। अ॒घम्। मूर॑म्। आ॒ऽद॒धे। या। रस॑स्य। हर॑णाय। जा॒तम्। आ॒ऽरे॒भे। तो॒कम्। अ॒त्तु॒। सा। १७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

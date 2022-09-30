@@ -21,7 +21,7 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 
 <details><summary>पदपाठः</summary>
 
-सप्त। च। याः। सप्ततिः। च। सम्ऽयन्ति। ग्रैव्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.२।
+स॒प्त। च॒। याः। स॒प्त॒तिः। च॒। स॒म्ऽयन्ति॑। ग्रैव्या॑ः। अ॒भि। इ॒तः। ताः। सर्वा॑ः। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

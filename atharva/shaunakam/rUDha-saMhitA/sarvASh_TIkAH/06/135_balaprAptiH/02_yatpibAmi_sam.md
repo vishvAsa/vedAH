@@ -21,7 +21,7 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 
 <details><summary>पदपाठः</summary>
 
-यत्। पिबामि। सम्। पिबामि। समुद्रःऽइव। सम्ऽपिबः। प्राणान्। अमुष्य। सम्ऽपाय। सम्। पिबामः। अमुम्। वयम्। १३५.२।
+यत्। पिबा॑मि। सम्। पि॒बा॒मि॒। स॒मु॒द्रःऽइ॑व। स॒म्ऽपि॒बः। प्रा॒णान्। अ॒मुष्य॑। स॒म्ऽपाय॑। सम्। पि॒बा॒म॒ः। अ॒मुम्। व॒यम्। १३५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

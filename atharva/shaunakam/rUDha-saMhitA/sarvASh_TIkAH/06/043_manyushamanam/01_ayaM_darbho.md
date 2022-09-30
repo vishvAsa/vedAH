@@ -23,7 +23,7 @@ For stranger and for friend alike this Darbha-grass removeth wrath. Soother of A
 
 <details><summary>पदपाठः</summary>
 
-अयम्। दर्भः। विऽमन्युकः। स्वाय। च। अरणाय। च। मन्योः। विऽमन्युकस्य। अयम्। मन्युऽशमनः। उच्यते। ४३.१।
+अ॒यम्। द॒र्भः। विऽम॑न्युकः। स्वाय॑। च॒। अर॑णाय। च॒। म॒न्योः। विऽम॑न्युकस्य। अ॒यम्। म॒न्यु॒ऽशम॑नः। उ॒च्य॒ते॒। ४३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

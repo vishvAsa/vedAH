@@ -22,7 +22,7 @@ Destroyer of my rivals, strong, victorious, with royal sway, May I be ruler of t
 
 <details><summary>पदपाठः</summary>
 
-सपत्नऽक्षयणः। वृषा। अभिऽराष्ट्रः। विऽससहिः। यथा। अहम्। एषाम्। वीराणाम्। विऽराजानि। जनस्य। च।
+स॒प॒त्न॒ऽक्षय॑णः। वृषा॑। अ॒भिऽरा॑ष्ट्रः। वि॒ऽस॒स॒हिः। यथा॑। अ॒हम्। ए॒षाम्। वी॒राणा॑म्। वि॒ऽराजा॑नि। जन॑स्य। च॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

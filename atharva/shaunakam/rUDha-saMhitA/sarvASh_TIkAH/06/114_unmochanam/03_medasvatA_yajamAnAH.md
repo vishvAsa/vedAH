@@ -26,7 +26,7 @@ With ladle full of fatness we, worshippers, pouring holy oil, Striving, have fai
 
 <details><summary>पदपाठः</summary>
 
-मेदस्वता। यजमानाः। स्रुचा। आज्यानि। जुह्वतः। अकामाः। विश्वे। वः। देवाः। शिक्षन्तः। न। उप। शेकिम। ११४.३।
+मेद॑स्वता। यज॑मानाः। स्रु॒चा। आज्या॑नि। जुह्व॑तः। अ॒का॒माः। वि॒श्वे॒। व॒ः। दे॒वा॒ः। शिक्ष॑न्तः। न। उप॑। शे॒कि॒म॒। ११४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

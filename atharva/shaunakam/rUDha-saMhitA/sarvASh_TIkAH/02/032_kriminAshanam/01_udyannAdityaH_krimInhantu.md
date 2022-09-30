@@ -27,7 +27,7 @@ Uprising let the Sun destroy, and when he sinketh, with his beams. The Worms tha
 
 <details><summary>पदपाठः</summary>
 
-उत्ऽयन्। आदित्यः। क्रिमीन्। हन्तु। निऽम्रोचन्। हन्तु। रश्मिऽभिः। ये। अन्तः। क्रिमयः। गवि। ३२.१।
+उ॒त्ऽयन्। आ॒दि॒त्यः। क्रिमी॑न्। ह॒न्तु॒। नि॒ऽम्रोच॑न्। ह॒न्तु॒। र॒श्मिऽभि॑ः। ये। अ॒न्तः। क्रिम॑यः। गवि॑। ३२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

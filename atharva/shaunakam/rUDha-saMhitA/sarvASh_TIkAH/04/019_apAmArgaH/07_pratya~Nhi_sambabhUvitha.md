@@ -23,7 +23,7 @@ For thou hast grown reverted, and turned backward also is thy fruit. Remove all 
 
 <details><summary>पदपाठः</summary>
 
-प्रत्यङ्। हि। सम्ऽबभूविथ। प्रतीचीनऽफलः। त्वम्। सर्वान्। मत्। शपथान्। अधि। वरीयः। यवय। वधम्। १९.७।
+प्र॒त्यङ्। हि। स॒म्ऽब॒भूवि॑थ। प्र॒ती॒चीन॑ऽफलः। त्वम्। सर्वा॑न्। मत्। श॒पथा॑न्। अधि॑। वरी॑यः। य॒व॒य॒। व॒धम्। १९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

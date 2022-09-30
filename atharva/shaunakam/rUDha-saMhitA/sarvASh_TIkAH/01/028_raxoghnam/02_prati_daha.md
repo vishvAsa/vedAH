@@ -21,7 +21,7 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 
 <details><summary>पदपाठः</summary>
 
-प्रति। दह। यातुऽधानान्। प्रति। देव। किमीदिनः। प्रतीचीः। कृष्णऽवर्तने। सम्। दह। यातुऽधान्यः।
+प्रति॑। द॒ह॒। या॒तु॒ऽधाना॑न्। प्रति॑। दे॒व॒। कि॒मी॒दिन॑ः। प्र॒तीची॑ः। कृ॒ष्ण॒ऽव॒र्त॒ने॒। सम्। द॒ह॒। या॒तु॒ऽधा॒न्यः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

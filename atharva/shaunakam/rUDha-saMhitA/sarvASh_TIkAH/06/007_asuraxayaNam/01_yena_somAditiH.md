@@ -23,7 +23,7 @@ impossible. ⌊The description as *nicṛt* belongs rather to 8. 1.⌋
 
 <details><summary>पदपाठः</summary>
 
-येन। सोम। अदितिः। पथा। मित्राः। वा। यन्ति। अद्रुहः। तेन। नः। अवसा। आ। गहि। ७.१।
+येन॑। सो॒म॒। अदि॑तिः। प॒था। मि॒त्राः। वा॒। यन्ति॑। अ॒द्रुह॑ः। तेन॑। न॒ः। अव॑सा। आ। ग॒हि॒। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

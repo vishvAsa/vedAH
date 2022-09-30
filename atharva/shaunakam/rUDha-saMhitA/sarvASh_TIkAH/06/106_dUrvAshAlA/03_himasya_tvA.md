@@ -27,7 +27,7 @@ O House, we compass thee about with coolness to envelop thee. Cool as a lake be 
 
 <details><summary>पदपाठः</summary>
 
-हिमस्य। त्वा। जरायुणा। शाले। परि। व्ययामसि। शीतऽह्रदा। हि। नः। भुवः। अग्निः। कृणोतु। भेषजम्। १०६.३।
+हि॒मस्य॑। त्वा॒। जरायु॑णा। शाले॑। परि॑। व्य॒या॒म॒सि॒। शी॒तऽह्र॑दा। हि। न॒ः। भुव॑ः। अ॒ग्निः। कृ॒णो॒तु॒। भे॒ष॒जम्। १०६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

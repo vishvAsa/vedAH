@@ -20,7 +20,7 @@ The share of water which the Gods have destined to be thine, is that, Oppressor 
 
 <details><summary>पदपाठः</summary>
 
-येन। मृतम्। स्नपयन्ति। श्मश्रूणि। येन। उन्दते। तम्। वै। ब्रह्मऽज्य। ते। देवाः। अपाम्। भागम्। अधारयन्। १९.१४।
+येन॑। मृ॒तम्। स्न॒पय॑न्ति। श्मश्रू॑णि। येन॑। उ॒न्दते॑। तम्। वै। ब्र॒ह्म॒ऽज्य॒। ते॒। दे॒वाः। अ॒पाम्। भा॒गम्। अ॒धा॒र॒य॒न्। १९.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

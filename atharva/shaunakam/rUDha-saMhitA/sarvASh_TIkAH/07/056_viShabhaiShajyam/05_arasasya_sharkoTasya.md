@@ -22,7 +22,7 @@ This scorpion here that creeps along, low on the ground and powerless-- I have r
 
 <details><summary>पदपाठः</summary>
 
-अरसस्य। शर्कोटस्य। नीचीनस्य। उपऽसर्पतः। विषम्। हि। अस्य। आऽअदिषि। अथो इति। एनम्। अजीजभम्। ५८.५।
+अ॒र॒सस्य॑। श॒र्कोट॑स्य। नी॒चीन॑स्य। उ॒प॒ऽसर्प॑तः। वि॒षम्। हि। अ॒स्य॒। आ॒ऽअदि॑षि। अथो॒ इति॑। ए॒न॒म्। अ॒जी॒ज॒भ॒म्। ५८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

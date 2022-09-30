@@ -24,7 +24,7 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 
 <details><summary>पदपाठः</summary>
 
-आऽदानेन। सम्ऽदानेन। अमित्रान्। आ। द्यामसि। अपानाः। ये। च। एषाम्। प्राणाः। असुना। असून्। सम्। अच्छिदन्। १०४.१।
+आ॒ऽदाने॑न। स॒म्ऽदाने॑न। अ॒मित्रा॑न्। आ। द्या॒म॒सि॒। अ॒पा॒नाः। ये। च॒। ए॒षा॒म्। प्रा॒णाः। असु॑ना। असू॑न्। सम्। अ॒च्छि॒द॒न्। १०४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

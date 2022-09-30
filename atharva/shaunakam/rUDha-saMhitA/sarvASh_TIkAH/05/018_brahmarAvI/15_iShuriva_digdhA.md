@@ -24,7 +24,7 @@ Prince! like a poisoned arrow, like a deadly snake, O lord of kine! Dire is the 
 
 <details><summary>पदपाठः</summary>
 
-इषुःऽइव। दिग्धा। नृऽपते। पृदाकूःऽइव। गोऽपते। सा। ब्राह्मणस्य। इषुः। घोरा। तया। विध्यति। पीयतः। १८.१५।
+इषु॑ःऽइव। दि॒ग्धा। नृ॒ऽप॒ते॒। पृ॒दा॒कूःऽइ॑व। गो॒ऽप॒ते॒। सा। ब्रा॒ह्म॒णस्य॑। इषु॑ः। घो॒रा। तया॑। वि॒ध्य॒ति॒। पीय॑तः। १८.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

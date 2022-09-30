@@ -25,7 +25,7 @@ He flieth in the firmament observing all the things that be: We with this offeri
 
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षेण। पतति। विश्वा। भूता। अवऽचाकशत्। शुनः। दिव्यस्य। यत्। महः। तेन। ते। हविषा। विधेम। ८०.१।
+अ॒न्तरि॑क्षेण। प॒त॒ति॒। विश्वा॑। भू॒ता। अ॒व॒ऽचाक॑शत्। शुन॑ः। दि॒व्यस्य॑। यत्। मह॑ः। तेन॑। ते॒। ह॒विषा॑। वि॒धे॒म॒। ८०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

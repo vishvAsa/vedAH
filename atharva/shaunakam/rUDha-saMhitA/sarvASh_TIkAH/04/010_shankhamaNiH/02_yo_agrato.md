@@ -23,7 +23,7 @@ Shell that wast born from out the sea, set at the head of things that shine! Wit
 
 <details><summary>पदपाठः</summary>
 
-यः। अग्रतः। रोचनानाम्। समुद्रात्। अधि। जज्ञिषे। शङ्खेन। हत्वा। रक्षांसि। अत्त्रिणः। वि। सहामहे। १०.२।
+यः। अ॒ग्र॒तः। रो॒च॒नाना॑म्। स॒मु॒द्रात्। अधि॑। ज॒ज्ञि॒षे। श॒ङ्खेन॑। ह॒त्वा। रक्षां॑सि। अ॒त्त्रिण॑ः। वि। स॒हा॒म॒हे॒। १०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

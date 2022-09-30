@@ -27,7 +27,7 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 
 <details><summary>पदपाठः</summary>
 
-दूष्याः। दूषिः। असि। हेत्याः। हेतिः। असि। मेन्याः। मेनिः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.१।
+दूष्या॑ः। दूषि॑ः। अ॒सि॒। हे॒त्याः। हे॒तिः। अ॒सि॒। मे॒न्याः। मे॒निः। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

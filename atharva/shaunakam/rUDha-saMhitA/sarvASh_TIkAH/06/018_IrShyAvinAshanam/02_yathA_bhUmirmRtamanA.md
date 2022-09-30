@@ -22,7 +22,7 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 
 <details><summary>पदपाठः</summary>
 
-यथा। भूमिः। मृतऽमनाः। मृतात्। मृतमनःऽतरा। यथा। उत। मम्रुषः। मनः। एव। ईर्ष्योः। मृतम्। मनः। १८.२।
+यथा॑। भूमि॑ः। मृ॒तऽम॑नाः। मृ॒तात्। मृ॒तम॑नःऽतरा॑। यथा॑। उ॒त। म॒म्रुष॑ः। मन॑ः। ए॒व। ई॒र्ष्योः। मृ॒तम्। मन॑ः। १८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

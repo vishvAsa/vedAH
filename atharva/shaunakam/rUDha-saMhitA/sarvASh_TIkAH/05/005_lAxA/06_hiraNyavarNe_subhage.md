@@ -25,7 +25,7 @@ Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst tho
 
 <details><summary>पदपाठः</summary>
 
-हिरण्यऽवर्णे। सुऽभगे। सूर्यऽवर्णे। वपुःऽतमे। रुतम्। गच्छासि। निःऽकृते। निःऽकृतिः। नाम। वै। असि। ५.६।
+हिर॑ण्यऽवर्णे। सुऽभ॑गे। सूर्य॑ऽवर्णे। वपु॑ःऽतमे। रु॒तम्। ग॒च्छा॒सि॒। नि॒ःऽकृ॒ते॒। निःऽकृ॑तिः। नाम॑। वै। अ॒सि॒। ५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

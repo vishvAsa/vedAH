@@ -21,7 +21,7 @@ Feeble, O Arrow, is thy shaft, thy poison, too, hath lost its strength. Made of 
 
 <details><summary>पदपाठः</summary>
 
-अरसः। ते। इषो  इति। शल्यः। अथो  इति। ते। अरसम्। विषम्। उत। अरसस्य। वृक्षस्य। धनुः। ते। अरस। अरसम्। ६.६।
+अ॒र॒सः। ते॒। इ॒षो॒ इति॑। श॒ल्यः। अथो॒ इति॑। ते॒। अ॒र॒सम्। वि॒षम्। उ॒त। अ॒र॒सस्य॑। वृ॒क्षस्य॑। धनु॑ः। ते॒। अ॒र॒स॒। अ॒र॒सम्। ६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

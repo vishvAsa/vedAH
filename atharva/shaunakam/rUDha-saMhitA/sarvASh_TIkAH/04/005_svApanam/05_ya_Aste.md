@@ -31,7 +31,7 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 
 <details><summary>पदपाठः</summary>
 
-यः। आस्ते। यः। चरति। यः। च। तिष्ठन्। विऽपश्यति। तेषाम्। सम्। दध्मः। अक्षीणि। यथा। इदम्। हर्म्यम्। तथा। ५.५।
+यः। आस्ते॑। यः। चर॑ति। यः। च॒। तिष्ठ॑न्। वि॒ऽपश्य॑ति। तेषा॑म्। सम्। द॒ध्म॒ः। अक्षी॑णि। यथा॑। इ॒दम्। ह॒र्म्यम्। तथा॑। ५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

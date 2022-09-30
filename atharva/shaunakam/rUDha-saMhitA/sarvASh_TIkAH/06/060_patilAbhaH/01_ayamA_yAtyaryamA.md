@@ -34,7 +34,7 @@ With forelock loosened o'er his brow here comes the wooer of the bride, Seeking 
 
 <details><summary>पदपाठः</summary>
 
-अयम्। आ। याति। अर्यमा। पुरस्तात्। विसितऽस्तुपः। अस्यै। इच्छन्। अग्रुवै। पतिम्। उत। जायाम्। अजानये। ६०.१।
+अ॒यम्। आ। या॒ति॒। अ॒र्य॒मा। पु॒रस्ता॑त्। विसि॑तऽस्तुपः। अ॒स्यै। इ॒च्छन्। अ॒ग्रुवै॑। पति॑म्। उ॒त। जा॒याम्। अ॒जान॑ये। ६०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, in
 
 <details><summary>पदपाठः</summary>
 
-तृतीयकम्। विऽतृतीयम्। सदम्ऽदिम्। उत। शारदम्। तक्मानम्। शीतम्। रूरम्। ग्रैष्मम्। नाशय। वार्षिकम्। २२.१३।
+तृती॑यकम्। वि॒ऽतृ॒ती॒यम्। स॒द॒म्ऽदिम्। उ॒त। शा॒र॒दम्। त॒क्मान॑म्। शी॒तम्। रू॒रम्। ग्रैष्म॑म्। ना॒श॒य॒। वार्षि॑कम्। २२.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

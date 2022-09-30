@@ -24,7 +24,7 @@ With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into dista
 
 <details><summary>पदपाठः</summary>
 
-प्रतीचीनऽफलः। हि। त्वम्। अपामार्ग। रुरोहिथ। सर्वान्। मत्। शपथान्। अधि। वरीयः। यवयाः। इतः। ६७.१।
+प्र॒ती॒चीन॑ऽफलः। हि। त्वम्। अपा॑मार्ग। रु॒रोहि॑थ। सर्वा॑न्। मत्। श॒पथा॑न्। अधि॑। वरी॑यः। य॒व॒या॒ः। इ॒तः। ६७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

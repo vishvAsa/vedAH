@@ -28,7 +28,7 @@ His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever s
 
 <details><summary>पदपाठः</summary>
 
-ओकः। अस्य। मूजऽवन्तः। ओकः। अस्य। महाऽवृषाः। यावत्। जातः। तक्मन्। तावान्। असि। बल्हिकेषु। निऽओचरः। २२.५।
+ओक॑ः। अ॒स्य॒। मूज॑ऽवन्तः। ओक॑ः। अ॒स्य॒। म॒हा॒ऽवृ॒षाः। याव॑त्। जा॒तः। त॒क्म॒न्। तावा॑न्। अ॒सि॒। बल्हि॑केषु। नि॒ऽओ॒च॒रः। २२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

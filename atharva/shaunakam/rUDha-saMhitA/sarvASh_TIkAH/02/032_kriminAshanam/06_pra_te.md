@@ -30,7 +30,7 @@ I break in pieces both thy horns wherewith thou pushest here and there: I cleave
 
 <details><summary>पदपाठः</summary>
 
-प्र। ते। शृणामि। शृङ्गे इति। याभ्याम्। विऽतुदायसि। भिनद्मि। ते। कुषुम्भम्। यः। ते। विषऽधानः। ३२.६।
+प्र। ते॒। शृ॒णा॒मि॒। शृङ्गे॒ इति॑। याभ्या॑म्। वि॒ऽतु॒दा॒यसि॑। भि॒नद्मि॑। ते॒। कु॒षुम्भ॑म्। यः। ते॒। वि॒ष॒ऽधान॑ः। ३२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

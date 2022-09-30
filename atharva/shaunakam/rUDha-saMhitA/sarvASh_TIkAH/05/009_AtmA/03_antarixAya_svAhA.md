@@ -18,12 +18,12 @@ All hail to Air!
 
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षाय। स्वाहा। ९.३।
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.३। 
 </details>
 
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षाय। स्वाहा। ९.३।
+अ॒न्तरि॑क्षाय। स्वाहा॑। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -33,3 +33,4 @@ All hail to Air!
 - दैवी जगती
 - आत्मा सूक्त
 </details>
+

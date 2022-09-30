@@ -26,7 +26,7 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 
 <details><summary>पदपाठः</summary>
 
-उपऽप्रवद। मण्डूकि। वर्षम्। आ। वद। तादुरि। मध्ये। हृदस्य। प्लवस्व। विऽगृह्य। चतुरः। पदः। १५.१४।
+उ॒प॒ऽप्रव॑द। म॒ण्डू॒कि॒। व॒र्षम्। आ। व॒द॒। ता॒दु॒रि॒। मध्ये॑। हृ॒दस्य॑। प्ल॒व॒स्व॒। वि॒ऽगृह्य॑। च॒तुर॑ः। प॒दः। १५.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

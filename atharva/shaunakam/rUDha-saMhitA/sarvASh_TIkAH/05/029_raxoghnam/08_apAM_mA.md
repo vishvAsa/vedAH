@@ -24,12 +24,12 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 
 <details><summary>पदपाठः</summary>
 
-अपाम्। मा। पाने। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। । २९.८।
+अ॒पाम्। मा॒। पाने॑। य॒त॒मः। द॒दम्भ॑। क्र॒व्य॒ऽअत्। या॒तू॒नाम्। शय॑ने। शया॑नम्। । २९.८। 
 </details>
 
 <details><summary>पदपाठः</summary>
 
-अपाम्। मा। पाने। यतमः। ददम्भ। क्रव्यऽअत्। यातूनाम्। शयने। शयानम्। । २९.८।
+अ॒पाम्। मा॒। पाने॑। य॒त॒मः। द॒दम्भ॑। क्र॒व्य॒ऽअत्। या॒तू॒नाम्। शय॑ने। शया॑नम्। । २९.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -39,3 +39,4 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 - त्रिष्टुप्
 - रक्षोघ्न सूक्त
 </details>
+

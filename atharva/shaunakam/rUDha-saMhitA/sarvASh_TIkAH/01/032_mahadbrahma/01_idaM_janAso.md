@@ -28,7 +28,7 @@ Ye people, hear and mark this well: he will pronounce a mighty prayer: That whic
 
 <details><summary>पदपाठः</summary>
 
-इदम्। जनासः। विदथ। महत्। ब्रह्म। वदिष्यति। न। तत्। पृथिव्याम्। नो इति। दिवि। येन। प्राणन्ति। वीरुधः।
+इ॒दम्। ज॒ना॒स॒ः। वि॒दथ॑। म॒हत्। ब्रह्म॑। व॒दि॒ष्य॒ति॒। न। तत्। पृ॒थि॒व्याम्। नो इति॑। दि॒वि। येन॑। प्रा॒णन्ति॑। वी॒रुध॑ः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

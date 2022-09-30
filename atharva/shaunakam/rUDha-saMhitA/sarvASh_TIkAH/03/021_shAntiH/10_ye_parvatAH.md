@@ -25,7 +25,7 @@ The mountains where the Soma grows, the waters lying calm and still, Vata, Parja
 
 <details><summary>पदपाठः</summary>
 
-ये। पर्वताः। सोमऽपृष्ठाः। आपः। उत्तानऽशीवरीः। वातः। पर्जन्यः। आत्। अग्निः। ते। क्रव्यऽअदम्। अशीशमन्। २१.१०।
+ये। पर्व॑ताः। सोम॑ऽपृष्ठाः। आप॑ः। उ॒त्ता॒न॒ऽशीव॑रीः। वात॑ः। प॒र्जन्य॑ः। आत्। अ॒ग्निः। ते। क्र॒व्य॒ऽअद॑म्। अ॒शी॒श॒म॒न्। २१.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ May our desire which Gods have roused fulfil itself by day and night. We seek to
 
 <details><summary>पदपाठः</summary>
 
-प्र। नः। वनिः। देवऽकृता। दिवा। नक्तम्। च। कल्पताम्। अरातिम्। अनुऽप्रेमः। वयम्। नमः। अस्तु। अरातये। ७.३।
+प्र। न॒ः। व॒निः। दे॒वऽकृ॑ता। दिवा॑। नक्त॑म्। च॒। क॒ल्प॒ता॒म्। अरा॑तिम्। अ॒नु॒ऽप्रेम॑ः। व॒यम्। नम॑ः। अ॒स्तु॒। अरा॑तये। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

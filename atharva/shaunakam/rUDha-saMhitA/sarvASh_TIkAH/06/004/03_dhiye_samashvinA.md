@@ -28,7 +28,7 @@ May both the Asvins further our devotion. With ceaseless care deliver us, Wide-R
 
 <details><summary>पदपाठः</summary>
 
-धिये। सम्। अश्विना। प्र। अवतम्। नः। उरुष्य। नः। उरुऽज्मन्। अप्रऽयुच्छन्। द्यौः᳡। पितः। यवय। दुच्छुना। या। ४.३।
+धि॒ये। सम्। अ॒श्वि॒ना॒। प्र। अ॒व॒त॒म्। न॒ः। उ॒रु॒ष्य। न॒ः। उ॒रु॒ऽज्म॒न्। अप्र॑ऽयुच्छन्। द्यौ᳡ः। पित॑ः। य॒वय॑। दु॒च्छुना॑। या। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

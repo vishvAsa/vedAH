@@ -22,7 +22,7 @@ Insane through sin against the Gods, or maddened by a demon's power-- Well-skill
 
 <details><summary>पदपाठः</summary>
 
-देवऽएनसात्। उत्ऽमदितम्। उत्ऽमत्तम्। रक्षसः। परि। कृणोमि। विद्वान्। भेषजम्। यदा। अनुत्ऽमदितः। असति। १११.३।
+दे॒व॒ऽए॒न॒सात्। उत्ऽम॑दितम्। उत्ऽम॑त्तम्। रक्ष॑सः। परि॑। कृ॒णो॒मि॑। वि॒द्वान्। भे॒ष॒जम्। य॒दा। अनु॑त्ऽमदितः। अस॑ति। १११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

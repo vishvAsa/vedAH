@@ -27,7 +27,7 @@ Well be it with my upper frame, well be it with my lower parts. With my four lim
 
 <details><summary>पदपाठः</summary>
 
-शम्। मे। परस्मै। गात्राय। शम्। अस्तु। अवराय। मे। शम्। मे। चतुःऽभ्यः। अङ्गेभ्यः। शम्। अस्तु। तन्वे। मम।
+शम्। मे॒। पर॑स्मै। गात्रा॑य। शम्। अ॒स्तु॒। अव॑राय। मे॒। शम्। मे॒। च॒तुःऽभ्य॑ः। अङ्गे॑भ्यः। शम्। अ॒स्तु॒। त॒न्वे। मम॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

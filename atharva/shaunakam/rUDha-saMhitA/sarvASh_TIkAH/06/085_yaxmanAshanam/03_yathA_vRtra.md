@@ -21,7 +21,7 @@ Even as Vritra checked and stayed these waters flowing every way, With Agni, God
 
 <details><summary>पदपाठः</summary>
 
-यथा। वृत्रः। इमाः। आपः। तस्तम्भ। विश्वधा। यतीः। एव। ते। अग्निना। यक्ष्मम्। वैश्वानरेण। वारये। ८५.३।
+यथा॑। वृ॒त्रः। इ॒माः। आप॑ः। त॒स्तम्भ॑। वि॒श्वधा॑। य॒तीः। ए॒व। ते॒। अ॒ग्निना॑। यक्ष्म॑म्। वै॒श्वा॒न॒रेण॑। वा॒र॒ये॒। ८५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

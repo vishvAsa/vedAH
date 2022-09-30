@@ -27,7 +27,7 @@ I have gone round their homes as runs a fleet-foot racer round the post, And in 
 
 <details><summary>पदपाठः</summary>
 
-परि। धामानि। आसाम्। आशुः। गाष्ठाम्ऽइव। असरन्। अजैषम्। सर्वान्। आजीन्। वः। नश्यत। इतः। सदान्वाः। १४.६।
+परि॑। धामा॑नि। आ॒सा॒म्। आ॒शुः। गाष्ठा॑म्ऽइव। अ॒स॒र॒न्। अजै॑षम्। सर्वा॑न्। आ॒जीन्। व॒ः। नश्य॑त। इ॒तः। स॒दान्वा॑ः। १४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

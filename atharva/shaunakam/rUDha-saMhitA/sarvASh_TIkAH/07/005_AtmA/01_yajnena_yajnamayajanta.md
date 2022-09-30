@@ -6,7 +6,7 @@ title = "०१ यज्ञेन यज्ञमयजन्त"
 <div class="js_include" includetitle="false" newlevelforh1="5" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/16_yajnena_yajnamayajanta.md"> </div>
 <details><summary>पदपाठः</summary>
 
-यज्ञेन। यज्ञम्। अयजन्त। देवाः। तानि। धर्माणि। प्रथमानि। आसन्। ते। ह। नाकम्। महिमानः। सचन्त। यत्र। पूर्वे। साध्याः। सन्ति। देवाः। ५.१।
+य॒ज्ञेन॑। य॒ज्ञम्। अ॒य॒ज॒न्त॒। दे॒वाः। तानि॑। धर्मा॑णि। प्र॒थ॒मानि॑। आ॒स॒न्। ते। ह॒। नाक॑म्। म॒हि॒मान॑ः। स॒च॒न्त॒। यत्र॑। पूर्वे॑। सा॒ध्याः। सन्ति॑। दे॒वाः। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

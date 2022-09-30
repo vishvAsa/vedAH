@@ -22,7 +22,7 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 
 <details><summary>पदपाठः</summary>
 
-परमाम्। तम्। पराऽवतम्। इन्द्रः। नुदतु। वृत्रऽहा। यतः। न। पुनः। आऽअयति। शश्वतीभ्यः। समाभ्यः। ७५.२।
+प॒र॒माम्। तम्। प॒रा॒ऽवत॑म्। इन्द्र॑ः। नु॒द॒तु॒। वृ॒त्र॒ऽहा। यत॑ः। न। पुन॑ः। आ॒ऽअय॑ति। श॒श्व॒तीभ्य॑ः। समा॑भ्यः। ७५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

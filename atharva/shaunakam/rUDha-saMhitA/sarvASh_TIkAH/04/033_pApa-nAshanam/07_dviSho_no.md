@@ -19,7 +19,7 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 
 <details><summary>पदपाठः</summary>
 
-द्विषः। नः। विश्वतःऽमुख। अति। नावाऽइव। पारय। अप। नः। शोशुचत्। अघम्। ३३.७।
+द्विष॑ः। न॒ः। वि॒श्व॒त॒ःऽमु॒ख॒। अति॑। ना॒वाऽइ॑व। पा॒र॒य॒। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

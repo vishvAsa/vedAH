@@ -30,7 +30,7 @@ Moving together, free from fear, with plenteous droppings in this pen, Bearing s
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽजग्मानाः। अबिभ्युषीः। अस्मिन्। गोऽस्थे। करीषिणीः। बिभ्रतीः। सोम्यम्। मधु। अनमीवाः। उपऽएतन। १४.३।
+स॒म्ऽज॒ग्मा॒नाः। अबि॑भ्युषीः। अ॒स्मिन्। गो॒ऽस्थे। क॒री॒षिणी॑ः। बिभ्र॑तीः। सो॒म्यम्। मधु॑। अ॒न॒मी॒वाः। उ॒प॒ऽएत॑न। १४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

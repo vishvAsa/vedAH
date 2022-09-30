@@ -29,7 +29,7 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 
 <details><summary>पदपाठः</summary>
 
-सहमाना। इयम्। प्रथमा। पृश्निऽपर्णी। अजायत। तया। अहम्। दुःऽनाम्नाम्। शिरः। वृश्चामि। शकुनेःऽइव। २५.२।
+सह॑माना। इ॒यम्। प्र॒थ॒मा। पृ॒श्नि॒ऽप॒र्णी। अ॒जा॒य॒त॒। तया॑। अ॒हम्। दु॒ःऽनाम्ना॑म्। शिर॑ः। वृ॒श्चा॒मि॒। श॒कुने॑ःऽइव। २५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

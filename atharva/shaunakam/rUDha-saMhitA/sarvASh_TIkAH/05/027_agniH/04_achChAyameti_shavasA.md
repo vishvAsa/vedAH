@@ -155,7 +155,7 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 
 <details><summary>पदपाठः</summary>
 
-अच्छ। अयम्। एति। शवसा। घृता। चित्। ईडानः। वह्नि। नमसा। २७.४।
+अच्छ॑। अ॒यम्। ए॒ति॒। शव॑सा। घृ॒ता। चि॒त्। ईडा॑नः। वह्नि॑। नम॑सा। २७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

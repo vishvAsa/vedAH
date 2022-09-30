@@ -31,7 +31,7 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 
 <details><summary>पदपाठः</summary>
 
-न। इत्। शत्रुः। प्राशम्। जयाति। सहमाना। अभिऽभूः। असि। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.१।
+न। इत्। शत्रु॑ः। प्राश॑म्। ज॒या॒ति॒। सह॑माना। अ॒भि॒ऽभूः। अ॒सि॒। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

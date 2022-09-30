@@ -24,7 +24,7 @@ Worms that are white about the sides, those that are black with black-hued arms,
 
 <details><summary>पदपाठः</summary>
 
-सऽरूपौ। द्वौ। विऽरूपौ। द्वौ। कृष्णौ। द्वौ। रोहितौ। द्वौ। बभ्रुः। च। बभ्रुऽकर्णः। च। गृध्र। कोकः। च। ते। हताः। २३.४।
+सऽरू॑पौ। द्वौ। विऽरू॑पौ। द्वौ। कृ॒ष्णौ। द्वौ। रोहि॑तौ। द्वौ। ब॒भ्रुः। च॒। ब॒भ्रुऽक॑र्णः। च॒। गृध्र॑। कोक॑ः। च॒। ते। ह॒ताः। २३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

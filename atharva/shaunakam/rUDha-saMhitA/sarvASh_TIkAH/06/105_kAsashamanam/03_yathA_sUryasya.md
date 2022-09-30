@@ -22,7 +22,7 @@ Rapidly as the beams of light, the rays of Surya, fly away, So, Cough! fly rapid
 
 <details><summary>पदपाठः</summary>
 
-यथा। सूर्यस्य। रश्मयः। पराऽपतन्ति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। समुद्रस्य। अनु। विऽक्षरम्। १०५.३।
+यथा॑। सूर्य॑स्य। र॒श्मय॑ः। प॒रा॒ऽपत॑न्ति। आ॒शु॒ऽमत्। ए॒व। त्वम्। का॒से॒। प्र। प॒त॒। स॒मु॒द्रस्य॑। अनु॑। वि॒ऽक्ष॒रम्। १०५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

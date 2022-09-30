@@ -21,7 +21,7 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 
 <details><summary>पदपाठः</summary>
 
-इमे। गृहाः। मयःऽभुवः। ऊर्जस्वन्तः। पयस्वन्तः। पूर्णाः। वामेन। तिष्ठन्तः। ते। नः। जानन्तु। आऽयतः। ६२.२।
+इ॒मे। गृ॒हाः। म॒य॒ःऽभुव॑ः। ऊर्ज॑स्वन्तः। पय॑स्वन्तः। पू॒र्णाः। वा॒मेन॑। तिष्ठ॑न्तः। ते। न॒ः। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

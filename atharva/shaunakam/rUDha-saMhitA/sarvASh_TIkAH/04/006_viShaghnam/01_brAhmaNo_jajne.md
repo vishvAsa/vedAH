@@ -24,7 +24,7 @@ The Brahman first was brought to life ten-headed and with faces ten. First drink
 
 <details><summary>पदपाठः</summary>
 
-ब्राह्मणः। जज्ञे। प्रथमः। दशऽशीर्षः। दशऽआस्यः। सः। सोमम्। प्रथमः। पपौ। सः। चकार। अरसम्। विषम्। ६.१।
+ब्रा॒ह्म॒णः। ज॒ज्ञे॒। प्र॒थ॒मः। दश॑ऽशीर्षः। दश॑ऽआस्यः। सः। सोम॑म्। प्र॒थ॒मः। प॒पौ॒। सः। च॒का॒र॒। अ॒र॒सम्। वि॒षम्। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

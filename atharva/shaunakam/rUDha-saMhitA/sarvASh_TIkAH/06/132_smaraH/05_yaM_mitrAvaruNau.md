@@ -18,7 +18,7 @@ The charm aglow with longing which Mitra and Varuna have poured within the bosom
 
 <details><summary>पदपाठः</summary>
 
-यम्। मित्रावरुणौ। स्मरम्। असिञ्चताम्। अप्ऽसु। अन्तः। शोशुचानम्। सह। आध्या। तम्। ते। तपामि। वरुणस्य। धर्मणा। १३२.५।
+यम्। मि॒त्रावरु॑णौ। स्म॒रम्। असि॑ञ्चताम्। अ॒प्ऽसु। अ॒न्तः। शोशु॑चानम्। स॒ह। आ॒ध्या। तम्। ते॒। त॒पा॒मि॒। वरु॑णस्य। धर्म॑णा। १३२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

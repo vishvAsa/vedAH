@@ -23,7 +23,7 @@ The shaft for handless fiends which, Gods! ye cast against the handless ones, Wi
 
 <details><summary>पदपाठः</summary>
 
-निःऽहस्तेभ्यः। नैःऽहस्तम्। यम्। देवाः। शरुम्। अस्यथ। वृश्चामि। शत्रूणाम्। बाहून्। अनेन। हविषा। अहम्। ६५.२।
+निःऽह॑स्तेभ्यः। नै॒ःऽह॒स्तम्। यम्। दे॒वा॒ः। शरु॑म्। अस्य॑थ। वृ॒श्चामि॑। शत्रू॑णाम्। बा॒हून्। अ॒नेन॑। ह॒विषा॑। अ॒हम्। ६५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

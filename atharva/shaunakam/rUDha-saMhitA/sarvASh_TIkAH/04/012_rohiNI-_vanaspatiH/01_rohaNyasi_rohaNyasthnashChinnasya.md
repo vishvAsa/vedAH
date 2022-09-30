@@ -34,7 +34,7 @@ Thou art the healer, making whole, the healer of the broken bone: Make thou this
 
 <details><summary>पदपाठः</summary>
 
-रोहणी। असि। रोहणी। अस्थ्नः। छिन्नस्य। रोहणी। रोहय। इदम्। अरुन्धती। १२.१।
+रोह॑णी। अ॒सि॒। रोह॑णी। अ॒स्थ्नः। छि॒न्नस्य॑। रोह॑णी। रो॒हय॑। इ॒दम्। अ॒रु॒न्ध॒ती॒। १२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

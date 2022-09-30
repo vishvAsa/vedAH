@@ -23,7 +23,7 @@ For length of life I use the name of Agni the Consuming God, Whose smoke the sag
 
 <details><summary>पदपाठः</summary>
 
-अग्नेः। साम्ऽतपनस्य। अहम्। आयुषे। पदम्। आ। रभे। अध्दातिः। यस्य। पश्यति। धूमम्। उत्ऽयन्तम्। आस्यतः। ७६.२।
+अ॒ग्नेः। सा॒म्ऽत॒प॒नस्य॑। अ॒हम्। आयु॑षे। प॒दम्। आ। र॒भे॒। अ॒ध्दा॒तिः। यस्य॑। पश्य॑ति। धू॒मम्। उ॒त्ऽयन्त॑म्। आ॒स्य॒तः। ७६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

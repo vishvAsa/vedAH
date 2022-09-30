@@ -19,7 +19,7 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। हि। विश्वतःऽमुख। विश्वतः। परिऽभूः। असि। अप। नः। शोशुचत्। अघम्। ३३.६।
+त्वम्। हि। वि॒श्व॒त॒ःऽमु॒ख॒। वि॒श्वत॑ः। प॒रि॒ऽभूः। असि॑। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

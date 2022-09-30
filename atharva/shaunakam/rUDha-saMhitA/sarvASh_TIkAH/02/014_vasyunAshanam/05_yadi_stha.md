@@ -25,7 +25,7 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 
 <details><summary>पदपाठः</summary>
 
-यदि। स्थ। क्षेत्रियाणाम्। यदि। वा। पुरुषऽइषिताः। यदि। स्थ। दस्युऽभ्यः। जाताः। नश्यत। इतः। सदान्वाः। १४.५।
+यदि॑। स्थ। क्षे॒त्रि॒याणा॑म्। यदि॑। वा॒। पुरु॑षऽइषिताः। यदि॑। स्थ। दस्यु॑ऽभ्यः। जा॒ताः। नश्य॑त। इ॒तः। स॒दान्वा॑ः। १४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

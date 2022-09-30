@@ -24,7 +24,7 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 
 <details><summary>पदपाठः</summary>
 
-सीसाय। अधि। आह। वरुणः। सीसाय। अग्निः। उप। अवति। सीसम्। मे। इन्द्रः। प्र। अयच्छत्। तत्। अङ्ग। यातुऽचातनम्।
+सीसा॑य। अधि॑। आ॒ह॒। वरु॑णः। सीसा॑य। अ॒ग्निः। उप॑। अ॒व॒ति॒। सीस॑म्। मे॒। इन्द्र॑ः। प्र। अ॒य॒च्छ॒त्। तत्। अ॒ङ्ग। या॒तु॒ऽचात॑नम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

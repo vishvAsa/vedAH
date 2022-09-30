@@ -29,7 +29,7 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। अग्नेः। सहस्वतः। विश्वतः। यन्ति। भानवः। अप। नः। शोशुचत्। अघम्। ३३.५।
+प्र। यत्। अ॒ग्नेः। सह॑स्वतः। वि॒श्वत॑ः। यन्ति॑। भा॒नव॑ः। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

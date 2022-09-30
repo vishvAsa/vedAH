@@ -30,7 +30,7 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 
 <details><summary>पदपाठः</summary>
 
-᳡ देव॒यज॑ननिः। लक्ष्म्यम्। ललाम्यम्। निः। अरातिम्। सुवामसि। अथ। या। भद्रा। तानि। नः। प्रऽजायै। अरातिम्। नयामसि।
+‍निः। ल॒क्ष्म्यम्। ल॒ला॒म्यम्। निः। अरा॑तिम्। सु॒वा॒म॒सि॒। अथ॑। या। भ॒द्रा। तानि॑। न॒ः। प्र॒ऽजायै॑। अरा॑तिम्। न॒या॒म॒सि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

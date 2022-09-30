@@ -25,7 +25,7 @@ The Apamarga is alone the sovran of all Plants that grow. With this we wipe away
 
 <details><summary>पदपाठः</summary>
 
-अपामार्गः। ओषधीनाम्। सर्वासाम्। एकः। इत्। वशी। तेन। ते। मृज्मः। आऽस्थितम्। अथ। त्वम्। अगदः। चर। १७.८।
+अ॒पा॒मा॒र्गः। ओष॑धीनाम्। सर्वा॑साम्। एक॑ः। इत्। व॒शी। तेन॑। ते॒। मृ॒ज्म॒ः। आऽस्थि॑तम्। अथ॑। त्वम्। अ॒ग॒दः। च॒र॒। १७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

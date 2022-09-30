@@ -23,7 +23,7 @@ This man hath Indra stablished, made secure by constant sacri- fice. Soma, and B
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। एतम्। अदीधरत्। ध्रुवम्। ध्रुवेण। हविषा। तस्मै। सोमः। अधि। ब्रवत्। अयम्। च। ब्रह्मणः। पतिः। ८७.३।
+इन्द्र॑ः। ए॒तम्। अ॒दी॒ध॒र॒त्। ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। तस्मै॑। सोम॑ः। अधि॑। ब्र॒व॒त्। अ॒यम्। च॒। ब्रह्म॑णः। पति॑ः। ८७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

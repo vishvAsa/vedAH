@@ -24,7 +24,7 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 
 <details><summary>पदपाठः</summary>
 
-स्रक्त्यः। असि। प्रतिऽसरः। असि। प्रतिऽअभिचरणः। असि। आप्नुहि। श्रेयांसम्। अति। समम्। क्राम। ११.२।
+स्र॒क्त्यः। अ॒सि॒। प्र॒ति॒ऽस॒रः। अ॒सि॒। प्र॒ति॒ऽअ॒भि॒चर॑णः। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

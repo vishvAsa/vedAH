@@ -22,7 +22,7 @@ With your delicious honey balm me, Asvins, Lords of splendid light! That clear a
 
 <details><summary>पदपाठः</summary>
 
-अश्विना। सारघेण। मा। मधुना। अङ्क्तम्। शुभः। पती इति। यथा। भर्गस्वतीम्। वाचम्। आऽवदानि। जनान्। अनु। ६९.२।
+अश्वि॑ना। सा॒र॒घेण॑। मा॒। मधु॑ना। अ॒ङ्क्त॒म्। शु॒भ॒ः। प॒ती॒ इति॑। यथा॑। भर्ग॑स्वतीम्। वाच॑म्। आ॒ऽवदा॑नि। जना॑न्। अनु॑। ६९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

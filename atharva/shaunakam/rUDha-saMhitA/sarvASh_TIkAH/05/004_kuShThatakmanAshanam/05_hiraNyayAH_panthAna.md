@@ -23,7 +23,7 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 
 <details><summary>पदपाठः</summary>
 
-हिरण्ययाः। पन्थानः। आसन्। अरित्राणि। हिरण्यया। नावः। हिरण्ययीः। आसन्। याभिः। कुष्ठम्। निःऽआवहन्। ४.५।
+हि॒र॒ण्यया॑ः। पन्था॑नः। आ॒स॒न्। अरि॑त्राणि। हि॒र॒ण्यया॑। नाव॑ः। हि॒र॒ण्ययी॑ः। आ॒स॒न्। याभि॑ः। कुष्ठ॑म्। नि॒ःऽआव॑हन्। ४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

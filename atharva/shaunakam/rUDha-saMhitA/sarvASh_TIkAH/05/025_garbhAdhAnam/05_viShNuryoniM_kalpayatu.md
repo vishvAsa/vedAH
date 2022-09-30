@@ -22,7 +22,7 @@ Let Vishnu form and mould the womb, let Tvashtar duly shape the forms, Prajapati
 
 <details><summary>पदपाठः</summary>
 
-विष्णुः। योनिम्। कल्पयतु। त्वष्टा। रूपाणि। पिशतु। आ। सिञ्चतु। प्रजाऽपतिः। धाता। गर्भम्। दधातु। ते। २५.५।
+विष्णु॑ः। योनि॑म्। क॒ल्प॒य॒तु॒। त्वष्टा॑। रू॒पाणि॑। पि॒श॒तु॒। आ। सि॒ञ्च॒तु॒। प्र॒जाऽप॑तिः। धा॒ता। गर्भ॑म्। द॒धा॒तु॒। ते॒। २५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

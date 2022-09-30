@@ -24,7 +24,7 @@ Auspicious, with expanded leaves, sent by the Gods, victorious Plant, Drive thou
 
 <details><summary>पदपाठः</summary>
 
-उत्तानऽपर्णे। सुऽभगे। देवऽजूते। सहस्वति। सऽपत्नीम्। मे। परा। नुद। पतिम्। मे। केवलम्। कृधि। १८.२।
+उत्ता॑नऽपर्णे। सुऽभ॑गे। देव॑ऽजूते। सह॑स्वति। स॒ऽपत्नी॑म्। मे॒। परा॑। नु॒द॒। पति॑म्। मे॒। केव॑लम्। कृ॒धि॒। १८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

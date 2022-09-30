@@ -26,7 +26,7 @@ Behind thy back I tie thine arms, I bind a bandage on thy mouth: With the terrif
 
 <details><summary>पदपाठः</summary>
 
-अपि। नह्यामि। ते। बाहू इति। अपि। नह्यामि। आस्य᳡म्। अग्नेः। घोरस्य। मन्युना। तेन। ते। अवधिषम्। हविः। ७३.५।
+अपि॑। न॒ह्या॒मि॒। ते॒। बा॒हू इति॑। अपि॑। न॒ह्या॒मि॒। आ॒स्य᳡म्। अ॒ग्नेः। घो॒रस्य॑। म॒न्युना॑। तेन॑। ते॒। अ॒व॒धि॒ष॒म्। ह॒विः। ७३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ If any King who deems himself mighty would eat a Brahman up, Rent and disrupted 
 
 <details><summary>पदपाठः</summary>
 
-उग्रः। राजा। मन्यमानः। ब्राह्मणम्। यः। जिघत्सति। परा। तत्। सिच्यते। राष्ट्रम्। ब्राह्मणः। यत्र। जीयते। १९.६।
+उ॒ग्रः। राजा॑। मन्य॑मानः। ब्रा॒ह्म॒णम्। यः। जिघ॑त्सति। परा॑। तत्। सि॒च्य॒ते॒। रा॒ष्ट्रम्। ब्रा॒ह्म॒णः। यत्र॑। जी॒यते॑। १९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

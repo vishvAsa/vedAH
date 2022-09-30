@@ -22,7 +22,7 @@ Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art t
 
 <details><summary>पदपाठः</summary>
 
-यत्। दण्डेन। यत्। इष्वा। यत्। वा। अरुः। हरसा। कृतम्। तस्य। त्वम्। असि। निःऽकृतिः। सा। इमम्। निः। कृधि। पुरुषम्। ५.४।
+यत्। द॒ण्डेन॑। यत्। इष्वा॑। यत्। वा॒। अरु॑ः। हर॑सा। कृ॒तम्। तस्य॑। त्वम्। अ॒सि॒। निःऽकृ॑तिः। सा। इ॒मम्। निः। कृ॒धि॒। पुरु॑षम्। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

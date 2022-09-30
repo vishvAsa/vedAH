@@ -27,7 +27,7 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 
 <details><summary>पदपाठः</summary>
 
-यौ। ते। बलास। तिष्ठतः। कक्षे। मुष्कौ। अपऽश्रितौ। वेद। अहम्। तस्य। भेषजम्। चीपुद्रुः। अभिऽचक्षणम्। १२७.२।
+यौ। ते॒। ब॒ला॒स॒। तिष्ठ॑तः। कक्षे॑। मु॒ष्कौ। अप॑ऽश्रितौ। वेद॑। अ॒हम्। तस्य॑। भे॒ष॒जम्। ची॒पुद्रु॑ः। अ॒भि॒ऽचक्ष॑णम्। १२७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

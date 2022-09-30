@@ -30,7 +30,7 @@ Those who enrage me with their prate, as flies torment an elephant, I deem unhap
 
 <details><summary>पदपाठः</summary>
 
-ये। मा। क्रोधयन्ति। लपिताः। हस्तिनम्। मशकाःऽइव। तान्। अहम्। मन्ये। दुःऽहितान्। जने। अल्पशयून्ऽइव। ३६.९।
+ये। मा॒। क्रो॒धय॑न्ति। ल॒पि॒ताः। ह॒स्तिन॑म्। म॒शका॑ःऽइव। तान्। अ॒हम्। म॒न्ये॒। दुःऽहि॑तान्। जने॑। अल्प॑शयून्ऽइव। ३६.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

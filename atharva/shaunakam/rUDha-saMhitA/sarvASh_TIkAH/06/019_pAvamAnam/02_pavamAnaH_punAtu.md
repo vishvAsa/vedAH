@@ -23,7 +23,7 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 
 <details><summary>पदपाठः</summary>
 
-पवमानः। पुनातु। मा। क्रत्वे। दक्षाय। जीवसे। अथो इति। अरिष्टऽतातये। १९.२।
+पव॑मानः। पु॒ना॒तु॒। मा॒। क्रत्वे॑। दक्षा॑य। जी॒वसे॑। अथो॒ इति॑। अ॒रि॒ष्टऽता॑तये। १९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

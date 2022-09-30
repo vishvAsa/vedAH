@@ -21,7 +21,7 @@ The portion that I crave with speech intelligent and full of power, May faith, p
 
 <details><summary>पदपाठः</summary>
 
-यम्। याचामि। अहम्। वाचा। सरस्वत्या। मनःऽयुजा। श्रध्दा। तम्। अद्य। विन्दतु। दत्ता। सोमेन। बभ्रुणा। ७.५।
+यम्। याचा॑मि। अ॒हम्। वा॒चा। सर॑स्वत्या। म॒न॒ःऽयुजा॑। श्र॒ध्दा। तम्। अ॒द्य। वि॒न्द॒तु॒। द॒त्ता। सोमे॑न। ब॒भ्रुणा॑। ७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

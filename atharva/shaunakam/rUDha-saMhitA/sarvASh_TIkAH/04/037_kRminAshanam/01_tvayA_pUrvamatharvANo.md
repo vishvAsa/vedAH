@@ -21,7 +21,7 @@ With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa s
 
 <details><summary>पदपाठः</summary>
 
-त्वया। पूर्वम्। अथर्वाणः। जघ्नुः। रक्षांसि। ओषधे। त्वया। जघान। कश्यपः। त्वया। कण्वः। अगस्त्यः। ३७.१।
+त्वया॑। पूर्व॑म्। अथ॑र्वाणः। ज॒घ्नुः। रक्षां॑सि। ओ॒ष॒धे॒। त्वया॑। ज॒घा॒न॒। क॒श्यप॑ः। त्वया॑। कण्व॑ः। अ॒गस्त्य॑ः। ३७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

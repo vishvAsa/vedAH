@@ -23,7 +23,7 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 
 <details><summary>पदपाठः</summary>
 
-उपऽहूताः। इह। गावः। उपऽहूताः। अजऽअवयः। अथो इति। अन्नस्य। कीलालः। उपऽहूतः। गृहेषु। नः। ६२.५।
+उप॑ऽहूताः। इ॒ह। गाव॑ः। उप॑ऽहूताः। अ॒ज॒ऽअ॒वय॑ः। अथो॒ इति॑। अन्न॑स्य। की॒लाल॑ः। उप॑ऽहूतः। गृ॒हेषु॑। न॒ः। ६२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

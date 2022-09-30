@@ -26,7 +26,7 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 
 <details><summary>पदपाठः</summary>
 
-सस्रुषीः। तत्। अपसः। दिवा। नक्तम्। च। सस्रुषीः। वरेण्यऽक्रतु। अहम्। अपः। देवीः। उप। ह्वये। २३.१।
+स॒स्रुषी॑ः। तत्। अ॒पस॑ः। दिवा॑। नक्त॑म्। च॒। स॒स्रुषी॑ः। वरे॑ण्यऽक्रतु। अ॒हम्। अ॒पः। दे॒वीः। उप॑। ह्व॒ये॒। २३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

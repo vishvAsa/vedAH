@@ -28,7 +28,7 @@ When eagles, calling out aloud, are screaming in the joy of health, Then to my c
 
 <details><summary>पदपाठः</summary>
 
-यत्। सुऽपर्णाः। विवक्षवः। अनमीवाः। विवक्षवः। तत्र। मे। गच्छतात्। हवम्। शल्यःऽइव। कुल्मलम्। यथा। ३०.३।
+यत्। सु॒ऽप॒र्णाः। वि॒व॒क्षव॑ः। अ॒न॒मी॒वाः। वि॒व॒क्षव॑ः। तत्र॑। मे॒। ग॒च्छ॒ता॒त्। हव॑म्। श॒ल्यःऽइ॑व। कुल्म॑लम्। यथा॑। ३०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 
 <details><summary>पदपाठः</summary>
 
-मनसे। चेतसे। धिये। आऽकूतये। उत। चित्तये। मत्यै। श्रुताय। चक्षसे। विधेम। हविषा। वयम्। ४१.१।
+मन॑से। चेत॑से। धि॒ये। आऽकू॑तये। उ॒त। चित्त॑ये। म॒त्यै। श्रु॒ताय॑। चक्ष॑से। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। सेनाम्। मोहय। अमित्राणाम्। अग्नेः। वातस्य। ध्राज्या। तान्। विषूचः। वि। नाशय। १.५।
+इन्द्र॑। सेना॑म्। मो॒ह॒य॒। अ॒मित्रा॑णाम्। अ॒ग्नेः। वात॑स्य। ध्राज्या॑। तान्। विषू॑चः। वि। ना॒श॒य॒। १.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

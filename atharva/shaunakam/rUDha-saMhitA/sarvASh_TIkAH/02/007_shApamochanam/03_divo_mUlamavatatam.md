@@ -22,7 +22,7 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 
 <details><summary>पदपाठः</summary>
 
-दिवः। मूलम्। अवऽततम्। पृथिव्याः। अधि। उत्ऽततम्। तेन। सहस्रऽकाण्डेन। परि। नः। पाहि। विश्वतः। ७.३।
+दि॒वः। मूल॑म्। अव॑ऽततम्। पृ॒थि॒व्याः। अधि॑। उत्ऽत॑तम्। तेन॑। स॒हस्र॑ऽकाण्डेन। परि॑। न॒ः। पा॒हि॒। वि॒श्वत॑ः। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

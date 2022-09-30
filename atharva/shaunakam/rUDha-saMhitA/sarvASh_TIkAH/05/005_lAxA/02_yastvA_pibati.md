@@ -23,7 +23,7 @@ Whoever drinketh thee hath life: thou savest and protectest man. As nursing moth
 
 <details><summary>पदपाठः</summary>
 
-यः। त्वा। पिबति। जीवति। त्रायसे। पुरुषम्। त्वम्। मर्त्री। हि। शश्वताम्। असि। जनानाम्। च। निऽअञ्चनी। ५.२।
+यः। त्वा॒। पिब॑ति। जीव॑ति। त्राय॑से। पुरु॑षम्। त्वम्। म॒र्त्री। हि। शश्व॑ताम्। असि॑। जना॑नाम्। च॒। नि॒ऽअञ्च॑नी। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

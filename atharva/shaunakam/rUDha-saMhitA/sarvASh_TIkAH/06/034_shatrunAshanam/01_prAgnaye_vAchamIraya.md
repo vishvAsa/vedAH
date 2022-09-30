@@ -19,7 +19,7 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 
 <details><summary>पदपाठः</summary>
 
-प्र। अग्नये। वाचम्। ईरय। वृषभाय। क्षितीनाम्। सः। नः। पर्षत्। अति। द्विषः। ३४.१।
+प्र। अ॒ग्नये॑। वाच॑म्। ई॒र॒य॒। वृ॒ष॒भाय॑। क्षि॒ती॒नाम्। सः। न॒ः। प॒र्ष॒त्। अति॑। द्विष॑ः। ३४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

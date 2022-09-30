@@ -22,7 +22,7 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 
 <details><summary>पदपाठः</summary>
 
-यन्ता। असि। यच्छसे। हस्तौ। अप। रक्षांसि। सेधसि। प्रऽजाम्। धनम्। च। गृह्णानः। परिऽहस्तः। अभूत्। अयम्। ८१.१।
+य॒न्ता। अ॒सि॒। यच्छ॑से। हस्तौ॑। अप॑। रक्षां॑सि। से॒ध॒सि॒। प्र॒ऽजाम्। धन॑म्। च॒। गृ॒ह्णा॒नः। प॒रि॒ऽह॒स्तः। अ॒भू॒त्। अ॒यम्। ८१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

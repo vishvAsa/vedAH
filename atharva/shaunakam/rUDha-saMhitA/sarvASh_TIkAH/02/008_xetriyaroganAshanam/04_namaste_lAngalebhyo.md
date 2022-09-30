@@ -25,7 +25,7 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 
 <details><summary>पदपाठः</summary>
 
-नमः। ते। लाङ्गलेभ्यः। नमः। ईषाऽयुगेभ्यः। वीरुत्। क्षेत्रियऽनाशनी। अप। क्षेत्रियम्। उच्छतु। ८.४।
+नम॑ः। ते॒। लाङ्ग॑लेभ्यः। नम॑ः। ई॒षा॒ऽयु॒गेभ्य॑ः। वी॒रुत्। क्षे॒त्रि॒य॒ऽनाश॑नी। अप॑। क्षे॒त्रि॒यम्। उ॒च्छ॒तु॒। ८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

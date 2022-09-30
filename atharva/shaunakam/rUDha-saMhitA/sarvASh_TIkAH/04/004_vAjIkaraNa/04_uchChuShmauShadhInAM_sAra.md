@@ -31,7 +31,7 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 
 <details><summary>पदपाठः</summary>
 
-उत्। शुष्मा। ओषधीनाम्। सारा। ऋषभाणाम्। सम्। पुंसाम्। इन्द्र। वृष्ण्यम्। अस्मिन्। धेहि। तनूऽवशिन्। ४.४।
+उत्। शुष्मा॑। ओष॑धीनाम्। सारा॑। ऋ॒ष॒भाणा॑म्। सम्। पुं॒साम्। इ॒न्द्र॒। वृष्ण्य॑म्। अ॒स्मिन्। धे॒हि॒। त॒नू॒ऽव॒शि॒न्। ४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

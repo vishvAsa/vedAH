@@ -23,7 +23,7 @@ In sacrifice for you may sapient Agni--All hail!--use Yajus texts and fuel.
 
 <details><summary>पदपाठः</summary>
 
-यजूंषि। यज्ञे। सम्ऽइधः। स्वाहा। अग्निः। प्रऽविद्वान्। इह। वः। युनक्तु। २६.१।
+यजूं॑षि। य॒ज्ञे। स॒म्ऽइध॑ः। स्वाहा॑। अ॒ग्निः। प्र॒ऽवि॒द्वान्। इ॒ह। व॒ः। यु॒न॒क्तु॒। २६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

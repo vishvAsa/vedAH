@@ -30,7 +30,7 @@ With Gods who flee with him, and match their rapid motion with the Sun, I with t
 
 <details><summary>पदपाठः</summary>
 
-ये। देवाः। तेन। हासन्ते। सूर्येण। मिमते। जवम्। नदीषु। पर्वतेषु। ये। सम्। तैः। पशुऽभिः। विदे। ३६.५।
+ये। दे॒वाः। तेन॑। हास॑न्ते। सूर्ये॑ण। मि॒म॒ते॒। ज॒वम्। न॒दीषु॑। पर्व॑तेषु। ये। सम्। तैः। प॒शुऽभि॑ः। वि॒दे॒। ३६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

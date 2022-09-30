@@ -23,7 +23,7 @@ Urge Aryaman to send us gifts, and Indra, and Brihaspati, Vata, Vishnu, Sarasvat
 
 <details><summary>पदपाठः</summary>
 
-अर्यमणम्। बृहस्पतिम्। इन्द्रम्। दानाय। चोदय। वातम्। विष्णुम्। सरस्वतीम्। सवितारम्। च। वाजिनम्। २०.७।
+अ॒र्य॒मण॑म्। बृह॒स्पति॑म्। इन्द्र॑म्। दाना॑य। चो॒द॒य॒। वात॑म्। विष्णु॑म्। सर॑स्वतीम्। स॒वि॒तार॑म्। च॒। वा॒जिन॑म्। २०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

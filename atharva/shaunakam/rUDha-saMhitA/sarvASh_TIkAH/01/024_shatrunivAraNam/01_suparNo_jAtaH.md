@@ -29,7 +29,7 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 
 <details><summary>पदपाठः</summary>
 
-सुऽपर्णः। जातः। प्रथमः। तस्य। त्वम्। पित्तम्। आसिथ। तत्। आसुरी। युधा। जिता। रूपम्। चक्रे। वनस्पतीन्।
+सु॒ऽप॒र्णः। जा॒तः। प्र॒थ॒मः। तस्य॑। त्वम्। पि॒त्तम्। आ॒सि॒थ॒। तत्। आ॒सु॒री। यु॒धा। जि॒ता। रू॒पम्। च॒क्रे॒। वन॒स्पती॑न्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

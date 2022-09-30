@@ -26,7 +26,7 @@ Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wed
 
 <details><summary>पदपाठः</summary>
 
-अश्रमत्। इयम्। अर्यमन्। अन्यासाम्। समनम्। यती। अङ्गो इति। नु। अर्यमन्। अस्याः। अन्याः। समनम्। आऽअयति। ६०.२।
+अश्र॑मत्। इ॒यम्। अ॒र्य॒म॒न्। अ॒न्यासा॑म्। सम॑नम्। य॒ती। अ॒ङ्गो इति॑। नु। अ॒र्य॒म॒न्। अ॒स्याः। अ॒न्याः। सम॑नम्। आ॒ऽअय॑ति। ६०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 
 <details><summary>पदपाठः</summary>
 
-ऋतून्। यजे। ऋतुऽपतीन्। आर्तवान्। उत। हायनान्। समाः। सम्ऽवत्सरान्। मासान्। भूतस्᳡ देव॒यज॑नय। पतये। यजे। १०.९।
+ऋ॒तून्। य॒जे॒। ऋ॒तु॒ऽपती॑न्। आ॒र्त॒वान्। उ॒त। हा॒य॒नान्। समा॑ः। स॒म्ऽव॒त्स॒रान्। मासा॑न्। भू॒तस्‍य॑। पत॑ये। य॒जे॒। १०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

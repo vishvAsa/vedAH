@@ -27,7 +27,7 @@ That brilliant Agni who was born beyond this region of the air, May he transport
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। पारे। रजसः। शुक्रः। अग्निः। अजायत। सः। नः। पर्षत्। अति। द्विषः। ३४.५।
+यः। अ॒स्य। पा॒रे। रज॑सः। शु॒क्रः। अ॒ग्निः। अजा॑यत। सः। न॒ः। प॒र्ष॒त्। अति॑। द्विष॑ः। ३४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

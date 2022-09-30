@@ -25,7 +25,7 @@ Thou, Parna, art my body's guard, man kin my birth to me a man. With splendour o
 
 <details><summary>पदपाठः</summary>
 
-पर्णः। असि। तनूऽपानः। सऽयोनिः। वीरः। वीरेण। मया। सम्ऽवत्सरस्य। तेजसा। तेन। बध्नामि। त्वा। मणे। ५.८।
+प॒र्णः। अ॒सि॒। त॒नू॒ऽपान॑ः। स॒ऽयो॑निः। वी॒रः। वी॒रेण॑। मया॑। स॒म्ऽव॒त्स॒रस्य॑। तेज॑सा। तेन॑। ब॒ध्ना॒मि॒। त्वा॒। म॒णे॒। ५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

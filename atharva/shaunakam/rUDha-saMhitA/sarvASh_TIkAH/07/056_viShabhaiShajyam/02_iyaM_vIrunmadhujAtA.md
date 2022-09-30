@@ -22,7 +22,7 @@ Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine th
 
 <details><summary>पदपाठः</summary>
 
-इयम्। वीरुत्। मधुऽजाता। मधुऽश्चुत्। मधुला। मधूः। सा। विऽह्रुतस्य। भेषजी। अथो इति। मशकऽजम्भनी। ५८.२।
+इ॒यम्। वी॒रुत्। मधु॑ऽजाता। म॒धु॒ऽश्चुत्। म॒धु॒ला। म॒धूः। सा। विऽह्रु॑तस्य। भे॒ष॒जी। अथो॒ इति॑। म॒श॒क॒ऽजम्भ॑नी। ५८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

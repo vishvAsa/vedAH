@@ -23,7 +23,7 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 
 <details><summary>पदपाठः</summary>
 
-आ। अयम्। अगन्। सम्ऽवत्सरः। पतिः। एकऽअष्टके। तव। सा। नः। आयुष्मतीम्। प्रऽजाम्। रायः। पोषेण। सम्। सृज। १०.८।
+आ। अ॒यम्। अ॒ग॒न्। स॒म्ऽव॒त्स॒रः। पति॑ः। ए॒क॒ऽअ॒ष्ट॒के॒। तव॑। सा। न॑ः। आयु॑ष्मतीम्। प्र॒ऽजाम्। रा॒यः। पोषे॑ण। सम्। सृ॒ज॒। १०.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

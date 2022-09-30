@@ -24,7 +24,7 @@ Preserve me with a hundred, yea, protect me with a thousand aids. May mighty Ind
 
 <details><summary>पदपाठः</summary>
 
-शतेन। मा। परि। पाहि। सहस्रेण। अभि। रक्ष। मा। इन्द्रः। ते। वीरुधाम्। पते। उग्रः। ओज्मानम्। आ। दधत्। १९.८।
+श॒तेन॑। मा॒। परि॑। पा॒हि॒। स॒हस्रे॑ण। अ॒भि। र॒क्ष॒। मा॒। इन्द्र॑ः। ते॒। वी॒रु॒धा॒म्। प॒ते॒। उ॒ग्रः। ओ॒ज्मान॑म्। आ। द॒ध॒त्। १९.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

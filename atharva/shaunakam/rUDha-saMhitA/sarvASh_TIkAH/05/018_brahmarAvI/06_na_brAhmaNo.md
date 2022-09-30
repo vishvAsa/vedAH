@@ -25,7 +25,7 @@ No Brahman must be injured, safe as fire from him who loves himself. For Soma is
 
 <details><summary>पदपाठः</summary>
 
-न। ब्राह्मणः। हिंसितव्यः᳡। अग्निः। प्रियतनोःऽइव। सोमः। हि। अस्य। दायादः। इन्द्रः। अस्य। अभिशस्तिऽपा। १८.६।
+न। ब्रा॒ह्म॒णः। हिं॒सि॒त॒व्य᳡ः। अ॒ग्निः। प्रि॒यत॑नोःऽइव। सोम॑ः। हि। अ॒स्य॒। दा॒या॒दः। इन्द्र॑ः। अ॒स्य॒। अ॒भि॒श॒स्ति॒ऽपा। १८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

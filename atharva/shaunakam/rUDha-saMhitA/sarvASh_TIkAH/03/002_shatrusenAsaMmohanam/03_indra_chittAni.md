@@ -26,7 +26,7 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। चित्तानि। मोहयन्। अर्वाङ्। आऽकूत्या। चर। अग्नेः। वातस्य। ध्राज्या। तान्। विषूचः। वि। नाशय। २.३।
+इन्द्र॑। चि॒त्तानि॑। मो॒हय॑न्। अ॒र्वाङ्। आऽकू॑त्या। च॒र॒। अ॒ग्नेः। वात॑स्य। ध्राज्या॑। तान्। विषू॑चः। वि। ना॒श॒य॒। २.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

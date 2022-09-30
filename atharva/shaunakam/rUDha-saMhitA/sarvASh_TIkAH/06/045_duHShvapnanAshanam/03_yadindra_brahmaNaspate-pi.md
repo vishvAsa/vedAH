@@ -26,7 +26,7 @@ Indra and Brahmanaspati! whatever foolish deed we plan, May provident Angirasa p
 
 <details><summary>पदपाठः</summary>
 
-यत्। इन्द्र। ब्रह्मणः। पते। अपि। मृषा। चरामसि। प्रऽचेताः। नः। अङ्गिरसः। दुःऽइतात्। पातु। अंहसः। ४५.३।
+यत्। इ॒न्द्र॒। ब्र॒ह्म॒ण॒ः। प॒ते॒। अपि॑। मृषा॑। चरा॑मसि। प्रऽचे॑ताः। न॒ः। अ॒ङ्गि॒र॒स॒ः। दु॒ःऽइ॒तात्। पा॒तु॒। अंह॑सः। ४५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

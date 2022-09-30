@@ -30,7 +30,7 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 
 <details><summary>पदपाठः</summary>
 
-पुनन्तु। मा। देवऽजनाः। पुनन्तु। मनवः। धिया। पुनन्तु। विश्वा। भूतानि। पवमानः। पुनातु। मा। १९.१।
+पु॒नन्तु॑। मा॒। दे॒व॒ऽज॒नाः। पु॒नन्तु॑। मन॑वः। धि॒या। पु॒नन्तु॑। विश्वा॑। भू॒तानि॑। पव॑मानः। पु॒ना॒तु॒। मा॒। १९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

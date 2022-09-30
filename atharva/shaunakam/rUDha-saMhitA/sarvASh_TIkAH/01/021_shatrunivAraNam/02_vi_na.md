@@ -23,7 +23,7 @@ Indra, subdue our enemies, lay low the men who fight with us: Down into nether d
 
 <details><summary>पदपाठः</summary>
 
-वि। नः। इन्द्रः। मृधः। जहि। नीचा। यच्छ। पृतन्यतः। अधमम्। गमय। तमः। यः। अस्मान्। अभिऽदासति।
+वि। न॒ः। इ॒न्द्र॒ः। मृध॑ः। ज॒हि॒। नी॒चा। य॒च्छ॒। पृ॒त॒न्य॒तः। अ॒ध॒मम्। ग॒म॒य॒। तम॑ः। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

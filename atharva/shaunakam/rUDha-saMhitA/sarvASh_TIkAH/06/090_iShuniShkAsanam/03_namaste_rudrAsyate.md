@@ -23,7 +23,7 @@ Worship to thee, the archer, and O Rudra, to thy levelled shaft! Yea, worship to
 
 <details><summary>पदपाठः</summary>
 
-नमः। ते। रुद्र। अस्यते। नमः। प्रतिऽहितायै। नमः। विऽसृज्यमानायै। नमः। निऽपतितायै। ९०.३।
+नम॑ः। ते॒। रु॒द्र॒। अस्य॑ते। नम॑ः। प्रति॑ऽहितायै। नम॑ः। वि॒ऽसृ॒ज्यमा॑नायै। नम॑ः। निऽप॑तितायै। ९०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

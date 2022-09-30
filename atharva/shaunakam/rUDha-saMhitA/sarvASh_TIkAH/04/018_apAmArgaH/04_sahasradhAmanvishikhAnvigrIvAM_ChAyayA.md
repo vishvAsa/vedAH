@@ -31,7 +31,7 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 
 <details><summary>पदपाठः</summary>
 
-सहस्रऽधामन्। विऽशिखान्। विऽग्रीवान्। शायय। त्वम्। प्रति। स्म। चक्रुषे। कृत्याम्। प्रियाम्। प्रियऽवते। हर। १८.४।
+सह॑स्रऽधामन्। विऽशि॑खान्। विऽग्री॑वान्। शा॒य॒य॒। त्वम्। प्रति॑। स्म॒। च॒क्रुषे॑। कृ॒त्याम्। प्रि॒याम्। प्रि॒यऽव॑ते। ह॒र॒। १८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

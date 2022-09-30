@@ -27,7 +27,7 @@ So may this water guard us on the bank of Varanavati. Therein hath Amrit been in
 
 <details><summary>पदपाठः</summary>
 
-वाः। इदम्। वारयातै। वरणऽवत्याम्। अधि। तत्र। अमृतस्य। आऽसिक्तम्। तेन। ते। वारये। विषम्। ७.१।
+वाः। इ॒दम्। वा॒र॒या॒तै॒। व॒र॒णऽव॑त्याम्। अधि॑। तत्र॑। अ॒मृत॑स्य। आऽसि॑क्तम्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

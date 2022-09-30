@@ -27,7 +27,7 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 
 <details><summary>पदपाठः</summary>
 
-अभि। त्वा। वर्चसा। असिचन्। आपः। दिव्याः। पयस्वतीः। यथा। असः। मित्रऽवर्धनः। तथा। त्वा। सविता। करत्। ८.६।
+अ॒भि। त्वा॒। वर्च॑सा। अ॒सि॒च॒न्। आप॑ः। दि॒व्याः। पय॑स्वतीः। यथा॑। अस॑ः। मि॒त्र॒ऽवर्ध॑नः। तथा॑। त्वा॒। स॒वि॒ता। क॒र॒त्। ८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

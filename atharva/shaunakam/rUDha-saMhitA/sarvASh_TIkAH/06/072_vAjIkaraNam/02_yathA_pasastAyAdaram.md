@@ -24,7 +24,7 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 
 <details><summary>पदपाठः</summary>
 
-यथा। पसः। तायादरम्। वातेन। स्थूलभम्। कृतम्। यावत्। परस्वतः। पसः। तावत्। ते। वर्धताम्। पसः। ७२.२।
+यथा॑। पस॑ः। ता॒या॒द॒रम्। वाते॑न। स्थू॒ल॒भम्। कृ॒तम्। याव॑त्। पर॑स्वतः। पस॑ः। ताव॑त्। ते॒। व॒र्ध॒ता॒म्। पस॑ः। ७२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

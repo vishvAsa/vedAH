@@ -23,7 +23,7 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 
 <details><summary>पदपाठः</summary>
 
-सखायौऽइव। सचावहै। अव। मन्युम्। तनोमि। ते। अधः। ते। अश्मनः। मन्युम्। उप। अस्यामसि। यः। गुरुः। ४२.२।
+सखा॑यौऽइव। स॒चा॒व॒है॒। अव॑। म॒न्युम्। त॒नो॒मि॒। ते॒। अ॒धः। ते॒। अश्म॑नः। म॒न्युम्। उप॑। अ॒स्या॒म॒सि॒। यः। गु॒रुः। ४२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 
 <details><summary>पदपाठः</summary>
 
-अधरःऽअधरः। उत्तरेभ्यः। गूढः। पृथिव्याः। मा। उत्। सृपत्। वज्रेण। अवऽहतः। शयाम्। १३४.२।
+अध॑रःऽअधरः। उत्त॑रेभ्यः। गू॒ढः। पृ॒थि॒व्याः। मा। उत्। सृ॒प॒त्। वज्रे॑ण। अव॑ऽहतः। श॒या॒म्। १३४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

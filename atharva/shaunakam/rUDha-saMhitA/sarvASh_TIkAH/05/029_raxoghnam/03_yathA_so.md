@@ -20,7 +20,7 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 
 <details><summary>पदपाठः</summary>
 
-यथा। सः। अस्य। परिऽधिः। पताति। तथा। तत्। अग्ने। कृणु। जातऽवेदः। विश्वेभिः। देवैः। सह। सम्ऽविदानः। २९.३।
+यथा॑। सः। अ॒स्य। प॒रि॒ऽधिः। पता॑ति। तथा॑। तत्। अ॒ग्ने॒। कृ॒णु॒। जा॒त॒ऽवे॒द॒ः। विश्वे॑भिः। दे॒वैः। स॒ह। स॒म्ऽवि॒दा॒नः। २९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ May Agni seize upon them first, may strong-armed Indra drive them forth: Let eve
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। पूर्वः। आ। रभताम्। प्र। इन्द्रः। नुदतु। बाहुमान्। ब्रवीतु। सर्वः। यातुमान्। अयम्। अस्मि। इति। आऽइत्य।
+अ॒ग्निः। पूर्व॑ः। आ। र॒भ॒ता॒म्। प्र। इन्द्र॑ः। नु॒द॒तु॒। बा॒हु॒मान्। ब्रवी॑तु। सर्व॑ः। या॒तु॒मान्। अ॒यम्। अ॒स्मि॒। इति॑। आ॒ऽइत्य। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

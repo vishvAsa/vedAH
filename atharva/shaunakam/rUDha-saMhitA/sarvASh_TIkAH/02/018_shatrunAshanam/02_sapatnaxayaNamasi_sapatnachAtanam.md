@@ -18,7 +18,7 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 
 <details><summary>पदपाठः</summary>
 
-सपत्नऽक्षयणम्। असि। सपत्नऽचातनम्। मे। दाः। स्वाहा। १८.२।
+स॒प॒त्न॒ऽक्षय॑णम्। अ॒सि॒। स॒प॒त्न॒ऽचात॑नम्। मे॒। दा॒ः। स्वाहा॑। १८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

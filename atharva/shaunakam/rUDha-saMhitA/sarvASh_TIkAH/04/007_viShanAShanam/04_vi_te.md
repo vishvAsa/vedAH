@@ -29,7 +29,7 @@ Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the
 
 <details><summary>पदपाठः</summary>
 
-वि। ते। मदम्। मदऽवति। शरम्ऽइव। पातयामसि। प्र। त्वा। चरुम्ऽइव। येषन्तम्। वचसा। स्थापयामसि। ७.४।
+वि। ते॒। मद॑म्। म॒द॒ऽव॒ति॒। श॒रम्ऽइ॑व। पा॒त॒या॒म॒सि॒। प्र। त्वा॒। च॒रुम्ऽइ॑व। येष॑न्तम्। वच॑सा। स्था॒प॒या॒म॒सि॒। ७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

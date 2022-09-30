@@ -24,7 +24,7 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 
 <details><summary>पदपाठः</summary>
 
-यः। उत्ऽआनट्। पराऽअयनम्। यः। उत्ऽआनट्। निऽअयनम्। आऽवर्तनम्। निऽवर्तनम्। यः। गोपाः। अपि। तम्। हुवे। ७७.२।
+यः। उ॒त्ऽआन॑ट्। प॒रा॒ऽअय॑नम्। यः। उ॒त्ऽआन॑ट्। नि॒ऽअय॑नम्। आ॒ऽवर्त॑नम्। नि॒ऽवर्त॑नम्। यः। गो॒पाः। अपि॑। तम्। हु॒वे॒। ७७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

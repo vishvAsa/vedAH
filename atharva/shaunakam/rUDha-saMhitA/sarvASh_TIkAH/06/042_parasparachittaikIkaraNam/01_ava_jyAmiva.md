@@ -27,7 +27,7 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 
 <details><summary>पदपाठः</summary>
 
-अव। ज्याम्ऽइव। धन्वनः। मन्युम्। तनोमि। ते। हृदः। यथा। सम्ऽमनसौ। भूत्वा। सखायौऽइव। सचावहै। ४२.१।
+अव॑। ज्याम्ऽइ॑व। धन्व॑नः। म॒न्युम्। त॒नो॒मि॒। ते॒। हृ॒दः। यथा॑। सम्ऽम॑नसौ। भू॒त्वा। सखा॑यौऽइव। सचा॑वहै। ४२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

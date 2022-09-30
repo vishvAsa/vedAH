@@ -23,7 +23,7 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 
 <details><summary>पदपाठः</summary>
 
-न्य᳡क्। वातः। वाति। न्य᳡क्। तपति। सूर्यः। नीचीनम्। अघ्न्या। दुहे। न्य᳡क्। भवतु। ते। रपः। ९१.२।
+न्य᳡क्। वात॑ः। वा॒ति॒। न्य᳡क्। त॒प॒ति॒। सूर्य॑ः। नी॒चीन॑म्। अ॒घ्न्या। दु॒हे॒। न्य᳡क्। भ॒व॒तु॒। ते॒। रप॑ः। ९१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

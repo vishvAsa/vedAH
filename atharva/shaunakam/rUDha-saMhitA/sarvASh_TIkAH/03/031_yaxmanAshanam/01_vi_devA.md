@@ -27,7 +27,7 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 
 <details><summary>पदपाठः</summary>
 
-वि। देवाः। जरसा। अवृतन्। वि। त्वम्। अग्ने। अरात्या। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.१।
+वि। दे॒वाः। ज॒रसा॑। अ॒वृ॒त॒न्। वि। त्वम्। अ॒ग्ने॒। अरा॑त्या। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

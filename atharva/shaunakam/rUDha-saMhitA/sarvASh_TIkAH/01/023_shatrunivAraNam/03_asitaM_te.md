@@ -22,7 +22,7 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 
 <details><summary>पदपाठः</summary>
 
-आसितम्। ते। प्रऽलयनम्। आऽस्थानम्। आसितम्। तव। असिक्नी। असि। ओषधे। निः। इतः। नाशय। पृषत्।
+आसि॑तम्। ते॒। प्र॒ऽलय॑नम्। आ॒ऽस्थान॑म्। आसि॑तम्। तव॑। असि॑क्नी। अ॒सि॒। ओ॒ष॒धे॒। निः। इ॒तः। ना॒श॒य॒। पृष॑त्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

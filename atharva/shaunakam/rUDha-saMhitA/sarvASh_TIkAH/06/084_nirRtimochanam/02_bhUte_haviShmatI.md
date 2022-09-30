@@ -21,7 +21,7 @@ Be thou enriched, O Welfare, with oblations, here among us is thine allotted por
 
 <details><summary>पदपाठः</summary>
 
-भूते। हविष्मती। भव। एषः। ते। भागः। यः। अस्मासु। मुञ्च। इमान्। अमून्। एनसः। स्वाहा। ८४.२।
+भूते॑। ह॒विष्म॑ती। भ॒व॒। ए॒षः। ते॒। भा॒गः। यः। अ॒स्मासु॑। मु॒ञ्च। इ॒मान्। अ॒मून्। एन॑सः। स्वाहा॑। ८४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

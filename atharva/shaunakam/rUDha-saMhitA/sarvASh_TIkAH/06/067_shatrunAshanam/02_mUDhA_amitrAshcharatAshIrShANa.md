@@ -29,7 +29,7 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 
 <details><summary>पदपाठः</summary>
 
-मूढाः। अमित्राः। चरत। अशीर्षाणःऽइव। अहयः। तेषाम्। वः। अग्निऽमूढानाम्। इन्द्रः। हन्तु। वरम्ऽवरम्। ६७.२।
+मू॒ढाः। अ॒मित्रा॑ः। च॒र॒त॒। अ॒शी॒र्षाण॑ःऽइव। अह॑यः। तेषा॑म्। व॒ः। अ॒ग्निऽमू॑ढानाम्। इन्द्र॑ः। ह॒न्तु॒। वर॑म्ऽवरम्। ६७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

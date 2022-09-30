@@ -25,7 +25,7 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 
 <details><summary>पदपाठः</summary>
 
-शुचा। विध्दा। विऽओषया। शुष्कऽआस्या। अभि। सर्प। मा। मृदुः। निऽमन्युः। केवली। प्रियऽवादिनी। अनुऽव्रता। २५.४।
+शु॒चा। वि॒ध्दा। विऽओ॑षया। शुष्क॑ऽआस्या। अ॒भि। स॒र्प॒। मा॒। मृ॒दुः। निऽम॑न्युः। केव॑ली। प्रि॒य॒ऽवा॒दिनी॑। अनु॑ऽव्रता। २५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

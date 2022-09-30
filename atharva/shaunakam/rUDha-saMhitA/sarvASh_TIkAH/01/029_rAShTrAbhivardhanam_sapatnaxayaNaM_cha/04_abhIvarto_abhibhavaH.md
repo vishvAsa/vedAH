@@ -23,7 +23,7 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 
 <details><summary>पदपाठः</summary>
 
-अभिऽवर्तः। अभिऽभवः। सपत्नऽक्षयणः। मणिः। राष्ट्राय। मह्यम्। बध्यताम्। सऽपत्नेभ्यः। पराऽभुवे।
+अ॒भि॒ऽव॒र्तः। अ॒भि॒ऽभ॒वः। स॒प॒त्न॒ऽक्षय॑णः। म॒णिः। रा॒ष्ट्रा॒य॑। मह्य॑म्। ब॒ध्य॒ता॒म्। स॒ऽपत्ने॑भ्यः। प॒रा॒ऽभुवे॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

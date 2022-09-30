@@ -24,7 +24,7 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 
 <details><summary>पदपाठः</summary>
 
-ऋभुः। असि। जगत्ऽछन्दाः। अनु। त्वा। आ। रभे। स्वस्ति। मा। सम्। वह। अस्य। यज्ञस्य। उत्ऽऋचि। स्वाहा। ४८.२।
+ऋ॒भुः। अ॒सि॒। जग॑त्ऽछन्दाः। अनु॑। त्वा॒। आ। र॒भे॒। स्व॒स्ति। मा॒। सम्। व॒ह॒। अ॒स्य। य॒ज्ञस्य॑। उ॒त्ऽऋचि॑। स्वाहा॑। ४८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

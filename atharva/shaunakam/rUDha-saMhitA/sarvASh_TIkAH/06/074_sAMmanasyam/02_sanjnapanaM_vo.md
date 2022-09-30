@@ -34,7 +34,7 @@ Let there be union of your minds, let there be union of your hearts: All that is
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽज्ञपनम्। वः। मनसः। अथो इति। सम्ऽज्ञपनम्। हृदः। अथो  इति। भगस्य। यत्। श्रान्तम्। तेन। सम्ऽज्ञपयामि। वः। ७४.२।
+स॒म्ऽज्ञप॑नम्। व॒ः। मन॑सः। अथो॒ इति॑। स॒म्ऽज्ञप॑नम्। हृ॒दः। अथो॒ इति॑। भग॑स्य। यत्। श्रा॒न्तम्। तेन॑। सम्ऽज्ञ॑पयामि। व॒ः। ७४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

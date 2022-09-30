@@ -21,7 +21,7 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 
 <details><summary>पदपाठः</summary>
 
-नमः। देवऽवधेभ्यः। नमः। राजऽवधेभ्यः। अथो इति। ये। विश्यानाम्। वधाः। तेभ्यः। मृत्यो इति। नमः। अस्तु। ते। १३.१।
+नम॑ः। दे॒व॒ऽव॒धेभ्य॑ः। नम॑ः। रा॒ज॒ऽव॒धेभ्य॑ः। अथो॒ इति॑। ये। विश्या॑नाम्। व॒धाः। तेभ्य॑ः। मृ॒त्यो॒ इति॑। नम॑ः। अ॒स्तु॒। ते॒। १३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

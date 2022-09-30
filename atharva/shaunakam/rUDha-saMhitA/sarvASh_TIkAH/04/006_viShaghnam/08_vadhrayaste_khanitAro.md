@@ -22,7 +22,7 @@ Thy diggers are emasculate, emasculate, O, Plant art thou. The rugged mountain t
 
 <details><summary>पदपाठः</summary>
 
-वध्रयः। ते। खनितारः। वध्रिः। त्वम्। असि। ओषधे। वध्रिः। सः। पर्वतः। गिरिः। यतः। जातम्। इदम्। विषम्। ६.८।
+वध्र॑यः। ते॒। ख॒नि॒तार॑ः। वध्रि॑ः। त्वम्। अ॒सि॒। ओ॒ष॒धे॒। वध्रि॑ः। सः। पर्व॑तः। गि॒रिः। यत॑ः। जा॒तम्। इ॒दम्। वि॒षम्। ६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

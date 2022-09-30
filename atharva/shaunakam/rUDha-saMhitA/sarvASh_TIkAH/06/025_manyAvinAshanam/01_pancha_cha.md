@@ -35,7 +35,7 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 
 <details><summary>पदपाठः</summary>
 
-पञ्च। च। याः। पञ्चाशत्। च। सम्ऽयन्ति। मन्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.१।
+पञ्च॑। च॒। याः। प॒ञ्चा॒शत्। च॒। स॒म्ऽयन्ति॑। मन्या॑ः। अ॒भि। इ॒तः। ताः। सर्वा॑ः। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

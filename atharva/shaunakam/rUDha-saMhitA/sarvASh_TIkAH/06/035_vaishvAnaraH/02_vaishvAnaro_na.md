@@ -29,7 +29,7 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 
 <details><summary>पदपाठः</summary>
 
-वैश्वानर। नः। आ। अगमत्। इमम्। यज्ञम्। सऽजूः। उप। अग्निः। उक्थेषु। अंहऽसु। ३५.२।
+वै॒श्वा॒न॒र। न॒ः। आ। अ॒ग॒म॒त्। इ॒मम्। य॒ज्ञम्। स॒ऽजूः। उप॑। अ॒ग्निः। उ॒क्थेषु॑। अंह॑ऽसु। ३५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,7 @@ Assigned are these twelve nights, they say, as holy to Prajapati: Whoever knows 
 
 <details><summary>पदपाठः</summary>
 
-द्वादश। वै। एताः। रात्रीः। व्रत्याः। आहुः। प्रजाऽपतेः। तत्र। उप। ब्रह्म। यः। वेद। तत्। वै। अनडुहः। व्रतम्। ११.११।
+द्वाद॑श। वै। ए॒ताः। रात्री॑ः। व्रत्या॑ः। आ॒हु॒ः। प्र॒जाऽप॑तेः। तत्र॑। उप॑। ब्रह्म॑। यः। वेद॑। तत्। वै। अ॒न॒डुह॑ः। व्र॒तम्। ११.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

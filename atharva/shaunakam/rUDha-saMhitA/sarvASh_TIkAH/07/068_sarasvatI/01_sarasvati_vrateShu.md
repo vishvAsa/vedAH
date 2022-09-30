@@ -21,7 +21,7 @@ Sarasvati, in thy decrees, Goddess, in thy celestial laws, Accept the offered sa
 
 <details><summary>पदपाठः</summary>
 
-सरस्वति। व्रतेषु। ते। दिव्येषु। देवि। धामऽसु। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। नः। ७०.१।
+सर॑स्वति। व्र॒तेषु॑। ते॒। दि॒व्येषु॑। दे॒वि॒। धाम॑ऽसु। जु॒षस्व॑। ह॒व्यम्। आऽहु॑तम्। प्र॒ऽजाम्। दे॒वि॒। र॒रा॒स्व॒। न॒ः। ७०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

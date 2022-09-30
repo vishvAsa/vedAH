@@ -35,7 +35,7 @@ Swiftly from Bhaga's hands I bear away a love-compelling charm Of ointment and o
 
 <details><summary>पदपाठः</summary>
 
-आऽअञ्जनस्य। मदुघस्य। कुष्ठस्य। नलदस्य। च। तुरः। भगस्य। हस्ताभ्याम्। अनुऽरोधनम्। उत्। भरे। १०२.३।
+आ॒ऽअञ्ज॑नस्य। म॒दुघ॑स्य। कुष्ठ॑स्य। नल॑दस्य। च॒। तु॒रः। भग॑स्य। हस्ता॑भ्याम्। अ॒नु॒ऽरोध॑नम्। उत्। भ॒रे॒। १०२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

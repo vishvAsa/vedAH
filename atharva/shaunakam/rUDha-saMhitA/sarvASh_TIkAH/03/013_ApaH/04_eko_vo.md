@@ -35,7 +35,7 @@ One only God set foot on you flowing according to your will, The mighty ones bre
 
 <details><summary>पदपाठः</summary>
 
-एकः। वः। देवः। अपि। अतिष्ठत्। स्यन्दमानाः। यथाऽवशम्। उत्। आनिषुः। महीः। इति। तस्मात्। उदकम्ः। उच्यते। १३.४।
+एक॑ः। व॒ः। दे॒वः। अपि॑। अ॒ति॒ष्ठ॒त्। स्यन्द॑मानाः। य॒था॒ऽव॒शम्। उत्। आ॒नि॒षु॒ः। म॒हीः। इति॑। तस्मा॑त्। उ॒द॒कम्ः। उ॒च्य॒ते॒। १३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

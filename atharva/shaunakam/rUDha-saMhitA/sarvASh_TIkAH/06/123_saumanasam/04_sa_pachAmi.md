@@ -25,7 +25,7 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 
 <details><summary>पदपाठः</summary>
 
-सः। पचामि। सः। ददामि। सः। यजे। सः। दत्तात्। मा। यूषम्। १२३.४।
+सः। प॒चा॒मि॒। सः। द॒दा॒मि॒। सः। य॒जे॒। सः। द॒त्तात्। मा। यू॒ष॒म्। १२३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

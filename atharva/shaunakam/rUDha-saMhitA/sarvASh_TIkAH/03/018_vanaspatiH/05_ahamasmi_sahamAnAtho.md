@@ -21,7 +21,7 @@ I am the conqueror, and thou, thou also art victorious: As victory attends us bo
 
 <details><summary>पदपाठः</summary>
 
-अहम्। अस्मि। सहमाना। अथो इति। त्वम्। असि। ससहिः। उभे इति। सहस्वती इति। भूत्वा। सऽपत्नीम्। मे। सहावहै। १८.५।
+अ॒हम्। अ॒स्मि॒। सह॑माना। अथो॒ इति॑। त्वम्। अ॒सि॒। स॒स॒हिः। उ॒भे इति॑। सह॑स्वती॒ इति॑। भू॒त्वा। स॒ऽपत्नी॑म्। मे॒। स॒हा॒व॒है॒। १८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

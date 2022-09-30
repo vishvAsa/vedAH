@@ -20,7 +20,7 @@ Ear art thou, give me hearing! Hail!
 
 <details><summary>पदपाठः</summary>
 
-श्रोत्रम्। असि। श्रोत्रम्। मे। दाः। स्वाहा। १७.५।
+श्रोत्र॑म्। अ॒सि॒। श्रोत्र॑म्। मे॒। दा॒ः। स्वाहा॑। १७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

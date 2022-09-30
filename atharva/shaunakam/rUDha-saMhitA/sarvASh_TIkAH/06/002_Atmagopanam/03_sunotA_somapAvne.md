@@ -21,7 +21,7 @@ For Indra, thunder-armed, who drinks the Soma press the Soma out: He, youthful, 
 
 <details><summary>पदपाठः</summary>
 
-सुनोत। सोमऽपाव्ने। सोमम्। इन्दाय। वज्रिणे। युवा। जेता। ईशानः। सः। पुरुऽस्तुतः। २.३।
+सु॒नो॑त। सो॒म॒ऽपाव्ने॑। सोम॑म्। इन्दा॑य। व॒ज्रिणे॑। युवा॑। जेता॑। ईशा॑नः। सः। पु॒रु॒ऽस्तु॒तः। २.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

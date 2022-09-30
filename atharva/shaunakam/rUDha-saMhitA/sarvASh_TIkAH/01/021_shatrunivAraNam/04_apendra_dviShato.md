@@ -28,7 +28,7 @@ Turn thou the foeman s thought away, his dart who fain would conquer us: Grant u
 
 <details><summary>पदपाठः</summary>
 
-अप। इन्द्र। द्विषतः। मनः। अप। जिज्यासतः। वधम्। वि। महत्। शर्म। यच्छ। वरीयः। यवय। वधम्।
+अप॑। इ॒न्द्र॒। द्वि॒ष॒तः। मन॑ः। अप॑। जिज्या॑सतः। व॒धम्। वि। म॒हत्। शर्म॑। य॒च्छ॒। वरी॑यः। य॒व॒य॒। व॒धम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

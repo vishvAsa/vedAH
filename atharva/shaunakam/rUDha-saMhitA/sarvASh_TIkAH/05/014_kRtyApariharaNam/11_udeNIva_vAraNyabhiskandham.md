@@ -122,7 +122,7 @@ Even as the timid antelope or hind from her assailant flees, So swiftly let the 
 
 <details><summary>पदपाठः</summary>
 
-उत्। एणीऽइव। वारणी। अभिऽस्कन्दम्। मृगीऽइव। कृत्या। कर्तारम्। ऋच्छतु। १४.११।
+उत्। ए॒णीऽइ॑व। वा॒र॒णी। अ॒भि॒ऽस्कन्द॑म्। मृ॒गीऽइ॑व। कृ॒त्या। क॒र्तार॑म्। ऋ॒च्छ॒तु॒। १४.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -27,7 +27,7 @@ He brought this by no proper path, by the right path we drive it back. The fool 
 
 <details><summary>पदपाठः</summary>
 
-अपथेन। आ। जभार। एनाम्। ताम्। पथा। इतः। प्र। हिण्मसि। अधीरः। मर्याऽधीरेभ्यः। सम्। जभार। अचित्त्या। ३१.१०।
+अप॑थेन। आ। ज॒भा॒र॒। ए॒ना॒म्। ताम्। प॒था। इ॒तः। प्र। हि॒ण्म॒सि॒। अधी॑रः। म॒र्या॒ऽधीरे॑भ्यः। सम्। ज॒भा॒र॒। अचि॑त्त्या। ३१.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

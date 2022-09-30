@@ -25,7 +25,7 @@ Born in the heaven, sprung from the sea, brought to us hither from the flood. Th
 
 <details><summary>पदपाठः</summary>
 
-दिवि। जातः। समुद्रऽजः। सिन्धुतः। परि। आऽभृतः। सः। नः। हिरण्यऽजाः। शङ्खः। आयुःऽप्रतरणः। मणिः। १०.४।
+दि॒वि। जा॒तः। स॒मु॒द्र॒ऽजः। सि॒न्धु॒तः। परि॑। आऽभृ॑तः। सः। न॒ः। हि॒र॒ण्य॒ऽजाः। श॒ङ्खः। आ॒यु॒ःऽप्र॒तर॑णः। म॒णिः। १०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

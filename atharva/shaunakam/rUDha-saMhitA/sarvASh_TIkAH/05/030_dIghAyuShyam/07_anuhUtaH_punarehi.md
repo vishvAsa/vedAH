@@ -20,7 +20,7 @@ Come back as thou art called to come, knowing the outlet of the path, And the Ap
 
 <details><summary>पदपाठः</summary>
 
-अनुऽहूतः। पुनः। आ। इहि। विद्वान्। उत्ऽअयनम्। पथः। आऽरोहणम्। आऽक्रमणम्। जीवतःऽजीवतः। अयनम्। ३०.७।
+अनु॑ऽहूतः। पुन॑ः। आ। इ॒हि॒। वि॒द्वान्। उ॒त्ऽअय॑नम्। प॒थः। आ॒ऽरोह॑णम्। आ॒ऽक्रम॑णम्। जीव॑तःऽजीवतः। अय॑नम्। ३०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

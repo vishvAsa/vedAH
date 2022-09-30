@@ -21,7 +21,7 @@ Felicitous is this my hand, yet more felicitous is this. This hand contains all 
 
 <details><summary>पदपाठः</summary>
 
-अयम्। मे। हस्तः। भगऽवान्। अयम्। मे। भगवत्ऽतरः। अयम्। मे। विश्वऽभेषजः। अयम्। शिवऽअभिमदर्शनः। १३.६।
+अ॒यम्। मे॒। हस्त॑ः। भग॑ऽवान्। अ॒यम्। मे॒। भग॑वत्ऽतरः। अ॒यम्। मे॒। वि॒श्वऽभे॑षजः। अ॒यम्। शि॒वऽअ॑भिमदर्शनः। १३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

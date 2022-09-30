@@ -26,7 +26,7 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 
 <details><summary>पदपाठः</summary>
 
-असौ। मे। स्मरतात्। इति। प्रियः। मे। स्मरतात्। इति। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.२।
+अ॒सौ। मे॒। स्म॒र॒ता॒त्। इति॑। प्रि॒यः। मे॒। स्म॒र॒ता॒त्। इति॑। देवा॑ः। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

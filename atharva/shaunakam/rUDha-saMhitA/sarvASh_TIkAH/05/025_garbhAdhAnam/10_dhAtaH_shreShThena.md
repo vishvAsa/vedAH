@@ -30,7 +30,7 @@ O Dhatar, thou Disposer, lay within the body of this dame. A male germ with the 
 
 <details><summary>पदपाठः</summary>
 
-धातः। श्रेष्ठेन। रूपेण। अस्याः। नार्याः। गवीन्योः। पुमांसम्। पुत्रम्। आ। धेहि। दशमे। मासि। सूतवे। २५.१०।
+धात॑ः। श्रेष्ठे॑न। रू॒पेण॑। अ॒स्याः। नार्या॑ः। ग॒वी॒न्योः। पुमां॑सम्। पु॒त्रम्। आ। धे॒हि॒। द॒श॒मे। मा॒सि। सूत॑वे। २५.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

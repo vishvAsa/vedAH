@@ -23,7 +23,7 @@ Adding and Gathering are thy two attendants, O Prajapati. May they bring hither 
 
 <details><summary>पदपाठः</summary>
 
-उपऽऊहः। च। सम्ऽऊहः। च। क्षत्तारौ। ते। प्रजाऽपते। तौ। इह। आ। वहताम्। स्फातिम्। बहुम्। भूमानम्। अक्षितम्। २४.७।
+उ॒प॒ऽऊ॒हः। च॒। स॒म्ऽऊ॒हः। च॒। क्ष॒त्तारौ॑। ते॒। प्र॒जा॒ऽप॒ते॒। तौ। इ॒ह। आ। व॒ह॒ता॒म्। स्फा॒तिम्। ब॒हुम्। भू॒मान॑म्। अक्षि॑तम्। २४.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

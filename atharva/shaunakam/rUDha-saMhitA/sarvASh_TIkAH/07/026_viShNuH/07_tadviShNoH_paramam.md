@@ -24,7 +24,7 @@ The princes evermore behold that loftiest place where Vishnu is, Like an extende
 
 <details><summary>पदपाठः</summary>
 
-तत्। विष्णोः। परमम्। पदम्। सदा। पश्यन्ति। सूरयः। दिविऽइव। चक्षुः। आऽततम्। २७.७।
+तत्। विष्णो॑ः। प॒र॒मम्। प॒दम्। सदा॑। प॒श्य॒न्ति॒। सू॒रय॑ः। दि॒विऽइ॑व। चक्षु॑ः। आऽत॑तम्। २७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

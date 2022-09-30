@@ -25,7 +25,7 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 
 <details><summary>पदपाठः</summary>
 
-इमाः। याः। पञ्च। प्रऽदिशः। मानवीः। पञ्च। कृष्टयः। वृष्टे। शापम्। नदीःऽइव। इह। स्फातिम्। सम्ऽआवहान्। २४.३।
+इ॒मा: । या: । पञ्च॑ । प्र॒ऽदिश॑: । मा॒न॒वी: । पञ्च॑ । कृ॒ष्टय॑: ।वृ॒ष्टे । शाप॑म् । न॒दी:ऽइ॑व । इ॒ह । स्फा॒तिम् । स॒म्ऽआव॑हान् ॥२४.३॥
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

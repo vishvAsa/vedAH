@@ -24,7 +24,7 @@ May heaven's five spacious regions pour their milk for me with all their might. 
 
 <details><summary>पदपाठः</summary>
 
-दुह्राम्। मे। पञ्च। प्रऽदिशः। दुह्राम्। उर्वीः। यथाऽबलम्। प्र। आपेयम्। सर्वाः। आऽकूतीः। मनसा। हृदयेन। च। २०.९।
+दु॒ह्राम्। मे॒। पञ्च॑। प्र॒ऽदिश॑ः। दु॒ह्राम्। उ॒र्वीः। य॒था॒ऽब॒लम्। प्र। आ॒पे॒य॒म्। सर्वा॑ः। आऽकू॑तीः। मन॑सा। हृद॑येन। च॒। २०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

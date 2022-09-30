@@ -22,7 +22,7 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 
 <details><summary>पदपाठः</summary>
 
-याः। ते। शतम्। धमनयः। अङ्गानि। अनु। विऽस्थिताः। तासाम्। ते। सर्वासाम्। वयम्। निः। विषाणि। ह्वयामसि। ९०.२।
+याः। ते॒। श॒तम्। ध॒मन॑यः। अङ्गा॑नि। अनु॑। विऽस्थि॑ताः। तासा॑म्। ते॒। सर्वा॑साम्। व॒यम्। निः। वि॒षाणि॑। ह्व॒या॒म॒सि॒। ९०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

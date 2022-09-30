@@ -32,7 +32,7 @@ O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, tas
 
 <details><summary>पदपाठः</summary>
 
-आज्यस्य। परमेस्थिन्। जातवेदः। तनूवशिन्। अग्ने। तौलस्य। म। अशान। यातुधानान्। वि। लापय।
+आज्य॑स्य। प॒र॒मे॒स्थि॒न्। जात॑वेदः। तनू॑वशिन्। अग्ने॑। तौ॒लस्य॑। म। अ॒शा॒न॒। या॒तु॒धाना॑न्। वि। ला॒प॒य॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

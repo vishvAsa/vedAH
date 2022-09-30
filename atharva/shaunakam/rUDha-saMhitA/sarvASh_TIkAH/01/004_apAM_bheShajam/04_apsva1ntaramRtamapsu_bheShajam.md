@@ -29,7 +29,7 @@ Amrit is in the Waters, in the Waters balm. Yea, through our praises of the Floo
 
 <details><summary>पदपाठः</summary>
 
-अप्ऽसु। अन्तः। अमृतम्। अप्ऽसु। भेषजम्। अपाम्। उत। प्रशस्तिऽभिः। अश्वाः। भवथ। वाजिनः। गावः। भवथ। वाजिनीः।
+अ॒प्ऽसु। अ॒न्तः। अ॒मृत॑म्। अ॒प्ऽसु। भे॒ष॒जम्। अ॒पाम्। उ॒त। प्रश॑स्तिऽभिः। अश्वा॑ः। भव॑थ। वा॒जिन॑ः। गाव॑ः। भ॒व॒थ॒। वा॒जिनी॑ः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

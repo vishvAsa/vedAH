@@ -34,7 +34,7 @@ Indeed he hath not named her name: thou with this husband dalliest not, Far into
 
 <details><summary>पदपाठः</summary>
 
-नहि। ते। नाम। जग्राह। नो इति। अस्मिन्। रमसे। पतौ। पराम्। एव। पराऽवतम्। सऽपत्नीम्। गमयामसि। १८.३।
+न॒हि। ते॒। नाम॑। ज॒ग्राह॑। नो इति॑। अ॒स्मिन्। र॒म॒से॒। पतौ॑। परा॑म्। ए॒व। प॒रा॒ऽवत॑म्। स॒ऽपत्नी॑म्। ग॒म॒या॒म॒सि॒। १८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

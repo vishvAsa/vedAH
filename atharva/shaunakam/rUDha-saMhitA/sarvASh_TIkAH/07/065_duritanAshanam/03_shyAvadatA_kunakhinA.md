@@ -21,7 +21,7 @@ If with the cripple we have lived, whose teeth are black and nails deformed, Wit
 
 <details><summary>पदपाठः</summary>
 
-श्यावऽदता। कुनखिना। बण्डेन। यत्। सह। आसिम। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। ६७.३।
+श्या॒वऽद॑ता। कु॒न॒खिना॑। ब॒ण्डेन॑। यत्। स॒ह। आ॒सि॒म। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। ६७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

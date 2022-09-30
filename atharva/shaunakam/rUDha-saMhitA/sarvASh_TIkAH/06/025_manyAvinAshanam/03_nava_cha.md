@@ -22,7 +22,7 @@ Those nine-and-ninety which, combined, attack the shoulder round about, Let them
 
 <details><summary>पदपाठः</summary>
 
-नव। च। याः। नवतिः। च। सम्ऽयन्ति। स्कन्ध्याः। अभि। इतः। ताः। सर्वाः। नश्यन्तु। वाकाः। अपचिताम्ऽइव। २५.३।
+नव॑। च॒। याः। न॒व॒तिः। च॒। स॒म्ऽयन्ति॑। स्कन्ध्या॑ः। अ॒भि। इ॒तः। ताः। सर्वा॑ः। न॒श्य॒न्तु॒। वा॒काः। अ॒प॒चिता॑म्ऽइव। २५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

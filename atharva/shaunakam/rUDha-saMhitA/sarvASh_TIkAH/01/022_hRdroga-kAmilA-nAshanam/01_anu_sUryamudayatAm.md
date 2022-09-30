@@ -31,7 +31,7 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 
 <details><summary>पदपाठः</summary>
 
-अनु। सूर्यम्। उत्। अयताम्। हृत्ऽद्योतः। हरिमा। च। ते। गोः। रोहितस्य। वर्णेन। तेन। त्वा। परि। दध्मसि।
+अनु॑। सूर्य॑म्। उत्। अ॒य॒ता॒म्। हृ॒त्ऽद्यो॒तः। ह॒रि॒मा। च॒। ते॒। गोः। रोहि॑तस्य। वर्णे॑न। तेन॑। त्वा॒। परि॑। द॒ध्म॒सि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

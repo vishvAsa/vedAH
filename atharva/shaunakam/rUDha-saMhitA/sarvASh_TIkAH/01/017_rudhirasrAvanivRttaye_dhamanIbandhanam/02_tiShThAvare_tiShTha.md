@@ -21,7 +21,7 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 
 <details><summary>पदपाठः</summary>
 
-तिष्ठ। अवरे। तिष्ठ। परे। उत। त्वम्। तिष्ठ। मध्यमे। कनिष्ठिका। च। तिष्ठति। तिष्ठात्। इत्। धमनिः। मही।
+तिष्ठ॑। अ॒व॒रे॒। तिष्ठ॑। प॒रे॒। उ॒त। त्वम्। ति॒ष्ठ॒। म॒ध्य॒मे॒। क॒नि॒ष्ठि॒का। च॒। तिष्ठ॑ति। तिष्ठा॑त्। इत्। ध॒मनि॑ः। म॒ही। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

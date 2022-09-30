@@ -24,7 +24,7 @@ Oft, coming as a naked girl thou hauntest people in their sleep, Baffling the th
 
 <details><summary>पदपाठः</summary>
 
-उत। नग्ना। बोभुवती। स्वप्नऽया। सचसे। जनम्। अराते। चित्तम्। विऽईर्त्सन्ती। आऽकूतिम्। पुरुषस्य। च। ७.८।
+उ॒त। न॒ग्ना। बोभु॑वती। स्व॒प्न॒ऽया। स॒च॒से॒। जन॑म्। अरा॑ते। चि॒त्तम्। वि॒ऽईर्त्स॑न्ती। आऽकू॑तिम्। पुरु॑षस्य। च॒। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

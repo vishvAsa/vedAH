@@ -23,7 +23,7 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 
 <details><summary>पदपाठः</summary>
 
-ज्याके। परि। नः। नम। अश्मानम्। तन्वम्। कृधि। वीडुः। वरीयः। अरातीः। अप। द्वेषांसि। आ। कृधि।
+ज्याके। परि॑। नः॒। न॒म॒। अश्मा॑नम्। त॒न्वम्। कृ॒धि॒। वी॒डुः। वरी॑यः। अरा॑तीः। अप॑। द्वेषां॑सि। आ। कृ॒धि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

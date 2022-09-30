@@ -22,7 +22,7 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 
 <details><summary>पदपाठः</summary>
 
-सुऽजातम्। जातऽवेदसम्। अग्निम्। वैश्वानरम्। विऽभुम्। हव्यऽवाहम्। हवामहे। सः। नः। मुञ्चतु। अंहसः। २३.४।
+सुऽजा॑तम्। जा॒तऽवे॑दसम्। अ॒ग्निम्। वै॒श्वा॒न॒रम्। वि॒ऽभुम्। ह॒व्य॒ऽवाह॑म्। ह॒वा॒म॒हे॒। सः। न॒ः। मु॒ञ्च॒तु॒। अंह॑सः। २३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

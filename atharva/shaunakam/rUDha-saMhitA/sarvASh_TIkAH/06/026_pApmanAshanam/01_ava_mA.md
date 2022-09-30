@@ -24,7 +24,7 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 
 <details><summary>पदपाठः</summary>
 
-अव। मा। पाप्मन्। सृज। वशी। सन्। मृडयासि। नः। आ। मा। भद्रस्य। लोके। पाप्मन्। धेहि। अविऽह्रुतम्। २६.१।
+अव॑। मा॒। पा॒प्म॒न्। सृ॒ज॒। व॒शी। सन्। मृ॒ड॒या॒सि॒। न॒ः। आ। मा॒। भ॒द्रस्य॑। लो॒के। पा॒प्म॒न्। धे॒हि॒। अवि॑ऽह्रुतम्। २६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

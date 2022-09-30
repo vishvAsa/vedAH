@@ -20,7 +20,7 @@ The Amulet which Aditi wore when desirous of a son, Tvashtar hath bound upon thi
 
 <details><summary>पदपाठः</summary>
 
-यम्। परिऽहस्तम्। अबिभः। अदितिः। पुत्रऽकाम्या। त्वष्टा। तम्। अस्यै। आ। बध्नात्। यथा। पुत्रम्। जनात्। इति। ८१.३।
+यम्। प॒रि॒ऽह॒स्तम्। अबि॑भः। अदि॑तिः। पु॒त्र॒ऽका॒म्या। त्वष्टा॑। तम्। अ॒स्यै॒। आ। ब॒ध्ना॒त्। यथा॑। पु॒त्रम्। जना॑त्। इति॑। ८१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

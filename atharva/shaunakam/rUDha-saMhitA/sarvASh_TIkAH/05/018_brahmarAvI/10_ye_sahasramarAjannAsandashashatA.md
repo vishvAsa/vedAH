@@ -23,7 +23,7 @@ They who, themselves ten hundred, were the rulers of a thousand men, The Vaitaha
 
 <details><summary>पदपाठः</summary>
 
-ये। सहस्रम्। अराजन्। आसन्। दशऽशताः। उत। ते। ब्राह्मणस्य। गाम्। जग्ध्वा। वैतऽहव्याः। परा। अभवन्। १८.१०।
+ये। स॒हस्र॑म्। अरा॑जन्। आस॑न्। द॒श॒ऽश॒ताः। उ॒त। ते। ब्रा॒ह्म॒णस्य॑। गाम्। ज॒ग्ध्वा। वै॒त॒ऽह॒व्याः। परा॑। अ॒भ॒व॒न्। १८.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

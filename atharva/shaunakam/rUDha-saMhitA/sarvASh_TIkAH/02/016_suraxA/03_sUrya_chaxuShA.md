@@ -21,7 +21,7 @@ thee!
 
 <details><summary>पदपाठः</summary>
 
-सूर्य। चक्षुषा। मा। पाहि। स्वाहा। १६.३।
+सूर्य॑। चक्षु॑षा। मा॒। पा॒हि॒। स्वाहा॑। १६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

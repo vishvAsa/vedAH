@@ -25,7 +25,7 @@ Even as the arrow flies away when loosened from the archer's bow, Thus let the b
 
 <details><summary>पदपाठः</summary>
 
-यथा। इषुका। पराऽअपतत्। अवऽसृष्टा। अधि। धन्वनः। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्। ३.९।
+यथा॒। इ॒षु॒का। प॒रा॒ऽअप॑तत्। अव॑ऽसृष्टा। अधि॑। धन्व॑नः। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। बाल्। इति॑। स॒र्व॒कम्। ३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ Guard me from death, Inhaling and Exhaling! All bliss to you!
 
 <details><summary>पदपाठः</summary>
 
-प्राणापानौ। मृत्योः। मा। पातम्। स्वाहा। १६.१।
+प्राणा॑पानौ। मृ॒त्योः। मा॒। पा॒त॒म्। स्वाहा॑। १६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

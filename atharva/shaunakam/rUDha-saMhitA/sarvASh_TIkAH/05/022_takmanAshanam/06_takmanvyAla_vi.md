@@ -28,7 +28,7 @@ Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou
 
 <details><summary>पदपाठः</summary>
 
-तक्मन्। विऽआल। वि। गद। विऽअङ्ग। भूरि। यवय। दासीम्। निःऽतक्वरीम्। इच्छ। ताम्। वज्रेण। सम्। अर्पय। २२.६।
+तक्म॑न्। विऽआ॑ल। वि। ग॒द॒। विऽअ॑ङ्ग। भूरि॑। य॒व॒य॒। दा॒सीम्। नि॒ःऽतक्व॑रीम्। इ॒च्छ॒। ताम्। वज्रे॑ण। सम्। अ॒र्प॒य॒। २२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

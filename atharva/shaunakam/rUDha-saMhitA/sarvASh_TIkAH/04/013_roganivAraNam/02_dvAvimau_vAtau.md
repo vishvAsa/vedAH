@@ -32,7 +32,7 @@ Here these two winds are blowing far as Sindhu from a distant land. May one brea
 
 <details><summary>पदपाठः</summary>
 
-द्वौ। इमौ। वातौ। वातः। आ। सिन्धोः। आ। पराऽवतः। दक्षम्। ते। अन्यः। आऽवातु। वि। अन्यः। वातु। यत्। रपः। १३.२।
+द्वौ। इ॒मौ। वातौ॑। वा॒त॒ः। आ। सिन्धो॑ः। आ। प॒रा॒ऽवत॑ः। दक्ष॑म्। ते॒। अ॒न्यः। आ॒ऽवातु॑। वि। अ॒न्यः। वा॒तु॒। यत्। रप॑ः। १३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

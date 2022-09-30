@@ -24,7 +24,7 @@ Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We 
 
 <details><summary>पदपाठः</summary>
 
-कृतऽव्यधनि। विध्य। तम्। यः। चकार। तम्। इत्। जहि। न। त्वाम्। अचक्रुषे। वयम्। वधाय। सम्। शिशीमहि। १४.९।
+कृत॑ऽव्यधनि। विध्य॑। तम्। यः। च॒कार॑। तम्। इत्। ज॒हि॒। न। त्वाम्। अच॑क्रुषे। व॒यम्। व॒धाय॑। सम्। शि॒शी॒म॒हि॒। १४.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

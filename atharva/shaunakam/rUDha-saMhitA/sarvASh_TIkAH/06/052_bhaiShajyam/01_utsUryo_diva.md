@@ -26,7 +26,7 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 
 <details><summary>पदपाठः</summary>
 
-उत्। सूर्यः। दिवः। एति। पुरः। रक्षांसि। निऽजूर्वन्। आदित्यः। पर्वतेभ्यः। विश्वऽदृष्टः। अदृष्टऽहा। ५२.१।
+उत्। सूर्य॑ः। दि॒वः। ए॒ति॒। पु॒रः। रक्षां॑सि। नि॒ऽजूर्व॑न्। आ॒दि॒त्यः। पर्व॑तेभ्यः। वि॒श्वऽदृ॑ष्टः। अ॒दृ॒ष्ट॒ऽहा। ५२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

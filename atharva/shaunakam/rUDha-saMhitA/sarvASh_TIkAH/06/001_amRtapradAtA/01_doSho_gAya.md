@@ -33,7 +33,7 @@ Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar
 
 <details><summary>पदपाठः</summary>
 
-दोषो इत᳡ देव॒यज॑नि। गाय। बृहत्। गाय। द्युऽमत्। धेहि। आथर्वण। स्तुहि। देवम्। सवितारम्। १.१।
+दो॒षो इत‍ि॑। गा॒य॒। बृ॒हत्। गा॒य॒। द्यु॒ऽमत्। धे॒हि॒। आथ॑र्वण। स्तु॒हि। दे॒वम्। स॒वि॒तार॑म्। १.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

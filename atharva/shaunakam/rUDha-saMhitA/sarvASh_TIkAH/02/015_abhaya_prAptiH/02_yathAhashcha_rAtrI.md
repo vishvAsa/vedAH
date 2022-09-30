@@ -20,7 +20,7 @@ sentences, correspondent but with elements in part different.
 
 <details><summary>पदपाठः</summary>
 
-यथा। अहः। च। रात्री। च। न। बिभीतः। न। रिष्यतः। एव। मे। प्राण। मा। बिभेः। १५.२।
+यथा॑। अह॑ः। च॒। रात्री॑। च॒। न। बि॒भी॒तः। न। रिष्य॑तः। ए॒व। मे॒। प्रा॒ण॒। मा। बि॒भे॒ः। १५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

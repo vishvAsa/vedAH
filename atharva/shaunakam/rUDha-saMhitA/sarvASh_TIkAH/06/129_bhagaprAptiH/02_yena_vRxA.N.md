@@ -21,7 +21,7 @@ That splendour and felicity wherewith thou hast excelled the trees Give me there
 
 <details><summary>पदपाठः</summary>
 
-येन। वृक्षान्। अभिऽअभवः। भगेन। वर्चसा। सह। तेन। मा। भगिनम्। कृणु। अप। द्रान्तु। अरातयः। १२९.२।
+येन॑। वृ॒क्षान्। अ॒भि॒ऽअभ॑वः। भगे॑न। वर्च॑सा। स॒ह। तेन॑। मा॒। भ॒गिन॑म्। कृ॒णु॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

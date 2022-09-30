@@ -34,7 +34,7 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 
 <details><summary>पदपाठः</summary>
 
-सूपा। वि। ऊर्णोतु। वि। योनिम्। हापयामसि। श्रथय। सूषणे। त्वम्। अव। त्वम्। बिष्कले। सृज।
+सू॒पा। वि। ऊ॒र्णो॒तु॒। वि। योनि॑म्। हा॒प॒या॒म॒सि॒। श्र॒थय॑। सू॒ष॒णे॒। त्वम्। अव॑। त्वम्। बि॒ष्क॒ले॒। सृ॒ज॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

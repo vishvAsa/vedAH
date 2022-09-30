@@ -26,7 +26,7 @@ Unto a thousand sages he hath given sight: thought, light is he in ranging all.
 
 <details><summary>पदपाठः</summary>
 
-अयम्। सहस्रम्। आ। नः। दृशे। कवीनाम्। मतिः। ज्योतिः। विऽधर्मणि। २३.१।
+अ॒यम्। स॒हस्र॑म्। आ। न॒ः। दृ॒शे। क॒वी॒नाम्। म॒तिः। ज्योति॑ः। विऽध॑र्मणि। २३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

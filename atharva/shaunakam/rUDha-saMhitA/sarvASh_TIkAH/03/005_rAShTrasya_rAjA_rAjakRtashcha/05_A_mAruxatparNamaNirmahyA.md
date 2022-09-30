@@ -27,7 +27,7 @@ The Parna-Charm hath come to me for great security from ill. That I may be exalt
 
 <details><summary>पदपाठः</summary>
 
-आ। मा। अरुक्षत्। पर्णऽमणिः। मह्यै। अरिष्टऽतातये। यथा। अहम्। उत्तरः। असानि। अर्यम्णः। उत। सम्ऽविदः। ५.५।
+आ। मा॒। अ॒रु॒क्ष॒त्। प॒र्ण॒ऽम॒णिः। म॒ह्यै। अ॒रि॒ष्टऽता॑तये। यथा॑। अ॒हम्। उ॒त्त॒रः। असा॑नि। अ॒र्य॒म्णः। उ॒त। स॒म्ऽविद॑ः। ५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

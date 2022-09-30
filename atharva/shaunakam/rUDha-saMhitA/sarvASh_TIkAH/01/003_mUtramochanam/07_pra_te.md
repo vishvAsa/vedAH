@@ -21,7 +21,7 @@ I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 
 <details><summary>पदपाठः</summary>
 
-प्र। ते। भिनद्मि। मेहनम्। वर्त्रम्। वेशन्त्याःऽइव। एव। ते। मूत्रम्। मुच्यताम्। बहिः। बाल्। इति। सर्वकम्।
+प्र। ते॒। भि॒न॒द्मि॒। मेह॑नम्। वर्त्र॑म्। वे॒श॒न्त्याःऽइ॑व। ए॒व। ते॒। मूत्र॑म्। मु॒च्य॒ता॒म्। ब॒हिः। बाल्। इति॑। स॒र्व॒कम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

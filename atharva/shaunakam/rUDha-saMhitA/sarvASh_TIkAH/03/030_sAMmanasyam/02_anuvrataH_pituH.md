@@ -25,7 +25,7 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 
 <details><summary>पदपाठः</summary>
 
-अनुऽव्रतः। पितुः। पुत्र। मात्रा। भवतु। सम्ऽमनाः। जाया। पत्ये। मधुऽमतीम्। वाचम्। वदतु। शन्तिऽवाम्। ३०.२।
+अनु॑ऽव्रतः। पि॒तुः। पु॒त्र। मा॒त्रा। भ॒व॒तु॒। सम्ऽम॑नाः। जा॒या। पत्ये॑। मधु॑ऽमतीम्। वाच॑म्। व॒द॒तु॒। श॒न्ति॒ऽवाम्। ३०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

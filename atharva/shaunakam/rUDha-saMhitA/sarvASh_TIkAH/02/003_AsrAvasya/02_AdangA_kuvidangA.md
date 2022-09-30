@@ -28,7 +28,7 @@ Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of a
 
 <details><summary>पदपाठः</summary>
 
-आत्। अङ्ग। कुवित्। अङ्ग। शतम्। या। भेषजानि। ते। तेषाम्। असि। त्वम्। उत्ऽतमम्। अनास्रावम्। अरोगणम्। ३.२।
+आत्। अ॒ङ्ग। कु॒वित्। अ॒ङ्ग। श॒तम्। या। भे॒ष॒जानि॑। ते॒। तेषा॑म्। अ॒सि॒। त्वम्। उ॒त्ऽत॒मम्। अ॒ना॒स्रा॒वम्। अरो॑गणम्। ३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

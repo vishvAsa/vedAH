@@ -24,7 +24,7 @@ He who disputes our calling thee, be he a stranger or akin. Drive him, O Indra, 
 
 <details><summary>पदपाठः</summary>
 
-यः। ते। हवम्। विऽवदत्। सऽजातः। यः। च। निष्ट्यः। अपाञ्चम्। इन्द्र। तम्। कृत्वा। अथ। इमम्। इह। अव। गमय। ३.६।
+यः। ते॒। हव॑म्। वि॒ऽवद॑त्। स॒ऽजा॒तः। यः। च॒। निष्ट्य॑ः। अपा॑ञ्चम्। इ॒न्द्र॒। तम्। कृ॒त्वा। अथ॑। इ॒मम्। इ॒ह। अव॑। ग॒म॒य॒। ३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

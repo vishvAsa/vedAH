@@ -24,7 +24,7 @@ Prajapati, Anumati, Sinivali have ordered it. Elsewhere may he effect the birth 
 
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिः। अनुऽमतिः। सिनीवाली। अचीक्लृपत्। स्रैसूयम्। अन्यत्र। दधत्। पुमांसम्। ऊं इति। दधत्। इह। ११.३।
+प्र॒जाऽप॑तिः। अनु॑ऽमतिः। सि॒नी॒वा॒ली। अ॒ची॒क्लृ॒प॒त्। स्रैसू॑यम्। अ॒न्यत्र॑। दध॑त्। पुमां॑सम्। ऊं॒ इति॑। द॒ध॒त्। इ॒ह। ११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

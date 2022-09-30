@@ -32,7 +32,7 @@ The worm Saranga, white of hue, three-headed, with a triple hump, I split and te
 
 <details><summary>पदपाठः</summary>
 
-हतः। येवाषः। क्रिमीणाम्। हतः। नदनिमा। उत। सर्वान्। नि। मष्मषा। अकरम्। दृषदा। खल्वान्ऽइव। २३.८।
+ह॒तः। येवा॑षः। क्रिमी॑णाम्। ह॒तः। न॒द॒नि॒मा। उ॒त। सर्वा॑न्। नि। म॒ष्म॒षा। अ॒क॒र॒म्। दृ॒षदा॑। खल्वा॑न्ऽइव। २३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

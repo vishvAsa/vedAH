@@ -22,7 +22,7 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 
 <details><summary>पदपाठः</summary>
 
-इमाः। याः। ते। शतम्। हिराः। सहस्रम्। धमनीः। उत। तासाम्। ते। सर्वासाम्। अहम्। अश्मना। बिलम्। अपि। अधाम्। ३६.२।
+इ॒माः। याः। ते॒। श॒तम्। हि॒राः। स॒हस्र॑म्। ध॒मनी॑ः। उ॒त। तासा॑म्। ते॒। सर्वा॑साम्। अ॒हम्। अश्म॑ना। बिल॑म्। अपि॑। अ॒धा॒म्। ३६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

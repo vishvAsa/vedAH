@@ -24,7 +24,7 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 
 <details><summary>पदपाठः</summary>
 
-आ। क्रन्दय। धनऽपते। वरम्। आऽमनसम्। कृणु। सर्वम्। प्रऽदक्षिणम्। कृणु। यः। वरः। प्रतिऽकाम्यः᳡। ३६.६।
+आ। क्र॒न्द॒य॒। ध॒न॒ऽप॒ते॒। व॒रम्। आऽम॑नसम्। कृ॒णु॒। सर्व॑म्। प्र॒ऽद॒क्षि॒णम्। कृ॒णु॒। यः। व॒रः। प्र॒ति॒ऽका॒म्य᳡ः। ३६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

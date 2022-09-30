@@ -27,7 +27,7 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 
 <details><summary>पदपाठः</summary>
 
-लोहितेन। स्वऽधितिना। मिथुनम्। कर्णयोः। कृधि। अकर्ताम्‌। अश्विना। लक्ष्म। तत्। अस्तु। प्रऽजया। बहु। १४१.२।
+लोहि॑तेन। स्वऽधि॑तिना। मि॒थु॒नम्। कर्ण॑योः। कृ॒धि॒। अक॑र्ताम्‌। अ॒श्विना॑। लक्ष्म॑। तत्। अ॒स्तु॒। प्र॒ऽजया॑। ब॒हु। १४१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

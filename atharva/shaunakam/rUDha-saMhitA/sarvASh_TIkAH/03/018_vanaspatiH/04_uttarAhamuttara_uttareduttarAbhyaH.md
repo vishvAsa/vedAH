@@ -27,7 +27,7 @@ Stronger am I, O stronger one, yea, mightier than the mightier; Beneath me be my
 
 <details><summary>पदपाठः</summary>
 
-उत्ऽतरा। अहम्। उत्ऽतरे। उत्ऽतरा। इत्। उत्ऽतराभ्यः। अधः। सऽपत्नी। या। मम। अधरा। सा। अधराभ्यः। १८.४।
+उत्ऽत॑रा। अ॒हम्। उ॒त्ऽत॒रे॒। उत्ऽत॑रा। इत्। उत्ऽत॑राभ्यः। अ॒धः। स॒ऽपत्नी॑। या। मम॑। अध॑रा। सा। अध॑राभ्यः। १८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

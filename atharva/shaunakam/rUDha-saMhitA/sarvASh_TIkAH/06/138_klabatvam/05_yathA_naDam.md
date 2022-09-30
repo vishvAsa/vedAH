@@ -22,7 +22,7 @@ Ut mulieres mattam (tegetem) facturae arundinem lapide findunt, sic fascinum tuu
 
 <details><summary>पदपाठः</summary>
 
-यथा। नडम्। कशिपुने। स्रियः। भिन्दन्ति। अश्मना। एव। भिनद्मि। ते। शेपः। अमुष्याः। अधि। मुष्कयोः। १३८.५।
+यथा॑। न॒डम्। क॒शिपु॑ने। स्रिय॑ः। भि॒न्दन्ति॑। अश्म॑ना। ए॒व। भि॒न॒द्मि॒। ते॒। शेप॑ः। अ॒मुष्या॑ः। अधि॑। मु॒ष्कयो॑ः। १३८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

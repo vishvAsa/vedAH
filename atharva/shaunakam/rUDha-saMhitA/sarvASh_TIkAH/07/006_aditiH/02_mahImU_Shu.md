@@ -18,7 +18,6 @@ being (in all) *huvema* for *havāmahe* at end of **b**; and Ppp. has the
 same.  
 </details>
 
-
 <details><summary>Griffith</summary>
 
 We call for help the Queen of Law and Order, great mother of
@@ -29,7 +28,7 @@ ing, well protecting.
 
 <details><summary>पदपाठः</summary>
 
-महीम्। ऊं इति। सु। मातरम्। सुऽव्रतानाम्। ऋतस्य। पत्नीम्। अवसे। हवामहे। तुविऽक्षत्राम्। अजरन्तीम्। ऊरूचीम्। सुऽशर्माणम्। अदितिम्। सुऽप्रनीतिम्। ६.२।
+म॒हीम्। ऊं॒ इति॑। सु। मा॒तर॑म्। सु॒ऽव्र॒ताना॑म्। ऋ॒तस्य॑। पत्नी॑म्। अव॑से। ह॒वा॒म॒हे॒। तु॒वि॒ऽक्ष॒त्राम्। अ॒जर॑न्तीम्। ऊ॒रू॒चीम्। सु॒ऽशर्मा॑णम्। अदि॑तिम्। सु॒ऽप्रनी॑तिम्। ६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,5 +59,4 @@ ing, well protecting.
 टिप्पणी:   २−(महीम्) महतीम् (उ) अवधारणे (सु) सुष्ठु। सत्कारेण (मातरम्) मातृसमानहिताम् (सुव्रतानाम्) शोभनकर्मवताम् (ऋतस्य) सत्यधर्मस्य (पत्नीम्) पालयित्रीम् (अवसे) रक्षणाय (हवामहे) आह्वयामः (तुविक्षत्राम्) बहुबलां बहुधनाम् (अजरन्तीम्) अजराम् (उरूचीम्) अ० ३।३।१। बहुविस्तारगताम् (सुशर्म्माणम्) उत्तमगृहयुक्ताम्। बहुसुखवतीम् (अदितिम्) अ० २।२८।४। अदीनां पृथिवीम्-निघ० १।१। (सुप्रणीतिम्) सुष्ठु प्रकृष्टनीतियुक्ताम् ॥
 </details>
 
-
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="2" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/sarvASh_TIkAH/1/5_punarAdheyAdi/11_kAmyeShTi-yAjyAH/mahImU_Shu.md"> </div>

@@ -26,7 +26,7 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 
 <details><summary>पदपाठः</summary>
 
-वि। ग्राम्याः। पशवः। आरण्यैः। वि। आपः। तृष्णया। असरन्। वि। अहम्। सर्वेण। पाप्मना। वि। यक्ष्मेण। सम्। आयुषा। ३१.३।
+वि। ग्रा॒म्याः। प॒शव॑ः। आ॒र॒ण्यैः। वि। आप॑ः। तृष्ण॑या। अ॒स॒र॒न्। वि। अ॒हम्। सर्वे॑ण। पा॒प्मना॑। वि। यक्ष्मे॑ण। सम्। आयु॑षा। ३१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

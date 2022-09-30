@@ -23,7 +23,7 @@ Turned from us let the arrows fall, those shot and those that will be shot. Shaf
 
 <details><summary>पदपाठः</summary>
 
-विष्वञ्चः। अस्मत्। शरवः। पतन्तु। ये। अस्ताः। ये। च। आस्याः। दैवीः। मनुष्यऽइषवः। मम। अमित्रान्। वि। विध्यत।
+विष्व॑ञ्चः। अ॒स्मत्। शर॑वः। प॒त॒न्तु॒। ये। अ॒स्ताः। ये। च॒। आ॒स्याः। दैवी॑ः। म॒नु॒ष्य॒ऽइ॒ष॒व॒ः। मम॑। अ॒मित्रा॑न्। वि। वि॒ध्य॒त॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

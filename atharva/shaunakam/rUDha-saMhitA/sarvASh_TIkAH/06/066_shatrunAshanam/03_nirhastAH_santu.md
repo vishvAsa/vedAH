@@ -21,7 +21,7 @@ Handless be these our enemies! We enervate their languid limbs. So let us part a
 
 <details><summary>पदपाठः</summary>
 
-निःऽहस्ताः। सन्तु। शत्रवः। अङ्गा। एषाम्। म्लापयामसि। अथ। एषाम्। इन्द्र। वेदांसि। शतऽशः। वि। भजामहै। ६६.३।
+निःऽह॑स्ताः। स॒न्तु॒। शत्र॑वः। अङ्गा॑। ए॒षा॒म्। म्ला॒प॒या॒म॒सि॒। अथ॑। ए॒षा॒म्। इ॒न्द्र॒। वेदां॑सि। श॒त॒ऽशः। वि। भ॒जा॒म॒है॒। ६६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

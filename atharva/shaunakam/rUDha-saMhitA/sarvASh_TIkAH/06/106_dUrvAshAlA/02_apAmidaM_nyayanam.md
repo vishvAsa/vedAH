@@ -24,7 +24,7 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 
 <details><summary>पदपाठः</summary>
 
-अपाम्। इदम्। निऽअयनम्। समुद्रस्य। निऽवेशनम्। मध्ये। ह्रदस्य। नः। गृहाः। पराचीना। मुखा। कृधि। १०६.२।
+अ॒पाम्। इ॒दम्। नि॒ऽअय॑नम्। स॒मु॒द्रस्य॑। नि॒ऽवेश॑नम्। मध्ये॑। ह्र॒दस्य॑। न॒ः। गृ॒हाः। प॒रा॒चीना॑। मुखा॑। कृ॒धि॒। १०६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

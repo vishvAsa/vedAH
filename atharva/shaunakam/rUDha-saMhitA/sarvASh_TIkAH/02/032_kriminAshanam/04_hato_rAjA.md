@@ -25,7 +25,7 @@ Slain is the sovran of these Worms, yea, their controlling lord is slain: Slain 
 
 <details><summary>पदपाठः</summary>
 
-हतः। राजा। क्रिमीणाम्। उत। एषाम्। स्थपतिः। हतः। हतः। हतऽमाता। क्रिमिः। हतऽभ्राता। हतऽस्वसा। ३२.४।
+ह॒तः। राजा॑। क्रिमी॑णाम्। उ॒त। ए॒षा॒म्। स्थ॒पति॑ः। ह॒तः। ह॒तः। ह॒तऽमा॑ता। क्रिमि॑ः। ह॒तऽभ्रा॑ता। ह॒तऽस्व॑सा। ३२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

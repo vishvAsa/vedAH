@@ -16,7 +16,7 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 
 <details><summary>पदपाठः</summary>
 
-यथा। बाणः। सुऽसंशितः। पराऽपतति। आशुऽमत्। एव। त्वम्। कासे। प्र। पत। पृथिव्याः। अनु। सम्ऽवतम्। १०५.२।
+यथा॑। बाण॑ः। सुऽसं॑शितः। प॒रा॒ऽपत॑ति। आ॒शु॒ऽमत्। ए॒व। त्वम्। का॒से॒। प्र। प॒त॒। पृ॒थि॒व्याः। अनु॑। स॒म्ऽवत॑म्। १०५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

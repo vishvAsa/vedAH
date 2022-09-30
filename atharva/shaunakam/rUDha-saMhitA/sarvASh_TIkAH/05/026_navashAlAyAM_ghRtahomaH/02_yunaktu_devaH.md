@@ -22,7 +22,7 @@ May Savitar the God--All hail!--foreknowing, chief in this sacrifice, employ the
 
 <details><summary>पदपाठः</summary>
 
-युनक्तु। देवः। सविता। प्रऽजानन्। अस्मिन्। यज्ञे। महिषः। स्वाहा। २६.२।
+यु॒नक्तु॑। दे॒वः। स॒वि॒ता। प्र॒ऽजा॒नन्। अ॒स्मिन्। य॒ज्ञे। म॒हि॒षः। स्वाहा॑। २६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

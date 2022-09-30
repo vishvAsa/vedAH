@@ -22,7 +22,7 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 
 <details><summary>पदपाठः</summary>
 
-दृंह। प्रत्नान्। जनय। अजातान्। जातान्। ऊं इति। वर्षीयसः। कृधि। १३६.२।
+दृंह॑। प्र॒त्नान्। ज॒नय॑। अजा॑तान्। जा॒तान्। ऊं॒ इति॑। वर्षी॑यसः। कृ॒धि॒। १३६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -31,7 +31,7 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 
 <details><summary>पदपाठः</summary>
 
-उपऽजीकाः। उत्। भरन्ति। समुद्रात्। अधि। भेषजम्। तत्। आऽस्रावस्य। भेषजम्। तत्। ऊं इति। रोगम्। अशीशमत्। ३.४।
+उ॒प॒ऽजीका॑ः। उत्। भ॒र॒न्ति॒। स॒मु॒द्रात्। अधि॑। भे॒ष॒जम्। तत्। आ॒ऽस्रा॒वस्य॑। भे॒ष॒जम्। तत्। ऊं॒ इति॑। रोग॑म्। अ॒शी॒श॒म॒त्। ३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

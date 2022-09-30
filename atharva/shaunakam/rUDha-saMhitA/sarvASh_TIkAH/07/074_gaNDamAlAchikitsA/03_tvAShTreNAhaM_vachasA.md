@@ -21,7 +21,7 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 
 <details><summary>पदपाठः</summary>
 
-त्वाष्ट्रेण। अहम्। वचसा। वि। ते। ईर्ष्याम्। अमीमदम्। अथो इति। यः। मन्युः। ते। पते। तम्। ऊं इति। ते। शमयामसि। ७८.३।
+त्वा॒ष्ट्रेण॑। अ॒हम्। वच॑सा। वि। ते॒। ई॒र्ष्याम्। अ॒मी॒म॒द॒म्। अथो॒ इति॑। यः। म॒न्युः। ते॒। प॒ते॒। तम्। ऊं॒ इति॑। ते॒। श॒म॒या॒म॒सि॒। ७८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

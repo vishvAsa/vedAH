@@ -21,7 +21,7 @@ All hail for vision to the Stars, to Heaven, to Surya, sovran Lord!
 
 <details><summary>पदपाठः</summary>
 
-दिवे। चक्षुषे। नक्षत्रेभ्यः। सूर्याय। अधिऽपतये। स्वाहा। १०.३।
+दि॒वे। चक्षु॑षे। नक्ष॑त्रेभ्यः। सूर्या॑य। अधि॑ऽपतये। स्वाहा॑। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 
 <details><summary>पदपाठः</summary>
 
-परिऽपानम्। पुरुषाणाम्। परिऽपानम्। गवाम्। असि। अश्वानाम्। अर्वताम्। परिऽपानाय। तस्थिषे। ९.२।
+प॒रि॒ऽपान॑म्। पुरु॑षाणाम्। प॒रि॒ऽपान॑म्। गवा॑म्। अ॒सि॒। अश्वा॑नाम्। अर्व॑ताम्। प॒रि॒ऽपाना॑य। त॒स्थि॒षे॒। ९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

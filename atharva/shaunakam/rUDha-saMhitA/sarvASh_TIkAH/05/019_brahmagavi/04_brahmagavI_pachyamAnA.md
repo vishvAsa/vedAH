@@ -25,7 +25,7 @@ While yet the Brahman's cow which men are dressing quivers in her throe: She mar
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मऽगवी। पच्यमाना। यावत्। सा। अभि। विऽजङ्गहे। तेजः। राष्ट्रस्य। निः। हन्ति। न। वीरः। जायते। वृषा। १९.४।
+ब्र॒ह्म॒ऽग॒वी। प॒च्यमा॑ना। याव॑त्। सा। अ॒भि। वि॒ऽजङ्ग॑हे। तेज॑ः। रा॒ष्ट्रस्य॑। निः। ह॒न्ति॒। न। वी॒रः। जा॒य॒ते॒। वृषा॑। १९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

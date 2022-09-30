@@ -27,7 +27,7 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 
 <details><summary>पदपाठः</summary>
 
-यातुऽधानस्य। सोमऽप। जहि। प्रऽजाम्। नयस्व। च। ᳡ देव॒यज॑ननिः। स्तुवानस्य। पातय। परम्। अक्षि। उत। अवरम्।
+या॒तु॒ऽधान॑स्य। सो॒म॒ऽप॒। ज॒हि। प्र॒ऽजाम्। नय॑स्व। च॒। ‍निः। स्तु॒वा॒नस्य॑। पा॒त॒य॒। पर॑म्। अक्षि॑। उ॒त। अव॑रम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

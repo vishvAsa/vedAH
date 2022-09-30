@@ -19,7 +19,7 @@ Madden him, Maruts, madden him. Madden him, madden him, O Air. Madden him, Agni,
 
 <details><summary>पदपाठः</summary>
 
-उत्। मादयत। मरुतः। उत्। अन्तरिक्ष। मादय। अग्ने। उत्। मादय। त्वम्। असौ। माम्। अनु। शोचतु। १३०.४।
+उत्। मा॒द॒य॒त॒। म॒रु॒त॒ः। उत्। अ॒न्त॒रि॒क्ष॒। मा॒द॒य॒। अग्ने॑। उत्। मा॒द॒य॒। त्वम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

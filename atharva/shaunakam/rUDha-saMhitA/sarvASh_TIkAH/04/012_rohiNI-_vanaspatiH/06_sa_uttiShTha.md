@@ -23,7 +23,7 @@ Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! St
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्। तिष्ठ। प्र। इहि। प्र। द्रव। रथः। सुऽचक्रः। सुऽपविः। सुऽनाभिः। प्रति। तिष्ठ। ऊर्ध्वः। १२.६।
+सः। उत्। ति॒ष्ठ॒। प्र। इ॒हि॒। प्र। द्र॒व॒। रथ॑ः। सु॒ऽच॒क्रः। सु॒ऽप॒विः। सु॒ऽनाभि॑ः। प्रति॑। ति॒ष्ठ॒। ऊ॒र्ध्वः। १२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

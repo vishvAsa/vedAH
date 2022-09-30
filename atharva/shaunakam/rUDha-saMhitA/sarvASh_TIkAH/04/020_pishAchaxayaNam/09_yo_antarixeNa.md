@@ -30,7 +30,7 @@ Make that Pisacha visible, the fiend who flies in middle air, The fiend who glid
 
 <details><summary>पदपाठः</summary>
 
-यः। अन्तरिक्षेण। पतति। दिवम्। यः। च। अतिऽसर्पति। भूमिम्। यः। मन्यते। नाथम्। तम्। पिशाचम्। प्र। दर्शय। २०.९।
+यः। अ॒न्तरि॑क्षेण। पत॑ति। दिव॑म्। यः। च॒। अ॒ति॒ऽसर्प॑ति। भूमि॑म्। यः। मन्य॑ते। ना॒थम्। तम्। पि॒शा॒चम्। प्र। द॒र्श॒य॒। २०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

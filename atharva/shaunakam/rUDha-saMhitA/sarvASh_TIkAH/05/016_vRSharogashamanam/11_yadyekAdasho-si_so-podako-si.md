@@ -21,7 +21,7 @@ fifteen syllables called for by the Anukr. Ppp. has *yūpodako ‘si sṛjā
 
 <details><summary>पदपाठः</summary>
 
-यदि। एकादशः। असि। सः। अपऽउदकः। असि। १६.११।
+यदि॑। ए॒का॒द॒शः। असि॑। सः। अप॑ऽउदकः। अ॒सि॒। १६.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

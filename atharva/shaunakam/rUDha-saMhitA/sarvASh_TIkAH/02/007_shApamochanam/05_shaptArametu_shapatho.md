@@ -25,7 +25,7 @@ Upon the curser fall his curse! Dwell we with him whose heart is true! We split 
 
 <details><summary>पदपाठः</summary>
 
-शप्तारम्। एतु। शपथः। यः। सुऽहार्त्। तेन। नः। सह। चक्षुःऽमन्त्रस्य। दुःऽहार्दः। पृष्टीः। अपि। शृणीमसि। ७.५।
+श॒प्तार॑म्। ए॒तु॒। श॒पथ॑ः। यः। सु॒ऽहार्त्। तेन॑। न॒ः। स॒ह। चक्षु॑ःऽमन्त्रस्य। दु॒ःऽहार्द॑ः। पृ॒ष्टीः। अपि॑। शृ॒णी॒म॒सि॒। ७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

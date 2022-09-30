@@ -28,7 +28,7 @@ First, O Arundhati, protect our oxen and milky kine: Protect each one that is in
 
 <details><summary>पदपाठः</summary>
 
-अनडुत्ऽभ्यः। त्वम्। प्रथमम्। धेनुऽभ्यः। त्वम्। अरुन्धति। अधेनवे। वयसे। शर्म। यच्छ। चतुःऽपदे। ५९.१।
+अ॒न॒डुत्ऽभ्य॑ः। त्वम्। प्र॒थ॒मम्। धे॒नुऽभ्य॑ः। त्वम्। अ॒रु॒न्ध॒ति॒। अधे॑नवे। वय॑से। शर्म॑। य॒च्छ॒। चतु॑ःऽपदे। ५९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

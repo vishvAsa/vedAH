@@ -26,7 +26,7 @@ A mighty Ruler thus art thou, unconquered, vanquisher of foes, Even thou whose f
 
 <details><summary>पदपाठः</summary>
 
-शासः। इत्था। महान्। असि। अमित्रऽसहः। अस्तृतः। न। यस्य। हन्यते। सखा। न। जीयते। कदा। चन।
+शा॒सः। इ॒त्था। म॒हान्। अ॒सि॒। अ॒मि॒त्र॒ऽस॒हः। अ॒स्तृ॒तः। न। यस्य॑। ह॒न्यते॑। सखा॑। न। जी॒यते॑। क॒दा। च॒न। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

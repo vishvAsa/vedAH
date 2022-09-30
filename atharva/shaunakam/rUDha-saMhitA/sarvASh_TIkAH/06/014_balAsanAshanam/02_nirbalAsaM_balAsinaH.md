@@ -28,7 +28,7 @@ From the consumptive man I pluck Decline as 'twere a severed part. I cut the bon
 
 <details><summary>पदपाठः</summary>
 
-निः। बलासम्। बलासिनः। क्षिणोमि। मुष्करम्। यथा। छिनद्मि। अस्य। बन्धनम्। मूलम्। उर्वार्वाःऽइव। १४.२।
+निः। ब॒लास॑म्। ब॒ला॒सिन॑ः। क्षि॒णोमि॑। मु॒ष्क॒रम्। य॒था॒। छि॒नद्मि॑। अ॒स्य॒। बन्ध॑नम्। मूल॑म्। उ॒र्वा॒र्वाःऽइ॑व। १४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

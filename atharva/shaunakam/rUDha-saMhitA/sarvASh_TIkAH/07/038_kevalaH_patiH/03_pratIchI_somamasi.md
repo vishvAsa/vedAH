@@ -26,7 +26,7 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 
 <details><summary>पदपाठः</summary>
 
-प्रतीची। सोमम्। असि। प्रतीची। उत। सूर्यम्। प्रतीची। विश्वान्। देवान्। ताम्। त्वा। अच्छऽआवदामसि। ३९.३।
+प्र॒तीची॑। सोम॑म्। अ॒सि॒। प्र॒तीची॑। उ॒त। सूर्य॑म्। प्र॒तीची॑। विश्वा॑न्। दे॒वान्। ताम्। त्वा॒। अ॒च्छ॒ऽआव॑दामसि। ३९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

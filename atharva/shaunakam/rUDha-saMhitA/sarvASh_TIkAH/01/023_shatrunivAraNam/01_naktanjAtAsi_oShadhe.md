@@ -30,7 +30,7 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 
 <details><summary>पदपाठः</summary>
 
-नक्तम्ऽजाता। असि। ओषधे। रामे। कृष्णे। असिक्नि। च। इदम्। रजनि। रजय। किलासम्। पलितम्। च। यत्।
+न॒क्त॒म्ऽजा॒ता। अ॒सि॒। ओ॒ष॒धे॒। रामे॑। कृष्णे॑। असि॑क्नि। च॒। इ॒दम्। र॒ज॒नि॒। र॒ज॒य॒। कि॒लास॑म्। प॒लि॒तम्। च॒। यत्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

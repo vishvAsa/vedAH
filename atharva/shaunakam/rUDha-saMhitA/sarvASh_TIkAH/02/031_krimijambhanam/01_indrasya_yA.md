@@ -26,7 +26,7 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। या। मही। दृषत्। क्रिमेः। विश्वस्य। तर्हणी। तया। पिनष्मि। सम्। क्रिमीन्। दृषदा। खल्वान्ऽइव। ३१.१।
+इन्द्र॑स्य। या। म॒ही। दृ॒षत्। क्रिमे॑ः। विश्व॑स्य। तर्ह॑णी। तया॑। पि॒न॒ष्मि॒। सम्। क्रिमी॑न्। दृ॒षदा॑। खल्वा॑न्ऽइव। ३१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

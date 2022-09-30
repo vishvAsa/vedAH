@@ -32,7 +32,7 @@ May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of
 
 <details><summary>पदपाठः</summary>
 
-सम्। वः। सृजतु। अर्यमा। सम्। पूषा। सम्। बृहस्पतिः। सम्। इन्द्रः। यः। धनम्ऽजयः। मयि। पुष्यत। यत्। वसु। १४.२।
+सम्। व॒ः। सृ॒ज॒तु॒। अ॒र्य॒मा। सम्। पू॒षा। सम्। बृह॒स्पति॑ः। सम्। इन्द्र॑ः। यः। ध॒न॒म्ऽज॒यः। मयि॑। पु॒ष्य॒त॒। यत्। वसु॑। १४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Thou, Offspring of the waterflood, ye Maruts, with your sun- bright skins, give 
 
 <details><summary>पदपाठः</summary>
 
-यूयम्। नः। प्रऽवतः। नपात्। मरुतः। सूर्यऽत्वचसः। शर्म। यच्छाथ। सऽमथाः।
+यू॒यम्। न॒ः। प्र॒ऽव॒त॒ः। न॒पा॒त्। मरु॑तः। सूर्य॑ऽत्वचसः। शर्म॑। य॒च्छा॒थ॒। स॒ऽमथा॑ः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

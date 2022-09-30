@@ -29,7 +29,7 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 
 <details><summary>पदपाठः</summary>
 
-परि। माम्। परि। मे। प्रऽजाम्। परि। नः। पाहि। यत्। धनम्। अराति। नः। मा। तारीत्। मा। नः। तारिषुः। अभिऽमातयः। ७.४।
+परि॑। माम्। परि॑। मे॒। प्र॒ऽजाम्। परि॑। न॒ः। पा॒हि॒। यत्। धन॑म्। अरा॑ति। न॒ः। मा। ता॒री॒त्। मा। न॒ः। ता॒रि॒षुः। अ॒भिऽमा॑तयः। ७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

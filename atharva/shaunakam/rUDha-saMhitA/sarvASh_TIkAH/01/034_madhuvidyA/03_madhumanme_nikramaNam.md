@@ -24,7 +24,7 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 
 <details><summary>पदपाठः</summary>
 
-मधुऽमत। मे। निऽक्रमणम्। मधुऽमत्। मे। पराऽअयनम्। वाचा। वदामि। मधुऽमत्। भूयासम्। मधुऽसंदृशः।
+मधु॑ऽमत। मे॒। नि॒ऽक्रम॑णम्। मधु॑ऽमत्। मे॒। प॒रा॒ऽअय॑नम्। वा॒चा। व॒दा॒मि॒। मधु॑ऽमत्। भू॒यास॑म्। मधु॑ऽसंदृशः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

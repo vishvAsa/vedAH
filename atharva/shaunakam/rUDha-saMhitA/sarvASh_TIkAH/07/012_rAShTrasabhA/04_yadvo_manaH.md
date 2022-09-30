@@ -21,7 +21,7 @@ Whether your thoughts are turned away, or bound and fastened here or there, We d
 
 <details><summary>पदपाठः</summary>
 
-यत्। वः। मनः। पराऽगतम्। यत्। बध्दम्। इह। वा। इह। वा। तत्। वः। आ। वर्तयामसि। मयि। वः। रमताम्। मनः। १३.४।
+यत्। व॒ः। मन॑ः। परा॑ऽगतम्। यत्। ब॒ध्दम्। इ॒ह। वा॒। इ॒ह। वा॒। तत्। व॒ः। आ। व॒र्त॒या॒म॒सि॒। मयि॑। व॒ः। र॒म॒ता॒म्। मन॑ः। १३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

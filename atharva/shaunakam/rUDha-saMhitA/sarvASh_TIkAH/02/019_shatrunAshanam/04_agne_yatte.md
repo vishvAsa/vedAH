@@ -19,7 +19,7 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। शोचिः। तेन। तम्। प्रति। शोच। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.४।
+अग्ने॑। यत्। ते॒। शो॒चिः। तेन॑। तम्। प्रति॑। शो॒च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

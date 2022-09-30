@@ -21,7 +21,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 
 <details><summary>पदपाठः</summary>
 
-षट्। च। मे। षष्टिः। च। मे। अपऽवक्तारः। ओषधे। ऋतऽजाते। ऋतऽवारि। मधु। मे। मधुला। करः। १५.६।
+षट्। च॒। मे॒। ष॒ष्टिः। च॒। मे॒। अ॒प॒ऽव॒क्तार॑ः। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒र॒ः। १५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

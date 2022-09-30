@@ -22,7 +22,7 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 
 <details><summary>पदपाठः</summary>
 
-याम्। ते। रुद्रः। इषुम्। आस्यत्। अङ्गेभ्यः। हृदयायः। च। इदम्। ताम्। अद्य। त्वत्। वयम्। विषूचीम्। वि। वृहामसि। ९०.१।
+याम्। ते॒। रु॒द्रः। इषु॑म्। आस्य॑त्। अङ्गे॑भ्यः। हृद॑यायः। च॒। इ॒दम्। ताम्। अ॒द्य। त्वत्। व॒यम्। विषू॑चीम्। वि। वृ॒हा॒म॒सि॒। ९०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

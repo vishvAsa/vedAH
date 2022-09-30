@@ -28,7 +28,7 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 
 <details><summary>पदपाठः</summary>
 
-मधोः। अस्मि। मधुऽतरः। मदुघात्। मधुमत्ऽतरः। माम्। इत्। किल। त्वम्। वनाः। शाखाम्। मधुमतीम्ऽइव।
+मधो॑ः। अ॒स्मि॒। मधु॑ऽतरः। म॒दुघा॑त्। मधु॑मत्ऽतरः। माम्। इत्। किल॑। त्वम्। वना॑ः। शाखा॑म्। मधु॑मतीम्ऽइव। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

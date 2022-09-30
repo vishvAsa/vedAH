@@ -27,7 +27,7 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 
 <details><summary>पदपाठः</summary>
 
-असूतिका। रामायणी। अपऽचित्। प्र। पतिष्यति। ग्लौः। इतः। प्र। पतिष्यति। सः। गलुन्तः। नाशिष्यति। ८३.३।
+अ॒सूति॑का। रा॒मा॒य॒णी। अ॒प॒ऽचित्। प्र। प॒ति॒ष्य॒ति॒। ग्लौः। इ॒तः। प्र। प॒ति॒ष्य॒ति॒। सः। ग॒लु॒न्तः। ना॒शि॒ष्य॒ति॒। ८३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

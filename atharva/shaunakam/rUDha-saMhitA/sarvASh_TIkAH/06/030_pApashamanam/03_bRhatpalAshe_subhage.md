@@ -25,7 +25,7 @@ Auspicious, bearing mighty leaves, holy one, nurtured by the rain, Even as a mot
 
 <details><summary>पदपाठः</summary>
 
-बृहत्ऽपलाशे। सुऽभगे। वर्षऽवृध्दे। ऋतऽवरि। माताऽइव। पुत्रेभ्यः। मृड। केशेभ्यः। शमि। ३०.३।
+बृह॑त्ऽपलाशे। सुऽभ॑गे। वर्ष॑ऽवृध्दे। ऋत॑ऽवरि। मा॒ताऽइ॑व। पु॒त्रेभ्य॑ः। मृ॒ड॒। केशे॑भ्यः। श॒मि॒। ३०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

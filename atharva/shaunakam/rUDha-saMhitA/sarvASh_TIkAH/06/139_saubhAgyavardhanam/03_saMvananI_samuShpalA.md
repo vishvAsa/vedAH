@@ -29,7 +29,7 @@ Drive us together, tawny! fair! a go-between who wakens love. Drive us together,
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽवननी। सम्ऽउष्पला। बभ्रु। कल्याणि। सम्। नुद। अमूम्। च। माम्। च। सम्। नुद। समानम्। हृदयम्। कृधि। १३९.३।
+स॒म्ऽवन॑नी। स॒म्ऽउ॒ष्प॒ला। बभ्रु॑। कल्या॑णि। सम्। नु॒द॒। अ॒मूम्। च॒। माम्। च॒। सम्। नु॒द॒। स॒मा॒नम्। हृद॑यम्। कृ॒धि॒। १३९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

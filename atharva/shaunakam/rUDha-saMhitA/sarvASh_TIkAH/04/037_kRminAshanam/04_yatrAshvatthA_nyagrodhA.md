@@ -29,7 +29,7 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 
 <details><summary>पदपाठः</summary>
 
-यत्र। अश्वत्थाः। न्यग्रोधाः। महाऽवृक्षाः। शिखण्डिनः। तत्। परा। इत। अप्सरसः। प्रतिऽबुध्दाः। अभूतन। ३७.४।
+यत्र॑। अ॒श्व॒त्थाः। न्य॒ग्रोधा॑ः। म॒हा॒ऽवृ॒क्षाः। शि॒ख॒ण्डिन॑ः। तत्। परा॑। इ॒त॒। अ॒प्स॒र॒स॒ः। प्रति॑ऽबुध्दाः। अ॒भू॒त॒न॒। ३७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

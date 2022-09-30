@@ -24,7 +24,7 @@ Great, Indra. is that hook of thine, bestowing treasure, wrought of gold: Therew
 
 <details><summary>पदपाठः</summary>
 
-यः। ते। अङ्कुशः। वसुऽदानः। बृहन्। इन्द्र। हिरण्ययः। तेन। जनिऽयते। जायाम्। मह्यम्। धेहि। शचीऽपते। ८२.३।
+यः। ते॒। अ॒ङ्कु॒शः। व॒सु॒ऽदान॑ः। बृ॒हन्। इ॒न्द्र॒। हि॒र॒ण्यय॑ः। तेन॑। ज॒नि॒ऽय॒ते। जा॒याम्। मह्य॑म्। धे॒हि॒। श॒ची॒ऽप॒ते॒। ८२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

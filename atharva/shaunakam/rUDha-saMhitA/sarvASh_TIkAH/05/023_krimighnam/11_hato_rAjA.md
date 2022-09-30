@@ -20,7 +20,7 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 
 <details><summary>पदपाठः</summary>
 
-हतः। राजा। क्रिमीणाम्। उत। एषाम्। स्थपतिः। हतः। हतः। हतमाता। क्रिमिः। हतऽभ्राता। हतऽस्वसा। २३.११।
+ह॒तः। राजा॑। क्रिमी॑णाम्। उ॒त। ए॒षा॒म्। स्थ॒पति॑ः। ह॒तः। ह॒तः। ह॒तमा॑ता। क्रिमि॑ः। ह॒तऽभ्रा॑ता। ह॒तऽस्व॑सा। २३.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

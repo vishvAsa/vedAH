@@ -27,7 +27,7 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 
 <details><summary>पदपाठः</summary>
 
-प्रोष्ठेऽशयाः। तल्पेऽशयाः। नारीः। याः। वह्यऽशीवरीः। स्रियः। याः। पुण्यऽगन्धयः। ताः। सर्वाः। स्वापयामसि। ५.३।
+प्रो॒ष्ठे॒ऽश॒याः। त॒ल्पे॒ऽश॒याः। नारी॑ः। याः। व॒ह्य॒ऽशीव॑रीः। स्रिय॑ः। याः। पुण्य॑ऽगन्धयः। ताः। सर्वा॑ः। स्वा॒प॒या॒म॒सि॒। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

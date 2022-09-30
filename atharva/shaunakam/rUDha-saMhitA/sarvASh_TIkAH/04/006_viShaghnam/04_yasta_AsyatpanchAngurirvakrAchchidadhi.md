@@ -32,7 +32,7 @@ Whoever with five fingers hath discharged thee from the crooked bow, I from the 
 
 <details><summary>पदपाठः</summary>
 
-यः। ते। आस्यत्। पञ्चऽअङ्गुरिः। वक्रात्। चित्। अधि। धन्वनः। अपऽस्कम्भस्य। शल्यात्। निः। अवोचम्। अहम्। विषम्। ६.४।
+यः। ते॒। आस्य॑त्। पञ्च॑ऽअङ्गुरिः। व॒क्रात्। चि॒त्। अधि॑। धन्व॑नः। अ॒प॒ऽस्क॒म्भस्य॑। श॒ल्यात्। निः। अ॒वो॒च॒म्। अ॒हम्। वि॒षम्। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -34,7 +34,7 @@ Issuing from the horse's blood away she glided to the trees. Become a winged wat
 
 <details><summary>पदपाठः</summary>
 
-अश्वस्य। अस्नः। सम्ऽपतिता। सा। वृक्षान्। अभि। सिस्यदे। सरा। पतत्रिणी। भूत्वा। सा। नः। आ। इहि। अरुन्धति। ५.९।
+अश्व॑स्य। अ॒स्नः। सम्ऽप॑तिता। सा। वृ॒क्षान्। अ॒भि। सि॒स्य॒दे॒। स॒रा। प॒त॒त्रिणी॑। भू॒त्वा। सा। न॒ः। आ। इ॒हि॒। अ॒रु॒न्ध॒ति॒। ५.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

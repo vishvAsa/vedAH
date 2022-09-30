@@ -25,7 +25,7 @@ Let marrow close with marrow, let skin grow united with the skin. Let blood and 
 
 <details><summary>पदपाठः</summary>
 
-मज्जा। मज्ज्ञा। सम्। धीयताम्। चर्मणा। चर्म। रोहतु। असृक्। ते। अस्थि। रोहतु। मांसम्। मांसेन। रोहतु। १२.४।
+म॒ज्जा। म॒ज्ज्ञा। सम्। धी॒य॒ता॒म्। चर्म॑णा। चर्म॑। रो॒ह॒तु॒। असृ॑क्। ते॒। अस्थि॑। रो॒ह॒तु॒। मां॒सम्। मां॒सेन॑। रो॒ह॒तु॒। १२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

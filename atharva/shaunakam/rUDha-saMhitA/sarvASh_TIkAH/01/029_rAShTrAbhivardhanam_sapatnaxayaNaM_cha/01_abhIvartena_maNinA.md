@@ -26,7 +26,7 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 
 <details><summary>पदपाठः</summary>
 
-अभिऽवर्तेन। मणिना। येन। इन्द्रः। अभिऽववृधे। तेन। अस्मान्। ब्रह्मणः। पते। अभि। राष्ट्राय। वर्धय।
+अ॒भि॒ऽव॒र्तेन॑। म॒णिना॑। येन॑। इन्द्र॑ः। अ॒भि॒ऽव॒वृ॒धे। तेन॑। अ॒स्मान्। ब्र॒ह्म॒ण॒ः। प॒ते॒। अ॒भि। रा॒ष्ट्राय॑। व॒र्ध॒य॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

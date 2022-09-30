@@ -21,7 +21,7 @@ The man whom thou preferrest, O Arati, he who prates to us-- This man of thine, 
 
 <details><summary>पदपाठः</summary>
 
-यम्। अराते। पुरःऽधत्से। पुरुषम्। परिऽरापिणम्। नमः। ते। तस्मै। कृण्मः। मा। वनिम्। व्यथयीः। मम। ७.२।
+यम्। अ॒रा॒ते॒। पु॒र॒ःऽध॒त्से। पुरु॑षम्। प॒रि॒ऽरा॒पिण॑म्। नम॑ः। ते॒। तस्मै॑। कृ॒ण्म॒ः। मा। व॒निम्। व्य॒थ॒यी॒ः। मम॑। ७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ Thou art the germ of plants and herbs, thou art the germ of forest trees, The ge
 
 <details><summary>पदपाठः</summary>
 
-गर्भः। असि। ओषधीनाम्। गर्भः। वनस्पतीनाम्। गर्भः। विश्वस्य। भूतस्य। सः। अग्ने। गर्भम्। आ। इह। धाः। २५.७।
+गर्भ॑ः। अ॒सि॒। ओष॑धीनाम्। गर्भ॑ः। वन॒स्पती॑नाम्। गर्भ॑ः। विश्व॑स्य। भू॒तस्य॑। सः। अ॒ग्ने॒। गर्भ॑म्। आ। इ॒ह। धा॒ः। २५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

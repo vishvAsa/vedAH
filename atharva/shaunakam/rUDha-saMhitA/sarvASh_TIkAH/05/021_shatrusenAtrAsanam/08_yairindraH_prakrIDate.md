@@ -20,7 +20,7 @@ Let those our enemies who go yonder in their battalions shake. In fear at shadow
 
 <details><summary>पदपाठः</summary>
 
-यैः। इन्द्रः। प्रऽक्रीडते। पत्ऽघोषैः। छायया। सह। तैः। अमित्राः। त्रसन्तु। नः। अमी इति। ये। यन्ति। अनीकऽशः। २१.८।
+यैः। इन्द्र॑ः। प्र॒ऽक्रीड॑ते। प॒त्ऽघो॒षैः। छा॒यया॑। स॒ह। तैः। अ॒मित्रा॑ः। त्र॒स॒न्तु॒। न॒ः। अ॒मी इति॑। ये। यन्ति॑। अ॒नी॒क॒ऽशः। २१.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

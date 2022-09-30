@@ -26,7 +26,7 @@ Do thou, O Agni, with thy fires strengthen our prayer and. sacrifice. Incite tho
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। नः। अग्ने। अग्निऽभिः। ब्रह्म। यज्ञम्। च। वर्धय। त्वम्। नः। देव। दातवे। रयिम्। दानाय। चोदय। २०.५।
+त्वम्। न॒ः। अ॒ग्ने॒। अ॒ग्निऽभि॑ः। ब्रह्म॑। य॒ज्ञम्। च॒। व॒र्ध॒य॒। त्वम्। न॒ः। दे॒व॒। दात॑वे। र॒यिम्। दाना॑य। चो॒द॒य॒। २०.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

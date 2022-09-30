@@ -25,7 +25,7 @@ Bull! if thou art the single bull, beget. Thou hast no vital sap.
 
 <details><summary>पदपाठः</summary>
 
-यदि। एकऽवृषः। असि। सृज। अरसः। असि। १६.१।
+यदि॑। ए॒क॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

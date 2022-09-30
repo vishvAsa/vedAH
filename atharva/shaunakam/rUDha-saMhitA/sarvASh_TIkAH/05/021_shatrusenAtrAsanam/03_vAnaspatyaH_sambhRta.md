@@ -25,7 +25,7 @@ Wrought out of wood, compact with straps of leather, dear to all the clan, Bedew
 
 <details><summary>पदपाठः</summary>
 
-वानस्पत्यः। सम्ऽभृतः। उस्रियाभिः। विश्वऽगोत्र्यः। प्रऽत्रासम्। अमित्रेभ्यः। वद। आज्येन। अभिऽघारितः। २१.३।
+वा॒न॒स्प॒त्यः। सम्ऽभृ॑तः। उ॒स्रिया॑भिः। वि॒श्वऽगो॑त्र्यः। प्र॒ऽत्रा॒सम्। अ॒मित्रे॑भ्यः। व॒द॒। आज्ये॑न। अ॒भिऽघा॑रितः। २१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

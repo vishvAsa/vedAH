@@ -21,7 +21,7 @@ Thou art the King of Asuras, the crown and summit of man- kind: Thou art the par
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽराट्। असि। असुराणाम्। ककुत्। मनुष्या᳡णाम्। देवानाम्। अर्धऽभाक्। असि। त्वम्। एकऽवृषः। भव। ८६.३।
+स॒म्ऽराट्। अ॒सि॒। असु॑राणाम्। क॒कुत्। म॒नुष्या᳡णाम्। दे॒वाना॑म्। अ॒र्ध॒ऽभाक्। अ॒सि॒। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

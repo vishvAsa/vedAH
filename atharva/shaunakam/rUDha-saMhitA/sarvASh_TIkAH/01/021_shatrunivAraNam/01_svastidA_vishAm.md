@@ -26,7 +26,7 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 
 <details><summary>पदपाठः</summary>
 
-स्वस्तिऽदाः। विशाम्। पतिः। वृत्रऽहा। विऽमृधः। वशी। वृषा। इन्द्रः। पुरः। एतु। नः। सोमऽपाः। अभयम्ऽकरः।
+स्व॒स्ति॒ऽदाः। वि॒शाम्। पति॑ः। वृ॒त्र॒ऽहा। वि॒ऽमृ॒धः। व॒शी। वृषा॑। इन्द्र॑ः। पु॒रः। ए॒तु॒। न॒ः। सो॒म॒ऽपाः। अ॒भ॒य॒म्ऽक॒रः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

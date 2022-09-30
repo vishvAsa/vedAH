@@ -32,7 +32,7 @@ Breath, Respiration, come to him, as two car-oxen to their stall! Let all the ot
 
 <details><summary>पदपाठः</summary>
 
-प्र। विशतम्। प्राणापानौ। अनड्वाहौऽइव। व्रजम्। वि। अन्ये। यन्तु। मृत्यवः। यान्। आहुः। इतरान्। शतम्। ११.५।
+प्र। वि॒श॒त॒म्। प्रा॒णा॒पा॒नौ॒। अ॒न॒ड्वाहौ॑ऽइव। व्र॒जम्। वि। अ॒न्ये। य॒न्तु॒। मृ॒त्यव॑ः। यान्। आ॒हुः। इत॑रान्। श॒तम्। ११.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

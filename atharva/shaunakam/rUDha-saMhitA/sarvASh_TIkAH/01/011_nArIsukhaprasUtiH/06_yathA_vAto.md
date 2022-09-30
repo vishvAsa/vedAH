@@ -29,7 +29,7 @@ Sicut ventus, sicut mens, sicut alites volant, sic, decem mensium puer, cum plac
 
 <details><summary>पदपाठः</summary>
 
-यथा वातो यथा मनो यथा पतन्ति पक्षिणः। एवा त्वं दशमास्य साकं जरायुणा पताव जरायु पद्यताम्।
+यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षिणः॑। ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

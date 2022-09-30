@@ -25,7 +25,7 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 
 <details><summary>पदपाठः</summary>
 
-अपऽचिताम्। लोहिनीनाम्। कृष्णा। माता। इति। शुश्रुम। मुनेः। देवस्य। मूलेन। सर्वाः। विध्यामि। ताः। अहम्। ७८.१।
+अ॒प॒ऽचिता॑म्। लोहि॑नीनाम्। कृ॒ष्णा। मा॒ता। इति॑। शु॒श्रु॒म॒। मुने॑ः। दे॒वस्य॑। मूले॑न। सर्वा॑ः। वि॒ध्या॒मि॒। ताः। अ॒हम्। ७८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

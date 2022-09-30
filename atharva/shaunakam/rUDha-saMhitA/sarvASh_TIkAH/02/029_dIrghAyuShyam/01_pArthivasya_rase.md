@@ -29,7 +29,7 @@ Gods, give him all that earth hath best with bodily strength and happy fate. Agn
 
 <details><summary>पदपाठः</summary>
 
-पार्थिवस्य। रसे। देवाः। भगस्य। तन्वः᳡। बले। आयुष्य᳡म्। अस्मै। अग्निः। सूर्यः। वर्चः। आ। धात्। बृहस्पतिः। २९.१।
+पार्थि॑वस्य। रसे॑। दे॒वा॒ः। भग॑स्य। त॒न्व᳡ः। बले॑। आ॒यु॒ष्य᳡म्। अ॒स्मै। अ॒ग्निः। सूर्य॑ः। वर्च॑ः। आ। धा॒त्। बृ॒ह॒स्पति॑ः। २९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

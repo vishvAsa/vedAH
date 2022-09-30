@@ -27,7 +27,7 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 
 <details><summary>पदपाठः</summary>
 
-मध्वा। यज्ञम्। नक्षति। प्रैणानः। नराशंसः। अग्निः। सुऽकृत्। देवः। सविता। विश्वऽवारः। २७.३।
+मध्वा॑। य॒ज्ञम्। न॒क्ष॒ति॒। प्रै॒णा॒नः। नरा॒शंस॑ः। अ॒ग्निः। सु॒ऽकृत्। दे॒वः। स॒वि॒ता। वि॒श्वऽवा॑रः। २७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

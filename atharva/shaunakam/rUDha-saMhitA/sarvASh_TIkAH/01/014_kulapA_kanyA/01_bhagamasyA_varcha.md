@@ -33,7 +33,7 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 
 <details><summary>पदपाठः</summary>
 
-भगम्। अस्याः। वर्चः। आ। अदिषि। अधि। वृक्षात्ऽइव। स्रजम्। महाबुध्नःऽइव। ‌पर्वतः। ज्योक्। पितृषु। आस्ताम्।
+भग॑म्। अ॒स्या॒ः। वर्च॑ः। आ। अ॒दि॒षि॒। अधि॑। वृ॒क्षात्ऽइ॑व। स्रज॑म्। म॒हाबु॑ध्नःऽइव। ‌पर्व॑तः। ज्योक्। पि॒तृषु॑। आ॒स्ता॒म्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

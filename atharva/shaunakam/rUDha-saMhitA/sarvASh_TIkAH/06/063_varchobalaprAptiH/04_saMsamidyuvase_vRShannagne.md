@@ -31,7 +31,7 @@ Thou, mighty Agni, good and true, gatherest up all precious things. Bring us all
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽसम्। इत्। युवसे। वृषन्। अग्ने। विश्वानि। अर्यः। आ। इडः। पदे। सम्। इध्यसे। सः। नः। वसूनि। आ। भर। ६३.४।
+सम्ऽस॑म्। इत्। यु॒व॒से॒। वृ॒ष॒न्। अग्ने॑। विश्वा॑नि। अ॒र्यः। आ। इ॒डः। प॒दे। सम्। इ॒ध्य॒से॒। सः। न॒ः। वसू॑नि। आ। भ॒र॒। ६३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

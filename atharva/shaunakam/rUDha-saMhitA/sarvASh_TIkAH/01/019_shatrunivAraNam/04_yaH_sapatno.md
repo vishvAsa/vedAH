@@ -27,7 +27,7 @@ The rival and non-rival, he who in his hatred curses us May all the deities inju
 
 <details><summary>पदपाठः</summary>
 
-यः। सऽपत्नः। यः। असपत्नः। यः। च। द्विषन्। शपाति। नः। देवाः। तम्। सर्वे। धूर्वन्तु। ब्रह्म। वर्म। मम। अन्तरम्।
+यः। स॒ऽपत्न॑ः। यः। अस॑पत्नः। यः। च॒। द्वि॒षन्। शपा॑ति। न॒ः। दे॒वाः। तम्। सर्वे॑। धू॒र्व॒न्तु॒। ब्रह्म॑। वर्म॑। मम॑। अन्त॑रम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

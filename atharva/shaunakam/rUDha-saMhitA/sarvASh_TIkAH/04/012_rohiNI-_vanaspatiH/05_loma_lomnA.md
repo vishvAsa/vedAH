@@ -24,7 +24,7 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 
 <details><summary>पदपाठः</summary>
 
-लोम। लोम्ना। सम्। कल्पय। त्वचा। सम्। कल्पय। त्वचम्। असृक्। ते। अस्थि। रोहतु। छिन्नम्। सम्। धेहि। ओषधे। १२.५।
+लोम॑। लोम्ना॑। सम्। क॒ल्प॒य॒। त्व॒चा। सम्। क॒ल्प॒य॒। त्वच॑म्। असृ॑क्। ते॒। अस्थि॑। रो॒ह॒तु॒। छि॒न्नम्। सम्। धे॒हि॒। ओ॒ष॒धे॒। १२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

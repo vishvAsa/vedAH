@@ -30,7 +30,7 @@ Like a tree struck by lightning may the man be withered from the root. Who curse
 
 <details><summary>पदपाठः</summary>
 
-यः। नः। शपात्। अशपतः। शपतः। यः। च। नः। शपात्। वृक्षःऽइव। विऽद्युता। हतः। आ। मूलात्। अनु। शुष्यतु। ६१.१।
+यः। न॒ः। शपा॑त्। अश॑पतः। शप॑तः। यः। च॒। न॒ः। शपा॑त्। वृ॒क्षःऽइ॑व। वि॒ऽद्युता॑। ह॒तः। आ। मूला॑त्। अनु॑। शु॒ष्य॒तु॒। ६१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

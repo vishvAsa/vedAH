@@ -22,7 +22,7 @@ Drink thou the procreative draught well-known to Varuna the King, Known to divin
 
 <details><summary>पदपाठः</summary>
 
-यत्। वेद। राजा। वरुणः। यत्। वा। देवी। सरस्वती। यत्। इन्द्रः। वृत्रऽहा। वेद। तत्। गर्भऽकरणम्। पिब। २५.६।
+यत्। वेद॑। राजा॑। वरु॑णः। यत्। वा॒। दे॒वी। सर॑स्वती। यत्। इन्द्र॑ः। वृ॒त्र॒ऽहा। वेद॑। तत्। ग॒र्भ॒ऽकर॑णम्। पि॒ब॒। २५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

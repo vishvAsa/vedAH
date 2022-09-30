@@ -28,7 +28,7 @@ As men discharge a debt, as they pay up an eighth and half-an- eighth, So the wh
 
 <details><summary>पदपाठः</summary>
 
-यथा। कलाम्। यथा। शफम्। यथा। ऋणम्। सम्ऽनयन्ति। एव। दुःऽस्वप्न्यम्। सर्वम्। द्विषते। नयामसि। ४६.३।
+यथा॑। क॒लाम्। यथा॑। श॒फम्। यथा॑। ऋ॒णम्। स॒म्ऽनय॑न्ति। ए॒व। दु॒ःऽस्वप्न्य॑म्। सर्व॑म्। द्वि॒ष॒ते। न॒या॒म॒सि॒। ४६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

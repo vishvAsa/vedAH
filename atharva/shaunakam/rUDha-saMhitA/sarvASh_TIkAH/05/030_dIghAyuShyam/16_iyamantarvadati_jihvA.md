@@ -24,7 +24,7 @@ Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I 
 
 <details><summary>पदपाठः</summary>
 
-इयम्। अन्तः। वदति। जिह्वा। बध्दा। पनिष्पदा। त्वया। यक्ष्मम्। निः। अवोचम्। शतम्। रोपीः। च। तक्मनः। ३०.१६।
+इ॒यम्। अ॒न्तः। व॒द॒ति॒। जि॒ह्वा। ब॒ध्दा। प॒नि॒ष्प॒दा। त्वया॑। यक्ष्म॑म्। निः। अ॒वो॒च॒म्। श॒तम्। रोपी॑ः। च॒। त॒क्मन॑ः। ३०.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

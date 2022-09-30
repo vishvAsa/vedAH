@@ -24,7 +24,7 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 
 <details><summary>पदपाठः</summary>
 
-शणः। च। मा। जङ्गिडः। च। विस्कन्धात्। अभि। रक्षताम्। अरण्यात्। अन्यः। आऽभृतः। कृष्याः। अन्यः। रसेभ्यः। ४.५।
+श॒णः। च॒। मा॒। ज॒ङ्गि॒डः। च॒। विस्क॑न्धात्। अ॒भि। र॒क्ष॒ता॒म्। अर॑ण्यात्। अ॒न्यः। आऽभृ॑तः। कृ॒ष्याः। अ॒न्यः। रसे॑भ्यः। ४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

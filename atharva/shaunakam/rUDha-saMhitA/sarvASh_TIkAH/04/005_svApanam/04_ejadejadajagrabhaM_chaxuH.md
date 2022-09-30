@@ -21,7 +21,7 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 
 <details><summary>पदपाठः</summary>
 
-एजत्ऽएजत्। अजग्रभम्। चक्षुः। प्राणम्। अजग्रभम्। अङ्गानि। अजग्रभम्। सर्वाः। रात्रीणाम्। अतिऽशर्वरे। ५.४।
+एज॑त्ऽएजत्। अ॒ज॒ग्र॒भ॒म्। चक्षु॑ः। प्रा॒णम्। अ॒ज॒ग्र॒भ॒म्। अङ्गा॑नि। अ॒ज॒ग्र॒भ॒म्। सर्वा॑ः। रात्री॑णाम्। अ॒ति॒ऽश॒र्व॒रे। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

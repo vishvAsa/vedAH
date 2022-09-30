@@ -19,7 +19,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 
 <details><summary>पदपाठः</summary>
 
-अश्वत्थः। देवऽसदनः। तृतीयस्याम्। इतः। दिवि। तत्र। अमृतस्य। चक्षणम्। देवाः। कुष्ठम्। अवन्वत। ९५.१।
+अ॒श्व॒त्थः। दे॒व॒ऽसद॑नः। तृ॒तीय॑स्याम्। इ॒तः। दि॒वि। तत्र॑। अ॒मृत॑स्य। चक्ष॑णम्। दे॒वाः। कुष्ठ॑म्। अ॒व॒न्व॒त॒। ९५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 
 <details><summary>पदपाठः</summary>
 
-वृषा। इन्द्रस्य। वृषा। दिवः। वृषा। पृथिव्याः। अयम्। वृषा। विश्वस्य। भूतस्य। त्वम्। एकऽवृषः। भव। ८६.१।
+वृषा॑। इन्द्र॑स्य। वृषा॑। दि॒वः। वृषा॑। पृ॒थि॒व्याः। अ॒यम्। वृषा॑। विश्व॑स्य। भू॒तस्य॑। त्वम्। ए॒क॒ऽवृ॒षः। भ॒व॒। ८६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

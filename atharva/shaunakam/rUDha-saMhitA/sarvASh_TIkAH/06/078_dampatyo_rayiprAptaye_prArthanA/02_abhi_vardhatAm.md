@@ -28,7 +28,7 @@ With life's sap let him comfort her, and raise her high with princely sway. In w
 
 <details><summary>पदपाठः</summary>
 
-अभि। वर्धताम्। पयसा। अभि। राष्ट्रेण। वर्धताम्। रय्या। सहस्रऽवर्चसा। इमौ। स्ताम्। अनुपऽक्षितौ। ७८.२।
+अ॒भि। व॒र्ध॒ता॒म्। पय॑सा। अ॒भि। रा॒ष्ट्रेण॑। व॒र्ध॒ता॒म्। र॒य्या। स॒हस्र॑ऽवर्चसा। इ॒मौ। स्ता॒म्। अनु॑पऽक्षितौ। ७८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, m
 
 <details><summary>पदपाठः</summary>
 
-वि। लपन्तु। यातुधानाः। अत्त्रिणः। ये। किमीदिनः। अथ। इदम्। अग्नेः। नः। हविः। इन्द्रः। च। प्रति। हर्यतम्।
+वि। ल॒प॒न्तु॒। या॒तु॒धाना॑ः। अ॒त्त्रिण॑ः। ये। कि॒मी॒दिन॑ः। अथ॑। इ॒दम्। अ॒ग्ने॒ः। न॒ः। ह॒विः। इन्द्र॑ः। च॒। प्रति॑। ह॒र्य॒त॒म्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

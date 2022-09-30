@@ -35,7 +35,7 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 
 <details><summary>पदपाठः</summary>
 
-आ। इहि। जीवम्। त्रायमाणम्। पर्वतस्य। असि। अक्ष्यम्। विश्वेभिः। देवैः। दत्तम्। परिऽधिः। जीवनाय। कम्। ९.१।
+आ। इ॒हि॒। जी॒वम्। त्राय॑माणम्। पर्व॑तस्य। अ॒सि॒। अक्ष्य॑म्। विश्वे॑भिः। दे॒वैः। द॒त्तम्। प॒रि॒ऽधिः। जीव॑नाय। कम्। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

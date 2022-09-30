@@ -24,7 +24,7 @@ I trample on thine anger thus, I tread it down with heel and toe: So dost thou y
 
 <details><summary>पदपाठः</summary>
 
-अभि। तिष्ठामि। ते। मन्युम्। पार्ष्ण्या। प्रऽपदेन। च। यथा। अवशः। न। वादिषः। मम। चित्तम्। उपऽआयसि। ४२.३।
+अ॒भि। ति॒ष्ठा॒मि॒। ते॒। म॒न्युम्। पार्ष्ण्या॑। प्रऽप॑देन। च॒। यथा॑। अ॒व॒शः। न। वादि॑षः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ४२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

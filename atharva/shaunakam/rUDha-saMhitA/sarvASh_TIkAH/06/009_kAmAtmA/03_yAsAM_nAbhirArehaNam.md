@@ -23,7 +23,7 @@ May they whose kisses are a bond, a love-charm laid within the heart, Mothers of
 
 <details><summary>पदपाठः</summary>
 
-यासाम्। नाभिः। आऽरेहणम्। हृदि। सम्ऽवननम्। कृतम्। गावः। घृतस्य। मातरः। अभूम्। सम्। वनयन्तु। मे। ९.३।
+यासा॑म्। नाभि॑ः। आ॒ऽरेह॑णम्। हृ॒दि। स॒म्ऽवन॑नम्। कृ॒तम्। गाव॑ः। घृ॒तस्य॑। मा॒तर॑ः। अ॒भूम्। सम्। व॒न॒य॒न्तु॒। मे॒। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

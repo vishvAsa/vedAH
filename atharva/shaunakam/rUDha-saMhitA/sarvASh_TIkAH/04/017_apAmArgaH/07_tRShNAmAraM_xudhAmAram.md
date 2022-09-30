@@ -20,7 +20,7 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 
 <details><summary>पदपाठः</summary>
 
-तृष्णाऽमारम्। क्षुधाऽमारम्। अथो इति। अक्षऽपराजयम्। अपामार्ग। त्वया। वयम्। सर्वम्। तत्। अप। मृज्महे। १७.७।
+तृ॒ष्णा॒ऽमा॒रम्। क्षु॒धा॒ऽमा॒रम्। अथो॒ इति॑। अ॒क्ष॒ऽप॒रा॒ज॒यम्। अपा॑मार्ग। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

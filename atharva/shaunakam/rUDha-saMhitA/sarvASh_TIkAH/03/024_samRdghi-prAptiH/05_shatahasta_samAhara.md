@@ -25,7 +25,7 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 
 <details><summary>पदपाठः</summary>
 
-शतऽहस्त। सम्ऽआहर। सहस्रऽहस्त। सम्। किर। कृतस्य। कार्य᳡स्य। च। इह। स्फातिम्। सम्ऽआवह। २४.५।
+शत॑ऽहस्त। स॒म्ऽआह॑र। सह॑स्रऽहस्त। सम्। कि॒र॒। कृ॒तस्य॑। का॒र्य᳡स्य। च॒। इ॒ह। स्फा॒तिम्। स॒म्ऽआव॑ह। २४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

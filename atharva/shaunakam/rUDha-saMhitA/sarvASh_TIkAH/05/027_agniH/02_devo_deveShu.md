@@ -15,7 +15,7 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 
 <details><summary>पदपाठः</summary>
 
-देवः। देवेषु। देवः। पथः। अनक्ति। मध्वा। घृतेन। २७.२।
+दे॒वः। दे॒वेषु॑। दे॒वः। प॒थः। अ॒न॒क्ति॒। मध्वा॑। घृ॒तेन॑। २७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

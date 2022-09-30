@@ -28,7 +28,7 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 
 <details><summary>पदपाठः</summary>
 
-अनु। इत्। अनुऽमते। त्वम्। मंससे। शम्। च। नः। कृधि। जुषस्व। हव्यम्। आऽहुतम्। प्रऽजाम्। देवि। ररास्व। नः। २१.२।
+अनु॑। इत्। अ॒नु॒ऽम॒ते॒। त्वम्। मंस॑से। शम्। च॒। न॒ः। कृ॒धि॒। जु॒षस्व॑। ह॒व्यम्। आऽहु॑तम्। प्र॒ऽजाम्। दे॒वि॒। र॒रा॒स्व॒। न॒ः। २१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

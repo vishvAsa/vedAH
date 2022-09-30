@@ -28,7 +28,7 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 
 <details><summary>पदपाठः</summary>
 
-परि। द्याम्ऽइव। सूर्यः। अहीनाम्। जनिम। अगमम्। रात्री। जगत्ऽइव। अन्यत्। हंसात्। तेन। ते। वारये। विषम्। १२.१।
+परि॑। द्याम्ऽइ॑व। सूर्य॑ः। अही॑नाम्। जनि॑म। अ॒ग॒म॒म्। रात्री॑। जग॑त्ऽइव। अ॒न्यत्। हं॒सात्। तेन॑। ते॒। वा॒र॒ये॒। वि॒षम्। १२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -27,7 +27,7 @@ nīlāgalasā́lā*. The verse is capable of being read as 8 + 7: 6.
 
 <details><summary>पदपाठः</summary>
 
-अलसाला। असि। पूर्वा। सिलाञ्जाला। असि। उत्तरा। नीलागलसाला। १६.४।
+अ॒ल॒साला॑। अ॒सि॒। पूर्वा॑। सि॒लाञ्जा॑ला। अ॒सि॒। उत्त॑रा। नी॒ला॒ग॒ल॒साला॑। १६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

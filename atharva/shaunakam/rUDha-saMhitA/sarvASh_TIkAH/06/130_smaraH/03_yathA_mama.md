@@ -21,7 +21,7 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 
 <details><summary>पदपाठः</summary>
 
-यथा। मम। स्मरात्। असौ। न। अमुष्य। अहम्। कदा। चन। देवाः। प्र। हिणुत। स्मरम्। असौ। माम्। अनु। शोचतु। १३०.३।
+यथा॑। मम॑। स्मरा॑त्। अ॒सौ। न। अ॒मुष्य॑। अ॒हम्। क॒दा। च॒न। देवा॑ः। प्र। हि॒णु॒त॒। स्म॒रम्। अ॒सौ। माम्। अनु॑। शो॒च॒तु॒। १३०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

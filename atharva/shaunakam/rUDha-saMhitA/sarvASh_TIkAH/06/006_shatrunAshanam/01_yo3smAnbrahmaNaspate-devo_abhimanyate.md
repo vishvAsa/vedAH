@@ -20,7 +20,7 @@ The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as p
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्मान्। ब्रह्मणः। पते। अदेवः। अभिऽमन्यते। सर्वम्। तम्। रन्धयासि। मे। यजमानाय। सुन्वते। ६.१।
+यः। अ॒स्मान्। ब्र॒ह्म॒ण॒ः। प॒ते॒। अदे॑वः। अ॒भि॒ऽमन्य॑ते। सर्व॑म्। तम्। र॒न्ध॒या॒सि॒। मे॒। यज॑मानाय। सु॒न्व॒ते। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

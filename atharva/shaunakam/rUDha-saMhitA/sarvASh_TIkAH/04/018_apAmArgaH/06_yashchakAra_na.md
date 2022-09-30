@@ -36,7 +36,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 
 <details><summary>पदपाठः</summary>
 
-यः। चकार। न। शशाक। कर्तुम्। शश्रे। पादम्। अङ्गुरिम्। चकार। भद्रम्। अस्मभ्यम्। आत्मने। तपनम्। तु। सः। १८.६।
+यः। च॒कार॑। न। श॒शाक॑। कर्तु॑म्। श॒श्रे। पाद॑म्। अ॒ङ्गुरि॑म्। च॒कार॑। भ॒द्रम्। अ॒स्मभ्य॑म्। आ॒त्मने॑। तप॑नम्। तु। सः। १८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

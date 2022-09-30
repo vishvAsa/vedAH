@@ -55,7 +55,7 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 
 <details><summary>पदपाठः</summary>
 
-अद्य। अग्ने। अद्य। सवितः। अद्य। देवि। सरस्वति। अद्य। अस्य। ब्रह्मणः। पते। धनुःऽइव। आ। तानय। पसः। ४.६।
+अ॒द्य। अ॒ग्ने॒। अ॒द्य। स॒वि॒त॒ः। अ॒द्य। दे॒वि॒। स॒र॒स्व॒ति॒। अ॒द्य। अ॒स्य। ब्र॒ह्म॒ण॒ः। प॒ते॒। धनु॑ःऽइव। आ। ता॒न॒य॒। पस॑ः। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

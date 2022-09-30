@@ -22,7 +22,7 @@ Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my
 
 <details><summary>पदपाठः</summary>
 
-देवेभ्यः। अधि। जातः। असि। सोमस्य। असि। सखा। हितः। सः। प्राणाय। विऽआनाय। चक्षुषे। मे। अस्मै। मृड। ४.७।
+दे॒वेभ्य॑ः। अधि॑। जा॒तः। अ॒सि॒। सोम॑स्य। अ॒सि॒। सखा॑। हि॒तः। सः। प्रा॒णाय॑। वि॒ऽआ॒नाय॑। चक्षु॑षे। मे॒। अ॒स्मै। मृ॒ड॒। ४.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

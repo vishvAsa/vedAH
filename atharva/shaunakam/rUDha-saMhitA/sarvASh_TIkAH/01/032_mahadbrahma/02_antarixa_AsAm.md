@@ -31,7 +31,7 @@ Their station, as of those who rest when weary, is in midmost air: The base wher
 
 <details><summary>पदपाठः</summary>
 
-अन्तरिक्षे। आसाम्। स्याम। श्रान्तसदाम्ऽइव। आऽस्थानम्। अस्य। भूतस्य। विदुः। तत्। वेधसः। न। वा।
+अ॒न्तरि॑क्षे। आ॒सा॒म्। स्याम॑। श्रा॒न्त॒सदा॑म्ऽइव। आ॒ऽस्थान॑म्। अ॒स्य। भू॒तस्य॑। वि॒दुः। तत्। वे॒धस॑ः। न। वा॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

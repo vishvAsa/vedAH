@@ -47,7 +47,7 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 
 <details><summary>पदपाठः</summary>
 
-ऋचम्। साम। यजामहे। याभ्याम्। कर्माणि। कुर्वते। एते  इति। सदसि। राजतः। यज्ञम्। देवेषु। यच्छतः। ५६.१।
+ऋच॑म्। साम॑। य॒जा॒म॒हे॒। याभ्या॑म्। कर्मा॑णि। कु॒र्वते॑। ए॒ते इति॑। सद॑सि। रा॒ज॒त॒ः। य॒ज्ञम्। दे॒वेषु॑। य॒च्छ॒त॒ः। ५६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

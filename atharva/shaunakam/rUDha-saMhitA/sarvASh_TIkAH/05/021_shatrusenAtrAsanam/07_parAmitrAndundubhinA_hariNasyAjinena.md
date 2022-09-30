@@ -19,7 +19,7 @@ May all the deities whose might controls the fortune of the fray Frighten away o
 
 <details><summary>पदपाठः</summary>
 
-परा। अमित्रान्। दुन्दुभिना। हरिणस्य। अजिनेन। च। सर्वे। देवाः। अतित्रसन्। ये। सम्ऽग्रामस्य। ईशते। २१.७।
+परा॑। अ॒मित्रा॑न्। दु॒न्दु॒भिना॑। ह॒रि॒णस्य॑। अ॒जिने॑न। च॒। सर्वे॑। दे॒वाः। अ॒ति॒त्र॒स॒न्। ये। स॒म्ऽग्रा॒मस्य॑। ईश॑ते। २१.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

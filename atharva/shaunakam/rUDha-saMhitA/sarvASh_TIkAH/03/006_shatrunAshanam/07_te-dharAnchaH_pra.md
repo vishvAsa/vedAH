@@ -25,7 +25,7 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 
 <details><summary>पदपाठः</summary>
 
-ते। अधराञ्चः। प्र। प्लवन्ताम्। छिन्ना। नौःऽइव। बन्धनात्। न। वैबाधऽप्रनुत्तानाम्। पुनः। अस्ति। निऽवर्तनम्। ६.७।
+ते। अ॒ध॒राञ्च॑ः। प्र। प्ल॒व॒न्ता॒म्। छि॒न्ना। नौःऽइ॑व। बन्ध॑नात्। न। वै॒बा॒धऽप्र॑नुत्तानाम्। पुन॑ः। अ॒स्ति॒। नि॒ऽवर्त॑नम्। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

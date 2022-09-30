@@ -31,7 +31,7 @@ Daughter of Urugula, she-fiend whom the black, skinned mother bare-- All female 
 
 <details><summary>पदपाठः</summary>
 
-उरुऽगूलायाः। दुहिता। जाता। दासी। असिक्न्या। प्रऽतङ्कम्। दद्रुषीणाम्। सर्वासाम्। अरसम्। विषम्। १३.८।
+उ॒रु॒ऽगूला॑याः। दु॒हि॒ता। जा॒ता। दा॒सी। असि॑क्न्या। प्र॒ऽतङ्क॑म्। द॒द्रुषी॑णाम्। सर्वा॑साम्। अ॒र॒सम्। वि॒षम्। १३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

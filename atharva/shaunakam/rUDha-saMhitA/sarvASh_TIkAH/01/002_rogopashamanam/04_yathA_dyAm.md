@@ -27,7 +27,7 @@ As in its flight the arrow's point hangs between earth and firmament, So stand t
 
 <details><summary>पदपाठः</summary>
 
-यथा। द्याम्। च। पृथिवीम्। च। अन्तः। तिष्ठति। तेजनम्। एव। रोगम्। च। आऽस्रावम्। च। अन्तः। तिष्ठतु। मुञ्जः। इत्।
+यथा॑। द्याम्। च॒। पृ॒थि॒वीम्। च॒। अ॒न्तः। तिष्ठ॑ति। तेज॑नम्। ए॒व। रोग॑म्। च॒। आ॒ऽस्रा॒वम्। च॒। अ॒न्तः। ति॒ष्ठ॒तु॒। मुञ्ज॑ः। इत्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

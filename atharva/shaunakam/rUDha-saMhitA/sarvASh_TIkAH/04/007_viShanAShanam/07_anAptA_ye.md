@@ -30,7 +30,7 @@ None have attained to those of old, those who wrought holy acts for you. Let the
 
 <details><summary>पदपाठः</summary>
 
-अनाप्ताः। ये। वः। प्रथमाः। यानि। कर्माणि। चक्रिरे। वीरान्। नः। अत्र। मा। दभन्। तत्। वः। एतत्। पुरः। दधे। ७.७।
+अना॑प्ताः। ये। व॒ः। प्र॒थ॒माः। यानि॑। कर्मा॑णि। च॒क्रि॒रे। वी॒रान्। न॒ः। अत्र॑। मा। द॒भ॒न्। तत्। व॒ः। ए॒तत्। पु॒रः। द॒धे॒। ७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Might art thou, give me might. All hail!
 
 <details><summary>पदपाठः</summary>
 
-सहः। असि। सहः। मे। दाः। स्वाहा। १७.२।
+सह॑ः। अ॒सि॒। सह॑ः। मे॒। दा॒ः। स्वाहा॑। १७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

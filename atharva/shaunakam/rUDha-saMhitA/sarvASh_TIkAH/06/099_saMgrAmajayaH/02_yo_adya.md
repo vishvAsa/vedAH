@@ -28,7 +28,7 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 
 <details><summary>पदपाठः</summary>
 
-यः। अद्य। सेन्यः। वधः। जिघांसन्। नः। उत्ऽईरते। इन्द्रस्य। तत्र। बाहू इति। समन्तम्। परि। दद्मः। ९९.२।
+यः। अ॒द्य। सेन्य॑ः। व॒धः। जिघां॑सन्। न॒ः। उ॒त्ऽईर॑ते। इन्द्र॑स्य। तत्र॑। बा॒हू इति॑। स॒म॒न्तम्। परि॑। द॒द्म॒ः। ९९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

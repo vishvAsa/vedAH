@@ -26,7 +26,7 @@ Come hither, stand upon the stone: thy body shall become a stone. The Universal 
 
 <details><summary>पदपाठः</summary>
 
-आ। इहि। अश्मानम्। आ। तिष्ठ। अश्मा। भवतु। ते। तनूः। कृण्वन्तु। विश्वे। देवाः। आयुः। ते। शरदः। शतम्। १३.४।
+आ। इ॒हि॒। अश्मा॑नम्। आ। ति॒ष्ठ॒। अश्मा॑। भ॒व॒तु॒। ते॒। त॒नूः। कृ॒ण्वन्तु॑। विश्वे॑। दे॒वाः। आयु॑ः। ते॒। श॒रद॑ः। श॒तम्। १३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

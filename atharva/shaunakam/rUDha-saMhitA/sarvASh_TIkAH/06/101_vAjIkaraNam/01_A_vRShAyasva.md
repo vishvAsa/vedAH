@@ -24,7 +24,7 @@ Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat pe
 
 <details><summary>पदपाठः</summary>
 
-आ। वृषऽयस्व। श्वसिहि। वर्धस्व। प्रथयस्व। च। यथाऽअङ्गम्। वर्धताम्। शेपः। तेन। योषितम्। इत्। जहि। १०१.१।
+आ। वृ॒ष॒ऽय॒स्व॒। श्व॒सि॒हि। वर्ध॑स्व। प्र॒थय॑स्व। च॒। य॒था॒ऽअ॒ङ्गम्। व॒र्ध॒ता॒म्। शेप॑ः। तेन॑। यो॒षित॑म्। इत्। ज॒हि॒। १०१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

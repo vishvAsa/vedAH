@@ -21,7 +21,7 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 
 <details><summary>पदपाठः</summary>
 
-देवाः। पितरः। पितरः। देवाः। यः। अस्मि। सः। अस्मि। १२३.३।
+देवा॑ः। पित॑रः। पित॑रः। देवा॑ः। यः। अस्मि॑। सः। अ॒स्मि॒। १२३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

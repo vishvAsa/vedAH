@@ -27,7 +27,7 @@ May these embattled Gods, brilliant as Surya--All hail!--one- minded conquer tho
 
 <details><summary>पदपाठः</summary>
 
-एताः। देवऽसेनाः। सूर्यऽकेतवः। सऽचेतसः। अमित्रान्। नः। जयन्तु। स्वाहा। २१.१२।
+ए॒ताः। दे॒व॒ऽसे॒नाः। सूर्य॑ऽकेतवः। सऽचे॑तसः। अ॒मित्रा॑न्। नः। ज॒य॒न्तु॒। स्वाहा॑। २१.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

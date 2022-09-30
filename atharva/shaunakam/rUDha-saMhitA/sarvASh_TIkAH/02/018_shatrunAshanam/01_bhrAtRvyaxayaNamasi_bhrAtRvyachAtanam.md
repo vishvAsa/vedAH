@@ -26,7 +26,7 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 
 <details><summary>पदपाठः</summary>
 
-भ्रातृव्यऽक्षयणम्। असि। भ्रातृव्यऽचातनम्। मे। दाः। स्वाहा। १८.१।
+भ्रा॒तृ॒व्य॒ऽक्षय॑णम्। अ॒सि॒। भ्रा॒तृ॒व्य॒ऽचात॑नम्। मे। दा॒ः। स्वाहा॑। १८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

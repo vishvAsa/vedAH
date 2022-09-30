@@ -29,7 +29,7 @@ Antelope-foot, and Bullock-tooth, Cow-terrifier, Vapour-form, The Licker, and th
 
 <details><summary>पदपाठः</summary>
 
-रिश्यऽपदीम्। वृषऽदतीम्। गोऽसेधाम्। विऽधमाम्। उत। विऽलीढ्यम्। ललाम्यम्। ताः। अस्मत्। नाशयामसि।
+रिश्य॑ऽपदीम्। वृष॑ऽदतीम्। गो॒ऽसे॒धाम्। वि॒ऽध॒माम्। उ॒त। वि॒ऽली॒ढ्यम्। ल॒ला॒म्यम्। ताः। अ॒स्मत्। ना॒श॒या॒म॒सि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

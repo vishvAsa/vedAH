@@ -27,7 +27,7 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 
 <details><summary>पदपाठः</summary>
 
-यत्। वः। देवाः। उपऽजीकाः। आऽअसिञ्चन्। धन्वनि। उदकम्। तेन। देवऽप्रसूतेन। इदम्। दूषयत। विषम्। १००.२।
+यत्। व॒ः। दे॒वाः। उ॒प॒ऽजी॒का॒ः। आ॒ऽअसि॑ञ्चन्। धन्व॑नि। उ॒द॒कम्। तेन॑। दे॒वऽप्र॑सूतेन। इ॒दम्। दू॒ष॒य॒त॒। वि॒षम्। १००.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

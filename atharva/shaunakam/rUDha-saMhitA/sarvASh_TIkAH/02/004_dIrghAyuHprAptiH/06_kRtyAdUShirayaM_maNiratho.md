@@ -25,7 +25,7 @@ This Amulet destroys the might of magic and malignity: So may victorious Jangida
 
 <details><summary>पदपाठः</summary>
 
-कृत्याऽदूषिः। अयम्। मणिः। अथो इति। अरातिऽदूषिः। अथो इति। सहस्वान्। जङ्गिडः। प्र। नः। आयूंषि। तारिषत्। ४.६।
+कृ॒त्या॒ऽदूषि॑ः। अ॒यम्। म॒णिः। अथो॒ इति॑। अ॒रा॒ति॒ऽदूषि॑ः। अथो॒ इति॑। सह॑स्वान्। ज॒ङ्गि॒डः। प्र। न॒ः। आयूं॑षि। ता॒रि॒ष॒त्। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

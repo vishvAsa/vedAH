@@ -26,7 +26,7 @@ Let Aryaman vouchsafe us, wealth, and Bhaga, and Brihaspati, The Goddesses grant
 
 <details><summary>पदपाठः</summary>
 
-प्र। नः। यच्छतु। अर्यमा। प्र। भगः। प्र। बृहस्पतिः। प्र। देवीः। प्र। उत। सूनृता। रयिम्। देवी। दधातु। मे। २०.३।
+प्र। न॒ः। य॒च्छ॒तु॒। अ॒र्य॒मा। प्र। भग॑ः। प्र। बृह॒स्पति॑ः। प्र। दे॒वीः। प्र। उ॒त। सू॒नृता॑। र॒यिम्। दे॒वी। द॒धा॒तु॒। मे॒। २०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

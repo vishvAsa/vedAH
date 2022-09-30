@@ -22,7 +22,7 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 
 <details><summary>पदपाठः</summary>
 
-अभिऽवृत्य। सऽपत्नान्। अभि। याः। नः। अरातयः। अभि। पृतन्यन्तम्। तिष्ठ। अभि। यः। नः। दुरस्यति।
+अ॒भि॒ऽवृत्य॑। स॒ऽपत्ना॑न्। अ॒भि। याः। न॒ः। अरा॑तयः। अ॒भि। पृ॒त॒न्यन्त॑म्। ति॒ष्ठ॒। अ॒भि। यः। न॒ः। दु॒र॒स्यति॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

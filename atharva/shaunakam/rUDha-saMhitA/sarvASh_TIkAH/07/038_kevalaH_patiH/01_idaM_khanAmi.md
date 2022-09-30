@@ -53,7 +53,7 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 
 <details><summary>पदपाठः</summary>
 
-इदम्। खनामि। भेषजम्। माम्ऽपश्यम्। अभिऽरोरुदम्। पराऽयतः। निऽवर्तनम्। आऽयतः। प्रतिऽनन्दनम्। ३९.१।
+इ॒दम्। ख॒ना॒मि॒। भे॒ष॒जम्। मा॒म्ऽप॒श्यम्। अ॒भि॒ऽरो॒रु॒दम्। प॒रा॒ऽय॒तः। नि॒ऽवर्त॑नम्। आ॒ऽय॒तः। प्र॒ति॒ऽनन्द॑नम्। ३९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

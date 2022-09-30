@@ -28,7 +28,7 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 
 <details><summary>पदपाठः</summary>
 
-उत्। एनम्। उत्ऽतरम्। नय। अग्ने। घृतेन। आऽहुत। सम्। एनम्। वर्चसा। सृज। प्रऽजया। च। बहुम्। कृधि। ५.१।
+उत्। ए॒न॒म्। उ॒त्ऽत॒रम्। न॒य॒। अग्ने॑। घृ॒तेन॑। आ॒ऽहु॒त॒। सम्। ए॒न॒म्। वर्च॑सा। सृ॒ज॒। प्र॒ऽजया॑। च॒। ब॒हुम्। कृ॒धि॒। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

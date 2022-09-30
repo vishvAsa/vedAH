@@ -27,7 +27,7 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 
 <details><summary>पदपाठः</summary>
 
-येषाम्। अधिऽएति। प्रऽवसन्। येषु। सौमनसः। बहुः। गृहान्। उप। ह्वयामहे। ते। नः। जानन्तु। आऽयतः। ६२.३।
+येषा॑म्। अ॒धि॒ऽएति॑। प्र॒ऽवस॑न्। येषु॑। सौ॒म॒न॒सः। ब॒हुः। गृ॒हान्। उप॑। ह्व॒या॒म॒हे॒। ते। न॒ः। जा॒न॒न्तु॒। आ॒ऽय॒तः। ६२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -34,7 +34,7 @@ Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। जुषस्व। प्र। वह। आ। याहि। शूर। हरिऽभ्याम्। पिब। सुतस्य। मतेः। इह। मधोः। चकानः। चारुः। मदाय। ५.१।
+इन्द्र॑। जु॒षस्व॑। प्र। व॒ह॒। आ। या॒हि॒। शू॒र॒। हरि॑ऽभ्याम्। पिब॑। सु॒तस्य॑। म॒तेः। इ॒ह। मधो॑ः। च॒का॒नः। चारु॑ः। मदा॑य। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

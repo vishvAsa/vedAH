@@ -29,7 +29,7 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 
 <details><summary>पदपाठः</summary>
 
-हरिणस्य। रघुऽस्यदः। अधि। शीर्षाणि। भेषजम्। सः। क्षेत्रियम्। विऽसानया। विषूचीनम्। अनीनशत्। ७.१।
+ह॒रि॒णस्य॑। र॒घु॒ऽस्यद॑ः। अधि॑। शी॒र्षाणि॑। भे॒ष॒जम्। सः। क्षे॒त्रि॒यम्। वि॒ऽसान॑या। वि॒षू॒चीन॑म्। अ॒नी॒न॒श॒त्। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

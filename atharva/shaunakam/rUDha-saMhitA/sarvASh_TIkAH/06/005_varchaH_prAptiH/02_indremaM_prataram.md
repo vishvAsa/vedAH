@@ -27,7 +27,7 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। इमम्‌। प्रऽतरम्। कृधि। सऽजातानाम्। असत्। वशी। रायः। पोषेण। सम्। सृज। जीवातवे। जरसे। नय। ५.२।
+इन्द्र॑। इ॒मम्‌। प्र॒ऽत॒रम्। कृ॒धि॒। स॒ऽजा॒ताना॑म्। अ॒स॒त्। व॒शी। रायः। पोषे॑ण। सम्। सृ॒ज॒। जीवात॑वे। जरसे॑। नय। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

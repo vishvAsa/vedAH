@@ -20,7 +20,7 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 
 <details><summary>पदपाठः</summary>
 
-अपानाय। विऽआनाय। प्राणाय। भूरिऽधायसे। सरस्वत्यै। उरुऽव्यचे। विधेम। हविषा। वयम्। ४१.२।
+अ॒पा॒नाय॑। वि॒ऽआ॒नाय॑। प्रा॒णाय॑। भूरि॑ऽधायसे। सर॑स्वत्यै। उ॒रु॒ऽव्यचे॑। वि॒धेम॑। ह॒विषा॑। व॒यम्। ४१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

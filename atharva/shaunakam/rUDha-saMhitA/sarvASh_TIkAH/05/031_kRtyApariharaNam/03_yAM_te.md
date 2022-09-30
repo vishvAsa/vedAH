@@ -20,7 +20,7 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 
 <details><summary>पदपाठः</summary>
 
-याम्। ते। चक्रुः। एकऽशफे। पशूनाम्। उभयादति। गर्दभे। कृत्याम्। याम्। चक्रुः। पुनः। प्रति। हरामि। ताम्। ३१.३।
+याम्। ते॒। च॒क्रुः। एक॑ऽशफे। प॒शू॒नाम्। उ॒भ॒याद॑ति। ग॒र्द॒भे। कृ॒त्याम्। याम्। च॒क्रुः। पुन॑ः। प्रति॑। ह॒रा॒मि॒। ताम्। ३१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

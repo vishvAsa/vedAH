@@ -29,7 +29,7 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 
 <details><summary>पदपाठः</summary>
 
-यत्। पुरुषेण। हविषा। यज्ञम्। देवाः। अतन्वत। अस्ति। नु। तस्मात्। ओजीयः। यत्। विऽहव्येन। ईजिरे। ५.४।
+यत्। पुरु॑षेण। ह॒विषा॑। य॒ज्ञम्। दे॒वाः। अत॑न्वत। अस्ति॑। नु। तस्मा॑त्। ओजी॑यः। यत्। वि॒ऽहव्ये॑न। ई॒जि॒रे। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

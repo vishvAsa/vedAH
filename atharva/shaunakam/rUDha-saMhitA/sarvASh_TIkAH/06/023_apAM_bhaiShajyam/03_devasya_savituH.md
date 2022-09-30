@@ -22,7 +22,7 @@ Let all the people celebrate the rite of Savitar the God. Sweet unto us be Water
 
 <details><summary>पदपाठः</summary>
 
-देवस्य। सवितुः। सवे। कर्म। कृण्वन्तु। मानुषाः। शम्। नः। भवन्तु। अपः। ओषधीः। शिवाः। २३.३।
+दे॒वस्य॑। स॒वि॒तुः। स॒वे। कर्म॑। कृ॒ण्व॒न्तु॒। मानु॑षाः। शम्। नः। भ॒व॒न्तु॒। अपः। ओष॑धीः। शिवाः। २३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

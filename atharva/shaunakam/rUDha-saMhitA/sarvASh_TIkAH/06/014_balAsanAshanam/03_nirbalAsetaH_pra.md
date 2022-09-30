@@ -26,7 +26,7 @@ Begone, Consumption, hence away, like a young foal that runs. at speed. Then, no
 
 <details><summary>पदपाठः</summary>
 
-निः। बलास। इतः। प्र। पत। आशुंगः। शिशुकः। यथा। अथो इति। इटःऽइव। हायनः। अप। द्राहि। अवीरऽहा। १४.३।
+निः। ब॒ला॒स॒। इ॒तः। प्र। प॒त॒। आ॒शुं॒गः। शि॒शु॒कः। य॒था॒। अथो॒ इति॑। इट॑ःऽइव। हा॒य॒नः। अप॑। द्रा॒हि॒। अवी॑रऽहा। १४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

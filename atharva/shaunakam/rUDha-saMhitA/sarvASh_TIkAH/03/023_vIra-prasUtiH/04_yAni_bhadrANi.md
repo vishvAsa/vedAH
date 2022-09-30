@@ -30,7 +30,7 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 
 <details><summary>पदपाठः</summary>
 
-यानि। भद्राणि। बीजानि। ऋषभाः। जनयन्ति। च। तैः। त्वम्। पुत्रम्। विन्दस्व। सा। प्रऽसूः। धेनुका। भव। २३.४।
+यानि॑। भ॒द्राणि॑। बीजा॑नि। ऋ॒ष॒भाः। ज॒नय॑न्ति। च॒। तैः। त्वम्। पु॒त्रम्। वि॒न्द॒स्व॒। सा। प्र॒ऽसूः। धेनु॑का। भ॒व॒। २३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

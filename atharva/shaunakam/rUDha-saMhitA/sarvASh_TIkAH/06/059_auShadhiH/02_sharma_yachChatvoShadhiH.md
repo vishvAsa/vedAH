@@ -25,7 +25,7 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 
 <details><summary>पदपाठः</summary>
 
-शर्म। यच्छतु। ओषधिः। सह। देवीः। अरुन्धती। करत्। पयस्वन्तम्। गोऽस्थम्। अयक्ष्मान्। उत। पुरुषान्। ५९.२।
+शर्म॑। य॒च्छ॒तु॒। ओष॑धिः। स॒ह। दे॒वीः। अ॒रु॒न्ध॒ती। कर॑त्। पय॑स्वन्तम्। गो॒ऽस्थम्। अ॒य॒क्ष्मान्। उ॒त। पुरु॑षान्। ५९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

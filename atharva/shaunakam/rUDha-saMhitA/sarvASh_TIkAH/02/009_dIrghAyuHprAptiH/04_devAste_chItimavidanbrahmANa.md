@@ -26,7 +26,7 @@ The Gods, the Brahman-priests, and plants observed the way to gather thee: All d
 
 <details><summary>पदपाठः</summary>
 
-देवाः। ते। चीतिम्। अविदन्। ब्रह्माणः। उत। वीरुधः। चीतिम्। ते। विश्वे। देवाः। अविदन्। भूम्याम्। अधि। ९.४।
+दे॒वाः। ते॒। ची॒तिम्। अ॒वि॒द॒न्। ब्र॒ह्माण॑ः। उ॒त। वी॒रुध॑ः। ची॒तिम्। ते॒। विश्वे॑। दे॒वाः। अवि॑दन्। भूम्या॑म्। अधि॑। ९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

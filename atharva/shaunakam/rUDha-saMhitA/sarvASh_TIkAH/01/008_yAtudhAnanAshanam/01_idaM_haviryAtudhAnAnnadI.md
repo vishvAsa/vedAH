@@ -22,7 +22,7 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 
 <details><summary>पदपाठः</summary>
 
-इदम्। हविः। याऽतुधानान्। नदी। फेनम्ऽइव। आ। वहत्। यः। इदम्। स्त्री। पुमान्। अकः। इह। सः। स्तुवताम्। जनः।
+इ॒दम्। ह॒विः। या॒ऽतुधाना॑न्। न॒दी। फेन॑म्ऽइव। आ। व॒ह॒त्। यः। इ॒दम्। स्त्री। पुमा॑न्। अक॑ः। इ॒ह। सः। स्तु॒व॒ता॒म्। जन॑ः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

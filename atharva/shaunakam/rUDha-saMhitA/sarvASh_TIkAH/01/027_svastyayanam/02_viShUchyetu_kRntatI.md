@@ -28,7 +28,7 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 
 <details><summary>पदपाठः</summary>
 
-विषूची। एतु। कृन्तती। पिनाकम्ऽइव। बिभ्रती। विष्वक्। पुनःऽभुवाः। मनः। असम्ऽऋध्दाः। अघऽयवः। १.२७.२।
+विषू॑ची। ए॒तु॒। कृ॒न्त॒ती। पिना॑कम्ऽइव। बिभ्र॑ती। विष्व॑क्। पु॒न॒ःऽभुवा॑ः। मन॑ः। अस॑म्ऽऋध्दाः। अ॒घ॒ऽयव॑ः। १.२७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

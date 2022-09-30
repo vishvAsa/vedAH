@@ -22,7 +22,7 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 
 <details><summary>पदपाठः</summary>
 
-इयम्। वीरुत्। मधुऽजाता। मधुना। त्वा। खनामसि। मधोः। अधि। प्रऽजाता। असि। सा। नः। मधुऽमतः। कृधि।
+इ॒यम्। वी॒रुत्। मधु॑ऽजाता। मधु॑ना। त्वा॒। ख॒ना॒म॒सि॒। मधो॑ः। अधि॑। प्रऽजा॑ता। अ॒सि॒। सा। न॒ः। मधु॑ऽमतः। कृ॒धि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

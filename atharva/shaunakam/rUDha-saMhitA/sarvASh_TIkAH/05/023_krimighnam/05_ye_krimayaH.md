@@ -21,7 +21,7 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 
 <details><summary>पदपाठः</summary>
 
-ये। क्रिमयः। शितिऽकक्षाः। ये। कृष्णाः। शितिऽबाहवः। ये। के। च। विश्वऽरूपाः। तान्। क्रिमीन्। जम्भयामसि। २३.५।
+ये। क्रिम॑यः। शि॒ति॒ऽकक्षा॑ः। ये। कृ॒ष्णाः। शि॒ति॒ऽबाह॑वः। ये। के। च॒। वि॒श्वऽरू॑पाः। तान्। क्रिमी॑न्। ज॒म्भ॒या॒म॒सि॒। २३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

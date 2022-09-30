@@ -19,7 +19,7 @@ Ye, Waters, truly bring us bliss: so help ye us to strength and power That we ma
 
 <details><summary>पदपाठः</summary>
 
-आपः। हि। स्थ। मयःऽभुवः। ताः। नः। ऊर्जे। दधातन। महे। रणाय। चक्षसे।
+आप॑ः। हि। स्थ। म॒यः॒ऽभुव॑ः। ताः। न॒ः। ऊ॒र्जे। द॒धा॒त॒न॒। म॒हे। रणा॑य। चक्ष॑से। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

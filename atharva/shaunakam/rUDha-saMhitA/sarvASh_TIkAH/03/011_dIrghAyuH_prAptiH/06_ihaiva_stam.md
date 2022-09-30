@@ -22,7 +22,7 @@ Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that
 
 <details><summary>पदपाठः</summary>
 
-इह। एव। स्तम्। प्राणापानौ। मा। अप। गातम्। इतः। युवम्। शरीरम्। अस्य। अङ्गानि। जरसे। वहतम्। पुनः। ११.६।
+इ॒ह। ए॒व। स्त॒म्। प्रा॒णा॒पा॒नौ॒। मा। अप॑। गा॒त॒म्। इ॒तः। यु॒वम्। शरी॑रम्। अ॒स्य॒। अङ्गा॑नि। ज॒रसे॑। व॒ह॒त॒म्। पुन॑ः। ११.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

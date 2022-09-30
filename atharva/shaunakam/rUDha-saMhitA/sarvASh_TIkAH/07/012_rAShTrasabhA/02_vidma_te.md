@@ -24,7 +24,7 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 
 <details><summary>पदपाठः</summary>
 
-विद्म। ते। सभे। नाम। नरिष्टा। नाम। वै। असि। ये। ते। के। च। सभाऽसदः। ते। मे। सन्तु। सऽवाचसः। १३.२।
+वि॒द्म। ते॒। स॒भे॒। नाम॑। न॒रिष्टा॑। नाम॑। वै। अ॒सि॒। ये। ते॒। के। च॒। स॒भा॒ऽसद॑ः। ते। मे॒। स॒न्तु॒। सऽवा॑चसः। १३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

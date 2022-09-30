@@ -28,7 +28,7 @@ The thought that harbours in thy heart, the fluttering doubt that dwells therein
 
 <details><summary>पदपाठः</summary>
 
-अदः। यत्। ते। हृदि। श्रितम्। मनःऽकम्। पतयिष्णुकम्। ततः। ते। ईर्ष्याम्। मुञ्चामि। निः। ऊष्माणम्। दृंतेःऽइव। १८.३।
+अ॒दः। यत्। ते॒। हृ॒दि। श्रि॒तम्। म॒न॒ःऽकम्। प॒त॒यि॒ष्णु॒कम्। तत॑ः। ते॒। ई॒र्ष्याम्। मु॒ञ्चा॒मि॒। निः। ऊ॒ष्माण॑म्। दृंते॑ःऽइव। १८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

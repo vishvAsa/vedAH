@@ -22,7 +22,7 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 
 <details><summary>पदपाठः</summary>
 
-आसुरी। चक्रे। प्रथमा। इदम्। किलासऽभेषजम्। इदम्। किलासऽनाशनम्। अनीनशत्। किलासम्। सऽरूपाम्। अकरत्। त्वचम्।
+आ॒सुरी। च॒क्रे॒। प्र॒थ॒मा। इ॒दम्। कि॒ला॒स॒ऽभे॒ष॒जम्। इ॒दम्। कि॒ला॒स॒ऽनाश॑नम्। अनी॑नशत्। कि॒लास॑म्। सऽरू॑पाम्। अ॒क॒र॒त्। त्वच॑म्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ Vaisvanara hath formed the hymn and laud of the Angirases. To these may he bring
 
 <details><summary>पदपाठः</summary>
 
-वैश्वानरः। अङ्गिरसाम्। स्तोमम्। उक्थम्। च। चक्लृपत्। आ। एषु। द्युम्नम्। स्वः᳡। यमत्। ३५.३।
+वै॒श्वा॒न॒रः। अङ्गि॑रसाम्। स्तोम॑म्। उ॒क्थम्। च॒। च॒क्लृ॒प॒त्। आ। ए॒षु॒। द्यु॒म्नम्। स्व᳡ः। य॒म॒त्। ३५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

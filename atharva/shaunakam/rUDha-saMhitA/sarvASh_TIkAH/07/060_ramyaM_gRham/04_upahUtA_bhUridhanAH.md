@@ -23,7 +23,7 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 
 <details><summary>पदपाठः</summary>
 
-उपऽहूताः। भूरिऽधनाः। सखायः। स्वादुऽसंमुदः। अक्षुध्याः। अतृष्याः। स्त। गृहाः। मा। अस्मत्। बिभीतन। ६२.४।
+उप॑ऽहूताः। भूरि॑ऽधनाः। सखा॑यः। स्वा॒दुऽसं॑मुदः। अ॒क्षु॒ध्याः। अ॒तृ॒ष्याः। स्त॒। गृहा॑ः। मा। अ॒स्मत्। बि॒भी॒त॒न॒। ६२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

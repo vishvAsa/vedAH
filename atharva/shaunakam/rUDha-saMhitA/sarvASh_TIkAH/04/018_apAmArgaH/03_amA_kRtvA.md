@@ -37,7 +37,7 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 
 <details><summary>पदपाठः</summary>
 
-अमा। कृत्वा। पाप्मानम्। यः। तेन। अन्यम्। जिघांसति। अश्मानः। तस्याम्। दग्धायाम्। बहुलाः। फट्। करिक्रति। १८.३।
+अ॒मा। कृ॒त्वा। पा॒प्मान॑म्। यः। तेन॑। अ॒न्यम्। जिघां॑सति। अश्मा॑नः। तस्या॑म्। द॒ग्धाया॑म्। ब॒हु॒लाः। फट्। क॒रि॒क्र॒ति॒। १८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

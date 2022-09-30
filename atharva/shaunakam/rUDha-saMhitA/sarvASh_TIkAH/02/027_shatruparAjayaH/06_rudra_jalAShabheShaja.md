@@ -25,7 +25,7 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 
 <details><summary>पदपाठः</summary>
 
-रुद्र। जलाषऽभेषज। नीलऽशिखण्ड। कर्मऽकृत्। प्राशम्। प्रतिऽप्राशः। जहि। अरसान्। कृणु। ओषधे। २७.६।
+रुद्र॑। जला॑षऽभेषज। नील॑ऽशिखण्ड। कर्म॑ऽकृत्। प्राश॑म्। प्रति॑ऽप्राशः। ज॒हि॒। अ॒र॒सान्। कृ॒णु॒। ओ॒ष॒धे॒। २७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

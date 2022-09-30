@@ -19,7 +19,7 @@ Life art thou, give me life. All hail!
 
 <details><summary>पदपाठः</summary>
 
-आयुः। असि। आयुः। मे। दाः। स्वाहा। १७.४।
+आयु॑ः। अ॒सि॒। आयु॑ः। मे॒। दा॒ः। स्वाहा॑। १७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

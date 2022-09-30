@@ -21,7 +21,7 @@ Those nine-and-ninety people whom Earth shook and cast away from her, When they 
 
 <details><summary>पदपाठः</summary>
 
-नव। एव। ताः। नवतयः। याः। भूमिः। विऽअधूनुत। प्रऽजाम्। हिंसित्वा। ब्राह्मणीम्। असम्ऽभव्यम्। परा। अभवन्। १९.११।
+नव॑। ए॒व। ताः। न॒व॒तय॑ः। याः। भूमि॑ः। विऽअ॑धूनुत। प्र॒ऽजाम्। हिं॒सि॒त्वा। ब्राह्म॑णीम्। अ॒स॒म्ऽभ॒व्यम्। परा॑। अ॒भ॒व॒न्। १९.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

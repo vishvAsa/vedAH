@@ -24,7 +24,7 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 
 <details><summary>पदपाठः</summary>
 
-अदितिः। श्मश्रु। वपतु। आपः। उन्दन्तु। वर्चसा। चिकित्सतु। प्रजाऽपतिः। दीर्घायुऽत्वाय। चक्षसे। ६८.२।
+अदि॑तिः। श्मश्रु॑। व॒प॒तु॒। आप॑ः। उ॒न्द॒न्तु॒। वर्च॑सा। चिकि॑त्सतु। प्र॒जाऽप॑तिः। दी॒र्घा॒यु॒ऽत्वाय॑। चक्ष॑से। ६८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

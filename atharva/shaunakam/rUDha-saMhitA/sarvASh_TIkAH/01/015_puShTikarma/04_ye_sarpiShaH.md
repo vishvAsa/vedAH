@@ -23,7 +23,7 @@ All streams of melted butter, and all streams of water and of milk With all thes
 
 <details><summary>पदपाठः</summary>
 
-ये। सर्पिषः। सम्ऽस्रवन्ति। क्षीरस्य। च। उदकस्य। च। तेर्भिः। मे। सर्वैः। सम्ऽस्रावैः। धनम्। सम्। स्रावयामसि।
+ये। स॒र्पिष॑ः। स॒म्ऽस्रव॑न्ति। क्षी॒रस्य॑। च॒। उ॒द॒कस्य॑। च॒। तेर्भि॑ः। मे॒। सर्वै॑ः। स॒म्ऽस्रा॒वैः। धन॑म्। सम्। स्रा॒व॒या॒म॒सि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -34,7 +34,7 @@ Remove thou all Decline that lurks within the members and the joints, The firmly
 
 <details><summary>पदपाठः</summary>
 
-अस्थिऽस्रंसम्। परुःऽस्रंसम्। आऽस्थितम्। हृदयऽआमयम्। बलासम्। सर्वम्। नाशय। अङ्गेऽस्थाः। यः। च। पर्वऽसु। १४.१।
+अ॒स्थि॒ऽस्रं॒सम्। प॒रु॒ःऽस्रं॒सम्। आऽस्थि॑तम्। हृ॒द॒य॒ऽआ॒म॒यम्। ब॒लास॑म्। सर्व॑म्। ना॒श॒य॒। अ॒ङ्गे॒ऽस्थाः। यः। च॒। पर्व॑ऽसु। १४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

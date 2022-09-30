@@ -30,7 +30,7 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 
 <details><summary>पदपाठः</summary>
 
-याम्। त्वा। गन्धर्वः। अखनत्। वरुणाय। मृतऽभ्रजे। ताम्। त्वा। वयम्। खनामसि। ओषधिम्। शेपःऽहर्षणीम्। ४.१।
+याम्। त्वा॒। ग॒न्ध॒र्वः। अख॑नत्। वरु॑णाय। मृ॒तऽभ्र॑जे। ताम्। त्वा॒। व॒यम्। ख॒ना॒म॒सि॒। ओष॑धिम्। शे॒प॒ःऽहर्ष॑णीम्। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

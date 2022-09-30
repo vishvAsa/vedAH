@@ -26,7 +26,7 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 
 <details><summary>पदपाठः</summary>
 
-उत्। तिष्ठत। अव। पश्यत। इन्द्रस्य। भागम्। ऋत्वियम्। यदि। श्रातम्। जुहोतन। यदि। अश्रातम्। ममत्तन। ७५.१।
+उत्। ति॒ष्ठ॒त॒। अव॑। प॒श्य॒त॒। इन्द्र॑स्य। भा॒गम्। ऋ॒त्विय॑म्। यदि॑। श्रा॒तम्। जु॒होत॑न। यदि॑। अश्रा॑तम्। म॒मत्त॑न। ७५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

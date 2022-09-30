@@ -22,7 +22,7 @@ That dear mysterious Amulet which Gods have set within the tree, May the Gods gr
 
 <details><summary>पदपाठः</summary>
 
-यम्। निऽदधुः। वनस्पतौ। गुह्यम्। देवाः। प्रियम्। मणिम्। तम्। अस्मभ्यम्। सह। आयुषा। देवाः। ददतु। भर्तवे। ५.३।
+यम्। नि॒ऽद॒धुः। वन॒स्पतौ॑। गुह्य॑म्। दे॒वाः। प्रि॒यम्। म॒णिम्। तम्। अ॒स्मभ्य॑म्। स॒ह। आयु॑षा। दे॒वाः। द॒द॒तु॒। भर्त॑वे। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

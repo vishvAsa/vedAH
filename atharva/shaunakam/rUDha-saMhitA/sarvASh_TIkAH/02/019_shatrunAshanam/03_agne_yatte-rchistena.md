@@ -19,7 +19,7 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 
 <details><summary>पदपाठः</summary>
 
-अग्ने। यत्। ते। अर्चिः। तेन। तम्। प्रति। अर्च। यः। अस्मान्। द्वेष्टि। यम्। वयम्। द्विष्मः। १९.३।
+अग्ने॑। यत्। ते॒। अ॒र्चिः। तेन॑। तम्। प्रति॑। अ॒र्च॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 
 <details><summary>पदपाठः</summary>
 
-सऽबन्धुः। च। असबन्धुः। च। यः। अस्मान्। अभिऽदासति। तेषाम्। सा। वृक्षाणाम्ऽइव। अहम्। भूयासम्। उत्ऽतमः। १५.२।
+सऽब॑न्धुः। च॒। अस॑बन्धुः। च॒। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। तेषा॑म्। सा। वृ॒क्षाणा॑म्ऽइव। अ॒हम्। भू॒या॒स॒म्। उ॒त्ऽत॒मः। १५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

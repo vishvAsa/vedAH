@@ -21,7 +21,7 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 
 <details><summary>पदपाठः</summary>
 
-विद्म। शरस्य। पितरम्। पर्जन्यम्। भूरिऽधायसम्। विद्मो इति। सु। अस्य। मातरम्। पृथिवीम्। भूरिऽवर्पसम्।
+वि॒द्म। श॒रस्य॑। पि॒तर॑म्। प॒र्जन्य॑म्। भूरि॑ऽधायसम्। वि॒द्मो इति॑। सु। अ॒स्य॒। मा॒तर॑म्। पृ॒थि॒वीम्। भूरि॑ऽवर्पसम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

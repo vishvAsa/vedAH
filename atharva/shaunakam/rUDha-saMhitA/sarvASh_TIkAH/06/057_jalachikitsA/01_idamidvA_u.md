@@ -23,7 +23,7 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 
 <details><summary>पदपाठः</summary>
 
-इदम्। इत्। वै। ऊं इति। भेषजम्। इदम्। रुद्रस्य। भेषजम्। येन। इषुम्। एकऽतेजनाम्। शतऽशल्याम्। अपऽब्रवत्। ५७.१।
+इ॒दम्। इत्। वै। ऊं॒ इति॑। भे॒ष॒जम्। इ॒दम्। रु॒द्रस्य॑। भे॒ष॒जम्। येन॑। इषु॑म्। एक॑ऽतेजनाम्। श॒तऽश॑ल्याम्। अ॒प॒ऽब्रव॑त्। ५७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

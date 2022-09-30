@@ -23,7 +23,7 @@ Thy father's name was Cleaver. Thou with thousand branches cleavest all. Do thou
 
 <details><summary>पदपाठः</summary>
 
-विऽभिन्दती। शतऽशाखा। विऽभिन्दन्। नाम। ते। पिता। प्रत्यक्। वि। भिन्धि। त्वम्। तम्। यः। अस्मान्। अभिऽदासति। १९.५।
+वि॒ऽभि॒न्द॒ती। श॒तऽशा॑खा। वि॒ऽभि॒न्दन्। नाम॑। ते॒। पि॒ता। प्र॒त्यक्। वि। भि॒न्धि॒। त्वम्। तम्। यः। अ॒स्मान्। अ॒भि॒ऽदास॑ति। १९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

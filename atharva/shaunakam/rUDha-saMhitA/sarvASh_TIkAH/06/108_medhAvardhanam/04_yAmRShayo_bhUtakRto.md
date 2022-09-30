@@ -23,7 +23,7 @@ Do thou, O Agni, make me wise this day with that Intelligence. Which the creativ
 
 <details><summary>पदपाठः</summary>
 
-याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४।
+याम्। ऋषयः। भूतऽकृतः। मेधाम्। मेधाविनः। विदुः। तया। माम्। अद्य। मेधया। अग्ने। मेधाविनम्। कृणु। १०८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

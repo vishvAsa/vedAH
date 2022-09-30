@@ -24,7 +24,7 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 
 <details><summary>पदपाठः</summary>
 
-अमून्। हेतिः। पतत्रिणी। नि। एतु। यत्। उलूकः। वदति। मोघम्। एतत्। यत्। वा। कपोतः। पदम्। अग्नौ। कृणोति। २९.१।
+अ॒मून्। हे॒तिः। प॒त॒त्रिणी॑। नि। ए॒तु॒। यत्। उलू॑कः। वद॑ति। मो॒घम्। ए॒तत्। यत्। वा॒। क॒पोत॑ः। प॒दम्। अ॒ग्नौ। कृ॒णोति॑। २९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

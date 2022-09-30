@@ -23,7 +23,7 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 
 <details><summary>पदपाठः</summary>
 
-ये। आशानाम्। अशाऽपालाः। चत्वारः। स्थन। देवाः। ते। नः। निःऋत्याः। पाशेभ्यः। मुञ्चत। अंहसःऽअंहसः।
+ये। आशा॑नाम्। अ॒शा॒ऽपा॒लाः। च॒त्वार॑ः। स्थन॑। दे॒वा॒ः। ते। न॒ः। निःऋ॑त्याः। पाशे॑भ्यः। मुञ्चत॑। अंह॑सःऽअंहसः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

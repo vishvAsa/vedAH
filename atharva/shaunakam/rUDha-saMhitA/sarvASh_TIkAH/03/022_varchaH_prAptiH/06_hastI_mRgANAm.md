@@ -27,7 +27,7 @@ Now hath the Elephant become chief of all pleasant beasts to ride. With his high
 
 <details><summary>पदपाठः</summary>
 
-हस्ती। मृगाणाम्। सुऽसदाम्। अतिस्थाऽवान्। बभूव। हि। तस्य। भगेन। वर्चसा। अभि। सिञ्चामि। माम्। अहम्। २२.६।
+ह॒स्ती। मृ॒गाणा॑म्। सु॒ऽसदा॑म्। अ॒ति॒स्थाऽवा॑न्। ब॒भूव॑। हि। तस्य॑। भगे॑न। वर्च॑सा। अ॒भि। सि॒ञ्चा॒मि॒। माम्। अ॒हम्। २२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

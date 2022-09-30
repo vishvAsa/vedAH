@@ -20,7 +20,7 @@ Or perhaps rather 'double chief,' 'triple chief,' etc., or 'one of two,'
 
 <details><summary>पदपाठः</summary>
 
-यदि। द्विऽवृषः। असि। सृज। अरसः। असि। १६.२।
+यदि॑। द्वि॒ऽवृ॒षः। असि॑। सृ॒ज। अ॒र॒सः। अ॒सि॒। १६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

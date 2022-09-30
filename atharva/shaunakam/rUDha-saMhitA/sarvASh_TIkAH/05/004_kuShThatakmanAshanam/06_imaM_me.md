@@ -21,7 +21,7 @@ O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free
 
 <details><summary>पदपाठः</summary>
 
-इमम्। मे। कुष्ठ। पुरुषम्। तम्। आ। वह। तम्। निः। कुरु। तम्। ऊं इति। मे। अगदम्। कृधि। ४.६।
+इ॒मम्। मे॒। कु॒ष्ठ॒। पुरु॑षम्। तम्। आ। व॒ह॒। तम्। निः। कु॒रु॒। तम्। ऊं॒ इति॑। मे॒। अ॒ग॒दम्। कृ॒धि॒। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -30,7 +30,7 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 
 <details><summary>पदपाठः</summary>
 
-उत्। उषाः। उत्। ऊं इति। सूर्यः। उत्। इदम्। मामकम्। वचः। उत्। एजतु। प्रजाऽपतिः। वृषा। शुष्मेण। वाजिना। ४.२।
+उत्। उ॒षाः। उत्। ऊं॒ इति॑। सूर्य॑ः। उत्। इ॒दम्। मा॒म॒कम्। वच॑ः। उत्। ए॒ज॒तु॒। प्र॒जाऽप॑तिः। वृषा॑। शुष्मे॑ण। वा॒जिना॑। ४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

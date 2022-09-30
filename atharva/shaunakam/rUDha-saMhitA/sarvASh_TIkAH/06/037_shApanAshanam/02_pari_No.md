@@ -24,7 +24,7 @@ Avoid us, Imprecation! as consuming fire avoids the lake. Smite thou the man who
 
 <details><summary>पदपाठः</summary>
 
-परि। नः। वृङ्ग्धि। शपथ। ह्रदम्। अग्निःऽइव। दहन्। शप्तारम्। अत्र। नः। जहि। दिवः। वृक्षम्ऽइव। अशनिः। ३७.२।
+परि॑। न॒ः। वृ॒ङ्ग्धि॒। श॒प॒थ॒। ह्रदम्। अग्निःऽइ॑व। दह॑न्। श॒प्तार॑म्। अत्र॑। न॒ः। ज॒हि॒। दि॒वः। वृ॒क्षम्ऽइ॑व। अ॒शनि॑ः। ३७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

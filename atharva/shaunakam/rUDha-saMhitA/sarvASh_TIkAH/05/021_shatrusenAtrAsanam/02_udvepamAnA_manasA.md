@@ -21,7 +21,7 @@ When sacrificial butter hath been offered, let our foemen flee. Through constern
 
 <details><summary>पदपाठः</summary>
 
-उत्ऽवेषमानाः। मनसा। चक्षुषा। हृदयेन। च। धावन्तु। बिभ्यतः। अमित्राः। प्रऽत्रासेन। आज्ये। हुते। २१.२।
+उ॒त्ऽवेष॑मानाः। मन॑सा। चक्षु॑षा। हृद॑येन। च॒। धाव॑न्तु। बिभ्य॑तः। अ॒मित्रा॑ः। प्र॒ऽत्रा॒सेन॑। आज्ये॑। हु॒ते। २१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

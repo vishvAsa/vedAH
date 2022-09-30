@@ -23,7 +23,7 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 
 <details><summary>पदपाठः</summary>
 
-यः। सहमानः। चरसि। ससहानःऽइव। ऋषभः। तेन। अश्वत्थ। त्वया। वयम्। सऽपत्नान्। सहिषीमहि। ६.४।
+यः। सह॑मानः। चर॑सि। स॒स॒हा॒नःऽइ॑व। ऋ॒ष॒भः। तेन॑। अ॒श्व॒त्थ॒। त्वया॑। व॒यम्। स॒ऽपत्ना॑न्। स॒हि॒षी॒म॒हि॒। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

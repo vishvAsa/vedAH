@@ -31,7 +31,7 @@ Wise and devoted to the Gods the skilful men bind plough-ropes fast, And lay the
 
 <details><summary>पदपाठः</summary>
 
-सीरा। युञ्जन्ति। कवयः। युगा। वि। तन्वते। पृथक्। धीराः। देवेषु। सुम्नऽयौ। १७.१।
+सीरा॑। यु॒ञ्ज॒न्ति॒। क॒वय॑ः। यु॒गा। वि। त॒न्व॒ते॒। पृथ॑क्। धीरा॑ः। दे॒वेषु॑। सु॒म्न॒ऽयौ। १७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

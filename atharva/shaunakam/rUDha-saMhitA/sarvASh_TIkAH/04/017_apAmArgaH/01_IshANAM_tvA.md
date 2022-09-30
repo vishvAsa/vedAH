@@ -27,7 +27,7 @@ We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Pl
 
 <details><summary>पदपाठः</summary>
 
-ईशानाम्। त्वा। भेषजानाम्। उत्ऽजेषे। आ। रभामहे। चक्रे। सहस्रऽवीर्यम्। सर्वस्मै। ओषधे। त्वा। १७.१।
+ईशा॑नाम्। त्वा॒। भे॒ष॒जाना॑म्। उत्ऽजे॑षे। आ। र॒भा॒म॒हे॒। च॒क्रे। स॒हस्र॑ऽवीर्यम्। सर्व॑स्मै। ओ॒ष॒धे॒। त्वा॒। १७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

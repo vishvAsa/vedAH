@@ -31,7 +31,7 @@ Exhaustless let thine out-turns be, exhaustless be thy gathered heaps, Exhaustle
 
 <details><summary>पदपाठः</summary>
 
-अक्षिताः। ते। उपऽसदः। अक्षिताः। सन्तु। राशयः। पृणन्तः। अक्षिताः। सन्तु। अत्तारः। सन्तु। अक्षिताः। १४२.३।
+अक्षि॑ताः। ते॒। उ॒प॒ऽसद॑ः। अक्षि॑ताः। स॒न्तु॒। रा॒शय॑ः। पृ॒णन्त॑ः। अक्षि॑ताः। स॒न्तु॒। अ॒त्तार॑ः। स॒न्तु॒। अक्षि॑ताः। १४२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

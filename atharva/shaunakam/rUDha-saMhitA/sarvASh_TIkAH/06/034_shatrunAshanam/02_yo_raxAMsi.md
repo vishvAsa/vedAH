@@ -20,7 +20,7 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 
 <details><summary>पदपाठः</summary>
 
-यः। रक्षांसि। निऽजूर्वति। अग्निः। तिग्मेन। शोचिषा। सः। नः। पर्षत्। अति। द्विषः। ३४.२।
+यः। रक्षां॑सि। नि॒ऽजूर्व॑ति। अ॒ग्निः। ति॒ग्मेन॑। शो॒चिषा॑। सः। न॒ः। प॒र्ष॒त्। अति॑। द्विष॑ः। ३४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

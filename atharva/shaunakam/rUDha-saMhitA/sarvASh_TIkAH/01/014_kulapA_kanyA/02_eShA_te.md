@@ -27,7 +27,7 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 
 <details><summary>पदपाठः</summary>
 
-एषा। ते। राजन्। कन्या। वधूः। नि। धूयताम्। यम। सा। मातुः। वध्यताम्। गृहे। अथो इति। भ्रातुः। अथो इति। पितुः ‌।
+ए॒षा। ते॒। रा॒ज॒न्। क॒न्या। व॒धूः। नि। धू॒य॒ता॒म्। य॒म॒। सा। मा॒तुः। व॒ध्य॒ता॒म्। गृ॒हे। अथो॒ इति॑। भ्रातु॑ः। अथो॒ इति॑। पि॒तुः ‌। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

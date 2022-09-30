@@ -28,7 +28,7 @@ Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with t
 
 <details><summary>पदपाठः</summary>
 
-तक्मन्। भ्रात्रा। बलासेन्। स्वस्रा। कासिकया। सह। पाप्मा। भ्रातृव्येण। सह। गच्छ। अमुम्। अरणम्। जनम्। २२.१२।
+तक्म॑न्। भ्रात्रा॑। ब॒लासे॑न्। स्वस्रा॑। कासि॑कया। स॒ह। पा॒प्मा। भ्रातृ॑व्येण। स॒ह। गच्छ॑। अ॒मुम्। अर॑णम्। जन॑म्। २२.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

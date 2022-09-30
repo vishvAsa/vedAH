@@ -37,7 +37,7 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 
 <details><summary>पदपाठः</summary>
 
-शकऽधूमम्। नक्षत्राणि। यत्। राजानम्। अकुर्वत। भद्रऽअहम्। अस्मै। प्र। अयच्छन्। इदम्। राष्ट्रम्। असात्। इति। १२८.१।
+श॒क॒ऽधूम॑म्। नक्ष॑त्राणि। यत्। राजा॑नम्। अकु॑र्वत। भ॒द्र॒ऽअ॒हम्। अ॒स्मै॒। प्र। अ॒य॒च्छ॒न्। इ॒दम्। रा॒ष्ट्रम्। असा॑त्। इति॑। १२८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

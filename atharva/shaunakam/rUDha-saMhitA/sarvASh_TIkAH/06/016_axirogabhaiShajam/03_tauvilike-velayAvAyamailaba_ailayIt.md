@@ -29,7 +29,7 @@ Go thou to rest, Tauvilika! This noisy cry hath sunk to rest. Go hence, depart, 
 
 <details><summary>पदपाठः</summary>
 
-तौविलिके। अव। ईलय। अव। अयम्। ऐलबः। ऐलयीत्। बभ्रुः। च। बभ्रुऽकर्णः। च। अप। इहि। निः। आल। १६.३।
+तौवि॑लिके। अव॑। ई॒ल॒य॒। अव॑। अ॒यम्। ऐ॒ल॒बः। ऐ॒ल॒यी॒त्। ब॒भ्रुः। च॒। ब॒भ्रुऽक॑र्णः। च॒। अप॑। इ॒हि॒। निः। आ॒ल॒। १६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

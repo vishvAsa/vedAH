@@ -22,7 +22,7 @@ As evermore the lightning flash strikes, irresistible, the tree, So, irresistibl
 
 <details><summary>पदपाठः</summary>
 
-यथा। वृक्षम्। अशनिः। विश्वाहा। हन्ति। अप्रति। एव। अहम्। अद्य। कितवान्। अक्षैः। बध्यासम्। अप्रति। ५२.१।
+यथा॑। वृ॒क्षम्। अ॒शनि॑ः। वि॒श्वाहा॑। हन्ति॑। अ॒प्र॒ति। ए॒व। अ॒हम्। अ॒द्य। कि॒त॒वान्। अ॒क्षैः। ब॒ध्या॒स॒म्। अ॒प्र॒ति। ५२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

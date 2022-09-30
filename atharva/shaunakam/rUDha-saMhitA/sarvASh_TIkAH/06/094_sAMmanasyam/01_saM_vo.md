@@ -21,7 +21,7 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 
 <details><summary>पदपाठः</summary>
 
-सम्। वः। मनांसि। सम्। व्रता। सम्। आऽकूतीः। नमामसि। अमी इति। ये। विऽव्रताः। स्थन। तान्। वः। सम्। नमयामसि। ९४.१।
+सम्। व॒ः। मनां॑सि॒। सम्। व्र॒ता। सम्। आऽकू॑तीः। न॒मा॒म॒सि॒। अ॒मी इति॑। ये। विऽव्र॑ताः। स्थन॑। तान्। व॒ः। सम्। न॒म॒या॒म॒सि॒। ९४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ To her the mighty vast in size, who penetrates all points of space, To her mine 
 
 <details><summary>पदपाठः</summary>
 
-या। महती। महाऽउन्माना। विश्वाः। आशाः। व᳡ देव॒यज॑निऽआनशे। तस्यै। हिरण्यऽकेश्यै। निःऽऋत्यै। अकरम्। नमः। ७.९।
+या। म॒ह॒ती। म॒हाऽउ॑न्माना। विश्वा॑ः। आशा॑ः। व‍ि॒ऽआ॒न॒शे। तस्यै॑। हि॒र॒ण्य॒ऽके॒श्यै। निःऽऋ॑त्यै। अ॒क॒र॒म्। नम॑ः। ७.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

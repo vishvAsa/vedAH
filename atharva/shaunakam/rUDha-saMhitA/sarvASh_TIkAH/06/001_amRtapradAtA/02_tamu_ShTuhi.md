@@ -30,7 +30,7 @@ Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious
 
 <details><summary>पदपाठः</summary>
 
-तम्। ऊं इति। स्तुहि। यः। अन्तः। सिन्धौ। सूनुः। सत्यस्य। युवानम्। अद्रोघऽवाचम्। सुऽशेवम्। १.२।
+तम्। ऊं॒ इति॑। स्तु॒हि॒। यः। अ॒न्तः। सिन्धौ॑। सू॒नुः। स॒त्यस्य॑। युवा॑नम्। अद्रो॑घऽवाचम्। सु॒ऽशेव॑म्। १.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

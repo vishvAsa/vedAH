@@ -29,7 +29,7 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 
 <details><summary>पदपाठः</summary>
 
-शमीम्। अश्वत्थः। आऽरूढः। तत्र। पुम्ऽसुवनम्। कृतम्। तत्। वै। पुत्रस्य। वेदनम्। तत्। स्त्रीषु। आ। भरामसि। ११.१।
+श॒मीम्। अ॒श्व॒त्थः। आऽरू॑ढः। तत्र॑। पु॒म्ऽसुव॑नम्। कृ॒तम्। तत्। वै। पुत्रस्य॑। वेद॑नम्। तत्। स्त्री॒षु। आ। भ॒रा॒म॒सि॒। ११.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

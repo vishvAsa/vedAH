@@ -23,7 +23,7 @@ That wealth, King Varuna hath said, is poison by the Gods prepared. None hath ke
 
 <details><summary>पदपाठः</summary>
 
-विषम्। एतत्। देवऽकृतम्। राजा। वरुणः। अब्रवीत्। न। ब्राह्मणस्य। गाम्। जग्ध्वा। राष्ट्रे। जागार। कः। चन। १९.१०।
+वि॒षम्। ए॒तत्। दे॒वऽकृ॑तम्। राजा॑। वरु॑णः। अ॒ब्र॒वी॒त्। न। ब्रा॒ह्म॒णस्य॑। गाम्। ज॒ग्ध्वा। रा॒ष्ट्रे। जा॒गा॒र॒। कः। च॒न। १९.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

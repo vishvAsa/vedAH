@@ -26,7 +26,7 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 
 <details><summary>पदपाठः</summary>
 
-परिऽहस्त। वि। धारय। योनिम्। गर्भाय। धातवे। मर्यादे। पुत्रम्। आ। धेहि। तम्। त्वम्। आ। गमय। आऽगमे। ८१.२।
+परि॑ऽहस्त। वि। धा॒र॒य॒। योनि॑म्। गर्भा॑य। धात॑वे। मर्या॑दे। पु॒त्रम्। आ। धे॒हि॒। तम्। त्वम्। आ। ग॒म॒य॒। आ॒ऽग॒मे॒। ८१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

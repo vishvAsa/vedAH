@@ -20,7 +20,7 @@ Bring Praishas in the rite--All hail!--and Nivids, learned, con- nected, with th
 
 <details><summary>पदपाठः</summary>
 
-प्रऽएषाः। यज्ञे। निऽविदः। स्वाहा। शिष्टाः। पत्नीभिः। वहत। इह। युक्ताः। २६.४।
+प्र॒ऽए॒षाः। य॒ज्ञे। नि॒ऽविद॑ः। स्वाहा॑। शि॒ष्टाः। पत्नी॑भिः। व॒ह॒त॒। इ॒ह। यु॒क्ताः। २६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

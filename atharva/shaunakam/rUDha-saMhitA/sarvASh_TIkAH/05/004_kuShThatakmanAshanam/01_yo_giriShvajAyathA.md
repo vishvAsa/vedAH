@@ -23,7 +23,7 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 
 <details><summary>पदपाठः</summary>
 
-यः। गिरिषु। अजायथाः। वीरुधाम्। बलवत्ऽतमः। कुष्ठ। आ। इहि। तक्मऽनाशन। तक्मानम्। नाशयन्। इतः। ४.१।
+यः। गि॒रिषु॑। अजा॑यथाः। वी॒रुधा॑म्। बल॑वत्ऽतमः। कुष्ठ॑। आ। इ॒हि॒। त॒क्म॒ऽना॒श॒न॒। त॒क्मान॑म्। ना॒शय॑न्। इ॒तः। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

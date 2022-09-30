@@ -23,7 +23,7 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 
 <details><summary>पदपाठः</summary>
 
-येन। निऽचक्रे। आसुरी। इन्द्रम्। देवेभ्यः। परि। तेन। नि। कुर्वे। त्वाम्। अहम्। यथा। ते। असानि। सुऽप्रिया। ३९.२।
+येन॑। नि॒ऽच॒क्रे। आ॒सु॒री। इन्द्र॑म्। दे॒वेभ्य॑ः। परि॑। तेन॑। नि। कु॒र्वे॒। त्वाम्। अ॒हम्। यथा॑। ते॒। असा॑नि। सुऽप्रि॑या। ३९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

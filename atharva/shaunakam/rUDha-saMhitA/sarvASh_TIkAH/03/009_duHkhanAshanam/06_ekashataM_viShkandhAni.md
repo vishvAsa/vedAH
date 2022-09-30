@@ -29,7 +29,7 @@ One and one hundred over earth are the Vishkandhas spread abroad. Before these h
 
 <details><summary>पदपाठः</summary>
 
-एकऽशतम्। विऽस्कन्धानि। विऽस्थिता। पृथिवीम्। अनु। तेषाम्। त्वाम्। अग्रे। उत्। जहरुः। मणिम्। विस्कन्धऽदूषणम्। ९.६।
+एक॑ऽशतम्। विऽस्क॑न्धानि। विऽस्थि॑ता। पृ॒थि॒वीम्। अनु॑। तेषा॑म्। त्वाम्। अग्रे॑। उत्। ज॒ह॒रु॒ः। म॒णिम्। वि॒स्क॒न्ध॒ऽदूष॑णम्। ९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

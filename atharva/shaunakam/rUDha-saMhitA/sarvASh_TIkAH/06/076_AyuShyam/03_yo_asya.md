@@ -22,7 +22,7 @@ The man who knows his fuel laid in order by the Kshatriya Sets not his foot upon
 
 <details><summary>पदपाठः</summary>
 
-यः। अस्य। सम्ऽइधम्। वेद। क्षत्रियेण। सम्ऽआहिताम्। न। अभिऽह्वारे। पदम्। नि। दधाति। सः। मृत्यवे। ७६.३।
+यः। अ॒स्य॒। स॒म्ऽइध॑म्। वेद॑। क्ष॒त्रिये॑ण। स॒म्ऽआहि॑ताम्। न। अ॒भि॒ऽह्वा॒रे। प॒दम्। नि। द॒धा॒ति॒। सः। मृ॒त्यवे॑। ७६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

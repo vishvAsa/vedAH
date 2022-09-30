@@ -27,7 +27,7 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 
 <details><summary>पदपाठः</summary>
 
-अघऽद्विष्टा। देवऽजाता। वीरुत्। शपथऽयोपनी। आपः। मलम्ऽइव। प्र। अनैक्षीत्। सर्वान्। मत्। शपथान्। अधि। ७.१।
+अ॒घऽद्वि॑ष्टा। दे॒वऽजा॑ता। वी॒रुत्। श॒प॒थ॒ऽयोप॑नी। आप॑ः। मल॑म्ऽइव। प्र। अ॒नै॒क्षी॒त्। सर्वा॑न्। मत्। श॒पथा॑न्। अधि॑। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

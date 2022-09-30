@@ -25,7 +25,7 @@ Here, even here, spread sheltering arms like the two bow-ends strained with cord
 
 <details><summary>पदपाठः</summary>
 
-इह। एव। अभि। वि। तनु। उभे इति। आलीं इवेत्यार्लीऽइव। ज्यया। वाचः। पतिः। नि। यच्छतु। मयि। एव। अस्तु। मयि। श्रुतम्।
+इ॒ह। ए॒व। अ॒भि। वि। त॒नु॒। उ॒भे इति॑। आलीं॑ इ॒वेत्यार्ली॑ऽइव। ज्यया॑। वा॒चः। पति॑ः। नि। य॒च्छ॒तु॒। मयि॑। ए॒व। अ॒स्तु॒। मयि॑। श्रु॒तम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
