@@ -19,7 +19,7 @@ Bereft of life and poison they lie slain by bolt-armed Indra's hand. Indra and w
 
 <details><summary>पदपाठः</summary>
 
-न॒ष्टऽअ॑सवः। न॒ष्टऽवि॑षाः। ह॒ताः। इन्द्रे॑ण। व॒ज्रिणा॑। ज॒घान॑। इन्द्र॑ः। ज॒घ्नि॒म। व॒यम्। ४.१२। 
+न॒ष्टऽअ॑सवः। न॒ष्टऽवि॑षाः। ह॒ताः। इन्द्रे॑ण। व॒ज्रिणा॑। ज॒घान॑। इन्द्रः॑। ज॒घ्नि॒म। व॒यम्। ४.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

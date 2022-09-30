@@ -10,7 +10,7 @@ Quickly and willingly like kine forth come the singers and their hymns: Their li
 
 <details><summary>पदपाठः</summary>
 
-प्र। रे॒भास॑ः। मनी॒षाः। वृषा॒ः। गाव॑ःऽइव। ईरते। अ॒मो॒त॒। पु॒त्र॑काः। ए॒षाम्। अ॒मोत॑। गा॒ःऽइव। आ॑सते। १२७.५। 
+प्र। रे॒भासः॑। मनी॒षाः। वृषाः॒। गावः॑ऽइव। ईरते। अ॒मो॒त॒। पु॒त्र॑काः। ए॒षाम्। अ॒मोत॑। गाः॒ऽइव। आ॑सते। १२७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

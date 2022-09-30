@@ -10,7 +10,7 @@ Drink our libation, Lord of hymns: with streams of meath thou art bedewed: Our g
 
 <details><summary>पदपाठः</summary>
 
-गिर्व॑णः। पा॒हि। न॒ः। सु॒तम्। मधो॑ः। धारा॑भिः। अ॒ज्य॒से॒। इन्द्र॑। त्वाऽदा॑तम्। इत्। यश॑ः। ६.६। 
+गिर्व॑णः। पा॒हि। नः॒। सु॒तम्। मधोः॑। धारा॑भिः। अ॒ज्य॒से॒। इन्द्र॑। त्वाऽदा॑तम्। इत्। यशः॑। ६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

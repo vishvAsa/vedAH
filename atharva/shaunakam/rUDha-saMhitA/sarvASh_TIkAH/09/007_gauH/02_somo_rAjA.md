@@ -21,7 +21,7 @@ King Soma is the brain, Sky is the upper jaw, Earth is the lower jaw.
 
 <details><summary>पदपाठः</summary>
 
-सोम॑ः। राजा॑। म॒स्तिष्क॑ः। द्यौः। उ॒त्त॒र॒ऽह॒नुः। पृ॒थि॒वी। अ॒ध॒र॒ऽह॒नुः। १२.२। 
+सोमः॑। राजा॑। म॒स्तिष्कः॑। द्यौः। उ॒त्त॒र॒ऽह॒नुः। पृ॒थि॒वी। अ॒ध॒र॒ऽह॒नुः। १२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

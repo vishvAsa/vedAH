@@ -10,7 +10,7 @@ Come, we have pressed the juice for thee. O Indra, drink the Soma here. Sit thou
 
 <details><summary>पदपाठः</summary>
 
-आ। या॒हि॒। सु॒सु॒म। हि। ते॒। इन्द्र॑। सोम॑म्। पिब॑। इ॒मम्। आ। इ॒दम्। ब॒र्हिः। स॒द॒ः। मम॑। ३८.१। 
+आ। या॒हि॒। सु॒सु॒म। हि। ते॒। इन्द्र॑। सोम॑म्। पिब॑। इ॒मम्। आ। इ॒दम्। ब॒र्हिः। स॒दः॒। मम॑। ३८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

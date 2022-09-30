@@ -10,7 +10,7 @@ Three adders, breathing angrily, are blowing loud the threatening horn. (with pr
 
 <details><summary>पदपाठः</summary>
 
-शृङ्ग॑म्। ध॒मन्त॑ः। आसते। १२९.१०। 
+शृङ्ग॑म्। ध॒मन्तः॑। आसते। १२९.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

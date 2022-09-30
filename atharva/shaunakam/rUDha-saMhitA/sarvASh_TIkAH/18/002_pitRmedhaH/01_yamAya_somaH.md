@@ -28,7 +28,7 @@ For Yama Soma juice flows clear, to Yama is oblation paid. To Yama sacrifice pre
 
 <details><summary>पदपाठः</summary>
 
-य॒माय॑। सोम॑ः। प॒व॒ते॒। य॒माय॑। क्रि॒य॒ते॒। ह॒विः। य॒मम्। ह॒। य॒ज्ञः। ग॒च्छ॒ति॒। अ॒ग्निऽदू॑तः। अर॑म्ऽकृतः। २.१। 
+य॒माय॑। सोमः॑। प॒व॒ते॒। य॒माय॑। क्रि॒य॒ते॒। ह॒विः। य॒मम्। ह॒। य॒ज्ञः। ग॒च्छ॒ति॒। अ॒ग्निऽदू॑तः। अर॑म्ऽकृतः। २.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

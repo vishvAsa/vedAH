@@ -10,7 +10,7 @@ May he stand by us in our need and in abundance for our wealth: With riches may 
 
 <details><summary>पदपाठः</summary>
 
-सः। घ॒। न॒ः। योगे॑। आ। भु॒व॒त्। सः। रा॒ये। सः। पुर॑म्ऽध्याम्। गम॑त्। वाजे॑भिः। आ। सः। न॒ः। ६९.१। 
+सः। घ॒। नः॒। योगे॑। आ। भु॒व॒त्। सः। रा॒ये। सः। पुर॑म्ऽध्याम्। गम॑त्। वाजे॑भिः। आ। सः। नः॒। ६९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

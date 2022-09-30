@@ -22,7 +22,7 @@ His herald rays are seen afar refulgent o'er the world of men, Like flames of fi
 
 <details><summary>पदपाठः</summary>
 
-अदृ॑श्रन्। अ॒स्य॒। के॒तव॑ः। वि। र॒श्मय॑ः। जना॑न्। अनु॑। भ्राज॑न्तः। अ॒ग्नय॑ः। य॒था॒। २.१८। 
+अदृ॑श्रन्। अ॒स्य॒। के॒तवः॑। वि। र॒श्मयः॑। जना॑न्। अनु॑। भ्राज॑न्तः। अ॒ग्नयः॑। य॒था॒। २.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

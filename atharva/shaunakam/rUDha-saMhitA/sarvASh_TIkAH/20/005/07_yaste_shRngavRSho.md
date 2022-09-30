@@ -10,7 +10,7 @@ To Kundapayya, grandson's son, grandson of Sringavrish, to thee, To him have I a
 
 <details><summary>पदपाठः</summary>
 
-यः। ते॒। शृ॒ङ्ग॒ऽवृ॒ष॒ः। न॒पा॒त्। प्रन॑पा॒दिति॒ प्रऽन॑पात्। कु॒ण्ड॒ऽपाय्य॑ः। नि। अ॒स्मि॒न्। द॒ध्रे॒। आ। मन॑ः। ५.७। 
+यः। ते॒। शृ॒ङ्ग॒ऽवृ॒षः॒। न॒पा॒त्। प्रन॑पा॒दिति॒ प्रऽन॑पात्। कु॒ण्ड॒ऽपाय्यः॑। नि। अ॒स्मि॒न्। द॒ध्रे॒। आ। मनः॑। ५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

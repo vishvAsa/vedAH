@@ -21,7 +21,7 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 
 <details><summary>पदपाठः</summary>
 
-सू॒रिः। अ॒सि॒। व॒र्च॒ःऽधाः। अ॒सि॒। त॒नू॒ऽपान॑ः। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.४। 
+सू॒रिः। अ॒सि॒। व॒र्चः॒ऽधाः। अ॒सि॒। त॒नू॒ऽपानः॑। अ॒सि॒। आ॒प्नु॒हि। श्रेयां॑सम्। अति॑। स॒मम्। क्रा॒म॒। ११.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

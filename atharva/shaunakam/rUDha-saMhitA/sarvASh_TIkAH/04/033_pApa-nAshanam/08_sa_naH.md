@@ -22,7 +22,7 @@ As in a ship across the flood, transport us to felicity. His lustre flash our pa
 
 <details><summary>पदपाठः</summary>
 
-सः। न॒ः। सिन्धु॑म्ऽइव। ना॒वा। अति॑। प॒र्ष॒। स्व॒स्तये॑। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.८। 
+सः। नः॒। सिन्धु॑म्ऽइव। ना॒वा। अति॑। प॒र्ष॒। स्व॒स्तये॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

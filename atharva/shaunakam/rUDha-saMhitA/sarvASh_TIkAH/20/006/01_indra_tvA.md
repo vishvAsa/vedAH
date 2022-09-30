@@ -10,7 +10,7 @@ Thee, Indra, we invoke, the Bull, what time the Soma is ex- pressed. So drink th
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। त्वा॒। वृ॒ष॒भम्। व॒यम्। सु॒ते। सोमे॑। ह॒वा॒म॒हे॒। सः। पा॒हि॒। मध्व॑ः। अन्ध॑सः। ६.१। 
+इन्द्र॑। त्वा॒। वृ॒ष॒भम्। व॒यम्। सु॒ते। सोमे॑। ह॒वा॒म॒हे॒। सः। पा॒हि॒। मध्वः॑। अन्ध॑सः। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

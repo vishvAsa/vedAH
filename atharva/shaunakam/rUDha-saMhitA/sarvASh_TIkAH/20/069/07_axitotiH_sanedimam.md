@@ -10,7 +10,7 @@ Indra, whose succour never fails, accept this treasure thousand- fold, Wherein a
 
 <details><summary>पदपाठः</summary>
 
-अक्षि॑तऽऊतिः। स॒ने॒त्। इ॒मम्। वाज॑म्। इन्द्र॑ः। म॒ह॒स्रिण॑म्। यस्मि॑न्। विश्वा॑नि। पौंस्या॑। ६९.७। 
+अक्षि॑तऽऊतिः। स॒ने॒त्। इ॒मम्। वाज॑म्। इन्द्रः॑। म॒ह॒स्रिण॑म्। यस्मि॑न्। विश्वा॑नि। पौंस्या॑। ६९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 
 <details><summary>पदपाठः</summary>
 
-यन्ति॑। अ॒स्य॒। आ॒ऽमन्त्र॑णम्। आ॒ऽम॒न्त्र॒णीय॑ः। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.१३। 
+यन्ति॑। अ॒स्य॒। आ॒ऽमन्त्र॑णम्। आ॒ऽम॒न्त्र॒णीयः॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 
 <details><summary>पदपाठः</summary>
 
-आशा॑नाम्। आ॒शा॒ऽपा॒लेभ्य॑ः। च॒तुःऽभ्य॑ः। अ॒मृते॑भ्यः। इ॒दम्। भू॒तस्य॑। अधि॑ऽअक्षेभ्यः। वि॒धेम॑। ह॒विषा॑। व॒यम्। 
+आशा॑नाम्। आ॒शा॒ऽपा॒लेभ्यः॑। च॒तुःऽभ्यः॑। अ॒मृते॑भ्यः। इ॒दम्। भू॒तस्य॑। अधि॑ऽअक्षेभ्यः। वि॒धेम॑। ह॒विषा॑। व॒यम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

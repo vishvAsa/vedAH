@@ -10,7 +10,7 @@ And two hides of an elephant.
 
 <details><summary>पदपाठः</summary>
 
-दौव॑। ह॒स्तिन॑ः। दृ॒ती। १३१.२०। 
+दौव॑। ह॒स्तिनः॑। दृ॒ती। १३१.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Let him, O Yama, go to those Rishis austere, of Fervour born, Skilled in a thous
 
 <details><summary>पदपाठः</summary>
 
-स॒हस्र॑ऽनीथाः। क॒वय॑ः। ये। गो॒पा॒यन्ति॑। सूर्य॑म्। ऋषी॑न्। तप॑स्वतः। य॒म॒। त॒प॒ःऽजान्। अपि॑। ग॒च्छ॒ता॒त्। २.१८। 
+स॒हस्र॑ऽनीथाः। क॒वयः॑। ये। गो॒पा॒यन्ति॑। सूर्य॑म्। ऋषी॑न्। तप॑स्वतः। य॒म॒। त॒पः॒ऽजान्। अपि॑। ग॒च्छ॒ता॒त्। २.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

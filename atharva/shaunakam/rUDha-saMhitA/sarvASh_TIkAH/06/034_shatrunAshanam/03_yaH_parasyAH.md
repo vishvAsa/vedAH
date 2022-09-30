@@ -20,7 +20,7 @@ He who from distance far remote shineth across the tracts of land, May he transp
 
 <details><summary>पदपाठः</summary>
 
-यः। पर॑स्याः। प॒रा॒ऽवत॑ः। ति॒रः। धन्व॑। अ॒ति॒ऽरोच॑ते। सः। न॒ः। प॒र्ष॒त्। अति॑। द्विष॑ः। ३४.३। 
+यः। पर॑स्याः। प॒रा॒ऽवतः॑। ति॒रः। धन्व॑। अ॒ति॒ऽरोच॑ते। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -18,7 +18,7 @@ Hail to the Fathers who inhabit earth!
 
 <details><summary>पदपाठः</summary>
 
-स्व॒धा। पि॒तृऽभ्य॑ः। पृ॒थि॒वि॒सत्ऽभ्य॑ः। ४.७८। 
+स्व॒धा। पि॒तृऽभ्यः॑। पृ॒थि॒वि॒सत्ऽभ्यः॑। ४.७८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

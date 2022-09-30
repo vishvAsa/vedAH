@@ -10,7 +10,7 @@ With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy
 
 <details><summary>पदपाठः</summary>
 
-रे॒वती॑ः। न॒ः। स॒ध॒ऽमादे॑। इन्द्रे॑। स॒न्तु॒। तु॒विऽवा॑जाः। क्षु॒ऽमन्त॑ः। याभि॑ः। मदे॑म। १२२.१। 
+रे॒वतीः॑। नः॒। स॒ध॒ऽमादे॑। इन्द्रे॑। स॒न्तु॒। तु॒विऽवा॑जाः। क्षु॒ऽमन्तः॑। याभिः॑। मदे॑म। १२२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

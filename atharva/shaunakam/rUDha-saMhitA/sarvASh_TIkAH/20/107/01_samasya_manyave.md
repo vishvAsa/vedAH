@@ -10,7 +10,7 @@ Before his hot displeasure all the peoples, all the men bow down, As rivers bend
 
 <details><summary>पदपाठः</summary>
 
-सम्। अ॒स्य॒। म॒न्यवे॑। विश॑ः। विश्वा॑ः। न॒म॒न्त॒। कृ॒ष्टय॑ः। स॒मु॒द्राय॑ऽइव। सिन्ध॑वः। १०७.१। 
+सम्। अ॒स्य॒। म॒न्यवे॑। विशः॑। विश्वाः॑। न॒म॒न्त॒। कृ॒ष्टयः॑। स॒मु॒द्राय॑ऽइव। सिन्ध॑वः। १०७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

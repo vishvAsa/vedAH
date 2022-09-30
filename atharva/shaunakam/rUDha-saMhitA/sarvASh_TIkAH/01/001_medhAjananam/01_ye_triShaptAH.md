@@ -49,7 +49,7 @@ Now may Vachaspati assign to me the strength and powers of Those Who, wearing ev
 
 <details><summary>पदपाठः</summary>
 
-ये। त्रि॒ऽस॒प्ताः। प॒रि॒ऽयन्ति॑। विश्वा॑। रू॒पाणि॑। बिभ्र॑तः। वा॒चः। पति॑ः। वला॑। तेषा॑म्। त॒न्वः। अ॒द्य। द॒धा॒तु॒। मे॒। 
+ये। त्रि॒ऽस॒प्ताः। प॒रि॒ऽयन्ति॑। विश्वा॑। रू॒पाणि॑। बिभ्र॑तः। वा॒चः। पतिः॑। वला॑। तेषा॑म्। त॒न्वः। अ॒द्य। द॒धा॒तु॒। मे॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

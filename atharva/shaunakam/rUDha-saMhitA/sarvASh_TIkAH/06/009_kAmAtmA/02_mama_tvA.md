@@ -23,7 +23,7 @@ I make thee hang upon mine arm, I make thee lie upon my heart. Thou yieldest to 
 
 <details><summary>पदपाठः</summary>
 
-मम॑। त्वा॒। दो॒ष॒णि॒ऽश्रिष॑म्। कृ॒णोमि॑। हृ॒द॒य॒ऽश्रिष॑म्। यथा॑। मम॑। क्रतौ॑। अस॑ः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ९.२। 
+मम॑। त्वा॒। दो॒ष॒णि॒ऽश्रिष॑म्। कृ॒णोमि॑। हृ॒द॒य॒ऽश्रिष॑म्। यथा॑। मम॑। क्रतौ॑। असः॑। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। ९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Go to the wise unconquered One, ask thou of Indra, skilled in song, Him who is b
 
 <details><summary>पदपाठः</summary>
 
-परा॑। इ॒हि॒। विग्र॑म्। अस्तृ॑तम्। इन्द्र॑म्। पृ॒च्छ॒। वि॒प॒ःऽचित॑म्। यः। ते॒। सखि॑ऽभ्यः। आ। वर॑म्। ६८.४। 
+परा॑। इ॒हि॒। विग्र॑म्। अस्तृ॑तम्। इन्द्र॑म्। पृ॒च्छ॒। वि॒पः॒ऽचित॑म्। यः। ते॒। सखि॑ऽभ्यः। आ। वर॑म्। ६८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

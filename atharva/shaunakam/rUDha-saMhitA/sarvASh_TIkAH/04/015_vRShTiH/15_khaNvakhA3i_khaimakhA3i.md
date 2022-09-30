@@ -48,7 +48,7 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 
 <details><summary>पदपाठः</summary>
 
-खण्व॒खा३इ॑। खैम॒खा३इ॑। मध्ये॑। त॒दु॒रि॒। व॒र्षम्। व॒नु॒ध्व॒म्। पि॒त॒र॒ः। म॒रुता॑म्। मन॑ः। इ॒च्छ॒त॒। १५.१५। 
+खण्व॒खा३इ॑। खैम॒खा३इ॑। मध्ये॑। त॒दु॒रि॒। व॒र्षम्। व॒नु॒ध्व॒म्। पि॒त॒रः॒। म॒रुता॑म्। मनः॑। इ॒च्छ॒त॒। १५.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

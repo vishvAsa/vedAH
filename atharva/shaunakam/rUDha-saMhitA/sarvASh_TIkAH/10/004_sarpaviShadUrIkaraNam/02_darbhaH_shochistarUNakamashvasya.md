@@ -25,7 +25,7 @@ horse's tail: the reed's plume is their chariot seat.
 
 <details><summary>पदपाठः</summary>
 
-द॒र्भः। शो॒चिः। त॒रूण॑कम्। अश्व॑स्य। वार॑ः। प॒रु॒षस्य॑। वार॑ः। रथ॑स्य। बन्धु॑रम्। ४.२। 
+द॒र्भः। शो॒चिः। त॒रूण॑कम्। अश्व॑स्य। वारः॑। प॒रु॒षस्य॑। वारः॑। रथ॑स्य। बन्धु॑रम्। ४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

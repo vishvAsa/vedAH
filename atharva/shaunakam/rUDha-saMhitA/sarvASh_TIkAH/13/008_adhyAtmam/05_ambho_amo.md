@@ -24,7 +24,7 @@ same curtailed way until vs. 54, which is filled out to the end.
 
 <details><summary>पदपाठः</summary>
 
-अम्भ॑ः। अम॑ः। मह॑ः। सह॑ः। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ८.५। 
+अम्भः॑। अमः॑। महः॑। सहः॑। इति॑। त्वा॒। उप॑। आ॒स्म॒हे॒। व॒यम्। ८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

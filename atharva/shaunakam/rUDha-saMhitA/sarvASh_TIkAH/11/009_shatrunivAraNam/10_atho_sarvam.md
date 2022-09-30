@@ -20,7 +20,7 @@ Then let each greedy beast of prey, and fly and worm regale itself Upon the huma
 
 <details><summary>पदपाठः</summary>
 
-अथो॒ इति॑। सर्व॑म्। श्वाप॑दम्। मक्षि॑का। तृ॒प्य॒तु॒। क्रिमि॑ः। पौरु॑षेये। अधि॑। कुण॑पे। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। ११.१०। 
+अथो॒ इति॑। सर्व॑म्। श्वाप॑दम्। मक्षि॑का। तृ॒प्य॒तु॒। क्रिमिः॑। पौरु॑षेये। अधि॑। कुण॑पे। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। ११.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

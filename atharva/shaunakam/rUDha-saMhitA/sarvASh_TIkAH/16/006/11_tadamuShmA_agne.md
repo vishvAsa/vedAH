@@ -39,7 +39,7 @@ This, O Agni, let the Gods bear off to Such-an-one that he may be a fragile good
 
 <details><summary>पदपाठः</summary>
 
-तत्। अ॒मुष्मै॑। अ॒ग्ने॒। दे॒वाः। परा॑। व॒ह॒न्तु॒। वध्रि॑ः। यथा॑। अस॑त्। विथु॑रः। न। सा॒धुः। ६.११। 
+तत्। अ॒मुष्मै॑। अ॒ग्ने॒। दे॒वाः। परा॑। व॒ह॒न्तु॒। वध्रिः॑। यथा॑। अस॑त्। विथु॑रः। न। सा॒धुः। ६.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

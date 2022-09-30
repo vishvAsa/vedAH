@@ -10,7 +10,7 @@ Swift and all-beautiful art thou, O Surya, maker of the light. Illuming all the 
 
 <details><summary>पदपाठः</summary>
 
-त॒रणि॑ः। वि॒श्वऽद॑र्शतः। ज्यो॒ति॒ःऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। ४७.१६। 
+त॒रणिः॑। वि॒श्वऽद॑र्शतः। ज्यो॒तिः॒ऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। ४७.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

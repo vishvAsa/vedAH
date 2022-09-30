@@ -18,7 +18,7 @@ Now this Earth is Brihaspati, and Heaven is Indra.
 
 <details><summary>पदपाठः</summary>
 
-इ॒यम्। वै। ऊं॒ इति॑। पृ॒थि॒वी। बृह॒स्पति॑। द्यौः। ए॒व। इन्द्र॑ः। १०.६। 
+इ॒यम्। वै। ऊं॒ इति॑। पृ॒थि॒वी। बृह॒स्पति॑। द्यौः। ए॒व। इन्द्रः॑। १०.६। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

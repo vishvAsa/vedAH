@@ -24,7 +24,7 @@ When I have paid obeisance to Fever I send him downward forth. So let Sakambhara
 
 <details><summary>पदपाठः</summary>
 
-अ॒ध॒राञ्च॑म्। प्र। हि॒नो॒मि॒। नम॑ः। कृ॒त्वा। त॒क्मने॑। श॒क॒म्ऽभ॒रस्य॑। मु॒ष्टि॒ऽहा। पुन॑ः। ए॒तु॒। म॒हा॒ऽवृ॒षान्। २२.४। 
+अ॒ध॒राञ्च॑म्। प्र। हि॒नो॒मि॒। नमः॑। कृ॒त्वा। त॒क्मने॑। श॒क॒म्ऽभ॒रस्य॑। मु॒ष्टि॒ऽहा। पुनः॑। ए॒तु॒। म॒हा॒ऽवृ॒षान्। २२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

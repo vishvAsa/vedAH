@@ -10,7 +10,7 @@ Come from this place, O wanderer, or downward from the light of heaven! Our song
 
 <details><summary>पदपाठः</summary>
 
-अत॑ः। प॒रि॒ऽज्म॒न्। आ। ग॒हि॒। दि॒वः। वा॒। रो॒च॒नात्। अधि॑। सम्। अ॒स्मि॒न्। ऋ॒ञ्ज॒ते॒। गिर॑ः। ७०.५। 
+अतः॑। प॒रि॒ऽज्म॒न्। आ। ग॒हि॒। दि॒वः। वा॒। रो॒च॒नात्। अधि॑। सम्। अ॒स्मि॒न्। ऋ॒ञ्ज॒ते॒। गिरः॑। ७०.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

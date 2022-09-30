@@ -29,7 +29,7 @@ gāyatrī; 25. 1-p. āsurī gāyatrī; 26. ārcy anuṣṭubh; 27, 28. prājāpa
 
 <details><summary>पदपाठः</summary>
 
-सर्वे॑। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृत॑ः। भ॒व॒न्ति॒। ५.८। 
+सर्वे॑। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृतः॑। भ॒व॒न्ति॒। ५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

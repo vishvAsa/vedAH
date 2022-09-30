@@ -25,7 +25,7 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। रस॑ः। प्र॒थ॒म॒ऽजः। अथो॒ इति॑। वन॒स्पती॑नाम्। उ॒त। सोम॑स्य। भ्राता॑। अ॒सि॒। उ॒त। आ॒र्शम्। अ॒सि॒। वृष्ण्य॑म्। ४.५। 
+अ॒पाम्। रसः॑। प्र॒थ॒म॒ऽजः। अथो॒ इति॑। वन॒स्पती॑नाम्। उ॒त। सोम॑स्य। भ्राता॑। अ॒सि॒। उ॒त। आ॒र्शम्। अ॒सि॒। वृष्ण्य॑म्। ४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

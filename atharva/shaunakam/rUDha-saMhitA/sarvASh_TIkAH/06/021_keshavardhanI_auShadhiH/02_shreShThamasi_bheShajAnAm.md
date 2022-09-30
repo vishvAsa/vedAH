@@ -24,7 +24,7 @@ Thou art the best of medicines, most excellent of Plants art thou, As Soma 'mid 
 
 <details><summary>पदपाठः</summary>
 
-श्रेष्ठ॑म्। अ॒सि॒। भे॒ष॒जाना॑म्। वसि॑ष्ठम्। वीरु॑धानाम्। सोम॑ः। भग॑ःऽइव। यामे॑षु। दे॒वेषु॑। वरु॑णः। यथा॑। २१.२। 
+श्रेष्ठ॑म्। अ॒सि॒। भे॒ष॒जाना॑म्। वसि॑ष्ठम्। वीरु॑धानाम्। सोमः॑। भगः॑ऽइव। यामे॑षु। दे॒वेषु॑। वरु॑णः। यथा॑। २१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

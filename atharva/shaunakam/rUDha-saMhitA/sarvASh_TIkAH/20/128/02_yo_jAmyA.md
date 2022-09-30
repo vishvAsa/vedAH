@@ -10,7 +10,7 @@ He who defiles a sister, he who willingly would harm a friend, The fool who slig
 
 <details><summary>पदपाठः</summary>
 
-यः। जा॒म्या। अप्र॑थय॒ः। तत्। यत्। सखा॑य॒म्। दुधू॑र्षति। ज्येष्ठ॒ः। यत्। अ॑प्रचेता॒ः। तत्। आ॑हुः। अध॑रा॒क्। इति॑। १२८.२। 
+यः। जा॒म्या। अप्र॑थयः॒। तत्। यत्। सखा॑य॒म्। दुधू॑र्षति। ज्येष्ठः॒। यत्। अ॑प्रचेताः॒। तत्। आ॑हुः। अध॑रा॒क्। इति॑। १२८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

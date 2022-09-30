@@ -21,7 +21,7 @@ The Lord of Dawn in accord with the Lord of Speech and the Lord of Speech in acc
 
 <details><summary>पदपाठः</summary>
 
-उ॒षः। पति॑ः। वा॒चः। पति॑ना। स॒म्ऽवि॒दा॒नः। वा॒चः। पति॑ः। उ॒षः। पति॑ना। स॒म्ऽवि॒दा॒नः। ६.६। 
+उ॒षः। पतिः॑। वा॒चः। पति॑ना। स॒म्ऽवि॒दा॒नः। वा॒चः। पतिः॑। उ॒षः। पति॑ना। स॒म्ऽवि॒दा॒नः। ६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

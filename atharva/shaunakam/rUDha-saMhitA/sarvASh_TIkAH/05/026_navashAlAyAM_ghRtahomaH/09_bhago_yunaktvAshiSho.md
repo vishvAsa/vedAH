@@ -21,7 +21,7 @@ Let Bhaga in this rite use prayers, foreknowing--All hail! for this use well-yok
 
 <details><summary>पदपाठः</summary>
 
-भग॑ः। यु॒न॒क्तु॒। आ॒ऽशिष॑ः। नु। अ॒स्मै। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुज॑ः। स्वाहा॑। २६.९। 
+भगः॑। यु॒न॒क्तु॒। आ॒ऽशिषः॑। नु। अ॒स्मै। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

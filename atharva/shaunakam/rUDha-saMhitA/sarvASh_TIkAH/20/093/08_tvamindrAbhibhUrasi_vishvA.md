@@ -10,7 +10,7 @@ Thou, Indra, art pre-eminent over all creatures in thy strength: Thou hast perva
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। इ॒न्द्र॒। अ॒भि॒ऽभूः। अ॒सि॒। विश्वा॑। जा॒तानि॑। ओज॑सा। सः। विश्वा॑ः। भुव॑ः। आ। अ॒भ॒व॒ः। ९३.८। 
+त्वम्। इ॒न्द्र॒। अ॒भि॒ऽभूः। अ॒सि॒। विश्वा॑। जा॒तानि॑। ओज॑सा। सः। विश्वाः॑। भुवः॑। आ। अ॒भ॒वः॒। ९३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

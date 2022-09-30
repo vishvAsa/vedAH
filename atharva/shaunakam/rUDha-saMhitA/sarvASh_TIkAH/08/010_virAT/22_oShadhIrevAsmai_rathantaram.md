@@ -27,7 +27,7 @@ She rose, approached the Asuras: they called her: their cry was, Come, O Maya, c
 
 <details><summary>पदपाठः</summary>
 
-ओष॑धीः। ए॒व। अ॒स्मै॒। र॒थ॒मऽत॒रम्। दु॒हे॒। व्यच॑ः। बृ॒हत्। ११.९। 
+ओष॑धीः। ए॒व। अ॒स्मै॒। र॒थ॒मऽत॒रम्। दु॒हे॒। व्यचः॑। बृ॒हत्। ११.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

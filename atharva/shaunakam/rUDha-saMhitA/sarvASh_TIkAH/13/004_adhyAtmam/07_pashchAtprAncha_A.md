@@ -19,7 +19,7 @@ From west to east they bend their way: when he mounts up he shines afar.
 
 <details><summary>पदपाठः</summary>
 
-प॒श्चात्। प्राञ्च॑ः। आ। त॒न्व॒न्ति॒। यत्। उ॒त्ऽएति॑। वि। भा॒स॒ति॒। ४.७। 
+प॒श्चात्। प्राञ्चः॑। आ। त॒न्व॒न्ति॒। यत्। उ॒त्ऽएति॑। वि। भा॒स॒ति॒। ४.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

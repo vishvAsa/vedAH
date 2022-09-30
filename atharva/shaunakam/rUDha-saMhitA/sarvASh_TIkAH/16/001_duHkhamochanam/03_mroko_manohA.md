@@ -26,7 +26,7 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 
 <details><summary>पदपाठः</summary>
 
-म्रो॒कः। म॒न॒ःऽहा। ख॒नः। नि॒ःऽदा॒हः। आ॒त्म॒ऽदूषि॑ः। त॒नू॒ऽदूषि॑ः। १.३। 
+म्रो॒कः। म॒नः॒ऽहा। ख॒नः। निः॒ऽदा॒हः। आ॒त्म॒ऽदूषिः॑। त॒नू॒ऽदूषिः॑। १.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

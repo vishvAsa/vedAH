@@ -19,7 +19,7 @@ Along their paths the Mothers go, sisters of priestly ministrants, Blending thei
 
 <details><summary>पदपाठः</summary>
 
-अ॒म्वयः॑। य॒न्ति॒। अध्व॑ऽभिः। जा॒मयः॑। अ॒ध्व॒रि॒ऽय॒ताम्। पृ॒ञ्च॒तीः। मधु॑ना। पय॑ः। 
+अ॒म्वयः॑। य॒न्ति॒। अध्व॑ऽभिः। जा॒मयः॑। अ॒ध्व॒रि॒ऽय॒ताम्। पृ॒ञ्च॒तीः। मधु॑ना। पयः॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

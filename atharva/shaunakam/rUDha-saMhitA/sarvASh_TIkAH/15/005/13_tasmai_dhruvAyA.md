@@ -16,7 +16,7 @@ They made Rudra the Archer his deliverer from the intermediate space of the regi
 
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। ध्रु॒वाया॑ः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। रु॒द्रम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१०। 
+तस्मै॑। ध्रु॒वायाः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। रु॒द्रम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Our hymns caress the Lord of Strength, vast, drinker of the Soma's juice, Indra,
 
 <details><summary>पदपाठः</summary>
 
-म॒तय॑ः। सो॒म॒ऽपाम्। उ॒रुम्। रि॒हन्ति॑। शव॑सः। पति॑म्। इन्द्र॑म्। व॒त्सम्। न। मा॒तर॑ः। २३.५। 
+म॒तयः॑। सो॒म॒ऽपाम्। उ॒रुम्। रि॒हन्ति॑। शव॑सः। पति॑म्। इन्द्र॑म्। व॒त्सम्। न। मा॒तरः॑। २३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

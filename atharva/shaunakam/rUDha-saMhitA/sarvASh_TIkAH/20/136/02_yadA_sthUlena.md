@@ -10,7 +10,7 @@ Quum magno pene parvula ejus pudenda vir percutit, huc et illuc ilia increscunt 
 
 <details><summary>पदपाठः</summary>
 
-यदा॑। स्थू॒लेन॒। पय॑सा। अणो। मु॒ष्कौ। उप॑। अ॒व॒धी॒त्। विष्व॑ञ्चा। व॒स्या। वर्धत॒ः। सिक॑तासु। ए॒व। गर्द॑भौ। १३६.२। 
+यदा॑। स्थू॒लेन॒। पय॑सा। अणो। मु॒ष्कौ। उप॑। अ॒व॒धी॒त्। विष्व॑ञ्चा। व॒स्या। वर्धतः॒। सिक॑तासु। ए॒व। गर्द॑भौ। १३६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ So shall it be with the Kshatriya who takes to himself the cow of the Braman who
 
 <details><summary>पदपाठः</summary>
 
-यः। ए॒वम्। वि॒दुष॑ः। ब्रा॒ह्म॒णस्य॑। क्ष॒त्रिय॑ः। गाम्। आ॒ऽद॒त्ते। ९.८। 
+यः। ए॒वम्। वि॒दुषः॑। ब्रा॒ह्म॒णस्य॑। क्ष॒त्रियः॑। गाम्। आ॒ऽद॒त्ते। ९.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

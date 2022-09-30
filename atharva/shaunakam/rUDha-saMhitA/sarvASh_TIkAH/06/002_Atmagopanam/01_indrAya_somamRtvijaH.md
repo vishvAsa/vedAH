@@ -26,7 +26,7 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रा॑य। सोम॑म्। ऋ॒त्वि॒ज॒ः। सु॒नोत॑। आ। च॒। धा॒व॒त॒। स्तो॒तुः। यः। वच॑ः। शृ॒णव॑त्। हव॑म्। च॒। मे॒। २.१। 
+इन्द्रा॑य। सोम॑म्। ऋ॒त्वि॒जः॒। सु॒नोत॑। आ। च॒। धा॒व॒त॒। स्तो॒तुः। यः। वचः॑। शृ॒णव॑त्। हव॑म्। च॒। मे॒। २.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

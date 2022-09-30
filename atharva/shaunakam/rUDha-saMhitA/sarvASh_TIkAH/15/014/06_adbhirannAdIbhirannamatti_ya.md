@@ -16,7 +16,7 @@ He who hath this knowledge eats food with the Waters as food-eaters.
 
 <details><summary>पदपाठः</summary>
 
-अ॒त्ऽभिः। अ॒न्न॒ऽअ॒दीभि॑ः। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.६। 
+अ॒त्ऽभिः। अ॒न्न॒ऽअ॒दीभिः॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

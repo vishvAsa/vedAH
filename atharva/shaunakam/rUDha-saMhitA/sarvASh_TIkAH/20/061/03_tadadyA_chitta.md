@@ -10,7 +10,7 @@ This day to singers of the hymn praise, as of old, this, might of thine. Win tho
 
 <details><summary>पदपाठः</summary>
 
-तत्। अ॒द्य। चि॒त्। ते॒। उ॒क्थिन॑ः। अनु॑। स्तु॒व॒न्ति॒। पू॒र्वऽथा॑। वृष॑ऽपत्नी। अ॒पः। ज॒य॒। दि॒वेऽदि॑वे। ६१.३। 
+तत्। अ॒द्य। चि॒त्। ते॒। उ॒क्थिनः॑। अनु॑। स्तु॒व॒न्ति॒। पू॒र्वऽथा॑। वृष॑ऽपत्नी। अ॒पः। ज॒य॒। दि॒वेऽदि॑वे। ६१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

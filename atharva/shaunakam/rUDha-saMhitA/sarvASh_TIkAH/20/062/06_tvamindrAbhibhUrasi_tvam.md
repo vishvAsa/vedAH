@@ -10,7 +10,7 @@ Thou, Indra, art preeminent: thou gavest splendour to the Sun. Maker of all thin
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। इ॒न्द्र॒। अ॒भि॒ऽभूः। अ॒सि॒। त्वम्। सूर्य॑म्। अ॒रो॒च॒य॒ः। वि॒श्वऽक॑र्मा। वि॒श्वऽदे॑वः। म॒हान्। अ॒सि॒। ६२.६। 
+त्वम्। इ॒न्द्र॒। अ॒भि॒ऽभूः। अ॒सि॒। त्वम्। सूर्य॑म्। अ॒रो॒च॒यः॒। वि॒श्वऽक॑र्मा। वि॒श्वऽदे॑वः। म॒हान्। अ॒सि॒। ६२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

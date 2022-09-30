@@ -10,7 +10,7 @@ Our priest is seated true to time; the grass is regularly strewn; The pressing-s
 
 <details><summary>पदपाठः</summary>
 
-स॒त्तः। होता॑। न॒ः। ऋ॒त्विय॑ः। ति॒स्ति॒रे। ब॒र्हिः। आ॒नु॒षक्। अयु॑ज्रन्। प्रा॒तः। अद्र॑यः। २३.२। 
+स॒त्तः। होता॑। नः॒। ऋ॒त्वियः॑। ति॒स्ति॒रे। ब॒र्हिः। आ॒नु॒षक्। अयु॑ज्रन्। प्रा॒तः। अद्र॑यः। २३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

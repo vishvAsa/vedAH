@@ -24,7 +24,7 @@ The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pre
 
 <details><summary>पदपाठः</summary>
 
-शूर्प॑म्। प॒वित्र॑म्। तुषा॑ः। ऋ॒जी॒षाः। अ॒भि॒ऽसव॑नीः। आप॑ः। ६.१६। 
+शूर्प॑म्। प॒वित्र॑म्। तुषाः॑। ऋ॒जी॒षाः। अ॒भि॒ऽसव॑नीः। आपः॑। ६.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ To Indra sing a Saman, sing to the high Sage a lofty song, To him who keeps the 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रा॑य। साम॑। गा॒य॒त॒। विप्रा॑य। बृ॒ह॒ते। बृ॒हत्। ध॒र्म॒ऽकृते॑। वि॒प॒ःऽचिते॑। प॒न॒स्यवे॑। ६२.५। 
+इन्द्रा॑य। साम॑। गा॒य॒त॒। विप्रा॑य। बृ॒ह॒ते। बृ॒हत्। ध॒र्म॒ऽकृते॑। वि॒पः॒ऽचिते॑। प॒न॒स्यवे॑। ६२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

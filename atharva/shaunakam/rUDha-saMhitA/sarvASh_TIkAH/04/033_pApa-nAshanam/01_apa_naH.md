@@ -24,7 +24,7 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 
 <details><summary>पदपाठः</summary>
 
-अप॑। न॒ः। शोशु॑चत्। अ॒घम्। अग्ने॑। शु॒शु॒ग्धि। आ। र॒यिम्। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.१। 
+अप॑। नः॒। शोशु॑चत्। अ॒घम्। अग्ने॑। शु॒शु॒ग्धि। आ। र॒यिम्। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

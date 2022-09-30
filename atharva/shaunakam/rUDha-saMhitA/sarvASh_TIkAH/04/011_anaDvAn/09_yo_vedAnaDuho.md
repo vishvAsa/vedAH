@@ -28,7 +28,7 @@ He whosoever knows the seven exhaustless pourings of the Ox, Wins himself offspr
 
 <details><summary>पदपाठः</summary>
 
-यः। वेद॑। अ॒न॒डुह॑ः। दोहा॑न्। स॒प्त। अनु॑पऽदस्वतः। प्र॒ऽजाम्। च॒। लो॒कम्। च॒। आ॒प्नो॒ति॒। तथा॑। स॒प्त॒ऽऋ॒षय॑ः। ११.९। 
+यः। वेद॑। अ॒न॒डुहः॑। दोहा॑न्। स॒प्त। अनु॑पऽदस्वतः। प्र॒ऽजाम्। च॒। लो॒कम्। च॒। आ॒प्नो॒ति॒। तथा॑। स॒प्त॒ऽऋ॒षयः॑। ११.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

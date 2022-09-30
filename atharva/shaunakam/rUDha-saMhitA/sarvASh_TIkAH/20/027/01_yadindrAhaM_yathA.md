@@ -10,7 +10,7 @@ If I, O Indra, were, like thee, the single sovran of all wealth. My worshipper s
 
 <details><summary>पदपाठः</summary>
 
-यत्। इ॒न्द्र॒। अ॒हम्। यथा॑। त्वम्। ईशीय॑। वस्व॑ः। इत्। स्तो॒ता। मे॒। गोऽस॑खा। स्या॒त्। २७.१। 
+यत्। इ॒न्द्र॒। अ॒हम्। यथा॑। त्वम्। ईशीय॑। वस्वः॑। इत्। स्तो॒ता। मे॒। गोऽस॑खा। स्या॒त्। २७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

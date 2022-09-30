@@ -10,7 +10,7 @@ When the priests, strengthening the Son of holy Law, present their gifts, Singer
 
 <details><summary>पदपाठः</summary>
 
-प्र॒ऽजाम्। ऋ॒तस्य॑। पिप्र॑तः। प्र। यत्। भर॑न्त। वह्न॑यः। विप्रा॑ः। ऋ॒तस्य॑। वाह॑सा। १३८.२। 
+प्र॒ऽजाम्। ऋ॒तस्य॑। पिप्र॑तः। प्र। यत्। भर॑न्त। वह्न॑यः। विप्राः॑। ऋ॒तस्य॑। वाह॑सा। १३८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

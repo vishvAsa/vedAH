@@ -10,7 +10,7 @@ For so thou art the hero's Friend, a Warrior too art thou, and strong: So may th
 
 <details><summary>पदपाठः</summary>
 
-ए॒व। हि। असि॑। वी॒र॒ऽयुः। ए॒व। शूर॑ः। उ॒त। स्थि॒रः। ए॒व। ते॒। राध्य॑म्। मन॑ः। ६०.१। 
+ए॒व। हि। असि॑। वी॒र॒ऽयुः। ए॒व। शूरः॑। उ॒त। स्थि॒रः। ए॒व। ते॒। राध्य॑म्। मनः॑। ६०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

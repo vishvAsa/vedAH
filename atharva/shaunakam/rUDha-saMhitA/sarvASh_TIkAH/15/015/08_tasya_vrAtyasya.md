@@ -18,7 +18,7 @@ His sixth vital breath, called Dear, are these domestic animals.
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। ष॒ष्ठः। प्रा॒णः। प्रि॒यः। नाम॑। ते। इ॒मे। प॒शव॑ः। १५.८। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। ष॒ष्ठः। प्रा॒णः। प्रि॒यः। नाम॑। ते। इ॒मे। प॒शवः॑। १५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

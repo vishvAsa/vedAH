@@ -27,7 +27,7 @@ He rises up to heaven, ascends to younder third celestial height. Whoever gives 
 
 <details><summary>पदपाठः</summary>
 
-सः। स्व॒ःऽगम्। आ। रो॒ह॒ति॒। यत्र॑। अ॒दः। त्रि॒ऽदि॒वम्। दि॒वः। अ॒पू॒पऽना॑भिम्। कृ॒त्वा। यः। ददा॑ति। श॒तऽओ॑दनाम्। ९.५। 
+सः। स्वः॒ऽगम्। आ। रो॒ह॒ति॒। यत्र॑। अ॒दः। त्रि॒ऽदि॒वम्। दि॒वः। अ॒पू॒पऽना॑भिम्। कृ॒त्वा। यः। ददा॑ति। श॒तऽओ॑दनाम्। ९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

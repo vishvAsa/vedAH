@@ -31,7 +31,7 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। रू॒राय॑। च्यव॑नाय। नोद॑नाय। धृ॒ष्णवे॑। नम॑ः। शी॒ताय॑। पू॒र्व॒का॒म॒ऽकृत्व॑ने। १२१.१। 
+नमः॑। रू॒राय॑। च्यव॑नाय। नोद॑नाय। धृ॒ष्णवे॑। नमः॑। शी॒ताय॑। पू॒र्व॒का॒म॒ऽकृत्व॑ने। १२१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

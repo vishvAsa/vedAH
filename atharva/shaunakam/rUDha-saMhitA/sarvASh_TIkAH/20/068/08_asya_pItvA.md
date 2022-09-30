@@ -10,7 +10,7 @@ Thou, Satakratu, drankest this and wast the Vritras' slayer; thou. Helpest the w
 
 <details><summary>पदपाठः</summary>
 
-अ॒स्य॒। पी॒त्वा। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। घ॒नः। वृ॒त्राणा॑म्। अ॒भ॒व॒ः। प्र। आ॒व॒ः। वाजे॑षु। वा॒ज‍िन॑म्। ६८.८। 
+अ॒स्य॒। पी॒त्वा। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। घ॒नः। वृ॒त्राणा॑म्। अ॒भ॒वः॒। प्र। आ॒वः॒। वाजे॑षु। वा॒ज‍िन॑म्। ६८.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

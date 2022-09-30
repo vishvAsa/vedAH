@@ -10,7 +10,7 @@ the Wind God hath a hundred reins.
 
 <details><summary>पदपाठः</summary>
 
-श॒तम्। वा॒। भार॑ती॒। शव॑ः। १३१.४। 
+श॒तम्। वा॒। भार॑ती॒। शवः॑। १३१.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

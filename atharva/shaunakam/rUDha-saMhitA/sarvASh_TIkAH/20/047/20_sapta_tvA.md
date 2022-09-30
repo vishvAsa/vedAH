@@ -10,7 +10,7 @@ Seven bay steeds, harnessed to thy car, bear thee, O.thou far- seeing One, God, 
 
 <details><summary>पदपाठः</summary>
 
-स॒प्त। त्वा॒। ह॒रित॑ः। रथे॑। वह॑न्ति। दे॒व॒। सू॒र्य॒। शो॒चिःऽके॑शम्। वि॒ऽच॒क्ष॒णम्। ४७.२०। 
+स॒प्त। त्वा॒। ह॒रितः॑। रथे॑। वह॑न्ति। दे॒व॒। सू॒र्य॒। शो॒चिःऽके॑शम्। वि॒ऽच॒क्ष॒णम्। ४७.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

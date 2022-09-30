@@ -10,7 +10,7 @@ O Indra, Lord of Hundred Powers, may those who praise thee hitherward. Direct th
 
 <details><summary>पदपाठः</summary>
 
-अ॒र्वा॒चीन॑म्। सु। ते॒। मन॑ः। उ॒त। चक्षु॑ः। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। इन्द्र॑। कृ॒ण्वन्तु॑। वा॒घत॑ः। १९.२। 
+अ॒र्वा॒चीन॑म्। सु। ते॒। मनः॑। उ॒त। चक्षुः॑। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। इन्द्र॑। कृ॒ण्वन्तु॑। वा॒घतः॑। १९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,7 @@ May these preserve him for thee. Here I offer t o these the molten butter as obl
 
 <details><summary>पदपाठः</summary>
 
-ताः। ते॒। र॒क्ष॒न्तु॒। तव॑। तुभ्य॑म्। ए॒तम्। ताभ्य॑ः। आज्य॑म्। ह॒विः। इ॒दम्। जु॒हो॒मि॒। ५.३८। 
+ताः। ते॒। र॒क्ष॒न्तु॒। तव॑। तुभ्य॑म्। ए॒तम्। ताभ्यः॑। आज्य॑म्। ह॒विः। इ॒दम्। जु॒हो॒मि॒। ५.३८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

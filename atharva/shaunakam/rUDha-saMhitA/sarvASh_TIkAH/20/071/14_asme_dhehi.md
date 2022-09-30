@@ -10,7 +10,7 @@ Grant us high fame, O Indra, grant riches bestowing thousands, those Fair fruits
 
 <details><summary>पदपाठः</summary>
 
-अ॒स्मे इति॑। धे॒हि॒। श्रव॑ः। बृ॒हत्। द्यु॒म्नम्। स॒ह॒स्र॒ऽसात॑मम्। इन्द्र॑। ताः। र॒थिनी॑ः। इष॑ः। ७१.१४। 
+अ॒स्मे इति॑। धे॒हि॒। श्रवः॑। बृ॒हत्। द्यु॒म्नम्। स॒ह॒स्र॒ऽसात॑मम्। इन्द्र॑। ताः। र॒थिनीः॑। इषः॑। ७१.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Come, Indra, to this gladdening drink, placed on the grass, pressed out with sto
 
 <details><summary>पदपाठः</summary>
 
-तम्। इ॒न्द्र॒। मद॑म्। आ। ग॒हि॒। ब॒र्हि॒ःऽस्थाम्। ग्राव॑ऽभिः। सु॒तम्। कु॒वित्। नु। अ॒स्य। तृ॒प्णव॑ः। २४.२। 
+तम्। इ॒न्द्र॒। मद॑म्। आ। ग॒हि॒। ब॒र्हिः॒ऽस्थाम्। ग्राव॑ऽभिः। सु॒तम्। कु॒वित्। नु। अ॒स्य। तृ॒प्णवः॑। २४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

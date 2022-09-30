@@ -20,7 +20,7 @@ To misty cloud filled with his rays Mahendra goes encompassed round,
 
 <details><summary>पदपाठः</summary>
 
-र॒श्मिऽभि॑ः। नभ॑ः। आऽभृ॑तम्। म॒हा॒ऽइ॒न्द्रः। ए॒ति॒। आऽवृ॑तः। ४.९। 
+र॒श्मिऽभिः॑। नभः॑। आऽभृ॑तम्। म॒हा॒ऽइ॒न्द्रः। ए॒ति॒। आऽवृ॑तः। ४.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

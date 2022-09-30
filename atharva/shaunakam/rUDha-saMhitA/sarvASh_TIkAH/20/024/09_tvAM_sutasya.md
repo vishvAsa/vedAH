@@ -10,7 +10,7 @@ We call on thee, the Ancient One, Indra, to drink the Soma juice, We Kusikas who
 
 <details><summary>पदपाठः</summary>
 
-त्वाम्। सु॒तस्य॑। पी॒तये॑। प्र॒त्नम्। इ॒न्द्र॒। ह॒वा॒म॒हे॒। कु॒शि॒कास॑ः। अ॒व॒स्यव॑ः। २४.९। 
+त्वाम्। सु॒तस्य॑। पी॒तये॑। प्र॒त्नम्। इ॒न्द्र॒। ह॒वा॒म॒हे॒। कु॒शि॒कासः॑। अ॒व॒स्यवः॑। २४.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

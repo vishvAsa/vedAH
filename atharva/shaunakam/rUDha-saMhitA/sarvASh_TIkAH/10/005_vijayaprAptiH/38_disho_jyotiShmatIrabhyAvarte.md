@@ -22,7 +22,7 @@ I turn me to the regions bright with splendour. May they bestow upon me wealth a
 
 <details><summary>पदपाठः</summary>
 
-दिश॑ः। ज्योति॑ष्मतीः। अ॒भि॒ऽआव॑र्ते। ताः। मे॒। द्रवि॑णम्। य॒च्छ॒न्तु॒। ताः। मे॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सम्। ५.३८। 
+दिशः॑। ज्योति॑ष्मतीः। अ॒भि॒ऽआव॑र्ते। ताः। मे॒। द्रवि॑णम्। य॒च्छ॒न्तु॒। ताः। मे॒। ब्रा॒ह्म॒ण॒ऽव॒र्च॒सम्। ५.३८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

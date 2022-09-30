@@ -35,7 +35,7 @@ Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him 
 
 <details><summary>पदपाठः</summary>
 
-स्यो॒ना। अ॒स्मै॒। भ॒व॒। पृ॒थि॒वि॒। अ॒नृ॒क्ष॒रा। नि॒ऽविश॑नी। यच्छ॑। अ॒स्मै॒। शर्म॑। स॒ऽप्रथा॑ः। २.१९। 
+स्यो॒ना। अ॒स्मै॒। भ॒व॒। पृ॒थि॒वि॒। अ॒नृ॒क्ष॒रा। नि॒ऽविश॑नी। यच्छ॑। अ॒स्मै॒। शर्म॑। स॒ऽप्रथाः॑। २.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

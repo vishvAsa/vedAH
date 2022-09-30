@@ -22,7 +22,7 @@ As honey-bees collect and add fresh honey to their honey store, Even so may both
 
 <details><summary>पदपाठः</summary>
 
-यथा॑। मधु॑। म॒धु॒ऽकृत॑ः। स॒म्ऽभर॑न्ति। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्च॑ः। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१६। 
+यथा॑। मधु॑। म॒धु॒ऽकृतः॑। स॒म्ऽभर॑न्ति। मधौ॑। अधि॑। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

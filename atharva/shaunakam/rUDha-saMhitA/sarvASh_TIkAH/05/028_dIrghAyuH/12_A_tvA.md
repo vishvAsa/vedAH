@@ -23,7 +23,7 @@ Aryaman be thy binder-on, and Pushan and Brihaspati: Whatever name the brood of 
 
 <details><summary>पदपाठः</summary>
 
-आ। त्वा॒। चृ॒त॒तु॒। अ॒र्य॒मा। आ। पू॒षा। आ। बृह॒स्पति॑ः। अह॑ःऽजातस्य। यत्। नाम॑। तेन॑। त्वा॒। अति॑। घृ॒ता॒म॒सि॒। २८.१२। 
+आ। त्वा॒। चृ॒त॒तु॒। अ॒र्य॒मा। आ। पू॒षा। आ। बृह॒स्पतिः॑। अहः॑ऽजातस्य। यत्। नाम॑। तेन॑। त्वा॒। अति॑। घृ॒ता॒म॒सि॒। २८.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

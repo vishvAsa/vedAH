@@ -24,7 +24,7 @@ Bhava and Sarva cast the flash of lightning, the weapon of the Gods, against the
 
 <details><summary>पदपाठः</summary>
 
-भ॒वा॒श॒र्वौ। अ॒स्य॒ता॒म्। पा॒प॒ऽकृते॑। कृ॒त्या॒ऽकृते॑। दु॒ःऽकृते॑। वि॒ऽद्युत॑म्। दे॒व॒ऽहे॒तिम्। १.२३। 
+भ॒वा॒श॒र्वौ। अ॒स्य॒ता॒म्। पा॒प॒ऽकृते॑। कृ॒त्या॒ऽकृते॑। दुः॒ऽकृते॑। वि॒ऽद्युत॑म्। दे॒व॒ऽहे॒तिम्। १.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

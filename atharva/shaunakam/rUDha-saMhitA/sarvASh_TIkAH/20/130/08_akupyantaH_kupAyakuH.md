@@ -10,7 +10,7 @@ The patient ones are angry now.
 
 <details><summary>पदपाठः</summary>
 
-अकु॑प्यन्त॒ः। कुपा॑यकुः। १३०.८। 
+अकु॑प्यन्तः॒। कुपा॑यकुः। १३०.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

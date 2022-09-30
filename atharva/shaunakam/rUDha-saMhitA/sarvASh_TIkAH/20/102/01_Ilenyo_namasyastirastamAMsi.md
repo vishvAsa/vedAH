@@ -10,7 +10,7 @@ Meet to be lauded and adored, showing in beauty through the= dark, Agni the Bull
 
 <details><summary>पदपाठः</summary>
 
-ई॒लेन्य॑ः। न॒म॒स्य॑ः। ति॒रः। तमां॑सि। द॒र्श॒तः। सम्। अ॒ग्निः। इ॒ध्य॒ते॒। वृषा॑। १०२.१। 
+ई॒लेन्यः॑। न॒म॒स्यः॑। ति॒रः। तमां॑सि। द॒र्श॒तः। सम्। अ॒ग्निः। इ॒ध्य॒ते॒। वृषा॑। १०२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

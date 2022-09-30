@@ -19,7 +19,7 @@ His fifth vital breath, called Source, are these Waters.
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। प्रा॒णः। योनि॑ः। नाम॑। ताः। इ॒माः। आप॑ः। १५.७। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। प्रा॒णः। योनिः॑। नाम॑। ताः। इ॒माः। आपः॑। १५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

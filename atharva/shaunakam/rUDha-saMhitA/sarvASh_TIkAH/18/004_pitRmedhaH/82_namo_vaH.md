@@ -19,7 +19,7 @@ Hail Father; to your wrath! Hail, Fathers, to your ardour!
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। व॒ः। पि॒त॒र॒ः। भामा॑य। नम॑ः। व॒ः। पि॒त॒र॒ः। म॒न्यवे॑। ४.८२। 
+नमः॑। वः॒। पि॒त॒रः॒। भामा॑य। नमः॑। वः॒। पि॒त॒रः॒। म॒न्यवे॑। ४.८२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

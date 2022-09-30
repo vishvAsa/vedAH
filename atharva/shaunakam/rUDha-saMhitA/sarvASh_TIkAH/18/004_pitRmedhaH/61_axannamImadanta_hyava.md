@@ -41,7 +41,7 @@ Well have they eaten and rejoiced: their dear ones have they shaken off. Sages, 
 
 <details><summary>पदपाठः</summary>
 
-अक्ष॑न्। अमी॑मदन्त। हि। अव॑। प्रि॒यान्। अ॒धू॒ष॒त॒। अस्तो॑षत। स्वऽभा॑नवः। विप्रा॑ः। यवि॑ष्ठाः। ई॒म॒हे॒। ४.६१। 
+अक्ष॑न्। अमी॑मदन्त। हि। अव॑। प्रि॒यान्। अ॒धू॒ष॒त॒। अस्तो॑षत। स्वऽभा॑नवः। विप्राः॑। यवि॑ष्ठाः। ई॒म॒हे॒। ४.६१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

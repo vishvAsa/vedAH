@@ -10,7 +10,7 @@ A hundred chains of gold, ten wreaths, upon thee Rishi he bestowed, And thrice-a
 
 <details><summary>पदपाठः</summary>
 
-ए॒षः। इ॒षाय॑। मामहे। श॒तम्। नि॒ष्कान्। दश॒। स्रज॑ः। त्रीणि॑। श॒तानि॑। अर्व॑तान्। स॒हस्रा॒। दश॒। गोना॑म्। १२७.३। 
+ए॒षः। इ॒षाय॑। मामहे। श॒तम्। नि॒ष्कान्। दश॒। स्रजः॑। त्रीणि॑। श॒तानि॑। अर्व॑तान्। स॒हस्रा॒। दश॒। गोना॑म्। १२७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

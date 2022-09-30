@@ -22,7 +22,7 @@ We loosen here the ties and bands of straw in bundles, and of clamps, Of all tha
 
 <details><summary>पदपाठः</summary>
 
-स॒म्ऽदं॒शाना॑म्। प॒ल॒दाना॑म्। परि॑ऽस्वञ्जल्यस्य। च॒। इ॒दम्। मान॑स्य। पत्न्या॑ः। न॒ध्दानि॑। वि। चृ॒ता॒म॒सि॒। ३.५। 
+स॒म्ऽदं॒शाना॑म्। प॒ल॒दाना॑म्। परि॑ऽस्वञ्जल्यस्य। च॒। इ॒दम्। मान॑स्य। पत्न्याः॑। न॒ध्दानि॑। वि। चृ॒ता॒म॒सि॒। ३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ The rain-cloud is her fat, her resting-place her marrow.
 
 <details><summary>पदपाठः</summary>
 
-अ॒भ्रम्। पीब॑ः। म॒ज्जा। नि॒ऽधन॑म्। १२.१८। 
+अ॒भ्रम्। पीबः॑। म॒ज्जा। नि॒ऽधन॑म्। १२.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

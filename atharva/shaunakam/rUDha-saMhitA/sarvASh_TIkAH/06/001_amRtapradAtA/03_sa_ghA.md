@@ -33,7 +33,7 @@ Savitar our God shall send us many everlasting treasures, that both paths may we
 
 <details><summary>पदपाठः</summary>
 
-सः। घ॒। न॒ः। दे॒वः। स॒वि॒ता। सा॒वि॒ष॒त्। अ॒मृता॑नि। भूरि॑। उ॒भे इति॑। सु॒स्तु॒ती इति॑ सु॒ऽस्तु॒ती। सु॒ऽगात॑वे। १.३। 
+सः। घ॒। नः॒। दे॒वः। स॒वि॒ता। सा॒वि॒ष॒त्। अ॒मृता॑नि। भूरि॑। उ॒भे इति॑। सु॒स्तु॒ती इति॑ सु॒ऽस्तु॒ती। सु॒ऽगात॑वे। १.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ As at the morning sacrifice the Asvins twain love Soma well, Even so may both th
 
 <details><summary>पदपाठः</summary>
 
-यथा॑। सोम॑ः। प्रा॒त॒ःऽस॒व॒ने। अश्विनो॑ः। भव॑ति। प्रि॒यः। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्च॑ः। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.११। 
+यथा॑। सोमः॑। प्रा॒तः॒ऽस॒व॒ने। अश्विनोः॑। भव॑ति। प्रि॒यः। ए॒व। मे॒। अ॒श्वि॒ना॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

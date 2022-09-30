@@ -10,7 +10,7 @@ Whose hero powers are measureless, whose bounty ne'er may be surpassed, Whose li
 
 <details><summary>पदपाठः</summary>
 
-यस्य॑। अमि॑तानि। वी॒र्या। न। राध॑ः। परि॑ऽएतवे। ज्योति॑ः। न। विश्व॑म्। अ॒भि। अस्ति॑। दक्षि॑णा। ६५.३। 
+यस्य॑। अमि॑तानि। वी॒र्या। न। राधः॑। परि॑ऽएतवे। ज्योतिः॑। न। विश्व॑म्। अ॒भि। अस्ति॑। दक्षि॑णा। ६५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

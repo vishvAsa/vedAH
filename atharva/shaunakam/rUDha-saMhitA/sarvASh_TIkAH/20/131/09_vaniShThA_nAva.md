@@ -10,7 +10,7 @@ The ladle doth not hold apart
 
 <details><summary>पदपाठः</summary>
 
-वनि॑ष्ठा॒ः। न। अव॑। गृ॒ह्यन्‍त‍ि॑। १३१.९। 
+वनि॑ष्ठाः॒। न। अव॑। गृ॒ह्यन्‍त‍ि॑। १३१.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

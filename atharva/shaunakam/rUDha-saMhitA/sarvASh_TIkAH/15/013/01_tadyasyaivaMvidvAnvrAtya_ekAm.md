@@ -24,7 +24,7 @@ He in whose house the Vratya who possesses this knowledge abides one night secur
 
 <details><summary>पदपाठः</summary>
 
-तत्। यस्य॑। ए॒वम्। वि॒द्वान्। व्रात्य॑ः। एका॑म्। रात्रि॑म्। अति॑थिः। गृ॒हे। वस॑ति। १३.१। 
+तत्। यस्य॑। ए॒वम्। वि॒द्वान्। व्रात्यः॑। एका॑म्। रात्रि॑म्। अति॑थिः। गृ॒हे। वस॑ति। १३.१। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

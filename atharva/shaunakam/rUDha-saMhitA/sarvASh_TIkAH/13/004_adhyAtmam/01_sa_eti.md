@@ -19,7 +19,7 @@ Down looking, on the ridge of sky Savitar goes to highest heaven.
 
 <details><summary>पदपाठः</summary>
 
-सः। ए॒ति॒। स॒वि॒ता। स्व᳡ः। दि॒वः। पृ॒ष्ठे। अ॒व॒ऽचाक॑शत्। ४.१। 
+सः। ए॒ति॒। स॒वि॒ता। स्वः᳡। दि॒वः। पृ॒ष्ठे। अ॒व॒ऽचाक॑शत्। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

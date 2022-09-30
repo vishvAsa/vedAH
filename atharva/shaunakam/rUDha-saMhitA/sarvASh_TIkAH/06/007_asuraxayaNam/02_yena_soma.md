@@ -32,7 +32,7 @@ change of number ⌊in the verb⌋ from **a, b** to **c**; emendation to
 
 <details><summary>पदपाठः</summary>
 
-येन॑। सो॒म॒। सा॒ह॒न्त्य॒। असु॑रान्। र॒न्धया॑सि। न॒ः। तेन॑। न॒ः। अधि॑। वो॒च॒त॒। ७.२। 
+येन॑। सो॒म॒। सा॒ह॒न्त्य॒। असु॑रान्। र॒न्धया॑सि। नः॒। तेन॑। नः॒। अधि॑। वो॒च॒त॒। ७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

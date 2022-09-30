@@ -10,7 +10,7 @@ When, Asvins worthy of our lauds, ye seat you in the father's house. With wisdom
 
 <details><summary>पदपाठः</summary>
 
-यत्। नू॒नम्। धी॒भिः। अ॒श्वि॒ना॒। पि॒तुः। योना॑। नि॒ऽसीद॑थः। यत्। वा॒। सु॒म्नेभि॑ः। उ॒क्थ्या॒। १४२.६। 
+यत्। नू॒नम्। धी॒भिः। अ॒श्वि॒ना॒। पि॒तुः। योना॑। नि॒ऽसीद॑थः। यत्। वा॒। सु॒म्नेभिः॑। उ॒क्थ्या॒। १४२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

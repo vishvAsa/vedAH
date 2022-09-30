@@ -10,7 +10,7 @@ Agni is kindled as a Bull, like a horse bearer of the Gods; Men with oblations w
 
 <details><summary>पदपाठः</summary>
 
-वृषो॒ इति॑। अ॒ग्निः। सम्। इ॒ध्य॒ते॒। अश्व॑ः। न। दे॒व॒ऽवाह॑नः। तम्। ह॒विष्म॑न्तः। ई॒ल॒ते॒। १०२.२। 
+वृषो॒ इति॑। अ॒ग्निः। सम्। इ॒ध्य॒ते॒। अश्वः॑। न। दे॒व॒ऽवाह॑नः। तम्। ह॒विष्म॑न्तः। ई॒ल॒ते॒। १०२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

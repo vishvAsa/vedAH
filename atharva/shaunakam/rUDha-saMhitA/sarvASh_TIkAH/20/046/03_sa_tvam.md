@@ -10,7 +10,7 @@ As such, O Indra, honour us with wealth and treasure: further us, And lead us to
 
 <details><summary>पदपाठः</summary>
 
-सः। त्वम्। न॒ः। इ॒न्द्र॒। वाजे॑भिः। द॒श॒स्य। च॒। गा॒तु॒ऽया। च॒। अच्छ॑। च॒। न॒ः। सु॒म्नम्। ने॒षि॒। ४६.३। 
+सः। त्वम्। नः॒। इ॒न्द्र॒। वाजे॑भिः। द॒श॒स्य। च॒। गा॒तु॒ऽया। च॒। अच्छ॑। च॒। नः॒। सु॒म्नम्। ने॒षि॒। ४६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

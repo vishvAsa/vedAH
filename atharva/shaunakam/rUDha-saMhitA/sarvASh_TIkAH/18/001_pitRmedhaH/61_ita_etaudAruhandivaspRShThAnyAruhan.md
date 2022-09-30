@@ -42,7 +42,7 @@ He hath gone hence and risen on high mounting heaven's ridges by that path Where
 
 <details><summary>पदपाठः</summary>
 
-इ॒तः। ए॒ते। उत्। आ। अ॒रु॒ह॒न्। दि॒वः। पृ॒ष्ठानि॑। आ। अ॒रु॒ह॒न्। प्र। भू॒ःऽजय॑ः। यथा॑। पथा॑। द्याम्। अङ्गि॑रसः। य॒युः। १.६१। 
+इ॒तः। ए॒ते। उत्। आ। अ॒रु॒ह॒न्। दि॒वः। पृ॒ष्ठानि॑। आ। अ॒रु॒ह॒न्। प्र। भूः॒ऽजयः॑। यथा॑। पथा॑। द्याम्। अङ्गि॑रसः। य॒युः। १.६१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

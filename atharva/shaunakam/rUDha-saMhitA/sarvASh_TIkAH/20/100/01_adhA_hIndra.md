@@ -10,7 +10,7 @@ Now have we, Indra, Friend of Song, sent our great wishes forth to thee. Coming 
 
 <details><summary>पदपाठः</summary>
 
-अध॑। हि। इ॒न्द्र॒। गि॒र्व॒ण॒ः। उप॑। त्वा॒। कामा॑न्। म॒हः। स॒सृ॒ज्महे॑। उ॒दाऽइ॑व। यन्त॑ः। उ॒दऽभि॑ः। १००.१। 
+अध॑। हि। इ॒न्द्र॒। गि॒र्व॒णः॒। उप॑। त्वा॒। कामा॑न्। म॒हः। स॒सृ॒ज्महे॑। उ॒दाऽइ॑व। यन्तः॑। उ॒दऽभिः॑। १००.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

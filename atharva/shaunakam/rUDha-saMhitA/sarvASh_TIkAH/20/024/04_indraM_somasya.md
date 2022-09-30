@@ -10,7 +10,7 @@ Hither with songs of praise we call Indra to drink the Soma. juice: Will he not 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। सोम॑स्य। पी॒तये॑। स्तोमै॑ः। इ॒ह॒। ह॒वा॒म॒है॒। उ॒क्थेभि॑ः। कु॒वित्। आ॒ऽगम॑त्। २४.४। 
+इन्द्र॑म्। सोम॑स्य। पी॒तये॑। स्तोमैः॑। इ॒ह॒। ह॒वा॒म॒है॒। उ॒क्थेभिः॑। कु॒वित्। आ॒ऽगम॑त्। २४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

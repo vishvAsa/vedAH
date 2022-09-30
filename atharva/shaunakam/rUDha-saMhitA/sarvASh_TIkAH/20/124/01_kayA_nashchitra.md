@@ -10,7 +10,7 @@ With what help will he come to us, wonderful, ever-waxing Friend, With what most
 
 <details><summary>पदपाठः</summary>
 
-कया॑। न॒ः। चि॒त्रः। आ। भु॒व॒त्। ऊ॒ती। स॒दाऽवृ॑धः। सखा॑। कया॑। शचि॑ष्ठया। वृ॒ता। १२४.१। 
+कया॑। नः॒। चि॒त्रः। आ। भु॒व॒त्। ऊ॒ती। स॒दाऽवृ॑धः। सखा॑। कया॑। शचि॑ष्ठया। वृ॒ता। १२४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

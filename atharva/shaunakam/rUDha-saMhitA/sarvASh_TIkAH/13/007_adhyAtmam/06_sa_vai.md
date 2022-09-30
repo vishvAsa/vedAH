@@ -19,7 +19,7 @@ Here we are to make both elisions, in **a** and **b**.
 
 <details><summary>पदपाठः</summary>
 
-सः। वै। दि॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। दिश॑ः। अ॒जा॒य॒न्त॒। ७.६। 
+सः। वै। दि॒क्ऽभ्यः। अ॒जा॒य॒त॒। तस्मा॑त्। दिशः॑। अ॒जा॒य॒न्त॒। ७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

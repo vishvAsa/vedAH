@@ -21,7 +21,7 @@ Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! 
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। तस्मै॑। नम॑ः। दा॒त्रे। शाला॑ऽपतये। च॒। कृ॒ण्म॒ः। नम॑ः। अ॒ग्नये॑। प्र॒ऽचर॑ते। पुरु॑षाय। च॒। ते॒। नम॑ः। ३.१२। 
+नमः॑। तस्मै॑। नमः॑। दा॒त्रे। शाला॑ऽपतये। च॒। कृ॒ण्मः॒। नमः॑। अ॒ग्नये॑। प्र॒ऽचर॑ते। पुरु॑षाय। च॒। ते॒। नमः॑। ३.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

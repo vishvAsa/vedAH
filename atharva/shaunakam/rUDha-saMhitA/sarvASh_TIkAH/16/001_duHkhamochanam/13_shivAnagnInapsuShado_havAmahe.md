@@ -19,7 +19,7 @@ We call the gracious Fires that dwell in waters. Goddesses, grant me princely po
 
 <details><summary>पदपाठः</summary>
 
-शि॒वान्। अ॒ग्नीन्। अ॒प्सु॒ऽसद॑ः। ह॒वा॒म॒हे॒। मयि॑। क्ष॒त्रम्। वर्च॑ः। आ। ध॒त्त॒। दे॒वी॒ः। १.१३। 
+शि॒वान्। अ॒ग्नीन्। अ॒प्सु॒ऽसदः॑। ह॒वा॒म॒हे॒। मयि॑। क्ष॒त्रम्। वर्चः॑। आ। ध॒त्त॒। दे॒वीः॒। १.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

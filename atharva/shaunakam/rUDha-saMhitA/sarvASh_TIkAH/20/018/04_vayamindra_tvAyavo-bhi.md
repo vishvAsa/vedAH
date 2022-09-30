@@ -10,7 +10,7 @@ Faithful to thee we loudly sing, heroic Indra, songs to thee. Mark, gracious Lor
 
 <details><summary>पदपाठः</summary>
 
-व॒यम्। इ॒न्द्र॒। त्वा॒ऽयव॑ः। अ॒भि। प्र। नो॒नु॒म॒ः। वृ॒ष॒न्। वि॒द्धि। तु। अ॒स्य। न॒ः। व॒सो॒ इति॑। १८.४। 
+व॒यम्। इ॒न्द्र॒। त्वा॒ऽयवः॑। अ॒भि। प्र। नो॒नु॒मः॒। वृ॒ष॒न्। वि॒द्धि। तु। अ॒स्य। नः॒। व॒सो॒ इति॑। १८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

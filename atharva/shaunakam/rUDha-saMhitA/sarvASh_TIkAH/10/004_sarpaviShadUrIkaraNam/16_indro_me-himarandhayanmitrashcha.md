@@ -25,7 +25,7 @@ Indra, Mitra and Varuna, and Vata and Parjanya both have given the serpent up to
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। मे॒। अहि॑म्। अ॒र॒न्ध॒य॒त्। मि॒त्रः। च॒। वरु॑णः। च॒। वा॒ता॒प॒र्ज॒न्या᳡। उ॒भा। ४.१६। 
+इन्द्रः॑। मे॒। अहि॑म्। अ॒र॒न्ध॒य॒त्। मि॒त्रः। च॒। वरु॑णः। च॒। वा॒ता॒प॒र्ज॒न्या᳡। उ॒भा। ४.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

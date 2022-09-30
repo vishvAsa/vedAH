@@ -10,7 +10,7 @@ Who took the dark cow's milk away?
 
 <details><summary>पदपाठः</summary>
 
-कः। असि॒द्याः। पय॑ः। १३०.२। 
+कः। असि॒द्याः। पयः॑। १३०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

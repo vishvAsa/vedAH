@@ -31,7 +31,7 @@ Vihalha is thy father's name, thy mother's is Madavati. Yea, verily thou art not
 
 <details><summary>पदपाठः</summary>
 
-वि॒ऽहह्ल॑ः। नाम॑। ते॒। पि॒ता। म॒दऽव॑ती। नाम॑। ते॒। मा॒ता। सः। हि॒न॒। त्वम्। अ॒सि॒। यः। त्वम्। आ॒त्मान॑म्। आव॑यः। १६.२। 
+वि॒ऽहह्लः॑। नाम॑। ते॒। पि॒ता। म॒दऽव॑ती। नाम॑। ते॒। मा॒ता। सः। हि॒न॒। त्वम्। अ॒सि॒। यः। त्वम्। आ॒त्मान॑म्। आव॑यः। १६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ In concert may these creatures yield us blessings. With honey of discourse, O Ea
 
 <details><summary>पदपाठः</summary>
 
-ताः। न॒ः। प्र॒ऽजाः। सम्। दु॒ह्र॒ता॒म्। स॒म्ऽअ॒ग्राः। वा॒चः। मधु॑। पृ॒थि॒वि॒। धे॒हि॒। मह्य॑म्। १.१६। 
+ताः। नः॒। प्र॒ऽजाः। सम्। दु॒ह्र॒ता॒म्। स॒म्ऽअ॒ग्राः। वा॒चः। मधु॑। पृ॒थि॒वि॒। धे॒हि॒। मह्य॑म्। १.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred
 
 <details><summary>पदपाठः</summary>
 
-वि॒। चि॒त्। वृ॒त्रस्य॑। दोध॑तः। वज्रे॑णः। श॒तऽप॑र्वणा। शिर॑ः। बि॒भे॒द॒। वृ॒ष्णिना॑। १०७.३। 
+वि॒। चि॒त्। वृ॒त्रस्य॑। दोध॑तः। वज्रे॑णः। श॒तऽप॑र्वणा। शिरः॑। बि॒भे॒द॒। वृ॒ष्णिना॑। १०७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

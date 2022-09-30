@@ -25,7 +25,7 @@ We know thine origin, O Sleep. Thou art the son of Grahi, the minister of Yama. 
 
 <details><summary>पदपाठः</summary>
 
-वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। ग्राह्या॑ः। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.१। 
+वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। ग्राह्याः॑। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

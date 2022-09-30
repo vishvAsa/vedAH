@@ -51,7 +51,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 
 <details><summary>पदपाठः</summary>
 
-तस्या॑ः। वि॒ऽरोच॑नः। प्राह्रा॑दिः। व॒त्सः। आसी॑त्। अ॒य॒ःऽपा॒त्रम्। पात्र॑म्। १३.२। 
+तस्याः॑। वि॒ऽरोच॑नः। प्राह्रा॑दिः। व॒त्सः। आसी॑त्। अ॒यः॒ऽपा॒त्रम्। पात्र॑म्। १३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

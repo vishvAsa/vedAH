@@ -10,7 +10,7 @@ O Indra, lover of the song, may these quick Somas enter thee: May they bring bli
 
 <details><summary>पदपाठः</summary>
 
-आ। त्वा॒। वि॒श॒न्तु॒। आ॒शव॑ः। सोमा॑सः। इ॒न्द्र॒। गि॒र्व॒ण॒ः। शम्। ते॒। स॒न्तु॒। प्रऽचे॑तसे। ६९.५। 
+आ। त्वा॒। वि॒श॒न्तु॒। आ॒शवः॑। सोमा॑सः। इ॒न्द्र॒। गि॒र्व॒णः॒। शम्। ते॒। स॒न्तु॒। प्रऽचे॑तसे। ६९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

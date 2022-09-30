@@ -26,7 +26,7 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 
 <details><summary>पदपाठः</summary>
 
-इ॒तः। च॒। यत्। अ॒मुत॑ः। च॒। यत्। व॒धम्। व॒रु॒ण॒। य॒व॒य॒। वि। म॒हत्। शर्म॑। य॒च्छ॒। वरी॑यः। य॒व॒य॒। व॒धम्। 
+इ॒तः। च॒। यत्। अ॒मुतः॑। च॒। यत्। व॒धम्। व॒रु॒ण॒। य॒व॒य॒। वि। म॒हत्। शर्म॑। य॒च्छ॒। वरी॑यः। य॒व॒य॒। व॒धम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ He who with Soma juice prepared among the many harbours. thee, Verily Indra gain
 
 <details><summary>पदपाठः</summary>
 
-यः। चि॒त्। हि। त्वा॒। ब॒हुऽभ्य॑ः। आ। सु॒तऽवा॑न्। आ॒विवा॑सति। उ॒ग्रम्। तत्। प॒त्य॒ते॒। शव॑ः। इन्द्र॑ः। अ॒ङ्ग। ६३.६। 
+यः। चि॒त्। हि। त्वा॒। ब॒हुऽभ्यः॑। आ। सु॒तऽवा॑न्। आ॒विवा॑सति। उ॒ग्रम्। तत्। प॒त्य॒ते॒। शवः॑। इन्द्रः॑। अ॒ङ्ग। ६३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

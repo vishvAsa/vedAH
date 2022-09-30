@@ -19,7 +19,7 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 
 <details><summary>पदपाठः</summary>
 
-पि॒शा॒च॒ऽक्षय॑णम्। अ॒सि॒। पि॒शा॒च॒ऽचात॑नम्। मे॒। दा॒ः। स्वाहा॑। १८.४। 
+पि॒शा॒च॒ऽक्षय॑णम्। अ॒सि॒। पि॒शा॒च॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

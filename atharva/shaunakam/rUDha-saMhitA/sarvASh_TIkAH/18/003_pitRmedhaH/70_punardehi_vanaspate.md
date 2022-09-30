@@ -27,7 +27,7 @@ O Tree, give back again this man who is deposited on thee. That he may dwell in 
 
 <details><summary>पदपाठः</summary>
 
-पुन॑ः। दे॒हि॒। व॒न॒स्प॒ते॒। यः। ए॒षः। निऽहि॑तः। त्वयि॑। यथा॑। य॒मस्य॑। सद॑ने। आसा॑तै। वि॒दथा॑। वद॑न्। ३.७०। 
+पुनः॑। दे॒हि॒। व॒न॒स्प॒ते॒। यः। ए॒षः। निऽहि॑तः। त्वयि॑। यथा॑। य॒मस्य॑। सद॑ने। आसा॑तै। वि॒दथा॑। वद॑न्। ३.७०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

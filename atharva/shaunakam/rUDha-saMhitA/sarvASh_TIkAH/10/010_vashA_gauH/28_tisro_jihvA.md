@@ -22,7 +22,7 @@ Within the mouth of Varuna three tongues are glittering with light. That which s
 
 <details><summary>पदपाठः</summary>
 
-ति॒स्रः। जि॒ह्वाः। वरु॑णस्य। अ॒न्तः। दी॒द्य॒ति॒। आ॒सनि॑। तासा॑म्। या। मध्ये॑। राज॑ति। सा। व॒शा। दु॒ःऽप्र॒ति॒ग्रहा॑। १०.२८। 
+ति॒स्रः। जि॒ह्वाः। वरु॑णस्य। अ॒न्तः। दी॒द्य॒ति॒। आ॒सनि॑। तासा॑म्। या। मध्ये॑। राज॑ति। सा। व॒शा। दुः॒ऽप्र॒ति॒ग्रहा॑। १०.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

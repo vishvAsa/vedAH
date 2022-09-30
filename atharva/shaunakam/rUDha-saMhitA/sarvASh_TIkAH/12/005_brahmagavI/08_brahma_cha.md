@@ -20,7 +20,7 @@ Devotion and princely sway, kingship and people, brilliance and honour, and sple
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्म॑। च॒। क्ष॒त्रम्। रा॒ष्ट्रम्। च॒। विश॑ः। च॒। त्विषि॑ः। च॒। यश॑ः। च॑। वर्च॑ः। च॒। द्रवि॑णम्। च॒। ६.२। 
+ब्रह्म॑। च॒। क्ष॒त्रम्। रा॒ष्ट्रम्। च॒। विशः॑। च॒। त्विषिः॑। च॒। यशः॑। च॑। वर्चः॑। च॒। द्रवि॑णम्। च॒। ६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

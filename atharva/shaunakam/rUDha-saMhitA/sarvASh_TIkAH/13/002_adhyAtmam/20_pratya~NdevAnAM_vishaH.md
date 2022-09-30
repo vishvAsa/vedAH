@@ -20,7 +20,7 @@ Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all ligh
 
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यङ्। दे॒वाना॑म्। विश॑ः। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्व᳡ः। दृ॒शे। २.२०। 
+प्र॒त्यङ्। दे॒वाना॑म्। विशः॑। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्वः᳡। दृ॒शे। २.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

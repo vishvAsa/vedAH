@@ -29,7 +29,7 @@ This is thine ordered place of birth whence sprung to life thou shinest forth. K
 
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। ते॒। योनि॑ः। ऋ॒त्विय॑ः। यत॑ः। जा॒तः। अरो॑चथाः। तम्। जा॒नन्। अ॒ग्ने॒। आ। रो॒ह॒। अध॑। न॒ः। व॒र्ध॒य॒। र॒यिम्। २०.१। 
+अ॒यम्। ते॒। योनिः॑। ऋ॒त्वियः॑। यतः॑। जा॒तः। अरो॑चथाः। तम्। जा॒नन्। अ॒ग्ने॒। आ। रो॒ह॒। अध॑। नः॒। व॒र्ध॒य॒। र॒यिम्। २०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

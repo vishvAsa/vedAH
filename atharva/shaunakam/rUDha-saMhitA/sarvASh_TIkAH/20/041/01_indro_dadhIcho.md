@@ -10,7 +10,7 @@ With bones of Dadhyach for his arms, Indra, resistless in attack, Struck nine-an
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। द॒धी॒चः। अ॒स्थऽभि॑ः। वृ॒त्राणि॑। अप्र॑तिऽस्कुतः। ज॒घान॑। न॒व॒तीः। नव॑। ४१.१। 
+इन्द्रः॑। द॒धी॒चः। अ॒स्थऽभिः॑। वृ॒त्राणि॑। अप्र॑तिऽस्कुतः। ज॒घान॑। न॒व॒तीः। नव॑। ४१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

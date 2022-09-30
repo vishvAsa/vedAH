@@ -10,7 +10,7 @@ Approach, O Indra, hasting thee, Lord of Bay Horses, to the prayers: Take pleasu
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। आ। या॒हि॒। तूतु॑जानः। उप॑। ब्रह्मा॑णि। ह॒रि॒ऽव॒ः। सु॒ते। द॒धि॒ष्व॒। न॒ः। चन॑ः। ८४.३। 
+इन्द्र॑। आ। या॒हि॒। तूतु॑जानः। उप॑। ब्रह्मा॑णि। ह॒रि॒ऽवः॒। सु॒ते। द॒धि॒ष्व॒। नः॒। चनः॑। ८४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

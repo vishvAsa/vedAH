@@ -19,7 +19,7 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 
 <details><summary>पदपाठः</summary>
 
-यत्। आ॒ऽव॒स॒थान्। क॒ल्पय॑न्ति। स॒द॒ःऽह॒वि॒र्धा॒नानि॑। ए॒व। तत्। क॒ल्प॒य॒न्ति॒। ६.७। 
+यत्। आ॒ऽव॒स॒थान्। क॒ल्पय॑न्ति। स॒दः॒ऽह॒वि॒र्धा॒नानि॑। ए॒व। तत्। क॒ल्प॒य॒न्ति॒। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

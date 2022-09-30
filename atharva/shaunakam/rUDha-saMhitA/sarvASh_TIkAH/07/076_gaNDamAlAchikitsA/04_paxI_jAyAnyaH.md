@@ -39,7 +39,7 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 
 <details><summary>पदपाठः</summary>
 
-प॒क्षी। जा॒यान्य॑ः। प॒त॒ति॒। सः। आ। वि॒श॒ति॒। पुरु॑षम्। तत्। अक्षि॑तस्य। भे॒ष॒जम्। उ॒भयो॑ः। सुऽक्ष॑तस्य। च॒। ८०.४। 
+प॒क्षी। जा॒यान्यः॑। प॒त॒ति॒। सः। आ। वि॒श॒ति॒। पुरु॑षम्। तत्। अक्षि॑तस्य। भे॒ष॒जम्। उ॒भयोः॑। सुऽक्ष॑तस्य। च॒। ८०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,7 @@ Thou art the infant of the plants, the infant of the Snowy Hills: The germ of ev
 
 <details><summary>पदपाठः</summary>
 
-गर्भ॑ः। अ॒सि॒। ओष॑धीनाम्। गर्भ॑ः। हि॒मऽव॑ताम्। उ॒त। गर्भ॑ः। विश्व॑स्य। भू॒तस्य॑। इ॒मम्। मे॒। अ॒ग॒दम्। कृ॒धि॒। ९५.३। 
+गर्भः॑। अ॒सि॒। ओष॑धीनाम्। गर्भः॑। हि॒मऽव॑ताम्। उ॒त। गर्भः॑। विश्व॑स्य। भू॒तस्य॑। इ॒मम्। मे॒। अ॒ग॒दम्। कृ॒धि॒। ९५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

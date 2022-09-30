@@ -10,7 +10,7 @@ Thou art mine ample coat of mail, my champion, Vritra-slayes, thou. With thee fo
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। वर्म॑। अ॒सि॒। स॒ऽप्रथ॑ः। पु॒र॒ःऽयो॒धः। च॒। वृ॒त्र॒ऽह॒न्। त्वया॑। प्रति॑। ब्रु॒वे॒। यु॒जा। १८.६। 
+त्वम्। वर्म॑। अ॒सि॒। स॒ऽप्रथः॑। पु॒रः॒ऽयो॒धः। च॒। वृ॒त्र॒ऽह॒न्। त्वया॑। प्रति॑। ब्रु॒वे॒। यु॒जा। १८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

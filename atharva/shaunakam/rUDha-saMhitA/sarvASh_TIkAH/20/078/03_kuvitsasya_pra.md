@@ -10,7 +10,7 @@ May he with might disclose for us the cows' stall, whosesoe'er it be, To which t
 
 <details><summary>पदपाठः</summary>
 
-कु॒वित्ऽस॑स्य। प्र। हि। व्र॒जम्। गोऽम॑न्तम्। द॒स्यु॒ऽहा। गम॑त्। शची॑भिः। अप॑ः। न॒। व॒र॒त्। ७८.३। 
+कु॒वित्ऽस॑स्य। प्र। हि। व्र॒जम्। गोऽम॑न्तम्। द॒स्यु॒ऽहा। गम॑त्। शची॑भिः। अपः॑। न॒। व॒र॒त्। ७८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

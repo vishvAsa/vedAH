@@ -10,7 +10,7 @@ In splendid combats of the hosts, in glories where the fight is won, Indra, be v
 
 <details><summary>पदपाठः</summary>
 
-द्यु॒म्नेषु॑। पृ॒त॒नाज्ये॑। पृ॒त्सु॒तूर्षु॑। अव॑ःऽसु। च॒। इन्द्र॑। साक्ष्व॑। अ॒भिऽमा॑तिषु। १९.७। 
+द्यु॒म्नेषु॑। पृ॒त॒नाज्ये॑। पृ॒त्सु॒तूर्षु॑। अवः॑ऽसु। च॒। इन्द्र॑। साक्ष्व॑। अ॒भिऽमा॑तिषु। १९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

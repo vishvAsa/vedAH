@@ -10,7 +10,7 @@ This Indra is our gracious Friend. He sends us in a full broad stream Riches in 
 
 <details><summary>पदपाठः</summary>
 
-सः। न॒ः। इन्द्र॑ः। शि॒वः। सखा॑। अश्व॑ऽवत्। गोऽम॑त्। यव॑ऽमत्। उ॒रुधा॑राऽइव। दो॒ह॒ते॒। ७.३। 
+सः। नः॒। इन्द्रः॑। शि॒वः। सखा॑। अश्व॑ऽवत्। गोऽम॑त्। यव॑ऽमत्। उ॒रुधा॑राऽइव। दो॒ह॒ते॒। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

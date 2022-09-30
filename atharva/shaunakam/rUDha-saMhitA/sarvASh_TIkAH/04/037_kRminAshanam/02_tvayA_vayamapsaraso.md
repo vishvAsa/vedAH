@@ -25,7 +25,7 @@ With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase t
 
 <details><summary>पदपाठः</summary>
 
-त्वया॑। व॒यम्। अ॒प्स॒रस॑ः। ग॒न्ध॒र्वान्। चा॒त॒या॒म॒हे॒। अज॑ऽशृ‍ङ्गि। अज॑। रक्ष॑ः। सर्वा॑न्। ग॒न्धेन॑। ना॒श॒य॒। ३७.२। 
+त्वया॑। व॒यम्। अ॒प्स॒रसः॑। ग॒न्ध॒र्वान्। चा॒त॒या॒म॒हे॒। अज॑ऽशृ‍ङ्गि। अज॑। रक्षः॑। सर्वा॑न्। ग॒न्धेन॑। ना॒श॒य॒। ३७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

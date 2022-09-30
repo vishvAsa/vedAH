@@ -19,7 +19,7 @@ This man whose food they eat hath all his wickedness blotted out.
 
 <details><summary>पदपाठः</summary>
 
-सर्व॑ः। वै। ए॒षः। ज॒ग्धऽपा॑प्मा। यस्य॑। अन्न॑म्। अ॒श्नन्ति॑। ७.८। 
+सर्वः॑। वै। ए॒षः। ज॒ग्धऽपा॑प्मा। यस्य॑। अन्न॑म्। अ॒श्नन्ति॑। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

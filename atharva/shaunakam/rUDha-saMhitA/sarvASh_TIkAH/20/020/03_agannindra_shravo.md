@@ -10,7 +10,7 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar: We ma
 
 <details><summary>पदपाठः</summary>
 
-अग॑न्। इ॒न्द्र॒। अव॑ः। बृ॒हत्। द्यु॒म्नम्। ‍द॒धि॒‍ष्व॒। दु॒स्तर॑म्। उत्। ते॒। शुष्म॑म्। ति॒रा॒म॒सि॒। २०.३। 
+अग॑न्। इ॒न्द्र॒। अवः॑। बृ॒हत्। द्यु॒म्नम्। ‍द॒धि॒‍ष्व॒। दु॒स्तर॑म्। उत्। ते॒। शुष्म॑म्। ति॒रा॒म॒सि॒। २०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Within thy belly, Indra take Soma the juice most excellent: The heavenly drops b
 
 <details><summary>पदपाठः</summary>
 
-द॒धि॒ष्व। ज॒ठरे॑। सु॒तम्। सोम॑म्। इ॒न्द्र॒। वरे॑ण्यम्। तव॑। द्यु॒क्षास॑ः। इन्द॑वः। ६.५। 
+द॒धि॒ष्व। ज॒ठरे॑। सु॒तम्। सोम॑म्। इ॒न्द्र॒। वरे॑ण्यम्। तव॑। द्यु॒क्षासः॑। इन्द॑वः। ६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

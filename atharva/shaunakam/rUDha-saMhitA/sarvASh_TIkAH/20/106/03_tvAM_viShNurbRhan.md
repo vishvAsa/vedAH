@@ -10,7 +10,7 @@ Vishnu, the lofty Ruling Power, Varuna, Mitra sing thy praise: In thee the Marut
 
 <details><summary>पदपाठः</summary>
 
-त्वाम्। विष्णु॑ः। बृ॒हन्‌। क्षय॑ः। मि॒त्र। गृ॒णा॒ति॒। वरु॑णः। त्वाम्। शर्ध॑ः। म॒द॒ति॒। अनु॑। मारु॑तम्। १०६.३। 
+त्वाम्। विष्णुः॑। बृ॒हन्‌। क्षयः॑। मि॒त्र। गृ॒णा॒ति॒। वरु॑णः। त्वाम्। शर्धः॑। म॒द॒ति॒। अनु॑। मारु॑तम्। १०६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

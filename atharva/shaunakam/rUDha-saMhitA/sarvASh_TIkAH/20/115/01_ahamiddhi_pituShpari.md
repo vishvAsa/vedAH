@@ -10,7 +10,7 @@ I from my Father have received deep knowledge of the holy Law: I was born like u
 
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। इत्। हि। पि॒तुः। परि॑। मे॒धाम्। ऋ॒तस्य॑। ज॒ग्रभ॑। अ॒हम्। सूर्य॑ःऽइव। अ॒ज॒नि॒। ११५.१। 
+अ॒हम्। इत्। हि। पि॒तुः। परि॑। मे॒धाम्। ऋ॒तस्य॑। ज॒ग्रभ॑। अ॒हम्। सूर्यः॑ऽइव। अ॒ज॒नि॒। ११५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

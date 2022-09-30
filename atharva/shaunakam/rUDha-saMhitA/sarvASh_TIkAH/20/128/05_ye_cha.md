@@ -10,7 +10,7 @@ But they who have adored the Gods, and they who have best- owed their gifts, Tho
 
 <details><summary>पदपाठः</summary>
 
-ये। च॑। दे॒वाः। अय॑ज॒न्त। अथो॒ इति॑। ये। च॑। पराद॒दिः। सूर्य॒ः। दिव॑म्ऽइव। ग॒त्वाय॑। म॒घवा॑। न॒ः। वि। र॒प्श॒ते॒। १२८.५। 
+ये। च॑। दे॒वाः। अय॑ज॒न्त। अथो॒ इति॑। ये। च॑। पराद॒दिः। सूर्यः॒। दिव॑म्ऽइव। ग॒त्वाय॑। म॒घवा॑। नः॒। वि। र॒प्श॒ते॒। १२८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

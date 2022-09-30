@@ -10,7 +10,7 @@ He who alone bestoweth might on mortal man who offereth gifts, The ruler of resi
 
 <details><summary>पदपाठः</summary>
 
-यः। एक॑ः। इत्। वि॒ऽदय॑ते। वसु॑। मर्ता॑य। दा॒शुषे॑। ईशा॑नः। अप्र॑तिऽस्कुतः। इन्द्र॑ः। अ॒ङ्ग। ६३.४। 
+यः। एकः॑। इत्। वि॒ऽदय॑ते। वसु॑। मर्ता॑य। दा॒शुषे॑। ईशा॑नः। अप्र॑तिऽस्कुतः। इन्द्रः॑। अ॒ङ्ग। ६३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

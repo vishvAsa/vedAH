@@ -22,7 +22,7 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 
 <details><summary>पदपाठः</summary>
 
-उप॑। प्र। अ॒गा॒त्। दे॒वः। अ॒ग्निः। र॒क्ष॒ःऽहा। अ॒मी॒व॒ऽचात॑नः। दह॑न्। अप॑। इ॒या॒विन॑ः। या॒तु॒ऽधाना॑न्। कि॒मी॒दिन॑ः। 
+उप॑। प्र। अ॒गा॒त्। दे॒वः। अ॒ग्निः। र॒क्षः॒ऽहा। अ॒मी॒व॒ऽचात॑नः। दह॑न्। अप॑। इ॒या॒विनः॑। या॒तु॒ऽधाना॑न्। कि॒मी॒दिनः॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ O Agni, bring thou hitherward the Yatudhanas bound and chained. And afterward le
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। अ॒ग्ने॒। या॒तु॒ऽधाना॑न्। उप॑ऽबध्दान्। इ॒ह। आ। व॒ह॒। अथ॑। ए॒षा॒म्। इन्द्र॑ः। वज्रे॑ण। अपि॑। शी॒र्षाणि॑। वृ॒श्च॒तु। 
+त्वम्। अ॒ग्ने॒। या॒तु॒ऽधाना॑न्। उप॑ऽबध्दान्। इ॒ह। आ। व॒ह॒। अथ॑। ए॒षा॒म्। इन्द्रः॑। वज्रे॑ण। अपि॑। शी॒र्षाणि॑। वृ॒श्च॒तु। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

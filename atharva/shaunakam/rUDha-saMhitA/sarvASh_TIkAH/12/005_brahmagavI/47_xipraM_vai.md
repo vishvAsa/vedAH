@@ -23,7 +23,7 @@ Quickly, when he is smitten down by death, the clamorous vul- tures cry:
 
 <details><summary>पदपाठः</summary>
 
-क्षि॒प्रम्। वै। तस्य॑। आ॒ऽहन॑ने। गृध्रा॑ः। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.१। 
+क्षि॒प्रम्। वै। तस्य॑। आ॒ऽहन॑ने। गृध्राः॑। कु॒र्व॒ते॒। ऐ॒ल॒बम्। १०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

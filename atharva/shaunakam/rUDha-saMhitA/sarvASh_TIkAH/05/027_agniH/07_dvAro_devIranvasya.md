@@ -15,7 +15,7 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 
 <details><summary>पदपाठः</summary>
 
-द्वार॑ः। दे॒वीः। अनु॑। अ॒स्य॒। विश्वे॑। व्र॒तम्। र॒क्ष॒न्ति॒। वि॒श्वहा॑। २७.७। 
+द्वारः॑। दे॒वीः। अनु॑। अ॒स्य॒। विश्वे॑। व्र॒तम्। र॒क्ष॒न्ति॒। वि॒श्वहा॑। २७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ His universe is Vayu, Svarga is his world, Krishpadram is the tendons and Verteb
 
 <details><summary>पदपाठः</summary>
 
-विश्व॑म्। वा॒युः। स्व॒ःऽगः। लो॒कः। कृ॒ष्ण॒ऽद्रम्। वि॒ऽधर॑णी। नि॒ऽवे॒ष्यः १। १२.४। 
+विश्व॑म्। वा॒युः। स्वः॒ऽगः। लो॒कः। कृ॒ष्ण॒ऽद्रम्। वि॒ऽधर॑णी। नि॒ऽवे॒ष्यः १। १२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

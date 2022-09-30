@@ -10,7 +10,7 @@ Great riches which the world of men shall recognize as sent by thee: Bring us th
 
 <details><summary>पदपाठः</summary>
 
-यस्य॑। ते॒। वि॒श्वऽमा॑नुषः। भूरे॑ः। द॒त्तस्य॑। वेद॑ति। वसु॑। स्पा॒र्हम्। तत्। आ। भ॒र॒। ४३.३। 
+यस्य॑। ते॒। वि॒श्वऽमा॑नुषः। भूरेः॑। द॒त्तस्य॑। वेद॑ति। वसु॑। स्पा॒र्हम्। तत्। आ। भ॒र॒। ४३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

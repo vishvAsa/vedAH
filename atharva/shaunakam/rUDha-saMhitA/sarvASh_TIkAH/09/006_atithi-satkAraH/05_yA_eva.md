@@ -20,7 +20,7 @@ The water that is solemnly brought at a sacrifice is this same water.
 
 <details><summary>पदपाठः</summary>
 
-याः। ए॒व। य॒ज्ञे। आप॑ः। प्र॒ऽनी॒यन्ते॑। ताः। ए॒व। ताः। ६.५। 
+याः। ए॒व। य॒ज्ञे। आपः॑। प्र॒ऽनी॒यन्ते॑। ताः। ए॒व। ताः। ६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

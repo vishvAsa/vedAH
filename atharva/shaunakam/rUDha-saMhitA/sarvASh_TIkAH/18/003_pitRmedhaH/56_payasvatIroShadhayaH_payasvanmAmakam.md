@@ -36,7 +36,7 @@ The plants of earth are rich in milk, and rich in milk is this my milk. With all
 
 <details><summary>पदपाठः</summary>
 
-पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। पय॑ः। अ॒पाम्। पय॑सः। यत्। पय॑ः। तेन॑। मा॒। स॒ह। शु॒म्भ॒तु॒। ३.५६। 
+पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। पयः॑। अ॒पाम्। पय॑सः। यत्। पयः॑। तेन॑। मा॒। स॒ह। शु॒म्भ॒तु॒। ३.५६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

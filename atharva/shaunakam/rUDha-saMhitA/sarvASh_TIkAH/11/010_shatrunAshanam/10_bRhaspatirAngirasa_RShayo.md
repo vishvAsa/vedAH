@@ -23,7 +23,7 @@ Brihaspati Angirasa, Rishis made strong and keen by prayer, Have set Trishandhi 
 
 <details><summary>पदपाठः</summary>
 
-बृह॒स्पति॑ः। आ॒ङ्गि॒र॒सः। ऋष॑यः। ब्रह्म॑ऽसंशिताः। अ॒सु॒र॒ऽक्षय॑णम्। व॒धम्। त्रिऽसं॑धिम्। दि॒वि। आ। अ॒श्र॒य॒न्। १२.१०। 
+बृह॒स्पतिः॑। आ॒ङ्गि॒र॒सः। ऋष॑यः। ब्रह्म॑ऽसंशिताः। अ॒सु॒र॒ऽक्षय॑णम्। व॒धम्। त्रिऽसं॑धिम्। दि॒वि। आ। अ॒श्र॒य॒न्। १२.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

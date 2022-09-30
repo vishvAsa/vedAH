@@ -10,7 +10,7 @@ O Indra marvellously bright, come, these libations long for thee, Thus by fine f
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। आ। या॒हि॒। चि॒त्र॒भा॒नो॒ इति॑ चित्रऽभानो। सु॒ताः। इ॒मे। त्वा॒ऽयव॑ः। अण्वी॑भिः। तना॑। पू॒तास॑ः। ८४.१। 
+इन्द्र॑। आ। या॒हि॒। चि॒त्र॒भा॒नो॒ इति॑ चित्रऽभानो। सु॒ताः। इ॒मे। त्वा॒ऽयवः॑। अण्वी॑भिः। तना॑। पू॒तासः॑। ८४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

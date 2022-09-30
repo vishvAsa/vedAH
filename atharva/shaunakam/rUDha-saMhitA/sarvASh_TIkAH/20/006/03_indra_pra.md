@@ -10,7 +10,7 @@ Indra, with all the Gods promote our wealth-bestowing sacrifice, Thou highly-lau
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। प्र। न॒ः। धि॒तऽवा॑नम्। य॒ज्ञम्। विश्वे॑भिः। दे॒वेभि॑ः। ति॒र। स्त॒वा॒न॒। वि॒श्प॒ते॒। ६.३। 
+इन्द्र॑। प्र। नः॒। धि॒तऽवा॑नम्। य॒ज्ञम्। विश्वे॑भिः। दे॒वेभिः॑। ति॒र। स्त॒वा॒न॒। वि॒श्प॒ते॒। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

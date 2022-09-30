@@ -10,7 +10,7 @@ Indra whom tawny coursers bear, praise such a thine,. preeminent None by his pow
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। स्था॒त॒ः। ह॒री॒णा॒म्। नकि॑ः। ते॒। पू॒र्व्यऽस्तु॑तिम्। उत्। आ॒नं॒श॒। शव॑सा। न। भ॒न्दना॑। ६४.५। 
+इन्द्र॑। स्था॒तः॒। ह॒री॒णा॒म्। नकिः॑। ते॒। पू॒र्व्यऽस्तु॑तिम्। उत्। आ॒नं॒श॒। शव॑सा। न। भ॒न्दना॑। ६४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

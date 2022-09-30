@@ -35,7 +35,7 @@ Stablished amid the waters is, King Varuna, thy golden home. Thence let the Sovr
 
 <details><summary>पदपाठः</summary>
 
-अ॒प्ऽसु। ते॒। रा॒ज॒न्। व॒रु॒ण॒। गृ॒हः। हि॒र॒ण्यय॑ः। मि॒थः। तत॑ः। धृ॒तऽव्र॑तः। राजा॑। सर्वा॑। धामा॑नि। मु॒ञ्च॒तु॒। ८८.१। 
+अ॒प्ऽसु। ते॒। रा॒ज॒न्। व॒रु॒ण॒। गृ॒हः। हि॒र॒ण्ययः॑। मि॒थः। ततः॑। धृ॒तऽव्र॑तः। राजा॑। सर्वा॑। धामा॑नि। मु॒ञ्च॒तु॒। ८८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

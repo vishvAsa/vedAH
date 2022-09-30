@@ -19,7 +19,7 @@ His second downward breath is the eighth day after Full Moon.
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। द्वि॒तीय॑ः। अ॒पा॒नः। सा। अष्ट॑का। १६.२। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। द्वि॒तीयः॑। अ॒पा॒नः। सा। अष्ट॑का। १६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

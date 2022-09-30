@@ -10,7 +10,7 @@ There where around those distant trees, three Sisus that are standing there, (wi
 
 <details><summary>पदपाठः</summary>
 
-यत्र॑। अ॒मूः। तिस्र॑ः। शिंश॒पाः। १२९.७। 
+यत्र॑। अ॒मूः। तिस्रः॑। शिंश॒पाः। १२९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

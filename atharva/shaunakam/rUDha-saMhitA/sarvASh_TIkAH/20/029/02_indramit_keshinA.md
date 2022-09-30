@@ -10,7 +10,7 @@ Bay horses with their long manes bring Indra to drink the Soma juice, The Bounti
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। इत्। के॒शिना॑। हरी॒ इति॑। सो॒म॒ऽपेया॑य। व॒क्ष॒त॒ः। उप॑। य॒ज्ञम्। सु॒ऽराध॑सम्। २९.२। 
+इन्द्र॑म्। इत्। के॒शिना॑। हरी॒ इति॑। सो॒म॒ऽपेया॑य। व॒क्ष॒तः॒। उप॑। य॒ज्ञम्। सु॒ऽराध॑सम्। २९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

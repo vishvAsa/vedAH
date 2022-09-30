@@ -10,7 +10,7 @@ The Dasyus, when they fain would climb by magic arts and mount to heaven, Thou, 
 
 <details><summary>पदपाठः</summary>
 
-मा॒याभि॑ः। उ॒त्ऽसिसृप्सतः। इन्द्र॑। द्याम्। आ॒ऽरुरु॑क्षतः। अव॑। दस्यू॑न्। अ॒धू॒नु॒था॒ः। २९.४। 
+मा॒याभिः॑। उ॒त्ऽसिसृप्सतः। इन्द्र॑। द्याम्। आ॒ऽरुरु॑क्षतः। अव॑। दस्यू॑न्। अ॒धू॒नु॒थाः॒। २९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

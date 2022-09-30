@@ -23,7 +23,7 @@ Upon him wait omniform beasts, wearing every shape, each one who hath this knowl
 
 <details><summary>पदपाठः</summary>
 
-उप॑। ए॒न॒म्। वि॒श्वऽरू॑पाः। सर्व॑ऽरूपाः। प॒शव॑ः। ति॒ष्ठ॒न्ति॒। यः। ए॒वम्। वेद॑। १२.२६। 
+उप॑। ए॒न॒म्। वि॒श्वऽरू॑पाः। सर्व॑ऽरूपाः। प॒शवः॑। ति॒ष्ठ॒न्ति॒। यः। ए॒वम्। वेद॑। १२.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

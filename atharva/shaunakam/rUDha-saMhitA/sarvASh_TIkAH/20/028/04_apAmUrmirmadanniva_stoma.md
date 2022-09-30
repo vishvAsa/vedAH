@@ -10,7 +10,7 @@ Indra, thy laud moves quickly like a joyous wave of water-floods. Bright shine t
 
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। ऊ॒र्मिः। मद॑न्ऽइव। स्तोम॑ः। इ॒न्द्र॒। अ॒जि॒र॒ऽय॒ते॒। वि। ते॒। मदा॑ः। अ॒रा॒जि॒षु॒ः। २८.४। 
+अ॒पाम्। ऊ॒र्मिः। मद॑न्ऽइव। स्तोमः॑। इ॒न्द्र॒। अ॒जि॒र॒ऽय॒ते॒। वि। ते॒। मदाः॑। अ॒रा॒जि॒षुः॒। २८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

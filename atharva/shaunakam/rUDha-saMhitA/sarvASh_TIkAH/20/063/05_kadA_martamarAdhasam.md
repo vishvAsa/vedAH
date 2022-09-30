@@ -10,7 +10,7 @@ When will he trample like a weed the man who hath no gift for him? When verily w
 
 <details><summary>पदपाठः</summary>
 
-क॒दा। मर्त॑म्। अ॒रा॒धस॑म्। प॒दा। क्षुम्प॑म्ऽइव। स्फु॒र॒त्। क॒दा। न॒ः। शु॒श्र॒व॒त्। गिर॑ः। इन्द्र॑ः। अ॒ङ्ग। ६३.५। 
+क॒दा। मर्त॑म्। अ॒रा॒धस॑म्। प॒दा। क्षुम्प॑म्ऽइव। स्फु॒र॒त्। क॒दा। नः॒। शु॒श्र॒व॒त्। गिरः॑। इन्द्रः॑। अ॒ङ्ग। ६३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Let Agni from the Kindler's cup drink Trishtups, according to the season Soma fr
 
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। आग्नी॑ध्रात्। सु॒ऽस्तुभ॑ः। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.२। 
+अ॒ग्निः। आग्नी॑ध्रात्। सु॒ऽस्तुभः॑। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

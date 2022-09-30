@@ -10,7 +10,7 @@ Invoked to drink the Soma juice come with thy bay steeds, Thunder-armed! Come, I
 
 <details><summary>पदपाठः</summary>
 
-आ। तु। न॒ः। इ॒न्द्र॒। म॒द्र्य॑क्। हु॒वा॒नः। सोम॑ऽपीतये। हरि॑ऽभ्याम्। या॒हि॒। अ॒द्रि॒ऽव॒ः। २३.१। 
+आ। तु। नः॒। इ॒न्द्र॒। म॒द्र्य॑क्। हु॒वा॒नः। सोम॑ऽपीतये। हरि॑ऽभ्याम्। या॒हि॒। अ॒द्रि॒ऽवः॒। २३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ May our hymns give thee great delight. Display thy bounty, Thunderer. Drive off 
 
 <details><summary>पदपाठः</summary>
 
-उत्। त्वा॒। म॒न्द॒न्तु॒। स्तोमा॑ः। कृ॒णु॒ष्व। राध॑ः। अ॒द्रि॒व॒ः। अव॑। ब्र॒ह्म॒ऽद्विष॑ः। ज॒हि॒। ९३.१। 
+उत्। त्वा॒। म॒न्द॒न्तु॒। स्तोमाः॑। कृ॒णु॒ष्व। राधः॑। अ॒द्रि॒वः॒। अव॑। ब्र॒ह्म॒ऽद्विषः॑। ज॒हि॒। ९३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ The swiftly-moving songs of praise pour on thee streams of vital strength As mot
 
 <details><summary>पदपाठः</summary>
 
-अ॒भि। त्वा॒। वर्च॑सा। गिर॒ः। सिञ्च॑न्तीः। आच॑र॒ण्यव॑ः। अ॒भि। व॒त्सम्। न। धे॒नव॑ः। ४८.१। 
+अ॒भि। त्वा॒। वर्च॑सा। गिरः॒। सिञ्च॑न्तीः। आच॑र॒ण्यवः॑। अ॒भि। व॒त्सम्। न। धे॒नवः॑। ४८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

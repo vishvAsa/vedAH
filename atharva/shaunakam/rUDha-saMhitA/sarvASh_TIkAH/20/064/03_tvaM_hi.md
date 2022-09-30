@@ -10,7 +10,7 @@ For thou art, he, O Indra, who stormest all castles of the foe, Slayer of Dasyus
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। हि। शश्व॑तीनाम्। इन्द्र॑। द॒र्ता। पु॒राम्। असि॑। ह॒न्ता। दस्यो॑ः। मनो॑ः। वृ॒धः। पति॑ः। दि॒वः। ६४.३। 
+त्वम्। हि। शश्व॑तीनाम्। इन्द्र॑। द॒र्ता। पु॒राम्। असि॑। ह॒न्ता। दस्योः॑। मनोः॑। वृ॒धः। पतिः॑। दि॒वः। ६४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

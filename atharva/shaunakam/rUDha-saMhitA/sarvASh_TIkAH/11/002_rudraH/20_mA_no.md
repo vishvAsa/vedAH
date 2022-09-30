@@ -21,7 +21,7 @@ Do us no harm, but comfort us: avoid thou us, and be not wroth. Never let us con
 
 <details><summary>पदपाठः</summary>
 
-मा। न॒ः। हिं॒सी॒ः। अधि॑। न॒ः। ब्रू॒हि॒। परि॑। न॒ः। वृ॒ङ्ग्धि॒। मा। क्रु॒ध॒ः। मा। त्वया॑। सम्। अ॒रा॒म॒हि॒। २.२०। 
+मा। नः॒। हिं॒सीः॒। अधि॑। नः॒। ब्रू॒हि॒। परि॑। नः॒। वृ॒ङ्ग्धि॒। मा। क्रु॒धः॒। मा। त्वया॑। सम्। अ॒रा॒म॒हि॒। २.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

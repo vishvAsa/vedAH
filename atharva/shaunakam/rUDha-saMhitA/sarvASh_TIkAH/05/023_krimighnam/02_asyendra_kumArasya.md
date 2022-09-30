@@ -21,7 +21,7 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 
 <details><summary>पदपाठः</summary>
 
-अ॒स्य। इ॒न्द्र॒। कु॒मा॒रस्य॑। क्रिमी॑न्। ध॒न॒ऽप॒ते॒। ज॒हि॒। ह॒ताः। विश्वा॑ः। अरा॑तयः। उ॒ग्रेण॑। वच॑सा। मम॑। २३.२। 
+अ॒स्य। इ॒न्द्र॒। कु॒मा॒रस्य॑। क्रिमी॑न्। ध॒न॒ऽप॒ते॒। ज॒हि॒। ह॒ताः। विश्वाः॑। अरा॑तयः। उ॒ग्रेण॑। वच॑सा। मम॑। २३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

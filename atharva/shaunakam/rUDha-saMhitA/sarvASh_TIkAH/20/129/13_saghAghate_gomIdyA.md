@@ -10,7 +10,7 @@ As by their dung the course of kine. What wouldst thou in the home of men? (with
 
 <details><summary>पदपाठः</summary>
 
-सघा॑घते॒। गोमीद्या। गोगी॑ती॒ः। इति॑। १२९.१३। 
+सघा॑घते॒। गोमीद्या। गोगी॑तीः॒। इति॑। १२९.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

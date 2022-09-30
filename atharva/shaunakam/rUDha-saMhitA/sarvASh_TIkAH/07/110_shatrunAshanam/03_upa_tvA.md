@@ -28,7 +28,7 @@ The God Brihaspati hath won thy friendly favour with the cup. With hymns, O Indr
 
 <details><summary>पदपाठः</summary>
 
-उप॑। त्वा॒। दे॒वः। अ॒ग्र॒भी॒त्। च॒म॒सेन॑। बृ॒ह॒स्पति॑ः। इन्द्र॑। गी॒ःऽभिः। न॒ः। आ। वि॒श॒। यज॑मानाय। सु॒न्व॒ते। ११५.३। 
+उप॑। त्वा॒। दे॒वः। अ॒ग्र॒भी॒त्। च॒म॒सेन॑। बृ॒ह॒स्पतिः॑। इन्द्र॑। गीः॒ऽभिः। नः॒। आ। वि॒श॒। यज॑मानाय। सु॒न्व॒ते। ११५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -26,7 +26,7 @@ On thee doth Savitar the God bestow this vesture for thy wear. Clothe thee herei
 
 <details><summary>पदपाठः</summary>
 
-ए॒तत्। ते॒। दे॒वः। स॒वि॒ता। वास॑ः। द॒दा॒ति॒। भर्त॑वे। तत्। त्वम्। य॒मस्य॑। राज्ये॑। वसा॑नः। ता॒र्प्य॑म्। च॒र॒। ४.३१। 
+ए॒तत्। ते॒। दे॒वः। स॒वि॒ता। वासः॑। द॒दा॒ति॒। भर्त॑वे। तत्। त्वम्। य॒मस्य॑। राज्ये॑। वसा॑नः। ता॒र्प्य॑म्। च॒र॒। ४.३१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

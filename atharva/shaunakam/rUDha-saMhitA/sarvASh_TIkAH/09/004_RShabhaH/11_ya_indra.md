@@ -25,7 +25,7 @@ Let the priest joyfully extol the limbs and members of the Bull Who moved and ro
 
 <details><summary>पदपाठः</summary>
 
-यः। इन्द्र॑ःऽइव। दे॒वेषु॑। गोषु॑। एति॑। वि॒ऽवाव॑दत्। तस्य॑। ऋ॒ष॒भस्य॑। अङ्गा॑नि। ब्र॒ह्मा। सम्। स्तौ॒तु॒। भ॒द्रया॑। ४.११। 
+यः। इन्द्रः॑ऽइव। दे॒वेषु॑। गोषु॑। एति॑। वि॒ऽवाव॑दत्। तस्य॑। ऋ॒ष॒भस्य॑। अङ्गा॑नि। ब्र॒ह्मा। सम्। स्तौ॒तु॒। भ॒द्रया॑। ४.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

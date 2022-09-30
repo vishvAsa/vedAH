@@ -20,7 +20,7 @@ Indra made first for Asuras the shaft designed for handless foes: Victorious sha
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। च॒का॒र॒। प्र॒थ॒मम्। नै॒ःऽह॒स्तम्। असु॑रेभ्यः। जय॑न्तु। सत्वा॑नः। मम॑। स्थि॒रेण॑। इन्द्रे॑ण। मे॒दिना॑। ६५.३। 
+इन्द्रः॑। च॒का॒र॒। प्र॒थ॒मम्। नैः॒ऽह॒स्तम्। असु॑रेभ्यः। जय॑न्तु। सत्वा॑नः। मम॑। स्थि॒रेण॑। इन्द्रे॑ण। मे॒दिना॑। ६५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

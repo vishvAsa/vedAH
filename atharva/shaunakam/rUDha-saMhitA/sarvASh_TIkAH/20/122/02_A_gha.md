@@ -10,7 +10,7 @@ Like thee, thyself, the singers' friend, thou movest as it were, besought, Bold 
 
 <details><summary>पदपाठः</summary>
 
-आ। घ॒। त्वाऽवा॑न्। त्मना॑। आ॒प्तः। स्तो॒तृऽभ्य॑ः। धृ॒ष्णो॒ इति॑। इ॒या॒नः। ऋ॒णोः। अक्ष॑म्। न। च॒क्र्यो॑ः। १२२.२। 
+आ। घ॒। त्वाऽवा॑न्। त्मना॑। आ॒प्तः। स्तो॒तृऽभ्यः॑। धृ॒ष्णो॒ इति॑। इ॒या॒नः। ऋ॒णोः। अक्ष॑म्। न। च॒क्र्योः॑। १२२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

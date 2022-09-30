@@ -10,7 +10,7 @@ Praise with the voice the Mighty, praise the awful with the voice: in heaven He,
 
 <details><summary>पदपाठः</summary>
 
-श॒क्रः। वा॒च॒म्। अधृ॑ष्टा॒य। उरु॑वा॒चः। अधृ॑ष्णुहि। मंहि॑ष्ठ॒ः। आ। म॑द॒र्दिवि॑। ४९.२। 
+श॒क्रः। वा॒च॒म्। अधृ॑ष्टा॒य। उरु॑वा॒चः। अधृ॑ष्णुहि। मंहि॑ष्ठः॒। आ। म॑द॒र्दिवि॑। ४९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ He came to the people, to kinsmen, food and nourishment.
 
 <details><summary>पदपाठः</summary>
 
-सः। विश॑ः। सऽब॑न्धून्। अन्न॑म्। अ॒न्न॒ऽअद्य॑म्। अ॒भि॒ऽउद॑तिष्ठत्। ८.२। 
+सः। विशः॑। सऽब॑न्धून्। अन्न॑म्। अ॒न्न॒ऽअद्य॑म्। अ॒भि॒ऽउद॑तिष्ठत्। ८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Hail, Fathers, to your energy! Hail, Fathers, to your sap!
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। व॒ः। पि॒त॒र॒ः। ऊ॒र्जे। नम॑ः। व॒ः। पि॒त॒र॒ः। रसा॑य। ४.८१। 
+नमः॑। वः॒। पि॒त॒रः॒। ऊ॒र्जे। नमः॑। वः॒। पि॒त॒रः॒। रसा॑य। ४.८१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

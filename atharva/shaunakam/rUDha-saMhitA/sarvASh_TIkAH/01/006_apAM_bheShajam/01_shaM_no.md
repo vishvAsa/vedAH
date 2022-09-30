@@ -26,7 +26,7 @@ The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream
 
 <details><summary>पदपाठः</summary>
 
-शम्। न॒ः। दे॒वीः। अ॒भिष्ट॑ये। आप॑ः। भ॒व॒न्तु॒। पी॒तये॑। शम्। योः। अ॒भि। स्र॒व॒न्तु॒। न॒ः। 
+शम्। नः॒। दे॒वीः। अ॒भिष्ट॑ये। आपः॑। भ॒व॒न्तु॒। पी॒तये॑। शम्। योः। अ॒भि। स्र॒व॒न्तु॒। नः॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

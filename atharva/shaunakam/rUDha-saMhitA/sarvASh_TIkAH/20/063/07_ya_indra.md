@@ -10,7 +10,7 @@ Joy, mightiest Indra, known and marked, sprung most from Soma draughts, wherewit
 
 <details><summary>पदपाठः</summary>
 
-यः। इ॒न्द्र॒। सो॒म॒ऽपात॑मः। मद॑ः। श॒वि॒ष्ठ॒। चेत॑ति। येन॑। हंसि॑। नि। अ॒त्त्रिण॑म्। तम्। ई॒म॒हे॒। ६३.७। 
+यः। इ॒न्द्र॒। सो॒म॒ऽपात॑मः। मदः॑। श॒वि॒ष्ठ॒। चेत॑ति। येन॑। हंसि॑। नि। अ॒त्त्रिण॑म्। तम्। ई॒म॒हे॒। ६३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

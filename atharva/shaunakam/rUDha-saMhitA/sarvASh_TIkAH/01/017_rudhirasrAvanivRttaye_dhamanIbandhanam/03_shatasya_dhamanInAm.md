@@ -22,7 +22,7 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 
 <details><summary>पदपाठः</summary>
 
-श॒तस्य॑। ध॒मनी॑नाम्। स॒हस्र॑स्य। हि॒राणा॑म्। अस्थु॑ः। इत्। म॒ध्य॒माः। इ॒माः। सा॒कम्। अन्ता॑ः। अ॒रं॒स॒त॒। 
+श॒तस्य॑। ध॒मनी॑नाम्। स॒हस्र॑स्य। हि॒राणा॑म्। अस्थुः॑। इत्। म॒ध्य॒माः। इ॒माः। सा॒कम्। अन्ताः॑। अ॒रं॒स॒त॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

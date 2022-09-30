@@ -25,7 +25,7 @@ Agni Kama in other homes shines forth the sole imperial Lord of all that is and 
 
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। परे॑षु। धाम॑ऽसु। काम॑ः। भूतस्य॑। भव्य॑स्य। स॒म्ऽराट्‌। एक॑ः। वि। रा॒ज॒ति॒। ३६.३। 
+अ॒ग्निः। परे॑षु। धाम॑ऽसु। कामः॑। भूतस्य॑। भव्य॑स्य। स॒म्ऽराट्‌। एकः॑। वि। रा॒ज॒ति॒। ३६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Aided by thee, the Thunder-armed, Indra; may we lit up the bolt, And conquer all
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। त्वाऽऊ॑तासः। आ। व॒यम्। वज्र॑म्। घ॒ना। द॒दी॒म॒हि॒। जये॑म। सम्। यु॒धि। स्पृध॑ः। ७०.१९। 
+इन्द्र॑। त्वाऽऊ॑तासः। आ। व॒यम्। वज्र॑म्। घ॒ना। द॒दी॒म॒हि॒। जये॑म। सम्। यु॒धि। स्पृधः॑। ७०.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ this the wind stirs and agitates.
 
 <details><summary>पदपाठः</summary>
 
-तत्। वात॒ः। उन्म॑थायति। १३२.४। 
+तत्। वातः॒। उन्म॑थायति। १३२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 
 <details><summary>पदपाठः</summary>
 
-यत्। तर्प॑णम्। आ॒ऽह॑रन्ति। यः। ए॒व। अ॒ग्नी॒षो॒मीय॑ः। प॒शुः। ब॒ध्यते॑। सः। ए॒व। सः। ६.६। 
+यत्। तर्प॑णम्। आ॒ऽह॑रन्ति। यः। ए॒व। अ॒ग्नी॒षो॒मीयः॑। प॒शुः। ब॒ध्यते॑। सः। ए॒व। सः। ६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

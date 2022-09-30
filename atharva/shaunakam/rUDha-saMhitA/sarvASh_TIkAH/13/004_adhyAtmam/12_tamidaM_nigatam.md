@@ -21,7 +21,7 @@ This conquering might hath entered him, He is the sole the simple One, the One a
 
 <details><summary>पदपाठः</summary>
 
-तम्। इ॒दम्। निऽग॑तम्। सह॑ः। सः। ए॒षः। एक॑ः। ए॒क॒ऽवृत्। एक॑ः। ए॒व। ४.१२। 
+तम्। इ॒दम्। निऽग॑तम्। सहः॑। सः। ए॒षः। एकः॑। ए॒क॒ऽवृत्। एकः॑। ए॒व। ४.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

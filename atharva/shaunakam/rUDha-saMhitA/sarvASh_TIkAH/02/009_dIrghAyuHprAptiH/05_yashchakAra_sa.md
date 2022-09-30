@@ -27,7 +27,7 @@ Let him who made it also heal: he, truly, is the deftest leech. Pure, with a lee
 
 <details><summary>पदपाठः</summary>
 
-यः। च॒कार॑। सः। निः। क॒र॒त्। सः। ए॒व। सुभि॑षक्ऽतमः। सः। ए॒व। तुभ्य॑म्। भे॒ष॒जानि॑। कृ॒णव॑त्। भि॒षजा॑। शुचि॑ः। ९.५। 
+यः। च॒कार॑। सः। निः। क॒र॒त्। सः। ए॒व। सुभि॑षक्ऽतमः। सः। ए॒व। तुभ्य॑म्। भे॒ष॒जानि॑। कृ॒णव॑त्। भि॒षजा॑। शुचिः॑। ९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

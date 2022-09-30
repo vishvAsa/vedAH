@@ -10,7 +10,7 @@ List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth
 
 <details><summary>पदपाठः</summary>
 
-राज्ञ॑ः। विश्व॒जनी॑नस्य। यः। दे॒वः। मर्त्या॒न्। अत‍ि॑। वै॒श्वा॒न॒रस्य॒। सुष्टु॑ति॒म्। आ। सु॒नोत। परि॒क्षित॑ः। १२७.७। 
+राज्ञः॑। विश्व॒जनी॑नस्य। यः। दे॒वः। मर्त्या॒न्। अत‍ि॑। वै॒श्वा॒न॒रस्य॒। सुष्टु॑ति॒म्। आ। सु॒नोत। परि॒क्षितः॑। १२७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

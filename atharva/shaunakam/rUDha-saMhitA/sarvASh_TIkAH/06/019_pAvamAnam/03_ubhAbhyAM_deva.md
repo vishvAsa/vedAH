@@ -23,7 +23,7 @@ God Savitar, byboth of these, filter and pressing out this juice, purify us that
 
 <details><summary>पदपाठः</summary>
 
-उ॒भाभ्या॑म्। दे॒व॒। स॒वि॒त॒ः। प॒वित्रे॑ण। स॒वेन॑। च॒। अ॒स्मान्। पु॒नी॒हि॒। चक्ष॑से। १९.३। 
+उ॒भाभ्या॑म्। दे॒व॒। स॒वि॒तः॒। प॒वित्रे॑ण। स॒वेन॑। च॒। अ॒स्मान्। पु॒नी॒हि॒। चक्ष॑से। १९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

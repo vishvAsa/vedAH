@@ -30,7 +30,7 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 
 <details><summary>पदपाठः</summary>
 
-सः। विश्वा॑। प्रति॑। च॒क्लृ॒पे॒। ऋ॒तून्। उत्। सृ॒ज॒ते॒। व॒शी। य॒ज्ञस्य॑। वय॑ः। उ॒त्ऽति॒रन्। ३६.२। 
+सः। विश्वा॑। प्रति॑। च॒क्लृ॒पे॒। ऋ॒तून्। उत्। सृ॒ज॒ते॒। व॒शी। य॒ज्ञस्य॑। वयः॑। उ॒त्ऽति॒रन्। ३६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ The Gods shall give the precious boon: let it be pleasant to your hearts. Let it
 
 <details><summary>पदपाठः</summary>
 
-देवा॑ः। दद॒तु। आसु॑र॒म्। तत्। व॑ः। अस्तु॒। सुचे॑तनम्। युष्मा॑न्। अस्तु॒। दिवे॑दिवे। प्र॒ति। एव॑। गृभायत। १३५.१०। 
+देवाः॑। दद॒तु। आसु॑र॒म्। तत्। वः॑। अस्तु॒। सुचे॑तनम्। युष्मा॑न्। अस्तु॒। दिवे॑दिवे। प्र॒ति। एव॑। गृभायत। १३५.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

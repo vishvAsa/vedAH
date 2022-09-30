@@ -10,7 +10,7 @@ Delight thee with the juice we pour for thine own great munificence: Yield not t
 
 <details><summary>पदपाठः</summary>
 
-सः। म॒न्द॒स्व॒। हि। अन्ध॑सः। राध॑से। त॒न्वा॑। म॒हे। न। स्तो॒तार॑म्। नि॒दे। क॒र॒ः। २३.६। 
+सः। म॒न्द॒स्व॒। हि। अन्ध॑सः। राध॑से। त॒न्वा॑। म॒हे। न। स्तो॒तार॑म्। नि॒दे। क॒रः॒। २३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ We, Indra, dearly loving thee, bearing oblation, sing thee hymns: Thou, Vasu, ne
 
 <details><summary>पदपाठः</summary>
 
-व॒यम्। इ॒न्द्र॒। त्वा॒ऽयव॑ः। ह॒विष्म॑न्तः। ज॒रा॒म॒हे॒। उ॒त। त्वम्। अ॒स्म॒ऽयुः। व॒सो॒ इति॑। २३.७। 
+व॒यम्। इ॒न्द्र॒। त्वा॒ऽयवः॑। ह॒विष्म॑न्तः। ज॒रा॒म॒हे॒। उ॒त। त्वम्। अ॒स्म॒ऽयुः। व॒सो॒ इति॑। २३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

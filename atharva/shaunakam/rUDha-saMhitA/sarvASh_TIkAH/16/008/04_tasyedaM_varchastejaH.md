@@ -19,7 +19,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of disappearan
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। इ॒दम्। वर्च॑ः। तेज॑ः। प्रा॒णम्। आयु॑ः। नि। वे॒ष्ट॒या॒मि॒। इ॒दम्। ए॒न॒म्। अ॒ध॒राञ्च॑म्। पा॒द॒या॒मि॒। ८.४। 
+तस्य॑। इ॒दम्। वर्चः॑। तेजः॑। प्रा॒णम्। आयुः॑। नि। वे॒ष्ट॒या॒मि॒। इ॒दम्। ए॒न॒म्। अ॒ध॒राञ्च॑म्। पा॒द॒या॒मि॒। ८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

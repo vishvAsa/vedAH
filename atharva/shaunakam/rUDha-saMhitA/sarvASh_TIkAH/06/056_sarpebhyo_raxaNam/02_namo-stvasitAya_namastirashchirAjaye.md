@@ -22,7 +22,7 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। अ॒स्तु॒। अ॒सि॒ताय॑। नम॑ः। तिर॑श्चिऽराजये। स्व॒जाय॑। ब॒भ्रवे॑। नम॑ः। नम॑ः। दे॒व॒ऽज॒नेभ्य॑ः। ५६.२। 
+नमः॑। अ॒स्तु॒। अ॒सि॒ताय॑। नमः॑। तिर॑श्चिऽराजये। स्व॒जाय॑। ब॒भ्रवे॑। नमः॑। नमः॑। दे॒व॒ऽज॒नेभ्यः॑। ५६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ beat again again about the house?
 
 <details><summary>पदपाठः</summary>
 
-परिऽआ॑गारम्। पुन॑ःऽपुनः। १३२.१२। 
+परिऽआ॑गारम्। पुनः॑ऽपुनः। १३२.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

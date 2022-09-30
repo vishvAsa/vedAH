@@ -24,7 +24,7 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 
 <details><summary>पदपाठः</summary>
 
-पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। वच॑ः। अथो॒ इति॑। पय॑स्वतीनाम्। आ। भ॒रे॒। अ॒हम्। स॒हस्र॒ऽशः। २४.१। 
+पय॑स्वतीः। ओष॑धयः। पय॑स्वत्। मा॒म॒कम्। वचः॑। अथो॒ इति॑। पय॑स्वतीनाम्। आ। भ॒रे॒। अ॒हम्। स॒हस्र॒ऽशः। २४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

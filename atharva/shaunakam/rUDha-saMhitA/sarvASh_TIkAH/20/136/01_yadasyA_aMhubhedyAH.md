@@ -10,7 +10,7 @@ Si quis in hujus tenui rima praeditae feminae augustias fascinum intromittit, va
 
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒स्या॒ः। अंहु॒ऽभेद्याः। कृ॒धु। स्थू॒लम्। उ॒पऽअत॑सत्। मु॒ष्कौ। इत्। अ॒स्या॒ः। ए॒ज॒त॒ः। गो॑ऽश॒फे। श॑कु॒लौऽइ॑व। १३६.१। 
+यत्। अ॒स्याः॒। अंहु॒ऽभेद्याः। कृ॒धु। स्थू॒लम्। उ॒पऽअत॑सत्। मु॒ष्कौ। इत्। अ॒स्याः॒। ए॒ज॒तः॒। गो॑ऽश॒फे। श॑कु॒लौऽइ॑व। १३६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

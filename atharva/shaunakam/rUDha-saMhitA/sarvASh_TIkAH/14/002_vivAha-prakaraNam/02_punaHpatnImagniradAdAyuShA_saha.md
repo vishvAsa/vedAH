@@ -23,7 +23,7 @@ Agni hath given the bride again with splendour and a lengthened. life. Long-live
 
 <details><summary>पदपाठः</summary>
 
-पुन॑ः। पत्नी॑म्। अ॒ग्निः। अ॒दा॒त्। आयु॑षा। स॒ह। वर्च॑सा। दी॒र्घऽआ॑युः। अ॒स्या॒ः। यः। पति॑ः। जीवा॑ति। श॒रद॑ः। श॒तम्। २.२। 
+पुनः॑। पत्नी॑म्। अ॒ग्निः। अ॒दा॒त्। आयु॑षा। स॒ह। वर्च॑सा। दी॒र्घऽआ॑युः। अ॒स्याः॒। यः। पतिः॑। जीवा॑ति। श॒रदः॑। श॒तम्। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

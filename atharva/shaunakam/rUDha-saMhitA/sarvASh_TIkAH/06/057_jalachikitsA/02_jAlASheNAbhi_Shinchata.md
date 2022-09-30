@@ -24,7 +24,7 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 
 <details><summary>पदपाठः</summary>
 
-जा॒ला॒षेण॑। अ॒भि। सि॒ञ्च॒त॒। जा॒ला॒षेण॑। उप॑। सि॒ञ्च॒त॒। जा॒ला॒षम्। उ॒ग्रम्। भे॒ष॒जम्। तेन॑। न॒ः। मृ॒ड॒। जी॒वसे॑। ५७.२। 
+जा॒ला॒षेण॑। अ॒भि। सि॒ञ्च॒त॒। जा॒ला॒षेण॑। उप॑। सि॒ञ्च॒त॒। जा॒ला॒षम्। उ॒ग्रम्। भे॒ष॒जम्। तेन॑। नः॒। मृ॒ड॒। जी॒वसे॑। ५७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

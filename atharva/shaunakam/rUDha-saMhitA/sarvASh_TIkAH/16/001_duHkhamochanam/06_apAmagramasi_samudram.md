@@ -20,7 +20,7 @@ Thou art in front of the waters. I let loose your sea.
 
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। अग्र॑म्। अ॒सि॒। स॒मु॒द्रम्। व॒ः। अ॒भि॒ऽअव॑सृजामि। १.६। 
+अ॒पाम्। अग्र॑म्। अ॒सि॒। स॒मु॒द्रम्। वः॒। अ॒भि॒ऽअव॑सृजामि। १.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

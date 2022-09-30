@@ -21,7 +21,7 @@ Her slaughter is the sin of witchcraft, her cutting-up is a thunder- bolt, her u
 
 <details><summary>पदपाठः</summary>
 
-तस्या॑ः। आ॒ऽहन॑नम्। कृ॒त्या। मे॒निः। आ॒ऽशस॑नम्। व॒ल॒गः। ऊब॑ध्यम्। ९.१। 
+तस्याः॑। आ॒ऽहन॑नम्। कृ॒त्या। मे॒निः। आ॒ऽशस॑नम्। व॒ल॒गः। ऊब॑ध्यम्। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

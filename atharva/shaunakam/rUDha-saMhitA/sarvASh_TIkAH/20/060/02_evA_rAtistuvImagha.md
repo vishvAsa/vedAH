@@ -10,7 +10,7 @@ So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwel
 
 <details><summary>पदपाठः</summary>
 
-ए॒व। रा॒तिः। तु॒वि॒ऽम॒घ॒। विश्वे॑भिः। धा॒यि॒। धा॒तृऽभि॑ः। अध॑। चि॒त्। इ॒न्द्र॒। मे॒। सचा॑। ६०.२। 
+ए॒व। रा॒तिः। तु॒वि॒ऽम॒घ॒। विश्वे॑भिः। धा॒यि॒। धा॒तृऽभिः॑। अध॑। चि॒त्। इ॒न्द्र॒। मे॒। सचा॑। ६०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

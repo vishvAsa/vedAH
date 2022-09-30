@@ -19,7 +19,7 @@ Sin while she is cooking, evil dream when she is cooked;
 
 <details><summary>पदपाठः</summary>
 
-अ॒घम्। प॒च्यमा॑ना। दु॒ःऽस्वप्न्य॑म्। प॒क्वा। ८.५। 
+अ॒घम्। प॒च्यमा॑ना। दुः॒ऽस्वप्न्य॑म्। प॒क्वा। ८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

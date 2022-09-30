@@ -10,7 +10,7 @@ Then verily they recognized the essential form of Tvashtar's Bull. Here in the m
 
 <details><summary>पदपाठः</summary>
 
-अत्र॑। अह॑। गोः। अ॒म॒न्व॒त॒। नाम॑। त्वष्टु॑ः। अ॒पी॒च्य॑म्। इ॒त्था। च॒न्द्रम॑सः। गृ॒हे। ४१.३। 
+अत्र॑। अह॑। गोः। अ॒म॒न्व॒त॒। नाम॑। त्वष्टुः॑। अ॒पी॒च्य॑म्। इ॒त्था। च॒न्द्रम॑सः। गृ॒हे। ४१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

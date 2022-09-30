@@ -19,7 +19,7 @@ Whatever we have gained, etc. (as in verse 1). Let him not be freed from the noo
 
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। अ॒मुम्। निः। भ॒जा॒म॒ः। अ॒मुम्। आ॒मु॒ष्या॒य॒णम्। अ॒मुष्या॑ः। पु॒त्रम्। अ॒सौ। यः। ८.२। 
+तस्मा॑त्। अ॒मुम्। निः। भ॒जा॒मः॒। अ॒मुम्। आ॒मु॒ष्या॒य॒णम्। अ॒मुष्याः॑। पु॒त्रम्। अ॒सौ। यः। ८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

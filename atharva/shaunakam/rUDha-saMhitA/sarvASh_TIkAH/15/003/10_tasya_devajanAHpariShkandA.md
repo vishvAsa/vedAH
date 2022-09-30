@@ -23,7 +23,7 @@ The hosts of Gods were his attendants, solemn vows his messengers, and all creat
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। दे॒व॒ऽज॒नाः। प॒रि॒ऽस्क॒न्दाः। आस॑न्। स॒म्ऽक॒ल्पाः। प्र॒ऽहा॒य्या᳡ः। विश्वा॑नि। भू॒तानि॑। उ॒प॒ऽसद॑ः। ३.१०। 
+तस्य॑। दे॒व॒ऽज॒नाः। प॒रि॒ऽस्क॒न्दाः। आस॑न्। स॒म्ऽक॒ल्पाः। प्र॒ऽहा॒य्याः᳡। विश्वा॑नि। भू॒तानि॑। उ॒प॒ऽसदः॑। ३.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ O truthful Soma-drinker, thou art mightier than both the worlds. Thou strengthen
 
 <details><summary>पदपाठः</summary>
 
-अ॒भि। हि। स॒त्य॒। सो॒म॒ऽपा॒ः। उ॒भे इति॑। ब॒भूथ॑। रोद॑सी॒ इति॑। इन्द्र॑। असि॑। सु॒न्व॒तः। वृ॒धः। पति॑ः। दि॒वः। ६४.२। 
+अ॒भि। हि। स॒त्य॒। सो॒म॒ऽपाः॒। उ॒भे इति॑। ब॒भूथ॑। रोद॑सी॒ इति॑। इन्द्र॑। असि॑। सु॒न्व॒तः। वृ॒धः। पतिः॑। दि॒वः। ६४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

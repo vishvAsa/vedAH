@@ -25,7 +25,7 @@ Let Tvashtar in this rite in varied manner--All hail!--use forms, his well-yoked
 
 <details><summary>पदपाठः</summary>
 
-त्वष्टा॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। नु। रू॒पाः। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुज॑ः। स्वाहा॑। २६.८। 
+त्वष्टा॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। नु। रू॒पाः। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

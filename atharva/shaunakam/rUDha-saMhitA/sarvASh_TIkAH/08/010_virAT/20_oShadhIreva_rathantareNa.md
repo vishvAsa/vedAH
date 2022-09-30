@@ -23,7 +23,7 @@ She rose, she came unto the Gods: they killed her: but in a fortnight she again 
 
 <details><summary>पदपाठः</summary>
 
-ओष॑धीः। ए॒व। र॒थ॒म्ऽत॒रेण॑। दे॒वाः। अ॒दु॒ह्र॒न्। व्यच॑ः। बृ॒ह॒ता। ११.७। 
+ओष॑धीः। ए॒व। र॒थ॒म्ऽत॒रेण॑। दे॒वाः। अ॒दु॒ह्र॒न्। व्यचः॑। बृ॒ह॒ता। ११.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

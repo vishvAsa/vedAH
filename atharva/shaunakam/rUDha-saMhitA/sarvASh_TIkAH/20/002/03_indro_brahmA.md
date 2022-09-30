@@ -10,7 +10,7 @@ Let Indra the Brahman from the Brahman's cup drink Trishtups, according to the s
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। ब्र॒ह्मा। ब्राह्म॑णात्। सु॒ऽस्तुभ॑ः। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.३। 
+इन्द्रः॑। ब्र॒ह्मा। ब्राह्म॑णात्। सु॒ऽस्तुभः॑। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

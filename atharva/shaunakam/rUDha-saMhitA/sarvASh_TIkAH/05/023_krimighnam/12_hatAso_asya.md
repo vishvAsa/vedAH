@@ -19,7 +19,7 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 
 <details><summary>पदपाठः</summary>
 
-ह॒तास॑ः। अ॒स्य॒। वेशस॑ः। ह॒तास॑ः। परि॑ऽवेशसः। अथो॒ इति॑। ये। क्षु॒ल्ल॒काःऽइ॑व। सर्वे॑। ते। क्रिम॑यः। ह॒ताः। २३.१२। 
+ह॒तासः॑। अ॒स्य॒। वेशसः॑। ह॒तासः॑। परि॑ऽवेशसः। अथो॒ इति॑। ये। क्षु॒ल्ल॒काःऽइ॑व। सर्वे॑। ते। क्रिम॑यः। ह॒ताः। २३.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

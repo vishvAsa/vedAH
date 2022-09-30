@@ -21,7 +21,7 @@ Even as the Mungoose bites and rends and then restores the wounded snake, So do 
 
 <details><summary>पदपाठः</summary>
 
-यथा॑। न॒कु॒लः। वि॒ऽछिद्य॑। स॒म्ऽदधा॑ति। अहि॑म्। पुन॑ः। ए॒व। काम॑स्य। विऽछि॑न्नम्। सम्। धे॒हि॒। वी॒र्य॒ऽव॒ति॒। १३९.५। 
+यथा॑। न॒कु॒लः। वि॒ऽछिद्य॑। स॒म्ऽदधा॑ति। अहि॑म्। पुनः॑। ए॒व। काम॑स्य। विऽछि॑न्नम्। सम्। धे॒हि॒। वी॒र्य॒ऽव॒ति॒। १३९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

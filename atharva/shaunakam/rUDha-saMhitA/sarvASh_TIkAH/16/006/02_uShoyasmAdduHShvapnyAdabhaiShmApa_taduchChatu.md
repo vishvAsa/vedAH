@@ -21,7 +21,7 @@ Let Morning with her light dispel that evil dream that frightened us.
 
 <details><summary>पदपाठः</summary>
 
-उष॑ः। यस्मा॑त्। दु॒ःऽस्वप्न्या॑त्। अभै॑ष्म। अप॑। तत्। उ॒च्छ॒तु॒। ६.२। 
+उषः॑। यस्मा॑त्। दुः॒ऽस्वप्न्या॑त्। अभै॑ष्म। अप॑। तत्। उ॒च्छ॒तु॒। ६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

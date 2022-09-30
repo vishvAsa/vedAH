@@ -10,7 +10,7 @@ Inciter of the voice of song, with thousand streams the ocean flows, Even Soma, 
 
 <details><summary>पदपाठः</summary>
 
-स॒हस्र॑ऽधारः। प॒व॒ते॒। स॒मु॒द्रः। वा॒च॒म्ऽई॒ड्ख॒यः। सोम॑ः। पतिः। र॒यी॒णाम्। सखा॑। इन्द्र॑स्य। दि॒वेऽदि॑वे। १३७.६। 
+स॒हस्र॑ऽधारः। प॒व॒ते॒। स॒मु॒द्रः। वा॒च॒म्ऽई॒ड्ख॒यः। सोमः॑। पतिः। र॒यी॒णाम्। सखा॑। इन्द्र॑स्य। दि॒वेऽदि॑वे। १३७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

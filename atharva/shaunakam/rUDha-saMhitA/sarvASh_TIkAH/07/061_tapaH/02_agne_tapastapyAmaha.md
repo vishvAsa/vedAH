@@ -22,7 +22,7 @@ Agni, we practise acts austere, we undergo austerity. So listening to Holy Lore 
 
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। तप॑ः। त॒प्या॒म॒हे॒। उप॑। त॒प्या॒म॒हे॒। तप॑ः। श्रु॒तानि॑। शृ॒ण्वन्त॑ः। व॒यम्। आयु॑ष्मन्तः। सु॒ऽमे॒धस॑ः। ६३.२। 
+अग्ने॑। तपः॑। त॒प्या॒म॒हे॒। उप॑। त॒प्या॒म॒हे॒। तपः॑। श्रु॒तानि॑। शृ॒ण्वन्तः॑। व॒यम्। आयु॑ष्मन्तः। सु॒ऽमे॒धसः॑। ६३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

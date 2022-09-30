@@ -31,7 +31,7 @@ Thou art the wood, may I succeed! fuel, may I be glorified! splendour, give sple
 
 <details><summary>पदपाठः</summary>
 
-एध॑ः। अ॒सि॒। ए॒धि॒षी॒य। स॒म्ऽइत्। अ॒सि॒। सम्। ए॒धि॒षी॒य॒। तेज॑ः। अ॒सि॒। तेज॑ः। मयि॑। धे॒हि॒। ९४.४। 
+एधः॑। अ॒सि॒। ए॒धि॒षी॒य। स॒म्ऽइत्। अ॒सि॒। सम्। ए॒धि॒षी॒य॒। तेजः॑। अ॒सि॒। तेजः॑। मयि॑। धे॒हि॒। ९४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

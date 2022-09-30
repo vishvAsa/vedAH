@@ -10,7 +10,7 @@ O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward. Give e
 
 <details><summary>पदपाठः</summary>
 
-आ। त्वा॒। ब्र॒ह्म॒ऽयुजा॑। हरी॒ इति॑। वह॑ताम्। इ॒न्द्र॒। के॒शिना॑। उप॑। ब्रह्मा॑णि। न॒ः। शृ॒णु॒। ३८.२। 
+आ। त्वा॒। ब्र॒ह्म॒ऽयुजा॑। हरी॒ इति॑। वह॑ताम्। इ॒न्द्र॒। के॒शिना॑। उप॑। ब्रह्मा॑णि। नः॒। शृ॒णु॒। ३८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

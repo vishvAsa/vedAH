@@ -20,7 +20,7 @@ Propitious to-day be dawns and evenings. May I drink water with all my people sa
 
 <details><summary>पदपाठः</summary>
 
-स्व॒स्ति। अ॒द्यः। उ॒षस॑ः। दो॒षस॑ः। च॒। सर्व॑ः। आ॒प॒ः। सर्व॑ऽगणः। अ॒शी॒य॒। ४.६। 
+स्व॒स्ति। अ॒द्यः। उ॒षसः॑। दो॒षसः॑। च॒। सर्वः॑। आ॒पः॒। सर्व॑ऽगणः। अ॒शी॒य॒। ४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

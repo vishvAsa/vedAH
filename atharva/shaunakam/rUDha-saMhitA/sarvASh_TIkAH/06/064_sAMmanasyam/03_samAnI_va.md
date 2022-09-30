@@ -23,7 +23,7 @@ One and the same be your resolve, be all your hearts in har- mony: One and the s
 
 <details><summary>पदपाठः</summary>
 
-स॒मा॒नी। व॒ः। आऽकू॑तिः। स॒मा॒ना। हृद॑यानि। व॒ः। स॒मा॒नम्। अ॒स्तु॒। वः। मन॑ः। यथा॑। व॒ः। सुऽस॑ह। अस॑ति। ६४.३। 
+स॒मा॒नी। वः॒। आऽकू॑तिः। स॒मा॒ना। हृद॑यानि। वः॒। स॒मा॒नम्। अ॒स्तु॒। वः। मनः॑। यथा॑। वः॒। सुऽस॑ह। अस॑ति। ६४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

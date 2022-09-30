@@ -16,7 +16,7 @@ Endowed with wealth, denying not, give freely fain to give your gifts! Ye stay t
 
 <details><summary>पदपाठः</summary>
 
-रेव॑तीः। अना॑धृषः। सि॒सा॒सव॑ः। सि॒सा॒स॒थ॒। उ॒त। स्थ। के॒श॒ऽदृंह॑णीः। अथो॒ इति॑। ह॒। के॒श॒ऽवर्ध॑नी। २१.३। 
+रेव॑तीः। अना॑धृषः। सि॒सा॒सवः॑। सि॒सा॒स॒थ॒। उ॒त। स्थ। के॒श॒ऽदृंह॑णीः। अथो॒ इति॑। ह॒। के॒श॒ऽवर्ध॑नी। २१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

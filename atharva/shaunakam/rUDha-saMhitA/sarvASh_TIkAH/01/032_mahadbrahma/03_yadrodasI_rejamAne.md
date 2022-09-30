@@ -27,7 +27,7 @@ What the two trembling hemispheres and ground produced and fashioned forth. This
 
 <details><summary>पदपाठः</summary>
 
-यत्। रोद॑सी॒ इति॑। रेज॑माने॒ इति॑। भूमि॑ः। च॒। नि॒ःऽअत॑क्षतम्। आ॒र्द्रम्। तत्। अ॒द्य। स॒र्व॒दा। स॒मु॒द्रस्य॑ऽइव। स्रो॒त्याः। 
+यत्। रोद॑सी॒ इति॑। रेज॑माने॒ इति॑। भूमिः॑। च॒। निः॒ऽअत॑क्षतम्। आ॒र्द्रम्। तत्। अ॒द्य। स॒र्व॒दा। स॒मु॒द्रस्य॑ऽइव। स्रो॒त्याः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

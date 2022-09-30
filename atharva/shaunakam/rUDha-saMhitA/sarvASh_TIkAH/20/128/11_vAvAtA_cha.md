@@ -10,7 +10,7 @@ The favourite wife most dearly loved, the man who safely goes to war, The fleet 
 
 <details><summary>पदपाठः</summary>
 
-वा॒वा॒ता। च॒। महि॑षी। स्व॒स्त्या। च। युधिंगमः। श्वा॒शुर॑ः। च। अया॒मी। तो॒ता। कल्पे॑षु। सं॒मिता। १२८.११। 
+वा॒वा॒ता। च॒। महि॑षी। स्व॒स्त्या। च। युधिंगमः। श्वा॒शुरः॑। च। अया॒मी। तो॒ता। कल्पे॑षु। सं॒मिता। १२८.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

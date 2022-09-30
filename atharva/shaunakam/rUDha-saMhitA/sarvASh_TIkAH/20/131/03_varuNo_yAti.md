@@ -10,7 +10,7 @@ Varuna with the Vasus goes:
 
 <details><summary>पदपाठः</summary>
 
-वरू॑ण॒ः। याति॒। वस्व॑भिः। १३१.३। 
+वरू॑णः॒। याति॒। वस्व॑भिः। १३१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

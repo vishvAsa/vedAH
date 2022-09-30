@@ -17,7 +17,7 @@ He who possesses this knowledge becomes the beloved home of Prajapati and Parame
 
 <details><summary>पदपाठः</summary>
 
-प्र॒जाऽप॑तेः। च॒। वै। सः। प॒र॒मे॒ऽस्थीन॑ः। च॒। पि॒तुः। च॒। पि॒ता॒म॒हस्य॑। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ६.२६। 
+प्र॒जाऽप॑तेः। च॒। वै। सः। प॒र॒मे॒ऽस्थीनः॑। च॒। पि॒तुः। च॒। पि॒ता॒म॒हस्य॑। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ६.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

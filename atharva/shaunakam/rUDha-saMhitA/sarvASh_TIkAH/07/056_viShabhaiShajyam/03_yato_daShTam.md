@@ -29,7 +29,7 @@ Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectu
 
 <details><summary>पदपाठः</summary>
 
-यत॑ः। द॒ष्टम्। यत॑ः। धी॒तम्। तत॑ः। ते॒। निः। ह्व॒या॒म॒सि॒। अ॒र्भस्य॑। तृ॒प्र॒ऽदं॒शिन॑ः। म॒शक॑स्य। अ॒र॒सम्। वि॒षम्। ५८.३। 
+यतः॑। द॒ष्टम्। यतः॑। धी॒तम्। ततः॑। ते॒। निः। ह्व॒या॒म॒सि॒। अ॒र्भस्य॑। तृ॒प्र॒ऽदं॒शिनः॑। म॒शक॑स्य। अ॒र॒सम्। वि॒षम्। ५८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

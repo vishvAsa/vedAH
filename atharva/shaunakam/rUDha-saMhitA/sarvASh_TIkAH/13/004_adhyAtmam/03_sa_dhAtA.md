@@ -20,7 +20,7 @@ Creator and Ordainer, he is Vayu, he is lifted cloud.
 
 <details><summary>पदपाठः</summary>
 
-सः। धा॒ता। सः। वि॒ऽध॒र्ता। सः। वा॒युः। नभ॑ः। उत्ऽश्रि॑तम्। । ४.३। 
+सः। धा॒ता। सः। वि॒ऽध॒र्ता। सः। वा॒युः। नभः॑। उत्ऽश्रि॑तम्। । ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

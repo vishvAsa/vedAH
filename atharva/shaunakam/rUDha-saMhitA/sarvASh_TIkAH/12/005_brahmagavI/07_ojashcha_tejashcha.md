@@ -19,7 +19,7 @@ The energy and vigour, the power and might the speech and mental strength, the g
 
 <details><summary>पदपाठः</summary>
 
-ओज॑ः। च॒। तेज॑ः। च॒। सह॑ः। च॒। बल॑म्। च॒। वाक्। च॒। इ॒न्द्रि॒यम्। च॒। श्रीः। च॒। धर्म॑ः। च॒। ६.१। 
+ओजः॑। च॒। तेजः॑। च॒। सहः॑। च॒। बल॑म्। च॒। वाक्। च॒। इ॒न्द्रि॒यम्। च॒। श्रीः। च॒। धर्मः॑। च॒। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, 
 
 <details><summary>पदपाठः</summary>
 
-अ॒प्ऽसु। मे॒। सोम॑ः। अ॒ब्र॒वी॒त्। अ॒न्तः। विश्वा॑नि। भे॒ष॒जा। अ॒ग्निम्। च॒। वि॒श्वऽशं॑भुवम्। 
+अ॒प्ऽसु। मे॒। सोमः॑। अ॒ब्र॒वी॒त्। अ॒न्तः। विश्वा॑नि। भे॒ष॒जा। अ॒ग्निम्। च॒। वि॒श्वऽशं॑भुवम्। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

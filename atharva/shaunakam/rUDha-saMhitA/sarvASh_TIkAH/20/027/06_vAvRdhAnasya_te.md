@@ -10,7 +10,7 @@ Thine aid we claim, O Indra, thine who after thou hast waxen great. Hast won all
 
 <details><summary>पदपाठः</summary>
 
-व॒वृ॒धा॒नस्य॑। ते॒। व॒यम्। विश्वा॑। धना॑नि। जि॒ग्युष॑ः। ऊ॒तिम्। इ॒न्द्र॒। आ। वृ॒णी॒म॒हे॒। २७.६। 
+व॒वृ॒धा॒नस्य॑। ते॒। व॒यम्। विश्वा॑। धना॑नि। जि॒ग्युषः॑। ऊ॒तिम्। इ॒न्द्र॒। आ। वृ॒णी॒म॒हे॒। २७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

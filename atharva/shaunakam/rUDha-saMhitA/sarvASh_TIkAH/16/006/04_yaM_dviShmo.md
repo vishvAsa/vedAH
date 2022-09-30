@@ -20,7 +20,7 @@ To him whom we abhor, to him who hates us do we send it hence.
 
 <details><summary>पदपाठः</summary>
 
-यम्। द्वि॒ष्मः। यत्। च॒। न॒ः। द्वेष्टि॑। तस्मै॑। ए॒न॒त्। ग॒म॒या॒म॒ः। ६.४। 
+यम्। द्वि॒ष्मः। यत्। च॒। नः॒। द्वेष्टि॑। तस्मै॑। ए॒न॒त्। ग॒म॒या॒मः॒। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

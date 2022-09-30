@@ -20,7 +20,7 @@ Suyaman son of Chakshus.
 
 <details><summary>पदपाठः</summary>
 
-सुऽया॑मन्। चा॒क्षु॒ष॒ः। ७.७। 
+सुऽया॑मन्। चा॒क्षु॒षः॒। ७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

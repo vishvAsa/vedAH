@@ -10,7 +10,7 @@ His belly drinking deepest draughts of Soma like an ocean swells, Like wide stre
 
 <details><summary>पदपाठः</summary>
 
-यः। कु॒क्षिः। सो॒म॒ऽपात॑मः। स॒मु॒द्रःऽइ॑व। पिन्व॑ते। उ॒र्वीः। आप॑ः। न। का॒कुद॑ः। ७१.३। 
+यः। कु॒क्षिः। सो॒म॒ऽपात॑मः। स॒मु॒द्रःऽइ॑व। पिन्व॑ते। उ॒र्वीः। आपः॑। न। का॒कुदः॑। ७१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

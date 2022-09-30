@@ -33,7 +33,7 @@ Soma, whoever troubleth us, be he a stranger or akin, Deprive him of the strengt
 
 <details><summary>पदपाठः</summary>
 
-यः। न॒ः। सो॒म॒। अ॒भि॒ऽदास॑ति। सऽना॑भिः। यः। च॒। निष्ट्य॑ः। अप॑। तस्य॑। बल॑म्। ति॒र॒। म॒हीऽइ॑व। द्यौः। व॒ध॒त्मना॑। ६.३। 
+यः। नः॒। सो॒म॒। अ॒भि॒ऽदास॑ति। सऽना॑भिः। यः। च॒। निष्ट्यः॑। अप॑। तस्य॑। बल॑म्। ति॒र॒। म॒हीऽइ॑व। द्यौः। व॒ध॒त्मना॑। ६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

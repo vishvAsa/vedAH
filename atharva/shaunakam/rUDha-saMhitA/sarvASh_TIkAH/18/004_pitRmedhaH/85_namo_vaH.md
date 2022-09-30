@@ -27,7 +27,7 @@ Homage to you Fathers! Hail to you, Fathers!
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। व॒ः। पि॒त॒र॒ः। स्व॒धा। व॒ः। पि॒त॒र॒ः। ४.८५। 
+नमः॑। वः॒। पि॒त॒रः॒। स्व॒धा। वः॒। पि॒त॒रः॒। ४.८५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

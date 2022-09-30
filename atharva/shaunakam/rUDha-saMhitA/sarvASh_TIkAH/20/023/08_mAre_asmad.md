@@ -10,7 +10,7 @@ O thou to whom thy Bays are dear, loose not thy horses far from us: Here glad th
 
 <details><summary>पदपाठः</summary>
 
-मा। आ॒रे। अ॒स्मत्। वि। मु॒मु॒च॒ः। हरि॑ऽप्रिय। अ॒र्वाङ्। या॒हि॒। इन्द्र॑। स्व॒धा॒ऽव॒ः। मत्स्व॑। इ॒ह। २३.८। 
+मा। आ॒रे। अ॒स्मत्। वि। मु॒मु॒चः॒। हरि॑ऽप्रिय। अ॒र्वाङ्। या॒हि॒। इन्द्र॑। स्व॒धा॒ऽवः॒। मत्स्व॑। इ॒ह। २३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

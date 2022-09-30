@@ -28,7 +28,7 @@ Blind fortune, with reverted leaves that is deposited in trees-- Give me therewi
 
 <details><summary>पदपाठः</summary>
 
-यः। अ॒न्धः। यः। पु॒न॒ःऽस॒रः। भग॑ः। वृ॒क्षेषु॑। आऽहि॑तः। तेन॑। मा॒। भ॒गिन॑म्। कृ॒णु॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.३। 
+यः। अ॒न्धः। यः। पु॒नः॒ऽस॒रः। भगः॑। वृ॒क्षेषु॑। आऽहि॑तः। तेन॑। मा॒। भ॒गिन॑म्। कृ॒णु॒। अप॑। द्रा॒न्तु॒। अरा॑तयः। १२९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

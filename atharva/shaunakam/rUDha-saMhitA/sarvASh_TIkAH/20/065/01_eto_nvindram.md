@@ -10,7 +10,7 @@ Come, sing we praise to Indra, friends! the Hero who deserves the laud, Him who 
 
 <details><summary>पदपाठः</summary>
 
-एतो॒ इत‍ि॑। नु। इन्द्र॑म्। स्तवा॑म। सखा॑यः। स्तोम्य॑म्। नर॑म्। कृ॒ष्टीः। यः। विश्वा॑ः। अ॒भि। अस्ति॑। एक॑ः। इत्। ६५.१। 
+एतो॒ इत‍ि॑। नु। इन्द्र॑म्। स्तवा॑म। सखा॑यः। स्तोम्य॑म्। नर॑म्। कृ॒ष्टीः। यः। विश्वाः॑। अ॒भि। अस्ति॑। एकः॑। इत्। ६५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

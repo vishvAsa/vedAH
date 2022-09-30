@@ -21,7 +21,7 @@ Hunger is the belly, refreshing drink is the rectum, mountains. are the inward p
 
 <details><summary>पदपाठः</summary>
 
-क्षुत्। कु॒क्षिः। इरा॑। व॒नि॒ष्ठुः। पर्व॑ताः। प्ला॒शय॑ः। १२.१२। 
+क्षुत्। कु॒क्षिः। इरा॑। व॒नि॒ष्ठुः। पर्व॑ताः। प्ला॒शयः॑। १२.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Thou art a maid called Taudi, or Ghritachi is thy name. Thy place; Is underneath
 
 <details><summary>पदपाठः</summary>
 
-तौदी॑। नाम॑। अ॒सि॒। क॒न्या᳡। घृ॒ताची॑। नाम॑। वै। अ॒सि॒। अ॒ध॒ःऽप॒देन॑। ते॒। प॒दम्। आ। द॒दे॒। वि॒ष॒ऽदूष॑णम्। ४.२४। 
+तौदी॑। नाम॑। अ॒सि॒। क॒न्या᳡। घृ॒ताची॑। नाम॑। वै। अ॒सि॒। अ॒धः॒ऽप॒देन॑। ते॒। प॒दम्। आ। द॒दे॒। वि॒ष॒ऽदूष॑णम्। ४.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

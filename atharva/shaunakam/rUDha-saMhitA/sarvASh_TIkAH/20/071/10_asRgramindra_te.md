@@ -10,7 +10,7 @@ Songs have outpoured themselves to thee, Indra, the strong, the guardian Lord. A
 
 <details><summary>पदपाठः</summary>
 
-असृ॑ग्रम्। इ॒न्द्र॒। ते॒। गिर॑ः। प्रति॑। त्वाम्। उत्। अ॒हा॒स॒त॒। अजो॑षाः। वृ॒ष॒भम्। पति॑म्। ७१.१०। 
+असृ॑ग्रम्। इ॒न्द्र॒। ते॒। गिरः॑। प्रति॑। त्वाम्। उत्। अ॒हा॒स॒त॒। अजो॑षाः। वृ॒ष॒भम्। पति॑म्। ७१.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

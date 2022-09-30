@@ -20,7 +20,7 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 
 <details><summary>पदपाठः</summary>
 
-शि॒वेन॑। मा॒। चक्षु॑षा। प॒श्य॒त॒। आ॒प॒ः। शि॒वया॑। त॒न्वा᳡। उप॑। स्पृ॒श॒त॒। त्वच॑म्। मे॒। १.१२। 
+शि॒वेन॑। मा॒। चक्षु॑षा। प॒श्य॒त॒। आ॒पः॒। शि॒वया॑। त॒न्वा᳡। उप॑। स्पृ॒श॒त॒। त्वच॑म्। मे॒। १.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ In Soma's ecstasy Indra spread the firmament and realms of light. When he cleft 
 
 <details><summary>पदपाठः</summary>
 
-वि। अ॒न्तरि॑क्षम्। अ॒ति॒र॒त्। मदे॑। सोम॑स्य। रो॒च॒ना। इन्द्र॑ः। यत्। अभि॑नत्। व॒लम्। ३९.२। 
+वि। अ॒न्तरि॑क्षम्। अ॒ति॒र॒त्। मदे॑। सोम॑स्य। रो॒च॒ना। इन्द्रः॑। यत्। अभि॑नत्। व॒लम्। ३९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

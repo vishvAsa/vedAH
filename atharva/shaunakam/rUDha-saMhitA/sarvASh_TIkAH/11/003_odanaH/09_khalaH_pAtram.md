@@ -22,7 +22,7 @@ The threshing-floor is its dish, the wooden swords its shoulders, the car-shafts
 
 <details><summary>पदपाठः</summary>
 
-खल॑ः। पात्र॑म्। स्‍फ्यौ। अंसौ॑। इ॒षे इति॑। अ॒नू॒क्ये॒३॒ इति॑। ३.९। 
+खलः॑। पात्र॑म्। स्‍फ्यौ। अंसौ॑। इ॒षे इति॑। अ॒नू॒क्ये॒३॒ इति॑। ३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

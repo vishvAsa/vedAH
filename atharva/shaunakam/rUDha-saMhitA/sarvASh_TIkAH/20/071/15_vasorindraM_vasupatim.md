@@ -10,7 +10,7 @@ Praising with songs the praise-worthy who cometh to our aid, we call Indra, the 
 
 <details><summary>पदपाठः</summary>
 
-वसो॑ः। इन्द्र॑म्। वसु॑ऽपतिम्। गी॒ऽभिः। गृ॒णन्त॑ः। ऋ॒ग्मिय॑म्। होम॑। गन्ता॑रम्। ऊ॒तये॑। ७१.१५। 
+वसोः॑। इन्द्र॑म्। वसु॑ऽपतिम्। गी॒ऽभिः। गृ॒णन्तः॑। ऋ॒ग्मिय॑म्। होम॑। गन्ता॑रम्। ऊ॒तये॑। ७१.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

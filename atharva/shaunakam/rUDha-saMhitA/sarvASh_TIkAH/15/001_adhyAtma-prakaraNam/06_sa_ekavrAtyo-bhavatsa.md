@@ -21,7 +21,7 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 
 <details><summary>पदपाठः</summary>
 
-सः। ए॒क॒ऽव्रा॒त्यः। अ॒भ॒व॒त्। सः। धनु॑ः। आ। अ॒द॒त्त॒। तत्। ए॒व। इ॒न्द्र॒ऽध॒नुः। १.६। 
+सः। ए॒क॒ऽव्रा॒त्यः। अ॒भ॒व॒त्। सः। धनुः॑। आ। अ॒द॒त्त॒। तत्। ए॒व। इ॒न्द्र॒ऽध॒नुः। १.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

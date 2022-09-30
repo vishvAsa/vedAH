@@ -10,7 +10,7 @@ For verily thy mighty powers, Indra, are saving helps at once Unto a worshipper 
 
 <details><summary>पदपाठः</summary>
 
-ए॒व। हि। ते॒। विऽभू॑तयः। ऊ॒तय॑ः। इ॒न्द्र॒। माऽव॑ते। स॒द्यः। चि॒त्। सन्ति॑। दा॒शुषे॑। ६०.५। 
+ए॒व। हि। ते॒। विऽभू॑तयः। ऊ॒तयः॑। इ॒न्द्र॒। माऽव॑ते। स॒द्यः। चि॒त्। सन्ति॑। दा॒शुषे॑। ६०.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

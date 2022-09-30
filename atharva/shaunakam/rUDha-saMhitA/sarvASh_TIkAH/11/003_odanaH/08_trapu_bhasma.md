@@ -22,7 +22,7 @@ Tin is its ashes, gold its colour, the blue lotus flower its scent.
 
 <details><summary>पदपाठः</summary>
 
-त्रपु॑। भस्म॑। हरि॑तम्। वर्ण॑ः। पुष्क॑रम्। अ॒स्य॒। ग॒न्धः। ३.८। 
+त्रपु॑। भस्म॑। हरि॑तम्। वर्णः॑। पुष्क॑रम्। अ॒स्य॒। ग॒न्धः। ३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

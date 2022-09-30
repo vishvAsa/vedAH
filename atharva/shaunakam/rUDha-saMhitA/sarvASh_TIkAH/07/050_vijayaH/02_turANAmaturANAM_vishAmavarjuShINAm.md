@@ -26,7 +26,7 @@ From every side, from hale and sick, impotent to defend them- selves, May all th
 
 <details><summary>पदपाठः</summary>
 
-तु॒राणा॑म्। अतु॑राणाम्। वि॒शाम्। अव॑र्जुषीणाम्। स॒म्ऽऐतु॑। वि॒श्वत॑ः। भग॑ः। अ॒न्त॒ःऽह॒स्तम्। कृ॒तम्। मम॑। ५२.२। 
+तु॒राणा॑म्। अतु॑राणाम्। वि॒शाम्। अव॑र्जुषीणाम्। स॒म्ऽऐतु॑। वि॒श्वतः॑। भगः॑। अ॒न्तः॒ऽह॒स्तम्। कृ॒तम्। मम॑। ५२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Give, Indra, wide and lofty fame, wealthy in cattle and in strength, Lasting our
 
 <details><summary>पदपाठः</summary>
 
-सम्। गोऽम॑त्। इ॒न्द्र॒। वाज॑ऽवत्। अ॒स्मे इति॑। पृ॒थु। श्रव॑ः। बृ॒हत्। वि॒श्वऽआयुः। धे॒हि॒। अक्षि॑तम्। ७१.१३। 
+सम्। गोऽम॑त्। इ॒न्द्र॒। वाज॑ऽवत्। अ॒स्मे इति॑। पृ॒थु। श्रवः॑। बृ॒हत्। वि॒श्वऽआयुः। धे॒हि॒। अक्षि॑तम्। ७१.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

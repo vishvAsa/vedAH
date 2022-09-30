@@ -34,7 +34,7 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 
 <details><summary>पदपाठः</summary>
 
-अनु॑। अ॒द्य। न॒ः। अनु॑ऽमतिः। य॒ज्ञम्। दे॒वेषु॑। म॒न्य॒ता॒म्। अ॒ग्निः। च॒। ह॒व्य॒ऽवाह॑नः भव॑ताम्। दा॒शुषे॑। मम॑। २१.१। 
+अनु॑। अ॒द्य। नः॒। अनु॑ऽमतिः। य॒ज्ञम्। दे॒वेषु॑। म॒न्य॒ता॒म्। अ॒ग्निः। च॒। ह॒व्य॒ऽवाह॑नः भव॑ताम्। दा॒शुषे॑। मम॑। २१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

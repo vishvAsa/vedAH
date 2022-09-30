@@ -10,7 +10,7 @@ Maiden, it truly is not so as thou, O maiden, fanciest. Two are thy mother's ray
 
 <details><summary>पदपाठः</summary>
 
-मा॒तुः। ते॒। कि॑रणौ॒। द्वौ। निवृ॑त्त॒ः। पुरु॑षान्। ऋ॒ते। न। वै। कु॒मारि॒। तत्। तथा॒। यथा॑। कुमारि॒। मन्य॑से। १३३.२। 
+मा॒तुः। ते॒। कि॑रणौ॒। द्वौ। निवृ॑त्तः॒। पुरु॑षान्। ऋ॒ते। न। वै। कु॒मारि॒। तत्। तथा॒। यथा॑। कुमारि॒। मन्य॑से। १३३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

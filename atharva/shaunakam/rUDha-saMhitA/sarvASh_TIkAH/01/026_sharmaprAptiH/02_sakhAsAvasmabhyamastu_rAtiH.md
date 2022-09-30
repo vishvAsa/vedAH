@@ -33,7 +33,7 @@ Our friend be that Celestial Grace, Indra and Bhaga be our friends, and Savitar 
 
 <details><summary>पदपाठः</summary>
 
-सखा॑। अ॒सौ। अ॒स्मभ्य॑म्। अ॒स्तु॒। रा॒तिः। सखा॑। इन्द्र॑ः। भग॑ः। स॒वि॒ता। चि॒त्रऽरा॑धाः। 
+सखा॑। अ॒सौ। अ॒स्मभ्य॑म्। अ॒स्तु॒। रा॒तिः। सखा॑। इन्द्रः॑। भगः॑। स॒वि॒ता। चि॒त्रऽरा॑धाः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

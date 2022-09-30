@@ -29,7 +29,7 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 
 <details><summary>पदपाठः</summary>
 
-यः। अति॑थीनाम्। सः। आ॒ऽह॒व॒नीय॑ः। यः। वेश्म॑नि। सः। गार्ह॑ऽपत्यः। यस्मि॑न्। पच॑न्ति। सः। द॒क्षि॒ण॒ऽअ॒ग्निः। ७.१३। 
+यः। अति॑थीनाम्। सः। आ॒ऽह॒व॒नीयः॑। यः। वेश्म॑नि। सः। गार्ह॑ऽपत्यः। यस्मि॑न्। पच॑न्ति। सः। द॒क्षि॒ण॒ऽअ॒ग्निः। ७.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

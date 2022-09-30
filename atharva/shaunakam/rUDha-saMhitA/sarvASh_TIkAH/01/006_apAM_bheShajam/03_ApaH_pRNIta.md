@@ -20,7 +20,7 @@ O Waters, teem with medicine to keep my body safe from harm, So that I long may 
 
 <details><summary>पदपाठः</summary>
 
-आप॑ः। पृ॒णी॒त। भे॒ष॒जम्। वरू॑थम्। त॒न्वे। मम॑। ज्योक्। च॒। सूर्य॑म्। दृ॒शे। 
+आपः॑। पृ॒णी॒त। भे॒ष॒जम्। वरू॑थम्। त॒न्वे। मम॑। ज्योक्। च॒। सूर्य॑म्। दृ॒शे। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

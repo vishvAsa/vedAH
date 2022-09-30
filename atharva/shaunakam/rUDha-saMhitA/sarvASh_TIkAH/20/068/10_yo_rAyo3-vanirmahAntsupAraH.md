@@ -10,7 +10,7 @@ To him the mighty stream of wealth, prompt Friend of him who pours the juice, Ye
 
 <details><summary>पदपाठः</summary>
 
-यः। रा॒यः। अ॒वनि॑ः। म॒हान्। सु॒ऽपा॒रः। सु॒न्व॒तः। सखा॑। तस्मै॑। इन्द्रा॑य। गा॒य॒त॒। ६८.१०। 
+यः। रा॒यः। अ॒वनिः॑। म॒हान्। सु॒ऽपा॒रः। सु॒न्व॒तः। सखा॑। तस्मै॑। इन्द्रा॑य। गा॒य॒त॒। ६८.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

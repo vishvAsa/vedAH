@@ -10,7 +10,7 @@ That, Satakratu, thou to grace and please thy praisers, as it were, Stirrest the
 
 <details><summary>पदपाठः</summary>
 
-आ। यत्। दुव॑ः। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। आ। काम॑म्। ज॒रि॒तॄ॒णाम्। ऋ॒णोः। अक्ष॑म्। न। शची॑भिः। १२२.३। 
+आ। यत्। दुवः॑। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। आ। काम॑म्। ज॒रि॒तॄ॒णाम्। ऋ॒णोः। अक्ष॑म्। न। शची॑भिः। १२२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

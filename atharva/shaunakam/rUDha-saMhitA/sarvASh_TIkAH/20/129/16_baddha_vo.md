@@ -10,7 +10,7 @@ Barley and ripened rice I seek. On rice and barley hast thou fed, (with previous
 
 <details><summary>पदपाठः</summary>
 
-बद्ध॑। व॒ः। अघा॒ः। इति॑। १२९.१६। 
+बद्ध॑। वः॒। अघाः॒। इति॑। १२९.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

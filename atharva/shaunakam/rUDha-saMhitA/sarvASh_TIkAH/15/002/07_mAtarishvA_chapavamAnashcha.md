@@ -18,7 +18,7 @@ Matarisvan and Pavamana are they who draw it, Vita is his charioteer, Storm his 
 
 <details><summary>पदपाठः</summary>
 
-मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वात॑ः। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.७। 
+मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वातः॑। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

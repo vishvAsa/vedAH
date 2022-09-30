@@ -10,7 +10,7 @@ When yellow stalks give forth the juice as cows from udders pour their milk, And
 
 <details><summary>पदपाठः</summary>
 
-यत्। आऽपी॑तासः। अं॒शव॑ः। गाव॑ः। न। दु॒ह्रे। ऊध॑ऽभिः। यत्। वा॒। वाणी॑ः। अनू॑षत। प्र। दे॒व॒ऽयन्त॑ः। अ॒श्विना॑। १४२.४। 
+यत्। आऽपी॑तासः। अं॒शवः॑। गावः॑। न। दु॒ह्रे। ऊध॑ऽभिः। यत्। वा॒। वाणीः॑। अनू॑षत। प्र। दे॒व॒ऽयन्तः॑। अ॒श्विना॑। १४२.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

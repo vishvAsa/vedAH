@@ -10,7 +10,7 @@ He who hath made the fleet steeds spring, well-harnessed, to the worshipper, He,
 
 <details><summary>पदपाठः</summary>
 
-यः। व्यती॑न्। अफा॑णयत्। सुऽयु॑क्तान्। उप॑। दा॒शुषे॑। त॒क्वः। ने॒ना। तत्। इत्। वपु॑ः। उ॒प॒ऽमा। यः। अमु॑च्यत। ९२.१०। 
+यः। व्यती॑न्। अफा॑णयत्। सुऽयु॑क्तान्। उप॑। दा॒शुषे॑। त॒क्वः। ने॒ना। तत्। इत्। वपुः॑। उ॒प॒ऽमा। यः। अमु॑च्यत। ९२.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

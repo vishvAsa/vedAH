@@ -25,7 +25,7 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 
 <details><summary>पदपाठः</summary>
 
-साम्ऽत॑पनाः। इ॒दम्। ह॒विः। मरु॑तः। तत्। जु॒जु॒ष्ट॒न॒। अ॒स्माक॑। ऊ॒ती। रि॒शा॒द॒स॒ः। ८२.१। 
+साम्ऽत॑पनाः। इ॒दम्। ह॒विः। मरु॑तः। तत्। जु॒जु॒ष्ट॒न॒। अ॒स्माक॑। ऊ॒ती। रि॒शा॒द॒सः॒। ८२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

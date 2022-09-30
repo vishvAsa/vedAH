@@ -19,7 +19,7 @@ Therefore the Brahmans' cow is held inviolable by the wise.
 
 <details><summary>पदपाठः</summary>
 
-तस्मा॑त्। वै। ब्रा॒ह्म॒णाना॑म्। गौः। दु॒ःऽआ॒धर्षा॑। वि॒ऽजा॒न॒ता। ७.६। 
+तस्मा॑त्। वै। ब्रा॒ह्म॒णाना॑म्। गौः। दुः॒ऽआ॒धर्षा॑। वि॒ऽजा॒न॒ता। ७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

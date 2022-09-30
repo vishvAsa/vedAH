@@ -21,7 +21,7 @@ We bringing homage have approached the friend who seeks our wondering praise, Yo
 
 <details><summary>पदपाठः</summary>
 
-उप॑। प्रि॒यम्। पनि॑प्नतम्। युवा॑नम्। आ॒हु॒ति॒ऽवृध॑म्। अग॑न्म। बिभ्र॑तः। नम॑ः। दी॒र्घम्। आयु॑ः। कृ॒णो॒तु॒। मे॒। ३३.१। 
+उप॑। प्रि॒यम्। पनि॑प्नतम्। युवा॑नम्। आ॒हु॒ति॒ऽवृध॑म्। अग॑न्म। बिभ्र॑तः। नमः॑। दी॒र्घम्। आयुः॑। कृ॒णो॒तु॒। मे॒। ३३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

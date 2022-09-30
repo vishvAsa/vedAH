@@ -19,7 +19,7 @@ We know thine origin, O Sleep. Thou art the son of Misery, etc.
 
 <details><summary>पदपाठः</summary>
 
-तम्। त्वा॒। स्व॒प्न॒। तथा॑। सम्। वि॒द्म॒। स। न॒ः। स्व॒प्न॒। दु॒ःऽस्वप्न्या॑त्। पा॒हि॒। ५.३। 
+तम्। त्वा॒। स्व॒प्न॒। तथा॑। सम्। वि॒द्म॒। स। नः॒। स्व॒प्न॒। दुः॒ऽस्वप्न्या॑त्। पा॒हि॒। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

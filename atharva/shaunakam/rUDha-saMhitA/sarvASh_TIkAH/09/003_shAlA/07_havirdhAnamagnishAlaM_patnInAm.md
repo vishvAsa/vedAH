@@ -21,7 +21,7 @@ Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat o
 
 <details><summary>पदपाठः</summary>
 
-ह॒वि॒ःऽधान॑म्। अ॒ग्नि॒ऽशाल॑म्। पत्नी॑नाम्। सद॑नम्। सद॑ः। सद॑ः। दे॒वाना॑म्। अ॒सि॒। दे॒वि॒। शा॒ले॒। ३.७। 
+ह॒विः॒ऽधान॑म्। अ॒ग्नि॒ऽशाल॑म्। पत्नी॑नाम्। सद॑नम्। सदः॑। सदः॑। दे॒वाना॑म्। अ॒सि॒। दे॒वि॒। शा॒ले॒। ३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

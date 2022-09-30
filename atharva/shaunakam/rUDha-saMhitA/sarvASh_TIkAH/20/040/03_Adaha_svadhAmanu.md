@@ -10,7 +10,7 @@ Thereafter they, as is their wont, threw off the state of babes unborn, Assuming
 
 <details><summary>पदपाठः</summary>
 
-आत्। अह॑। स्व॒धाम्। अनु॑। पुन॑ः। ग॒र्भ॒ऽत्वम्। आ॒ऽई॒रि॒रे। दधा॑नाः। नाम॑। य॒ज्ञिय॑म्। ४०.३। 
+आत्। अह॑। स्व॒धाम्। अनु॑। पुनः॑। ग॒र्भ॒ऽत्वम्। आ॒ऽई॒रि॒रे। दधा॑नाः। नाम॑। य॒ज्ञिय॑म्। ४०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

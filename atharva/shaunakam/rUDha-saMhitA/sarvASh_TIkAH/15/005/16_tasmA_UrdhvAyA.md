@@ -16,7 +16,7 @@ They made Mahadeva his deliverer from the intermediate space of the region of th
 
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। ऊ॒र्ध्वाया॑ः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। म॒हा॒ऽदे॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१२। 
+तस्मै॑। ऊ॒र्ध्वायाः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। म॒हा॒ऽदे॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

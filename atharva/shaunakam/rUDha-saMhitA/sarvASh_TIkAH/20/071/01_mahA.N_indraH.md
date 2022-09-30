@@ -10,7 +10,7 @@ Mighty is Indra, yea, supreme; greatness becomes the Thunderer! Wide as the heav
 
 <details><summary>पदपाठः</summary>
 
-म॒हान्। इन्द्र॑ः। प॒रः। च॒। नु। म॒हि॒ऽत्वम्। अ॒स्तु॒। व॒ज्रिणे॑। द्यौः। न। प्र॒थि॒ना। शव॑ः। ७१.१। 
+म॒हान्। इन्द्रः॑। प॒रः। च॒। नु। म॒हि॒ऽत्वम्। अ॒स्तु॒। व॒ज्रिणे॑। द्यौः। न। प्र॒थि॒ना। शवः॑। ७१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

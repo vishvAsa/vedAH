@@ -10,7 +10,7 @@ Lord of a Hundred Powers, stand up to lend us succour in this fight: In others t
 
 <details><summary>पदपाठः</summary>
 
-ऊ॒र्ध्वः। ति॒ष्ठ॒। न॒ः। ऊ॒तये॑। अ॒स्मिन्। वाजे॑। श॒त॒क्र॒तो॒। इति॑ शतऽक्रतो। सम्। अ॒न्येषु॑। ब्र॒वा॒व॒है॒। ४५.३। 
+ऊ॒र्ध्वः। ति॒ष्ठ॒। नः॒। ऊ॒तये॑। अ॒स्मिन्। वाजे॑। श॒त॒क्र॒तो॒। इति॑ शतऽक्रतो। सम्। अ॒न्येषु॑। ब्र॒वा॒व॒है॒। ४५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

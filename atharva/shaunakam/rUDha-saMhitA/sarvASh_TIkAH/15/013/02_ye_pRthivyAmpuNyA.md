@@ -22,7 +22,7 @@ A second night . . . . the holy realms that are in the firma- ment (the rest as 
 
 <details><summary>पदपाठः</summary>
 
-ये। पृ॒थि॒व्याम्। पुण्या॑ः। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.२। 
+ये। पृ॒थि॒व्याम्। पुण्याः॑। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.२। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

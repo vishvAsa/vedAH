@@ -21,7 +21,7 @@ Ours is superior place and ours is conquest: may I in all fights tread down spit
 
 <details><summary>पदपाठः</summary>
 
-जि॒तम्। अ॒स्माक॑म्। उत्ऽभि॑न्नम्। अ॒स्माक॑म्। अ॒भि। अ॒स्था॒म्। विश्वा॑ः। पृत॑नाः। अरा॑तीः। ९.१। 
+जि॒तम्। अ॒स्माक॑म्। उत्ऽभि॑न्नम्। अ॒स्माक॑म्। अ॒भि। अ॒स्था॒म्। विश्वाः॑। पृत॑नाः। अरा॑तीः। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

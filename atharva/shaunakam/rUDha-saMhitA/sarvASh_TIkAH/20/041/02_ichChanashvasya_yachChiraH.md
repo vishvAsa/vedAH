@@ -10,7 +10,7 @@ He, searching for the horse's head, removed among the moun- tains, found At Sary
 
 <details><summary>पदपाठः</summary>
 
-इ॒च्छन्। अश्व॑स्य। यत्। शिर॑ः। पर्व॑तेषु। अप॑ऽश्रितम्। तत्। वि॒द॒त्। श॒र्य॒णाऽव॑ति। ४१.२। 
+इ॒च्छन्। अश्व॑स्य। यत्। शिरः॑। पर्व॑तेषु। अप॑ऽश्रितम्। तत्। वि॒द॒त्। श॒र्य॒णाऽव॑ति। ४१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

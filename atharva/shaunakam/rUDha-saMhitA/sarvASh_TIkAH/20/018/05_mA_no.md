@@ -10,7 +10,7 @@ Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is 
 
 <details><summary>पदपाठः</summary>
 
-मा। न॒ः। नि॒दे। च॒। वक्त॑वे। अ॒र्यः। र॒न्धी॒ः। अरा॑व्णे। त्वे इति॑। अपि॑। क्रतु॑ः। मम॑। १८.५। 
+मा। नः॒। नि॒दे। च॒। वक्त॑वे। अ॒र्यः। र॒न्धीः॒। अरा॑व्णे। त्वे इति॑। अपि॑। क्रतुः॑। मम॑। १८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

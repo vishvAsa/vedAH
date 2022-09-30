@@ -10,7 +10,7 @@ Indra, great in his power and might and, like Parjanya, rich in rain, Is magnifi
 
 <details><summary>पदपाठः</summary>
 
-म॒हान्। इन्द्र॑ः। यः। ओज॑सा। प॒र्जन्य॑ः। वृ॒ष्टि॒मान्ऽइ॑व। स्तोमै॑ः। व॒त्सस्य॑। व॒वृ॒धे॒। १३८.१। 
+म॒हान्। इन्द्रः॑। यः। ओज॑सा। प॒र्जन्यः॑। वृ॒ष्टि॒मान्ऽइ॑व। स्तोमैः॑। व॒त्सस्य॑। व॒वृ॒धे॒। १३८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

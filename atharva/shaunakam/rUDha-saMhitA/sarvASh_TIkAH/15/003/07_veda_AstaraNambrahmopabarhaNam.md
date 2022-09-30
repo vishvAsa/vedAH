@@ -19,7 +19,7 @@ Sacred lore was the blanket, Devotion the coverlet.
 
 <details><summary>पदपाठः</summary>
 
-वेद॑ः। आ॒ऽस्तर॑णम्। ब्रह्म॑। उ॒प॒ऽबर्ह॑णम्। ३.७। 
+वेदः॑। आ॒ऽस्तर॑णम्। ब्रह्म॑। उ॒प॒ऽबर्ह॑णम्। ३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

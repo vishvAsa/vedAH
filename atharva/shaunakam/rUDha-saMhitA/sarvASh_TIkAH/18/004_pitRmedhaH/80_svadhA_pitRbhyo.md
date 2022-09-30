@@ -25,7 +25,7 @@ Hail to the Fathers who dwell in heaven!
 
 <details><summary>पदपाठः</summary>
 
-स्व॒धा। पि॒तृऽभ्य॑ः। दि॒वि॒सत्ऽभ्य॑ः। ४.८०। 
+स्व॒धा। पि॒तृऽभ्यः॑। दि॒वि॒सत्ऽभ्यः॑। ४.८०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

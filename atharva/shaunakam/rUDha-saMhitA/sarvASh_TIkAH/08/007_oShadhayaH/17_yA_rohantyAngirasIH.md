@@ -22,7 +22,7 @@ May these be pleasant to our heart, auspicious, rich in store of milk, These Pla
 
 <details><summary>पदपाठः</summary>
 
-याः। रोह॑न्ति। आ॒ङ्गि॒र॒सीः। पर्व॑तेषु। स॒मेषु॑। च॒। ताः। न॒ः। पय॑स्वतीः। शि॒वाः। ओष॑धीः। स॒न्तु॒। शम्। हृ॒दे। ७.१७। 
+याः। रोह॑न्ति। आ॒ङ्गि॒र॒सीः। पर्व॑तेषु। स॒मेषु॑। च॒। ताः। नः॒। पय॑स्वतीः। शि॒वाः। ओष॑धीः। स॒न्तु॒। शम्। हृ॒दे। ७.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

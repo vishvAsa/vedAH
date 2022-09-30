@@ -10,7 +10,7 @@ When hither speed the dappled cows, unflinching, easy to be milked, Seize quickl
 
 <details><summary>पदपाठः</summary>
 
-आ। यत्। पत॑न्ति। ए॒न्य॑ः। सु॒ऽदुघा॑ः। अन॑पऽस्‍फुरः। अ॒प॒ऽस्फुर॑म्। गृ॒भा॒य॒त॒। सोम॑म्। इन्द्रा॑य। पात॑वे। ९२.७। 
+आ। यत्। पत॑न्ति। ए॒न्यः॑। सु॒ऽदुघाः॑। अन॑पऽस्‍फुरः। अ॒प॒ऽस्फुर॑म्। गृ॒भा॒य॒त॒। सोम॑म्। इन्द्रा॑य। पात॑वे। ९२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

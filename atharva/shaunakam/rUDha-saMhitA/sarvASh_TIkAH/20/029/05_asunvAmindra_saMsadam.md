@@ -10,7 +10,7 @@ As Soma-drinker conquering all, thou scatteredst to every side Their band who po
 
 <details><summary>पदपाठः</summary>
 
-अ॒सु॒न्वाम्। इ॒न्द्र॒। स॒म्ऽसद॑म्। विषू॑चीम्। वि। अ॒ना॒श॒य॒ः। सो॒म॒ऽपाः। उत्ऽत॑रः। भव॑न्। २९.५। 
+अ॒सु॒न्वाम्। इ॒न्द्र॒। स॒म्ऽसद॑म्। विषू॑चीम्। वि। अ॒ना॒श॒यः॒। सो॒म॒ऽपाः। उत्ऽत॑रः। भव॑न्। २९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

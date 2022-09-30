@@ -10,7 +10,7 @@ We, Soma-bearing Brahmans, call thee, Soma-drinker, with thy friend, We, Indra, 
 
 <details><summary>पदपाठः</summary>
 
-ब्र॒ह्माण॑ः। त्वा॒। व॒यम्। यु॒जा। सो॒म॒ऽपाम्। इ॒न्द्र॒। सो॒मिन॑ः। सु॒तऽव॑न्तः। ह॒वा॒म॒हे॒। ३८.३। 
+ब्र॒ह्माणः॑। त्वा॒। व॒यम्। यु॒जा। सो॒म॒ऽपाम्। इ॒न्द्र॒। सो॒मिनः॑। सु॒तऽव॑न्तः। ह॒वा॒म॒हे॒। ३८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

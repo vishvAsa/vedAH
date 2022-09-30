@@ -20,7 +20,7 @@ Let not good hearing and overhearing fail the Eagle's eye, the undecaying light.
 
 <details><summary>पदपाठः</summary>
 
-सु॒ऽश्रु॑तिः। च॒। मा॒। उप॑ऽश्रुतिः। च॒। मा। हा॒सि॒ष्टा॒म्। सौप॑र्णम्। चक्षु॑ः। अज॑स्रम्। ज्योति॑ः। २.५। 
+सु॒ऽश्रु॑तिः। च॒। मा॒। उप॑ऽश्रुतिः। च॒। मा। हा॒सि॒ष्टा॒म्। सौप॑र्णम्। चक्षुः॑। अज॑स्रम्। ज्योतिः॑। २.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

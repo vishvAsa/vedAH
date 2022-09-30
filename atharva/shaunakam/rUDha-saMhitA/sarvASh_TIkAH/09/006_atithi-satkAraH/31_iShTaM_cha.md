@@ -23,7 +23,7 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 
 <details><summary>पदपाठः</summary>
 
-इ॒ष्टम्। च॒। वै। ए॒षः। पू॒र्तम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्व॑ः। अति॑थेः। अ॒श्नाति॑। ८.१। 
+इ॒ष्टम्। च॒। वै। ए॒षः। पू॒र्तम्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

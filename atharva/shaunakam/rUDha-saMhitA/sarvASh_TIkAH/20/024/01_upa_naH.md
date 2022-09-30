@@ -10,7 +10,7 @@ Come to the juice that we have pressed, to Soma, Indra! blent with milk: Come, f
 
 <details><summary>पदपाठः</summary>
 
-उप॑। न॒ः। सु॒तम्। आ। ग॒हि॒। सोम॑म्। इ॒न्द्र॒। गोऽआ॑शिरम्। हरि॑ऽभ्याम्। यः। ते॒। अ॒स्म॒ऽयुः। २४.१। 
+उप॑। नः॒। सु॒तम्। आ। ग॒हि॒। सोम॑म्। इ॒न्द्र॒। गोऽआ॑शिरम्। हरि॑ऽभ्याम्। यः। ते॒। अ॒स्म॒ऽयुः। २४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Thou art the grass whereon our Fathers seat them.
 
 <details><summary>पदपाठः</summary>
 
-ये। अ॒स्माक॑म्। पि॒तर॑ः। तेषा॑म्। ब॒र्हिः। अ॒सि॒। ४.६८। 
+ये। अ॒स्माक॑म्। पि॒तरः॑। तेषा॑म्। ब॒र्हिः। अ॒सि॒। ४.६८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

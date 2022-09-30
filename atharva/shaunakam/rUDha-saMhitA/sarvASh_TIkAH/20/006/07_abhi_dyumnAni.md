@@ -10,7 +10,7 @@ To Indra go the treasures of the worshipper which never fail: He drinks the Soma
 
 <details><summary>पदपाठः</summary>
 
-अ॒भि। द्यु॒म्नानि॑। व॒निन॑ः। इ॒न्द्र॑म्। स॒च॒न्ते॒। अक्षि॑ता। पी॒त्वी॒। सोम॑स्य। व॒वृ॒धे॒। ६.७। 
+अ॒भि। द्यु॒म्नानि॑। व॒निनः॑। इ॒न्द्र॑म्। स॒च॒न्ते॒। अक्षि॑ता। पी॒त्वी॒। सोम॑स्य। व॒वृ॒धे॒। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

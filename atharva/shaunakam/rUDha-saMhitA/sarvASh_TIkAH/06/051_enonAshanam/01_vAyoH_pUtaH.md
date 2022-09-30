@@ -42,7 +42,7 @@ Cleansed by the filter of the Wind comes Soma past all our enemies, meet friend 
 
 <details><summary>पदपाठः</summary>
 
-वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोम॑ः। अति॑। द्रु॒तः। इन्द्र॑स्य। युज्य॑ः। सखा॑। ५१.१। 
+वा॒योः। पू॒तः। प॒वित्रे॑ण। प्र॒त्यङ्। सोमः॑। अति॑। द्रु॒तः। इन्द्र॑स्य। युज्यः॑। सखा॑। ५१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Still higher, at each strain of mine, thunder-armed Indra's, praises rise: I fin
 
 <details><summary>पदपाठः</summary>
 
-तञ्जेऽतु॑ञ्जे। ये। उत्ऽत॑रे। स्तोमा॑ः। इन्द्र॑स्य। व॒ज्रिण॑ः। न। व‍ि॒न्धे॒। अ॒स्य॒। सु॒ऽस्तु॒तिम्‌। ७०.१३। 
+तञ्जेऽतु॑ञ्जे। ये। उत्ऽत॑रे। स्तोमाः॑। इन्द्र॑स्य। व॒ज्रिणः॑। न। व‍ि॒न्धे॒। अ॒स्य॒। सु॒ऽस्तु॒तिम्‌। ७०.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

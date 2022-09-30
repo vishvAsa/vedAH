@@ -32,7 +32,7 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 
 <details><summary>पदपाठः</summary>
 
-यथा॑। स्म॒। ते॒। वि॒ऽरोह॑तः। अ॒भित॑प्तम्ऽइव। अन॑ति। तत॑ः। ते॒। शुष्म॑वत्ऽतरम्। इ॒यम्। कृ॒णो॒तु॒। ओष॑धिः। ४.३। 
+यथा॑। स्म॒। ते॒। वि॒ऽरोह॑तः। अ॒भित॑प्तम्ऽइव। अन॑ति। ततः॑। ते॒। शुष्म॑वत्ऽतरम्। इ॒यम्। कृ॒णो॒तु॒। ओष॑धिः। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

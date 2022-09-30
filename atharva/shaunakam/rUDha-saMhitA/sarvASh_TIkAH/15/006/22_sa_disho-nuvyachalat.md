@@ -23,7 +23,7 @@ He went away to the regions.
 
 <details><summary>पदपाठः</summary>
 
-सः । दिश॑ः । अनु॑ । वि । अ॒च॒ल॒त् ।
+सः । दिशः॑ । अनु॑ । वि । अ॒च॒ल॒त् ।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

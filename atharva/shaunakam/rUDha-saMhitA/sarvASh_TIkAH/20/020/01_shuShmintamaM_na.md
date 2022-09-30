@@ -10,7 +10,7 @@ Drink thou the Soma for our help, bright, vigilant, exceeding strong, O Indra, L
 
 <details><summary>पदपाठः</summary>
 
-शु॒ष्मिन्ऽत॑मम्। न॒ः। ऊ॒तये॑। द्यु॒म्निन॑म्। पा॒हि॒। जागृ॑विम्। इन्द्र॑। सोम॑म्। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। २०.१। 
+शु॒ष्मिन्ऽत॑मम्। नः॒। ऊ॒तये॑। द्यु॒म्निन॑म्। पा॒हि॒। जागृ॑विम्। इन्द्र॑। सोम॑म्। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। २०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

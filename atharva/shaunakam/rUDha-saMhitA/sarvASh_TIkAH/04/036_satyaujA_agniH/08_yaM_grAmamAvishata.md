@@ -21,7 +21,7 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 
 <details><summary>पदपाठः</summary>
 
-यम्। ग्राम॑म्। आ॒ऽवि॒शते॑। इ॒दम्। उ॒ग्रम्। सह॑ः। मम॑। पि॒शा॒चाः। तस्मा॑त्। न॒श्य॒न्ति॒। न। पा॒पम्। उप॑। जा॒न॒ते॒। ३६.८। 
+यम्। ग्राम॑म्। आ॒ऽवि॒शते॑। इ॒दम्। उ॒ग्रम्। सहः॑। मम॑। पि॒शा॒चाः। तस्मा॑त्। न॒श्य॒न्ति॒। न। पा॒पम्। उप॑। जा॒न॒ते॒। ३६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

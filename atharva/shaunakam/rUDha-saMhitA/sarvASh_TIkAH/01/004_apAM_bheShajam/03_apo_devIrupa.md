@@ -20,7 +20,7 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 
 <details><summary>पदपाठः</summary>
 
-अ॒पः। दे॒वीः। उप॑। ह्व॒ये॒। यत्र॑। गाव॑ः। पिब॑न्ति। नः॒। सिन्धु॑ऽभ्यः। कर्त्व॑म्। ह॒विः। 
+अ॒पः। दे॒वीः। उप॑। ह्व॒ये॒। यत्र॑। गावः॑। पिब॑न्ति। नः॒। सिन्धु॑ऽभ्यः। कर्त्व॑म्। ह॒विः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

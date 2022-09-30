@@ -25,7 +25,7 @@ This word hath Agni, this hath Soma spoken. May Pushan set me in the world of vi
 
 <details><summary>पदपाठः</summary>
 
-तत्। अ॒ग्निः। आ॒ह॒। तत्। ऊं॒ इति॑। सोम॑ः। आ॒ह॒। पू॒षा। मा॒। धा॒त्। सु॒ऽकृ॒तस्य॑। लो॒के। ९.२। 
+तत्। अ॒ग्निः। आ॒ह॒। तत्। ऊं॒ इति॑। सोमः॑। आ॒ह॒। पू॒षा। मा॒। धा॒त्। सु॒ऽकृ॒तस्य॑। लो॒के। ९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

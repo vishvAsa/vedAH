@@ -25,7 +25,7 @@ In this great rite--All hail!--may sapient Indra use lauds, rejoicings, well-yok
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। उ॒क्थ॒ऽम॒दानि॑। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुज॑ः। स्वाहा॑। २६.३। 
+इन्द्रः॑। उ॒क्थ॒ऽम॒दानि॑। अ॒स्मिन्। य॒ज्ञे। प्र॒ऽवि॒द्वान्। यु॒न॒क्तु॒। सु॒ऽयुजः॑। स्वाहा॑। २६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

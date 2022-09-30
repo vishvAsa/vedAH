@@ -19,7 +19,7 @@ All creatures become the worshippers of him who possesses this knowledge.
 
 <details><summary>पदपाठः</summary>
 
-विश्वा॑नि। ए॒व। अ॒स्य॒। भू॒तानि॑। उ॒प॒ऽसद॑ः। भ॒व॒न्ति॒। यः। ए॒वम्। वेद॑। ३.११। 
+विश्वा॑नि। ए॒व। अ॒स्य॒। भू॒तानि॑। उ॒प॒ऽसदः॑। भ॒व॒न्ति॒। यः। ए॒वम्। वेद॑। ३.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

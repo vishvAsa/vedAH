@@ -10,7 +10,7 @@ Swaying about the active Ones came nigh to Indra at his birth, And shared his gr
 
 <details><summary>पदपाठः</summary>
 
-ई॒ङ्खय॑न्तीः। अ॒प॒स्युव॑ः। इन्द्र॑म्। जा॒तम्। उप॑। आ॒स॒ते॒। भे॒जा॒नास॑ः। सु॒ऽवीर्य॑म्। ९३.४। 
+ई॒ङ्खय॑न्तीः। अ॒प॒स्युवः॑। इन्द्र॑म्। जा॒तम्। उप॑। आ॒स॒ते॒। भे॒जा॒नासः॑। सु॒ऽवीर्य॑म्। ९३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

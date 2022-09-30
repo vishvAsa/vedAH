@@ -25,7 +25,7 @@ Be here, even here, acquiring wealth, here be thou thoughts here be thou strengt
 
 <details><summary>पदपाठः</summary>
 
-इ॒ह। ए॒धि। वी॒र्य॑वत्ऽतरः। व॒य॒ःऽधाः। अप॑राऽहतः। ४.३८। 
+इ॒ह। ए॒धि। वी॒र्य॑वत्ऽतरः। व॒यः॒ऽधाः। अप॑राऽहतः। ४.३८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

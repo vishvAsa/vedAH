@@ -10,7 +10,7 @@ If he will hear us let him come with succour of a thousand kinds, And all that s
 
 <details><summary>पदपाठः</summary>
 
-आ। घ॒। ग॒म॒त्। यदि॑। अव॑त्। स॒ह॒स्रि॒णी॑भिः। ऊ॒तिभि॑ः। वाजे॑भिः। उप॑। न॒ः। हव॑म्। २६.२। 
+आ। घ॒। ग॒म॒त्। यदि॑। अव॑त्। स॒ह॒स्रि॒णी॑भिः। ऊ॒तिभिः॑। वाजे॑भिः। उप॑। नः॒। हव॑म्। २६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

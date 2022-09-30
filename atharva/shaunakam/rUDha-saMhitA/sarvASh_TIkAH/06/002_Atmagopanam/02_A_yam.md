@@ -21,7 +21,7 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 
 <details><summary>पदपाठः</summary>
 
-आ। यम्। वि॒शन्ति॑। इन्द॑वः। वय॑ः। न। वृ॒क्षम्। अन्ध॑सः। विऽर॑प्शिन्। वि। मृध॑ः। ज॒हि॒। र॒क्ष॒स्विनी॑ः। २.२। 
+आ। यम्। वि॒शन्ति॑। इन्द॑वः। वयः॑। न। वृ॒क्षम्। अन्ध॑सः। विऽर॑प्शिन्। वि। मृधः॑। ज॒हि॒। र॒क्ष॒स्विनीः॑। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

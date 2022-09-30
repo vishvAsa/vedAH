@@ -10,7 +10,7 @@ We sing this strong and wild delight of thine which conquers in the fray, Which,
 
 <details><summary>पदपाठः</summary>
 
-तम्। ते॒। मद॑म्। मणी॒म॒सि॒। वृष॑णम्। पृ॒तऽसु। स॒स॒हिम्। ऊं॒ इति॑। लो॒क॒ऽकृ॒त्नुम्। अ॒द्रि॒ऽव॒ः। ह॒रि॒ऽश्रिय॑म्। ६१.१। 
+तम्। ते॒। मद॑म्। मणी॒म॒सि॒। वृष॑णम्। पृ॒तऽसु। स॒स॒हिम्। ऊं॒ इति॑। लो॒क॒ऽकृ॒त्नुम्। अ॒द्रि॒ऽवः॒। ह॒रि॒ऽश्रिय॑म्। ६१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

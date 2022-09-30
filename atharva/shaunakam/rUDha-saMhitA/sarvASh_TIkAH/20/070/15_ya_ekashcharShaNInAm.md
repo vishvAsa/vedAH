@@ -10,7 +10,7 @@ Indra who rules with single sway men, riches, and the fivefold race. Of those wh
 
 <details><summary>पदपाठः</summary>
 
-यः। एक॑ः। च॒र्ष॒णी॒नाम्। वसू॑नाम्। इ॒र॒ज्यति॑। इन्द्र॑ः। पञ्च॑। क्षि॒ती॒नाम्। ७०.१५। 
+यः। एकः॑। च॒र्ष॒णी॒नाम्। वसू॑नाम्। इ॒र॒ज्यति॑। इन्द्रः॑। पञ्च॑। क्षि॒ती॒नाम्। ७०.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Unclose, our manly Hero, thou for ever bounteous, yonder cloud, For us, thou irr
 
 <details><summary>पदपाठः</summary>
 
-सः। न॒ः। वष॒न्। अ॒मुम्। च॒रुम्। सत्रा॑ऽदावन्। अप॑। वृ॒धि॒। अ॒स्मभ्य॑म्। अप्र॑तिऽस्कुतः। ७०.१२। 
+सः। नः॒। वष॒न्। अ॒मुम्। च॒रुम्। सत्रा॑ऽदावन्। अप॑। वृ॒धि॒। अ॒स्मभ्य॑म्। अप्र॑तिऽस्कुतः। ७०.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

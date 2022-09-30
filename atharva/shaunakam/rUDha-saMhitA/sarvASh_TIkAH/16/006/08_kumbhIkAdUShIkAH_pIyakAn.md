@@ -18,7 +18,7 @@ Kumbhikas, Dushikas, and Piyakas,
 
 <details><summary>पदपाठः</summary>
 
-कु॒म्भीका॑ः। दू॒षीका॑ः। पीय॑कान्। ६.८। 
+कु॒म्भीकाः॑। दू॒षीकाः॑। पीय॑कान्। ६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

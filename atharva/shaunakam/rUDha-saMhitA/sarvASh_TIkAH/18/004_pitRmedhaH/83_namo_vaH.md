@@ -19,7 +19,7 @@ Hail, Fathers, to what is awful! Hail to what is terrible in you!'
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। व॒ः। पि॒त॒र॒ः। यत‌्। घो॒रम्। तस्मै॑। नम॑ः। व॒ः। पि॒त॒र॒ः। यत्। क्रू॒रम्। तस्मै॑। ४.८३। 
+नमः॑। वः॒। पि॒त॒रः॒। यत‌्। घो॒रम्। तस्मै॑। नमः॑। वः॒। पि॒त॒रः॒। यत्। क्रू॒रम्। तस्मै॑। ४.८३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -27,7 +27,7 @@ Now let this artificial comb, wrought with a hundred teeth, remove Aught of impu
 
 <details><summary>पदपाठः</summary>
 
-कृ॒त्रिम॑ः। कण्ट॑कः। श॒तऽद॑न्। यः। ए॒षः। अप॑। अ॒स्याः। केश्य॑म्। मल॑म्। अप॑। शी॒र्ष॒ण्य᳡म्। लि॒खा॒त्। २.६८। 
+कृ॒त्रिमः॑। कण्ट॑कः। श॒तऽद॑न्। यः। ए॒षः। अप॑। अ॒स्याः। केश्य॑म्। मल॑म्। अप॑। शी॒र्ष॒ण्य᳡म्। लि॒खा॒त्। २.६८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

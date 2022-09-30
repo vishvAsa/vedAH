@@ -10,7 +10,7 @@ O Lord of Hundred Powers, our chants of praise and lauds have strengthened thee:
 
 <details><summary>पदपाठः</summary>
 
-त्वाम्। स्तोमा॑ः। अ॒वी॒वृ॒ध॒न्। त्वाम्। उ॒क्था। श॒त॒क्र॒तो॒ ‍इति॑ शतऽक्रतो। त्वाम्। व॒र्ध॒न्तु॒। न॒ः। गिर॑ः। ६९.६। 
+त्वाम्। स्तोमाः॑। अ॒वी॒वृ॒ध॒न्। त्वाम्। उ॒क्था। श॒त॒क्र॒तो॒ ‍इति॑ शतऽक्रतो। त्वाम्। व॒र्ध॒न्तु॒। नः॒। गिरः॑। ६९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

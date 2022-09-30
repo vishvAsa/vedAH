@@ -22,7 +22,7 @@ Kabru is the husked grain, the rain cloud is the reed.
 
 <details><summary>पदपाठः</summary>
 
-कब्रु॑। फ॒ली॒ऽकर॑णाः। शर॑ः। अ॒भ्रम्। ३.६। 
+कब्रु॑। फ॒ली॒ऽकर॑णाः। शरः॑। अ॒भ्रम्। ३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

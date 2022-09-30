@@ -10,7 +10,7 @@ None is there, Indra, God or man, to hinder thy munificence, The wealth which, l
 
 <details><summary>पदपाठः</summary>
 
-न। ते॒। व॒र्ता। अ॒स्ति॒। राध॑सः। इन्द्र॑। दे॒वः। न। मर्त्य॑ः। यत्। दित्स॑सि। स्तु॒तः। म॒घम्। २७.४। 
+न। ते॒। व॒र्ता। अ॒स्ति॒। राध॑सः। इन्द्र॑। दे॒वः। न। मर्त्यः॑। यत्। दित्स॑सि। स्तु॒तः। म॒घम्। २७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

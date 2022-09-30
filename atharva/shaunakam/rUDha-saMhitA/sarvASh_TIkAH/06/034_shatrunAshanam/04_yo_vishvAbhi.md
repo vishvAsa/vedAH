@@ -20,7 +20,7 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 
 <details><summary>पदपाठः</summary>
 
-यः। विश्वा॑। अ॒भि। वि॒ऽपश्य॑ति। भुव॑ना। सम्। च॒। पश्य॑ति। सः। न॒ः। प॒र्ष॒त्। अति॑। द्विष॑ः। ३४.४। 
+यः। विश्वा॑। अ॒भि। वि॒ऽपश्य॑ति। भुव॑ना। सम्। च॒। पश्य॑ति। सः। नः॒। प॒र्ष॒त्। अति॑। द्विषः॑। ३४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

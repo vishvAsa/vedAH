@@ -22,7 +22,7 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 
 <details><summary>पदपाठः</summary>
 
-ए॒षः। वै। अति॑थिः। यत्। श्रोत्रि॑यः। तस्मा॑त्। पूर्व॑ः। न। अ॒श्नी॒या॒त्। ८.७। 
+ए॒षः। वै। अति॑थिः। यत्। श्रोत्रि॑यः। तस्मा॑त्। पूर्वः॑। न। अ॒श्नी॒या॒त्। ८.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

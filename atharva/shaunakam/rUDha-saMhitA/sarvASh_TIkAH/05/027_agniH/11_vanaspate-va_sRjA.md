@@ -25,7 +25,7 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 
 <details><summary>पदपाठः</summary>
 
-वन॑स्पते। अव॑। सृ॒ज॒। ररा॑णः। त्मना॑। दे॒वेभ्य॑ः। अ॒ग्निः। ह॒व्यम्। श॒मि॒ता। स्व॒द॒य॒तु॒। २७.११। 
+वन॑स्पते। अव॑। सृ॒ज॒। ररा॑णः। त्मना॑। दे॒वेभ्यः॑। अ॒ग्निः। ह॒व्यम्। श॒मि॒ता। स्व॒द॒य॒तु॒। २७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

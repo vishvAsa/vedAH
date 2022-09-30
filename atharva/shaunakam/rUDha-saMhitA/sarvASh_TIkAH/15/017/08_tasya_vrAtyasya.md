@@ -23,7 +23,7 @@ With one and the same object the Gods go round the Year and the Seasons follow r
 
 <details><summary>पदपाठः</summary>
 
-स॒मा॒नम्। अर्थ॑म्। परि॑। य॒न्ति॒। दे॒वाः। स॒म्ऽव॒त्स॒रम्। वै। ए॒तत्। ऋ॒तव॑ः। अ॒नु॒ऽपरि॑यन्ति। व्रात्य॑म्। च॒। १७.८। 
+स॒मा॒नम्। अर्थ॑म्। परि॑। य॒न्ति॒। दे॒वाः। स॒म्ऽव॒त्स॒रम्। वै। ए॒तत्। ऋ॒तवः॑। अ॒नु॒ऽपरि॑यन्ति। व्रात्य॑म्। च॒। १७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

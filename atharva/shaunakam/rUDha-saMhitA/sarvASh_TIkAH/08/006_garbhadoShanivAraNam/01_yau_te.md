@@ -28,7 +28,7 @@ Let neither fiend of evil name, Alinsa, Vatsapa, desire Thy pair of husband-wooe
 
 <details><summary>पदपाठः</summary>
 
-यौ। ते॒। मा॒ता। उ॒त्ऽम॒मार्ज॑। जा॒ताया॑ः। प॒ति॒ऽवेद॑नौ। दु॒ःऽनामा॑। तत्र॑। मा। गृ॒ध॒त्। अ॒लिंश॑ः। उ॒त। व॒त्सऽप॑ः। ६.१। 
+यौ। ते॒। मा॒ता। उ॒त्ऽम॒मार्ज॑। जा॒तायाः॑। प॒ति॒ऽवेद॑नौ। दुः॒ऽनामा॑। तत्र॑। मा। गृ॒ध॒त्। अ॒लिंशः॑। उ॒त। व॒त्सऽपः॑। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

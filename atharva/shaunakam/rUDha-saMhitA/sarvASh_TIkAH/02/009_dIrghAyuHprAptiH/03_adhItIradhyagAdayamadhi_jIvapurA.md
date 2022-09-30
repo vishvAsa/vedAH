@@ -28,7 +28,7 @@ He hath returned to consciousness, rejoined the living's firm abodes, For hundre
 
 <details><summary>पदपाठः</summary>
 
-अधि॑ऽइतीः। अधि॑। अ॒गा॒त्। अ॒यम्। अधि॑। जी॒व॒ऽपु॒राः। अ॒ग॒त्। श॒तम्। हि। अ॒स्य॒। भि॒षज॑ः। स॒हस्र॑म्। उ॒त। वी॒रुध॑ः। ९.३। 
+अधि॑ऽइतीः। अधि॑। अ॒गा॒त्। अ॒यम्। अधि॑। जी॒व॒ऽपु॒राः। अ॒ग॒त्। श॒तम्। हि। अ॒स्य॒। भि॒षजः॑। स॒हस्र॑म्। उ॒त। वी॒रुधः॑। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ O Indra, thou who lovest song, let no man hurt our bodies, keep. Slaughter far f
 
 <details><summary>पदपाठः</summary>
 
-मा। न॒ः। मर्ताः। अ॒भि। द्रु॒ह॒न्। त॒नूना॑म्। इ॒न्द्र॒। गि॒र्व॒ण॒ः। ईशा॑नः। य॒व॒य॒। व॒धम्। ६९.८। 
+मा। नः॒। मर्ताः। अ॒भि। द्रु॒ह॒न्। त॒नूना॑म्। इ॒न्द्र॒। गि॒र्व॒णः॒। ईशा॑नः। य॒व॒य॒। व॒धम्। ६९.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

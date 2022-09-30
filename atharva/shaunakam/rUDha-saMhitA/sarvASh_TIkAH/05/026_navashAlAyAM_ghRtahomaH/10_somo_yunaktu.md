@@ -19,7 +19,7 @@ Let Soma in this rite in varied manner--All hail!--use milk- streams, well-yoked
 
 <details><summary>पदपाठः</summary>
 
-सोम॑ः। यु॒न॒क्तु॒। ब॒हु॒ऽधा। पयां॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुज॑ः। स्वाहा॑। २६.१०। 
+सोमः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। पयां॑सि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

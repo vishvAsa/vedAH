@@ -38,7 +38,7 @@ Sacrifice is fraught with wealth for the increase of prosperity. I would win ric
 
 <details><summary>पदपाठः</summary>
 
-व॒स्य॒ःऽभूया॑य। वसु॑ऽमान। य॒ज्ञः। वसु॑। वं॒शि॒षी॒य॒। वसु॑ऽमान्। भू॒या॒स॒म्। वसु॑। मयि॑। धे॒हि॒। ९.४। 
+व॒स्यः॒ऽभूया॑य। वसु॑ऽमान। य॒ज्ञः। वसु॑। वं॒शि॒षी॒य॒। वसु॑ऽमान्। भू॒या॒स॒म्। वसु॑। मयि॑। धे॒हि॒। ९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seein
 
 <details><summary>पदपाठः</summary>
 
-वि। द्याम्। ए॒षि॒। रज॑ः। पृ॒थु। अह॑ः। मिमा॑नः। अ॒क्तुऽभि॑ः। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। २.२२। 
+वि। द्याम्। ए॒षि॒। रजः॑। पृ॒थु। अहः॑। मिमा॑नः। अ॒क्तुऽभिः॑। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। २.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

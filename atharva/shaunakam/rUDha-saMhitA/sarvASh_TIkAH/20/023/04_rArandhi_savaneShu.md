@@ -10,7 +10,7 @@ O Vritra-slayer, be thou pleased with these libations, with these hymns, Song-lo
 
 <details><summary>पदपाठः</summary>
 
-र॒र॒न्धि। सव॑नेषु। न॒ः। ए॒षु। स्तोमे॑षु। वृ॒त्र॒ऽह॒न्। उ॒क्थेषु॑। इ॒न्द्र॒। गि॒र्व॒ण॒ः। २३.४। 
+र॒र॒न्धि। सव॑नेषु। नः॒। ए॒षु। स्तोमे॑षु। वृ॒त्र॒ऽह॒न्। उ॒क्थेषु॑। इ॒न्द्र॒। गि॒र्व॒णः॒। २३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

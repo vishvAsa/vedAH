@@ -10,7 +10,7 @@ He, excellent, withholdeth not his gift of power and wealth in kine, When he hat
 
 <details><summary>पदपाठः</summary>
 
-न। च॒। वसु॑ः। नि। य॒म॒ते॒। दा॒नम्। वाज॑स्य। गोऽम॑तः। यत्। सी॒म्। उप॑। श्रव॑त्। गिर॑ः। ७८.२। 
+न। च॒। वसुः॑। नि। य॒म॒ते॒। दा॒नम्। वाज॑स्य। गोऽम॑तः। यत्। सी॒म्। उप॑। श्रव॑त्। गिरः॑। ७८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Magna certe et bona est Aegle Marmelos. Bona est magna Ficus Glomerata. Magnus v
 
 <details><summary>पदपाठः</summary>
 
-म॒हान्। वै। भ॒द्रः। बि॒ल्वः। म॒हान्। भ॑द्रः। उदु॒म्बर॑ः। म॒हान्। अ॑भि॒क्त। बा॑धते। मह॒तः। सा॑धु। खो॒दन॑म्। १३६.१५। 
+म॒हान्। वै। भ॒द्रः। बि॒ल्वः। म॒हान्। भ॑द्रः। उदु॒म्बरः॑। म॒हान्। अ॑भि॒क्त। बा॑धते। मह॒तः। सा॑धु। खो॒दन॑म्। १३६.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

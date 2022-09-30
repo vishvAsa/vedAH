@@ -10,7 +10,7 @@ Since Kanvas with their lauds have made Indra complete the sacrifice, Words are 
 
 <details><summary>पदपाठः</summary>
 
-कण्वा॑ः। इन्द्र॑म्। यत्। अक्र॑त्। स्तोमै॑ः। य॒ज्ञस्य॑। साध॑नम्। जा॒मि। ब्रु॒व॒ते॒। आयु॑धम्। १३८.३। 
+कण्वाः॑। इन्द्र॑म्। यत्। अक्र॑त्। स्तोमैः॑। य॒ज्ञस्य॑। साध॑नम्। जा॒मि। ब्रु॒व॒ते॒। आयु॑धम्। १३८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

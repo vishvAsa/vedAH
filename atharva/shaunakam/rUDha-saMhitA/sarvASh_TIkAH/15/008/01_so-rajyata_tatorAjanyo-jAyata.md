@@ -20,7 +20,7 @@ He was filled with passion: from him sprang the Rajanya.
 
 <details><summary>पदपाठः</summary>
 
-सः। अ॒र॒ज्य॒त॒। तत॑ः। राज॒न्य᳡ः। अ॒जा॒य॒त॒। ८.१। 
+सः। अ॒र॒ज्य॒त॒। ततः॑। राज॒न्यः᳡। अ॒जा॒य॒त॒। ८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

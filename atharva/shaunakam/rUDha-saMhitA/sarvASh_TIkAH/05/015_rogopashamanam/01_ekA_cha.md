@@ -22,7 +22,7 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 
 <details><summary>पदपाठः</summary>
 
-‍एका॑। च॒। मे॒। दश॑। च॒। मे॒। अ॒प॒ऽव॒क्तार॑ः। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒र॒ः। १५.१। 
+‍एका॑। च॒। मे॒। दश॑। च॒। मे॒। अ॒प॒ऽव॒क्तारः॑। ओ॒ष॒धे॒। ऋत॑ऽजाते। ऋत॑ऽवारि। मधु॑। मे॒। म॒धु॒ला। क॒रः॒। १५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

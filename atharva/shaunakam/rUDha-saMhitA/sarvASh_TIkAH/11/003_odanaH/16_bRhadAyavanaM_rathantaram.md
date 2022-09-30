@@ -15,7 +15,7 @@ The Brihat is, the stirring-spoon, the Rathantara the ladle.
 
 <details><summary>पदपाठः</summary>
 
-बृ॒हत्। आ॒ऽयव॑नम्। र॒थ॒म्ऽत॒रम्। दर्वि॑ः। ३.१६। 
+बृ॒हत्। आ॒ऽयव॑नम्। र॒थ॒म्ऽत॒रम्। दर्विः॑। ३.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Him who advances men to wealth, sends light to lead them in their wars, And quel
 
 <details><summary>पदपाठः</summary>
 
-प्र॒ऽने॒तार॑म्। वस्य॑ः। अच्छ॑। कर्ता॑रन्। ज्योति॑ः। स॒मत्ऽसु॑। स॒स॒ऽह्वांस॑म्। यु॒धा। अ॒मित्रा॑न्। ४६.१। 
+प्र॒ऽने॒तार॑म्। वस्यः॑। अच्छ॑। कर्ता॑रन्। ज्योतिः॑। स॒मत्ऽसु॑। स॒स॒ऽह्वांस॑म्। यु॒धा। अ॒मित्रा॑न्। ४६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

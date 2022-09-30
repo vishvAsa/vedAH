@@ -10,7 +10,7 @@ For Indra, Thunder-armed, the kine have yielded mingled milk and meath, What tim
 
 <details><summary>पदपाठः</summary>
 
-इन्‍द्रा॑य। गाव॑ः। आ॒ऽशिर॑म्। दु॒दु॒ह्रे। व॒ज्रिणे॑। मधु॑। यत्। सी॒म्। उ॒प॒ऽह्व॒रे। वि॒दत्। २२.६। 
+इन्‍द्रा॑य। गावः॑। आ॒ऽशिर॑म्। दु॒दु॒ह्रे। व॒ज्रिणे॑। मधु॑। यत्। सी॒म्। उ॒प॒ऽह्व॒रे। वि॒दत्। २२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

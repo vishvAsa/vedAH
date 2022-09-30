@@ -23,7 +23,7 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 
 <details><summary>पदपाठः</summary>
 
-नि। गाव॑ः। गो॒ऽस्थे। अ॒स॒द॒न्। नि। मृ॒गास॑ः। अ॒वि॒क्ष॒त॒। नि। ऊ॒र्मय॑ः। न॒दीना॑म्। नि। अ॒दृष्टा॑ः। अ॒लि॒प्स॒त॒। ५२.२। 
+नि। गावः॑। गो॒ऽस्थे। अ॒स॒द॒न्। नि। मृ॒गासः॑। अ॒वि॒क्ष॒त॒। नि। ऊ॒र्मयः॑। न॒दीना॑म्। नि। अ॒दृष्टाः॑। अ॒लि॒प्स॒त॒। ५२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

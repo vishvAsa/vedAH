@@ -23,7 +23,7 @@ O man, stay here among us; stay with all thy spirit: follow not Yama's two messe
 
 <details><summary>पदपाठः</summary>
 
-इ॒ह। ए॒धि॒। पु॒रु॒ष॒। सर्वे॑ण। मन॑सा। स॒ह। दू॒तौ। य॒मस्य॑। मा। अनु॑। गा॒ः। अधि॑। जी॒व॒ऽपु॒राः। इ॒हि॒। ३०.६। 
+इ॒ह। ए॒धि॒। पु॒रु॒ष॒। सर्वे॑ण। मन॑सा। स॒ह। दू॒तौ। य॒मस्य॑। मा। अनु॑। गाः॒। अधि॑। जी॒व॒ऽपु॒राः। इ॒हि॒। ३०.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ one and a half of the wild ass,
 
 <details><summary>पदपाठः</summary>
 
-अत्य॑र्ध॒र्च। प॑रस्व॒त॑ः। १३१.१९। 
+अत्य॑र्ध॒र्च। प॑रस्व॒तः॑। १३१.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

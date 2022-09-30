@@ -19,7 +19,7 @@ Whereon in order rest the three, the ocean, and the heaven, and earth.
 
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। स॒मु॒द्रः। द्यौः। भूमि॑ः। त्रय॑ः। अ॒व॒र॒ऽप॒रम्। श्रि॒ताः। ३.२०। 
+यस्मि॑न्। स॒मु॒द्रः। द्यौः। भूमिः॑। त्रयः॑। अ॒व॒र॒ऽप॒रम्। श्रि॒ताः। ३.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Mighty in bulk, strong-necked, stout-armed in the wild rapture. of the juice Dot
 
 <details><summary>पदपाठः</summary>
 
-तु॒वि॒ऽग्रीव॑ः। व॒पाऽउ॑दरः। सु॒ऽबा॒हुः। अन्‍ध॑सः। मदे॑। इन्द्र॑ः। वृ॒त्राणि॑। जि॒घ्न॒ते॒। ५.२। 
+तु॒वि॒ऽग्रीवः॑। व॒पाऽउ॑दरः। सु॒ऽबा॒हुः। अन्‍ध॑सः। मदे॑। इन्द्रः॑। वृ॒त्राणि॑। जि॒घ्न॒ते॒। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

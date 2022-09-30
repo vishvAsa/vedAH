@@ -27,7 +27,7 @@ Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the swe
 
 <details><summary>पदपाठः</summary>
 
-गि॒रौ। अ॒र॒गरा॑टेषु। हिर॑ण्ये। गोषु॑। यत्। यश॑ः। सुरा॑याम्। सि॒च्यमा॑नायाम्। की॒लाले॑। मधु॑। तत्। मयि॑। ६९.१। 
+गि॒रौ। अ॒र॒गरा॑टेषु। हिर॑ण्ये। गोषु॑। यत्। यशः॑। सुरा॑याम्। सि॒च्यमा॑नायाम्। की॒लाले॑। मधु॑। तत्। मयि॑। ६९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ May stainless waters cleanse us from defilement.
 
 <details><summary>पदपाठः</summary>
 
-अ॒रि॒प्राः। आप॑ः। अप॑। रि॒प्रन्। अ॒स्मत्। १.१०। 
+अ॒रि॒प्राः। आपः॑। अप॑। रि॒प्रन्। अ॒स्मत्। १.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

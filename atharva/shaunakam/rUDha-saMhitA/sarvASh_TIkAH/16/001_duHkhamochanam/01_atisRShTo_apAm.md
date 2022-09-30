@@ -23,7 +23,7 @@ The Bull of the Waters hath been let go; the heavenly fires have been let go.
 
 <details><summary>पदपाठः</summary>
 
-अति॑ऽसृष्टः। अ॒पाम्। वृ॒ष॒भः। अति॑ऽसृष्टः। अ॒ग्नय॑ः। दि॒व्याः। १.१। 
+अति॑ऽसृष्टः। अ॒पाम्। वृ॒ष॒भः। अति॑ऽसृष्टः। अ॒ग्नयः॑। दि॒व्याः। १.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

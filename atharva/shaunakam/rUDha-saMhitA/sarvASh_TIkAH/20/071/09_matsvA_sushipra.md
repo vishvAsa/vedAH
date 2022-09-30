@@ -10,7 +10,7 @@ O Lord of all men, fair of cheek, rejoice thee in the gladdening buds, Present a
 
 <details><summary>पदपाठः</summary>
 
-मत्स्व॑। सु॒ऽशि॒प्र‍॒। म॒न्दिऽभि॑ः। स्तोमे॑भिः। वि॒श्व॒ऽच॒र्ष॒णे॒। सचा॑। ए॒षु। सव॑नेषु। आ। ७१.९। 
+मत्स्व॑। सु॒ऽशि॒प्र‍॒। म॒न्दिऽभिः॑। स्तोमे॑भिः। वि॒श्व॒ऽच॒र्ष॒णे॒। सचा॑। ए॒षु। सव॑नेषु। आ। ७१.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

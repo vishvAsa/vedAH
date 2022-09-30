@@ -21,7 +21,7 @@ Thought is the heart, intelligence is the liver, law the pericar- dium.
 
 <details><summary>पदपाठः</summary>
 
-चेत॑ः। हृद॑यम्। यकृ॑त्। मे॒धा। व्र॒तम्। पु॒रि॒ऽतत्। १२.११। 
+चेतः॑। हृद॑यम्। यकृ॑त्। मे॒धा। व्र॒तम्। पु॒रि॒ऽतत्। १२.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

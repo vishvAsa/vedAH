@@ -10,7 +10,7 @@ Bring the Gods hither, Agni, born for him who strews the sacred grass. Thou art 
 
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। दे॒वान्। इ॒ह। आ। व॒ह॒। ज॒ज्ञा॒नः। वृ॒क्तऽब॑र्हिषे। असि॑। होता॑। न॒ः। ईड्य॑ः। १०१.३। 
+अग्ने॑। दे॒वान्। इ॒ह। आ। व॒ह॒। ज॒ज्ञा॒नः। वृ॒क्तऽब॑र्हिषे। असि॑। होता॑। नः॒। ईड्यः॑। १०१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -22,7 +22,7 @@ Known by the name of Guardian Grace the Deity sits girt by Right. The trees have
 
 <details><summary>पदपाठः</summary>
 
-अवि॑ः। वै। नाम॑। दे॒वता॑। ऋ॒तेन॑। आ॒स्ते॒। परि॑ऽवृता। तस्या॑ः। रू॒पेण॑। इ॒मे। वृ॒क्षाः। हरि॑ताः। हरि॑तऽस्रजः। ८.३१। 
+अविः॑। वै। नाम॑। दे॒वता॑। ऋ॒तेन॑। आ॒स्ते॒। परि॑ऽवृता। तस्याः॑। रू॒पेण॑। इ॒मे। वृ॒क्षाः। हरि॑ताः। हरि॑तऽस्रजः। ८.३१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

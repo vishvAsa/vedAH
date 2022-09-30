@@ -10,7 +10,7 @@ These prayers, O thou who bearest prayer, are offered. Seat thee on the grass. H
 
 <details><summary>पदपाठः</summary>
 
-इ॒मा। ब्रह्म॑। ब्र॒ह्म॒ऽवा॒ह॒ः। क्रि॒यन्ते॑। आ। ब॒र्हिः। सी॒द॒। वी॒हि। शू॒र॒। पु॒रो॒लाश॑म्। २३.३। 
+इ॒मा। ब्रह्म॑। ब्र॒ह्म॒ऽवा॒हः॒। क्रि॒यन्ते॑। आ। ब॒र्हिः। सी॒द॒। वी॒हि। शू॒र॒। पु॒रो॒लाश॑म्। २३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

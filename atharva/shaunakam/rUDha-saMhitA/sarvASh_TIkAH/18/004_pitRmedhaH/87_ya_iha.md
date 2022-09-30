@@ -96,7 +96,7 @@ All living fathers who are here are we here: let them follow us. May we be the m
 
 <details><summary>पदपाठः</summary>
 
-ये। इ॒ह। पि॒तर॑ः। जी॒वाः। इ॒ह। व॒यम्। स्म॒ः। अ॒स्मान्। ते। अनु॑। व॒यम्। तेषा॑म्। श्रेष्ठा॑ः। भू॒या॒स्म॒। ४.८७। 
+ये। इ॒ह। पि॒तरः॑। जी॒वाः। इ॒ह। व॒यम्। स्मः॒। अ॒स्मान्। ते। अनु॑। व॒यम्। तेषा॑म्। श्रेष्ठाः॑। भू॒या॒स्म॒। ४.८७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

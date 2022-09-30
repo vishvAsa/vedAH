@@ -10,7 +10,7 @@ We call on thee, O peerless One. We, seeking help, possessing nothing firm ourse
 
 <details><summary>पदपाठः</summary>
 
-व॒यम्। ऊं॒ इति॑। त्वाम्। अ॒पू॒र्व्य॒। स्थू॒रम्। न। कत्। चि॒त्। भर॑न्तः। अ॒व॒स्यव॑ः। वाजे॑। चि॒त्रम्। ह॒वा॒म॒हे॒। १४.१। 
+व॒यम्। ऊं॒ इति॑। त्वाम्। अ॒पू॒र्व्य॒। स्थू॒रम्। न। कत्। चि॒त्। भर॑न्तः। अ॒व॒स्यवः॑। वाजे॑। चि॒त्रम्। ह॒वा॒म॒हे॒। १४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

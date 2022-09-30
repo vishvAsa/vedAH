@@ -21,7 +21,7 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 
 <details><summary>पदपाठः</summary>
 
-दे॒वैः। द॒त्तेन॑। म॒णिना॑। ज॒ङ्गि॒डेन॑। म॒य॒ःभुवा॑। विऽस्क॑न्धम्। सर्वा॑। रक्षां॑सि। वि॒ऽआ॒या॒मे। स॒हा॒म॒हे॒। ४.४। 
+दे॒वैः। द॒त्तेन॑। म॒णिना॑। ज॒ङ्गि॒डेन॑। म॒यः॒भुवा॑। विऽस्क॑न्धम्। सर्वा॑। रक्षां॑सि। वि॒ऽआ॒या॒मे। स॒हा॒म॒हे॒। ४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

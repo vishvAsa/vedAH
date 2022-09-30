@@ -19,7 +19,7 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निम्। अ॒न्तः। छा॒द॒य॒सि॒। पुरु॑षान्। प॒शुऽभि॑ः। स॒ह। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१४। 
+अ॒ग्निम्। अ॒न्तः। छा॒द॒य॒सि॒। पुरु॑षान्। प॒शुऽभिः॑। स॒ह। विजा॑ऽवति। प्रजा॑ऽवति। वि। ते॒। पाशा॑न्। चृ॒ता॒म॒सि॒। ३.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

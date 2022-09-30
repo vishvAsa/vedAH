@@ -18,7 +18,7 @@ The Seasons are the dressers, the Groups of Seasons kindle the fire.
 
 <details><summary>पदपाठः</summary>
 
-ऋ॒तव॑ः। प॒क्तार॑ः। आ॒र्त॒वाः। सम्। इ॒न्ध॒ते॒। ३.१७। 
+ऋ॒तवः॑। प॒क्तारः॑। आ॒र्त॒वाः। सम्। इ॒न्ध॒ते॒। ३.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

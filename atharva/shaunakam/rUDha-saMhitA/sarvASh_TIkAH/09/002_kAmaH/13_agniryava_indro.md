@@ -26,7 +26,7 @@ Agni averts, Indra averts, and Soma: may the averting Gods avert this foeman.
 
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। यव॑ः। इन्द्र॑ः। यव॑ः। सोम॑ः। यव॑ः। य॒व॒ऽयावा॑नः। दे॒वाः। य॒व॒य॒न्तु॒। ए॒न॒म्। २.१३। 
+अ॒ग्निः। यवः॑। इन्द्रः॑। यवः॑। सोमः॑। यवः॑। य॒व॒ऽयावा॑नः। दे॒वाः। य॒व॒य॒न्तु॒। ए॒न॒म्। २.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

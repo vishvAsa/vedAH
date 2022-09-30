@@ -22,7 +22,7 @@ Sweep thou away the sorcerers, all stingy fiendish hags away. All this, O Apamar
 
 <details><summary>पदपाठः</summary>
 
-अ॒प॒ऽमृज्य॑। या॒तु॒ऽधाना॑न्। अप॑। सर्वा॑ः। अ॒रा॒य्य᳡ः। अपा॑मार्गः। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १८.८। 
+अ॒प॒ऽमृज्य॑। या॒तु॒ऽधाना॑न्। अप॑। सर्वाः॑। अ॒रा॒य्यः᳡। अपा॑मार्गः। त्वया॑। व॒यम्। सर्व॑म्। तत्। अप॑। मृ॒ज्म॒हे॒। १८.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

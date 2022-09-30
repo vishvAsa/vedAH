@@ -30,7 +30,7 @@ To Soma connected with the Fathers Hail! and homage!
 
 <details><summary>पदपाठः</summary>
 
-सोमा॑य। पि॒तृ॒ऽम॑ते। स्व॒धा। नम॑ः। ४.७२। 
+सोमा॑य। पि॒तृ॒ऽम॑ते। स्व॒धा। नमः॑। ४.७२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

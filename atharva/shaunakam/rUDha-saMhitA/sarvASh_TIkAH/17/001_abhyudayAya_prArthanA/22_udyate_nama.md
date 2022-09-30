@@ -28,7 +28,7 @@ Glory to him when rising, when ascending! Glory to him when he hath reached the 
 
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽय॒ते। नम॑ः। उ॒त्ऽआ॒य॒ते। नम॑ः। उत्ऽइ॑ताय। नम॑ः। वि॒ऽराजे॑। नम॑ः। स्व॒ऽराजे॑। नम॑ः। स॒म्ऽराजे॑। नम॑ः। १.२२। 
+उ॒त्ऽय॒ते। नमः॑। उ॒त्ऽआ॒य॒ते। नमः॑। उत्ऽइ॑ताय। नमः॑। वि॒ऽराजे॑। नमः॑। स्व॒ऽराजे॑। नमः॑। स॒म्ऽराजे॑। नमः॑। १.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

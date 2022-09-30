@@ -21,7 +21,7 @@ Rohita rose to heaven from mighty ocean, Rohita rose and clomb all steeps and ri
 
 <details><summary>पदपाठः</summary>
 
-रोहि॑तः। दिव॑म्। आ। अ॒रु॒ह॒त्। म॒ह॒तः। परि॑। अ॒र्ण॒वात्। सर्वा॑ः। रु॒रो॒ह॒। रोह‍ि॑तः। रुह॑ः। १.२६। 
+रोहि॑तः। दिव॑म्। आ। अ॒रु॒ह॒त्। म॒ह॒तः। परि॑। अ॒र्ण॒वात्। सर्वाः॑। रु॒रो॒ह॒। रोह‍ि॑तः। रुहः॑। १.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

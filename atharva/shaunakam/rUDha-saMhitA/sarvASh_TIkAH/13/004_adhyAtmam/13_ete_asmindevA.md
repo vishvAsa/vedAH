@@ -25,7 +25,7 @@ In him these Deities become simple and One
 
 <details><summary>पदपाठः</summary>
 
-ए॒ते। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृत॑ः। भ॒व॒न्ति॒। ४.१५। 
+ए॒ते। अ॒स्मि॒न्। दे॒वाः। ए॒क॒ऽवृतः॑। भ॒व॒न्ति॒। ४.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

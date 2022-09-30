@@ -19,7 +19,7 @@ Two of its feet were Summer and Spring, and two were Autumn and the Rains.
 
 <details><summary>पदपाठः</summary>
 
-तस्या॑ः। ग्री॒ष्मः। च॒। व॒स॒न्तः। च॒। द्वौ। पादौ॑। आस्ता॑म्। श॒रत्। च॒। व॒र्षाः। च॒। द्वौ। ३.४। 
+तस्याः॑। ग्री॒ष्मः। च॒। व॒स॒न्तः। च॒। द्वौ। पादौ॑। आस्ता॑म्। श॒रत्। च॒। व॒र्षाः। च॒। द्वौ। ३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

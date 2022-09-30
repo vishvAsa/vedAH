@@ -10,7 +10,7 @@ To him who wins the kine, who keeps no cattle back, celestial God, Speak wondrou
 
 <details><summary>पदपाठः</summary>
 
-अगो॑ऽरुधाय। गो॒ऽइषे॑। द्युक्षाय॑। दस्म्य॑म्। वच॑ः। घृ॒तात्। स्वादी॑यः। मधु॑नः। च॒। वो॒च॒त॒। ६५.२। 
+अगो॑ऽरुधाय। गो॒ऽइषे॑। द्युक्षाय॑। दस्म्य॑म्। वचः॑। घृ॒तात्। स्वादी॑यः। मधु॑नः। च॒। वो॒च॒त॒। ६५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

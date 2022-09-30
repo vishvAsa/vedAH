@@ -26,7 +26,7 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 
 <details><summary>पदपाठः</summary>
 
-वै॒श्वा॒न॒रः। न॒ः। ऊ॒तये॑। आ। प्र। या॒तु॒। प॒रा॒ऽवत॑ः। अ॒ग्निः। न॒ः। सु॒ऽस्तु॒तीः। उप॑। ३५.१। 
+वै॒श्वा॒न॒रः। नः॒। ऊ॒तये॑। आ। प्र। या॒तु॒। प॒रा॒ऽवतः॑। अ॒ग्निः। नः॒। सु॒ऽस्तु॒तीः। उप॑। ३५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

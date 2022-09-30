@@ -10,7 +10,7 @@ May he, the saviour much-invoked, may Indra bear us in a ship Safely beyond all 
 
 <details><summary>पदपाठः</summary>
 
-सः। न॒ः। पप्रि॑ः। पा॒र॒या॒ति॒ः। स्व॒स्ति। ना॒वा। पु॒रु॒ऽहू॒तः। इन्द्र॑ः। विश्वा॑ः। अति॑। द्विष॑ः। ४६.२। 
+सः। नः॒। पप्रिः॑। पा॒र॒या॒तिः॒। स्व॒स्ति। ना॒वा। पु॒रु॒ऽहू॒तः। इन्द्रः॑। विश्वाः॑। अति॑। द्विषः॑। ४६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -29,7 +29,7 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 
 <details><summary>पदपाठः</summary>
 
-तत्। न॒ः। तु॒रीष॑म्। अत्ऽभु॑तम्। पु॒रु॒ऽक्षु। देव॑। त्व॒ष्ट॒ः। रा॒यः। पोष॑म्। वि। स्य॒। नाभि॑म्। अ॒स्य। २७.१०। 
+तत्। नः॒। तु॒रीष॑म्। अत्ऽभु॑तम्। पु॒रु॒ऽक्षु। देव॑। त्व॒ष्टः॒। रा॒यः। पोष॑म्। वि। स्य॒। नाभि॑म्। अ॒स्य। २७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

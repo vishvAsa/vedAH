@@ -23,7 +23,7 @@ Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer w
 
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। पृ॒त॒ना॒षा॒ट्। पृत॑नाः। स॒ह॒स्व॒। पुन॑ः। कृ॒त्याम्। कृ॒त्या॒ऽकृते॑। प्र॒ति॒ऽहर॑णेन। ह॒रा॒म॒सि॒। १४.८। 
+अग्ने॑। पृ॒त॒ना॒षा॒ट्। पृत॑नाः। स॒ह॒स्व॒। पुनः॑। कृ॒त्याम्। कृ॒त्या॒ऽकृते॑। प्र॒ति॒ऽहर॑णेन। ह॒रा॒म॒सि॒। १४.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

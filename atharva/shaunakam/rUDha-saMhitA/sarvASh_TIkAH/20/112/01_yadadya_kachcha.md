@@ -10,7 +10,7 @@ Whatever, Vritra-slayer! thou Surya, hast risen upon to-day, That, Indra, all is
 
 <details><summary>पदपाठः</summary>
 
-यत्। अ॒द्य। कत्। च॒। वृ॒त्र॒ऽह॒न्। उ॒त्ऽगा॑ः। अ॒भि। सू॒र्य॒। सर्व॑म्। तत्। इ॒न्द्र॒। ते॒। वशे॑। ११२.१। 
+यत्। अ॒द्य। कत्। च॒। वृ॒त्र॒ऽह॒न्। उ॒त्ऽगाः॑। अ॒भि। सू॒र्य॒। सर्व॑म्। तत्। इ॒न्द्र॒। ते॒। वशे॑। ११२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ We summon Indra to the draught, in whom all glories rest, in whom The seven comm
 
 <details><summary>पदपाठः</summary>
 
-यस्मि॑न्। विश्वा॑ः। अधि॑। श्रिय॑ः। रण॑न्ति। स॒प्त। स॒म्ऽसद॑ः। इन्द्र॑म्। सु॒ते। ह॒वा॒म॒हे॒। ११०.२। 
+यस्मि॑न्। विश्वाः॑। अधि॑। श्रियः॑। रण॑न्ति। स॒प्त। स॒म्ऽसदः॑। इन्द्र॑म्। सु॒ते। ह॒वा॒म॒हे॒। ११०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

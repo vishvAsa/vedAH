@@ -22,7 +22,7 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 
 <details><summary>पदपाठः</summary>
 
-पुष्प॑ऽवतीः। प्र॒सूऽम॑तीः। फ॒लिनी॑ः। अ॒फ॒ला। उ॒त। सं॒मा॒तर॑ःऽइव। दु॒ह्रा॒म्। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ७.२७। 
+पुष्प॑ऽवतीः। प्र॒सूऽम॑तीः। फ॒लिनीः॑। अ॒फ॒ला। उ॒त। सं॒मा॒तरः॑ऽइव। दु॒ह्रा॒म्। अ॒स्मै। अ॒रि॒ष्टऽता॑तये। ७.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

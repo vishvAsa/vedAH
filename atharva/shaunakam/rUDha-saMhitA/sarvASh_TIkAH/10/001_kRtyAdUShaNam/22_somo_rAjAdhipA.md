@@ -21,7 +21,7 @@ May Soma, gracious friend, imperial Sovran, and the world's Masters look on us w
 
 <details><summary>पदपाठः</summary>
 
-सोम॑ः। राजा॑। अ॒धि॒ऽपाः। मृ॒डि॒ताः। च॒। भू॒तस्य॑। न॒ः। पत॑यः। मृ॒ड॒य॒न्तु॒। १.२२। 
+सोमः॑। राजा॑। अ॒धि॒ऽपाः। मृ॒डि॒ताः। च॒। भू॒तस्य॑। नः॒। पत॑यः। मृ॒ड॒य॒न्तु॒। १.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

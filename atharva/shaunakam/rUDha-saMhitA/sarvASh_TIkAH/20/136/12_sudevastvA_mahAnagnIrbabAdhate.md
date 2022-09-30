@@ -10,7 +10,7 @@ Fortunatus, Arnica, te opprimit. Bona est magni viri fututio, Macrum pinguis. fe
 
 <details><summary>पदपाठः</summary>
 
-सुदे॑वः। त्वा। म॒हान्। अ॑ग्नी॒ः। बबाध॑ते॒। मह॒तः। सा॑धु। खो॒दन॑म्। कु॒सम्। पीव॒रः। नव॑त्। १३६.१२। 
+सुदे॑वः। त्वा। म॒हान्। अ॑ग्नीः॒। बबाध॑ते॒। मह॒तः। सा॑धु। खो॒दन॑म्। कु॒सम्। पीव॒रः। नव॑त्। १३६.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

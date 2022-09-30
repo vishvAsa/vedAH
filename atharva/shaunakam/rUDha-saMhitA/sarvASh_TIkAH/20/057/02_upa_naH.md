@@ -10,7 +10,7 @@ Come thou to our libations, drink of Soma, Soma-drinker thou! The rich One's rap
 
 <details><summary>पदपाठः</summary>
 
-उप॑। न॒ः। सव॑ना। आ। ग॒हि॒। सोम॑स्य। सोम॒ऽपा॒ः। पि॒ब॒। गो॒ऽदाः। इत्। रे॒वत॑ः। मद॑ः। ५७.२। 
+उप॑। नः॒। सव॑ना। आ। ग॒हि॒। सोम॑स्य। सोम॒ऽपाः॒। पि॒ब॒। गो॒ऽदाः। इत्। रे॒वतः॑। मदः॑। ५७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

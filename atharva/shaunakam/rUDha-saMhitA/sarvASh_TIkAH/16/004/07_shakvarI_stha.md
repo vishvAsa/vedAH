@@ -33,7 +33,7 @@ Mighty are ye, domestic creatures. May Mitra-Varuna stand beside me. May Agni gi
 
 <details><summary>पदपाठः</summary>
 
-शक्व॑रीः। स्थ॒। प॒शव॑ः। मा॒। उप॑। स्थे॒षु॒ः। मि॒त्रावरु॑णौ। मे॒। प्रा॒णा॒पा॒नौ। अ॒ग्निः। मे॒। दक्ष॑म्। द॒धा॒तु॒। ४.७। 
+शक्व॑रीः। स्थ॒। प॒शवः॑। मा॒। उप॑। स्थे॒षुः॒। मि॒त्रावरु॑णौ। मे॒। प्रा॒णा॒पा॒नौ। अ॒ग्निः। मे॒। दक्ष॑म्। द॒धा॒तु॒। ४.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

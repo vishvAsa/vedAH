@@ -18,7 +18,7 @@ His third downward breath is the night of New Moon.
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीय॑ः। अ॒पा॒नः। सा। अ॒मा॒ऽवा॒स्या᳡। १६.३। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीयः॑। अ॒पा॒नः। सा। अ॒मा॒ऽवा॒स्या᳡। १६.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

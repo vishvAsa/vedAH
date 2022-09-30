@@ -25,7 +25,7 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 
 <details><summary>पदपाठः</summary>
 
-आऽउ॑ताः। आप॑ः। क॒र्म॒ण्या᳡ः। मु॒ञ्चन्तु॑। इ॒तः। प्रऽनी॑तये। स॒द्यः। कृ॒ण्व॒न्तु॒। एत॑वे। २३.२। 
+आऽउ॑ताः। आपः॑। क॒र्म॒ण्याः᳡। मु॒ञ्चन्तु॑। इ॒तः। प्रऽनी॑तये। स॒द्यः। कृ॒ण्व॒न्तु॒। एत॑वे। २३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

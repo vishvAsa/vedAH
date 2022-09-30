@@ -22,7 +22,7 @@ From every member drive away the venom, and avoid the heart. Then let the poison
 
 <details><summary>पदपाठः</summary>
 
-अङ्गा॑त्ऽअङ्गात्। प्र। च्य॒व॒य॒। हृद॑यम्। परि॑। व॒र्ज॒य॒। अध॑। वि॒षस्य॑। यत्। तेज॑ः। अ॒वा॒चीन॑म्। तत्। ए॒तु॒। ते॒। ४.२५। 
+अङ्गा॑त्ऽअङ्गात्। प्र। च्य॒व॒य॒। हृद॑यम्। परि॑। व॒र्ज॒य॒। अध॑। वि॒षस्य॑। यत्। तेजः॑। अ॒वा॒चीन॑म्। तत्। ए॒तु॒। ते॒। ४.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -16,7 +16,7 @@ Vairupa and Vairaja, the Waters, and King Varuna followed him.
 
 <details><summary>पदपाठः</summary>
 
-तम्। वै॒रू॒पम्। च॒। वै॒रा॒जम्। च॒। आप॑ः। च॒। वरु॑णः। च॒। राजा॑। अ॒नु॒ऽव्य᳡चलन्। २.१६। 
+तम्। वै॒रू॒पम्। च॒। वै॒रा॒जम्। च॒। आपः॑। च॒। वरु॑णः। च॒। राजा॑। अ॒नु॒ऽव्य᳡चलन्। २.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

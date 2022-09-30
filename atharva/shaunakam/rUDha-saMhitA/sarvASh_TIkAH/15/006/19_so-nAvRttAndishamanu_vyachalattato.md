@@ -24,7 +24,7 @@ He went away to the unfrequented region. Thence he thought that he should not re
 
 <details><summary>पदपाठः</summary>
 
-सः। अना॑वृत्ताम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। तत॑ः। न। आ॒ऽव॒र्त्स्यन्। अ॒म॒न्य॒त॒। ६.१९। 
+सः। अना॑वृत्ताम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ततः॑। न। आ॒ऽव॒र्त्स्यन्। अ॒म॒न्य॒त॒। ६.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

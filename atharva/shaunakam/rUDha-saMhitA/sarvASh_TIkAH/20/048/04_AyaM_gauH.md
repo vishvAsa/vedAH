@@ -10,7 +10,7 @@ This brindled Bull hath come and sat before the Mother in the east, Advancing to
 
 <details><summary>पदपाठः</summary>
 
-आ। अ॒यम्। गौः। पृश्नि॑ः। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒ऽयन्। स्व॑ः। ४८.४। 
+आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒ऽयन्। स्वः॑। ४८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

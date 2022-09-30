@@ -10,7 +10,7 @@ Indra hath raised the Sun aloft in heaven that he may see afar. He burst the mou
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। दी॒र्घाय॑। चक्ष॑से। आ। सूर्य॑म्। रो॒ह॒य॒त्। दि॒वि। वि। गोभि॑ः। अद्रि॑म्। ऐ॒र॒य॒त्। ३८.६। 
+इन्द्रः॑। दी॒र्घाय॑। चक्ष॑से। आ। सूर्य॑म्। रो॒ह॒य॒त्। दि॒वि। वि। गोभिः॑। अद्रि॑म्। ऐ॒र॒य॒त्। ३८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

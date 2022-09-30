@@ -23,7 +23,7 @@ One is yet finer than a hair, one is not even visible. And hence the Deity who g
 
 <details><summary>पदपाठः</summary>
 
-बाला॑त्। एक॑म्। अ॒णी॒य॒ःऽकम्। उ॒त। एक॑म्। नऽइ॑व। दृ॒श्य॒ते॒। तत॑ः। परि॑ऽस्वजीयसी। दे॒वता॑। सा। मम॑। प्रि॒या। ८.२५। 
+बाला॑त्। एक॑म्। अ॒णी॒यः॒ऽकम्। उ॒त। एक॑म्। नऽइ॑व। दृ॒श्य॒ते॒। ततः॑। परि॑ऽस्वजीयसी। दे॒वता॑। सा। मम॑। प्रि॒या। ८.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

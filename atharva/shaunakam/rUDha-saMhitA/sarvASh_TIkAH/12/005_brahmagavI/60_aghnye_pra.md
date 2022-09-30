@@ -20,7 +20,7 @@ O Cow, break thou the head of him who wrongs the Brahmans, criminal, niggard, bl
 
 <details><summary>पदपाठः</summary>
 
-अघ्न्ये॑। प्र। शिर॑ः। ज॒हि॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धस॑ः। १०.१४। 
+अघ्न्ये॑। प्र। शिरः॑। ज॒हि॒। ब्र॒ह्म॒ऽज्यस्य॑। कृ॒तऽआ॑गसः। दे॒व॒ऽपी॒योः। अ॒रा॒धसः॑। १०.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

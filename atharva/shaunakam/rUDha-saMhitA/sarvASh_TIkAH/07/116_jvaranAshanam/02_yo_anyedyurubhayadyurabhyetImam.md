@@ -21,7 +21,7 @@ May he, the lawless one, who comes alternate or two following days, pass over an
 
 <details><summary>पदपाठः</summary>
 
-यः। अ॒न्ये॒द्यु॒ः। उ॒भ॒य॒ऽद्युः। अ॒भि॒ऽएति॑। इ॒मम। म॒ण्डूक॑म्। अ॒भि। ए॒तु॒। अ॒व्र॒तः। १२१.२। 
+यः। अ॒न्ये॒द्युः॒। उ॒भ॒य॒ऽद्युः। अ॒भि॒ऽएति॑। इ॒मम। म॒ण्डूक॑म्। अ॒भि। ए॒तु॒। अ॒व्र॒तः। १२१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

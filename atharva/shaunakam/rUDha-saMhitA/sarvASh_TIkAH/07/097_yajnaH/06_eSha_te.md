@@ -27,7 +27,7 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 
 <details><summary>पदपाठः</summary>
 
-ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्य॑ः। स्वाहा॑। १०२.६। 
+ए॒षः। ते॒। य॒ज्ञः। य॒ज्ञ॒ऽप॒ते॒। स॒हऽसू॑क्तवाकः। सु॒ऽवीर्यः॑। स्वाहा॑। १०२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

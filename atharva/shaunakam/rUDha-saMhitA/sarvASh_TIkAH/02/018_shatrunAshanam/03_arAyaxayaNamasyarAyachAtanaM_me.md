@@ -19,7 +19,7 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 
 <details><summary>पदपाठः</summary>
 
-अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दा॒ः। स्वाहा॑। १८.३। 
+अ॒रा॒य॒ऽक्षय॑णम्। अ॒सि॒। अ॒रा॒य॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

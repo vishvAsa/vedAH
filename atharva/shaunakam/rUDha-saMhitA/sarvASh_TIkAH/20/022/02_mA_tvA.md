@@ -10,7 +10,7 @@ Let not the fools, or those who mock, beguile thee when they seek thine aid: Lov
 
 <details><summary>पदपाठः</summary>
 
-मा। त्वा॒। मू॒राः। अ॒वि॒ष्यव॑ः। मा। उ॒प॒ऽहस्वा॑नः। आ। द॒भ॒न्। माकी॑म्। ब्र॒ह्म॒ऽद्विष॑ः। व॒न॒ः। २२.२। 
+मा। त्वा॒। मू॒राः। अ॒वि॒ष्यवः॑। मा। उ॒प॒ऽहस्वा॑नः। आ। द॒भ॒न्। माकी॑म्। ब्र॒ह्म॒ऽद्विषः॑। व॒नः॒। २२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

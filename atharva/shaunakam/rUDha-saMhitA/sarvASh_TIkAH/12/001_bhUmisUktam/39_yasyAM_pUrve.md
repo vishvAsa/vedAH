@@ -24,7 +24,7 @@ On whom the ancient Rishis, they who made the world, sang forth the cows, Seven 
 
 <details><summary>पदपाठः</summary>
 
-यस्या॑म्। पूर्वे॑। भू॒त॒ऽकृत॑ः। ऋष॑यः। गाः। उत्। आ॒नृ॒चुः। स॒प्त। स॒त्त्रेण॑। वे॒धस॑ः। य॒ज्ञेन॑। तप॑सा। स॒ह। १.३९। 
+यस्या॑म्। पूर्वे॑। भू॒त॒ऽकृतः॑। ऋष॑यः। गाः। उत्। आ॒नृ॒चुः। स॒प्त। स॒त्त्रेण॑। वे॒धसः॑। य॒ज्ञेन॑। तप॑सा। स॒ह। १.३९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

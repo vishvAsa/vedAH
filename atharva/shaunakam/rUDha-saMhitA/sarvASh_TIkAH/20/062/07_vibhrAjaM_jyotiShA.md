@@ -10,7 +10,7 @@ Radiant with light thou wentest to the sky, the luminous realms: of heaven. The 
 
 <details><summary>पदपाठः</summary>
 
-वि॒ऽभ्राज॑न्। ज्योति॑षा। स्व॑ः। अग॑च्छ। रो॒च॒नम्। दि॒वः। दे॒वाः। ते॒। इ॒न्द्र॒। स॒ख्याय॑। ये॒मि॒रे॒। ६२.७। 
+वि॒ऽभ्राज॑न्। ज्योति॑षा। स्वः॑। अग॑च्छ। रो॒च॒नम्। दि॒वः। दे॒वाः। ते॒। इ॒न्द्र॒। स॒ख्याय॑। ये॒मि॒रे॒। ६२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

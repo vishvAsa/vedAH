@@ -10,7 +10,7 @@ Whose lofty might--for doubly strong is he--supports the heaven and earth, And h
 
 <details><summary>पदपाठः</summary>
 
-यस्य॑। द्वि॒ऽबर्ह॑सः। बृ॒हत्। सह॑ः। दा॒धार॑। रोद॑सी॒ इति॑। गि॒रीन्। अज्रा॑न्। अ॒पः। स्व॑ः। वृ॒ष॒ऽत्व॒ना। ६२.९। 
+यस्य॑। द्वि॒ऽबर्ह॑सः। बृ॒हत्। सहः॑। दा॒धार॑। रोद॑सी॒ इति॑। गि॒रीन्। अज्रा॑न्। अ॒पः। स्वः॑। वृ॒ष॒ऽत्व॒ना। ६२.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -31,7 +31,7 @@ Here hast thou left thy heart; O man, as sisters leave their little pet. Do thou
 
 <details><summary>पदपाठः</summary>
 
-अ॒सौ। है। इ॒ह। ते॒। मन॑ः। ककु॑त्सलम्ऽइव। जा॒मय॑ः। अ॒भि। ए॒न॒म्। भू॒मे॒। ऊ॒र्णु॒हि॒। ४.६६। 
+अ॒सौ। है। इ॒ह। ते॒। मनः॑। ककु॑त्सलम्ऽइव। जा॒मयः॑। अ॒भि। ए॒न॒म्। भू॒मे॒। ऊ॒र्णु॒हि॒। ४.६६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

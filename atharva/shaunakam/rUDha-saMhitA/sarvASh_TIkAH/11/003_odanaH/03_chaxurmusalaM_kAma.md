@@ -18,7 +18,7 @@ Vision is the pestle, Desire the mortar.
 
 <details><summary>पदपाठः</summary>
 
-चक्षु॑ः। मुस॑लम्। काम॑ः। उ॒लूख॑लम्। ३.३। 
+चक्षुः॑। मुस॑लम्। कामः॑। उ॒लूख॑लम्। ३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

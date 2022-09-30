@@ -10,7 +10,7 @@ Him who of old hath brought to us this and that blessing, him I magnify for you,
 
 <details><summary>पदपाठः</summary>
 
-यः। न॒ः। इ॒दम्ऽइ॑दम्। पु॒रा। प्र। वस्य॑ः। आ॒ऽनि॒नाय॑। तम्। ऊं॒ इति॑। व॒ः। स्तु॒षे॒। सखा॑यः। इ॒न्द्र॑म्। ऊ॒तये॑। १४.३। 
+यः। नः॒। इ॒दम्ऽइ॑दम्। पु॒रा। प्र। वस्यः॑। आ॒ऽनि॒नाय॑। तम्। ऊं॒ इति॑। वः॒। स्तु॒षे॒। सखा॑यः। इ॒न्द्र॑म्। ऊ॒तये॑। १४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

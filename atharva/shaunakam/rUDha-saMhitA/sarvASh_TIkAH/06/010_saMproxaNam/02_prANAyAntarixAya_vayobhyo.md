@@ -21,7 +21,7 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 
 <details><summary>पदपाठः</summary>
 
-प्रा॒णाय॑। अ॒न्तरि॑क्षाय। वय॑ःऽभ्यः। वा॒यवे॑। अधि॑ऽपतये। स्वाहा॑। १०.२। 
+प्रा॒णाय॑। अ॒न्तरि॑क्षाय। वयः॑ऽभ्यः। वा॒यवे॑। अधि॑ऽपतये। स्वाहा॑। १०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

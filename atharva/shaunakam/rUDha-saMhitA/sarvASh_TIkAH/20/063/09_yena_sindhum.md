@@ -10,7 +10,7 @@ Wherewith thou dravest forth like cars Sindhu and all the mighty floods. To go t
 
 <details><summary>पदपाठः</summary>
 
-येन॑। सिन्धु॑म्। म॒हीः। अ॒पः। रथा॑न्ऽइव। प्र॒ऽचो॒दय॑ः। पन्था॑म्। ऋ॒तस्य॑। यात॑वे। तम्। ई॒म॒हे॒। ६३.९। 
+येन॑। सिन्धु॑म्। म॒हीः। अ॒पः। रथा॑न्ऽइव। प्र॒ऽचो॒दयः॑। पन्था॑म्। ऋ॒तस्य॑। यात॑वे। तम्। ई॒म॒हे॒। ६३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

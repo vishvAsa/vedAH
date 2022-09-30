@@ -24,7 +24,7 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 
 <details><summary>पदपाठः</summary>
 
-या। प्ली॒हान॑म्। शो॒षय॑ति। काम॑स्य। इषु॑ः। सुऽसं॑नता। प्रा॒चीन॑ऽपक्षा। विऽओ॑षा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.३। 
+या। प्ली॒हान॑म्। शो॒षय॑ति। काम॑स्य। इषुः॑। सुऽसं॑नता। प्रा॒चीन॑ऽपक्षा। विऽओ॑षा। तया॑। वि॒ध्या॒मि॒। त्वा॒। हृ॒दि। २५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

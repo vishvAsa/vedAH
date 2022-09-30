@@ -25,7 +25,7 @@ Be kind and most auspicious, be gracious to us, Sarasvati, May we be ever in thy
 
 <details><summary>पदपाठः</summary>
 
-शि॒वा। न॒ः। शम्ऽत॑मा। भ॒व॒। सु॒ऽमृ॒डी॒का। स॒र॒स्व॒ति॒। मा। ते॒। यु॒यो॒म॒। स॒म्ऽदृश॑ः। ७१.१। 
+शि॒वा। नः॒। शम्ऽत॑मा। भ॒व॒। सु॒ऽमृ॒डी॒का। स॒र॒स्व॒ति॒। मा। ते॒। यु॒यो॒म॒। स॒म्ऽदृशः॑। ७१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

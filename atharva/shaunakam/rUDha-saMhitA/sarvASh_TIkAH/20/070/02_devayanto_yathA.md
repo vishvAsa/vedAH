@@ -10,7 +10,7 @@ Worshipping even as they list, singers laud him who findeth wealth, The far-reno
 
 <details><summary>पदपाठः</summary>
 
-दे॒व॒ऽयन्त॑ः। यथा॑। म॒तिम्। अच्छ॑। वि॒दत्ऽव॑सुम्। गिर॑ः। म॒हाम्। अ॒नू॒ष॒त॒। श्रु॒तम्। ७०.२। 
+दे॒व॒ऽयन्तः॑। यथा॑। म॒तिम्। अच्छ॑। वि॒दत्ऽव॑सुम्। गिरः॑। म॒हाम्। अ॒नू॒ष॒त॒। श्रु॒तम्। ७०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

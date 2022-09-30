@@ -10,7 +10,7 @@ Indra be gracious unto us: sin shall not reach us afterward, And good shall be b
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। च॒। मृलया॑ति। न॒ः। न। न॒ः। प॒श्चात्। अ॒घम्। न॒श॒त्। भ॒द्रम्। भ॒वा॒ति॒। न॒ः। पु॒रः। ५७.९। 
+इन्द्रः॑। च॒। मृलया॑ति। नः॒। न। नः॒। प॒श्चात्। अ॒घम्। न॒श॒त्। भ॒द्रम्। भ॒वा॒ति॒। नः॒। पु॒रः। ५७.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

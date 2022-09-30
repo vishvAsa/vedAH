@@ -21,7 +21,7 @@ Auspicious, with her golden hue, pillowed on gold, the mighty one To this Arati 
 
 <details><summary>पदपाठः</summary>
 
-हिर॑ण्यऽवर्णा। सु॒ऽभगा॑। हिर॑ण्यऽकशिपुः। म॒ही। तस्यै॑। हिर॑ण्यऽद्रापये। अरा॑त्यै। अ॒क॒र॒म्। नम॑ः। ७.१०। 
+हिर॑ण्यऽवर्णा। सु॒ऽभगा॑। हिर॑ण्यऽकशिपुः। म॒ही। तस्यै॑। हिर॑ण्यऽद्रापये। अरा॑त्यै। अ॒क॒र॒म्। नमः॑। ७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

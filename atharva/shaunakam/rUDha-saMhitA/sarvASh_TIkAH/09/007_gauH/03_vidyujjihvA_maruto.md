@@ -29,7 +29,7 @@ Lightning is the tongue, the Maruts are the teeth, Revati is the neck, the Kritt
 
 <details><summary>पदपाठः</summary>
 
-वि॒द्युत्। जि॒ह्वा। म॒रुत॑ः। दन्ता॑ः। रे॒वती॑ः। ग्री॒वाः। कृत्ति॑काः। स्क॒न्धाः। घ॒र्मः। वह॑ः। १२.३। 
+वि॒द्युत्। जि॒ह्वा। म॒रुतः॑। दन्ताः॑। रे॒वतीः॑। ग्री॒वाः। कृत्ति॑काः। स्क॒न्धाः। घ॒र्मः। वहः॑। १२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

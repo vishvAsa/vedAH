@@ -22,7 +22,7 @@ When the attendants with vessels in their hands, foremost and hindmost, come in,
 
 <details><summary>पदपाठः</summary>
 
-यत्। प॒रि॒ऽवे॒ष्टार॑ः। पात्र॑ऽहस्ताः। पूर्वे॑। च॒। अप॑रे। च॒। प्र॒ऽपद्य॑न्ते। च॒म॒स॒ऽअ॑ध्वर्यवः। ए॒व। ते। ११.३। 
+यत्। प॒रि॒ऽवे॒ष्टारः॑। पात्र॑ऽहस्ताः। पूर्वे॑। च॒। अप॑रे। च॒। प्र॒ऽपद्य॑न्ते। च॒म॒स॒ऽअ॑ध्वर्यवः। ए॒व। ते। ११.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ He keeppeth watch o'er creatures, all that breatheth and that breatheth not.
 
 <details><summary>पदपाठः</summary>
 
-सः। प्र॒ऽजाभ्य॑ः। वि। प॒श्य॒ति॒। यत्। च॒। प्रा॒णति॑। यत्। च॒। न। ४.११। 
+सः। प्र॒ऽजाभ्यः॑। वि। प॒श्य॒ति॒। यत्। च॒। प्रा॒णति॑। यत्। च॒। न। ४.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

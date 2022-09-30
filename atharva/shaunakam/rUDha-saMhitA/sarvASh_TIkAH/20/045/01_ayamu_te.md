@@ -10,7 +10,7 @@ This is thine own. Thou drawest near, as the dove turneth to his mate. Thou care
 
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। ऊं॒ इति॑। ते॒ सम्। अ॒त॒सि॒। क॒पोत॑ःऽइव। ग॒र्भ॒ऽधिम्। वच॑ः। तत्। चि॒त्। न॒ः। ओ॒ह॒से॒। ४५.१। 
+अ॒यम्। ऊं॒ इति॑। ते॒ सम्। अ॒त॒सि॒। क॒पोतः॑ऽइव। ग॒र्भ॒ऽधिम्। वचः॑। तत्। चि॒त्। नः॒। ओ॒ह॒से॒। ४५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

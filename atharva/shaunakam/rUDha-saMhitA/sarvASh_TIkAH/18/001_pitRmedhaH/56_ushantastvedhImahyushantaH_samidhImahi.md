@@ -25,7 +25,7 @@ We set thee down with yearning, and with yearning we enkindle thee, Yearning, br
 
 <details><summary>पदपाठः</summary>
 
-उ॒शन्त॑ः। त्वा॒। इ॒धी॒म॒हि॒। उ॒शन्त॑ः। सम्। इ॒धी॒म॒हि॒। उ॒शन्। उ॒श॒तः। आ। व॒ह॒। पि॒तॄन्। ह॒विषे॑। अत्त॑वे। १.५६। 
+उ॒शन्तः॑। त्वा॒। इ॒धी॒म॒हि॒। उ॒शन्तः॑। सम्। इ॒धी॒म॒हि॒। उ॒शन्। उ॒श॒तः। आ। व॒ह॒। पि॒तॄन्। ह॒विषे॑। अत्त॑वे। १.५६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -25,7 +25,7 @@ With deadly poison strike thou back the treacherous brood of Rakshasas, O Agni, 
 
 <details><summary>पदपाठः</summary>
 
-वि॒षेण॑। भ॒ङ्गु॒रऽव॑तः। प्रति॑। स्म॒। र॒क्षस॑ः। ज॒हि॒। अग्ने॑। ति॒ग्मेन॑। शो॒चिषा॑। तपु॑ःऽअग्राभिः। अ॒र्चिऽभि॑ः। ३.२३। 
+वि॒षेण॑। भ॒ङ्गु॒रऽव॑तः। प्रति॑। स्म॒। र॒क्षसः॑। ज॒हि॒। अग्ने॑। ति॒ग्मेन॑। शो॒चिषा॑। तपुः॑ऽअग्राभिः। अ॒र्चिऽभिः॑। ३.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

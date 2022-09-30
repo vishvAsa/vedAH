@@ -10,7 +10,7 @@ Send to us bounty manifold, O Indra, worthy of our wish, For power supreme is on
 
 <details><summary>पदपाठः</summary>
 
-सम्। चो॒द॒य॒। चि॒त्रम्। अ॒र्वाक्। राध॑ः। इ॒न्द्र॒। वरे॑ण्यम्। अस॑त्। इत्। ते॒। वि॒ऽभु। प्र॒ऽभु। ७१.११। 
+सम्। चो॒द॒य॒। चि॒त्रम्। अ॒र्वाक्। राधः॑। इ॒न्द्र॒। वरे॑ण्यम्। अस॑त्। इत्। ते॒। वि॒ऽभु। प्र॒ऽभु। ७१.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

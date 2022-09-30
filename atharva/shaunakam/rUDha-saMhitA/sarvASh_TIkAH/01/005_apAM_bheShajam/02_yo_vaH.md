@@ -19,7 +19,7 @@ Here grant to us a share of dew, that most auspicious dew of yours, Like mothers
 
 <details><summary>पदपाठः</summary>
 
-यः। व॒ः। शि॒वऽत॑मः। रस॑ः। तस्य॑। भा॒ज॒य॒त॒। इ॒ह। न॒ः। उ॒श॒तीःऽइ॑व। मा॒तर॑ः। 
+यः। वः॒। शि॒वऽत॑मः। रसः॑। तस्य॑। भा॒ज॒य॒त॒। इ॒ह। नः॒। उ॒श॒तीःऽइ॑व। मा॒तरः॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

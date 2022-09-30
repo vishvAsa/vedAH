@@ -34,7 +34,7 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 
 <details><summary>पदपाठः</summary>
 
-आ। सु॒ऽस्रस॑ः। सु॒ऽस्रस॑ः। अस॑तीभ्यः। अस॑त्ऽतराः। सेहो॑ः। अ॒र॒सऽत॑राः। ल॒व॒णात्। विऽक्ले॑दीयसीः। ८०.१। 
+आ। सु॒ऽस्रसः॑। सु॒ऽस्रसः॑। अस॑तीभ्यः। अस॑त्ऽतराः। सेहोः॑। अ॒र॒सऽत॑राः। ल॒व॒णात्। विऽक्ले॑दीयसीः। ८०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

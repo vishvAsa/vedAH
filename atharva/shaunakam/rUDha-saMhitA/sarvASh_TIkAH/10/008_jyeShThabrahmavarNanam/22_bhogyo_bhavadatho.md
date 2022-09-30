@@ -24,7 +24,7 @@ Useful will he become, and then will he consume great store of food The man who 
 
 <details><summary>पदपाठः</summary>
 
-भोग्य॑ः। भ॒व॒त्। अथो॒ इति॑। अन्न॑म्। अ॒द॒त्। ब॒हु। यः। दे॒वम्। उ॒त्त॒रऽव॑न्तम्। उ॒प॒ऽआसा॑तै। स॒ना॒तन॑म्। ८.२२। 
+भोग्यः॑। भ॒व॒त्। अथो॒ इति॑। अन्न॑म्। अ॒द॒त्। ब॒हु। यः। दे॒वम्। उ॒त्त॒रऽव॑न्तम्। उ॒प॒ऽआसा॑तै। स॒ना॒तन॑म्। ८.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

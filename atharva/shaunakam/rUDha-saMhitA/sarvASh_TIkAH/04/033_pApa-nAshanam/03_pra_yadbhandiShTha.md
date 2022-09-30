@@ -19,7 +19,7 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। भन्दि॑ष्ठः। ए॒षा॒म्। प्र। अ॒स्माका॑सः। च॒। सू॒रय॑ः। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.३। 
+प्र। यत्। भन्दि॑ष्ठः। ए॒षा॒म्। प्र। अ॒स्माका॑सः। च॒। सू॒रयः॑। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

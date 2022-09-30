@@ -20,7 +20,7 @@ The consorts of the Gods are the ribs, the attendants are ribs.
 
 <details><summary>पदपाठः</summary>
 
-दे॒वाना॑म्। पत्नी॑ः। पृ॒ष्टय॑ः। उ॒प॒ऽसद॑ः। पर्श॑वः। १२.६। 
+दे॒वाना॑म्। पत्नीः॑। पृ॒ष्टयः॑। उ॒प॒ऽसदः॑। पर्श॑वः। १२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

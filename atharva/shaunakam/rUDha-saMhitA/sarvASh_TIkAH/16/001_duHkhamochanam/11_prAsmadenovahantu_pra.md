@@ -20,7 +20,7 @@ May they carry sin away from us, may they carry away from us the evil dream.
 
 <details><summary>पदपाठः</summary>
 
-प्र। अ॒स्मत्। एन॑ः। व॒ह॒न्तु॒। प्र। दु॒ःऽस्वप्न्य॑म्। व॒ह॒न्तु॒। १.११। 
+प्र। अ॒स्मत्। एनः॑। व॒ह॒न्तु॒। प्र। दुः॒ऽस्वप्न्य॑म्। व॒ह॒न्तु॒। १.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

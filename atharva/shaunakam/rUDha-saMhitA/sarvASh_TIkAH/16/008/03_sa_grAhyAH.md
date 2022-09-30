@@ -19,7 +19,7 @@ Whatever we have gained, etc. Let him not be freed from the noose of misery, etc
 
 <details><summary>पदपाठः</summary>
 
-सः। ग्राह्या॑ः। पाशा॑त्। मा। मो॒चि॒। ८.३। 
+सः। ग्राह्याः॑। पाशा॑त्। मा। मो॒चि॒। ८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

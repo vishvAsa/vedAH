@@ -10,7 +10,7 @@ The best of guardian hath the man within whose dwelling-place ye drink, O Maruts
 
 <details><summary>पदपाठः</summary>
 
-मरु॑तः। यस्य॑। हि। क्षय॑। पा॒थ। दि॒वः। वि॒ऽम॒ह॒स॒ः। सः। सु॒ऽगो॒पात॑मः। जन॑ः। १.२। 
+मरु॑तः। यस्य॑। हि। क्षय॑। पा॒थ। दि॒वः। वि॒ऽम॒ह॒सः॒। सः। सु॒ऽगो॒पात॑मः। जनः॑। १.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

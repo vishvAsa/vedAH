@@ -42,7 +42,7 @@ If thou destroy a cow of ours, a human being, or a steed, We pierce thee with th
 
 <details><summary>पदपाठः</summary>
 
-यदि॑। न॒ः। गाम्। हंसि॑। यदि॑। अश्व॑म्। यदि॑। पुरु॑षम् ‌। तम्। त्वा॒। सीसे॑न। वि॒ध्या॒म॒ः। यथा॑। न॒ः। अस॑ः। अवी॑रऽहा। 
+यदि॑। नः॒। गाम्। हंसि॑। यदि॑। अश्व॑म्। यदि॑। पुरु॑षम् ‌। तम्। त्वा॒। सीसे॑न। वि॒ध्या॒मः॒। यथा॑। नः॒। असः॑। अवी॑रऽहा। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। विऽस्क॑न्धम्। स॒ह॒ते॒। अ॒यम्। बा॒ध॒ते॒। अ॒त्त्रिण॑ः। अ॒यम्। न॒ः। वि॒श्वऽभे॑षजः। ज॒ङ्गि॒डः। पा॒तु॒। अंह॑सः। ४.३। 
+अ॒यम्। विऽस्क॑न्धम्। स॒ह॒ते॒। अ॒यम्। बा॒ध॒ते॒। अ॒त्त्रिणः॑। अ॒यम्। नः॒। वि॒श्वऽभे॑षजः। ज॒ङ्गि॒डः। पा॒तु॒। अंह॑सः। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

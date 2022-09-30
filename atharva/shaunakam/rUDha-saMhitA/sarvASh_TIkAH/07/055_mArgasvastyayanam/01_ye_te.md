@@ -28,7 +28,7 @@ Thy downward paths from heaven, whereby thou hast raised all the world to life, 
 
 <details><summary>पदपाठः</summary>
 
-ये। ते॒। पन्था॑नः। अव॑। दि॒वः। येभि॑ः। विश्व॑म्। ऐर॑यः। तेभि॑ः। सु॒म्न॒ऽया। आ। धे॒हि॒। न॒ः। व॒सो॒ इति॑। ५७.२। 
+ये। ते॒। पन्था॑नः। अव॑। दि॒वः। येभिः॑। विश्व॑म्। ऐर॑यः। तेभिः॑। सु॒म्न॒ऽया। आ। धे॒हि॒। नः॒। व॒सो॒ इति॑। ५७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

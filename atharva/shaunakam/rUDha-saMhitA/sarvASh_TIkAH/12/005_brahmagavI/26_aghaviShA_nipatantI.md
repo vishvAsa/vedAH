@@ -18,7 +18,7 @@ Fearfully venomous when falling, darkness when she hath fallen down.
 
 <details><summary>पदपाठः</summary>
 
-अ॒घऽवि॑षा। नि॒ऽपत॑न्ती। तम॑ः। निऽप॑तिता। ७.१५। 
+अ॒घऽवि॑षा। नि॒ऽपत॑न्ती। तमः॑। निऽप॑तिता। ७.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

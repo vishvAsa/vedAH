@@ -27,7 +27,7 @@ The Amulet Brihaspati formed for the Gods, that slew the fiends. That Amulet her
 
 <details><summary>पदपाठः</summary>
 
-यम्। अब॑ध्नात्। बृह॒स्पति॑ः। दे॒वेभ्य॑ः। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२२। 
+यम्। अब॑ध्नात्। बृह॒स्पतिः॑। दे॒वेभ्यः॑। असु॑रऽक्षितिम्। सः। मा॒। अ॒यम्। म॒णिः। आ। अ॒ग॒म॒त्। रसे॑न। स॒ह। वर्च॑सा। ६.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

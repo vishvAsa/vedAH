@@ -23,7 +23,7 @@ For him they made the Archer Bhava a deliverer from the inter- mediate space of 
 
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। प्राच्या॑ः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। भ॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१। 
+तस्मै॑। प्राच्याः॑। दि॒शः। अ॒न्तः॒ऽदे॒शात्। भ॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

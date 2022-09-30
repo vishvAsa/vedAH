@@ -10,7 +10,7 @@ Or whether, God of wondrous deeds, all our true people call us blest, Still may 
 
 <details><summary>पदपाठः</summary>
 
-उ॒त। न॒ः। सु॒ऽभगा॑न्। अ॒रिः। वो॒चेयु॑ः। द॒स्म॒। कृ॒ष्टय॑ः। स्याम॑ः। इत्। इन्द्र॑स्य। शर्म॑णि। ६८.६। 
+उ॒त। नः॒। सु॒ऽभगा॑न्। अ॒रिः। वो॒चेयुः॑। द॒स्म॒। कृ॒ष्टयः॑। स्यामः॑। इत्। इन्द्र॑स्य। शर्म॑णि। ६८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

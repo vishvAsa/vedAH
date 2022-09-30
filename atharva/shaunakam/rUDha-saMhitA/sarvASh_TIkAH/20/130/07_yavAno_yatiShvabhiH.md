@@ -10,7 +10,7 @@ Not to the belly comes the grain.
 
 <details><summary>पदपाठः</summary>
 
-यवा॑नः। यति॒ष्वभि॑ः। कुभिः। १३०.७। 
+यवा॑नः। यति॒ष्वभिः॑। कुभिः। १३०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

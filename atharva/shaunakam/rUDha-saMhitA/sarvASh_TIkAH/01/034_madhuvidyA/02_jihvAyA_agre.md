@@ -28,7 +28,7 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 
 <details><summary>पदपाठः</summary>
 
-जि॒ह्वाया॑ः। अग्रे॑। मधु॑। मे॒। जि॒ह्वा॒ऽमू॒ले। म॒धूल॑कम्। मम॑। इत्। अह॑। क्रतौ॑। अस॑ः। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। 
+जि॒ह्वायाः॑। अग्रे॑। मधु॑। मे॒। जि॒ह्वा॒ऽमू॒ले। म॒धूल॑कम्। मम॑। इत्। अह॑। क्रतौ॑। असः॑। मम॑। चि॒त्तम्। उ॒प॒ऽआय॑सि। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

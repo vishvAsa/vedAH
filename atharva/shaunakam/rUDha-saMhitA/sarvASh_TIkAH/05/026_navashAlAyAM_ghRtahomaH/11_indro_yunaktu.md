@@ -19,7 +19,7 @@ Let Indra in this rite in varied manner--All hail!--use powers,. his well-yoked 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। यु॒न॒क्तु॒। ब॒हु॒ऽधा। वी॒र्या᳡णि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुज॑ः। स्वाहा॑। २६.११। 
+इन्द्रः॑। यु॒न॒क्तु॒। ब॒हु॒ऽधा। वी॒र्या᳡णि। अ॒स्मिन्। य॒ज्ञे। सु॒ऽयुजः॑। स्वाहा॑। २६.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

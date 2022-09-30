@@ -23,7 +23,7 @@ One world with the re-wedded wife becomes the second hus- band's home. Who gives
 
 <details><summary>पदपाठः</summary>
 
-स॒मा॒नऽलो॑कः। भ॒व॒ति॒। पु॒न॒ःऽभुवा॑। अप॑रः। पति॑ः। यः। अ॒जम्। पञ्च॑ऽओदनम्। दक्षि॑णाऽज्योतिषम्। ददा॑ति। ५.२८। 
+स॒मा॒नऽलो॑कः। भ॒व॒ति॒। पु॒नः॒ऽभुवा॑। अप॑रः। पतिः॑। यः। अ॒जम्। पञ्च॑ऽओदनम्। दक्षि॑णाऽज्योतिषम्। ददा॑ति। ५.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

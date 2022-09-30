@@ -10,7 +10,7 @@ Wherewith thou helpest Adhrigu, the great Dasagva, and the God Who stirs the sun
 
 <details><summary>पदपाठः</summary>
 
-येन॑। दश॑ऽग्वम्। अध्रिऽगुम्। वे॒पय॑न्तम्। स्व॑ःऽतरम्। येन॑। स॒मु॒द्रम्। आवि॑थ। तम्। ई॒म॒हे॒। ६३.८। 
+येन॑। दश॑ऽग्वम्। अध्रिऽगुम्। वे॒पय॑न्तम्। स्वः॑ऽतरम्। येन॑। स॒मु॒द्रम्। आवि॑थ। तम्। ई॒म॒हे॒। ६३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। अ॒ग्निः। अ॒मू॒मु॒ह॒त्। यानि॑। चि॒त्तानि॑। व॒ः। हृ॒द‍ि। वि। व॒ः। ध॒म॒तु॒। ओक॑सः। प्र। व॒ः। ध॒म॒तु॒। स॒र्वत॑ः। २.२। 
+अ॒यम्। अ॒ग्निः। अ॒मू॒मु॒ह॒त्। यानि॑। चि॒त्तानि॑। वः॒। हृ॒द‍ि। वि। वः॒। ध॒म॒तु॒। ओक॑सः। प्र। वः॒। ध॒म॒तु॒। स॒र्वतः॑। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

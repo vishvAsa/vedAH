@@ -10,7 +10,7 @@ Help us, O Indra, in the frays, yea, frays where thousand spoils are gained, Wit
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। वाजे॑षु। न॒ः। अ॒व॒। स॒हस्र॑ऽप्रधनेषु। च॒। उ॒ग्रः। उ॒ग्राभि॑ः। ऊ॒तिऽभि॑ः। ७०.१०। 
+इन्द्रः॑। वाजे॑षु। नः॒। अ॒व॒। स॒हस्र॑ऽप्रधनेषु। च॒। उ॒ग्रः। उ॒ग्राभिः॑। ऊ॒तिऽभिः॑। ७०.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

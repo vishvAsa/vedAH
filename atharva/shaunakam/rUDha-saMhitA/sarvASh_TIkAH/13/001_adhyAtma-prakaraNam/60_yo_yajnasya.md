@@ -25,7 +25,7 @@ May we obtain, completely wrought, the thread spun out tc reach the Gods, That p
 
 <details><summary>पदपाठः</summary>
 
-यः। य॒ज्ञस्य॑। प्र॒ऽसाध॑नः। तन्तु॑ः। दे॒वेषु॑। आऽत॑तः। तम्। आऽहु॑तम्। अ॒शी॒म॒हि॒। १.६०। 
+यः। य॒ज्ञस्य॑। प्र॒ऽसाध॑नः। तन्तुः॑। दे॒वेषु॑। आऽत॑तः। तम्। आऽहु॑तम्। अ॒शी॒म॒हि॒। १.६०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

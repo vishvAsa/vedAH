@@ -16,7 +16,7 @@ They made Sarva the Archer his deliverer from the intermediate space of the sout
 
 <details><summary>पदपाठः</summary>
 
-तस्मै॑। दक्षि॑णायाः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। श॒र्वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.४। 
+तस्मै॑। दक्षि॑णायाः। दि॒शः। अ॒न्तः॒ऽदे॒शात्। श॒र्वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

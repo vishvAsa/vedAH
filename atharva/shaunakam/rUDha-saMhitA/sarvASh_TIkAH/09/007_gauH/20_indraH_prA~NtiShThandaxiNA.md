@@ -18,7 +18,7 @@ Standing east-wards he is Indra, standing southwards, Yama.
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। प्राङ्। तिष्ठ॑न्। द॒क्षि॒णा। तिष्ठ॑न्। य॒मः। १२.२०। 
+इन्द्रः॑। प्राङ्। तिष्ठ॑न्। द॒क्षि॒णा। तिष्ठ॑न्। य॒मः। १२.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

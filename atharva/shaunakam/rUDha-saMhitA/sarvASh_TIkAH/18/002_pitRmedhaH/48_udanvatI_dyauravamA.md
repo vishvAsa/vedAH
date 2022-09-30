@@ -37,7 +37,7 @@ The lowest is the Watery heaven, Pilumati the middlemost; The third and highest,
 
 <details><summary>पदपाठः</summary>
 
-उ॒द॒न्ऽवती॑। द्यौः। अ॒व॒मा। पी॒लुऽम॑ती। इति॑। म॒ध्य॒मा। तृतीया॑। ह॒। प्र॒ऽद्यौः। इति॑। यस्या॑म्। पि॒तर॑ः। आस॑ते। २.४८। 
+उ॒द॒न्ऽवती॑। द्यौः। अ॒व॒मा। पी॒लुऽम॑ती। इति॑। म॒ध्य॒मा। तृतीया॑। ह॒। प्र॒ऽद्यौः। इति॑। यस्या॑म्। पि॒तरः॑। आस॑ते। २.४८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

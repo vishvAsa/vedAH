@@ -10,7 +10,7 @@ Drive all our enemies away, smite down the foes who press around, And bring the 
 
 <details><summary>पदपाठः</summary>
 
-भि॒न्धि। विश्वा॑ः। अप॑। द्विष॑ः। परि॑। बाध॑ः। ज॒हि। मृध॑ः। वसु॑। स्पा॒र्हम्। तत। आ। भ॒र॒। ४३.१। 
+भि॒न्धि। विश्वाः॑। अप॑। द्विषः॑। परि॑। बाधः॑। ज॒हि। मृधः॑। वसु॑। स्पा॒र्हम्। तत। आ। भ॒र॒। ४३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

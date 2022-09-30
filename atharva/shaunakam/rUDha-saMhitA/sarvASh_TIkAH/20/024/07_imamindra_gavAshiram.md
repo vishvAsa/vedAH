@@ -10,7 +10,7 @@ Borne hither by thy stallions, drink, Indra, this juice which we have pressed, M
 
 <details><summary>पदपाठः</summary>
 
-इ॒मम्। इ॒न्द्र॒। गोऽआ॑शिरम्। यव॑ऽआशिरम्। च॒। न॒ः। पि॒ब॒। आ॒ऽगत्य॑। वृष॑ऽभिः। सु॒तम्। २४.७। 
+इ॒मम्। इ॒न्द्र॒। गोऽआ॑शिरम्। यव॑ऽआशिरम्। च॒। नः॒। पि॒ब॒। आ॒ऽगत्य॑। वृष॑ऽभिः। सु॒तम्। २४.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

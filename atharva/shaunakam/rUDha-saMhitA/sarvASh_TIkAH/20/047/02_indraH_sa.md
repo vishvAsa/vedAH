@@ -10,7 +10,7 @@ Indra was made for giving, most powerful, friendly in carouse, Bright, meet for 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। सः। दाम॑ने। कृ॒तः। ओजि॑ष्ठः। सः। मदे॑। हि॒तः। द्यु॒म्नी। श्लो॒की। सः। सो॒म्यः। ४७.२। 
+इन्द्रः॑। सः। दाम॑ने। कृ॒तः। ओजि॑ष्ठः। सः। मदे॑। हि॒तः। द्यु॒म्नी। श्लो॒की। सः। सो॒म्यः। ४७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

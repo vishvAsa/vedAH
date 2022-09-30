@@ -18,7 +18,7 @@ The Vratya ascended that couch.
 
 <details><summary>पदपाठः</summary>
 
-ताम्। आ॒ऽस॒न्दीम्। व्रात्य॑ः। आ। अ॒रो॒ह॒त्। ३.९। 
+ताम्। आ॒ऽस॒न्दीम्। व्रात्यः॑। आ। अ॒रो॒ह॒त्। ३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

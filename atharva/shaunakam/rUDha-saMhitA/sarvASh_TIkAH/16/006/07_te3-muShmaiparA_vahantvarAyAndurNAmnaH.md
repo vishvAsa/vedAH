@@ -19,7 +19,7 @@ Carry away to Such-an-one niggard fiends, hostile demons, and Sadanvas,
 
 <details><summary>पदपाठः</summary>
 
-ते। अ॒मुष्मै॑। परा॑। व॒ह॒न्तु॒। अ॒राया॑न्। दु॒ःऽनाम्न॑ः। स॒दान्वा॑ः। ६.७। 
+ते। अ॒मुष्मै॑। परा॑। व॒ह॒न्तु॒। अ॒राया॑न्। दुः॒ऽनाम्नः॑। स॒दान्वाः॑। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

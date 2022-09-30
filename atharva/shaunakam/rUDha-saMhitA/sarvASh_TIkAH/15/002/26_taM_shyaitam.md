@@ -23,7 +23,7 @@ Syaita and Naudhasa, the Seven Rishis, and King Soma followed him.
 
 <details><summary>पदपाठः</summary>
 
-तम्। श्यै॒तम्। च॒। नौ॒ध॒सम्। च॒। स॒प्त॒ऽऋ॒षय॑ः। च॒। सोम॑ः। च॒। राजा॑। अ॒नु॒ऽव्य᳡चलन्। २.२२। 
+तम्। श्यै॒तम्। च॒। नौ॒ध॒सम्। च॒। स॒प्त॒ऽऋ॒षयः॑। च॒। सोमः॑। च॒। राजा॑। अ॒नु॒ऽव्य᳡चलन्। २.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

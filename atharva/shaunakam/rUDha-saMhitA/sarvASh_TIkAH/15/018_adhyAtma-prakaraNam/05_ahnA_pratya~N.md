@@ -23,7 +23,7 @@ By day the Vratya is turned westward, by night he is turned eastward. Worship to
 
 <details><summary>पदपाठः</summary>
 
-अह्ना॑। प्र॒त्यङ्। व्रात्य॑ः। रात्र्या॑। प्राङ्। नम॑ः। व्रात्या॑य। १८.५। 
+अह्ना॑। प्र॒त्यङ्। व्रात्यः॑। रात्र्या॑। प्राङ्। नमः॑। व्रात्या॑य। १८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

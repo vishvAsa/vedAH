@@ -10,7 +10,7 @@ Here, Indra, is thy Soma draught, made pure upon the sacred. grass. Run hither, 
 
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। ते॒। इ॒न्द्र॒। सोम॑ः। निऽपू॑तः। अधि॑। ब॒र्हिषि॑। आ। इ॒हि॒। ई॒म्। अ॒स्य। द्रव॑। पिब॑। ५.५। 
+अ॒यम्। ते॒। इ॒न्द्र॒। सोमः॑। निऽपू॑तः। अधि॑। ब॒र्हिषि॑। आ। इ॒हि॒। ई॒म्। अ॒स्य। द्रव॑। पिब॑। ५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

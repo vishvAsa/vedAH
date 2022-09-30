@@ -23,7 +23,7 @@ Attack them, both of you; bear off their vital breath O Nyar- budi. Let mingled 
 
 <details><summary>पदपाठः</summary>
 
-नि॒ऽवा॒शाः। घोषा॑ः। सम्। य॒न्तु॒। अ॒मित्रे॑षु। स॒म्ऽई॒क्षय॑न्। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। १.११। 
+नि॒ऽवा॒शाः। घोषाः॑। सम्। य॒न्तु॒। अ॒मित्रे॑षु। स॒म्ऽई॒क्षय॑न्। र॒दि॒ते। अ॒र्बु॒दे॒। तव॑। १.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

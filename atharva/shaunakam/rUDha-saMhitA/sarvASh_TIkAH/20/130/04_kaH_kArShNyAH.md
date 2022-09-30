@@ -10,7 +10,7 @@ Who took the black cow s milk away?
 
 <details><summary>पदपाठः</summary>
 
-कः। का॒र्ष्ण्याः। पय॑ः। १३०.४। 
+कः। का॒र्ष्ण्याः। पयः॑। १३०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

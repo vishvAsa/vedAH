@@ -24,7 +24,7 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 
 <details><summary>पदपाठः</summary>
 
-अ॒भि। त्वा॒। दे॒वः। स॒वि॒ता। अ॒भि। सोम॑ः। अ॒वी॒वृ॒ध॒त्। अ॒भि। त्वा॒। विश्वा॑। भू॒तानि॑। अ॒भि॒ऽव॒र्तः। यथा॑। अस॑सि। 
+अ॒भि। त्वा॒। दे॒वः। स॒वि॒ता। अ॒भि। सोमः॑। अ॒वी॒वृ॒ध॒त्। अ॒भि। त्वा॒। विश्वा॑। भू॒तानि॑। अ॒भि॒ऽव॒र्तः। यथा॑। अस॑सि। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

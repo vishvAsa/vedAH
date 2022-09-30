@@ -23,7 +23,7 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 
 <details><summary>पदपाठः</summary>
 
-यः। वि॒द्यात्। ब्रह्म॑। प्र॒ति॒ऽअक्ष॑म्। परूं॑षि। यस्य॑। स॒म्ऽभा॒राः। ऋच॑ः। यस्य॑। अ॒नू॒क्य᳡म्। ६.१। 
+यः। वि॒द्यात्। ब्रह्म॑। प्र॒ति॒ऽअक्ष॑म्। परूं॑षि। यस्य॑। स॒म्ऽभा॒राः। ऋचः॑। यस्य॑। अ॒नू॒क्य᳡म्। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

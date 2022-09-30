@@ -28,7 +28,7 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 
 <details><summary>पदपाठः</summary>
 
-न। व॒हव॑ः। सम्। अ॒श॒क॒न्। न। अ॒र्भ॒काः। अ॒भि। द॒धृ॒षु॒ः। वे॒णोः। अङ्गा॑ःऽइव। अ॒भित॑ः। अस॑म्ऽऋध्दाः। अ॒घ॒ऽयव॑ः। 
+न। व॒हवः॑। सम्। अ॒श॒क॒न्। न। अ॒र्भ॒काः। अ॒भि। द॒धृ॒षुः॒। वे॒णोः। अङ्गाः॑ऽइव। अ॒भितः॑। अस॑म्ऽऋध्दाः। अ॒घ॒ऽयवः॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

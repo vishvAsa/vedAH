@@ -15,7 +15,7 @@ He went away to all the intermediate spaces.
 
 <details><summary>पदपाठः</summary>
 
-सः। सर्वा॑न्। अ॒न्त॒ःऽदे॒शान्। अनु॑। वि। अ॒च॒ल॒त्। ६.२४। 
+सः। सर्वा॑न्। अ॒न्तः॒ऽदे॒शान्। अनु॑। वि। अ॒च॒ल॒त्। ६.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

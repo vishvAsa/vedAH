@@ -23,7 +23,7 @@ Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the
 
 <details><summary>पदपाठः</summary>
 
-हिर॑ण्यऽवर्णे। सुऽभ॑गे। शुष्मे॑। लोम॑शऽवक्षणे। अ॒पाम्। अ॒सि॒। स्वसा॑। ला॒क्षे॒। वात॑ः। ह॒। आ॒त्मा। ब॒भू॒व॒। ते॒। ५.७। 
+हिर॑ण्यऽवर्णे। सुऽभ॑गे। शुष्मे॑। लोम॑शऽवक्षणे। अ॒पाम्। अ॒सि॒। स्वसा॑। ला॒क्षे॒। वातः॑। ह॒। आ॒त्मा। ब॒भू॒व॒। ते॒। ५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

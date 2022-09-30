@@ -23,7 +23,7 @@ Vishnu the guardian, he whom none deceiveth, made three steps, thenceforth. Esta
 
 <details><summary>पदपाठः</summary>
 
-त्रीणि॑। प॒दा। वि। च॒क्र॒मे॒। विष्णु॑ः। गो॒पाः। अदा॑भ्यः। इ॒तः। धर्मा॑णि। धा॒रय॑न्। २७.५। 
+त्रीणि॑। प॒दा। वि। च॒क्र॒मे॒। विष्णुः॑। गो॒पाः। अदा॑भ्यः। इ॒तः। धर्मा॑णि। धा॒रय॑न्। २७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

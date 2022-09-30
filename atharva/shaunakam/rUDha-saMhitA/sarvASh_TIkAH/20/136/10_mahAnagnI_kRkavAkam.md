@@ -10,7 +10,7 @@ Arnica cum fuste gallum circumcurrit. Nos nescimus quae bestia pudendum muliebre
 
 <details><summary>पदपाठः</summary>
 
-म॒हा॒न्। अ॒ग्नी इति॑। कृ॑कवाक॒म्। शम्य॑या॒। परि॑। धावति। अ॒यम्। न। वि॒द्म। यः। मृ॒ग॒ः। शी॒र्ष्णा। ह॑रति॒। धाणिकम्। १३६.१०। 
+म॒हा॒न्। अ॒ग्नी इति॑। कृ॑कवाक॒म्। शम्य॑या॒। परि॑। धावति। अ॒यम्। न। वि॒द्म। यः। मृ॒गः॒। शी॒र्ष्णा। ह॑रति॒। धाणिकम्। १३६.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

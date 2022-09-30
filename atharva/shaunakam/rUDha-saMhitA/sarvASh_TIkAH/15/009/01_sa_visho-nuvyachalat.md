@@ -18,7 +18,7 @@ He went away to the people.
 
 <details><summary>पदपाठः</summary>
 
-सः। विश॑ः। अनु॑। वि। अ॒च॒ल॒त्। ९.१। 
+सः। विशः॑। अनु॑। वि। अ॒च॒ल॒त्। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

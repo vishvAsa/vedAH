@@ -10,7 +10,7 @@ This, even this, O Indra, we implore: as thy devoted friends, The Kanvas praise 
 
 <details><summary>पदपाठः</summary>
 
-व॒यम्। ऊं॒ इति॑। त्वा॒। त॒दित्ऽअ॑र्थाः। इन्द्र॑। त्वा॒ऽवन्त॑ः। सखा॑यः। कण्वा॑ः। उ॒क्थेभि॑ः। ज॒र॒न्ते॒। १८.१। 
+व॒यम्। ऊं॒ इति॑। त्वा॒। त॒दित्ऽअ॑र्थाः। इन्द्र॑। त्वा॒ऽवन्तः॑। सखा॑यः। कण्वाः॑। उ॒क्थेभिः॑। ज॒र॒न्ते॒। १८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

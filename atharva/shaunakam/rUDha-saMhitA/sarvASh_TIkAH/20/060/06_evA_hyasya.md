@@ -10,7 +10,7 @@ So are his lovely gifts: let laud be said and praise to Indra sung. That he may 
 
 <details><summary>पदपाठः</summary>
 
-ए॒व। हि। अ॒स्य॒। काम्या॑। स्तोम॑ः। उ॒क्थम्। च॒। शंस्या॑। इन्द्रा॑य। सोम॑ऽपीतये। ६०.६। 
+ए॒व। हि। अ॒स्य॒। काम्या॑। स्तोमः॑। उ॒क्थम्। च॒। शंस्या॑। इन्द्रा॑य। सोम॑ऽपीतये। ६०.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Thou hast eaten this turned hitherward; thy downward breath will leave thee; so 
 
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यञ्च॑म्। च॒। ए॒न॒म्। प्र॒ऽआशी॑ः। अ॒पा॒नाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२९। 
+प्र॒त्यञ्च॑म्। च॒। ए॒न॒म्। प्र॒ऽआशीः॑। अ॒पा॒नाः। त्वा॒। हा॒स्य॒न्ति॒। इति॑। ए॒न॒म्। आ॒ह॒। ३.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

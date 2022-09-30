@@ -21,7 +21,7 @@ Prosperity and poverty, kindnesses and malignities, Hunger and thirst of every k
 
 <details><summary>पदपाठः</summary>
 
-भूति॑ः। च॒। वै। अभू॑तिः। च॒। रा॒तय॑ः। अरा॑तयः। च॒। याः। क्षुध॑ः। च॒। सर्वा॑ः। तृष्णा॑। च॒। शरी॑रम्। अनु॑। प्र। अ॒वि॒श॒न्। १०.२१। 
+भूतिः॑। च॒। वै। अभू॑तिः। च॒। रा॒तयः॑। अरा॑तयः। च॒। याः। क्षुधः॑। च॒। सर्वाः॑। तृष्णा॑। च॒। शरी॑रम्। अनु॑। प्र। अ॒वि॒श॒न्। १०.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

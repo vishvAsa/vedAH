@@ -10,7 +10,7 @@ The constellations pass away, like thieves, together with their- beams, Before t
 
 <details><summary>पदपाठः</summary>
 
-अप॑। त्ये। ता॒यव॑ः। य॒था॒। नक्ष॑त्रा। य॒न्ति॒। अ॒क्तुऽभि॑ः। सूरा॑य। वि॒श्वऽच॑क्षसे। ४७.१४। 
+अप॑। त्ये। ता॒यवः॑। य॒था॒। नक्ष॑त्रा। य॒न्ति॒। अ॒क्तुऽभिः॑। सूरा॑य। वि॒श्वऽच॑क्षसे। ४७.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

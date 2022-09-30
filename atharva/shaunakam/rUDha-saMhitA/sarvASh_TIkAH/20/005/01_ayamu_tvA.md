@@ -10,7 +10,7 @@ Like women, let this Soma juice invested with its raiment, glide.. Most active I
 
 <details><summary>पदपाठः</summary>
 
-अ॒यम्। ऊं॒ इति॑। त्वा॒। वि॒ऽच॒र्ष॒णे॒। जनी॑ःऽइव। अ॒भि। सम्ऽवृ॑तः। प्र। सोम॑ः। इ॒न्द्र॒। स॒र्प॒तु॒। ५.१। 
+अ॒यम्। ऊं॒ इति॑। त्वा॒। वि॒ऽच॒र्ष॒णे॒। जनीः॑ऽइव। अ॒भि। सम्ऽवृ॑तः। प्र। सोमः॑। इ॒न्द्र॒। स॒र्प॒तु॒। ५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

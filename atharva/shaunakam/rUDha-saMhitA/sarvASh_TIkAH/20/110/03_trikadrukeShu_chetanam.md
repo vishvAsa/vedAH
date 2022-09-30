@@ -10,7 +10,7 @@ By the three Soma jars the Gods span sacrifice that stirs the mind: Let our song
 
 <details><summary>पदपाठः</summary>
 
-त्रिऽक॑द्रुकेषु। चेत॑नम्। दे॒वास॑ः। य॒ज्ञम्। अ॒त्न॒त॒। तम्। इत्। व॒र्धन्तु॒। न॒ः। गिर॑ः। ११०.३। 
+त्रिऽक॑द्रुकेषु। चेत॑नम्। दे॒वासः॑। य॒ज्ञम्। अ॒त्न॒त॒। तम्। इत्। व॒र्धन्तु॒। नः॒। गिरः॑। ११०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

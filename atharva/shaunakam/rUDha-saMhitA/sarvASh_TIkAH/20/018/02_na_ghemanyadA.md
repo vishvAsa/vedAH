@@ -10,7 +10,7 @@ Naught else, O Thunderer, have I praised in the skilled singer's eulogy: On thy 
 
 <details><summary>पदपाठः</summary>
 
-न। घ॒। ई॒म्। अ॒न्यत्। आ। प॒प॒न॒। वज्रि॑न्। अ॒पस॑ः। नवि॑ष्टौ। तव॑। इत्। ऊं॒ इति॑। स्तोम॑म्। चि॒के॒त॒। १८.२। 
+न। घ॒। ई॒म्। अ॒न्यत्। आ। प॒प॒न॒। वज्रि॑न्। अ॒पसः॑। नवि॑ष्टौ। तव॑। इत्। ऊं॒ इति॑। स्तोम॑म्। चि॒के॒त॒। १८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

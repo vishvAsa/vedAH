@@ -23,7 +23,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 
 <details><summary>पदपाठः</summary>
 
-अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। दि॒शाम्। अ॒न्त॒ःऽदे॒शेभ्य॑ः। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.७। 
+अ॒श्म॒ऽव॒र्म। मे॒। अ॒सि॒। यः। मा॒। दि॒शाम्। अ॒न्तः॒ऽदे॒शेभ्यः॑। अ॒घ॒ऽयुः। अ॒भि॒ऽदासा॑त्। ए॒तत्। सः। ऋ॒च्छा॒त्। १०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

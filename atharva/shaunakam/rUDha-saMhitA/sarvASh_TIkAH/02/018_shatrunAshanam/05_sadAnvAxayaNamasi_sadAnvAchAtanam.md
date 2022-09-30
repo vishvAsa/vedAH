@@ -20,7 +20,7 @@ Sadanvas' ruiner art thou, give me to drive Sadanvas off. All hail!
 
 <details><summary>पदपाठः</summary>
 
-स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दा॒ः। स्वाहा॑। १८.५। 
+स॒दा॒न्वा॒ऽक्षय॑णम्। अ॒सि॒। स॒दा॒न्वा॒ऽचात॑नम्। मे॒। दाः॒। स्वाहा॑। १८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

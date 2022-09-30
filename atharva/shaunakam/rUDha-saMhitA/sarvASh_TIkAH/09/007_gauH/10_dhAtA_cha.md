@@ -22,7 +22,7 @@ Dhatar and Savitar are the two knee-bones, the Gandharvas are the legs the Apsar
 
 <details><summary>पदपाठः</summary>
 
-धा॒ता। च॒। स॒वि॒ता। च॒। अ॒ष्ठी॒वन्तौ॑। जङ्घा॑ः। ग॒न्ध॒र्वाः। अ॒प्स॒रस॑ः। कुष्ठि॑काः। अदि॑तिः। श॒फाः। १२.१०। 
+धा॒ता। च॒। स॒वि॒ता। च॒। अ॒ष्ठी॒वन्तौ॑। जङ्घाः॑। ग॒न्ध॒र्वाः। अ॒प्स॒रसः॑। कुष्ठि॑काः। अदि॑तिः। श॒फाः। १२.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

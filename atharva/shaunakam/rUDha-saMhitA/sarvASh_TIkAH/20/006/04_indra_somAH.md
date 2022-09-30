@@ -10,7 +10,7 @@ Lord of the brave, to thee proceed these drops of Soma juice expressed, The brig
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। सोमा॑ः। सु॒ताः। इ॒मे। तव॑। प्र। य॒न्ति॒। स॒त्ऽप॒ते॒। क्षय॑म्। च॒न्द्रास॑ः। इन्द॑वः। ६.४। 
+इन्द्र॑। सोमाः॑। सु॒ताः। इ॒मे। तव॑। प्र। य॒न्ति॒। स॒त्ऽप॒ते॒। क्षय॑म्। च॒न्द्रासः॑। इन्द॑वः। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

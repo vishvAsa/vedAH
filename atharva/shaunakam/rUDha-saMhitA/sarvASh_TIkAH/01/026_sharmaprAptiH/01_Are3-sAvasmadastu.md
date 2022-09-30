@@ -26,7 +26,7 @@ Let that Destructive Weapon be far distant from us, O ye Gods; far be the Stone 
 
 <details><summary>पदपाठः</summary>
 
-आ॒रे। अ॒सौ। अ॒स्मत्। अ॒स्तु। हे॒तिः। दे॒वा॒स॒ः। अ॒स॒त्। आ॒रे। अश्मा॑। यम्। अस्य॑थ। 
+आ॒रे। अ॒सौ। अ॒स्मत्। अ॒स्तु। हे॒तिः। दे॒वा॒सः॒। अ॒स॒त्। आ॒रे। अश्मा॑। यम्। अस्य॑थ। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

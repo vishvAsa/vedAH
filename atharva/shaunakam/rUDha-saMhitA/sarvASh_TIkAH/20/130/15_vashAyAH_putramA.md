@@ -10,7 +10,7 @@ Hither to the cow's son they come.
 
 <details><summary>पदपाठः</summary>
 
-वशाया॑ः। पु॒त्रम्। आ। य॑न्ति। १३०.१५। 
+वशायाः॑। पु॒त्रम्। आ। य॑न्ति। १३०.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

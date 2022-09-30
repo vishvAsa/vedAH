@@ -10,7 +10,7 @@ So may we be acquainted with thine innermost benevolence: Neglect us not, come h
 
 <details><summary>पदपाठः</summary>
 
-अथ॑। ते॒। अन्त॑मानाम्। वि॒द्याम॑। सु॒ऽम॒ती॒नाम्। मा। न॒ः। अति॑। ख्य॒ः। आ। ग॒हि॒। ५७.३। 
+अथ॑। ते॒। अन्त॑मानाम्। वि॒द्याम॑। सु॒ऽम॒ती॒नाम्। मा। नः॒। अति॑। ख्यः॒। आ। ग॒हि॒। ५७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

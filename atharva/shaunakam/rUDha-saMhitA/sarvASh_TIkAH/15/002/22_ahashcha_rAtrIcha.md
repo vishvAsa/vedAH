@@ -16,7 +16,7 @@ Day and Night are his running attendants, Mind, etc., as above.
 
 <details><summary>पदपाठः</summary>
 
-अह॑ः । च॒ । रात्री॑ । च॒ । प॒रि॒ऽस्क॒न्दौ । मन॑ः । वि॒ऽप॒थम् ।
+अहः॑ । च॒ । रात्री॑ । च॒ । प॒रि॒ऽस्क॒न्दौ । मनः॑ । वि॒ऽप॒थम् ।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

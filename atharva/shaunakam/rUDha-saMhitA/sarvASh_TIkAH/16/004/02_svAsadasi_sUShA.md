@@ -21,7 +21,7 @@ Pleasant art thou to sit by one, a mother: immortal among mortals.
 
 <details><summary>पदपाठः</summary>
 
-सु॒ऽआ॒सत्। अ॒सि॒। सु॒ऽउ॒षा ः। अ॒मृत॑ः। मर्त्ये॑षु। आ। ४.२। 
+सु॒ऽआ॒सत्। अ॒सि॒। सु॒ऽउ॒षा ः। अ॒मृतः॑। मर्त्ये॑षु। आ। ४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

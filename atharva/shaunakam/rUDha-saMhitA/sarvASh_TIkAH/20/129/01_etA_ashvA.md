@@ -10,7 +10,7 @@ These mares come springing forward to Pratipa Pratisutvana. (with next verse)
 
 <details><summary>पदपाठः</summary>
 
-ए॒ताः। अश्वा॒ः। प्ल॑वन्ते। १२९.१। 
+ए॒ताः। अश्वाः॒। प्ल॑वन्ते। १२९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

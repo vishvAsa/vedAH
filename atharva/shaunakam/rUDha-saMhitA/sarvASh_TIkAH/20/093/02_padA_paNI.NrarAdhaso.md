@@ -10,7 +10,7 @@ Crush with thy foot the niggard churls who bring no gifts. Might art thou: There
 
 <details><summary>पदपाठः</summary>
 
-प॒दा। प॒णीन्। अ॒रा॒धस॑ः। नि। बा॒ध॒स्व॒। म॒हान्। अ॒सि॒। न॒हि। त्वा॒। कः। च॒न। प्रति॑। ९३.२। 
+प॒दा। प॒णीन्। अ॒रा॒धसः॑। नि। बा॒ध॒स्व॒। म॒हान्। अ॒सि॒। न॒हि। त्वा॒। कः। च॒न। प्रति॑। ९३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

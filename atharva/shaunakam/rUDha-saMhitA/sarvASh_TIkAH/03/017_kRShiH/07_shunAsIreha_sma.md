@@ -27,7 +27,7 @@ Suna and Sira, welcome ye this laud, and with the milk that ye have made in heav
 
 <details><summary>पदपाठः</summary>
 
-शुना॑सीरा। इ॒ह। स्म॒। मे॒। जु॒षे॒था॒म्। यत्। दि॒वि। च॒क्रथु॑ः। पय॑ः। तेन॑। इ॒माम्। उप॑। सि॒ञ्च॒त॒म्। १७.७। 
+शुना॑सीरा। इ॒ह। स्म॒। मे॒। जु॒षे॒था॒म्। यत्। दि॒वि। च॒क्रथुः॑। पयः॑। तेन॑। इ॒माम्। उप॑। सि॒ञ्च॒त॒म्। १७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

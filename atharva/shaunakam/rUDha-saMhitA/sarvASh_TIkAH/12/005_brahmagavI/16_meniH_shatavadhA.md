@@ -19,7 +19,7 @@ A hundred-killing bolt is she: she slays the Brahman's injurer.
 
 <details><summary>पदपाठः</summary>
 
-मे॒निः। श॒तऽव॑धा। हि। सा। ब्र॒ह्म॒ऽज्यस्य॑। क्षिति॑ः। हि। सा। ७.५। 
+मे॒निः। श॒तऽव॑धा। हि। सा। ब्र॒ह्म॒ऽज्यस्य॑। क्षितिः॑। हि। सा। ७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

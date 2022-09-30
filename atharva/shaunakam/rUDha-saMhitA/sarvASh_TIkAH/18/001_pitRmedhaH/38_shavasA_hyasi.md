@@ -28,7 +28,7 @@ For thou by slaying Vritra art the Vritra-slayer, famed for might. Thou, Hero, i
 
 <details><summary>पदपाठः</summary>
 
-शव॑सा। हि। असि॑। श्रु॒तः। वृ॒त्र॒ऽहत्ये॑न। वृ॒त्र॒ऽहा। म॒घैः। म॒घोन॑ः। अति॑। शू॒र॒। दा॒श॒सि॒। १.३८। 
+शव॑सा। हि। असि॑। श्रु॒तः। वृ॒त्र॒ऽहत्ये॑न। वृ॒त्र॒ऽहा। म॒घैः। म॒घोनः॑। अति॑। शू॒र॒। दा॒श॒सि॒। १.३८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

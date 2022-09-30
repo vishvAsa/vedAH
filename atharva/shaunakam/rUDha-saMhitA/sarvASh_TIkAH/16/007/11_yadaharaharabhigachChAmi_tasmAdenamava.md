@@ -18,7 +18,7 @@ Whether I meet with it day by day, from that do I bribe him away.
 
 <details><summary>पदपाठः</summary>
 
-यत्। अह॑ःऽअहः। अ॒भि॒ऽगच्छा॑मि। तस्मा॑त्। ए॒न॒म्। अव॑। द॒ये॒। ७.११। 
+यत्। अहः॑ऽअहः। अ॒भि॒ऽगच्छा॑मि। तस्मा॑त्। ए॒न॒म्। अव॑। द॒ये॒। ७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

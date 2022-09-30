@@ -29,7 +29,7 @@ We laid the constant Soma on with constant sacrificial gift, That Indra may make
 
 <details><summary>पदपाठः</summary>
 
-ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। न॒ः। इन्द्र॑ः। केव॑लीः। विश॑ः। सम्ऽम॑नसः। कर॑त्। ९९.१। 
+ध्रु॒वम्। ध्रु॒वेण॑। ह॒विषा॑। अव॑। सोम॑म्। न॒या॒म॒सि॒। यथा॑। नः॒। इन्द्रः॑। केव॑लीः। विशः॑। सम्ऽम॑नसः। कर॑त्। ९९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

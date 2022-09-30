@@ -22,7 +22,7 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। यत्। ते॒। हर॑ः। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२। 
+अग्ने॑। यत्। ते॒। हरः॑। तेन॑। तम्। प्रति॑। ह॒र॒। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

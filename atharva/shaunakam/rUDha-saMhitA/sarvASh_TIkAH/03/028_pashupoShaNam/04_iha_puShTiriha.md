@@ -25,7 +25,7 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 
 <details><summary>पदपाठः</summary>
 
-इ॒ह। पुष्टि॑ः। इ॒ह। रस॑ः। इ॒ह। स॒ह॒स्र॒ऽसात॑मा। भ॒व॒। प॒शून्। य॒मि॒नि॒। पो॒ष॒य॒। २८.४। 
+इ॒ह। पुष्टिः॑। इ॒ह। रसः॑। इ॒ह। स॒ह॒स्र॒ऽसात॑मा। भ॒व॒। प॒शून्। य॒मि॒नि॒। पो॒ष॒य॒। २८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

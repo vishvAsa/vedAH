@@ -19,7 +19,7 @@ To that Deity the sacrifice of him who has this knowledge is acceptable.
 
 <details><summary>पदपाठः</summary>
 
-तत्। तस्य॑। ए॒वम्। वि॒द्वान्। व्रात्य॑ः। अप॑रिऽमिताः। रात्री॑ः। अति॑थिः। गृ॒हे। वस॑ति। १३.९। 
+तत्। तस्य॑। ए॒वम्। वि॒द्वान्। व्रात्यः॑। अप॑रिऽमिताः। रात्रीः॑। अति॑थिः। गृ॒हे। वस॑ति। १३.९। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

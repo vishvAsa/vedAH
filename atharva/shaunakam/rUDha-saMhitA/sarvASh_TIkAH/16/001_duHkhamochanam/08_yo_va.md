@@ -19,7 +19,7 @@ Your Agni who entered into the waters, even he here is that very dread of yours.
 
 <details><summary>पदपाठः</summary>
 
-यः। व॒ः। आ॒प॒ः। अ॒ग्निः। आ॒ऽवि॒वेश॑। सः। ए॒षः। यत्। व॒ः। घो॒रम्। तत्। ए॒तत्। १.८। 
+यः। वः॒। आ॒पः॒। अ॒ग्निः। आ॒ऽवि॒वेश॑। सः। ए॒षः। यत्। वः॒। घो॒रम्। तत्। ए॒तत्। १.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

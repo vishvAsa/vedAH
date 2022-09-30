@@ -10,7 +10,7 @@ Wherewith thou also foundest lights for Ayu and for Manu's sake: Now joying in!!
 
 <details><summary>पदपाठः</summary>
 
-येन॑। ज्योतीं॑षि। आ॒यवे॑। मन॑वे। च॒। वि॒वेदि॑थ। म॒न्दा॒नः। अ॒स्य। ब॒र्हिष॑ः। वि। रा॒ज॒सि॒। ६१.२। 
+येन॑। ज्योतीं॑षि। आ॒यवे॑। मन॑वे। च॒। वि॒वेदि॑थ। म॒न्दा॒नः। अ॒स्य। ब॒र्हिषः॑। वि। रा॒ज॒सि॒। ६१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

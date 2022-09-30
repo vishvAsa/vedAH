@@ -24,7 +24,7 @@ This lowly reverence have I paid to Rudra's dogs with mighty mouths, Hounds terr
 
 <details><summary>पदपाठः</summary>
 
-रु॒द्रस्य॑। ऐ॒ल॒ब॒ऽका॒रेभ्य॑ः। अ॒सं॒सू॒क्त॒ऽगि॒लेभ्य॑ः। इ॒दम्। म॒हाऽआ॑स्येभ्यः। श्वऽभ्य॑ः। अ॒क॒र॒म्। नम॑ः। २.३०। 
+रु॒द्रस्य॑। ऐ॒ल॒ब॒ऽका॒रेभ्यः॑। अ॒सं॒सू॒क्त॒ऽगि॒लेभ्यः॑। इ॒दम्। म॒हाऽआ॑स्येभ्यः। श्वऽभ्यः॑। अ॒क॒र॒म्। नमः॑। २.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

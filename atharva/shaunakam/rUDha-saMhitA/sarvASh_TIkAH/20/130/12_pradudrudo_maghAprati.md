@@ -10,7 +10,7 @@ ran forward to the liberal gifts.
 
 <details><summary>पदपाठः</summary>
 
-प्रदुद्रु॑द॒ः। मघा॑प्रति। १३०.१२। 
+प्रदुद्रु॑दः॒। मघा॑प्रति। १३०.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

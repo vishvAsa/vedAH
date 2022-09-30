@@ -22,7 +22,7 @@ Agni Vaisvānara, with all Gods preserve me! All hail to thee!
 
 <details><summary>पदपाठः</summary>
 
-अग्ने॑। वै॒श्वा॒न॒र॒। विश्वै॑ः। मा॒। दे॒वैः। पा॒हि॒। स्वाहा॑। १६.४। 
+अग्ने॑। वै॒श्वा॒न॒र॒। विश्वैः॑। मा॒। दे॒वैः। पा॒हि॒। स्वाहा॑। १६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

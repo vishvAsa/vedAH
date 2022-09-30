@@ -10,7 +10,7 @@ And quickly Both he fly away, the White Horse swiftest on his feet, And swiftly 
 
 <details><summary>पदपाठः</summary>
 
-उ॒त। श्वेत॒ः। आशु॑पत्वाः। उ॒तो। पद्या॑भि॒ः। वसि॑ष्ठः। उ॒त। ईम्। आशु॒। मान॑म्। पिपर्ति। १३५.८। 
+उ॒त। श्वेतः॒। आशु॑पत्वाः। उ॒तो। पद्या॑भिः॒। वसि॑ष्ठः। उ॒त। ईम्। आशु॒। मान॑म्। पिपर्ति। १३५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

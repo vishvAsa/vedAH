@@ -26,7 +26,7 @@ O Abayu, non-Abayu, dire is thy juice, O Abayu; we eat the gruel made of thee.
 
 <details><summary>पदपाठः</summary>
 
-आव॑यो॒ इति॑। अना॑बयो॒ इति॑। रस॑ः। ते॒। उ॒ग्रः। आ॒ब॒यो॒ इति॑। आ। ते॒। क॒र॒म्भम्। अ॒द्म॒स‍ि॒। १६.१। 
+आव॑यो॒ इति॑। अना॑बयो॒ इति॑। रसः॑। ते॒। उ॒ग्रः। आ॒ब॒यो॒ इति॑। आ। ते॒। क॒र॒म्भम्। अ॒द्म॒स‍ि॒। १६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

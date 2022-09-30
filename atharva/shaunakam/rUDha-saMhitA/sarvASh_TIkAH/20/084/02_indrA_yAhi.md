@@ -10,7 +10,7 @@ Urged by the holy singer, sped by song, come, Indra, to the prayers. Of the liba
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑। आ। या॒हि॒। धि॒या। इ॒षि॒तः। विप्र॑ऽजूतः। सु॒तऽव॑तः। उप॑। ब्रह्मा॑णि। वा॒घत॑ः। ८४.२। 
+इन्द्र॑। आ। या॒हि॒। धि॒या। इ॒षि॒तः। विप्र॑ऽजूतः। सु॒तऽव॑तः। उप॑। ब्रह्मा॑णि। वा॒घतः॑। ८४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -27,7 +27,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 
 <details><summary>पदपाठः</summary>
 
-इरा॑ऽइव। न। उप॑। द॒स्य॒ति॒। स॒मु॒द्रःऽइ॑व। पय॑ः। म॒हत्। दे॒वौ। स॒वा॒सिनौ॑ऽइव। शि॒ति॒ऽपात्। न। उप॑। द॒स्य॒ति॒। २९.६। 
+इरा॑ऽइव। न। उप॑। द॒स्य॒ति॒। स॒मु॒द्रःऽइ॑व। पयः॑। म॒हत्। दे॒वौ। स॒वा॒सिनौ॑ऽइव। शि॒ति॒ऽपात्। न। उप॑। द॒स्य॒ति॒। २९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

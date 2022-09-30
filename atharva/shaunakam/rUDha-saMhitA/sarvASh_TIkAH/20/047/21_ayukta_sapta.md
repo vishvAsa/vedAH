@@ -10,7 +10,7 @@ Surya hath yoked the seven bright mares, the daughters of the car: With these, H
 
 <details><summary>पदपाठः</summary>
 
-अयु॑क्तः। स॒प्त। शु॒न्ध्युव॑ः। सुर॑ः। रथ॑स्य। न॒प्त्य॑ः। ताभि॑ः। या॒ति॒। स्वयु॑क्तिऽभिः। ४७.२१। 
+अयु॑क्तः। स॒प्त। शु॒न्ध्युवः॑। सुरः॑। रथ॑स्य। न॒प्त्यः॑। ताभिः॑। या॒ति॒। स्वयु॑क्तिऽभिः। ४७.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

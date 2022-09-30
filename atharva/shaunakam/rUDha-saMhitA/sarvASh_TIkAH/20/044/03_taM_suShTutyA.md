@@ -10,7 +10,7 @@ Him I invite with eulogy, best King, effective in the fight, Strong for the gain
 
 <details><summary>पदपाठः</summary>
 
-तम्। सु॒ऽस्तु॒त्या। आ। वि॒वा॒से॒। ज्ये॒ष्ठ॒ऽराज॑म्। भरे॑। कृ॒त्नुम्। म॒हः। वा॒जिन॑म्। स॒न‍िऽभ्य॑ः। ४४.३। 
+तम्। सु॒ऽस्तु॒त्या। आ। वि॒वा॒से॒। ज्ये॒ष्ठ॒ऽराज॑म्। भरे॑। कृ॒त्नुम्। म॒हः। वा॒जिन॑म्। स॒न‍िऽभ्यः॑। ४४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

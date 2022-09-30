@@ -19,7 +19,7 @@ Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a
 
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। अ॒हम्। आ॒मु॒ष्या॒य॒णे। अ॒मुष्या॑ः। पु॒त्रे। दु॒ःऽस्वप्न्य॑म्। मृ॒जे॒। ७.८। 
+इ॒दम्। अ॒हम्। आ॒मु॒ष्या॒य॒णे। अ॒मुष्याः॑। पु॒त्रे। दुः॒ऽस्वप्न्य॑म्। मृ॒जे॒। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

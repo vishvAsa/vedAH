@@ -10,7 +10,7 @@ Let us serve Agni with our hyms, Sage who consumeth ox and cow, Who beareth Soma
 
 <details><summary>पदपाठः</summary>
 
-उ॒क्षऽअ॑न्नाय। व॒शाऽअ॑न्नाय। सोम॑ऽपृष्ठाय। वे॒धसे॑। स्तोमै॑ः। वि॒धे॒म॒। अ॒ग्नये॑। १.३। 
+उ॒क्षऽअ॑न्नाय। व॒शाऽअ॑न्नाय। सोम॑ऽपृष्ठाय। वे॒धसे॑। स्तोमैः॑। वि॒धे॒म॒। अ॒ग्नये॑। १.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

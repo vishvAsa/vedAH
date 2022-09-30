@@ -22,7 +22,7 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। न॒ः। न॒भ॒स॒ः। प॒ते॒। ऊर्ज॑म्। गृ॒हेषु॑। धा॒र॒य॒। आ। पु॒ष्टम्। ए॒तु॒। आ। वसु॑। ७९.२। 
+त्वम्। नः॒। न॒भ॒सः॒। प॒ते॒। ऊर्ज॑म्। गृ॒हेषु॑। धा॒र॒य॒। आ। पु॒ष्टम्। ए॒तु॒। आ। वसु॑। ७९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

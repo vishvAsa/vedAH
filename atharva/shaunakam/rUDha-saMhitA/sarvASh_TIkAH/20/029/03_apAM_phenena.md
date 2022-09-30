@@ -10,7 +10,7 @@ With waters' foam thou torest off, Indra, the head of Namuchi, Subduing all cont
 
 <details><summary>पदपाठः</summary>
 
-अ॒पाम्। फेने॑न। नमु॑चेः। शिर॑ः। इ॒न्द्र॒। उत्। अ॒व॒र्त॒य॒ः। विश्वा॑ः। यत्। अज॑यः। स्पृध॑ः। २९.३। 
+अ॒पाम्। फेने॑न। नमु॑चेः। शिरः॑। इ॒न्द्र॒। उत्। अ॒व॒र्त॒यः॒। विश्वाः॑। यत्। अज॑यः। स्पृधः॑। २९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

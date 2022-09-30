@@ -20,7 +20,7 @@ The man who eats before the guest eats up the glory and the understanding of the
 
 <details><summary>पदपाठः</summary>
 
-श्रिय॑म्। च॒। वै। ए॒षः। स॒म्ऽविद॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्व॑ः। अति॑थेः। अ॒श्नाति॑। ८.६। 
+श्रिय॑म्। च॒। वै। ए॒षः। स॒म्ऽविद॑म्। च॒। गृ॒हाणा॑म्। अ॒श्ना॒ति॒। यः। पूर्वः॑। अति॑थेः। अ॒श्नाति॑। ८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

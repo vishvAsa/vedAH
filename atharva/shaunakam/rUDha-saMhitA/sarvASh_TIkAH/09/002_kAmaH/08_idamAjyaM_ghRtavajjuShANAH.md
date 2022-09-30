@@ -22,7 +22,7 @@ Accepting this oblation rich with fatness, be joyful here, ye Gods whose chief i
 
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। आज्य॑म्। घृ॒तऽव॑त्। जु॒षा॒णाः। काम॑ऽज्येष्ठाः। इ॒ह। मा॒द॒य॒ध्व॒म्। कृ॒ण्वन्त॑ः। मह्य॑म्। अ॒स॒प॒त्नम्। ए॒व। २.८। 
+इ॒दम्। आज्य॑म्। घृ॒तऽव॑त्। जु॒षा॒णाः। काम॑ऽज्येष्ठाः। इ॒ह। मा॒द॒य॒ध्व॒म्। कृ॒ण्वन्तः॑। मह्य॑म्। अ॒स॒प॒त्नम्। ए॒व। २.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

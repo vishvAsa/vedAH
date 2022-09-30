@@ -21,7 +21,7 @@ As a dame brings her son--All hail! O Maruts, connected, in the rite bring measu
 
 <details><summary>पदपाठः</summary>
 
-छन्दां॑सि। य॒ज्ञे। म॒रु॒त॒ः। स्वाहा॑। मा॒ताऽइ॑व। पु॒त्रम्। पि॒पृ॒त॒। इ॒ह। यु॒क्ताः। २६.५। 
+छन्दां॑सि। य॒ज्ञे। म॒रु॒तः॒। स्वाहा॑। मा॒ताऽइ॑व। पु॒त्रम्। पि॒पृ॒त॒। इ॒ह। यु॒क्ताः। २६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

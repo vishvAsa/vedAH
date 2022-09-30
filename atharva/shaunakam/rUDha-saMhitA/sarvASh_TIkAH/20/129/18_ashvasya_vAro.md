@@ -10,7 +10,7 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 
 <details><summary>पदपाठः</summary>
 
-अश्व॑स्य॒। वार॑ः। गोशपद्य॒के। १२९.१८। 
+अश्व॑स्य॒। वारः॑। गोशपद्य॒के। १२९.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

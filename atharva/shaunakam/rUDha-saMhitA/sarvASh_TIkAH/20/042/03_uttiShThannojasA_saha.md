@@ -10,7 +10,7 @@ Arising in thy might thy jaws thou shookest, Indra, having quaffed The Soma pour
 
 <details><summary>पदपाठः</summary>
 
-उ॒त्ऽतिष्ठ॑न्। ओज॑सा। स॒ह। पी॒त्वी। शिप्र इति॑। अ॒वे॒प॒य॒ः। सोम॑म्। इ॒न्द्र॒। च॒मू इति॑। सु॒तम्। ४२.३। 
+उ॒त्ऽतिष्ठ॑न्। ओज॑सा। स॒ह। पी॒त्वी। शिप्र इति॑। अ॒वे॒प॒यः॒। सोम॑म्। इ॒न्द्र॒। च॒मू इति॑। सु॒तम्। ४२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

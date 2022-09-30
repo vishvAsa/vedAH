@@ -10,7 +10,7 @@ We seeking glory, have invoked this Master of all power and' might. Who must be 
 
 <details><summary>पदपाठः</summary>
 
-तम्‌। व॒ः। वाजा॑नाम्। पति॑म्। अहू॑महि। अ॒व॒स्यव॑ः। अप्रा॑युऽभिः। य॒ज्ञेभि॑ः। व॒वृ॒धेन्य॑म्। ६४.६। 
+तम्‌। वः॒। वाजा॑नाम्। पति॑म्। अहू॑महि। अ॒व॒स्यवः॑। अप्रा॑युऽभिः। य॒ज्ञेभिः॑। व॒वृ॒धेन्य॑म्। ६४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

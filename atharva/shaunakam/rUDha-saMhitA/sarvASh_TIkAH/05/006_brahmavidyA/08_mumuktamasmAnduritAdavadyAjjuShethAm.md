@@ -21,7 +21,7 @@ Free us from trouble, free us from dishonour, accept our wor- ship, give us life
 
 <details><summary>पदपाठः</summary>
 
-मु॒मु॒क्तम्। अ॒स्मान्। दु॒ःऽइ॒तात्। अ॒व॒द्यात्। जु॒षेथा॑म्। य॒ज्ञम्। अ॒मृत॑म्। अ॒स्मासु॑। ध॒त्त॒म्। ६.८। 
+मु॒मु॒क्तम्। अ॒स्मान्। दुः॒ऽइ॒तात्। अ॒व॒द्यात्। जु॒षेथा॑म्। य॒ज्ञम्। अ॒मृत॑म्। अ॒स्मासु॑। ध॒त्त॒म्। ६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। व॒ः। पि॒त॒र॒ः। यत्। शि॒वम्। तस्मै॑। नम॑ः। व॒ः। पि॒त॒र॒ः। यत्। स्यो॒नम्। तस्मै॑। ४.८४। 
+नमः॑। वः॒। पि॒त॒रः॒। यत्। शि॒वम्। तस्मै॑। नमः॑। वः॒। पि॒त॒रः॒। यत्। स्यो॒नम्। तस्मै॑। ४.८४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

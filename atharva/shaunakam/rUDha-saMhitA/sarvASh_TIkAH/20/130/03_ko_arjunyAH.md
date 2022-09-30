@@ -10,7 +10,7 @@ Who took away the white cow's milk?
 
 <details><summary>पदपाठः</summary>
 
-कः। अर्जु॑न्या॒। पय॑ः। १३०.३। 
+कः। अर्जु॑न्या॒। पयः॑। १३०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

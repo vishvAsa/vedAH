@@ -46,7 +46,7 @@ He rules supreme through thirty realms--One winged with song hath made him mount
 
 <details><summary>पदपाठः</summary>
 
-त्रिं॒शत्। धाम॑। व‍ि। रा॒ज॒ति॒। वाक्। प॒त॒ङ्गः। अ॒शि॒श्रि॒य॒त्। प्रति॑। वस्तो॑ः। अह॑ः। द्युऽभि॑ः। ३१.३। 
+त्रिं॒शत्। धाम॑। व‍ि। रा॒ज॒ति॒। वाक्। प॒त॒ङ्गः। अ॒शि॒श्रि॒य॒त्। प्रति॑। वस्तोः॑। अहः॑। द्युऽभिः॑। ३१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -31,7 +31,7 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 
 <details><summary>पदपाठः</summary>
 
-क॒र्शफ॑स्य। वि॒ऽश॒फस्य॑। द्यौः। पि॒ता। पृ॒थि॒वी। मा॒ता। यथा॑। अ॒भि॒ऽच॒क्र। दे॒वा॒ः। तथा॑। अप॑। कृ॒णु॒त॒। पुन॑ः। ९.१। 
+क॒र्शफ॑स्य। वि॒ऽश॒फस्य॑। द्यौः। पि॒ता। पृ॒थि॒वी। मा॒ता। यथा॑। अ॒भि॒ऽच॒क्र। दे॒वाः॒। तथा॑। अप॑। कृ॒णु॒त॒। पुनः॑। ९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

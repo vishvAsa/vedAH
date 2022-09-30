@@ -33,7 +33,7 @@ Powerless are the serpents here, those that are near and those afar. I kill the 
 
 <details><summary>पदपाठः</summary>
 
-अ॒र॒सास॑ः। इ॒ह। अह॑यः। ये। अन्ति॑। ये। च॒। दू॒र॒के। घ॒नेन॑। ह॒न्मि॒। वृश्चि॑कम्। अहि॑म्। द॒ण्डेन॑। आऽग॑तम्। ४.९। 
+अ॒र॒सासः॑। इ॒ह। अह॑यः। ये। अन्ति॑। ये। च॒। दू॒र॒के। घ॒नेन॑। ह॒न्मि॒। वृश्चि॑कम्। अहि॑म्। द॒ण्डेन॑। आऽग॑तम्। ४.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

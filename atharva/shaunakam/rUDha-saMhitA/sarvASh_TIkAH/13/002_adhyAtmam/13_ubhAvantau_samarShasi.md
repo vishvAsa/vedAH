@@ -23,7 +23,7 @@ As the Calf both his parents so thou joinest both the distant bounds, Surely the
 
 <details><summary>पदपाठः</summary>
 
-उ॒भौ। अन्तौ॑। सम्। अ॒र्ष॒सि॒। व॒त्सः। सं॒मा॒तरौ॑ऽइव। न॒नु। ए॒तत्। इ॒तः। पु॒रा। ब्रह्म॑। दे॒वाः। अ॒मी इति॑। वि॒दु॒ः। 2.१३। 
+उ॒भौ। अन्तौ॑। सम्। अ॒र्ष॒सि॒। व॒त्सः। सं॒मा॒तरौ॑ऽइव। न॒नु। ए॒तत्। इ॒तः। पु॒रा। ब्रह्म॑। दे॒वाः। अ॒मी इति॑। वि॒दुः॒। 2.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

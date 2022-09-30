@@ -22,7 +22,7 @@ Let not the Boiler and the Cup fail tme: let not the Supporter and the Sustainer
 
 <details><summary>पदपाठः</summary>
 
-उ॒र्वः। च॒। मा॒। च॒म॒सः। च॒। मा। हा॒सि॒ष्टा॒म्। ध॒र्ता। च॒। मा॒। ध॒रुण॑ः। च॒। मा। हा॒सि॒ष्टा॒म्। ३.३। 
+उ॒र्वः। च॒। मा॒। च॒म॒सः। च॒। मा। हा॒सि॒ष्टा॒म्। ध॒र्ता। च॒। मा॒। ध॒रुणः॑। च॒। मा। हा॒सि॒ष्टा॒म्। ३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

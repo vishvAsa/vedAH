@@ -19,7 +19,7 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 
 <details><summary>पदपाठः</summary>
 
-सु॒ऽक्षे॒त्रि॒या। सु॒ऽगा॒तु॒या। व॒सु॒ऽया। च॒। य॒जा॒म॒हे॒। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.२। 
+सु॒ऽक्षे॒त्रि॒या। सु॒ऽगा॒तु॒या। व॒सु॒ऽया। च॒। य॒जा॒म॒हे॒। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

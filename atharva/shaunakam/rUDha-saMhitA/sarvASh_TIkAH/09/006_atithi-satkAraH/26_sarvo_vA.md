@@ -25,7 +25,7 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 
 <details><summary>पदपाठः</summary>
 
-सर्व॑ः। वै। ए॒षः। अज॑ग्धऽपाप्मा। यस्य॑। अन्न॑म्। न। अ॒श्नन्ति॑। ७.९। 
+सर्वः॑। वै। ए॒षः। अज॑ग्धऽपाप्मा। यस्य॑। अन्न॑म्। न। अ॒श्नन्ति॑। ७.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Sweet to thy body let it be, delicious be the savoury juice. Sweet be the Soma t
 
 <details><summary>पदपाठः</summary>
 
-स्वा॒दुः। ते॒। अ॒स्तु॒। स॒म्ऽसुदे॑। मधु॑ऽमान्। त॒न्वे॑। तव॑। सोम॑ः। शम्। अ॒स्तु॒। ते॒। हृदे। ४.३। 
+स्वा॒दुः। ते॒। अ॒स्तु॒। स॒म्ऽसुदे॑। मधु॑ऽमान्। त॒न्वे॑। तव॑। सोमः॑। शम्। अ॒स्तु॒। ते॒। हृदे। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

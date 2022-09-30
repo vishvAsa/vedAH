@@ -10,7 +10,7 @@ They who stand round him as he moves harness the bright, the ruddy steed: The li
 
 <details><summary>पदपाठः</summary>
 
-यु॒ञ्जन्ति॑। ब्र॒ध्नम्। अ॒रु॒षम्। चर॑न्तम्। परि॑। त॒स्थुष॑ः। रोच॑न्ते। रो॒च॒ना। दि॒वि। २६.४। 
+यु॒ञ्जन्ति॑। ब्र॒ध्नम्। अ॒रु॒षम्। चर॑न्तम्। परि॑। त॒स्थुषः॑। रोच॑न्ते। रो॒च॒ना। दि॒वि। २६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

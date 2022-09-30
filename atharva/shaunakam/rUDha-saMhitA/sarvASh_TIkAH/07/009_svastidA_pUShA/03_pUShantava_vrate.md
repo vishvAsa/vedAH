@@ -23,7 +23,7 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 
 <details><summary>पदपाठः</summary>
 
-पूष॑न्। तव॑। व्र॒ते। व॒यम्। न। रि॒ष्ये॒म। क॒दा। च॒न। स्तो॒तार॑ः। ते॒। इ॒ह। स्म॒सि॒। १०.३। 
+पूष॑न्। तव॑। व्र॒ते। व॒यम्। न। रि॒ष्ये॒म। क॒दा। च॒न। स्तो॒तारः॑। ते॒। इ॒ह। स्म॒सि॒। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

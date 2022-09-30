@@ -21,7 +21,7 @@ Bestow on us the power of sight and hearing, glory and food and seed and blood a
 
 <details><summary>पदपाठः</summary>
 
-चक्षु॑ः। श्रोत्र॑म्। यश॑ः। अ॒स्मासु॑। धे॒हि॒। अन्न॑म्। रेत॑ः। लोहि॑तम्। उदर॑म्। ७.२५। 
+चक्षुः॑। श्रोत्र॑म्। यशः॑। अ॒स्मासु॑। धे॒हि॒। अन्न॑म्। रेतः॑। लोहि॑तम्। उदर॑म्। ७.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

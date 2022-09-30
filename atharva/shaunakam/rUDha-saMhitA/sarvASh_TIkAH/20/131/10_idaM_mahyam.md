@@ -10,7 +10,7 @@ This O Mandurika, is mine.
 
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। मह्य॒म्। मदू॒ः। इति॑। १३१.१०। 
+इ॒दम्। मह्य॒म्। मदूः॒। इति॑। १३१.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

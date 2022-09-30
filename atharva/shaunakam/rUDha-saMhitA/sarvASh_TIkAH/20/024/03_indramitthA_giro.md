@@ -10,7 +10,7 @@ To Indra have my songs of praise gone forth, thus rapidly sent hence, To turn hi
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। इ॒त्था। गिर॑ः। मम॑। अच्छ॑। अ॒गु॒ः। इ॒षि॒ताः। इ॒तः। आ॒ऽवृते॑। सोम॑ऽपीतये। २४.३। 
+इन्द्र॑म्। इ॒त्था। गिरः॑। मम॑। अच्छ॑। अ॒गुः॒। इ॒षि॒ताः। इ॒तः। आ॒ऽवृते॑। सोम॑ऽपीतये। २४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

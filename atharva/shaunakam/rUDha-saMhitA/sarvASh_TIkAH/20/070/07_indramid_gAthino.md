@@ -10,7 +10,7 @@ Indra the singers with high praise, Indra reciters with their lauds, Indra the c
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। इत्। गा॒थिन॑ः। बृ॒हत्। इन्द्र॑म्। अ॒र्केभि॑ः। अ॒र्किण॑ः। इन्द्र॑म्। वाणी॑ः। अ॒नू॒ष॒त॒। ७०.७। 
+इन्द्र॑म्। इत्। गा॒थिनः॑। बृ॒हत्। इन्द्र॑म्। अ॒र्केभिः॑। अ॒र्किणः॑। इन्द्र॑म्। वाणीः॑। अ॒नू॒ष॒त॒। ७०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -23,7 +23,7 @@ from the Old Anukr. is *ekādaśāi ’vo "’pamitām" iti syuḥ*.⌋
 
 <details><summary>पदपाठः</summary>
 
-दि॒शःऽदि॑शः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्य᳡ः। ३.३१। 
+दि॒शःऽदि॑शः। शालायाः। नमः। महिम्ने। स्वाहा। देवेभ्यः। स्वाह्येभ्यः᳡। ३.३१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

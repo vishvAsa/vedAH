@@ -16,7 +16,7 @@ Revelation and Tradition are his running attendants, Mind, etc., as above.
 
 <details><summary>पदपाठः</summary>
 
-श्रु॒तम्। च॒। विऽश्रु॑तम्। च॒। प॒रि॒ऽस्क॒न्दौ। मन॑ः। वि॒ऽप॒थम्। २.२६। 
+श्रु॒तम्। च॒। विऽश्रु॑तम्। च॒। प॒रि॒ऽस्क॒न्दौ। मनः॑। वि॒ऽप॒थम्। २.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

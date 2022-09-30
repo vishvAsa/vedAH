@@ -25,7 +25,7 @@ Surya, hath yoked the pure bright seven, the daughters of the car, with these, H
 
 <details><summary>पदपाठः</summary>
 
-अयु॑क्त। स॒प्त। शु॒न्ध्युव॑ः। सूर॑ः। रथ॑स्य। न॒प्त्य᳡ः। ताभि॑ः। या॒ति॒। स्वयु॑क्तिऽभिः। २.२४। 
+अयु॑क्त। स॒प्त। शु॒न्ध्युवः॑। सूरः॑। रथ॑स्य। न॒प्त्यः᳡। ताभिः॑। या॒ति॒। स्वयु॑क्तिऽभिः। २.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

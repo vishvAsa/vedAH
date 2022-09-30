@@ -10,7 +10,7 @@ Here let them with rich milky draught cheer thee to great munificence: Drink as 
 
 <details><summary>पदपाठः</summary>
 
-इ॒ह। त्वा॒। गोऽप॑रीणसा। म॒हे। म॒न्द॒न्तु॒। राध॑से। सर॑ः। गौ॒रः। यथा॑। पि॒ब॒। २२.३। 
+इ॒ह। त्वा॒। गोऽप॑रीणसा। म॒हे। म॒न्द॒न्तु॒। राध॑से। सरः॑। गौ॒रः। यथा॑। पि॒ब॒। २२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

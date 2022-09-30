@@ -10,7 +10,7 @@ Thou guest to the troops of Gods, thou comest hither to man- kind, Hither, all l
 
 <details><summary>पदपाठः</summary>
 
-प्र॒त्यङ्। दे॒वाना॑म्। विश॑ः। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्व॑ः। दृ॒शे। ४७.१७। 
+प्र॒त्यङ्। दे॒वाना॑म्। विशः॑। प्र॒त्यङ्। उत्। ए॒षि॒। मानु॑षीः। प्र॒त्यङ्। विश्व॑म्। स्वः॑। दृ॒शे। ४७.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

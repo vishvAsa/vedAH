@@ -10,7 +10,7 @@ From all the regions of the world let Indra send security. The foe-subduer, swif
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑ः। आशा॑भ्यः। परि॑। सर्वा॑भ्यः। अभ॑यम्। क॒र॒त्। जेता॑। शत्रू॑न्। विऽच॑र्षणि। २०.७। 
+इन्द्रः॑। आशा॑भ्यः। परि॑। सर्वा॑भ्यः। अभ॑यम्। क॒र॒त्। जेता॑। शत्रू॑न्। विऽच॑र्षणि। २०.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

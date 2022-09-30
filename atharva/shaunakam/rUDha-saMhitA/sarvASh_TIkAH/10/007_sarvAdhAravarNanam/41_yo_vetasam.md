@@ -32,7 +32,7 @@ He verily who knows the Reed of Gold that stands amid the flood, is the mysterio
 
 <details><summary>पदपाठः</summary>
 
-यः। वे॒त॒सम्। हि॒र॒ण्यय॑म्। तिष्ठ॑न्तम्। स॒लि॒ले। वेद॑। सः। वै। गुह्य॑ः। प्र॒जाऽप॑तिः। ७.४१। 
+यः। वे॒त॒सम्। हि॒र॒ण्यय॑म्। तिष्ठ॑न्तम्। स॒लि॒ले। वेद॑। सः। वै। गुह्यः॑। प्र॒जाऽप॑तिः। ७.४१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

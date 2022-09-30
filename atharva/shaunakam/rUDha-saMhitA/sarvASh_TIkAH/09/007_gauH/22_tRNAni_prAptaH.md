@@ -20,7 +20,7 @@ When he hath got his grass he is King Soma.
 
 <details><summary>पदपाठः</summary>
 
-तृणा॑नि। प्रऽआ॑प्तः। सोम॑ः। राजा॑। १२.२२। 
+तृणा॑नि। प्रऽआ॑प्तः। सोमः॑। राजा॑। १२.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

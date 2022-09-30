@@ -10,7 +10,7 @@ Thou, Indra, with the Tempest-Gods, the breakers down of what is firm, Foundest 
 
 <details><summary>पदपाठः</summary>
 
-वीलु। चि॒त्। आ॒रु॒ज॒त्नुऽभि॑ः। गुहा॑। चि॒त्। इ॒न्द्र॒। वह्नि॑भिः। अवि॑न्दः। उ॒स्रिया॑ः। अनु॑। ७०.१। 
+वीलु। चि॒त्। आ॒रु॒ज॒त्नुऽभिः॑। गुहा॑। चि॒त्। इ॒न्द्र॒। वह्नि॑भिः। अवि॑न्दः। उ॒स्रियाः॑। अनु॑। ७०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

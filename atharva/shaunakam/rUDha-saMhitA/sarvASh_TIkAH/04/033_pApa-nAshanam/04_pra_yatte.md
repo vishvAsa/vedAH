@@ -19,7 +19,7 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 
 <details><summary>पदपाठः</summary>
 
-प्र। यत्। ते॒। अ॒ग्ने॒। सू॒रय॑ः। जाये॑महि। प्र। ते॒। व॒यम्। अप॑। न॒ः। शोशु॑चत्। अ॒घम्। ३३.४। 
+प्र। यत्। ते॒। अ॒ग्ने॒। सू॒रयः॑। जाये॑महि। प्र। ते॒। व॒यम्। अप॑। नः॒। शोशु॑चत्। अ॒घम्। ३३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

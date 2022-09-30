@@ -24,7 +24,7 @@ And Aligi and Viligi, their father and the mother too,-- What will ye do? Your v
 
 <details><summary>पदपाठः</summary>
 
-आऽलि॑गी। च॒। विऽलि॑गी। च॒। पि॒ता। च॒। मा॒ता। च॒। वि॒द्म। व॒ः। स॒र्वत॑ः। बन्धु॑। अर॑साः। किम्। क॒रि॒ष्य॒थ॒। १३.७। 
+आऽलि॑गी। च॒। विऽलि॑गी। च॒। पि॒ता। च॒। मा॒ता। च॒। वि॒द्म। वः॒। स॒र्वतः॑। बन्धु॑। अर॑साः। किम्। क॒रि॒ष्य॒थ॒। १३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

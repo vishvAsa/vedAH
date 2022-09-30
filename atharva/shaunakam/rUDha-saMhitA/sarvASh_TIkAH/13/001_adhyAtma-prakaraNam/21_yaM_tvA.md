@@ -34,7 +34,7 @@ Rohita, car-borne by a speckled leader, thou, pouring water,. goest on in triump
 
 <details><summary>पदपाठः</summary>
 
-यम.। त्वा॒। पृष॑ती। रथे॑। प्रष्टि॑ः। वह॑ति। रो॒हि॒त॒। शु॒भा। या॒सि॒। रि॒णन्। अ॒पः। १.२१। 
+यम.। त्वा॒। पृष॑ती। रथे॑। प्रष्टिः॑। वह॑ति। रो॒हि॒त॒। शु॒भा। या॒सि॒। रि॒णन्। अ॒पः। १.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

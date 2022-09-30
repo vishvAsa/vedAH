@@ -27,7 +27,7 @@ To Yama connected with the Fathers Hail! and homage!
 
 <details><summary>पदपाठः</summary>
 
-य॒माय॑। पि॒तृऽम॑ते। स्व॒धा। नम॑ः। ४.७४। 
+य॒माय॑। पि॒तृऽम॑ते। स्व॒धा। नमः॑। ४.७४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ For Indra, lover of carouse, loud be our songs about the juice: Let poets sing t
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रा॑य॒। मद्व॑ने। सु॒तम्। परि॑। स्तो॒भ॒न्तु॒। न॒ः। गिर॑ः। अ॒र्कम्। अ॒र्च॒न्तु॒। का॒रव॑ः। ११०.१। 
+इन्द्रा॑य॒। मद्व॑ने। सु॒तम्। परि॑। स्तो॒भ॒न्तु॒। नः॒। गिरः॑। अ॒र्कम्। अ॒र्च॒न्तु॒। का॒रवः॑। ११०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

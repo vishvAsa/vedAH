@@ -18,7 +18,7 @@ His third diffused breath is that Heaven.
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीय॑ः। वि॒ऽआ॒नः। सा। द्यौः। १७.३। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीयः॑। वि॒ऽआ॒नः। सा। द्यौः। १७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

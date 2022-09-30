@@ -26,7 +26,7 @@ A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the
 
 <details><summary>पदपाठः</summary>
 
-सम्। व॒ः। गो॒ऽस्थेन॑। सु॒ऽसदा॑। सम्। र॒य्या। सम्। सुऽभू॑त्या। अह॑ःऽजातस्य। यत्। नाम॑। तेन॑। व॒ः। सम्। सृ॒जा॒म॒सि॒। १४.१। 
+सम्। वः॒। गो॒ऽस्थेन॑। सु॒ऽसदा॑। सम्। र॒य्या। सम्। सुऽभू॑त्या। अहः॑ऽजातस्य। यत्। नाम॑। तेन॑। वः॒। सम्। सृ॒जा॒म॒सि॒। १४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

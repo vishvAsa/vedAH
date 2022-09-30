@@ -10,7 +10,7 @@ Sing this, what time the juice is pressed, to him your Hero much-invoked, To ple
 
 <details><summary>पदपाठः</summary>
 
-तत्। व॒ः। गा॒य॒। सु॒ते। सचा॑। पु॒रु॒ऽहू॒ताय॑। सत्व॑ने। शम्। यत्। गवे॑। न। शा॒किने॑। ७८.१। 
+तत्। वः॒। गा॒य॒। सु॒ते। सचा॑। पु॒रु॒ऽहू॒ताय॑। सत्व॑ने। शम्। यत्। गवे॑। न। शा॒किने॑। ७८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

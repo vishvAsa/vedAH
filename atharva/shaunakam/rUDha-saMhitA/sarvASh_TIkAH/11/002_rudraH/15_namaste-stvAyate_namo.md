@@ -23,7 +23,7 @@ Be homage, Rudra, unto thee approaching and departing hence! Homage to thee when
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नम॑ः। अ॒स्तु॒। प॒रा॒ऽय॒ते। नम॑ः। ते॒। रु॒द्र॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नम॑ः। २.१५। 
+नमः॑। ते॒। अ॒स्तु॒। आ॒ऽय॒ते। नमः॑। अ॒स्तु॒। प॒रा॒ऽय॒ते। नमः॑। ते॒। रु॒द्र॒। तिष्ठ॑ते। आसी॑नाय। उ॒त। ते॒। नमः॑। २.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

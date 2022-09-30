@@ -25,7 +25,7 @@ Auspicious Sita, come thou near: we venerate and worship thee. That thou mayst b
 
 <details><summary>पदपाठः</summary>
 
-सीते॑। वन्दा॑महे। त्वा॒। अर्वाची॑। सु॒ऽभ॒गे॒। भ॒व॒। यथा॑। न॒ः। सु॒ऽमना॑ः। अस॑ः। यथा॑। न॒ः। सु॒ऽफ॒ला। भुव॑ः। १७.८। 
+सीते॑। वन्दा॑महे। त्वा॒। अर्वाची॑। सु॒ऽभ॒गे॒। भ॒व॒। यथा॑। नः॒। सु॒ऽमनाः॑। असः॑। यथा॑। नः॒। सु॒ऽफ॒ला। भुवः॑। १७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

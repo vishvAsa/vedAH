@@ -10,7 +10,7 @@ Be not thou, like a slothful priest, O Lord of wealth and spoil: rejoice. In the
 
 <details><summary>पदपाठः</summary>
 
-मो इति॑। सु। ब्र॒ह्माऽइ॑व। त॒न्द्र॒युः। भुव॑ः। वा॒जा॒ना॒म्। प॒ते॒। मत्स्व॑। सु॒तस्य॑। गोऽम॑तः। ६०.३। 
+मो इति॑। सु। ब्र॒ह्माऽइ॑व। त॒न्द्र॒युः। भुवः॑। वा॒जा॒ना॒म्। प॒ते॒। मत्स्व॑। सु॒तस्य॑। गोऽम॑तः। ६०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

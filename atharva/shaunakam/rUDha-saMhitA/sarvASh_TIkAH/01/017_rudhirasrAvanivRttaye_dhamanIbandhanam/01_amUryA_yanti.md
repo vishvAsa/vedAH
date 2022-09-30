@@ -26,7 +26,7 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 
 <details><summary>पदपाठः</summary>
 
-अ॒मूः। याः। यन्ति॑। यो॒षित॑ः। हि॒राः। लोहि॑तऽवाससः। अ॒भ्रात॑रःऽइव। जा॒मय॑ः। तिष्ठ॑न्तु। ह॒तऽव॑र्चसः। 
+अ॒मूः। याः। यन्ति॑। यो॒षितः॑। हि॒राः। लोहि॑तऽवाससः। अ॒भ्रात॑रःऽइव। जा॒मयः॑। तिष्ठ॑न्तु। ह॒तऽव॑र्चसः। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

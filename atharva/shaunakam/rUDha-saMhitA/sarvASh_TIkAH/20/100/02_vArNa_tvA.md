@@ -10,7 +10,7 @@ As rivers swell the ocean, so, Hero, our prayers increase thy might, Though of t
 
 <details><summary>पदपाठः</summary>
 
-वाः। न। त्वा॒। य॒व्याभि॑ः। वर्ध॑न्ति। शू॒र॒। ब्रह्मा॑णि। व॒वृध्वांस॑म्। चि॒त्। आ॒द्रि॒ऽव॒ः। दि॒वेऽदि॑वे। १००.। 
+वाः। न। त्वा॒। य॒व्याभिः॑। वर्ध॑न्ति। शू॒र॒। ब्रह्मा॑णि। व॒वृध्वांस॑म्। चि॒त्। आ॒द्रि॒ऽवः॒। दि॒वेऽदि॑वे। १००.। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

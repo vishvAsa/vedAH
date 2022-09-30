@@ -10,7 +10,7 @@ Come unto us who poured the juice, come hither to our eulogies. Drink of the jui
 
 <details><summary>पदपाठः</summary>
 
-आ। न॒ः। या॒हि॒। सु॒तऽव॑तः। अ॒स्माक॑म्। सु॒ऽस्तु॒तीः। उप॑। पिब॑। सु। शि॒प्रि॒न्। अन्ध॑सः। ४.१। 
+आ। नः॒। या॒हि॒। सु॒तऽव॑तः। अ॒स्माक॑म्। सु॒ऽस्तु॒तीः। उप॑। पिब॑। सु। शि॒प्रि॒न्। अन्ध॑सः। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ We strive for glory through the powers immense of him whom many praise, Of Indra
 
 <details><summary>पदपाठः</summary>
 
-पु॒रु॒ऽस्तु॒तस्य॑। धाम॑ऽभिः। श॒तेन॑। म॒ह॒या॒म॒सि॒। इन्द्र॑स्य। च॒र्ष॒णि॒ऽधृत॑ः। १९.४। 
+पु॒रु॒ऽस्तु॒तस्य॑। धाम॑ऽभिः। श॒तेन॑। म॒ह॒या॒म॒सि॒। इन्द्र॑स्य। च॒र्ष॒णि॒ऽधृतः॑। १९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

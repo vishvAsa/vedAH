@@ -16,7 +16,7 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 
 <details><summary>पदपाठः</summary>
 
-येन॑। श्र॒व॒स्य॒व॒ः। चर॑थ। दे॒वाःऽइ॑व। अ॒सु॒र॒ऽमा॒यया॑। शुना॑म्। क॒पिःऽइ॑व। दूष॑णः। बन्धु॑रा। का॒ब॒वस्य॑। च॒। ९.४। 
+येन॑। श्र॒व॒स्य॒वः॒। चर॑थ। दे॒वाःऽइ॑व। अ॒सु॒र॒ऽमा॒यया॑। शुना॑म्। क॒पिःऽइ॑व। दूष॑णः। बन्धु॑रा। का॒ब॒वस्य॑। च॒। ९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

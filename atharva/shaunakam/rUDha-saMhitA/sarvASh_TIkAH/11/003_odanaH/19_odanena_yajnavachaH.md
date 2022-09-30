@@ -23,7 +23,7 @@ The sacrificial word, all worlds are to be won with Odana.
 
 <details><summary>पदपाठः</summary>
 
-ओ॒द॒नेन॑। य॒ज्ञ॒ऽव॒चः। सर्वे॑। लो॒काः। स॒म्ऽआ॒प्या᳡ः। ३.१९। 
+ओ॒द॒नेन॑। य॒ज्ञ॒ऽव॒चः। सर्वे॑। लो॒काः। स॒म्ऽआ॒प्याः᳡। ३.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

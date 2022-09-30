@@ -27,7 +27,7 @@ Thou art the couch of the Rishis. Let worship be paid to the divine couch.
 
 <details><summary>पदपाठः</summary>
 
-ऋषी॑णाम्। प्र॒ऽस्त॒रः। अ॒सि॒। नम॑ः। अ॒स्तु॒। दैवा॑य। प्रऽस्त॒राय॑। २.६। 
+ऋषी॑णाम्। प्र॒ऽस्त॒रः। अ॒सि॒। नमः॑। अ॒स्तु॒। दैवा॑य। प्रऽस्त॒राय॑। २.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

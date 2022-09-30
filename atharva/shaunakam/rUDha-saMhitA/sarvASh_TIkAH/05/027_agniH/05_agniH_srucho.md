@@ -15,7 +15,7 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 
 <details><summary>पदपाठः</summary>
 
-अ॒ग्निः। स्रुच॑ः। अ॒ध्व॒रेषु॑। प्र॒ऽयक्षु॑। सः। य॒क्ष॒त्। अ॒स्य॒। म॒हि॒मान॑म्। अ॒ग्नेः। २७.५। 
+अ॒ग्निः। स्रुचः॑। अ॒ध्व॒रेषु॑। प्र॒ऽयक्षु॑। सः। य॒क्ष॒त्। अ॒स्य॒। म॒हि॒मान॑म्। अ॒ग्नेः। २७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

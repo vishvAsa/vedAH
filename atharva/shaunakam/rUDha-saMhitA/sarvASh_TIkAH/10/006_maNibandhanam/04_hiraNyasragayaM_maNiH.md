@@ -20,7 +20,7 @@ This Amulet, decked with chain of gold, shall give faith, sacrifice, and might, 
 
 <details><summary>पदपाठः</summary>
 
-हिर॑ण्यऽस्रक्। अ॒यम्। म॒णिः। श्र॒ध्दाम्। य॒ज्ञम्। मह॑ः। दध॑त्। गृ॒हे। व॒स॒तु॒। न॒ः। अति॑थिः। ६.४। 
+हिर॑ण्यऽस्रक्। अ॒यम्। म॒णिः। श्र॒ध्दाम्। य॒ज्ञम्। महः॑। दध॑त्। गृ॒हे। व॒स॒तु॒। नः॒। अति॑थिः। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

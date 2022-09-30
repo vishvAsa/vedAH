@@ -19,7 +19,7 @@ Heaven and Earth are the ears, the Sun and Moon are the eyes, the seven Rishis a
 
 <details><summary>पदपाठः</summary>
 
-द्यावा॑पृथि॒वी इति॑। श्रोत्रे॒ इति॑। सू॒र्या॒च॒न्द्र॒मसौ॑। अक्षि॑णी॒ इति॑। स॒प्त॒ऽऋ॒षय॑ः। प्रा॒णा॒पा॒नाः। ३.२। 
+द्यावा॑पृथि॒वी इति॑। श्रोत्रे॒ इति॑। सू॒र्या॒च॒न्द्र॒मसौ॑। अक्षि॑णी॒ इति॑। स॒प्त॒ऽऋ॒षयः॑। प्रा॒णा॒पा॒नाः। ३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

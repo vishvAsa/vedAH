@@ -20,7 +20,7 @@ I am the:centre of riches. Fain would I be the centre of mine equals.
 
 <details><summary>पदपाठः</summary>
 
-नाभि॑ः। अ॒हम्। र॒यी॒णाम्। नाभि॑ः। स॒मा॒नाना॑म्। भू॒या॒स॒म्। ४.१। 
+नाभिः॑। अ॒हम्। र॒यी॒णाम्। नाभिः॑। स॒मा॒नाना॑म्। भू॒या॒स॒म्। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

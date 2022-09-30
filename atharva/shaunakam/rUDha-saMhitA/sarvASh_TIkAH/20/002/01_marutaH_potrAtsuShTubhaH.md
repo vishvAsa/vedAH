@@ -10,7 +10,7 @@ Let the Maruts drink Trishtups from the Potar's cup, according to the season Som
 
 <details><summary>पदपाठः</summary>
 
-म॒रुत॑ः। पो॒त्रात्। सु॒ऽस्तभ॑ः। सु॒ऽअ॒र्का॑त्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.१। 
+म॒रुतः॑। पो॒त्रात्। सु॒ऽस्तभः॑। सु॒ऽअ॒र्का॑त्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

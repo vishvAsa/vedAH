@@ -10,7 +10,7 @@ Pervadest heaven and wide mid-air, melting the days out with. thy beams, Sun, se
 
 <details><summary>पदपाठः</summary>
 
-वि। द्याम्। ए॒षि॒। रज॑ः। पृ॒थु॒। अह॑ः। मिमा॑नः। अ॒क्तुभि॑ः। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। १७.१९। 
+वि। द्याम्। ए॒षि॒। रजः॑। पृ॒थु॒। अहः॑। मिमा॑नः। अ॒क्तुभिः॑। पश्य॑न्। जन्मा॑नि। सू॒र्य॒। १७.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

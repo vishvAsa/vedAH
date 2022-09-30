@@ -23,7 +23,7 @@ Armed with four fangs and yellow teeth, deformed, with faces smeared with blood,
 
 <details><summary>पदपाठः</summary>
 
-चतु॑ःऽदंष्ट्रान्। श्या॒वऽद॑तः। कु॒म्भऽमु॑ष्कान्। असृ॑क्ऽमुखान्। स्व॒ऽभ्य॒साः। ये। चे॒। उ॒त्ऽभ्य॒साः। ११.१७। 
+चतुः॑ऽदंष्ट्रान्। श्या॒वऽद॑तः। कु॒म्भऽमु॑ष्कान्। असृ॑क्ऽमुखान्। स्व॒ऽभ्य॒साः। ये। चे॒। उ॒त्ऽभ्य॒साः। ११.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

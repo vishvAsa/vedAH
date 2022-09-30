@@ -10,7 +10,7 @@ lies on the ground as he were slain.
 
 <details><summary>पदपाठः</summary>
 
-शय॑ः। ह॒तः। इ॒व। १३१.१६। 
+शयः॑। ह॒तः। इ॒व। १३१.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

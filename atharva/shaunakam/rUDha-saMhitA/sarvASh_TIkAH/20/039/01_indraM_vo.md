@@ -10,7 +10,7 @@ For you, from every side, we call Indra away from other men: Ours, and none othe
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र॑म्। व॒ः। वि॒श्वत॑ः। परि॑। हवा॑महे। जने॑भ्यः। अ॒स्माक॑म्। अ॒स्तु॒। केव॑लः। ३९.१। 
+इन्द्र॑म्। वः॒। वि॒श्वतः॑। परि॑। हवा॑महे। जने॑भ्यः। अ॒स्माक॑म्। अ॒स्तु॒। केव॑लः। ३९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

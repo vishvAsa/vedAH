@@ -10,7 +10,7 @@ Let the God, Granter of Wealth, from the Potar's cup drink Trishtups, according 
 
 <details><summary>पदपाठः</summary>
 
-दे॒वः। द्र॒वि॒ण॒ःऽदाः। पो॒त्रात्। सु॒ऽस्तुभ॑ः। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.४। 
+दे॒वः। द्र॒वि॒णः॒ऽदाः। पो॒त्रात्। सु॒ऽस्तुभः॑। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

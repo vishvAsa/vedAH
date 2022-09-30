@@ -23,7 +23,7 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 
 <details><summary>पदपाठः</summary>
 
-धा॒ता। द॒धा॒तु॒। न॒ः। र॒यिम्। ईशा॑नः। जग॑तः। पति॑ः। सः। न॒ः। पू॒र्णेन॑। य॒च्छ॒तु॒। १८.१। 
+धा॒ता। द॒धा॒तु॒। नः॒। र॒यिम्। ईशा॑नः। जग॑तः। पतिः॑। सः। नः॒। पू॒र्णेन॑। य॒च्छ॒तु॒। १८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

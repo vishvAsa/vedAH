@@ -26,7 +26,7 @@ Further us rightly, favour ye our bodies with your gracious love. Give thou our 
 
 <details><summary>पदपाठः</summary>
 
-सु॒सू॒दत॑। मृ॒डत॑। मृ॒डय॑। न॒ः। त॒नूभ्य॑ः। मय॑ः। तो॒केभ्य॑ः। कृ॒धि॒। 
+सु॒सू॒दत॑। मृ॒डत॑। मृ॒डय॑। नः॒। त॒नूभ्यः॑। मयः॑। तो॒केभ्यः॑। कृ॒धि॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

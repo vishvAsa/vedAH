@@ -10,7 +10,7 @@ With Indra's well-beloved hosts, the blameless, tending heaven- ward, The sacrif
 
 <details><summary>पदपाठः</summary>
 
-अ॒न॒व॒द्यैः। अ॒भिद्यु॑ऽभिरः। म॒खः। सह॑स्वत्। अ॒र्च॒ति॒। ग॒णैः। इन्द्र॑स्य। काम्यै॑ः। ७०.४। 
+अ॒न॒व॒द्यैः। अ॒भिद्यु॑ऽभिरः। म॒खः। सह॑स्वत्। अ॒र्च॒ति॒। ग॒णैः। इन्द्र॑स्य। काम्यैः॑। ७०.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

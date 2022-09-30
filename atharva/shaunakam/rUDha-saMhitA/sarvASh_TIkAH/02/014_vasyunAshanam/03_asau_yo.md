@@ -28,7 +28,7 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 
 <details><summary>पदपाठः</summary>
 
-अ॒सौ। यः। अ॒ध॒रात्। गृ॒हः। तत्र॑। स॒न्तु॒। अ॒रा॒य्य᳡ः। तत्र॑। से॒दिः। नि। उ॒च्य॒तु॒। सर्वा॑ः। च॒। या॒तु॒ऽधा॒न्य᳡ः। १४.३। 
+अ॒सौ। यः। अ॒ध॒रात्। गृ॒हः। तत्र॑। स॒न्तु॒। अ॒रा॒य्यः᳡। तत्र॑। से॒दिः। नि। उ॒च्य॒तु॒। सर्वाः॑। च॒। या॒तु॒ऽधा॒न्यः᳡। १४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

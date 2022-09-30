@@ -21,7 +21,7 @@ We offer homage to thy limbs, thy belly, and thy tongue, and mouth we offer homa
 
 <details><summary>पदपाठः</summary>
 
-अङ्गे॑भ्यः। ते॒। उ॒दरा॑य। जि॒ह्वायै॑। आ॒स्या᳡य। ते॒। द॒त्ऽभ्यः। ग॒न्धाय॑। ते॒। नम॑ः। २.६। 
+अङ्गे॑भ्यः। ते॒। उ॒दरा॑य। जि॒ह्वायै॑। आ॒स्या᳡य। ते॒। द॒त्ऽभ्यः। ग॒न्धाय॑। ते॒। नमः॑। २.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

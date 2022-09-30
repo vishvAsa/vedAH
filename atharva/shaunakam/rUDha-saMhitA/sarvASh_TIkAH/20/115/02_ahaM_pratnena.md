@@ -10,7 +10,7 @@ After the lore of ancient time I make, like Kanva, beauteous songs, And Indra's 
 
 <details><summary>पदपाठः</summary>
 
-अ॒हम्। प्र॒त्नेन॑। मन्म॑ना। गिर॑ः। शु॒म्भा॒मि॒। क॒ण्व॒ऽवत्। येन॑। इन्द्र॑ः। शुष्म॑म्। इत्। द॒धे। ११५.२। 
+अ॒हम्। प्र॒त्नेन॑। मन्म॑ना। गिरः॑। शु॒म्भा॒मि॒। क॒ण्व॒ऽवत्। येन॑। इन्द्रः॑। शुष्म॑म्। इत्। द॒धे। ११५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -28,7 +28,7 @@ Through all this world strode Vishnu: thrice his foot he planted, and the whole 
 
 <details><summary>पदपाठः</summary>
 
-इ॒दम्। विष्णु॑ः। वि। च॒क्र॒मे॒। त्रे॒धा। नि। द॒धे॒। प॒दा। सम्ऽऊ॑ढम्। अ॒स्य॒। पां॒सु॒रे। २७.४। 
+इ॒दम्। विष्णुः॑। वि। च॒क्र॒मे॒। त्रे॒धा। नि। द॒धे॒। प॒दा। सम्ऽऊ॑ढम्। अ॒स्य॒। पां॒सु॒रे। २७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

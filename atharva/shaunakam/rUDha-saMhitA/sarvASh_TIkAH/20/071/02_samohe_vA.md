@@ -10,7 +10,7 @@ Which aideth those to win them sons who come as heroes to the fight, Or singers 
 
 <details><summary>पदपाठः</summary>
 
-स॒म्ऽओ॒हे। वा॒। ये। आश॑त। नर॑ः। तो॒कस्य॑। सनि॑तौ। विप्रा॑सः। वा॒। धि॒या॒ऽयव॑ः। ७१.२। 
+स॒म्ऽओ॒हे। वा॒। ये। आश॑त। नरः॑। तो॒कस्य॑। सनि॑तौ। विप्रा॑सः। वा॒। धि॒या॒ऽयवः॑। ७१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

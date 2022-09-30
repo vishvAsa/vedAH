@@ -10,7 +10,7 @@ When the horn s blast hath sounded forth
 
 <details><summary>पदपाठः</summary>
 
-शृङ्ग॑ः। उत्पन्न। १३०.१३। 
+शृङ्गः॑। उत्पन्न। १३०.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

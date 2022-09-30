@@ -28,7 +28,7 @@ From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of
 
 <details><summary>पदपाठः</summary>
 
-आ॒ऽनृत्य॑तः। शि॒ख॒ण्डिन॑ः। ग॒न्ध॒र्वस्य॑। अ॒प्स॒रा॒ऽप॒तेः। भि॒नद्मि॑। मु॒ष्कौ। अपि॑। या॒मि॒। शेप॑ः। ३७.७। 
+आ॒ऽनृत्य॑तः। शि॒ख॒ण्डिनः॑। ग॒न्ध॒र्वस्य॑। अ॒प्स॒रा॒ऽप॒तेः। भि॒नद्मि॑। मु॒ष्कौ। अपि॑। या॒मि॒। शेपः॑। ३७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

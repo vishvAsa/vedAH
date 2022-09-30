@@ -10,7 +10,7 @@ Thou, grown at once to perfect strength, wast born to drink the Soma juice, stro
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। सु॒तस्य॑। पी॒तये॑। स॒द्यः। वृ॒द्धः। अ॒जा॒य॒था॒ः। इन्द्र॑। ज्यैष्ठ्या॑य। सु॒क्र॒तो॒ इति॑ सुऽक्रतो। ६९.४। 
+त्वम्। सु॒तस्य॑। पी॒तये॑। स॒द्यः। वृ॒द्धः। अ॒जा॒य॒थाः॒। इन्द्र॑। ज्यैष्ठ्या॑य। सु॒क्र॒तो॒ इति॑ सुऽक्रतो। ६९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

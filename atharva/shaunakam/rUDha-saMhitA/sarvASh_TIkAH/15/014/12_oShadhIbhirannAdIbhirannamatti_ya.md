@@ -16,7 +16,7 @@ He who hath this knowledge eats food with herbs as food-eaters.
 
 <details><summary>पदपाठः</summary>
 
-ओष॑धीभिः। अ॒न्न॒ऽअ॒दीभि॑ः। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१२। 
+ओष॑धीभिः। अ॒न्न॒ऽअ॒दीभिः॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

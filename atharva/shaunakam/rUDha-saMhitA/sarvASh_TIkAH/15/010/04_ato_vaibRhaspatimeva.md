@@ -30,7 +30,7 @@ Let Priesthood enter into Brihaspati, and Royalty into Indra, was the answer.
 
 <details><summary>पदपाठः</summary>
 
-अत॑ः। वै। बृह॒स्पति॑म्। ए॒व। ब्रह्म॑। प्र। वि॒श॒तु। इन्द्र॑म्। क्ष॒त्रम्। तथा॑। वै। इति॑। १०.४। 
+अतः॑। वै। बृह॒स्पति॑म्। ए॒व। ब्रह्म॑। प्र। वि॒श॒तु। इन्द्र॑म्। क्ष॒त्रम्। तथा॑। वै। इति॑। १०.४। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

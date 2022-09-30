@@ -19,7 +19,7 @@ Thou art the Bull, Supporter, and Upholder,
 
 <details><summary>पदपाठः</summary>
 
-ध॒र्ता। अ॒सि॒। ध॒रुण॑ः। अ॒सि॒। वंस॑गः। अ॒सि॒। ३.३६। 
+ध॒र्ता। अ॒सि॒। ध॒रुणः॑। अ॒सि॒। वंस॑गः। अ॒सि॒। ३.३६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

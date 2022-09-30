@@ -23,7 +23,7 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 
 <details><summary>पदपाठः</summary>
 
-ये। व्री॒हय॑ः। यवा॑ः। नि॒ःऽउ॒प्यन्ते॑। अं॒शव॑ः। ए॒व। ते। ६.१४। 
+ये। व्री॒हयः॑। यवाः॑। निः॒ऽउ॒प्यन्ते॑। अं॒शवः॑। ए॒व। ते। ६.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

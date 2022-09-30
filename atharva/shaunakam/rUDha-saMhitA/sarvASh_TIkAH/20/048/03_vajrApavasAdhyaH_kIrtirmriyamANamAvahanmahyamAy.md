@@ -10,7 +10,7 @@ Fair hymns bring glory to the Strong, and Indra-vigour; unto, me Fatness and mil
 
 <details><summary>पदपाठः</summary>
 
-वज्रा॑पव॒साध्य॑ः। की॒र्तिः। म्रि॒यमा॑ण॒म्। आव॑हन्। मह्य॑म्। आयु॑ः। घृ॒तम्। पय॑ः। ४८.३। 
+वज्रा॑पव॒साध्यः॑। की॒र्तिः। म्रि॒यमा॑ण॒म्। आव॑हन्। मह्य॑म्। आयुः॑। घृ॒तम्। पयः॑। ४८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

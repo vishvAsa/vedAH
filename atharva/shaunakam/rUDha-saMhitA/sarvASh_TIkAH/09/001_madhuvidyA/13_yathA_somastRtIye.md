@@ -26,7 +26,7 @@ As at third sacrifice Soma is the Ribhus' well-beloved one, Even so may they, th
 
 <details><summary>पदपाठः</summary>
 
-यथा॑। सोम॑ः। तृतीये॑। सव॑ने। ऋ॒भू॒णाम्। भव॑ति। प्रि॒यः। ए॒व। मे॒। ऋ॒भ॒व॒ः। वर्च॑ः। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१३। 
+यथा॑। सोमः॑। तृतीये॑। सव॑ने। ऋ॒भू॒णाम्। भव॑ति। प्रि॒यः। ए॒व। मे॒। ऋ॒भ॒वः॒। वर्चः॑। आ॒त्मनि॑। ध्रि॒य॒ता॒म्। १.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

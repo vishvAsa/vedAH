@@ -18,7 +18,7 @@ To the Fathers connected with Soma Hail! and homage!
 
 <details><summary>पदपाठः</summary>
 
-पि॒तृऽभ्य॑ः। सोम॑वत्ऽभ्यः। स्व॒धा। नम॑ः। ४.७३। 
+पि॒तृऽभ्यः॑। सोम॑वत्ऽभ्यः। स्व॒धा। नमः॑। ४.७३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

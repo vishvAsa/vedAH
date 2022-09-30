@@ -25,7 +25,7 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 
 <details><summary>पदपाठः</summary>
 
-यः। अ॒द्य। सेन्य॑ः। व॒धः। अ॒घ॒ऽयूना॑म्। उ॒त्ऽईर॑ते। यु॒वम्। तम्। मि॒त्रा॒व॒रु॒णौ॒। अ॒स्मत्। य॒व॒य॒त॒म्। परि॑। 
+यः। अ॒द्य। सेन्यः॑। व॒धः। अ॒घ॒ऽयूना॑म्। उ॒त्ऽईर॑ते। यु॒वम्। तम्। मि॒त्रा॒व॒रु॒णौ॒। अ॒स्मत्। य॒व॒य॒त॒म्। परि॑। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ Do thou who art protector us thy friends who praise thee With hundred aids appro
 
 <details><summary>पदपाठः</summary>
 
-अ॒भि। सु। न॒ः। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄ॒णाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तिऽभि॑ः। १२४.३। 
+अ॒भि। सु। नः॒। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄ॒णाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तिऽभिः॑। १२४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

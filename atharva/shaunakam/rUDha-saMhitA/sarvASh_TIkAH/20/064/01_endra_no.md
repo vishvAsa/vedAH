@@ -10,7 +10,7 @@ Come unto us, O Indra, dear, still conquering, unconcealable, Vast as a mountain
 
 <details><summary>पदपाठः</summary>
 
-आ। इ॒न्द्र॒। न॒ः। ग॒धि॒। प्रि॒यः। स॒त्रा॒ऽजित्। अगो॑ह्यः। गि॒रिः। न। वि॒श्वत॑ः। पृ॒थुः। पति॑ः। दि॒वः। ६४.१। 
+आ। इ॒न्द्र॒। नः॒। ग॒धि॒। प्रि॒यः। स॒त्रा॒ऽजित्। अगो॑ह्यः। गि॒रिः। न। वि॒श्वतः॑। पृ॒थुः। पतिः॑। दि॒वः। ६४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ This power of his shone brightly forth when Indra brought to- gether like A skin
 
 <details><summary>पदपाठः</summary>
 
-ओज॑ः। तत्। अ॒स्य॒। ति॒त्वि॒षे॒। उ॒भे इति॑। यत्। स॒म्ऽअव॑र्तयत्। इन्द्र॑ः। चर्म॑ऽइव। रोद॑सी॒ इति॑। १०७.२। 
+ओजः॑। तत्। अ॒स्य॒। ति॒त्वि॒षे॒। उ॒भे इति॑। यत्। स॒म्ऽअव॑र्तयत्। इन्द्रः॑। चर्म॑ऽइव। रोद॑सी॒ इति॑। १०७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

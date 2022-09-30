@@ -10,7 +10,7 @@ Come as home-guardians, saving us from foemen, guarding our living creatures and
 
 <details><summary>पदपाठः</summary>
 
-या॒तम्। छ॒र्दिःऽपौ। उ॒त। न॒ः। प॒र॒ःऽपा। भू॒तम्। ज॒ग॒त्ऽपौ। उ॒त। न॒ः। त॒नू॒ऽपा। व॒र्तिः। तो॒काय॑। तन॑याय। या॒त॒म्। १४१.१। 
+या॒तम्। छ॒र्दिःऽपौ। उ॒त। नः॒। प॒रः॒ऽपा। भू॒तम्। ज॒ग॒त्ऽपौ। उ॒त। नः॒। त॒नू॒ऽपा। व॒र्तिः। तो॒काय॑। तन॑याय। या॒त॒म्। १४१.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

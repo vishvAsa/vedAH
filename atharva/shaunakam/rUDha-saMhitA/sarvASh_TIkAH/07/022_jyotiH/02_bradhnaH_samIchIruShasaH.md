@@ -28,7 +28,7 @@ The Bright One hath sent forth the Dawns, a closely gathered band, Immaculate, u
 
 <details><summary>पदपाठः</summary>
 
-ब॒ध्नः। स॒मीची॑ः। उ॒षस॑ः। सम्। ऐ॒र॒य॒न्। अ॒रे॒पस॑ः। सऽचे॑तसः। स्वस॑रे। म॒न्यु॒मत्ऽत॑माः। चि॒ते। गोः। २३.२। 
+ब॒ध्नः। स॒मीचीः॑। उ॒षसः॑। सम्। ऐ॒र॒य॒न्। अ॒रे॒पसः॑। सऽचे॑तसः। स्वस॑रे। म॒न्यु॒मत्ऽत॑माः। चि॒ते। गोः। २३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

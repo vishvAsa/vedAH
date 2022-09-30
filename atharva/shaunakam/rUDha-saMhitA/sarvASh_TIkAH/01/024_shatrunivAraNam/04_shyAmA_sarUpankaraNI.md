@@ -27,7 +27,7 @@ Sama who gives one general hue was formed and fashioned from the earth: Further 
 
 <details><summary>पदपाठः</summary>
 
-श्या॒मा। स॒रू॒प॒म्ऽकर॑णी। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑ता। इ॒दम्। ऊं॒ इति॑। सु। प्र। सा॒ध॒य॒। पुन॑ः। रू॒पाणि॑। क॒ल्प॒य॒। 
+श्या॒मा। स॒रू॒प॒म्ऽकर॑णी। पृ॒थि॒व्याः। अधि॑। उत्ऽभृ॑ता। इ॒दम्। ऊं॒ इति॑। सु। प्र। सा॒ध॒य॒। पुनः॑। रू॒पाणि॑। क॒ल्प॒य॒। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

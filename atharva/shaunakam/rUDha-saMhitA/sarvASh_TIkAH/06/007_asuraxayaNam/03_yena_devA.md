@@ -25,7 +25,7 @@ sambhaktavantaḥ*. ⌊Ppp. has for **c** *tebhir na adhi vocata*.⌋
 
 <details><summary>पदपाठः</summary>
 
-येन॑। दे॒वा॒ः। असु॑राणाम्। ओजां॑सि। अवृ॑णीध्वम्। तेन॑। न॒ः। शर्म॑। य॒च्छ॒त॒। ७.३। 
+येन॑। दे॒वाः॒। असु॑राणाम्। ओजां॑सि। अवृ॑णीध्वम्। तेन॑। नः॒। शर्म॑। य॒च्छ॒त॒। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

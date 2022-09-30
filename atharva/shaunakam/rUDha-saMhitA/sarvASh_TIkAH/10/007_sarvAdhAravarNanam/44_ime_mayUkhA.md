@@ -27,7 +27,7 @@ These pegs have buttressed up the sky. The Samans have turned them into shuttles
 
 <details><summary>पदपाठः</summary>
 
-इ॒मे। म॒यूखा॑ः। उप॑। त॒स्त॒भु॒ः। दिव॑म्। सामा॑नि। च॒क्रु॒ः। तस॑राणि। वात॑वे। ७.४४। 
+इ॒मे। म॒यूखाः॑। उप॑। त॒स्त॒भुः॒। दिव॑म्। सामा॑नि। च॒क्रुः॒। तस॑राणि। वात॑वे। ७.४४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

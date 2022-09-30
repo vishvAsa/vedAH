@@ -10,7 +10,7 @@ With holy song they bind to the broad wide-yoked car the bay steeds of the rapid
 
 <details><summary>पदपाठः</summary>
 
-यु॒ञ्जन्ति। हरी॒ इति॑। इ॒षि॒रस्य॑। गाथ॑या। उ॒रौ। रथे॑। उ॒रुऽयु॑गे। इ॒न्द्र॒ऽवाहा॑। व॒च॒ःऽयुजा॑। १००.३। 
+यु॒ञ्जन्ति। हरी॒ इति॑। इ॒षि॒रस्य॑। गाथ॑या। उ॒रौ। रथे॑। उ॒रुऽयु॑गे। इ॒न्द्र॒ऽवाहा॑। व॒चः॒ऽयुजा॑। १००.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

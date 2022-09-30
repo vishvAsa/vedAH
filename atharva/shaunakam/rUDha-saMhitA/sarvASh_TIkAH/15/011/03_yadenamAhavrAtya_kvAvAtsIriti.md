@@ -19,7 +19,7 @@ When he says to his guest, Where didst thou pass the night? he reserves for hims
 
 <details><summary>पदपाठः</summary>
 
-यत्। ए॒न॒म्। आह॑। व्रात्य॑। क्व᳡। अ॒वा॒त्सी॒ः। इति॑। प॒थः। ए॒व। तेन॑। दे॒व॒ऽयाना॑न्। अव॑। रु॒न्ध्दे॒। ११.३। 
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। क्व᳡। अ॒वा॒त्सीः॒। इति॑। प॒थः। ए॒व। तेन॑। दे॒व॒ऽयाना॑न्। अव॑। रु॒न्ध्दे॒। ११.३। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>

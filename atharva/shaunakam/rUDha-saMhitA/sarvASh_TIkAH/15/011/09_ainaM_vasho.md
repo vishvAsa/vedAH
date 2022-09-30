@@ -22,6 +22,6 @@ Authority comes to him who possesses this knowledge, and he becomes the controll
 
 <details><summary>पदपाठः</summary>
 
-आ। ए॒न॒म्। वश॑ः। ग‌॒च्छ॒ति॒। व॒शी। व॒शिना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९। 
+आ। ए॒न॒म्। वशः॑। ग‌॒च्छ॒ति॒। व॒शी। व॒शिना॑म्। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। १०.९। 
 </details>
 

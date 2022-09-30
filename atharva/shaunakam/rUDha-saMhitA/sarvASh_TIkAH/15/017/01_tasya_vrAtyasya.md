@@ -18,7 +18,7 @@ His first diffused breath is this Earth.
 
 <details><summary>पदपाठः</summary>
 
-तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प्र॒थ॒मः। वि॒ऽआ॒नः। सा। इ॒यम्। भूमि॑ः। १७.१। 
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प्र॒थ॒मः। वि॒ऽआ॒नः। सा। इ॒यम्। भूमिः॑। १७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

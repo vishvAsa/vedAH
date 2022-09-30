@@ -10,7 +10,7 @@ Undecked with gems, and decked with gems:
 
 <details><summary>पदपाठः</summary>
 
-आम॑णक॒ः। मण॑त्सकः। १३०.९। 
+आम॑णकः॒। मण॑त्सकः। १३०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -21,7 +21,7 @@ Worship to thee springing to life, and worship unto thee when born! Worship, O C
 
 <details><summary>पदपाठः</summary>
 
-नम॑ः। ते॒। जाय॑मानायै। जा॒तायै॑। उ॒त। ते॒। नम॑ः। बाले॑भ्यः। श॒फेभ्य॑ः। रू॒पाय॑। अ॒घ्न्ये॒। ते॒। नम॑ः। १०.१। 
+नमः॑। ते॒। जाय॑मानायै। जा॒तायै॑। उ॒त। ते॒। नमः॑। बाले॑भ्यः। श॒फेभ्यः॑। रू॒पाय॑। अ॒घ्न्ये॒। ते॒। नमः॑। १०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
