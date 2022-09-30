@@ -10,7 +10,7 @@ From every member, every hair, disease that comes in every joint, From all thyse
 
 <details><summary>पदपाठः</summary>
 
-अस्थिभ्यः। ते। मज्जऽभ्यः। स्नावऽभ्यः। धमनिऽभ्यः। यक्ष्मम्। पाणिऽभ्याम्। अङ्गुलिऽभ्यः। नखेभ्यः। वि। वृहामि। ते। ९६.२२।
+अ॒स्थिभ्य॑ः। ते॒। म॒ज्जऽभ्य॑ः। स्नाव॑ऽभ्यः। ध॒मनि॑ऽभ्यः। यक्ष्म॑म्। पा॒णिऽभ्या॑म्। अ॒ङ्गुलि॑ऽभ्यः। न॒खेभ्य॑ः। वि। वृ॒हा॒मि॒। ते॒। ९६.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From every member, every hair, disease that comes in every joint, From all thyse
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

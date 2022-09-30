@@ -10,7 +10,7 @@ For your sake from each side we call Indra away from other men: Ours, and none o
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रम्। वः। विश्वतः। परि। हवामहे। जनेभ्यः। अस्माकम्। अस्तु। केवलः। ७०.१६।
+इन्द्र॑म्। व॒ः। वि॒श्वत॑ः। परि॑। हवा॑महे। जने॑भ्यः। अ॒स्माक॑म्। अ॒स्तु॒। केव॑लः। ७०.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ For your sake from each side we call Indra away from other men: Ours, and none o
 
 टिप्पणी:   यह मन्त्र आचुका है-अ० २०।३९।१ ॥  १६−अयं मन्त्रो व्याख्यातः-अ० २०।३९।१ ॥
 </details>
+

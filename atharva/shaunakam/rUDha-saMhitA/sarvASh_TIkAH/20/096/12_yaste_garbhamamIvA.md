@@ -10,7 +10,7 @@ Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of 
 
 <details><summary>पदपाठः</summary>
 
-यः। ते। गर्भम्। अमीवा। दुःऽनामा। योनिम्। आऽशये। अग्निः। तम्। ब्रह्मणा। सह। निः। क्रव्यऽअदम्। अनीनशत्। ९६.१२।
+यः। ते॒। गर्भ॑म्। अमी॑वा। दु॒ःऽनामा॑। योनि॑म्। आ॒ऽशये॑। अ॒ग्निः। तम्। ब्रह्म॑णा। स॒ह। निः। क्र॒व्य॒ऽअद॑म्। अ॒नी॒न॒श॒त्। ९६.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Agni, concurring in the prayer, drive off the eater of thy flesh, The malady of 
 
 टिप्पणी:   १२−(यः ते गर्भम्....) इत्यादयो गताः सुगमाश्च (निः) निःशेषेण (क्रव्यादम्) मांसभक्षकं रोगम् (अनीनशत्) नाशयतु ॥
 </details>
+

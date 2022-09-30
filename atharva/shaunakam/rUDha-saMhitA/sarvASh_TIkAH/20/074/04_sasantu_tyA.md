@@ -10,7 +10,7 @@ Hero, let hostile spirits sleep, and every gentler Genius wake: Do thou, O Indra
 
 <details><summary>पदपाठः</summary>
 
-ससन्तु। त्याः। अरातयः। बोधन्तु। शूर। रातयः। आ। तु। नः। इन्द्र। शंसय। गोषु। अश्वेषु। शुभ्रिषु। सहस्रेषु। तुविऽमघ। ७४.४।
+स॒सन्तु॑। त्याः। अरा॑तयः। बोध॑न्तु। शू॒र॒। रा॒तय॑ः। आ। तु। न॒ः। इ॒न्द्र॒। शं॒स॒य॒। गोषु॑। अश्वे॑षु। शु॒भ्रिषु॑। स॒हस्रे॑षु। तु॒वि॒ऽम॒घ॒। ७४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Hero, let hostile spirits sleep, and every gentler Genius wake: Do thou, O Indra
 
 टिप्पणी:   ४−(ससन्तु) शेरताम् (त्याः) ताः (अरातयः) अदानशीलाः शत्रुप्रजाः (बोधन्तु) जाग्रतु (शूर) हे वीर (रातयः) दातारः। अन्यद् गतम् ॥
 </details>
+

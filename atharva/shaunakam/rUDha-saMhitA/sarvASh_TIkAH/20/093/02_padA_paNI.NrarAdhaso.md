@@ -10,7 +10,7 @@ Crush with thy foot the niggard churls who bring no gifts. Might art thou: There
 
 <details><summary>पदपाठः</summary>
 
-पदा। पणीन्। अराधसः। नि। बाधस्व। महान्। असि। नहि। त्वा। कः। चन। प्रति। ९३.२।
+प॒दा। प॒णीन्। अ॒रा॒धस॑ः। नि। बा॒ध॒स्व॒। म॒हान्। अ॒सि॒। न॒हि। त्वा॒। कः। च॒न। प्रति॑। ९३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Crush with thy foot the niggard churls who bring no gifts. Might art thou: There
 
 टिप्पणी:   २−(पदा) पद गतौ स्थैर्ये च-क्विप्। गत्या। व्याप्त्या (पणीन्) कुव्यवहारिणः पुरुषान् (अराधसः) अराधसमनाराधयन्तम्-निरु० ।१७। अनाराधनाशीलान् (नि) नितराम् (बाधस्व) विलोडय। अपवृणु (महान्) (असि) (नहि) (कश्चन) कश्चिदपि (त्वा प्रति) त्वया सदृशः ॥
 </details>
+

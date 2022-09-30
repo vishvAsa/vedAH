@@ -10,7 +10,7 @@ Then, faring on by Indra's side, the fearless, let thyself be seen,. Both gracio
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रेण। सम्। हि। दृक्षसे। सम्ऽजग्मानः। अबिभ्युषा। मन्दू इति। समानऽवर्चसा। ७०.३।
+इन्द्रे॑ण। सम्। हि। दृक्ष॑से। स॒म्ऽज॒ग्मा॒नः। अबि॑भ्युषा। म॒न्दू इति॑। स॒मा॒नऽव॑र्चसा। ७०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Then, faring on by Indra's side, the fearless, let thyself be seen,. Both gracio
 
 टिप्पणी:   मन्त्र ३, ४ आचुके हैं-अथ० २०।४०।१, २ ॥  ३, ४-मन्त्रौ व्याख्यातौ अथ० २०।४०।१०२ ॥
 </details>
+

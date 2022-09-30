@@ -10,7 +10,7 @@ From thighs, from knee-caps, and from heels, and from the forepart of the feet, 
 
 <details><summary>पदपाठः</summary>
 
-आन्त्रेभ्यः। ते। गुदाभ्यः। वनिष्ठोः। उदरात्। अधि। यक्ष्मम्। कुक्षिऽभ्याम्। प्लाशेः। नाभ्याः। वि। वृहामि। ते। ९६.२०।
+आ॒न्त्रेभ्य॑ः। ते॒। गुदा॑भ्यः। व॒नि॒ष्ठोः। उ॒दरा॑त्। अधि॑। यक्ष्म॑म्। कु॒क्षिऽभ्या॑म्। प्ला॒शेः। नाभ्या॑ः। वि। वृ॒हा॒मि॒। ते॒। ९६.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From thighs, from knee-caps, and from heels, and from the forepart of the feet, 
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

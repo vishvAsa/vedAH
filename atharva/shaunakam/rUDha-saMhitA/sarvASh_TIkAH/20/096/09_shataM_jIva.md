@@ -10,7 +10,7 @@ Live waxing in thy strength a hundred autumns, live through a hundred springs, a
 
 <details><summary>पदपाठः</summary>
 
-शतम्। जीव। शरदः। वर्धमानः। शतम्। हेमन्तान्। शतम्। ऊं इति। वसन्तान्। शतम्। ते। इन्द्रः। अग्निः। सविता। बृहस्पतिः। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। ९६.९।
+श॒तम्। जी॒व॒। श॒रद॑ः। वर्ध॑मानः। श॒तम्। हे॒म॒न्तान्। श॒तम्। ऊं॒ इति॑। व॒स॒न्तान्। श॒तम्। ते॒। इन्द्र॑ः। अ॒ग्निः। स॒वि॒ता। बृह॒स्पति॑ः। श॒तऽआ॑युषा। ह॒वि॒षा॑। आ। अ॒हा॒र्ष॒म्। ए॒न॒म्। ९६.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Live waxing in thy strength a hundred autumns, live through a hundred springs, a
 
 टिप्पणी:   ६-९−व्याख्याताः-अ० ३।११।१-४ ॥
 </details>
+

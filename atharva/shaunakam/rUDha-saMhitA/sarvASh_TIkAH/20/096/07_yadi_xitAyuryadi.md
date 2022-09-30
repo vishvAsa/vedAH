@@ -10,7 +10,7 @@ Be his days ended, be he how departed, be he brought very near to death already,
 
 <details><summary>पदपाठः</summary>
 
-यदि। क्षितऽआयुः। यदि। वा। पराऽइतः। यदि। मृत्योः। अन्तिकम्। निऽइतः। एव। तम्। आ। हरामि। निःऽऋतेः। उपऽस्थात्। अस्पार्शम्। एनम्। शतऽशारदाय। ९६.७।
+यदि॑। क्षि॒तऽआ॑युः। यदि॑। वा॒। परा॑ऽइतः। यदि॑। मृ॒त्योः। अ॒न्ति॒कम्। नि॒ऽइ॑तः। ए॒व। तम्। आ। ह॒रा॒मि॒। निःऽऋ॑तेः। उ॒पऽस्था॑त्। अस्पा॑र्शम्। ए॒न॒म्। श॒तऽशा॑रदाय। ९६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Be his days ended, be he how departed, be he brought very near to death already,
 
 टिप्पणी:   ७−(अस्पार्शम्) स्पृष्टवानस्मि। अन्यद् गतम् ॥
 </details>
+

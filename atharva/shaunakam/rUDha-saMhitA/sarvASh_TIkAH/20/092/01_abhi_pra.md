@@ -10,7 +10,7 @@ Praise, even as he is known, with song Indra the guardian of the kine, The Son o
 
 <details><summary>पदपाठः</summary>
 
-अभि। प्र। गोऽपतिम्। गिरा। इन्द्रम्। अर्च। यथा। विदे। सूनुम्। सत्यस्य। सत्ऽपतिम्। ९२.१।
+अ॒भि। प्र। गोऽप॑तिम्। गि॒रा। इन्द्र॑म्। अ॒र्च॒। यथा॑। वि॒दे। सू॒नुम्। स॒त्यस्य॑। सत्ऽप॑तिम्। ९२.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Praise, even as he is known, with song Indra the guardian of the kine, The Son o
 
 टिप्पणी:   मन्त्र १-१। ऋग्वेद में है-८।६९ [सायणभाष्य ८]। ४-१८। मन्त्र १-३ आचुके हैं- अथर्व० २०।२२।४-६ ॥  १-३ व्याख्याताः-अ० २०।२२।४-६ ॥
 </details>
+

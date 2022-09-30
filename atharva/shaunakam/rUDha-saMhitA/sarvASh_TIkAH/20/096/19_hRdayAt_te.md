@@ -10,7 +10,7 @@ From viscera and all within, forth from the rectum, from the heart, From kidneys
 
 <details><summary>पदपाठः</summary>
 
-हृदयात्। ते। परि। क्लोम्नः। हलीक्ष्णात्। पार्श्वाभ्याम्। यक्ष्मम्। मतस्नाभ्याम्। प्लीह्नः। यक्नः। ते। वि। वृहामसि। ९६.१९।
+हृद॑यात्। ते॒। परि॑। क्लो॒म्नः। हली॑क्ष्णात्। पा॒र्श्वाभ्या॑म्। यक्ष्म॑म्। मत॑स्नाभ्याम्। प्ली॒ह्नः। य॒क्नः। ते॒। वि। वृ॒हा॒म॒सि॒। ९६.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From viscera and all within, forth from the rectum, from the heart, From kidneys
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

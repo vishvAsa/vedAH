@@ -10,7 +10,7 @@ Yea, by superior play he wins advantage when he, a gambler, piles his gains in s
 
 <details><summary>पदपाठः</summary>
 
-उत। प्रऽहाम्। अतिऽदीवा। जयति। कृतम्ऽइव। श्वघ्नी। वि। चिनोति। काले। यः। देवऽकामः। न। धनम्। रुणध्दि। सम्। इत्। तम्। रायः। सृजति। स्वधाभिः। ८९.९।
+उ॒त। प्र॒ऽहाम्। अति॑ऽदीवा। ज॒य॒ति॒। कृ॒तम्ऽइ॑व। श्व॒घ्नी। वि। चि॒नो॒ति॒। का॒ले। यः। दे॒वऽका॑मः। न। धन॑म्। रु॒णध्दि॑। सम्। इत्। तम्। रा॒यः। सृ॒ज॒ति॒। स्व॒धाभि॑ः। ८९.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Yea, by superior play he wins advantage when he, a gambler, piles his gains in s
 
 टिप्पणी:   मन्त्र ९, १० आ चुके हैं-अ० ७।०।६।७ ॥  ९−मन्त्रौ ९, १० व्याख्यातौ-अ० ७।०।६, ७ ॥
 </details>
+

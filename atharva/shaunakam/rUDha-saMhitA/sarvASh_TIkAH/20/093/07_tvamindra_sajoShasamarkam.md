@@ -10,7 +10,7 @@ Thou, Indra, bearest in thine arms the lightning that accords with thee, Whettin
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। इन्द्र। सऽजोषसम्। अर्कम्। ब᳡ देव॒यज॑निभर्षि। बाह्वोः। वज्रम्। शिशानः। ओजसा। ९३.७।
+त्वम्। इ॒न्द्र॒। स॒ऽजोष॑सम्। अ॒र्कम्। ब‍ि॒भ॒र्षि॒। बा॒ह्वोः। वज्र॑म्। शिशा॑नः। ओज॑सा। ९३.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thou, Indra, bearest in thine arms the lightning that accords with thee, Whettin
 
 टिप्पणी:   ७−(त्वम्) (इन्द्र) परमैश्वर्यवन् परमात्मन् (सजोषसम्) प्रीत्या विचारेण वा सह वर्तमानम् (अर्कम्) पूजनीयं पण्डितम् (बिभर्षि) धारयसि (बाह्वोः) भुजयोः (वज्रम्) (शिशानः) निश्यन्। तीक्ष्णीकुर्वन् (ओजसा) पराक्रमेण ॥७॥
 </details>
+

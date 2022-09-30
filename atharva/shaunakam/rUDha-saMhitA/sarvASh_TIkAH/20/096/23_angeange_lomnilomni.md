@@ -10,7 +10,7 @@ Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destructi
 
 <details><summary>पदपाठः</summary>
 
-अङ्गेऽअङ्गे। लोम्निऽलोम्नि। ते। पर्वणिऽपर्वणि। यक्ष्मम्। त्वचस्यम्। ते। वयम्। कश्यपस्य। विऽबर्हेण। विष्वञ्चम्। वि। वृहामसि। ९६.२३।
+अङ्गे॑ऽअङ्गे। लोम्नि॑ऽलोम्नि। ते॒। पर्व॑णिऽपर्व॑णि। यक्ष्म॑म्। त्व॒च॒स्य॑म्। ते॒। व॒यम्। क॒श्यप॑स्य। वि॒ऽब॒र्हेण॑। वि॒ष्व॑ञ्चम्। वि। वृहा॒म॒सि॒। ९६.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Avaunt, thou Master of the Mind, I Depart and vanish far away. Look on Destructi
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

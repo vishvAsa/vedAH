@@ -10,7 +10,7 @@ He, excellent, withholdeth not his gift of power and wealth in kine, When he hat
 
 <details><summary>पदपाठः</summary>
 
-न। च। वसुः। नि। यमते। दानम्। वाजस्य। गोऽमतः। यत्। सीम्। उप। श्रवत्। गिरः। ७८.२।
+न। च॒। वसु॑ः। नि। य॒म॒ते॒। दा॒नम्। वाज॑स्य। गोऽम॑तः। यत्। सी॒म्। उप॑। श्रव॑त्। गिर॑ः। ७८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ He, excellent, withholdeth not his gift of power and wealth in kine, When he hat
 
 टिप्पणी:   २−(न) निषेधे (घ) एव (वसुः) वासयिता (नि) नितराम् (यमते) यमु उपरमे। उपरतं निरुद्धं कुर्यात् (दानम्) (वाजस्य) बलस्य (गोमतः) प्रशस्तविद्यायुक्तस्य (यत्) यदा (सीम्) सर्वतः (उप) समीपे (श्रवत्) शृणुयात् (गिरः) वाणीः ॥
 </details>
+

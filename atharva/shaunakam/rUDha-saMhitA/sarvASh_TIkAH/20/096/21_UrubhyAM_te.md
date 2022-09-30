@@ -10,7 +10,7 @@ From what is voided from within, and from thy hair, and from thy nails, From all
 
 <details><summary>पदपाठः</summary>
 
-ऊरुऽभ्याम्। ते। अष्ठीवत्ऽभ्याम्। पार्ष्णिऽभ्याम्। प्रऽपदाभ्याम्। यक्ष्मम्। भसद्यम्। श्रोणिऽभ्याम्। भासदम्। भंससः। वि। वृहामि। ते। ९६.२१।
+ऊ॒रुऽभ्या॑म्। ते॒। अ॒ष्ठी॒वत्ऽभ्या॑म्। पार्ष्णि॑ऽभ्याम्। प्रऽप॑दाभ्याम्। यक्ष्म॑म्। भ॒स॒द्य॑म्। श्रोणि॑ऽभ्याम्। भास॑दम्। भंस॑सः। वि। वृ॒हा॒मि॒। ते॒। ९६.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From what is voided from within, and from thy hair, and from thy nails, From all
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

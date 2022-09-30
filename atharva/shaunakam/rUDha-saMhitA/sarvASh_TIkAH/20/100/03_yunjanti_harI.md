@@ -10,7 +10,7 @@ With holy song they bind to the broad wide-yoked car the bay steeds of the rapid
 
 <details><summary>पदपाठः</summary>
 
-युञ्जन्ति। हरी इति। इषिरस्य। गाथया। उरौ। रथे। उरुऽयुगे। इन्द्रऽवाहा। वचःऽयुजा। १००.३।
+यु॒ञ्जन्ति। हरी॒ इति॑। इ॒षि॒रस्य॑। गाथ॑या। उ॒रौ। रथे॑। उ॒रुऽयु॑गे। इ॒न्द्र॒ऽवाहा॑। व॒च॒ःऽयुजा॑। १००.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ With holy song they bind to the broad wide-yoked car the bay steeds of the rapid
 
 टिप्पणी:   ३−(युञ्जन्ति) योजयन्ति (हरी) अश्वौ (इषिरस्य) शीघ्रगामिनो राज्ञः (गाथया) गायनीयया प्रशंसया (उरौ) महति (रथे) याने (उरुयुगे) महायुगयुक्ते (इन्द्रवाहा) इन्द्रस्य वोढारौ (वचोयुजा) वचनेन युज्यमानौ। सुशिक्षितौ ॥
 </details>
+

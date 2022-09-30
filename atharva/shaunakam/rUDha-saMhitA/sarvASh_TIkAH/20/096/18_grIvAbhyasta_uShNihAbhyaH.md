@@ -10,7 +10,7 @@ From the neck-tendons and the neck, from the breast-bones and from the spine, Fr
 
 <details><summary>पदपाठः</summary>
 
-ग्रीवाभ्यः। ते। उष्णिहाभ्यः। कीकसाभ्यः। अनूक्यात्। यक्ष्मम्। दोषण्यम्। अंसाभ्याम्। बाहुऽभ्याम्। वि। वृहामि। ते। ९६.१८।
+ग्री॒वाभ्य॑ः। ते॒। उ॒ष्णिहा॑भ्यः। कीक॑साभ्यः। अ॒नू॒क्या॑त्। यक्ष्म॑म्। दो॒ष॒ण्य॑म्। अंसा॑भ्याम्। बा॒हुऽभ्या॑म्। वि। वृ॒हा॒मि॒। ते॒। ९६.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From the neck-tendons and the neck, from the breast-bones and from the spine, Fr
 
 टिप्पणी:   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

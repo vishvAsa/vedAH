@@ -10,7 +10,7 @@ Brihaspati protect us from the rearward, and from above, and from below, from si
 
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिः। नः। परि। पातु। पश्चात्। उत। उत्ऽतरस्मात्। अधरात्। अघऽयोः। इन्द्रः। पुरस्तात्। उत। मध्यतः। नः। सखा। सख᳡ देव॒यज॑निऽभ्यः। वरिवः। कृणोतु। ९४.११।
+बृह॒स्पति॑ः। न॒ः। परि॑। पा॒तु॒। प॒श्चात्। उ॒त। उत्ऽत॑रस्मात्। अध॑रात्। अ॒घ॒ऽयोः। इन्द्र॑ः। पु॒रस्ता॑त्। उ॒त। म॒ध्य॒तः। न॒ः। सखा॑। सख‍ि॑ऽभ्यः। वरि॑वः। कृ॒णो॒तु॒। ९४.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Brihaspati protect us from the rearward, and from above, and from below, from si
 
 टिप्पणी:   १०, ११−मन्त्रौ व्याख्यातौ-अ० २०।१७।१०, ११ ॥
 </details>
+

@@ -10,7 +10,7 @@ For Indra thunder-armed the kine have yielded mingled milk and meath. What time 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्राय। गावः। आऽशिरम्। दुदुह्रे। वज्रिणे। मधु। यत्। सीम्। उपऽह्वरे। विदत्। ९२.३।
+इन्द्रा॑य। गाव॑ः। आ॒ऽशिर॑म्। दु॒दु॒ह्रे। व॒ज्रिणे॑। मधु॑। यत्। सी॒म्। उ॒प॒ऽह्व॒रे। वि॒दत्। ९२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ For Indra thunder-armed the kine have yielded mingled milk and meath. What time 
 
 टिप्पणी:   १-३ व्याख्याताः-अ० २०।२२।४-६ ॥
 </details>
+

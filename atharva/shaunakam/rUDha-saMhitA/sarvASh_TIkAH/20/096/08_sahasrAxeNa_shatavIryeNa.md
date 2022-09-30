@@ -10,7 +10,7 @@ With thousand-eyed oblation, hundred-autumned, bringing a hundred lives, have re
 
 <details><summary>पदपाठः</summary>
 
-सहस्रऽअक्षेण। शतऽवीर्येण। शतऽआयुषा। हविषा। आ। अहार्षम्। एनम्। इन्द्रः। यथा। एनम्। शरदः। नयाति। अति। विश्वस्य। दुःऽइतस्य। पारम्। ९६.८।
+स॒ह॒स्र॒ऽअ॒क्षेण॑। श॒तऽवी॑र्येण। श॒तऽआ॑युषा। ह॒विषा॑। आ। अ॒हा॒र्ष॒म्। ए॒न॒म्। इन्द्र॑ः। यथा॑। ए॒न॒म्। श॒रद॑ः। नया॑ति। अति॑। विश्व॑स्य। दु॒ःऽइ॒तस्य॑। पा॒रम्। ९६.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ With thousand-eyed oblation, hundred-autumned, bringing a hundred lives, have re
 
 टिप्पणी:   ६-९−व्याख्याताः-अ० ३।११।१-४ ॥
 </details>
+

@@ -10,7 +10,7 @@ O Indra, if a hundred heavens and if a hundred earths were thine No, not a thous
 
 <details><summary>पदपाठः</summary>
 
-यत्। द्यावः। इन्द्र। ते। शतम्। शतम्। भूमीः। उत। स्युरिति स्युः। न। त्वा। वज्रिन्। सहस्रम्। सूर्याः। अनु। न। जातम्। अष्ट। रोदसी इति। ९२.२०।
+यत्। द्याव॑ः। इ॒न्द्र॒। ते॒। श॒तम्। श॒तम्। भूमी॑ः। उ॒त। स्युरिति॒ स्युः। न। त्वा॒। व॒ज्रि॒न्। स॒हस्र॑म्। सूर्या॑ः। अनु॑। न। जा॒तम्। अ॒ष्ट॒। रोद॑सी॒ इति॑। ९२.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ O Indra, if a hundred heavens and if a hundred earths were thine No, not a thous
 
 टिप्पणी:   मन्त्र २०, २१ आचुके हैं-अ० २०।८१।१, २ ॥  २०, २१−व्याख्यातौ-अ० २०।८१।१, २ ॥
 </details>
+

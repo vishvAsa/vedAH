@@ -10,7 +10,7 @@ Thou, Hero, hast performed thy hero deeds with might, yea, all with strength, O 
 
 <details><summary>पदपाठः</summary>
 
-आ। पप्राथ। महिना। वृष्ण्या। वृषन्। विश्वा। शविष्ठ। शवसा। अस्मान्। अव। मघऽवन्। गोऽमति। व्रजे। वज्रिन्। चित्राभिः। ऊतिऽभिः। ९२.२१।
+आ। प॒प्रा॒थ॒। म॒हि॒ना। वृष्ण्या॑। वृ॒ष॒न्। विश्वा॑। श॒वि॒ष्ठ॒। शव॑सा। अ॒स्मान्। अ॒व॒। म॒घ॒ऽव॒न्। गोऽम॑ति। व्र॒जे। वज्रि॑न्। चि॒त्राभि॑ः। ऊ॒तिऽभि॑ः। ९२.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thou, Hero, hast performed thy hero deeds with might, yea, all with strength, O 
 
 टिप्पणी:   मन्त्र २०, २१ आचुके हैं-अ० २०।८१।१, २ ॥  २०, २१−व्याख्यातौ-अ० २०।८१।१, २ ॥
 </details>
+

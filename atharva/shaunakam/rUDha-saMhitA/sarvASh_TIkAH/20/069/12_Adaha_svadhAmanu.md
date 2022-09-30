@@ -10,7 +10,7 @@ Thereafter they, as is their wont, threw off the state of babes urborn, Taking t
 
 <details><summary>पदपाठः</summary>
 
-आत्। अह। स्वधाम्। अनु। पुनः। गर्भऽत्वम्। आऽईरिरे। दधानाः। नाम। यज्ञियम्। ६९.१२।
+आत्। अह॑। स्व॒धाम्। अनु॑। पुन॑ः। ग॒र्भ॒ऽत्वम्। आ॒ऽई॒रि॒रे। दधा॑नाः। नाम॑। य॒ज्ञिय॑म्। ६९.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thereafter they, as is their wont, threw off the state of babes urborn, Taking t
 
 टिप्पणी:   यह मन्त्र, आचुका है-अ० २०।४०।३ ॥  १२-अयं मन्त्रो व्याख्यातः-अ० २०।४०।३ ॥
 </details>
+

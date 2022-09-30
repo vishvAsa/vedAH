@@ -10,7 +10,7 @@ Indra hath raisedjthe Sun on high in heaven, that he may see afar: He burst the 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। दीर्घाय। चक्षसे। आ। सूर्यम्। रोहयत्। दिवि। वि। गोभिः। अद्रिम्। ऐरयत्। ७०.९।
+इन्द्र॑ः। दी॒र्घाय॑। चक्ष॑से। आ। सूर्य॑म्। रो॒ह॒य॒त्। दि॒वि। वि। गोभि॑ः। अद्रि॑म्। ऐ॒र॒य॒त्। ७०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra hath raisedjthe Sun on high in heaven, that he may see afar: He burst the 
 
 टिप्पणी:   ७-९−एते मन्त्रा आगताः-अथ० २०।३८।४-६ तथा ४७।४-६ ॥
 </details>
+

@@ -10,7 +10,7 @@ From both thy nostrils, from thine eyes, from both thine ears and from thy chin,
 
 <details><summary>पदपाठः</summary>
 
-अक्षीभ्याम्। ते। नासिकाभ्याम्। कर्णाभ्याम्। छुबुकात्। अधि। यक्ष्मम्। शीर्षण्यम्। मस्तिष्कात्। जिह्वायाः। वि। वृहामि। ते। ९६.१७।
+अ॒क्षीभ्या॑म्। ते॒। नासि॑काभ्याम्। कर्णा॑भ्याम्। छुबु॑कात्। अधि॑। यक्ष्म॑म्। शी॒र्ष॒ण्य॑म्। म॒स्तिष्का॑त्। जि॒ह्वाया॑ः। वि। वृ॒हा॒मि॒। ते॒। ९६.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From both thy nostrils, from thine eyes, from both thine ears and from thy chin,
 
 टिप्पणी:   मन्त्र १७-२३ आ चुके हैं-अ० २।३३।१-७ ॥   १७-२३−व्याख्याताः-अ० २।३३।१-७ ॥
 </details>
+

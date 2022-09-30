@@ -10,7 +10,7 @@ O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-inv
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। क्रतुम्। नः। आ। भर। पिता। पुत्रेभ्यः। यथा। शिक्ष। नः। अस्मिन्। पुरुऽहूत। यामनि। जीवाः। ज्योतिः। अशीमह᳡ देव॒यज॑नि। ७९.१।
+इन्द्र॑। क्रतु॑म्। न॒ः। आ। भ॒र॒। पि॒ता। पु॒त्रेभ्य॑ः। यथा॑। शिक्ष॑। न॒ः। अ॒स्मिन्। पु॒रु॒ऽहू॒त॒। याम॑नि। जी॒वाः। ज्योति॑ः। अ॒शी॒म॒ह‍ि॒। ७९.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ O Indra, give us wisdom as a sire gives wisdom to his sons. Guide us, O Much-inv
 
 टिप्पणी:   मन्त्र १ आचुका है-अ० १८।३।६७ ॥  १−अयं मन्त्रो व्याख्यातः- अ० १८।३।६७ ॥
 </details>
+

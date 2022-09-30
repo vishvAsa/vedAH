@@ -10,7 +10,7 @@ So have I found and rescued thee: thou hast returned with youth renewed. Whole i
 
 <details><summary>पदपाठः</summary>
 
-आ। आहार्षम्। अविदम्। त्वा। पुनः। आ। अगाः। पुनःऽनवः। सर्वऽअङ्ग। सर्वम्। ते। चक्षुः। सर्व। आयुः। च। ते। अविदम्। ९६.१०।
+आ। आ॒हा॒र्ष॒म्। अवि॑दम्। त्वा॒। पुन॑ः। आ। अ॒गा॒ः। पुन॑ःऽनवः। सर्व॑ऽअङ्ग। सर्व॑म्। ते॒। चक्षु॑ः। सर्व॑। आयु॑ः। च॒। ते॒। अ॒वि॒द॒म्। ९६.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ So have I found and rescued thee: thou hast returned with youth renewed. Whole i
 
 टिप्पणी:   यह मन्त्र आचुका है-अ० ८।१।२० ॥  १०−अयं व्याख्यातः-अ० ८।१।२० ॥
 </details>
+

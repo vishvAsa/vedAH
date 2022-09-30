@@ -10,7 +10,7 @@ Indra hath ever close to him his two bay steeds and word-yoked car, Indra the go
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। इत्। हर्योः। सचा। सम्ऽमिश्लः। आ। वचः। युजा। इन्द्रः। वज्री। हिरण्ययः। ७.८।
+इन्द्र॑ः। इत्। हर्यो॑ः। सचा॑। सम्ऽमि॑श्लः। आ। व॒च॒ः। युजा॑। इन्द्र॑ः। व॒ज्री। हि॒र॒ण्यय॑ः। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra hath ever close to him his two bay steeds and word-yoked car, Indra the go
 
 टिप्पणी:   ७-९−एते मन्त्रा आगताः-अथ० २०।३८।४-६ तथा ४७।४-६ ॥
 </details>
+
