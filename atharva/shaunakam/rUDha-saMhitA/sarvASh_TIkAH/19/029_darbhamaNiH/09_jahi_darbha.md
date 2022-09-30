@@ -18,7 +18,7 @@ Slay thou my rivals. Darbha, slay the men who fain would fight with me. Slay all
 
 <details><summary>पदपाठः</summary>
 
-जहि। दर्भ। सऽपत्नान्। मे। जहि। मे। पृतनाऽयतः। जहि। मे। सर्वान्। दुःऽहार्दः। जहि। मे। द्विषतः। मणे। २९.९।
+ज॒हि॒। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। ज॒हि। मे॒। पृ॒त॒ना॒ऽय॒तः। ज॒हि। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। ज॒हि। मे॒। द्वि॒ष॒तः। म॒णे॒। २९.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Slay thou my rivals. Darbha, slay the men who fain would fight with me. Slay all
 
 टिप्पणी:   ९−(जहि) हन हिंसागत्योः। नाशय ॥
 </details>
+

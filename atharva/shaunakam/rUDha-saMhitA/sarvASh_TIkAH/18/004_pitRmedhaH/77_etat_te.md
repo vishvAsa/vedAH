@@ -36,7 +36,7 @@ To thee, O Fathers, be this cry of Hail!
 
 <details><summary>पदपाठः</summary>
 
-एतत्। ते। तत। स्वधा। ४.७७।
+ए॒तत्। ते॒। त॒त॒। स्व॒धा। ४.७७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -66,3 +66,4 @@ To thee, O Fathers, be this cry of Hail!
 
 टिप्पणी:   ७७−(तत) म० ७५ हे पिता।अन्यत् पूर्ववत् ॥
 </details>
+

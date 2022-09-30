@@ -10,7 +10,7 @@ Celestial, bounteous Giver, God, with power and might, rich, mountain-like, in p
 
 <details><summary>पदपाठः</summary>
 
-द्युक्षम्। सुऽदानुम्। ताविषीभिः। आऽवृतम्। गिरिम्। न। पुरुऽभोजसम्। क्षुऽमन्तम्। वाजम्। शतिनम्। सहस्रिणम्। मक्षु। गोऽमन्तम्। ईमहे। ४९.५।
+द्यु॒क्षम्। सु॒ऽदानु॑म्। तावि॑षीभिः। आऽवृ॑तम्। गि॒रिम्। न। पु॒रु॒ऽभोज॑सम्। क्षु॒ऽमन्त॑म्। वाज॑म्। श॒तिन॑म्। स॒ह॒स्रिण॑म्। म॒क्षु॒। गोऽम॑न्तम्। ई॒म॒हे॒। ४९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Celestial, bounteous Giver, God, with power and might, rich, mountain-like, in p
 
 टिप्पणी:   ४-७−एते मन्त्रा व्याख्याताः-अ० २०।९।१-४ ॥
 </details>
+

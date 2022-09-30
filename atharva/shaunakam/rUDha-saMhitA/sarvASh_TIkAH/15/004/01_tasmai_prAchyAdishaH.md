@@ -29,7 +29,7 @@ For him they made the two Spring months protectors from the eastern region, and 
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। प्राच्याः। दिशः। ४.१।
+तस्मै॑। प्राच्या॑ः। दि॒शः। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

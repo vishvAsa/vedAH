@@ -21,7 +21,7 @@ They brought the couch for that Vratya.
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। व्रात्याय। आऽसन्दीम्। सम्। अभरन्। ३.३।
+तस्मै॑। व्रात्या॑य। आ॒ऽस॒न्दीम्। सम्। अ॒भ॒र॒न्। ३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

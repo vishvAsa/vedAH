@@ -10,7 +10,7 @@ Hither with songs of praise we call Indra to drink the Soma. juice: Will he not 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रम्। सोमस्य। पीतये। स्तोमैः। इह। हवामहै। उक्थेभिः। कुवित्। आऽगमत्। २४.४।
+इन्द्र॑म्। सोम॑स्य। पी॒तये॑। स्तोमै॑ः। इ॒ह॒। ह॒वा॒म॒है॒। उ॒क्थेभि॑ः। कु॒वित्। आ॒ऽगम॑त्। २४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Hither with songs of praise we call Indra to drink the Soma. juice: Will he not 
 
 टिप्पणी:   ४−(इन्द्रम्) परमैश्वर्यवन्तं पुरुषम् (सोमस्य) महौषधिरसस्य (पीतये) पानाय (स्तोमैः) स्तोत्रैः (इह) अत्र (हवामहे) आह्वयामः (उक्थेभिः) कथनीयोपदेशैः (कुवित्) म० २। बहुवारम् (आगमत्) गमेर्लेटि अडागमः। आगच्छेत् ॥
 </details>
+

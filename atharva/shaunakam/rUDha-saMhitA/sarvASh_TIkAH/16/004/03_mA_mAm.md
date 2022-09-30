@@ -25,7 +25,7 @@ Let not inward breath desert me; let not outward breath depart and leave me.
 
 <details><summary>पदपाठः</summary>
 
-मा। माम्। प्राणः। हासीत्। मो इति। अपानः। अवऽहाय। परा। गात्। ४.३।
+मा। माम्। प्रा॒णः। हा॒सी॒त्। मो इति॑। अ॒पा॒नः। अ॒व॒ऽहाय॑। परा॑। गात्। ४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,3 +55,4 @@ Let not inward breath desert me; let not outward breath depart and leave me.
 
 टिप्पणी:   ३−(मा हासीत्) मा त्यजेत् (माम्)प्राणिनम् (प्राणः) श्वासः (मो) न च (अपानः) प्रश्वासः (अवहाय) परित्यज्य (परागात्) दूरे गच्छतु ॥
 </details>
+

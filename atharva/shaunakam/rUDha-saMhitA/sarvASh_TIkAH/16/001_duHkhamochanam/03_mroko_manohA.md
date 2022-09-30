@@ -26,7 +26,7 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 
 <details><summary>पदपाठः</summary>
 
-म्रोकः। मनःऽहा। खनः। निःऽदाहः। आत्मऽदूषिः। तनूऽदूषिः। १.३।
+म्रो॒कः। म॒न॒ःऽहा। ख॒नः। नि॒ःऽदा॒हः। आ॒त्म॒ऽदूषि॑ः। त॒नू॒ऽदूषि॑ः। १.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,3 +56,4 @@ Mroka, mind-destroying, rooting up, consuming, ruiner of the soul, ruiner of the
 
 टिप्पणी:   ३−(म्रोकः) म्रुचु गतौवेदे तु हिंसने-घञ्, कुत्वम्। हिंसकः (मनोहा) मनोनाशकः (खनः) खनु विदारणे-अच्।विदारकः। पीडकः (निर्दाहः) निरन्तरदाहकः (आत्मदूषिः) आत्मदूषको रोगः (तनूदूषिः)शरीरदूषकः ॥
 </details>
+

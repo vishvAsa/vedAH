@@ -16,7 +16,7 @@ Right and Truth and Sun and Moon and Stars followed him.
 
 <details><summary>पदपाठः</summary>
 
-तम्। ऋतम्। च। सत्यम्। च। सूर्यः। च। चन्द्रः। च। नक्षत्राणि। च। अनुऽव्य᳡चलन्। । ६.५।
+तम्। ऋ॒तम्। च॒। स॒त्यम्। च॒। सूर्य॑ः। च॒। च॒न्द्रः। च॒। नक्ष॑त्राणि। च॒। अ॒नु॒ऽव्य᳡चलन्। । ६.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

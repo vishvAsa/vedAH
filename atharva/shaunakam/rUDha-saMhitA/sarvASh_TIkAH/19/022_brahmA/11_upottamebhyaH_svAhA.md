@@ -18,7 +18,7 @@ To the penultimates, Hail.
 
 <details><summary>पदपाठः</summary>
 
-उपऽउत्तमेभ्यः। स्वाहा। २२.११।
+उ॒प॒ऽउ॒त्त॒मेभ्यः॑। स्वाहा॑। २२.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To the penultimates, Hail.
 
 टिप्पणी:   ११−(उपोत्तमेभ्यः) श्रेष्ठानां समीपवर्तिभ्यो ब्रह्मचार्यादिभ्यः ॥
 </details>
+

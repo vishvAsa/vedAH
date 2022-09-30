@@ -18,7 +18,7 @@ Who knows that Aditya is Royalty and that Heaven is Indra.
 
 <details><summary>पदपाठः</summary>
 
-यः। आदित्यम्। अन्नम्। दिवम्। इन्द्रम्। वेद। १०.११।
+यः। आ॒दि॒त्यम्। अ॒न्नम्। दिव॑म्। इन्द्र॑म्। वेद॑। १०.११। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -40,3 +40,4 @@ Who knows that Aditya is Royalty and that Heaven is Indra.
 
 टिप्पणी:   ११−(यः) पुरुषः (आदित्यम्) सूर्यवत्तेजोमयम् (क्षत्रम्) क्षत्रियकुलम् (दिवम्) दिवु द्युतौ गतौच-डिवि। दीप्यमानां राजनीतिम् (इन्द्रम्) ऐश्वर्यम् (वेद) जानाति ॥
 </details>
+

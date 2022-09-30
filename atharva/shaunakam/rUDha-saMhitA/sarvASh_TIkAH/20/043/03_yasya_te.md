@@ -10,7 +10,7 @@ Great riches which the world of men shall recognize as sent by thee: Bring us th
 
 <details><summary>पदपाठः</summary>
 
-यस्य। ते। विश्वऽमानुषः। भूरेः। दत्तस्य। वेदति। वसु। स्पार्हम्। तत्। आ। भर। ४३.३।
+यस्य॑। ते॒। वि॒श्वऽमा॑नुषः। भूरे॑ः। द॒त्तस्य॑। वेद॑ति। वसु॑। स्पा॒र्हम्। तत्। आ। भ॒र॒। ४३.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Great riches which the world of men shall recognize as sent by thee: Bring us th
 
 टिप्पणी:   ३−(यस्य) (ते) तव (विश्वमानुषः) विश्वस्य संसारस्य प्रत्येकमनुष्यः (भूरेः) प्रभूतस्य (दत्तस्य) दानस्य (वेदति) लेटि रूपम्। ज्ञानं कुर्यात्। अन्यत् पूर्ववत् ॥
 </details>
+

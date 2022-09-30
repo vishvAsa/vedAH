@@ -30,7 +30,7 @@ He should serve him with food saying to himself, To this Deity I offer water: I 
 
 <details><summary>पदपाठः</summary>
 
-ये। पुण्यानाम्। पुण्याः। लोकाः। तान्। एव। तेन। अव। रुन्ध्दे। १३.८।
+ये। पुण्या॑नाम्। पुण्या॑ः। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.८। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -52,3 +52,4 @@ He should serve him with food saying to himself, To this Deity I offer water: I 
 
 टिप्पणी:   ७, ८−(पुण्यानाम्)पवित्रजनानाम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

@@ -25,7 +25,7 @@ Signs of good fortune mark the bride. Come all of you and look at her. Wish her 
 
 <details><summary>पदपाठः</summary>
 
-सुऽमङ्गली। इयम्। वधूः। इमाम्। सम्ऽएत। पश्यत। सौभाग्यम्। अस्यै। दत्त्वा। दौःऽभाग्यैः। विऽपरेतन। २.२८।
+सु॒ऽम॒ङ्ग॒ली। इ॒यम्। व॒धूः। इ॒माम्। स॒म्ऽएत॑। पश्य॑त। सौभा॑ग्यम्। अ॒स्यै। द॒त्त्वा। दौःऽभा॑ग्यैः। वि॒ऽपरे॑तन। २.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -24,7 +24,7 @@ Worship to him when he is turning westward, to him when set- ting, and when set 
 
 <details><summary>पदपाठः</summary>
 
-अस्तम्ऽयते। नमः। अस्तम्ऽएष्यते। नमः। अस्तम्ऽइताय। नमः। विऽराजे। नमः। स्वऽराजे। नमः। सम्ऽराजे। नमः। १.२३।
+अ॒स्त॒म्ऽय॒ते। नम॑ः। अ॒स्त॒म्ऽए॒ष्य॒ते। नम॑ः। अस्त॑म्ऽइताय। नम॑ः। वि॒ऽराजे॑। नम॑ः। स्व॒ऽराजे॑। नम॑ः। स॒म्ऽराजे॑। नम॑ः। १.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,3 +54,4 @@ Worship to him when he is turning westward, to him when set- ting, and when set 
 
 टिप्पणी:   २३−(अस्तंयते) अस्तंगच्छते परमेश्वराय (नमः) नमस्कारः (अस्तमेष्यते)अस्तं गमिष्यते (अस्तमिताय) अस्तं प्राप्ताय। अन्यत् पूर्ववत्-म० २२॥
 </details>
+

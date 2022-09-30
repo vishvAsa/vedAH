@@ -21,7 +21,7 @@ Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hai
 
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। सोमः। मा। तत्र। नयतु। पयः। सोमः। दधातु। मे। सोमाय। स्वाहा। ४३.५।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। सोमः॑। मा॒। तत्र॑। न॒य॒तु॒। पयः॑। सोमः॑। द॒धा॒तु॒। मे॒। सोमा॑य। स्वाहा॑। ४३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ Whither, etc. Thither let Soma lead me, let Soma vouchsafe me vital sap. All hai
 
 टिप्पणी:   ५−(सोमः) सर्वोत्पादकः परमात्मा (पयः) अन्नम्-निघ०२।७। (सोमः) (सोमाय) परमात्मने। अन्यत् पूर्ववत् ॥
 </details>
+

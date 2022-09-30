@@ -10,7 +10,7 @@ They who stand round him as he moves harness the bright, the ruddy Steed: The li
 
 <details><summary>पदपाठः</summary>
 
-युञ्जन्ति। बध्नम्। अरुषम्। चरन्तम्। परि। तस्थुषः। रोचन्ते। रोचना। दिवि। ४७.१०।
+यु॒ञ्जन्ति॑। ब॒ध्नम्। अ॒रु॒षम्। चर॑न्तम्। परि॑। त॒स्थुष॑ः। रोच॑न्ते। रो॒च॒ना। दि॒वि। ४७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ They who stand round him as he moves harness the bright, the ruddy Steed: The li
 
 टिप्पणी:   मन्त्र १०-१२ आचुके हैं-अ० २०।२६।४-६ और आगे हैं-२०।६९।९-११ ॥  १०-१२−एते मन्त्रा व्याख्याताः-अ० २०।२६।४-६ ॥
 </details>
+

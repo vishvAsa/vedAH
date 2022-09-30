@@ -23,7 +23,7 @@ They made the two Autumn months his protectors from the northern region, and Sya
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। दक्षिणायाः। दिशः। ४.४।
+तस्मै॑। दक्षि॑णायाः। दि॒शः। ४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

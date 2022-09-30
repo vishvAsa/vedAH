@@ -20,7 +20,7 @@ I am the:centre of riches. Fain would I be the centre of mine equals.
 
 <details><summary>पदपाठः</summary>
 
-नाभिः। अहम्। रयीणाम्। नाभिः। समानानाम्। भूयासम्। ४.१।
+नाभि॑ः। अ॒हम्। र॒यी॒णाम्। नाभि॑ः। स॒मा॒नाना॑म्। भू॒या॒स॒म्। ४.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ I am the:centre of riches. Fain would I be the centre of mine equals.
 
 टिप्पणी:   १−(नाभिः) मध्यस्थानम् (अहम्) पुरुषः (रयीणाम्)विद्यासुवर्णादिधनानाम् (नाभिः) (समानानाम्) सू० ३ म० १। तुल्यगुणवताम् (भूयासम्) भवेयम् ॥
 </details>
+

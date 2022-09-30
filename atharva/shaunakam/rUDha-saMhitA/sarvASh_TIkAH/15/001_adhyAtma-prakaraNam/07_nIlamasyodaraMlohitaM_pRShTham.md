@@ -20,7 +20,7 @@ His belly is dark-blue, his back is red.
 
 <details><summary>पदपाठः</summary>
 
-नीलम्। अस्य। उदरम्। लोहितम्। पृष्ठम्। १.७।
+नील॑म्। अ॒स्य॒। उ॒दर॑म्। लोहि॑तम्। पृ॒ष्ठम्। १.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

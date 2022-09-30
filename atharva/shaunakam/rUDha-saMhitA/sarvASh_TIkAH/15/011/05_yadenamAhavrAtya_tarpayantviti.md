@@ -20,5 +20,6 @@ When he says to him, Let them refresh thee, he thereby wins vital breath to exce
 
 <details><summary>पदपाठः</summary>
 
-यत्। एनम्। आह। व्रात्य। तर्पयन्तु। इति। प्राणम्। एव। तेन। वर्षीयांसम्। कुरुते। ११.५।
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। त॒र्पय॑न्तु। इति॑। प्रा॒णम्। ए॒व। तेन॑। वर्षी॑यांसम्। कु॒रु॒ते॒। ११.५। 
 </details>
+

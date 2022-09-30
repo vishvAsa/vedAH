@@ -12,7 +12,7 @@ the charioteer, the whirlwind the goad,
 
 <details><summary>पदपाठः</summary>
 
-मातरिश्वा। च। पवमानः। च। विपथऽवाहौ। वातः। सारथिः। रेष्मा। प्रऽतोदः। २.२७।
+मा॒त॒रिश्वा॑। च॒। पव॑मानः। च॒। वि॒प॒थ॒ऽवा॒हौ। वात॑ः। सार॑थिः। रे॒ष्मा। प्र॒ऽतो॒दः। २.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -42,3 +42,4 @@ the charioteer, the whirlwind the goad,
 
 टिप्पणी:   २७−यथा मन्त्रः ७ ॥
 </details>
+

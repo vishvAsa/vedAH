@@ -10,7 +10,7 @@ From all the regions of the world let Indra send security. The foe-subduer, swif
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। आशाभ्यः। परि। सर्वाभ्यः। अभयम्। करत्। जेता। शत्रून्। विचर्षणिः। ५७.१०।
+इन्द्र॑ः। आशा॑भ्यः। परि॑। सर्वा॑भ्यः। अभ॑यम्। क॒र॒त्। जेता॑। शत्रू॑न्। विच॑र्षणिः। ५७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ From all the regions of the world let Indra send security. The foe-subduer, swif
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
+

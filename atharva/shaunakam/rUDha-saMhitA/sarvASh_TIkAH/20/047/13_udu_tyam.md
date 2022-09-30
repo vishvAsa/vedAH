@@ -10,7 +10,7 @@ His bright rays bear him up aloft, the God who knoweth all that= is, Surya, that
 
 <details><summary>पदपाठः</summary>
 
-उत्। ऊं इति। त्यम्। जातऽवेदसम्। देवम्। वहन्ति। केतवः। दृशे। विश्वाय। सूर्यम्। ४७.१३।
+उत्। ऊं॒ इति॑। त्यम्। जा॒तऽवे॑दसम्। दे॒वम्। व॒ह॒न्ति॒। के॒तव॑ः। दृ॒शे। विश्वा॑य। सूर्य॑म्। ४७.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ His bright rays bear him up aloft, the God who knoweth all that= is, Surya, that
 
 टिप्पणी:   मन्त्र १३-२१ आ चुके हैं-अ० १३।२।१६-२४ ॥  १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
+

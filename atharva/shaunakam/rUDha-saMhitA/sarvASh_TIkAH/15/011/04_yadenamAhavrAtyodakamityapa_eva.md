@@ -30,7 +30,7 @@ When he says to him, Here is water, he secures thereby water for himself.
 
 <details><summary>पदपाठः</summary>
 
-यत्। एनम्। आह। व्रात्य। उदकम्। इति। अपः। एव। तेन। अव। रुन्ध्दे। ११.४।
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। उ॒द॒कम्। इति॑। अ॒पः। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। ११.४। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -52,3 +52,4 @@ When he says to him, Here is water, he secures thereby water for himself.
 
 टिप्पणी:   ४−(अपः) आपः कर्माख्यायां ह्रस्वो नुट् च वा। उ०४।२०८। आप्लृ व्याप्तौ-असुन् ह्रस्वश्च। कर्म-निघ० २।१। सत्कर्म। अन्यत्पूर्ववत् ॥
 </details>
+

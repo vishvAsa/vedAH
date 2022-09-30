@@ -29,7 +29,7 @@ Let her who shall be blest with sons, the maid who finds a. husband, step Upon t
 
 <details><summary>पदपाठः</summary>
 
-यम्। बल्बजम्। निऽअस्यथ। चर्म। च। उपऽस्तृणीथन। तत्। आ। रोहतु। सुऽप्रजाः। या। कन्या᳡। विन्दते। पतिम्। २.२२।
+यम्। बल्ब॑जम्। नि॒ऽअस्य॑थ। चर्म॑। च॒। उ॒प॒ऽस्तृ॒णी॒थन॑। तत्। आ। रो॒ह॒तु॒। सु॒ऽप्र॒जाः। या। क॒न्या᳡। वि॒न्दते॑। पति॑म्। २.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

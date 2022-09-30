@@ -20,7 +20,7 @@ He gained the lordship of the Gods. He became Lord.
 
 <details><summary>पदपाठः</summary>
 
-सः। देवानाम्। ईशाम्। परि। ऐत्। सः। ईशानः। अभवत्। १.५।
+सः। दे॒वाना॑म्। ई॒शाम्। परि॑। ऐ॒त्। सः। ईशा॑नः। अ॒भ॒व॒त्। १.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

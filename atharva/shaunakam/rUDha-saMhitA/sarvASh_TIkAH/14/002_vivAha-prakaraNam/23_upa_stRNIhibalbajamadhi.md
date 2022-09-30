@@ -22,7 +22,7 @@ Over the ruddy-coloured skin strew thou the grass, the Balbuja. Let her, the mot
 
 <details><summary>पदपाठः</summary>
 
-उप। स्तृणीहि। बल्बजम्। अधि। चर्मणि। रोहिते। तत्र। उपऽविश्य। सुऽप्रजाः। इमम्। अग्निम्। सपर्यतु। २.२३।
+उप॑। स्तृ॒णी॒हि॒। बल्ब॑जम्। अधि॑। चर्म॑णि। रोहि॑ते। तत्र॑। उ॒प॒ऽविश्य॑। सु॒ऽप्र॒जाः। इ॒मम्। अ॒ग्निम्। स॒प॒र्य॒तु। २.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

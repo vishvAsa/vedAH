@@ -10,7 +10,7 @@ In every need, in every fray we call, as friends, to succour us Indra the mighti
 
 <details><summary>पदपाठः</summary>
 
-योगेऽयोगे। तवःऽतरम्। वाजेऽवाजे। हवामहे। सखायः। इन्द्रम्। ऊतये। २६.१।
+योगे॑ऽयोगे। त॒वःऽत॑रम्। वाजे॑ऽवाजे। ह॒वा॒म॒हे॒। सखा॑यः। इन्द्र॑म्। ऊ॒तये॑। २६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ In every need, in every fray we call, as friends, to succour us Indra the mighti
 
 टिप्पणी:   यह मन्त्र ऊपर आचुका है-अ० १९।२४।७ ॥  १-अयं मन्त्रो व्याख्यातः-अ० १९।२४।७ ॥
 </details>
+

@@ -31,7 +31,7 @@ Away from distasteful food, strength and sweet speech,
 
 <details><summary>पदपाठः</summary>
 
-निः। दुःऽअर्मण्यः᳡। ऊर्जा। मधुऽमती। वाक्। २.१।
+निः। दु॒ःऽअ॒र्म॒ण्य᳡ः। ऊ॒र्जा। मधु॑ऽमती। वाक्। २.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

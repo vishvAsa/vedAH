@@ -23,7 +23,7 @@ Let these unwidowed dames with goodly husbands adorn them- selves with fragrant 
 
 <details><summary>पदपाठः</summary>
 
-इमाः। नारीः। अविधवाः। सुऽपत्नीः। आऽअञ्जनेन। सर्पिषा। सम्। स्पृशन्ताम्। अनश्रवः। अनमीवाः। सुऽरत्नाः। आ। रोहन्तु। जनयः। योनिम्। अग्रे। ५.५७।
+इ॒माः। नारी॑ः। अ॒वि॒ध॒वाः। सु॒ऽपत्नी॑ः। आ॒ऽअञ्ज॑नेन। स॒र्पिषा॑। सम्। स्पृ॒श॒न्ता॒म्। अ॒न॒श्रव॑ः। अ॒न॒मी॒वाः। सु॒ऽरत्ना॑ः। आ। रो॒ह॒न्तु॒। जन॑यः। योनि॑म्। अग्रे॑। ५.५७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,3 +53,4 @@ Let these unwidowed dames with goodly husbands adorn them- selves with fragrant 
 
 टिप्पणी:   ५७−अयं मन्त्रो व्याख्यातः-अ० १२।२।३१ ॥
 </details>
+

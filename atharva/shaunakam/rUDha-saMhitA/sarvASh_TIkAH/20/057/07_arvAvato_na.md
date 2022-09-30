@@ -10,7 +10,7 @@ Come to us either from anear, or, Sakra, come from far away. Indra, wherever be 
 
 <details><summary>पदपाठः</summary>
 
-अर्वाऽवतः। नः। आ। गहि। अथो इति। शक्र। परावतः। ऊं इति। लोकः। यः। ते। अद्रिऽवः। इन्द्र। इह। ततः। आ। गहि। ५७.७।
+अ॒र्वा॒ऽवत॑ः। न॒ः। आ। ग॒हि॒। अथो॒ इति॑। श॒क्र॒। प॒रा॒वत॑ः। ऊं॒ इति॑। लो॒कः। यः। ते॒। अ॒द्रि॒ऽव॒ः। इन्द्र॑। इ॒ह। तत॑ः। आ। ग॒हि॒। ५७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Come to us either from anear, or, Sakra, come from far away. Indra, wherever be 
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
+

@@ -23,7 +23,7 @@ The eye of sacrifice, source and beginning with voice, car, spirit unto him I of
 
 <details><summary>पदपाठः</summary>
 
-यज्ञस्य। चक्षुः। प्रऽभृतिः। मुखम्। च। वाचा। श्रोत्रेण। मनसा। जुहोमि। इमम्। यज्ञम्। विऽततम्। विश्वऽकर्मणा। आ। देवाः। यन्तु। सुऽमनस्यमानाः। ५८.५।
+य॒ज्ञस्य॑। चक्षुः॑। प्रऽभृ॑तिः। मुख॑म्। च॒। वा॒चा। श्रोत्रे॑ण। मन॑सा। जु॒हो॒मि॒। इ॒मम्। य॒ज्ञम्। विऽत॑तम्। वि॒श्वऽक॑र्मणा। आ। दे॒वाः। य॒न्तु॒। सु॒ऽम॒न॒स्यमा॑नाः। ५८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,3 +53,4 @@ The eye of sacrifice, source and beginning with voice, car, spirit unto him I of
 
 टिप्पणी:   यह मन्त्र ऊपर आ चुका है-अ० २।३५।५ ॥५−अयं मन्त्रो व्याख्यातः-अ० २।३५।५ ॥
 </details>
+

@@ -10,7 +10,7 @@ Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lor
 
 <details><summary>पदपाठः</summary>
 
-युष्मिन्ऽतमम्। नः। ऊतये। द्युम्निनम्। पाहि। जागृविम्। इन्द्र। सोमम्। शतक्रतो इति  शतऽक्रतो। ५७.४।
+यु॒ष्मिन्ऽत॑मम्। न॑ः। ऊ॒तये॑। द्यु॒म्निन॑म्। पा॒हि॒। जागृ॑विम्। इन्द्र॑। सोम॑म्। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो॒। ५७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Drink for our help the Soma bright, vigilant, and exceeding strong, O Indra, Lor
 
 टिप्पणी:   मन्त्र ४-१० आ चुके हैं-अ० २०।२०।१-७ ॥  ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
+

@@ -19,7 +19,7 @@ The abode of the man who sacrifices without the permission of the Vratya who pos
 
 <details><summary>पदपाठः</summary>
 
-न। अस्य। अस्मिन्। लोके। आऽयतनम्। शिष्यते। यः। एवम्। विदुषा। व्रात्येन। अनतिऽसृष्टः। जुहोति। १२.११।
+न। अ॒स्य॒। अ॒स्मिन्। लो॒के। आ॒ऽयत॑नम्। शि॒ष्य॒ते॒। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अन॑तिऽसृष्टः। जु॒होति॑। १२.११। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ The abode of the man who sacrifices without the permission of the Vratya who pos
 
 टिप्पणी:   ११−(न) निषेधे (अनतिसृष्टः) अनाज्ञापितः। अन्यत् पूर्ववत्-म० ७ ॥
 </details>
+

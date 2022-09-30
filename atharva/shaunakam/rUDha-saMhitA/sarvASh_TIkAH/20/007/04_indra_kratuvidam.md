@@ -10,7 +10,7 @@ Indra, whom many laud, accept the strength-conferring Soma juice. Quaff, pour do
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। क्रतुऽविदम्। सुतम्। सोमम्। हर्य। पुरुऽस्तुत। पिब। आ। वृषस्व। ततृपिम्। ७.४।
+इन्द्र॑। क्र॒तु॒ऽविद॑म्। सु॒तम्। सोम॑म्। ह॒र्य॒। पु॒रु॒ऽस्तु॒त॒। पिब॑। आ। वृ॒ष॒स्व॒। ततृ॑पिम्। ७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra, whom many laud, accept the strength-conferring Soma juice. Quaff, pour do
 
 टिप्पणी:   यह मन्त्र आ चुका है-अ० २०।६।२ ॥  ४−अयं मन्त्रो व्याख्यातः-अ० २०।६।२ ॥
 </details>
+

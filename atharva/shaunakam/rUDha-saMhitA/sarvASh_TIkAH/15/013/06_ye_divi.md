@@ -22,7 +22,7 @@ Now he to whose house a non-Vratya, calling himself a Vratya, and one in name on
 
 <details><summary>पदपाठः</summary>
 
-ये। दिवि। पुण्याः। लोकाः। तान्। एव। तेन। अव। रुन्ध्दे। १३.६।
+ये। दि॒वि। पुण्या॑ः। लो॒काः। तान्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। १३.६। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -44,3 +44,4 @@ Now he to whose house a non-Vratya, calling himself a Vratya, and one in name on
 
 टिप्पणी:   ५, ६−(दिवि)सूर्यमण्डले। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

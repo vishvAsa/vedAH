@@ -23,7 +23,7 @@ Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphe
 
 <details><summary>पदपाठः</summary>
 
-शुम्भन्ताम्। लोकाः। पितृऽसदनाः। पितृऽसदने। त्वा। लोके। आ। सादयामि। ४.६७।
+शुम्भ॑न्ताम्। लो॒काः। पि॒तृ॒ऽसद॑नाः। पि॒तृ॒ऽसद॑ने। त्वा॒। लो॒के। आ। सा॒द॒या॒मि॒। ४.६७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,3 +53,4 @@ Bright be to thee those worlds where dwell the Fathers! I seat thee in that sphe
 
 टिप्पणी:   ६७−(शुम्भन्ताम्) शुम्भ शोभायाम्। शोभायमानाभवन्तु (लोकाः) समाजाः (पितृषदनाः) पितॄणां सदनयुक्ताः (पितृषदने) पितॄणांसदनयुक्ते (त्वा) त्वाम् (लोके) समाजे (आ) समन्तात् (सादयामि) स्थापयामि ॥
 </details>
+

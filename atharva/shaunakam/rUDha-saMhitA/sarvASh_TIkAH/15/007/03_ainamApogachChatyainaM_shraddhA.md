@@ -21,7 +21,7 @@ The Waters, Faith, and rain approach him who possesses this knowledge.
 
 <details><summary>पदपाठः</summary>
 
-आ। एनम्। आपः। गच्छति। आ। एनम्। श्रध्दा। गच्छति। आ। एनम्। वर्षम्। गच्छति। यः। एवम्। वेद। ७.३।
+आ। ए॒न॒म्। आप॑ः। ग॒च्छ॒ति॒। आ। ए॒न॒म्। श्र॒ध्दा। ग॒च्छ॒ति॒। आ। ए॒न॒म्। व॒र्षम्। ग॒च्छ॒ति॒। यः। ए॒वम्। वेद॑। ७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

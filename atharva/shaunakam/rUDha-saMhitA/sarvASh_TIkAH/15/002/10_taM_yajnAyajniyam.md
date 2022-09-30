@@ -17,7 +17,7 @@ Yajnayajniya and Vamadevya and Sacrifice and Sacrificer and sacrificial victims 
 
 <details><summary>पदपाठः</summary>
 
-तम्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। यज्ञः। च। यजमानः। च। पशवः। च। अनुऽव्य᳡चलन्। २.१०।
+तम्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। य॒ज्ञः। च॒। यज॑मानः। च॒। प॒शव॑ः। च॒। अ॒नु॒ऽव्य᳡चलन्। २.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

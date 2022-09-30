@@ -19,7 +19,7 @@ May stainless waters cleanse us from defilement.
 
 <details><summary>पदपाठः</summary>
 
-अरिप्राः। आपः। अप। रिप्रन्। अस्मत्। १.१०।
+अ॒रि॒प्राः। आप॑ः। अप॑। रि॒प्रन्। अ॒स्मत्। १.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ May stainless waters cleanse us from defilement.
 
 टिप्पणी:   १०−(अरिप्राः)निर्दोषाः (आपः) म० ८। विपश्चितः (अप) दूरे (रिप्रम्) पापम् (अस्मत्) ॥
 </details>
+

@@ -15,7 +15,7 @@ He went away to the unindicated region.
 
 <details><summary>पदपाठः</summary>
 
-सः। अनादिष्टाम्। दिशम्। वि। अचलत्। ६.१६।
+सः। अना॑दिष्टाम्। दिश॑म्। वि। अ॒च॒ल॒त्। ६.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

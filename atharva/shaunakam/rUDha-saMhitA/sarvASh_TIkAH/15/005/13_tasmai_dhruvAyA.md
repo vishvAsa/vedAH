@@ -16,7 +16,7 @@ They made Rudra the Archer his deliverer from the intermediate space of the regi
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। ध्रुवायाः। दिशः। अन्तःऽदेशात्। रुद्रम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.१०।
+तस्मै॑। ध्रु॒वाया॑ः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। रु॒द्रम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ They made Rudra the Archer his deliverer from the intermediate space of the regi
 
 टिप्पणी:   १०, ११−(ध्रुवायाः)अधोवर्तमानायाः (रुद्रम्) रुङ् गतिहिंसनयोः-क्विप् तुक् च+रुङ् हिंसायाम्-ड।शत्रुनाशकम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

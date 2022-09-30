@@ -19,7 +19,7 @@ Her whom Brihaspati hath loosed the Visve Devas keep secure. With all the vigour
 
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। तेजः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५४।
+बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। तेज॑ः। गोषु॑। प्रऽवि॑ष्टम्। यत्। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

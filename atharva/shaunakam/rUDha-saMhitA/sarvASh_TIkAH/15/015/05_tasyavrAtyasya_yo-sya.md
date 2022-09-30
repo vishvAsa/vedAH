@@ -22,7 +22,7 @@ His third vital breath, called Approached, is that Moon.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। तृतीयः। प्राणः। अभिऽऊढः। नाम। असौ। सः। चन्द्रमाः। १५.५।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। तृ॒तीय॑ः। प्रा॒णः। अ॒भिऽऊ॑ढः। नाम॑। अ॒सौ। सः। च॒न्द्रमा॑ः। १५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,3 +52,4 @@ His third vital breath, called Approached, is that Moon.
 
 टिप्पणी:   ५−(अभ्यूढः) आभिमुख्येन प्राप्तः (चन्द्रमाः) चन्द्रविद्याप्रचारः। अन्यत्पूर्ववत् स्पष्टं च ॥
 </details>
+

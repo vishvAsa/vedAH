@@ -19,7 +19,7 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 
 <details><summary>पदपाठः</summary>
 
-अपः। ते। ओषधीऽमतीः। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.६।
+अ॒पः। ते। ओष॑धीऽमतीः। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 
 टिप्पणी:   सूचना−(अपः) शब्द के लिये गत सूक्त का मन्त्र ६ देखो ॥६−(अपः) सू०१७ म०६। आप्ताः प्रजाः (ओषधीमतीः) अन्नसोमलतायुक्ताः। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -19,7 +19,7 @@ But he who sacrifices without the permission of the Vratya who- possesses this k
 
 <details><summary>पदपाठः</summary>
 
-अथ। यः। एवम्। विदुषा। व्रात्येन। अनतिऽसृष्टः। जुहोति। १२.८।
+अथ॑। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अन॑तिऽसृष्टः। जु॒होति॑। १२.८। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ But he who sacrifices without the permission of the Vratya who- possesses this k
 
 टिप्पणी:   ८−(अथ) अपि च (अनतिसृष्टः) अनाज्ञापितः। अन्यत् पूर्ववत्-म० ४ ॥
 </details>
+

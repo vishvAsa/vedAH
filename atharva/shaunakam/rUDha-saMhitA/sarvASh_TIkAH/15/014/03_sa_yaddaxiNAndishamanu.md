@@ -16,7 +16,7 @@ He, when he went away to the southern region, went away having become Indra, and
 
 <details><summary>पदपाठः</summary>
 
-सः। यत्। दक्षिणाम्। दिशम्। अनु। विऽअचलत्। इन्द्रः। भूत्वा। अनुऽव्य᳡चलत्। बलम्। अन्नऽअदम्। कृत्वा। १४.३।
+सः। यत्। दक्षि॑णाम्। दिश॑म्। अनु॑। वि॒ऽअच॑लत्। इन्द्र॑ः। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। बल॑म्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ He, when he went away to the southern region, went away having become Indra, and
 
 टिप्पणी:   ३, ४−(दक्षिणाम्)दक्षिणदेशस्थाम्। स्वशरीरस्य दक्षिणभागस्थाम् (इन्द्रः) परमैश्वर्यवान् (बलम्)सामर्थ्यम् (बलेन) सामर्थ्येन। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
+

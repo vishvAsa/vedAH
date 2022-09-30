@@ -21,7 +21,7 @@ For a whole year he stood erect. The Gods said unto him, Why standest thou, O Vr
 
 <details><summary>पदपाठः</summary>
 
-सः। सम्ऽवत्सरम्। ऊर्ध्वः। अतिष्ठत्। तम्। देवाः। अब्रुवन्। व्रात्य। किम्। नु। तिष्ठसि। इति। ३.१।
+सः। स॒म्ऽव॒त्स॒रम्। ऊ॒र्ध्वः। अ॒ति॒ष्ठ॒त्। तम्। दे॒वाः। अ॒ब्रु॒व॒न्। व्रात्य॑। किम्। नु। ति॒ष्ठ॒सि॒। इति॑। ३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ Agni hath looked upon the van of Mornings, and on the days. the earliest Jataved
 
 <details><summary>पदपाठः</summary>
 
-अनु। अग्निः। उषसाम्। अग्रम्। अख्यत्। अनु। अहानि। प्रथमः। जातऽवेदाः। अनु। सूर्यः। उषसः। अनु। रश्मीन्। अनु। द्यावापृथिवी इति। आ। विवेश। १.२७।
+अनु॑। अ॒ग्निः। उ॒षसा॑म्। अग्र॑म्। अ॒ख्य॒त्। अनु॑। अहा॑नि। प्र॒थ॒मः। जा॒तऽवे॑दाः। अनु॑। सूर्य॑ः। उ॒षस॑ः। अनु॑। र॒श्मीन्। अनु॑। द्यावा॑पृथि॒वी इति॑। आ। वि॒वे॒श॒। १.२७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ Agni hath looked upon the van of Mornings, and on the days. the earliest Jataved
 
 टिप्पणी:   २७−मन्त्रौ २७, २८ पूर्वत्र व्याख्यातौ-अ०७।८२।४, ५ ॥
 </details>
+

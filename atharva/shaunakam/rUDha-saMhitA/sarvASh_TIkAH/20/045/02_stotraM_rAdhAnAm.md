@@ -10,7 +10,7 @@ O Hero, Lord of Bounties, praised in hymns, may power and pleasantness Be his wh
 
 <details><summary>पदपाठः</summary>
 
-स्तोत्रम्। राधानाम्। पते। गिर्वाहः। वीर। यस्य। ते। विऽभूतिः। अस्तु। सूनृता। ४५.२।
+स्तो॒त्रम्। रा॒धा॒ना॒म्। प॒ते॒। गिर्वा॑हः। वी॒र॒। यस्य॑। ते॒। विऽभू॑तिः। अ॒स्तु॒। सू॒नृता॑। ४५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ O Hero, Lord of Bounties, praised in hymns, may power and pleasantness Be his wh
 
 टिप्पणी:   २−(स्तोत्रम्) स्तुतिम् (राधानाम्) धनानाम् (पते) पालक (गिर्वाहः) अ० २।३।४। हे गिरां विद्यानां प्रापक (वीर) हे निर्भय (यस्य) (ते) तव (विभूतिः) ऐश्वर्यम् (अस्तु) (सूनृता) अ० ३।१२।२। प्रियसत्यात्मिका वाक् ॥
 </details>
+

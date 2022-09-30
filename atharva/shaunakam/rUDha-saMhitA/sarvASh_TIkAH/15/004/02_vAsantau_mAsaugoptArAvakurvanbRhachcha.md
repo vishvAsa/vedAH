@@ -21,7 +21,7 @@ summer months guardians, and *yajñāyajñíya* and *vāmadevyá* attendants.
 
 <details><summary>पदपाठः</summary>
 
-वासन्तौ। मासौ। गोप्तारौ। अकुर्वन्। बृहत्। च। रथम्ऽतरम्। च। अनुऽस्थातारौ। ४.२।
+वा॒स॒न्तौ। मासौ॑। गो॒प्तारौ॑। अकु॑र्वन्। बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। अ॒नु॒ऽस्था॒तारौ॑। ४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

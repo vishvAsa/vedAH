@@ -19,7 +19,7 @@ Priesthood comes to him, and he becomes endowed with priestly lustre.
 
 <details><summary>पदपाठः</summary>
 
-आ। एनम्। ब्रह्म। गच्छति। ब्रह्मऽवर्चसी। भवति। १०.८।
+आ। ए॒न॒म्। ब्रह्म॑। ग॒च्छ॒ति॒। ब्र॒ह्म॒ऽव॒र्च॒सी। भ॒व॒ति॒। १०.८। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ Priesthood comes to him, and he becomes endowed with priestly lustre.
 
 टिप्पणी:   ८−(आ) आगत्य (एनम्)ब्रह्मज्ञम् (ब्रह्म) ब्रह्मज्ञानिसमूहः (गच्छति) प्राप्नोति (ब्रह्मवर्चसी)ब्रह्मणा वेदाध्ययनेन तदनुष्ठानेन च तेजस्वी (भवति) ॥
 </details>
+

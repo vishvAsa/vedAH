@@ -10,7 +10,7 @@ Let Agni from the Kindler's cup drink Trishtups, according to the season Soma fr
 
 <details><summary>पदपाठः</summary>
 
-अग्निः। आग्नीध्रात्। सुऽस्तुभः। सुऽअर्कात्। ऋतुना। सोमम्। पिबतु। २.२।
+अ॒ग्निः। आग्नी॑ध्रात्। सु॒ऽस्तुभ॑ः। सु॒ऽअ॒र्कात्। ऋ॒तुना॑। सोम॑म्। पि॒ब॒तु॒। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Let Agni from the Kindler's cup drink Trishtups, according to the season Soma fr
 
 टिप्पणी:   २−(अग्निः) अग्निवत्तेजस्वी पुरुषः (आग्नीध्रात्) अग्नि+इन्धी दीप्तौ-क्विप्, नलोपः। अग्नीधः शरणे रञ् भ च। वा० पा० ४।३।१२०। अग्नीध्-रञ्, भत्वान्न जश्। अग्नीत् अग्निदीपनं यस्य शरण आश्रये तस्मात्। अग्निप्रकाशविद्याशरणयुक्तव्यवहारात्। शिष्टं पूर्ववत् ॥
 </details>
+

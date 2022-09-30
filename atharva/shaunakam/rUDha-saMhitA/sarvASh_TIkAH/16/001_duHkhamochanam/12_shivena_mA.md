@@ -20,7 +20,7 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 
 <details><summary>पदपाठः</summary>
 
-शिवेन। मा। चक्षुषा। पश्यत। आपः। शिवया। तन्वा᳡। उप। स्पृशत। त्वचम्। मे। १.१२।
+शि॒वेन॑। मा॒। चक्षु॑षा। प॒श्य॒त॒। आ॒प॒ः। शि॒वया॑। त॒न्वा᳡। उप॑। स्पृ॒श॒त॒। त्वच॑म्। मे॒। १.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ Look on me with a friendly eye, O, Waters, and touch my skin with your auspiciou
 
 टिप्पणी:   १२−(शिवेन) सुखप्रदेन (मा) माम् (चक्षुषा) नेत्रेण (पश्यत)अवलोकयत (आपः) म० ८। हे विद्वांसः (शिवया) सुखप्रदेन (तन्वा) शरीरेण (उप) सुखेन (स्पृशत) (त्वचम्) शरीरम् (मे) मम ॥
 </details>
+

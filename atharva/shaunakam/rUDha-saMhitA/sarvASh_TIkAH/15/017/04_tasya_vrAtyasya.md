@@ -18,7 +18,7 @@ His fourth diffused breath are those Constellations.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। चतुर्थः। विऽआनः। तानि। नक्षत्राणि। १७.४।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। च॒तु॒र्थः। वि॒ऽआ॒नः। तानि॑। नक्ष॑त्राणि। १७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ His fourth diffused breath are those Constellations.
 
 टिप्पणी:   ४−(नक्षत्राणि)अमिनक्षियजिवधिपतिभ्योऽत्रन्। उ० ३।१०५। णक्ष गतौ-अत्रन्। गतिशीलानां तारागणानांपरस्पराकर्षणादिज्ञानम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

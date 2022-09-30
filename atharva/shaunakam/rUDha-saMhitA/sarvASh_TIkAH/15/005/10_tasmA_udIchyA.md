@@ -21,7 +21,7 @@ They made the Awful God, the Archer, his deliverer from the intermediate space o
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। उदीच्याः। दिशः। अन्तःऽदेशात्। उग्रम्। देवम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.८।
+तस्मै॑। उदी॑च्याः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। उ॒ग्रम्। दे॒वम्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ They made the Awful God, the Archer, his deliverer from the intermediate space o
 
 टिप्पणी:   ८, ९−(उदीच्याः)उत्तरायाः (उग्रम्) प्रचण्डस्वभावम् (देवम्) प्रकाशमयम्। अन्यत् पूर्ववत् स्पष्टंच ॥
 </details>
+

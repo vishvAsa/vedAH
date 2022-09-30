@@ -31,7 +31,7 @@ Hail to the hymns for happiness!
 
 <details><summary>पदपाठः</summary>
 
-मङ्गलिकेभ्यः। स्वाहा। २३.२८।
+म॒ङ्ग॒लि॒केभ्यः॑। स्वाहा॑। २३.२८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -61,3 +61,4 @@ Hail to the hymns for happiness!
 
 टिप्पणी:   २८−(मङ्गलिकेभ्यः) अत इनिठनौ। पा०५।२।११५। मङ्गल-उन्। मङ्गलयुक्तेभ्यो वेदेभ्यः ॥
 </details>
+

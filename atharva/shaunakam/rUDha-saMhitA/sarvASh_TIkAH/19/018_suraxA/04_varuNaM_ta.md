@@ -20,7 +20,7 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 
 <details><summary>पदपाठः</summary>
 
-वरुणम्। ते। आदित्यऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.४।
+वरु॑णम्। ते। आ॒दि॒त्यऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 
 टिप्पणी:   ४−(वरुणम्) सर्वोत्तमं परमेश्वरम् (आदित्यवन्तम्) प्रकाशमानगुणानां स्वामिनम्। अन्यत् पूर्ववत् ॥
 </details>
+

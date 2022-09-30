@@ -28,7 +28,7 @@ These maids who from their father's house have come with long- ing to their lord
 
 <details><summary>पदपाठः</summary>
 
-उशतीः। कन्यलाः। इमाः। पितृऽलोकात्। पतिम्। यतीः। अव। दीक्षाम्। असृक्षत। स्वाहा। २.५२।
+उ॒श॒तीः। क॒न्यला॑ः। इ॒माः। पि॒तृ॒ऽलो॒कात्। पति॑म्। य॒ती॒ः। अव॑। दी॒क्षाम्। अ॒सृ॒क्ष॒त॒। स्वाहा॑। २.५२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

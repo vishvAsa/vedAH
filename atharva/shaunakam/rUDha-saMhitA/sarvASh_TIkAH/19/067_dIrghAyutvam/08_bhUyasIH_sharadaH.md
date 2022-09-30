@@ -43,7 +43,7 @@ A hundred, yea, and even more.
 
 <details><summary>पदपाठः</summary>
 
-भूयसीः। शरदः। शतात्। ६७.८।
+भूय॑सीः। श॒रदः॑। श॒तात्। ६७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -73,3 +73,4 @@ A hundred, yea, and even more.
 
 टिप्पणी:   ८−(भूयसीः) अधिकतराः (शरदः) वर्षाणि (शतात्) शतसंख्याकात् ॥
 </details>
+

@@ -19,7 +19,7 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 
 <details><summary>पदपाठः</summary>
 
-विध्य। दर्भ। सऽपत्नान्। मे। विध्य। मे। पृतनाऽयतः। विध्य। मे। सर्वान्। दुःऽहार्दः। विध्य। मे। द्विषतः। मणे। २८.१०।
+विध्य॑। द॒र्भ॒। स॒ऽपत्ना॑न्। मे॒। विध्य॑। मे॒। पृ॒त॒ना॒ऽय॒तः। विध्य॑। मे॒। सर्वा॑न्। दुः॒ऽहार्दः॑। विध्य॑। मे॒। द्वि॒ष॒तः। म॒णे॒। २८.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Pierce thou my rivals, Darbha, pierce the men who fain would fight with me. Pier
 
 टिप्पणी:   १०−(विध्य) व्यध ताडने। ताडय ॥
 </details>
+

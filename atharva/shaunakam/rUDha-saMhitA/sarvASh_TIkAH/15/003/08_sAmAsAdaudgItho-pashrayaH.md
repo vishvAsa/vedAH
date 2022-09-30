@@ -25,7 +25,7 @@ The Saman was the Cushion, and chanting the bolster.
 
 <details><summary>पदपाठः</summary>
 
-साम। आऽसादः। उत्ऽगीथः। उपऽश्रयः। ३.८।
+साम॑। आ॒ऽसा॒दः। उ॒त्ऽगी॒थः। उ॒प॒ऽश्र॒यः। ३.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

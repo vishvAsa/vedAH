@@ -19,7 +19,7 @@ To that Deity the sacrifice of him who has this knowledge is acceptable.
 
 <details><summary>पदपाठः</summary>
 
-तत्। तस्य। एवम्। विद्वान्। व्रात्यः। अपरिऽमिताः। रात्रीः। अतिथिः। गृहे। वसति। १३.९।
+तत्। तस्य॑। ए॒वम्। वि॒द्वान्। व्रात्य॑ः। अप॑रिऽमिताः। रात्री॑ः। अति॑थिः। गृ॒हे। वस॑ति। १३.९। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ To that Deity the sacrifice of him who has this knowledge is acceptable.
 
 टिप्पणी:   ९, १०−(अपरिमिताः)असंख्याताः (रात्रीः) (लोकाः) दर्शनीयाः॥
 </details>
+

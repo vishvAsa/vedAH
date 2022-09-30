@@ -19,7 +19,7 @@ When he says to him, Vratya, as thy desire is so be it, he secures to himself th
 
 <details><summary>पदपाठः</summary>
 
-यत्। एनम्। आह। व्रात्य। यथा। ते। निऽकामः। तथा। अस्तु। इति। निऽकामम्। एव। तेन। अव। रुन्ध्दे। ११.१०।
+यत्। ए॒न॒म्। आह॑। व्रात्य॑। यथा॑। ते॒। नि॒ऽका॒मः। तथा॑। अ॒स्तु॒। इति॑। नि॒ऽका॒मम्। ए॒व। तेन॑। अव॑। रु॒न्ध्दे॒। ११.१०। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ When he says to him, Vratya, as thy desire is so be it, he secures to himself th
 
 टिप्पणी:   १०−(निकामः) निश्चितकामः। लालसा (निकामम्) लालसाम्। अन्यत् पूर्ववत् ॥
 </details>
+

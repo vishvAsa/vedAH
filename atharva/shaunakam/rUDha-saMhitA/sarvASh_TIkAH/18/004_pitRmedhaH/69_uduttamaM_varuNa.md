@@ -28,7 +28,7 @@ Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and un
 
 <details><summary>पदपाठः</summary>
 
-उत्। उत्ऽतमम्। वरुण। पाशम्। अस्मत्। अव। अधमम्। वि। मध्यमम्। श्रथय। अध। वयम्। आदित्य। व्रते। तव। अनागसः। अदितये। स्याम। ४.६९।
+उत्। उ॒त्ऽत॒मम्। व॒रु॒ण॒। पाश॑म्। अ॒स्मत्। अव॑। अ॒ध॒मम्। वि। म॒ध्य॒मम्। श्र॒थ॒य॒। अध॑। व॒यम्। आ॒दि॒त्य॒। व्र॒ते। तव॑। अना॑गसः। अदि॑तये। स्या॒म॒। ४.६९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,3 +58,4 @@ Loosen, O Varuna, the bond that binds us; loosen the bond above, between, and un
 
 टिप्पणी:   ६९-अयं मन्त्रोव्याख्यातः-अ० ७।८३।३ ॥
 </details>
+

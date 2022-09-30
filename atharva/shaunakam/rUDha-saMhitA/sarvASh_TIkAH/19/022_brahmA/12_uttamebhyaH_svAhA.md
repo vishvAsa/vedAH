@@ -18,7 +18,7 @@ To the last ones, Hail!
 
 <details><summary>पदपाठः</summary>
 
-उत्ऽतमेभ्यः। स्वाहा। २२.१२।
+उ॒त्ऽत॒मेभ्यः॑। स्वाहा॑। २२.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To the last ones, Hail!
 
 टिप्पणी:   १२−(उत्तमेभ्यः) अतिश्रेष्ठपुरुषेभ्यः ॥
 </details>
+

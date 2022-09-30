@@ -21,7 +21,7 @@ They made the two Winter months his protectors from the region of the nadir, and
 
 <details><summary>पदपाठः</summary>
 
-ग्रैष्मौ। मासौ। गोप्तारौ। अकुर्वन्। यज्ञायज्ञियम्। च। वामऽदेव्यम्। च। अनुऽस्थातारौ। ४.५।
+ग्रैष्मौ॑। मासौ॑। गो॒प्तारौ॑। अकु॑र्वन्। य॒ज्ञा॒य॒ज्ञिय॑म्। च॒। वा॒म॒ऽदे॒व्यम्। च॒। अ॒नु॒ऽस्था॒तारौ॑। ४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -10,7 +10,7 @@ They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny
 
 <details><summary>पदपाठः</summary>
 
-युञ्जन्ति। अस्य। काम्या। हरी इति। विऽपक्षसा। रथे। शोणा। धृष्णू इति। नृऽवाहसा। ४७.११।
+यु॒ञ्जन्ति॑। अ॒स्य॒। काम्या॑। हरी॒ इति॑। विऽप॑क्षसा। रथे॑। शोणा। धृ॒ष्णू इति॑। नृ॒ऽवाह॑सा। ४७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ They yoke on both sides to the car the two bay coursers dear to him, Bold, tawny
 
 टिप्पणी:   १०-१२−एते मन्त्रा व्याख्याताः-अ० २०।२६।४-६ ॥
 </details>
+

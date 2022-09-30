@@ -10,7 +10,7 @@ Swift and all-beautiful art thou, O Surya, maker of the light. Illuming all the 
 
 <details><summary>पदपाठः</summary>
 
-तरणिः। विश्वऽदर्शतः। ज्योतिःऽकृत्। असि। सूर्य। विश्वम्। आ। भासि। रोचन। ४७.१६।
+त॒रणि॑ः। वि॒श्वऽद॑र्शतः। ज्यो॒ति॒ःऽकृत्। अ॒सि॒। सू॒र्य॒। विश्व॑म्। आ। भा॒सि॒। रो॒च॒न॒। ४७.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Swift and all-beautiful art thou, O Surya, maker of the light. Illuming all the 
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
+

@@ -19,7 +19,7 @@ And if he gives permission he should sacrifice, if he does not permit him he sho
 
 <details><summary>पदपाठः</summary>
 
-सः। च। अतिऽसृजेत्। जुहुयात्। न। च। अतिऽसृजेत्। न। जुहुयात्। १२.३।
+सः। च॒। अ॒ति॒ऽसृ॒जेत्। जु॒हु॒यात्। न। च॒। अ॒ति॒ऽसृ॒जेत्। न। जु॒हु॒या॒त्। १२.३। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ And if he gives permission he should sacrifice, if he does not permit him he sho
 
 टिप्पणी:   ३−(सः) अतिथिः (च) यदि (अतिसृजेत्) आज्ञापयेत् (जुहुयात्) गृहस्थो होमं कुर्यात् (न) निषेधे। अन्यत्स्पष्टम् ॥
 </details>
+

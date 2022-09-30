@@ -26,7 +26,7 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 
 <details><summary>पदपाठः</summary>
 
-परि। इमम्। सोमम्। आयुषे। महे। श्रोत्राय। धत्तन। यथा। एनम्। जरसे। नयाम्। ज्योक्। श्रोत्रे। अधि। जागरत्। २४.३।
+परि॑। इ॒मम्। सोम॑म्। आयु॑षे। म॒हे। श्रोत्रा॑य। ध॒त्त॒न॒। यथा॑। ए॒न॒म्। ज॒रसे॑। न॒याम्। ज्योक्। श्रोत्रे॑। अधि॑। जा॒ग॒र॒त्। २४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,3 +56,4 @@ Invest this Soma for long life, invest him for great hearing power. That I may l
 
 टिप्पणी:   ३−(सोमम्) चन्द्रसमानशान्तिप्रदं पुरुषम् (श्रोत्राय) श्रवणकरणाय (श्रोत्रे) श्रवणकरणे। अन्यत् पूर्ववत्-म०२॥
 </details>
+

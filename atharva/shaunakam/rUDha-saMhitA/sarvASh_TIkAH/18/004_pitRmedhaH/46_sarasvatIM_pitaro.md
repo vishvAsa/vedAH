@@ -20,7 +20,7 @@ Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear
 
 <details><summary>पदपाठः</summary>
 
-सरस्वतीम्। पितरः। हवन्ते। दक्षिणा। यज्ञम्। अभिऽनक्षमाणाः। आऽसद्य। अस्मिन्। बर्हिषि। मादयध्वम्। अनमीवाः। इषः। आ। धेहि। अस्मे इति। ४.४६।
+सर॑स्वतीम्। पि॒तर॑ः। ह॒व॒न्ते॒। द॒क्षि॒णा। य॒ज्ञम्। अ॒भि॒ऽनक्ष॑माणाः। आ॒ऽसद्य॑। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। अ॒न॒मी॒वाः। इष॑ः। आ। धे॒हि॒। अ॒स्मे इति॑। ४.४६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ Approaching on the south our solemn worship, the Fathers call- Sarasvati to hear
 
 टिप्पणी:   ४५-४७−मन्त्राव्याख्याताः-अ० १८।१।४१-४३ ॥
 </details>
+

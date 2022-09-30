@@ -28,7 +28,7 @@ Whatever fault or error was in marriage or in bridal pomp. This woe we wipe away
 
 <details><summary>पदपाठः</summary>
 
-यत्। दुःऽकृतम्। यत्। शमलम्। विऽवाहे। वहतौ। च। यत्। तत्। सम्ऽभलस्᳡ देव॒यज॑नय। कम्बले। मृज्महे। दुःऽइतम्। वयम्। २.६६।
+यत्। दु॒ःऽकृ॒तम्। यत्। शम॑लम्। वि॒ऽवा॒हे। व॒ह॒तौ। च॒। यत्। तत्। स॒म्ऽभ॒लस्‍य॑। क॒म्ब॒ले। मृ॒ज्महे॑। दु॒ःऽइ॒तम्। व॒यम्। २.६६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

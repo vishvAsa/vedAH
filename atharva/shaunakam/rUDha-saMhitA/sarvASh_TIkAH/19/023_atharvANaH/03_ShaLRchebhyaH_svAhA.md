@@ -21,7 +21,7 @@ Hail to the six-versed!
 
 <details><summary>पदपाठः</summary>
 
-षट्ऽऋचेभ्यः। स्वाहा। २३.३।
+ष॒ट्ऽऋ॒चेभ्यः॑। स्वाहा॑ । २३.३।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

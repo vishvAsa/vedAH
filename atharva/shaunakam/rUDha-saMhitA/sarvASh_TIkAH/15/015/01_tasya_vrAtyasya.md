@@ -27,7 +27,7 @@ Of that Vratya.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। १५.१।
+तस्य॑। व्रात्य॑स्य। १५.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,3 +57,4 @@ Of that Vratya.
 
 टिप्पणी:   १−(तस्य) तादृशस्य (व्रात्यस्य) सत्यव्रतधारिणोऽतिथेः ॥
 </details>
+

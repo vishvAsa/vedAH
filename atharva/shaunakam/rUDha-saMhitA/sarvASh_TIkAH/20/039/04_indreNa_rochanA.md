@@ -10,7 +10,7 @@ By Indra were the luminous realms of heaven established and secured, Firm and im
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रेण। रोचना। दिवः। दृह्लानि। दृंहितानि। च। स्थिराणि। न। पराऽनुदे। ३९.४।
+इन्द्रे॑ण। रो॒च॒ना। दि॒वः। दृ॒ह्लानि॑। दृं॒हि॒तानि॑। च॒। स्थि॒राणि॑। न। प॒रा॒ऽनुदे॑। ३९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ By Indra were the luminous realms of heaven established and secured, Firm and im
 
 टिप्पणी:   ४−मन्त्राः २- व्याख्याताः-अ०२०।२८।१-४॥
 </details>
+

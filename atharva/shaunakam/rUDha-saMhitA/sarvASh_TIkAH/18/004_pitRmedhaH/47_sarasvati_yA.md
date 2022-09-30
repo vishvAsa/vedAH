@@ -24,7 +24,7 @@ Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the F
 
 <details><summary>पदपाठः</summary>
 
-सरस्वत᳡ देव॒यज॑नि। या। सऽरथम्। ययाथ। उक्थैः। स्वधाभिः। देवि। पितृऽभिः। मदन्ती। सहस्रऽअर्घम्। इडः। अत्र। भागम्। रायः। पोषम्। यजमानाय। धेहि। ४.४७।
+सर॑स्वत‍ि। या। स॒ऽरथ॑म्। य॒याथ॑। उ॒क्थैः। स्व॒धाभि॑ः। दे॒वि॒। पि॒तृऽभि॑ः। मद॑न्ती। स॒ह॒स्र॒ऽअ॒र्घम्। इ॒डः। अत्र॑। भा॒गम्। रा॒यः। पोष॑म्। यज॑मानाय। धे॒हि॒। ४.४७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,3 +54,4 @@ Sarasvati, who tamest with them, joying in hymns and food, O Goddess, with the F
 
 टिप्पणी:   ४५-४७−मन्त्राव्याख्याताः-अ० १८।१।४१-४३ ॥
 </details>
+

@@ -15,7 +15,7 @@ He went away to the supreme region.
 
 <details><summary>पदपाठः</summary>
 
-सः। परमाम्। दिशम्। अनु। वि। अचलत्। ६.१३।
+सः। प॒र॒माम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

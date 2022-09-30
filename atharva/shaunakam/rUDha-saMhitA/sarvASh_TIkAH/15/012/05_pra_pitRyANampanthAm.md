@@ -20,7 +20,7 @@ Well knows the path that leads to the Fathers and the way that. leads to the God
 
 <details><summary>पदपाठः</summary>
 
-प्र। पितृऽयानम्। पन्थाम्। जानाति। प्र। देवऽयानम्। १२.५।
+प्र। पि॒तृ॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। प्र। दे॒व॒ऽयान॑म्। १२.५। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -42,3 +42,4 @@ Well knows the path that leads to the Fathers and the way that. leads to the God
 
 टिप्पणी:   ५−(प्र) प्रकर्षेण (पितृयाणम्) पालयितृभिर्गन्तव्यम् (पन्थाम्) पन्थानम् (जानाति) वेत्ति (प्र) (देवयानम्) विद्वद्भिर्गन्तव्यम् ॥
 </details>
+

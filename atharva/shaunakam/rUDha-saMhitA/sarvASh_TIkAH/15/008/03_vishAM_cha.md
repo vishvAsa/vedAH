@@ -19,7 +19,7 @@ He who possesses this knowledge becomes the dear home of the people, kinsmen, fo
 
 <details><summary>पदपाठः</summary>
 
-विशाम्। च। वै। सः। सऽबन्धूनाम्। च। अन्नस्य। च। अन्नऽअद्यस्य। च। प्रियम्। धाम। भवति। यः। एवम्। वेद। ८.३।
+वि॒शाम्। च॒। वै। सः। सऽब॑न्धूनाम्। च॒। अन्न॑स्य। च॒। अ॒न्न॒ऽअद्य॑स्य। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

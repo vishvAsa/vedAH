@@ -10,7 +10,7 @@ Thee, Indra, we invoke, the Bull, what time the Soma is ex- pressed. So drink th
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। त्वा। वृषभम्। वयम्। सुते। सोमे। हवामहे। सः। पाहि। मध्वः। अन्धसः। ६.१।
+इन्द्र॑। त्वा॒। वृ॒ष॒भम्। व॒यम्। सु॒ते। सोमे॑। ह॒वा॒म॒हे॒। सः। पा॒हि॒। मध्व॑ः। अन्ध॑सः। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thee, Indra, we invoke, the Bull, what time the Soma is ex- pressed. So drink th
 
 टिप्पणी:   यह मन्त्र आचुका है-अ० २०।१।१। यह सूक्त ऋग्वेद में है-३।४०।१-९ ॥  १−अयं मन्त्रो व्याख्यातः-अ० २०।१।१ ॥
 </details>
+

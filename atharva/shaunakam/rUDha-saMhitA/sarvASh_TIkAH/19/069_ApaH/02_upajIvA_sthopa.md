@@ -18,7 +18,7 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 
 <details><summary>पदपाठः</summary>
 
-उपऽजीवाः। स्थ। उप। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.२।
+उ॒प॒ऽजी॒वाः। स्थ॒। उप॑। जी॒व्या॒सम्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 
 टिप्पणी:   २−(उपजीवाः) आश्रयेण जीवन्तः (उपजीव्यासम्) आश्रयेण जीवनवान् भूयासम्। अन्यत् पूर्ववत् ॥
 </details>
+

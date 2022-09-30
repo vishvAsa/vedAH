@@ -18,7 +18,7 @@ May he anoint you with Indra's own mighty power!
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रस्य। वः। इन्द्रियेण। अभि। सिञ्चेत्। १.९।
+इन्द्र॑स्य। व॒ः। इ॒न्द्रि॒येण॑। अ॒भि। सि॒ञ्चे॒त्। १.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ May he anoint you with Indra's own mighty power!
 
 टिप्पणी:   ९−(इन्द्रस्य) परमैश्वर्यवतःपुरुषस्य (वः) (युष्मान्) (इन्द्रियेण) परमैश्वर्येण (अभि षिञ्चेत्) अभिषेकयुक्तान्राज्याधिकारिणः कुर्यात् ॥
 </details>
+

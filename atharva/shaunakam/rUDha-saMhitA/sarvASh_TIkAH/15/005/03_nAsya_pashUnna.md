@@ -16,7 +16,7 @@ Neither Sarva nor Bhava nor Isana slays him who possesses this knowledge, or his
 
 <details><summary>पदपाठः</summary>
 
-न। अस्य। पशून्। न। समानम्। हिनस्ति। यः। एवम्। वेद। ५.३।
+न। अ॒स्य॒। प॒शून्। न। स॒मा॒नम्। हि॒न॒स्ति॒। यः। ए॒वम्। वेद॑। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

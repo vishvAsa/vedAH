@@ -23,7 +23,7 @@ By day the Vratya is turned westward, by night he is turned eastward. Worship to
 
 <details><summary>पदपाठः</summary>
 
-अह्ना। प्रत्यङ्। व्रात्यः। रात्र्या। प्राङ्। नमः। व्रात्याय। १८.५।
+अह्ना॑। प्र॒त्यङ्। व्रात्य॑ः। रात्र्या॑। प्राङ्। नम॑ः। व्रात्या॑य। १८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,3 +53,4 @@ By day the Vratya is turned westward, by night he is turned eastward. Worship to
 
 टिप्पणी:   ५−(अह्ना) दिनेन सह (प्रत्यङ्) प्रति+अञ्चु गतिपूजनयोः-क्विन्।प्रतिगतः। अभिमुखः (व्रात्यः) सत्यव्रतधारी पुरुषः (रात्र्या) (प्राङ्)प्र+अञ्चु गतिपूजनयोः-क्विन्। प्रकर्षेण गतः। अग्रगामी (नमः) सत्कारः (व्रात्याय) सत्यव्रतधारिणे विदुषे ॥
 </details>
+

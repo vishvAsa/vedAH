@@ -27,7 +27,7 @@ To Yama connected with the Fathers Hail! and homage!
 
 <details><summary>पदपाठः</summary>
 
-यमाय। पितृऽमते। स्वधा। नमः। ४.७४।
+य॒माय॑। पि॒तृऽम॑ते। स्व॒धा। नम॑ः। ४.७४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,3 +57,4 @@ To Yama connected with the Fathers Hail! and homage!
 
 टिप्पणी:   ७४−(यमाय) न्यायाधीशाय राज्ञे (पितृमते) म० ७२। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -20,7 +20,7 @@ May they carry sin away from us, may they carry away from us the evil dream.
 
 <details><summary>पदपाठः</summary>
 
-प्र। अस्मत्। एनः। वहन्तु। प्र। दुःऽस्वप्न्यम्। वहन्तु। १.११।
+प्र। अ॒स्मत्। एन॑ः। व॒ह॒न्तु॒। प्र। दु॒ःऽस्वप्न्य॑म्। व॒ह॒न्तु॒। १.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ May they carry sin away from us, may they carry away from us the evil dream.
 
 टिप्पणी:   ११−(अस्मत्) (एनम्) पापम् (प्रवहन्तु) बहिर्गमयन्तु (दुःस्वप्न्यम्) दुष्टस्वप्ने भवं कुविचारम् (प्र वहन्तु) ॥
 </details>
+

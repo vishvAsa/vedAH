@@ -21,7 +21,7 @@ Quick of hearing are mine ears; mine ears hear what is good- Fain would I hear a
 
 <details><summary>पदपाठः</summary>
 
-सुऽश्रुतौ। कर्णौ। भद्रऽश्रुतौ। कर्णौ। भद्रम्। श्लोकम्। श्रूयासम्। २.४।
+सु॒ऽश्रुतौ॑। कर्णौ॑। भ॒द्र॒ऽश्रुतौ॑। कर्णौ॑। भ॒द्रम्। श्लोक॑म्। श्रू॒या॒स॒म्। २.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ Quick of hearing are mine ears; mine ears hear what is good- Fain would I hear a
 
 टिप्पणी:   ४−(सुश्रुतौ) श्रु-क्विप्। शीघ्रश्रोतारौ (कर्णौ) श्रोत्रे (भद्रश्रुतौ) मङ्गलश्रोतारौ (भद्रम्) मङ्गलमयम् (श्लोकम्) यशः (श्रूयासम्)आकर्णयासम् ॥
 </details>
+

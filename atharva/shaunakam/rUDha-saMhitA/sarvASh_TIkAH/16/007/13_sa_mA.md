@@ -19,7 +19,7 @@ Let him not live. Let the breath of life forsake him.
 
 <details><summary>पदपाठः</summary>
 
-सः। मा। जीवीत्। तम्। प्राणः। जहातु। ७.१३।
+सः। मा। जी॒वी॒त्। तम्। प्रा॒णः। ज॒हा॒तु॒। ७.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let him not live. Let the breath of life forsake him.
 
 टिप्पणी:   १३−(सः) दुष्टः (मा जीवीत्)नैव प्राणान् धारयेत् (तम्) दुष्टम् (प्राणः) जीवनम् (जहातु) त्यजतु ॥
 </details>
+

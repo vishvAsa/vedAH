@@ -10,7 +10,7 @@ Wherewith thou dravest forth like cars Sindhu and all the mighty floods. To go t
 
 <details><summary>पदपाठः</summary>
 
-येन। सिन्धुम्। महीः। अपः। रथान्ऽइव। प्रऽचोदयः। पन्थाम्। ऋतस्य। यातवे। तम्। ईमहे। ६३.९।
+येन॑। सिन्धु॑म्। म॒हीः। अ॒पः। रथा॑न्ऽइव। प्र॒ऽचो॒दय॑ः। पन्था॑म्। ऋ॒तस्य॑। यात॑वे। तम्। ई॒म॒हे॒। ६३.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Wherewith thou dravest forth like cars Sindhu and all the mighty floods. To go t
 
 टिप्पणी:   ९−(येन) नियमेन (सिन्धुम्) अन्तरिक्षपृथिवीस्थसमुद्रं प्रति (मही) महतीः (अपः) जलानि (रथान्) (इव) यथा (प्रचोदयः) लुङि रूपम्। प्रेरितवानसि (पन्थाम्) पन्थानम् (ऋतस्य) सत्यस्य (यातवे) यातुम्। गन्तुम्। अन्यत् पूर्ववत् ॥
 </details>
+

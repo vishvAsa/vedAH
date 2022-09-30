@@ -19,7 +19,7 @@ The abode of the man who sacrifices when permitted by the Vratya who possesses t
 
 <details><summary>पदपाठः</summary>
 
-परि। अस्य। अस्मिन्। लोके। आऽयतनम्। शिष्यते। यः। एवम्। विदुषा। व्रात्येन। अतिऽसृष्टः। जुहोति। १२.७।
+परि॑। अ॒स्य॒। अ॒स्मिन्। लो॒के। आ॒ऽयत॑नम्। शि॒ष्य॒ते॒। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अति॑ऽसृष्टः। जु॒हो॒ति॒। १२.७। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ The abode of the man who sacrifices when permitted by the Vratya who possesses t
 
 टिप्पणी:   ७−(परि)सर्वतः (अस्य) गृहस्थस्य (अस्मिन्) दृश्यमाने (लोके) संसारे (आयतनम्)यती-ल्युट्। मर्यादाम्। आश्रयः (शिष्यते) अवशिष्टं वर्तते। अन्यत् पूर्ववत्-म० ४॥
 </details>
+

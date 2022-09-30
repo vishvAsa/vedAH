@@ -21,7 +21,7 @@ From him, verily, sprang Priesthood and Royalty. They said, Into whom shall we e
 
 <details><summary>पदपाठः</summary>
 
-अतः। वै। ब्रह्म। च। क्षत्रम्। च। उत्। अतिष्ठताम्। ते ᳡ देव॒यज॑नइति। अब्रूताम्। कम्। प्र। विशाय। इति। १०.३।
+अत॑ः। वै। ब्रह्म॑। च॒। क्ष॒त्रम्। च॒। उत्। अ॒ति॒ष्ठ॒ता॒म्। ते ‍इति॑। अ॒ब्रू॒ता॒म्। कम्। प्र। वि॒शा॒य॒। इति॑। १०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

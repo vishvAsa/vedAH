@@ -16,7 +16,7 @@ Viraj and all the Gods and all the Deities followed him.
 
 <details><summary>पदपाठः</summary>
 
-तम्। विऽराट्। अनु। वि। अचलत्। सर्वे। च। देवाः। सर्वा। च। देवताः। ६.२२।
+तम् । वि॒ऽराट् । अनु॑ । वि । अ॒च॒ल॒त् । सर्वे॑ । च॒ । दे॒वाः । सर्वा॑ । च॒ । दे॒वता॑ः ६.२२।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

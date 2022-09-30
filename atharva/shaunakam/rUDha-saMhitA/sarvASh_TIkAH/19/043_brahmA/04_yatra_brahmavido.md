@@ -19,7 +19,7 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। चन्द्रः। मा। तत्र। नयतु। मनः। चन्द्रः। दधातु। मे। चन्द्राय। स्वाहा। ४३.४।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। च॒न्द्रः। मा॒। तत्र॑। न॒य॒तु॒। मनः॑। च॒न्द्रः। द॒धा॒तु॒। मे॒। च॒न्द्राय॑। स्वाहा॑। ४३.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Whither, etc. Thither let Chandra lead me, let Chandra vouchsafe me intellect. A
 
 टिप्पणी:   ४−(चन्द्रः) चन्द्र इवाह्लादकः परमात्मा (मनः) मननसामर्थ्यम् (चन्द्रः) (चन्द्राय) आह्लादकाय परमात्मने। अन्यत् पूर्ववत् ॥
 </details>
+

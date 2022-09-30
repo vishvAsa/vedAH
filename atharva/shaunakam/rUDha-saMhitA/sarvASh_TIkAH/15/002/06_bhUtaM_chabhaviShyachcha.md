@@ -18,7 +18,7 @@ Present and Future are his running footmen, mind is his war-chariot,
 
 <details><summary>पदपाठः</summary>
 
-भूतम्। च। भविष्यत्। च। परिऽस्कन्दौ। मनः। विऽपथम्। २.६।
+भू॒तम्। च॒। भ॒वि॒ष्यत्। च॒। प॒रि॒ऽस्क॒न्दौ। मन॑ः। वि॒ऽप॒थम्। २.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

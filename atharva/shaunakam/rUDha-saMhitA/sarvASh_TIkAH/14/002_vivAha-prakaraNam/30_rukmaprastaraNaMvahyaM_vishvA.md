@@ -26,7 +26,7 @@ Surya the child of Savitar mounted for high felicity Her litter with its cloth o
 
 <details><summary>पदपाठः</summary>
 
-रुक्मऽप्रस्तरणम्। वह्यम्। विश्वा। रूपाणि। बिभ्रतम्। आ। अरोहत्। सूर्या। सावित्री। बृहते। सौभगाय। कम्। २.३०।
+रु॒क्म॒ऽप्रस्त॑रणम्। व॒ह्यम्। विश्वा॑। रू॒पाणि॑। बिभ्र॑तम्। आ। अ॒रो॒ह॒त्। सू॒र्या। सा॒वि॒त्री। बृ॒ह॒ते। सौभ॑गाय। कम्। २.३०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -18,7 +18,7 @@ Her whom Brihaspati, etc. With all the milky store possessed by cows do we enric
 
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिना। अवऽसृष्टाम्। विश्वे। देवाः। अधारयन्। पयः। गोषु। प्रऽविष्टम्। यत्। तेन। इमाम्। सम्। सृजामसि। २.५७।
+बृह॒स्पति॑ना। अव॑ऽसृष्टाम्। विश्वे॑। दे॒वाः। अ॒धा॒र॒य॒न्। पय॑ः। गोषु॑। प्रऽवि॑ष्टम्। यत्। तेन॑। इ॒माम्। सम्। सृ॒जा॒म॒सि॒। २.५७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -16,7 +16,7 @@ He, when he went away to creatures, went away having become Prajapati and having
 
 <details><summary>पदपाठः</summary>
 
-सः। यत्। प्रऽजाः। अनु। विऽअचलत्। प्रजाऽपतिः। भूत्वा। अनुऽव्य᳡चलत्। प्राणम्। अन्नऽअदम्। कृत्वा। १४.२१।
+सः। यत्। प्र॒ऽजाः। अनु॑। वि॒ऽअच॑लत्। प्र॒जाऽप॑तिः। भू॒त्वा। अ॒नु॒ऽव्य᳡चलत्। प्रा॒णम्। अ॒न्न॒ऽअ॒दम्। कृ॒त्वा। १४.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ He, when he went away to creatures, went away having become Prajapati and having
 
 टिप्पणी:   २१, २२−(प्रजाः)जीवान् (प्रजापतिः) जीवपालः (प्राणम्) आत्मबलम् (प्राणेन) आत्मबलेन। अन्यत्पूर्ववत्-म० १, २ ॥
 </details>
+

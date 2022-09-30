@@ -21,7 +21,7 @@ Let him not be freed from the fetter and noose of Death.
 
 <details><summary>पदपाठः</summary>
 
-सः। मृत्योः। पड्वीशात्। पाशात्। मा। मोचि। ८.३२।
+सः। मृ॒त्योः। पड्वी॑शात्। पाशा॑त्। मा। मो॒चि॒। ८.३२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ Let him not be freed from the fetter and noose of Death.
 
 टिप्पणी:   ३२−(मृत्योः) मरणस्य (पड्वीशात्) अ० ६।९६।२। सर्त्तेरटिः। उ० १।१३४। पश बन्धने-अटि, डित्+विशप्रवेशे-क, दीर्घः। पाशप्रवेशयुक्तात्। अन्यत् पूर्ववत्-म० १-४ ॥
 </details>
+

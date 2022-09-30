@@ -96,7 +96,7 @@ All living fathers who are here are we here: let them follow us. May we be the m
 
 <details><summary>पदपाठः</summary>
 
-ये। इह। पितरः। जीवाः। इह। वयम्। स्मः। अस्मान्। ते। अनु। वयम्। तेषाम्। श्रेष्ठाः। भूयास्म। ४.८७।
+ये। इ॒ह। पि॒तर॑ः। जी॒वाः। इ॒ह। व॒यम्। स्म॒ः। अ॒स्मान्। ते। अनु॑। व॒यम्। तेषा॑म्। श्रेष्ठा॑ः। भू॒या॒स्म॒। ४.८७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -126,3 +126,4 @@ All living fathers who are here are we here: let them follow us. May we be the m
 
 टिप्पणी:   ८७−(जीवाः) जीवनवन्तः। सचेतसः (इह) (वयम्) (स्मः) भवामः (ते)प्रसिद्धाः (अनु) अनुसृत्य। अनुकूल्य (वयम्) अन्यत् पूर्ववत् ॥
 </details>
+

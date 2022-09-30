@@ -23,5 +23,6 @@ When he says to him, Vratya, as thy will is so let it be, he secures to himself 
 
 <details><summary>पदपाठः</summary>
 
-यत्। एनम्। आह। ते। वशः। तथा। अस्तु। इति। वशम्। एव। तेन। अव। रुन्ध्दे। ११.८।
+यत्। ए॒न॒म्। आह॑। ते॒। वश॑ः। तथा॑। अ॒स्तु॒। इति॑। वश॑म्। एव। तेन॑। अव॑। रु॒न्ध्दे॒। ११.८। 
 </details>
+

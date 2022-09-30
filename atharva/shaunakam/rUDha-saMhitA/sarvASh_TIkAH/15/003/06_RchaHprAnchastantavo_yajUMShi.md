@@ -20,7 +20,7 @@ Holy verses were the strings lengthwise, and Yajus formulas the cross-tapes.
 
 <details><summary>पदपाठः</summary>
 
-ऋचः। प्राञ्चः। तन्तवः। यजूंषि। तिर्यञ्च। ३.६।
+ऋच॑ः। प्राञ्च॑ः। तन्त॑वः। यजूं॑षि। ति॒र्यञ्च॑। ३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

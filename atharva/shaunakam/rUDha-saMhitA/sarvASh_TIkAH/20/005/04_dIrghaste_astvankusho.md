@@ -10,7 +10,7 @@ Long be thy grasping-hook wherewith thou givest treasure unto- him Who pours the
 
 <details><summary>पदपाठः</summary>
 
-दीर्घः। ते। अस्तु। अङ्कुशः। येन। वसु। प्रऽयच्छस᳡ देव॒यज॑नि। यजमानाय। सुन्वते। ५.४।
+दी॒र्घः। ते॒। अ॒स्तु॒। अ॒ङ्कु॒शः। येन॑। वसु॑। प्र॒ऽयच्छ॑स‍ि। यज॑मानाय। सु॒न्व॒ते। ५.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Long be thy grasping-hook wherewith thou givest treasure unto- him Who pours the
 
 टिप्पणी:   ४−(दीर्घः) आयतः। विस्तृतः (ते) तव (अस्तु) (अङ्कुशः) वक्राग्रो लौहास्त्रभेदः। दण्डसाधनम् (येन) कारणेन (वसु) धनम् (प्रयच्छसि) ददासि (यजमानाय) दानिने पुरुषाय (सुन्वते) तत्त्वरसं निष्पादयते ॥
 </details>
+

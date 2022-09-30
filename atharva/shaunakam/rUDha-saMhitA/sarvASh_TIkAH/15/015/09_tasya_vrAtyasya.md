@@ -19,7 +19,7 @@ His seventh vital breath, called Unlimited, are these creatures.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। सप्तमः। प्राणः। अपरिऽमितः। नाम। ताः। इमाः। प्रऽजाः। १५.९।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। स॒प्त॒मः। प्रा॒णः। अप॑रिऽमितः। नाम॑। ताः। इ॒माः। प्र॒ऽजाः। १५.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ His seventh vital breath, called Unlimited, are these creatures.
 
 टिप्पणी:   ९−(अपरिमितः) अगणितः (प्रजाः) सङ्घटनविद्याः। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

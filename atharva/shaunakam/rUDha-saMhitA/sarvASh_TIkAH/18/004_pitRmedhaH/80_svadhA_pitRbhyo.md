@@ -25,7 +25,7 @@ Hail to the Fathers who dwell in heaven!
 
 <details><summary>पदपाठः</summary>
 
-स्वधा। पितृऽभ्यः। दिविसत्ऽभ्यः। ४.८०।
+स्व॒धा। पि॒तृऽभ्य॑ः। दि॒वि॒सत्ऽभ्य॑ः। ४.८०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -55,3 +55,4 @@ Hail to the Fathers who dwell in heaven!
 
 टिप्पणी:   ८०−(दिविषद्भ्यः) सप्तम्या अलुक्। प्रकाशविद्यायां गतिशीलेभ्यः। अन्यत्पूर्ववत् ॥
 </details>
+

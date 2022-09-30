@@ -19,7 +19,7 @@ He who hath this knowledge becomes the dear home of Meeting, Assembly, Army, and
 
 <details><summary>पदपाठः</summary>
 
-सभायाः। च। वै। सः। सम्ऽइतेः। च। सेनायाः। च। सुरायाः। च। प्रियम्। धाम। भवति। यः। एवम्। वेद। ९.३।
+स॒भाया॑ः। च॒। वै। सः। सम्ऽइ॑तेः। च॒। सेना॑याः। च॒। सुरा॑याः। च॒। प्रि॒यम्। धाम॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -19,7 +19,7 @@ Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a
 
 <details><summary>पदपाठः</summary>
 
-इदम्। अहम्। आमुष्यायणे। अमुष्याः। पुत्रे। दुःऽस्वप्न्यम्। मृजे। ७.८।
+इ॒दम्। अ॒हम्। आ॒मु॒ष्या॒य॒णे। अ॒मुष्या॑ः। पु॒त्रे। दु॒ःऽस्वप्न्य॑म्। मृ॒जे॒। ७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Here I wipe away the evil dream on the descendant of Such-an- one, son of Such-a
 
 टिप्पणी:   ८−(इदम्) इदानीम् (अहम्) धर्मात्मा (आमुष्यायणे) अमुष्य पुरुषस्य सन्ताने (अमुष्याः) अमुकस्त्रियाः (पुत्रे) कुमार्गिणि सन्ताने (दुःष्वप्न्यम्)दुष्टस्वप्ने भवं कुविचारम् (मृजे) शोधयामि ॥
 </details>
+

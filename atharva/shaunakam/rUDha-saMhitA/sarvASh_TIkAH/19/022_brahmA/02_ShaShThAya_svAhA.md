@@ -18,7 +18,7 @@ To the sixth, Hail!
 
 <details><summary>पदपाठः</summary>
 
-षष्ठाय। स्वाहा। २२.२।
+ष॒ष्ठाय॒। स्वाहा॑। २२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To the sixth, Hail!
 
 टिप्पणी:   २−(षष्ठाय) पृथिव्यादिपञ्चभूतापेक्षया षट्संख्यापूरकाय परमेश्वराय ॥
 </details>
+

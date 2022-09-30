@@ -20,7 +20,7 @@ He grew, he became great, he became Mahadeva.
 
 <details><summary>पदपाठः</summary>
 
-सः। अवर्धत। सः। महान्। अभवत्। सः। महाऽदेवः। अभवत्। १.४।
+सः। अ॒व॒र्ध॒त॒। सः। म॒हान्। अ॒भ॒व॒त्। सः। म॒हा॒ऽदे॒वः। अ॒भ॒व॒त्। १.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

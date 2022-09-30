@@ -20,7 +20,7 @@ Hail to the two Surya hymns!
 
 <details><summary>पदपाठः</summary>
 
-सूर्याभ्याम्। स्वाहा। २३.२४।
+सू॒र्याभ्या॑म्। स्वाहा॑। २३.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ Hail to the two Surya hymns!
 
 टिप्पणी:   २४−(सूर्याभ्याम्) प्रेरकाभ्यां परमात्मजीवात्मभ्याम् ॥
 </details>
+

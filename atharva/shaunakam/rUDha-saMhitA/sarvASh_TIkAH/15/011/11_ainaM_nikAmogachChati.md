@@ -20,7 +20,7 @@ His desire comes to him who possesses this knowledge and he gains the complete s
 
 <details><summary>पदपाठः</summary>
 
-आ। एनम्। निऽकामः। गच्छति। निऽकामे। निऽकामस्य। भवति। यः। एवम्। वेद। ११.११।
+आ। ए॒न॒म्। नि॒ऽका॒मः। ग॒च्छ॒ति॒। नि॒ऽका॒मे। नि॒ऽका॒मस्य॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ११.११। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -42,3 +42,4 @@ His desire comes to him who possesses this knowledge and he gains the complete s
 
 टिप्पणी:   ११−(निकामः) लालसा (निकामे) निरन्तरकामे। इच्छापूर्तौ (निकामस्य)लालसायाः। अन्यत् पूर्ववत् ॥
 </details>
+

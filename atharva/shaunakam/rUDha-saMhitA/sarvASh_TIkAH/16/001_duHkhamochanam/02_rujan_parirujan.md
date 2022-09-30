@@ -18,7 +18,7 @@ Breaking, breaking down, crushing, crushing to pieces,
 
 <details><summary>पदपाठः</summary>
 
-रुजन्। परिऽरुजन्। मृणन्। प्रऽमृणन्। १.२।
+रु॒जन्। प॒रि॒ऽरु॒जन्। मृ॒णन्। प्र॒ऽमृ॒णन्। १.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Breaking, breaking down, crushing, crushing to pieces,
 
 टिप्पणी:   २−(रुजन्) विदारयन् (परिरुजन्) सर्वतो विदारयन् (मृणन्) मारयन् (प्रमृणन्) प्रकर्षेण नाशयन् ॥
 </details>
+

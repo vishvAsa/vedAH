@@ -15,7 +15,7 @@ title = "१० तस्मा उदीच्यादिशः"
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। उदीच्याः। दिशः। ४.१०।
+तस्मै॑। उदी॑च्याः। दि॒शः। ४.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

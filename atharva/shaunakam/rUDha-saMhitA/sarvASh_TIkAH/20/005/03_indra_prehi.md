@@ -10,7 +10,7 @@ Indra, advance, go forward thou who by thy might art Lord of all. Slay, Vritra-s
 
 <details><summary>पदपाठः</summary>
 
-इन्द्र। प्र। इहि। पुरः। त्वम्। विश्वस्य। ईशानः। ओजसा। वृत्राणि। वृत्रऽहन्। जहि। ५.३।
+इन्द्र॑। प्र। इ॒हि॒। पु॒रः। त्वम्। विश्व॑स्य। ईशा॑नः। ओज॑सा। वृ॒त्राणि॑। वृ॒त्र॒ऽह॒न्। ज॒हि॒। ५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra, advance, go forward thou who by thy might art Lord of all. Slay, Vritra-s
 
 टिप्पणी:   ३−(इन्द्र) (प्र) प्रकर्षेण (इहि) गच्छ (पुरः) अग्रतः (त्वम्) (विश्वस्य) सर्वस्य (ईशानः) स्वामी (ओजसा) स्वबलेन (वृत्राणि) शत्रून् (वृत्रहन्) हे शत्रुनाशक (जहि) नाशय ॥
 </details>
+

@@ -24,7 +24,7 @@ I am the head of riches. Fain would I be the head of mine equals.
 
 <details><summary>पदपाठः</summary>
 
-मूर्धा। अहम्। रयीणाम्। मूर्धा। समानानाम्। भूयासम्। ३.१।
+मू॒र्धा। अ॒हम्। र॒यी॒णाम्। मू॒र्धा। स॒मा॒नाना॑म्। भू॒या॒स॒म्। ३.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,3 +54,4 @@ I am the head of riches. Fain would I be the head of mine equals.
 
 टिप्पणी:   १−(मूर्धा) शिरः। मस्तकवत्प्रधानः (अहम्) (रयीणाम्) विद्यासुवर्णादिधनानाम् (मूर्धा) (समानानाम्) सम्+आङ्+णीञ् प्रापणे-ड तुल्यगुणवताम् (भूयासम्) ॥
 </details>
+

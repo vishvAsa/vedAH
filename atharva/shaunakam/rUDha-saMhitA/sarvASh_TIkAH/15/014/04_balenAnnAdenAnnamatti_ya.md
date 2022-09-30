@@ -16,7 +16,7 @@ He who hath this knowledge eats food with strength as food-eater.
 
 <details><summary>पदपाठः</summary>
 
-बलेन। अन्नऽअदेन। अन्नम्। यः। एवम्। वेद। १४.४।
+बले॑न। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। यः। ए॒वम्। वेद॑। १४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ He who hath this knowledge eats food with strength as food-eater.
 
 टिप्पणी:   ३, ४−(दक्षिणाम्)दक्षिणदेशस्थाम्। स्वशरीरस्य दक्षिणभागस्थाम् (इन्द्रः) परमैश्वर्यवान् (बलम्)सामर्थ्यम् (बलेन) सामर्थ्येन। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
+

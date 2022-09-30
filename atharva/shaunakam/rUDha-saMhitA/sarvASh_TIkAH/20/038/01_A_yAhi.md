@@ -10,7 +10,7 @@ Come, we have pressed the juice for thee. O Indra, drink the Soma here. Sit thou
 
 <details><summary>पदपाठः</summary>
 
-आ। याहि। सुसुम। हि। ते। इन्द्र। सोमम्। पिब। इमम्। आ। इदम्। बर्हिः। सदः। मम। ३८.१।
+आ। या॒हि॒। सु॒सु॒म। हि। ते॒। इन्द्र॑। सोम॑म्। पिब॑। इ॒मम्। आ। इ॒दम्। ब॒र्हिः। स॒द॒ः। मम॑। ३८.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Come, we have pressed the juice for thee. O Indra, drink the Soma here. Sit thou
 
 टिप्पणी:   मन्त्र १-३ आ चुके हैं-अ०२०।३।१-३ और आगे हैं-अ०२०।४७।७-९॥१−मन्त्राः १-३ व्याख्याताः-अ०२०।३।१-३॥
 </details>
+

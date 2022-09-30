@@ -28,7 +28,7 @@ Ye are life-givers. I fain would live. I fain would live my com- plete term of l
 
 <details><summary>पदपाठः</summary>
 
-जीवलाः। स्थ। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.४।
+जी॒व॒लाः। स्थ॒। जी॒व्यास॑म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -58,3 +58,4 @@ Ye are life-givers. I fain would live. I fain would live my com- plete term of l
 
 टिप्पणी:   ४−(जीवलाः) जीव+ला दानादानयोः-क प्रत्ययः। जीवनदातारः ॥
 </details>
+

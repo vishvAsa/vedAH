@@ -20,7 +20,7 @@ His seventh downward breath are these sacrificial fees.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। सप्तमः। अपानः। ताः। इमाः। दक्षिणाः। १६.७।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। स॒प्त॒मः। अ॒पा॒नः। ताः। इ॒माः। दक्षि॑णाः। १६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ His seventh downward breath are these sacrificial fees.
 
 टिप्पणी:   ७−(दक्षिणाः) यज्ञसमाप्तौ विद्वद्भ्यः सत्कारद्रव्याणि। अन्यत् पूर्ववत्स्पष्टं च ॥
 </details>
+

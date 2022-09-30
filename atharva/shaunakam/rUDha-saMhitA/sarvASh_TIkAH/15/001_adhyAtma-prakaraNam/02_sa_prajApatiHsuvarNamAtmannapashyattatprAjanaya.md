@@ -19,7 +19,7 @@ Prajapati beheld gold in himself and engendered it.
 
 <details><summary>पदपाठः</summary>
 
-सः। प्रजाऽपतिः। सुऽवर्णम्। आत्मन्। अपश्यत्। तत्। प्र। अजनयत्। १.२।
+सः। प्र॒जाऽप॑तिः। सु॒ऽवर्ण॑म्। आ॒त्मन्। अ॒प॒श्य॒त्। तत्। प्र। अ॒ज॒न॒य॒त्। १.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

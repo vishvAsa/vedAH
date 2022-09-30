@@ -36,3 +36,4 @@ SPP. reads. Two of our mss. (O.R.), and one of SPP's, also have
 
 Sacrifice, duly offered, comes preparing the sacrificer for the. world of Svarga, Let all the fires, each Jatavedas, welcome Prajapati's completely offered victim. Let them not cast it down while here they cook it.
 </details>
+

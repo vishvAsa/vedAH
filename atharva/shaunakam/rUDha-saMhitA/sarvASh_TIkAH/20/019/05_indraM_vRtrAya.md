@@ -10,7 +10,7 @@ For the foe's slaughter I address Indra whom many invocate, To win us booty in t
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रम्। वृत्राय। हन्तवे। पुरुऽहूतम्। उप। ब्रुवे। भरेषु। वाजऽसातये। १९.५।
+इन्द्र॑म्। वृ॒त्राय॑। हन्त॑वे। पु॒रु॒ऽहू॒तम्। उप॑। ब्रु॒वे॒। भरे॑षु। वाज॑ऽसातये। १९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ For the foe's slaughter I address Indra whom many invocate, To win us booty in t
 
 टिप्पणी:   −(इन्द्रम्) परमैश्वर्ययुक्तं राजानम् (वृत्राय) वृत्रं शत्रुम् (हन्तवे) तवेन् प्रत्ययः। हन्तुम् (पुरुहूतम्) बहुभिराहूतम् (उप) समीपे (ब्रुवे) कथयामि (भरेषु) सङ्ग्रामेषु (वाजसातये) धनानां लाभाय ॥
 </details>
+

@@ -22,7 +22,7 @@ To the Rishis, Hail!
 
 <details><summary>पदपाठः</summary>
 
-ऋषिऽभ्यः। स्वाहा। २२.१४।
+ऋ॒षिऽभ्यः॑। स्वाहा॑। २२.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -52,3 +52,4 @@ To the Rishis, Hail!
 
 टिप्पणी:   १४−(ऋषिभ्यः) वेदार्थदर्शकेभ्यो मुनिभ्यः ॥
 </details>
+

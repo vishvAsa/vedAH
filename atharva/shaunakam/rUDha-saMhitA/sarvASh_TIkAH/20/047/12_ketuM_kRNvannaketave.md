@@ -10,7 +10,7 @@ Thou, making light where no light was, and form, O Men r where no form was, Wast
 
 <details><summary>पदपाठः</summary>
 
-केतुम्। कृण्वन्। अकेतवे। पेशः। मर्याः। अपेशसे। सम्। उषत्ऽभिः। अजायथाः। ४७.१२।
+के॒तुम्। कृ॒ण्वन्। अ॒के॒तवे॑। पेश॑ः। म॒र्या॒ः। अ॒पे॒शसे॑। सम्। उ॒षत्ऽभि॑ः। अ॒जा॒य॒था॒ः। ४७.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thou, making light where no light was, and form, O Men r where no form was, Wast
 
 टिप्पणी:   १०-१२−एते मन्त्रा व्याख्याताः-अ० २०।२६।४-६ ॥
 </details>
+

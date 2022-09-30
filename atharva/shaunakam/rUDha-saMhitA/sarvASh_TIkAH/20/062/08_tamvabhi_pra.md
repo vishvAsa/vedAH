@@ -10,7 +10,7 @@ Sing forth to him whom many men invoke, to him whom many laud: Invite the potent
 
 <details><summary>पदपाठः</summary>
 
-तम्। ऊं इति। अभि। प्र। गायत। पुरुऽहूतम्। पुरुऽस्तुतम्। इन्द्रम्। गीऽभिः। तविषम्। आ। विवासत। ६२.८।
+तम्। ऊं॒ इति॑। अ॒भि। प्र। गा॒य॒त॒। पु॒रु॒ऽहू॒तम्। पु॒रु॒ऽस्तु॒तम्। इन्द्र॑म्। गी॒ऽभिः। त॒वि॒षम्। आ। वि॒वा॒स॒त॒। ६२.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Sing forth to him whom many men invoke, to him whom many laud: Invite the potent
 
 टिप्पणी:   मन्त्र ८-१० आचुके हैं-अ० २०।६१।४-६ ॥  ८-१०−एते मन्त्रा व्याख्याताः-अ० २०।६१।४-६ ॥
 </details>
+

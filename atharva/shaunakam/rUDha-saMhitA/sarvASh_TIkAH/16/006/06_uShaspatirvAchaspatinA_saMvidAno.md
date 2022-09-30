@@ -21,7 +21,7 @@ The Lord of Dawn in accord with the Lord of Speech and the Lord of Speech in acc
 
 <details><summary>पदपाठः</summary>
 
-उषः। पतिः। वाचः। पतिना। सम्ऽविदानः। वाचः। पतिः। उषः। पतिना। सम्ऽविदानः। ६.६।
+उ॒षः। पति॑ः। वा॒चः। पति॑ना। स॒म्ऽवि॒दा॒नः। वा॒चः। पति॑ः। उ॒षः। पति॑ना। स॒म्ऽवि॒दा॒नः। ६.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ The Lord of Dawn in accord with the Lord of Speech and the Lord of Speech in acc
 
 टिप्पणी:   ६−(उषः)विभक्तिलोपः। उषसः। प्रभातवेलायाः (पतिः) पालकः पुरुषः (वाचः) वाण्याः (पतिना)पालकेन पुरुषेण (संविदानः) संगच्छमानः (वाचस्पतिः) विद्याभ्यासी पुरुषः (उषस्पतिना) प्रभातबोधनशीलेन (संविदानः) ॥
 </details>
+

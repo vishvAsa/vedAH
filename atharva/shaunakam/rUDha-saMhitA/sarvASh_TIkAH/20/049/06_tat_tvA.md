@@ -10,7 +10,7 @@ I crave of thee that hero strength--that thou mayst first regard this prayer Whe
 
 <details><summary>पदपाठः</summary>
 
-तत्। त्वा। यामि। सुऽवीर्यम्। तत्। ब्रह्म। पूर्वऽचित्तये। येन। यतिऽभ्यः। भृगवे। धने। हिते। येन। प्रस्कण्वम्। आविथ। ४९.६।
+तत्। त्वा॒। या॒मि॒। सु॒ऽवीर्य॑म्। तत्। ब्रह्म॑। पू॒र्वऽचि॑त्तये। येन॑। यति॑ऽभ्यः। भृग॑वे। धने॑। हि॒ते। येन॑। प्रस्क॑ण्वम्। आवि॑थ। ४९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ I crave of thee that hero strength--that thou mayst first regard this prayer Whe
 
 टिप्पणी:   ४-७−एते मन्त्रा व्याख्याताः-अ० २०।९।१-४ ॥
 </details>
+

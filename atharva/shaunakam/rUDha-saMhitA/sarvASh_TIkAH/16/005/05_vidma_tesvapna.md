@@ -19,7 +19,7 @@ We know thine origin, O Sleep. Thou art the son of Defeat etc.
 
 <details><summary>पदपाठः</summary>
 
-विद्म। ते। स्वप्न। जनित्रम्। अभूत्याः। पुत्रः। असि। यमस्य। करणः। ५.५।
+वि॒द्म। ते॒। स्व॒प्न॒। ज॒नित्र॑म्। अभू॑त्याः। पु॒त्रः। अ॒सि॒। य॒मस्य॑। कर॑णः। ५.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ We know thine origin, O Sleep. Thou art the son of Defeat etc.
 
 टिप्पणी:   ५−(अभूत्याः) असम्पत्त्याः। अन्यत् पूर्ववत् ॥
 </details>
+

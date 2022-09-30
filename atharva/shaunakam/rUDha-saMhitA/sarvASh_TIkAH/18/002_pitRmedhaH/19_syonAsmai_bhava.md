@@ -35,7 +35,7 @@ Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him 
 
 <details><summary>पदपाठः</summary>
 
-स्योना। अस्मै। भव। पृथिवि। अनृक्षरा। निऽविशनी। यच्छ। अस्मै। शर्म। सऽप्रथाः। २.१९।
+स्यो॒ना। अ॒स्मै॒। भ॒व॒। पृ॒थि॒वि॒। अ॒नृ॒क्ष॒रा। नि॒ऽविश॑नी। यच्छ॑। अ॒स्मै॒। शर्म॑। स॒ऽप्रथा॑ः। २.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -65,3 +65,4 @@ Be pleasant unto him, O Earth, thornless and lulling him to rest. Vouchsafe him 
 
 टिप्पणी:   १९−(स्योना)सुखप्रदा (अस्मै) पुरुषाय (भव) (पृथिवि) हे भूमे (अनृक्षरा) अकण्टका (निवेशनी)प्रवेशयोग्या (यच्छ) देहि (शर्म) शरणम् (सप्रथाः) प्रथसा विस्तारेण सहिता त्वम्॥
 </details>
+

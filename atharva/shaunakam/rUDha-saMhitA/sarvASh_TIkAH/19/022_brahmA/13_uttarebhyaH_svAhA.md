@@ -20,7 +20,7 @@ To the latter ones, Hail!
 
 <details><summary>पदपाठः</summary>
 
-उत्ऽतरेभ्यः। स्वाहा। २२.१३।
+उ॒त्ऽत॒रेभ्यः॑। स्वाहा॑। २२.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ To the latter ones, Hail!
 
 टिप्पणी:   १३−(उत्तरेभ्यः) अधिकतरोन्नतपुरुषेभ्यः ॥
 </details>
+

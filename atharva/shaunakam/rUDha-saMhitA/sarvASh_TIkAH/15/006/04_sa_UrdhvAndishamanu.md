@@ -15,7 +15,7 @@ He went his way to the region of the zenith.
 
 <details><summary>पदपाठः</summary>
 
-सः। ऊर्ध्वाम्। दिशम्। अनु। वि। अचलत्। ६.४।
+सः। ऊ॒र्ध्वाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

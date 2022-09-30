@@ -16,7 +16,7 @@ Isana the Archer, a deliverer, delivers him from all the intermediate regions. N
 
 <details><summary>पदपाठः</summary>
 
-ईशानः। एनम्। इषुऽआसः। सर्वेभ्यः। अन्तःऽदेशेभ्यः। अनुऽस्थाता। अनु। तिष्ठति। न। एनम्। शर्वः। न। भवः। न। ईशानः। ५.१५।
+ईशा॑नः। ए॒न॒म्। इ॒षु॒ऽआ॒सः। सर्वे॑भ्यः। अ॒न्त॒ःऽदे॒शेभ्य॑ः। अ॒नु॒ऽस्था॒ता। अनु॑। ति॒ष्ठ॒ति॒। न। ए॒न॒म्। श॒र्वः। न। भ॒वः। न। ईशा॑नः। ५.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ Isana the Archer, a deliverer, delivers him from all the intermediate regions. N
 
 टिप्पणी:   १४, १५, १६−(अन्तर्देशेभ्यः) मध्यदेशेभ्यः (ईशानम्) सर्वस्वामिनम्। अन्यत् पूर्ववत्-म०१-३, स्पष्टं च ॥
 </details>
+

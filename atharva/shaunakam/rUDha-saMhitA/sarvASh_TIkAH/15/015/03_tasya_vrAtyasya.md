@@ -18,7 +18,7 @@ His first vital breath, called Upward, is this Agni.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। प्रथमः। प्राणः। ऊर्ध्वः। नाम। अयम्। सः। अग्निः। १५.३।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प्र॒थ॒मः। प्रा॒णः। ऊ॒र्ध्वः। नाम॑। अ॒यम्। सः। अ॒ग्निः। १५.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ His first vital breath, called Upward, is this Agni.
 
 टिप्पणी:   ३−(प्रथमः) आद्यः (ऊर्ध्वः) उन्नतः (अग्निः) अग्निविद्याप्रकाशः। अन्यत्पूर्ववत् स्पष्टं च ॥
 </details>
+

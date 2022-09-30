@@ -10,7 +10,7 @@ Indra, thy laud moves quickly like a joyous wave of waters: bright. Have shone t
 
 <details><summary>पदपाठः</summary>
 
-अपाम्। ऊर्मिः। मदन्ऽइव। स्तोमः। इन्द्र। अजिरयते। वि। ते। मदाः। अराजिषुः। ३९.५।
+अ॒पाम्। ऊ॒र्मिः। मद॑न्ऽइव। स्तोम॑ः। इ॒न्द्र॒। अ॒जि॒र॒य॒ते॒। वि। ते॒। मदा॑ः। अ॒रा॒जि॒षु॒ः। ३९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra, thy laud moves quickly like a joyous wave of waters: bright. Have shone t
 
 टिप्पणी:   −मन्त्राः २- व्याख्याताः-अ०२०।२८।१-४॥
 </details>
+

@@ -19,7 +19,7 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 
 <details><summary>पदपाठः</summary>
 
-प्रजाऽपतिम्। ते। प्रजननऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। ध्रुवायाः। दिशः। अभिऽदासात्। १८.९।
+प्र॒जाऽप॑तिम्। ते। प्र॒जन॑नऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ध्रु॒वायाः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 
 टिप्पणी:   ९−(प्रजापतिम्) सर्वपालकं परमात्मानम् (प्रजननवन्तम्) सृजनसामर्थ्यस्वामिनम् (ध्रुवायाः) स्थिरायाः। अधःस्थितायाः। अन्यत् पूर्ववत् ॥
 </details>
+

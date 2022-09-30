@@ -30,7 +30,7 @@ Unmarried men desire to wed; bountiful givers wish for sons. Together may we dwe
 
 <details><summary>पदपाठः</summary>
 
-जनिऽयन्ति। नौ। अग्रवः। पुत्रिऽयन्ति। सुऽदानवः। अरिष्टासू इत्यरिष्टऽअसू। सचेवहि। बृहते। वाजऽसातये। २.७२।
+ज॒नि॒ऽयन्ति॑। नौ॒। अग्र॑वः। पु॒त्रि॒ऽयन्ति॑। सु॒ऽदान॑वः। अरि॑ष्टासू॒ इत्यरि॑ष्टऽअसू। स॒चे॒व॒हि॒। बृ॒ह॒ते। वाज॑ऽसातये। २.७२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

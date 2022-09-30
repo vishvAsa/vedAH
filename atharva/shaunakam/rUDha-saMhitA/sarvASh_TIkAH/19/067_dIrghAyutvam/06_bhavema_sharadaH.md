@@ -18,7 +18,7 @@ A hundred autumns may we be.
 
 <details><summary>पदपाठः</summary>
 
-भवेम। शरदः। शतम्। ६७.६।
+भवे॑म। श॒रदः॑। श॒तम्। ६७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ A hundred autumns may we be.
 
 टिप्पणी:   ६−(भवेम) स्याम। वर्तेमहि ॥
 </details>
+

@@ -35,7 +35,7 @@ He, having become moving majesty, went to the ends of the earth. He became the s
 
 <details><summary>पदपाठः</summary>
 
-सः। महिमा। सद्रुः। भूत्वा। अन्तम्। पृथिव्याः। अगच्छत्। सः। समुद्रः। अभवत्। ७.१।
+सः। म॒हि॒मा। सद्रु॑ः। भू॒त्वा। अन्त॑म्। पृ॒थि॒व्याः। अ॒ग॒च्छ॒त्। सः। स॒मु॒द्रः। अ॒भ॒व॒त्। ७.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

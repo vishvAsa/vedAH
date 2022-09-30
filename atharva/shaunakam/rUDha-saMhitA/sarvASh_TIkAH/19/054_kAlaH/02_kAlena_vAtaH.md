@@ -30,7 +30,7 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 
 <details><summary>पदपाठः</summary>
 
-कालेन। वातः। पवते। कालेन। पृथिवी। मही। द्यौः। मही। काले। आऽहिता। ५४.२।
+का॒लेन॑। वातः॑। प॒व॒ते॒। का॒लेन॑। पृ॒थि॒वी। म॒ही। द्यौः। म॒ही। का॒ले। आऽहि॑ता। ५४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -60,3 +60,4 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 
 टिप्पणी:   २−(कालेन) (वातः) वायुः (पवते) पुनाति। शोधयति (कालेन) (पृथिवी) (मही) महती वर्तते (द्यौः) आकाशः (मही) महती (काले) (आहिता) स्थापिता ॥
 </details>
+

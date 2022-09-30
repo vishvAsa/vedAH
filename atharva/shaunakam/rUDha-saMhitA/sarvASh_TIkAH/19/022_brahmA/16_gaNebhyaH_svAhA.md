@@ -18,7 +18,7 @@ To the Ganas, Hail!
 
 <details><summary>पदपाठः</summary>
 
-गणेभ्यः। स्वाहा। २२.१६।
+ग॒णेभ्यः॑। स्वाहा॑। २२.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To the Ganas, Hail!
 
 टिप्पणी:   १६−(गणेभ्यः) समूहेभ्यः ॥
 </details>
+

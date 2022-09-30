@@ -19,7 +19,7 @@ My heart is free from sorrow; spacious is my dwelling-place. I am the sea in cap
 
 <details><summary>पदपाठः</summary>
 
-असम्ऽतापम्। मे। हृदयम्। उर्वी। गव्यूतिः। समुद्रः। अस्मि। विऽधर्मणा। ३.६।
+अ॒स॒म्ऽता॒पम्। मे॒। हृद॑यम्। उ॒र्वी। गव्यू॑तिः। स॒मु॒द्रः। अ॒स्मि॒। विऽध॑र्मणा। ३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ My heart is free from sorrow; spacious is my dwelling-place. I am the sea in cap
 
 टिप्पणी:   ६−(असन्तापम्) सन्तापरहितम्।शान्तम् (मे) मम (हृदयम्) अन्तःकरणम् (उर्वी) विस्तीर्णा (गव्यूतिः) गो+यूतिः।विद्यामिश्रणमार्गः (समुद्रः) समुद्र इव गम्भीरः (अस्मि) (विधर्मणा)विविधधारणसामर्थ्येन ॥
 </details>
+

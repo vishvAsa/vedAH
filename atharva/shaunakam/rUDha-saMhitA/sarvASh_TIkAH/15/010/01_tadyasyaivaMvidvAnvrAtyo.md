@@ -19,7 +19,7 @@ So let the King, to whose house the Vratya who possesses this knowledge comes as
 
 <details><summary>पदपाठः</summary>
 
-तत्। यस्य। एवम्। विद्वान्। व्रात्यः। राज्ञः। अतिथिः। गृहान्। आऽगच्छेत्। १०.१।
+तत्। यस्य॑। ए॒वम्। वि॒द्वान्। व्रात्य॑ः। राज्ञ॑ः। अति॑थिः। गृ॒हान्। आ॒ऽगच्छे॑त्। १०.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

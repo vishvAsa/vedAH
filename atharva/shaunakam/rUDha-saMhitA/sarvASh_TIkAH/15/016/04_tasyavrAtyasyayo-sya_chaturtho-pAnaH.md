@@ -18,7 +18,7 @@ His fourth downward breath is Faith.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। चतुर्थः। अपानः। सा। श्रध्दा। १६.४।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। च॒तु॒र्थः। अ॒पा॒नः। सा। श्र॒ध्दा। १६.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ His fourth downward breath is Faith.
 
 टिप्पणी:   ४−(श्रद्धा)गुरुवेदादिवाक्येषु विश्वासः। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

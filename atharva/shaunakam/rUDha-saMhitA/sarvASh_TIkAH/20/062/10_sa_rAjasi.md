@@ -10,7 +10,7 @@ Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain,
 
 <details><summary>पदपाठः</summary>
 
-सः। राजसि। पुरुऽस्तुत। एकः। वृत्राणि। जिघ्नसे। इन्द्र। जैत्रा। श्रवस्या। च। यन्तवे। ६२.१०।
+सः। रा॒ज॒सि॒। पु॒रु॒ऽस्तु॒त॒। एक॑ः। वृ॒त्राणि॑। जि॒घ्न॒से॒। इन्द्र॑। जैत्रा॑। श्र॒व॒स्या॑। च॒। यन्त॑वे। ६२.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Such, praised by many! thou art King. Alone thou smitest foe- men dead, To gain,
 
 टिप्पणी:   ८-१०−एते मन्त्रा व्याख्याताः-अ० २०।६१।४-६ ॥
 </details>
+

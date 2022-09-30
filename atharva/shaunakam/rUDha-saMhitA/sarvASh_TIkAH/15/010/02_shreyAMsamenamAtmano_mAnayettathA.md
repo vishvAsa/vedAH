@@ -27,7 +27,7 @@ Honour him as superior to himself. So he Both not act against the interests of h
 
 <details><summary>पदपाठः</summary>
 
-श्रेयांसम्। एनम्। आत्मनः। मानयेत्। तथा। क्षत्राय। न। आ। वृश्चते। तथा। राष्ट्राय। न। आ। वृश्चते। १०.२।
+श्रेयां॑सम्। ए॒न॒म्। आ॒त्मन॑ः। मा॒न॒ये॒त्। तथा॑। क्ष॒त्राय॑। न। आ। वृ॒श्च॒ते॒। तथा॑। रा॒ष्ट्राय॑। न। आ। वृ॒श्च॒ते॒। १०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

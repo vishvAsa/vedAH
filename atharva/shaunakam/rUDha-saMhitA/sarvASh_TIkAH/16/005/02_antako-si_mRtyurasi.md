@@ -19,7 +19,7 @@ We know thine origin, O Sleep. Thou art the son of Destruction, the minister of 
 
 <details><summary>पदपाठः</summary>
 
-अन्तकः। असि। मृत्यु ः। असि। ५.२।
+अन्त॑कः। अ॒सि॒। मृ॒त्यु ः। अ॒सि॒। ५.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ We know thine origin, O Sleep. Thou art the son of Destruction, the minister of 
 
 टिप्पणी:   २−(अन्तकः) अन्तणिच्-ण्वुल्। अन्तयतीति अन्तकः। अन्तकरः (असि) (मृत्युः) मृत्युरिव दुःखप्रदः (असि) ॥
 </details>
+

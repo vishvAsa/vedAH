@@ -15,7 +15,7 @@ He who hath this knowledge eats food with vital breath as foodeater.
 
 <details><summary>पदपाठः</summary>
 
-प्राणेन। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.२२।
+प्रा॒णेन॑। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.२२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,3 +45,4 @@ He who hath this knowledge eats food with vital breath as foodeater.
 
 टिप्पणी:   २१, २२−(प्रजाः)जीवान् (प्रजापतिः) जीवपालः (प्राणम्) आत्मबलम् (प्राणेन) आत्मबलेन। अन्यत्पूर्ववत्-म० १, २ ॥
 </details>
+

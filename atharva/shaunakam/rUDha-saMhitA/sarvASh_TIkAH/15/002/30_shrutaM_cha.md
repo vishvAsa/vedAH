@@ -16,7 +16,7 @@ Revelation and Tradition are his running attendants, Mind, etc., as above.
 
 <details><summary>पदपाठः</summary>
 
-श्रुतम्। च। विऽश्रुतम्। च। परिऽस्कन्दौ। मनः। विऽपथम्। २.२६।
+श्रु॒तम्। च॒। विऽश्रु॑तम्। च॒। प॒रि॒ऽस्क॒न्दौ। मन॑ः। वि॒ऽप॒थम्। २.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ Revelation and Tradition are his running attendants, Mind, etc., as above.
 
 टिप्पणी:   २६−(श्रुतम्)ख्यातिः)। प्रशंसा (विश्रुतम्) विख्यातिः। प्रसिद्धिः। अन्यद् गतम्-म० ६ ॥
 </details>
+

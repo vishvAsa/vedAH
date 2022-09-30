@@ -26,7 +26,7 @@ Let not thy soul be left behind: here let not aught of thee remain, Of spirit, b
 
 <details><summary>पदपाठः</summary>
 
-मा। ते। मनः। मा। असोः। मा। अङ्गानाम्। मा। रसस्य। ते। मा। ते। हास्त। तन्वः᳡। किम्। चन। इह। २.२४।
+मा। ते॒। मन॑ः। मा। असो॑ः। मा। अङ्गा॑नाम्। मा। रस॑स्य। ते॒। मा। ते॒। हा॒स्त॒। त॒न्व᳡ः। किम्। च॒न। इ॒ह। २.२४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -20,7 +20,7 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 
 <details><summary>पदपाठः</summary>
 
-सूर्यम्। ते। द्यावापृथिवीऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। प्रतीच्याः। दिशः। अभिऽदासात्। १८.५।
+सूर्य॑म्। ते। द्यावा॑पृथि॒वीऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। प्र॒तीच्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 
 टिप्पणी:   ५−(सूर्यम्) सर्वप्रेरकं परमात्मानम् (द्यावापृथिवीवन्तम्) छन्दसीरः। पा०८।२।१५। मतुपो मस्य वः। सूर्यपृथिव्योः स्वामिनम् (प्रतीच्याः) पश्चिमायाः। पृष्ठतः स्थितायाः। अन्यत् पूर्ववत् ॥
 </details>
+

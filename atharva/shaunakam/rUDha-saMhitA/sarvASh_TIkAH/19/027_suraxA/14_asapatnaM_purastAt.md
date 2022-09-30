@@ -19,7 +19,7 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 
 <details><summary>पदपाठः</summary>
 
-असपत्नम्। पुरस्तात्। पश्चात्। नः। अभयम्। कृतम्। सविता। मा। दक्षिणतः। उत्तरात्। मा। शचीऽपतिः। २७.१४।
+अ॒स॒प॒त्नम्। पु॒रस्ता॑त्। प॒श्चात्। नः॒। अभ॑यम्। कृ॒त॒म्। स॒वि॒ता। मा॒। द॒क्षि॒ण॒तः। उ॒त्त॒रात्। मा॒। शची॒ऽपतिः॑। २७.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 
 टिप्पणी:   यह मन्त्र पहिले आ चुका है अथ०१९।१६।१॥१४−अयं मन्त्रो व्याख्यातः-अ०१९।१९।१॥
 </details>
+

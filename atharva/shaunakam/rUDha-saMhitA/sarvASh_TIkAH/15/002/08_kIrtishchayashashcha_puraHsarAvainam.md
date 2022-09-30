@@ -18,7 +18,7 @@ Fame and Glory are his harbingers. Fame and Glory come to him who hath this know
 
 <details><summary>पदपाठः</summary>
 
-कीर्तिः। च। यशः। च। पुरःऽसरौ। आ। एनम्। कीर्तिः। गच्छति। आ। यशः। गच्छति। यः। एवम्। वेद। २.८।
+की॒र्तिः। च॒। यश॑ः। च॒। पु॒र॒ःऽस॒रौ। आ। ए॒न॒म्। की॒र्तिः। ग॒च्छ॒ति॒। आ। यश॑ः। ग॒च्छ॒ति॒। यः। ए॒वम्। वेद॑। २.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

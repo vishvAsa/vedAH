@@ -24,7 +24,7 @@ Ye youthful maidens, ill-disposed, and all ye ancient woman here, Give all your 
 
 <details><summary>पदपाठः</summary>
 
-याः। दुःऽहार्दः। युवतयः। याः। च। इह। जरतीः। अपि। वर्चः। नु। अस्यै। सम्। दत्त। अथ। अस्तम्। विऽपरेतन। २.२९।
+याः। दु॒ःऽहार्द॑ः। यु॒व॒तय॑ः। याः। च॒। इ॒ह। ज॒र॒ती॒ः। अपि॑। वर्च॑ः। नु। अ॒स्यै। सम्। द॒त्त॒। अथ॑। अस्त॑म्। वि॒ऽपरे॑तन। २.२९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

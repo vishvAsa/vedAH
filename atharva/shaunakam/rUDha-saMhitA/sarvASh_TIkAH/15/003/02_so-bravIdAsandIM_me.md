@@ -19,7 +19,7 @@ The Anukr. implies *só ab-* and *-tu íti*.
 
 <details><summary>पदपाठः</summary>
 
-सः। अब्रवीत्। आऽसन्दीम्। मे। सम्। भरन्तु। इति। ३.२।
+सः। अ॒ब्र॒वी॒त्। आ॒ऽस॒न्दीम्। मे॒। सम्। भ॒र॒न्तु॒। इति॑। ३.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

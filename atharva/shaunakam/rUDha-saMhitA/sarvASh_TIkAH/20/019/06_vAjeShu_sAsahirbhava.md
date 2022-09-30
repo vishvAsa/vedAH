@@ -10,7 +10,7 @@ In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that th
 
 <details><summary>पदपाठः</summary>
 
-वाजेषु। ससहिः। भव। त्वाम्। ईमहे। शतक्रतो इति शतक्रतो। इन्द्र। वृत्राय। हन्तवे। १९.६।
+वाजे॑षु। स॒स॒हिः। भ॒व॒। त्वाम्। ई॒म॒हे॒। श॒त॒क्र॒तो॒ इति॑ शतक्रतो। इन्द्र॑। वृ॒त्राय॑। हन्त॑वे। १९.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ In battles be victorious. We seek thee, Lord of Hundred Powers, O Indra, that th
 
 टिप्पणी:   ६−(वाजेषु) सङ्ग्रामेषु (सासहिः) षह अभिभवे-किप्रत्ययः। अभिभविता। विजयी (भव) (त्वाम्) (ईमहे) प्रार्थयामहे (शतक्रतो) हे बहुकर्मन्, बहुषह (इन्द्र) (वृत्राय) शत्रुम् (हन्तवे) म० । हन्तुम् ॥
 </details>
+

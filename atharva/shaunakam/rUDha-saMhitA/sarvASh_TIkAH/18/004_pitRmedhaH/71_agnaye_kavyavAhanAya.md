@@ -18,7 +18,7 @@ To Agni, bearer of oblation to the Manes, be Hail! and homage!
 
 <details><summary>पदपाठः</summary>
 
-अग्नये। क्रव्यऽवाहनाय। स्वधा। नमः। ४.७१।
+अ॒ग्नये॑। क्र॒व्य॒ऽवाह॑नाय। स्व॒धा। नम॑ः। ४.७१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To Agni, bearer of oblation to the Manes, be Hail! and homage!
 
 टिप्पणी:   ७१−(अग्नये) विदुषेपुरुषाय (कव्यवाहनाय) कविर्मेधाविनाम-निघ० ३।१५। कविभ्यो मेधाविभ्योहितपदार्थानां प्रापकाय (स्वधा) अन्नम् निघ० २।७ (नमः) सत्करणम् ॥
 </details>
+

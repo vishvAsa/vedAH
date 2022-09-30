@@ -17,7 +17,7 @@ In the northern region Lightning is his leman, thunder his panegyrist, etc. as a
 
 <details><summary>पदपाठः</summary>
 
-विऽद्युत्। पुंश्चली। स्तनयित्नुः। मागधः। विऽज्ञानम्। वासः। अहः। उष्णीषम्। रात्री। केशाः। हरितौ। प्रऽवर्तौ। कल्मलिः। मणिः। २.२५।
+वि॒ऽद्युत्। पुं॒श्च॒ली। स्त॒न॒यि॒त्नुः। मा॒ग॒धः। वि॒ऽज्ञान॑म्। वास॑ः। अह॑ः। उ॒ष्णीष॑म्। रात्री॑। केशा॑ः। हरि॑तौ। प्र॒ऽव॒र्तौ। क॒ल्म॒लिः। म॒णिः। २.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,3 +47,4 @@ In the northern region Lightning is his leman, thunder his panegyrist, etc. as a
 
 टिप्पणी:   २५−(विद्युत्)तडिद्वच्चञ्चलता (स्तनयित्नुः) मेघगर्जनम्। शेषं गतम्-म० ५ ॥
 </details>
+

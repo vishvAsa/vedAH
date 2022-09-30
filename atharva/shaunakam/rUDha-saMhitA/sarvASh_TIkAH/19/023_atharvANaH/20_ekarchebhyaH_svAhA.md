@@ -18,7 +18,7 @@ Hail to the single-versed hymns!
 
 <details><summary>पदपाठः</summary>
 
-एकऽऋचेभ्यः। स्वाहा। २३.२०।
+ए॒क॒ऽऋ॒चेभ्यः॑। स्वाहा॑। २३.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Hail to the single-versed hymns!
 
 टिप्पणी:   २०−(एकर्चेभ्यः) म०१। एकस्य परमात्मनः स्तुत्या विद्या येषु वेदेषु तेभ्यः ॥
 </details>
+

@@ -18,7 +18,7 @@ He does not act in opposition to the Gods. It becomes his sacrifice.
 
 <details><summary>पदपाठः</summary>
 
-न। देवेषु। आ। वृश्चते। हुतम्। अस्य। भवति। १२.६।
+न। दे॒वेषु॑। आ। वृ॒श्च॒ते॒। हु॒तम्। अ॒स्य॒। भ॒व॒ति॒। १२.६। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -40,3 +40,4 @@ He does not act in opposition to the Gods. It becomes his sacrifice.
 
 टिप्पणी:   ६−(न) निषेधे (देवेषु)विद्वत्सु (आ) ईषत् (वृश्चते) वृश्च्यते। दूषितो भवति (हुतम्) हवनम्। यज्ञः (भवति) सिद्ध्यति ॥
 </details>
+

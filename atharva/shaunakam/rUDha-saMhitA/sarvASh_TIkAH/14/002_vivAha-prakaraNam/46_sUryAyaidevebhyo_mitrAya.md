@@ -26,7 +26,7 @@ To Surya and the Deities, to Mitra and to Varuna, Who know aright the thing that
 
 <details><summary>पदपाठः</summary>
 
-सूर्यायै। देवेभ्यः। मित्राय। वरुणाय। च। ये। भूतस्य। प्रऽचेतसः। तेभ्यः। इदम्। अकरम्। नमः। २.४६।
+सू॒र्यायै॑। दे॒वेभ्य॑ः। मि॒त्राय॑। वरु॑णाय। च॒। ये। भू॒तस्य॑। प्रऽचे॑तसः। तेभ्य॑ः। इ॒दम्। अ॒क॒र॒म्। नम॑ः। २.४६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

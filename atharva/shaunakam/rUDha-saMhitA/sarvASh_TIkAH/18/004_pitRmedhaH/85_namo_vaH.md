@@ -27,7 +27,7 @@ Homage to you Fathers! Hail to you, Fathers!
 
 <details><summary>पदपाठः</summary>
 
-नमः। वः। पितरः। स्वधा। वः। पितरः। ४.८५।
+नम॑ः। व॒ः। पि॒त॒र॒ः। स्व॒धा। व॒ः। पि॒त॒र॒ः। ४.८५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,3 +57,4 @@ Homage to you Fathers! Hail to you, Fathers!
 
 टिप्पणी:   ८५−(स्वधा) अन्नम्। अन्यत् पूर्ववत् ॥
 </details>
+

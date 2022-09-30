@@ -26,7 +26,7 @@ Now have we conquered and obtained: we have been freed from sin to-day.
 
 <details><summary>पदपाठः</summary>
 
-अजैष्म। अद्य। असनाम। अद्य। अभूम। अनागसः। वयम्। ६.१।
+अजै॑ष्म। अ॒द्य। अस॑नाम। अ॒द्य। अभू॑म। अना॑गसः। व॒यम्। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,3 +56,4 @@ Now have we conquered and obtained: we have been freed from sin to-day.
 
 टिप्पणी:   १−(अजैष्म) वयं जितवन्तः (अद्य) इदानीम् (असनाम) षण संभक्तौ-लङ्। वयं लब्धवन्तः (अद्य) (अभूम) (अनागसः) निर्दोषाः (वयम्) पुरुषार्थिनः ॥
 </details>
+

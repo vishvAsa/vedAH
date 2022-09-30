@@ -15,7 +15,7 @@ He went away to the last region.
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्ऽतमाम्। दिशम्। अनु। वि। अचलत्। ६.७।
+सः। उ॒त्ऽत॒माम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

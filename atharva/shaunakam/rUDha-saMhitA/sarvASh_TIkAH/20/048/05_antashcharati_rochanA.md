@@ -10,7 +10,7 @@ As expiration from breath she moves along the lucid spheres: The Bull shines for
 
 <details><summary>पदपाठः</summary>
 
-अन्तः। चरति। रोचना। अस्य। प्राणात्। अपानतः। वि। अख्यत्। महिषः। स्वः। ४८.५।
+अ॒न्तः। च॒र॒ति॒। रो॒च॒ना। अ॒स्य। प्रा॒णात्। अ॒पा॒न॒तः। वि। अ॒ख्य॒त्। म॒हि॒षः। स्व॑ः। ४८.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ As expiration from breath she moves along the lucid spheres: The Bull shines for
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अ० ६।३१।१-३ ॥
 </details>
+

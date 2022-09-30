@@ -19,7 +19,7 @@ Faith, and Sacrifice and the world, having become food and nourishment, turned t
 
 <details><summary>पदपाठः</summary>
 
-तम्। श्रध्दा। च। यज्ञः। च। लोकः। च। अन्नम्। च। अन्नऽअद्यम्। च। भूत्वा। अभिऽपर्यावर्तन्त। ७.४।
+तम्। श्र॒ध्दा। च॒। य॒ज्ञः। च॒। लो॒कः। च॒। अन्न॑म्। च॒। अ॒न्न॒ऽअद्य॑म्। च॒। भू॒त्वा। अ॒भि॒ऽप॒र्याव॑र्तन्त। ७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

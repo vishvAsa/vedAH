@@ -21,7 +21,7 @@ Hence Priesthood entered into Brihaspati and Royalty into Indra.
 
 <details><summary>पदपाठः</summary>
 
-अतः। वै। बृहस्पतिम्। एव। ब्रह्म। प्र। अविशत्। इन्द्रम्। क्षत्रम्। १०.५।
+अत॑ः। वै। बृह॒स्पति॑म्। ए॒व। ब्रह्म॑। प्र। अ॒वि॒श॒त्। इन्द्र॑म्। क्ष॒त्रम्। १०.५। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -43,3 +43,4 @@ Hence Priesthood entered into Brihaspati and Royalty into Indra.
 
 टिप्पणी:   ५−(प्र अविशत्) प्रविष्टमभवत्। अन्यत्पूर्ववत्-म० ४ ॥
 </details>
+

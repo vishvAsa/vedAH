@@ -20,7 +20,7 @@ His fourth vital breath, called Pervading is this Pavamana.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। चतुर्थः। प्राणः। विऽभूः। नाम। अयम्। सः। पवमानः। १५.६।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। च॒तु॒र्थः। प्रा॒णः। वि॒ऽभूः। नाम॑। अ॒यम्। सः। पव॑मानः। १५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ His fourth vital breath, called Pervading is this Pavamana.
 
 टिप्पणी:   ६−(विभूः) व्यापकः (पवमानः) शोधकवायुविद्या। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

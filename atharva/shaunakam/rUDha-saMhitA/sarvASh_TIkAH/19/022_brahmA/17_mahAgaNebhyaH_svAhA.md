@@ -18,7 +18,7 @@ To the great Ganas, Hail!
 
 <details><summary>पदपाठः</summary>
 
-महाऽगणेभ्यः। स्वाहा। २२.१७।
+म॒हा॒ऽग॒णेभ्यः॑। स्वाहा॑। २२.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To the great Ganas, Hail!
 
 टिप्पणी:   १७−(महागणेभ्यः) महासमूहेभ्यः ॥
 </details>
+

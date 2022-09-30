@@ -19,7 +19,7 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 
 <details><summary>पदपाठः</summary>
 
-वायुम्। ते। अन्तरिक्षऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.२।
+वा॒युम्। ते। अ॒न्तरि॑क्षऽवन्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 
 टिप्पणी:   २−(वायुम्) सर्वव्यापकं परमात्मानम् (अन्तरिक्षवन्तम्) मध्यलोकस्य स्वामिनम् (एतस्याः) मध्यवर्तमानायाः। अन्यत् पूर्ववत् ॥
 </details>
+

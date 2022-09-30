@@ -10,7 +10,7 @@ O Satakratu, powers which thou mid the Five Races hast dis- played, These, Indra
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रियाणि। शतक्रतो इति शतऽक्रतो। या। ते। जनेषु। पञ्चऽसु। इन्द्र। तानि। ते। आ। वृणे। ५७.५।
+इ॒न्द्रि॒याणि॑। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। या। ते॒। जने॑षु। प॒ञ्चऽसु॑। इन्द्र॑। तानि॑। ते॒। आ। वृ॒णे॒। ५७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ O Satakratu, powers which thou mid the Five Races hast dis- played, These, Indra
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
+

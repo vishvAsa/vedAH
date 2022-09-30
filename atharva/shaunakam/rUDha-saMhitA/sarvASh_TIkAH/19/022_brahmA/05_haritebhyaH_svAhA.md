@@ -21,7 +21,7 @@ To the golden-hued ones, Hail!
 
 <details><summary>पदपाठः</summary>
 
-हरितेभ्यः। स्वाहा। २२.५।
+ह॒रि॒तेभ्यः॑। स्वाहा॑। २२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ To the golden-hued ones, Hail!
 
 टिप्पणी:   ५−(हरितेभ्यः) हृश्याभ्यामितन्। उ०३।९३। हृञ् स्वीकारे-इतन्। स्वीकरणीयेभ्यः परमेश्वरगुणेभ्यः ॥
 </details>
+

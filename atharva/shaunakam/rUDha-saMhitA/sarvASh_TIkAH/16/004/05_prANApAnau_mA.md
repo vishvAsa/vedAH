@@ -19,7 +19,7 @@ Let not outward and inward breath fail me. Be not thou destruc- tive among the m
 
 <details><summary>पदपाठः</summary>
 
-प्राणापानौ। मा। मा। हासिष्टम्। मा। जने। प्र। मेषि। ४.५।
+प्राणा॑पानौ। मा। मा॒। हा॒सि॒ष्ट॒म्। मा। जने॑। प्र। मे॒षि॒। ४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let not outward and inward breath fail me. Be not thou destruc- tive among the m
 
 टिप्पणी:   ५−(प्राणापानौ) हेश्वासप्रश्वासौ (मा) माम् (मा हासिष्टम्) नैव त्यजतम् (जने) मनुष्येषु (प्र)प्रकर्षेण (मा मेषि) मीङ् हिंसायाम्-लुङ्। नाशं मा प्राप्नुयाम् ॥
 </details>
+

@@ -30,7 +30,7 @@ Let Priesthood enter into Brihaspati, and Royalty into Indra, was the answer.
 
 <details><summary>पदपाठः</summary>
 
-अतः। वै। बृहस्पतिम्। एव। ब्रह्म। प्र। विशतु। इन्द्रम्। क्षत्रम्। तथा। वै। इति। १०.४।
+अत॑ः। वै। बृह॒स्पति॑म्। ए॒व। ब्रह्म॑। प्र। वि॒श॒तु। इन्द्र॑म्। क्ष॒त्रम्। तथा॑। वै। इति॑। १०.४। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -52,3 +52,4 @@ Let Priesthood enter into Brihaspati, and Royalty into Indra, was the answer.
 
 टिप्पणी:   ४−(बृहस्पतिम्) बृहतां प्राणिनां पालकं गुणम् (एव) निश्चयेन (प्र विशतु) प्रविष्टं भवतु (इन्द्रम्) परमैश्वर्यम् (तथा)तद्विधानेन सत्कारेण (इति) पादपूर्तौ। अन्यत् पूर्ववत्-म० ३ ॥
 </details>
+

@@ -18,7 +18,7 @@ His second diffused breath is that Firmament.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। द्व᳡ देव॒यज॑नितीयः। विऽआनः। तत्। अन्तरिक्षम्। १७.२।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। द्व‍ि॒तीय॑ः। वि॒ऽआ॒नः। तत्। अ॒न्तरि॑क्षम्। १७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ His second diffused breath is that Firmament.
 
 टिप्पणी:   २−(अन्तरिक्षम्)मध्यलोकस्थवायुमण्डलमेघमण्डलादिज्ञानम्। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

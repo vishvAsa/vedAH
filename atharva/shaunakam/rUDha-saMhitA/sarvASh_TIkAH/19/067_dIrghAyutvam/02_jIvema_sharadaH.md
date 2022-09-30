@@ -18,7 +18,7 @@ A hundred autumns may we live.
 
 <details><summary>पदपाठः</summary>
 
-जीवेम। शरदः। शतम्। ६७.२।
+जीवे॑म। श॒रदः॑। श॒तम्। ६७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ A hundred autumns may we live.
 
 टिप्पणी:   २−(जीवेम) प्राणान् धारयेम ॥
 </details>
+

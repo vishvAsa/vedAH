@@ -18,7 +18,7 @@ Whether waking or sleeping, whether by day or by night.
 
 <details><summary>पदपाठः</summary>
 
-यत्। जाग्रत्। यत्। सुप्तः। यत्। दिवा। यत्। नक्तम्। ७.१०।
+यत्। जाग्र॑त्। यत्। सु॒प्तः। यत्। दिवा॑। यत्। नक्त॑म्। ७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Whether waking or sleeping, whether by day or by night.
 
 टिप्पणी:   १०−(यत्) कष्टम् (जाग्रत्) जागरणयुक्तः सन् (सुप्तः) निद्रालुः सन् (दिवा) दिने (नक्तम्) रात्रौ।अन्यत् पूर्ववत् ॥
 </details>
+

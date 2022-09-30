@@ -23,7 +23,7 @@ Thou for our weal, O Surya, hast mounted thy ship with hundred oars. Thou hast t
 
 <details><summary>पदपाठः</summary>
 
-सूर्य। नावम्। आ। अरुक्षः। शतऽअरित्राम्। स्वस्तये। रात्रिम्। मा। अति। अपीपरः। अहः। सत्रा। अति। पारय। १.२६।
+सूर्य॑। नाव॑म्। आ। अ॒रु॒क्ष॒ः। श॒त॒ऽअरि॑त्राम्। स्व॒स्तये॑। रात्रि॑म्। मा॒। अति॑। अ॒पी॒प॒र॒ः। अह॑ः। स॒त्रा। अति॑। पा॒र॒य॒। १.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,3 +53,4 @@ Thou for our weal, O Surya, hast mounted thy ship with hundred oars. Thou hast t
 
 टिप्पणी:   २६−(सूर्य) हे सर्वप्रेरक जगदीश्वर (रात्रिम्) रात्रिकर्त्तव्यम् (अहः) दिनकर्त्तव्यम्। अन्यत् पूर्ववत्-म० २५॥
 </details>
+

@@ -15,7 +15,7 @@ He went away to the great region.
 
 <details><summary>पदपाठः</summary>
 
-सः। बृहतीम्। दिशम्। अनु। वि। अचलत्। ६.१०।
+सः। बृ॒ह॒तीम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

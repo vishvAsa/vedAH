@@ -20,7 +20,7 @@ He who hath this knowledge eats food with Devotion as food-eater.
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मणा। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.१५।
+ब्रह्म॑णा। अ॒न्न॒ऽअ॒देन॑। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ He who hath this knowledge eats food with Devotion as food-eater.
 
 टिप्पणी:   २३, २४−(सर्वान्)समस्तान् (अन्तर्देशान्) मध्यदेशान् (परमेष्ठी) सर्वोपरिपदस्थः (ब्रह्म)परमात्मानम् (ब्रह्मणा) परमात्मना सह। अन्यत् पूर्ववत्-म० १, २ ॥
 </details>
+

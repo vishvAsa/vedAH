@@ -19,7 +19,7 @@ To those with hair in tufts, Hail!
 
 <details><summary>पदपाठः</summary>
 
-शिखिऽभ्यः। स्वाहा। २२.१५।
+शि॒खिऽभ्यः॑। स्वाहा॑। २२.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ To those with hair in tufts, Hail!
 
 टिप्पणी:   १५−(शिखिभ्यः) व्रीह्यादिभ्यश्च। पा०५।२।११६। शिखा-इनि। शिखाधारिभ्यः, यद्वा शिखरयुक्तपर्वतादितुल्योन्नतेभ्यो ब्राह्मणेभ्यः ॥
 </details>
+

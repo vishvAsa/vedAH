@@ -19,7 +19,7 @@ His fifth vital breath, called Source, are these Waters.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। व्रात्यस्य। यः। अस्य। पञ्चमः। प्राणः। योनिः। नाम। ताः। इमाः। आपः। १५.७।
+तस्य॑। व्रात्य॑स्य। यः। अ॒स्य॒। प॒ञ्च॒मः। प्रा॒णः। योनि॑ः। नाम॑। ताः। इ॒माः। आप॑ः। १५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ His fifth vital breath, called Source, are these Waters.
 
 टिप्पणी:   ७−(योनिः) यु मिश्रणामिश्रणयोः-नि। कारणम् (आपः) जलविद्या। अन्यत् पूर्ववत्स्पष्टं च ॥
 </details>
+

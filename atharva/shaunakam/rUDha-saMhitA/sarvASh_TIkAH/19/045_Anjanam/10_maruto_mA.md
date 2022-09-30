@@ -24,7 +24,7 @@ May the Maruts protect me with their troops for inspiration and expiration, for 
 
 <details><summary>पदपाठः</summary>
 
-मरुतः। मा। गणैः। अवन्तु। प्राणाय। अपानाय। आयुषे। वर्चसे। ओजसे। तेजसे। स्वस्तये। सुऽभूतये। स्वाहा। ४५.१०।
+म॒रुतः॑। मा॒। ग॒णैः। अ॒व॒न्तु॒। प्रा॒णाय॑। अ॒पा॒नाय॑। आयु॑षे। वर्च॑से। ओज॑से। तेज॑से। स्व॒स्तये॑। सु॒ऽभू॒तये॑। स्वाहा॑। ४५.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -54,3 +54,4 @@ May the Maruts protect me with their troops for inspiration and expiration, for 
 
 टिप्पणी:   १०−(मरुतः) म०१।२०।१। शत्रुनाशकाः शूराः (गणैः) सैन्यैः। अन्यत् पूर्ववत् ॥
 </details>
+

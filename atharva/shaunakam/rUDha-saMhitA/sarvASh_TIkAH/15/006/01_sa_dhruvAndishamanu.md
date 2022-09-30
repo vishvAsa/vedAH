@@ -16,7 +16,7 @@ He went his way to the region of the nadir.
 
 <details><summary>पदपाठः</summary>
 
-सः। ध्रुवाम्। दिशम्। अनु। वि। अचलत्। ६.१।
+सः। ध्रु॒वाम्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। ६.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

@@ -31,7 +31,7 @@ Take thou this wrapper as a screen, to be a covering for the bride O Sinivali, l
 
 <details><summary>पदपाठः</summary>
 
-शर्म। वर्म। एतत्। आ। हर। अस्यै। नार्यै। उपऽस्तरे। सिनीवालि। प्र। जायताम्। भगस्य। सुऽमतौ। असत्। २.२१।
+शर्म॑। वर्म॑। ए॒तत्। आ। ह॒र॒। अ॒स्यै। नार्यै॑। उ॒प॒ऽस्तरे॑। सिनी॑वालि। प्र। जा॒य॒ता॒म्। भग॑स्य। सु॒ऽम॒तौ। अ॒स॒त्। २.२१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

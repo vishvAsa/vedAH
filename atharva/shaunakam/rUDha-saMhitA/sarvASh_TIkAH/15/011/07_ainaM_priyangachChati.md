@@ -19,5 +19,6 @@ That which is pleasant comes to him, and he is the beloved of the beloved, who i
 
 <details><summary>पदपाठः</summary>
 
-आ। एनम्। प्रियम्। गच्छति। प्रियः। प्रियस्य। भवति। यः। एवम्। वेद। ११.७।
+आ। ए॒न॒म्। प्रि॒यम्। ग॒च्छ॒ति॒। प्रि॒यः। प्रि॒यस्य॑। भ॒व॒ति॒। यः। ए॒वम्। वेद॑। ११.७। 
 </details>
+

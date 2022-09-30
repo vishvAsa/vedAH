@@ -10,7 +10,7 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar. We ma
 
 <details><summary>पदपाठः</summary>
 
-अगन्‌। इन्द्र। श्रवः। बृहत्। द्युम्नम्। इधिष्व। दुस्तरम्। उत्। ते। शुष्मम्। तिरमसि। ५७.६।
+अग॑न्‌। इ॒न्द्र॒। श्रव॑ः। बृ॒हत्। द्यु॒म्नम्। इ॒धि॒ष्व॒। दु॒स्तर॑म्। उत्। ते॒। शुष्म॑म्। ति॒र॒म॒सि॒। ५७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra, great glory hast thou gained. Win splendid fame which none may mar. We ma
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
+

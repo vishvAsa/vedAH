@@ -10,7 +10,7 @@ Verily Indra, conquering all, driveth even mighty fear away. For firm is he and 
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रः। अङ्ग। महत्। भयम्। अभि। सत्। अप। चुच्यवत्। सः। हि। स्थिरः। विऽचर्षणिः। ५७.८।
+इन्द्र॑ः। अ॒ङ्ग। म॒हत्। भ॒यम्। अ॒भि। सत्। अप॑। चु॒च्यव॒त्। सः। हि। स्थि॒रः। विऽच॑र्षणिः। ५७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Verily Indra, conquering all, driveth even mighty fear away. For firm is he and 
 
 टिप्पणी:   ४-१०- एते मन्त्रा व्याख्याताः-अ० २।२०।१-७ ॥
 </details>
+

@@ -19,7 +19,7 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 
 <details><summary>पदपाठः</summary>
 
-सोमम्। ते। रुद्रऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। दक्षिणायाः। दिशः। अभिऽदासात्। १८.३।
+सोम॑म्। ते। रु॒द्रऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। दक्षि॑णायाः। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 
 टिप्पणी:   ३−(सोमम्) सर्वोत्पादकं परमात्मानम् (रुद्रवन्तम्) रुङ् हिंसायाम्-क्विप् तुक् च+रुङ् हिंसायाम्-ड। रुद्राणां दुष्टनाशकगुणानां स्वामिनम् (दक्षिणायाः) दक्षिणस्याः। दक्षिणहस्तभवायाः। अन्यत् पूर्ववत् ॥
 </details>
+

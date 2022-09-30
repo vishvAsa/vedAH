@@ -18,7 +18,7 @@ Brihaspati is my soul, he who is called the Friend of man, dear to my heart.
 
 <details><summary>पदपाठः</summary>
 
-बृहस्पतिः। मे। आत्मा। नृऽमनाः। नाम। हृद्यः। ३.५।
+बृह॒स्पति॑ः। मे॒। आ॒त्मा। नृ॒ऽमना॑ः। नाम॑। हृद्य॑ः। ३.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Brihaspati is my soul, he who is called the Friend of man, dear to my heart.
 
 टिप्पणी:   ५−(बृहस्पतिः) महतां गुणानां पालकः (मे) मम (आत्मा) (नृमणाः) नेतृतुल्यमनस्कः (नाम) प्रसिद्धौ (हृद्यः) हृदयप्रियः ॥
 </details>
+

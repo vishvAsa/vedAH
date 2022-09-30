@@ -10,7 +10,7 @@ As cows low to their calf in stalls, so with our songs we glorify This Indra, ev
 
 <details><summary>पदपाठः</summary>
 
-तम्। वः। दस्मम्। ऋतिऽसहम्। वसोः। मन्दानम्। अन्धसः। अभि। वत्सम्। न। स्वसरेषु। धेनवः। इन्द्रम्। गीऽभिः। नवामहे। ४९.४।
+तम्। व॒ः। द॒स्मम्। ऋ॒ति॒ऽसह॑म्। वसो॑ः। म॒न्दा॒नम्। अन्ध॑सः। अ॒भि। व॒त्सम्। न। स्वस॑रेषु। धे॒नव॑ः। इन्द्र॑म्। गी॒ऽभिः। न॒वा॒म॒हे॒। ४९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ As cows low to their calf in stalls, so with our songs we glorify This Indra, ev
 
 टिप्पणी:   मन्त्र ४-७ ऊपर आचुके हैं-अ० २०।९।१-४ ॥  ४-७−एते मन्त्रा व्याख्याताः-अ० २०।९।१-४ ॥
 </details>
+

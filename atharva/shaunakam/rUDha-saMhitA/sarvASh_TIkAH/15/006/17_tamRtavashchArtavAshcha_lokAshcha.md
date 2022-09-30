@@ -17,7 +17,7 @@ The Seasons, groups of seasons, the worlds and their inhabitants, the months and
 
 <details><summary>पदपाठः</summary>
 
-तम्। ऋतवः। च। आर्तवाः। च। लोकाः। च। लौक्याः। च। मासाः। च। अर्धऽमासाः। च। अहोरात्रे इति। च। अनुऽव्य᳡चलन्। ६.१७।
+तम्। ऋ॒तव॑ः। च॒। आ॒र्त॒वाः। च॒। लोका॑ः। च॒। लौ॒क्याः। च॒। मासा॑ः। च॒। अ॒र्ध॒ऽमा॒साः। च॒। अ॒हो॒रा॒त्रे इति॑। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

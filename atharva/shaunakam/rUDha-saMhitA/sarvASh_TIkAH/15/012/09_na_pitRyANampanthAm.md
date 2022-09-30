@@ -20,7 +20,7 @@ Knows not the path that leads to the Fathers nor the way that leads to the Gods.
 
 <details><summary>पदपाठः</summary>
 
-न। पितृऽयानम्। पन्थाम्। जानाति। न। देवऽयानम्। १२.९।
+न। पि॒तृ॒ऽयान॑म्। पन्था॑म्। जा॒ना॒ति॒। न। दे॒व॒ऽयान॑म्। १२.९। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -42,3 +42,4 @@ Knows not the path that leads to the Fathers nor the way that leads to the Gods.
 
 टिप्पणी:   ९−(न) निषेधे। अन्यत्पूर्ववत्-म० ५ ॥
 </details>
+

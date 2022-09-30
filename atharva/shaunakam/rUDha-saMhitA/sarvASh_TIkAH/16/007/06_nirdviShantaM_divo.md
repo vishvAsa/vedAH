@@ -20,7 +20,7 @@ We scorch out of heaven and earth and firmament the man who hates us.
 
 <details><summary>पदपाठः</summary>
 
-निः। द्विषन्तम्। दिवः। निः। पृथिव्याः। निः। अन्तरिक्षात्। भजाम। ७.६।
+निः। द्वि॒षन्त॑म्। दि॒वः। निः। पृ॒थि॒व्याः। निः। अ॒न्तरि॑क्षात्। भ॒जा॒म॒। ७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ We scorch out of heaven and earth and firmament the man who hates us.
 
 टिप्पणी:   ६−(निः) पृथक् (द्विषन्तम्) वैरयन्तम् (दिवः) आकाशात् (निः) (पृथिव्याः)भूलोकात् (अन्तरिक्षात्) मध्यलोकात् (निर्भजाम) भागरहितं कुर्याम ॥
 </details>
+

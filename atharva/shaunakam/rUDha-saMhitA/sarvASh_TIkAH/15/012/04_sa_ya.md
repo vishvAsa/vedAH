@@ -26,7 +26,7 @@ He who sacrifices when permitted by the Vratya who possesses this knowledge.
 
 <details><summary>पदपाठः</summary>
 
-सः। यः। एवम्। विदुषा। व्रात्येन। अतिऽसृष्टः। जुहोति। १२.४।
+सः। यः। ए॒वम्। वि॒दुषा॑। व्रात्ये॑न। अति॑ऽसृष्टः। जु॒होति॑। १२.४। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -48,3 +48,4 @@ He who sacrifices when permitted by the Vratya who possesses this knowledge.
 
 टिप्पणी:   ४−(सः) गृहस्थः (यः)गृहस्थः (एवम्) व्यापकं परमात्मानम् (विदुषा) जानता (व्रात्येन)सत्यव्रतधारिणाऽतिथिना (अतिसृष्टः) आज्ञापितः (जुहोति) यज्ञं करोति ॥
 </details>
+

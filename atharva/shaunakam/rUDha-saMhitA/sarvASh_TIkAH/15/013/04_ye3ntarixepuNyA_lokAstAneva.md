@@ -22,7 +22,7 @@ A fourth night . . . . the holy realms of the Holy.
 
 <details><summary>पदपाठः</summary>
 
-ये। अन्तरिक्षे। पुण्याः। तेन। अव। रुन्ध्दे। १३.४।
+ये। अ॒न्तरि॑क्षे। पुण्या॑ः। तेन॑। अव॑। रु॒न्ध्दे॒। १३.४। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -44,3 +44,4 @@ A fourth night . . . . the holy realms of the Holy.
 
 टिप्पणी:   ३, ४−(अन्तरिक्षे)भूलोकसूर्यमध्यवर्तिनि लोके। अन्यत् पूर्ववत् स्पष्टं च ॥
 </details>
+

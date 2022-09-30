@@ -20,7 +20,7 @@ There was a roaming Vratya. He roused Prajapati to action.
 
 <details><summary>पदपाठः</summary>
 
-व्रात्यः। आसीत्। ईयमानः। एव। सः। प्रजाऽपतिम्। सम्। ऐरयत्। १.१।
+व्रात्य॑ः। आ॒सी॒त्। ईय॑मानः। ए॒व। सः। प्र॒जाऽप॑तिम्। सम्। ऐ॒र॒य॒त्। १.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

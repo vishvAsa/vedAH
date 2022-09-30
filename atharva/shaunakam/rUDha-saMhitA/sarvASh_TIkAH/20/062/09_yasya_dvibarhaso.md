@@ -10,7 +10,7 @@ Whose lofty might--for doubly strong is he--supports the heaven and earth, And h
 
 <details><summary>पदपाठः</summary>
 
-यस्य। द्विऽबर्हसः। बृहत्। सहः। दाधार। रोदसी इति। गिरीन्। अज्रान्। अपः। स्वः। वृषऽत्वना। ६२.९।
+यस्य॑। द्वि॒ऽबर्ह॑सः। बृ॒हत्। सह॑ः। दा॒धार॑। रोद॑सी॒ इति॑। गि॒रीन्। अज्रा॑न्। अ॒पः। स्व॑ः। वृ॒ष॒ऽत्व॒ना। ६२.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Whose lofty might--for doubly strong is he--supports the heaven and earth, And h
 
 टिप्पणी:   ८-१०−एते मन्त्रा व्याख्याताः-अ० २०।६१।४-६ ॥
 </details>
+

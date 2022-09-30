@@ -18,7 +18,7 @@ To those composed in strophes, Hail!
 
 <details><summary>पदपाठः</summary>
 
-पर्यायिकेभ्यः। स्वाहा। २२.७।
+प॒र्या॒यि॒केभ्यः॑। स्वाहा॑। २२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To those composed in strophes, Hail!
 
 टिप्पणी:   ७−(पर्यायिकेभ्यः) अत इनिठनौ। पा०५।२।११५। पर्याय-ठन्। अनुक्रमयुक्तेभ्यः ॥
 </details>
+

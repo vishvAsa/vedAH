@@ -29,7 +29,7 @@ Our feet are on this pleasant path, easy to travel, bringing bliss, Whereon no h
 
 <details><summary>पदपाठः</summary>
 
-आ। इमम्। पन्थाम्। अरुक्षाम। सुऽगम्। स्वस्तिऽवाहनम्। यस्मिन्। वीरः। न। रिष्यति। अन्येषाम्। विन्दते। वसु। २.८।
+आ। इ॒मम्। पन्था॑म्। अ॒रु॒क्षा॒म॒। सु॒ऽगम्। स्व॒स्ति॒ऽवाह॑नम्। यस्मि॑न्। वी॒रः। न। रिष्य॑ति। अ॒न्येषा॑म्। वि॒न्दते॑। वसु॑। २.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

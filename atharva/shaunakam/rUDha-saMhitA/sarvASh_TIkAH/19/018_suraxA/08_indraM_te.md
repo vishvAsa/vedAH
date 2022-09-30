@@ -19,7 +19,7 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 
 <details><summary>पदपाठः</summary>
 
-इन्द्रम्। ते। मरुत्ऽवन्तम्। ऋच्छन्तु। ये। मा। अघऽयवः। एतस्याः। दिशः। अभिऽदासात्। १८.८।
+इन्द्र॑म्। ते। म॒रुत्ऽव॑न्तम्। ऋ॒च्छ॒न्तु॒। ये। मा॒। अ॒घ॒ऽयवः॑। ए॒तस्याः॑। दि॒शः। अ॒भि॒ऽदासा॑त्। १८.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 
 टिप्पणी:   ८−(इन्द्रम्) परमैश्वर्यवन्तं परमात्मानम् (मरुत्वन्तम्) मरुतां शत्रुमारकाणां शूराणां स्वामिनम्। अन्यत् पूर्ववत्॥
 </details>
+

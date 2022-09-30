@@ -17,7 +17,7 @@ New Moon Night and Full Moon Night are his running attendants, Mind, etc. as in 
 
 <details><summary>पदपाठः</summary>
 
-अमाऽवास्या᳡। च। पौर्णऽमासी। च। परिऽस्कन्दौ। मनः। विऽपथम्।
+अ॒मा॒ऽवा॒स्या᳡ । च॒ । पौ॒र्ण॒ऽमा॒सी । च॒ । प॒रि॒ऽस्क॒न्दौ । मन॑ः । वि॒ऽप॒थम् ।
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

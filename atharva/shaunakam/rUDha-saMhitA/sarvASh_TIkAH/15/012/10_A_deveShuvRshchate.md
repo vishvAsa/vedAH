@@ -22,7 +22,7 @@ He is at variance with the Gods. He hath offered no accepted. sacrifice.
 
 <details><summary>पदपाठः</summary>
 
-आ। देवेषु। वृश्चते। अहुतम्। अस्य। भवति। १२.१०।
+आ। दे॒वेषु॑। वृ॒श्च॒ते॒। अ॒हु॒तम्। अ॒स्य॒। भ॒व॒ति॒। १२.१०। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -44,3 +44,4 @@ He is at variance with the Gods. He hath offered no accepted. sacrifice.
 
 टिप्पणी:   १०−(आ) समन्तात् (अहुतम्) कुयज्ञः। अन्यत् पूर्ववत्-म० ६ ॥
 </details>
+

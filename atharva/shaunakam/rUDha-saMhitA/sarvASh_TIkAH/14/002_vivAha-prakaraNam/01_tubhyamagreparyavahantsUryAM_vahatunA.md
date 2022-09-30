@@ -27,7 +27,7 @@ For thee with bridal train they first escorted Surya to her home, Give to the hu
 
 <details><summary>पदपाठः</summary>
 
-तुभ्यम्। अग्रे। परि। अवहन्। सूर्याम्। वहतुना। सह। सः। नः। पतिऽभ्यः। जायाम्। दाः। अग्ने। प्रऽजया। सह। २.१।
+तुभ्य॑म्। अग्रे॑। परि॑। अ॒व॒ह॒न्। सू॒र्याम्। व॒ह॒तुना॑। स॒ह। सः। न॒ः। पति॑ऽभ्यः। जा॒याम्। दाः। अग्ने॑। प्र॒ऽजया॑। स॒ह। २.१। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

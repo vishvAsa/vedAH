@@ -18,7 +18,7 @@ To those two with separate thousands, Hail!
 
 <details><summary>पदपाठः</summary>
 
-पृथक्ऽसहस्राभ्याम्। स्वाहा। २२.१९।
+पृ॒थ॒क्ऽस॒ह॒स्राभ्या॑म्। स्वाहा॑। २२.१९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ To those two with separate thousands, Hail!
 
 टिप्पणी:   १९−(पृथक्सहस्राभ्याम्) व्यक्तिजन्यसहस्रजन्याभ्यां समूहाभ्याम् ॥
 </details>
+

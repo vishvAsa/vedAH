@@ -19,7 +19,7 @@ Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hai
 
 <details><summary>पदपाठः</summary>
 
-यत्र। ब्रह्मऽविदः। यान्ति। दीक्षया। तपसा। सह। इन्द्रः। मा। तत्र। नयतु। बलम्। इन्द्रः। दधातु। मे। इन्द्राय। स्वाहा। ४३.६।
+यत्र॑। ब्र॒ह्म॒ऽविदः॑। यान्ति॑। दी॒क्षया॑। तप॑सा। स॒ह। इन्द्रः॑। मा॒। तत्र॑। न॒य॒तु॒। बल॑म्। इन्द्रः॑। द॒धा॒तु॒। मे॒। इन्द्रा॑य। स्वाहा॑। ४३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Whither, etc. Thither let Indra lead me, let Indra bestow upon me power. All hai
 
 टिप्पणी:   ६−(इन्द्रः) परमैश्वर्यवान् परमात्मा (बलम्) सामर्थ्यम् (इन्द्रः) (इन्द्राय) परमैश्वरवते परमेश्वराय। अन्यत् पूर्ववत् ॥
 </details>
+

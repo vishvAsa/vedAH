@@ -17,7 +17,7 @@ Prajapati and Parameshthin and the Father and the Great Father followed him.
 
 <details><summary>पदपाठः</summary>
 
-तम्। प्रजाऽपतिः। च। परमेऽस्थी। च। पिता। च। पितामहः। च। अनुऽव्य᳡चलन्। ६.२५।
+तम्। प्र॒जाऽप॑तिः। च॒। प॒र॒मे॒ऽस्थी। च॒। पि॒ता। च॒। पि॒ता॒म॒हः। च॒। अ॒नु॒ऽव्य᳡चलन्। ६.२५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,3 +47,4 @@ Prajapati and Parameshthin and the Father and the Great Father followed him.
 
 टिप्पणी:   २४-२६−(सः) व्रात्यःपरमात्मा (अन्तर्देशान्) मध्यदेशान् (तम्) व्रात्यम् (प्रजापतिः) प्रजापालकोराजा (परमेष्ठी) उच्चपदस्थ आचार्यः संन्यासी वा (पिता) जनकः (पितामहः) पितुःपिता। अन्यत् पूर्ववद् यथोचितं योजनीयं च ॥
 </details>
+

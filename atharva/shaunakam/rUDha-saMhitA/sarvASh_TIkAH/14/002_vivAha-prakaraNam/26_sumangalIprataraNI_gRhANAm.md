@@ -24,7 +24,7 @@ Bliss-bringer, furthering thy household's welfare, dear gladdening thy husband a
 
 <details><summary>पदपाठः</summary>
 
-सुऽमङ्गली। प्रऽतरणी। गृहाणाम्। सुऽशेवा। पत्ये। श्वशुराय। शम्ऽभूः। स्योना। श्वश्वै। प्र। गृहान्। विश। इमान्। २.२६।
+सु॒ऽम॒ङ्ग॒ली। प्र॒ऽतर॑णी। गृ॒हाणा॑म्। सु॒ऽशेवा॑। पत्ये॑। श्वशु॑राय। श॒म्ऽभूः। स्यो॒ना। श्व॒श्वै। प्र। गृ॒हान्। वि॒श॒। इ॒मान्। २.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

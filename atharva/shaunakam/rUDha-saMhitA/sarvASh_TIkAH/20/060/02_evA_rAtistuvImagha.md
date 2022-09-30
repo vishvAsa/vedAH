@@ -10,7 +10,7 @@ So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwel
 
 <details><summary>पदपाठः</summary>
 
-एव। रातिः। तुविऽमघ। विश्वेभिः। धायि। धातृऽभिः। अध। चित्। इन्द्र। मे। सचा। ६०.२।
+ए॒व। रा॒तिः। तु॒वि॒ऽम॒घ॒। विश्वे॑भिः। धा॒यि॒। धा॒तृऽभि॑ः। अध॑। चि॒त्। इ॒न्द्र॒। मे॒। सचा॑। ६०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ So hath the offering; wealthiest Lord, been paid by all the worshippers: So dwel
 
 टिप्पणी:   २−(एव) निश्चयेन (रातिः) दानम् (तुविमघ) हे बहुधनवन् (विश्वेभिः) सर्वैः (धायि) अधायि। धार्यते (धातृभिः) कर्मधारकैः (अध) अनन्तरम् (चित्) एव (इन्द्र) हे परमैश्वर्यवन् पुरुष (मे) मह्यम् (सचा) समवायेन वर्तस्वेति शेषः ॥
 </details>
+

@@ -41,7 +41,7 @@ To Brahma, Hail!
 
 <details><summary>पदपाठः</summary>
 
-ब्रह्मणे। स्वाहा। २२.२०।
+ब्र॒ह्मणे॑। स्वाहा॑। २२.२०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -71,3 +71,4 @@ To Brahma, Hail!
 
 टिप्पणी:   २०−(ब्रह्मणे) वेदज्ञानाय ॥
 </details>
+

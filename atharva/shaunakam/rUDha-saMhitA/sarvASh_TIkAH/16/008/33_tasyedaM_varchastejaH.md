@@ -16,7 +16,7 @@ Here I bind up his splendour, his energy, his vital breath, his life, and cast h
 
 <details><summary>पदपाठः</summary>
 
-तस्य। इदम्। वर्चः। तेजः। प्राणम्। वायुः। नि। वेष्टयामि। इदम्। एनम्। अधराञ्चम्। पादयामि। ८.२३।
+तस्य॑। इ॒दम्। वर्च॑ः। तेज॑ः। प्रा॒णम्। वायु॑ः। नि। वे॒ष्ट॒या॒मि॒। इ॒दम्। ए॒न॒म्। अ॒ध॒राञ्च॑म्। पा॒द॒या॒मि॒। ८.२३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -26,3 +26,4 @@ Here I bind up his splendour, his energy, his vital breath, his life, and cast h
 - यम
 - दुःख मोचन सूक्त
 </details>
+

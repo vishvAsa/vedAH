@@ -23,7 +23,7 @@ This date we mete and measure out, that it may ne'er be fixt. again. A hundred a
 
 <details><summary>पदपाठः</summary>
 
-सम्। इमाम्। मात्राम्। मिमीमहे। यथा। अपरम्। न। मासातै। शते। शरत्ऽसु। नो इति। पुरा। २.४४।
+सम्। इ॒माम्। मात्रा॑म्। मि॒मी॒म॒हे॒। यथा॑। अप॑रम्। न। मासा॑तै। श॒ते। श॒रत्ऽसु॑। नो इति॑। पु॒रा। २.४४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -53,3 +53,4 @@ This date we mete and measure out, that it may ne'er be fixt. again. A hundred a
 
 टिप्पणी:   ४४−(सम्) सम्यक्। अन्यत् पूर्ववत्-म० ३८ ॥
 </details>
+

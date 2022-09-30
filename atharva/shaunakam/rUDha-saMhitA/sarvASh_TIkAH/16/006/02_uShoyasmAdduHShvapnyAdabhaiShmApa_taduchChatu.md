@@ -21,7 +21,7 @@ Let Morning with her light dispel that evil dream that frightened us.
 
 <details><summary>पदपाठः</summary>
 
-उषः। यस्मात्। दुःऽस्वप्न्यात्। अभैष्म। अप। तत्। उच्छतु। ६.२।
+उष॑ः। यस्मा॑त्। दु॒ःऽस्वप्न्या॑त्। अभै॑ष्म। अप॑। तत्। उ॒च्छ॒तु॒। ६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -51,3 +51,4 @@ Let Morning with her light dispel that evil dream that frightened us.
 
 टिप्पणी:   २−(उषः) हे प्रभातवेले (यस्मात्) (दुःष्वप्न्यात्) दुष्टस्वप्ने भवात् कुविचारात् (अभैष्म) वयं भयं प्राप्तवन्तः (अप) दूरे (तत्) भयम् (उच्छतु) गच्छतु ॥
 </details>
+

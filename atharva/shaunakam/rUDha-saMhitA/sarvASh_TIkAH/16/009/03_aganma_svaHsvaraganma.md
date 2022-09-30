@@ -27,7 +27,7 @@ We have come to the light of heaven; to the light of heaven have we come: we hav
 
 <details><summary>पदपाठः</summary>
 
-अगन्म। स्वः᳡। स्वः᳡। अगन्म। सम्। सूर्यस्य। ज्योतिषा। अगन्म। ९.३।
+अग॑न्म। स्व᳡ः। स्व᳡ः। अ॒ग॒न्म॒। सम्। सूर्य॑स्य। ज्योति॑षा। अ॒ग॒न्म॒। ९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

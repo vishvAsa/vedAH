@@ -10,7 +10,7 @@ His herald rays are seen afar refulgent o'er the world of men, Like fiery flames
 
 <details><summary>पदपाठः</summary>
 
-अदृश्रन्। अस्य। केतवः। वि। रश्मयः। जनान्। अनु। भ्राजन्तः। अग्नयः। यथा। ४७.१५।
+अदृ॑श्रन्। अ॒स्य॒। के॒तव॑ः। वि। र॒श्मय॑ः। जना॑न्। अनु॑। भ्राज॑न्तः। अ॒ग्नय॑ः। य॒था॒। ४७.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ His herald rays are seen afar refulgent o'er the world of men, Like fiery flames
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
+

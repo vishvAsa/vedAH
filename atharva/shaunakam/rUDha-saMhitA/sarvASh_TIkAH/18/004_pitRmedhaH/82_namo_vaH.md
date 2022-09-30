@@ -19,7 +19,7 @@ Hail Father; to your wrath! Hail, Fathers, to your ardour!
 
 <details><summary>पदपाठः</summary>
 
-नमः। वः। पितरः। भामाय। नमः। वः। पितरः। मन्यवे। ४.८२।
+नम॑ः। व॒ः। पि॒त॒र॒ः। भामा॑य। नम॑ः। व॒ः। पि॒त॒र॒ः। म॒न्यवे॑। ४.८२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Hail Father; to your wrath! Hail, Fathers, to your ardour!
 
 टिप्पणी:   ८२−(भामाय)अर्त्तिस्तुसुहुसृधृक्षिक्षुभा०। उ० १।१४०। भा दीप्तौ-मन्। भामं प्रकाशं प्रतापंप्राप्तुम् (मन्यवे) यथा म० ८१। मन्युं क्रोधं निवर्तयितुम्। अन्यत् पूर्ववत् ॥
 </details>
+

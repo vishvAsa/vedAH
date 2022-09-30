@@ -17,7 +17,7 @@ The Brihat, the Rathantara, the Adityas and all the Gods followed him.
 
 <details><summary>पदपाठः</summary>
 
-तम्। बृहत्। च। रथम्ऽतरम्। च। आदित्याः। च। विश्वे। च। देवाः। अनुऽव्य᳡चलन्। २.२।
+तम्। बृ॒हत्। च॒। र॒थ॒म्ऽत॒रम्। च॒। आ॒दि॒त्याः। च॒। विश्वे॑। च॒। दे॒वाः। अ॒नु॒ऽव्य᳡चलन्। २.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

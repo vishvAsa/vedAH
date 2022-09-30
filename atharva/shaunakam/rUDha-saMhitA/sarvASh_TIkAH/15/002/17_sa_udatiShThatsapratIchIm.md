@@ -15,7 +15,7 @@ He arose and went away to the western region.
 
 <details><summary>पदपाठः</summary>
 
-सः। उत्। अतिष्ठत्। सः। प्रतीचीम्। दिशम्। अनु। वि। अचलत्। २.१५।
+सः। उत्। अ॒ति॒ष्ठ॒त्। सः। प्र॒तीची॑म्। दिश॑म्। अनु॑। वि। अ॒च॒ल॒त्। २.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -45,3 +45,4 @@ He arose and went away to the western region.
 
 टिप्पणी:   १५−(प्रतीचीम्) पश्चाद्भागस्थाम्। पश्चिमाम्। अन्यत् पूर्ववत्-म० १ ॥
 </details>
+

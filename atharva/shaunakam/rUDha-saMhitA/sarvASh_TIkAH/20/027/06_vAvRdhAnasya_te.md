@@ -10,7 +10,7 @@ Thine aid we claim, O Indra, thine who after thou hast waxen great. Hast won all
 
 <details><summary>पदपाठः</summary>
 
-ववृधानस्य। ते। वयम्। विश्वा। धनानि। जिग्युषः। ऊतिम्। इन्द्र। आ। वृणीमहे। २७.६।
+व॒वृ॒धा॒नस्य॑। ते॒। व॒यम्। विश्वा॑। धना॑नि। जि॒ग्युष॑ः। ऊ॒तिम्। इ॒न्द्र॒। आ। वृ॒णी॒म॒हे॒। २७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thine aid we claim, O Indra, thine who after thou hast waxen great. Hast won all
 
 टिप्पणी:   ६−(वावृधानस्य) वर्धमानस्य (ते) तव (वयम्) प्रजाजनाः (विश्वा) सर्वाणि (धनानि) (जिग्युषः) जि जये-क्वसु। जितवतः (ऊतिम्) रक्षाम् (इन्द्र) हे परमैश्वर्यवन् राजन् (आ) समन्तात् (वृणीमहे) याचामहे ॥
 </details>
+

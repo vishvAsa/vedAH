@@ -18,7 +18,7 @@ A hundred autumns may we grow.
 
 <details><summary>पदपाठः</summary>
 
-रोहेम। शरदः। शतम्। ६७.४।
+रोहे॑म। श॒रदः॑। श॒तम्। ६७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ A hundred autumns may we grow.
 
 टिप्पणी:   ४−(रोहेम) आरूढा भवेम ॥
 </details>
+

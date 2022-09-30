@@ -18,7 +18,7 @@ A hundred autumns may we know.
 
 <details><summary>पदपाठः</summary>
 
-बुध्येम। शरदः। शतम्। ६७.३।
+बुध्ये॑म। श॒रदः॑। श॒तम्। ६७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ A hundred autumns may we know.
 
 टिप्पणी:   ३−(बुध्येम) बुध्येमहि। जानीयाम ॥
 </details>
+

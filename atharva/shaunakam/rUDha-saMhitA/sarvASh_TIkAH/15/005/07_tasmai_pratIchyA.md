@@ -17,7 +17,7 @@ They made Pasupati the Archer his deliverer from the inter- mediate space of the
 
 <details><summary>पदपाठः</summary>
 
-तस्मै। प्रतीच्याः। दिशः। अन्तःऽदेशात्। पशुऽपतिम्। इषुऽआसम्। अनुऽस्थातारम्। अकुर्वन्। ५.६।
+तस्मै॑। प्र॒तीच्या॑ः। दि॒शः। अ॒न्त॒ःऽदे॒शात्। प॒शु॒ऽपति॑म्। इ॒षु॒ऽआ॒सम्। अ॒नु॒ऽस्था॒तार॑म्। अ॒कु॒र्व॒न्। ५.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -47,3 +47,4 @@ They made Pasupati the Archer his deliverer from the inter- mediate space of the
 
 टिप्पणी:   ६, ७−(प्रतीच्याः)पश्चिमायाः (पशुपतिम्) प्राणिनां रक्षकम् (पशुपतिः) प्राणिनां रक्षकः। अन्यत्पूर्ववत् ॥
 </details>
+

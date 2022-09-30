@@ -20,7 +20,7 @@ The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The
 
 <details><summary>पदपाठः</summary>
 
-सरस्वतीम्। देवऽयन्तः। हवन्ते। सरस्वतीम्। अध्वरे। तायमाने। सरस्वतीम्। सुऽकृतः। हवन्ते। सरस्वती। दाशुषे। वार्यम्। दात्। ४.४५।
+सर॑स्वतीम्। दे॒व॒ऽयन्त॑ः। ह॒व॒न्ते॒। सर॑स्वतीम्। अ॒ध्व॒रे। ता॒यमा॑ने। सर॑स्वतीम्। सु॒ऽकृत॑ः। ह॒व॒न्ते॒। सर॑स्वती। दा॒शुषे॑। वार्य॑म्। दा॒त्। ४.४५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -50,3 +50,4 @@ The pious call Sarasvati: they worship Sarasvati while sacrifice proceedeth. The
 
 टिप्पणी:   ४५-४७−मन्त्राव्याख्याताः-अ० १८।१।४१-४३ ॥
 </details>
+

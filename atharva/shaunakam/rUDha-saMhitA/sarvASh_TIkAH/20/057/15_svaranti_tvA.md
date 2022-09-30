@@ -10,7 +10,7 @@ Men, Vasu, by the Soma with lauds call thee to the foremost place. When comest t
 
 <details><summary>पदपाठः</summary>
 
-स्वरन्ति। त्वा। सुते। नरः। वसो इति। निरेके। उक्थिनः। कदा। सृतम्। तृषाणः। ओकः। आ। गमः। इन्द्र। स्वब्दीऽइव। वंसगः। ५७.१५।
+स्वर॑न्ति। त्वा॒। सु॒ते। नर॑ः। वसो॒ इति॑। नि॒रे॒के। उ॒क्थिन॑ः। क॒दा। सृ॒तम्। तृ॒षा॒णः। ओक॑ः। आ। ग॒मः। इन्द्र॑। स्व॒ब्दीऽइ॑व। वंस॑गः। ५७.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Men, Vasu, by the Soma with lauds call thee to the foremost place. When comest t
 
 टिप्पणी:   १४-१६। एते मन्त्रा व्याख्याताः-अ० २०।३।१-३ ॥
 </details>
+

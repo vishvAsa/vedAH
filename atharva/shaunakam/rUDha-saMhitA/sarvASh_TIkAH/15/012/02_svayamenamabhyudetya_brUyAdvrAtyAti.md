@@ -19,7 +19,7 @@ Should of his own accord rise to meet him and say, Vratya, give me permission. I
 
 <details><summary>पदपाठः</summary>
 
-स्वयम्। एनम्। अभिऽउदेत्य। ब्रूयात्। व्रात्य। अति। सृज। होष्यामि। इति। १२.२।
+स्व॒यम्। ए॒न॒म्। अ॒भि॒ऽउ॒देत्य॑। ब्रू॒या॒त्। व्रात्य॑। अति॑। सृ॒ज॒। हो॒ष्यामि॑। इति॑। १२.२। 
 </details>
 
 <details><summary>पण्डित क्षेमकरणदास त्रिवेदी - विषयः</summary>
@@ -41,3 +41,4 @@ Should of his own accord rise to meet him and say, Vratya, give me permission. I
 
 टिप्पणी:   २−(स्वयम्) आत्मना (एनम्)अतिथिम् (अभ्युदेत्य) अभिमुखमुत्थाय (ब्रूयात्) कथयेत् (व्रात्य) (अति सृज)आज्ञापय (होष्यामि) होमं यज्ञं करिष्यामि (इति) ॥
 </details>
+

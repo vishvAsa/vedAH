@@ -10,7 +10,7 @@ Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active 
 
 <details><summary>पदपाठः</summary>
 
-येन। पावक। चक्षसा। भुरण्यन्तम्। जनान्। अनु। त्वम्। वरुण। पश्यसि। १७.१८।
+येन॑। पा॒व॒क॒। चक्ष॑सा। भु॒र॒ण्यन्त॑म्। जना॑न्। अनु॑। त्वम्। व॒रु॒ण॒। पश्य॑सि। १७.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thou with that eye of thine wherewith thou seest, brilliant. Varuna, The active 
 
 टिप्पणी:   १३-२१−एते मन्त्रा व्याख्याताः-अ० १३।२।१६-२४ ॥
 </details>
+

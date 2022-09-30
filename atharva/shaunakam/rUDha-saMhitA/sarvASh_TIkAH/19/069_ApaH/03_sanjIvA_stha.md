@@ -19,7 +19,7 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 
 <details><summary>पदपाठः</summary>
 
-सम्ऽजीवाः। स्थ। सम्। जीव्यासम्। सर्वम्। आयुः। जीव्यासम्। ६९.३।
+स॒म्ऽजी॒वाः। स्थ॒। सम्। जी॒व्या॒स॒म्। सर्व॑म्। आयुः॑। जी॒व्या॒स॒म्। ६९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 
 टिप्पणी:   ३−(संजीवाः) संयोगेन जीवन्तः (सं जीव्यासम्) संयोगेन प्राणान् धारयेयम् ॥
 </details>
+

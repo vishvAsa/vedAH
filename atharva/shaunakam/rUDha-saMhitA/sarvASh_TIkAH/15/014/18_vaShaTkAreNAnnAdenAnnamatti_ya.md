@@ -16,7 +16,7 @@ He who hath this knowledge eats food with the exclamation Vashat as food-eater.
 
 <details><summary>पदपाठः</summary>
 
-वषट्ऽकारेण। अन्नऽअदेन। अन्नम्। अत्ति। यः। एवम्। वेद। १४.१८।
+व॒ष॒ट्ऽका॒रेण॑। अ॒न्न॒ऽअ॒देन। अन्न॑म्। अ॒त्ति॒। यः। ए॒वम्। वेद॑। १४.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -46,3 +46,4 @@ He who hath this knowledge eats food with the exclamation Vashat as food-eater.
 
 टिप्पणी:   १७, १८−(ऊर्ध्वाम्)उन्नताम् (बृहस्पतिः) बृहतानां महतीनां विद्यानां रक्षकः (वषट्कारम्) वहप्रापणे-डषटि। दानव्यवहारम् (वषट्कारेण) दानव्यवहारेण। अन्यत् पूर्ववत्-म० १, २॥
 </details>
+

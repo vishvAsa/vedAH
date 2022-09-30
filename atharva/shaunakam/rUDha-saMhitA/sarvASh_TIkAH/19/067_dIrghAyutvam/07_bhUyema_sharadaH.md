@@ -18,7 +18,7 @@ A hundred autumns may we bide.
 
 <details><summary>पदपाठः</summary>
 
-भूयेम। शरदः। शतम्। ६७.७।
+भूये॑म। श॒रदः॑। श॒तम्। ६७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ A hundred autumns may we bide.
 
 टिप्पणी:   ७−(भूयेम) भू शुद्धौ-आशीर्लिङि छान्दसं रूपम्। शुध्येम ॥
 </details>
+

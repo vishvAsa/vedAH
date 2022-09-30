@@ -18,7 +18,7 @@ Hail to the Fathers who inhabit the firmament!
 
 <details><summary>पदपाठः</summary>
 
-स्वधा। पितृऽभ्यः। अन्तर᳡ देव॒यज॑निक्षसत्ऽभ्यः। ४.७९।
+स्व॒धा। पि॒तृऽभ्य॑ः। अ॒न्त॒र‍ि॒क्ष॒सत्ऽभ्य॑ः। ४.७९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -48,3 +48,4 @@ Hail to the Fathers who inhabit the firmament!
 
 टिप्पणी:   ७९−(अन्तरिक्षसद्भ्यः)आकाशविद्यायां गतिशीलेभ्यः। अन्यत् पूर्ववत् ॥
 </details>
+

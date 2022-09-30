@@ -27,7 +27,7 @@ Thou art the couch of the Rishis. Let worship be paid to the divine couch.
 
 <details><summary>पदपाठः</summary>
 
-ऋषीणाम्। प्रऽस्तरः। असि। नमः। अस्तु। दैवाय। प्रऽस्तराय। २.६।
+ऋषी॑णाम्। प्र॒ऽस्त॒रः। अ॒सि॒। नम॑ः। अ॒स्तु॒। दैवा॑य। प्रऽस्त॒राय॑। २.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -57,3 +57,4 @@ Thou art the couch of the Rishis. Let worship be paid to the divine couch.
 
 टिप्पणी:   ६−(ऋषीणाम्) सप्त ऋषयः प्रतिहिताःशरीरे षडिन्द्रियाणि। वि० सप्तमी-निरु० १२।३७। इन्द्रियाणाम् (प्रस्तरः)प्रस्तारकः। प्रसारकः परमेश्वरः (असि) (नमः) सत्कारः (अस्तु) (दैवाय) दिव्यगुणवते (प्रस्तराय) प्रसारकाय तुभ्यम् ॥
 </details>
+

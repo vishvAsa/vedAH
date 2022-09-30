@@ -19,7 +19,7 @@ Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!
 
 <details><summary>पदपाठः</summary>
 
-नमः। वः। पितरः। यत्। शिवम्। तस्मै। नमः। वः। पितरः। यत्। स्योनम्। तस्मै। ४.८४।
+नम॑ः। व॒ः। पि॒त॒र॒ः। यत्। शि॒वम्। तस्मै॑। नम॑ः। व॒ः। पि॒त॒र॒ः। यत्। स्यो॒नम्। तस्मै॑। ४.८४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Hail, Fathers, to all that is propitious! Hail to all that is plea- sant in you!
 
 टिप्पणी:   ८४−(यत्) (शिवम्)कल्याणकरम् (तस्मै) तत् प्राप्तुम् (यत्) (स्योनम्) सुखम् (तस्मै) तल्लब्धुम्।अन्यत् पूर्ववत् ॥
 </details>
+

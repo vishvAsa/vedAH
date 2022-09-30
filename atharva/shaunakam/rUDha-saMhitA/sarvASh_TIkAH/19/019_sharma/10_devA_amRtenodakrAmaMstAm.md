@@ -19,7 +19,7 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 
 <details><summary>पदपाठः</summary>
 
-देवाः। अमृतेन। उत्। अक्रामन्। ताम्। पुरम्। प्र। नयामि। वः। ताम्। आ। विशत। ताम्। प्र। विशत। सा। वः। शर्म। वर्म। च। यच्छतु। १९.१०।
+दे॒वाः। अ॒मृते॑न। उत्। अ॒क्रा॒म॒न्। ताम्। पुर॑म्। प्र। न॒या॒मि॒। वः॒। ताम्। आ। वि॒श॒त॒। ताम्। प्र। वि॒श॒त॒। सा। वः॒। शर्म॑। वर्म॑। च॒। य॒च्छ॒तु॒। १९.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -49,3 +49,4 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 
 टिप्पणी:   १०−(देवाः) विद्वांसः (अमृतेन) अमरत्वेन। पुरुषार्थेन। मोक्षसुखेन। अन्यद् गतम् ॥
 </details>
+

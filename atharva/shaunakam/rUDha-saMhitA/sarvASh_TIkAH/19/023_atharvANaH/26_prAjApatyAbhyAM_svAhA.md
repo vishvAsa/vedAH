@@ -26,7 +26,7 @@ Hail to the two Prajapati hymns!
 
 <details><summary>पदपाठः</summary>
 
-प्राजाऽपत्याभ्याम्। स्वाहा। २३.२६।
+प्रा॒जा॒ऽप॒त्याभ्या॑म्। स्वाहा॑। २३.२६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -56,3 +56,4 @@ Hail to the two Prajapati hymns!
 
 टिप्पणी:   २६−(प्राजापत्याभ्याम्) प्रजापतिः परमात्मा देवता पूजनीयो ययोस्ताभ्यां कार्यकारणाभ्याम् ॥
 </details>
+
