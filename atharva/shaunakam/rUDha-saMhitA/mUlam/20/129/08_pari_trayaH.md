@@ -2,4 +2,7 @@
 title = "०८ परि त्रयः"
 
 +++
-परि॑ त्रयः ॥८॥  
+<details><summary>मूलम् (VS)</summary>
+
+परि॑ त्रयः ॥
+</details>

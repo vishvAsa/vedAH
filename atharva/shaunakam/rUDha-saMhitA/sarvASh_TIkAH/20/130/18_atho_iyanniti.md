@@ -10,7 +10,7 @@ again the cry was, Here is he.
 
 <details><summary>पदपाठः</summary>
 
-अथो। इयन्। इति। १३०.१८।
+अथो॑। इ॒यन्। इति॑। १३०.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ again the cry was, Here is he.
 
 टिप्पणी:   १८−(अथो) अनन्तरम् (इयन्) म० १७। गच्छन् (इति) ॥
 </details>
+

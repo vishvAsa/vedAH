@@ -10,7 +10,7 @@ deity rivalling the Sun.
 
 <details><summary>पदपाठः</summary>
 
-देव। त्वत्प्रतिसूर्य। १३०.१०।
+देव॑। त्वत्प्रतिसूर्य। १३०.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ deity rivalling the Sun.
 
 टिप्पणी:   १०−(देव) हे विद्वन् (त्वप्रतिसूर्य) विभक्तेर्लुक्। त्वमेव सूर्यसमानः प्रतापवान् ॥
 </details>
+

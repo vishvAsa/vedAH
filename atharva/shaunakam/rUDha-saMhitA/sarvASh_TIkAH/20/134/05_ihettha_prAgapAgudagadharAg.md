@@ -10,7 +10,7 @@ Here east and west and north and south in iron mayst thou not be caught. The cup
 
 <details><summary>पदपाठः</summary>
 
-इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। आष्टे। लाहणि। लीशाथी। १३४.५।
+इ॒ह। इत्थ॑। प्राक्। अपा॒क्। उद॑क्। अ॒ध॒राक्। आष्टे॑। लाहणि॒। लीशा॑थी। १३४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Here east and west and north and south in iron mayst thou not be caught. The cup
 
 टिप्पणी:   −(आष्टे) अशू व्याप्तौ। व्याप्यते (लाहणि) अर्त्तिसृधृ०। उ० २।१०२। लाभ प्रेरणे−अनि, भस्य हः। विभक्तेर्लुक्। प्रेरिका शक्तिः। तीक्ष्णा बुद्धिः (लीशाथी) रुवदिभ्यां डित्। उ० ३।११। लिश गतौ, अल्पीभावे च−अथ प्रत्ययः, ङीप्, पृषोदरादिरूपम्। गमनशीला सती ॥
 </details>
+

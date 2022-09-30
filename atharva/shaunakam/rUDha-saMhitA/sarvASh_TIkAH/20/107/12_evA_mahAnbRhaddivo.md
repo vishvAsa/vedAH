@@ -10,7 +10,7 @@ Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. T
 
 <details><summary>पदपाठः</summary>
 
-एव। महान्। बृहत्ऽदिवः। अथर्वा। अवोचत्। स्वाम्। तन्वम्। इन्द्रम्। एव। स्वसारौ। मातरिभ्वरी इति। अरिप्रे इति। हिन्वन्ति। च। एने इति। शवसा। वर्धयन्ति। च। १०७.१२।
+ए॒व। म॒हान्। बृ॒हत्ऽदि॑वः। अथ॑र्वा। अवो॑चत्। स्वाम्। त॒न्व॑म्। इन्द्र॑म्। ए॒व। स्वसा॑रौ। मा॒त॒रिभ्व॑री॒ इति॑। अ॒रि॒प्रे इति॑। हि॒न्वन्ति॑। च॒। ए॒ने॒ इति॑। शव॑सा। व॒र्धय॑न्ति। च॒। १०७.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thou hath Brihaddiva the great Atharvan, spoken to Indra as himself in person. T
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

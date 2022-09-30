@@ -10,7 +10,7 @@ Three adders, breathing angrily, are blowing loud the threatening horn. (with pr
 
 <details><summary>पदपाठः</summary>
 
-शृङ्गम्। धमन्तः। आसते। १२९.१०।
+शृङ्ग॑म्। ध॒मन्त॑ः। आसते। १२९.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Three adders, breathing angrily, are blowing loud the threatening horn. (with pr
 
 टिप्पणी:   १०−(शृङ्गम्) वाद्यविशेषं यथा, तथा श्वासशब्दम् (घञन्तः) ध्मा शब्दाग्निसंयोगयोः-शतृ। दीर्घश्वासेन शब्दयन्तः (आसते) उपविशन्ति ॥
 </details>
+

@@ -10,7 +10,7 @@ the bottle-gourd dug from the earth,
 
 <details><summary>पदपाठः</summary>
 
-अलाबुकम्। निखातकम्। १३२.२।
+अला॑बुक॒म्। निखा॑तकम्। १३२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ the bottle-gourd dug from the earth,
 
 टिप्पणी:   २−(अलाबुकम्) म० १। (निखातकम्) खनु अवदारणे-क्त, स्वार्थे कन्। खनित्वा दृढीकृत्य स्थापितम् ॥
 </details>
+

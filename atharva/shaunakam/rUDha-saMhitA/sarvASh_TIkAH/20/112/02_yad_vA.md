@@ -10,7 +10,7 @@ When, Mighty One, Lord of the Brave, thou thinkest, I shall never die, That thou
 
 <details><summary>पदपाठः</summary>
 
-यत्। वा। प्रऽवृद्ध। सत्ऽपते। न। मरै। इति। मन्यसे। सतो इति। तत्। सत्यम्। इत्। तव। ११२.२।
+यत्। वा॒। प्र॒ऽवृ॒द्ध॒। स॒त्ऽप॒ते॒। न। म॒रै॒। इति॑। मन्य॑से। स॒तो इति॑। तत्। स॒त्यम्। इत्। तव॑। ११२.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ When, Mighty One, Lord of the Brave, thou thinkest, I shall never die, That thou
 
 टिप्पणी:   २−(यत्) यदि (वा) च (प्रवृद्ध) प्रवर्धमान (सत्पते) सतां पालक (न) निषेधे (मरै) अहं म्रिये (इति) एवम् (मन्यसे) बुध्यसे (उतो) अपि च (तत्) वचनम् (सत्यम्) यथार्थम् (इत्) एव (तव) ॥
 </details>
+

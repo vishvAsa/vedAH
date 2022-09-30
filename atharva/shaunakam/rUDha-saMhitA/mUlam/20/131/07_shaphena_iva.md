@@ -2,4 +2,7 @@
 title = "०७ शफेन इव"
 
 +++
-श॒फेन॑ इ॒व ओ॑हते ॥७॥  
+<details><summary>मूलम् (VS)</summary>
+
+श॒फेन॑ इ॒व ओ॑हते ॥
+</details>

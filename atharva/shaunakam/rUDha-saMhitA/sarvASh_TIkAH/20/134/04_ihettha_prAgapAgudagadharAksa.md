@@ -10,7 +10,7 @@ Here east and west and north and south adheres when touched. That water-drop.
 
 <details><summary>पदपाठः</summary>
 
-इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। सः। वै। पृथु। लीयते। १३४.४।
+इ॒ह। इत्थ॑। प्राक्। अपा॒क्। उद॑क्। अ॒ध॒राक्। सः। वै॑। पृ॒थु। ली॑यते। १३४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Here east and west and north and south adheres when touched. That water-drop.
 
 टिप्पणी:   ४−(सः) स्थालीपाकः (वै) निश्चयेन (पृथु) यथा तथा विस्तारेण (लीयते) म० ३। संयुज्यते ॥
 </details>
+

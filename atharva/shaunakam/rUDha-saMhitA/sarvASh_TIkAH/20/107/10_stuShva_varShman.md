@@ -10,7 +10,7 @@ Thou in that house which thy protection guardedh bestowest- wealth, the higher a
 
 <details><summary>पदपाठः</summary>
 
-स्तुष्व। वर्ष्मन्। पुरुऽवर्त्मानम्। सम्। ऋभ्वाणम्। इनतमम्। आप्तम्। आप्त्यानाम्। आ। दर्शति। शवसा। भूरिऽओजाः। प्र। सक्षति। प्रतिऽमानम्। पृथिव्याः। १०७.१०।
+स्तु॒ष्व। व॒र्ष्म॒न्। पु॒रु॒ऽवर्त्मा॑नम्। सम्। ऋभ्वा॑णम्। इ॒न॒त॑मम्। आ॒प्तम्। आ॒प्त्याना॑म्। आ। द॒र्श॒ति॒। शव॑सा। भूरि॑ऽओजाः। प्र। स॒क्ष॒ति॒। प्र॒ति॒ऽमान॑म्। पृ॒थि॒व्याः। १०७.१०। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Thou in that house which thy protection guardedh bestowest- wealth, the higher a
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

@@ -10,7 +10,7 @@ He shall not gain it unspread out.
 
 <details><summary>पदपाठः</summary>
 
-न। वनिषत्। अनाततम्। १३२.७।
+न। व॑निष॒त्। अना॑ततम्। १३२.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ He shall not gain it unspread out.
 
 टिप्पणी:   ७−(न) निषेधे (वनिषत्) म० ६। याचतां सः (अनाततम्) अविस्तृतम्। सङ्कुचितं पदार्थम् ॥
 </details>
+

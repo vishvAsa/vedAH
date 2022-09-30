@@ -10,7 +10,7 @@ Let him prepare a nest, they say:
 
 <details><summary>पदपाठः</summary>
 
-कुलायन्। कृणवात्। इति। १३२.५।
+कुला॑यन्। कृणवा॒त्। इति॑। १३२.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Let him prepare a nest, they say:
 
 टिप्पणी:   −(कुलायन्) अ० २०।१२।८। कुलायन्। स्थानानि (कृणवात्) लडर्थे लेट्। करोति रचयति परमेश्वरः (इति) एवं मन्यते ॥
 </details>
+

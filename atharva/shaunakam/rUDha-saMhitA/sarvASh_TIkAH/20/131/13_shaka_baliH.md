@@ -10,7 +10,7 @@ the sacrifice with burning dung.
 
 <details><summary>पदपाठः</summary>
 
-शक। बलिः। १३१.१३।
+शक॑। ब॒लिः। १३१.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ the sacrifice with burning dung.
 
 टिप्पणी:   १३−(शक) शक्लृ सामर्थ्ये-अच्। हे समर्थ (बलिः) म० १२। राजग्राह्यकरः ॥
 </details>
+

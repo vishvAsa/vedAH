@@ -10,7 +10,7 @@ Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extend
 
 <details><summary>पदपाठः</summary>
 
-न। सः। ईशे। यस्य। रोमशम्। निऽसेदुषः। विऽजृम्भते। सः। इत्। ईशे। यस्य। रम्बते। अन्तरा। सक्थ्यो। कपृत्। विश्वस्मात्। इन्द्रः। उत्ऽतर। १२६.१७।
+न। सः। ई॒शे॒। यस्य॑। रो॒म॒शम्। नि॒ऽसेदुष॑ः। विऽजृम्भ॑ते। सः। इत्। ई॒शे॒। यस्य॑। रम्ब॑ते। अ॒न्त॒रा। स॒क्थ्यो॑। कपृ॑त्। विश्व॑स्मात्। इन्द्र॑ः। उत्ऽत॑र। १२६.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Indra speaks. Non fortis est ille cujus, quum sederit, membrum pilosum se extend
 
 टिप्पणी:   १७−(विजृम्भते) आलस्येन जृम्भां मुखविकाशं करोति। अन्यत् पूर्ववत् ॥
 </details>
+

@@ -10,7 +10,7 @@ With the Adityas, with the band of Maruts, may Indra be pro- tector of our bodie
 
 <details><summary>पदपाठः</summary>
 
-आदित्यैः। इन्द्रः। सऽगणः। मरुत्ऽभिः। अस्माकम्। भूतु। अविता। तनूनाम्। हत्वाय। देवाः। असुरान्। यत्। आयन्। देवाः। देवऽत्वम्। अभिऽरक्षमाणाः। १२४.५।
+आ॒दि॒त्यैः। इन्द्र॑ः। सऽग॑णः। म॒रुत्ऽभि॑ः। अ॒स्माक॑म्। भू॒तु॒। अ॒वि॒ता। त॒नूना॑म्। ह॒त्वाय॑। दे॒वाः। असु॑रान्। यत्। आय॑न्। दे॒वाः। दे॒व॒ऽत्वम्। अ॒भि॒ऽरक्ष॑माणाः। १२४.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ With the Adityas, with the band of Maruts, may Indra be pro- tector of our bodie
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अथ० ६३।१-३ ॥
 </details>
+

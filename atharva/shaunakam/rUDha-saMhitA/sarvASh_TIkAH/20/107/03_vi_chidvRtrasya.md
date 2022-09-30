@@ -10,7 +10,7 @@ The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred
 
 <details><summary>पदपाठः</summary>
 
-वि। चित्। वृत्रस्य। दोधतः। वज्रेणः। शतऽपर्वणा। शिरः। बिभेद। वृष्णिना। १०७.३।
+वि॒। चि॒त्। वृ॒त्रस्य॑। दोध॑तः। वज्रे॑णः। श॒तऽप॑र्वणा। शिर॑ः। बि॒भे॒द॒। वृ॒ष्णिना॑। १०७.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ The fiercely-moving Vritra's head he severed with his thunder- bolt, His hundred
 
 टिप्पणी:   ३−(वि) विविधम् (चित्) एव (वृत्रस्य) आवरकस्य शत्रोः (दोधतः) अ० १२।१।८। क्रुध्यतः (वज्रेण) शस्त्रेण (शतपर्वणा) बहुसन्धियुक्तेन (शिरः) (बिभेद) विच्छेद (वृष्णिना) वीर्यवता। दृढेन ॥
 </details>
+

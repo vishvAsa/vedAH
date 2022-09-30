@@ -10,7 +10,7 @@ Therefore in thee too, thou who winnest riches, at every banquet are the sages j
 
 <details><summary>पदपाठः</summary>
 
-यदि। चित्। नु। त्वा। धना। जयन्तम्। रणेऽरणे। अनुमदन्त᳡ देव॒यज॑नि। विप्राः। ओजीयः। शुष्मिन्। स्थिरम्। आ। तनुष्व। मा। त्वा। दभन्। दुःऽएवासः। कशोकाः। १०७.७।
+यदि॑। चि॒त्। नु। त्वा॒। धना॑। जय॑न्तम्। रणे॑ऽरणे। अ॒नु॒मद॑न्त‍ि। विप्रा॑ः। ओजी॑यः। शु॒ष्मि॒न्। स्थि॒रम्। आ। त॒नु॒ष्व॒। मा। त्वा॒। द॒भ॒न्। दु॒ःऽएवा॑सः। क॒शोका॑ः। १०७.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Therefore in thee too, thou who winnest riches, at every banquet are the sages j
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

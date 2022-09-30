@@ -10,7 +10,7 @@ he shall obtain it strong and stretched.
 
 <details><summary>पदपाठः</summary>
 
-उग्रम्। वनिषत्। आततम्। १३२.६।
+उ॒ग्रम्। व॑नि॒षत्। आ॑ततम्। १३२.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ he shall obtain it strong and stretched.
 
 टिप्पणी:   ६−(उग्रम्) दृढम् (वनिषत्) वनु याचने लिङर्थे लुङ्। परस्मैपदं च। अवनिष्ट, याचतां मनुष्यः (आततम्) समन्ताद् विस्तृतं पदार्थम् ॥
 </details>
+

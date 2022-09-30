@@ -10,7 +10,7 @@ The man pervaded thoroughly
 
 <details><summary>पदपाठः</summary>
 
-व्याप। पूरुषः। १३१.१७।
+व्याप॒। पूरु॑षः। १३१.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ The man pervaded thoroughly
 
 टिप्पणी:   १७−(व्याप) व्यापितवान्। विस्तारितवान् (पूरुषः) अयं मनुष्यः ॥
 </details>
+

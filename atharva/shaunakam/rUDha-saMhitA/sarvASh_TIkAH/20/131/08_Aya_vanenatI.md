@@ -10,7 +10,7 @@ the entrails and the clotted blood.
 
 <details><summary>पदपाठः</summary>
 
-आऽअय। वनेनती। जनी। १३१.८।
+आऽअय॑। व॒नेन॑ती॒। जनी॑। १३१.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ the entrails and the clotted blood.
 
 टिप्पणी:   ८−(आय) अय गतौ। आगच्छ (वनेनती) वन उपकारे-अच्। पातेर्डतिः। उ० ४।७। णम प्रह्वत्वे शब्दे च-डति, ङीप्। उपकारे नम्रा (जनी) जन जनने-इन्, ङीप् जनयित्री। माता सती त्वम् ॥
 </details>
+

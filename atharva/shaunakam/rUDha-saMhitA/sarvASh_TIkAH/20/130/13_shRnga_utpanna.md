@@ -10,7 +10,7 @@ When the horn s blast hath sounded forth
 
 <details><summary>पदपाठः</summary>
 
-शृङ्गः। उत्पन्न। १३०.१३।
+शृङ्ग॑ः। उत्पन्न। १३०.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ When the horn s blast hath sounded forth
 
 टिप्पणी:   १३−(शृङ्गः) शृणातेर्ह्रस्वश्च। उ० १।१२६। शॄ हिंसायाम-गन्, नुट् च। हिंसकः। शत्रुः (उत्पन्न) प्रादुर्भूतोऽसि ॥
 </details>
+

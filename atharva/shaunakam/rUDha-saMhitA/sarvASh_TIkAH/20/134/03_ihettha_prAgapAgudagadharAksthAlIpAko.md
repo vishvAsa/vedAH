@@ -10,7 +10,7 @@ Here east and west and north and south the offering of rice clings on. The leaf 
 
 <details><summary>पदपाठः</summary>
 
-इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। स्थालीपाकः। वि। लीयते। १३४.३।
+इ॒ह। इत्थ॑। प्राक्। अपा॒क्। उद॑क्। अ॒ध॒राक्। स्थाली॑पा॒कः। वि। ली॑यते। १३४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Here east and west and north and south the offering of rice clings on. The leaf 
 
 टिप्पणी:   ३−(स्थालीपाकः) स्थाचतिमृजेरालज्०। उ० १।११६। ष्ठा गतिनिवृत्तौ−आलच् ङीप्+डुपचष् पाके−घञ्। स्थाल्यां सूपादिपचन्यां पच्यते। पक्वभोजनपदार्थः (वि) विविधम् (लीयते) लीङ् श्लेषणे। श्लिष्यते। संयुज्यते ॥
 </details>
+

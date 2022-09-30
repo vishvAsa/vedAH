@@ -10,7 +10,7 @@ May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness.
 
 <details><summary>पदपाठः</summary>
 
-सः। सुऽत्रामा। स्वऽवान्। इन्द्रः। अस्मत्। आरात्। चित्। द्वेषः। सनुतः। युयोतु। तस्य। वयम्। सुऽमतौ। यज्ञियस्य। अपि। भद्रे। सौमनसे। स्याम। १२५.७।
+सः। सु॒ऽत्रामा॑। स्वऽवा॑न्। इन्द्र॑ः। अ॒स्मत्। आ॒रात्। चि॒त्। द्वेष॑ः। स॒नु॒तः। यु॒यो॒तु॒। तस्य॑। व॒यम्। सु॒ऽम॒तौ। य॒ज्ञिय॑स्य। अपि॑। भ॒द्रे। सौ॒म॒न॒से। स्या॒म॒। १२५.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ May we enjoy his favour, his the holy: may we enjoy his blessed loving-kindness.
 
 टिप्पणी:   ६, ७−मन्त्रौ व्याख्यातौ-अथ० ७ सू० ९१, ९२ ॥
 </details>
+

@@ -10,7 +10,7 @@ Do thou who art protector us thy friends who praise thee With hundred aids appro
 
 <details><summary>पदपाठः</summary>
 
-अभि। सु। नः। सखीनाम्। अविता। जरितॄणाम्। शतम्। भवासि। ऊतिऽभिः। १२४.३।
+अ॒भि। सु। न॒ः। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄ॒णाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तिऽभि॑ः। १२४.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Do thou who art protector us thy friends who praise thee With hundred aids appro
 
 टिप्पणी:   ३−(अभि) अभिमुखम् (सु) (नः) अस्माकम् (सखीनाम्) सुहृदाम् (अविता) रक्षकः (जरितॄणाम्) स्तोतॄणाम्। सद्गुणविदाम् (शतम्) बहुप्रकारेण (भवासि) लेटि रूपम्। भवेः (ऊतिभिः) रक्षाभिः ॥
 </details>
+

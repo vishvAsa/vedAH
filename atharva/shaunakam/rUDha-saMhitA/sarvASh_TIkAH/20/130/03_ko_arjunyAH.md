@@ -10,7 +10,7 @@ Who took away the white cow's milk?
 
 <details><summary>पदपाठः</summary>
 
-कः। अर्जुन्या। पयः। १३०.३।
+कः। अर्जु॑न्या॒। पय॑ः। १३०.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Who took away the white cow's milk?
 
 टिप्पणी:   ३−(कः) (अर्जुन्याः) अर्जेर्णिलुक् च। उ० २।८। अर्ज अर्जने-उनन् ङीप्। उद्योगिन्याः क्रियायाः (पयः) म० २ ॥
 </details>
+

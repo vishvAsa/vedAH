@@ -10,7 +10,7 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 
 <details><summary>पदपाठः</summary>
 
-ववृधानः। शवसा। भूरिऽओजाः। शत्रुः। दासाय। भियसम्। दधाति। अविऽअनत्। च। विऽअनत्। च। सस्नि। सम्। ते। नवन्त। प्रभृता। मदेषु। १०७.५।
+व॒वृ॒धा॒नः। शव॑सा। भूरि॑ऽओजाः। शत्रु॑ः। दा॒साय॑। भि॒यस॑म्। द॒धा॒ति॒। अवि॑ऽअनत्। च॒। वि॒ऽअ॒नत्। च॒। सस्नि॑। सम्। ते॒। न॒व॒न्त॒। प्रभृ॑ता। मदे॑षु। १०७.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

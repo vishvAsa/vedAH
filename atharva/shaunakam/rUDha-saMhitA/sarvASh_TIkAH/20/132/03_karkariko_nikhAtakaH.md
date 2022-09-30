@@ -10,7 +10,7 @@ The lute dug up from out the ground:
 
 <details><summary>पदपाठः</summary>
 
-कर्करिकः। निखातकः। १३२.३।
+क॒र्क॒रि॒कः। निखा॑तकः। १३२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ The lute dug up from out the ground:
 
 टिप्पणी:   ३−(कर्करिकः) फर्फरीकादयश्च। उ० ४।२०। डुकृञ् करणे-ईकन्, कर्करादेशः, ईकारस्य इकारः। कर्ता। रचयिता (निखातकः) म० २। दृढीकृत्य स्थापितः ॥
 </details>
+

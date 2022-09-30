@@ -10,7 +10,7 @@ beat again again about the house?
 
 <details><summary>पदपाठः</summary>
 
-परिऽआगारम्। पुनःऽपुनः। १३२.१२।
+परिऽआ॑गारम्। पुन॑ःऽपुनः। १३२.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ beat again again about the house?
 
 टिप्पणी:   १२−(पर्यागारम्) परि+अग कुटिलायां गतौ-घञ्, आगमृच्छति ऋ गतौ-अण्। आगारं गृहम्। प्रतिगृहम्। (पुनःपुनः) वारंवारम् ॥
 </details>
+

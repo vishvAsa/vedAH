@@ -10,7 +10,7 @@ We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero
 
 <details><summary>पदपाठः</summary>
 
-तम्। इन्द्रम्। वाजयामसि। महे। वृत्राय। हन्तवे। सः। वृषा। वृषभः। भुवत्। १३७.१२।
+तम्। इन्द्र॑म्। वा॒ज॒या॒म॒सि॒। म॒हे। वृ॒त्राय॑। हन्त॑वे। सः। वृषा॑। वृ॒ष॒भः। भु॒व॒त्। १३७.१२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ We make this Indra very strong to strike the mighty Vritra dead: A vigorous Hero
 
 टिप्पणी:   मन्त्र १२-१४ आचुके हैं-अथ० २०।४७।१-३ ॥  १२-१४−एते मन्त्रा व्याख्याताः-अथ० २०।४७।१-३ ॥
 </details>
+

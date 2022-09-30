@@ -10,7 +10,7 @@ The brilliant Presence of the Gods hath risen, the eye of Mitra, Varuna, and Agn
 
 <details><summary>पदपाठः</summary>
 
-चित्रम्। देवानाम्। उत्। अगात्। अनीकम्। चक्षुः। मित्रस्य। वरुणस्य। अग्नेः। आ। अप्रात्। द्यावापृथिवी इति। अन्तरिक्षम्। सूर्यः। आत्मा। जगतः। तस्थुषः। च। १०७.१४।
+चि॒त्रम्। दे॒वाना॑म्। उत्। अ॒गा॒त्। अनी॑कम्। चक्षु॑ः। मि॒त्र॒स्य॑। वरु॑णस्य। अ॒ग्नेः। आ। अ॒प्रा॒त्। द्यावा॑पृथि॒वी इति॑। अ॒न्तरि॑क्षम्। सूर्य॑ः। आ॒त्मा। जग॑तः। त॒स्थुष॑ः। च॒। १०७.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ The brilliant Presence of the Gods hath risen, the eye of Mitra, Varuna, and Agn
 
 टिप्पणी:   १३, १४−मन्त्रौ व्याख्यातौ-अथर्व० १३।२।३४, ३ ॥
 </details>
+

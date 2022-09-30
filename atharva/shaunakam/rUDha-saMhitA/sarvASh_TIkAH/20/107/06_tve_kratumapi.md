@@ -10,7 +10,7 @@ All concentrate on thee their mental vigour, what time these, twice or thrice, a
 
 <details><summary>पदपाठः</summary>
 
-त्वे इति। क्रतुम्। अपि। पृञ्चन्ति। भूरि। द्विः। यत्। एते। त्रिः। भ᳡ देव॒यज॑नवन्ति। ऊमाः। स्वादो। स्वादीयः। स्वादुना। सृज। सम्। अदः। सु। मधु। मधुना। अभि। योधीः। १०७.६।
+त्वे इति॑। क्रतु॑म्। अपि॑। पृ॒ञ्च॒न्ति। भूरि॑। द्विः। यत्। ए॒ते। त्रिः। भ‍व॑न्ति। ऊमा॑ः। स्वा॒दो। स्वादी॑यः। स्वा॒दुना॑। सृ॒ज॒। सम्। अ॒दः। सु। मधु॑। मधु॑ना। अ॒भि। यो॒धी॒ः। १०७.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ All concentrate on thee their mental vigour, what time these, twice or thrice, a
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

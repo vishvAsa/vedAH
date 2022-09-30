@@ -10,7 +10,7 @@ The excellent, the golden son: where now hast thou aban- doned him? (with next v
 
 <details><summary>पदपाठः</summary>
 
-साधुम्। पुत्रम्। हिरण्ययम्। १२९.५।
+सा॒धुम्। पु॒त्रम्। हि॑र॒ण्यय॑म्। १२९.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ The excellent, the golden son: where now hast thou aban- doned him? (with next v
 
 टिप्पणी:   −(साधुम्) कार्यसाधकम् (पुत्रम्) सन्तानम् (हिरण्ययम्) तेजोमयम् ॥
 </details>
+

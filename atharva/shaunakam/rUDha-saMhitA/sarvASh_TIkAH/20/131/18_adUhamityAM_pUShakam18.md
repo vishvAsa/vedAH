@@ -10,7 +10,7 @@ The biestings only have they milked:
 
 <details><summary>पदपाठः</summary>
 
-अदूहमित्याम्। पूषकम्। १३१.१८।
+अदू॑हमि॒त्याम्। पूष॑कम्। १३१.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ The biestings only have they milked:
 
 टिप्पणी:   १८−(अदूहमित्याम्) अ+दुहिर् अर्दने-क+माङ् माने-क्तिन्। अनष्टायां मित्यां ज्ञाने, (पूषकम्) पूष वृद्धौ-ण्वुल्। वृद्धिकरं व्यवहारम् ॥
 </details>
+

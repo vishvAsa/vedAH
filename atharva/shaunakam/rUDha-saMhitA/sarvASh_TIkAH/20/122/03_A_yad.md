@@ -10,7 +10,7 @@ That, Satakratu, thou to grace and please thy praisers, as it were, Stirrest the
 
 <details><summary>पदपाठः</summary>
 
-आ। यत्। दुवः। शतक्रतो इति शतऽक्रतो। आ। कामम्। जरितॄणाम्। ऋणोः। अक्षम्। न। शचीभिः। १२२.३।
+आ। यत्। दुव॑ः। श॒त॒क्र॒तो॒ इति॑ शतऽक्रतो। आ। काम॑म्। ज॒रि॒तॄ॒णाम्। ऋ॒णोः। अक्ष॑म्। न। शची॑भिः। १२२.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ That, Satakratu, thou to grace and please thy praisers, as it were, Stirrest the
 
 टिप्पणी:   ३−(आ) समन्तात् (यत्) यतः (दुवः) अ० २०।६८।। परिचरणम् (शतक्रतो) बहुप्रज्ञ। बहुकर्मन् (आ) अभितः। पूरणतः (कामम्) यथेष्टम् (जरितॄणाम्) स्तावकानाम् (ऋणोः) म० २। प्राप्नोषि (अक्षम्) धूः (न) इव (शचीभिः) कर्मभिः ॥
 </details>
+

@@ -10,7 +10,7 @@ We will, with Indra and all Gods to help us, bring these existing worlds into su
 
 <details><summary>पदपाठः</summary>
 
-इमा। नु। कम्। भुवना। सीसधाम। इन्द्रः। च। विश्वे। च। देवाः। यज्ञम्। च। नः। तन्वम्। च। प्रऽजाम्। च। आदित्यैः। इन्द्रः। सह। चीक्लृपाति। १२४.४।
+इ॒मा। नु। क॒म्। भुव॑ना। सी॒स॒धा॒म॒। इन्द्र॑ः। च॒। विश्वे॑। च॒। दे॒वाः। य॒ज्ञम्। च॒। न॒ः। त॒न्व॑म्। च॒। प्र॒ऽजाम्। च॒। आ॒दि॒त्यैः। इन्द्र॑ः। स॒ह। ची॒क्लृ॒पा॒ति॒। १२४.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ We will, with Indra and all Gods to help us, bring these existing worlds into su
 
 टिप्पणी:   मन्त्र ४-६ आचुके हैं-अथ० २०।६३।१-३ ॥  ४-६−एते मन्त्रा व्याख्याताः-अथ० ६३।१-३ ॥
 </details>
+

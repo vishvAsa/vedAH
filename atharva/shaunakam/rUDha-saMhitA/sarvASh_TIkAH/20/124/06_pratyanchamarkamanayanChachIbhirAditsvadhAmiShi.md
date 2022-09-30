@@ -10,7 +10,7 @@ Brought the Sun hitherward with mighty powers, and looked about them on their vi
 
 <details><summary>पदपाठः</summary>
 
-प्रत्यञ्चम्। अर्कम्। अनयन्। शचीभिः। आत। इत्। स्वधाम्। इषिराम्। परि। अपश्यन्। अया। वाजम्। देवऽहितम्। सनेम। मदेम। शतऽहिमाः। सुऽवीराः। १२४.६।
+प्र॒त्यञ्च॑म्। अ॒र्कम्। अ॒न॒य॒न्। शची॑भिः। आत। इत्। स्व॒धाम्। इ॒षि॒राम्। परि॑। अ॒प॒श्य॒न्। अ॒या। वाज॑म्। दे॒वऽहि॑तम्। स॒ने॒म॒। मदे॑म। श॒तऽहि॑माः। सु॒ऽवीरा॑ः। १२४.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Brought the Sun hitherward with mighty powers, and looked about them on their vi
 
 टिप्पणी:   ४-६−एते मन्त्रा व्याख्याताः-अथ० ६३।१-३ ॥
 </details>
+

@@ -2,4 +2,7 @@
 title = "१६ शयो हत"
 
 +++
-शयो॑ ह॒त इ॑व ॥१६॥  
+<details><summary>मूलम् (VS)</summary>
+
+शयो॑ ह॒त इ॑व ॥
+</details>

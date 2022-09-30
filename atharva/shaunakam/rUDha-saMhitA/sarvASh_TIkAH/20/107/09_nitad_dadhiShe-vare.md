@@ -10,7 +10,7 @@ Worthy of praises many-shaped, most skilful, most energetic, Aptya of the Aptyas
 
 <details><summary>पदपाठः</summary>
 
-नि। तत्। दधिषे। अवरे। परे। च। यस्म᳡ देव॒यज॑निन्। आविथ। अवसा। दुरोणे। आ। स्थापयत। मातरम्। जिगत्नुम्। अतः। इन्वत। कर्वराणि। भूरि। १०७.९।
+नि। तत्। द॒धि॒षे॒। अव॑रे। परे॑। च॒। यस्म‍ि॑न्। आवि॑थ। अव॑सा। दु॒रो॒णे। आ। स्था॒प॒य॒त॒। मा॒तर॑म्। जि॒ग॒त्नु॒म्। अत॑ः। इ॒न्व॒त॒। कर्व॑राणि। भूरि॑। १०७.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Worthy of praises many-shaped, most skilful, most energetic, Aptya of the Aptyas
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

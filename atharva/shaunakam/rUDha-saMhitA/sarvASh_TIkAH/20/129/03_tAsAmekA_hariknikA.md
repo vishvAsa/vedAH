@@ -10,7 +10,7 @@ One of them is Hariknika. Hariknika, what seekest thou? (with next verse)
 
 <details><summary>पदपाठः</summary>
 
-तासाम्। एका। हरिक्निका। १२९.३।
+तासा॒म्। एका॒। हरि॑क्निका। १२९.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ One of them is Hariknika. Hariknika, what seekest thou? (with next verse)
 
 टिप्पणी:   ३−(तासाम्) पूर्वोक्तप्रजानां मध्ये (एका) स्त्री प्रजा (हरिक्निका) हरयो मनुष्याः-निघ० २।३। क्वुन् शिल्पिसंज्ञयोरपूर्वस्यापि। उ० २।३२। कनी दीप्तिकान्तिगतिषु-क्वुन्, टाप्, अत इत्त्वम्। धातोः अकारलोपः। हरिक्निका। मनुष्येच्छुका ॥
 </details>
+

@@ -10,7 +10,7 @@ Undecked with gems, and decked with gems:
 
 <details><summary>पदपाठः</summary>
 
-आमणकः। मणत्सकः। १३०.९।
+आम॑णक॒ः। मण॑त्सकः। १३०.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Undecked with gems, and decked with gems:
 
 टिप्पणी:   ९−(आमणकः) कुञादिभ्यः संज्ञायां वुन्। उ० ।३। आ+मण शब्दे-वुन्। उपदेशकः (मणत्सकः) वर्त्तमाने पृषद्बृहन्। उ० २।८४। मण शब्दे-अति+शक्लृ+सामर्थ्ये-अच्। मणत्सु विद्वत्सु शक्तः ॥
 </details>
+

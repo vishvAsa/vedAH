@@ -10,7 +10,7 @@ Here east and west and north and south sit the calves sprinkling Curds and oil.
 
 <details><summary>पदपाठः</summary>
 
-इह। इत्थ। प्राक्। अपाक्। उदक्। अधराक्। वत्साः। पुरुषन्त। आसते। १३४.२।
+इ॒ह। इत्थ॑। प्राक्। अपा॒क्। उद॑क्। अ॒ध॒राक्। व॒त्साः। पुरु॑षन्त। आसते। १३४.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Here east and west and north and south sit the calves sprinkling Curds and oil.
 
 टिप्पणी:   २−(वत्साः) प्रियशिशवः (पुरुषन्तः) पुरुषा भवन्तः (आसते) तिष्ठन्ति ॥
 </details>
+

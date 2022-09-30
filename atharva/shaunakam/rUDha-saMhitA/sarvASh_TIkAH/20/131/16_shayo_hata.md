@@ -10,7 +10,7 @@ lies on the ground as he were slain.
 
 <details><summary>पदपाठः</summary>
 
-शयः। हतः। इव। १३१.१६।
+शय॑ः। ह॒तः। इ॒व। १३१.१६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ lies on the ground as he were slain.
 
 टिप्पणी:   १६−(शयः) शीङ् शयने-अच्। सर्पः। सर्प इव शत्रुः (हतः) नाशितः (इव) यथा ॥
 </details>
+

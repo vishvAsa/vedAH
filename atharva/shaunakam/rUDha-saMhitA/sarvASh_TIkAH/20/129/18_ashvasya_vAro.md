@@ -10,7 +10,7 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 
 <details><summary>पदपाठः</summary>
 
-अश्वस्य। वारः। गोशपद्यके। १२९.१८।
+अश्व॑स्य॒। वार॑ः। गोशपद्य॒के। १२९.१८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 
 टिप्पणी:   १८−(अश्वस्य) तुरङ्गस्य (वारः) वारयिता। आरूढः (गोशपद्यके) गो+शीङ् शयने-ड+पद-यत्, स्वार्थे कन्। गोशयनस्थाने। गोष्ठे ॥
 </details>
+

@@ -10,7 +10,7 @@ This power of his shone brightly forth when Indra brought to- gether like A skin
 
 <details><summary>पदपाठः</summary>
 
-ओजः। तत्। अस्य। तित्विषे। उभे इति। यत्। सम्ऽअवर्तयत्। इन्द्रः। चर्मऽइव। रोदसी इति। १०७.२।
+ओज॑ः। तत्। अ॒स्य॒। ति॒त्वि॒षे॒। उ॒भे इति॑। यत्। स॒म्ऽअव॑र्तयत्। इन्द्र॑ः। चर्म॑ऽइव। रोद॑सी॒ इति॑। १०७.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ This power of his shone brightly forth when Indra brought to- gether like A skin
 
 टिप्पणी:   २−(ओजः) बलम् (तत्) तदा (अस्य) परमेश्वरस्य (तित्विषे) त्विष दीप्तौ-लिट्। दिदीपे (उभे) (यत्) यदा (समवर्तयत्) यथाविधि वर्तितवान् (इन्द्रः) परमैश्वर्यवान् परमात्मा (चर्म) (इव) यथा (रोदसी) आकाशभूमी ॥
 </details>
+

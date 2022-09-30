@@ -10,7 +10,7 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 
 <details><summary>पदपाठः</summary>
 
-त्वया। वयम्। शाशद्महे। रणेषु। प्रऽपश्यन्तः। युधेन्यानि। भूरि। चोदयामि। ते। आयुधा। वचःऽभिः। सम्। ते। शिशाम᳡ देव॒यज॑नि। ब्रह्मणा। वयांसि। १०७.८।
+त्वया॑। व॒यम्। शा॒श॒द्म॒हे॒। रणे॑षु। प्र॒ऽपश्य॑न्तः। यु॒धेन्या॑नि। भूरि॑। चो॒दया॑मि। ते॒। आयु॑धा। वच॑ःऽभिः। सम्। ते॒। शि॒शा॒म‍ि॒। ब्रह्म॑णा। वयां॑सि। १०७.८। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

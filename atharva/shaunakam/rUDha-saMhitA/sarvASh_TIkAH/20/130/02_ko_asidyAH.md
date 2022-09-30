@@ -10,7 +10,7 @@ Who took the dark cow's milk away?
 
 <details><summary>पदपाठः</summary>
 
-कः। असिद्याः। पयः। १३०.२।
+कः। असि॒द्याः। पय॑ः। १३०.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Who took the dark cow's milk away?
 
 टिप्पणी:   २−(कः) (असिद्याः) षिञ् बन्धने-क्तिन्, तस्य दः। असित्याः। बन्धनरहितक्रियायाः (पयः) पय गतौ-असुन्। अन्नम्-निघ० २।७ ॥
 </details>
+

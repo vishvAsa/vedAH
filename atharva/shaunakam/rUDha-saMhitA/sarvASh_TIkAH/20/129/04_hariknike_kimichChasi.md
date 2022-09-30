@@ -10,7 +10,7 @@ One of them is Hariknika. Hariknika, what seekest thou? (with previous verse)
 
 <details><summary>पदपाठः</summary>
 
-हरिक्निके। क᳡ देव॒यज॑निम्। इच्छस᳡ देव॒यज॑नि। १२९.४।
+हरि॑क्नि॒के। क‍िम्। इ॑च्छस‍ि। १२९.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ One of them is Hariknika. Hariknika, what seekest thou? (with previous verse)
 
 टिप्पणी:   ४−(हरिक्निके) म० ३। हे मनुष्येच्छुके (किम्) (इच्छसि) कामयसे ॥
 </details>
+

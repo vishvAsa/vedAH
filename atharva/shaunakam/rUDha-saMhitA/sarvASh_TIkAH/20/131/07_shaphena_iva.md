@@ -10,7 +10,7 @@ Fat is not reckoned in the hoof.
 
 <details><summary>पदपाठः</summary>
 
-शफेन। इव। ओहते। १३१.७।
+श॒फेन॑। इ॒व। ओ॑हते। १३१.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Fat is not reckoned in the hoof.
 
 टिप्पणी:   ७−(शफेन) खुरेण (इव) यथा (ओहते) उहिर् अर्दने। हन्यते स शत्रुः ॥
 </details>
+

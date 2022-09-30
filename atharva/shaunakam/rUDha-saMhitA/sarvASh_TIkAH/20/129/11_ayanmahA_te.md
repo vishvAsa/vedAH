@@ -10,7 +10,7 @@ Hither hath come a stallion: he is known by droppings on his way, (with next ver
 
 <details><summary>पदपाठः</summary>
 
-अयत्। महा। ते। अर्वाहः। १२९.११।
+अ॒यत्। म॒हा। ते॒। अर्वा॒हः। १२९.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Hither hath come a stallion: he is known by droppings on his way, (with next ver
 
 टिप्पणी:   ११−(अयत्) अयते। प्राप्यते (महा) मह पूजायाम् क्विप्। महत्त्वेन (ते) तुभ्यम् (अर्वाहः) ऋ गतौ-विच्+वह प्रापणे-अण्। ज्ञानप्रापको विद्वान् ॥
 </details>
+

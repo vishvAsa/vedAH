@@ -10,7 +10,7 @@ O Indra, heaven and earth augment thy manly power and thy renown, The waters and
 
 <details><summary>पदपाठः</summary>
 
-तव। द्यौः। इन्द्र। पौंस्यम्। पृथिवी। वर्धति। श्रवः। त्वाम्। आपः। पर्वतासः। च। हिन्विरे। १०६.२।
+तव॑। द्यौः। इ॒न्द्र॒। पौंस्य॑म्। पृ॒थि॒वी। व॒र्ध॒ति॒। श्रव॑ः। त्वाम्। आप॑ः। पर्व॑तासः। च॒। हि॒न्वि॒रे॒। १०६.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ O Indra, heaven and earth augment thy manly power and thy renown, The waters and
 
 टिप्पणी:   २−(तव) (द्यौः) आकाशः (इन्द्र) हे परमेश्वर (पौंस्यम्) पौरुषम् (पृथिवी) (वर्धति) वर्धयति (श्रवः) यशः (त्वाम्) (आपः) जलानि (पर्वतास) शैलाः (च) (हिन्विरे) प्रीणयन्ति स्म ॥
 </details>
+

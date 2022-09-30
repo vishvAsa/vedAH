@@ -10,7 +10,7 @@ Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this str
 
 <details><summary>पदपाठः</summary>
 
-इमा। ब्रह्म। बृहत्ऽदिवः। कृणवत्। इन्द्राय। शूषम्। अग्नियः। स्वःऽसाः। महः। गोत्रस्य। क्षयति। स्वऽराजा। तुरः। चित्। विश्वम्। अर्णवत्। तपस्वान्। १०७.११।
+इ॒मा। ब्रह्म॑। बृ॒हत्ऽदि॑वः। कृ॒ण॒व॒त्। इन्द्रा॑य। शू॒षम्। अ॒ग्नि॒यः। स्व॒ःऽसाः। म॒हः। गो॒त्रस्य॑। क्ष॒य॒ति॒। स्व॒ऽराजा॑। तुर॑ः। चि॒त्। विश्व॑म्। अ॒र्ण॒व॒त्। तप॑स्वान्। १०७.११। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Brihaddiva, the foremost of light-winners, repeasts these holy prayers, this str
 
 टिप्पणी:   ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

@@ -2,4 +2,7 @@
 title = "०९ पृदाकवः ९"
 
 +++
-पृदा॑कवः ॥९॥  
+<details><summary>मूलम् (VS)</summary>
+
+पृदा॑कवः ॥
+</details>

@@ -10,7 +10,7 @@ Who among these will beat the drum?
 
 <details><summary>पदपाठः</summary>
 
-कः। एषाम्। दुन्दुभिम्। हनत्। १३२.९।
+कः। एषाम्। दु॒न्दुभि॑म्। हनत्। १३२.९। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Who among these will beat the drum?
 
 टिप्पणी:   ९−(कः) (एषाम्) (दन्दुभिम्) अथ० ।२०।१। बृहड्ढक्काम् (हनत्) वादयेत् ॥
 </details>
+

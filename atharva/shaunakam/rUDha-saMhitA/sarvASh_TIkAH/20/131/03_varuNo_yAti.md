@@ -10,7 +10,7 @@ Varuna with the Vasus goes:
 
 <details><summary>पदपाठः</summary>
 
-वरूणः। याति। वस्वभिः। १३१.३।
+वरू॑ण॒ः। याति॒। वस्व॑भिः। १३१.३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ Varuna with the Vasus goes:
 
 टिप्पणी:   ३−(वरुणः) श्रेष्ठः। धनी पुरुषः (याति) गच्छति (वस्वभिः) वसुभिः। श्रेष्ठवस्तुभिः ॥
 </details>
+

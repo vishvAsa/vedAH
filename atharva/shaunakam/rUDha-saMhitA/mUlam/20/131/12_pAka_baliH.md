@@ -2,4 +2,7 @@
 title = "१२ पाक बलिः"
 
 +++
-पाक॑ ब॒लिः ॥१२॥  
+<details><summary>मूलम् (VS)</summary>
+
+पाक॑ ब॒लिः ॥
+</details>

@@ -10,7 +10,7 @@ By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, 
 
 <details><summary>पदपाठः</summary>
 
-गिरा। वज्रः। न। सम्ऽभृतः। सऽबलः। अनपऽच्युतः। ववक्षे। ऋष्व। अस्तृतः। १३७.१४।
+गि॒रा। वज्र॑ः। न। सम्ऽभृ॑तः। सऽब॑लः। अन॑पऽच्युतः। व॒व॒क्षे। ऋ॒ष्व। अस्तृ॑तः। १३७.१४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ By song, as 'twere, the powerful bolt which none may parry was prepared: Lofty, 
 
 टिप्पणी:   १२-१४−एते मन्त्रा व्याख्याताः-अथ० २०।४७।१-३ ॥
 </details>
+

@@ -10,7 +10,7 @@ crush it and let it be destroyed.
 
 <details><summary>पदपाठः</summary>
 
-तस्य। अनु। निभञ्जनम्। १३१.२।
+तस्य॑। अनु॒। निभ॑ञ्जनम्। १३१.२। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ crush it and let it be destroyed.
 
 टिप्पणी:   २−(तस्य) तर्द हिंसे-डप्रत्ययः। हिंसकस्य विघ्नस्य। चौरस्य (अनु) निरन्तरम् (निभञ्जनम्) विनाशनम् ॥
 </details>
+

@@ -2,4 +2,7 @@
 title = "१३ शक बलिः"
 
 +++
-शक॑ ब॒लिः ॥१३॥  
+<details><summary>मूलम् (VS)</summary>
+
+शक॑ ब॒लिः ॥
+</details>

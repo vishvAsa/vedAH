@@ -10,7 +10,7 @@ leaf taken from the Aratu.
 
 <details><summary>पदपाठः</summary>
 
-अरदुपरम्। १३१.१५।
+अर॑दुपरम्। १३१.१५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ leaf taken from the Aratu.
 
 टिप्पणी:   १−(अरदुपरम) वर्त्तमाने पृषद्बृहन्महज्। उ० २।८४। ऋ हिंसायाम-अति+उप-रम निवृत्तौ-घञ्। हिंसनात् निवृत्तिशील ॥
 </details>
+

@@ -10,7 +10,7 @@ There where around those distant trees, three Sisus that are standing there, (wi
 
 <details><summary>पदपाठः</summary>
 
-यत्र। अमूः। तिस्रः। शिंशपाः। १२९.७।
+यत्र॑। अ॒मूः। तिस्र॑ः। शिंश॒पाः। १२९.७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ There where around those distant trees, three Sisus that are standing there, (wi
 
 टिप्पणी:   ७−(यत्र) यस्मिन् कुले (अमूः) प्रसिद्धाः (तिस्रः) मातापित्राचार्यरूपाः प्रजाः (शिंशपाः) छान्दसं रूपम्। शिशुपाः। बालानां पालिकाः ॥
 </details>
+

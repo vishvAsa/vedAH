@@ -10,7 +10,7 @@ As by their dung the course of kine. What wouldst thou in the home of men? (with
 
 <details><summary>पदपाठः</summary>
 
-सघाघते। गोमीद्या। गोगीतीः। इति। १२९.१३।
+सघा॑घते॒। गोमीद्या। गोगी॑ती॒ः। इति॑। १२९.१३। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ As by their dung the course of kine. What wouldst thou in the home of men? (with
 
 टिप्पणी:   १३−(सघाघते) म० १। साहयते (गोमीद्या) गौर्वाङ्नाम-निघ० १।११। अघ्न्यादयश्च। उ० ४।११२। मिदृ मेधाहिंसनयोः-यक्, टाप्, दीर्घश्च। गां वेदवाणीं मेदते प्रजानाति या सा (गोगतीः) गवि पृथिव्यां गतियुक्ताः प्रजाः (इति) एवमस्ति ॥
 </details>
+

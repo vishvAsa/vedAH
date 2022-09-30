@@ -10,7 +10,7 @@ In all the worlds That was the best and highest whence sprang the mighty God, of
 
 <details><summary>पदपाठः</summary>
 
-तत्। इत्। आस। भुवनेषु। ज्येष्ठम्। यतः। जज्ञे। उग्रः। त्वेषऽनृम्णः। सद्यः। जज्ञानः। नि। रिणाति। शत्रून्। अनु। यत्। एनम्। मदन्ति। विश्वे। ऊमाः। १०७.४।
+तत्। इत्। आ॒स॒। भुव॑नेषु। ज्येष्ठ॑म्। यत॑ः। ज॒ज्ञे। उ॒ग्रः। त्वे॒षऽनृ॑म्णः। स॒द्यः। ज॒ज्ञा॒नः। नि। रि॒णा॒ति॒। शत्रू॑न्। अनु॑। यत्। ए॒न॒म्। मद॑न्ति। विश्वे॑। ऊमा॑ः। १०७.४। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ In all the worlds That was the best and highest whence sprang the mighty God, of
 
 टिप्पणी:   मन्त्र ४-१२ आ चुके हैं-अथ० ।२।१-९ ॥  ४-१२−एते मन्त्रा व्याख्याताः-अथ० ।२।१-९ ॥
 </details>
+

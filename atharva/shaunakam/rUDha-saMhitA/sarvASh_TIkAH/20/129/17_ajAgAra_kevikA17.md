@@ -10,7 +10,7 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 
 <details><summary>पदपाठः</summary>
 
-अजागार। केविका। १२९.१७।
+अजा॑गार॒। केवि॒का। १२९.१७। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
@@ -40,3 +40,4 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 
 टिप्पणी:   १७−(अजागार) जागरिता सावधाना अभवत् (केविका) केवृ सेवने-ण्वुल्, टाप् अत इत्त्वम्। सेविका बुद्धिः ॥
 </details>
+
