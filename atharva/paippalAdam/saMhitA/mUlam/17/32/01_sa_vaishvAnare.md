@@ -2,4 +2,7 @@
 title = "01 स वैश्वानरे"
 
 +++
+<details><summary>मूलम् (WS)</summary>
+
 स वैश्वानरे ऽक्रमत ॥ १ ॥
+</details>
