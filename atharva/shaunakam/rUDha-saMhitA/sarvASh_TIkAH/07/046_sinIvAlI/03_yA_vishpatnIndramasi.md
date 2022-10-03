@@ -3,6 +3,12 @@ title = "०३ या विश्पत्नीन्द्रमसि"
 
 +++
 
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The Queen of the folks, you are Indra’s equal, the goddess with a thousand tresses, coming to us. O wife of Viṣṇu, to you, these offerings \[are\] made. O goddess, urge your husband to be liberal \[towards us\].
+</details>
+
 <details><summary>Whitney</summary>
 
 ### Translation
