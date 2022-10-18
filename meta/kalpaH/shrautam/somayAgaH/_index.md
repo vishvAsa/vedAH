@@ -15,15 +15,17 @@ unicode_script = "devanagari"
 - अग्निष्टोमः
 - अत्यग्निष्ठोमः - अग्निष्टोमाद् अनु क्रियमाणो वैकल्पिको यागः।
 - उक्थ्यः
-- षोडशी - १६ स्तोत्राणि, १६ शस्त्राणि।
-- वाजपेयः -  The number 17 is all important in this rite. For instance: 17 animals are sacrificed, 17 objects are distributed as fees, and it lasts for 17 days. A chariot race in which the yajamāna also takes part and is always helped to ‘Win’ is another interesting feature of this sacrifice.
+- षोडशी 
 - अतिरात्रम्
+- वाजपेयः -  The number 17 is all important in this rite. For instance: 17 animals are sacrificed, 17 objects are distributed as fees, and it lasts for 17 days. A chariot race in which the yajamāna also takes part and is always helped to ‘Win’ is another interesting feature of this sacrifice.
 - आप्तोर्यामः - It is a modification of the Agniṣṭoma and is performed to fulfil any desire. The sacrificer is expected to gift away 1000 cows or even more. A chariot is also to be given to the hotr priest.
 
 ## कालविभागः
 
 ### एकाहः
 - अग्निष्टोमः 
+  - एकाहानां प्रकृतिः।
+  - अग्नेस्स्तोमः **यज्ञायज्ञीयं** सामाग्निष्टोमम्; तत्प्रधानत्वात् तत्-संस्थमपि कर्माग्निष्टोम उच्यते ।
   - तत्र सवनत्रयम्। विवरणानि तैत्तिरीयकेषु ७.१ इत्यत्र। 12 स्तोत्राणि 12 शस्त्राणि।
   - त्रिवृत्-पञ्चदशौ स्तोमौ प्रातः (१ त्रिवृत्, ४ पञ्चदशाः वस्तुतः)। पञ्चदशसप्तदशौ माध्यन्दिनसवने (१ पञ्चदश, ४ सप्तदशाः वस्तुतः)। सप्तदशैकविंशौ तृतीयसवने। आहत्य १२ स्तोमाः, १९० = 9+60+15+68+17+21 स्तोत्रीयाः।
   - +++(एतयोः को भेदः - त्रिवृद् अग्निष्टोमः, पञ्चविंशो ऽग्निष्टोमः ??)+++
@@ -32,7 +34,7 @@ unicode_script = "devanagari"
 - उक्थ्यः
   - १५ स्तोत्राणि (अग्निष्टोमस्य १२ + ३ उक्थ-संज्ञकानि), १५ शस्त्रानि।
   - उक्थभेदेन विशेषाः - पञ्चदश उक्थ्यः, सप्तदश उक्थ्यः, त्रिणव उक्थः, त्रयस्त्रिंश उक्थ्यः। +++(समीचीनम् एतत्??)+++
-  - एक अतिरिक्त पशुयाग और होता है - इन्द्र एवं अगिन् के लिए एक बकरा (अगिन्ष्टोम वाले के अतिरिक्त।)
+  - एक अतिरिक्त पशुयाग और होता है - इन्द्र एवं अगिन् के लिए एक बकरा (अगिष्टोम वाले के अतिरिक्त।)
   - आश्व.श्रौ.सू. 6.1.1-3; आप.श्रौ.सू. 16.1।
 - षोडशी - १६ स्तोत्राणि, १६ शस्त्राणि।
   - अग्निष्टोमाद् अधिकस्तोमस्य प्राकारम् अनुसृत्य विशेषा यथा - एकविंशष् षोडशी …।
