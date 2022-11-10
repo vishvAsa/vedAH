@@ -8,6 +8,12 @@ title = "१४ हिरण्य इत्येके"
 Golden is one of them, he said.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+These incantations are said to be the mysterious "prattle" of my ancient clansman aitasha: the aitasha pralApa whose magical meaning was misunderstood. In them, the reference to the golden camel is an element that links the AV tradition with the I-Ir border zone -- it is notable that the founder of the Iranian counter-religion was also known by the name of the golden camel. 
+</details>
+
+
 <details><summary>पदपाठः</summary>
 
 हि॒र॒ण्यः। इति॑। एके॑। अब्रवीत्। १३२.१४। 
