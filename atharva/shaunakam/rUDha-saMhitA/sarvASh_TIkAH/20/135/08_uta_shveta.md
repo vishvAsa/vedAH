@@ -16,7 +16,6 @@ And quickly Both he fly away, the White Horse swiftest on his feet, And swiftly 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - भुरिग्गायत्री
 - कुन्ताप सूक्त
 </details>

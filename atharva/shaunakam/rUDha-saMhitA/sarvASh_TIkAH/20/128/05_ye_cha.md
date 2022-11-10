@@ -16,7 +16,6 @@ But they who have adored the Gods, and they who have best- owed their gifts, Tho
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - आर्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

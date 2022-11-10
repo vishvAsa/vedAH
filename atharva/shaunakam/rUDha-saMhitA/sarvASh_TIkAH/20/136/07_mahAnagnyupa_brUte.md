@@ -16,7 +16,6 @@ Arnica eum alloquitur: Tum etiam tu defecisti. Ut tua. Arbor! (verbera) Pinsunt,
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

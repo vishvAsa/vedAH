@@ -39,7 +39,6 @@ And thence, etc. . . . with other basis . . . Without standing-ground and restin
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

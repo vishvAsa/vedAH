@@ -16,7 +16,6 @@ With unanointed eyes and limbs, wearing no gem or ring of gold. No priest, no Br
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - भुरिगनुष्टुप्
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ Listen to this, ye men, a laud of glorious bounty shall be sung. Thousands sixty
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - पथ्या बृहती
 - कुन्ताप सूक्त
 </details>

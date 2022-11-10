@@ -29,7 +29,6 @@ And thence, etc. . . With other teeth . . . Thy teeth will fall out . . . With t
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

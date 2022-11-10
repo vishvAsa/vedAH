@@ -29,7 +29,6 @@ And thence he said to him, Thou hast eaten this with other ears than those with 
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

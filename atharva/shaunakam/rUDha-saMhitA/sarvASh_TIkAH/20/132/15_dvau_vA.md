@@ -8,6 +8,12 @@ title = "१५ द्वौ वा"
 Glory and power, these are two. 
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The two are indeed auspiciousness & might
+</details>
+
+
 <details><summary>पदपाठः</summary>
 
 द्वौ। वा॑। ये। शिशवः। १३२.१५। 
@@ -16,7 +22,6 @@ Glory and power, these are two.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुषी गायत्री
 - कुन्ताप सूक्त
 </details>

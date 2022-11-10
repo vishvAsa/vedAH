@@ -16,7 +16,6 @@ The man pervaded thoroughly
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिर्वरुणो वा
-- 
 - दैवी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

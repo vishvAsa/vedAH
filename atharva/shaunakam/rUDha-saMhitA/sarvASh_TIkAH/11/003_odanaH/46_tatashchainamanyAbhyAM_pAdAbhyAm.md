@@ -29,7 +29,6 @@ And thence, etc. . . . with other feet . . . Thou wilt become a wanderer . . . W
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

@@ -16,7 +16,6 @@ With well-anointed limbs and eyes, wearing fair gem and golden, ring, Good pries
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

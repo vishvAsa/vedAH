@@ -16,7 +16,6 @@ Indra hath waked the bard and said, Rise, wander singing here and there. Praise 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

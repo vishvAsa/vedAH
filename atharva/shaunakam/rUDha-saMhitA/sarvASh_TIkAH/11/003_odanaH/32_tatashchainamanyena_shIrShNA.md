@@ -32,7 +32,6 @@ And thence he said to this one, Thou hast eaten this with a different head from 
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

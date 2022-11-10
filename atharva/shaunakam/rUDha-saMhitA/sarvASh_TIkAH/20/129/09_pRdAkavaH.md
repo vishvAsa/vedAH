@@ -16,7 +16,6 @@ Three adders, breathing angrily, are blowing loud the threatening horn. (with ne
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - दैवी बृहती
 - कुन्ताप सूक्त
 </details>

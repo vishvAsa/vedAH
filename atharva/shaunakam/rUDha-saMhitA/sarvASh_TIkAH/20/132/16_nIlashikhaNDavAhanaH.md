@@ -8,6 +8,13 @@ title = "१६ नीलशिखण्डवाहनः"
 He with black tufts of hair shall strike.
 </details>
 
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+O blue-crested one! He is verily the killer.  
++++(वा हनः इत्यत्र तु स्वरं दृ‌ष्ट्वा "ऽहनः" इति स्वीकर्तुम् उचितम् भाति - तस्मिन्नेव पक्षे स्वरनिघातो भवति। वाहन इति वा।)+++
+</details>
+
 <details><summary>पदपाठः</summary>
 
 नील॑शिखण्ड॒वाह॑नः। १३२.१६। 
@@ -16,7 +23,6 @@ He with black tufts of hair shall strike.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - प्राजापत्या गायत्री
 - कुन्ताप सूक्त
 </details>

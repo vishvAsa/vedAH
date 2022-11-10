@@ -16,7 +16,6 @@ He who defiles a sister, he who willingly would harm a friend, The fool who slig
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

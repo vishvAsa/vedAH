@@ -16,7 +16,6 @@ Oft and again we glorify the hero with our hymn of praise, with prayer, with our
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृत्पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

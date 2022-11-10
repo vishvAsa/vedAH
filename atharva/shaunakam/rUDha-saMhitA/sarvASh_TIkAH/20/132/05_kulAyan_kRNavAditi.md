@@ -16,7 +16,6 @@ Let him prepare a nest, they say:
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - प्राजापत्या गायत्री
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ Crunch! it is trodden on. A cow's hoof.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - आर्षी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

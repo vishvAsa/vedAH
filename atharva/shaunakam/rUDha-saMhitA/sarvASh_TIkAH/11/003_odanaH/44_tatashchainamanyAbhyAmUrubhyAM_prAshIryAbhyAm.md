@@ -28,7 +28,6 @@ And thence, etc. . . . with other thighs . . . Thy thigh will perish . . . With 
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

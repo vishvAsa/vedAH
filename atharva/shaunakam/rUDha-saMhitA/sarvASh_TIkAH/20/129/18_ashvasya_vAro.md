@@ -16,7 +16,6 @@ As the big serpent feeds on sheep. Cow's hoof and horse's tail hast thou, (with 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुषी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

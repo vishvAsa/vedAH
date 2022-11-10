@@ -16,7 +16,6 @@ Whenever any good man's son becometh bold and spirited, Then hath the wise Gandh
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

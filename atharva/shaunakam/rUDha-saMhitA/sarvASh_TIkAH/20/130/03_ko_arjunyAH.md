@@ -16,7 +16,6 @@ Who took away the white cow's milk?
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुषी गायत्री
 - कुन्ताप सूक्त
 </details>

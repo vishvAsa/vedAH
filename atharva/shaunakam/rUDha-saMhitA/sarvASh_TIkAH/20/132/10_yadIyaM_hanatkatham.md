@@ -16,7 +16,6 @@ How, if he beat it, will he beat?
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - आसुरी जगती
 - कुन्ताप सूक्त
 </details>

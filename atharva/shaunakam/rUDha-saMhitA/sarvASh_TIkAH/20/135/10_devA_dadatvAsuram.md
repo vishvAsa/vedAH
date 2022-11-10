@@ -16,7 +16,6 @@ The Gods shall give the precious boon: let it be pleasant to your hearts. Let it
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

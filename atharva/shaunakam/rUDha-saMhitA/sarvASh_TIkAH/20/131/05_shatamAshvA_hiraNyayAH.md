@@ -17,7 +17,6 @@ A hundred bits of golden bronze, a hundred golden necklaces.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिर्वरुणो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

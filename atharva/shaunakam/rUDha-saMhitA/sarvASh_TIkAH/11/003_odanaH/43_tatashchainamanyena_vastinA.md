@@ -28,7 +28,6 @@ And thence, etc. . . . with other abdomen . . . Thou wilt die in the water . . .
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

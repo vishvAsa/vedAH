@@ -16,7 +16,6 @@ Adityas, Rudras, Vasus, all pay worship unto thee. Accept this liberal gift, O A
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - विराडार्षी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ These Gods have gone astray. Do thou, Adhvaryu, quickly do thy work.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - आर्ष्युष्णिक्
 - कुन्ताप सूक्त
 </details>

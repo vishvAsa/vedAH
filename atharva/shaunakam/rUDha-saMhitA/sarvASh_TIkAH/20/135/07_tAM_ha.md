@@ -16,7 +16,6 @@ Singer, they went not near to that; but, singer, they accepted this: That days m
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - भुरिगार्षी त्रिष्टुप्
 - कुन्ताप सूक्त
 </details>

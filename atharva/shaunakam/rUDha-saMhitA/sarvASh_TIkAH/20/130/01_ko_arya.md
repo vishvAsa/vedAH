@@ -16,7 +16,6 @@ Who carried off these stores of milk?
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुषी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

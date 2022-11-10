@@ -16,7 +16,6 @@ O Indra, let these cows be safe, their master free from injury. Let not the host
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

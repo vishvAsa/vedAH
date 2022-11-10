@@ -16,7 +16,6 @@ List to Parikshit's eulogy, the sovran whom all people love, The King who ruleth
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

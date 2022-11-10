@@ -16,7 +16,6 @@ The favourite wife neglected, and the man who safely shuns the fight, A sluggish
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ As by their dung the course of kine. What wouldst thou in the home of men? (with
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - प्राजापत्या गायत्री
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ Two rays of light are lengthened out, and the man gently touches them with the t
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कुमारी
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

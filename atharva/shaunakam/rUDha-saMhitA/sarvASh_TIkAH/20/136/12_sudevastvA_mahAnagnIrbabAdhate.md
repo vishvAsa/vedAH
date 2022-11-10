@@ -16,7 +16,6 @@ Fortunatus, Arnica, te opprimit. Bona est magni viri fututio, Macrum pinguis. fe
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृत्ककुबुष्णिक्
 - कुन्ताप सूक्त
 </details>

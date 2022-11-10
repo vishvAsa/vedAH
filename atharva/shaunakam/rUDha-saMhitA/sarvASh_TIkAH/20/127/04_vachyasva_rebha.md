@@ -16,7 +16,6 @@ Glut thee, O Singer, glut thee like a bird on a ripe-fruited tree. Thy lips and 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

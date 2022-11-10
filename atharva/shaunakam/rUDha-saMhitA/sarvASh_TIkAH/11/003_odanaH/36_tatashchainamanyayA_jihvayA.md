@@ -28,7 +28,6 @@ And thence, etc. . . . with other tongue . . . Thy tongue will die . . . With th
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

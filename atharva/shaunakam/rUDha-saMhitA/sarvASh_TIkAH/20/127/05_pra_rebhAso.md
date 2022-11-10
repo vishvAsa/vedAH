@@ -16,7 +16,6 @@ Quickly and willingly like kine forth come the singers and their hymns: Their li
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

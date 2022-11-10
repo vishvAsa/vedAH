@@ -30,7 +30,6 @@ And thence, etc. . . . with other belly . . . colic will destroy thee . . . With
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

@@ -16,7 +16,6 @@ Magnopere delectata est arnica: ut equns solutus adveniens vocem edidit: Vaginam
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

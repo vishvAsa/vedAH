@@ -16,7 +16,6 @@ lies on the ground as he were slain.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिर्वरुणो वा
-- 
 - याजुषी गायत्री
 - कुन्ताप सूक्त
 </details>

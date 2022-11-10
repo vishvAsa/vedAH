@@ -16,7 +16,6 @@ The favourite wife most dearly loved, the man who safely goes to war, The fleet 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - विराडार्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

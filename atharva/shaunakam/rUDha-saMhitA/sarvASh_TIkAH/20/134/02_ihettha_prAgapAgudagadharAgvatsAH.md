@@ -16,7 +16,6 @@ Here east and west and north and south sit the calves sprinkling Curds and oil.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - साम्नी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

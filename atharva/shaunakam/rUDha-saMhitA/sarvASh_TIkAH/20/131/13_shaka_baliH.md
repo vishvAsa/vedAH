@@ -16,7 +16,6 @@ the sacrifice with burning dung.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिर्वरुणो वा
-- 
 - दैवी बृहती
 - कुन्ताप सूक्त
 </details>

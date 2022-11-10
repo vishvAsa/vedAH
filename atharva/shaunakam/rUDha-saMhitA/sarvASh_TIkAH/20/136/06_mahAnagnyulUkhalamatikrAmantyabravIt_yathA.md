@@ -16,7 +16,6 @@ Arnica, pilam superans, dixit: Ut tua, Arbor, ! (verbera) pinsunt, sic etiam nun
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

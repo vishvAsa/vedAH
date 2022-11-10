@@ -16,7 +16,6 @@ Swish! it is gone. Falling of leaves.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - भुरिगनुष्टुप्
 - कुन्ताप सूक्त
 </details>

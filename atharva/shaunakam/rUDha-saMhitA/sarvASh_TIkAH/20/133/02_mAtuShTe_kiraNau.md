@@ -16,7 +16,6 @@ Maiden, it truly is not so as thou, O maiden, fanciest. Two are thy mother's ray
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - कुमारी
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

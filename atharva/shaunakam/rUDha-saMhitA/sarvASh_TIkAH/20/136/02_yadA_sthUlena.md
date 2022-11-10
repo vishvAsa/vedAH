@@ -16,7 +16,6 @@ Quum magno pene parvula ejus pudenda vir percutit, huc et illuc ilia increscunt 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

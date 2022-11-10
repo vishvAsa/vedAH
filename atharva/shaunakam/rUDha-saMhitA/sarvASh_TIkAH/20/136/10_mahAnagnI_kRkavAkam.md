@@ -16,7 +16,6 @@ Arnica cum fuste gallum circumcurrit. Nos nescimus quae bestia pudendum muliebre
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

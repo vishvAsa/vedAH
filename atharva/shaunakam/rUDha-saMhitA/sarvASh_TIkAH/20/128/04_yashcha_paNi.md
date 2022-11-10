@@ -16,7 +16,6 @@ The most unprofitable churl, the wealthy men who brings no. gift, These, verily,
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

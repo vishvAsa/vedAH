@@ -16,7 +16,6 @@ Si quis in hujus tenui rima praeditae feminae augustias fascinum intromittit, va
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

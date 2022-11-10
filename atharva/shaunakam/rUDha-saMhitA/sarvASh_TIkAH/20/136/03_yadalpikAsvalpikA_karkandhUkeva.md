@@ -16,7 +16,6 @@ Quum parvum, admodum parvum, Ziziphi Jujubae quasi granum in eam incidit, ventri
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - आर्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

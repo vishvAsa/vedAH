@@ -30,7 +30,6 @@ And thence, etc. . . with other fore-parts of the feet . . . A serpent will kill
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

@@ -16,7 +16,6 @@ Easily conquering Maghavan, thou, Hero, bentest Raji down, Rentest asunder Rauhi
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - विराडार्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

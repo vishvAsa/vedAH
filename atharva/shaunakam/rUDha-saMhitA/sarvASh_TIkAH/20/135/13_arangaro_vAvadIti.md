@@ -16,7 +16,6 @@ The ready praiser loudly speaks though fastened triply with a strap. Yea, he com
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

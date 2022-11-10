@@ -16,7 +16,6 @@ They said to Auchchaihsravasa running as side-horse of the Bays, Safely to victo
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - विराडनुष्टुप्
 - कुन्ताप सूक्त
 </details>

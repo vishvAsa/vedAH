@@ -16,7 +16,6 @@ Where beating will the Goddess
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - दैवी जगती
 - कुन्ताप सूक्त
 </details>

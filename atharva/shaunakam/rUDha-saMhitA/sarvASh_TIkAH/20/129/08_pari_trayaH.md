@@ -16,7 +16,6 @@ There where around those distant trees, three Sisus that are standing there, (wi
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - दैवी बृहती
 - कुन्ताप सूक्त
 </details>

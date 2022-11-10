@@ -16,7 +16,6 @@ Up as it were to heavenly light springs the ripe corn above the cleft. Happily t
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

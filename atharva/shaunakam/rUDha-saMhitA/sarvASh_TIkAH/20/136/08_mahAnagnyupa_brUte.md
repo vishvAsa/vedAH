@@ -16,7 +16,6 @@ Arnica eum alloquitur: Tum etiam tu defceisti. Ut silvae ignis. inflammatur, sic
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

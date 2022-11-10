@@ -16,7 +16,6 @@ When the horn s blast hath sounded forth
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - दैवी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

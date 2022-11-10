@@ -16,7 +16,6 @@ Arnica post currentem amatorem currit: Has ejus boves custodi tu. Me futue: coct
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

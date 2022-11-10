@@ -16,7 +16,6 @@ A hundred chains of gold, ten wreaths, upon thee Rishi he bestowed, And thrice-a
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ Here east and west and north and south the offering of rice clings on. The leaf 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - निचृत्साम्नी पङ्क्तिः
 - कुन्ताप सूक्त
 </details>

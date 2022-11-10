@@ -16,7 +16,6 @@ Quem macrum factum puella flava pinguisque capiat sicut pollicem ex olei cado fo
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

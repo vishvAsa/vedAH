@@ -29,7 +29,6 @@ And thence, etc. . . with other month. Thy offspring will die, reckoning from th
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

@@ -16,7 +16,6 @@ Winged with a falcon's pinion is that harmless swelling of thy tongue. (with nex
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुषी गायत्री
 - कुन्ताप सूक्त
 </details>

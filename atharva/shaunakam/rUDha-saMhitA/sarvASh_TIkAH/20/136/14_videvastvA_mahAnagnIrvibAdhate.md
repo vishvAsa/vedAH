@@ -16,7 +16,6 @@ Infelix, Amice, te opprimit. Bona est magni viri fututio. Flava puollula, opere 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - उरोबृहती
 - कुन्ताप सूक्त
 </details>

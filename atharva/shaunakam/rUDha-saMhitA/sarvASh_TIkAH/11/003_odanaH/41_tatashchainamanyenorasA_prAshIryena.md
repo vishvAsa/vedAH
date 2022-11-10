@@ -29,7 +29,6 @@ And thence, etc. . . . with other breast . . . Thou wilt fail in agriculture. . 
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

@@ -16,7 +16,6 @@ Sine digito mulcta vacca vanankaram producit, Magna et bona est Aegle Marmelos. 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - भुरिगार्ष्युष्णिक्
 - कुन्ताप सूक्त
 </details>

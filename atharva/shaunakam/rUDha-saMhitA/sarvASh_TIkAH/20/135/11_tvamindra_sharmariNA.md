@@ -16,7 +16,6 @@ Vouchsafe us shelter, Indra, thou to be invoked from far away. Bring treasure hi
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - निचृदार्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ O Singer, bring thou forth the hymn that findeth cattle, findeth: wealth. Even a
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - भुरिगुष्णिक्
 - कुन्ताप सूक्त
 </details>

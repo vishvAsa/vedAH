@@ -16,7 +16,6 @@ deity rivalling the Sun.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुष्युष्णिक्
 - कुन्ताप सूक्त
 </details>

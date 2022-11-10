@@ -16,7 +16,6 @@ O singer, the Adityas brought rich guerdon to the Angirases. Singer, they went n
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - स्वराडार्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

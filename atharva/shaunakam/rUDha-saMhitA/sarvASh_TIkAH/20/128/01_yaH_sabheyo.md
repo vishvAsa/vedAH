@@ -16,7 +16,6 @@ The worshipper who pours the juice, for gathering and assembly fit, And yonder f
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - निचृदनुष्टुप्
 - कुन्ताप सूक्त
 </details>

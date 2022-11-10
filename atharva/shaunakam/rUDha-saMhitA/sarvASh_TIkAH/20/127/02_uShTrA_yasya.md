@@ -16,7 +16,6 @@ Camels twice-ten that draw the car, with females by their side, he gave. Fain wo
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - पथ्या बृहती
 - कुन्ताप सूक्त
 </details>

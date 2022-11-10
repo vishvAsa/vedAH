@@ -16,7 +16,6 @@ Thou who didst separate the clouds and penetrate the water- floods, To thee, gre
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा
-- 
 - अनुष्टुप्
 - कुन्ताप सूक्त
 </details>

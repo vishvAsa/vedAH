@@ -16,7 +16,6 @@ There is good resting for the cows. Take thy delight.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रश्च
-- 
 - स्वराडार्ष्यनुष्टुप्
 - कुन्ताप सूक्त
 </details>

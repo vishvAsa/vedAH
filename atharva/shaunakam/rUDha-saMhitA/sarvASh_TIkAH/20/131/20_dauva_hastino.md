@@ -16,7 +16,6 @@ And two hides of an elephant.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिर्वरुणो वा
-- 
 - याजुष्युष्णिक्
 - कुन्ताप सूक्त
 </details>

@@ -16,7 +16,6 @@ Not to the belly comes the grain.
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - याजुषी बृहती
 - कुन्ताप सूक्त
 </details>

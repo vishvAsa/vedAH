@@ -29,7 +29,6 @@ And thence, etc. . . . with other hands . . . The Brahmana (divine power) will k
 
 - मन्त्रोक्ताः
 - अथर्वा 
-- 
 - ओदन सूक्त
 </details>
 

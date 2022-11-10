@@ -16,7 +16,6 @@ They yoke the white mares, on the Bay's right harness Auchchai- hsravasa. He joy
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिरिन्द्रो वा प्रजापतिरिन्द्रो वा
-- 
 - भुरिगनुष्टुप्
 - कुन्ताप सूक्त
 </details>

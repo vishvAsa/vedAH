@@ -16,7 +16,6 @@ Si Dii mentulae intumescenti faverunt, cum femoribus suis se: ostentat femina ta
 <details><summary>अधिमन्त्रम् (VC)</summary>
 
 - प्रजापतिः
-- 
 - भुरिगनुष्टुप्
 - कुन्ताप सूक्त
 </details>
