@@ -15,6 +15,8 @@ unicode_script = "devanagari"
 > Followers are currently found in parts of Orissa and adjacent areas of Bihar and West Bengal and recite the Samhita in ekasruti (monotone syllable). Epigraphic and literary evidence shows that they once thrived in Karnataka, Kerala, Maharashtra, and parts of Gujarat, East Bengal and in Tamil Nadu as well.  
 > Source: The Vedas: Literature of Ancient India 
 
+- पैप्पलादश्रुतेर् उत्कलप्राप्तिस् तु काश्मीरात् प्रत्यागच्छद्भिर् औत्कलच्छात्रैर् इति।
+
 > recited by Utkala Brahmins as samhita patha only. otherwise, two manuscripts survive: Kashmiri (mostly edited) and Oriya (partly edited, by Dipak Bhattacharya and others, unaccented)
 
 ### ब्राह्मणम्
