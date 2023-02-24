@@ -65,7 +65,7 @@ Vedic Cosmology and Cosmogony
 
 79 
 
-the Rigveda1 its shape is compared to that of a wheel, and the Catapatha Brāhmaṇa 2 directly calls it circular, a conception which, however, is varied in another view taken by the Rigveda of the heaven and the earth as bowls turned towards each other. The Rigveda reckons four points of the compass, or occasionally five, where the centre, the place of the speaker, is the fifth: the Atharvaveda adds the zenith as the sixth and sometimes also a seventh, an idea which may be found in the seven regions and seven places of earth mentioned in the Rigveda. The predilection of the Rigveda for the number seven is already marked, and there is no ground for the view that it is borrowed from Babylon. 
+the Rigveda1 its shape is compared to that of a wheel, and the Śatapatha Brāhmaṇa 2 directly calls it circular, a conception which, however, is varied in another view taken by the Rigveda of the heaven and the earth as bowls turned towards each other. The Rigveda reckons four points of the compass, or occasionally five, where the centre, the place of the speaker, is the fifth: the Atharvaveda adds the zenith as the sixth and sometimes also a seventh, an idea which may be found in the seven regions and seven places of earth mentioned in the Rigveda. The predilection of the Rigveda for the number seven is already marked, and there is no ground for the view that it is borrowed from Babylon. 
 
 3 
 

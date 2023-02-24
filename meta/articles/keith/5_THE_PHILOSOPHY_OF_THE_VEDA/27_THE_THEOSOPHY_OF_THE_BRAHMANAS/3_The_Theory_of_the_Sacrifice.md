@@ -423,7 +423,7 @@ of the fire-pan. The altar is arranged to represent earth, atmosphere, and heave
 
 The ritual as it is seen in the texts of the Black Yajurveda does not seem to go beyond these conceptions, but the Śatapatha Brahmana in the tenth book,2 doubtless a later addition to the text, which deals with the secret of the fire, develops the theme more philosophically. Prajapati is the year, for he is essentially, as the creator, time, and the year is at once the symbol of time, and the period in which the working of nature completes a round, and com- mences again. The year of the piling of the altar, and the carrying of the fire in the fire-pan by the sacrificer, has been already mentioned: the year is symbolic also of birth: Agni must be borne for a year in the firc-pan before he is brought to life as the fire on the altar itself. In the acts of carrying him in the pan the sacrificer takes Agni into himself and in the fullness of time he brings him forth from himself, in accordance with the doctrine that the father of Agni is Prajapati, the sacrificer himself. 
 
-1 Oldenberg (loc. cit.) takes this as the essence of the rite, but though he justly insists on the non-popular character of the belief, he does not disprove the view of Eggeling, which is strongly supported by the Catapatha. 
+1 Oldenberg (loc. cit.) takes this as the essence of the rite, but though he justly insists on the non-popular character of the belief, he does not disprove the view of Eggeling, which is strongly supported by the Śatapatha. 
 
 2 
 
