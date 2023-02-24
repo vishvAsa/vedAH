@@ -281,7 +281,7 @@ Monde Oriental, iv. 62 ff.
 
 • Mundaka Upaniṣad, pp. 63, 66, on iii. 2. 6. 
 
-v. 10. 1, 3 the phrases are craddha tapa ity upāsate and iṣṭāpūrte dattam ity upāsate. In both iti may be enumera- tive, and the sense be practise faith and asceticism', and 'practise sacrifice gifts and generosity'. 
+v. 10. 1, 3 the phrases are Śrāddha tapa ity upāsate and iṣṭāpūrte dattam ity upāsate. In both iti may be enumera- tive, and the sense be practise faith and asceticism', and 'practise sacrifice gifts and generosity'. 
 
 11 vi. 2. 15, 16. 
 

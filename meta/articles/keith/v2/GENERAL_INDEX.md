@@ -1323,7 +1323,7 @@ Expulsion of evil, 263; see also Scapegoat. Exta, special treatment of, in Roman
 
 External soul, 131, 196, 378, 625. Extinction of fires on death, 160. Eye (caksus), 458, 467, 472, 486, 517, 518, 587, 558, 554, 556, 557; as purifying, 887; of Prajapati, as source of horse, 208. 
 
-Faith (craddha; cf. v. Negelein, Weltan- schauung, p. 34), 249, 250, 514, n. 11, 517, 575, 576, 577; as a deity, 2, 210. False accusation, effect of, 477. 
+Faith (Śrāddha; cf. v. Negelein, Weltan- schauung, p. 34), 249, 250, 514, n. 11, 517, 575, 576, 577; as a deity, 2, 210. False accusation, effect of, 477. 
 
 Family books, of the Rigveda, 1, 2. Family worship, 828, 358. Fasting, 300, 301, 306. Fata Morgana, 179. 
 
@@ -3301,7 +3301,7 @@ non-Aryan Scyths, 86. Śalakaṭañkaṭa, spirit, 242,
 
 Śatrumjaya, spirit, 214. 
 
-Śatyāyana Brāhmaṇa, 18, n. 2. Śaunaka, on Craddhas, 427. 
+Śatyāyana Brāhmaṇa, 18, n. 2. Śaunaka, on Śrāddhas, 427. 
 
 Śaundikeya, demon, 240. 
 
