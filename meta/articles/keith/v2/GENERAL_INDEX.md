@@ -1015,7 +1015,7 @@ Determinism, 527, 586, 594, and see Will. Deussen, P., theory of meaning of Upan
 
 şads, 509-12, 592. 
 
-Devabhaga Crautarsa or Crautarsi, sacri- 
+Devabhaga Śrautarsa or Śrautarsi, sacri- 
 
 ficer, 320, n. 1, 482. 
 
@@ -2259,7 +2259,7 @@ Malimluca, demon, 240.
 
 Mana (cf. Nilsson, Archiv f. Religions- wissenschaft, xxii. 379 ff.; Preuss, xxi. 171, 314), 43, 44, 380, n. 4, 446. Manann, Celtic deity, 229, n. 1. 
 
-Manava Dharma Sutra, 30. Manava Grhya Sutra, 28, 242. Manava Crauta Sūtra, 28. 
+Manava Dharma Sutra, 30. Manava Grhya Sutra, 28, 242. Manava Śrauta Sūtra, 28. 
 
 Manda, language (on the name, cf. Friedrich, Streitberg-Festschrift, p. 306, n. 2), 617. Māṇḍükeyas, Vedic family, 196. Mandukya Kārikā, 531, 637, n. 8; see also 
 
@@ -2315,7 +2315,7 @@ Materialism, 525, 531, 541, 546, 550, 558;
 
 in Parmenides, 636. 
 
-Materials of the Crauta sacrifice, 278-85; 
+Materials of the Śrauta sacrifice, 278-85; 
 
 for domestic offerings, 859. 
 
@@ -2693,7 +2693,7 @@ to Rakṣases, 145.
 
 Offerings to the dead, in the domestic ritual, 
 
-427-9; in the Crauta ritual, 429-32. Oldenberg, H., judgement of Indian philo- 
+427-9; in the Śrauta ritual, 429-32. Oldenberg, H., judgement of Indian philo- 
 
 sophy, 599, n. 1; views of, cited, passim. Ollae, revered by Arval Brethren, 269, n. 5. Omens, 366, n. 1, 390, 391. 
 

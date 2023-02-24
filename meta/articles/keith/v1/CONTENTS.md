@@ -487,7 +487,7 @@ The latter group is bound up as volume 32
 
 CHAP. 
 
-20. The sacrifices of the Crauta ritual 
+20. The sacrifices of the Śrauta ritual 
 
 § 1. General characteristics. 
 
@@ -677,7 +677,7 @@ CHAP.
 
 § 1. The living and the dead 
 
-§ 2. The offerings to the dead in the domestic ritual § 3. The offerings to the dead in the Crauta ritual. 
+§ 2. The offerings to the dead in the domestic ritual § 3. The offerings to the dead in the Śrauta ritual. 
 
 PAGE 
 

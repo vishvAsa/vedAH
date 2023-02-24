@@ -195,7 +195,7 @@ PAGE
 
 § 2. The offerings to the dead in the domestic ritual 
 
-§ 3. The offerings to the dead in the Crauta ritual 
+§ 3. The offerings to the dead in the Śrauta ritual 
 
 - 
 

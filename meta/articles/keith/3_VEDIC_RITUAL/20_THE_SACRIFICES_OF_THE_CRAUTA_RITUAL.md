@@ -1,11 +1,11 @@
 +++
-title = "20 THE SACRIFICES OF THE CRAUTA RITUAL"
+title = "20 THE SACRIFICES OF THE Śrauta RITUAL"
 
 +++
 
 ## 01. General Characteristics 
 
-THE rites of the Crauta ritual have much essentially in common, in addition to the necessity of the use of the three or one at least of the three fires in place of the domestic fire. They necessitate the presence of priests numbering from one up to sixteen, or with the Kauṣitakins seventeen,1 to whom should be added the actual performers of some of the minor actions in the more compli- cated forms of the ritual, whose number is not defined, and whose menial functions rendered them of no consequence in the eyes of the priests of the higher rank. It is obvious, for instance, that in the slaughtering of the victims there must often have been need for other aid than that of the Adhvaryu and his assistants proper, and the Śamitṛs are occasionally referred to as charged with the actual slaying: more often a general term like servant is used to apply to such helpers. 
+THE rites of the Śrauta ritual have much essentially in common, in addition to the necessity of the use of the three or one at least of the three fires in place of the domestic fire. They necessitate the presence of priests numbering from one up to sixteen, or with the Kauṣitakins seventeen,1 to whom should be added the actual performers of some of the minor actions in the more compli- cated forms of the ritual, whose number is not defined, and whose menial functions rendered them of no consequence in the eyes of the priests of the higher rank. It is obvious, for instance, that in the slaughtering of the victims there must often have been need for other aid than that of the Adhvaryu and his assistants proper, and the Śamitṛs are occasionally referred to as charged with the actual slaying: more often a general term like servant is used to apply to such helpers. 
 
 As a result of the constant development of the ritual, the festivals of the Śrauta type are full of details which are of no consequence with regard to the meaning of the sacrifice: practically in no case is an important rite addressed to one god only: the effort on the contrary was clearly to find as much room as possible for as many gods as possible. We find, too, many variations among the details of the rites, of which but a few can be reduced to any simple principle. Thus we know that some families like the Jamadagnis and the Bhṛgus made five divisions or layers of the offerings, while other families a made but four, whence the former are called pañcavattins, and the latter caturavattins. Another distinction which has more religious value is the differences between families based on the distinction of the use of Tanünapät or NarāŚansa, as one of the deities invoked at the Apri litanies of the animal sacrifice, while the difference of dressing the hair is also of interest from the point of view of social usages, having many parallels in other lands. 
 
@@ -140,7 +140,7 @@ The Fire-God Oblation or Agnihotra
 
 319 
 
-But we must not decide from this that the origin of the rite was a mere spell it is clearly the tendance of the god in the house, the family fire in a developed form in the Crauta, in a simple form in the domestic ritual. 
+But we must not decide from this that the origin of the rite was a mere spell it is clearly the tendance of the god in the house, the family fire in a developed form in the Śrauta, in a simple form in the domestic ritual. 
 
 ## 04. The New-moon and Full-moon Sacrifices 
 

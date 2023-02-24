@@ -105,7 +105,7 @@ Nirukta.
 
 BCS. 
 
-Baudhayana Crauta Sûtra. 
+Baudhayana Śrauta Sûtra. 
 
 PB. 
 
@@ -165,7 +165,7 @@ Hiranyakeçi Çrauta Sūtra,
 
 CCS. 
 
-Cankhāyana Crauta Sutra. 
+Cankhāyana Śrauta Sutra. 
 
 Içã. 
 
