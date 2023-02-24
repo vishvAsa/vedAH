@@ -65,7 +65,7 @@ The Extant Upanisads
 
 499 
 
-that in the Bṛhadaraṇyaka,1 while in another section 2 it is clearly later than the Aitareya. Finally the Kena, which is in part metrical and is in itself a part of much longer Upanisad, the Jaiminiya Upanisad Brāhmaṇa, is no doubt to be ranked as the last of the older Upanisads. The Jaiminiya Upanisad Brāhmaṇa itself is of the nature of an Aranyaka rather than a mere Upanisad that it does not bear the title Aranyaka is perhaps an idiosyncrasy of the Saman schools, none of which actually call any text of theirs an Aranyaka. As an Aranyaka it has no claim to any very early date: it seems in fact to be certainly later than the Aitareya. The Taittiriya Aranyaka, on the other hand, apart from the Upanisad section (vii-ix and x), is of most miscellaneous content and various date. The Bṛhadaranyaka Upanisad forms part of the last book of the Śatapatha Brāhmaṇa," and the title shows the close relation of Aranyaka and Upanisad. In the case of the Chandogya, the first two sections of the work are of the Aranyaka type, but as with texts attached to the Samaveda generally do not bear that name. The Kauşitaki, like the Aitareya, is part of a longer Aranyaka.“ 
+that in the Bṛhadaraṇyaka,1 while in another section 2 it is clearly later than the Aitareya. Finally the Kena, which is in part metrical and is in itself a part of much longer Upanisad, the Jaiminiya Upanisad Brāhmaṇa, is no doubt to be ranked as the last of the older Upanisads. The Jaiminiya Upanisad Brāhmaṇa itself is of the nature of an Aranyaka rather than a mere Upanisad that it does not bear the title Aranyaka is perhaps an idiosyncrasy of the Saman schools, none of which actually call any text of theirs an Aranyaka. As an Aranyaka it has no claim to any very early date: it seems in fact to be certainly later than the Aitareya. The Taittiriya Aranyaka, on the other hand, apart from the Upanisad section (vii-ix and x), is of most miscellaneous content and various date. The Bṛhadaranyaka Upanisad forms part of the last book of the Śatapatha Brāhmaṇa," and the title shows the close relation of Aranyaka and Upanisad. In the case of the Chandogya, the first two sections of the work are of the Aranyaka type, but as with texts attached to the Samaveda generally do not bear that name. The Kauṣitaki, like the Aitareya, is part of a longer Aranyaka.“ 
 
 7 
 
@@ -105,7 +105,7 @@ In this group it is quite clear that the Katha takes the first rank its style is
 
 5 
 
-The last group of important Upanisads consists of the PraŚna, the Maitra- yaniya, and the Mandukya. They are in prose, but they differ essentially in every respect from the older prose Upanisads: the diction is in style much more elaborate than the early prose, and in the case of the Maitrāyaṇiya, which Max Müller wrongly believed early in date, the language is obviously closely allied to classical Sanskrit, which it follows in the introduction of greater development and complexity of style. The order of the Upanisads in this group is certain as regards the PraŚna and Maitrayaniya," and pro- bable as regards the Maṇḍūkya.8 In philosophy they show their wide know- ledge of the earlier texts, which they freely use. The PraŚna is proved to be later than the Mundaka by the fact that it presupposes it and quotes it." 
+The last group of important Upanisads consists of the PraŚna, the Maitra- yaniya, and the Mandukya. They are in prose, but they differ essentially in every respect from the older prose Upanisads: the diction is in style much more elaborate than the early prose, and in the case of the Maitrāyaṇiya, which Max Mūller wrongly believed early in date, the language is obviously closely allied to classical Sanskrit, which it follows in the introduction of greater development and complexity of style. The order of the Upanisads in this group is certain as regards the PraŚna and Maitrayaniya," and pro- bable as regards the Maṇḍūkya.8 In philosophy they show their wide know- ledge of the earlier texts, which they freely use. The PraŚna is proved to be later than the Mundaka by the fact that it presupposes it and quotes it." 
 
 With these the list of important Upanisads closes: but the manufacture of these works went on indefinitely down even to modern times. The later Upanisads claimed connexion with the Atharvaveda, and it is probable that the Mundaka and the PraŚna were really so connected: the others had no real bond of union, but were pleased to assume one for their own purposes. These Upanisads fall into four classes, according as they (1) merely develop doctrines already found in the older Upanisads; or (2) devote themselves to 
 
@@ -157,9 +157,9 @@ Jacobi, JAOS. xxxiii. 52, n. 2; Walleser,
 
 6 
 
-Der ältere Vedanta, p. 55. This fact in- validates much of Deussen's argument (Phil. of Up., pp. 30 ff.). For this date of Śankara cf. references in JRAS. 1916, pp. 151 ff.; Garbe, Samkhya- hilo- sophie, p. 157, n. 2. 
+Der āltere Vedanta, p. 55. This fact in- validates much of Deussen's argument (Phil. of Up., pp. 30 ff.). For this date of Śankara cf. references in JRAS. 1916, pp. 151 ff.; Garbe, Samkhya- hilo- sophie, p. 157, n. 2. 
 
-e. g. Rhys Davids, Dial. of the Buddha, i. pp. ix ff.; Walleser, Die philosophische Grundlage des älteren Buddhismus, 
+e. g. Rhys Davids, Dial. of the Buddha, i. pp. ix ff.; Walleser, Die philosophische Grundlage des ālteren Buddhismus, 
 
 502 
 
@@ -189,11 +189,11 @@ iii. 2. 13, or the BAU. iv. 3. 2 (palya- yate), seen by Hume (Upanishads, p. 6),
 
 p. 83. 
 
-Die philosophische Grundlage des älteren 
+Die philosophische Grundlage des ālteren 
 
 Buddhismus, p. 67. 
 
-Cf. Rhys Davids, op. cit., p. 303. Cf. Liebich, Panini, pp. 28 ff.; A. Fürst, Der Sprachgebrauch d. älteren Upanisads; W. Kirfel, Nominalkomposition in den U.; O. Wecker, BB. xxx. 1 ff., 177 ff. 
+Cf. Rhys Davids, op. cit., p. 303. Cf. Liebich, Panini, pp. 28 ff.; A. Fūrst, Der Sprachgebrauch d. ālteren Upanisads; W. Kirfel, Nominalkomposition in den U.; O. Wecker, BB. xxx. 1 ff., 177 ff. 
 
 • JAOS. xxii. 336, n. 1. 
 
@@ -211,7 +211,7 @@ The investigation of J. Hertel 2 as to the age of the Mundaka Upanisad yields li
 
 6 
 
-1 Der ältere Vedanta, pp. 5 ff. His date for 
+1 Der āltere Vedanta, pp. 5 ff. His date for 
 
 the Kārika is contrary to the tradition which makes him the spiritual grand- father of Śankara; Deussen, Sechzig Upanishad's, p. 574. 
 
@@ -249,9 +249,9 @@ Unfortunately the evidence for these conclusions is peculiarly unsatis- factory.
 
 2 
 
-c. g. bhavate, parimucyanti (pass.), ādadā- yan (=ädadat), Śraddhayantah, praveda- yanti (in sense of simple verb), viddhi (from vyadh), jānatha, ācaratha (impera- 
+c. g. bhavate, parimucyanti (pass.), ādadā- yan (=ādadat), Śraddhayantah, praveda- yanti (in sense of simple verb), viddhi (from vyadh), jānatha, ācaratha (impera- 
 
-tive), atharvaya (dative), yoşitāyām; vibhum (nom. neut.) is doubtless a mere misprint; adreŚyam is uncertain; the use of pravadeta for imperfect is the chief sign of later date; the irregulari- ties have epic parallels. 
+tive), atharvaya (dative), yoṣitāyām; vibhum (nom. neut.) is doubtless a mere misprint; adreŚyam is uncertain; the use of pravadeta for imperfect is the chief sign of later date; the irregulari- ties have epic parallels. 
 
 * See Keith, Samkhya System2, pp. 79 f. 
 
@@ -265,11 +265,11 @@ The Extant Upanisads
 
 505 
 
-ment is the fact that the translator nowhere gives or hints at this name, which is also ignored by Gauḍapada. What we really do know of an early Mathara is that Jain texts 1 which refer to the Satthitanta add to it the Madhara, which means probably that Maṭhara wrote on the Sastitantra, with which agrees precisely the assertion of Gunaratna Sūri in his commentary on the SaddarŚanasamuccaya that Maṭhara's Bhāṣya was Şaşṭitantroddhara- rupa. Otherwise, the silence regarding Mäṭhara as a commentator of the Kārikā is complete. We are, therefore, left without any evidence of the real authorship of the original commentary, which, if not by IŚvarakṛṣṇa himself, need not go back earlier than A.D. 500. 
+ment is the fact that the translator nowhere gives or hints at this name, which is also ignored by Gauḍapada. What we really do know of an early Mathara is that Jain texts 1 which refer to the Satthitanta add to it the Madhara, which means probably that Maṭhara wrote on the Sastitantra, with which agrees precisely the assertion of Gunaratna Sūri in his commentary on the SaddarŚanasamuccaya that Maṭhara's Bhāṣya was Ṣaṣṭitantroddhara- rupa. Otherwise, the silence regarding Māṭhara as a commentator of the Kārikā is complete. We are, therefore, left without any evidence of the real authorship of the original commentary, which, if not by IŚvarakṛṣṇa himself, need not go back earlier than A.D. 500. 
 
-Mention should perhaps be made of the argument deduced by Jacobi 2 from the Kauțiliya ArthaŚãstra from which he infers that the Samkhya and Yoga systems were in existence as well as the Purva Mimänsä and the materialist system of the Lokayata by the fourth century B.C. Unhappily the evidence adduced for this is not satisfactory, as the date of the ArthaŚãstra must probably 3 be placed some centuries after the date of the minister of Candragupta under whose name it passes. 
+Mention should perhaps be made of the argument deduced by Jacobi 2 from the Kauṭiliya ArthaŚãstra from which he infers that the Samkhya and Yoga systems were in existence as well as the Purva Mimānsā and the materialist system of the Lokayata by the fourth century B.C. Unhappily the evidence adduced for this is not satisfactory, as the date of the ArthaŚãstra must probably 3 be placed some centuries after the date of the minister of Candragupta under whose name it passes. 
 
-From a literary point of view the Upanisads command interest by their introduction of new forms. The dialogue appears beside the simpler dogmatic exposition of the Brahmanas, expanded and developed from the brief dis- cussions in this form of ritual problems which the Brahmaņas occasionally present. The individual character of the new teaching, which was a mystery, naturally furthered this mode of treatment, and dialogues are recorded between very strange interlocutors as well as between teacher and pupil. Interesting is the fact of competitions in which the speakers contend against one another, in order to win favour and the prize offered by a rich prince. Or two Brahmans are enjoying the meal offered by admirers; one comes to them and wins food by setting a clever riddle. A son returns to his father to report that he has been questioned, and has found himself unable to return a reply; his father assures him that he has told him all he knows, and goes with him to seek instruction. The wise can be induced by strange causes to give of their wisdom. The geese sing the praises of Raikva; he is found under a cart, scratching himself; offers of cows he haughtily refuses, but, when JanaŚruti presents his daughter, he taunts him with not realizing that this was the boon with which he should have sought his favour.4 Janaka of Videha is the king who appears as the greatest of patrons, and Yājñavalkya the wisest of Brahmans; in one contest of wits alone he vanquishes nine opponents; 
+From a literary point of view the Upanisads command interest by their introduction of new forms. The dialogue appears beside the simpler dogmatic exposition of the Brahmanas, expanded and developed from the brief dis- cussions in this form of ritual problems which the Brahmaṇas occasionally present. The individual character of the new teaching, which was a mystery, naturally furthered this mode of treatment, and dialogues are recorded between very strange interlocutors as well as between teacher and pupil. Interesting is the fact of competitions in which the speakers contend against one another, in order to win favour and the prize offered by a rich prince. Or two Brahmans are enjoying the meal offered by admirers; one comes to them and wins food by setting a clever riddle. A son returns to his father to report that he has been questioned, and has found himself unable to return a reply; his father assures him that he has told him all he knows, and goes with him to seek instruction. The wise can be induced by strange causes to give of their wisdom. The geese sing the praises of Raikva; he is found under a cart, scratching himself; offers of cows he haughtily refuses, but, when JanaŚruti presents his daughter, he taunts him with not realizing that this was the boon with which he should have sought his favour.4 Janaka of Videha is the king who appears as the greatest of patrons, and Yājñavalkya the wisest of Brahmans; in one contest of wits alone he vanquishes nine opponents; 
 
 Nandi and Anuyogadvāra Sutras in Weber, 
 

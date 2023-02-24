@@ -45,7 +45,7 @@ There is, therefore, no ground to hold that the term aŚmānam svaryam in Rigved
 
 9 
 
-1 vii. 88. 5. Cf. Sraoša's palace in Yasna, 
+1 vii. 88. 5. Cf. Sraośa's palace in Yasna, 
 
 Ivii. 21. 
 
@@ -75,4 +75,4 @@ palace, and that the ocean of the heaven is connected with the fire of heaven. S
 
 1 
 
-Final arguments for the view of Hertel are based on a new interpretation of the Tištrya legend as revealing the production of rain through the over- flowing of the celestial ocean Vourukaša through the stars as the openings in the firmament, and on the view that the divine doors invoked in the Apri hymns are really the sun, moon, and stars; it is sufficient to note his admission that this view was already unknown to the author of Rigveda x. 70. 5, and to add that this ignorance was fully justified by the incredible nature of the theory." 
+Final arguments for the view of Hertel are based on a new interpretation of the Tiśtrya legend as revealing the production of rain through the over- flowing of the celestial ocean Vourukaśa through the stars as the openings in the firmament, and on the view that the divine doors invoked in the Apri hymns are really the sun, moon, and stars; it is sufficient to note his admission that this view was already unknown to the author of Rigveda x. 70. 5, and to add that this ignorance was fully justified by the incredible nature of the theory." 

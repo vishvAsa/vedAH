@@ -23,7 +23,7 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-of similarity of nature has been made like to the sun. In other cases there can be less doubt the god Viṣņu cannot really be explained as a god of wide stepping: he is a sun god, who happens to have a special sphere of activity. 
+of similarity of nature has been made like to the sun. In other cases there can be less doubt the god Viṣṇu cannot really be explained as a god of wide stepping: he is a sun god, who happens to have a special sphere of activity. 
 
 A third class of deities is closely allied to the preceding as far as the Vedic religion is concerned. While the agent gods are concerned each with some special aspect of activity, these gods take upon themselves the whole of activity and are therefore creator gods, and universal gods. In the Veda all of them seem to be traceable to epithets of other gods regarded as creators and universal lords, which have been chosen to be the designation of the supreme lord, to the conception of whom the religious and philosophic impulses of the Vedic poets inclined. 
 

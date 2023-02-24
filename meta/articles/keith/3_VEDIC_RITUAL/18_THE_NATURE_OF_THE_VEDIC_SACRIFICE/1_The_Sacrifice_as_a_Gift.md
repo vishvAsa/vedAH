@@ -3,7 +3,7 @@ title = "1 The Sacrifice as a Gift"
 
 +++
 
-As we have seen, the Vedic pantheon is essentially a body of great and powerful gods before whom the worshipper realizes to the full his comparative weakness and inability to exist satisfactorily without their constant aid. By the most simple logic he applies to the powers divine the same principle which he applies to other more powerful men, or which are applied to him by his inferiors. He seeks to propitiate them by the process of giving gifts.1 Doubt- less, beside this view of the relation of man to the gods, there existed the belief that he could do much for himself by the power of the magic art, which we need not doubt flourished as much then as in later India, and against demons of all kinds magic is freely employed, but the essential distinction of magic and religion is plainly to be seen in the whole of the Vedic religion. Often too in place of using magic, or still oftener in supplement of magic, the aid of the gods is employed in the battle with the demons. In the case of one of the higher gods alone is there any trace of other than a relation of friendship: the aim of the worshipper is to satiate Rudra and to avert his dangerous presence: this fact, which expresses itself in the ritual in many ways, makes a certain degree of difference between the case of Rudra and the other gods, though occasionally some of these, such as Varuņa, show slight traces of a similar conception of their nature to that of Rudra. 
+As we have seen, the Vedic pantheon is essentially a body of great and powerful gods before whom the worshipper realizes to the full his comparative weakness and inability to exist satisfactorily without their constant aid. By the most simple logic he applies to the powers divine the same principle which he applies to other more powerful men, or which are applied to him by his inferiors. He seeks to propitiate them by the process of giving gifts.1 Doubt- less, beside this view of the relation of man to the gods, there existed the belief that he could do much for himself by the power of the magic art, which we need not doubt flourished as much then as in later India, and against demons of all kinds magic is freely employed, but the essential distinction of magic and religion is plainly to be seen in the whole of the Vedic religion. Often too in place of using magic, or still oftener in supplement of magic, the aid of the gods is employed in the battle with the demons. In the case of one of the higher gods alone is there any trace of other than a relation of friendship: the aim of the worshipper is to satiate Rudra and to avert his dangerous presence: this fact, which expresses itself in the ritual in many ways, makes a certain degree of difference between the case of Rudra and the other gods, though occasionally some of these, such as Varuṇa, show slight traces of a similar conception of their nature to that of Rudra. 
 
 The dead stand in a peculiar relation to man, since they deserve from him consideration and honour, but mingled with that conception is the fear of the quick for the dead. It is often asserted 2 that the mode of honouring the gods is a direct imitation of the mode of providing for the dead, but the assertion admits of no proof, and must stand or fall with the effort to demonstrate a priori that all sacrifice or worship of gods is secondary, and dependent on the cult of the dead. In the Vedic, as in the Greek ritual, the nature of the cult of the gods and that of the dead is markedly and in important measure different, a fact which tells, as much as any such argument can tell, against the original identity of the two cults. This fact renders it at once desirable and 
 
@@ -17,7 +17,7 @@ der Indogermanen, p. 851), though he inclines to trace all worship to the cult o
 
 kins, Origin of Religion, chap. xi. Hirt, Die Indogermanen, pp. 514, 515; Eitrem, Opferritus und Voropfer der Griechen und Römer (1915). 
 
-* Stenzel, Opferbräuche der Griechen, pp. 
+* Stenzel, Opferbrāuche der Griechen, pp. 
 
 127 ff. 
 
@@ -71,7 +71,7 @@ pp. 55 ff.; Année sociol. ii. 29 ff., for a criticism of which see below, § 4.
 
 49. 1. 
 
-* TS. i. 8. 4. 1 ; cf. iii. 2. 9. 7; ÇB. i. 2. 5. 24; 
+* TS. i. 8. 4. 1 ; cf. iii. 2. 9. 7; ŚB. i. 2. 5. 24; 
 
 viii. 1. 2. 10. 
 

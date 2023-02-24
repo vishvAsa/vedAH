@@ -119,7 +119,7 @@ The Doctrine of Transmigration
 
 573 
 
-next world of one who does not know a certain rite.1 The fear thus forms itself that in place of the desired immortality in the next world there will be renewed death, and many rites 2 are said to save from it, the Agnihotra, the Vişūvant, the Naciketas fire, the piling of the fire, the study of the Veda. There can be no doubt that the repeated death is in the next world, not in this it is applied to the Fathers, and from those who are born after death to immortality are distinguished those who are born to die again. The idea of the death as being a birth in the next world is not at all rare, as in the passage of the Aitareya Upanisad above mentioned, and the conception that death might there be repeated is a very natural one. It remained only to transfer it to the present world and the effect of transmigration was reached. But though this step is taken in the Upaniṣads it is by no means universally to be found there: there is no clear reference in the Aitareya Aranyaka or Upanisad, and the Bṛhadaranyaka 5 has passages which quite clearly do not recognize it at all. 
+next world of one who does not know a certain rite.1 The fear thus forms itself that in place of the desired immortality in the next world there will be renewed death, and many rites 2 are said to save from it, the Agnihotra, the Viṣūvant, the Naciketas fire, the piling of the fire, the study of the Veda. There can be no doubt that the repeated death is in the next world, not in this it is applied to the Fathers, and from those who are born after death to immortality are distinguished those who are born to die again. The idea of the death as being a birth in the next world is not at all rare, as in the passage of the Aitareya Upanisad above mentioned, and the conception that death might there be repeated is a very natural one. It remained only to transfer it to the present world and the effect of transmigration was reached. But though this step is taken in the Upaniṣads it is by no means universally to be found there: there is no clear reference in the Aitareya Aranyaka or Upanisad, and the Bṛhadaranyaka 5 has passages which quite clearly do not recognize it at all. 
 
 7 
 
@@ -177,9 +177,9 @@ its master to heaven; cf. Naciketas's store of good deeds. Geldner (see Lindenau
 
 3 This is made clear by BAU. iv. 4. 3 ff., 
 
-which Jacobi (Die Entwicklung der Gottesidee bei den Indern, p. 9) wrongly ignores in his contention that Karman was regarded as a transcendent power bringing into being a new psychic complex, no permanent self being known. It is also very dubious if we can accept his view that the origin of Karman in a philosophic sense is to be found in the Mimānsă doctrine of Apūrva, a mysterious entity, which attaches itself to the soul of man when he has offered sacrifice and clings to him until such time as his action bears 
+which Jacobi (Die Entwicklung der Gottesidee bei den Indern, p. 9) wrongly ignores in his contention that Karman was regarded as a transcendent power bringing into being a new psychic complex, no permanent self being known. It is also very dubious if we can accept his view that the origin of Karman in a philosophic sense is to be found in the Mimānsā doctrine of Apūrva, a mysterious entity, which attaches itself to the soul of man when he has offered sacrifice and clings to him until such time as his action bears 
 
-its fruit (cf. Keith, Karma-Mīmāṁsā, pp. 36, 73 ff., 89). This theory was naturally enough evoked by the fact that the sacrifice often did not reap any immediate fruit, and it was, there- fore, necessary to provide something to preserve continuity. But we need not believe this bizarre speculation very old; it can hardly have been needed so long as any real belief in the Vedic gods survived; in the Mimänsä that has wholly disappeared. In the Jain theory Karman is definitely material (von Glasenapp, Die Lehre vom Karman), but it seems very dubious if Stcher- batsky (The Central Conception of Buddhism, p. 34) is right in ascribing a semi-material nature to Karman in Buddhism; the Jains remained on an extremely primitive level of thought which other schools earlier outlived. The idea of Karman, however, was doubtless affected inter alia by the conception of sin (enas, āgas) as clinging in a quasi-physical way to a man. 
+its fruit (cf. Keith, Karma-Mīmāṁsā, pp. 36, 73 ff., 89). This theory was naturally enough evoked by the fact that the sacrifice often did not reap any immediate fruit, and it was, there- fore, necessary to provide something to preserve continuity. But we need not believe this bizarre speculation very old; it can hardly have been needed so long as any real belief in the Vedic gods survived; in the Mimānsā that has wholly disappeared. In the Jain theory Karman is definitely material (von Glasenapp, Die Lehre vom Karman), but it seems very dubious if Stcher- batsky (The Central Conception of Buddhism, p. 34) is right in ascribing a semi-material nature to Karman in Buddhism; the Jains remained on an extremely primitive level of thought which other schools earlier outlived. The idea of Karman, however, was doubtless affected inter alia by the conception of sin (enas, āgas) as clinging in a quasi-physical way to a man. 
 
 Chap. 28] 
 
@@ -281,7 +281,7 @@ Monde Oriental, iv. 62 ff.
 
 • Mundaka Upaniṣad, pp. 63, 66, on iii. 2. 6. 
 
-v. 10. 1, 3 the phrases are craddha tapa ity upăsate and iṣṭāpürte dattam ity upāsate. In both iti may be enumera- tive, and the sense be practise faith and asceticism', and 'practise sacrifice gifts and generosity'. 
+v. 10. 1, 3 the phrases are craddha tapa ity upāsate and iṣṭāpūrte dattam ity upāsate. In both iti may be enumera- tive, and the sense be practise faith and asceticism', and 'practise sacrifice gifts and generosity'. 
 
 11 vi. 2. 15, 16. 
 
@@ -293,7 +293,7 @@ The Philosophy of the Veda
 
 and truth, and those who devote themselves to sacrifice, alms, and asceticism. In the Mundaka Upanisad1 the attainment of the absolute is the reward of those who wise, calm, of holy conduct, practise faith and asceticism, which is doubtless intended to be a reproduction of the view of the Chandogya, though its accuracy is dubious. In the PraŚna 2 the sun and the absolute are assured to those who give themselves up to holy conduct (brahmacarya), asceticism, faith, and knowledge, while rebirth is attained by those who hold that sacri- fice and gifts are their action. It may fairly be held that the earlier sources do not accept asceticism as any essential part of the equipment for attaining the absolute, while it is assumed as necessary in the later texts.3 
 
-The nature of the being which passes through transmigration is not specially discussed in the accounts of the paths. The curious mention of the man, variously described as spiritual (mānasa) or as superhuman (amänava), who leads the migrating soul from the lightning to the world of Brahman, is trans- formed by the account of the Nirukta into a change effected in the soul itself, which becomes a spiritual essence, and with this conception Windisch 5 compares the fact that the Buddha emerges in spiritual (manomaya) form from his mother's womb, thus avoiding all injury to her, and the gods assume such a form. No certainty, however, is possible, and Deussen is equally certain that the manasa of the Bṛhadaranyaka version is merely a corruption of the amanava of the Chandogya text. 
+The nature of the being which passes through transmigration is not specially discussed in the accounts of the paths. The curious mention of the man, variously described as spiritual (mānasa) or as superhuman (amānava), who leads the migrating soul from the lightning to the world of Brahman, is trans- formed by the account of the Nirukta into a change effected in the soul itself, which becomes a spiritual essence, and with this conception Windisch 5 compares the fact that the Buddha emerges in spiritual (manomaya) form from his mother's womb, thus avoiding all injury to her, and the gods assume such a form. No certainty, however, is possible, and Deussen is equally certain that the manasa of the Bṛhadaranyaka version is merely a corruption of the amanava of the Chandogya text. 
 
 6 
 
@@ -315,7 +315,7 @@ The nature of the soul which is fated, unlike this class of soul, to return to e
 
 • Sechzig Upanishad's3, p. 508, n. 2. iv. 4. 8 Madh.; Windisch, op. cit., p. 38; 
 
-cf. CU. iii. 14. 1; KU. v.7; ĪŚă 15–17. Windisch, op. cit., ch. v; Oltramare, L'histoire des idées théosophiques, i. 246 ff. 
+cf. CU. iii. 14. 1; KU. v.7; ĪŚā 15–17. Windisch, op. cit., ch. v; Oltramare, L'histoire des idées théosophiques, i. 246 ff. 
 
 Chap, 28] 
 

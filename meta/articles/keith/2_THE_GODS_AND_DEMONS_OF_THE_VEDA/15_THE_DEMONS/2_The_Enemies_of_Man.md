@@ -127,7 +127,7 @@ The Enemies of Man
 
 239 
 
-generally, but merely as one element in the conception.1 Charpentier 2 finds in the Piśãcas the souls of the dead conceived as glow-worms. The Brahmanas tell a curious tale of a Piśãci who married the Ikṣväku King, Tryaruna, and dulled his fire, until the priest Vrśa by a rite had her burned up.'" 
+generally, but merely as one element in the conception.1 Charpentier 2 finds in the Piśãcas the souls of the dead conceived as glow-worms. The Brahmanas tell a curious tale of a Piśãci who married the Ikṣvāku King, Tryaruna, and dulled his fire, until the priest Vrśa by a rite had her burned up.'" 
 
 The Aratis, who occur about a dozen times in the Rigveda and frequently later, are clearly abstract deities of illiberality, but clothed with quite a real life in the imagination of the indignant Vedic poet, who asks the gods to overthrow them. The Druhs are found about as often in the Rigveda,“ but they are Indo-Iranian, the Avestan being druj, and, like all the older concep- tions, are not living features of the religion, being merely vaguely conceived as injurious spirits. The Kimidins as a pair of demons occur already in the Rigveda, contrary to the more normal practice of grouping the demons in sets, perhaps owing to the influence of the dual deities. The names which we have of such Kimidins, Mroka and Anumroka, Sarpa and Anusarpa, show, however, their entire distinction from the dual deities which have distinct personalities and quite different appellations. 
 
@@ -143,7 +143,7 @@ One set of demons seems still to show its essential connexion with a natural obj
 
 4 
 
-1 Macdonell and Keith, Vedic Index, ii. 516. * Kleine Beiträge zur indoiranischen Mytho- logie (1911). But see Winternitz, VOJ. xxvii. 220–32. 
+1 Macdonell and Keith, Vedic Index, ii. 516. * Kleine Beitrāge zur indoiranischen Mytho- logie (1911). But see Winternitz, VOJ. xxvii. 220–32. 
 
 * PB. xiii. 3. 11-13; JB. iii. 94-6; Sieg, Die Sagenstoffe des RV., p. 64 ; Oertel, JAOS. xviii. 21 ff.; Oldenberg on RV. v. 2. 1. 
 
@@ -155,7 +155,7 @@ Stud. xiii. 183 ff.
 
 * AV. ii, 24. 
 
-7 Kauś, xxvi. 80; xxvii. 7; xxx. 18; lii. 14; ÇB. ii. 6. 2.7; HGS.i. 16,8; AGS. iv. 6. 8; Oldenberg, Rel. des Veda*, pp. 269 f. 
+7 Kauś, xxvi. 80; xxvii. 7; xxx. 18; lii. 14; ŚB. ii. 6. 2.7; HGS.i. 16,8; AGS. iv. 6. 8; Oldenberg, Rel. des Veda*, pp. 269 f. 
 
 'RV. iii. 30. 17; x. 87. 19. 
 
@@ -175,7 +175,7 @@ In the case of the disease demons it is not easy precisely to determine what con
 
 4 
 
-The demons are not, however, merely repelled by the use of fire, and by many spells; they are actually occasionally propitiated with offerings, as in the case of the Rakṣases and Yātudhānas who are thus treated in the Taittirīya Brāhmaṇa,2 a fact which may stand in relation with the use which sorcerers were able to make of these spirits. Tricks are also tried to deceive them : thus in the period of continence immediately after marriage, there has been seen by Oldenberg an ingenious device to prevent any hostile action on the part of the demons, whether by attacking the bride or seeking to enjoy her, 5 and in any case the sympathetic magic of the device is obvious. The practice in the acts of driving away fiends of enumerating as many names as possible is parallel to that of enumerating as many gods in the offerings of the Vaiśvadeva rite in the domestic ritual, and it has preserved to us several lists. To protect the woman in child-birth a fire is lighted," and the spirits are banned under the names of Çanda and Marka, Upavīra, Çauṇdikeya, Ulükhala, Malimluca, Droņāsa, Cyavana, Alikhant, Animișa, Kimvadanta, Upaśruti, Haryakṣa, Kumbhin, Çatru, Pātrapāņi, Nṛmaņi, Hantrimukha, Sarṣapāruņa, Cyavana. 
+The demons are not, however, merely repelled by the use of fire, and by many spells; they are actually occasionally propitiated with offerings, as in the case of the Rakṣases and Yātudhānas who are thus treated in the Taittirīya Brāhmaṇa,2 a fact which may stand in relation with the use which sorcerers were able to make of these spirits. Tricks are also tried to deceive them : thus in the period of continence immediately after marriage, there has been seen by Oldenberg an ingenious device to prevent any hostile action on the part of the demons, whether by attacking the bride or seeking to enjoy her, 5 and in any case the sympathetic magic of the device is obvious. The practice in the acts of driving away fiends of enumerating as many names as possible is parallel to that of enumerating as many gods in the offerings of the Vaiśvadeva rite in the domestic ritual, and it has preserved to us several lists. To protect the woman in child-birth a fire is lighted," and the spirits are banned under the names of Śanda and Marka, Upavīra, Śauṇdikeya, Ulūkhala, Malimluca, Droṇāsa, Cyavana, Alikhant, Animiṣa, Kimvadanta, Upaśruti, Haryakṣa, Kumbhin, Śatru, Pātrapāṇi, Nṛmaṇi, Hantrimukha, Sarṣapāruṇa, Cyavana. 
 
 1 Oldenberg, op. cit., p. 268, n. 4; the natural origin of such spirits is seen in Celtic religion; MacCulloch, Rel. of Anc. Celts, pp. 178, 185; cf. Farnell, Greece and Babylon, pp. 110, 111, 43. 
 
@@ -187,9 +187,9 @@ Epos, pp. 235 f.
 
 • Rel, des Veda*, p. 273. 
 
-* AV. iv. 37. 11; ÇB. iii. 2. 1. 10. 
+* AV. iv. 37. 11; ŚB. iii. 2. 1. 10. 
 
-PGS. i. 16. 23; ApGS. xviii. 1; MP. ii. 16. 1 ff. A longer list in HGS. ii. 8. 7 ; Pramṛśant, Küṭadanta, Vikleśa, Lam- bastana, Uraspeśa, &c. 
+PGS. i. 16. 23; ApGS. xviii. 1; MP. ii. 16. 1 ff. A longer list in HGS. ii. 8. 7 ; Pramṛśant, Kūṭadanta, Vikleśa, Lam- bastana, Uraspeśa, &c. 
 
 Chap. 15] 
 
@@ -201,7 +201,7 @@ The Enemies of Man
 
 241 
 
-Still more interesting is the treatment of a child which has a barking cough; 1 the demon within him is exorcized to let loose the child, being addressed as Kürkura, good Kürkura, and doggy; he is assured that Sarama is his mother, Sisara his father, and the brindled dogs of Yama his brothers: the idea of the demon cough in dog form is perfectly clear: its name is also given as Kumāra. When the man performs the Vaiśvadeva offerings of the domestic ritual, his wife outside the house offers food 2 to the man, to the woman, to every age, to the white one with black teeth, the lord of bad women, to those who allure her children, whether in the wood or the forest. On the day of the final bath the pupil banishes from him all the evil forms of Agni, ten in number, which he enumerates. Demons figure among those to whom he is given in charge by the teacher on his reception. In the ritual we find in the Taittiriya Aranyaka a list of hideous forms to be driven away from the offering, Viśîrṣņi, Grdhraśirṣṇī, and so on. The sacrifice is full of all sorts of magic devices to repel the evil spirits, who, on the one hand, are allowed to have offerings of the blood, though only with inaudible words of offering lest the speech of the speaker should become the voice of a Rakṣas," but on the other hand are kept off by the use of the enclosing sticks, by the free employment of fire, by the drawing of magic circles, and by the sound of the pressing stones.7 The great gods of the Vedic period are not reduced to demons, nor do they approximate to them: it is true that their names are invoked in very trivial occasions such as that of Indra in an idiotic spell to induce a slave not to run away from his master, or to secure connexion, but that merely denotes that the gods were familiar enough to their votaries not to despise aiding them in all their actions. Hillebrandt 1o indeed sees in some passages the tendency to reduce Rudra to the rank of little more than a demon, but, while Rudra is a terrible god and is in some ways akin to the demons, the evidence adduced by Hillebrandt is not altogether in point. Rudra is to be addressed when a man is on a path, at cross-roads, crossing a river, at a mountain, a forest, a burial- ground and a stable, but the fact that he is so to be invoked is expressly explained by his omnipresence,11 and we have here not so much a primitive idea as the extension to every sphere of activity of the great god Rudra, the sign of an advanced theistic view of the god rather than a degradation of his nature. More kinship to legends of demons is to be seen in such a legend as that of Indra becoming a horse's tail; 12 the gods are able to change form at 
+Still more interesting is the treatment of a child which has a barking cough; 1 the demon within him is exorcized to let loose the child, being addressed as Kūrkura, good Kūrkura, and doggy; he is assured that Sarama is his mother, Sisara his father, and the brindled dogs of Yama his brothers: the idea of the demon cough in dog form is perfectly clear: its name is also given as Kumāra. When the man performs the Vaiśvadeva offerings of the domestic ritual, his wife outside the house offers food 2 to the man, to the woman, to every age, to the white one with black teeth, the lord of bad women, to those who allure her children, whether in the wood or the forest. On the day of the final bath the pupil banishes from him all the evil forms of Agni, ten in number, which he enumerates. Demons figure among those to whom he is given in charge by the teacher on his reception. In the ritual we find in the Taittiriya Aranyaka a list of hideous forms to be driven away from the offering, Viśîrṣṇi, Grdhraśirṣṇī, and so on. The sacrifice is full of all sorts of magic devices to repel the evil spirits, who, on the one hand, are allowed to have offerings of the blood, though only with inaudible words of offering lest the speech of the speaker should become the voice of a Rakṣas," but on the other hand are kept off by the use of the enclosing sticks, by the free employment of fire, by the drawing of magic circles, and by the sound of the pressing stones.7 The great gods of the Vedic period are not reduced to demons, nor do they approximate to them: it is true that their names are invoked in very trivial occasions such as that of Indra in an idiotic spell to induce a slave not to run away from his master, or to secure connexion, but that merely denotes that the gods were familiar enough to their votaries not to despise aiding them in all their actions. Hillebrandt 1o indeed sees in some passages the tendency to reduce Rudra to the rank of little more than a demon, but, while Rudra is a terrible god and is in some ways akin to the demons, the evidence adduced by Hillebrandt is not altogether in point. Rudra is to be addressed when a man is on a path, at cross-roads, crossing a river, at a mountain, a forest, a burial- ground and a stable, but the fact that he is so to be invoked is expressly explained by his omnipresence,11 and we have here not so much a primitive idea as the extension to every sphere of activity of the great god Rudra, the sign of an advanced theistic view of the god rather than a degradation of his nature. More kinship to legends of demons is to be seen in such a legend as that of Indra becoming a horse's tail; 12 the gods are able to change form at 
 
 PGS. i. 16. 24. 
 
@@ -217,7 +217,7 @@ i. 28.
 
 1. 
 
-• AB. ii. 7, 'TS. ii. 6. 6, 2; RV. x. 36. 4; ÇB. vii. 7. 1. 2; ApÇS. xi. 11. 6. Araru is a demon banned from the place of sacri- fice, TS. i. 1. 9; MS. i. 1. 10; iv. 1. 10; VS. i. 26; TB. iii. 2. 9. 4; pos- sibly in RV. x. 9. 9, 10. 
+• AB. ii. 7, 'TS. ii. 6. 6, 2; RV. x. 36. 4; ŚB. vii. 7. 1. 2; ApŚS. xi. 11. 6. Araru is a demon banned from the place of sacri- fice, TS. i. 1. 9; MS. i. 1. 10; iv. 1. 10; VS. i. 26; TB. iii. 2. 9. 4; pos- sibly in RV. x. 9. 9, 10. 
 
 • PGS. iii. 7. 3. 
 
@@ -241,17 +241,17 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-will, a fact of which Indra makes free use in his amourettes, but it is rarely that they adopt anything but a noble form such as the eagle form of Indra, but that god has a tendency to assume popular traits. Kubera, later the god of wealth, is a Rakṣas and lord of robbers and evil-doers in the Çatapatha Brāhmaṇa; 1 in the Sūtras he is invoked with Iśāna for the husband in the marriage ritual, and his hosts plague children. Comparison with Greek Kabeiros and explanation as a mountain spirit of hiding propensities are most doubtful. 
+will, a fact of which Indra makes free use in his amourettes, but it is rarely that they adopt anything but a noble form such as the eagle form of Indra, but that god has a tendency to assume popular traits. Kubera, later the god of wealth, is a Rakṣas and lord of robbers and evil-doers in the Śatapatha Brāhmaṇa; 1 in the Sūtras he is invoked with Iśāna for the husband in the marriage ritual, and his hosts plague children. Comparison with Greek Kabeiros and explanation as a mountain spirit of hiding propensities are most doubtful. 
 
 2 
 
 3 
 
-A certain interest attaches to the very late Nejameṣa, who appears apparently as banned in the ritual of the parting of the hair of the bride,* for he reappears in the form of Naigameșa in the medical work of Suśruta, and as Nemesa in a Mathura inscription. It is dubious whether the name is found in the epic, though possibly the Naigameya there recorded may be an error for it." 
+A certain interest attaches to the very late Nejameṣa, who appears apparently as banned in the ritual of the parting of the hair of the bride,* for he reappears in the form of Naigameṣa in the medical work of Suśruta, and as Nemesa in a Mathura inscription. It is dubious whether the name is found in the epic, though possibly the Naigameya there recorded may be an error for it." 
 
 5 
 
-In the somewhat late Mänava Grhya Sutra we have a rite prescribed for one who suffers from possession by the Vinayakas, Çālakaṭañkaṭa, Kūṣmāṇ- darājaputra, Usmita and Devayajana, in which a strange variety of deities are invoked, Vimukha, Çyena, Baka, Yakṣa, Kalaha, Bhiru, Vināyaka, Küṣmāṇ- darajaputra, Yajnävikṣepin, Kulañgāpamārin, Yupakeśin, Sūparakroḍin. Haimavata, Jambhaka, Virüpākṣa, Lohitākṣa, Vaiśravaṇa, Mahāsena, Mahadeva, Mahārāja. Mahadeva is doubtless Rudra, Mahasena appears elsewhere as a disease demon and is an epithet of Skanda, Vaiśravana is Kubera. In Yājñavalkya9 we find a single Vinayaka, who is here son of the goddess Ambikā, and appointed by Brahman and Rudra to be the overlord of the Ganas, troupes, perhaps akin to those assigned to Rudra's entourage in the Yajurveda.10 Doubtless we have here something akin to the later Ganeśa, who is not Vedic, but it is by no means certain that we are to interpret Vinayaka as denoting leader', instead of 'remover of obstacles'," or the epithet Vighneśa, which later is found applied to Ganeśa, as lord of Vighnas, conceived as destroyers. The term Yakṣa, 12 which occurs in this list, is far better known in the Buddhist form of Yakkha; we find the term applied to a wondrous thing in the Jaiminiya Brāhmaṇa; 13 the Rṣis seek to behold something of this kind, and Indra reveals to them the tortoise Akūpāra, of boundless dimension, who is clearly the cosmic tortoise who finds the earth in the ocean. The specification of the term to mean a species of spirit, usually associated with Kubera, is not found until the period of the Gṛhya Sutras. 
+In the somewhat late Mānava Grhya Sutra we have a rite prescribed for one who suffers from possession by the Vinayakas, Śālakaṭañkaṭa, Kūṣmāṇ- darājaputra, Usmita and Devayajana, in which a strange variety of deities are invoked, Vimukha, Śyena, Baka, Yakṣa, Kalaha, Bhiru, Vināyaka, Kūṣmāṇ- darajaputra, Yajnāvikṣepin, Kulañgāpamārin, Yupakeśin, Sūparakroḍin. Haimavata, Jambhaka, Virūpākṣa, Lohitākṣa, Vaiśravaṇa, Mahāsena, Mahadeva, Mahārāja. Mahadeva is doubtless Rudra, Mahasena appears elsewhere as a disease demon and is an epithet of Skanda, Vaiśravana is Kubera. In Yājñavalkya9 we find a single Vinayaka, who is here son of the goddess Ambikā, and appointed by Brahman and Rudra to be the overlord of the Ganas, troupes, perhaps akin to those assigned to Rudra's entourage in the Yajurveda.10 Doubtless we have here something akin to the later Ganeśa, who is not Vedic, but it is by no means certain that we are to interpret Vinayaka as denoting leader', instead of 'remover of obstacles'," or the epithet Vighneśa, which later is found applied to Ganeśa, as lord of Vighnas, conceived as destroyers. The term Yakṣa, 12 which occurs in this list, is far better known in the Buddhist form of Yakkha; we find the term applied to a wondrous thing in the Jaiminiya Brāhmaṇa; 13 the Rṣis seek to behold something of this kind, and Indra reveals to them the tortoise Akūpāra, of boundless dimension, who is clearly the cosmic tortoise who finds the earth in the ocean. The specification of the term to mean a species of spirit, usually associated with Kubera, is not found until the period of the Gṛhya Sutras. 
 
 2 
 
@@ -259,13 +259,13 @@ $
 
 1 xiii. 4. 8, 10; cf. AV. viii, 10, 28. 
 
-ÇGS. i. 11. 7; HGS. ii. 1. 3. 7. 
+ŚGS. i. 11. 7; HGS. ii. 1. 3. 7. 
 
 Hopkins, JAOS. xxxi. 55–70. 
 
-• ÇGS. i. 22. 7; AGS. i. 14. 3. 
+• ŚGS. i. 22. 7; AGS. i. 14. 3. 
 
-* Bühler, EI. ii. 816; Winternitz, JRAS. 1895, pp. 149 ff.; Hillebrandt, Ved. Myth. iii. 424. 
+* Būhler, EI. ii. 816; Winternitz, JRAS. 1895, pp. 149 ff.; Hillebrandt, Ved. Myth. iii. 424. 
 
 • Hopkins, Epic Myth., pp. 103, 227, 229. * ii. 14; Arbman, Rudra .pp. 57 f. 219 ff. 
 

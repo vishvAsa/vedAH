@@ -5,13 +5,13 @@ title = "11 The Maruts or Rudras"
 
 The Maruts share in the greatness of Indra, and, therefore, they have a prominent place in the Rigveda, thirty three-hymns being exclusively theirs, while they share seven with Indra, and one each with Puṣan and Agni. They are essentially a troupe, thrice seven or thrice sixty in number, the children 
 
-1 Cf. Durga's later patronage of Thugs (Garbe, Beiträge zur ind. Kulturge- schichte, pp. 185 ff.), Hermes, patron of thieves, and Laverna in Rome (Roscher, Lex. I. ii. 2872; II. i. 1917). 
+1 Cf. Durga's later patronage of Thugs (Garbe, Beitrāge zur ind. Kulturge- schichte, pp. 185 ff.), Hermes, patron of thieves, and Laverna in Rome (Roscher, Lex. I. ii. 2872; II. i. 1917). 
 
-* Dhārta is an epithet in MS. i. 8. 5; KS. vi. 7; ApÇS. vi. 11. 8; HÇS. iii. 18, but more usually of Skanda, AV. Par. xx ; BG. Par. iv. 2. 
+* Dhārta is an epithet in MS. i. 8. 5; KS. vi. 7; ApŚS. vi. 11. 8; HŚS. iii. 18, but more usually of Skanda, AV. Par. xx ; BG. Par. iv. 2. 
 
-* Cf. AGS. iv. 8. 22 ff. The Anukramaņi treatment of AV. iii. 26, 27; vi. 56. 2, 8; xii. 1. 46 as connected with Rudra (cf. Vait, xxix. 10) is very late evidence. 
+* Cf. AGS. iv. 8. 22 ff. The Anukramaṇi treatment of AV. iii. 26, 27; vi. 56. 2, 8; xii. 1. 46 as connected with Rudra (cf. Vait, xxix. 10) is very late evidence. 
 
-• Cf. AV. xi. 2. 2, 11 ; iv. 28. 4; TA. iv. 28. Cf. the euphemistic Çiva as name of the jackal, the omen of death; HGS.i. 16. 19. 
+• Cf. AV. xi. 2. 2, 11 ; iv. 28. 4; TA. iv. 28. Cf. the euphemistic Śiva as name of the jackal, the omen of death; HGS.i. 16. 19. 
 
 • AV. xi. 2. 30; cf. VS. xvi. 28. 
 
@@ -19,7 +19,7 @@ x. 136; Arbman, Rudra, pp. 207 ff. Cf.
 
 below, Chap. 22, § 9. 
 
-* TS. iv. 5. 5. That the Çala was a Vedic weapon of Rudra is certainly not proved by AV. vi. 90; Kauś, xxxi. 7 (Arbman, p. 118, n.). 
+* TS. iv. 5. 5. That the Śala was a Vedic weapon of Rudra is certainly not proved by AV. vi. 90; Kauś, xxxi. 7 (Arbman, p. 118, n.). 
 
 * RV. i. 188. 6. 
 
@@ -41,7 +41,7 @@ The main deed of the Maruts is the rendering of aid to Indra in the slaying of V
 
 V. 
 
-* In the Brähmaņas as rain-gods they rank, * RV. i. 165, 170; Pischel, Ved. Stud. i. 
+* In the Brāhmaṇas as rain-gods they rank, * RV. i. 165, 170; Pischel, Ved. Stud. i. 
 
 on the analogy of agriculturists, as the common folk of the gods (e. g. PB. xviii. 1. 14.; xix. 14. 1; xxi. 14. 3), whom Indra, as a sovereign, shame- lessly plunders (PB. xxi. 1. 1 ff.). 
 
@@ -75,11 +75,11 @@ For the nature of the Maruts two explanations alone are really plausible : the m
 
 • Macdonell, Ved. Myth., p. 81. 
 
-← Yäska, Nir. xi. 13. 
+← Yāska, Nir. xi. 13. 
 
 * Leumann (Buddha und Mahāvira, p. 11) gives mās-mṛt, man-slayer, by dissimi- 
 
-lation măuṛt, Latin mavort, mart. 
+lation māuṛt, Latin mavort, mart. 
 
 • On RV. i. 6. 4. 
 
@@ -89,7 +89,7 @@ lation măuṛt, Latin mavort, mart.
 
 • Ved. Myth. iii. 317; (Kl. Ausg.), pp. 102 ff.; Arbman, Rudra, pp. 309 fr. 10 PGS. ii. 15. 
 
-"ÇB. iv. 5. 2.16, 17. The face, according to Hillebrandt, is to be averted at an offering given in KÇS. xviii. 4. 28 II., but see Oldenberg, GN. 1915, p. 388, 
+"ŚB. iv. 5. 2.16, 17. The face, according to Hillebrandt, is to be averted at an offering given in KŚS. xviii. 4. 28 II., but see Oldenberg, GN. 1915, p. 388, 
 
 Chap. 9] 
 
@@ -111,7 +111,7 @@ Arbman, developing and improving upon a suggestion of Hillebrandt's regarding th
 
 beings' pure and simple. 
 
-n. 8. No Svāhā call at the offering, ÇB. iv. 5. 2. 17. 
+n. 8. No Svāhā call at the offering, ŚB. iv. 5. 2. 17. 
 
 1 TB. i. 6. 2, 2. 
 
@@ -123,19 +123,19 @@ n. 8. No Svāhā call at the offering, ÇB. iv. 5. 2. 17.
 
 * ZDMG. xxiii. 518. 
 
-* RV. x. 77. 8; i. 106. 2; TS. ii. 3. 1. 5; TA. v. 4. 8; their names are Çukra- 
+* RV. x. 77. 8; i. 106. 2; TS. ii. 3. 1. 5; TA. v. 4. 8; their names are Śukra- 
 
 + 
 
 9 
 
-jyotis, Citrajyotis, Satyajyotis, Jyotiṣ- mant, &c., VS. xxvii. 80; ÇB. ix. 8. 1. 26; as rays and months, PB. xiv. 12. 9. 
+jyotis, Citrajyotis, Satyajyotis, Jyotiṣ- mant, &c., VS. xxvii. 80; ŚB. ix. 8. 1. 26; as rays and months, PB. xiv. 12. 9. 
 
 ' Rudra, pp. 18, n. 1, 162 ff. 
 
 * Ved. Myth. iii. 301. 
 
-• TS. vii. 1. 5. 4; MS. i. 8. 4 (Asuras in ÇB. ii. 4. 8. 2 ff.). In TS. vi. 1. 1. 1 ; TA. V. 8. 4 ff. the Rudras are clearly not demons. 
+• TS. vii. 1. 5. 4; MS. i. 8. 4 (Asuras in ŚB. ii. 4. 8. 2 ff.). In TS. vi. 1. 1. 1 ; TA. V. 8. 4 ff. the Rudras are clearly not demons. 
 
 10 AV. xi. 2. 1; cf. AB. iii. 33; see Chap. 
 

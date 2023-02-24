@@ -5,7 +5,7 @@ title = "13 The Significance of the Philosophy of the Upanisads What judgement a
 
 3 
 
-The position of Deussen is, of course, coloured by his acceptance of the view that Kant has finally shown that the knowledge of the ultimate reality is not possible, with which he combines the Schopenhauerian doctrine of the primacy of the will which he traces to Christianity, and his view of the Upani- şads is, therefore, greatly determined by his double desire, to find in them the anticipation of Kant and to show that the views of Kant, as modified by Schopenhauer, are the only possible views of philosophy. To those who do. not accept his theories the arguments adduced by him fall with the theories themselves, but the investigation of this question belongs to a general philoso- phical discussion, which is hardly here necessary or appropriate. The more important question which arises is to what extent the doctrines of the Upani- ṣads do foreshadow the views of Kant. 
+The position of Deussen is, of course, coloured by his acceptance of the view that Kant has finally shown that the knowledge of the ultimate reality is not possible, with which he combines the Schopenhauerian doctrine of the primacy of the will which he traces to Christianity, and his view of the Upani- ṣads is, therefore, greatly determined by his double desire, to find in them the anticipation of Kant and to show that the views of Kant, as modified by Schopenhauer, are the only possible views of philosophy. To those who do. not accept his theories the arguments adduced by him fall with the theories themselves, but the investigation of this question belongs to a general philoso- phical discussion, which is hardly here necessary or appropriate. The more important question which arises is to what extent the doctrines of the Upani- ṣads do foreshadow the views of Kant. 
 
 Phil. of Up., pp. 88-50. 
 
@@ -35,7 +35,7 @@ The Philosophy of the Veda
 
 [Part V 
 
-absolute, has no theory at all of the relation of the empiric world to the absolute, i. e. that he really leaves the whole question of philosophy unsolved, and that the followers of his theory were at the last forced to fall back, as early as the CvetāŚvatara Upanisad, on the mere phrase of Māyā, 'illusion", which turns the supreme lord into a conjurer.1 The Kantian doctrine, it need hardly be said, leaves us with the whole empiric world regulated under definite principles in time and space, and subject to causality, and it merely assures us that behind these relations we must not expect by intellectual means to find the meaning of existence. That meaning, however, it finds in the moral consciousness, which then becomes of infinite importance. In the doctrine of Yajnavalkya on the contrary we have nothing save denial of all real causality and multiplicity, and on the other the normal cosmogonism of the Brahmaņas. Of moral principles Yajnavalkya's main text is entirely innocent: the pure intellectuality of his doctrine led to the consequence that the moral acts of the person who had knowledge were indifferent, a fact which no sophistry could conceal and which was recognized at an early date: 2 it has its precise counterpart in the view, prevalent in the Middle Ages in Europe as in India, that devotion to God or an idol was enough to wipe out any infamies. 
+absolute, has no theory at all of the relation of the empiric world to the absolute, i. e. that he really leaves the whole question of philosophy unsolved, and that the followers of his theory were at the last forced to fall back, as early as the CvetāŚvatara Upanisad, on the mere phrase of Māyā, 'illusion", which turns the supreme lord into a conjurer.1 The Kantian doctrine, it need hardly be said, leaves us with the whole empiric world regulated under definite principles in time and space, and subject to causality, and it merely assures us that behind these relations we must not expect by intellectual means to find the meaning of existence. That meaning, however, it finds in the moral consciousness, which then becomes of infinite importance. In the doctrine of Yajnavalkya on the contrary we have nothing save denial of all real causality and multiplicity, and on the other the normal cosmogonism of the Brahmaṇas. Of moral principles Yajnavalkya's main text is entirely innocent: the pure intellectuality of his doctrine led to the consequence that the moral acts of the person who had knowledge were indifferent, a fact which no sophistry could conceal and which was recognized at an early date: 2 it has its precise counterpart in the view, prevalent in the Middle Ages in Europe as in India, that devotion to God or an idol was enough to wipe out any infamies. 
 
 When we pass to the doctrine of Karman, the hopeless inconsistencies of the view of Yajnavalkya become painfully obvious: the doctrine of Karman is now introduced as explaining the nature of man's fate in life, without regard to the other doctrine that knowledge means emancipation at once. How on the theory of Yajnavalkya conduct could have any effect at all, or any bearing on the matter, cannot be understood, but it is really incomprehensible how Deussen can accept the view that the knowledge of the unity of the Atman produces liberation. All the effect of the philosophy of Yajñavalkya is to declare the difference of subject and object, and then to assert that the Atman is one, in which there is no difference of subject and object, and there- fore no consciousness, and these views do not show any connexion with emancipation or transmigration by degree of merit of conduct. It is simply inconceivable why on the ground of such theoretic knowledge men should abandon the desire for children, should give up their property, and wander about like beggars, practising a foolish asceticism. Nor as a matter of fact can we imagine that any such conception normally entered the heads of the ascetics of the Vedic age: they doubtless deemed, as the texts indeed show, that what they would attain by these practices was the mystic contemplation of the 
 
@@ -75,9 +75,9 @@ The Philosophy of the Veda
 
 [Part V 
 
-its separation from all empirical reality, while Bādarāyaṇa takes the more simple view, which sees in the absolute a divine nature, and finds a place for the world and the souls beside that nature, though still in some degree pantheistically regarded as part of the divine. The result of truc knowledge as the attainment of union with the supreme deity is thus much more casily brought into concord with the utterances of the Upanisads themselves. Moreover, the sense of devotion to the absolute was thus brought into accord with metaphysical reality and at the same time opportunity given to adapt the Visņu worship of the masses to the esoteric side of the philosophy of the Upanisads, a task carried out by Rāmānuja in his great commentary on the Brahma Sutra.2 
+its separation from all empirical reality, while Bādarāyaṇa takes the more simple view, which sees in the absolute a divine nature, and finds a place for the world and the souls beside that nature, though still in some degree pantheistically regarded as part of the divine. The result of truc knowledge as the attainment of union with the supreme deity is thus much more casily brought into concord with the utterances of the Upanisads themselves. Moreover, the sense of devotion to the absolute was thus brought into accord with metaphysical reality and at the same time opportunity given to adapt the Visṇu worship of the masses to the esoteric side of the philosophy of the Upanisads, a task carried out by Rāmānuja in his great commentary on the Brahma Sutra.2 
 
-From the point of view of ethics the demerits of the system of the Upani- şads are even more glaring than from the point of view of the intellect. It is doubtless impossible to arrive at certainty on questions of the ultimate nature of reality, but it is an easier matter to establish some principles of moral obligation, and to bring them into harmony with a scheme of the universe which if theoretical shall none the less be at any rate plausible. The defect of the Upanisads is that they render morality in the ultimate issue valueless and meaningless. We may reasonably assume that any complete metaphysic must seek to explain as essential ingredients of existence, truth, goodness, and beauty, and we may safely conclude that a system, which, like that of the Upanisads, regards beauty and goodness as nothing but hollow mockeries, is defective and essentially unsound in its theoretic basis. 
+From the point of view of ethics the demerits of the system of the Upani- ṣads are even more glaring than from the point of view of the intellect. It is doubtless impossible to arrive at certainty on questions of the ultimate nature of reality, but it is an easier matter to establish some principles of moral obligation, and to bring them into harmony with a scheme of the universe which if theoretical shall none the less be at any rate plausible. The defect of the Upanisads is that they render morality in the ultimate issue valueless and meaningless. We may reasonably assume that any complete metaphysic must seek to explain as essential ingredients of existence, truth, goodness, and beauty, and we may safely conclude that a system, which, like that of the Upanisads, regards beauty and goodness as nothing but hollow mockeries, is defective and essentially unsound in its theoretic basis. 
 
 It might indeed seem at first sight that the doctrine of Yajnavalkya which ascribes results to the action of Karman, would supply us with a ground for morality, and the Buddhist system has indeed been praised 3 as an ingenious effort to establish a rigid rule of moral order in the world and to negate selfish- ness by maintaining the doctrines that there is no real self on the one hand, and that every action is causally determined by some previous action on the other. Even, however, in the case of Buddhism the theory is by no means satisfactory or convincing. The conception of Karman serves indeed in an excellent way to defend and protect the established order of things, but it is essentially fatalistic, and fatalism is not for a normal mind a good incentive to moral progress. If, on the one hand, the doing of an evil deed is restrained by the thought that it will be punished in another life, it is equally true that reflec- tion shows that the actor has really no option in his acts and is an absolutely predetermined person, whose former acts produce his present motives and reasonings without the possibility of intervention of any kind on his part. This fatalism haunts the Vedanta and the Samkhya no less than the Buddhist system and practically every modern system of absolute idealism, and it is 
 
@@ -87,7 +87,7 @@ Cf. Keith, ERE. s.v.
 
 • Walleser, Die philosophische Grundlage 
 
-des älteren Buddhismus, pp. 74, 75. 
+des ālteren Buddhismus, pp. 74, 75. 
 
 4 
 
@@ -163,7 +163,7 @@ A stronger claim,3 however, has been made for the value of the doctrine of the U
 
 1 Cf. Oldenberg, Die Kultur der Gegenwart, 
 
-I. v. 56, whose judgement of Indian philosophy concludes: Für den west- lichen Geist- welch Schauspiel! aber ach ein Schauspiel nur!' Contrast S. Radhakrishnan, The Reign of Religion in Contemporary Philosophy, p. 451. 
+I. v. 56, whose judgement of Indian philosophy concludes: Fūr den west- lichen Geist- welch Schauspiel! aber ach ein Schauspiel nur!' Contrast S. Radhakrishnan, The Reign of Religion in Contemporary Philosophy, p. 451. 
 
 M. F. Hecker, Schopenhauer und die indische Philosophie (1897); Oldenberg, 
 
@@ -187,13 +187,13 @@ It is this fact of universalism that gives the mysticism of the Upanisads in its
 
 See, e.g., C. A. Bennett, A Philosophical 
 
-Study of Mysticism; R. Otto, The Idea of the Holy; James, Varieties of Religious Reference; von Hügel, Mystic Element in Religion; Underhill, Mysti- cism, and The Mystic Way; cf. Keith, Buddhist Philosophy, p. 127. Egyptian parallels, cf. Weinreich, 
+Study of Mysticism; R. Otto, The Idea of the Holy; James, Varieties of Religious Reference; von Hūgel, Mystic Element in Religion; Underhill, Mysti- cism, and The Mystic Way; cf. Keith, Buddhist Philosophy, p. 127. Egyptian parallels, cf. Weinreich, 
 
 For 
 
 3 
 
-Archiv für Rel. xix. 165 ff. 
+Archiv fūr Rel. xix. 165 ff. 
 
 Cf. John Scotus: Deus propter excellen- tiam non immerito nihil vocatur; Angelus Silesius: Gott ist ein lauter nichts. (James, op. cit., pp. 416 f.) 
 

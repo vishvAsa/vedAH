@@ -19,13 +19,13 @@ Cf. the divergent views of Myres, CAH. i. chap. i; Haddon, The Races of Man (new
 
 6 
 
-guages. But we have no proof of the early existence of these Tocharians in East Turkestan, and the 'Outer' languages show no centum features. His view of Yadus, TurvaŚas, &c., as immigrants partially Semitized- from Mesopotamia, is quite implausible, as is his denial of the aboriginal char- acter of the Śüdras; though that class may, of course, have included Aryan slaves,thisisimplausible on the evidence (Macdonell and Keith, Vedic Index, ii. 380 ff.). Cf. JRAS. 1917, pp. 167 ff. * Platon', ii. 91 f. 
+guages. But we have no proof of the early existence of these Tocharians in East Turkestan, and the 'Outer' languages show no centum features. His view of Yadus, TurvaŚas, &c., as immigrants partially Semitized- from Mesopotamia, is quite implausible, as is his denial of the aboriginal char- acter of the Śūdras; though that class may, of course, have included Aryan slaves,thisisimplausible on the evidence (Macdonell and Keith, Vedic Index, ii. 380 ff.). Cf. JRAS. 1917, pp. 167 ff. * Platon', ii. 91 f. 
 
 • Ibid. i. 718. For Plato's claim, see Frank, Plato und die sogenannten Pythagoreer (1923), pp. 233, 319 f. 
 
 6 
 
-Simplikios, Phys. 1165; Eva Sachs, Die fünf platonischen Körper, pp. 9 ff., 41 ff. 
+Simplikios, Phys. 1165; Eva Sachs, Die fūnf platonischen Körper, pp. 9 ff., 41 ff. 
 
 • Il Verbo di Pitagora (1924), pp. 56 ff. 
 
@@ -67,7 +67,7 @@ Ibid., pp. 143 ff.
 
 6 
 
-oriental ideas by Norden, Geburt des Kindes (1924), pp. 29 ff. Cf. Kerényi, Archiv, xxii. 250; Jäger, Aristoteles, p. 133. 
+oriental ideas by Norden, Geburt des Kindes (1924), pp. 29 ff. Cf. Kerényi, Archiv, xxii. 250; Jāger, Aristoteles, p. 133. 
 
 The effort to find the influence of the Brāhmaṇa conception of Prajāpati as the year on the Aion doctrine made by Reitzenstein, Das iranische Erlösungs- mysterium (cf. L. Troje, Archiv, xxii. 87 ff.) and others is not at all con- vincing. 
 
@@ -137,4 +137,4 @@ Despite Rostagni, op. cit., pp. 22 ff.; A. Covetti, Ann. delle Univ. Toscane, xx
 
 i. 132; Goodwin, Greek Moods and Tenses, p. 300; Herakleitos, frag. 112 τὸ φρονεῖν ἀρετὴ μεγίστη, καὶ σοφία ἀληθέα Aéyer; Iliad, i. 274; x. 174; Stahl, Syntax d. griech. Verbums, pp. 601 ff. Op. cit., pp. 231 ff. 
 
-* Reinhardt, pp. 36 f.; Gorgias, frag. 3. If Reinhardt is right in the effort (pp. 89 ff.) to place Xenophanes's theistic interpretation of the unity of the universe after Parmenides's philo- sophical discoveries, the parallel (p. 153, n. 1) with the development in India to the CvetaŚvatara Upanisad's theism is noteworthy. But the view is uncertain. vi. 2. 1, 2; contra, v. 19. 1; TU. ii. 7; the absolute includes both being and not-being in the Mundaka (ii. 2. 1) and PraŚna (ii. 5). The fourfold treatment of being, not-being, being and not- being, neither being nor not-being is first developed in Buddhist texts. For dialectic comparable in quality with that of Gorgias we must wait until such texts as the Maṇḍükya Karika (e. g. iv. 3f., 88) or Nagarjuna (Keith, Buddhist Philosophy, pp. 237 ff.). Cf. for Gorgias, Reinhardt, pp. 37 ff.; Gomperz, Greek Thinkers, i. 482 ff.; Plato's Sophist. 
+* Reinhardt, pp. 36 f.; Gorgias, frag. 3. If Reinhardt is right in the effort (pp. 89 ff.) to place Xenophanes's theistic interpretation of the unity of the universe after Parmenides's philo- sophical discoveries, the parallel (p. 153, n. 1) with the development in India to the CvetaŚvatara Upanisad's theism is noteworthy. But the view is uncertain. vi. 2. 1, 2; contra, v. 19. 1; TU. ii. 7; the absolute includes both being and not-being in the Mundaka (ii. 2. 1) and PraŚna (ii. 5). The fourfold treatment of being, not-being, being and not- being, neither being nor not-being is first developed in Buddhist texts. For dialectic comparable in quality with that of Gorgias we must wait until such texts as the Maṇḍūkya Karika (e. g. iv. 3f., 88) or Nagarjuna (Keith, Buddhist Philosophy, pp. 237 ff.). Cf. for Gorgias, Reinhardt, pp. 37 ff.; Gomperz, Greek Thinkers, i. 482 ff.; Plato's Sophist. 

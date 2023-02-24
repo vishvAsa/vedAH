@@ -9,7 +9,7 @@ THERE is nothing in Vedic literature to encourage the view, which has been so en
 
 5 
 
-Other modes of disposal of the dead are referred to in the Rigveda and the Atharvaveda. The dead might be cast away (paroptäḥ), or they might be exposed (uddhitaḥ). The latter expression seems to mean exposed on trees, a practice which was known in later India, and which is referred to in the Śatapatha Brāhmaṇa, being prescribed as the expiation, in the case in which a cow is slaughtered and found to be in calf, as regards the disposal 
+Other modes of disposal of the dead are referred to in the Rigveda and the Atharvaveda. The dead might be cast away (paroptāḥ), or they might be exposed (uddhitaḥ). The latter expression seems to mean exposed on trees, a practice which was known in later India, and which is referred to in the Śatapatha Brāhmaṇa, being prescribed as the expiation, in the case in which a cow is slaughtered and found to be in calf, as regards the disposal 
 
 2 
 
@@ -19,7 +19,7 @@ x. 15. 4.
 
 Roth, ZDMG. ix. 471; 
 
-India, pp. 271 ff.; gebräuche, pp. 93-5; 
+India, pp. 271 ff.; gebrāuche, pp. 93-5; 
 
 Hopkins, Rel. of Caland, Todten- PGS. iii. 10. 5. 
 
@@ -41,7 +41,7 @@ The Spirits of the Dead
 
 [Part IV 
 
-of the embryo. But these ideas are of no importance for Vedic India in general; the rite of burning is the rite which has won approval in the Sütras, and that of burying the body is there severely restricted. 
+of the embryo. But these ideas are of no importance for Vedic India in general; the rite of burning is the rite which has won approval in the Sūtras, and that of burying the body is there severely restricted. 
 
 It is, however, a very different question whether this position is primitive. In one of the funeral hymns in the Rigveda 1 the dead is told to go to mother earth, which is to enclose him, as with a garment a mother her child. It is the view of the ritual texts that these words apply to the later rite by which the burnt bones of the dead are placed in an urn in earth, but the inter- pretation, though defended by Oldenberg, cannot be treated as natural, and we must admit that it is only reasonable to assume that it is meant for an actual burial. The later ritual which had in the main given up burial for burning naturally had to use the verses somewhere, and the burial of the bones gave an excellent opportunity for this action, but the fact remains that the verses are burial verses, that the Rigveda treats burial and burning as on the same footing, and that it probably represents contemporary fact.3 
 
@@ -51,7 +51,7 @@ The details of the burning alone can be reconstructed with certainty, but many o
 
 1 x. 18; cf. AV. xviii. 2. 50-2. 
 
-* Rel. des Veda', pp. 572 ff.; Rgveda-Noten, ii. 219 ff.; Caland, Todtengebräuche, P. 165. 
+* Rel. des Veda', pp. 572 ff.; Rgveda-Noten, ii. 219 ff.; Caland, Todtengebrāuche, P. 165. 
 
 * For the Avestan practice, cf. Moulton, Early Zoroastrianism, p. 163. See also von Schroeder, VOJ. ix. 112 ff.; Weber, SBA. 1896, p. 255; Hopkins, JAOS. xvi. p. cliii. 
 
@@ -59,7 +59,7 @@ CB. xi. 5. 2; xiii. 8 for valuable notices; also TS. vi; AŚS. vi. 10; AGS. iv. 
 
 6 
 
-Oldenberg, Rel. des Veda', pp. 572 ff.; Caland, Die allindischen Todten- und Bestattungsgebräuche (Amsterdam, 1896); and ed. of Baudhāyana, IIir- anyakeŚi, and Apastamba Pitṛmedha- sütras (1896); Roth, ZDMG. viii. 467 ff.; Zimmer, Altindisches Leben, pp. 404 ff. 
+Oldenberg, Rel. des Veda', pp. 572 ff.; Caland, Die allindischen Todten- und Bestattungsgebrāuche (Amsterdam, 1896); and ed. of Baudhāyana, IIir- anyakeŚi, and Apastamba Pitṛmedha- sūtras (1896); Roth, ZDMG. viii. 467 ff.; Zimmer, Altindisches Leben, pp. 404 ff. 
 
 • See Bloomfield, AJP. xi. 836 ff. 
 
@@ -89,13 +89,13 @@ the Greek and Roman usage.
 
 • AGS. iv. 2. 22. 
 
-RV. x. 18. 8; the practice was not in favour with the later feeling; Caland, Todtengebräuche, pp. 43–5. 
+RV. x. 18. 8; the practice was not in favour with the later feeling; Caland, Todtengebrāuche, pp. 43–5. 
 
-This must be the sense as taken by Oldenberg and Caland. A reference to the dead man is impossible, though taken so by Max Müller and Roth, and TA. vi. 1. 3 clearly negates this sense. 
+This must be the sense as taken by Oldenberg and Caland. A reference to the dead man is impossible, though taken so by Max Mūller and Roth, and TA. vi. 1. 3 clearly negates this sense. 
 
 * AGS. iv. 2. 18. 
 
-• RV. x. 18. 9. * AV. xviii. 2. 59; KauŚ. lxxx. 48 ff.; ibid. 46, and AV. xviii. 4. 56 also prescribe the taking of a piece of gold from his hand. Pieces of gold-failing it, melted butter-are placed on the seven open- ings in the head of the dead; Caland, Todtengebräuche, p. 47; JGS. ii. 4; cf. 
+• RV. x. 18. 9. * AV. xviii. 2. 59; KauŚ. lxxx. 48 ff.; ibid. 46, and AV. xviii. 4. 56 also prescribe the taking of a piece of gold from his hand. Pieces of gold-failing it, melted butter-are placed on the seven open- ings in the head of the dead; Caland, Todtengebrāuche, p. 47; JGS. ii. 4; cf. 
 
 7* 
 
@@ -111,7 +111,7 @@ This must be the sense as taken by Oldenberg and Caland. A reference to the dead
 
 x. 16. 4, 7. 
 
-11 KauŚ. lxxxi. 34-9; RV.x. 18. 1-6, 18 ff.; 17. 7-9 are used here according to Oldenberg (Rel. des Veda', p. 578), but cf. Caland, Todtengebräuche, p. 65. 
+11 KauŚ. lxxxi. 34-9; RV.x. 18. 1-6, 18 ff.; 17. 7-9 are used here according to Oldenberg (Rel. des Veda', p. 578), but cf. Caland, Todtengebrāuche, p. 65. 
 
 12 CB. xii. 5. 2. 15; TA. vi. 1. 4. 
 
@@ -123,7 +123,7 @@ The Spirits of the Dead
 
 [Part IV 
 
-libations of water for the dead: they change their garments: they pass under a yoke1 of branches of the purifying Parņa tree, they touch on entering the house purifying things, water, fire, dung, mustard grains, and barley grains, the power of which lies in the name Yava, which is constantly con- nected in the Vedic mind with yu, 'restrain' (demons). Perhaps, too, at this point, and not merely at the putting away of the bones, there takes place. the ceremony of removing from the house, and placing in a desolate place, the fire which must not go through the door. It is impossible to believe that this fire was really in the view of the Rigveda kept for the making of offerings to the dead, though the exact meaning of the references to it in the Rigveda is hard to ascertain. Moreover, until the bones are collected, or for three or ten days, the relatives must observe certain restrictions: they must not use their ordinary beds, but sleep on the ground, must observe chastity, cook no food, and live on what they buy, or what others give to them. The nature of these observances is obvious: it is in some way to avoid the risk which death has brought into the vicinity of the relatives: the view that the Preta of the dead is near at hand is clear. The prohibition of cooking is attested by the Avesta also after death the relatives should cook nothing for three days, and the Parsis observe this rule to the present day. Clearly the death has infected the food and the vicinity in which it was, and to eat it will bring injury. The sleeping on the ground is less easy to explain: it is possibly an effort to avoid the attention of the spirit if it returns: possibly it may be traced to the view that the relative, by contact with the dead, has con- taminated himself and must be purified, before the bed can be safely approached, if it is not to be infected for all time to come: or communion with the earth may be desired. The abstinence from intercourse may be explained, as it is explained by Oldenberg, as due to the danger that injury might thus be done to any child which might perchance be born. 
+libations of water for the dead: they change their garments: they pass under a yoke1 of branches of the purifying Parṇa tree, they touch on entering the house purifying things, water, fire, dung, mustard grains, and barley grains, the power of which lies in the name Yava, which is constantly con- nected in the Vedic mind with yu, 'restrain' (demons). Perhaps, too, at this point, and not merely at the putting away of the bones, there takes place. the ceremony of removing from the house, and placing in a desolate place, the fire which must not go through the door. It is impossible to believe that this fire was really in the view of the Rigveda kept for the making of offerings to the dead, though the exact meaning of the references to it in the Rigveda is hard to ascertain. Moreover, until the bones are collected, or for three or ten days, the relatives must observe certain restrictions: they must not use their ordinary beds, but sleep on the ground, must observe chastity, cook no food, and live on what they buy, or what others give to them. The nature of these observances is obvious: it is in some way to avoid the risk which death has brought into the vicinity of the relatives: the view that the Preta of the dead is near at hand is clear. The prohibition of cooking is attested by the Avesta also after death the relatives should cook nothing for three days, and the Parsis observe this rule to the present day. Clearly the death has infected the food and the vicinity in which it was, and to eat it will bring injury. The sleeping on the ground is less easy to explain: it is possibly an effort to avoid the attention of the spirit if it returns: possibly it may be traced to the view that the relative, by contact with the dead, has con- taminated himself and must be purified, before the bed can be safely approached, if it is not to be infected for all time to come: or communion with the earth may be desired. The abstinence from intercourse may be explained, as it is explained by Oldenberg, as due to the danger that injury might thus be done to any child which might perchance be born. 
 
 5 
 
@@ -131,7 +131,7 @@ The third or tenth day is that of the collecting of the bones of the dead." In t
 
 7 
 
-1 The Mantras (Todtengebräuche, pp. 74, 76) suggest the idea of a barrier between dead and living. 
+1 The Mantras (Todtengebrāuche, pp. 74, 76) suggest the idea of a barrier between dead and living. 
 
 * Oldenberg, Rel. des Veda', p. 578. The rite seems to follow the putting away of the bones in KCS. xxi. 4. 28; cf. KauŚ. Ixix; AGS. iv. 6. RV. x. 16. 9 ff, are used. 
 
@@ -145,7 +145,7 @@ Stevenson, Rites of the Twice-Born, p. 154.
 
 Rel, des Veda', p. 590. 
 
-Kaegi (Die Neunzahl bei den Ostariern) points to the importance of nine in the funeral rites of Indo-European peoples. In India the periods vary, but ten days is usual; Caland, Todtengebräuche, pp. 81-4; Paton, Spiritism, pp. 142 ff. 
+Kaegi (Die Neunzahl bei den Ostariern) points to the importance of nine in the funeral rites of Indo-European peoples. In India the periods vary, but ten days is usual; Caland, Todtengebrāuche, pp. 81-4; Paton, Spiritism, pp. 142 ff. 
 
 ' RV. x. 16. 18 ff.; KauŚ. lxxxvi. 26, 27; 
 
@@ -205,7 +205,7 @@ The Spirits of the Dead
 
 to creep, but no thorns. A hole is made or furrow ploughed: seeds of all sorts are sowed and the bones deposited. The hole is then covered over with stones and earth to make a memorial mound: in it seeds are sown to feed the dead, and pits are dug in it into which water and milk are poured to please the dead.3 
 
-The departure from the place of the erection of the memorial is followed by many rites to prevent contamination, the use of fire, of the Apămārga plant, the obliteration of the footsteps, the crossing of pits filled with water, and so on. The placing of a barrier of some sort between the dead and the living is a rite recorded in the Rigveda itself, whether the object is stone or some piece of earth. 
+The departure from the place of the erection of the memorial is followed by many rites to prevent contamination, the use of fire, of the Apāmārga plant, the obliteration of the footsteps, the crossing of pits filled with water, and so on. The placing of a barrier of some sort between the dead and the living is a rite recorded in the Rigveda itself, whether the object is stone or some piece of earth. 
 
 4 
 
@@ -217,13 +217,13 @@ CB. xiii. 8. 1. 20.
 
 As at the piling of the fire, Weber, Ind. 
 
-Stud. xiii. 245; Caland, Todtenge- bräuche, p. 177, misses the obvious purpose in this case of the rite. 
+Stud. xiii. 245; Caland, Todtenge- brāuche, p. 177, misses the obvious purpose in this case of the rite. 
 
-* For alleged remains at Lauriya Nandan- garh, see CHI. i. 616; above, p. 82, n. 1. x. 18. 3 and 4. From the idea of the inability of the soul to cross water is perhaps developed the later idea of the Vaitarani stream and of a mimic boat to cross it (Caland, Todtengebräuche, pp. 8, 158). Hillebrandt (Ved. Myth. iii. 877) sees the Vaitarani's prototype in the Sarasvati of RV. x. 17. 7-9, 
+* For alleged remains at Lauriya Nandan- garh, see CHI. i. 616; above, p. 82, n. 1. x. 18. 3 and 4. From the idea of the inability of the soul to cross water is perhaps developed the later idea of the Vaitarani stream and of a mimic boat to cross it (Caland, Todtengebrāuche, pp. 8, 158). Hillebrandt (Ved. Myth. iii. 877) sees the Vaitarani's prototype in the Sarasvati of RV. x. 17. 7-9, 
 
 and Roth (JAOS. xvi. p. ccxliii) finds the name in JUB. i. 25. 3. Oldenberg, Rel. des Veda', pp. 584 ff. In primitive Greece, as in early Italy and Britain, both modes of disposal are found; we can hardly believe that in every case an Indo-European rite was superinduced on a non-Indo-European. Cf. Hopkins, Origin of Religion, pp. 148 ff.; for Germany, Helm, Altgerm. Rel.i. 152 ff. It was disapproved in Iran. *RV. x. 16. 5; late Sūtra evidence is given 
 
-by Caland, Todtengebräuche, pp. 178, 179, who seems to overestimate its value. 
+by Caland, Todtengebrāuche, pp. 178, 179, who seems to overestimate its value. 
 
 Chap. 24] 
 
@@ -255,7 +255,7 @@ known.
 
 Cf. AV. xviii. 8. 1 (TA. vi. 1. 8); Mac- donell and Keith, Vedic Index, i. 488, 489; Feist, Kultur der Indogermanen, 
 
-p. 811; Bergaigne, Rel. Véd., i. 78; Garbe, Beiträge zur indischen Kultur- geschichte, pp. 148 ff. 
+p. 811; Bergaigne, Rel. Véd., i. 78; Garbe, Beitrāge zur indischen Kultur- geschichte, pp. 148 ff. 
 
 • 
 
@@ -277,7 +277,7 @@ In addition to the normal rites special forms are prescribed for many cases, suc
 
 1 According to AV. xviii. 2. 22, the Maruts are to cool the dead through the goat, perhaps by using up the power of the fire on it. 
 
-* Caland, Todtengebräuche, pp. 85–98. ⚫ TA. iii. 
+* Caland, Todtengebrāuche, pp. 85–98. ⚫ TA. iii. 
 
 Cf. Frazer, Journ. Anthrop. Inst. xv. 64. CU. viii. 6. 6. 
 

@@ -15,7 +15,7 @@ Henry, La magie dans l'Inde antique,
 
 6 
 
-pp. 220 ff. The conjuring up of souls to use them against the living is recorded only late, e. g. SVB. iii. 6. 12; the same text tells (iii. 7. 9) how to bring up demons who give five Kārṣāpaņas, which never fail to return to their owner, so long as he does not part with all at one time. 
+pp. 220 ff. The conjuring up of souls to use them against the living is recorded only late, e. g. SVB. iii. 6. 12; the same text tells (iii. 7. 9) how to bring up demons who give five Kārṣāpaṇas, which never fail to return to their owner, so long as he does not part with all at one time. 
 
 AV. i. 8; RV. x. 159. 4; 174. KauŚ. cxvi. See above, Part II, Chap. 11, §7; Hillebrandt, Rituallitteratur, pp. 185, 186. 
 
@@ -65,13 +65,13 @@ Vedic Ritual
 
 [Part III 
 
-the AŚvattha, which is often in fact employed in magic rites. But scarcely anything from an elephant's tooth or hair downwards comes amiss to the sorcerer, who in India as elsewhere is anxious to increase the importance of his action by asserting that his ingredients have been obtained from afar : an antidote against snakes is dug up on the ridges of the mountain with shovels of gold by the little Kiräta maiden, an assertion with which we may, if we will, compare the practice not rarely recorded, under which people of higher culture ascribe to those of lower culture possession of superior magic powers.3 
+the AŚvattha, which is often in fact employed in magic rites. But scarcely anything from an elephant's tooth or hair downwards comes amiss to the sorcerer, who in India as elsewhere is anxious to increase the importance of his action by asserting that his ingredients have been obtained from afar : an antidote against snakes is dug up on the ridges of the mountain with shovels of gold by the little Kirāta maiden, an assertion with which we may, if we will, compare the practice not rarely recorded, under which people of higher culture ascribe to those of lower culture possession of superior magic powers.3 
 
 5 
 
 2 
 
-In other respects the parallelism between sacrifice and magic ceremony is extremely close: in both cases the operator expects and receives a reward, but the KauŚika Sütra only rarely gives us an exact measure of the Dakṣiņā payable: in some cases the materials used may have been the fee. but often these would be too worthless or too valuable and it is reasonable to believe that the fee was usually fixed by agreement. The magic ceremony can serve most of the purposes of the formal sacrifice just as a main object of the regular offering is long life, so an infinity of charms provide life, and amulets of varied kinds are provided by the magician. There are spells for the house, to guard against fire, to bring rain, to secure increase of cattle, to pre- vent injury and increase the growth of crops, to secure safety on a journey or trade venture and success in gambling. Spells provide success in the assembly, bring victory in war, restore an exiled king, produce harmony or discord among the several classes of the people just as sacrifices do. Even more than sacrifice are magic ceremonies adapted to secure success in love, the over- throw of rivals, constancy between husband and wife, the birth of a son rather than of a daughter, safety in child-birth, and the protection of the life, always precarious and doubly so in such a climate as that of India, of the infant, and spells as well as sacrifices protect the whole adolescence and life of man. Specially rich in spells is the domain of medicine: remedies are provided in this way against many diseases, including intestinal worms, to which the Vedic Indian attributed many diseases with which they had no concern; fever whose several varieties were already known from their periods of recurrence; wounds and fractures, one formula used having some faint claim to be Indo- European in character; 6 skin affections including even leprosy; the effects of poison; and even perhaps diseases ranked as hereditary. The means employed are often obscure, and, while traces of some medical knowledge are not wanting the use of the probe has been recognized by Henry 10 and 
+In other respects the parallelism between sacrifice and magic ceremony is extremely close: in both cases the operator expects and receives a reward, but the KauŚika Sūtra only rarely gives us an exact measure of the Dakṣiṇā payable: in some cases the materials used may have been the fee. but often these would be too worthless or too valuable and it is reasonable to believe that the fee was usually fixed by agreement. The magic ceremony can serve most of the purposes of the formal sacrifice just as a main object of the regular offering is long life, so an infinity of charms provide life, and amulets of varied kinds are provided by the magician. There are spells for the house, to guard against fire, to bring rain, to secure increase of cattle, to pre- vent injury and increase the growth of crops, to secure safety on a journey or trade venture and success in gambling. Spells provide success in the assembly, bring victory in war, restore an exiled king, produce harmony or discord among the several classes of the people just as sacrifices do. Even more than sacrifice are magic ceremonies adapted to secure success in love, the over- throw of rivals, constancy between husband and wife, the birth of a son rather than of a daughter, safety in child-birth, and the protection of the life, always precarious and doubly so in such a climate as that of India, of the infant, and spells as well as sacrifices protect the whole adolescence and life of man. Specially rich in spells is the domain of medicine: remedies are provided in this way against many diseases, including intestinal worms, to which the Vedic Indian attributed many diseases with which they had no concern; fever whose several varieties were already known from their periods of recurrence; wounds and fractures, one formula used having some faint claim to be Indo- European in character; 6 skin affections including even leprosy; the effects of poison; and even perhaps diseases ranked as hereditary. The means employed are often obscure, and, while traces of some medical knowledge are not wanting the use of the probe has been recognized by Henry 10 and 
 
 1 KauŚ. xiii. 2, 3. 
 
@@ -91,7 +91,7 @@ B
 
 Sva, pp. 183 ff. 
 
-kşetriya, of uncertain 
+kṣetriya, of uncertain 
 
 sense; Henry, 
 
@@ -123,7 +123,7 @@ Henry, however, goes much further than this and insists that the Brahman was the
 
 8 
 
-It is of interest to note that, while in the main the magician is content to use the Vedic pantheon as it appears in the sacrificial ritual, he is also pre- pared when necessary to fashion fresh figures or to modify those already existing. While Rudra in his forms as Bhava and Carva is invoked in a hymn against internal disease in terms which are suggestive of the popular favour which was to turn him into Śiva, the great god, Viṣņu takes an inferior place, though the representation of his three steps can be used to strengthen the magic act. The Apsarases appear in close connexion with dice, possibly as Henry 10 holds in the main because the term krid, 'play', applies to them par excellence: such linguistic considerations are of real importance in Vedic 
+It is of interest to note that, while in the main the magician is content to use the Vedic pantheon as it appears in the sacrificial ritual, he is also pre- pared when necessary to fashion fresh figures or to modify those already existing. While Rudra in his forms as Bhava and Carva is invoked in a hymn against internal disease in terms which are suggestive of the popular favour which was to turn him into Śiva, the great god, Viṣṇu takes an inferior place, though the representation of his three steps can be used to strengthen the magic act. The Apsarases appear in close connexion with dice, possibly as Henry 10 holds in the main because the term krid, 'play', applies to them par excellence: such linguistic considerations are of real importance in Vedic 
 
 1 Altindisches Zauberritual, p. 69, n. 7. * KauŚ. li. 
 
@@ -159,7 +159,7 @@ Vedic Ritual
 
 [Part III 
 
-thought. In battle charms we find not merely Apva, the spirit of panic and its physical result, but also Trişandhi, which is clearly Indra's bolt, Arbudi, and Nyarbudi, who is plainly but a verbal variant of the former.1 In Henry's view 2 Arbudi himself is a duplicate of Indra, like Namuci, but this view is much less probable than that of Bloomfield," who sees in him an old derivative of Arbuda, the cloud serpent slain by Indra, who comes to be regarded later merely as a serpent divinity and auspicious, like Takṣaka, who also figures in the Atharvaveda. It is characteristic of the Atharvaveda that Asura in independent passages has always an evil sense, that abstract deities like Arāti, illiberality towards priests, and perhaps Nirṛti, dissolution, take a pro- minent place, and that a faded mythological figure like the mysterious Trita appears, in the form Tṛta,' in connexion with a hymn which is interpreted as an expiation for the somewhat venial fault of marrying before an elder brother, a fact on which is based the theory of Max Müller, which Henry inclines to approve, that Tṛta is the departing sun. On the model of Puşan is created the god Süṣan, from su, 'beget', who is invoked to secure safe delivery." 
+thought. In battle charms we find not merely Apva, the spirit of panic and its physical result, but also Triṣandhi, which is clearly Indra's bolt, Arbudi, and Nyarbudi, who is plainly but a verbal variant of the former.1 In Henry's view 2 Arbudi himself is a duplicate of Indra, like Namuci, but this view is much less probable than that of Bloomfield," who sees in him an old derivative of Arbuda, the cloud serpent slain by Indra, who comes to be regarded later merely as a serpent divinity and auspicious, like Takṣaka, who also figures in the Atharvaveda. It is characteristic of the Atharvaveda that Asura in independent passages has always an evil sense, that abstract deities like Arāti, illiberality towards priests, and perhaps Nirṛti, dissolution, take a pro- minent place, and that a faded mythological figure like the mysterious Trita appears, in the form Tṛta,' in connexion with a hymn which is interpreted as an expiation for the somewhat venial fault of marrying before an elder brother, a fact on which is based the theory of Max Mūller, which Henry inclines to approve, that Tṛta is the departing sun. On the model of Puṣan is created the god Sūṣan, from su, 'beget', who is invoked to secure safe delivery." 
 
 6 
 
@@ -177,7 +177,7 @@ critique, xxxii. 499. 'Atharvaveda, p. 75.
 
 Cf. KauŚ. xxviii. 1 ff.; Bloomfield, SBE. 
 
-xlii. 874; Weber, SBA. 1896, p. 684 n. AV. v. 7; KauŚ. xviii. 13-15. Cf. ViŚvajit, Trayamāṇā, Kalyāņi, Sarva- vid (AV. vi. 107). 
+xlii. 874; Weber, SBA. 1896, p. 684 n. AV. v. 7; KauŚ. xviii. 13-15. Cf. ViŚvajit, Trayamāṇā, Kalyāṇi, Sarva- vid (AV. vi. 107). 
 
 Henry (La magie dans l'Inde antique, 
 

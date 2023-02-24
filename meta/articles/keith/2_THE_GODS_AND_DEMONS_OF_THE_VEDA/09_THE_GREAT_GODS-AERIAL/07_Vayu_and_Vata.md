@@ -3,7 +3,7 @@ title = "07 Vayu and Vata"
 
 +++
 
-The real wind gods of the Rigveda are Väyu and Vāta, who differ however quite distinctly in character and in importance. Vayu has one whole hymn1 addressed to him, and shares half a dozen with Indra, while Văta has only two short hymns in the tenth book. The former is the more anthropomor- phized of the two gods; hence he is joined with Indra, while Vāta is associated with Parjanya, who in comparison with Indra is an elemental deity. The close connexion of Indra and Vāyu is seen in the fact that Yāska 3 gives Vāyu, or Indra, as the second member of the triad of gods, into which the Nairuktas reduced the Vedic pantheon. 
+The real wind gods of the Rigveda are Vāyu and Vāta, who differ however quite distinctly in character and in importance. Vayu has one whole hymn1 addressed to him, and shares half a dozen with Indra, while Vāta has only two short hymns in the tenth book. The former is the more anthropomor- phized of the two gods; hence he is joined with Indra, while Vāta is associated with Parjanya, who in comparison with Indra is an elemental deity. The close connexion of Indra and Vāyu is seen in the fact that Yāska 3 gives Vāyu, or Indra, as the second member of the triad of gods, into which the Nairuktas reduced the Vedic pantheon. 
 
 3 
 

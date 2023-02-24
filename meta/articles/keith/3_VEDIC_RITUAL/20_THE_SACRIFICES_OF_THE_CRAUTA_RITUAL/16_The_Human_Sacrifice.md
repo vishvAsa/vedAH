@@ -7,7 +7,7 @@ The human sacrifice as prescribed in two of the ritual texts 2 is based closely 
 
 1Cf. Henry, Album-Kern, pp. 10 ff.; contra, Oldenberg, Archiv f. Religionswissen- schaft, vii. 212-14. 
 
-CCS. xvi. 10 f.; Vait. xxxvii. 10 ff.; Weber, ZDMG, xviii. 262 ff.; Episches im vedischen Ritual, pp. 9 ff.; Rāja- suya, pp. 47, 52; Hillebrandt, Ritual- litteratur, p. 153; Keith, Taittiriya Samhită, i. pp. cxxxv, cxxxvii, cxl. 
+CCS. xvi. 10 f.; Vait. xxxvii. 10 ff.; Weber, ZDMG, xviii. 262 ff.; Episches im vedischen Ritual, pp. 9 ff.; Rāja- suya, pp. 47, 52; Hillebrandt, Ritual- litteratur, p. 153; Keith, Taittiriya Samhitā, i. pp. cxxxv, cxxxvii, cxl. 
 
 3 
 
@@ -27,4 +27,4 @@ Vedic Ritual
 
 [Part III 
 
-No other trace of human sacrifice exists in the Vedic literature apart from the quite different case of the use of a man and four other victims as an offering at the piling of the great fire altar.1 This usage is not actually laid down for the contemporary time by any Brähmaņa: the most contemplated is the use of the head of a man who has been slain by lightning or by an arrow shot, not a victim killed for the purpose, and normally the head of a goat seems to have sufficed. But it is clearly no real sacrifice at all. The legend of ŚunahŚepa, which has been thought to embody an old legend of human sacrifice which was later abolished, and for which the recitation of the story suffices when recited to the king at the royal consecration, has been noted above; its essential feature of the horror of the proposed offering, whether the victim is the son of the king or merely a priest, and the view thus taken is quite incompatible with the idea that the actual human sacrifice was per- formed in Vedic India.2 
+No other trace of human sacrifice exists in the Vedic literature apart from the quite different case of the use of a man and four other victims as an offering at the piling of the great fire altar.1 This usage is not actually laid down for the contemporary time by any Brāhmaṇa: the most contemplated is the use of the head of a man who has been slain by lightning or by an arrow shot, not a victim killed for the purpose, and normally the head of a goat seems to have sufficed. But it is clearly no real sacrifice at all. The legend of Śunahśepa, which has been thought to embody an old legend of human sacrifice which was later abolished, and for which the recitation of the story suffices when recited to the king at the royal consecration, has been noted above; its essential feature of the horror of the proposed offering, whether the victim is the son of the king or merely a priest, and the view thus taken is quite incompatible with the idea that the actual human sacrifice was per- formed in Vedic India.2 

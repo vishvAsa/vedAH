@@ -43,7 +43,7 @@ x. 186. 6. Cf. Chap. 22, § 9. For faint Vedic beginnings of royal divinity, see
 
 • Murray, Greek Epic3, pp. 185 f.; Anthro- 
 
-pology and the Classics, p.76; Cornford, Themis, pp. 220 ft. See Warde Fowler, Roman Ideas of Deity, p. 39, and P. Ehrenreich, Zeitschrift für Ethno- logie, xxxviii. 536–610, in criticism of K. Breysig, Die Entstehung des Gottesge- dankens und der Heilbringer (1905); Hopkins, Origin of Religion, pp. 67- 72 ; N. N. Law, Ancient Indian Polity, 
+pology and the Classics, p.76; Cornford, Themis, pp. 220 ft. See Warde Fowler, Roman Ideas of Deity, p. 39, and P. Ehrenreich, Zeitschrift fūr Ethno- logie, xxxviii. 536–610, in criticism of K. Breysig, Die Entstehung des Gottesge- dankens und der Heilbringer (1905); Hopkins, Origin of Religion, pp. 67- 72 ; N. N. Law, Ancient Indian Polity, 
 
 pp. 129 ff. 
 
@@ -63,7 +63,7 @@ cause.1 The idea is proved to have existed for medieval India by the evidence of
 
 8 
 
-In regard to a third group of evil spirits, the Piśãcas, it has been suggested by Sir G. Grierson that they reflect human enemies, a race of cannibals, of whom traditions prevail throughout the medieval period of India, and whose language was the Paiśăci of the north-west. In principle it is perfectly possible that human enemies may be counted among demons, as well as the souls of human enemies, and it may be noted that the Brāhmaṇa 9 tradition which opposes the Asuras to the gods, and the Rakṣases to men, also opposes the Piśãcas to the Fathers, from which it might be deduced that they were in 
+In regard to a third group of evil spirits, the Piśãcas, it has been suggested by Sir G. Grierson that they reflect human enemies, a race of cannibals, of whom traditions prevail throughout the medieval period of India, and whose language was the Paiśāci of the north-west. In principle it is perfectly possible that human enemies may be counted among demons, as well as the souls of human enemies, and it may be noted that the Brāhmaṇa 9 tradition which opposes the Asuras to the gods, and the Rakṣases to men, also opposes the Piśãcas to the Fathers, from which it might be deduced that they were in 
 
 1 Monier Williams, Brahmanism3, p. 239; 
 
@@ -71,9 +71,9 @@ Arbman, Rudra, pp. 156 ff.
 
 * Ind. Stud. xv. 353. 
 
-* Feer, Avadana Çataka, p. 491. 
+* Feer, Avadana Śataka, p. 491. 
 
-• ApDS. i. 3. 11. 3; ÇB. xiv. 7. 1. 34, 35. 'AV. xviii. 2. 28; Kauś. Ixxxvii. 16. 
+• ApDS. i. 3. 11. 3; ŚB. xiv. 7. 1. 34, 35. 'AV. xviii. 2. 28; Kauś. Ixxxvii. 16. 
 
 • ii. 14. 5: the sense of Kṣetriya is obscure. 
 
@@ -93,7 +93,7 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-large measure deemed to be souls of the hostile dead. Nor need we doubt that some of the demons who are defeated by the gods were mere mortal men, the enemies of the singers, for there is no such difficulty in accepting the view that a living man can be deemed an evil spirit as in believing that he can be deemed a god. The rarity of the word Piśăca in the earliest literature is also to be noted, but on the whole it is more probable that the term was in origin applied to demons as spirits, not to an actual tribe of men, whence it came to have its demoniac sense, which is certain in the only instance of its use in the Rigveda.1 
+large measure deemed to be souls of the hostile dead. Nor need we doubt that some of the demons who are defeated by the gods were mere mortal men, the enemies of the singers, for there is no such difficulty in accepting the view that a living man can be deemed an evil spirit as in believing that he can be deemed a god. The rarity of the word Piśāca in the earliest literature is also to be noted, but on the whole it is more probable that the term was in origin applied to demons as spirits, not to an actual tribe of men, whence it came to have its demoniac sense, which is certain in the only instance of its use in the Rigveda.1 
 
 It is clear that the relations between the two species of divinities, the gods of nature, especially the lesser deities, and the spirits of animistic belief, must have been close in the extreme, and that there may have been a tendency for the latter sphere to intrude on the former, especially with the development of the belief in the transmigration of the soul, the origin of which we will have cause to consider later. Thus in the Petavatthu 2 the spirit resident in a tree declares that it is not a god nor a Gandharva nor Indra, breaker of cities, but a dead man from Beruva, and the same text 3 places on the same basis the souls of the dead and the deity of a spot, clearly suggesting that the two are closely akin. These passages cannot safely be used with Oldenberg * in support of the derivation of spirits from the souls of the dead: the spirit in the tree in more primitive thought must surely have been, as the Vedic evidence proves, a tree spirit, and the genius loci was not, we may be sure, primitively merely the soul of a dead man. 
 

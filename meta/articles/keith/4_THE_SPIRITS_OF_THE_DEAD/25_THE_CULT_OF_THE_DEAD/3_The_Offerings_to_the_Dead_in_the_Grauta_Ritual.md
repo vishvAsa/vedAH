@@ -21,7 +21,7 @@ AGS. ii. 5. 9; CGS. iii. 8. 18; HGS. ii.
 
 18. 3; PGS. iii. 3. 18 (Śākāṣṭakā). ApŚS. i. 7-10; KCS. iv. 1; AŚS. ii. 6, 
 
-CCS. iv. 8-5; Donner, Pindapitryajña (Berlin, 1870); Caland, Todtenverehr- ung, pp. 8ff.; Todtengebräuche, pp. 172, 178. 
+CCS. iv. 8-5; Donner, Pindapitryajña (Berlin, 1870); Caland, Todtenverehr- ung, pp. 8ff.; Todtengebrāuche, pp. 172, 178. 
 
 430 
 
@@ -57,7 +57,7 @@ The very clear differences between the form of the worship of the gods and the r
 
 1 The parallel of the winter All-souls festival of Europe; Caland, Todten- verehrung, pp. 78 ff. 
 
-* Stengel (Opferbräuche, pp. 127 ff.) shows in Greek religion the distinction of 
+* Stengel (Opferbrāuche, pp. 127 ff.) shows in Greek religion the distinction of 
 
 worship of the dead, and that of even the chthonian gods; see also Farnell's distinction of tendance and worship, Hibbert Journal, 1909, p. 417. 
 

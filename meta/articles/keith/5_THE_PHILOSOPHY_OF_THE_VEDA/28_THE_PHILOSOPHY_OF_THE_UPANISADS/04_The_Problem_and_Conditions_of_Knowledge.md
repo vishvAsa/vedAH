@@ -3,7 +3,7 @@ title = "04 The Problem and Conditions of Knowledge"
 
 +++
 
-It is an essential feature of the Upanisads that, though they make, as we have seen, little or no advance in logical doctrine, they do tentatively raise and deal in some measure with the question of the source of knowledge of the Brahman or Atman. The view of the Brahmaņas, of course, is that knowledge is to be found in the Vedas, and the authority of the Vedic texts is not dis- cussed. In the Upanisads, however, we find that the question of the means of knowledge is definitely raised: the three Vedas or the four, which are some- times recognized, are not always recognized as the sources of complete know- ledge Cvetaketu, despite much Vedic learning, cannot solve the question of transmigration, Narada admits to Sanatkumāra his incompetence to under- stand the Atman. The Taittiriya Upanisad1 expressly reduces the knowledge 
+It is an essential feature of the Upanisads that, though they make, as we have seen, little or no advance in logical doctrine, they do tentatively raise and deal in some measure with the question of the source of knowledge of the Brahman or Atman. The view of the Brahmaṇas, of course, is that knowledge is to be found in the Vedas, and the authority of the Vedic texts is not dis- cussed. In the Upanisads, however, we find that the question of the means of knowledge is definitely raised: the three Vedas or the four, which are some- times recognized, are not always recognized as the sources of complete know- ledge Cvetaketu, despite much Vedic learning, cannot solve the question of transmigration, Narada admits to Sanatkumāra his incompetence to under- stand the Atman. The Taittiriya Upanisad1 expressly reduces the knowledge 
 
 ii. 3. 
 
@@ -53,7 +53,7 @@ i. 1 iv. 1 ff.
 
 11 vi. 2. 18; in view of this passage we may 
 
-perhaps hold that in CU. v. 10. 1 the qualification for full enlightenment is not faith and Tapas (as in PU. i. 10; Mund. i. 2. 11; Windisch, Buddha's Geburt, p. 73, n. 1) but faith as Tapas, as the words fraddha tapa ity upăsate normally mean; see below, § 10. 
+perhaps hold that in CU. v. 10. 1 the qualification for full enlightenment is not faith and Tapas (as in PU. i. 10; Mund. i. 2. 11; Windisch, Buddha's Geburt, p. 73, n. 1) but faith as Tapas, as the words fraddha tapa ity upāsate normally mean; see below, § 10. 
 
 Chap. 28] The Problem and Conditions of Knowledge 
 
@@ -123,6 +123,6 @@ The Katha illustrates this theme: ordinary knowledge aims at pleasure, real know
 
 4 
 
-On the other hand, there arises in the doctrine of Yajnavalkya a distinct and different element: the self in this view cannot be known at all. There is no consciousness after death, he explains to Maitreyi, and the grounds of his explanation are that duality is essential for consciousness. The absolute self is unknowable, for there is no duality between it and anything else: the individual self is also unknowable because it must be the activity in knowing, and cannot be the object. The doctrine has echoes in other Upani- şads, and it results in fierce attacks on knowledge, which is ranked as worse than ignorance by the IŚa. The Katha lays stress on the necessity of turning the eye inwards in contrast to the mere use of the senses to grasp what is external, and insists that the only assertion that can be made of the self is the mere declaration of existence pure and simple. The way is, therefore, clearly open to the development of the doctrine alluded to in the earlier Upanisads, but not developed until later, which seeks by means of processes of physical and psychical disposition to produce the trance condition in which unity with the absolute, the only possible form of knowledge, is arrived at. 
+On the other hand, there arises in the doctrine of Yajnavalkya a distinct and different element: the self in this view cannot be known at all. There is no consciousness after death, he explains to Maitreyi, and the grounds of his explanation are that duality is essential for consciousness. The absolute self is unknowable, for there is no duality between it and anything else: the individual self is also unknowable because it must be the activity in knowing, and cannot be the object. The doctrine has echoes in other Upani- ṣads, and it results in fierce attacks on knowledge, which is ranked as worse than ignorance by the IŚa. The Katha lays stress on the necessity of turning the eye inwards in contrast to the mere use of the senses to grasp what is external, and insists that the only assertion that can be made of the self is the mere declaration of existence pure and simple. The way is, therefore, clearly open to the development of the doctrine alluded to in the earlier Upanisads, but not developed until later, which seeks by means of processes of physical and psychical disposition to produce the trance condition in which unity with the absolute, the only possible form of knowledge, is arrived at. 
 
 9 

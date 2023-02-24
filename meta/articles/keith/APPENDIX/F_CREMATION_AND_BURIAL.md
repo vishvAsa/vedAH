@@ -17,7 +17,7 @@ Indo-Iranian sun worship is incapable of serious demonstration.
 
 ⚫ Cumont (Théologie solaire, pp. 3 ff.) has induced Fowler (pp. 56 f.) to believe sun worship an invention of astrono- mers, and to disbelieve the evidence of Varro, L.L. v. 68, 74, and the existence of Sol Indiges. The effort of L. Malten (Arch. Jahrb. xxvii (1912), 232 ff.) to prove Hephaistos Lycian, not Greek, is clearly unconvincing. 
 
-i. 140. Cf. C. Clemen, Die griechischen und lateinischen Nachrichten über die per- sische Religion, pp. 201 ff. 
+i. 140. Cf. C. Clemen, Die griechischen und lateinischen Nachrichten ūber die per- sische Religion, pp. 201 ff. 
 
 Cremation and Burial 
 
@@ -35,7 +35,7 @@ It is, however, extremely difficult to arrive at any theory establishing the per
 
 * See e. g. Zehetmaier, Leichenverbrennung 
 
-und Leichenbestattung im alten Hellas. The lake dwellers of Europe first buried, then burned their dead, and it has been suggested that cremation is a specific. usage of broad-headed peoples (CAH. i. 73). Peet, Stone and Bronze Ages in Italy, p. 370; von Duhn, Rückblick auf die Gräberforschung (Heidelberg, 1911), Modestov, Introduction à l'histoire romaine (Paris, 1907), p. 107; cf. Peake, The Bronze Age and the Celtic World, pp. 122, 131, 163; CAH. i. 74, 108, 110, where they are taken as Alpine 
+und Leichenbestattung im alten Hellas. The lake dwellers of Europe first buried, then burned their dead, and it has been suggested that cremation is a specific. usage of broad-headed peoples (CAH. i. 73). Peet, Stone and Bronze Ages in Italy, p. 370; von Duhn, Rūckblick auf die Grāberforschung (Heidelberg, 1911), Modestov, Introduction à l'histoire romaine (Paris, 1907), p. 107; cf. Peake, The Bronze Age and the Celtic World, pp. 122, 131, 163; CAH. i. 74, 108, 110, where they are taken as Alpine 
 
 20* 
 
@@ -67,7 +67,7 @@ The motives which may have influenced burning are many, apart from the necessiti
 
 Definite proof of the Indo-European character of burial of the dead would be afforded if it were possible to accept as proved Peake's identification of them with the Kurgan people of the steppes cast of the Dnieper, who certainly buried their dead in a contracted position, the skeletons found being thickly covered with red ochre, a custom which is attested as early as Aurig- nacian times. The evidence, as has been mentioned, for this theory is 
 
-1 Cf. Sophus Müller, Nord. Altertums- 
+1 Cf. Sophus Mūller, Nord. Altertums- 
 
 kunde, i. 363 ff.; Scheftelowitz, Archiv f. Religionswissenschaft, xix. 219 f., who connects it with the belief in a star destiny for the soul. His argument that, if the use is apotropaeic, the burning of utensils, &c., is meaningless, is clearly mistaken. A banned soul might return for his own, and his con- nexion with them has rendered their retention unwise. 
 

@@ -23,7 +23,7 @@ e.g. Bhagavadgītā, viii. 6.
 
 7 
 
-des idées théosophiques, i. 102 ff.; Rhys Davids, Hibbert Lectures, 1881', p. 22; H. Güntert, Der arische Weltkönig, p. 227, who greatly overestimates the pessimism of the Upanisads. 
+des idées théosophiques, i. 102 ff.; Rhys Davids, Hibbert Lectures, 1881', p. 22; H. Gūntert, Der arische Weltkönig, p. 227, who greatly overestimates the pessimism of the Upanisads. 
 
 CB. ii. 6. 4. 8; xi. 4. 4. 1, 21; 6. 2. 2, 3; TB. iii. 10. 9. 11; 11. 6. Immortality even in life is secured by TS. vi. 6. 9. 2. AV. x. 8. 44. 
 

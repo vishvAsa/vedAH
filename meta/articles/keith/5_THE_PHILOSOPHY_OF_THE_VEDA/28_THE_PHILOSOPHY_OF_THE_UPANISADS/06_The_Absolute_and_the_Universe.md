@@ -35,7 +35,7 @@ Aitareya Aranyaka, ii. 3. 2 f.
 
 Barua 
 
-(Prebuddh. Ind. Phil., pp. 51 ff.) has an claborate account of Mahidäsa's views, but they are normally unphilosophical. His statements as to his cosmological doctrines (p. 69) are unwarranted by the text, and to style him the 'incipient Aristotle', who compares favourably in a great number of points with 
+(Prebuddh. Ind. Phil., pp. 51 ff.) has an claborate account of Mahidāsa's views, but they are normally unphilosophical. His statements as to his cosmological doctrines (p. 69) are unwarranted by the text, and to style him the 'incipient Aristotle', who compares favourably in a great number of points with 
 
 Aristotle', is inadmissible. The effort to make personalities out of the Upanisad teachers is vain, while to treat Aghamarṣana as the first philosopher of India is absurd. 
 
@@ -65,7 +65,7 @@ The impossibility of ascribing these views of the absolute and the world to atte
 
 6 
 
-From this cosmogonism or pantheism it is not a difficult step to arrive at atheism the attitude of the Brahmaņas, as we have seen, is not theistic, for they tend undoubtedly to depart from the primitive conception of Prajapati as a creator god in favour of the idea of the more impersonal Brahman or the Atman. But the tendency to abstraction was always, doubtless, confronted with the realism and clinging to personality of the average intellect, and that realism results in the growing tendency to separate the individual and the supreme self, which is a perfectly natural development from the hasty unity of pantheisms. The Katha Upanisad undoubtedly shows this tendency in its distinction of the supreme and the individual self as light and shadow, and in the doctrine of the grace of the creator which gives man saving know- ledge the idea is, however, far more effectively brought out in the Cveta- Śvatara, where the identity of the supreme and the individual souls is not indeed denied, but can only be realized by the favour of the supreme lord, the IŚvara, who thus appears as in some measure distinct from the individual soul. The IŚvara is also a maker of magic, and the universe is the product, the illusion. The Upanisad shows no trace of the presupposition of the doctrine of Yajñavalkya: it is adequately explained as the mere develop- ment of primitive pantheism, or cosmogonism. 
+From this cosmogonism or pantheism it is not a difficult step to arrive at atheism the attitude of the Brahmaṇas, as we have seen, is not theistic, for they tend undoubtedly to depart from the primitive conception of Prajapati as a creator god in favour of the idea of the more impersonal Brahman or the Atman. But the tendency to abstraction was always, doubtless, confronted with the realism and clinging to personality of the average intellect, and that realism results in the growing tendency to separate the individual and the supreme self, which is a perfectly natural development from the hasty unity of pantheisms. The Katha Upanisad undoubtedly shows this tendency in its distinction of the supreme and the individual self as light and shadow, and in the doctrine of the grace of the creator which gives man saving know- ledge the idea is, however, far more effectively brought out in the Cveta- Śvatara, where the identity of the supreme and the individual souls is not indeed denied, but can only be realized by the favour of the supreme lord, the IŚvara, who thus appears as in some measure distinct from the individual soul. The IŚvara is also a maker of magic, and the universe is the product, the illusion. The Upanisad shows no trace of the presupposition of the doctrine of Yajñavalkya: it is adequately explained as the mere develop- ment of primitive pantheism, or cosmogonism. 
 
 7 
 
@@ -117,7 +117,7 @@ later view, Die Entwicklung der Gottes- idee bei den Indern, pp. 11 ff. iv. 8.
 
 ii. 1. For the meaning of ether see below, § 10. If it is space, then a faint similarity to the Timaios may be recognized. 
 
-AA. ii. 3. 1 (earth, wind, ether, water, light); AU. iii. 3 (thesc as mahābhū- täni); cf. ŚA. vii. 21, where small mahā- bhutani, of uncertain nature, appear. For its development in Buddhism, cf. Stcherbatsky, The Central Conception of Buddhism, pp. 12 f. 
+AA. ii. 3. 1 (earth, wind, ether, water, light); AU. iii. 3 (thesc as mahābhū- tāni); cf. ŚA. vii. 21, where small mahā- bhutani, of uncertain nature, appear. For its development in Buddhism, cf. Stcherbatsky, The Central Conception of Buddhism, pp. 12 f. 
 
 526 
 
@@ -201,7 +201,7 @@ Kaus. iii. 8.
 
 cf. ii. 5. 
 
-iii. 2; cf. the Samkhya and Stoic views; Dahlmann, Die Sämkhya-Philosophie, 
+iii. 2; cf. the Samkhya and Stoic views; Dahlmann, Die Sāmkhya-Philosophie, 
 
 B 
 
@@ -223,7 +223,7 @@ In detail we learn very little indeed of the creation of the earth and the world
 
 1 vi. 11, 12, 4; v. 5, &c. 
 
-2 v. 18; Ică 8. 
+2 v. 18; Icā 8. 
 
 3 i. 1. 2. The waters are not, of course, the region of fiery ether, suggested by Barua, Prebuddh. Ind. Phil., p. 69. 
 
@@ -243,7 +243,7 @@ below, Appendix C.
 
 9 
 
-BAU. iii. 6; cf. Kaus. i. 3 (fire, wind, Varuna, Indra, Prajapati, and Brah- man); cf. BAU. iv. 3. 38; TU. ii. 8. CU. iv. 15. 5; v. 10. 2. The planets are unknown before Maitr. vi. 16, and a Kathaka fragment of late character has in Grahești Mantras the older sun, Venus, Jupiter, Mercury, Mars, Saturn, the moon, Rāhu, Ketu (Caland, Brāhmaṇa en Sutra-Aanwinsten, pp. 8, 29), which differs from the order later usual under Greek influence. 
+BAU. iii. 6; cf. Kaus. i. 3 (fire, wind, Varuna, Indra, Prajapati, and Brah- man); cf. BAU. iv. 3. 38; TU. ii. 8. CU. iv. 15. 5; v. 10. 2. The planets are unknown before Maitr. vi. 16, and a Kathaka fragment of late character has in Graheṣti Mantras the older sun, Venus, Jupiter, Mercury, Mars, Saturn, the moon, Rāhu, Ketu (Caland, Brāhmaṇa en Sutra-Aanwinsten, pp. 8, 29), which differs from the order later usual under Greek influence. 
 
 Chap. 28] 
 

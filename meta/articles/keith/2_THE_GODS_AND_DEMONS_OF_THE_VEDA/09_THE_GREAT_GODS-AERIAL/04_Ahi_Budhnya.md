@@ -3,7 +3,7 @@ title = "04 Ahi Budhnya"
 
 +++
 
-Ahi Budhnya, 'the serpent of the deep', is closely associated in the few cases, twelve in all, in which his name is found in the Rigveda with the gods Aja Ekapād, Apāṁ Napät, the ocean, and Savitṛ. His name never occurs save in the hymns to the All-gods, and there it is regularly found among the spirits of the atmosphere, and in the Naighaṇṭuka ' he is definitely assigned to the middle or aerial region. The only definite traits ascribed to him are that he is born of the waters, sitting at the bottom of the streams in the spaces, language which the normal spirit of the Rigveda no less than the express assertion of Yāska & induces us to refer to the ocean of the air, and not to the earthly waters. His dangerous character is hinted at by the fact that he is implored not to give over his worshippers to evil. 
+Ahi Budhnya, 'the serpent of the deep', is closely associated in the few cases, twelve in all, in which his name is found in the Rigveda with the gods Aja Ekapād, Apāṁ Napāt, the ocean, and Savitṛ. His name never occurs save in the hymns to the All-gods, and there it is regularly found among the spirits of the atmosphere, and in the Naighaṇṭuka ' he is definitely assigned to the middle or aerial region. The only definite traits ascribed to him are that he is born of the waters, sitting at the bottom of the streams in the spaces, language which the normal spirit of the Rigveda no less than the express assertion of Yāska & induces us to refer to the ocean of the air, and not to the earthly waters. His dangerous character is hinted at by the fact that he is implored not to give over his worshippers to evil. 
 
 8 
 
@@ -17,7 +17,7 @@ The explanation of the nature of this spirit is by no means obvious. The serpent
 
 Chips, iv1. 410; Magoun, JAOS. xix. ii. 
 
-187 I.; AJP. xxi. 274 ff. Cf. Gray, Archiv für Rel. iii. 18 ff. 
+187 I.; AJP. xxi. 274 ff. Cf. Gray, Archiv fūr Rel. iii. 18 ff. 
 
 • Rel. des Veda', pp. 117–19. 
 
@@ -41,13 +41,13 @@ Ahi Budhnya
 
 137 
 
-of Indra. More vaguely it may be thought that the god is nothing more than a personification of the writhing cloud, whose serpentine form is a simple enough conception; the difference between this conception and that of Vṛtra would lie in the fact that the latter conception applies to the thunder clouds rather than to the mere clouds of the sky. The prayer for safety from harm would be natural enough addressed to a deity conceived in serpent form. It is, however, also possible that the god is merely another form of Agni; in the later Vedic texts the god is connected with Agni Gärhapatya,1 and with Aja Ekapad he receives a formal share in the offering at a Gṛhya ceremony, from which, however, it would doubtless be wrong to deduce that he was then a living deity. Such a deity he cannot have been for even the earliest period of the Rigveda, and the occasional mention of these gods even in the latest texts is testimony not to the life of the god but to the commanding influence of the Rigveda. In the post-Vedic literature the name survives as an epithet of Çiva and the name of a Rudra. 
+of Indra. More vaguely it may be thought that the god is nothing more than a personification of the writhing cloud, whose serpentine form is a simple enough conception; the difference between this conception and that of Vṛtra would lie in the fact that the latter conception applies to the thunder clouds rather than to the mere clouds of the sky. The prayer for safety from harm would be natural enough addressed to a deity conceived in serpent form. It is, however, also possible that the god is merely another form of Agni; in the later Vedic texts the god is connected with Agni Gārhapatya,1 and with Aja Ekapad he receives a formal share in the offering at a Gṛhya ceremony, from which, however, it would doubtless be wrong to deduce that he was then a living deity. Such a deity he cannot have been for even the earliest period of the Rigveda, and the occasional mention of these gods even in the latest texts is testimony not to the life of the god but to the commanding influence of the Rigveda. In the post-Vedic literature the name survives as an epithet of Śiva and the name of a Rudra. 
 
 $5. § 5. Aja Ekapād 
 
 3 
 
-Aja Ekapād, 'the one-footed goat', is mentioned five times with Ahi Budhnya, and but once alone. The deities with whom he is mentioned are the ocean, the stream, the aerial space, the thundering flood, and all the gods, and his aerial connexion seems clear despite the preference for the celestial region evinced by the Naighanțuka. In the later literature he appears as making firm the two worlds, according to the Atharvaveda, and as born in the east according to the Taittiriya Brāhmaṇa," and in the domestic ritual he is once joined with Ahi Budhnya. Native tradition, but only at a very late date, makes him out to be a form of Agni or the sun.® 
+Aja Ekapād, 'the one-footed goat', is mentioned five times with Ahi Budhnya, and but once alone. The deities with whom he is mentioned are the ocean, the stream, the aerial space, the thundering flood, and all the gods, and his aerial connexion seems clear despite the preference for the celestial region evinced by the Naighanṭuka. In the later literature he appears as making firm the two worlds, according to the Atharvaveda, and as born in the east according to the Taittiriya Brāhmaṇa," and in the domestic ritual he is once joined with Ahi Budhnya. Native tradition, but only at a very late date, makes him out to be a form of Agni or the sun.® 
 
 $ 
 
@@ -65,7 +65,7 @@ v. 6.
 
 • Durga on Nir, xii. 29. 
 
-↑ Nir., pp. 165, 166; cf. Weber, Rājasüya, 
+↑ Nir., pp. 165, 166; cf. Weber, Rājasūya, 
 
 p. 53, n. 4, who suggests the whirlwind. Rel. Véd. iii. 28. 
 

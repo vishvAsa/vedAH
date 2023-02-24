@@ -33,7 +33,7 @@ It must be noted that the Dravidians are not allowed the credit of origina- lity
 
 5 
 
-It is further held that caste is Dravidian, the Brahmans being the product of the mingling of the bringers of the heliolithic culture from Egypt with the Dravidians. They achieved domination over the Dravidians, and, when the Aryans entered India, showing superior prowess, as users of horses, the Brahmans saw the wisdom of adopting the allegedly easier language which the masters spoke, and became the guardians and exponents of the Vedas, until finally they succeeded in imposing themselves as leaders of the Aryans who were Dravidized in culture. It is important to note that on this theory the Rigveda is left to the Aryans during the period when they were in the full flush of their conquests. It is difficult to reconcile this with the assertion that Vişņu is certainly not an Aryan god, since he most unmistakably 
+It is further held that caste is Dravidian, the Brahmans being the product of the mingling of the bringers of the heliolithic culture from Egypt with the Dravidians. They achieved domination over the Dravidians, and, when the Aryans entered India, showing superior prowess, as users of horses, the Brahmans saw the wisdom of adopting the allegedly easier language which the masters spoke, and became the guardians and exponents of the Vedas, until finally they succeeded in imposing themselves as leaders of the Aryans who were Dravidized in culture. It is important to note that on this theory the Rigveda is left to the Aryans during the period when they were in the full flush of their conquests. It is difficult to reconcile this with the assertion that Viṣṇu is certainly not an Aryan god, since he most unmistakably 
 
 1 Migrations of Early Culture; cf. Perry, Children of the Sun; Fleure in Slater, The Dravidian Element in Indian Culture, pp. 35 ff.; Peake, The Bronze Age and the Celtic World, chap. iv. But see CAH. i. 94 ff. On alleged Dravidian remains (Mohen-jo-Daro, Harappa), sec 
 
@@ -97,7 +97,7 @@ iii. 2 ff.; iv. 302 f.; v. 361 ff.
 
 von Negelein, op. cit., pp. 54 f. 
 
-• On Sanskrit and Dravidian cf. J. Bloch, Bull. Soc. Ling. xxv. 1 ff.; J. Przy- luski (ibid. pp. 66 f.; xxiv. 118 f., 255 f.) finds Austro-Asiatic words borrowed (including the term karpäsa, cotton), and strengthens the argument for borrowing of the phallic cult by the Aryans from the aborigines by the fact that this worship is prominent in Indo-China. It may be noted that here the paucity of phallic worship in the case of other Indo-European peoples strengthens the argument for borrow- 
+• On Sanskrit and Dravidian cf. J. Bloch, Bull. Soc. Ling. xxv. 1 ff.; J. Przy- luski (ibid. pp. 66 f.; xxiv. 118 f., 255 f.) finds Austro-Asiatic words borrowed (including the term karpāsa, cotton), and strengthens the argument for borrowing of the phallic cult by the Aryans from the aborigines by the fact that this worship is prominent in Indo-China. It may be noted that here the paucity of phallic worship in the case of other Indo-European peoples strengthens the argument for borrow- 
 
 ing. None of the instances alluded to by Farnell, op. cit. v. 8, is clearly or probably Indo-European. 
 
@@ -109,7 +109,7 @@ JA. cciii. 1-56.
 
 vn. iii (1920). 
 
-'Märkandeya Purāņa, Iviii. 28, &c. 
+'Mārkandeya Purāṇa, Iviii. 28, &c. 
 
 vii. 2. 23. 
 
@@ -149,7 +149,7 @@ Modogalinga in the Ganges. Cf. the Lanka of the Ramayana, which is not Ceylon (J
 
 • Nirukta, ii. 2. Cf. E. Kuhn, Avesta, Pahlavi, and Ancient Persian Studies (1904), pp. 218 ff.; Nariman, JRAS. 1912, pp. 255 ff.; L. Sarup (trs., p. 22, n. 5) misunderstands Roth's view on this point; Yaska himself uses cu as go' (iii. 18; iv. 13), which contradicts 
 
-his assertion that the Kambojas used Śavati, the Aryans Śavas only. Roth does not deny the Aryan use of Śavas, which Yäska doubtless connected (as bala) with gatikarman. Yäska is either inconsistent or there is an old inter- polation (known to Patanjali, Mahā- bhāṣya, i. 1. 1). 
+his assertion that the Kambojas used Śavati, the Aryans Śavas only. Roth does not deny the Aryan use of Śavas, which Yāska doubtless connected (as bala) with gatikarman. Yāska is either inconsistent or there is an old inter- polation (known to Patanjali, Mahā- bhāṣya, i. 1. 1). 
 
 MSL. xxii. 205 ff.; BSL. xxiv. 118 ff. 
 

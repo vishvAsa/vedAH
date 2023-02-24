@@ -129,13 +129,13 @@ Contents of volume 31
 
 § 2. Varuna, Mitra, and the Adityas 
 
-§ 8. Sürya, Savitṛ, and Pūşan 
+§ 8. Sūrya, Savitṛ, and Pūṣan 
 
-§ 4. Visņu 
+§ 4. Visṇu 
 
 § 5. Vivasvant 
 
-§ 6. The Açvins 
+§ 6. The Aśvins 
 
 § 7. The Goddess Dawn 
 
@@ -147,7 +147,7 @@ Contents of volume 31
 
 § 1. Indra 
 
-§ 2 Trita Aptya § 8 Apam Napāt § 4. Ahi Budhnya § 5. Aja Ekapad § 6. Mätariçvan. § 7. Vayu and Vāta 
+§ 2 Trita Aptya § 8 Apam Napāt § 4. Ahi Budhnya § 5. Aja Ekapad § 6. Mātariśvan. § 7. Vayu and Vāta 
 
 § 8. Parjanya 
 
@@ -313,7 +313,7 @@ Contents of volume 31
 
 § 1. The nature of Abstract Deities 
 
-§ 2. Tvaştṛ and other Agent Gods 
+§ 2. Tvaṣtṛ and other Agent Gods 
 
 § 8. The Creator Gods 
 
@@ -497,7 +497,7 @@ CHAP.
 
 § 5. The four-month or seasonal sacrifices 
 
-§ 6. First-fruit sacrifice (agrayana işți) and others § 7. The animal sacrifice 
+§ 6. First-fruit sacrifice (agrayana iṣṭi) and others § 7. The animal sacrifice 
 
 + 
 
@@ -533,7 +533,7 @@ a
 
 332 
 
-§ 10. The Aikadaçina animal offering 
+§ 10. The Aikadaśina animal offering 
 
 333 
 
@@ -717,7 +717,7 @@ PAGE
 
 § 3. The theory of the sacrifice 
 
-§ 4. The ethics of the Brähmaņas 
+§ 4. The ethics of the Brāhmaṇas 
 
 § 5. Modes of thought and categories 
 
@@ -841,7 +841,7 @@ A. The age of the Avesta and the Rigveda
 
 * 
 
-B. The sacrifice of Purușa and the origin of the world 
+B. The sacrifice of Puruṣa and the origin of the world 
 
 C. The Aryan conception of the heaven 
 

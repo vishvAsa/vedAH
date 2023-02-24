@@ -13,13 +13,13 @@ The original nature of so obscure a god is not easy to decide. The connexion of 
 
 5 
 
-indh ; Jacobi (KZ. xxxi. 816 f.) manly'; Bezzenberger (BB. i. 342) compares AS, ent, ‘giant,' OHD. en- tioc; Güntert (Weltkönig, p. 14), viðéw. 1TS. i. 8. 10. 2. 
+indh ; Jacobi (KZ. xxxi. 816 f.) manly'; Bezzenberger (BB. i. 342) compares AS, ent, ‘giant,' OHD. en- tioc; Gūntert (Weltkönig, p. 14), viðéw. 1TS. i. 8. 10. 2. 
 
 * i. 118. 1, 8; xix. 56. 4. 
 
 * viii. 47. 16; v. 18. 2. 
 
-• ZDMG. ii. 224. The divergence of quantity can be explained by folk etymology; Güntert (p. 81) makes him the "friendly' third of a divine triad. Ved.-brahm. Periode, pp. 85-8. 
+• ZDMG. ii. 224. The divergence of quantity can be explained by folk etymology; Gūntert (p. 81) makes him the "friendly' third of a divine triad. Ved.-brahm. Periode, pp. 85-8. 
 
 5 
 

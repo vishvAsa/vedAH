@@ -3,7 +3,7 @@ title = "4 The First of Men"
 
 +++
 
-In the Rigveda there can be no doubt as to who is the real first man: it is Manu or Manus, whose name, cognate perhaps with the Gothic manna, and the root man, 'think', appears as a definite forefather of men nearly forty times in the Rigveda. He is essentially the first of sacrificers, and the estab- lisher of sacrifice, though he appears with other old sacrificers also, Añgiras, Bhṛgu, Atharvan, Dadhyañc, Atri, and Kaṇva. The gods, Mātariśvan, or Kāvya Uśană, are said to have given Agni to Manu. Again it is the three lakes of the Soma of Manus that Indra drinks to strengthen himself for the fight with Vṛtra. A bird brings Soma to Manu. In the Brahmaņas he con- 
+In the Rigveda there can be no doubt as to who is the real first man: it is Manu or Manus, whose name, cognate perhaps with the Gothic manna, and the root man, 'think', appears as a definite forefather of men nearly forty times in the Rigveda. He is essentially the first of sacrificers, and the estab- lisher of sacrifice, though he appears with other old sacrificers also, Añgiras, Bhṛgu, Atharvan, Dadhyañc, Atri, and Kaṇva. The gods, Mātariśvan, or Kāvya Uśanā, are said to have given Agni to Manu. Again it is the three lakes of the Soma of Manus that Indra drinks to strengthen himself for the fight with Vṛtra. A bird brings Soma to Manu. In the Brahmaṇas he con- 
 
 1 Gruppe, Griech. Culte, i. 298 ff.; Olden- 
 
@@ -33,7 +33,7 @@ The First of Men
 
 stantly appears as connected with the sacrifice, and the dictum is laid down that, whatever Manu said, was medicine, a fact which accounts in part for the tradition which makes him the great legal authority of India. 
 
-Of the legends of Manu 1 the most important is that of the deluge, of which he is warned by a fish, and which he escapes through the agency of the fish, which carries his ship about until it rests on a mountain peak, in post-Vedic mythology called Naubandhana.2 The fish in the epic becomes Brahman, and in the Purāṇas the full legend of the Avatar of Viṣņu is recounted. Thereafter Manu with his daughter Iḍā, the personification of the sacrificial food, pro- duces the human race. The legend may be alluded to in a very late book of the Atharvaveda, but its late appearance, at a time when the Nakṣatras had pro- bably been borrowed from a Semitic source, renders the theory of its inde- pendent Indian and even Indo-European origin, defended by Lindner,4 rather dubious, though not impossible. 
+Of the legends of Manu 1 the most important is that of the deluge, of which he is warned by a fish, and which he escapes through the agency of the fish, which carries his ship about until it rests on a mountain peak, in post-Vedic mythology called Naubandhana.2 The fish in the epic becomes Brahman, and in the Purāṇas the full legend of the Avatar of Viṣṇu is recounted. Thereafter Manu with his daughter Iḍā, the personification of the sacrificial food, pro- duces the human race. The legend may be alluded to in a very late book of the Atharvaveda, but its late appearance, at a time when the Nakṣatras had pro- bably been borrowed from a Semitic source, renders the theory of its inde- pendent Indian and even Indo-European origin, defended by Lindner,4 rather dubious, though not impossible. 
 
 8 
 
@@ -43,7 +43,7 @@ Another story connects him with the aw of the division of property. Nabhanediṣ
 
 8 
 
-It seems that Manu was already in the Rigveda considered to be the son of Vivasvant, whose name he actually bears in one case. In the later texts he is quite regularly called son of Vivasvant." He is accordingly a brother of Yama, or a duplication of that personage, but Manu unlike Yama is con- cerned with the living, and Yama with the dead: hence in the Çatapatha Brāhmaṇa the difficulty is reconciled by making Manu the ruler of men, Yama of the dead. Yāska, relying on an obscure passage of the Rigveda, finds in him the son of Vivasvant, and the savarṇā who was substituted for Saraṇyu, when that lady left her husband,10 and in the Rigveda 11 we actually hear of Manu Samvaraņi, whose epithet may be either a mistake for Sāvarņi which would point to a very early date for the legend, or may have been mis- understood and have created the legend. 
+It seems that Manu was already in the Rigveda considered to be the son of Vivasvant, whose name he actually bears in one case. In the later texts he is quite regularly called son of Vivasvant." He is accordingly a brother of Yama, or a duplication of that personage, but Manu unlike Yama is con- cerned with the living, and Yama with the dead: hence in the Śatapatha Brāhmaṇa the difficulty is reconciled by making Manu the ruler of men, Yama of the dead. Yāska, relying on an obscure passage of the Rigveda, finds in him the son of Vivasvant, and the savarṇā who was substituted for Saraṇyu, when that lady left her husband,10 and in the Rigveda 11 we actually hear of Manu Samvaraṇi, whose epithet may be either a mistake for Sāvarṇi which would point to a very early date for the legend, or may have been mis- understood and have created the legend. 
 
 9 
 
@@ -53,17 +53,17 @@ The alternative connexion of the origin of man is from the union of the pair
 
 1 Rhys (Celtic Heathendom, pp. 377, 659 ff.) believes in Manu's identity with Taci- tus's Mannus, ancestor of the Germans, the Celtic Manann, and Greek Minos, and holds the theory of an Aryan deluge. 
 
-* ÇB. i. 8. 1. 1–10. 3 xix. 39. 8. 
+* ŚB. i. 8. 1. 1–10. 3 xix. 39. 8. 
 
 • Festgruss an Roth, pp. 213-16; Max 
 
-Müller, India, pp. 133-8; Hopkins, Rel, of India, p. 160; above, Part I, Chap. 2. For a rational explanation, see 
+Mūller, India, pp. 133-8; Hopkins, Rel, of India, p. 160; above, Part I, Chap. 2. For a rational explanation, see 
 
 A. C. Das, Rig-Vedic India, i. 221 f. 5 AB. v. 14. 
 
 • RV. viii. 52. 1. 
 
-* AV. viii. 10. 24; ÇB. xiii, 4. 3. 8. * xiii. 4. 3. 8-5. 
+* AV. viii. 10. 24; ŚB. xiii, 4. 3. 8. * xiii. 4. 3. 8-5. 
 
 • Nir. xii. 10. 
 

@@ -5,7 +5,7 @@ title = "09 The Four States of the Soul"
 
 The soul, despite its close connexion with the body, which we have traced in detail, is also enabled by its nature to approach closely the absolute. The spirit is most remote from the absolute in its normal waking activities: in that case the senses and the mind are at work, but when there is sleep the senses and the mind are merged in the breath. A further distinction is then made between the condition of the soul in the sleep of dreams, and in deep dreamless sleep, in which the soul enters into the purest light, and then as a consequence of its own nature emerges again from it. These three stages alone are found in the oldest Upanisads, and it is not till the latest Upanisads that a fourth is added in accordance with the constant tendency further to subdivide. 
 
-The philosophical importance of the doctrine 4 lies in the effect which the investigation of the stages of the soul must have had on the conception of the soul itself. The early identification of the soul with Prāņa as breath must have been suggested by the fact of the permanence of the breath despite the cessation in sleep of the activities of the mind; death overcomes the voice, the eye, the ear, but while these are sunk in sleep the breath perishes not.5 It is a further step, but one intelligible enough, to the conclusion that, though the body perishes in death, yet the breath remains, for the breath is invisible and there is, therefore, no ground to assume that the falling to pieces of the body affects its being. We attain thus the conception of the self as 
+The philosophical importance of the doctrine 4 lies in the effect which the investigation of the stages of the soul must have had on the conception of the soul itself. The early identification of the soul with Prāṇa as breath must have been suggested by the fact of the permanence of the breath despite the cessation in sleep of the activities of the mind; death overcomes the voice, the eye, the ear, but while these are sunk in sleep the breath perishes not.5 It is a further step, but one intelligible enough, to the conclusion that, though the body perishes in death, yet the breath remains, for the breath is invisible and there is, therefore, no ground to assume that the falling to pieces of the body affects its being. We attain thus the conception of the self as 
 
 1 iii. 5. 1; iv. 6. 22. 
 
@@ -27,7 +27,7 @@ The Philosophy of the Veda
 
 [Part V 
 
-something which does not perish, which, therefore, is without beginning and without end, and as the essential element in man we find all activities resolved ultimately into Prāņa on their cessation. On a higher level of thought we have the concept Prajña, intelligence, substituted for the breath, in recognition of the psychic side of man and of the fact that it is consciousness or intelligence which is aware of breath and of all man's life, and in it also all else is resolved. Advancing still further on the path of abstraction, we attain the concept of the Atman as that which knows, without possessing any empiric object, suggested inevitably by the condition attained in deep dreamless sleep. The identity of such an Atman with the Brahman is obviously an easy step, and this may well have been a factor in achieving the identification. Obviously also the tendency to attain the unity in question by means of artificial pro- cesses of mental suppression arises immediately from the desire to imitate artificially the condition achieved in deep sleep, but under natural conditions inevitably only for a limited period, and subject to the possibility of dreams. 
+something which does not perish, which, therefore, is without beginning and without end, and as the essential element in man we find all activities resolved ultimately into Prāṇa on their cessation. On a higher level of thought we have the concept Prajña, intelligence, substituted for the breath, in recognition of the psychic side of man and of the fact that it is consciousness or intelligence which is aware of breath and of all man's life, and in it also all else is resolved. Advancing still further on the path of abstraction, we attain the concept of the Atman as that which knows, without possessing any empiric object, suggested inevitably by the condition attained in deep dreamless sleep. The identity of such an Atman with the Brahman is obviously an easy step, and this may well have been a factor in achieving the identification. Obviously also the tendency to attain the unity in question by means of artificial pro- cesses of mental suppression arises immediately from the desire to imitate artificially the condition achieved in deep sleep, but under natural conditions inevitably only for a limited period, and subject to the possibility of dreams. 
 
 1 
 
@@ -55,7 +55,7 @@ not a negation of the creative power of
 
 6 
 
-the soul in dream-sleep, for which cf. Walleser, Der ältere Vedanta, p. 89; Śankara on Brahma Sutra, p. 780, as against Śankara and Dvivedaganga, followed by Max Müller, on BAU. iv. 8. 
+the soul in dream-sleep, for which cf. Walleser, Der āltere Vedanta, p. 89; Śankara on Brahma Sutra, p. 780, as against Śankara and Dvivedaganga, followed by Max Mūller, on BAU. iv. 8. 
 
 14. 
 
@@ -77,7 +77,7 @@ From the ordinary process of dreaming sleep a transition is made to deep sleep, 
 
 In this condition of sleep without dreams it is clear that the older Upanisads find the highest bliss, the complete union of the individual with the absolute," which is all that can be attained by man. In the later Upanisads there appears the effort to add a fourth condition, called by its numerical designation the Caturtha or more archaically Turiya. This state is that which is attained not in deep sleep, but in the waking condition by the effort of concentration of the mind which is Yoga. The two conditions of deep sleep and the fourth differ, not in point of their failing to recognize plurality, but in the fact that the Turiya knows no slumber: the Turiya is neither deep asleep nor dreaming: 
 
-1 BAU. iv. 8. 19-33; cf. ii. 1. 19, and, of death, ii. 4. 12 f. Cf. Maitr. vi. 7, 35; the pure self is nirmama, ii. 7; nirätman, ii. 4; vi. 20, 21; cf. ŚU. i. 6; Tejo- bindu 3. 
+1 BAU. iv. 8. 19-33; cf. ii. 1. 19, and, of death, ii. 4. 12 f. Cf. Maitr. vi. 7, 35; the pure self is nirmama, ii. 7; nirātman, ii. 4; vi. 20, 21; cf. ŚU. i. 6; Tejo- bindu 3. 
 
 vi. 8. 1; viii. 6. 8; 11. 1; 12. 3 (as in BAU. iv. 8. 15 as to movement) is different from viii. 8. 4, and is perhaps interpolated. At least it expresses a 
 
@@ -89,7 +89,7 @@ BAU. iv. 3. 21 f.; CU. viii. 4. 1 f.; 3. 4; 6. 1 f.; 9. 1 f.; it is free from li
 
 CU. vi. 8. 1; vii. 25. 1. 
 
-• See Gauḍapada, Māṇḍükya Kārikā, iii. 33 ff. The first three are now styled VaiŚvānara, Taijasa, and Prajña. 
+• See Gauḍapada, Māṇḍūkya Kārikā, iii. 33 ff. The first three are now styled VaiŚvānara, Taijasa, and Prajña. 
 
 570 
 

@@ -29,7 +29,7 @@ PAGE
 
 321 
 
-6. First-fruit sacrifice (agrayana işți) and others. 7. The animal sacrifice 
+6. First-fruit sacrifice (agrayana iṣṭi) and others. 7. The animal sacrifice 
 
 323 
 
@@ -223,7 +223,7 @@ PAGE
 
 26. The beginnings of Vedic Philosophy 
 
-27. The Theosophy of the Brahmaņas 
+27. The Theosophy of the Brahmaṇas 
 
 + 
 
@@ -233,7 +233,7 @@ PAGE
 
 § 3. The theory of the sacrifice 
 
-§ 4 The ethics of the Brahmaņas 
+§ 4 The ethics of the Brahmaṇas 
 
 § 5. Modes of thought and categories 
 
@@ -341,7 +341,7 @@ A. The age of the Avesta and the Rigveda
 
 614 
 
-B. The sacrifice of Purușa and the origin of the world 
+B. The sacrifice of Puruṣa and the origin of the world 
 
 619 
 

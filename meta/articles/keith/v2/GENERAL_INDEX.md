@@ -51,7 +51,7 @@ Agni, god, 2, 36, 59, 62, 66, 67, 69, 70, 81, 82, 83, 84, 86, 87, 88, 89, 93, 95
 
 310, 317, 319, 320, 321, 327, 331, 334, 353, 355, 359, 376, 402, 407, 419, 428, 435, 455, 458, 464, 465, 466, 486, 527, 576, 581, 620. 625. 
 
-Agni, VaiŚvänara, 484. 
+Agni, VaiŚvānara, 484. 
 
 Agnidh, priest, 252, 294, 296. 
 
@@ -147,7 +147,7 @@ Ambrosia (amṛta), 167, 168, 170, 171, 172,
 
 623, 624. 
 
-Ameša Spenta, Iranian deitics, 33, 34, 217. Amma, Dravidian goddess, 199, n. 9, 200. Ammianus Marcellinus, cited, 615. Amphidromia, 367, n. 6. Amulets, 888. 
+Ameśa Spenta, Iranian deitics, 33, 34, 217. Amma, Dravidian goddess, 199, n. 9, 200. Ammianus Marcellinus, cited, 615. Amphidromia, 367, n. 6. Amulets, 888. 
 
 Anagha, goddess, 186. 
 
@@ -197,7 +197,7 @@ Animals, in the Upanisads, 506; self in,
 
 Animatism, 42, n. 3, 74, 120, 185, 204, n. 1, 
 
-213, 236, 380, 388, 626, 631. Animișa, demon, 240. 
+213, 236, 380, 388, 626, 631. Animiṣa, demon, 240. 
 
 Animism, 42, 43, 71-5, 204, n. 1, 236, 240, 
 
@@ -217,7 +217,7 @@ Antigone, alleged derivation of motif from
 
 India, 601. 
 
-Ants, 194, 382, 387, 397; occasional worship of, 63; slay Visņu, 112; water and, 142. 
+Ants, 194, 382, 387, 397; occasional worship of, 63; slay Visṇu, 112; water and, 142. 
 
 Anu, Semitic deity, 222, n. 8. 
 
@@ -241,7 +241,7 @@ Apam Napāt, deity, 31, 122, 185, 186, 174,
 
 Apam Napāt, in Avesta, 135. 
 
-Apaoša (Apavurta), Avestan demon, 127. Aparajita palace, 407, n. 7, 584. Apastamba Dharma Sutra, 29, 416. Apastamba Gṛhya Sūtra, 28. Apastamba Śrauta Sūtra, 28, 298. Ape form of Rakṣases, 237. 
+Apaośa (Apavurta), Avestan demon, 127. Aparajita palace, 407, n. 7, 584. Apastamba Dharma Sutra, 29, 416. Apastamba Gṛhya Sūtra, 28. Apastamba Śrauta Sūtra, 28, 298. Ape form of Rakṣases, 237. 
 
 Apollo (as Hellenic, Bethe, Festschrift Jacob Wackernagel, pp. 14-21), 155, n. 2, 160, n. 1, 197. 
 
@@ -283,13 +283,13 @@ Archery, in ritual, 258, 351, 889.
 
 Arcion, legend of, 198. 
 
-Arişṭanemi, and Tarkṣya, 190. Arişţanemi, Jain saint, 619. 
+Ariṣṭanemi, and Tarkṣya, 190. Ariṣţanemi, Jain saint, 619. 
 
 Aristotle, Greek philosopher (884-822 B.C.), 486, n. 3, 507, 528, n. 1, 588, 563, 603, 611, 684, 685, 636. 
 
 Arjiklya river, 7, 8. 
 
-Arjuna, mystic name of Indra (ŚB. v. 4.8.7: not connected with Arjuna of epic qua hero, but possibly with Arjuna in Pāņini, iv. 8. 98), 456, n. 8. Arka, planet, 200. 
+Arjuna, mystic name of Indra (ŚB. v. 4.8.7: not connected with Arjuna of epic qua hero, but possibly with Arjuna in Pāṇini, iv. 8. 98), 456, n. 8. Arka, planet, 200. 
 
 21 
 
@@ -303,7 +303,7 @@ Arrow, deified, 188.
 
 Arrows of Kama (cf. Konow, Festschrift 
 
-Jacob Wackernagel, p. 5), 210. Arsakes, Iranian name, 7. Arşanukramaņi, 19. 
+Jacob Wackernagel, p. 5), 210. Arsakes, Iranian name, 7. Arṣanukramaṇi, 19. 
 
 Artabhāga, sage, 573, 579. Artaxerxes I, 614. Artaxerxes II, 602, 614. 
 
@@ -315,13 +315,13 @@ Aru, an Asura, 238.
 
 Aruna, post-Vedic charioteer of the sun, 191, 
 
-n. 4, 202; cf. Kanisian arunas, 617. Aruna AupaveŚi, teacher, 473. Aruņaketu, mythical sage, 443. Aruņaketuka fire, 482. 
+n. 4, 202; cf. Kanisian arunas, 617. Aruna AupaveŚi, teacher, 473. Aruṇaketu, mythical sage, 443. Aruṇaketuka fire, 482. 
 
 Arundhati, plant, used to heal a bone, 
 
 894. 
 
-Arundhati, star, 201, 375, 416. Aruneya Upanisad, 589, n. 4. Aruņi, sage, 493. 
+Arundhati, star, 201, 375, 416. Aruneya Upanisad, 589, n. 4. Aruṇi, sage, 493. 
 
 Aruñmaghas or Arurmaghas, slain by Indra, 
 
@@ -359,23 +359,23 @@ AŚvini, sacrifice on full moon, 362,
 
 AŚvini, wife of the AŚvins, 115, and see 
 
-Süryä. 
+Sūryā. 
 
 AŚvins, twin deities, 275, 280, 284, 810, 328, 
 
 332, 353, 368, 365. 
 
-Aṣāḍhi SauŚromateya, sacrificer, 463. Aṣṭaka, son of ViŚvāmitra, 406, n. 4. AṣṭācatvärinŚa Stoma, 314. 
+Aṣāḍhi SauŚromateya, sacrificer, 463. Aṣṭaka, son of ViŚvāmitra, 406, n. 4. AṣṭācatvārinŚa Stoma, 314. 
 
-Ašera, Semitic (CAH. ii. 348), 67. 
+Aśera, Semitic (CAH. ii. 348), 67. 
 
-Aššur, not Asura (cf. H. Sköld and F. W. 
+Aśśur, not Asura (cf. H. Sköld and F. W. 
 
 642 
 
 General Index 
 
-Thomas, JRAS. 1924, pp. 265 ff.; on Aššur, cf. CAH. i. 231; ii. 848, 709, n. 1), 
+Thomas, JRAS. 1924, pp. 265 ff.; on Aśśur, cf. CAH. i. 231; ii. 848, 709, n. 1), 
 
 18. 
 
@@ -387,7 +387,7 @@ Asikni, river, 152.
 
 Asita Dhanva, King of Asuras, 284. Asnatare, Iranian counterpart of Potr, 294. Ass, in myth, 69, 114, 192; in ritual, 266, 
 
-267, 271, 279; offered to Rakṣases, 324. Assara Mazāš, 5, n. 8, 616. 
+267, 271, 279; offered to Rakṣases, 324. Assara Mazāś, 5, n. 8, 616. 
 
 Assimilation of offering to the character of 
 
@@ -411,7 +411,7 @@ Asuras, demons, 24, 26, 33, 35, 36, 78, 75, 88, 95, 96, 110, 111, 131, 142, 153,
 
 Atar, Iranian, 185, 161, 225. 
 
-Atarevakhša, Iranian parallel of the Agnidh, 
+Atarevakhśa, Iranian parallel of the Agnidh, 
 
 294. 
 
@@ -419,7 +419,7 @@ Aten (Aton) worship, alleged Indo-Iranian influence on (Cumont, Astronomy and Re
 
 166, 223, 224, 225, 228, 261, 443. Atharvañgiras, 225. 
 
-Atharvaveda, 1, 14, 16, 18, 19, 23, 24, 29, 52, 64, 68, 73, 76, 78, 82, 89, 91, 92, 97, 103, n. 1, 104, 109, 118, 124, 184, 187, 142, 143, 144, 147, 155, 158, 159, 161, 170, 174, 176, 180, 181, 182, 184, 188, 192, 193, 207, 208, 209, 218, 221, 223, 229, 231, 238, 245, 247, 292, 388, 375, 382, 393, 894, 399, 402, 405, 406, 414, 417, 428, 427, 444, 445, 446, 447, 448, 451, 454, 458, 485, 503, 510, n. 8, 531, 538, 553, 560, 575, 604, 621. Atharvaveda PariŚişța, 891, 632. Athene, Greek goddess (non Indo-European 
+Atharvaveda, 1, 14, 16, 18, 19, 23, 24, 29, 52, 64, 68, 73, 76, 78, 82, 89, 91, 92, 97, 103, n. 1, 104, 109, 118, 124, 184, 187, 142, 143, 144, 147, 155, 158, 159, 161, 170, 174, 176, 180, 181, 182, 184, 188, 192, 193, 207, 208, 209, 218, 221, 223, 229, 231, 238, 245, 247, 292, 388, 375, 382, 393, 894, 399, 402, 405, 406, 414, 417, 428, 427, 444, 445, 446, 447, 448, 451, 454, 458, 485, 503, 510, n. 8, 531, 538, 553, 560, 575, 604, 621. Atharvaveda PariŚiṣṭa, 891, 632. Athene, Greek goddess (non Indo-European 
 
 name, CAH. ii, 616), 425. Athravan, Iranian priest, 34, 161, 225. Athwya, Iranian sacrifice, 34, 118, 184, 171. 
 
@@ -449,11 +449,11 @@ gods,
 
 Aupamanyava, grammarian, his views on 
 
-Nişādas, 299. 
+Niṣādas, 299. 
 
 Aupanisada, school, 512. 
 
-Aupaniṣadika sections of ArthaŚästra and 
+Aupaniṣadika sections of ArthaŚāstra and 
 
 Kama Sutra, 401, n. 5. 
 
@@ -501,9 +501,9 @@ Bagaios, Phrygian god, 37, 116, 618. Bagha, Iranian, 100.
 
 Bahlkas, people, 92, 147. 
 
-Bahişpavamāna Stotra, 329. 
+Bahiṣpavamāna Stotra, 329. 
 
-Bahram Yašt, 63. 
+Bahram Yaśt, 63. 
 
 Bahva, on nature of the Brahman, 522. 
 
@@ -533,7 +533,7 @@ Bhaga, god, 84, 86, 99, 100, 105, 106, 120,
 
 191, 206. 
 
-Bhagavadgita, 538, 550, 577, and see Gită. Bhang, Soma supposed to be, 172, n. 1. Bharadvaja, Bharadvājas, 1, 91, 92, 127, 
+Bhagavadgita, 538, 550, 577, and see Gitā. Bhang, Soma supposed to be, 172, n. 1. Bharadvaja, Bharadvājas, 1, 91, 92, 127, 
 
 n. 2, 152, 176, 227, 291, 459. Bharadvaja Gṛhya Sūtra, 28. Bharatan war, 618, 619, n. 
 
@@ -593,7 +593,7 @@ Bithynians, religion of, 39.
 
 Black birds, 392. 
 
-Black dog, offered to Rakşases, 324. 
+Black dog, offered to Rakṣases, 324. 
 
 Black garments, in rain spell, 309, 824, 
 
@@ -643,15 +643,15 @@ Bowstrings, used to forecast outcome of
 
 money, 891. 
 
-Bṛbu Takṣan, enemy of the Paņis, 7. Bṛhadaranyaka Upanisad, 19, 21, 448, 483, 484, 485, 493, 498, 500, 509, 510, 512, 514, 515, 520, 521, 527, 536, 550, 553, 554, 555, 558, 500, 507, 569, 571, 573, 575, 576, 613. Bṛhaddevată, 502. 
+Bṛbu Takṣan, enemy of the Paṇis, 7. Bṛhadaranyaka Upanisad, 19, 21, 448, 483, 484, 485, 493, 498, 500, 509, 510, 512, 514, 515, 520, 521, 527, 536, 550, 553, 554, 555, 558, 500, 507, 569, 571, 573, 575, 576, 613. Bṛhaddevatā, 502. 
 
-Brhaddiva Atharvan, priest, 225. Bṛhaddivă, goddess, 200. 
+Brhaddiva Atharvan, priest, 225. Bṛhaddivā, goddess, 200. 
 
 Bṛhaspati, god, 65, 79, 80, 93, 96, 105, 122, 
 
 123, 124, 126, 128, 133, 134, 138, 158, 162-4, 171, 177, 205, 208, 223, 202, 293, 315, 327, 339, 360, 370, 448, 449, 620, 623. Bṛhaspati, planet, 200. Bṛhaspatisava, offering, 338, 340. BṛhatkathaŚlokasamgraha, 632. Bṛhat Saman, 258, 335, 350, 351, 461. Brahmacarin, Brahman student, 200, 208, 209, 304, 309, 448; expiation of vow of chastity, 266, 267. 
 
-Brahmaloka, world of Brahman (or the Brahman), 209, 407, n. 7, 503, 520, n. 7, 526, n. 6, 528, 577, 588, 584, 588. Brahman (n.), holy power, absolute (Hopkins (Ethics of India, p. 85) takes this as original sense; F. Preisigke (Vom göttlichen Fluidum nach ägyptischer An- schauung, 1920) finds a parallel to Olden- berg's 'Zauberfluidum' theory in Egypt), 168, 171, 209, 399, 437, 443, 445-50, 469- 72, 489, 491, 494, 507-13, 516-22, 522-9, 588, 541, 549, 550, 551, 560, 568, 577, 580, 589, 599, 603, 610, n. 7, 613. Brahman (m.), god, 17, n. 3, 55, 57, 164, 173, 206, 207, 208, 209, 210, 211, 213, 214, 222, n. 8, 242, 360, 366, 407, n. 7, 482, 503, 526, 581, 578, 576. 
+Brahmaloka, world of Brahman (or the Brahman), 209, 407, n. 7, 503, 520, n. 7, 526, n. 6, 528, 577, 588, 584, 588. Brahman (n.), holy power, absolute (Hopkins (Ethics of India, p. 85) takes this as original sense; F. Preisigke (Vom göttlichen Fluidum nach āgyptischer An- schauung, 1920) finds a parallel to Olden- berg's 'Zauberfluidum' theory in Egypt), 168, 171, 209, 399, 437, 443, 445-50, 469- 72, 489, 491, 494, 507-13, 516-22, 522-9, 588, 541, 549, 550, 551, 560, 568, 577, 580, 589, 599, 603, 610, n. 7, 613. Brahman (m.), god, 17, n. 3, 55, 57, 164, 173, 206, 207, 208, 209, 210, 211, 213, 214, 222, n. 8, 242, 360, 366, 407, n. 7, 482, 503, 526, 581, 578, 576. 
 
 Brahman, a special priest, 252, 258, 294, 
 
@@ -689,19 +689,19 @@ Buddhism, doctrine of, 20, 21, 26, 29, 36, 56, 180, 378, n. 6, 395, 409, 410, 41
 
 Bull, 62, 68, 95, 140, 155, 168, 191, 254, 280, 353, 364, 365; of Mithra, 406, n. 9, 619. Bull-king, alleged offerings to, 195. Bull's hide, use in ritual, 386. 
 
-Bundahišn, 602. 
+Bundahiśn, 602. 
 
 Burial mounds, Vedic, 32, n. 1, 421, 422, 
 
 629, n. 1. 
 
-Burial of the dead, 58, 417-24, 626-9. Buriaš, Kassite god, 618, n. 2. 
+Burial of the dead, 58, 417-24, 626-9. Buriaś, Kassite god, 618, n. 2. 
 
 Burning of old articles, 389, 390, 628, n. 1. Burning, of self, as essence of consecration, 
 
 302; of the dead, 58, 417, 422, 626-9 ; of widow of the dead, 418, 419, 423. 
 
-Burying of hair and nails, 387. Būšyasta, Iranian demon, 620. Butter and Agni, 154, 254, 278, 859. 
+Burying of hair and nails, 387. Būśyasta, Iranian demon, 620. Butter and Agni, 154, 254, 278, 859. 
 
 Cacus, 38, 127, 235. 
 
@@ -729,7 +729,7 @@ Cathartic use of fire, 285, 286. Cattle, Rudra as lord of, 143, 145.
 
 Cattle bells, revered by Todas, 269, n. 7. CaturvinŚa Stoma, 319, 350, 351. CatuŚcatvārinŚa Stoma, 319, 350, 351. Causality, 483, 484, 487, 522, 562, 594. Celtic religion, 36, 37, 38, 39, 117, n. 3, 140, n. 2, 199, 229, n. 1, 283, n. 2, 422, n. 5, 571, n. 9, 606, n. 6, 623, 627, 628. Central organ of thought, 554, 550, 557. Centum speech in Asia Minor, &c., 617, 634, n. 2; and satem speakers, alleged distinc- tion of, 100, n. 1. Cereal offerings, 40, 278, 279. Chameleon, used in magic ritual, 389. Chance, as final principle, 550, 551. Chandogya Upanisad, 19, 170, 487, 493, 496, 498, 502, 510, 512, 514, 515, 519, 520, 521, 537, 540, 545, 561, 569, 575, 576, 577, 578, 591, 598, 635, 637. 
 
-Change of form, by Visņu, 109; see also 
+Change of form, by Visṇu, 109; see also 
 
 Transformation of gods. 
 
@@ -809,7 +809,7 @@ Cohabitation, as religious duty, 268. Colchians, exposure of dead on trees among
 
 417, n. 7. 
 
-Collective aggregate, not sense of samaşti, 
+Collective aggregate, not sense of samaṣti, 
 
 506, n. 
 
@@ -897,7 +897,7 @@ Creator gods, 206-10.
 
 Creeping of the priests, 329. 
 
-Cremation, see Burning of the dead. Cretan marriage of sun and moon, 377, n. 1. Criminal, veiled before execution, 281, n. 5. Crossways, 145, 239, 322, 414, 426, 428. Cülika Upanisad, 501. 
+Cremation, see Burning of the dead. Cretan marriage of sun and moon, 377, n. 1. Criminal, veiled before execution, 281, n. 5. Crossways, 145, 239, 322, 414, 426, 428. Cūlika Upanisad, 501. 
 
 Culture, connected with fire cult, 158. Culture hero, 59, n. 4, 60. 
 
@@ -915,7 +915,7 @@ Cyrus, of Persia, 615, n. 4.
 
 Dabhi, among Asuras, 288. Dabhiti, protégé of Indra, 180. 
 
-Dadhikra, Dadhikrävan, the sun-horse, 189, 
+Dadhikra, Dadhikrāvan, the sun-horse, 189, 
 
 190, 220, 225, 264. 
 
@@ -1001,7 +1001,7 @@ Demons, 72, 76, 427, 517, 518; and Maruts, 158; killed by Agni, 158; by Soma, 10
 
 Descent from animals or plants, 196. Desertion of Indra by the gods, 127. 
 
-Desire, 436, 442, 480, 523, 554, 556, 574, 582. Deştri, disposing' deity, 200. 
+Desire, 436, 442, 480, 523, 554, 556, 574, 582. Deṣtri, disposing' deity, 200. 
 
 • 
 
@@ -1013,7 +1013,7 @@ Destructive character of Rudra, 143.
 
 Determinism, 527, 586, 594, and see Will. Deussen, P., theory of meaning of Upani- 
 
-şads, 509-12, 592. 
+ṣads, 509-12, 592. 
 
 Devabhaga Śrautarsa or Śrautarsi, sacri- 
 
@@ -1027,7 +1027,7 @@ Deviations from the Karman doctrine,
 
 579, 580. 
 
-Dhammasa mgaņi, 563. 
+Dhammasa mgaṇi, 563. 
 
 Dhanapati, offering to, 360. 
 
@@ -1053,7 +1053,7 @@ Dialogue form in Upanisads, 505.
 
 Diarrhoea, means of curing, 886; see also 
 
-Apvă. 
+Apvā. 
 
 Dice, and Apsarases, 182. 
 
@@ -1083,7 +1083,7 @@ Disease, demons, 72, 147, 240, 881, 382. Disguise, adopted by gods, 125; see als
 
 Transformation of gods. Disinterested action, 583. Dislike of flesh, 604. 
 
-Disposal of the dead, 415-24. Distinction, not denoted by vyaşti, 506, 
+Disposal of the dead, 415-24. Distinction, not denoted by vyaṣti, 506, 
 
 n. 11. 
 
@@ -1129,7 +1129,7 @@ Dove, offered to Nirṛti, 824.
 
 General Index 
 
-Drbhika, possibly Iranian name, 7, 286. Drşadvati, river, 178; sacrifice on the, 872. Dragons, in German religion, 186, n. 11. Drähyāyaṇa Śrauta Sutra, 28. Dramatic ritual, 48, 110, 142. Draug, Norse malignant spirit, 38. Dravidians, influence on Vedic Indians, 9, 10, 11, 12, 18, 64, n., 149, 155, 200, 497, 629-34. 
+Drbhika, possibly Iranian name, 7, 286. Drṣadvati, river, 178; sacrifice on the, 872. Dragons, in German religion, 186, n. 11. Drāhyāyaṇa Śrauta Sutra, 28. Dramatic ritual, 48, 110, 142. Draug, Norse malignant spirit, 38. Dravidians, influence on Vedic Indians, 9, 10, 11, 12, 18, 64, n., 149, 155, 200, 497, 629-34. 
 
 Dreag, Old English malignant spirit, 38. Dreamless sleep, 517, 519, n. 8, 520, 567-70. Dream-like existence of the Fathers, 465, 
 
@@ -1143,7 +1143,7 @@ Dried river foam, a magic ingredient, 397. Drink-of-strength, 339, 840, and
 
 vajapeya. 
 
-Droņāsa, demon, 240. 
+Droṇāsa, demon, 240. 
 
 Dropsy, 282. 
 
@@ -1165,7 +1165,7 @@ Dual deities, 220, 221.
 
 Duality, 508. 
 
-Dulă, star, 468, n. 1. 
+Dulā, star, 468, n. 1. 
 
 Durga, goddess, 150, n. 1. 
 
@@ -1175,13 +1175,13 @@ Duties of man, 585, 586. Dvapara age, 82.
 
 Dwarf animal, 111, n. 1. 
 
-Dwarf incarnation, of Viṣņu, 110, 111. Dwelling of dead in the earth, 410, 411. Dyaus, god, 34, 87, 45, 58, 80, 95, 96, 104, 115, 118, 120, 125, 140, 141, 147, n. 3, 174, 191, 208, 216, 221, 232, 448, 614. Dyaus Pitr, 87, 86, 96. 
+Dwarf incarnation, of Viṣṇu, 110, 111. Dwelling of dead in the earth, 410, 411. Dyaus, god, 34, 87, 45, 58, 80, 95, 96, 104, 115, 118, 120, 125, 140, 141, 147, n. 3, 174, 191, 208, 216, 221, 232, 448, 614. Dyaus Pitr, 87, 86, 96. 
 
 Dyavābhūmi, 220. 
 
 Dyāvākṣamā, 220. 
 
-Dyäväpṛthivi, 220. 
+Dyāvāpṛthivi, 220. 
 
 Dying round the Brahman, 894. 
 
@@ -1253,15 +1253,15 @@ Elliot Smith, G., theories of, 20, 630. Elves, 178.
 
 Emancipation, 594, and see Transmigration. Embryo, offering of an, 152; saved on 
 
-burning of dead mother, 424, 627. Embryos, Vişņu as protector of, 109, 110. Empedokles, Greek philosopher (c. 495-485 
+burning of dead mother, 424, 627. Embryos, Viṣṇu as protector of, 109, 110. Empedokles, Greek philosopher (c. 495-485 
 
-B.C.), 544, 604, 605, n. 4, 011, 620, n. 1. Emperor of Japan, sanctity of, 276. Emuşa, boar, 111. 
+B.C.), 544, 604, 605, n. 4, 011, 620, n. 1. Emperor of Japan, sanctity of, 276. Emuṣa, boar, 111. 
 
 Enclosing sticks (paridhi), 241, 359, 388. Enemies of man, 230-42. 
 
 Enemies of the gods, 231-6. 
 
-Enemy, spells to defeat, 888, 389. Energy deified, see Śamă. 
+Enemy, spells to defeat, 888, 389. Energy deified, see Śamā. 
 
 Eniautos Daimon, theory of, 49, 50. Enlil, Semitic deity, 222, n. 8. 
 
@@ -1283,7 +1283,7 @@ ideas, 4.
 
 Erinys, Greek spirit, 88, 104, n. 1, 198. Eros, in Boeotia, 210, n. 5. 
 
-Establishment of the fires (agnyädhäna), 
+Establishment of the fires (agnyādhāna), 
 
 816, 317. 
 
@@ -1341,7 +1341,7 @@ Fear in religion, 53, n. 2, 54, n. 2, 425. Feather, of eagle becomes tree or por
 
 169. 
 
-Fees (dakṣiņās), 317, 823, 826, 330, 885, 886, 
+Fees (dakṣiṇās), 317, 823, 826, 330, 885, 886, 
 
 337, 838, 843, 845, 398, 401. 
 
@@ -1423,13 +1423,13 @@ Form, 486, 487, 554, 556, and see rupa. Four ages, 82, n. 9.
 
 Four-eyed dog, 344, 346, 406. 
 
-Four-month sacrifices (caturmäsya), 155, 
+Four-month sacrifices (caturmāsya), 155, 
 
 160, 178, 298, 305, 321-3. Four states of the soul, 567-70. 
 
 Frank, E., views cited, 635. Frankish kings, long hair of, 343. 
 
-Fravartiš, Phaortes, 616, n. 1. Fravaši, in Iranian religion, 616. 
+Fravartiś, Phaortes, 616, n. 1. Fravaśi, in Iranian religion, 616. 
 
 Frazer, Sir J. G., theory of sacrifices, 262. Freedom, as opposed to Determination of 
 
@@ -1445,11 +1445,11 @@ Full moon, offerings to, 213.
 
 Funeral hymn, 256, 282, 418-20; see also 
 
-Disposal of the dead. Furrow, see Sită. 
+Disposal of the dead. Furrow, see Sitā. 
 
 Gambling, see Dicing. 
 
-Ganapati, epithet of Bṛhaspati, 162. Gaņas, troupes, 242. Gānas, of Samaveda, 16. Gandarewa, 34, 180. 
+Ganapati, epithet of Bṛhaspati, 162. Gaṇas, troupes, 242. Gānas, of Samaveda, 16. Gandarewa, 34, 180. 
 
 Gandhabba, in Buddhist belief, 180. Gandhara, 885, 496. 
 
@@ -1489,7 +1489,7 @@ Celtic religion.
 
 Gaumāta, usurper of Persian throne, 015. Gauri, goddess, 17, n. 3. 
 
-Gauşukti, teacher, 22. 
+Gauṣukti, teacher, 22. 
 
 Gautama, Gotama, 1, 132, 221, n. 1. 
 
@@ -1499,13 +1499,13 @@ Gayatra Saman, 852.
 
 Gazelle form of Usas, 208. 
 
-General character of the Brahmaņa philo- 
+General character of the Brahmaṇa philo- 
 
 sophy, 440-2. 
 
 General conceptions, 484. 
 
-Generality, not denoted by samaşti, 506, 
+Generality, not denoted by samaṣti, 506, 
 
 n. 11. 
 
@@ -1523,7 +1523,7 @@ n. 3, 121, n. 1, 186, n. 11, 172, n. 2, 178, 193, 258, n. 2, 283, n. 2, 286, n. 
 
 Geryoneus, Greek legend of, 38, 127, 285. Ghee, as food of Agni, 154. 
 
-Ghosiņi, guardian of cattle at pasture, 214. Ghosts, 418, 414, 427. 
+Ghosiṇi, guardian of cattle at pasture, 214. Ghosts, 418, 414, 427. 
 
 Ghouls of the burial places, 287. Giant, 81; Gandharva as a, 181. Gift theory of sucrifice, 48, 256-60.General Index 
 
@@ -1581,7 +1581,7 @@ Upanisads, 509, 592. Grace, divine, 579. Grahas, planets as, 201.
 
 Grass, magic rite with, as war spell, 386; of sacrifice, how used, 359, and see barhis. Gråvagrābha, priest, 252, 253. 
 
-Grävastut, priest, 208, 329. 
+Grāvastut, priest, 208, 329. 
 
 GrdhraŚirṣṇi, demoness, 241. Great Bear, 201, 416. 
 
@@ -1617,9 +1617,9 @@ Guests, offerings to, 363.
 
 Guilt banished to Trita, 134; in killing, 
 
-181, 477; see also agas and enas. Gunaratna Sūri, 505. Guñgü, goddess, 109. Guru, see Teacher. 
+181, 477; see also agas and enas. Gunaratna Sūri, 505. Guñgū, goddess, 109. Guru, see Teacher. 
 
-Hades, in Homer (for a Celtic parallel see H. Meyer, SBA. 1919, pp. 567 ff.), 418. Hagia Triada sarkophagos (Dussaud, Civili- sations préhelléniques, pp. 404 ff.), 415, n. 4. Hähähühü, Gandharvas, 214. Haimavata, spirit, 242. 
+Hades, in Homer (for a Celtic parallel see H. Meyer, SBA. 1919, pp. 567 ff.), 418. Hagia Triada sarkophagos (Dussaud, Civili- sations préhelléniques, pp. 404 ff.), 415, n. 4. Hāhāhūhū, Gandharvas, 214. Haimavata, spirit, 242. 
 
 Hair, 353; taboos regarding the, 305-6. Hair cutting, 285, 842, 843, 872, 378, 383. Hair growing, spells for, 369, n. 2. Hair offerings, 268, 324, 428, 430. Hairs of bull, used to feed child, 353, n. 2, 
 
@@ -1721,7 +1721,7 @@ Home of the gods in heaven, 87, 021-3.
 
 Home of the Rigveda, 7, 11, 12; the Brāh- 
 
-maņas, 22, 23; the Upanisads, 496. Homeric question, 619, n. 
+maṇas, 22, 23; the Upanisads, 496. Homeric question, 619, n. 
 
 Homeric religion, 19, 51, 52, 58, 85, 212, 
 
@@ -1755,9 +1755,9 @@ Hot season, Rudra, as deity of the, 146. Hotṛ, priest, 16, 34, 119, n. 1, 157,
 
 House, ceremonies regarding, 863, 864; 
 
-deities of, 188, and see Vastospati. Householder, as stage of life, 587, 588. Hubert and Mauss, theory of sacrifice, 275-8. Human sacrifice (puruşamedha), 40, 262–4, 
+deities of, 188, and see Vastospati. Householder, as stage of life, 587, 588. Hubert and Mauss, theory of sacrifice, 275-8. Human sacrifice (puruṣamedha), 40, 262–4, 
 
-282, 288, 804, 347, 348, 354, 619, 621. Hundred-oared ship, of the AŚvins, 115. Hungary, ceremony of royal coronation, 342. Hunger (aŚanãyā), 470, 475, n. 3, 480, 557. Hură, Avestan drink, similar to Sura, 284. Huyghens, Christian, Dutch scientist (A.D. 
+282, 288, 804, 347, 348, 354, 619, 621. Hundred-oared ship, of the AŚvins, 115. Hungary, ceremony of royal coronation, 342. Hunger (aŚanãyā), 470, 475, n. 3, 480, 557. Hurā, Avestan drink, similar to Sura, 284. Huyghens, Christian, Dutch scientist (A.D. 
 
 1629-95), 685. 
 
@@ -1767,13 +1767,13 @@ Hyle, primitive matter in the Aristotelian
 
 system, 583. 
 
-Iḍa, father of Purüravas, 84, n. 3. Iḍa, goddess of the sacrificial offering, 62, 70, 84, n. 8, 199, 200, 202, 209, 229, 278, 820, 859. 
+Iḍa, father of Purūravas, 84, n. 3. Iḍa, goddess of the sacrificial offering, 62, 70, 84, n. 8, 199, 200, 202, 209, 229, 278, 820, 859. 
 
 Idealism, 509, 510, 511, 552, 558. Idealist school of Buddhism, 509, 512. Ideas, see dharma and manas. 
 
 General Index 
 
-Identifications, in the Brahmaņas, 484. Idols, use of, 80, 81, 54, 56, 69, n. 1, 70, 
+Identifications, in the Brahmaṇas, 484. Idols, use of, 80, 81, 54, 56, 69, n. 1, 70, 
 
 201, n. 2. 
 
@@ -1817,11 +1817,11 @@ Indrāni, 61, 125, 133, 151, 200, 218, 864,
 
 874, 434. 
 
-Indraparvata, 187. Indrāpüṣaṇā, 221. 
+Indraparvata, 187. Indrāpūṣaṇā, 221. 
 
 Indrāsoma, 220. 
 
-Indrāvāyü, 220, 221. Induction, logical, 485. 
+Indrāvāyū, 220, 221. Induction, logical, 485. 
 
 653 
 
@@ -1871,7 +1871,7 @@ Isu Trikāṇḍā, constellation, 146. Italian religion, 89; see also Roman rel
 
 Jabālā, mother of Satyakama, 496. Jābāla Upanisad, 501, 587, 589, n. 4. Jaimini Grhya Sūtra, 28. 
 
-Jaiminiya Brahmaņa, 17, 19, 22, 81 116, 122, 125, 136, 242, 838, 407, 410, 474, 476, 491, 636. 
+Jaiminiya Brahmaṇa, 17, 19, 22, 81 116, 122, 125, 136, 242, 838, 407, 410, 474, 476, 491, 636. 
 
 Jaiminiya Upanisad Brahmana, 19, 22, 218, 
 
@@ -1885,7 +1885,7 @@ Jainism, views of, 20, 56, 459, 508, n. 7,
 
 504, 514, 546, 577, 591, 681. Jamadagni, Apri hymn of, 165. Jambhaka, spirit, 242. 
 
-Jamšed, in Persian legend, 620. 
+Jamśed, in Persian legend, 620. 
 
 Janaka, King of Videha, 64, 459, 493, 495, 
 
@@ -1949,7 +1949,7 @@ Kalindas, people, 632.
 
 Kalinga country, 633. 
 
-Kalyāņi, spirit, 400, n. 5. 
+Kalyāṇi, spirit, 400, n. 5. 
 
 Kant, E., German philosopher (a.d. 1724– 1804), 480, 551, 554, 568, 564, 592, 685. KanthaŚruti Upanisad, 589, n. 4. Kanva, disease demon, 381, n. 7. 
 
@@ -1957,7 +1957,7 @@ Kanvas, family, 2, 227, 228, 880, 400, n. 12,
 
 426. 
 
-Kapila Rṣi, 526, 543, 544, n. 6. Kapiṣṭhala Samhita, 17. Karañja, enemy of Indra, 120. Karapans, in Avesta, 232. Karata, 17, n. 3. Käravapacava, place, 852. Karoti, river, 354. 
+Kapila Rṣi, 526, 543, 544, n. 6. Kapiṣṭhala Samhita, 17. Karañja, enemy of Indra, 120. Karapans, in Avesta, 232. Karata, 17, n. 3. Kāravapacava, place, 852. Karoti, river, 354. 
 
 KaŚi, place and people, 496. 
 
@@ -1967,7 +1967,7 @@ Akūpāra.
 
 KaŚyapa, a pricst, 198, 622; see also 
 
-UdalakäŚyapa. 
+UdalakāŚyapa. 
 
 Kasaka (KrŚana, KarŚana), 218. 
 
@@ -1999,13 +1999,13 @@ Kauţillya ArthaŚastra, 481, n. 12, 401, n. 5,
 
 505. 
 
-Kāma, desire, 24, 210, 352 (Agnias), 359, Kavaşa Ailūṣa, sage, 459. 
+Kāma, desire, 24, 210, 352 (Agnias), 359, Kavaṣa Ailūṣa, sage, 459. 
 
 874, 542, 555, n. 7. 
 
 Kamaduh, wish-cow, 191. 
 
-Kamadyü, wife of Purumitra, 116. Kamarañga, country, 683. 
+Kamadyū, wife of Purumitra, 116. Kamarañga, country, 683. 
 
 Kamarupa, country, 688. 
 
@@ -2027,7 +2027,7 @@ arva, 104, n. 1, 180.
 
 Kerberos, dog of Hades, 38, 192, 407. Keresani, Iranian hero, 34. Keresāspa, 180. 
 
-KeŚava, Vişņu as, 17, n. 8. 
+KeŚava, Viṣṇu as, 17, n. 8. 
 
 KeŚin Dalbhya, sagc, 482. Ketu, planet, 200, 528, n. 9. Khadira Grhya Sutra, 28. Khilas, of Rigveda, 17, n. 3. 
 
@@ -2041,7 +2041,7 @@ Killer, haunted by the ghost of murdered
 
 man, 477. 
 
-Kimidins, demons, 239. Kimvadanta, demon, 240. Kindness, see ahinsă. 
+Kimidins, demons, 239. Kimvadanta, demon, 240. Kindness, see ahinsā. 
 
 King (cf. v. Negelein, Weltanschauung, pp. 127 ff.), 292, 481; burial or burning of, 628; see also rājasūya. Kirāta, Kilāta, 233, 462. 
 
@@ -2079,17 +2079,17 @@ Kulitara, father of Cambara, 236.
 
 Kumāra, demon, 241. Kumbhin, demon, 240. Kunindas, people, 632. 
 
-Kurgan people, bury their dead, 628, 629. Kürkura, demon, 241. 
+Kurgan people, bury their dead, 628, 629. Kūrkura, demon, 241. 
 
-Kurukṣetra, sacrifices in, 21, 852, 496. Kuru-Pañcălas, joint people, 341, 456, 496. Kurus, people, 22, 71, 196, n. 7, 843; and 
+Kurukṣetra, sacrifices in, 21, 852, 496. Kuru-Pañcālas, joint people, 341, 456, 496. Kurus, people, 22, 71, 196, n. 7, 843; and 
 
 Pandavas, 20, 21. 
 
-KuŚikas, Indra as god of the, 127, n. 2, 182. Küṣmaṇḍarajaputra, Vinayaka, 242. 
+KuŚikas, Indra as god of the, 127, n. 2, 182. Kūṣmaṇḍarajaputra, Vinayaka, 242. 
 
 Kusta, opposed to Aditi, 288. 
 
-Küṭadanta, demon, 240, n. 6. 
+Kūṭadanta, demon, 240, n. 6. 
 
 655 
 
@@ -2133,7 +2133,7 @@ Lemuria, character of, in contrast with
 
 Parentalia, 51. 
 
-Letting loose of bull (vṛşotsarga), ceremony, 
+Letting loose of bull (vṛṣotsarga), ceremony, 
 
 365. 
 
@@ -2225,7 +2225,7 @@ Mahl, deity, 178.
 
 Mahidāsa, sage, 528, n. 1. Mainads, 606. 
 
-Maitrāvaruņa, priest, 258, 206, 298, 815, 324, 
+Maitrāvaruṇa, priest, 258, 206, 298, 815, 324, 
 
 826, 328, 338, 885, 884. 
 
@@ -2261,7 +2261,7 @@ Mana (cf. Nilsson, Archiv f. Religions- wissenschaft, xxii. 379 ff.; Preuss, xxi
 
 Manava Dharma Sutra, 30. Manava Grhya Sutra, 28, 242. Manava Śrauta Sūtra, 28. 
 
-Manda, language (on the name, cf. Friedrich, Streitberg-Festschrift, p. 306, n. 2), 617. Māṇḍükeyas, Vedic family, 196. Mandukya Kārikā, 531, 637, n. 8; see also 
+Manda, language (on the name, cf. Friedrich, Streitberg-Festschrift, p. 306, n. 2), 617. Māṇḍūkeyas, Vedic family, 196. Mandukya Kārikā, 531, 637, n. 8; see also 
 
 Gaudapada. 
 
@@ -2281,7 +2281,7 @@ Mantra Brahmana, 490, n. 3.
 
 Manu, 24, 72, 82, 111, 112, 113, 176, 198, 200, 620, 621, 622; as Grāmaṇī, ancestor of VaiŚyas, 317. 
 
-Manušak, Iranian hero, 620. 
+Manuśak, Iranian hero, 620. 
 
 Manyu, wrath deified, 124, 210. Mapongas, custom of the, 351, n. 3. Mara, in Buddhism, 502. 
 
@@ -2289,7 +2289,7 @@ MargaŚirṣa, festival in, 862.
 
 General Index 
 
-Marduk, Babylonian god, 81, n. 2. Mare form of Saraṇyü, 88, 198; of Vac, 
+Marduk, Babylonian god, 81, n. 2. Mare form of Saraṇyū, 88, 198; of Vac, 
 
 199, n. 7. 
 
@@ -2303,11 +2303,11 @@ Mars (as god of lustratio, Schwenn, Archiv f. Religionswissenschaft, xxii. 241 f
 
 Marsyas, as an ass, 267, n. 2. Martanda, the eighth Aditya, 99. 
 
-Martyava, spirit, 214. Martyumjaya, spirit, 214. Marudvṛdha, river, 151. Măruta Śastra, 315. 
+Martyava, spirit, 214. Martyumjaya, spirit, 214. Marudvṛdha, river, 151. Māruta Śastra, 315. 
 
-Maruts, gods, 3, 38, 67, 71, 81, 87, 91, 92, 124, 126, 127, 184, 189, 143, 150-3, 154, 156, 157, 158, 161, 168, 176, 192, 198, 210, 215, 222, 255, 265, 275, 280, 315, 321, 322, 331, 342, 360, 365, 396, 406, 455, 470. Maruttaš, Kassite god, 618, 
+Maruts, gods, 3, 38, 67, 71, 81, 87, 91, 92, 124, 126, 127, 184, 189, 143, 150-3, 154, 156, 157, 158, 161, 168, 176, 192, 198, 210, 215, 222, 255, 265, 275, 280, 315, 321, 322, 331, 342, 360, 365, 396, 406, 455, 470. Maruttaś, Kassite god, 618, 
 
-n. 2. Marutvatiya Śastra, of the Hotṛ, 330. MaŚaka Śrauta Sûtra, 28. Mašyānik, in Iranian legend, 620. Massagetae, sun worship among the, 104. Matali, Indra's character, 139. 
+n. 2. Marutvatiya Śastra, of the Hotṛ, 330. MaŚaka Śrauta Sûtra, 28. Maśyānik, in Iranian legend, 620. Massagetae, sun worship among the, 104. Matali, Indra's character, 139. 
 
 MatariŚvan, god, 88, 112, 138, 189, 156, 162, n. 1, 168, 164, 166, 206, 221, 222, 226, 228, 815, 407, 435, 
 
@@ -2335,9 +2335,9 @@ n. 4.
 
 Matsyas, people, 196, 496. 
 
-Matter, see prakṛti and bhūtāni; cf. mätrā. Maujavata, epithet of Soma, 169. Mazdaku, 615, 616. 
+Matter, see prakṛti and bhūtāni; cf. mātrā. Maujavata, epithet of Soma, 169. Mazdaku, 615, 616. 
 
-Mead, 172, 624, and sce madhu. Mcal, as a sacrifice, 270, 360, 361. Meat eating, in Vedic India, 191, 192. Medhätithi Kāṇva, Apri hymn of, 165. Medhyatithi, seer, 227. 
+Mead, 172, 624, and sce madhu. Mcal, as a sacrifice, 270, 360, 361. Meat eating, in Vedic India, 191, 192. Medhātithi Kāṇva, Apri hymn of, 165. Medhyatithi, seer, 227. 
 
 Mediation, sacrifice as mode of, between 
 
@@ -2391,13 +2391,13 @@ religion, 51-5.
 
 Minoan religion, see Aegean religion. Minoans, probably pre-Hellenic (cf., how- ever, Bury, CAH. ii. 475 f. who makes Minos an Achaean), 628, n. 5, 629. 
 
-Minos (on etym. as possibly Indo-European, cf. Güntert, Der arische Weltkönig, pp. 880 ff.), 229, n. 1. 
+Minos (on etym. as possibly Indo-European, cf. Gūntert, Der arische Weltkönig, pp. 880 ff.), 229, n. 1. 
 
 Miraculous birth of Indra, 125. Mirror, used in marriage ritual, 874. Miscarriage, magic rite to remove ill effects 
 
 of a, 385. 
 
-Misers, see Paņis. 
+Misers, see Paṇis. 
 
 Misery, see duḥkha. 
 
@@ -2415,7 +2415,7 @@ Mithra, Iranian god, 88, 84, 104, 107, 614,
 
 Mitra, god, 5, 33, 34, 58, 60, 67, 88, 86, n. 8, 87, 90, 98, 96-8, 104, 105, 127, 133, 141, 157, 161, 166, 167, 182, 189, 199, 200, 215, 217, 246, 280, 296, 327, 828, 320, 881, 853, 355, 887, 435, 617, 620. 
 
-Mitrāvaruņā, 220. 
+Mitrāvaruṇā, 220. 
 
 Mixed forms of demons, 225, 287. 
 
@@ -2531,7 +2531,7 @@ Nakṣatras, 4, 25, 79, 179, 189, 201, 208, 218,
 
 218, 428; offerings to, 368. Namas, homage, as above the gods, 261. Nambudiris, 631. 
 
-Name (cf. v. Negelein, Weltanschauung, p.83), 891, 394; see näman and nămarupa. Names of child, 868. 
+Name (cf. v. Negelein, Weltanschauung, p.83), 891, 394; see nāman and nāmarupa. Names of child, 868. 
 
 General Index 
 
@@ -2553,7 +2553,7 @@ NārāŚansis, verses, 400.
 
 Nārāyaṇa, god, 17, n. 8. 
 
-Nārāyaṇa, list of Upanisads, 501, n. 2. Närmedha Saman, 385. 
+Nārāyaṇa, list of Upanisads, 501, n. 2. Nārmedha Saman, 385. 
 
 Nasattiyana, Mitanni name of Nasatya, 617. Nasatya, name of Agvins, 5, 38, 87, n. 2, 114, 
 
@@ -2563,7 +2563,7 @@ Naturalism, as source of religion, 42, n. 3,
 
 43. 
 
-Nature, Prakṛti, in Sämkhya, 488, 510, 
+Nature, Prakṛti, in Sāmkhya, 488, 510, 
 
 532-5, 559, 562, 604. 
 
@@ -2605,7 +2605,7 @@ Netr, leader god, 206.
 
 New-born child, impure or innocent, 478. New moon and full moon offerings (darŚa- 
 
-pūrṇa-măseşti), 319-21, 361. 
+pūrṇa-māseṣti), 319-21, 361. 
 
 Newton, Isaac, scientist (A.D. 1642-1727), 
 
@@ -2637,7 +2637,7 @@ Niṣādas, aborigines, 11, n. 2, 146, n. 4, 208,
 
 299, 386, 634. 
 
-Nişkevalya Śastra, of the Hotṛ, 168, 880, 
+Niṣkevalya Śastra, of the Hotṛ, 168, 880, 
 
 331, 335. 
 
@@ -2747,7 +2747,7 @@ Pain (duḥkha), 556, 557. Paingi Upanisad, 501. Pairs, 87, 89.
 
 PaiŚāca marriage, 373. 
 
-PaiŚăci language, 78. 
+PaiŚāci language, 78. 
 
 Pakudha Kaccayana, doctrines of, 611. Pali, alleged origin of, 21, n. 2. 
 
@@ -2777,7 +2777,7 @@ Paramartha, version of commentary on
 
 Samkhya Karikā, 504. 
 
-Pāraskara Grhya Sütra, 28, 213. Paravṛj, cured by the AŚvins, 116. Pardon, for sin, 244-8. 
+Pāraskara Grhya Sūtra, 28, 213. Paravṛj, cured by the AŚvins, 116. Pardon, for sin, 244-8. 
 
 Parendi, Avestan deity, 65, 211. 
 
@@ -2797,7 +2797,7 @@ Pariplava Akhyāna, at horse sacrifice, 344. Parjanya, god, 86, 93, 95, 99, n. 2
 
 Parrot, jaundice transferred to a, 386. ParŚu, possibly Iranian name, 7. PārŚva, PārŚvanatha, alleged date of, as the 
 
-founder of Jaina philosophy, 20, 619. Pārsņi, goddess, 186, 366. 
+founder of Jaina philosophy, 20, 619. Pārsṇi, goddess, 186, 366. 
 
 Pārthava, alleged Iranian reference, 7. Parthian invasions of India, 64. 
 
@@ -2817,9 +2817,9 @@ PaŚupati, god, 111, 112, 862.Passions, 581; see also Desire.
 
 General Index 
 
-Paths, Püşan's connexion with, 106, 107. 
+Paths, Pūṣan's connexion with, 106, 107. 
 
-Pătrapāņi, demon, 240. Patricide, of Indra, 125. 
+Pātrapāṇi, demon, 240. Patricide, of Indra, 125. 
 
 Paurṇamast, offerings to, 201. Payasi, King, 551. 
 
@@ -2947,7 +2947,7 @@ worship of, 202.
 
 Political theory, 480, 481, 600. Polyandry, apparent in case of marriage of 
 
-Sürya, 119, n. 5. 
+Sūrya, 119, n. 5. 
 
 Polydaemonism, 204, n. 1. 
 
@@ -2957,7 +2957,7 @@ Popular and hieratic religion, 55-7.
 
 Porcupine quill, used by bride, 367, 874. Porphyry, Neo-Platonist (A.D.232-801), 612. Porridge, as cosmic principle, 275, 445. Portents, 392. 
 
-Poseidon, Greek god (on derivation Пore ▲äs; Kretschmer, Пori-Aa (Aαov); Hoffmann, see R. Loewe, KZ. li. 219 f.), 469, n. 4. 
+Poseidon, Greek god (on derivation Пore ▲ās; Kretschmer, Пori-Aa (Aαov); Hoffmann, see R. Loewe, KZ. li. 219 f.), 469, n. 4. 
 
 662 
 
@@ -2983,7 +2983,7 @@ PrŚni, goddess, 151, 198.
 
 Prṣātaka, offering and deity, 362. Prabhus, class of Rbhus, 176. 
 
-Prahrada Käyädhava, an Asura, 232. 1. Prajapati, god, 24, 65, 68, 84, n. 3, 86, 88, 96, n. 5, 101, 105, 111, 122, 125, 146, 192, 196, 213, 218, 233, 324, 345, 346, 847, 350, 359, 863, 876, 393, 396, 428, 437, 442-4, 449, 450, 454, 455, 456, 464, 465, 466, 407, 469, 470, 471, 473, 479, 480, n. 6, 481, 482, 486, 506, 510, 517, 524, 525, 539, 554, 560, 573, 581, 583, 610, 613, 635, n. 9. Prakritic languages, origin of, 52. Prakrits, 233, 238. 
+Prahrada Kāyādhava, an Asura, 232. 1. Prajapati, god, 24, 65, 68, 84, n. 3, 86, 88, 96, n. 5, 101, 105, 111, 122, 125, 146, 192, 196, 213, 218, 233, 324, 345, 346, 847, 350, 359, 863, 876, 393, 396, 428, 437, 442-4, 449, 450, 454, 455, 456, 464, 465, 466, 407, 469, 470, 471, 473, 479, 480, n. 6, 481, 482, 486, 506, 510, 517, 524, 525, 539, 554, 560, 573, 581, 583, 610, 613, 635, n. 9. Prakritic languages, origin of, 52. Prakrits, 233, 238. 
 
 PramṛŚant, demon, 240, n. 6. 
 
@@ -2999,7 +2999,7 @@ PratidarŚa Śvaikna, sacrificer, 320, n. 1. Pratihartṛ, priest, 297, 298, 314
 
 Pratiprasthātṛ, priest, 294, 295, 321, 326, 
 
-830, 336, 371. PrätiŚakhyas, 488. 
+830, 336, 371. PrātiŚakhyas, 488. 
 
 Prauga Śastra, of the Hotṛ, 255, 315, 329. Pravāhaṇa Jaivali, philosopher, 493. Prayer (for an implausible critique of RV. vii. 80, see v. Negelein, Weltanschauung, pp. 44-6), 65, 162-4, 310-12, 479, 480; and spell, 390. 
 
@@ -3063,7 +3063,7 @@ Pururavas, and UrvaŚi, 84, n. 3, 183, 200. Pūrus, people, 9; and VaiŚvānara,
 
 n. 5. 
 
-Pūrva Mimānsă, 260, 505, 545, 574. Pūşan, god, 63, 70, 81, 87, 92, 93, 105–8, 110, 
+Pūrva Mimānsā, 260, 505, 545, 574. Pūṣan, god, 63, 70, 81, 87, 92, 93, 105–8, 110, 
 
 115, 125, 126, 142, 150, 166, 169, 170, 188, 192, 205, 211, 210, 221, 264, 274, 280, 328, 860, 364, 365, 374, 376, 400. Pusyamitra, King, 495. Put, hell, 580. 
 
@@ -3093,7 +3093,7 @@ RjiŚvan, son of Vidathin, protégé of Indra,
 
 RjraŚva, saved by the AŚvins, 116. Rkṣa, father of Samvarana, 196. Rtu, seasons, 93, 178. 
 
-Race at wedding of Soma and Süryā, 114, 
+Race at wedding of Soma and Sūryā, 114, 
 
 139. 
 
@@ -3101,7 +3101,7 @@ Races, mingling of, as religious factor, 51-5. Racing, in ritual, 339, 340.
 
 Rahasyu Devamalimluc, slayer of the Vai- 
 
-khănasas, 129, n. 4, 458. 
+khānasas, 129, n. 4, 458. 
 
 Rahu, demon of eclipse, 235, 623. Raikva, sage, 496, n. 5, 505. 
 
@@ -3129,7 +3129,7 @@ Rāmāyaṇa, 30.
 
 Ramman, Semitic deity, 222, n. 8. 
 
-Răstrabhṛt, Apsaras, 184. 
+Rāstrabhṛt, Apsaras, 184. 
 
 Rathakaras, caste, 208, 299, 316, 817. Rathakṛt, 178. 
 
@@ -3227,7 +3227,7 @@ Rubbing, in ritual, 271, 272, 848, 367. Rudhikra, demon or enemy, 286. Rudra, go
 
 92, 105, 106, 110, 112, 137, 142-50, 153, 156, 159, 188, 191, 192, 194, 199, 200, 208, 214, 215, 221, 222, 229, 241, 242, 244, 257, 272, 278, 287, 322, 331, 388, 355, 359, 364, 383, 899, 410, n. 8, 497, 501, 510, 511, 525, 527, 539, 549. 
 
-Rudraņi, wife of Rudra, 218, 864. 
+Rudraṇi, wife of Rudra, 218, 864. 
 
 Rudras, 81, 86, 143, 150-8, 222, 223, 270, 
 
@@ -3243,7 +3243,7 @@ RuŚamas, people, 250; Kaurama, king of,
 
 Śabara, 38; and see Śabala. 
 
-Śabarasvamin, on Mimänsä DarŚana, 508, 
+Śabarasvamin, on Mimānsā DarŚana, 508, 
 
 n. 5. 
 
@@ -3261,7 +3261,7 @@ n. 5.
 
 20. 
 
-Śakalya, sage, 506, 517. Śakapüņi, author, 164. 
+Śakalya, sage, 506, 517. Śakapūṇi, author, 164. 
 
 Śakuntala, Apsaras, mother of Bharata, 184. Śakvara Saman, 258, 850. Śakvari, verses, 258, 309. 
 
@@ -3269,7 +3269,7 @@ n. 5.
 
 non-Aryan Scyths, 86. Śalakaṭañkaṭa, spirit, 242, 
 
-Śamă, goddess, 186, 212, 866. 
+Śamā, goddess, 186, 212, 866. 
 
 Śambara, son of Kulitara, demon, 129, 181, 
 
@@ -3287,11 +3287,11 @@ non-Aryan Scyths, 86. Śalakaṭañkaṭa, spirit, 242,
 
 Śañkhāyana Śrauta Sutra, 847, 854, 476. Śanstr, priest, 252. 
 
-Śarkara ŚinŚumăra, dolphin, 129, 201, n. 
+Śarkara ŚinŚumāra, dolphin, 129, 201, n. 
 
 11. 
 
-Śarva, god, 85, n. 4, 92, 144, 147, 399. Śarvāņi, wife of Carva, 364. ŚaŚin, as name of the moon, 122. Śatanika, King, 394. 
+Śarva, god, 85, n. 4, 92, 144, 147, 399. Śarvāṇi, wife of Carva, 364. ŚaŚin, as name of the moon, 122. Śatanika, King, 394. 
 
 Śatapatha Brāhmaṇa, 17, 19, 22, 23, 25, 29, 
 
@@ -3317,9 +3317,9 @@ non-Aryan Scyths, 86. Śalakaṭañkaṭa, spirit, 242,
 
 Samhita, 452. 
 
-Śraddhas, offerings to dead, 427-32. Cramaņas, ascetics, 587, n. 7. 
+Śraddhas, offerings to dead, 427-32. Cramaṇas, ascetics, 587, n. 7. 
 
-Śrauta ritual, 55, 98, 149, 177, 287-9, 289- 99, 818-57 (see Contents), 429-32, 607. Śrautarşi Devabhāga, sage, 482. Śrauta Sutras, 27, 28, 29. Śrāvana, snake offering in, 862. 
+Śrauta ritual, 55, 98, 149, 177, 287-9, 289- 99, 818-57 (see Contents), 429-32, 607. Śrautarṣi Devabhāga, sage, 482. Śrauta Sutras, 27, 28, 29. Śrāvana, snake offering in, 862. 
 
 T 
 
@@ -3327,7 +3327,7 @@ T
 
 General Index 
 
-Śüdras, fourth class in Vedic society, 28, 67, 218, 298, 299, 851, 871, 878, 481, 496, 684, n. 2. 
+Śūdras, fourth class in Vedic society, 28, 67, 218, 298, 299, 851, 871, 878, 481, 496, 684, n. 2. 
 
 Śukra, planet, 200. 
 
@@ -3339,7 +3339,7 @@ General Index
 
 Śuna, as deity, 188. 
 
-ŚunahŚepa, legend of, 268, 282, 283, 341, 
+Śunahśepa, legend of, 268, 282, 283, 341, 
 
 n. 2, 348, 460. 
 
@@ -3347,7 +3347,7 @@ n. 2, 348, 460.
 
 Śunamkuri, deity, 186, 866. Śunasirau, offering to, 828. Śunasiriya, Indra as, 323. 
 
-Śuşna, demon, 130, 131, 227, 228, 231. Śutudri, as deity, 172. Cveta, genius, 362. Cvetaketu, teacher, 488. 
+Śuṣna, demon, 130, 131, 227, 228, 231. Śutudri, as deity, 172. Cveta, genius, 362. Cvetaketu, teacher, 488. 
 
 ŚvetāŚvatara Upanisad, 499, 500, 510, 511, 512, 514, 516, 524, 526, 528, 529, 531, 540, 545, 549, 550, 552, 560, 579, 586, 589, 590, 591. 
 
@@ -3357,7 +3357,7 @@ n. 2, 348, 460.
 
 Śyaparna Sayakayana, last offerer of human 
 
-sacrifice, 282. Cyena, spirit, 242. ŞaḍdarŚanasamuccaya, 505. ŞaḍvinŚa Brāhmaṇa, 18. Şasthi, offering to, 866, n. 1. Şaşţitantra, 505, 544, n. 5. Şaştitantroddhāra-rūpa, 505. Sacramental sacrifice, 208-78, 323, 826. Sacred marriage, 117, n. 3. Sacred places, worship of, 631. Sacred texts, not created by men, 482. Sacrifice, 40, 47, 48; as a gift, 257-60; as a spell, 260-4, 338, 356; attacked by Rakṣases, 238; communion and sacra- ment in the, 208-78; fire and, 285-9; materials of the, 278-85; of a god, 276, 284, 882, n. 1, 619; performers of the, 289-99; removal of sin by, 264-8; theory of, in the Brahmanas, 454-67, 480; used in allegorical sense in doctrine of transmigration, 575; view of, in Upanisads, 495, 514, 576, 577, 578; Vişņu identified with, 111; see also Magic. Sacrifice of Puruşa and the origin of the 
+sacrifice, 282. Cyena, spirit, 242. ṢaḍdarŚanasamuccaya, 505. ṢaḍvinŚa Brāhmaṇa, 18. Ṣasthi, offering to, 866, n. 1. Ṣaṣţitantra, 505, 544, n. 5. Ṣaṣtitantroddhāra-rūpa, 505. Sacramental sacrifice, 208-78, 323, 826. Sacred marriage, 117, n. 3. Sacred places, worship of, 631. Sacred texts, not created by men, 482. Sacrifice, 40, 47, 48; as a gift, 257-60; as a spell, 260-4, 338, 356; attacked by Rakṣases, 238; communion and sacra- ment in the, 208-78; fire and, 285-9; materials of the, 278-85; of a god, 276, 284, 882, n. 1, 619; performers of the, 289-99; removal of sin by, 264-8; theory of, in the Brahmanas, 454-67, 480; used in allegorical sense in doctrine of transmigration, 575; view of, in Upanisads, 495, 514, 576, 577, 578; Viṣṇu identified with, 111; see also Magic. Sacrifice of Puruṣa and the origin of the 
 
 world, 619-21. 
 
@@ -3391,7 +3391,7 @@ Salvation (mokṣa), way of, 581-4, 585-7. Salve from Trikakubh, 187, 188. Samag
 
 Samans, 16, 253, 314, 385, 372, 384, 519. Samanyas, priests, 253. 
 
-Šamaš, Babylonian god, 222, n. 8. 
+Śamaś, Babylonian god, 222, n. 8. 
 
 Samaveda, 1, 16, 17, 19, 52, 58, 402, 415, 488, 
 
@@ -3423,7 +3423,7 @@ Sarama, divine being, 62, 128, 142, 241. Sarameya, dogs of Yama, 128, n. 2, 192.
 
 General Index 
 
-Saranyü, daughter of Tvastr, 38, 62, 104, n. 1, 112, 115, 128, n. 2, 174, 198, 205, 229. Sarapis, Egyptian god, 620. Sarasvant, male counterpart of Sarasvati, 
+Saranyū, daughter of Tvastr, 38, 62, 104, n. 1, 112, 115, 128, n. 2, 174, 198, 205, 229. Sarapis, Egyptian god, 620. Sarasvant, male counterpart of Sarasvati, 
 
 178, 174, 321. 
 
@@ -3459,7 +3459,7 @@ Saudhanvanas, epithet of the Rbhus, 176. Saura, planet, 200, n. 10, 528, n. 8. S
 
 Savitṛ, god, 65, 80, 82, 92, 93, 96, 98, 105, 106, 107, 157, 176, 187, 203, 205, 206, 207, 215, 233, 265, 331, 370, 408, 590, 620. Savitri, goddess, 65, n. 4; offering to, 213; 
 
-see also Sită. 
+see also Sitā. 
 
 Savitri verse, 105, 869, 370. 
 
@@ -3485,7 +3485,7 @@ Seasons, offerings to, 201, and see Ṛtu. Secrecy, in the Upanisads, 489.
 
 Sectarian marks, use of, 28, n. 2, 370. Seed, and body, 566. 
 
-Seers (rşi), and the sacrifice, 458, 459. Self-restraint, 480, 586, 587; see also 
+Seers (rṣi), and the sacrifice, 458, 459. Self-restraint, 480, 586, 587; see also 
 
 Asceticism. 
 
@@ -3555,7 +3555,7 @@ Sisyphos, alleged Vedic parallel to legend of,
 
 116, n. 1. 
 
-Sita, deity, 64, 186, 212, 214, 365, 366. Sită Săvitri, 128. 
+Sita, deity, 64, 186, 212, 214, 365, 366. Sitā Sāvitri, 128. 
 
 Six-eyed, NaraŚansa as, 165. 
 
@@ -3631,7 +3631,7 @@ essence of father on death, 580; successor to name and being of grandfather, 686
 
 Sorcerers, power to sec, 392. 
 
-Soul, 522-70, and see ätman and purusa. Soul-birds, 415. 
+Soul, 522-70, and see ātman and purusa. Soul-birds, 415. 
 
 Souls of dead, as Rakṣases, 146, 147; places of the, 403-15; transmutation of the, 415, 416, 028, n. 1. Sound (Śabda), 554, 556. 
 
@@ -3683,13 +3683,13 @@ Spirits, of the dead and demons, 286, 237,
 
 288, 239. 
 
-Spirit-worship, as source of religion (cf. H. Naumann, Primitive Gemeinschafts- kultur, 1921; Weinreich, Archiv f. Re- ligionswissenschaft, xxii. 321 ff.), 42–5. Spiritual man, as psychopomp, 575. Spit ox, offering, see fülagava. Spring festival, in month Caitra, 361, 362. Sprinkling, 270; of sacrificer at Vājapeya, 
+Spirit-worship, as source of religion (cf. H. Naumann, Primitive Gemeinschafts- kultur, 1921; Weinreich, Archiv f. Re- ligionswissenschaft, xxii. 321 ff.), 42–5. Spiritual man, as psychopomp, 575. Spit ox, offering, see fūlagava. Spring festival, in month Caitra, 361, 362. Sprinkling, 270; of sacrificer at Vājapeya, 
 
 389. 
 
 Srbinda, possibly Iranian name, 7, 286. Srma, Asura, 282. 
 
-Srñjaya, possibly Iranian name, 7. Sraoša's palace, 622, n. 1. 
+Srñjaya, possibly Iranian name, 7. Sraośa's palace, 622, n. 1. 
 
 Staff, use of, in magic rites, 884. Stag form of Prajapati, 208. 
 
@@ -3755,7 +3755,7 @@ Sun, 88, 60, 67, 88, 92, 156, 168, 179, 181, 190, 198, 203, 206, 447, 448, 486, 
 
 Sun boat, 128. 
 
-Sun spells, 309, 888, 385, n. 1, 840, 346, 851. Sünṛtā, deity, 211. 
+Sun spells, 309, 888, 385, n. 1, 840, 346, 851. Sūnṛtā, deity, 211. 
 
 Suovetaurilia, in Roman sacrifice, 279, n. 5. Sūparakroḍin, spirit, 242. 
 
@@ -3763,17 +3763,17 @@ Superhuman man, as psychopomp, 576. Superior deity, belief in as source of relig
 
 45, 46; see also Monotheism. Suplan Sarñjaya, sacrificer, 820, n. 1. Surias, Kassite god, 618, n. 2. 
 
-Sürya, sun god, 89, 60, 65, 86, 88, 92, 95, 99, 104, 105, 109, 114, 120, 126, 127, 156, 189, 213, 243, 323, 324, 359, 362, 376, 428, 451. Sürya, daughter of the sun, dawn, 93, 107, 
+Sūrya, sun god, 89, 60, 65, 86, 88, 92, 95, 99, 104, 105, 109, 114, 120, 126, 127, 156, 189, 213, 243, 323, 324, 359, 362, 376, 428, 451. Sūrya, daughter of the sun, dawn, 93, 107, 
 
 115, 119, 120, 170. 
 
-Süryăcandramasă, sun and moon, 122. Sūryāmāsā, sun and moon, 122. 
+Sūryācandramasā, sun and moon, 122. Sūryāmāsā, sun and moon, 122. 
 
 SuŚravas, Purohita of Kutsa, 125, n. 7, 131, 
 
 259. 
 
-Süşan, invented on analogy of Pusan, 400. Suspension of offering on trees, 55, 56, n. 3, 149, n. 5, 155, 156, n. 3, 287, 822, 361, 365, 385. 
+Sūṣan, invented on analogy of Pusan, 400. Suspension of offering on trees, 55, 56, n. 3, 149, n. 5, 155, 156, n. 3, 287, 822, 361, 365, 385. 
 
 Sūtras, 222, 242, 252, 250, 266. Suyajña, author of the Śañkhāyana Sutra, 
 
@@ -3893,7 +3893,7 @@ Thought and being, in Parmenides, 686, 637. Thought in moment of death, as deter
 
 ing rebirth, 581. 
 
-Thousand spies of Varuņa (for number, cf. Jacoby, Archiv f. Religionswissenschaft, xxii. 262 ff.), 247, 381. 
+Thousand spies of Varuṇa (for number, cf. Jacoby, Archiv f. Religionswissenschaft, xxii. 262 ff.), 247, 381. 
 
 Thrace, as source of transmigration doctrine, 
 
@@ -3919,7 +3919,7 @@ Three mothers of Śiva, 149.
 
 Three nights, marriage not consummated for, 876; obscuration of the moon by the sun, 181. 
 
-Three Soma lakes, of Indra, 168. Three steps of Visņu, imitated by sacrificer, 
+Three Soma lakes, of Indra, 168. Three steps of Visṇu, imitated by sacrificer, 
 
 820. 
 
@@ -3929,7 +3929,7 @@ at, 186.
 
 Threshold, not trodden on by bride, 875; 
 
-offerings to Puşan on, 107. 
+offerings to Puṣan on, 107. 
 
 Thrita, in Iran, 84, 118, 184, 171. Throwing away in water, of garments, the, 
 
@@ -3937,7 +3937,7 @@ Thrita, in Iran, 84, 118, 184, 171. Throwing away in water, of garments, the,
 
 Throwing up in the air, 287, 322. 
 
-Throwing water over an object, 287, 889. Thrush, transfer of jaundice to a, 386. Thugs, patronized by Durgă, 150, n. 1. Thumb, peculiar use of, 111, n. 1. 
+Throwing water over an object, 287, 889. Thrush, transfer of jaundice to a, 386. Thugs, patronized by Durgā, 150, n. 1. Thumb, peculiar use of, 111, n. 1. 
 
 670 
 
@@ -3959,11 +3959,11 @@ Tilinga, country, 632.
 
 Tilphossian Erinys, legend of, 38. 
 
-Time, 443, 453, 466, n. 2, 483, 485, 522, 544, 549, 550, 551, 560, 561, 594, 618, n. 2; see also Kāla. Tir Yašt, 8. 
+Time, 443, 453, 466, n. 2, 483, 485, 522, 544, 549, 550, 551, 560, 561, 594, 618, n. 2; see also Kāla. Tir Yaśt, 8. 
 
 Tirindira, possibly Iranian name (=Tira and Indra, of whom Tira is an epithet, A. Götze, KZ. li. 152 f.), 7. 
 
-Tištrya (Tisya, Seirios; Götze, KZ. li. 
+Tiśtrya (Tisya, Seirios; Götze, KZ. li. 
 
 146-51, from tvis), 623. 
 
@@ -3997,7 +3997,7 @@ oath, 395.
 
 Towns, not Rigvedic, 8, 10. 
 
-Tṛkṣi Trăsadasyava, a prince, 190, 191. Tṛṣṭa, demon, 462. 
+Tṛkṣi Trāsadasyava, a prince, 190, 191. Tṛṣṭa, demon, 462. 
 
 Trta, form of Trita, 400. 
 
@@ -4019,9 +4019,9 @@ Transformation of gods (cf. v. Negelein,
 
 Weltanschauung, pp. 67 ff.), 241, 242. Transmigration, 54, 180, 498, 514, 535, 570- 
 
-81, 592, 594, 606, 609, 632, 686. Transubstantiation, 326, n. 2: Trasadasyu, King, 90, 158, 226. Trātṛ, protector god, 65, 206. Trayamāņā, deity, 400, n. 5. TrayastrinŚa Stoma, 319, 350, 351. Treaty, Mitra in connexion with (v. Negelein, Weltanschauung, pp. 170 ff.), 108. Tree marriage, post-Vedic, 184. Trees, 64, 74, 182, 184, 185, 218, 376, 
+81, 592, 594, 606, 609, 632, 686. Transubstantiation, 326, n. 2: Trasadasyu, King, 90, 158, 226. Trātṛ, protector god, 65, 206. Trayamāṇā, deity, 400, n. 5. TrayastrinŚa Stoma, 319, 350, 351. Treaty, Mitra in connexion with (v. Negelein, Weltanschauung, pp. 170 ff.), 108. Tree marriage, post-Vedic, 184. Trees, 64, 74, 182, 184, 185, 218, 376, 
 
-sap in, 523; transmigration of, 526. Tretă age, 82. 
+sap in, 523; transmigration of, 526. Tretā age, 82. 
 
 Triad of gods, 156, 222, n. 8. 
 
@@ -4055,11 +4055,11 @@ Truth (satya), 456, 471, 473, 479, 480. Tryambaka, epithet of Rudra, 143, 149, 8
 
 Tuisto, Teutonic deity, 620. 
 
-Tura Kävaṣeya, as an authority on the fire 
+Tura Kāvaṣeya, as an authority on the fire 
 
 cult, 354. 
 
-Tūrvayāņa, protégé of Indra, 129, 228. TurvaŚa, King, aided by Indra, 131. TurvaŚas, peoplc, 9, 634, n. 2. 
+Tūrvayāṇa, protégé of Indra, 129, 228. TurvaŚa, King, aided by Indra, 131. TurvaŚas, peoplc, 9, 634, n. 2. 
 
 Tvastr, god, 65, 87, 106, 112, 115, 122, 189, 162, 165, 176, 177, 178, 198, 204-6, 207, 219, 220, 235, 320, 834, 470. 
 
@@ -4083,7 +4083,7 @@ UdalākāŚyapa, offerings to, 214, 426. Udañkya, a spirit, 214.
 
 UdaraŚãṇḍilya, sage, 493. 
 
-Uddālaki, student of philosophy, 493, 517. Udgătṛ, priest, 16, n. 3, 165, n. 7, 253, 297, 
+Uddālaki, student of philosophy, 493, 517. Udgātṛ, priest, 16, n. 3, 165, n. 7, 253, 297, 
 
 314, 880, 385, 336, 338. 
 
@@ -4121,13 +4121,13 @@ Untruth (anṛta), 479, 480, 485. Upagātṛ, priest, 314.
 
 Upagu SauŚravasa, story of, 292, n. 2, 458. Upakosala, student, 588. 
 
-Upamă, wife of Ksatra, Indra appears to, 
+Upamā, wife of Ksatra, Indra appears to, 
 
 125, n. 13. 
 
 Upanisads, philosophy of the, Chap. 29; referred to, 17, 20, 21, 22, 26, 54, 403, 404, 405, 441, 442, 448, 447, 448, 470, 480; alleged Dravidian origin of name, 632. UpaŚruti, demon, 240. 
 
-Upatakşa, snake deity, 361. 
+Upatakṣa, snake deity, 361. 
 
 Upavaktṛ, priest, 253. 
 
@@ -4145,13 +4145,13 @@ Uruvanassil, Mitanni form of Varuna's
 
 name, 617. 
 
-Urvară, deity of the ploughed field, 64, 88, 
+Urvarā, deity of the ploughed field, 64, 88, 
 
 186, 137, 866. 
 
 Urvarapati, Indra as, 186. 
 
-UrvaŚi, bride of Purüravas, 182, 188, 200. 
+UrvaŚi, bride of Purūravas, 182, 188, 200. 
 
 UŚanas, 457, and see Kāvya. 
 
@@ -4243,9 +4243,9 @@ Varutri, demon, 462.
 
 Varútri, protector deities, 206, VaŚã, cow as cosmic power, 444. VaŚas, people, 496. 
 
-VăŚini, deity, 218. 
+VāŚini, deity, 218. 
 
-Vaşkali, on the nature of the Brahman, 522. Vasistha, Vasisthas, 1, 83, 91, 92, 131, 152, 181, 182, 227, 228, 251, 261, 291, 292, 293, 353, 854, 426, 482, 570. 
+Vaṣkali, on the nature of the Brahman, 522. Vasistha, Vasisthas, 1, 83, 91, 92, 131, 152, 181, 182, 227, 228, 251, 261, 291, 292, 293, 353, 854, 426, 482, 570. 
 
 Vasistha Dharma Sutra, 29. 
 
@@ -4295,7 +4295,7 @@ Vidhatṛ, an abstract deity, 205, 206, 860. VighneŚa, deity, 242.
 
 Vijara, stream, 407, n. 7. Vijñānavāda, Vijñānavādin, 
 
-school, 512, 558, 559. VikeŚa, demon, 240, n. 6. Vilistcnga, Dänavi, 125. 
+school, 512, 558, 559. VikeŚa, demon, 240, n. 6. Vilistcnga, Dānavi, 125. 
 
 Vimada, aided by the AŚvins, 116. Vimukha, spirit, 242. 
 
@@ -4317,7 +4317,7 @@ Virūpākṣa, deity, 213, 242.
 
 Virūpas, a subdivision of the Añgirases, 224. ViŚirṣni, demoness, 241. 
 
-ViŚpală, given an iron limb by the AŚvins, 
+ViŚpalā, given an iron limb by the AŚvins, 
 
 116. 
 
@@ -4333,7 +4333,7 @@ ViŚvamitra, ViŚvamitras, seer and family, 1, 91, 182, 184, n. 12, 227, 288, 29
 
 Viṣṇāpū, found by the AŚvins, 116. 
 
-Vişņu, god, 24, 30, 46, 57, 62, n. 4, 80, 88, 92, 93, 98, 104, 106, 108-12, 128, 126, 127, 181, 142, 143, 187, n. 4, 192, 197, 199, 204, 208, 218, 215, 221, 229, 250, 291, 292, 298, 820, 324, 342, 854, 360, 362, 426, 456, 458, 461, 473, 512, 525, 589, 570, 628. Vištāspa, Iranian King, 615. Vital airs, see Breaths. 
+Viṣṇu, god, 24, 30, 46, 57, 62, n. 4, 80, 88, 92, 93, 98, 104, 106, 108-12, 128, 126, 127, 181, 142, 143, 187, n. 4, 192, 197, 199, 204, 208, 218, 215, 221, 229, 250, 291, 292, 298, 820, 324, 342, 854, 360, 362, 426, 456, 458, 461, 473, 512, 525, 589, 570, 628. Viśtāspa, Iranian King, 615. Vital airs, see Breaths. 
 
 Vivanhvant, Iranian deity, 84, 113, 171. Vivasvant, perhaps the sun, 84, 82, 83, 99, 112, 118, 120, 188, 159, 171, 198, 203, 215, 229, 254, 621. 
 
@@ -4347,7 +4347,7 @@ Voluntary death by fire, as explanation of
 
 the Dikṣā, 302. 
 
-Vourukaša, ocean in Iranian view, 135, 623. Vows, 260, n. 5; of student, 308, 304, 371. Vṛṣākapi, obscure figure in myth, 66, 133, 
+Vourukaśa, ocean in Iranian view, 135, 623. Vows, 260, n. 5; of student, 308, 304, 371. Vṛṣākapi, obscure figure in myth, 66, 133, 
 
 192, 214. 
 
@@ -4493,7 +4493,7 @@ Yatis, slain by Indra, 138, 226. Yava, barley, as spirit, 214. Yavakri, slain by
 
 Yoga, philosophy, 56, 81, n. 3, 148, n. 1, 492, n. 4, 505, 510, 535, 539, 541, 543, 544, 549, 555, 569, 589-91; alleged Dravidian origin of name, 632. 
 
-Yoga practices, 401, 402. Yoke, passing under, 420; see also Hole. YüpakeŚin, spirit, 242. 
+Yoga practices, 401, 402. Yoke, passing under, 420; see also Hole. YūpakeŚin, spirit, 242. 
 
 Zamolxis, of Thrace, 606. 
 
@@ -4525,7 +4525,7 @@ time, 560.
 
 impartite 
 
-akhala, epithet of Rudra, 144, n. 4; akhală devată, 145, 327, n. 6. agnicayana, 352, 354-6, 364, 
+akhala, epithet of Rudra, 144, n. 4; akhalā devatā, 145, 327, n. 6. agnicayana, 352, 354-6, 364, 
 
 397, 440, n. 1, 465-7, and see Piling of the fire. agnihotra, fire-offering, 161, 
 
@@ -4541,7 +4541,7 @@ agnistoma, sacrifice, 155,
 
 anu, subtle, 547. at, move, 466. atigraha, objects of sense, 
 
-554, 556, 557. atigrahya, cup, 330. atirätra, sacrifice, 119, n. 1, 256, n. 3, 327, 335, 836, 348, 350, 351, 
+554, 556, 557. atigrahya, cup, 330. atirātra, sacrifice, 119, n. 1, 256, n. 3, 327, 335, 836, 348, 350, 351, 
 
 ἀτμός, ἀντμήν, 466. alyagnistoma, sacrifice, 335, 
 

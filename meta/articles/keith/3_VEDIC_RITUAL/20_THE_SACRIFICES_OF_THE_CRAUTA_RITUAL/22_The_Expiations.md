@@ -3,7 +3,7 @@ title = "22 The Expiations"
 
 +++
 
-In the intolerable complications of the Vedic sacrifice, coupled with the tendency to inaccuracy of the Indian mind of the Vedic period, may be found ample excuse for the number of prescriptions which are laid down for the purpose of expiating errors in the sacrifice. In some cases the expiations are elaborate in the extreme in most they are fairly simple. Of the former the most notorious case is that of the Kuṣmaṇḍa, which serves as a means of purification from grave sins, and which is dealt with in detail in the Taittiriya Aranyaka, whereas most of the other expiations are confined to the Sutras or to the later portions of the Brahmaņas. 
+In the intolerable complications of the Vedic sacrifice, coupled with the tendency to inaccuracy of the Indian mind of the Vedic period, may be found ample excuse for the number of prescriptions which are laid down for the purpose of expiating errors in the sacrifice. In some cases the expiations are elaborate in the extreme in most they are fairly simple. Of the former the most notorious case is that of the Kuṣmaṇḍa, which serves as a means of purification from grave sins, and which is dealt with in detail in the Taittiriya Aranyaka, whereas most of the other expiations are confined to the Sutras or to the later portions of the Brahmaṇas. 
 
 4 
 

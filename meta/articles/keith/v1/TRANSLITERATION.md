@@ -13,6 +13,6 @@ gutturals: k kh g gh doma's; t th d dh labials: p ph b bh m;
 
 n; 
 
-vowels: a ă iĭuūṛ ṛ ļe ai o au; palatals: c ch j jh ñ; 
+vowels: a ā iĭuūṛ ṛ ļe ai o au; palatals: c ch j jh ñ; 
 
 dentals: t th d dh n; semivowels: y rlv; further: ǹṁ þ. 

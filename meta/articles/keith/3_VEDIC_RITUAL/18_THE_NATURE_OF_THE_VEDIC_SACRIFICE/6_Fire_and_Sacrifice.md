@@ -15,11 +15,11 @@ A further important function of the fire as used at the ritual is cathartic in a
 
 * HGS. ii. 8; cf. BhGS. i. 26. 
 
-b ÇGS. i. 28. 
+b ŚGS. i. 28. 
 
-* ÇGS. ii. 7. 
+* ŚGS. ii. 7. 
 
-1ÇGS. ii. 1. 28; PB. xxi. 2. 9. 
+1ŚGS. ii. 1. 28; PB. xxi. 2. 9. 
 
 • Weber, Ind. Stud. xvii. 180. Brunnhofer 
 
@@ -27,9 +27,9 @@ D
 
 (Arische Urzeit, pp. 356-61) finds Greek fire and some sort of powder in the Rigveda! 
 
-ÇB. iv. 6. 6. 1, as the region where the sun at the winter solstice seems to be about to die; Henry, La magie dans l'Inde antique, p. 162, n. 1. 
+ŚB. iv. 6. 6. 1, as the region where the sun at the winter solstice seems to be about to die; Henry, La magie dans l'Inde antique, p. 162, n. 1. 
 
-10 KÇS. iv. 1.9; VS. ii. 30.286 
+10 KŚS. iv. 1.9; VS. ii. 30.286 
 
 Vedic Ritual 
 
@@ -45,7 +45,7 @@ These different uses of the fire suggest the process by which the practice of sa
 
 3 
 
-1ÇB. iii. 8, 5. 9 f. ; ApÇS. viii. 23.10; KÇS. 
+1ŚB. iii. 8, 5. 9 f. ; ApŚS. viii. 23.10; KŚS. 
 
 vi. 8. 8; Oldenberg, Rel. des Vedaa, p. 846, n. 2. 
 
@@ -71,7 +71,7 @@ The Vedic ritual, however, is long past the period when the use of fire originat
 
 * TS. vi. 8. 8.3. 
 
-* On the Bali type of offering see especially Arbman, Rudra, pp. 68 ff.; for Ger- many, see Helm, Altgerm. Rel. i. 244 f., 294. Throwing in the air is appropriate for celestial deities; thus the Mongolian milk offering to the sun is thus per- formed, Ratzel, Völkerkunde, i. 649. KÇS. i. 1. 16; ix. 3. 7; v. 10. 13, 18; 
+* On the Bali type of offering see especially Arbman, Rudra, pp. 68 ff.; for Ger- many, see Helm, Altgerm. Rel. i. 244 f., 294. Throwing in the air is appropriate for celestial deities; thus the Mongolian milk offering to the sun is thus per- formed, Ratzel, Völkerkunde, i. 649. KŚS. i. 1. 16; ix. 3. 7; v. 10. 13, 18; 
 
 HGS. ii, 9.5. For the practice of hang- ing gifts to deities of fertility on trees, cf. Cook, Zeus, i. 583, 592; Helm, Alt- germ. Rel. i. 244 f. Hubert and Mauss (Année sociol. ii. 75, 76) ascribe to offerings by precipitation the character of the expulsion of evil. 
 
@@ -91,7 +91,7 @@ the domestic fire was divided into three is suggested quite irresistibly by the 
 
 2 
 
-Of the three fires the Gärhapatya alone was continually maintained : the other fires, the Āhavaniya and the Dakṣiņa, were derived from it, and the leading forward of the fire is already referred to in the Rigveda, though it is not possible to prove that the process was identical with that applied in the ritual. The central position of the Gärhapatya is also to be seen in its relation to the man who goes on a journey: he takes formal leave of it first and then of the Ahavaniya, on his return he as solemnly greets first the Ahavaniya, and then the Garhapatya. The Ahavaniya, with which Hillebrandt seeks to identify the Vaiśvanara of the Rigveda, is the fire for the offering, not that, as a Brāhmaṇa says, in which the cooking is done, but that in which the cooked food is made over to the gods: the Garhapatya therefore serves to cook the food and to warm the dishes, an act which seems clearly both in its nature for which no practical purpose is seen, and through the assertion that thus the demons are destroyed, to have been a piece of magic. But the relations of the two fires are not in practice so simple as this: there are cases in which the functions are inverted. The third fire is the Dakṣiņägni, also called the Anvāhāryapacana because the sacrificial fee for the new and full moon sacri- fices, which was called Anvāhārya, was cooked on it. This fire was probably in its origin, as shown by its place at the south, intended to drive away by its flames the evil spirits and the souls of the dead, but it was natural that it should serve also for offerings to such spirits, though in the case of the Fathers pits were also used. We are expressly told that the fire served to avert danger from the Fathers, and in the rite of the royal consecration a brand is taken out of this fire, and used as the place for an offering to drive away evil spirits, and in the same rite another fire-brand is taken out and an offering made on it to Nirrti. The Dakṣiņāgni is also used both at the monthly offerings to the 
+Of the three fires the Gārhapatya alone was continually maintained : the other fires, the Āhavaniya and the Dakṣiṇa, were derived from it, and the leading forward of the fire is already referred to in the Rigveda, though it is not possible to prove that the process was identical with that applied in the ritual. The central position of the Gārhapatya is also to be seen in its relation to the man who goes on a journey: he takes formal leave of it first and then of the Ahavaniya, on his return he as solemnly greets first the Ahavaniya, and then the Garhapatya. The Ahavaniya, with which Hillebrandt seeks to identify the Vaiśvanara of the Rigveda, is the fire for the offering, not that, as a Brāhmaṇa says, in which the cooking is done, but that in which the cooked food is made over to the gods: the Garhapatya therefore serves to cook the food and to warm the dishes, an act which seems clearly both in its nature for which no practical purpose is seen, and through the assertion that thus the demons are destroyed, to have been a piece of magic. But the relations of the two fires are not in practice so simple as this: there are cases in which the functions are inverted. The third fire is the Dakṣiṇāgni, also called the Anvāhāryapacana because the sacrificial fee for the new and full moon sacri- fices, which was called Anvāhārya, was cooked on it. This fire was probably in its origin, as shown by its place at the south, intended to drive away by its flames the evil spirits and the souls of the dead, but it was natural that it should serve also for offerings to such spirits, though in the case of the Fathers pits were also used. We are expressly told that the fire served to avert danger from the Fathers, and in the rite of the royal consecration a brand is taken out of this fire, and used as the place for an offering to drive away evil spirits, and in the same rite another fire-brand is taken out and an offering made on it to Nirrti. The Dakṣiṇāgni is also used both at the monthly offerings to the 
 
 8 
 
@@ -107,21 +107,21 @@ p. 64.
 
 5 
 
-* Hillebrandt, Ved. Myth. ii. 97 ff. * ÇB. ii. 4. 1. 8. 
+* Hillebrandt, Ved. Myth. ii. 97 ff. * ŚB. ii. 4. 1. 8. 
 
 5 CB. i. 7. 3. 27; iii. 8. 1. 7; Weber, Ind. 
 
 Stud. x. 327, n. 5. 
 
-* ÇB. i. 7. 8. 26 ff.; KÇS. i. 8. 84, 35, 
+* ŚB. i. 7. 8. 26 ff.; KŚS. i. 8. 84, 35, 
 
 &c. 
 
-'ÇB. ii. 3. 2. 6; ÇÇS. ii. 14.8; 15. 4. 
+'ŚB. ii. 3. 2. 6; ŚŚS. ii. 14.8; 15. 4. 
 
 8 
 
-ÇB. v. 2. 4. 15; 3.2. 
+ŚB. v. 2. 4. 15; 3.2. 
 
 Chap. 18] 
 
@@ -129,7 +129,7 @@ Fire and Sacrifice
 
 289 
 
-Fathers, and at the annual offering connected with the Sākamedhas, the third of the four-month sacrifices of the Çrauta ritual.1 
+Fathers, and at the annual offering connected with the Sākamedhas, the third of the four-month sacrifices of the Śrauta ritual.1 
 
 The rules for the steps to be taken to set up the three fires or the house- holder's single fire are many and minute, but of little general importance: it is precisely in minutiae that the genius of the Brahmans shows itself to its complete extent, but, as in the case of the Roman priesthood, without gain to religious conceptions. The two normal methods are the old-fashioned one of producing the fire from the fire sticks, a process which is of immemorial antiquity in India,2 and the obtaining of the fire from the fire maintained by a great sacrificer or wealthy master of cattle, the chief kind of Vedic wealth in the first case the fire is new and pure, in the second it bears with it the associations of ceremony or of wealth or both. In the case of the house- hold fire it is often preferred to take it from the last fire tended by the house- holder as a Brahman student, thus doubtless preserving the continuity of his holiness, or in the alternative from the fire with which his marriage ceremonies were performed, and which therefore is a suitable fire for the continuance of the rites arising from his married state. But in the case of the four-month offerings, and the Soma sacrifice as at the animal offering, it is the practice to produce by friction a new fire and unite it with the Ahavaniya, in order doubtless to refresh it and make it strong. In this usage may be seen the remnant of an idea that the fire grows from time to time tired, and should annually be refreshed by being superseded by a new fire. The evidence for such a belief being really held in any strong way in the Vedic period is, how- ever, very weak: Hillebrandt's suggestions that once a year the fire was normally relit rests on combinations which are without any value. The chief occasion recognized by the ritual for the setting up of new fires was when it was found that the existing fires were not bringing good fortune to the offerer. For this occasion the rite of re-establishment, Punarådheya, was prescribed. 
 

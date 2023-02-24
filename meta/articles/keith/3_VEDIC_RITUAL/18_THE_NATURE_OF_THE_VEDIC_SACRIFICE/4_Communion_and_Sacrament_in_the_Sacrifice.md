@@ -5,7 +5,7 @@ title = "4 Communion and Sacrament in the Sacrifice"
 
 While in the view of Sir J. Frazer the essence of early sacrifice is the magic art of perpetuating the life of the herds and of vegetation and even of man, the gift theory of sacrifice has also been declared to be merely derivative, on the ground that it is really a faded remnant of the sacrifice in which the worshippers eat together of the flesh and blood of the deity, thus renewing and strengthening the bonds between themselves on the one hand and the god on the other. That such a form of sacrifice existed is beyond all doubt attested for the Semites, but not for the Babylonians, and there are traces of it in Greek 
 
-1 Oldenberg, Rel. des Veda3, p. 323, n. 1. * TS. vi. 1. 11. 6; AB. ii. 9; KB. x. 8; ÇB. iii. 3. 4. 21; cf. xi. 7. 1. 8 (of the Paśubandha generally); Keith, Tait- tiriya Samhita, i. p. cxiv. 
+1 Oldenberg, Rel. des Veda3, p. 323, n. 1. * TS. vi. 1. 11. 6; AB. ii. 9; KB. x. 8; ŚB. iii. 3. 4. 21; cf. xi. 7. 1. 8 (of the Paśubandha generally); Keith, Tait- tiriya Samhita, i. p. cxiv. 
 
 'G. A. Wilken, Rev. Col. Internat,¡¡¡. 225 ff.; iv. 358 ff. For other views see Frazer, 
 
@@ -23,7 +23,7 @@ and in other religions. It is not necessary to insist, as does S. Reinach, that 
 
 Now in the conception of the sacramental communion there are clearly present two elements which need not necessarily be combined. It is possible for the communion to appear by itself alone: the worshippers are imagined to eat and with them the deity eats, so that the deity and his worshippers have thus a common bond in the food which they consume: of this the Homeric sacrifice3 clearly presents us with a good example, while another is given by the Latin festival on the Alban Mount. In the second place, however, there may be more than this: the victim may be in some way divine: the most developed idea will be found when the victim is imagined as actually being an embodiment of the god for the time being, but it may be that the victim is merely more or less affected by the divine spirit from the fact that the god comes to the place of offering, and therefore that the divine spirit affects the victim and the place of offering." Of the latter idea there is a clear hint in the Homeric ritual of sacrifice of an animal victim: the barley seems to have been laid on the altar, and then brought into contact with the victim to convey to the victim the divine spirit present in the altar, and this idea is confirmed by later evidence, such as the sacrifice at Athens known as the Bouphonia," and 
 
-1 Farnell, Greece and Babylon, pp. 241 ff. A good example of the common meal as a means of producing harmony is given in Kauś. xii. 8, 9. The same Sütra (xiii. 6) prescribes a magic rite, in which portions of the members of some animals, lion, tiger, he-goat, ram, bull, a warrior and a Brahman student are to be eaten, to attain the possession of certain qualities; there is, of course, no totemism in all this; Henry, La magie dans l'Inde antique, pp. xxviii, 87, 95. 
+1 Farnell, Greece and Babylon, pp. 241 ff. A good example of the common meal as a means of producing harmony is given in Kauś. xii. 8, 9. The same Sūtra (xiii. 6) prescribes a magic rite, in which portions of the members of some animals, lion, tiger, he-goat, ram, bull, a warrior and a Brahman student are to be eaten, to attain the possession of certain qualities; there is, of course, no totemism in all this; Henry, La magie dans l'Inde antique, pp. xxviii, 87, 95. 
 
 * Cf. Murray's theory (Four Stages of Greek Religion, p. 37), which holds that the victim is devoured not as divine, but merely to obtain its mana, the diviniza- 
 
@@ -47,15 +47,15 @@ Vedic Ritual
 
 [Part III 
 
-apparently the same idea is to be seen in the sprinkling of the mola salsa on the head of the victim in the Roman ritual and of melted butter in the Vedic rite. Now in the Vedic ritual, as in the Roman, we find a considerable amount of evidence of the eating of the offering by the priests, after the god had partaken of it. The essential feature of the ordinary sacrifice is expressed in the solemn invocation of the Iḍā,1 the sacrificial food derived from the cow, which is repeatedly conceived in cow form. She is invoked to come forward, and she is expressly called a cow, and, when the god has eaten, shares in her are con- sumed by the priests and by the sacrificer, in so far as he is qualified by being a Brahman to partake of the food. The latter restriction is one which we can only prove for the later period of the Vedic ritual, but the position of the priest at the outset of the ritual is such as to render it most probable that the rule was always in full operation in the historical period. The same practice applied to all normal kinds of offering, the animal sacrifice and the Soma sacrifice included, though we find in the Aitareya Brāhmaṇa3 that the king is excluded at the royal consecration from the use of Soma and given Sură instead. The same rule applies to the Gṛhya ritual: it is laid down that a man should eat nothing without making an offering of a portion of it, every meal when an animal is killed for a guest is, as in Homer, a sacrifice.1 A Snātaka, or Brahman student, after he has taken the final bath concluding the student- ship, is allowed to eat remains of food offered to the gods and to the Manes : in the latter permission, as in the rule that the wife, who wishes offspring, should eat a portion of the food offered to the Fathers,3 we must doubtless see the idea of placing oneself in close touch with the Fathers. In an offering to Kṣetrapati," in which the god is represented by a bull, the remains of the food are duly eaten by the relatives, and in another offering, the Madhuparka, the Rudras, Adityas, and the All-gods are first fed, then the sacrificer, and then a Brahman: if there is no Brahman available, then the food may either be thrown into water, or the whole may be consumed by the sacrificer. The practice is interesting: it is clear that in the domestic ritual the rule that the only person who may eat the food is the Brahman is not in force: the sacri- ficer, who is the householder himself--and who may of course be himself a Brahman, but need not be--and his relatives have the first claim: after that 
+apparently the same idea is to be seen in the sprinkling of the mola salsa on the head of the victim in the Roman ritual and of melted butter in the Vedic rite. Now in the Vedic ritual, as in the Roman, we find a considerable amount of evidence of the eating of the offering by the priests, after the god had partaken of it. The essential feature of the ordinary sacrifice is expressed in the solemn invocation of the Iḍā,1 the sacrificial food derived from the cow, which is repeatedly conceived in cow form. She is invoked to come forward, and she is expressly called a cow, and, when the god has eaten, shares in her are con- sumed by the priests and by the sacrificer, in so far as he is qualified by being a Brahman to partake of the food. The latter restriction is one which we can only prove for the later period of the Vedic ritual, but the position of the priest at the outset of the ritual is such as to render it most probable that the rule was always in full operation in the historical period. The same practice applied to all normal kinds of offering, the animal sacrifice and the Soma sacrifice included, though we find in the Aitareya Brāhmaṇa3 that the king is excluded at the royal consecration from the use of Soma and given Surā instead. The same rule applies to the Gṛhya ritual: it is laid down that a man should eat nothing without making an offering of a portion of it, every meal when an animal is killed for a guest is, as in Homer, a sacrifice.1 A Snātaka, or Brahman student, after he has taken the final bath concluding the student- ship, is allowed to eat remains of food offered to the gods and to the Manes : in the latter permission, as in the rule that the wife, who wishes offspring, should eat a portion of the food offered to the Fathers,3 we must doubtless see the idea of placing oneself in close touch with the Fathers. In an offering to Kṣetrapati," in which the god is represented by a bull, the remains of the food are duly eaten by the relatives, and in another offering, the Madhuparka, the Rudras, Adityas, and the All-gods are first fed, then the sacrificer, and then a Brahman: if there is no Brahman available, then the food may either be thrown into water, or the whole may be consumed by the sacrificer. The practice is interesting: it is clear that in the domestic ritual the rule that the only person who may eat the food is the Brahman is not in force: the sacri- ficer, who is the householder himself--and who may of course be himself a Brahman, but need not be--and his relatives have the first claim: after that 
 
-1 TS. vii. 1. 6.8; VS. iii. 27; ApCS. vi. 3. 8 ; AÇS. i. 7. 7; 8. 1; ÇÇS. i. 10. 1 ; TB. iii. 5. 8. 1; 18. 1; Hillebrandt, Neu- und Vollmondsopfer, pp. 124 ff.; Hubert and Mauss, Année sociol. ii. 81, 82, who compare the Christian Mass. * In Babylon the worshipper did not est, though the priests might do so; they, however, did not eat with the god; Farnell, Greece and Babylon, pp. 241, 242. For Rome see Warde Fowler, Roman Ideas of Deity, pp. 58, 59; Religious Experience of the Roman 
+1 TS. vii. 1. 6.8; VS. iii. 27; ApCS. vi. 3. 8 ; AŚS. i. 7. 7; 8. 1; ŚŚS. i. 10. 1 ; TB. iii. 5. 8. 1; 18. 1; Hillebrandt, Neu- und Vollmondsopfer, pp. 124 ff.; Hubert and Mauss, Année sociol. ii. 81, 82, who compare the Christian Mass. * In Babylon the worshipper did not est, though the priests might do so; they, however, did not eat with the god; Farnell, Greece and Babylon, pp. 241, 242. For Rome see Warde Fowler, Roman Ideas of Deity, pp. 58, 59; Religious Experience of the Roman 
 
 People, pp. 172 ff. The idea of com- munion was seriously restricted in the official religion as in Vedic religion. So also in Iran; cf. Herodotos, i. 132, where the flesh is not (as stated by Jackson, GIP. ii. 702) eaten by the priests, but used by the sacrificer as he pleases. 
 
 * vii. 26 f. 
 
-• ÇGS. ii. 14. 28 ; ii. 15 ; iv. 5. 10, 11, 12. *GGS. iv. 3. 27; cf. AÇS. ii. 7.17. 
+• ŚGS. ii. 14. 28 ; ii. 15 ; iv. 5. 10, 11, 12. *GGS. iv. 3. 27; cf. AŚS. ii. 7.17. 
 
 • HGS. ii. 9; Keith, JRAS. 1907, pp. 
 
@@ -81,7 +81,7 @@ the food which by its contact with the divinity is clearly specially valuable is
 
 The same efficacy of the sacrifice is to be seen in cases where the offering produces its result by contact, not by ordinary eating. Thus in place of eating food together the husband and wife may rub each other's hearts with the offering, and at the end of the three days of continence enjoined upon them the remains of the offerings are rubbed into the body of the bride.10 Similarly, if on the way to their home the car breaks, an offering is made, and the remains rubbed on the mended part.11 The horses which are to engage in the race in the Vajapeya sniff the offering in order to gain swiftness; 
 
-12 the cows are driven so as to snuff the fragrance of the offering made in the fire; 13 in the Soma sacrifice, the Väjapeya, the piling of the fire, and the Sautrāmaṇī alike occur cases in which the offering is used to rub the sacrificer to convey to him strength and healing.14 At the animal sacrifice by touching the victim the 
+12 the cows are driven so as to snuff the fragrance of the offering made in the fire; 13 in the Soma sacrifice, the Vājapeya, the piling of the fire, and the Sautrāmaṇī alike occur cases in which the offering is used to rub the sacrificer to convey to him strength and healing.14 At the animal sacrifice by touching the victim the 
 
 1 AB. vii. 26. 2; cf. TA. v. 8. 12. 
 
@@ -109,9 +109,9 @@ Rel. des Veda,a p. 333, n. 3.
 
 13 HGS. ii. 8. 10; cf. SVB. i. 8. 14; for 
 
-man, KÇS. iv. 9. 11. 
+man, KŚS. iv. 9. 11. 
 
-14 AÇS. v. 19. 6 ; KÇS. xiv. 5. 24; xviii, 5. 9; xix, 4. 14; Weber, Ind. Stud. x. 351; xiii. 285. 
+14 AŚS. v. 19. 6 ; KŚS. xiv. 5. 24; xviii, 5. 9; xix, 4. 14; Weber, Ind. Stud. x. 351; xiii. 285. 
 
 272 
 
@@ -131,25 +131,25 @@ On the other hand, it was always possible to eat of even the offering to a dread
 
 Hubert 
 
-1 TS. vi. 3. 8. 1, 2 ; ÇB. iii. 8. 1 
+1 TS. vi. 3. 8. 1, 2 ; ŚB. iii. 8. 1 
 
 and Mauss, Année sociol. ii. 67, n. 1. 
 
-* ÇB. ii. 6. 2. 16. 
+* ŚB. ii. 6. 2. 16. 
 
-* ÇB. xii. 5. 1. 12 ; ii, 4. 2. 24; 6. 1. 33 ; APÇS. viii. 6. 3, 12; KÇS. iv. 1. 20; v. 9. 13. 
+* ŚB. xii. 5. 1. 12 ; ii, 4. 2. 24; 6. 1. 33 ; APŚS. viii. 6. 3, 12; KŚS. iv. 1. 20; v. 9. 13. 
 
 • AGS. iv. 8. 31. 
 
-*KÇS. xxii. 6. 2. 
+*KŚS. xxii. 6. 2. 
 
-• KÇS. x. 1. 26. 
+• KŚS. x. 1. 26. 
 
 ? TB. i. 3. 10. 7, 
 
-* ÇGS. i. 10.9; KÇS. i. 10. 14. 
+* ŚGS. i. 10.9; KŚS. i. 10. 14. 
 
-• ÇB. xiv. 2. 2. 85, 88. 
+• ŚB. xiv. 2. 2. 85, 88. 
 
 10 AGS. iv. 8.1ft.; PGS. iii. 8. Hubert and 
 
@@ -171,7 +171,7 @@ It is true that, as has been pointed out by Oldenberg and others, the theory of 
 
 1 Oldenberg, Rel. des Veda", p. 337, n. 1. 
 
-* As a sick man can eat the offering to the dead, and have swift death or recovery, AÇS. ii. 7. 17. 
+* As a sick man can eat the offering to the dead, and have swift death or recovery, AŚS. ii. 7. 17. 
 
 Thiere und Götter, pp. 8, 4; Hopkins, JAOS. xvi. p. ccxxxix; Oldenberg, op. cit., p. 360. 
 
@@ -203,13 +203,13 @@ It is difficult also to ascertain what element of ecstatic enjoyment of the sens
 
 The gods, 
 
-1 ÇB. vi. 2. 1. 2 ff. ; i. 2. 3. 6 ; MS. iii. 10. 2 ; AB.ii.8; Lévi, La doctrine du sacrifice, pp. 133 fr. 
+1 ŚB. vi. 2. 1. 2 ff. ; i. 2. 3. 6 ; MS. iii. 10. 2 ; AB.ii.8; Lévi, La doctrine du sacrifice, pp. 133 fr. 
 
-2 ÇB. iii. 8. 2. 6 ; Lévi, p. 170; Hubert and 
+2 ŚB. iii. 8. 2. 6 ; Lévi, p. 170; Hubert and 
 
 Mauss, Année sociol, ii. 129 ff. 
 
-* Hillebrandt, Thiere und Götter; Stengel, Opferbräuche der Griechen, pp. 187 ff.; Cook, Zeus, i. 634. 
+* Hillebrandt, Thiere und Götter; Stengel, Opferbrāuche der Griechen, pp. 187 ff.; Cook, Zeus, i. 634. 
 
 • Keith, JRAS. 1907, pp. 940 ff. 
 
@@ -219,7 +219,7 @@ n. 3.
 
 ⚫TS. iii. 1. 4, 5; MS. i. 2. 1. 
 
-1 Op. cit. 68, n. 4. The interpretation of AB. ii., 7. 10 is quite clearly not a general attack on the slayer, whose epithet apapa refers to ritual accuracy. "Die Anfänge der Yogapraxis im alten 
+1 Op. cit. 68, n. 4. The interpretation of AB. ii., 7. 10 is quite clearly not a general attack on the slayer, whose epithet apapa refers to ritual accuracy. "Die Anfānge der Yogapraxis im alten 
 
 Indien, pp. 116 ff. 
 
@@ -255,7 +255,7 @@ Vedic Ritual
 
 [Part III 
 
-Vedic ritual. Their attention has been attracted by the fact that a sacrifice produces a definite effect in the performer and the means which he employs : he is filled with a sacred spirit as is the victim which he offers, a fact of which we have already seen instances, and which cannot be for a moment called in question. The Dikșă or preliminary consecration, and the concluding bath, which provides a means of removing from man in some degree the excessive sanctity with which he has become endued in the process of offering, are significant proofs of this aspect of sacrifice. The sacrifice, many as are the uses which can be made of it, has an essential unity in that it aims at the establishment of communication between the sacred and the profane world by means of a victim, that is, a thing which is destroyed in the course of the ceremony. As opposed to Robertson Smith, the authors lay stress on the fact that the victim acquires its sacred character in the rite, and does not possess it normally ab extra, a fact which makes it well adapted for the accomplishment of the most varied ends: the current which runs through it can pass to the sky from the earth or vice versa equally well. The motive of this desire to enter into relations with the powers above is simple enough: man sees in them the source of life, and is anxious to attain as close contact with them as possible. But immediate contact would be fatal, and would unfit man for secular life, as is indeed the case with priests of too great sanctity like the unfortunate Flamen Dialis1 or the Emperor of Japan: therefore he interposes an inter- mediary, who at the same time serves as a substitute for the sacrificer himself. This victim must be dispatched to the other world: its soul is liberated by death, with its own permission, for it becomes by the sacrifice a powerful being which no man would seek to irritate, and its body thereafter may be destroyed, whether by being consumed entirely by fire as in the Hebrew holocaust, or by being eaten by the priest or the worshippers, or again its skin or other portion may merely be brought into close contact with the worshipper. Incidentally the sacrifice accomplishes much more than its mere immediate aim: if the victim offered by the consecrated man serves to secure him his close relationship with the gods, it also sends the spirit of the victim to strengthen and multiply the species. All sacrifice is essentially social: it involves negation by the individual, but it strengthens the divine which is the ideal representative of the social unit, and thus indirectly benefits the indivi- dual himself. A further development of sacrifice in its ideal form is the con- ception of the sacrifice of the god himself, when the intermediary disappears in toto. 
+Vedic ritual. Their attention has been attracted by the fact that a sacrifice produces a definite effect in the performer and the means which he employs : he is filled with a sacred spirit as is the victim which he offers, a fact of which we have already seen instances, and which cannot be for a moment called in question. The Dikṣā or preliminary consecration, and the concluding bath, which provides a means of removing from man in some degree the excessive sanctity with which he has become endued in the process of offering, are significant proofs of this aspect of sacrifice. The sacrifice, many as are the uses which can be made of it, has an essential unity in that it aims at the establishment of communication between the sacred and the profane world by means of a victim, that is, a thing which is destroyed in the course of the ceremony. As opposed to Robertson Smith, the authors lay stress on the fact that the victim acquires its sacred character in the rite, and does not possess it normally ab extra, a fact which makes it well adapted for the accomplishment of the most varied ends: the current which runs through it can pass to the sky from the earth or vice versa equally well. The motive of this desire to enter into relations with the powers above is simple enough: man sees in them the source of life, and is anxious to attain as close contact with them as possible. But immediate contact would be fatal, and would unfit man for secular life, as is indeed the case with priests of too great sanctity like the unfortunate Flamen Dialis1 or the Emperor of Japan: therefore he interposes an inter- mediary, who at the same time serves as a substitute for the sacrificer himself. This victim must be dispatched to the other world: its soul is liberated by death, with its own permission, for it becomes by the sacrifice a powerful being which no man would seek to irritate, and its body thereafter may be destroyed, whether by being consumed entirely by fire as in the Hebrew holocaust, or by being eaten by the priest or the worshippers, or again its skin or other portion may merely be brought into close contact with the worshipper. Incidentally the sacrifice accomplishes much more than its mere immediate aim: if the victim offered by the consecrated man serves to secure him his close relationship with the gods, it also sends the spirit of the victim to strengthen and multiply the species. All sacrifice is essentially social: it involves negation by the individual, but it strengthens the divine which is the ideal representative of the social unit, and thus indirectly benefits the indivi- dual himself. A further development of sacrifice in its ideal form is the con- ception of the sacrifice of the god himself, when the intermediary disappears in toto. 
 
 Brilliant as is the presentation of this theory, it is difficult not to feel that it is open to the same objection as must be taken to the theory of religion presented by Durkheim * in his exposition of totemism as the earliest stage of religion. Religion with him also is essentially a social fact: the totem is the 
 

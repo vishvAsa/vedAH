@@ -9,7 +9,7 @@ On the gift theory of sacrifice it is natural that man should offer what he deli
 
 2 
 
-ApÇS. viii. 5. 42 ; vi. 1 ff., 10 ff. 
+ApŚS. viii. 5. 42 ; vi. 1 ff., 10 ff. 
 
 * Op. cit., p. 111, n. 5. 
 
@@ -27,7 +27,7 @@ Libations of water, not of blood as in Greece, for the dead were evidently direc
 
 5 
 
-The Brahmaņas set forth a list of five victims among animals, man, the horse, oxen, sheep, and goats: in practice the last three are the common victims, and the goat is the most usual of all: wild animals, fish, birds, the pig, and the dog are excluded; the last tw were not eaten, the others rarely, but it is possible that in their case practical difficulties may explain their exclusion from use. At the horse sacrifice, it is true, enormous lists of offerings of all sorts of animals are enumerated: the rule is, however, admitted that the wild animals were to be set free, and it is absurd to suppose that the lists were ever seriously meant to be followed. On the other hand, the offering of the horse is contrary to the practice, for the eating of horse-flesh, though never in all likelihood unknown in India, and though practised by many peoples in ancient, medieval, and modern times, seems rare in India. It may be con- sidered as serving either to make swift the god, who thus appropriates the swiftness of the animal offered, and through the god to strengthen the man, or as is less likely it may be held to be merely dictated by the desire directly to secure the offerer the strength of the steed, or again it may be due merely to the feeling that the highest beast is in place at a great offering: to this question we shall return again. In the case of the offering of an ass to Nirṛti the aim to secure the replacement of virility by the offerer is obvious, and reduces the offering to its real character, a magic rite dignified by the intro- duction of the goddess and the form of sacrifice. The offering of a fish-otter to Apāṁ Napāt is possibly to be attributed to the same idea: the otter suggests and creates the desired water, but it may also fall under the general rule of assimilation of the victim to the nature of the deity. 
+The Brahmaṇas set forth a list of five victims among animals, man, the horse, oxen, sheep, and goats: in practice the last three are the common victims, and the goat is the most usual of all: wild animals, fish, birds, the pig, and the dog are excluded; the last tw were not eaten, the others rarely, but it is possible that in their case practical difficulties may explain their exclusion from use. At the horse sacrifice, it is true, enormous lists of offerings of all sorts of animals are enumerated: the rule is, however, admitted that the wild animals were to be set free, and it is absurd to suppose that the lists were ever seriously meant to be followed. On the other hand, the offering of the horse is contrary to the practice, for the eating of horse-flesh, though never in all likelihood unknown in India, and though practised by many peoples in ancient, medieval, and modern times, seems rare in India. It may be con- sidered as serving either to make swift the god, who thus appropriates the swiftness of the animal offered, and through the god to strengthen the man, or as is less likely it may be held to be merely dictated by the desire directly to secure the offerer the strength of the steed, or again it may be due merely to the feeling that the highest beast is in place at a great offering: to this question we shall return again. In the case of the offering of an ass to Nirṛti the aim to secure the replacement of virility by the offerer is obvious, and reduces the offering to its real character, a magic rite dignified by the intro- duction of the goddess and the form of sacrifice. The offering of a fish-otter to Apāṁ Napāt is possibly to be attributed to the same idea: the otter suggests and creates the desired water, but it may also fall under the general rule of assimilation of the victim to the nature of the deity. 
 
 7 
 
@@ -35,17 +35,17 @@ The Brahmaņas set forth a list of five victims among animals, man, the horse, o
 
 › VS. xvii. 70; so often in magic; Henry, La magie dans l'Inde antique, p. 52. 
 
-2 AB. vii. 2; ÇB. xii. 5. 1. 4; TS. i. 8. 5. 1, 
+2 AB. vii. 2; ŚB. xii. 5. 1. 4; TS. i. 8. 5. 1, 
 
 and often. 
 
-* Red victims for the gods, black for the Fathers, are usual; Caland, Todten- gebräuche, p. 173. 
+* Red victims for the gods, black for the Fathers, are usual; Caland, Todten- gebrāuche, p. 173. 
 
-• TS. i. 8. 9. 1 ; ÇB. v. 3. 1. 13. 
+• TS. i. 8. 9. 1 ; ŚB. v. 3. 1. 13. 
 
 • Weber, Ind. Stud, x. 847. The Suove- taurilia of Roman religion have no precise parallel. In Greece we hear of 
 
-triads of victims, the Trittoia, ram, bull, he-goat; Stengel, Opferbräuche, pp. 195, 196. 
+triads of victims, the Trittoia, ram, bull, he-goat; Stengel, Opferbrāuche, pp. 195, 196. 
 
 * Mahāvagga, vi. 23. 11. On this point of. Reinach, Cultes, Mythes et Religions, iii. 124; von Schroeder (Arische Be- ligion, ii. 874 ff.) believes that the eating of horseflesh and its offering to the sun are Indo-European. 
 
@@ -75,15 +75,15 @@ The victim has to be killed, so that it shall make no sound and so that there sh
 
 * VS. xxiv. 1. 
 
-• KÇS. xiv. 2. 11; TS. ii. 1. 6. 2. ÇB. v. 5. 4. 1. 
+• KŚS. xiv. 2. 11; TS. ii. 1. 6. 2. ŚB. v. 5. 4. 1. 
 
-* KÇS. viii. 9. 1; RV. i. 161. 3 (basta). 
+* KŚS. viii. 9. 1; RV. i. 161. 3 (basta). 
 
 * Weber, Ind. Stud. x. 340, 858, 398, 394. 
 
 TS. ii. 1. 8. 5. 
 
-• KÇS. xxii. 8. 14, 15. 
+• KŚS. xxii. 8. 14, 15. 
 
 10 Oldenberg, Rel. des Vedaa3, p. 356. 
 
@@ -91,7 +91,7 @@ TS. ii. 1. 8. 5.
 
 AB. ii. 6; TB, iii. 6. 11. 1 ff. 
 
-1a AGS. ii. 4. 13, 14; cf. ApDS. i. 6. 18. 25. The omentum is the self of the victim (TS. vi. 8. 9. 5) and its sacrificial element (TS. iii. 1. 5. 2; ÇB. iii. 8. 2. 28; AB. ii. 13. 6). 
+1a AGS. ii. 4. 13, 14; cf. ApDS. i. 6. 18. 25. The omentum is the self of the victim (TS. vi. 8. 9. 5) and its sacrificial element (TS. iii. 1. 5. 2; ŚB. iii. 8. 2. 28; AB. ii. 13. 6). 
 
 Chap. 18] 
 
@@ -113,17 +113,17 @@ The question of the human sacrifice is of importance, as in it we should expect 
 
 * Oldenberg, op. cit.3, pp. 359 f. 
 
-TS. i. 8. 9. 2; ApÇS. vii. 18. 14; AB. 
+TS. i. 8. 9. 2; ApŚS. vii. 18. 14; AB. 
 
-ii. 7.1, 10; AÇS. iii. 3.1; so in the case of the blood in the cooking of the heart of the victim (KÇS. vi. 7. 13). 
+ii. 7.1, 10; AŚS. iii. 3.1; so in the case of the blood in the cooking of the heart of the victim (KŚS. vi. 7. 13). 
 
-• Keith, Taittiriya Saṁhitä, i. pp. cv-cviii. 
+• Keith, Taittiriya Saṁhitā, i. pp. cv-cviii. 
 
 8 
 
 6 
 
-For the averted heads of the priests cf. the capite operto of the Roman ritual (as opposed to the Greek), which may be a sign of separation from the profane world (cf. Reinach, Cultes, Mythes et Religions, i. 800 ff.), but which may be merely a more efficacious means of escaping recognition by the soul of the indignant victim, as in the case where the criminal is veiled before execution. ÇB. vi. 2. 1. 89 ff.; vii. 5. 2. 1 ff.; cf. 
+For the averted heads of the priests cf. the capite operto of the Roman ritual (as opposed to the Greek), which may be a sign of separation from the profane world (cf. Reinach, Cultes, Mythes et Religions, i. 800 ff.), but which may be merely a more efficacious means of escaping recognition by the soul of the indignant victim, as in the case where the criminal is veiled before execution. ŚB. vi. 2. 1. 89 ff.; vii. 5. 2. 1 ff.; cf. 
 
 P. Sartori, Zeit. ƒ. Ethn. i, 82 ff. 
 
@@ -133,11 +133,11 @@ Vedic Ritual
 
 [Part III 
 
-in the building up of the great altar for the fire ritual, a construction of such elaboration that it was doubtless a rare feature in the ritual, it was customary to sacrifice five victims, including a man, to build their heads into the altar, and to throw, their bodies into the water whence the clay for the making of fire-bricks was taken, in order to give it abiding strength. Here, however, we cannot ignore the obvious fact that under the fashion of a sacrifice, last per- formed on earth by Cyaparṇa Sayakayana, we have dressed up the old practice of giving a building strength by associating it with guardian spirits of the dead, a usage which has persisted in India down to the most recent times. The other cases in which human sacrifices have been seen are extremely doubtful. The ritual texts, indeed, and some late Brāhmaṇa evidence agree in describing a Puruṣamedha, ‘human sacrifice', which follows but on a more gorgeous scale the horse sacrifice. We have no reason to believe that it was ever a primitive rite: the effort of Hillebrandt 2 to show that the passage in the funeral hymn in the Rigveda,3 which has been supposed to apply to the widow of the dead man in the funeral service, really applies to the widow of the king, who is supposed, as in the horse sacrifice, to lie beside the victim, is a tour de force. If ever the sacrifice was performed, it must merely have been an isolated act, produced by the speculations of the priests. There is clear evidence that the sacrifice of the mythical Purușa was in some cases at least taken as the model of the supposed human sacrifice. Possibly here and there myth generated the ritual: there is no conceivable reason to believe in view of the evidence that the ritual generated the myth. 
+in the building up of the great altar for the fire ritual, a construction of such elaboration that it was doubtless a rare feature in the ritual, it was customary to sacrifice five victims, including a man, to build their heads into the altar, and to throw, their bodies into the water whence the clay for the making of fire-bricks was taken, in order to give it abiding strength. Here, however, we cannot ignore the obvious fact that under the fashion of a sacrifice, last per- formed on earth by Cyaparṇa Sayakayana, we have dressed up the old practice of giving a building strength by associating it with guardian spirits of the dead, a usage which has persisted in India down to the most recent times. The other cases in which human sacrifices have been seen are extremely doubtful. The ritual texts, indeed, and some late Brāhmaṇa evidence agree in describing a Puruṣamedha, ‘human sacrifice', which follows but on a more gorgeous scale the horse sacrifice. We have no reason to believe that it was ever a primitive rite: the effort of Hillebrandt 2 to show that the passage in the funeral hymn in the Rigveda,3 which has been supposed to apply to the widow of the dead man in the funeral service, really applies to the widow of the king, who is supposed, as in the horse sacrifice, to lie beside the victim, is a tour de force. If ever the sacrifice was performed, it must merely have been an isolated act, produced by the speculations of the priests. There is clear evidence that the sacrifice of the mythical Puruṣa was in some cases at least taken as the model of the supposed human sacrifice. Possibly here and there myth generated the ritual: there is no conceivable reason to believe in view of the evidence that the ritual generated the myth. 
 
 4 
 
-More worth consideration perhaps is the legend of Çunahśepa; `in it Hariścandra the king promises to sacrifice his son to Varuna, if the god will give him a son: but, when the child is attained, he defers the offering until he manages to obtain a Brahman Ajigarta, who consents to sell his son Çunahśepa for a vicarious sacrifice, the king having been afflicted by Varuna with dropsy and thus recalled to the sense of his duty. When the father binds the son to the post and is about to slay him, the gods set him free in answer to his prayer and he is adopted by one of the priests present at the rite, Viśvāmitra, leaving his wicked father, while Varuņa frees the king from his disease. The sacrifice was to have taken place at the royal consecration and the rule is laid down that at the consecration of the king the priest must tell the tale, and thus free the king from all sin and the fetters of Varuņa. It has been suggested therefore, very naturally, by Weber 5 that we have here the trace of an old practice of human sacrifice at the rite which has been abolished, the tale instead showing how the practice was done away with. The story, as it is recorded, is obviously meaningless, as the king undertakes to slay the son which is sent to him, and the motive is as it stands therefore an absurd one. 
+More worth consideration perhaps is the legend of Śunahśepa; `in it Hariścandra the king promises to sacrifice his son to Varuna, if the god will give him a son: but, when the child is attained, he defers the offering until he manages to obtain a Brahman Ajigarta, who consents to sell his son Śunahśepa for a vicarious sacrifice, the king having been afflicted by Varuna with dropsy and thus recalled to the sense of his duty. When the father binds the son to the post and is about to slay him, the gods set him free in answer to his prayer and he is adopted by one of the priests present at the rite, Viśvāmitra, leaving his wicked father, while Varuṇa frees the king from his disease. The sacrifice was to have taken place at the royal consecration and the rule is laid down that at the consecration of the king the priest must tell the tale, and thus free the king from all sin and the fetters of Varuṇa. It has been suggested therefore, very naturally, by Weber 5 that we have here the trace of an old practice of human sacrifice at the rite which has been abolished, the tale instead showing how the practice was done away with. The story, as it is recorded, is obviously meaningless, as the king undertakes to slay the son which is sent to him, and the motive is as it stands therefore an absurd one. 
 
 Keith, op. cit. i. pp. cxxxvii-cxl. 
 
@@ -145,7 +145,7 @@ Keith, op. cit. i. pp. cxxxvii-cxl.
 
 x. 18. 8; Keith, JRAS. 1907, p. 226; Oldenberg, GGA. 1907, p. 218, n. 1. 
 
-← AB. vii. 13 ff. ; ÇÇS. xv. 17 ff. ; Roth, Ind. Stud. i. 457–64; Keith, HOS. xxv. 61 ff. 
+← AB. vii. 13 ff. ; ŚŚS. xv. 17 ff. ; Roth, Ind. Stud. i. 457–64; Keith, HOS. xxv. 61 ff. 
 
 › Rājasūya, pp. 47 ff.; Hillebrandt, Ved. 
 
@@ -157,11 +157,11 @@ The Materials 'of the Sacrifice
 
 283 
 
-The Brahman Ajīgarta fares very hardly at the hands of the narrator, and one motive in it is clearly the connexion of Çunaḥśepa with the family of Viśvä- mitra. The most that can be deduced from it in favour of human sacrifice is that it is possibly a far-off and dim reminiscence of a possible offering of the son of a king in time of distress as a sin offering. Obviously such a story allows us to see in it other explanations, for instance that it is an echo of the slaying of the divine king or of his son in him--if so, a very distant and dis- torted echo, or that it is due to totemism. In view, however, of the lack of better evidence of any kind for totemism or slaying the divine king,' the piacular explanation may stand, if it is realized that the tradition is clearly so distorted that we do not know what it means. The conclusion is an im- portant one in later India there are not a few traces of human sacrifice, and offerings to Kāli have taken place within recent years: the aborigines had clearly no hesitation in following certain forms of worship which involved human sacrifice,2 but the Brahmans remaine, like the Roman priests, superior to this particularly unlovable peculiarity of the human mind. 
+The Brahman Ajīgarta fares very hardly at the hands of the narrator, and one motive in it is clearly the connexion of Śunaḥśepa with the family of Viśvā- mitra. The most that can be deduced from it in favour of human sacrifice is that it is possibly a far-off and dim reminiscence of a possible offering of the son of a king in time of distress as a sin offering. Obviously such a story allows us to see in it other explanations, for instance that it is an echo of the slaying of the divine king or of his son in him--if so, a very distant and dis- torted echo, or that it is due to totemism. In view, however, of the lack of better evidence of any kind for totemism or slaying the divine king,' the piacular explanation may stand, if it is realized that the tradition is clearly so distorted that we do not know what it means. The conclusion is an im- portant one in later India there are not a few traces of human sacrifice, and offerings to Kāli have taken place within recent years: the aborigines had clearly no hesitation in following certain forms of worship which involved human sacrifice,2 but the Brahmans remaine, like the Roman priests, superior to this particularly unlovable peculiarity of the human mind. 
 
 The most important of all offerings in the eyes of the priest was certainly the Soma, as is proved by the fact that the Rigveda in the main is a collection based on the Soma sacrifice, though not exclusively devoted to it. The question of the origin and nature of the plant is insoluble: the efforts made to identify it have led to interesting investigations, but to no sure result, and the only thing certain is that the plant, which has been used in modern India as the Soma plant, is one which would not be considered by modern tastes as at all pleasant in the form of pressed juice mixed with water. We are unable naturally to say what would seem pleasant to the Vedic Indian: we know that surfeit in the drink had disagreeable results. Curiously enough too we do not know whether the drink was really popular outside the circle of priests, who took it sacrificially: there is just enough evidence in the Rigveda * to suggest that it was a popular drink, though the normal civil drink is Surā. This beverage was made from a decoction of herbs of various sorts, and seems to have had characteristics which ally it to beer on the one hand and brandy 
 
-Either in India or elsewhere, save piacu- larly; see Lang, Magic and Religion (London, 1901). In Çunahśepa's case we should have to admit the custom of sacrificing the son in place of the king (Frazer, The Dying God, pp. 160 ff.) and to hold that the king really wanted a son in order to save his own life, all of which is absurd. 
+Either in India or elsewhere, save piacu- larly; see Lang, Magic and Religion (London, 1901). In Śunahśepa's case we should have to admit the custom of sacrificing the son in place of the king (Frazer, The Dying God, pp. 160 ff.) and to hold that the king really wanted a son in order to save his own life, all of which is absurd. 
 
 • For human sacrifice in Greek and Semitic 
 
@@ -169,7 +169,7 @@ religion, see Farnell, Greece and Babylon, pp. 244-6; for the scanty evidence in
 
 for Germany, Helm, Altgerm. Rel. i, 298; for the Celts, Rhys, Celtic Heathendom, pp. 232 ff., 675. 
 
-1 Max Müller, Biographies of Words, pp. 222 ff.; Hillebrandt, Ved. Myth. i. 12 ff.; Macdonell and Keith, Vedic Index, ii. 474 ff.; Brunnhofer, Arische Urzeit, pp. 297-301; Weber, SBA. 1894, p. 787; Pischel, Ved. Stud. ii. 217 ff.; Meyer (Gesch. d. Alt3 II. i. p. 908) holds that Bactria and the Western Himalaya was its original home and therefore the home of the Aryans (Indo-Iranians). 
+1 Max Mūller, Biographies of Words, pp. 222 ff.; Hillebrandt, Ved. Myth. i. 12 ff.; Macdonell and Keith, Vedic Index, ii. 474 ff.; Brunnhofer, Arische Urzeit, pp. 297-301; Weber, SBA. 1894, p. 787; Pischel, Ved. Stud. ii. 217 ff.; Meyer (Gesch. d. Alt3 II. i. p. 908) holds that Bactria and the Western Himalaya was its original home and therefore the home of the Aryans (Indo-Iranians). 
 
 • RV. viii. 69, 8-10. 
 
@@ -179,7 +179,7 @@ Vedic Ritual
 
 [Part III 
 
-on the other: that it was intoxicating is proved by the ill repute in which it normally was held, and by its very limited use at the sacrifice, in the Sautră- maņi, where it figures in the rite by which excess in Soma drinking is cured, and at the Vājapeya, in both cases in rites which appear to owe their present form to priestly action. There is, however, enough evidence to indicate that the corresponding Avestan Hura was used in the offering. 
+on the other: that it was intoxicating is proved by the ill repute in which it normally was held, and by its very limited use at the sacrifice, in the Sautrā- maṇi, where it figures in the rite by which excess in Soma drinking is cured, and at the Vājapeya, in both cases in rites which appear to owe their present form to priestly action. There is, however, enough evidence to indicate that the corresponding Avestan Hura was used in the offering. 
 
 1 
 
@@ -209,6 +209,6 @@ The Materials of the Sacrifice
 
 285 
 
-Khadira wood, he turns a magic rite into a sacrifice pro forma: similarly, if he offers manure to produce plenteousness in cattle, or gives the sacrificer the strength of a lion, wolf, and tiger by mixing in the oblation at the Sautră- mani hairs of these animals. Such cases are instructive as they show that the idea that the horse sacrifice might in itself merely be intended to secure to the sacrificer the strength and swiftness of the horse is by no means absurd or unreasonable, even if it is not quite a complete view of the rite. 
+Khadira wood, he turns a magic rite into a sacrifice pro forma: similarly, if he offers manure to produce plenteousness in cattle, or gives the sacrificer the strength of a lion, wolf, and tiger by mixing in the oblation at the Sautrā- mani hairs of these animals. Such cases are instructive as they show that the idea that the horse sacrifice might in itself merely be intended to secure to the sacrificer the strength and swiftness of the horse is by no means absurd or unreasonable, even if it is not quite a complete view of the rite. 
 
 : 

@@ -13,13 +13,13 @@ The only question, therefore, which can arise is whether the early schools of Gr
 
 1 Philosophy of Ancient India, pp. 32-56; Samkhya-Philosophie', pp. 114 ff. Cf. W. Jones, Works (1799), i. 360 f.; von Eckstein, Ind. Stud. ii. 869–88. 
 
-avi. 180. For an uncritical account of the relationship, see Macan, Herodotos, III-VI. ii. 804-11; cf. Winternitz, Gesch, d. ind. Lit. ii. 102; Tawney, JP. xii. 181; Güntert, Buddha, pp. 50 ff. 
+avi. 180. For an uncritical account of the relationship, see Macan, Herodotos, III-VI. ii. 804-11; cf. Winternitz, Gesch, d. ind. Lit. ii. 102; Tawney, JP. xii. 181; Gūntert, Buddha, pp. 50 ff. 
 
 * 904-20; Herodotos, iii. 119; Pischel, Hermes, xxviii. 465 ff.; Nöldeke, xxix. 155 ff.; Tawney, IA. x. 370; Winter- nitz, ii. 111. 
 
 4 
 
-e. g. by Macan, I. c. Cf. v. Schroeder, Indiens Literatur und Kultur, pp. 518ff.; Oldenberg, Die Lit, des alten Indien, pp. 110 ff.; Forke, Indische Märchen, pp. 26 ff.; Winternitz, iii. 307 ff.; 
+e. g. by Macan, I. c. Cf. v. Schroeder, Indiens Literatur und Kultur, pp. 518ff.; Oldenberg, Die Lit, des alten Indien, pp. 110 ff.; Forke, Indische Mārchen, pp. 26 ff.; Winternitz, iii. 307 ff.; 
 
 602 
 
@@ -29,7 +29,7 @@ The Philosophy of the Veda
 
 [Part V 
 
-A more serious attempt to prove connexions of a literary and religious nature is made by A. Götze, who compares the doctrine of correspondence of macrocosm and microcosm as enunciated in the Bundahišn* with the pseudo- Hippokratean treatise repì éẞdopádov. The latter work appears to have been known to Plato, and therefore goes back to the fourth century B. C., while W. H. Roscher has endeavoured to assign the short treatise to the seventh century and to regard it as the earliest work extant of Greek science and cosmology. The Bundahišn, of course, is late, and this particular portion cannot even for certain be attributed to the Sassanian recension. On the other hand we have in the Upanisads and even in the Brahmaṇas the idea of the parallelism of macrocosm and microcosm, so that the possibility that oriental influence lies at the basis of the Greek composition cannot be excluded. It may be conjectured also that oriental influence is to be seen in the doctrine of the pseudo-Hippokratean treatise Tepi puoŵr, where the breath is a ground of illness, and even in the doctrine of the humours, for Pāņini already knows in the fourth century B. C. of wind, bile, and phlegm as affecting health. But, even if we grant that there was influence in these matters, the date is late; the doctrines suggested by Persia were, it is believed, introduced into Greece not before 480 B. c. by the Knidian school of medicine. We know in fact of three Greek physicians at the Persian court, Demokedes under Dareios I, Ktesias under Artaxerxes II, and Apollonides, whom Ktesias mentions. It must, however, be borne in mind that we have no evidence that the doctrines alleged to have influenced Greece were actually known in Persia in the fifth century B. C., and that a case can quite fairly be made out for Greck independence in these regards. 
+A more serious attempt to prove connexions of a literary and religious nature is made by A. Götze, who compares the doctrine of correspondence of macrocosm and microcosm as enunciated in the Bundahiśn* with the pseudo- Hippokratean treatise repì éẞdopádov. The latter work appears to have been known to Plato, and therefore goes back to the fourth century B. C., while W. H. Roscher has endeavoured to assign the short treatise to the seventh century and to regard it as the earliest work extant of Greek science and cosmology. The Bundahiśn, of course, is late, and this particular portion cannot even for certain be attributed to the Sassanian recension. On the other hand we have in the Upanisads and even in the Brahmaṇas the idea of the parallelism of macrocosm and microcosm, so that the possibility that oriental influence lies at the basis of the Greek composition cannot be excluded. It may be conjectured also that oriental influence is to be seen in the doctrine of the pseudo-Hippokratean treatise Tepi puoŵr, where the breath is a ground of illness, and even in the doctrine of the humours, for Pāṇini already knows in the fourth century B. C. of wind, bile, and phlegm as affecting health. But, even if we grant that there was influence in these matters, the date is late; the doctrines suggested by Persia were, it is believed, introduced into Greece not before 480 B. c. by the Knidian school of medicine. We know in fact of three Greek physicians at the Persian court, Demokedes under Dareios I, Ktesias under Artaxerxes II, and Apollonides, whom Ktesias mentions. It must, however, be borne in mind that we have no evidence that the doctrines alleged to have influenced Greece were actually known in Persia in the fifth century B. C., and that a case can quite fairly be made out for Greck independence in these regards. 
 
 Still less can we deduce Indian influence on Greece from the famous Orphic hymn, which celebrates the greatness of Zeus, and was in some form or other known to Plato, Aischylos," and Xenophanes. The parallelism which has been seen between the cosmic doctrine of this hymn and that of the Puruṣasuktais interesting, but it is not claimed 10 that it is due to borrowing from India. Rather it is suggested that the Orphic movement owed much to Iranian religious conceptions of the people, which play little part in the reformed religion of Zoroaster. Nor need we doubt Iranian influence on this comparatively late movement. But, so far as ascertained facts go, the evidence of any intellectual 11 connexion of a serious character between 
 
@@ -43,7 +43,7 @@ c. xxviii.
 
 CU. ii. 19; CB. x. 1. 3. 34. 
 
-4 B. Liebich, Zur Einführung in die ind. einheimische Sprachwissenschaft, iv. 22. Kern, fragm. 168. 
+4 B. Liebich, Zur Einfūhrung in die ind. einheimische Sprachwissenschaft, iv. 22. Kern, fragm. 168. 
 
 • Laws, iv. 715 E. 
 
@@ -55,7 +55,7 @@ Frag. 70 (ed. Nauck).
 
 10 See Götze, op. cit., pp. 167 ff. 
 
-11 To cite the presence of Greek gems of the seventh century B.C. in the Punjab (Furtwängler in Samkhya-Philosophic', p. 119) as proof of intellectual influence of India on Greece is decidedly odd. 
+11 To cite the presence of Greek gems of the seventh century B.C. in the Punjab (Furtwāngler in Samkhya-Philosophic', p. 119) as proof of intellectual influence of India on Greece is decidedly odd. 
 
 Chap. 29] 
 
@@ -147,7 +147,7 @@ system of five elements cannot be traced back to Pythagoras himself, and further
 
 In Greece, it should be noted, transmigra- 
 
-tion is optimistic, not a source of pessi- mism; Oltramare, L'histoire des idées théosophiques, i. 102 ff. For the early date of the Orphic views, see Diels, Archiv für Gesch. der Phil. ii. 91 ff. Burnet, Early Greek Philosophy3, pp. 86 ff. Herodotos, iv. 94, 95. 
+tion is optimistic, not a source of pessi- mism; Oltramare, L'histoire des idées théosophiques, i. 102 ff. For the early date of the Orphic views, see Diels, Archiv fūr Gesch. der Phil. ii. 91 ff. Burnet, Early Greek Philosophy3, pp. 86 ff. Herodotos, iv. 94, 95. 
 
 7 
 
@@ -175,9 +175,9 @@ passage which Garbe has unfortunately forgotten in his polemic (Samkhya- Philoso
 
 3 
 
-See also his Indian Mathematics (Cal- cutta, 1915), pp. 3 ff. Cf. also Vogt, Bibl. Math. 1906, pp. 6 ff., and the judgement of Oldenberg, GN. 1917, p. 258, n. 1; Weltanschauung der Bräh- manatexte, p. 233. See also T. Heath, Hist. of Greek Mathematics (1921). 
+See also his Indian Mathematics (Cal- cutta, 1915), pp. 3 ff. Cf. also Vogt, Bibl. Math. 1906, pp. 6 ff., and the judgement of Oldenberg, GN. 1917, p. 258, n. 1; Weltanschauung der Brāh- manatexte, p. 233. See also T. Heath, Hist. of Greek Mathematics (1921). 
 
-• Garbe's assertion that the theorem occurs in the TS. is due to his confusing empirical knowledge with theoretical, an error made by Bürk. 
+• Garbe's assertion that the theorem occurs in the TS. is due to his confusing empirical knowledge with theoretical, an error made by Būrk. 
 
 608 
 
@@ -237,7 +237,7 @@ It is in fact hopeless to seek any real derivation of Greek philosophy from Indi
 
 6 
 
-2 The view that this is meant in BAU, i. 4. 10; AU. ii. 4 (Deussen, Phil. of Up., pp. 317, 318), is clearly speculative; it is not stated in either text and is a bad guess of the commentators who read their own views into the Upanisads wholesale, which unfortunately has misled Deussen. According to Deussen in the former passage Vāmadeva is stated to have recognized his identity with the Brahman, and as a proof of his knowledge of Brahman alleged his acquaintance with his former births as Manu and Surya'. But the Upanisad has nothing whatever as to former births, and the argument is quite different. By knowledge of the Brah- man one becomes the Brahman, as it did itself, and as may the gods and seers; in substantiation of this doctrine is cited the fact that Vamadeva became (not once was ') Manu and Sürya by recognizing his identity with them. (a complete misunderstanding, of course, of the hymn which is not spoken by Vāmadeva cf., last, Charpentier, Die 
+2 The view that this is meant in BAU, i. 4. 10; AU. ii. 4 (Deussen, Phil. of Up., pp. 317, 318), is clearly speculative; it is not stated in either text and is a bad guess of the commentators who read their own views into the Upanisads wholesale, which unfortunately has misled Deussen. According to Deussen in the former passage Vāmadeva is stated to have recognized his identity with the Brahman, and as a proof of his knowledge of Brahman alleged his acquaintance with his former births as Manu and Surya'. But the Upanisad has nothing whatever as to former births, and the argument is quite different. By knowledge of the Brah- man one becomes the Brahman, as it did itself, and as may the gods and seers; in substantiation of this doctrine is cited the fact that Vamadeva became (not once was ') Manu and Sūrya by recognizing his identity with them. (a complete misunderstanding, of course, of the hymn which is not spoken by Vāmadeva cf., last, Charpentier, Die 
 
 19 [H.O.S. 32] 
 
@@ -257,7 +257,7 @@ The Philosophy of the Veda
 
 is that, the nature of the problem of existence being the same everywhere, and the mind of man not being essentially different in the India of the Upanisads and the Greece of the Pythagoreans and Plato, the results of the philosophy tend to resemble each other in diverse points.1 But in philosophy it is not the results which matter: the solution of the riddle of the universe is, we may feel assured, reserved for no mortal, and the comparative value of two philosophies, even when the results in the mere sphere of theory as opposed to practical philosophy are similar, depends in the main on the methods adopted. In this respect the discrepancy between the Upanisads and Plato is sufficient to make us realize from what different foundations the structures of the two edifices of thought were raised. 
 
-One further point of suggested contact between Indian and Greek thought should be noted, as it has the support of the authority of Garbe. Weber 3 suggested that there might possibly be some degree of dependence on India through Alexandria of the philosophy of Neo-Platonism in its doctrine of the Logos, as compared with the position of Vac, speech, in the Brahmanas. In that literature, as we have seen, Vac now and then appears as the instrument by which the creator god carries out the process of the creation of the universe. Moreover, in a few passages there is a suggestion that Vac is even higher than her normal lord, Prajapati: thus at the Vajapeya offering we learn that some offered to her the last of the seventeen oblations in the hope to win her,4 and she is credited with the creation of the whole universe and identified with Vicvakarman." The conception of specch as the final power in the uni- verse, which thus grows up naturally in the Brahmaņas, is contrasted by Weber with the sudden and unexpected appearance of the Logos in Greek philosophy. Garbe, accepting this view, presses it further: the Logos in Greek philosophy came to Neo-Platonism through Philo, and he borrowed it from the Stoics, who in their turn inherited it from Herakleitos whose dependence on India for his philosophy is thus triumphantly proved. The whole theory is clearly without any solid foundation of truth: the essence of the view that the sporadic doctrine of the importance of Vãe should have given rise to the very definite and clear conception of the Logos is in itself wholly incredible, secing that at the most it is reasonable to assume that a 
+One further point of suggested contact between Indian and Greek thought should be noted, as it has the support of the authority of Garbe. Weber 3 suggested that there might possibly be some degree of dependence on India through Alexandria of the philosophy of Neo-Platonism in its doctrine of the Logos, as compared with the position of Vac, speech, in the Brahmanas. In that literature, as we have seen, Vac now and then appears as the instrument by which the creator god carries out the process of the creation of the universe. Moreover, in a few passages there is a suggestion that Vac is even higher than her normal lord, Prajapati: thus at the Vajapeya offering we learn that some offered to her the last of the seventeen oblations in the hope to win her,4 and she is credited with the creation of the whole universe and identified with Vicvakarman." The conception of specch as the final power in the uni- verse, which thus grows up naturally in the Brahmaṇas, is contrasted by Weber with the sudden and unexpected appearance of the Logos in Greek philosophy. Garbe, accepting this view, presses it further: the Logos in Greek philosophy came to Neo-Platonism through Philo, and he borrowed it from the Stoics, who in their turn inherited it from Herakleitos whose dependence on India for his philosophy is thus triumphantly proved. The whole theory is clearly without any solid foundation of truth: the essence of the view that the sporadic doctrine of the importance of Vãe should have given rise to the very definite and clear conception of the Logos is in itself wholly incredible, secing that at the most it is reasonable to assume that a 
 
 " 
 
@@ -297,7 +297,7 @@ The true relation between Greek and Indian philosophy can be seen clearly from t
 
 3 
 
-When in Anaxagoras we find Nous introduced as an clement, comparison with the Samkhya is far from convincing, for nor merely is Nous one, not many, but it clearly bore no resemblance in nature or function to the Puruşa of the Samkhya. 
+When in Anaxagoras we find Nous introduced as an clement, comparison with the Samkhya is far from convincing, for nor merely is Nous one, not many, but it clearly bore no resemblance in nature or function to the Puruṣa of the Samkhya. 
 
 Parallelism again is the cause of most of the similarities which have often been traced between Indian thought and post-Aristotelian philosophy. Garbe has, very wisely, discounted much of the borrowing assumed by the pioneer researches of Lassen, but his own efforts to trace borrowings from the Samkhya in the case of Plotinus are far from happy. The doctrine that the soul is in reality free from sorrow, which, on the contrary is essentially involved in the world of matter, is the development of a Platonic conception, and farther back is Orphic in origin. The conception of the soul as light is Aristotelian, and, as it is an essential doctrine of the Upanisads, derivation from the Samkhya in any event would be wholly unnecessary. The metaphor of the mirror applied to the explanation of consciousness of knowledge is traced by Garbe to the Samkhya, though we have not a scrap of proof that the school knew the doctrine for centuries after his date, since the Kārikā is 
 
@@ -349,7 +349,7 @@ Greece and the Philosophy of India
 
 613 
 
-the contentions of Barua and others, the use of syllogism from the theoretical exposition. A similar error, as has been seen, has led Bürk and Garbe to hold that at the time of the Taittiriya Samhita the Pythagorean problem was known, when in truth all that is recorded is the correct measurement of the sides of a right-angled triangle. 
+the contentions of Barua and others, the use of syllogism from the theoretical exposition. A similar error, as has been seen, has led Būrk and Garbe to hold that at the time of the Taittiriya Samhita the Pythagorean problem was known, when in truth all that is recorded is the correct measurement of the sides of a right-angled triangle. 
 
 We have in fact to admit that the human spirit, in virtue of its character, is able to produce in different parts of the world systems which agree in large measure, without borrowing by one side from the other. The stress laid in the cave metaphor in the Republic by Plato, as by Parmenides, on the relative unreality of the world of sense and experience bears a certain similarity to the conception of the Brahman as alone real, but Plato was the inheritor of the Sophists and Sokrates, and as a result his philosophy is something vitally distinct from any known to India. The metaphor of the chariot and its steeds in the Phaidros has, as we have seen, an interesting parallel in the Katha, but the details of the two are perfectly distinct, for Plato uses the con- ception to illustrate the struggle between the rational and the irrational elements in the soul, and his distinction of Ovμós and miluuia has no real parallel in the Upanisads. In the Bṛhadaranyaka Upanisad1 we hear of procreation as the result of the desire for reunion of the two halves of the primitive being, divided by Prajapati into man and woman. The brilliant myth in the Symposion of Plato has been compared by Deussen,2 who argues that the view departs from truth merely in that it places in the past what lies in the future, for the being that brings together man and woman is the child that is to be born. The two passages must certainly be independent, and afford an excellent instance of what parallelisms can be adduced. 
 

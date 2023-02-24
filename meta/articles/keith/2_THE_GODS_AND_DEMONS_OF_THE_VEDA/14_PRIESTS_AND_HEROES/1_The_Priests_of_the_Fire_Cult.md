@@ -17,11 +17,11 @@ On the other hand, there is abundant proof that the Añgirases were treated by t
 
 }; 
 
-* ÇB. iii. 5. 1. 13 ff.; AB. vi. 34 ; KB. xxx. 
+* ŚB. iii. 5. 1. 13 ff.; AB. vi. 34 ; KB. xxx. 
 
 6; PB. xvi. 12. 1; GB. ii. 6. 14; Hille- 
 
-brandt, Ved. Myth. ii. 166 ff. See also JB. iii. 187 f. ; BÇS. xviii. 22 1. 
+brandt, Ved. Myth. ii. 166 ff. See also JB. iii. 187 f. ; BŚS. xviii. 22 1. 
 
 pp. xvii ff. 
 
@@ -59,7 +59,7 @@ the evidence.
 
 * JAOS. xvi. p. cxxv; AJP. xvii. 426. 
 
-• Macdonell, Ved. Myth., p. 144. For astronomical theories, see Tilak, Arctic Home in the Vedas, pp. 160 ff.; A. C. Das, Rig-Vedic India, i. 451 ff. Cf. Gün- tert, Der arische Weltkönig, pp. 282 f. * xviii. 3. 54; v. 11; vii. 104; xi. 6. 18. 
+• Macdonell, Ved. Myth., p. 144. For astronomical theories, see Tilak, Arctic Home in the Vedas, pp. 160 ff.; A. C. Das, Rig-Vedic India, i. 451 ff. Cf. Gūn- tert, Der arische Weltkönig, pp. 282 f. * xviii. 3. 54; v. 11; vii. 104; xi. 6. 18. 
 
 Chap. 14] 
 
@@ -67,13 +67,13 @@ The Priests of the Fire Cult
 
 225 
 
-when Atharvans receive cows from Aśvatha as gifts, and a Bṛhaddiva Atharvan a seems to have been a real poet. In the ritual they appear to have used honey as real priests. Plants are described as connected with them in the Atharvaveda, as they are connected with the Añgirases, but the Atharvans seem clearly not to be connected with witchcraft and similar practices. The alternation of the compounds Atharväñgiras and Bhṛgvañgiras points to their being closely related to the Bhṛgus, but there is no adequate evidence for the theory of Hillebrandt 3 that the Bhrgus are the clan and Atharvan its priest. 
+when Atharvans receive cows from Aśvatha as gifts, and a Bṛhaddiva Atharvan a seems to have been a real poet. In the ritual they appear to have used honey as real priests. Plants are described as connected with them in the Atharvaveda, as they are connected with the Añgirases, but the Atharvans seem clearly not to be connected with witchcraft and similar practices. The alternation of the compounds Atharvāñgiras and Bhṛgvañgiras points to their being closely related to the Bhṛgus, but there is no adequate evidence for the theory of Hillebrandt 3 that the Bhrgus are the clan and Atharvan its priest. 
 
 The word is probably, not certainly, to be identified with the Athravan of the Avesta, which must mean fire priest, the Avestan Ätar being akin to athar- yu, flaming, used as an epithet of Agni. There is therefore every reason to see in the Atharvans the elevation to divine rank of fire priests of old time.* 
 
 6 
 
-A special figure is that of Dadhyañc Atharvaṇa, who is mentioned once in book vi, which is specially fond of the Atharvans, and elsewhere only in books i, ix, and x. The essential legend of him is that with the head of a horse he declared to the Aśvins the mead. Further, Indra is said to have found in Çaryaṇāvant the head of the horse hidden in the mountains, and to have slain ninety-nine Vṛtras with the bones of Dadhyañc. He is the son of Atharvan and the kindler of fire, and he obtains cows from Indra, and opens cowstalls by Soma's power. It is clearly difficult to make much of this figure; the telling of the mead which is made into the delivery of philosophic doctrine by the theo- logians is interpreted more prosaically by Hillebrandt as referring to the use of honey in the ritual by the Atharvans, which seems clearly attested. But the horse-head suggests connexion with the steed Dadhikrävan, and the name may either mean 'united with curd' or 'turning towards curd in pleasure'. Bergaigne considers that he is to be taken as the Soma, but this is hardly enough to account for his curious form and myth. It has been suggested that he is the lightning, the horse's head indicating speed, the voice the thunder, and the bones the thunderbolts; the connexion of lightning with Soma would explain the reference to Soma, to Indra, and to Agni. The suggestion is ingenious, but the mixed form of the deity suggests that there is at work some conception of demoniac kind: the demons of the Vedic religion often have the confusion of human and animal form, but not the deities. 
+A special figure is that of Dadhyañc Atharvaṇa, who is mentioned once in book vi, which is specially fond of the Atharvans, and elsewhere only in books i, ix, and x. The essential legend of him is that with the head of a horse he declared to the Aśvins the mead. Further, Indra is said to have found in Śaryaṇāvant the head of the horse hidden in the mountains, and to have slain ninety-nine Vṛtras with the bones of Dadhyañc. He is the son of Atharvan and the kindler of fire, and he obtains cows from Indra, and opens cowstalls by Soma's power. It is clearly difficult to make much of this figure; the telling of the mead which is made into the delivery of philosophic doctrine by the theo- logians is interpreted more prosaically by Hillebrandt as referring to the use of honey in the ritual by the Atharvans, which seems clearly attested. But the horse-head suggests connexion with the steed Dadhikrāvan, and the name may either mean 'united with curd' or 'turning towards curd in pleasure'. Bergaigne considers that he is to be taken as the Soma, but this is hardly enough to account for his curious form and myth. It has been suggested that he is the lightning, the horse's head indicating speed, the voice the thunder, and the bones the thunderbolts; the connexion of lightning with Soma would explain the reference to Soma, to Indra, and to Agni. The suggestion is ingenious, but the mixed form of the deity suggests that there is at work some conception of demoniac kind: the demons of the Vedic religion often have the confusion of human and animal form, but not the deities. 
 
 The Bhrgus occur but twenty-three times in all in the Rigveda, and despite the fact that they are marked with the Atharvans and Añgirases as Fathers, they show certain clear distinctions of character from the Añgirases. While the latter are essentially active in the business of the finding of the cows, or aid Indra at least by their songs in it, the task of the Bhrgus is confined to the dis- covery of the fire, its lighting up, and its care. Moreover, in the Brāhmaṇa 
 

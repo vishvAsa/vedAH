@@ -3,7 +3,7 @@ title = "09 The Waters"
 
 +++
 
-Four hymns of the Rigveda and many verses praise the waters as goddesses,* but they have little personality and the element is nearly always plainly to be recognized. Their anthropomorphic form is the Apsaras, who will be treated below. They are mothers, or young wives: they flow in channels to the sea, but they are also celestial: they abide in the seat of the gods and of Mitra and Varuna: Varuņa moves in the midst of them, looking down on the good and base deeds of men. In them Agni dwells and they are his mothers. They cleanse and purify the worshipper, even from moral sins such as lying, cursing, and violence. They bestow long life and wealth and immortality. 
+Four hymns of the Rigveda and many verses praise the waters as goddesses,* but they have little personality and the element is nearly always plainly to be recognized. Their anthropomorphic form is the Apsaras, who will be treated below. They are mothers, or young wives: they flow in channels to the sea, but they are also celestial: they abide in the seat of the gods and of Mitra and Varuna: Varuṇa moves in the midst of them, looking down on the good and base deeds of men. In them Agni dwells and they are his mothers. They cleanse and purify the worshipper, even from moral sins such as lying, cursing, and violence. They bestow long life and wealth and immortality. 
 
 5 
 
@@ -19,7 +19,7 @@ In the Naighaṇṭuka the waters are reckoned as terrestrial only, but in some 
 
 p. 81. See Hillebrandt, Ved. Myth,, iii. 381, n. 5; Macdonell, Ved. Myth., pp. 85, 177; E. Meyer, Gesch. des Alt,3 I. ii. p. 870; Carnoy, Les Indo-Euro- péens, pp. 164–8; von Schroeder, Arische Religion, ii. 422, n. 2, 519, n. 1, 531–4, 544 ff.; O. Schrader, ERE. ii. 38; Helm, Altgerm. Rel, i. 278, n. 1. Cf. Gray, Myth. of All Races, iii. 820, 
 
-822 f. ; Rhys, Celtic Heathendom, p. 220; Brückner, KZ. 1. 195. 
+822 f. ; Rhys, Celtic Heathendom, p. 220; Brūckner, KZ. 1. 195. 
 
 • Grassmann and von Schroeder prefer derivation from pṛc, 'fill '; Bloomfield (Rel. of Veda, p. 111) suggests modula- tion to suggest pari-jana, one who surrounds the folk. Perun's name seems clearly to be from per, * strike '. For their Indo-European character, cf. Car- 
 

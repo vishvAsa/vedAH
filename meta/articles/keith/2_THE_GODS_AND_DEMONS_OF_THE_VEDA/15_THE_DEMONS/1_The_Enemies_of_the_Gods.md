@@ -3,7 +3,7 @@ title = "1 The Enemies of the Gods"
 
 +++
 
-THE enemies of the gods par excellence throughout the Yajurveda, the Atharvaveda, and all the subsequent Vedic literature are beings called Asuras, but this connexion can be traced only in the latest parts of the Rigveda and even there but occasionally. In the singular the meaning is found but three times certainly, used of Varcin,1 Pipru,2 and the wolfish Asura; 3 a fourth case is very doubtful, and may instead refer to Varuna. In the plural there are at most eight cases, predominantly in the tenth book: in them the gods as a body appear opposed to the Asuras as in the later texts, or Indra scatters them. The term Asura is applied also to Namuci, and to Svarbhānu, while Indra, Agni, and the sun are called slayers of Asuras. In the Atharvaveda," on the other hand, the singular is used in the hostile sense three times, the plural thirty times, and the application of the term to the gods, which is found very occasionally in the later literature," is confronted with a regular applica- tion to the enemies of the gods. In the Rigveda, on the contrary, it is the normal attribute of Varuņa and, more rarely, of other high gods. 
+THE enemies of the gods par excellence throughout the Yajurveda, the Atharvaveda, and all the subsequent Vedic literature are beings called Asuras, but this connexion can be traced only in the latest parts of the Rigveda and even there but occasionally. In the singular the meaning is found but three times certainly, used of Varcin,1 Pipru,2 and the wolfish Asura; 3 a fourth case is very doubtful, and may instead refer to Varuna. In the plural there are at most eight cases, predominantly in the tenth book: in them the gods as a body appear opposed to the Asuras as in the later texts, or Indra scatters them. The term Asura is applied also to Namuci, and to Svarbhānu, while Indra, Agni, and the sun are called slayers of Asuras. In the Atharvaveda," on the other hand, the singular is used in the hostile sense three times, the plural thirty times, and the application of the term to the gods, which is found very occasionally in the later literature," is confronted with a regular applica- tion to the enemies of the gods. In the Rigveda, on the contrary, it is the normal attribute of Varuṇa and, more rarely, of other high gods. 
 
 5 
 
@@ -21,7 +21,7 @@ The theory of Haug that the change of meaning of Asura as between Asura in India
 
 * RV. viii. 96. 9; 97.1; x. 157.4; 53. 4; 82.5; 124.5 (dubious); 151.3; Asura, v. 40. 5, 9; x. 131. 4; Asurahan, vi. 22. 4; vii. 13. 1; x. 180. 2. Cf. Mac- donell, JRAS. xxvii. 168–77. 
 
-• Von Bradke, Dyäus Asura, pp. 101 ff. ↑ Ludwig, Rigveda, iv. p. xvii ; TS. i. 6. 6. 
+• Von Bradke, Dyāus Asura, pp. 101 ff. ↑ Ludwig, Rigveda, iv. p. xvii ; TS. i. 6. 6. 
 
 • Criticized by Justi, GGA. 1866, 
 
@@ -33,7 +33,7 @@ pp.
 
 Ved. Stud. i. 142. 
 
-10 Hillebrandt, VOJ. xiii. 320. The deriva- tion from mï, * injure ’(Geldner, Glossar zum RV., p. 135), is clearly wrong ; it is from mā, ‘fashion', RV. v. 85. 5 ; i. 159. 4 ; iii. 38.7; ix. 83.3; cf. Neisser, Festschrift Hillebrandt, pp. 144 ff.; Schayer, Mahdyän. Erlösungslehre, pp. 22 f. 
+10 Hillebrandt, VOJ. xiii. 320. The deriva- tion from mï, * injure ’(Geldner, Glossar zum RV., p. 135), is clearly wrong ; it is from mā, ‘fashion', RV. v. 85. 5 ; i. 159. 4 ; iii. 38.7; ix. 83.3; cf. Neisser, Festschrift Hillebrandt, pp. 144 ff.; Schayer, Mahdyān. Erlösungslehre, pp. 22 f. 
 
 232 
 
@@ -43,9 +43,9 @@ The Gods and Demons of the Veda
 
 popular derivation which saw a negative in the first letter of the word, and vaguely conceived the meaning as 'not heavenly, this view leading to the creation of the term sura for god in the Upaniṣads, and perhaps also by the absence of any collective name for the enemies of the gods proper. The change of Deva was by Darmesteter attributed to the misunderstanding under the régime of Zoroaster of the old phrases 'wrath of gods and men', and 'trouble made by gods or men', but this argument is of very problematic value indeed. 
 
-Hillebrandt has recently opposed the prevalent doctrine, and asserted the opinion that the difference of view is due to religious relations with the early Iranians before the reform of Zoroaster, but after the period of the Rigveda in its main portions. He points out that the real cleavage in view is considerable that the fall of the Nasatya, Indra, Vāta, and Çarva to be demons as Nãonhaithya, Indra, Vato, and Çauru (Saurva) is significant; that the Vedic Kavis and the Uśij family of priests fell in rank; and that there is no trace of the gradual change of sense, which would be expected, if the prevailing view were correct. He also points to the fact that 
+Hillebrandt has recently opposed the prevalent doctrine, and asserted the opinion that the difference of view is due to religious relations with the early Iranians before the reform of Zoroaster, but after the period of the Rigveda in its main portions. He points out that the real cleavage in view is considerable that the fall of the Nasatya, Indra, Vāta, and Śarva to be demons as Nãonhaithya, Indra, Vato, and Śauru (Saurva) is significant; that the Vedic Kavis and the Uśij family of priests fell in rank; and that there is no trace of the gradual change of sense, which would be expected, if the prevailing view were correct. He also points to the fact that 
 
-the names among of Asuras, who appear in the accounts of the Brāhmaṇas, there are some with an Iranian aspect namely Çanda and Marka, the latter being Avestan Mahrka,2 Kavya Uśanã, who is comparable with Kai Kãos, Prahrāda Kāyā- dhava, perhaps Avestan Kayadha, and Sṛma, Iranian Salm, son of Thraë- taona. The evidence is, however, clearly inadequate to prove the thesis, and the efforts of Hillebrandt to show that in the Rigveda occur names of Persian princes who patronized the singers, a fact which would indicate the possibility of close intercourse during the late Rigveda period natural, must be definitely taken to have failed to produce conviction." 
+the names among of Asuras, who appear in the accounts of the Brāhmaṇas, there are some with an Iranian aspect namely Śanda and Marka, the latter being Avestan Mahrka,2 Kavya Uśanã, who is comparable with Kai Kãos, Prahrāda Kāyā- dhava, perhaps Avestan Kayadha, and Sṛma, Iranian Salm, son of Thraë- taona. The evidence is, however, clearly inadequate to prove the thesis, and the efforts of Hillebrandt to show that in the Rigveda occur names of Persian princes who patronized the singers, a fact which would indicate the possibility of close intercourse during the late Rigveda period natural, must be definitely taken to have failed to produce conviction." 
 
 3 
 
@@ -57,9 +57,9 @@ the names among of Asuras, who appear in the accounts of the Brāhmaṇas, there
 
 Another suggestion is made by von Schroeder, based on von Bradke's view of the term Asura, as applied to the gods, as meaning not 'spirit' as usually held, but 'master or 'lord', and cognate with Latin erus. The name would thus normally have applied specifically to Dyaus, as the great sky god, or rather the god created by the moral sense of men, and also regarded as a nature deity, but as usual with the Vedic poets would have been extended 
 
-1 Ved. Myth, iii. 430 ff.; cf. Moulton, Early Zoroastrianism, pp. 115, 140; von Bradke, Dyäus Asura, pp. 108 f. Greek influence for Vedic times (V. Smith, JASB. 1889, p. 133; 1892, p. 60) is implausible. 
+1 Ved. Myth, iii. 430 ff.; cf. Moulton, Early Zoroastrianism, pp. 115, 140; von Bradke, Dyāus Asura, pp. 108 f. Greek influence for Vedic times (V. Smith, JASB. 1889, p. 133; 1892, p. 60) is implausible. 
 
-* TS. iv. 4. 10.1; MS. iv. 6. 3 ; ÇB. iv. 2. 1. 16. Hillebrandt treats him as Death; these demons receive the Çukra and Manthin cups at the Agniṣțoma, in- vented by the gods to rid themselves of them, and the Manthin cup brings dis- ease. Çandikas in RV. ii, 30. 8 are foes of Indra. The Avestan Karapans who 
+* TS. iv. 4. 10.1; MS. iv. 6. 3 ; ŚB. iv. 2. 1. 16. Hillebrandt treats him as Death; these demons receive the Śukra and Manthin cups at the Agniṣṭoma, in- vented by the gods to rid themselves of them, and the Manthin cup brings dis- ease. Śandikas in RV. ii, 30. 8 are foes of Indra. The Avestan Karapans who 
 
 are in evil odour he connects with the kalpa of the Vedic priests. 
 
@@ -77,11 +77,11 @@ The Enemies of the Gods
 
 233 
 
-by henotheism to other gods, such as Varuņa, Parjanya, Indra, Agni, and Savitṛ. The degradation of such a term seems unlikely, and accordingly von Schroeder believes that there originally existed two distinct words, asura, ‘lord', and asura, ' spirit'. In India the latter use prevailed, and the older or contemporaneous asura, 'lord', was given up, because perhaps of risk of confusion with the other term, while the Iranians retained the use of Ahura as ' master'. This suggestion is ingenious, but purely hypothetical, and hardly necessary to explain the facts. Moreover, the idea that asura as 'spirit' is naturally applied to evil beings is decidedly fantastic. The precise sense which asura had in the minds of those who used it is unknown to us, but there is nothing to show that it had any connexion with the worship of the spirits of the dead, as frequently suggested.1 On the contrary, even from its possible connexion with asu,' breath', the word may rather have meant that which is essentially alive and possessed of power and strength." 
+by henotheism to other gods, such as Varuṇa, Parjanya, Indra, Agni, and Savitṛ. The degradation of such a term seems unlikely, and accordingly von Schroeder believes that there originally existed two distinct words, asura, ‘lord', and asura, ' spirit'. In India the latter use prevailed, and the older or contemporaneous asura, 'lord', was given up, because perhaps of risk of confusion with the other term, while the Iranians retained the use of Ahura as ' master'. This suggestion is ingenious, but purely hypothetical, and hardly necessary to explain the facts. Moreover, the idea that asura as 'spirit' is naturally applied to evil beings is decidedly fantastic. The precise sense which asura had in the minds of those who used it is unknown to us, but there is nothing to show that it had any connexion with the worship of the spirits of the dead, as frequently suggested.1 On the contrary, even from its possible connexion with asu,' breath', the word may rather have meant that which is essentially alive and possessed of power and strength." 
 
 3 
 
-The view of these personages taken by the Brahmaṇas is that they are equally sons of Prajapati, though born of a less worthy part of the god, from the descending breath, not the mouth, and that they are in constant conflict with the gods, and have to be defeated by some ritual performances. They are associated with the darkness, untruth, and error, as opposed to the gods. The term 'pertaining to the Asuras' is freely given to any ritual performance which the priests do not approve. Thus the Asuras are said to have only a morning and afternoon pressing, not three as the Vedic Indians, a point which has some affinity to the Avesta, and the mode of making the grave differs.* We have one fairly clear proof that Aryan enemies are included, for the Çatapatha Brahmaṇa 5 has preserved to us two barbarous (mleccha) words used by the Asuras, he 'lavo, which, despite various efforts to interpret them as Assyrian or something equally implausible, seem merely a Prākritic version of the Vedic he 'rayaḥ, ‘O enemies', pointing to an eastern dialect as in Māgadhi. 
+The view of these personages taken by the Brahmaṇas is that they are equally sons of Prajapati, though born of a less worthy part of the god, from the descending breath, not the mouth, and that they are in constant conflict with the gods, and have to be defeated by some ritual performances. They are associated with the darkness, untruth, and error, as opposed to the gods. The term 'pertaining to the Asuras' is freely given to any ritual performance which the priests do not approve. Thus the Asuras are said to have only a morning and afternoon pressing, not three as the Vedic Indians, a point which has some affinity to the Avesta, and the mode of making the grave differs.* We have one fairly clear proof that Aryan enemies are included, for the Śatapatha Brahmaṇa 5 has preserved to us two barbarous (mleccha) words used by the Asuras, he 'lavo, which, despite various efforts to interpret them as Assyrian or something equally implausible, seem merely a Prākritic version of the Vedic he 'rayaḥ, ‘O enemies', pointing to an eastern dialect as in Māgadhi. 
 
 6 
 
@@ -95,13 +95,13 @@ of the gods and conduct.
 
 • TS. vi. 2. 5. 8. 
 
-• ÇB. xiii. 8. 2. 1. 
+• ŚB. xiii. 8. 2. 1. 
 
 * iii. 2. 1. 283, 24; Macdonell and Keith, 
 
 op. cit. ii. 181, 279, 517. 
 
-• PB. xiii. 12. 5; ÇB. i. 1. 4. 16; JB. iii. 
+• PB. xiii. 12. 5; ŚB. i. 1. 4. 16; JB. iii. 
 
 168 ff. 
 
@@ -123,11 +123,11 @@ In comparison with the Asuras the Panis are unimportant demons, who play no grea
 
 The Dāsas or Dasyus are also made into enemies of the gods, though, like the Panis, their primitive function was doubtless different; in their case it probably was that of aborigines, who opposed the Aryan advance, though Hillebrandt changes them into Dahae. That in many cases historic men may be meant when Dāsas are overthrown, is true; but gods of the defeated aborigines may also be denoted, and more generally powers of the air opposed to the gods: Dasyus seek to scale heaven,? Indra vanquishes them from birth,8 he wins the sun and waters after defeating them, a Dasa is husband of the waters, 10 and the Dāsas have seven autumnal forts, doubtless in the air, not on the steppes. 
 
-Of the individual names of the enemies of the gods Vṛtra ranks first; he is a serpent with power over the lightning, mist, hail, and thunder, when he wars with Indra; his mother is Dânu, apparently the stream or the waters of heaven, but he bears that name himself as well as Danava, offspring of Dănu. His abode is hidden in the waters, but is also on a summit or on lofty heights, which suggest the waters of the air. He is by name the encompasser of the waters, rather than the holder back by congealing them: the cloud mountain is, therefore, said to be within his belly. He has ninety-nine forts which Indra shatters as he slays him. From the single Vṛtra the Vedic conception, as often, produces many Vṛtras, and we find also the plural used of foes who must be clearly human, perhaps, however, never without a sub-reference to Vṛtra, though, as the neuter is used in this way, it may be that the use is not simply a direct generalization of Vṛtra as a demon. The Brāhmaṇas, which tell many 1 TS. ii. 4. 3; MS. ii. 1. 11. 
+Of the individual names of the enemies of the gods Vṛtra ranks first; he is a serpent with power over the lightning, mist, hail, and thunder, when he wars with Indra; his mother is Dânu, apparently the stream or the waters of heaven, but he bears that name himself as well as Danava, offspring of Dānu. His abode is hidden in the waters, but is also on a summit or on lofty heights, which suggest the waters of the air. He is by name the encompasser of the waters, rather than the holder back by congealing them: the cloud mountain is, therefore, said to be within his belly. He has ninety-nine forts which Indra shatters as he slays him. From the single Vṛtra the Vedic conception, as often, produces many Vṛtras, and we find also the plural used of foes who must be clearly human, perhaps, however, never without a sub-reference to Vṛtra, though, as the neuter is used in this way, it may be that the use is not simply a direct generalization of Vṛtra as a demon. The Brāhmaṇas, which tell many 1 TS. ii. 4. 3; MS. ii. 1. 11. 
 
 * Op. cit. i. 95 ; (Kl. Ausg.), pp. 96 f. 
 
-* ÇB. xiii. 4. 8. 11. 
+* ŚB. xiii. 4. 8. 11. 
 
 * TB. i. 1. 2. 4-6; Eggeling, SBE. xii, 286. 
 
@@ -169,7 +169,7 @@ ner (Götternamen, p. 206) finds the Danaoi in the Dānava as demons, de- spite 
 
 8 
 
-priest Arbuda Kādraveya, ÇB. xiii. 4. 3. 9. 
+priest Arbuda Kādraveya, ŚB. xiii. 4. 3. 9. 
 
 * RV. v. 60; Rāhu occurs in AV. xix. 9. 10, 
 
@@ -183,7 +183,7 @@ a late passage.
 
 Hopkins, Origin of Religion, pp. 297 ff. 
 
-* ÇB. i. 6. 3. 1 ff. ; v. 5. 4. 2 ; TS. ii. 4. 12. 1. 
+* ŚB. i. 6. 3. 1 ff. ; v. 5. 4. 2 ; TS. ii. 4. 12. 1. 
 
 • Ved. Myth. iii. 581 ff. 
 
@@ -197,4 +197,4 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-Of the Dasa enemies of Indra the chief is Çambara, the son of Kulitara,1 who had 90, 99, or 100 forts and was the great foe of Divodāsa Atithigva. His historical reality seems reasonably assumed. Pipru is styled a wild beast, an Asura, and a Dāsa, and is defeated for the sake of Ṛjiśvan: it seems unneces- sary to see in him a spirit of the air. Dhuni, the roarer, and Cumuri, whose name is not connected with any known root, are apparently chiefs defeated for Dabhiti. Varcin is both Asura and Dasa, but his 1,100 or 100,000 4 warriors do not seem wholly mythical, and the names Anarśani, Ilībiśa, Drbhika, Rudhikrā, and Sṛbinda, which are those of other foes, seem human enough. On the other hand, Namuci, as we have seen, seems to be a demon, and Çuṣna has been explained not as a human enemy of Kutsa, but as a demon of drought from his name interpreted as scorcher." But this seems unlikely : he is child of the mist and moves in the water and a Danava; if, therefore, he is a demon, he is rather the hisser, for Vṛtra's hissing drove Indra away in fear, and this applies to other enemies than drought demons. 
+Of the Dasa enemies of Indra the chief is Śambara, the son of Kulitara,1 who had 90, 99, or 100 forts and was the great foe of Divodāsa Atithigva. His historical reality seems reasonably assumed. Pipru is styled a wild beast, an Asura, and a Dāsa, and is defeated for the sake of Ṛjiśvan: it seems unneces- sary to see in him a spirit of the air. Dhuni, the roarer, and Cumuri, whose name is not connected with any known root, are apparently chiefs defeated for Dabhiti. Varcin is both Asura and Dasa, but his 1,100 or 100,000 4 warriors do not seem wholly mythical, and the names Anarśani, Ilībiśa, Drbhika, Rudhikrā, and Sṛbinda, which are those of other foes, seem human enough. On the other hand, Namuci, as we have seen, seems to be a demon, and Śuṣna has been explained not as a human enemy of Kutsa, but as a demon of drought from his name interpreted as scorcher." But this seems unlikely : he is child of the mist and moves in the water and a Danava; if, therefore, he is a demon, he is rather the hisser, for Vṛtra's hissing drove Indra away in fear, and this applies to other enemies than drought demons. 

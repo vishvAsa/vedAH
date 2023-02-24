@@ -7,7 +7,7 @@ anuyājas, afterofferings, 320. anurupa, verses in Castras,
 
 315, 316. 
 
-anu-vaşatkāra, 
+anu-vaṣatkāra, 
 
 secondary 
 
@@ -35,17 +35,17 @@ apāna, inspiration, 453, 553,
 
 n. 7, 556, 564, 565. apapa, epithet of slayer at 
 
-animal sacrifice, 274, n. 7. apāmärga, plant, 265, 384, 
+animal sacrifice, 274, n. 7. apāmārga, plant, 265, 384, 
 
 404. 
 
-apavya, libations, 325. apiŚarvara, Indra as, 335. apūrva, Mimansă doctrine 
+apavya, libations, 325. apiŚarvara, Indra as, 335. apūrva, Mimansā doctrine 
 
 of, 574, n. 3. aptoryāma (aptoryāma),form 
 
-of sacrifice, 384, 336. apsaras, meaning of, 182. apsujit, sense of, 81, n. 2. abhipitva, sense of, 255. abhiplava şaḍaha, form of 
+of sacrifice, 384, 336. apsaras, meaning of, 182. apsujit, sense of, 81, n. 2. abhipitva, sense of, 255. abhiplava ṣaḍaha, form of 
 
-sacrifice, 848, 351. abhişecaniya, aspersion of 
+sacrifice, 848, 351. abhiṣecaniya, aspersion of 
 
 the king, 840, n. 6. amānava, superhuman, used 
 
@@ -89,9 +89,9 @@ sarases, 184. aŚvatva, horse-nature, 484. aŚvamedha, horse sacrifice,
 
 40, 63, 105, 114, 118, 119, 175, 195, 198, 199, 200, 202, 213, 218, 227, 254, 260, 262, 263, 279, 285, 304, 311, 343-7, 389, 476. 
 
-aša (urta), right, 35, 88. aṣāḍha, brick, 354. aṣṭakās, offerings on the, 93, 177, 197, 201, 280, 300, 372, 428, 429. asādhu, evil, 479, n. 7. asu, breath, spirit, 288, 403, 
+aśa (urta), right, 35, 88. aṣāḍha, brick, 354. aṣṭakās, offerings on the, 93, 177, 197, 201, 280, 300, 372, 428, 429. asādhu, evil, 479, n. 7. asu, breath, spirit, 288, 403, 
 
-404, 405, 447, 453. asunīti, spirit-leading, 405. asura (on etym. cf. Güntert, Der arische Weltkönig, pp. 97 ff.), 282. 
+404, 405, 447, 453. asunīti, spirit-leading, 405. asura (on etym. cf. Gūntert, Der arische Weltkönig, pp. 97 ff.), 282. 
 
 676. 
 
@@ -109,7 +109,7 @@ ahina, sacrifices, 348, 349. ahrdayajña, unpleasant,
 
 561, 562. 
 
-āgas, sin, 249, 485. Agnimaruta, cup, 330. ägnidhriya, fire, 328. āgrayaṇa, ceremony, 323, 
+āgas, sin, 249, 485. Agnimaruta, cup, 330. āgnidhriya, fire, 328. āgrayaṇa, ceremony, 323, 
 
 350. 
 
@@ -117,7 +117,7 @@ agrayana, cup, 329. agrahāyaṇī, festival, 201, n.
 
 6, 362. 
 
-äghāra, butter libation, 319. aghṛni, epithet of Puşan, 
+āghāra, butter libation, 319. aghṛni, epithet of Puṣan, 
 
 107. 
 
@@ -133,9 +133,9 @@ with water, 167. adhavaniya, tub, 255, 328,
 
 ananda, bliss, or ananta, eternity, of absolute, 519. anandamaya, epithet of self, 
 
-518, 521. aptya, derivation of (cf. Güntert, Der arische Weltkonig, p. 33: āpi, friend), 135, n. 5. apyāyana, swelling out of Soma shoots, 167, 316. apri, invocations, 164, 185, 
+518, 521. aptya, derivation of (cf. Gūntert, Der arische Weltkonig, p. 33: āpi, friend), 135, n. 5. apyāyana, swelling out of Soma shoots, 167, 316. apri, invocations, 164, 185, 
 
-275,293,318,325,340,623. amantraṇa, altar, 159, n. 2. ayuşya, ceremony to pro- duce long life, 367, 368. 
+275,293,318,325,340,623. amantraṇa, altar, 159, n. 2. ayuṣya, ceremony to pro- duce long life, 367, 368. 
 
 Sanskrit Index 
 
@@ -143,7 +143,7 @@ ayus, form of ukthya sacri-
 
 fice, 351. ārya-satya, Aryan or noble 
 
-truths, 559, n. 11. ävasathya, fire, 159, 258, 
+truths, 559, n. 11. āvasathya, fire, 159, 258, 
 
 290. 
 
@@ -167,7 +167,7 @@ n. 1.
 
 indriya, senses, 554. iṣṭāpārta, sacrifice and gifts, 250, 409, 478, n. 5, 573, n. 11. 
 
-işti, sacrifice, 313, 319. 
+iṣti, sacrifice, 313, 319. 
 
 ukthavirya, formula, 315. ukthya, cup, 329. ukthya, sacrifice, 327, 334, 
 
@@ -187,11 +187,11 @@ lete, 476, n. 3. utsarga, dismissal festival,
 
 372. 
 
-utsargiņām ayana, form 
+utsargiṇām ayana, form 
 
-of Sattra, 352, n. 2. udayaniya işti, concluding 
+of Sattra, 352, n. 2. udayaniya iṣti, concluding 
 
-offering, 330, 331. udavasäniya işți, concluding 
+offering, 330, 331. udavasāniya iṣṭi, concluding 
 
 offering, 331. 
 
@@ -243,7 +243,7 @@ cḍaka, ram, not sacrificed,
 
 324 
 
-ctad vai tat, that is this, 524. enas, sin, 249, 485. cmuşa, fierce, 111. esa, as signal for recitation 
+ctad vai tat, that is this, 524. enas, sin, 249, 485. cmuṣa, fierce, 111. esa, as signal for recitation 
 
 of the Castra, 315. 
 
@@ -253,7 +253,7 @@ aikavartanna (probably cor- responding to eka and urt), in Mitanni, 617. aikadac
 
 aitihya, tradition, 482. 
 
-Aindravayava, cup, 329. aiştiki, form of sautrāmaṇī, 
+Aindravayava, cup, 329. aiṣtiki, form of sautrāmaṇī, 
 
 353, n. 1. 
 
@@ -263,7 +263,7 @@ the porridge, 159.
 
 om, 491, 519, 589, n. 4, 590, 
 
-591; offered to, 213. şadhi, 175, and see Plants. 
+591; offered to, 213. ṣadhi, 175, and see Plants. 
 
 aupaniṣada, vow, 371. aumina, linen, 633. 
 
@@ -287,7 +287,7 @@ kāraṇa, 483, 562, and see
 
 Causality. 
 
-käriristi, offering, 135, 324. kārya, result, 482. 
+kāriristi, offering, 135, 324. kārya, result, 482. 
 
 kāryakāla, time as an effect, 
 
@@ -299,11 +299,11 @@ p. 366; 1924, p. 94), magic, 396, n. 2. kāla, 444, 485, 500; and see
 
 Time. 
 
-kiyämbu, plant, 420. kuntapa, hymn, 400. kulāyini, form of arrange- 
+kiyāmbu, plant, 420. kuntapa, hymn, 400. kulāyini, form of arrange- 
 
 ment of verses, 314. kuŚa, grass, 111, 317, 363, 
 
-364, 366, 371. kuşmanda, ceremony, 356. kṛtyā, magic, 40. 
+364, 366, 371. kuṣmanda, ceremony, 356. kṛtyā, magic, 40. 
 
 Sanskrit Index 
 
@@ -385,7 +385,7 @@ caturhoty, formula, 356. camasas, goblets of the
 
 priests, 329. 
 
-camus, bowls, 255. carakă, form of sautrāmaṇī, 
+camus, bowls, 255. carakā, form of sautrāmaṇī, 
 
 352, 353. 
 
@@ -409,7 +409,7 @@ jalan, epithet of absolute,
 
 491, 493, 506. 
 
-jalășa, Rudra's remedy, 143, 
+jalāṣa, Rudra's remedy, 143, 
 
 152. 
 
@@ -435,7 +435,7 @@ jhānas, forms of trance,
 
 Buddhist, 595, n. 1. 
 
-taks, fashion, 205. takşan, carpenter, 298. tat tvam asi, that thou art, 
+taks, fashion, 205. takṣan, carpenter, 298. tat tvam asi, that thou art, 
 
 506, 524. tadvanam, epithet of abso- 
 
@@ -463,7 +463,7 @@ con-
 
 trasted with Christian, 447. 
 
-täbuva, alleged identity with 
+tābuva, alleged identity with 
 
 taboo, 632, 633. titau, Iranian form, 8. tithi, lunar day, not early 
 
@@ -473,7 +473,7 @@ n. 6.
 
 taimāta, dubious sense of, 
 
-26, n. 4, 81, n. 2. turāyaṇa işti, sacrifice, 324. tūṣṇīmjapa, in morning 
+26, n. 4, 81, n. 2. turāyaṇa iṣti, sacrifice, 324. tūṣṇīmjapa, in morning 
 
 litany, 815. tristubh, metre, 255. tvaks, fashion, 205. tvac, see Skin. 
 
@@ -481,13 +481,13 @@ tha,imperative termination,
 
 500, n. 9. 
 
-dakşa, effective desire, 484. daksina, fire, 157, 159, 254, 
+dakṣa, effective desire, 484. daksina, fire, 157, 159, 254, 
 
-268, 288, 316, 317, 318, 820, 821, 322, 344, 473. dakṣiņā, as epithet of Dawn, 
+268, 288, 316, 317, 318, 820, 821, 322, 344, 473. dakṣiṇā, as epithet of Dawn, 
 
 121. 
 
-daksiņās, fees, 299, 352, 495. 
+daksiṇās, fees, 299, 352, 495. 
 
 Sanskrit Index 
 
@@ -559,7 +559,7 @@ dhāyyās, verses in Śastras,
 
 dhāraṇā, fixing in memory, 
 
-372, 591. dhāragrahas, cups, 329. dhişană, might,' 401; see 
+372, 591. dhāragrahas, cups, 329. dhiṣanā, might,' 401; see 
 
 also Dhiṣaṇā. dhiṣnyas, of priests, 328. dhi, meditation, 251, 448, 
 
@@ -575,7 +575,7 @@ nakra, offered to Varuna,
 
 175. 
 
-naraka loka, hell, 409. na (or nā) vartanna (ap- parently nava and vṛt), in Mitanni, 617. nänätva, difference, 483. nändimukha, Fathers as, 
+naraka loka, hell, 409. na (or nā) vartanna (ap- parently nava and vṛt), in Mitanni, 617. nānātva, difference, 483. nāndimukha, Fathers as, 
 
 427. 
 
@@ -609,7 +609,7 @@ activity, 483.
 
 from 
 
-nişad, form of literature, 
+niṣad, form of literature, 
 
 492, n. 1. 
 
@@ -651,7 +651,7 @@ enumera-
 
 tion, 548. parikṣya, matters requiring 
 
-investigation, 556. parokşa, beyond percep- 
+investigation, 556. parokṣa, beyond percep- 
 
 tion, 482. parokṣakāma, loving the 
 
@@ -663,17 +663,17 @@ fluence of, 420. palaŚa, wood, 319, 341, 363,
 
 167; form of Agni, 317. pavāka (i. e. pāvaka), form 
 
-of Agni, 317. paka, offerings, 359, 588. pātā, plant, 402, n. 5. pāņi, see Hands. pātnivata, cup, 330, 334. pada, see Feet. 
+of Agni, 317. paka, offerings, 359, 588. pātā, plant, 402, n. 5. pāṇi, see Hands. pātnivata, cup, 330, 334. pada, see Feet. 
 
 papa, evil, 249, 479, n. 7. 
 
 Sanskrit Index 
 
-papa-kṛtyā, 479, n. 5. pāpman, evil, 381. payu, see Anus. pärtha, libations, at rāja- 
+papa-kṛtyā, 479, n. 5. pāpman, evil, 381. payu, see Anus. pārtha, libations, at rāja- 
 
-siya, 341. pārvaṇa Śräddha,fortnightly offerings, to the dead, 428. 
+siya, 341. pārvaṇa Śrāddha,fortnightly offerings, to the dead, 428. 
 
-päviravi, daughter of the 
+pāviravi, daughter of the 
 
 lightning, 173. pinḍapitṛryajña, offering to 
 
@@ -695,7 +695,7 @@ punarādheya, 289, 317, 318, and see Re-establishment of the fires. punarmṛtyu
 
 death. 
 
-puruşa, spirit (cosmic and individual), 104, 208, 220, 261, 282, 352, 355, 405, 437, 438, 444, 452, 453, 454, 469, 503, 511, 524, 535, 536, 537, 542, 544, 558, 559, 502, 582, n. 5, 586, 619-21. puruṣasūkta, 8, 104, 125, 189, 352, 405, 438, 480, 486, 602, puronuväkyä, verse, 204, 
+puruṣa, spirit (cosmic and individual), 104, 208, 220, 261, 282, 352, 355, 405, 437, 438, 444, 452, 453, 454, 469, 503, 511, 524, 535, 536, 537, 542, 544, 558, 559, 502, 582, n. 5, 586, 619-21. puruṣasūkta, 8, 104, 125, 189, 352, 405, 438, 480, 486, 602, puronuvākyā, verse, 204, 
 
 295. 
 
@@ -731,7 +731,7 @@ intelligent self, 557. prajñānaghana, made up of intelligence, 520, n. 2. praj
 
 ments, 557. 
 
-pratipad, in Śastras, 315. pratihāra, part of Săman, 
+pratipad, in Śastras, 315. pratihāra, part of Sāman, 
 
 314. 
 
@@ -761,7 +761,7 @@ prānamaya, epithet of self,
 
 518. 
 
-präṇāyāma, regulation of 
+prāṇāyāma, regulation of 
 
 the breath, 501. 
 
@@ -825,7 +825,7 @@ Buddhist
 
 term, 550. brahmaṇaḥ parimaraḥ, a 
 
-certain rite, 447. brahmadviş, sense of, 616. 
+certain rite, 447. brahmadviṣ, sense of, 616. 
 
 Sanskrit Index 
 
@@ -889,7 +889,7 @@ so-and-so), 554. manas, 403, 612, and see
 
 Mind. 
 
-manişă, holy thought, 251. 
+maniṣā, holy thought, 251. 
 
 manuṣyayajña, in domestic 
 
@@ -919,15 +919,15 @@ at
 
 pravargya, 68, 332, 333. mahāvrata, sacrifice, 55, 
 
-351, 852, 354, 374, 384, 476, 490, 519. mahiman, greatness, 485. mätariŚvan, derivation of, 
+351, 852, 354, 374, 384, 476, 490, 519. mahiman, greatness, 485. mātariŚvan, derivation of, 
 
 138. 
 
-mātrā, element, 468, 558. manava, man, 621. mānasa, spiritual, 578. mānuşa, man, 621. māyā, illusion, 281, 247, 446, 468, 508, 529-32, 540, 549, 594. mārjālīya, hearth, 328. māsika gräddha, monthly offerings to the dead, 428. miḍhvāns, epithet of Rudra, 
+mātrā, element, 468, 558. manava, man, 621. mānasa, spiritual, 578. mānuṣa, man, 621. māyā, illusion, 281, 247, 446, 468, 508, 529-32, 540, 549, 594. mārjālīya, hearth, 328. māsika grāddha, monthly offerings to the dead, 428. miḍhvāns, epithet of Rudra, 
 
 143, n. 3. 
 
-mimänsä, investigation, 488. mukhya praṇa, form of 
+mimānsā, investigation, 488. mukhya praṇa, form of 
 
 breath, 453. 
 
@@ -943,11 +943,11 @@ mṛgayu, epithet of Rudra,
 
 144, n. 13. mṛdhravac, of hostile speech, 
 
-10, n. 3. medha, intelligence, 372. medhajanana, ceremony to engenderintelligence,867. Maitrāvaruņa, cup, 329.maitri, in Buddhism, 398, 
+10, n. 3. medha, intelligence, 372. medhajanana, ceremony to engenderintelligence,867. Maitrāvaruṇa, cup, 329.maitri, in Buddhism, 398, 
 
 n. 4. 
 
-mokşa, see Salvation. mleccha, barbarian, 233. 
+mokṣa, see Salvation. mleccha, barbarian, 233. 
 
 yakṣma, self of, 451. yajalayaḥ, form of offerings, 
 
@@ -957,7 +957,7 @@ yajamāna, sacrificer, 279,
 
 289, 358, 359. yajña, sacrifice, 34, 460. yajñavāstu, ceremony, 359. yama, discipline, 591. yava, as purifying, 420. yajyas, verses of offering, 
 
-255, 294, 295, 296. yātu, sorcerer, 34, 237, 238. yätudhana, sorcefer, 238, 
+255, 294, 295, 296. yātu, sorcerer, 34, 237, 238. yātudhana, sorcefer, 238, 
 
 240. 
 
@@ -1035,7 +1035,7 @@ vipṛc, sense of, 624. vipra, poet, 402. vibhakti, case form, 317, 484. vibhu, 
 
 vimuco napāt, epithet of 
 
-Pūṣan, 106. viŚeșa, peculiarity, 539. vicpati, epithet of Agni, 158. viŚvajit, day of a Sattra, 
+Pūṣan, 106. viŚeṣa, peculiarity, 539. vicpati, epithet of Agni, 158. viŚvajit, day of a Sattra, 
 
 350. 
 
@@ -1043,11 +1043,11 @@ viŚvajit Śilpa, offering, 336. viŚvajyotis, brick, 354. viŚvāvasu, possessi
 
 good things, 179. viŚve devāḥ and sarve devāḥ, 
 
-213, n. 2; see All-gods, vis, base of Vișnu, 109. 
+213, n. 2; see All-gods, vis, base of Viṣnu, 109. 
 
 681 
 
-visaya, object, 483. vişuvant, day in a Sattra, 
+visaya, object, 483. viṣuvant, day in a Sattra, 
 
 350, 351, 573. 
 
@@ -1055,7 +1055,7 @@ visarga, see Evacuation. viharana, transposition of
 
 the verses, 253. vici, hell, 410. viratara, wood, 367. virya, strength, 485. vṛddhi graddha, kind 
 
-offerings to the dead, 427. vetasa, plant, 142, n. 3. vedană, feeling in Buddhist terminology, 566, 578. 
+offerings to the dead, 427. vetasa, plant, 142, n. 3. vedanā, feeling in Buddhist terminology, 566, 578. 
 
 of 
 
@@ -1073,7 +1073,7 @@ vaiŚvadeva, offerings, 177,
 
 vaiŚvānara, fire, 254, 264, 
 
-288, 853, 493, 517. vauşat, call, 295. vyasti, sense dubious, 506, 
+288, 853, 493, 517. vauṣat, call, 295. vyasti, sense dubious, 506, 
 
 n. 11. 
 
@@ -1085,7 +1085,7 @@ vyahṛtis, exclamations, 367. vyuptakeŚa, epithet of Muni,
 
 150. 
 
-vyuşti, offerings, 343. vyudhachandas, with metres 
+vyuṣti, offerings, 343. vyudhachandas, with metres 
 
 transposed, 350. 
 
@@ -1127,7 +1127,7 @@ name, 368.
 
 Śamitra, fire, 325, 859. 
 
-Śälina, type of householder, 
+Śālina, type of householder, 
 
 588. 
 
@@ -1135,13 +1135,13 @@ name, 368.
 
 148. 
 
-Śipivista, epithet of Visņu, 
+Śipivista, epithet of Visṇu, 
 
-108, 109, n. 3. siva, as epithet of Rudra (cf. Güntert, Der arische Weltkönig, p. 79), 143, n. 2. 
+108, 109, n. 3. siva, as epithet of Rudra (cf. Gūntert, Der arische Weltkönig, p. 79), 143, n. 2. 
 
 ŚiŚna, see Penis. ŚiŚnadeva, phallus worship- 
 
-pers, 75. cipāla, plant, 411. Śu, Śavas, 633, n. 4. Śukra, cup, 232, n. 2, 329; epithet of Soma, 167. Śukriya, vow, 371. Śuci, form of Agni, 317; epithet of Soma, 167; epithet of Rudra, 142. Śuşma, alleged ecstatic im- 
+pers, 75. cipāla, plant, 411. Śu, Śavas, 633, n. 4. Śukra, cup, 232, n. 2, 329; epithet of Soma, 167. Śukriya, vow, 371. Śuci, form of Agni, 317; epithet of Soma, 167; epithet of Rudra, 142. Śuṣma, alleged ecstatic im- 
 
 plication of, 401. Śula, as Vedic weapon of 
 
@@ -1155,7 +1155,7 @@ fri, beauty, 249; see also
 
 Cri. 
 
-frotra, see Ear and Hearing. Śrauşat, sacrificial call, 253. Śloka, sound of sun, 106. Śvasatha, of Vṛtra, 130. 
+frotra, see Ear and Hearing. Śrauṣat, sacrificial call, 253. Śloka, sound of sun, 106. Śvasatha, of Vṛtra, 130. 
 
 saḍavatta, portion of Agni- 
 
@@ -1165,7 +1165,7 @@ dhra, 320. sodaŚin, sacrifice, 69, 327,
 
 samsad, gathering for dis- 
 
-cussion, 492. samsṛpāṁ havinşi, offerings, 
+cussion, 492. samsṛpāṁ havinṣi, offerings, 
 
 342. 
 
@@ -1175,7 +1175,7 @@ saṁskāras, impressions, 578. samsparŚa, contact, 557. samkalpa, conception, 
 
 Sanskrit Index 
 
-saccakiriya, in Păli litera- 
+saccakiriya, in Pāli litera- 
 
 ture, 895, n. 7. sanjñā, perception, 578. samjñāna, 405, n. 3, 578. satobṛhati, metre, 315. sattavartanna (possibly con- nected with sapta and vrt), Mitanni term, 617. sattra, see Sattra. sativa, as a guna, 585, 539; 
 
@@ -1193,7 +1193,7 @@ in
 
 298, 328, 329. sapinda, relationship, 373. saptahotṛ, formulae, 330. sabha, assembly, dicing hall, 
 
-159, 258, 200, 343, 625, sabhya, fire, 317. samaşti, 
+159, 258, 200, 343, 625, sabhya, fire, 317. samaṣti, 
 
 sensc 
 
@@ -1201,13 +1201,13 @@ dubious,
 
 506, n. 11. samadhi, absorption, 591. samana, a form of breath, 
 
-564, 565. samävartana, ceremony at end of studentship, 300. sampata, remnant of butter 
+564, 565. samāvartana, ceremony at end of studentship, 300. sampata, remnant of butter 
 
 offering, 397. samyagjñāna, Jain technical 
 
 term, 504. 
 
-samrāj, epithet of Varuņa, 
+samrāj, epithet of Varuṇa, 
 
 96. 
 
@@ -1245,11 +1245,11 @@ sāmidheni, kindling verses,
 
 319. 
 
-särüpya, co-ordination, as principle of knowledge, 
+sārūpya, co-ordination, as principle of knowledge, 
 
 537. 
 
-Săvitra, cup, 880. siddhi, sense dubious, 500, 
+Sāvitra, cup, 880. siddhi, sense dubious, 500, 
 
 n. 11. sidhraka, wood, 344. sukha, pleasure, 556. suparna, bird, 
 
@@ -1263,7 +1263,7 @@ susayaḥ, doctrine of. 564,
 
 n. 3. 
 
-suṣumņā, vein, 591. sustuti, lovely praise, 251. suhärdasa, pleasant, 556, 
+suṣumṇā, vein, 591. sustuti, lovely praise, 251. suhārdasa, pleasant, 556, 
 
 nn. 2, 8. suktavāka, formula, 
 
@@ -1277,7 +1277,7 @@ as,
 
 sūta-sava, offering, 340. sūkṣma, sense of, 583, n. 3. srj, create, 80, n. 3. somavantaḥ, 
 
-322. sautrāmaņi, sacrifice, 131, 255, 265, 271, 283, 285, 317, 389. skandha, in Buddhism, 209, 
+322. sautrāmaṇi, sacrifice, 131, 255, 265, 271, 283, 285, 317, 389. skandha, in Buddhism, 209, 
 
 578. 
 
@@ -1301,7 +1301,7 @@ performed bath, 372.
 
 1. 
 
-sparŚa, see Touch. smrti, memory, 482. sräktya, amulet, 388, n. sruc, ladle, 254. svadha, sacrificial call, 147, 
+sparŚa, see Touch. smrti, memory, 482. srāktya, amulet, 388, n. sruc, ladle, 254. svadha, sacrificial call, 147, 
 
 322, 407. 
 

@@ -35,7 +35,7 @@ The mode of study was simple: the two sat down north of the fire, the
 
 1 For the initiation as a rebirth, cf. Hauer, 
 
-Die Anfänge der Yogapraxis im alten 
+Die Anfānge der Yogapraxis im alten 
 
 2 
 
@@ -61,7 +61,7 @@ The beginning of each term of study is marked by a festival under the Nakṣatra
 
 4* 
 
-CGS. iv. 5; BhGS. iii. 8-11; MGS. i. 4. 1-5; PGS. ii. 10; HGS. ii. 18; Bühler, Ind. Ant. xxiii. 238 ff., whose conclusions as to the antiquity of Vedic practices are not to be accepted (above, Part I, Chap. 1). 
+CGS. iv. 5; BhGS. iii. 8-11; MGS. i. 4. 1-5; PGS. ii. 10; HGS. ii. 18; Būhler, Ind. Ant. xxiii. 238 ff., whose conclusions as to the antiquity of Vedic practices are not to be accepted (above, Part I, Chap. 1). 
 
 372 
 
@@ -73,7 +73,7 @@ by means of offerings of grains with ghee and milk, and with the repetition of e
 
 3 
 
-The term comes to an end in Magha or Taișa, after from 5 to 6 or occasionally even only four months' duration: it is marked by the Utsarga,2 'dismissal' festival, where offerings are made to gods, seers, &c., and a bath is taken by teacher and pupils, of whom the number to be taken by any one teacher is in no wise limited. After this an old rite of offering to the Fathers is described by HiranyakeŚin in full detail. Even, however, after this Utsarga, which normally brought work to an end for the year, some might resume their studies and continue working throughout the year. The total length of the study might extend to forty-eight years, or twelve for each Veda, or such time as was necessary to learn each clearly the matter was not in the slightest degree fixed. The end of the period of learning is marked by the final bath, which is best taken when the student has completed his instruction and performed all his vows, but may be taken if either is complete. With the bath, the exact time for which is variously stated, are combined shaving, hair cutting, nail paring, and teeth washing. The hair is thrown away in a cow stall, beside an Udumbara or Darbha grass. The whole of the pupil's outfit is cast into the water, and the Snātaka, one who has bathed ', puts on a new suit, shoes, sunshade, staff, garland, powder, salve for hands and lips, eye-salve and turban, and the teacher does likewise; or the teacher alone can adopt this gay clothing. The student has also ear-rings and a mirror. All day he must keep from the sunlight and remain silent till the stars appear: then he goes east or north, pays reverence to the quarters, and to the stars and the moon, converses with his friends and goes to where he expects to receive the Argha gift, which is appropriate for a Snataka immediately after the bath. For the first days after his completion of his study, he should eat no flesh, not 
+The term comes to an end in Magha or Taiṣa, after from 5 to 6 or occasionally even only four months' duration: it is marked by the Utsarga,2 'dismissal' festival, where offerings are made to gods, seers, &c., and a bath is taken by teacher and pupils, of whom the number to be taken by any one teacher is in no wise limited. After this an old rite of offering to the Fathers is described by HiranyakeŚin in full detail. Even, however, after this Utsarga, which normally brought work to an end for the year, some might resume their studies and continue working throughout the year. The total length of the study might extend to forty-eight years, or twelve for each Veda, or such time as was necessary to learn each clearly the matter was not in the slightest degree fixed. The end of the period of learning is marked by the final bath, which is best taken when the student has completed his instruction and performed all his vows, but may be taken if either is complete. With the bath, the exact time for which is variously stated, are combined shaving, hair cutting, nail paring, and teeth washing. The hair is thrown away in a cow stall, beside an Udumbara or Darbha grass. The whole of the pupil's outfit is cast into the water, and the Snātaka, one who has bathed ', puts on a new suit, shoes, sunshade, staff, garland, powder, salve for hands and lips, eye-salve and turban, and the teacher does likewise; or the teacher alone can adopt this gay clothing. The student has also ear-rings and a mirror. All day he must keep from the sunlight and remain silent till the stars appear: then he goes east or north, pays reverence to the quarters, and to the stars and the moon, converses with his friends and goes to where he expects to receive the Argha gift, which is appropriate for a Snataka immediately after the bath. For the first days after his completion of his study, he should eat no flesh, not 
 
 1ŚGS. iv. 7 gives many cases; AGS. iv. 4. 
 

@@ -33,7 +33,7 @@ senses, the vital airs, and the body, which, while in reality no more affecting 
 
 The cause of the appearance in this restricted form of the supreme soul is given by Śankara as the effect of ignorance, and with him that explanation ends the matter, since it is impossible to go further than this. In the Upanisads, apart from the many creation legends which yield no philosophic result, the actual nature of the problem is rarely expressed and very slightly explained. The view of the PraŚna 4 is that breath is born from the self, and it is likened to the shadow on a man. Unhappily the rest of its explanation is obscure if rendered according to grammar, it distinctly says that the position is involuntary (manokṛta) on the part of the self: the version of Sāyaṇa, which is defiant of grammar, takes it that the result is produced by the previous acts of the will of the man in question; it is possible that we must amend so as merely to say that the mind attaches itself to the breath, but this suggestion of Böhtlingk's 5 is doubtful, and the best plan seems to be 
 
-1 Cf. A. Guha, Jivätman in the Brahma- 
+1 Cf. A. Guha, Jivātman in the Brahma- 
 
 Sutras (Calcutta, 1921). 
 
@@ -55,7 +55,7 @@ to recognize that the process is not voluntary, which is in agreement with the V
 
 The description of the parts of the individual souls in the Upanisads is far from uniform or homogeneous. In the Samkhya, as we have seen, it is a union of the individual spirit with the elements of intellect, individuation, mind, the five organs of intelligence and the five organs of action, and the subtle elements as well as the fine parts of the gross elements. In the Vedanta the position is not essentially different: the soul is the absolute enveloped in the Upadhis in this case they are mind, the ten senses, the five breaths, which are the organs of nutrition, and the subtle body, that is the subtle parts of the elements which form the seeds of the body. In both cases there must be added the psychic disposition which causes the kind of rebirth and secures that rebirth, the Bhāva of the Samkhya, the Karman of Śankara. 
 
-In the Upanisads the terminology centres mainly in the word Prāṇa, which every now and then, as we have seen, is treated as a synonym of the absolute, but which on the whole is more normally of less consequence. The Prāņa often represents the senses, but the numbers of Prāņas, into which it is divided, differ greatly: the origin of the various calculations may certainly be traced in part at least to the Atharvaveda, where we are told of the head as a drinking bowl with seven seers in the apertures: the sense ascribed to the seven appears to have been the eyes, ears, nostrils, and the organ of taste, for the Bṛhadaraṇyaka Upaniṣad adds to the seven an eighth in the form of speech. The Upanisads normally enumerate a series of five, breath, eyc, ear, mind, and speech, but these are sometimes reduced to four or less; thus the Jaiminiya Upaniṣad Brāhmaṇa repeatedly dwells on the series, speech, mind, sight, hearing, and the breath or breaths; the cosmic parallels are fire, moon, sun, the quarters (i. e. space), and wind. A different. view is that of a passage of the Bṛhadaranyaka Upanisad,' where the organs 
+In the Upanisads the terminology centres mainly in the word Prāṇa, which every now and then, as we have seen, is treated as a synonym of the absolute, but which on the whole is more normally of less consequence. The Prāṇa often represents the senses, but the numbers of Prāṇas, into which it is divided, differ greatly: the origin of the various calculations may certainly be traced in part at least to the Atharvaveda, where we are told of the head as a drinking bowl with seven seers in the apertures: the sense ascribed to the seven appears to have been the eyes, ears, nostrils, and the organ of taste, for the Bṛhadaraṇyaka Upaniṣad adds to the seven an eighth in the form of speech. The Upanisads normally enumerate a series of five, breath, eyc, ear, mind, and speech, but these are sometimes reduced to four or less; thus the Jaiminiya Upaniṣad Brāhmaṇa repeatedly dwells on the series, speech, mind, sight, hearing, and the breath or breaths; the cosmic parallels are fire, moon, sun, the quarters (i. e. space), and wind. A different. view is that of a passage of the Bṛhadaranyaka Upanisad,' where the organs 
 
 6 
 
@@ -79,7 +79,7 @@ doctrine.
 
 Possibly the source of the five Buddhist Skandhas; see Stcherbatsky, The Central Conception of Buddhism, p. 72. See JUB. ii. 1 f.; iii. 1 f. 
 
-iii. 2. 2-9, where Prāņa seems to mean sense of smell, Apana odour, but the text is doubtless corrupt, despite the agreement of the recensions; Deussen, Phil. of Up., pp. 277 f. 
+iii. 2. 2-9, where Prāṇa seems to mean sense of smell, Apana odour, but the text is doubtless corrupt, despite the agreement of the recensions; Deussen, Phil. of Up., pp. 277 f. 
 
 cf. 
 
@@ -177,7 +177,7 @@ On the side of feeling the terminology of the Upanisads marks a great advance in
 
 4 
 
-Of more philosophical interest are efforts made to render more precise the functions of the senses. Thus the Bṛhadaranyaka Upanisad in the doctrine above cited, of eight graspers, or apprehenders (grahas), and eight that are beyond (ati) the graspers, gives as pairs Prāņa and Apana, the former being used to smell odours; speech and names; the tongue and tastes; the eye and visible forms (rupa) (i. e. coloured extension); the ear and sounds; the mind and desires; the hands and action; and the skin and feelings of touch. In the Kausitaki we have speech and name as its external correlate; breath (i.e. smell) and odour; eye and visible form; the ear and sound; the tongue and tastes; the two hands and action; the body and pleasure and pain; the organ of generation and bliss, delight, and procreation; the two feet and movements; and the intellect and thoughts, what is to be under- stood, and desires. The Jaiminiya Upanisad Brāhmaṇa has a series of ten : mind and matters requiring examination (pariksya); speech (i. e. the tongue) 8 and tastes; breath and odours; the eye and visible forms; the ear and sounds; 
+Of more philosophical interest are efforts made to render more precise the functions of the senses. Thus the Bṛhadaranyaka Upanisad in the doctrine above cited, of eight graspers, or apprehenders (grahas), and eight that are beyond (ati) the graspers, gives as pairs Prāṇa and Apana, the former being used to smell odours; speech and names; the tongue and tastes; the eye and visible forms (rupa) (i. e. coloured extension); the ear and sounds; the mind and desires; the hands and action; and the skin and feelings of touch. In the Kausitaki we have speech and name as its external correlate; breath (i.e. smell) and odour; eye and visible form; the ear and sound; the tongue and tastes; the two hands and action; the body and pleasure and pain; the organ of generation and bliss, delight, and procreation; the two feet and movements; and the intellect and thoughts, what is to be under- stood, and desires. The Jaiminiya Upanisad Brāhmaṇa has a series of ten : mind and matters requiring examination (pariksya); speech (i. e. the tongue) 8 and tastes; breath and odours; the eye and visible forms; the ear and sounds; 
 
 1 CU. vii. 13. 1; 15. 4; 25. 2; BAU. iii. 4. 
 
@@ -185,7 +185,7 @@ Of more philosophical interest are efforts made to render more precise the funct
 
 1; 
 
-* CU. vii. 22. Cf. priyāpriye, CU. viii. 12. 1 ; hṛdayajña, ahṛdayajña, vii. 2. suhardasa, durhärdasa, JB, i. 269. 
+* CU. vii. 22. Cf. priyāpriye, CU. viii. 12. 1 ; hṛdayajña, ahṛdayajña, vii. 2. suhardasa, durhārdasa, JB, i. 269. 
 
 3 i. 7. 
 
@@ -217,7 +217,7 @@ The Supreme and the Individual Souls
 
 the skin and contacts (samsparŚa); the hands and actions; the belly and hunger; the penis and joys; and the feet and roads. These ten are for man either heavens or hells, according to their operation. 
 
-Beyond these parallelisms the relation of sense and object is left unde- termined. The use of the expressions Graha and Atigraha might be held to suggest the view that sense seeks out its object and masters it, and the same doctrine may be found in the Aitareya1 and Kausītaki Upanisads. In the Katha Upanisad 3 we find that the objects are placed above the senses, which might be the sense of the first element in Atigraha, but also that the senses are the steeds and the objects their field of action. A more penetrating analysis is to be found in another passage of the Kausitaki Upanisad, where a set of ten senses and their objects is drawn up, similar to that above cited. In it the objects are described as the external existential elements, Bhutamātrā, correlated to the senses. The process of knowledge is then described by the metaphor of one mounting the object by means of intellect, Prajñā-which for the Kausitaki is the prius from which both senses and objects are derived- and thus attaining it. The senses are declared in similar detail to be uncon- scious without the presence of intelligence; the rule is applied even to mind, which here stands in the place of an organ and has as its object thoughts, what is to be understood, and desires. The passage, however, is characteristic of the somewhat complex and late character of the Upanisad, for the reason given why the other senses are unable to act without intellect is the fact that mind, in the absence of intellect, is elsewhere. Stress is laid on the necessary connexion of existential elements and intellect-elements, Prajñāmātrā; if there were no existential elements, there would be no intellect-elements and vice versa, and without the co-operation of both, no appearance (rupa) whatever would be brought about, the term appearance doubtless standing here as an example of visual cognition and applying to all the other forms of cognition enumerated. At the same time insistence is laid on the fact that there is no ultimate diversity; as the felly rests on the spokes, and the spokes in the hub, so the existential elements rest on the intellect elements, and they again are fixed in Prāņa, which is identified by the Upanisad with the intellect- self, Prajñātman." 
+Beyond these parallelisms the relation of sense and object is left unde- termined. The use of the expressions Graha and Atigraha might be held to suggest the view that sense seeks out its object and masters it, and the same doctrine may be found in the Aitareya1 and Kausītaki Upanisads. In the Katha Upanisad 3 we find that the objects are placed above the senses, which might be the sense of the first element in Atigraha, but also that the senses are the steeds and the objects their field of action. A more penetrating analysis is to be found in another passage of the Kausitaki Upanisad, where a set of ten senses and their objects is drawn up, similar to that above cited. In it the objects are described as the external existential elements, Bhutamātrā, correlated to the senses. The process of knowledge is then described by the metaphor of one mounting the object by means of intellect, Prajñā-which for the Kausitaki is the prius from which both senses and objects are derived- and thus attaining it. The senses are declared in similar detail to be uncon- scious without the presence of intelligence; the rule is applied even to mind, which here stands in the place of an organ and has as its object thoughts, what is to be understood, and desires. The passage, however, is characteristic of the somewhat complex and late character of the Upanisad, for the reason given why the other senses are unable to act without intellect is the fact that mind, in the absence of intellect, is elsewhere. Stress is laid on the necessary connexion of existential elements and intellect-elements, Prajñāmātrā; if there were no existential elements, there would be no intellect-elements and vice versa, and without the co-operation of both, no appearance (rupa) whatever would be brought about, the term appearance doubtless standing here as an example of visual cognition and applying to all the other forms of cognition enumerated. At the same time insistence is laid on the fact that there is no ultimate diversity; as the felly rests on the spokes, and the spokes in the hub, so the existential elements rest on the intellect elements, and they again are fixed in Prāṇa, which is identified by the Upanisad with the intellect- self, Prajñātman." 
 
 This doctrine obviously is more metaphysical than psychological in interest, and goes a very little way to solve the question of the nature of perception or sensation. This is further borne out by the failure to make clear what is meant by senses as opposed to objects; later we find in the Sāṁkhya' a 
 
@@ -261,7 +261,7 @@ Garbe, Samkhya-Philosophie',
 
 phiques, i. 271 ff. 
 
-Māṇḍūkya Kärikā, ii. 1–18; iv. 67; cf. 
+Māṇḍūkya Kārikā, ii. 1–18; iv. 67; cf. 
 
 AU. i. 3. 12. 
 
@@ -287,7 +287,7 @@ The Supreme and the Individual Souls
 
 6 
 
-of the cosmic order (adhidaivata) with the disposition of man (adhyatma) is constant and wearisome; the space within the heart is parallel to cosmic space; 1 the breath of man to the wind, the speech to fire, the eye to the sun, the ear to the moon, the mind to the lightning; * there are five cosmic spaces, five gods of nature, five classes of beings, and correspondingly we have five vital airs, five senses, five parts of the body; to name, form, and action in the world correspond speech, sight, and man in the individual; there is Dharma, law, and truth for the world and for the man, and the macrocosm and the micro- cosm are interrelated in an indissoluble union of reciprocal service and support. The general attitude of the Upanisads must, therefore, be described as realistic, and, accordingly, not incompatible with a rejection of the subjective idealism of the Vijñānavädins. Here and there this interpretation suggests itself with special force, as when it is expressly made clear that the Atman is the real active force in seeing, in smelling, in speaking, in hearing, in thinking, and the senses are but means," or again the Atman is pictured like the occan as the abode of all the sense activities.8 From the Samkhya view the Upanisads are distinguished in an important respect, the frank recognition accorded by them of the activity of the Atman, while in the Samkhya view the Puruşa has really no activity, though paradoxically all consciousness is made to depend on the imaginary connexion of the Puruşa with Prakṛti. 
+of the cosmic order (adhidaivata) with the disposition of man (adhyatma) is constant and wearisome; the space within the heart is parallel to cosmic space; 1 the breath of man to the wind, the speech to fire, the eye to the sun, the ear to the moon, the mind to the lightning; * there are five cosmic spaces, five gods of nature, five classes of beings, and correspondingly we have five vital airs, five senses, five parts of the body; to name, form, and action in the world correspond speech, sight, and man in the individual; there is Dharma, law, and truth for the world and for the man, and the macrocosm and the micro- cosm are interrelated in an indissoluble union of reciprocal service and support. The general attitude of the Upanisads must, therefore, be described as realistic, and, accordingly, not incompatible with a rejection of the subjective idealism of the Vijñānavādins. Here and there this interpretation suggests itself with special force, as when it is expressly made clear that the Atman is the real active force in seeing, in smelling, in speaking, in hearing, in thinking, and the senses are but means," or again the Atman is pictured like the occan as the abode of all the sense activities.8 From the Samkhya view the Upanisads are distinguished in an important respect, the frank recognition accorded by them of the activity of the Atman, while in the Samkhya view the Puruṣa has really no activity, though paradoxically all consciousness is made to depend on the imaginary connexion of the Puruṣa with Prakṛti. 
 
 9 
 
@@ -313,7 +313,7 @@ CU. viii. 12. 4.
 
 9 
 
-e.g. BAU. iii. 7 and passim. The VaiŚe- şika school accepts the real activity of the self. See also above, § 6; Keith, Indian Logic and Atomism, pp. 239 ff. 10 Keith, Indian Logic and Atomism, 
+e.g. BAU. iii. 7 and passim. The VaiŚe- ṣika school accepts the real activity of the self. See also above, § 6; Keith, Indian Logic and Atomism, pp. 239 ff. 10 Keith, Indian Logic and Atomism, 
 
 pp. 70 ff. 
 
@@ -371,7 +371,7 @@ The same remark applies even more strongly to space, the conception of which can
 
 8 
 
-For later views on time, see Keith, Buddhist Philosophy, pp. 163-8, 239; Indian Logic and Atomism, pp. 232 ff.; Karma-Mimämsä, pp. 58 ff.; Säṁkhya System', pp. 57, 61, 99. For an unsuc- cessful modern attempt to restate the problem of space and time, see Alex- ander, Space, Time and Deity. BSGW. 1900, pp. 149-51. Cf. Garbe, 
+For later views on time, see Keith, Buddhist Philosophy, pp. 163-8, 239; Indian Logic and Atomism, pp. 232 ff.; Karma-Mimāmsā, pp. 58 ff.; Sāṁkhya System', pp. 57, 61, 99. For an unsuc- cessful modern attempt to restate the problem of space and time, see Alex- ander, Space, Time and Deity. BSGW. 1900, pp. 149-51. Cf. Garbe, 
 
 Samkhya-Philosophie, pp. 268 f. 
 
@@ -407,13 +407,13 @@ The Philosophy of the Veda
 
 have, however, in the fact that ether is treated regularly as one of the five elements a warning against regarding it as essentially distinct in the view of the Upanisads from the other more obvious material elements.1 Yet it must be noted that in Buddhism no serious advance was made in attempting to under- stand the nature of space; it was for some unintelligible reason excluded from non-derived Rupa,2 and, when the Andhakas claimed that the room between objects was perceptible, this view was rejected, a defect which has been traced to the failure of Buddhism to investigate the true function of mind.3 
 
-The position with regard to causality is the same. In the Samkhya system and in the Buddhist the category of causality is regarded as truly existing, and the Samkhya quite seriously applies the doctrine of causality as enabling it to determine the nature of its final principles: the things of empirical life are referred ultimately to one ground in nature, Prakṛti, while again the unfolding of nature is essentially relative to some principle for whose advantage it takes place, which is the Purușa. In the Upanisads a theory of causality is not to be found, and the early texts have not the term, Karana; nor is this remarkable: in effect the Brahman is essentially above all cause: when the categories of place, time, substance, and cause disappear, then the Brahman remains over, as it is said in a very late text. The Chandogya Upanisad 5 uses the idea of root and shoot to convey the idea of derivation. 
+The position with regard to causality is the same. In the Samkhya system and in the Buddhist the category of causality is regarded as truly existing, and the Samkhya quite seriously applies the doctrine of causality as enabling it to determine the nature of its final principles: the things of empirical life are referred ultimately to one ground in nature, Prakṛti, while again the unfolding of nature is essentially relative to some principle for whose advantage it takes place, which is the Puruṣa. In the Upanisads a theory of causality is not to be found, and the early texts have not the term, Karana; nor is this remarkable: in effect the Brahman is essentially above all cause: when the categories of place, time, substance, and cause disappear, then the Brahman remains over, as it is said in a very late text. The Chandogya Upanisad 5 uses the idea of root and shoot to convey the idea of derivation. 
 
 Imperfect, however, as are the views of the Upanisads on these points, the defects of their theories must not be exaggerated. The amount of progress made in developing speculation on these questions for many centuries after was very slight, as can be seen from even a brief glance at the Buddhist theory of sense as developed in the Pāli Nikayas. In that theory the chief difference is unquestionably the effort to do without a self at all, which was clearly one aspect of the Buddhist faith, though by no means the only aspect and certainly in the long run not the most important. But apart from the odium theologicum it is impossible to grant this attempt any real validity at all: it would have been easy to show that the conception of the Atman attained by the Brahmans was inadequate, but it was merely a retrogression to solve the problem by ignoring its existence: there is nothing in the Nikayas to suggest the most moderate competence in treating of the matter, the whole Buddhist position 
 
 1 So also the AkaŚa is the body of the Atman like fire, wind, moon, and stars. BAU. iii. 7. 12; cf. iv. 4. 5. 
 
-2 C. Rhys Davids, Buddhist Manual of Psychological Ethics, pp. liv, lxvi. Buddhist Psychology (1924), pp. 274 ff. See also Keith, Buddhist Philosophy, pp. 94 f., 160, 168 f., 185 f.; Indian Logic and Atomism, pp. 235 ff.; Karma- Mimämsä, pp. 53 ff.; Samkhya System2, pp. 43, 99. 
+2 C. Rhys Davids, Buddhist Manual of Psychological Ethics, pp. liv, lxvi. Buddhist Psychology (1924), pp. 274 ff. See also Keith, Buddhist Philosophy, pp. 94 f., 160, 168 f., 185 f.; Indian Logic and Atomism, pp. 235 ff.; Karma- Mimāmsā, pp. 53 ff.; Samkhya System2, pp. 43, 99. 
 
 • Sarvasãropanisad. 
 
@@ -471,13 +471,13 @@ The Philosophy of the Veda
 
 knowledge.1 Through the eye and visible form arises visual consciousness: the collision of the two factors is contact: conditioned by contact arises feel- ing: what one feels one perceives: what one perceives one thinks about: what one thinks about one is obsessed withal. The crudeness and valuelessness of the theory is obvious at once from the very fact that it is wholly impossible to understand what precise sense was attributed to the several terms, for the explanations of the scholiast are in all likelihood nothing but the interpreta- tions of later generations of thinkers, who had to do their best to make the most out of the tradition of the text. The Buddhists too remain with the Upanisads on the basis of the dwelling of the soul or its equivalent in the heart,* which is thus brought into the theory of sensation. What is indeed of interest is not the development of doctrine in the Nikayas, which give us only a few changes in terminology such as the metaphor of the doors of the senses,3 but the extraordinary persistence in Buddhism of the psychology of the Upaniṣads. 
 
-In addition to the mind and the sense organs, the soul possesses the breaths or vital airs. Prana, originally breath', then used often as a name for the absolute, is in the Upanisads a constant expression for the whole sum of the organs of sense, and at the same time a special one breath, beside eye, car, mind, and speech. It, however, in the growing development of the doctrine of mind and the organs of sense is gradually reduced to minor importance, and becomes concerned not with the intellectual aspect of the soul, but with the principle of life as opposed to intellect. The single Prana in this aspect is divided into five, which, however, are also sometimes given as two, Prāņa and Apana, as three, these with Vyana, or four, these with Udana. The Jaimi- nīya Upanisad Brāhmaṇa gives Prāņa, Apāna, Vyana, Samana, Avana, and Udana; or seven in the head, or nine, including two below, and a tenth in the navel. The precise sense of these terms has been much disputed, but it is not open to serious doubt that alone Prāņa or Apana may mean breath simply, whether in or out, and therefore Prāņa may mean smell. In contrast, how- 
+In addition to the mind and the sense organs, the soul possesses the breaths or vital airs. Prana, originally breath', then used often as a name for the absolute, is in the Upanisads a constant expression for the whole sum of the organs of sense, and at the same time a special one breath, beside eye, car, mind, and speech. It, however, in the growing development of the doctrine of mind and the organs of sense is gradually reduced to minor importance, and becomes concerned not with the intellectual aspect of the soul, but with the principle of life as opposed to intellect. The single Prana in this aspect is divided into five, which, however, are also sometimes given as two, Prāṇa and Apana, as three, these with Vyana, or four, these with Udana. The Jaimi- nīya Upanisad Brāhmaṇa gives Prāṇa, Apāna, Vyana, Samana, Avana, and Udana; or seven in the head, or nine, including two below, and a tenth in the navel. The precise sense of these terms has been much disputed, but it is not open to serious doubt that alone Prāṇa or Apana may mean breath simply, whether in or out, and therefore Prāṇa may mean smell. In contrast, how- 
 
 Majjhima Nikaya, i. 111. It is, however, 
 
 • 
 
-to be noted that in the Pațiccasamup- pada series is found the order: con- sciousness, name and form, the six spheres, contact, feeling, desire, &c. The hopeless contradiction of view is disposed of in the Manual (ed. 2) in the words (p. lxxxii), This mysterious old rune must not further complicate our problem', and in the Psychology it is passed over with due contempt. But to establish doctrines by ignoring the most important part of the evidence does not further research. See also Keith, Buddhist Philosophy, pp. 196 ff. * Buddhist Manual of Psychological Ethics", 
+to be noted that in the Paṭiccasamup- pada series is found the order: con- sciousness, name and form, the six spheres, contact, feeling, desire, &c. The hopeless contradiction of view is disposed of in the Manual (ed. 2) in the words (p. lxxxii), This mysterious old rune must not further complicate our problem', and in the Psychology it is passed over with due contempt. But to establish doctrines by ignoring the most important part of the evidence does not further research. See also Keith, Buddhist Philosophy, pp. 196 ff. * Buddhist Manual of Psychological Ethics", 
 
 p. lxxxvi; Wallesser, Die philosophische 
 
@@ -487,7 +487,7 @@ p. lxxxvi; Wallesser, Die philosophische
 
 4 
 
-Grundlage des älteren Buddhismus, p. 114; S. Z. Aung, Compendium of Philo- sophy, pp. 277 ff. 
+Grundlage des ālteren Buddhismus, p. 114; S. Z. Aung, Compendium of Philo- sophy, pp. 277 ff. 
 
 But the CU. iii. 13. 1 has susayaḥ for the entrances into the heart of eye, ear, speech, mind, and air. 
 
@@ -513,7 +513,7 @@ But, besides these psychical and physiological elements, in the later view, the 
 
 Of the gross body we learn that the scat of the breaths, of the mind, and even of the organs of sense is really in the heart, where in sleep the organs remain and where in death they gather: nay, the heart is even identified with the Brahman, and is essentially its home: the name hṛdayam is derived from hṛdy ayam,' he here in the heart 2.5 In the golden lotus of the heart is the ether in which heaven and earth, sun, moon, and stars arc enclosed, into which 
 
-Brahmanatexte, pp. 64 ff. The later view of Sadananda's Vedāntasära, §§ 94-8, is preluded by Maitr. ii. 6. 
+Brahmanatexte, pp. 64 ff. The later view of Sadananda's Vedāntasāra, §§ 94-8, is preluded by Maitr. ii. 6. 
 
 1 BAU. iv. 4. 5. 
 
@@ -529,7 +529,7 @@ p. 337.
 
 CU. viii. 8. 3. Cf. BAU. iv. 4. 22; v. 6; KU. ii. 20, &c. In BAU. iii. 9. 20 the 
 
-heart knows colours, doubtless through the mind which is seated there. This is the only possible significance of the contrast between it and the eye which depends on forms while they depend on the heart; there is no distinction between primary and secondary quali- ties in question. From the connexion of mind with the heart is derived the Theravadin (BSOS. iii. 353) view which places a hadaya-vatthu as the organ of mind, evidently the older Buddhist view as opposed to the refinement of the Sarvăstivädin (contrast Stcher- batsky, The Central Conception of Buddhism, pp. 17 f.). Heart is placed side by side with mind as concerned with knowledge in BAU. ii. 4. 11; iv. 5. 12, i.e. it is the place of intellect. 
+heart knows colours, doubtless through the mind which is seated there. This is the only possible significance of the contrast between it and the eye which depends on forms while they depend on the heart; there is no distinction between primary and secondary quali- ties in question. From the connexion of mind with the heart is derived the Theravadin (BSOS. iii. 353) view which places a hadaya-vatthu as the organ of mind, evidently the older Buddhist view as opposed to the refinement of the Sarvāstivādin (contrast Stcher- batsky, The Central Conception of Buddhism, pp. 17 f.). Heart is placed side by side with mind as concerned with knowledge in BAU. ii. 4. 11; iv. 5. 12, i.e. it is the place of intellect. 
 
 566 
 
@@ -539,7 +539,7 @@ The Philosophy of the Veda
 
 [Part V 
 
-the soul enters in sleep, and in which the immortal golden Puruşa resides.1 It is the cavity in which the Brahman is concealed. Round the heart are the veins 72,000 in number, and these, by another turn of thought, are conceived as of five colours, uniting with the rays of the sun similarly coloured and thus connecting the sun and the heart. In deep sleep the soul glides into the veins and through them it becomes one with the heart. At death the soul is con- ceived as passing out by the veins, and the rays of the sun, which the wise find open to them, while the entrance is closed to the ignorant. By yet another turn of thought the conception is reached that only one vein leads to the sun out of 101, the vein in question leading to the head, presumably in connexion with the fact that there is the suture, the Brahmarandhra,5 through which in the process of creation the Brahman is supposed to enter the body as spirit. Later accounts such as that of the PraŚna merge the two versions of 72,000 and 101 veins into one, the 101 veins having each 100 branches, each of which has 72,000 sub-branches, in all 727,210,201. 
+the soul enters in sleep, and in which the immortal golden Puruṣa resides.1 It is the cavity in which the Brahman is concealed. Round the heart are the veins 72,000 in number, and these, by another turn of thought, are conceived as of five colours, uniting with the rays of the sun similarly coloured and thus connecting the sun and the heart. In deep sleep the soul glides into the veins and through them it becomes one with the heart. At death the soul is con- ceived as passing out by the veins, and the rays of the sun, which the wise find open to them, while the entrance is closed to the ignorant. By yet another turn of thought the conception is reached that only one vein leads to the sun out of 101, the vein in question leading to the head, presumably in connexion with the fact that there is the suture, the Brahmarandhra,5 through which in the process of creation the Brahman is supposed to enter the body as spirit. Later accounts such as that of the PraŚna merge the two versions of 72,000 and 101 veins into one, the 101 veins having each 100 branches, each of which has 72,000 sub-branches, in all 727,210,201. 
 
 4 
 
@@ -565,13 +565,13 @@ Samkhya System3, p. 110.
 
 BAU. iv. 2. 3; cf. Manḍ. 3, 4, misunder- 
 
-stood in Vedantasära, § 120. 
+stood in Vedantasāra, § 120. 
 
 BAU. iii. 9. 22; vi. 1. 6; 4. 1, &c. 
 
 10 AU. ii. 2, 3. 
 
-11 CU. v. 10.5, 6; BAU. vi. 2. 16; Kauş. i. 
+11 CU. v. 10.5, 6; BAU. vi. 2. 16; Kauṣ. i. 
 
 2; Mund. ii. 1. 5. 
 

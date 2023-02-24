@@ -3,17 +3,17 @@ title = "5 Vivasvant"
 
 +++
 
-Vivasvant is not the subject of any complete hymn in the Rigveda, where, however, he is mentioned about thirty times. The most important thing about him is his relation to Manu, the ancestor of the human race, who thence bears the name Vaivasvata or Vivasvant, taking simply his father's name as a sign of paternity. Men are also in the Brāhmaṇas styled directly his offspring, and the Rigveda ascribes to him as to other gods the fathership of the gods. His wife is Saraṇyü, the daughter of Tvaṣṭr, and he is the father of the Aśvins. To him and to Matariśvan Agni was first manifested, and he has Mätariśvan or Agni as his messenger. Soma again dwells with Vivasvant and is cleansed by his daughters, doubtless, in the ordinary mythical style of the 
+Vivasvant is not the subject of any complete hymn in the Rigveda, where, however, he is mentioned about thirty times. The most important thing about him is his relation to Manu, the ancestor of the human race, who thence bears the name Vaivasvata or Vivasvant, taking simply his father's name as a sign of paternity. Men are also in the Brāhmaṇas styled directly his offspring, and the Rigveda ascribes to him as to other gods the fathership of the gods. His wife is Saraṇyū, the daughter of Tvaṣṭr, and he is the father of the Aśvins. To him and to Matariśvan Agni was first manifested, and he has Mātariśvan or Agni as his messenger. Soma again dwells with Vivasvant and is cleansed by his daughters, doubtless, in the ordinary mythical style of the 
 
-1 ÇB. vii. 5. 1. 5; JB. iii. 272 (Akūpāra 
+1 ŚB. vii. 5. 1. 5; JB. iii. 272 (Akūpāra 
 
 Kaśyapa). 
 
-* ÇB. xiv. 1. 1. 1 ff.; TA. v. 1. 1 ff. Cf. the same tale of Makha (=sacrifice), PB. vii. 5. 6–16. Agni, Indra, and Rudra are slayers of Makha. 
+* ŚB. xiv. 1. 1. 1 ff.; TA. v. 1. 1 ff. Cf. the same tale of Makha (=sacrifice), PB. vii. 5. 6–16. Agni, Indra, and Rudra are slayers of Makha. 
 
 'i. 1. 
 
-Viṣnu's connexion with Varuņa is slight and artificial; TS. ii. 1. 4. 4; AB. iii. 38. 3; PB. viii. 8. 6; AV. vii. 25. 
+Viṣnu's connexion with Varuṇa is slight and artificial; TS. ii. 1. 4. 4; AB. iii. 38. 3; PB. viii. 8. 6; AV. vii. 25. 
 
 • i. 156. 4. 
 
@@ -29,7 +29,7 @@ The seat of Vivasvant is a special feature of the god it is mentioned five times
 
 8 
 
-The word vivasvant is used occasionally as an epithet of Agni and Uṣas in the etymological sense of shining forth, which is specially appropriate in the goddess Dawn. The Çatapatha Brāhmaṇa explains the god Vivasvant's name by the doctrine that he illumines night and day, which are connected with him in the Rigveda: it calls him Aditya, and this name is elsewhere found in the Yajurveda,1 and in post-Vedic literature Vivasvant is a name of the sun. 
+The word vivasvant is used occasionally as an epithet of Agni and Uṣas in the etymological sense of shining forth, which is specially appropriate in the goddess Dawn. The Śatapatha Brāhmaṇa explains the god Vivasvant's name by the doctrine that he illumines night and day, which are connected with him in the Rigveda: it calls him Aditya, and this name is elsewhere found in the Yajurveda,1 and in post-Vedic literature Vivasvant is a name of the sun. 
 
 6 
 

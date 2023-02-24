@@ -17,7 +17,7 @@ Kena.
 
 AGS. 
 
-Açvalāyana Gṛhya Sūtra. 
+Aśvalāyana Gṛhya Sūtra. 
 
 KhGS. 
 
@@ -27,13 +27,13 @@ Khādira Gṛhya Sûtra.
 
 Kena Upanisad (=JUB. 4. 18-21). 
 
-AÇS. 
+AŚS. 
 
-Açvalāyana Çrauta Sūtra. 
+Aśvalāyana Śrauta Sūtra. 
 
 LCS. 
 
-Latyayana Çrauta Sūtra. 
+Latyayana Śrauta Sūtra. 
 
 AU. 
 
@@ -53,7 +53,7 @@ Manava Gṛhya Sūtra.
 
 AV. Par. 
 
-Atharvaveda Pariçişţa. 
+Atharvaveda Pariśiṣţa. 
 
 MP. 
 
@@ -71,9 +71,9 @@ Apastamba Grhya Sūtra.
 
 MS. 
 
-ApÇS. 
+ApŚS. 
 
-Apastamba Çrauta Sūtra. 
+Apastamba Śrauta Sūtra. 
 
 BAU. 
 
@@ -81,7 +81,7 @@ Bṛhadaranyaka Upaniṣad.
 
 Maitr. 
 
-Manava Çrauta Sūtra. 
+Manava Śrauta Sūtra. 
 
 Maitrāyaṇi Samhitā. 
 
@@ -109,7 +109,7 @@ Baudhayana Śrauta Sûtra.
 
 PB. 
 
-Pañcavinça Brāhmaṇa. 
+Pañcavinśa Brāhmaṇa. 
 
 BAGS. 
 
@@ -125,7 +125,7 @@ Chandogya Upanisad.
 
 PU. 
 
-Praçna Upanisad. 
+Praśna Upanisad. 
 
 GB. 
 
@@ -137,11 +137,11 @@ Rigveda.
 
 GDS. 
 
-Gautama Dharma Sütra. 
+Gautama Dharma Sūtra. 
 
-ÇA. 
+ŚA. 
 
-Çankhāyana Aranyaka. 
+Śankhāyana Aranyaka. 
 
 GGS. 
 
@@ -149,31 +149,31 @@ Gobhila Gṛhya Sutra,
 
 CB. 
 
-Çatapatha Brāhmaṇa. 
+Śatapatha Brāhmaṇa. 
 
 HGS. 
 
-Hiranyakeçi Grṛhya Sütra. 
+Hiranyakeśi Grṛhya Sūtra. 
 
-ÇGS. 
+ŚGS. 
 
-Çankhayana Grhya Sūtra. 
+Śankhayana Grhya Sūtra. 
 
-HÇS. 
+HŚS. 
 
-Hiranyakeçi Çrauta Sūtra, 
+Hiranyakeśi Śrauta Sūtra, 
 
 CCS. 
 
 Cankhāyana Śrauta Sutra. 
 
-Içã. 
+Iśã. 
 
-Içã Upaniṣad (=VS. xl). 
+Iśã Upaniṣad (=VS. xl). 
 
-ÇU. 
+ŚU. 
 
-Çvetäçvatara Upanisad. 
+Śvetāśvatara Upanisad. 
 
 JB. 
 
@@ -185,7 +185,7 @@ Sāmavidhāna Brāhmaṇa.
 
 JGS. 
 
-Jaiminiya Gṛhya Sütra. 
+Jaiminiya Gṛhya Sūtra. 
 
 TA. 
 
@@ -201,15 +201,15 @@ Taittiriya Brahmaṇa.
 
 KB. 
 
-Kauşitaki Brāhmaṇa. 
+Kauṣitaki Brāhmaṇa. 
 
 TS. 
 
-Taittiriya Samhită. 
+Taittiriya Samhitā. 
 
 KCS. 
 
-Katyāyana Çrauta Sūtra. 
+Katyāyana Śrauta Sūtra. 
 
 TU. 
 
@@ -217,7 +217,7 @@ Taittirlya Upanisad.
 
 KS. 
 
-Kathaka Samhită. 
+Kathaka Samhitā. 
 
 VS. 
 
@@ -231,10 +231,10 @@ Vait.
 
 Vaitāna Sutra. 
 
-Kauç. 
+Kauś. 
 
-Kauçika Sūtra. 
+Kauśika Sūtra. 
 
-VärGS. 
+VārGS. 
 
-Vārāha Gṛhya Sütra. 
+Vārāha Gṛhya Sūtra. 
