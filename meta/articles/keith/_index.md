@@ -1,3 +1,3 @@
 +++
-title = "+Keith - vedia religion"
+title = "+Keith - Vedic religion"
 +++
