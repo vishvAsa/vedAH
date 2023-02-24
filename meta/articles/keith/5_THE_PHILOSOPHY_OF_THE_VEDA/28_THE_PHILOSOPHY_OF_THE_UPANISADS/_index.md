@@ -1,0 +1,4 @@
++++
+title = "+28 THE PHILOSOPHY OF THE UPANISADS"
+
++++

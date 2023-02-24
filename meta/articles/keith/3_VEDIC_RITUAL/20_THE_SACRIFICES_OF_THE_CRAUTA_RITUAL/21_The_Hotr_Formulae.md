@@ -1,0 +1,6 @@
++++
+title = "21 The Hotr Formulae"
+
++++
+
+The ritual requires in many places the use of the Hotṛ formulae, which are formulae in which the priests are mentioned as being identical with deities and other objects, the formulae being distinguished according to the number of priests so mentioned as Caturhotṛ, Pañcahotṛ, and so on. They are termed offerings, because they represent various sacrifices from the Agnihotra to the Soma offering inclusive. They are often used in the course of important rites, in which case they are normally assigned to the sacrificer, but also they can be employed independently, either by themselves or with the accompaniment of cups of some offering and the cry Svaha. Thus a man, who wishes cattle, must for twelve nights drink hot water, put on a fresh garment and sleep on the ground. Early next morning he goes east, says the DaŚahotṛ, and offers the Caturhotṛ with butter. They can even be used as spells, in which case an offering is made on salt ground, or a break in the earth, and in place of the ordinary Vasat-call harsh words like khat or phat are used. This use is clearly an abuse the formulae are of the nature of Upanisads, and must be treated as representing the desire to substitute mental processes for the tedious- ness of the sacrifice. But it was inevitable that even they should sink to magic uses.2 
