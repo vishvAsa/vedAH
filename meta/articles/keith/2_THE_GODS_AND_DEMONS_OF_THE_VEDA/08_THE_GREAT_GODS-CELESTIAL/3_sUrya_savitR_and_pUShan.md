@@ -25,13 +25,13 @@ Surya, Savitṛ, and Pūṣan
 
 105 
 
-he smites away the darkness and triumphs over the powers of darkness and witches; he prolongs the lives of men and drives away sickness, disease, and evil dreams. He is also the divine priest of the gods, and is entreated on his rising to declare men sinless before Mitra and Varuṇa. When invoked with Indra he becomes a slayer of Vṛtra. But another myth tells that Indra de- feated him and stole his wheel, a fairly obvious allusion to the obscuration of the sun by the thunderstorm. 
+he smites away the darkness and triumphs over the powers of darkness and witches; he prolongs the lives of men and drives away sickness, disease, and evil dreams. He is also the divine priest of the gods, and is entreated on his rising to declare men sinless before Mitra and Varuṇa. When invoked with Indra he becomes a slayer of Vṛtra. But another myth tells that Indra defeated him and stole his wheel, a fairly obvious allusion to the obscuration of the sun by the thunderstorm. 
 
 The chariot of the sun is drawn by a single horse, Etaśa, or by seven horses, or seven mares, or by an indefinite number of either. But the more primitive view that the sun himself is a steed is found in one passage,1 where he is said to be the white and brilliant steed brought by Uṣas. But he is also a flying bird,2 or an eagle, and a mottled bull. He is also, however, a gem of the sky, 
 
 the variegated stone set in the midst of heaven, a brilliant weapon obscured by Mitra and Varuṇa with cloud and rain, the felly of Mitra and Varuna, a brilliant car, or a wheel. In the ritual the hose and the wheel appear as sun fetishes. 
 
-While Sūrya represents the concrete aspect of the sun, Savitṛ, the stimu- lator or instigator, seems to denote the sun as the motive power which drives men to action. In some passages the two gods are apparently used as identical, but in others the two gods appear in connexion with each other and as different: Savitṛ is said to impel Sūrya, to declare men sinless to the sun, to combine with the rays of the sun, or to shine with the rays of the sun. Savity is also implored to strengthen the worshipper when the sun is risen. 
+While Sūrya represents the concrete aspect of the sun, Savitṛ, the stimulator or instigator, seems to denote the sun as the motive power which drives men to action. In some passages the two gods are apparently used as identical, but in others the two gods appear in connexion with each other and as different: Savitṛ is said to impel Sūrya, to declare men sinless to the sun, to combine with the rays of the sun, or to shine with the rays of the sun. Savity is also implored to strengthen the worshipper when the sun is risen. 
 
 : 
 
@@ -93,11 +93,11 @@ Puṣan has also other than agricultural connexions. He is exclusively called th
 
 5 
 
-Puṣan again plays a part of the ritual of death: he is entreated to conduct the dead to the fathers, as Agni and Savity lead them to the place of the right- eous, and he conveys them in safety to their destined place. The goat of Puṣan leads the horse when sacrificed to its place. 
+Puṣan again plays a part of the ritual of death: he is entreated to conduct the dead to the fathers, as Agni and Savity lead them to the place of the righteous, and he conveys them in safety to their destined place. The goat of Puṣan leads the horse when sacrificed to its place. 
 
 • 
 
-The similarity of Puṣan to Hermes is undoubted: both have in common the duty of conducting men or the souls of the dead on the roads: they are closely connected with the herds, confer wealth, act as convoys, are connected with the goat, and even the braided hair of Pũṣan has been compared with the Krobalos of Hermes." But it is impossible to lay much stress on the parallelism in view of the lack of similarity of name, and the difficulty of determining the original character of Hermes is much greater than that of determining that of Puṣan. His name denotes the prosperor, and Yāska distinctly declares him to be the sun. This traditional interpretation is not inconsistent with any of his characteristics: it certainly accounts for his character as glowing, for his connexion with the sun-maiden, and his wealth: again it accounts for his power to show paths, from which it is not difficult to deduce his duty of con- ducting the souls or his going on errands. As the increase-giving sun, his close connexion with cattle is natural: Mithra in Iran, an almost undoubted sun-god, has the power to increase cattle, and bring lost animals home. The goat would be a natural animal to be associated with the god whose duty it was to 
+The similarity of Puṣan to Hermes is undoubted: both have in common the duty of conducting men or the souls of the dead on the roads: they are closely connected with the herds, confer wealth, act as convoys, are connected with the goat, and even the braided hair of Pũṣan has been compared with the Krobalos of Hermes." But it is impossible to lay much stress on the parallelism in view of the lack of similarity of name, and the difficulty of determining the original character of Hermes is much greater than that of determining that of Puṣan. His name denotes the prosperor, and Yāska distinctly declares him to be the sun. This traditional interpretation is not inconsistent with any of his characteristics: it certainly accounts for his character as glowing, for his connexion with the sun-maiden, and his wealth: again it accounts for his power to show paths, from which it is not difficult to deduce his duty of conducting the souls or his going on errands. As the increase-giving sun, his close connexion with cattle is natural: Mithra in Iran, an almost undoubted sun-god, has the power to increase cattle, and bring lost animals home. The goat would be a natural animal to be associated with the god whose duty it was to 
 
 1 AGS. iii. 7. 9 ; ŚŚS. iii. 4. 9. 
 
@@ -109,9 +109,9 @@ The similarity of Puṣan to Hermes is undoubted: both have in common the duty o
 
 * RV. vi. 58. 4. 
 
-• Von Schroeder's objection (Arische Re- ligion, ii. 11) is without substance. Etymological connexion with Pan (W. Schulze, KZ. xlii. 81, 874) is unproved. 
+• Von Schroeder's objection (Arische Religion, ii. 11) is without substance. Etymological connexion with Pan (W. Schulze, KZ. xlii. 81, 874) is unproved. 
 
-' Siecke (Hermes der Mondgott and Pûṣan) sees in both moon gods, but this is un- attractive. Gūntert (pp. 41 ff.) treats him as the patron god of herdsmen. * Nir. vii. 9. 
+' Siecke (Hermes der Mondgott and Pûṣan) sees in both moon gods, but this is unattractive. Gūntert (pp. 41 ff.) treats him as the patron god of herdsmen. * Nir. vii. 9. 
 
 108 
 

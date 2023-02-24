@@ -3,7 +3,7 @@ title = "CONTENTS"
 
 +++
 
-The twenty-nine chapters of this work are numbered, for practical con- venience, in one single arithmetical sequence. But they are grouped in five main divisions, or PARTS, as follows: 
+The twenty-nine chapters of this work are numbered, for practical convenience, in one single arithmetical sequence. But they are grouped in five main divisions, or PARTS, as follows: 
 
 I. THE SOURCES (4 chapters, pages 1-57) 
 

@@ -13,7 +13,7 @@ The original nature of so obscure a god is not easy to decide. The connexion of 
 
 5 
 
-indh ; Jacobi (KZ. xxxi. 816 f.) manly'; Bezzenberger (BB. i. 342) compares AS, ent, ‘giant,' OHD. en- tioc; Gūntert (Weltkönig, p. 14), viðéw. 1TS. i. 8. 10. 2. 
+indh ; Jacobi (KZ. xxxi. 816 f.) manly'; Bezzenberger (BB. i. 342) compares AS, ent, ‘giant,' OHD. entioc; Gūntert (Weltkönig, p. 14), viðéw. 1TS. i. 8. 10. 2. 
 
 * i. 118. 1, 8; xix. 56. 4. 
 
@@ -29,5 +29,5 @@ Trita Āptya
 
 135 
 
-Hillebrandt 1 holds that he is god of the bright sky revered in the Aptys family, or a deified ancestor, which is certainly inadequate as an account of his nature, and Pischel's * suggestion that he was originally a human healer, who was later deified, can hardly be taken seriously. Perry is unquestionably right in seeing in him an older god than Indra, who seems to have largely usurped his position as an important deity. His connexion with the Soma, which is peculiarly close and which shows him as more active in the details of its preparation than Indra, who is rather the drinker of Soma than the pre- parer of the plant, suggests the conclusion, which is also made plausible by his name as Third, that he is a form of fire, the lightning in which the Soma descends to earth. This would agree with his nature as watery, Aptya, and does not contradict any of his known features. But it is possible to hold that he was really a water deity, a parallel to the Greek Triton and the German Mimi.5 
+Hillebrandt 1 holds that he is god of the bright sky revered in the Aptys family, or a deified ancestor, which is certainly inadequate as an account of his nature, and Pischel's * suggestion that he was originally a human healer, who was later deified, can hardly be taken seriously. Perry is unquestionably right in seeing in him an older god than Indra, who seems to have largely usurped his position as an important deity. His connexion with the Soma, which is peculiarly close and which shows him as more active in the details of its preparation than Indra, who is rather the drinker of Soma than the preparer of the plant, suggests the conclusion, which is also made plausible by his name as Third, that he is a form of fire, the lightning in which the Soma descends to earth. This would agree with his nature as watery, Aptya, and does not contradict any of his known features. But it is possible to hold that he was really a water deity, a parallel to the Greek Triton and the German Mimi.5 
 

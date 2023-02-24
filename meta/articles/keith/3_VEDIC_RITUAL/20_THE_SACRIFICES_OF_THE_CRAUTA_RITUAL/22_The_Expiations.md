@@ -15,7 +15,7 @@ Of these expiations the most interesting are given in the KauŚika Sutra," which
 
 * ApŚS. ix; xiv. 16 ff.; MŚS. iv; KCS. 
 
-xxv; AŚS. iii. 10-14; vi. 6-10; CCS. iii. 19-21; xiii. 2-12; Atharva Pra- yaŚcitta (von Negelein, JAOS. xxxiii. 71-144). 
+xxv; AŚS. iii. 10-14; vi. 6-10; CCS. iii. 19-21; xiii. 2-12; Atharva PrayaŚcitta (von Negelein, JAOS. xxxiii. 71-144). 
 
 TA. ii. 7, 8. 
 

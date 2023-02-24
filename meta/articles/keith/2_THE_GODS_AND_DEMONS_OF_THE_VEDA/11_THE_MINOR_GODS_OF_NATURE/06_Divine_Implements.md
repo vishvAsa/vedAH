@@ -23,7 +23,7 @@ n. 8.
 
 •TS. iii. 4. 10. 3. 
 
-• AGS. i. 2.4; MGS. ii. 12.6; PGS. ii. 9.2; Kauś. Ixxiv. 10; so in the epic, Hop- kins, Epic Myth., pp. 41, 57. 
+• AGS. i. 2.4; MGS. ii. 12.6; PGS. ii. 9.2; Kauś. Ixxiv. 10; so in the epic, Hopkins, Epic Myth., pp. 41, 57. 
 
 10 RV. iv. 57. 5–8 : ŚB. ii. 6. 8. 5 ; they are taken as constellations by Hillebrandt, Ved. Myth. iii. 221–4. 
 
@@ -41,6 +41,6 @@ Divine Implements
 
 189 
 
-prominent in the Rigveda, where not only the sacrificial post is deified, perhaps as a remnant of tree worship, is called divine, and is asked to allow the sacri- fice to go to the gods, but the sacrificial grass1 and the divine doors * are celebrated. The pressing stones have three hymns given up to them: they are unaging, immortal, more powerful than the heaven itself. They are com- pared to steeds or bulls, their sound in the pressing reaches the sky. They bestow wealth and offspring, driving away the demons. The mortar and pestle were deified also, and the Atharvaveda adds to the category various ladles and invents a great deity in the remnant of the sacrifice, the Ucchiṣţa. 
+prominent in the Rigveda, where not only the sacrificial post is deified, perhaps as a remnant of tree worship, is called divine, and is asked to allow the sacrifice to go to the gods, but the sacrificial grass1 and the divine doors * are celebrated. The pressing stones have three hymns given up to them: they are unaging, immortal, more powerful than the heaven itself. They are compared to steeds or bulls, their sound in the pressing reaches the sky. They bestow wealth and offspring, driving away the demons. The mortar and pestle were deified also, and the Atharvaveda adds to the category various ladles and invents a great deity in the remnant of the sacrifice, the Ucchiṣţa. 
 
 It is possible to draw a distinction between the cases of the deities of the plougher and the warrior, and those of the priest. In his case the presence of the deity at the sacrifice may be held to be the cause why the instruments of the sacrifice are treated with so much reverence, while in the former cases the reverence is not due to anything save the essentially valuable character of the objects, and the mystic powers which are deemed by man to lie within them. It is particularly easy to understand how the arrow or even the plough can be regarded as animate: the worship of the priestly implements would thus be rather more fetishistic in origin than real and direct worship of the implements for themselves, and this is perhaps the more accurate manner of considering the question." 

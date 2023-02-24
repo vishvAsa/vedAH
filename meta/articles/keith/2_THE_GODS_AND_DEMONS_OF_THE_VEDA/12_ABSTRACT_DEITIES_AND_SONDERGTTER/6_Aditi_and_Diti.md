@@ -43,7 +43,7 @@ Though rarely, Aditi is credited with the usual powers of the gods, and is praye
 
 9 
 
-The explanations of Aditi differ widely, according as she is treated as an abstract or a concrete deity. Pischel holds that she is the earth, but this is not borne out by anything save the view of the later Vedic texts, and does not suit at all the picture of the goddess presented in the Rigveda. Hillebrandt,10 in fairly close agreement with one view of Roth's," that she is the eternal principle underlying the celestial light, urges that she is essentially connected with light and the highest heaven, and explains her as the light of day in its imperishable aspect, a view which agrees in substance with that of Colinet 12 that she is the light of the sky, thus in essence a sort of feminine form of Dyaus. This in some measure agrees with the theory of Bergaigne 13 that the goddess is a development from the phrase Dyaus Aditi, supplying the gods with milk as the boundless sky, but in his view stress is laid on the imperish- able nature of the light, not on the boundless space of the sky. Max Mūller 1a 
+The explanations of Aditi differ widely, according as she is treated as an abstract or a concrete deity. Pischel holds that she is the earth, but this is not borne out by anything save the view of the later Vedic texts, and does not suit at all the picture of the goddess presented in the Rigveda. Hillebrandt,10 in fairly close agreement with one view of Roth's," that she is the eternal principle underlying the celestial light, urges that she is essentially connected with light and the highest heaven, and explains her as the light of day in its imperishable aspect, a view which agrees in substance with that of Colinet 12 that she is the light of the sky, thus in essence a sort of feminine form of Dyaus. This in some measure agrees with the theory of Bergaigne 13 that the goddess is a development from the phrase Dyaus Aditi, supplying the gods with milk as the boundless sky, but in his view stress is laid on the imperishable nature of the light, not on the boundless space of the sky. Max Mūller 1a 
 
 1 RV. vii. 51. 1. 
 
@@ -99,7 +99,7 @@ Compared with Aditi the goddess Diti is merely a name. She occurs thrice in the 
 
 Arische Religion, ii. 400. 
 
-* Rel. des Veda', pp. 202 ff.; SBE. xlvi. 329. Geldner (Zur Kosmogonie des RV., p. 5) holds that Aditi is ' undivided- ness', 'completeness '. 
+* Rel. des Veda', pp. 202 ff.; SBE. xlvi. 329. Geldner (Zur Kosmogonie des RV., p. 5) holds that Aditi is ' undividedness', 'completeness '. 
 
 * RV. vi, 50. 10; vii, 35. 14. In Greece we have a cow-headed figure in Arcadia (BCH. 1899, p. 635) and Here's epithet Boōpis (Farnell, Greece and Babylon, 
 

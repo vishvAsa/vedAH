@@ -17,11 +17,11 @@ In the Naighaṇṭuka the waters are reckoned as terrestrial only, but in some 
 
 * Kretschmer, Gesch. der griech. Sprache, 
 
-p. 81. See Hillebrandt, Ved. Myth,, iii. 381, n. 5; Macdonell, Ved. Myth., pp. 85, 177; E. Meyer, Gesch. des Alt,3 I. ii. p. 870; Carnoy, Les Indo-Euro- péens, pp. 164–8; von Schroeder, Arische Religion, ii. 422, n. 2, 519, n. 1, 531–4, 544 ff.; O. Schrader, ERE. ii. 38; Helm, Altgerm. Rel, i. 278, n. 1. Cf. Gray, Myth. of All Races, iii. 820, 
+p. 81. See Hillebrandt, Ved. Myth,, iii. 381, n. 5; Macdonell, Ved. Myth., pp. 85, 177; E. Meyer, Gesch. des Alt,3 I. ii. p. 870; Carnoy, Les Indo-Européens, pp. 164–8; von Schroeder, Arische Religion, ii. 422, n. 2, 519, n. 1, 531–4, 544 ff.; O. Schrader, ERE. ii. 38; Helm, Altgerm. Rel, i. 278, n. 1. Cf. Gray, Myth. of All Races, iii. 820, 
 
 822 f. ; Rhys, Celtic Heathendom, p. 220; Brūckner, KZ. 1. 195. 
 
-• Grassmann and von Schroeder prefer derivation from pṛc, 'fill '; Bloomfield (Rel. of Veda, p. 111) suggests modula- tion to suggest pari-jana, one who surrounds the folk. Perun's name seems clearly to be from per, * strike '. For their Indo-European character, cf. Car- 
+• Grassmann and von Schroeder prefer derivation from pṛc, 'fill '; Bloomfield (Rel. of Veda, p. 111) suggests modulation to suggest pari-jana, one who surrounds the folk. Perun's name seems clearly to be from per, * strike '. For their Indo-European character, cf. Car- 
 
 noy, Les Indo-Européens, pp. 197–201. * RV. i. 23. 22 ; x. 9. 8. 
 
@@ -41,6 +41,6 @@ With the growth of the ritual the distinction is made and developed between the 
 
 3 
 
-With the waters are connected not only gods like Agni, but various plants * and animals, of whom the most prominent are the snakes, the ants, and the frogs. The connexion with the water of the snakes appears to be a case of theriomorphism, as seen in the deity Ahi Budhnya, and in the snake form of Agni as well as in the case of the demon Vṛtra. The ants are evidently brought into connexion with water, because of their ability to find for them- selves water in apparently dry places as the Brāhmaṇa legends show, and the frogs are invoked to send water, because of their close connexion with the waters in which they move and have their being. The ritual emphasizes this connexion by the use of a frog in rites where cooling is needed, and several plants are employed in the same way. The most important of the terrestrial waters are the streams and these will be treated in the next chapter. Among the minor figures who have some connexion with water must be included the Gandharvas and Apsarases. 
+With the waters are connected not only gods like Agni, but various plants * and animals, of whom the most prominent are the snakes, the ants, and the frogs. The connexion with the water of the snakes appears to be a case of theriomorphism, as seen in the deity Ahi Budhnya, and in the snake form of Agni as well as in the case of the demon Vṛtra. The ants are evidently brought into connexion with water, because of their ability to find for themselves water in apparently dry places as the Brāhmaṇa legends show, and the frogs are invoked to send water, because of their close connexion with the waters in which they move and have their being. The ritual emphasizes this connexion by the use of a frog in rites where cooling is needed, and several plants are employed in the same way. The most important of the terrestrial waters are the streams and these will be treated in the next chapter. Among the minor figures who have some connexion with water must be included the Gandharvas and Apsarases. 
 
 5 

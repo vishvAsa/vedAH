@@ -15,7 +15,7 @@ A second class of gods who may be called abstract is afforded by the agent gods,
 
 'Special deities' or 'Sondergötter ' 
 
-expresses a different side of develop- ment; 'symbolic' also is inadequate. 
+expresses a different side of development; 'symbolic' also is inadequate. 
 
 204 
 

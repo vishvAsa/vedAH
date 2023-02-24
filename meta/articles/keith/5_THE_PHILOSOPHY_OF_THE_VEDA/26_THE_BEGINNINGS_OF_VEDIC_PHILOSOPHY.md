@@ -11,7 +11,7 @@ attack on the god would, we may be sure, have been allowed to come down to us in
 
 It might, however, have been expected that in the moral law of Varuna, which is the counterpart of the physical law recognized by the religion of the Veda as prevailing in the universe, the Rta, and in Varuna himself as the great guardian of that law, there might have been found a deity in whom the mind of the sceptic might find peace and satisfaction. The case of Iran proves that the nature of the great Asura could easily give rise to the conception of a moral ruler and a deep ethical view of the world. But, whatever the cause, 
 
-1 Radhakrishnan (Ind. Phil. i. 87 f.) finds in RV. viii. 96. 13-15 traces of conflict between Indra and Kṛṣṇa, the proto- type of the god of the Gita. 
+1 Radhakrishnan (Ind. Phil. i. 87 f.) finds in RV. viii. 96. 13-15 traces of conflict between Indra and Kṛṣṇa, the prototype of the god of the Gita. 
 
 ii. 12. 5; viii. 103. 3. A fetish of Indra alone of gods is mentioned (RV. iv. 24. 10). Hardy (Ved.-brahm. Periode, pp. 175, 176) seeks to show a much wider knowledge as probable (e. g. ii. 33. 9 ; 
 
@@ -27,11 +27,11 @@ The Philosophy of the Veda
 
 [Part V 
 
-it is beyond possibility of doubt that in India from the first philosophy is intellectual, not moral, in interest and outlook. The conception of Varuṇa, which reaches a high level and is majestic enough both in its cosmical and moral aspect, has attained by the time of the Rigveda its highest develop- ment: it falls rapidly into unimportance, until the Brāhmaṇa1 can assert that an ugly deformed man, who is used as a scapegoat at the final bath of the horse sacrifice, is said to be a symbol of Varuna. With this decline of the great and noble god goes hand in hand the decline of the interest of Indian philosophy or religion in morality as such numerous as are the moral pre- cepts which can be found here and there in Vedic literature, it must be admitted that it is quite impossible to find any real or vital principle of ethics. 
+it is beyond possibility of doubt that in India from the first philosophy is intellectual, not moral, in interest and outlook. The conception of Varuṇa, which reaches a high level and is majestic enough both in its cosmical and moral aspect, has attained by the time of the Rigveda its highest development: it falls rapidly into unimportance, until the Brāhmaṇa1 can assert that an ugly deformed man, who is used as a scapegoat at the final bath of the horse sacrifice, is said to be a symbol of Varuna. With this decline of the great and noble god goes hand in hand the decline of the interest of Indian philosophy or religion in morality as such numerous as are the moral precepts which can be found here and there in Vedic literature, it must be admitted that it is quite impossible to find any real or vital principle of ethics. 
 
 3 
 
-The tendency to treat Indra as a doubtful personality is paralleled by the somewhat cynical tone which is certainly shown in speaking of him here and there. In one hymn 2 a number of human occupations and desires is men- tioned and the refrain is O Soma, flow for Indra': the humorous tone of the poem seems obvious, and the refrain alone may have preserved it from oblivion. Another hymn in which Indra expresses his feelings of exhilara- tion, as the result of the Soma drink, may be considered to be the natural expression of the poet's mind, in describing the splendid results of the glorious drink; it seems to be very doubtful whether the assumption of covert satire is not more natural and probable. The famous frog hymn also presents difficulties; it would be wrong to deny that it is intended as a rain spell, but there is improbability in the attempt to deny that there is some humour intended in the comparison of the frogs to priests: the idea that the hymn is a mere satire on the Brahmans will not do, for such a hymn would not have been preserved if composed, but a hymn may, like those to Indra, be preserved with incidental satire if it contains a religious or magic basis. The Vṛṣākapi hymn which shows Indra and Indrāṇi in dispute over a male ape may be adduced in this connexion, but in the absence of any surety as to its meaning it is difficult to rely upon 
+The tendency to treat Indra as a doubtful personality is paralleled by the somewhat cynical tone which is certainly shown in speaking of him here and there. In one hymn 2 a number of human occupations and desires is mentioned and the refrain is O Soma, flow for Indra': the humorous tone of the poem seems obvious, and the refrain alone may have preserved it from oblivion. Another hymn in which Indra expresses his feelings of exhilaration, as the result of the Soma drink, may be considered to be the natural expression of the poet's mind, in describing the splendid results of the glorious drink; it seems to be very doubtful whether the assumption of covert satire is not more natural and probable. The famous frog hymn also presents difficulties; it would be wrong to deny that it is intended as a rain spell, but there is improbability in the attempt to deny that there is some humour intended in the comparison of the frogs to priests: the idea that the hymn is a mere satire on the Brahmans will not do, for such a hymn would not have been preserved if composed, but a hymn may, like those to Indra, be preserved with incidental satire if it contains a religious or magic basis. The Vṛṣākapi hymn which shows Indra and Indrāṇi in dispute over a male ape may be adduced in this connexion, but in the absence of any surety as to its meaning it is difficult to rely upon 
 
 it. 
 
@@ -105,7 +105,7 @@ The hymn is clearly difficult to understand: the part of the seers, which appear
 
 Druids. 
 
-• Gesch. der Phil. I. i. 124, 125. He com- pares the Eros of Hesiod (Theog. 120) and Parmenides (Aristotle, Met. 984 b 25). 
+• Gesch. der Phil. I. i. 124, 125. He compares the Eros of Hesiod (Theog. 120) and Parmenides (Aristotle, Met. 984 b 25). 
 
 To compare (Radhakrishnan, Ind. Phil. i. 101) Aristotle's deity, the unmoved mover, is to falsify entirely primitive thought. 
 
@@ -123,11 +123,11 @@ i
 
 4 
 
-In the Brahmaṇas Prajapati is eternally identified with the year, the all- creator with the time in which he exercises his eternal process of creation, but this is not stated in the Rigveda, unless in a short hymn we are to find the conception of Prajapati underlying the year. There fervour, Tapas, is made the starting-point of all: from it come order, Rta, and truth, the night, and the primeval ocean: from the ocean was born the year which rules over all, and as creator produces the sun and the moon, the heaven and the earth, the atmosphere and the light of the sun. The parallel to Prajapati is close, but the identity is not to be certainly established. 
+In the Brahmaṇas Prajapati is eternally identified with the year, the allcreator with the time in which he exercises his eternal process of creation, but this is not stated in the Rigveda, unless in a short hymn we are to find the conception of Prajapati underlying the year. There fervour, Tapas, is made the starting-point of all: from it come order, Rta, and truth, the night, and the primeval ocean: from the ocean was born the year which rules over all, and as creator produces the sun and the moon, the heaven and the earth, the atmosphere and the light of the sun. The parallel to Prajapati is close, but the identity is not to be certainly established. 
 
 5 
 
-(ViŚvakarman, 'all-maker', is another synonym of Prajapati, and has two hymns of the tenth book devoted to his honour: they add, however, com- paratively little to our appreciation of the beginnings of Vedic thought: but we find here the tendency which is found in Indian conceptions to insist that 1 In the Samkhya it is from Buddhi intel- 
+(ViŚvakarman, 'all-maker', is another synonym of Prajapati, and has two hymns of the tenth book devoted to his honour: they add, however, comparatively little to our appreciation of the beginnings of Vedic thought: but we find here the tendency which is found in Indian conceptions to insist that 1 In the Samkhya it is from Buddhi intel- 
 
 lect that Ahamnkara, the principle of individuality which expresses itself in conscious will, springs. 
 
@@ -157,7 +157,7 @@ Already in the hymn to ViŚvakarman there appears the desire to parallel the cre
 
 1 RV. x. 72. 
 
-' RV. x. 125; cf. 71; Weber, Ind. Stud. ix. 473-80; Brunnhofer, Arische Ur- zeit, pp. 390-4. 
+' RV. x. 125; cf. 71; Weber, Ind. Stud. ix. 473-80; Brunnhofer, Arische Urzeit, pp. 390-4. 
 
 x. 90; Deussen, Gesch. der Phil. I. i. 
 

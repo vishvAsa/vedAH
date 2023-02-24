@@ -27,13 +27,13 @@ Achāvāka, priest, 294, 298, 209, 328, 329,
 
 Actions, 554, 556, 557; see also karman. Activity (pravṛtti), 483. 
 
-Adhvaryu, priest, 16, 17, 159, 252, 253, 254, 294, 295, 298, 311, 315, 319, 320, 325, 328, 336, 349, 353, 430. Aditi, goddess (Unermesslichkeit, v. Nege- lein, Weltanschauung, p. 103), 62, 70, 81, 82, 88, 99, 105, 125, 161, 191, 200, 215-17, 244, 248, 341, 342, 360, 411, 438, 620, n. 1. Adityas, 38, 34, 62, 82, 86, 95, 113, 122, 134, 
+Adhvaryu, priest, 16, 17, 159, 252, 253, 254, 294, 295, 298, 311, 315, 319, 320, 325, 328, 336, 349, 353, 430. Aditi, goddess (Unermesslichkeit, v. Negelein, Weltanschauung, p. 103), 62, 70, 81, 82, 88, 99, 105, 125, 161, 191, 200, 215-17, 244, 248, 341, 342, 360, 411, 438, 620, n. 1. Adityas, 38, 34, 62, 82, 86, 95, 113, 122, 134, 
 
 158, 176, 206, 215, 216, 222, 223, 229, 244, 248, 260, 270, 279, 331, 336, n. 4, 343, 360, 416, 457, 458, 464, 482, 577. 
 
 Adonis, 187. 
 
-Adultery, of wife assumed in Varunapra- ghāsas, 321, 475; regarded as sinful, 585. Aegean religion (cf. CAH. ii. 612 ff.), 19, 37, 
+Adultery, of wife assumed in Varunapraghāsas, 321, 475; regarded as sinful, 585. Aegean religion (cf. CAH. ii. 612 ff.), 19, 37, 
 
 39, 58, 74, n. 5, 629. 
 
@@ -651,7 +651,7 @@ Bṛhaspati, god, 65, 79, 80, 93, 96, 105, 122,
 
 123, 124, 126, 128, 133, 134, 138, 158, 162-4, 171, 177, 205, 208, 223, 202, 293, 315, 327, 339, 360, 370, 448, 449, 620, 623. Bṛhaspati, planet, 200. Bṛhaspatisava, offering, 338, 340. BṛhatkathaŚlokasamgraha, 632. Bṛhat Saman, 258, 335, 350, 351, 461. Brahmacarin, Brahman student, 200, 208, 209, 304, 309, 448; expiation of vow of chastity, 266, 267. 
 
-Brahmaloka, world of Brahman (or the Brahman), 209, 407, n. 7, 503, 520, n. 7, 526, n. 6, 528, 577, 588, 584, 588. Brahman (n.), holy power, absolute (Hopkins (Ethics of India, p. 85) takes this as original sense; F. Preisigke (Vom göttlichen Fluidum nach āgyptischer An- schauung, 1920) finds a parallel to Olden- berg's 'Zauberfluidum' theory in Egypt), 168, 171, 209, 399, 437, 443, 445-50, 469- 72, 489, 491, 494, 507-13, 516-22, 522-9, 588, 541, 549, 550, 551, 560, 568, 577, 580, 589, 599, 603, 610, n. 7, 613. Brahman (m.), god, 17, n. 3, 55, 57, 164, 173, 206, 207, 208, 209, 210, 211, 213, 214, 222, n. 8, 242, 360, 366, 407, n. 7, 482, 503, 526, 581, 578, 576. 
+Brahmaloka, world of Brahman (or the Brahman), 209, 407, n. 7, 503, 520, n. 7, 526, n. 6, 528, 577, 588, 584, 588. Brahman (n.), holy power, absolute (Hopkins (Ethics of India, p. 85) takes this as original sense; F. Preisigke (Vom göttlichen Fluidum nach āgyptischer Anschauung, 1920) finds a parallel to Oldenberg's 'Zauberfluidum' theory in Egypt), 168, 171, 209, 399, 437, 443, 445-50, 469- 72, 489, 491, 494, 507-13, 516-22, 522-9, 588, 541, 549, 550, 551, 560, 568, 577, 580, 589, 599, 603, 610, n. 7, 613. Brahman (m.), god, 17, n. 3, 55, 57, 164, 173, 206, 207, 208, 209, 210, 211, 213, 214, 222, n. 8, 242, 360, 366, 407, n. 7, 482, 503, 526, 581, 578, 576. 
 
 Brahman, a special priest, 252, 258, 294, 
 
@@ -659,7 +659,7 @@ Brahman, a special priest, 252, 258, 294,
 
 Brāhmaṇacchansin priest, 18, 162, 258, 296, 
 
-297, 298, 828, 329, 333, 335. Brahmanas, philosophy of the, 440-88; re- ferred to, 17, 19, 20, 27, 78, 75, 84, n. 3, 86, 99, 105, 109, 110, 112, 122, 126, n. 1, 138, 142, 143, 144, 151, n. 1, 155, 156, 159, 161, 164, 169, 170, 173, 174, 180, 189, 199, 201, 207, 208, 210, 225, 228, 232, 233, 234, 230, 
+297, 298, 828, 329, 333, 335. Brahmanas, philosophy of the, 440-88; referred to, 17, 19, 20, 27, 78, 75, 84, n. 3, 86, 99, 105, 109, 110, 112, 122, 126, n. 1, 138, 142, 143, 144, 151, n. 1, 155, 156, 159, 161, 164, 169, 170, 173, 174, 180, 189, 199, 201, 207, 208, 210, 225, 228, 232, 233, 234, 230, 
 
 252, 256, 259, 260, 261, 273, 274, 277, 282, 288, 292, 298, 302, 338, 375, 879, 895, 410, 415, 572, 581, 608, 612. 
 
@@ -727,7 +727,7 @@ Categories, 483, 484.
 
 Cathartic use of fire, 285, 286. Cattle, Rudra as lord of, 143, 145. 
 
-Cattle bells, revered by Todas, 269, n. 7. CaturvinŚa Stoma, 319, 350, 351. CatuŚcatvārinŚa Stoma, 319, 350, 351. Causality, 483, 484, 487, 522, 562, 594. Celtic religion, 36, 37, 38, 39, 117, n. 3, 140, n. 2, 199, 229, n. 1, 283, n. 2, 422, n. 5, 571, n. 9, 606, n. 6, 623, 627, 628. Central organ of thought, 554, 550, 557. Centum speech in Asia Minor, &c., 617, 634, n. 2; and satem speakers, alleged distinc- tion of, 100, n. 1. Cereal offerings, 40, 278, 279. Chameleon, used in magic ritual, 389. Chance, as final principle, 550, 551. Chandogya Upanisad, 19, 170, 487, 493, 496, 498, 502, 510, 512, 514, 515, 519, 520, 521, 537, 540, 545, 561, 569, 575, 576, 577, 578, 591, 598, 635, 637. 
+Cattle bells, revered by Todas, 269, n. 7. CaturvinŚa Stoma, 319, 350, 351. CatuŚcatvārinŚa Stoma, 319, 350, 351. Causality, 483, 484, 487, 522, 562, 594. Celtic religion, 36, 37, 38, 39, 117, n. 3, 140, n. 2, 199, 229, n. 1, 283, n. 2, 422, n. 5, 571, n. 9, 606, n. 6, 623, 627, 628. Central organ of thought, 554, 550, 557. Centum speech in Asia Minor, &c., 617, 634, n. 2; and satem speakers, alleged distinction of, 100, n. 1. Cereal offerings, 40, 278, 279. Chameleon, used in magic ritual, 389. Chance, as final principle, 550, 551. Chandogya Upanisad, 19, 170, 487, 493, 496, 498, 502, 510, 512, 514, 515, 519, 520, 521, 537, 540, 545, 561, 569, 575, 576, 577, 578, 591, 598, 635, 637. 
 
 Change of form, by Visṇu, 109; see also 
 
@@ -1137,7 +1137,7 @@ n. 2.
 
 Dreams, 383, 391, 892, 517, 520; as source 
 
-of belief in spirits of the dead, 75, 414; bad, banished to Trita Aptya, 120; com- pared with waking reality, 508, 558, 567-70. 
+of belief in spirits of the dead, 75, 414; bad, banished to Trita Aptya, 120; compared with waking reality, 508, 558, 567-70. 
 
 Dried river foam, a magic ingredient, 397. Drink-of-strength, 339, 840, and 
 
@@ -1323,7 +1323,7 @@ Expulsion of evil, 263; see also Scapegoat. Exta, special treatment of, in Roman
 
 External soul, 131, 196, 378, 625. Extinction of fires on death, 160. Eye (caksus), 458, 467, 472, 486, 517, 518, 587, 558, 554, 556, 557; as purifying, 887; of Prajapati, as source of horse, 208. 
 
-Faith (Śrāddha; cf. v. Negelein, Weltan- schauung, p. 34), 249, 250, 514, n. 11, 517, 575, 576, 577; as a deity, 2, 210. False accusation, effect of, 477. 
+Faith (Śrāddha; cf. v. Negelein, Weltanschauung, p. 34), 249, 250, 514, n. 11, 517, 575, 576, 577; as a deity, 2, 210. False accusation, effect of, 477. 
 
 Family books, of the Rigveda, 1, 2. Family worship, 828, 358. Fasting, 300, 301, 306. Fata Morgana, 179. 
 
@@ -1619,7 +1619,7 @@ Guilt banished to Trita, 134; in killing,
 
 181, 477; see also agas and enas. Gunaratna Sūri, 505. Guñgū, goddess, 109. Guru, see Teacher. 
 
-Hades, in Homer (for a Celtic parallel see H. Meyer, SBA. 1919, pp. 567 ff.), 418. Hagia Triada sarkophagos (Dussaud, Civili- sations préhelléniques, pp. 404 ff.), 415, n. 4. Hāhāhūhū, Gandharvas, 214. Haimavata, spirit, 242. 
+Hades, in Homer (for a Celtic parallel see H. Meyer, SBA. 1919, pp. 567 ff.), 418. Hagia Triada sarkophagos (Dussaud, Civilisations préhelléniques, pp. 404 ff.), 415, n. 4. Hāhāhūhū, Gandharvas, 214. Haimavata, spirit, 242. 
 
 Hair, 353; taboos regarding the, 305-6. Hair cutting, 285, 842, 843, 872, 378, 383. Hair growing, spells for, 369, n. 2. Hair offerings, 268, 324, 428, 430. Hairs of bull, used to feed child, 353, n. 2, 
 
@@ -1713,7 +1713,7 @@ Hiranyadant Baida, sage, 471. Hiranyagarbha, deity, 208, 398, 437, 508,
 
 526, 531, 533, 537. 
 
-HiranyakeŚi Grhya Sutra, 28, 188, 372, 428. HiranyakeŚi Śrauta Sutra, 28. Hissing of Vrtra, terrifies the gods, 127. Hittites (cf. CAH. ii. 252 ff.), 617, 618. Hole, drawing through a, to rub off evil, 897; in thatch, child taken through, 888; sacri- fice through a, 897. 
+HiranyakeŚi Grhya Sutra, 28, 188, 372, 428. HiranyakeŚi Śrauta Sutra, 28. Hissing of Vrtra, terrifies the gods, 127. Hittites (cf. CAH. ii. 252 ff.), 617, 618. Hole, drawing through a, to rub off evil, 897; in thatch, child taken through, 888; sacrifice through a, 897. 
 
 Holy lustre (brahmavarcasa), as deity, 218. Holy power, see Brahman. 
 
@@ -2011,7 +2011,7 @@ Kamarupa, country, 688.
 
 Kama Sutra, 476, n. 2, 488, n. 4, 491, n. 5. Kamboja, people, 547, n. 4, 688. 
 
-Kanisian or Kanesian (i.e. late Hittite, con- taining Indo-European elements, CAH. ii. 253 f., 428, n. 1; Friedrich, Streitberg- Festschrift, pp. 307 ff.), 617. 
+Kanisian or Kanesian (i.e. late Hittite, containing Indo-European elements, CAH. ii. 253 f., 428, n. 1; Friedrich, Streitberg- Festschrift, pp. 307 ff.), 617. 
 
 Kansa, legend of, 262. 
 
@@ -2137,7 +2137,7 @@ Letting loose of bull (vṛṣotsarga), ceremony,
 
 365. 
 
-Levirate, in India (for Hebrew usage, see Scheftelowitz, Archiv f. Religionswissen- schaft, xviii. 250 ff.), 248, n. 3, 419, 423. Leviticus, on sin offerings, 281. Liberation, see Salvation. 
+Levirate, in India (for Hebrew usage, see Scheftelowitz, Archiv f. Religionswissenschaft, xviii. 250 ff.), 248, n. 3, 419, 423. Leviticus, on sin offerings, 281. Liberation, see Salvation. 
 
 Licchavis, in Buddhist texts, 86. 
 
@@ -2193,7 +2193,7 @@ Madhyamika, school of Buddhism, 512. Madness, caused by the Gandharvas and
 
 Apsarases, 182, 636. 
 
-Magadha, country, 92, 387, 351, 385, 496. Magadha, man of Magadha, 402. Maghavan, the bounteous, Indra as, 132. Magic in ritual, Chap. 22; relations of magic to religion, 370, 380; nature of Vedic magic, 880-2; removal of hostile influ- ences, 382-6; of sin, 260-4; sacrifice, 396-401; spell, 393-6, 524. Magic powers possessed in state of ecstasy, 
+Magadha, country, 92, 387, 351, 385, 496. Magadha, man of Magadha, 402. Maghavan, the bounteous, Indra as, 132. Magic in ritual, Chap. 22; relations of magic to religion, 370, 380; nature of Vedic magic, 880-2; removal of hostile influences, 382-6; of sin, 260-4; sacrifice, 396-401; spell, 393-6, 524. Magic powers possessed in state of ecstasy, 
 
 612. Magicians, 399. 
 
@@ -2257,7 +2257,7 @@ Malevolence, of Rudra, 143, 144.
 
 Malimluca, demon, 240. 
 
-Mana (cf. Nilsson, Archiv f. Religions- wissenschaft, xxii. 379 ff.; Preuss, xxi. 171, 314), 43, 44, 380, n. 4, 446. Manann, Celtic deity, 229, n. 1. 
+Mana (cf. Nilsson, Archiv f. Religionswissenschaft, xxii. 379 ff.; Preuss, xxi. 171, 314), 43, 44, 380, n. 4, 446. Manann, Celtic deity, 229, n. 1. 
 
 Manava Dharma Sutra, 30. Manava Grhya Sutra, 28, 242. Manava Śrauta Sūtra, 28. 
 
@@ -2373,7 +2373,7 @@ Messenger, Agni as, 159; NaraŚañsa as, 165. Metempsychosis, see Transmigration
 
 Methu, μέθυ, 172, 624. 
 
-Metre (for an implausible theory see Leu- mann, KZ. lii.), 6, 16, n. 2, 255, 499, 500. Metru, Assyrian term, 101, n. 4. 
+Metre (for an implausible theory see Leumann, KZ. lii.), 6, 16, n. 2, 255, 499, 500. Metru, Assyrian term, 101, n. 4. 
 
 Mexican religion, 277, 828, n. 1, 329, n. 1. Midland, definition of the Aryan, 684, n. 2. Midrassil, Mitanni name of Mitra, 617. Milindapañha, 558, 563. 
 
@@ -2389,7 +2389,7 @@ Mimi, parallel with Trita, 185. Mimic raid, by king at Rajasūya, 342. Mind (man
 
 religion, 51-5. 
 
-Minoan religion, see Aegean religion. Minoans, probably pre-Hellenic (cf., how- ever, Bury, CAH. ii. 475 f. who makes Minos an Achaean), 628, n. 5, 629. 
+Minoan religion, see Aegean religion. Minoans, probably pre-Hellenic (cf., however, Bury, CAH. ii. 475 f. who makes Minos an Achaean), 628, n. 5, 629. 
 
 Minos (on etym. as possibly Indo-European, cf. Gūntert, Der arische Weltkönig, pp. 880 ff.), 229, n. 1. 
 
@@ -3201,7 +3201,7 @@ n. 1.
 
 8 
 
-Rites ancillary to the sacrifice the con- secration, 300-8; the Avabhṛtha, 808, 804; taboo, 304-10; form of prayer, 810, 
+Rites ancillary to the sacrifice the consecration, 300-8; the Avabhṛtha, 808, 804; taboo, 304-10; form of prayer, 810, 
 
 811. 
 
@@ -3357,7 +3357,7 @@ n. 2, 348, 460.
 
 Śyaparna Sayakayana, last offerer of human 
 
-sacrifice, 282. Cyena, spirit, 242. ṢaḍdarŚanasamuccaya, 505. ṢaḍvinŚa Brāhmaṇa, 18. Ṣasthi, offering to, 866, n. 1. Ṣaṣţitantra, 505, 544, n. 5. Ṣaṣtitantroddhāra-rūpa, 505. Sacramental sacrifice, 208-78, 323, 826. Sacred marriage, 117, n. 3. Sacred places, worship of, 631. Sacred texts, not created by men, 482. Sacrifice, 40, 47, 48; as a gift, 257-60; as a spell, 260-4, 338, 356; attacked by Rakṣases, 238; communion and sacra- ment in the, 208-78; fire and, 285-9; materials of the, 278-85; of a god, 276, 284, 882, n. 1, 619; performers of the, 289-99; removal of sin by, 264-8; theory of, in the Brahmanas, 454-67, 480; used in allegorical sense in doctrine of transmigration, 575; view of, in Upanisads, 495, 514, 576, 577, 578; Viṣṇu identified with, 111; see also Magic. Sacrifice of Puruṣa and the origin of the 
+sacrifice, 282. Cyena, spirit, 242. ṢaḍdarŚanasamuccaya, 505. ṢaḍvinŚa Brāhmaṇa, 18. Ṣasthi, offering to, 866, n. 1. Ṣaṣţitantra, 505, 544, n. 5. Ṣaṣtitantroddhāra-rūpa, 505. Sacramental sacrifice, 208-78, 323, 826. Sacred marriage, 117, n. 3. Sacred places, worship of, 631. Sacred texts, not created by men, 482. Sacrifice, 40, 47, 48; as a gift, 257-60; as a spell, 260-4, 338, 356; attacked by Rakṣases, 238; communion and sacrament in the, 208-78; fire and, 285-9; materials of the, 278-85; of a god, 276, 284, 882, n. 1, 619; performers of the, 289-99; removal of sin by, 264-8; theory of, in the Brahmanas, 454-67, 480; used in allegorical sense in doctrine of transmigration, 575; view of, in Upanisads, 495, 514, 576, 577, 578; Viṣṇu identified with, 111; see also Magic. Sacrifice of Puruṣa and the origin of the 
 
 world, 619-21. 
 
@@ -3545,7 +3545,7 @@ General Index
 
 Silent death of the victim, 280, 281, 325. Silver, 28. 
 
-Similes, in the Upanisads, 500. Sin, 95, 215, 245-9, 264-8, 810-12, 822, 477, 527, 575, 576, 585, 586; caused by the Fathers or the gods, 477; divine re- sponsibility for human, 527, 586; ritual error as (cf. Latte, Archiv f. Religions- wissenschaft, xx. 250 ff., 209, 285), 478. Sin, Semitic deity, 100, n. 5, 222, n. 8. Sindhu, river, 174, 175. 
+Similes, in the Upanisads, 500. Sin, 95, 215, 245-9, 264-8, 810-12, 822, 477, 527, 575, 576, 585, 586; caused by the Fathers or the gods, 477; divine responsibility for human, 527, 586; ritual error as (cf. Latte, Archiv f. Religionswissenschaft, xx. 250 ff., 209, 285), 478. Sin, Semitic deity, 100, n. 5, 222, n. 8. Sindhu, river, 174, 175. 
 
 Sinivāli, goddess, 199, 201, 355. Sinking of earth in ocean, 622. SIra, as deity, 188. 
 
@@ -3683,7 +3683,7 @@ Spirits, of the dead and demons, 286, 237,
 
 288, 239. 
 
-Spirit-worship, as source of religion (cf. H. Naumann, Primitive Gemeinschafts- kultur, 1921; Weinreich, Archiv f. Re- ligionswissenschaft, xxii. 321 ff.), 42–5. Spiritual man, as psychopomp, 575. Spit ox, offering, see fūlagava. Spring festival, in month Caitra, 361, 362. Sprinkling, 270; of sacrificer at Vājapeya, 
+Spirit-worship, as source of religion (cf. H. Naumann, Primitive Gemeinschaftskultur, 1921; Weinreich, Archiv f. Religionswissenschaft, xxii. 321 ff.), 42–5. Spiritual man, as psychopomp, 575. Spit ox, offering, see fūlagava. Spring festival, in month Caitra, 361, 362. Sprinkling, 270; of sacrificer at Vājapeya, 
 
 389. 
 
@@ -4353,7 +4353,7 @@ Vourukaśa, ocean in Iranian view, 135, 623. Vows, 260, n. 5; of student, 308, 3
 
 VṛṣaṇaŚva, Indra hailed as Mena of, 125. Vṛtra, demon, 62, 68, 72, 88, 91, 93, 104, 114, 124, 131, 133, 134, 136, 142, 151, 161, 163, 168, 192, 195, n. 2, 205, 210, 220, 234, 235, 266, n. 7, 464, 468, 477. 
 
-Vṛtrahan, epithet of Indra (Magoun (Studies in honor of Bloomfield, pp. 197-210), makes it apply primarily to Agni, but uncon- vincingly), 33, 133. 
+Vṛtrahan, epithet of Indra (Magoun (Studies in honor of Bloomfield, pp. 197-210), makes it apply primarily to Agni, but unconvincingly), 33, 133. 
 
 Vratya, Vratyas, 24, 147, 148, 209, 337, 338, 
 
@@ -4445,7 +4445,7 @@ World egg, 436, 442, 525, 528. World of the ox, 477.
 
 Worlds, 520, n. 7, 528. Worms propitiated, 194. 
 
-Worship of dead and sacrifice, 257, 425-32. Wrath, as characteristic of Rudra, 143; as a deity, 2, 203; of the Maruts, depre- cated, 152; not to be shown, 585. 
+Worship of dead and sacrifice, 257, 425-32. Wrath, as characteristic of Rudra, 143; as a deity, 2, 203; of the Maruts, deprecated, 152; not to be shown, 585. 
 
 Xanthos of Lydia, 614. 
 

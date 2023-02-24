@@ -11,7 +11,7 @@ THE HARVARD ORIENTAL SERIES
 
 VOLUME THIRTY-ONE
 
-THE volumes of the HARVARD ORIENTAL SERIES are printed at the expense of funds given to Harvard University by Henry Clarke Warren (1854-1899), of Cambridge, Massachusetts. The third volume, War- ren's Buddhism, is a noble monument to his courage in adversity and to his scholarship. The Series, as a contribution to the work of enabling the Occident to understand the Orient, is the fruit of an enlightened libe- rality which now seems to have been an almost prophetic anticipation on his part of a great political need.
+THE volumes of the HARVARD ORIENTAL SERIES are printed at the expense of funds given to Harvard University by Henry Clarke Warren (1854-1899), of Cambridge, Massachusetts. The third volume, Warren's Buddhism, is a noble monument to his courage in adversity and to his scholarship. The Series, as a contribution to the work of enabling the Occident to understand the Orient, is the fruit of an enlightened liberality which now seems to have been an almost prophetic anticipation on his part of a great political need.
 
 A brief account of Mr. Warren's life is given at the end of volume 30, Burlingame's Buddhist Legends. The account is reprinted at the end of the seventh and eighth issues (1922) of volume 3, Warren's Buddhism.
 

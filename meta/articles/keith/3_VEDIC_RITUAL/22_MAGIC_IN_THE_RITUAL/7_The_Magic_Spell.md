@@ -3,7 +3,7 @@ title = "7 The Magic Spell"
 
 +++
 
-The power of the word is very marked in all systems of magic and naturally not least in India. The magic spell is sometimes in prose, in the style of the formulae used by the Adhvaryus at the sacrifice, more often in verse, some- times newly made for the purpose, sometimes, and indeed very often, chosen without any appropriateness from the vast body of existing sacred literature. Of this latter tendency two examples may be given the number available is legion. The finest hymn to Varuna in the Vedic literature is found in the Atharvaveda where it has been preserved in a charm.5 The great hymn of the Rigveda, which celebrates the god Prajapati in the form of questions, has the second verse used in a spell for preventing the miscarriage of a cow, doubtless for no better reason than that the idiotic system on which names of authors were assigned to every hymn of the collection resulted in postulat- ing an author Hiranyagarbha, he of the golden womb', really an epithet of the supreme god, and the fact that the deity was Prajapati." 
+The power of the word is very marked in all systems of magic and naturally not least in India. The magic spell is sometimes in prose, in the style of the formulae used by the Adhvaryus at the sacrifice, more often in verse, sometimes newly made for the purpose, sometimes, and indeed very often, chosen without any appropriateness from the vast body of existing sacred literature. Of this latter tendency two examples may be given the number available is legion. The finest hymn to Varuna in the Vedic literature is found in the Atharvaveda where it has been preserved in a charm.5 The great hymn of the Rigveda, which celebrates the god Prajapati in the form of questions, has the second verse used in a spell for preventing the miscarriage of a cow, doubtless for no better reason than that the idiotic system on which names of authors were assigned to every hymn of the collection resulted in postulating an author Hiranyagarbha, he of the golden womb', really an epithet of the supreme god, and the fact that the deity was Prajapati." 
 
 Of the spell one characteristic is the regularity with which many gods are invoked it is absurd to suppose that in these enumerations there was normally any sense of the different deities invoked all that was desired was 
 
@@ -15,9 +15,9 @@ Keith, ERE. s. v. Ordeal; Hopkins, Origin of Religion, p. 256.
 
 1 PB. xiv. 6. 8; JB. iii. 233 ff. 
 
-CU. vi. 16. Cf. the use of fires to discrimi- nate after death, CB. i. 9. 3. 2; below, Chap. 28, § 10. 
+CU. vi. 16. Cf. the use of fires to discriminate after death, CB. i. 9. 3. 2; below, Chap. 28, § 10. 
 
-As weighing ordeal, without punishment directly, is hinted at n CB. xi. 2. 7. 33, where a man's fate after death is deter- mined by weighing his good and evil deeds. 
+As weighing ordeal, without punishment directly, is hinted at n CB. xi. 2. 7. 33, where a man's fate after death is determined by weighing his good and evil deeds. 
 
 lii. 8, 9; Henry, La magie dans l'Inde 
 
@@ -33,7 +33,7 @@ Vedic Ritual
 
 [Part III 
 
-is a feature of many forms of magic.1 Analogous to this feature is the fact that when anything is to be dealt with every conceivable place where it may be is enumerated: a disease is banished, not merely from the place where it is paining the person afflicted, but from all his members. On the other hand, where possible the exact name and origin of the thing dealt with must be given if one can name father and mother so much the better: the drum 2 is described as coming from the lord of the forest and strung by the cows. Some- times names of, to us, inexplicable and perhaps esoteric character are given, such as hrudu applied in the Atharvaveda to fever, in accordance with the well-known rule that in magic a mysterious name is the most potent of all.4 
+is a feature of many forms of magic.1 Analogous to this feature is the fact that when anything is to be dealt with every conceivable place where it may be is enumerated: a disease is banished, not merely from the place where it is paining the person afflicted, but from all his members. On the other hand, where possible the exact name and origin of the thing dealt with must be given if one can name father and mother so much the better: the drum 2 is described as coming from the lord of the forest and strung by the cows. Sometimes names of, to us, inexplicable and perhaps esoteric character are given, such as hrudu applied in the Atharvaveda to fever, in accordance with the well-known rule that in magic a mysterious name is the most potent of all.4 
 
 8 
 
@@ -77,9 +77,9 @@ The Magic Spell
 
 395 
 
-caused illness to the gods were cursed by the gods to be destroyed by a handle of the woodman's axe, made from their own bodies. The curse is often men- tioned as being invoked to recoil on the curser himself, showing that it was a common form of magic attack. It might also be heightened in effect by a formal offering, in which the rules of the sacrifice are violated and the points of reeds are sacrificed to the accompaniment of formulae declaring that the sacrificer takes from the enemy, who has played him false with his wife, hope and sight, children and cattle, breathing in and breathing out. The curse 
+caused illness to the gods were cursed by the gods to be destroyed by a handle of the woodman's axe, made from their own bodies. The curse is often mentioned as being invoked to recoil on the curser himself, showing that it was a common form of magic attack. It might also be heightened in effect by a formal offering, in which the rules of the sacrifice are violated and the points of reeds are sacrificed to the accompaniment of formulae declaring that the sacrificer takes from the enemy, who has played him false with his wife, hope and sight, children and cattle, breathing in and breathing out. The curse 
 
-2 in the Brahmanas is constantly expressed in a curious form if a man per- forms an act in the offering incorrectly, then he places himself in such a posi- tion that, if any one were to say of or to him something unpleasant, that would come true. The point is clear: the mistake exposes the man guilty of it to the risk of the effective working of any curse which is invoked upon him. 
+2 in the Brahmanas is constantly expressed in a curious form if a man performs an act in the offering incorrectly, then he places himself in such a position that, if any one were to say of or to him something unpleasant, that would come true. The point is clear: the mistake exposes the man guilty of it to the risk of the effective working of any curse which is invoked upon him. 
 
 6 
 

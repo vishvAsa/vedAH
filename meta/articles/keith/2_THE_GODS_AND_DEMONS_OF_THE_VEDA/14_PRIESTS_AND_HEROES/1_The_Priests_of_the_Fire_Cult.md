@@ -33,7 +33,7 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-the Angirases were two sets of priests who contributed the former the auspi- cious, the latter the black magic side of that Veda. We find many points in the ritual such as the Añgirasām Ayana, the Añgirasām Dviratra, and many individual inventors of ceremonies who claimed to be Añgirases. 
+the Angirases were two sets of priests who contributed the former the auspicious, the latter the black magic side of that Veda. We find many points in the ritual such as the Añgirasām Ayana, the Añgirasām Dviratra, and many individual inventors of ceremonies who claimed to be Añgirases. 
 
 3 
 
@@ -45,7 +45,7 @@ The view of Hillebrandt 1 is that the Añgirases were originally a family which 
 
 Other priests mentioned in conjunction with each other and usually allied either with the Añgirases or in the performance of the winning of the cows, which is the special deed of the Añgirases, are the Daśagvas and the Navagvas. The latter are the more often mentioned, and their name contains as first element the sacred number nine, so that the Daśagvas are probably a later invention. They seem to be a group of nine and ten priestly ancestors : possibly the second element in their name suggests, however, according to Bloomfield," the idea that they are persons who win nine or ten cows apiece : usually, however, the latter part of the word is interpreted as from the root denoting to go, and the compound then means going in sets of nine or ten respectively, unless indeed Navagva is nuntius. 
 
-The Atharvans are mentioned in the Rigveda thrice only in the plural, and eleven times in the singular. The essential feature of Atharvan is that he produces Agni, to become the messenger of Vivasvant. He practised devotion along with Manu and Dadhyañc, and was helped by Indra. According to the Atharvaveda,' Atharvan brought to Indra a cup of Soma, received from Varuna a mystic cow, and dwells in heaven. The Atharvans as a family appear with the Añgirases, Navagvas, and Bhṛgus and live in heaven, de- stroying goblins. In some passages the word certainly simply means priest as 
+The Atharvans are mentioned in the Rigveda thrice only in the plural, and eleven times in the singular. The essential feature of Atharvan is that he produces Agni, to become the messenger of Vivasvant. He practised devotion along with Manu and Dadhyañc, and was helped by Indra. According to the Atharvaveda,' Atharvan brought to Indra a cup of Soma, received from Varuna a mystic cow, and dwells in heaven. The Atharvans as a family appear with the Añgirases, Navagvas, and Bhṛgus and live in heaven, destroying goblins. In some passages the word certainly simply means priest as 
 
 1 Ved. Myth. ii. 150 ff. 
 
@@ -53,13 +53,13 @@ The Atharvans are mentioned in the Rigveda thrice only in the plural, and eleven
 
 * Macdonell, Ved. Myth., p. 148. 
 
-+ Louis H. Gray (JAOS. xlii. 382-4) treats them as intermediaries or shamanists. He sees in the late Bharadvāja Dhan- vantari a priest in whom the cloud deity is embodied, but this is to go far beyond 
++ Louis H. Gray (JAOS. xlii. 382-4) treats them as intermediaries or shamanists. He sees in the late Bharadvāja Dhanvantari a priest in whom the cloud deity is embodied, but this is to go far beyond 
 
 the evidence. 
 
 * JAOS. xvi. p. cxxv; AJP. xvii. 426. 
 
-• Macdonell, Ved. Myth., p. 144. For astronomical theories, see Tilak, Arctic Home in the Vedas, pp. 160 ff.; A. C. Das, Rig-Vedic India, i. 451 ff. Cf. Gūn- tert, Der arische Weltkönig, pp. 282 f. * xviii. 3. 54; v. 11; vii. 104; xi. 6. 18. 
+• Macdonell, Ved. Myth., p. 144. For astronomical theories, see Tilak, Arctic Home in the Vedas, pp. 160 ff.; A. C. Das, Rig-Vedic India, i. 451 ff. Cf. Gūntert, Der arische Weltkönig, pp. 282 f. * xviii. 3. 54; v. 11; vii. 104; xi. 6. 18. 
 
 Chap. 14] 
 
@@ -69,13 +69,13 @@ The Priests of the Fire Cult
 
 when Atharvans receive cows from Aśvatha as gifts, and a Bṛhaddiva Atharvan a seems to have been a real poet. In the ritual they appear to have used honey as real priests. Plants are described as connected with them in the Atharvaveda, as they are connected with the Añgirases, but the Atharvans seem clearly not to be connected with witchcraft and similar practices. The alternation of the compounds Atharvāñgiras and Bhṛgvañgiras points to their being closely related to the Bhṛgus, but there is no adequate evidence for the theory of Hillebrandt 3 that the Bhrgus are the clan and Atharvan its priest. 
 
-The word is probably, not certainly, to be identified with the Athravan of the Avesta, which must mean fire priest, the Avestan Ätar being akin to athar- yu, flaming, used as an epithet of Agni. There is therefore every reason to see in the Atharvans the elevation to divine rank of fire priests of old time.* 
+The word is probably, not certainly, to be identified with the Athravan of the Avesta, which must mean fire priest, the Avestan Ätar being akin to atharyu, flaming, used as an epithet of Agni. There is therefore every reason to see in the Atharvans the elevation to divine rank of fire priests of old time.* 
 
 6 
 
-A special figure is that of Dadhyañc Atharvaṇa, who is mentioned once in book vi, which is specially fond of the Atharvans, and elsewhere only in books i, ix, and x. The essential legend of him is that with the head of a horse he declared to the Aśvins the mead. Further, Indra is said to have found in Śaryaṇāvant the head of the horse hidden in the mountains, and to have slain ninety-nine Vṛtras with the bones of Dadhyañc. He is the son of Atharvan and the kindler of fire, and he obtains cows from Indra, and opens cowstalls by Soma's power. It is clearly difficult to make much of this figure; the telling of the mead which is made into the delivery of philosophic doctrine by the theo- logians is interpreted more prosaically by Hillebrandt as referring to the use of honey in the ritual by the Atharvans, which seems clearly attested. But the horse-head suggests connexion with the steed Dadhikrāvan, and the name may either mean 'united with curd' or 'turning towards curd in pleasure'. Bergaigne considers that he is to be taken as the Soma, but this is hardly enough to account for his curious form and myth. It has been suggested that he is the lightning, the horse's head indicating speed, the voice the thunder, and the bones the thunderbolts; the connexion of lightning with Soma would explain the reference to Soma, to Indra, and to Agni. The suggestion is ingenious, but the mixed form of the deity suggests that there is at work some conception of demoniac kind: the demons of the Vedic religion often have the confusion of human and animal form, but not the deities. 
+A special figure is that of Dadhyañc Atharvaṇa, who is mentioned once in book vi, which is specially fond of the Atharvans, and elsewhere only in books i, ix, and x. The essential legend of him is that with the head of a horse he declared to the Aśvins the mead. Further, Indra is said to have found in Śaryaṇāvant the head of the horse hidden in the mountains, and to have slain ninety-nine Vṛtras with the bones of Dadhyañc. He is the son of Atharvan and the kindler of fire, and he obtains cows from Indra, and opens cowstalls by Soma's power. It is clearly difficult to make much of this figure; the telling of the mead which is made into the delivery of philosophic doctrine by the theologians is interpreted more prosaically by Hillebrandt as referring to the use of honey in the ritual by the Atharvans, which seems clearly attested. But the horse-head suggests connexion with the steed Dadhikrāvan, and the name may either mean 'united with curd' or 'turning towards curd in pleasure'. Bergaigne considers that he is to be taken as the Soma, but this is hardly enough to account for his curious form and myth. It has been suggested that he is the lightning, the horse's head indicating speed, the voice the thunder, and the bones the thunderbolts; the connexion of lightning with Soma would explain the reference to Soma, to Indra, and to Agni. The suggestion is ingenious, but the mixed form of the deity suggests that there is at work some conception of demoniac kind: the demons of the Vedic religion often have the confusion of human and animal form, but not the deities. 
 
-The Bhrgus occur but twenty-three times in all in the Rigveda, and despite the fact that they are marked with the Atharvans and Añgirases as Fathers, they show certain clear distinctions of character from the Añgirases. While the latter are essentially active in the business of the finding of the cows, or aid Indra at least by their songs in it, the task of the Bhrgus is confined to the dis- covery of the fire, its lighting up, and its care. Moreover, in the Brāhmaṇa 
+The Bhrgus occur but twenty-three times in all in the Rigveda, and despite the fact that they are marked with the Atharvans and Añgirases as Fathers, they show certain clear distinctions of character from the Añgirases. While the latter are essentially active in the business of the finding of the cows, or aid Indra at least by their songs in it, the task of the Bhrgus is confined to the discovery of the fire, its lighting up, and its care. Moreover, in the Brāhmaṇa 
 
 1 RV. vi. 47. 24. 
 

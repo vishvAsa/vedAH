@@ -19,7 +19,7 @@ AB. ii. 20. 7.
 
 • RV. ix. 101. 13. He is identifled with the sacrifice in the Brahmanas; Hopkins, Trans. Conn. Acad. xv. 41 f. 
 
-• Von Schroeder (Arische Religion, ii. 486) sees in the story of Bhṛgu's hauteur and his visit to hell a faint echo of the Pro- metheus legend. 
+• Von Schroeder (Arische Religion, ii. 486) sees in the story of Bhṛgu's hauteur and his visit to hell a faint echo of the Prometheus legend. 
 
 • Kuhn, Herabkunft des Feuers, pp. 21, 22; Weber, ZDMG.ix. 240 ff.; Carnoy, Les Indo-Européens, p. 207. 
 
@@ -47,7 +47,7 @@ Other Ancient Priests
 
 227 
 
-Of individual seers Atri is the most famous, mainly through the myth of his being saved by Agni and by the Aśvins, who took him from a burning chasm, and refreshed him: once too they are said to have made him young again. The other legend attaching to him, or to the Atris, is the finding of the sun, when it was hidden by the demon Svarbhānu, and placing it again in the sky.1 This legend is often mentioned in the Brāhmaṇas and the Śatapatha adds the detail that Atri originated from and is even identical with Vac. The Atris, besides claiming a share in their father's exploit, are an historical reality, and the fifth book of the Rigveda is assigned by tradition to them, a tradition to a large extent borne out by the references in the work. With Atri, Sapta- vadhri seems to be identical: he is only named in immediate juxtaposition with Atri,3 and the same rescue seems to be performed for him as for Atri. 
+Of individual seers Atri is the most famous, mainly through the myth of his being saved by Agni and by the Aśvins, who took him from a burning chasm, and refreshed him: once too they are said to have made him young again. The other legend attaching to him, or to the Atris, is the finding of the sun, when it was hidden by the demon Svarbhānu, and placing it again in the sky.1 This legend is often mentioned in the Brāhmaṇas and the Śatapatha adds the detail that Atri originated from and is even identical with Vac. The Atris, besides claiming a share in their father's exploit, are an historical reality, and the fifth book of the Rigveda is assigned by tradition to them, a tradition to a large extent borne out by the references in the work. With Atri, Saptavadhri seems to be identical: he is only named in immediate juxtaposition with Atri,3 and the same rescue seems to be performed for him as for Atri. 
 
 G 
 

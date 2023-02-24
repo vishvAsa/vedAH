@@ -5,9 +5,9 @@ title = "05 The Four-month or Seasonal Sacrifices"
 
 3 
 
-The three four-month offerings are connected intimately with the seasons of the year, the VaiŚvadeva being offered in spring, the Varunapra- ghāsas in the rains, and the Sākamedhas in the autumn, at the beginning of each season. The connexion with the seasons is shown by the formulae, the names of the months which are connected with certain libations, and the formal cutting of the hair which is connected with certain of the rites. The man who first performs them must begin with an Iṣṭi to Agni VaiŚvānara and Parjanya or an Anvārambhaṇiyā Iṣṭi. In each case the sacrifice is introduced by five libations to Agni, Soma, Savitṛ, Sarasvati, and Puṣan. In the first follow offerings to the Maruts, to the All-gods, and to heaven and earth, the first and last of cakes, the second of a milk mess. The season is indicated by the use of a tree with budding branches for the wood for the fire, while the strew is made from plants which are shooting. 
+The three four-month offerings are connected intimately with the seasons of the year, the VaiŚvadeva being offered in spring, the Varunapraghāsas in the rains, and the Sākamedhas in the autumn, at the beginning of each season. The connexion with the seasons is shown by the formulae, the names of the months which are connected with certain libations, and the formal cutting of the hair which is connected with certain of the rites. The man who first performs them must begin with an Iṣṭi to Agni VaiŚvānara and Parjanya or an Anvārambhaṇiyā Iṣṭi. In each case the sacrifice is introduced by five libations to Agni, Soma, Savitṛ, Sarasvati, and Puṣan. In the first follow offerings to the Maruts, to the All-gods, and to heaven and earth, the first and last of cakes, the second of a milk mess. The season is indicated by the use of a tree with budding branches for the wood for the fire, while the strew is made from plants which are shooting. 
 
-The second offering, the Varunapraghāsas, is more important. One point in it is the preparation of two animals, a ram and sheep, from barley, which the sacrificer and his wife cover with wool and equip with the marks of sex made prominent; the Adharyu makes the one, the Pratiprasthatṛ the other: there are two Vedis, and the south one is assigned to the latter priest, who there performs a mimicry of the action of the Adhvaryu. There are offerings to Indra and Agni, to Varuna, to the Maruts and to Ka: the ram and the ewe are offered in the milk messes presented to Varuna and the Maruts respec- tively, the remainder being eaten. A further important point is the ceremony already referred to, by which the wife of the sacrificer is called upon to admit what lovers she has and to offer in the Dakṣiṇa fire the plates of Karambha, 'porridge', which number one more than the members of the family. The 
+The second offering, the Varunapraghāsas, is more important. One point in it is the preparation of two animals, a ram and sheep, from barley, which the sacrificer and his wife cover with wool and equip with the marks of sex made prominent; the Adharyu makes the one, the Pratiprasthatṛ the other: there are two Vedis, and the south one is assigned to the latter priest, who there performs a mimicry of the action of the Adhvaryu. There are offerings to Indra and Agni, to Varuna, to the Maruts and to Ka: the ram and the ewe are offered in the milk messes presented to Varuna and the Maruts respectively, the remainder being eaten. A further important point is the ceremony already referred to, by which the wife of the sacrificer is called upon to admit what lovers she has and to offer in the Dakṣiṇa fire the plates of Karambha, 'porridge', which number one more than the members of the family. The 
 
 1ŚŚS. xiv. 2 ff.; LCS. iv. 9 ff. 
 
@@ -21,7 +21,7 @@ Above, Part III, Chap. 18, § 8. For the
 
 1 [H.0.8. 32] 
 
-two figures Hubert and Mauss (Année sociol. ii. 111) adopt the view that they represent the spirit of barley as ferti- lizing and fertilized, which is eaten in the rite, and that the ram is Varuna visible', but this is quite impossible, or a mere mistranslation of CB. ii. 5. 2. 16. 
+two figures Hubert and Mauss (Année sociol. ii. 111) adopt the view that they represent the spirit of barley as fertilizing and fertilized, which is eaten in the rite, and that the ram is Varuna visible', but this is quite impossible, or a mere mistranslation of CB. ii. 5. 2. 16. 
 
 322 
 
@@ -47,7 +47,7 @@ This common rite in connexion with
 
 3 
 
-chthonic powers Weber (Rājasūya, p.11, n. 4) ingeniously but most implausibly conjectures to be due to a desire to show the complete confidence of safety produced in the mind of the performer by his devotion. The placing of gifts on a tree is a rite with many parallels; Meyer (Gesch. d. Alt. I. ii. p. 722) holds that the idea is to bring the offer- ing (e.g. in Ilion and Bambyke live animals) into immediate contact with the divinity temporarily resident in the tree. Cook (Zeus, i. 538) holds that the fertilizing animal is placed on the tree to secure its life. We are reduced to 
+chthonic powers Weber (Rājasūya, p.11, n. 4) ingeniously but most implausibly conjectures to be due to a desire to show the complete confidence of safety produced in the mind of the performer by his devotion. The placing of gifts on a tree is a rite with many parallels; Meyer (Gesch. d. Alt. I. ii. p. 722) holds that the idea is to bring the offering (e.g. in Ilion and Bambyke live animals) into immediate contact with the divinity temporarily resident in the tree. Cook (Zeus, i. 538) holds that the fertilizing animal is placed on the tree to secure its life. We are reduced to 
 
 Chap. 20] 
 

@@ -3,13 +3,13 @@ title = "2 Groups of Gods"
 
 +++
 
-It is a characteristic trait of the Rigveda that some forty hymns are de- voted to the group of gods called All-gods, Viśve Devās, and the impression given by the Rigveda is borne out by the ritual in which the All-gods receive frequent attention.2 The fact must be carefully borne in mind in framing any theory as to the feeling of the poets as to the rank of the several gods: they must have known of these joint invocations, in which as many gods as possible are propitiated, and the same tendency to be catholic in the reverence 
+It is a characteristic trait of the Rigveda that some forty hymns are devoted to the group of gods called All-gods, Viśve Devās, and the impression given by the Rigveda is borne out by the ritual in which the All-gods receive frequent attention.2 The fact must be carefully borne in mind in framing any theory as to the feeling of the poets as to the rank of the several gods: they must have known of these joint invocations, in which as many gods as possible are propitiated, and the same tendency to be catholic in the reverence 
 
 1 Oldenberg, Rel. des Veda3, p. 95, n. 3, cor- 
 
-recting Hillebrandt, Ved. Myth. i. 461 ; that they denote sun and moon is as improbable as that Indra and Agni are sun and moon. The connexion may be due to a Gautama (cf. RV. i. 98). The two gods were naturally enough con- nected as sacrificial, and hence the 
+recting Hillebrandt, Ved. Myth. i. 461 ; that they denote sun and moon is as improbable as that Indra and Agni are sun and moon. The connexion may be due to a Gautama (cf. RV. i. 98). The two gods were naturally enough connected as sacrificial, and hence the 
 
-animal victim preceding the Soma offer- ing is given to them. 
+animal victim preceding the Soma offering is given to them. 
 
 • Arbman (Rudra, p. 154, n. 3) suggests that the term includes all the gods as opposed to the heavenly gods of the Vedic sacrifice; but this clearly is wrong, the term denoting the whole of the gods of the sacrifice taken collectively. 
 
@@ -21,7 +21,7 @@ The Gods and Demons of the Veda
 
 paid to the gods is to be noted in the Sutras where offerings are prescribed to all the gods, including even unknown gods. The Rigveda already shows the tendency to set up individual gods as outside the number of All-gods: in the Sūtras there is perfectly obvious the distinction between all the gods and the older All-gods.1 The religious conception which lies at the back of it is one which can be paralleled from many religions. By inventing a comprehensive group no deity at any rate could justly complain that it had been passed over altogether. 
 
-Of the other groups of gods the Maruts are the most important: they also in the Rigveda bear the name of Rudras. This group is, however, distin- guished from the Maruts in the later texts, and its number is placed at 11, though 88, which is the traditional number of all the gods, is given in the Taittiriya Samhita." The Adityas, who are seven or eight in the Rigveda, become 12 in the Brāhmaṇas, and are often mentioned especially in contrast with the Añgirases, who are rather a priestly family than actual deities. With the Adityas and Rudras the Vasus are invoked in the Rigveda : it is clear that there they are connected with Indra. But in the later texts they are connected with Agni, not Indra, and their number, not defined in the Rigveda, is fixed at 8, though the Taittirīya Saṁhitā,” by a freak gives 838. In the Chandogya Upanisad * we find five groups, Indra with the Rudras, Agni with the Vasus, Varuṇa with the Adityas, Soma with the Maruts, and Brahman with the Sādhyas. The last group is a set of gods of whom practically nothing can be said they are mentioned occasionally from the Rigveda 7 onwards, occurring in the usual way even in the Sūtras, but except that they are ancient, nothing more is to be learned of their nature.8 
+Of the other groups of gods the Maruts are the most important: they also in the Rigveda bear the name of Rudras. This group is, however, distinguished from the Maruts in the later texts, and its number is placed at 11, though 88, which is the traditional number of all the gods, is given in the Taittiriya Samhita." The Adityas, who are seven or eight in the Rigveda, become 12 in the Brāhmaṇas, and are often mentioned especially in contrast with the Añgirases, who are rather a priestly family than actual deities. With the Adityas and Rudras the Vasus are invoked in the Rigveda : it is clear that there they are connected with Indra. But in the later texts they are connected with Agni, not Indra, and their number, not defined in the Rigveda, is fixed at 8, though the Taittirīya Saṁhitā,” by a freak gives 838. In the Chandogya Upanisad * we find five groups, Indra with the Rudras, Agni with the Vasus, Varuṇa with the Adityas, Soma with the Maruts, and Brahman with the Sādhyas. The last group is a set of gods of whom practically nothing can be said they are mentioned occasionally from the Rigveda 7 onwards, occurring in the usual way even in the Sūtras, but except that they are ancient, nothing more is to be learned of their nature.8 
 
 1 Kauś. lvi. 6. 
 

@@ -135,7 +135,7 @@ ananda, bliss, or ananta, eternity, of absolute, 519. anandamaya, epithet of sel
 
 518, 521. aptya, derivation of (cf. Gūntert, Der arische Weltkonig, p. 33: āpi, friend), 135, n. 5. apyāyana, swelling out of Soma shoots, 167, 316. apri, invocations, 164, 185, 
 
-275,293,318,325,340,623. amantraṇa, altar, 159, n. 2. ayuṣya, ceremony to pro- duce long life, 367, 368. 
+275,293,318,325,340,623. amantraṇa, altar, 159, n. 2. ayuṣya, ceremony to produce long life, 367, 368. 
 
 Sanskrit Index 
 
@@ -247,7 +247,7 @@ ctad vai tat, that is this, 524. enas, sin, 249, 485. cmuṣa, fierce, 111. esa,
 
 of the Castra, 315. 
 
-aikavartanna (probably cor- responding to eka and urt), in Mitanni, 617. aikadacina, animal offering, 
+aikavartanna (probably corresponding to eka and urt), in Mitanni, 617. aikadacina, animal offering, 
 
 333, 334. 
 
@@ -323,7 +323,7 @@ kramamukti, doctrine of,
 
 584. 
 
-kravyavahana, Agni as, 160. kravyād, Agni as (cf. Bloom- field, Streitberg-Festgabe, pp. 13 ff.), 160, 238, 357. kleŚa, defilements, 548. kṣatra, royal power, of 
+kravyavahana, Agni as, 160. kravyād, Agni as (cf. Bloomfield, Streitberg-Festgabe, pp. 13 ff.), 160, 238, 357. kleŚa, defilements, 548. kṣatra, royal power, of 
 
 Varuna, 96. kṣatradhṛti, offering 
 
@@ -533,7 +533,7 @@ druj, hostile spirit, 34, 38,
 
 255. 
 
-dvadaŚa, year, 4, n. 6. dvadaŚaha, twelve-day offer- ing, 177, 178, 314, 335, 350. 
+dvadaŚa, year, 4, n. 6. dvadaŚaha, twelve-day offering, 177, 178, 314, 335, 350. 
 
 dhammayāna, 
 
@@ -575,7 +575,7 @@ nakra, offered to Varuna,
 
 175. 
 
-naraka loka, hell, 409. na (or nā) vartanna (ap- parently nava and vṛt), in Mitanni, 617. nānātva, difference, 483. nāndimukha, Fathers as, 
+naraka loka, hell, 409. na (or nā) vartanna (apparently nava and vṛt), in Mitanni, 617. nānātva, difference, 483. nāndimukha, Fathers as, 
 
 427. 
 
@@ -621,7 +621,7 @@ neti, negative of absolute,
 
 491, 506, 521. 
 
-nyagrodha, tree, 23, 341, 363; as home of Apsa- rases, 184. nyqsa, renunciation, 515. 
+nyagrodha, tree, 23, 341, 363; as home of Apsarases, 184. nyqsa, renunciation, 515. 
 
 panzavartanna 
 
@@ -723,7 +723,7 @@ prakṛti, nature, 483, 510, 582-5, 559, 562, 604. pragatha, form of verse, 253,
 
 314, 315. 
 
-prajñā, consciousness, in- tellect, 518, 548, 554, 556, 557, 568. 
+prajñā, consciousness, intellect, 518, 548, 554, 556, 557, 568. 
 
 prajñātman, conscious or 
 
@@ -749,9 +749,9 @@ nexion with Prometheus, 38, 289, n. 2.
 
 pravat, sense of, 411. 
 
-pravara, enumeration of seer ancestors of sacri- ficer, 319. 
+pravara, enumeration of seer ancestors of sacrificer, 319. 
 
-pravargya, sacrifice, 68, 213, 255, 309, 327, 332, 333, 435, 490. pravṛtti, activity, 483. prastara, bundles of grass as representing the sacri- ficer, 320. prastava, part of Saman, 314. prajña, as soul state, 569, 
+pravargya, sacrifice, 68, 213, 255, 309, 327, 332, 333, 435, 490. pravṛtti, activity, 483. prastara, bundles of grass as representing the sacrificer, 320. prastava, part of Saman, 314. prajña, as soul state, 569, 
 
 n. 6. 
 
@@ -1177,7 +1177,7 @@ Sanskrit Index
 
 saccakiriya, in Pāli litera- 
 
-ture, 895, n. 7. sanjñā, perception, 578. samjñāna, 405, n. 3, 578. satobṛhati, metre, 315. sattavartanna (possibly con- nected with sapta and vrt), Mitanni term, 617. sattra, see Sattra. sativa, as a guna, 585, 539; 
+ture, 895, n. 7. sanjñā, perception, 578. samjñāna, 405, n. 3, 578. satobṛhati, metre, 315. sattavartanna (possibly connected with sapta and vrt), Mitanni term, 617. sattra, see Sattra. sativa, as a guna, 585, 539; 
 
 in transmigration, 
 

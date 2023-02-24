@@ -15,13 +15,13 @@ While the bath has the power of removing what is attached to a man's person, and
 
 * ŚB. xiii. 3. 6. 5 ; TB. iii. 9. 15. 
 
-* So in the ancient Hebrew rite of consecrat- ing a thing the touching by the people was the essential element; Wellhausen, Archiv f. Religionswissenschaft, vii. 88– 89. 
+* So in the ancient Hebrew rite of consecrating a thing the touching by the people was the essential element; Wellhausen, Archiv f. Religionswissenschaft, vii. 88– 89. 
 
 • See Eggeling, SBE. xliv. p. xl. 
 
 * ŚŚS, xvi. 18. 20; the expulsion was not in 
 
-all likelihood permanent, though Egge- ling thinks he may have been expected to live an anchorite's life. But he had been bought to perform the rite for 1,000 cows: so, if he went away, he would probably not trouble about asceticism. 
+all likelihood permanent, though Eggeling thinks he may have been expected to live an anchorite's life. But he had been bought to perform the rite for 1,000 cows: so, if he went away, he would probably not trouble about asceticism. 
 
 ⚫KŚS. vii. 2. 15, &c. 
 
@@ -35,7 +35,7 @@ Taboos
 
 305 
 
-of cases where the theory was worked out: in the case 1 of the period of a year connected with the ceremony of cutting the beard of the youth, which is intro- duced by a ceremony comparable to the initiation to studentship and during which the carrying of a girdle, the living on alms, and so on are prescribed as for a student, washing, combing the hair, cleaning the teeth, and washing the feet are forbidden. In the case of the four-month ceremonies,a it is a rule of perfection, at least, that the performer should not bathe until the final bath. The sense is clear, and throws light on the famous reference in the Aitareya Brāhmaṇa3 to the dirty condition of the ascetic, which is also echoed in the hymn of the Rigveda regarding the inspired Muni. 
+of cases where the theory was worked out: in the case 1 of the period of a year connected with the ceremony of cutting the beard of the youth, which is introduced by a ceremony comparable to the initiation to studentship and during which the carrying of a girdle, the living on alms, and so on are prescribed as for a student, washing, combing the hair, cleaning the teeth, and washing the feet are forbidden. In the case of the four-month ceremonies,a it is a rule of perfection, at least, that the performer should not bathe until the final bath. The sense is clear, and throws light on the famous reference in the Aitareya Brāhmaṇa3 to the dirty condition of the ascetic, which is also echoed in the hymn of the Rigveda regarding the inspired Muni. 
 
 4 
 
@@ -55,11 +55,11 @@ KŚS. v. 2. 21.
 
 x. 186. 
 
-'AGS. i. 17. 12, 16; 18. 5; GDS. xx. 5. For Greek parallels see Cook, Zeus, i. 28-5, 98. For peculiarities of arrange- ment of hair as characteristic of tribes and families cf. Ridgeway, Anthropo- 
+'AGS. i. 17. 12, 16; 18. 5; GDS. xx. 5. For Greek parallels see Cook, Zeus, i. 28-5, 98. For peculiarities of arrangement of hair as characteristic of tribes and families cf. Ridgeway, Anthropo- 
 
 20 [8.0.8. 31] 
 
-logical Essays presented to E. B. Tylor, p. 305; Hillebrandt, Ritual- litteratur, pp. 7, 8. For the soul in the hair, see Hopkins, Origin of Religion, pp. 116 ff. 
+logical Essays presented to E. B. Tylor, p. 305; Hillebrandt, Rituallitteratur, pp. 7, 8. For the soul in the hair, see Hopkins, Origin of Religion, pp. 116 ff. 
 
 • Oldenberg, Rel. des Veda', p. 426. 1ŚB. iii. 1. 2. 1; MS. iii. 6. 2. *AGS, iv, 6. 4. 
 
@@ -71,7 +71,7 @@ Vedic Ritual
 
 instances in which the hair must not be cut at all. The newly wedded bride on the fourth day, before the consummation of the marriage is permitted, must be rubbed with an ointment from the remains of oblations up to the nails and the hair.1 The ascetic of the Rigveda wears long hair; the description of the attributes of asceticism in the Aitareya Brāhmaṇa include dirt, long hair, a girdle, and an antelope skin. In the period of a year before the shaving of the beard referred to above the hair may not be cut. In the royal consecration the sacrifice is followed by period of a year in which the consecrated may rub but not wash himself, shorten, but not cut off the hair. The reason for the usage is given with perfect distinctness by the Brahmaṇa: the anointing has put the strength of the waters of anointing into his hair, and he would destroy the virtue thus engendered, if he cut off the hair. The same principle is applied to the animals of the sacrifice: the steed for the horse sacrifice must not, for the year in which it wanders free before its death, be allowed to bathe in water, and the manes of the horses in the realm should not be cut for a year after the royal consecration. Naturally the end of the period of allowing the hair to grow is marked by a formal act of shaving: this is the case with the man consecrated by the Dikṣā, with the king at the end of the year of consecration; at the Samavartana ceremony, which ends the period of studentship, the hair, the beard, the hair on the body, and the nails are all carefully cut.* 
 
-In a considerable number of cases we find that at certain times the intending sacrificer must abstain from sexual intercourse, must fast, or feed on certain specified foods alone, must sleep on the ground, and so on. The man who intends to establish the sacred fire must for the night before the per- formance lie awake in silence: 5 thus he is said to secure purity and Tapas for his approach to the gods next day. For the day before the new- and full- moon sacrifices the sacrificer must be careful not to eat meat or have sexual intercourse; at evening he may eat wild plants and fruits, but nothing of what he is to offer next day; he must sleep on the ground with his wife for the night, and some even demand that the pair shall spend it in telling stories." 
+In a considerable number of cases we find that at certain times the intending sacrificer must abstain from sexual intercourse, must fast, or feed on certain specified foods alone, must sleep on the ground, and so on. The man who intends to establish the sacred fire must for the night before the performance lie awake in silence: 5 thus he is said to secure purity and Tapas for his approach to the gods next day. For the day before the newand fullmoon sacrifices the sacrificer must be careful not to eat meat or have sexual intercourse; at evening he may eat wild plants and fruits, but nothing of what he is to offer next day; he must sleep on the ground with his wife for the night, and some even demand that the pair shall spend it in telling stories." 
 
 2 
 
@@ -87,13 +87,13 @@ XV.
 
 8.28. 
 
-* KŚS. xx. 2. 12, 18; LŚS. ix. 2. 26. In Persia we have an obscure record (Herodotos, ix. 110) of an annual hair washing (?) by the King, with which Strabo's (xv. 69) remark as to a similar Indian practice has been com- pared, and far-reaching conclusions as 
+* KŚS. xx. 2. 12, 18; LŚS. ix. 2. 26. In Persia we have an obscure record (Herodotos, ix. 110) of an annual hair washing (?) by the King, with which Strabo's (xv. 69) remark as to a similar Indian practice has been compared, and far-reaching conclusions as 
 
 to Persian influence on Candragupta's court drawn but with little cogency; cf. Keith, JRAS. 1916, pp. 188-43. 
 
 • ApŚS. xiii. 23. 16; ŚGS. iii. 1. 2. 5 ApŚS. v. 8. 1 ff. 
 
-• Hillebrandt, Neu- und Vollmondsopfer, 
+• Hillebrandt, Neuund Vollmondsopfer, 
 
 pp. 3, 6, 14. 
 
@@ -187,7 +187,7 @@ not sit directly on the bare earth, which may be thus explained or by the fear o
 
 5 
 
-On the other hand there are instances in which the aim of man is pre- cisely the opposite from that seen in the working of taboos: he desired to come into the closest possible relations with the object which he desires to provide. Thus in the case of the Śakvari verses which are already alluded to in the Rigveda the rules for the conduct of the pupil who desires to study the verses are of a peculiar nature. He is required to follow certain rules for a period of from twelve years to a year-in fixing lengths of courses the Brahmans are always accommodating-which include the duty of touching water thrice daily, wearing black garments, eating black food, exposing him- self uncovered to the rain: he must not cross flowing water nor save in case of the greatest need go on a ship, because the strength of the Śakvari rests in the waters. At the end, when he has learned to sing the verses, he must plunge his hands in water in which vegetables are placed. The whole performance has only one possible meaning: it is a Brahmanized version of a rain spell. Moreover, the ordinary student is encouraged to expose himself to the rain : " the holy youth is not to shrink from the holy element. The same sort of observance in the case of the sun is laid down for students of the Samaveda : 8 they are not to cover themselves from the sun with more than a single garment, and not to allow anything save trees to get between them and the sun. The performer of the Pravargya ceremony is forbidden to cover himself in the sun, or to defile it by performing before it any of the acts of nature: 10 at 
+On the other hand there are instances in which the aim of man is precisely the opposite from that seen in the working of taboos: he desired to come into the closest possible relations with the object which he desires to provide. Thus in the case of the Śakvari verses which are already alluded to in the Rigveda the rules for the conduct of the pupil who desires to study the verses are of a peculiar nature. He is required to follow certain rules for a period of from twelve years to a year-in fixing lengths of courses the Brahmans are always accommodating-which include the duty of touching water thrice daily, wearing black garments, eating black food, exposing himself uncovered to the rain: he must not cross flowing water nor save in case of the greatest need go on a ship, because the strength of the Śakvari rests in the waters. At the end, when he has learned to sing the verses, he must plunge his hands in water in which vegetables are placed. The whole performance has only one possible meaning: it is a Brahmanized version of a rain spell. Moreover, the ordinary student is encouraged to expose himself to the rain : " the holy youth is not to shrink from the holy element. The same sort of observance in the case of the sun is laid down for students of the Samaveda : 8 they are not to cover themselves from the sun with more than a single garment, and not to allow anything save trees to get between them and the sun. The performer of the Pravargya ceremony is forbidden to cover himself in the sun, or to defile it by performing before it any of the acts of nature: 10 at 
 
 1ŚGS. iv. 12. 21. *GGS. iii. 5. 32. 
 
@@ -205,7 +205,7 @@ PB. xii. 13. 14; TS. ii. 2. 8. 5 ; GGS. iii.2. ' PGS. ii. 7. 11; GGS.iii. 5.11. 
 
 * ŚB. xiv. 1. 1. 33. 
 
-10 Cf. the rule for the Brahman student, ŚB. xiv. 1. 2. 88; AV. xiii. 1. 56 (with Lanman's note); Hes.op.725; Brunn- hofer, Arische Urzeit, pp. 324, 325. 
+10 Cf. the rule for the Brahman student, ŚB. xiv. 1. 2. 88; AV. xiii. 1. 56 (with Lanman's note); Hes.op.725; Brunnhofer, Arische Urzeit, pp. 324, 325. 
 
 310 
 
@@ -213,7 +213,7 @@ Vedic Ritual
 
 [Part III 
 
-night he must make a light, and eat by it, thus creating for himself a present- ment of the sun. The performer of the second form of consecration at the Soma offering takes nothing save hot milk in the effort to make complete the state of heat which the performer of the first consecration aimed at.1 
+night he must make a light, and eat by it, thus creating for himself a presentment of the sun. The performer of the second form of consecration at the Soma offering takes nothing save hot milk in the effort to make complete the state of heat which the performer of the first consecration aimed at.1 
 
 It is of interest to mention in conclusion the conjecture put forward by Weber 2 that the word taboo as tabuva was actually found in the Atharvaveda;8 it is clear that such a suggestion could not possibly be made good, and the idea has been rejected with almost entire unanimity by scholars.4 
 

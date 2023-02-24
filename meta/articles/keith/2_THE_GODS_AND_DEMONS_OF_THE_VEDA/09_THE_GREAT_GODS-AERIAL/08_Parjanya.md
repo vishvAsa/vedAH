@@ -11,7 +11,7 @@ In one place Dyaus is stated to be his father, and in his character, especially 
 
 * Hillebrandt, Ved. Myth. iii. 329–31. * Cf. 
 
-Feist, Kultur der Indogermanen, p. 848, who accepts connexion of Wodan with vates and Irish faith and treats him as a god of spirits, in ac- cordance with his belief that the gods are sprung from spirits. Helm (Alt- germ. Rel. i. 260 f.) regards Wodan as a wind and spirit god. 
+Feist, Kultur der Indogermanen, p. 848, who accepts connexion of Wodan with vates and Irish faith and treats him as a god of spirits, in accordance with his belief that the gods are sprung from spirits. Helm (Altgerm. Rel. i. 260 f.) regards Wodan as a wind and spirit god. 
 
 Cf. von Schroeder, Arische Religion, i. 127 f., 
 

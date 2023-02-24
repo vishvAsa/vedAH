@@ -3,7 +3,7 @@ title = "1 The Enemies of the Gods"
 
 +++
 
-THE enemies of the gods par excellence throughout the Yajurveda, the Atharvaveda, and all the subsequent Vedic literature are beings called Asuras, but this connexion can be traced only in the latest parts of the Rigveda and even there but occasionally. In the singular the meaning is found but three times certainly, used of Varcin,1 Pipru,2 and the wolfish Asura; 3 a fourth case is very doubtful, and may instead refer to Varuna. In the plural there are at most eight cases, predominantly in the tenth book: in them the gods as a body appear opposed to the Asuras as in the later texts, or Indra scatters them. The term Asura is applied also to Namuci, and to Svarbhānu, while Indra, Agni, and the sun are called slayers of Asuras. In the Atharvaveda," on the other hand, the singular is used in the hostile sense three times, the plural thirty times, and the application of the term to the gods, which is found very occasionally in the later literature," is confronted with a regular applica- tion to the enemies of the gods. In the Rigveda, on the contrary, it is the normal attribute of Varuṇa and, more rarely, of other high gods. 
+THE enemies of the gods par excellence throughout the Yajurveda, the Atharvaveda, and all the subsequent Vedic literature are beings called Asuras, but this connexion can be traced only in the latest parts of the Rigveda and even there but occasionally. In the singular the meaning is found but three times certainly, used of Varcin,1 Pipru,2 and the wolfish Asura; 3 a fourth case is very doubtful, and may instead refer to Varuna. In the plural there are at most eight cases, predominantly in the tenth book: in them the gods as a body appear opposed to the Asuras as in the later texts, or Indra scatters them. The term Asura is applied also to Namuci, and to Svarbhānu, while Indra, Agni, and the sun are called slayers of Asuras. In the Atharvaveda," on the other hand, the singular is used in the hostile sense three times, the plural thirty times, and the application of the term to the gods, which is found very occasionally in the later literature," is confronted with a regular application to the enemies of the gods. In the Rigveda, on the contrary, it is the normal attribute of Varuṇa and, more rarely, of other high gods. 
 
 5 
 
@@ -19,7 +19,7 @@ The theory of Haug that the change of meaning of Asura as between Asura in India
 
 * RV. x. 124. 
 
-* RV. viii. 96. 9; 97.1; x. 157.4; 53. 4; 82.5; 124.5 (dubious); 151.3; Asura, v. 40. 5, 9; x. 131. 4; Asurahan, vi. 22. 4; vii. 13. 1; x. 180. 2. Cf. Mac- donell, JRAS. xxvii. 168–77. 
+* RV. viii. 96. 9; 97.1; x. 157.4; 53. 4; 82.5; 124.5 (dubious); 151.3; Asura, v. 40. 5, 9; x. 131. 4; Asurahan, vi. 22. 4; vii. 13. 1; x. 180. 2. Cf. Macdonell, JRAS. xxvii. 168–77. 
 
 • Von Bradke, Dyāus Asura, pp. 101 ff. ↑ Ludwig, Rigveda, iv. p. xvii ; TS. i. 6. 6. 
 
@@ -33,7 +33,7 @@ pp.
 
 Ved. Stud. i. 142. 
 
-10 Hillebrandt, VOJ. xiii. 320. The deriva- tion from mï, * injure ’(Geldner, Glossar zum RV., p. 135), is clearly wrong ; it is from mā, ‘fashion', RV. v. 85. 5 ; i. 159. 4 ; iii. 38.7; ix. 83.3; cf. Neisser, Festschrift Hillebrandt, pp. 144 ff.; Schayer, Mahdyān. Erlösungslehre, pp. 22 f. 
+10 Hillebrandt, VOJ. xiii. 320. The derivation from mï, * injure ’(Geldner, Glossar zum RV., p. 135), is clearly wrong ; it is from mā, ‘fashion', RV. v. 85. 5 ; i. 159. 4 ; iii. 38.7; ix. 83.3; cf. Neisser, Festschrift Hillebrandt, pp. 144 ff.; Schayer, Mahdyān. Erlösungslehre, pp. 22 f. 
 
 232 
 
@@ -59,7 +59,7 @@ Another suggestion is made by von Schroeder, based on von Bradke's view of the t
 
 1 Ved. Myth, iii. 430 ff.; cf. Moulton, Early Zoroastrianism, pp. 115, 140; von Bradke, Dyāus Asura, pp. 108 f. Greek influence for Vedic times (V. Smith, JASB. 1889, p. 133; 1892, p. 60) is implausible. 
 
-* TS. iv. 4. 10.1; MS. iv. 6. 3 ; ŚB. iv. 2. 1. 16. Hillebrandt treats him as Death; these demons receive the Śukra and Manthin cups at the Agniṣṭoma, in- vented by the gods to rid themselves of them, and the Manthin cup brings dis- ease. Śandikas in RV. ii, 30. 8 are foes of Indra. The Avestan Karapans who 
+* TS. iv. 4. 10.1; MS. iv. 6. 3 ; ŚB. iv. 2. 1. 16. Hillebrandt treats him as Death; these demons receive the Śukra and Manthin cups at the Agniṣṭoma, invented by the gods to rid themselves of them, and the Manthin cup brings disease. Śandikas in RV. ii, 30. 8 are foes of Indra. The Avestan Karapans who 
 
 are in evil odour he connects with the kalpa of the Vedic priests. 
 
@@ -67,7 +67,7 @@ are in evil odour he connects with the kalpa of the Vedic priests.
 
 • MS. iv. 2. 9. 
 
-• Macdonell and Keith, Vedic Index, i. 29, 349, 450, 509, 518; ii. 63. Jackson (CHI. i. 319 ff.) adds nothing new to Hillebrandt's conjectures. It is note- worthy that Bloomfield's evidence (Rig- Veda Repetitions, p. 645) shows book vi as by no means early as it should be if it deals with events in Iran before the invasion of India. 
+• Macdonell and Keith, Vedic Index, i. 29, 349, 450, 509, 518; ii. 63. Jackson (CHI. i. 319 ff.) adds nothing new to Hillebrandt's conjectures. It is noteworthy that Bloomfield's evidence (Rig- Veda Repetitions, p. 645) shows book vi as by no means early as it should be if it deals with events in Iran before the invasion of India. 
 
 • Arische Religion, i. 317 ff. 1 Dyāus Asura, pp. 29 ff. 
 
@@ -87,7 +87,7 @@ The view of these personages taken by the Brahmaṇas is that they are equally s
 
 Among names of Asuras we learn of Kirata and Akuli, Araru (with which may be compared the Arurmaghas or Aruñmaghas, foes of Indra), Aru, Kustā,” in opposition to Aditi, Etadu, from the use of etad u in a formula, Daivya as their messenger as opposed to Agni, Dābhi as the address of the Gayatri 
 
-1 Thus Moulton (Early Zoroastrianism, p. 150; Early Rel. Poetry of Persia, pp. 34 ff.) argues that the high Ahura wor- ship comes from ancestor worship as contrasted with the inferior worship of Daëvas, nature deities. But he himself (Early Zoroastrianism, pp. ix, 344, &c.) renders Ahura by' lord', which disposes of any connexion with ancestor worship. Varuna sufficiently refutes for India and Ahura for Iran Schroeder's doctrine that morality and ancestor worship are more closely related than the worship 
+1 Thus Moulton (Early Zoroastrianism, p. 150; Early Rel. Poetry of Persia, pp. 34 ff.) argues that the high Ahura worship comes from ancestor worship as contrasted with the inferior worship of Daëvas, nature deities. But he himself (Early Zoroastrianism, pp. ix, 344, &c.) renders Ahura by' lord', which disposes of any connexion with ancestor worship. Varuna sufficiently refutes for India and Ahura for Iran Schroeder's doctrine that morality and ancestor worship are more closely related than the worship 
 
 of the gods and conduct. 
 
@@ -113,9 +113,9 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-metre,1 in place of Viśvakarman, Asita Dhanva, their king,2 Pūru, the name of a Vedic prince, Vibhinduka and Viṣād. More important are the Kala- kañjas,3 who figure in a story similar to that of Otos and Ephialtes, the bricks of the altar taking the place of mountains. 
+metre,1 in place of Viśvakarman, Asita Dhanva, their king,2 Pūru, the name of a Vedic prince, Vibhinduka and Viṣād. More important are the Kalakañjas,3 who figure in a story similar to that of Otos and Ephialtes, the bricks of the altar taking the place of mountains. 
 
-In comparison with the Asuras the Panis are unimportant demons, who play no great part in the literature after the Rigveda. They are the demons who withhold the cows, or, as it is differently put, the ghee in the cow, from Indra or his allies, Agni, Bṛhaspati, the Añgirases or Soma, and are over- thrown by him. The word is normally plural, but a single Pani four times represents the group. The most probable explanation is undoubtedly that which sees in the Panis the personification of the enemy, who will not sacrifice to the gods or bestow gifts on the priests, and who is therefore an enemy of the gods and men alike, and has been brought into the old myth of the winning of the light in cow shape. Hillebrandt seeks to show that the Panis are an historical tribe, comparing the name Parnians, but the suggestion is most improbable. 
+In comparison with the Asuras the Panis are unimportant demons, who play no great part in the literature after the Rigveda. They are the demons who withhold the cows, or, as it is differently put, the ghee in the cow, from Indra or his allies, Agni, Bṛhaspati, the Añgirases or Soma, and are overthrown by him. The word is normally plural, but a single Pani four times represents the group. The most probable explanation is undoubtedly that which sees in the Panis the personification of the enemy, who will not sacrifice to the gods or bestow gifts on the priests, and who is therefore an enemy of the gods and men alike, and has been brought into the old myth of the winning of the light in cow shape. Hillebrandt seeks to show that the Panis are an historical tribe, comparing the name Parnians, but the suggestion is most improbable. 
 
 6 
 
@@ -161,7 +161,7 @@ Arbuda appears seven times as a beast whose head Indra struck off: he seems to b
 
 Hillebrandt, Ved. Myth, iii, 289 ff. Use- 
 
-ner (Götternamen, p. 206) finds the Danaoi in the Dānava as demons, de- spite the change of quantity. Implau- sible is the view that Vṛtra is a creation of the imagination, vṛtrahan, as in the Avesta Verethraghna, denoting * assault repelling '(Bartholomae, Air.Wb. 1420). 
+ner (Götternamen, p. 206) finds the Danaoi in the Dānava as demons, despite the change of quantity. Implausible is the view that Vṛtra is a creation of the imagination, vṛtrahan, as in the Avesta Verethraghna, denoting * assault repelling '(Bartholomae, Air.Wb. 1420). 
 
 ' Hillebrandt, Ved. Myth, iii. 260–6. 
 
@@ -197,4 +197,4 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-Of the Dasa enemies of Indra the chief is Śambara, the son of Kulitara,1 who had 90, 99, or 100 forts and was the great foe of Divodāsa Atithigva. His historical reality seems reasonably assumed. Pipru is styled a wild beast, an Asura, and a Dāsa, and is defeated for the sake of Ṛjiśvan: it seems unneces- sary to see in him a spirit of the air. Dhuni, the roarer, and Cumuri, whose name is not connected with any known root, are apparently chiefs defeated for Dabhiti. Varcin is both Asura and Dasa, but his 1,100 or 100,000 4 warriors do not seem wholly mythical, and the names Anarśani, Ilībiśa, Drbhika, Rudhikrā, and Sṛbinda, which are those of other foes, seem human enough. On the other hand, Namuci, as we have seen, seems to be a demon, and Śuṣna has been explained not as a human enemy of Kutsa, but as a demon of drought from his name interpreted as scorcher." But this seems unlikely : he is child of the mist and moves in the water and a Danava; if, therefore, he is a demon, he is rather the hisser, for Vṛtra's hissing drove Indra away in fear, and this applies to other enemies than drought demons. 
+Of the Dasa enemies of Indra the chief is Śambara, the son of Kulitara,1 who had 90, 99, or 100 forts and was the great foe of Divodāsa Atithigva. His historical reality seems reasonably assumed. Pipru is styled a wild beast, an Asura, and a Dāsa, and is defeated for the sake of Ṛjiśvan: it seems unnecessary to see in him a spirit of the air. Dhuni, the roarer, and Cumuri, whose name is not connected with any known root, are apparently chiefs defeated for Dabhiti. Varcin is both Asura and Dasa, but his 1,100 or 100,000 4 warriors do not seem wholly mythical, and the names Anarśani, Ilībiśa, Drbhika, Rudhikrā, and Sṛbinda, which are those of other foes, seem human enough. On the other hand, Namuci, as we have seen, seems to be a demon, and Śuṣna has been explained not as a human enemy of Kutsa, but as a demon of drought from his name interpreted as scorcher." But this seems unlikely : he is child of the mist and moves in the water and a Danava; if, therefore, he is a demon, he is rather the hisser, for Vṛtra's hissing drove Indra away in fear, and this applies to other enemies than drought demons. 

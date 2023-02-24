@@ -9,9 +9,9 @@ The word Deva undoubtedly denotes a being connected with the heaven, and there c
 
 * Threshold of Religion, pp. 25, 26. 
 
-* Helm (Altgerm. Rel. i. 13, 14) adopts the term as denoting the recognition of natural forces as alive and ensouled as opposed to manism, which derives worship of these forces from the wor- ship of the dead, naturalism indicating the view that the appearances in nature are identic with the powers man 
+* Helm (Altgerm. Rel. i. 13, 14) adopts the term as denoting the recognition of natural forces as alive and ensouled as opposed to manism, which derives worship of these forces from the worship of the dead, naturalism indicating the view that the appearances in nature are identic with the powers man 
 
-recognizes. Reville (Hist. des Rel. ii. 237) distinguishes naturism and ani- mism; cf. Lang, Making of Religion, pp. 291 f. See above, p. 42, n. 3. 
+recognizes. Reville (Hist. des Rel. ii. 237) distinguishes naturism and animism; cf. Lang, Making of Religion, pp. 291 f. See above, p. 42, n. 3. 
 
 * Cf. Macdonell, Veď. Myth., pp. 156 ff.; 
 
@@ -35,7 +35,7 @@ Did Deva ever include demons in Vedic usage? It has been suggested that the popu
 
 7 
 
-Naturally enough, we find the term Deva expanding in use with the development of religion and the spread of the doctrine of transmigration which ultimately allows of no vital difference between gods and demons, so that the epic" can talk of the gods beginning with Brahman and ending with Piśācas; but here again it is idle to antedate and to read into Vedic times an obscura- tion of sense which was a natural later development. To attribute to the Vedic period all that is in the epic is at least as rash as to deny to it everything not explicitly found in Vedic texts. 
+Naturally enough, we find the term Deva expanding in use with the development of religion and the spread of the doctrine of transmigration which ultimately allows of no vital difference between gods and demons, so that the epic" can talk of the gods beginning with Brahman and ending with Piśācas; but here again it is idle to antedate and to read into Vedic times an obscuration of sense which was a natural later development. To attribute to the Vedic period all that is in the epic is at least as rash as to deny to it everything not explicitly found in Vedic texts. 
 
 1 Cf. Chap. 21, § 2. 
 

@@ -31,7 +31,7 @@ JAOS. xvi. 19.
 
 In the ritual the reality of Nirṛti 
 
-this deity speculations on sexual ele- ments in Vedic conceptions of deity, which to me as to Oldenberg carry no conviction (GGA. 1919, pp. 357–9). 
+this deity speculations on sexual elements in Vedic conceptions of deity, which to me as to Oldenberg carry no conviction (GGA. 1919, pp. 357–9). 
 
 * Pischel, Ved. Stud. ii. 82 ff.; Oldenberg, 
 
@@ -63,13 +63,13 @@ Another deity which is of importance in the popular thought, but which is very l
 
 6 
 
-Other examples of these abstract deities of the Sondergötter type are to be found in the Sutras. Thus in the worship of the furrow, Sita, which is itself concrete, we find that in addition to her there should be invoked the goddess Yajā, who is nothing else than the action of sacrificing, Śamã, which is exertion, and Bhuti which is prosperity: the guardians of the furrow there invoked are probably to be taken as personifications of nature, but con- ceivably may be treated as mere abstractions. But this constant mention 
+Other examples of these abstract deities of the Sondergötter type are to be found in the Sutras. Thus in the worship of the furrow, Sita, which is itself concrete, we find that in addition to her there should be invoked the goddess Yajā, who is nothing else than the action of sacrificing, Śamã, which is exertion, and Bhuti which is prosperity: the guardians of the furrow there invoked are probably to be taken as personifications of nature, but conceivably may be treated as mere abstractions. But this constant mention 
 
 1 iii. 6. 3. 
 
 * Hillebrandt, Ved. Myth. iii. 400. Follow- 
 
-ing Speyer, Henry (La magie dans l'Inde antique, pp. 160 ff.) sees in her a goddess of earth; see TS. iv. 2. 5; KS. xvi. 12 ; VS. xii, 64. Cf. Arbman, Rudra, p. 261. Connexion with Ner- thus is most dubious. 
+ing Speyer, Henry (La magie dans l'Inde antique, pp. 160 ff.) sees in her a goddess of earth; see TS. iv. 2. 5; KS. xvi. 12 ; VS. xii, 64. Cf. Arbman, Rudra, p. 261. Connexion with Nerthus is most dubious. 
 
 ' xi. 4. 3. 1; Samhita references seen by Scheftelowitz (ZDMG. Ixxv. 87–50) for 
 
@@ -93,7 +93,7 @@ Deified States or Conditions
 
 213 
 
-of these kinds of deities with the most concrete is proof that they were not felt to be any different in essence by the people, for whom the Sûtras were composed. Thus in the ceremony of handing over the pupil 1 by the teacher to the charge of various powers the list includes besides Sarasvati and the Aśvins, Kaṣaka elsewhere unknown, perhaps Krśana or Karśana is meant, Antaka, Aghora, diseases, Yama, Makha, the sacrifice personified as often, Vāśini, the ruling lady,' earth with Vaiśvānara, waters, herbs, trees, heaven and earth, welfare, holy lustre, the All-gods, all beings, and all deities, where the distinction between the older group of the All-gods 2 and the later con- ception of all the gods is noteworthy. A very remarkable list is given in the formula of the Tarpana recorded in the Gṛhya ritual as accompanying the close of Vedic study. The deities honoured, all in the same manner, are Agni, Vayu, Surya, Viṣṇu, Prajapati, Virūpākṣa, Sahasrākṣa, Soma, Brahman, the Vedas, the gods, the seers, the metres, the Om, Vaṣat and Mahāvyāhṛti calls, the Sāvitrī, which is treated with great respect in the Jaiminiya Upanisad, the sacrifice, heaven and earth, the Nakṣatras, the atmosphere, day and night, the numbers, the twilights, the oceans, the rivers, the moun- tains, fields, herbs, trees, Gandharvas and Apsarases, serpents, birds, Siddhas, Sādhyas, Vipras, Yakṣas, Rakṣases-all classed as Bhūtas, beings-Cruti, Smṛti, firmness, delight, success, thought, belief, insight, memory, cows, Brahmans, movable and immovable things, and all beings, as well as various teachers and ancestors, paternal and maternal.3 In the list of offerings of the human sacrifice, a pure piece as we have it of priestly imagination, there is ample room for abstractions; a Brahman is offered to the Brahman class, a warrior to the royal power, a Śūdra to asceticism, a thief to night, a murderer to hell. More real are offerings at the Pravargya to glory, fame, strength, and prosperity, and at the Vājapeya to rivalry and desire to succeed. It is impossible to discern any distinction between such offerings and those pre- scribed for such more apparently concrete deities as the asterisms, Cravaṇa, Mrgaśiras or Aśvayuj, the full moon in the months Cravaṇa, Margaśīrṣa, or Aśvayuja, the autumn, the winter, the quarters, &c. At the opening of Vedic study Pāraskara lays down offerings to the earth and Agni for a student of the Rigveda, the atmosphere and Vayu for one of the Yajurveda, the heaven and the sun in the case of the Samaveda, and the quarters and the moon in the case of the Atharvaveda. In all cases offering is also to be made to Brahman, the metres, Prajapati, the gods, the seers, faith, insight, Sadas- aspati, and Anumati. Aśvalayana's list for this occasion includes besides faith and insight, knowledge, memory, and the Savitri. In the Bali offerings of the householder we find the curious admixture of concrete and abstract deities; thus Pāraskara gives as recipients Brahman, Prajāpati, the deities of 
+of these kinds of deities with the most concrete is proof that they were not felt to be any different in essence by the people, for whom the Sûtras were composed. Thus in the ceremony of handing over the pupil 1 by the teacher to the charge of various powers the list includes besides Sarasvati and the Aśvins, Kaṣaka elsewhere unknown, perhaps Krśana or Karśana is meant, Antaka, Aghora, diseases, Yama, Makha, the sacrifice personified as often, Vāśini, the ruling lady,' earth with Vaiśvānara, waters, herbs, trees, heaven and earth, welfare, holy lustre, the All-gods, all beings, and all deities, where the distinction between the older group of the All-gods 2 and the later conception of all the gods is noteworthy. A very remarkable list is given in the formula of the Tarpana recorded in the Gṛhya ritual as accompanying the close of Vedic study. The deities honoured, all in the same manner, are Agni, Vayu, Surya, Viṣṇu, Prajapati, Virūpākṣa, Sahasrākṣa, Soma, Brahman, the Vedas, the gods, the seers, the metres, the Om, Vaṣat and Mahāvyāhṛti calls, the Sāvitrī, which is treated with great respect in the Jaiminiya Upanisad, the sacrifice, heaven and earth, the Nakṣatras, the atmosphere, day and night, the numbers, the twilights, the oceans, the rivers, the mountains, fields, herbs, trees, Gandharvas and Apsarases, serpents, birds, Siddhas, Sādhyas, Vipras, Yakṣas, Rakṣases-all classed as Bhūtas, beings-Cruti, Smṛti, firmness, delight, success, thought, belief, insight, memory, cows, Brahmans, movable and immovable things, and all beings, as well as various teachers and ancestors, paternal and maternal.3 In the list of offerings of the human sacrifice, a pure piece as we have it of priestly imagination, there is ample room for abstractions; a Brahman is offered to the Brahman class, a warrior to the royal power, a Śūdra to asceticism, a thief to night, a murderer to hell. More real are offerings at the Pravargya to glory, fame, strength, and prosperity, and at the Vājapeya to rivalry and desire to succeed. It is impossible to discern any distinction between such offerings and those prescribed for such more apparently concrete deities as the asterisms, Cravaṇa, Mrgaśiras or Aśvayuj, the full moon in the months Cravaṇa, Margaśīrṣa, or Aśvayuja, the autumn, the winter, the quarters, &c. At the opening of Vedic study Pāraskara lays down offerings to the earth and Agni for a student of the Rigveda, the atmosphere and Vayu for one of the Yajurveda, the heaven and the sun in the case of the Samaveda, and the quarters and the moon in the case of the Atharvaveda. In all cases offering is also to be made to Brahman, the metres, Prajapati, the gods, the seers, faith, insight, Sadasaspati, and Anumati. Aśvalayana's list for this occasion includes besides faith and insight, knowledge, memory, and the Savitri. In the Bali offerings of the householder we find the curious admixture of concrete and abstract deities; thus Pāraskara gives as recipients Brahman, Prajāpati, the deities of 
 
 1 HGS. i. 6. 5. 
 
@@ -127,13 +127,13 @@ The Gods and Demons of the Veda
 
 [Part II 
 
-the house, Kaśyapa, Anumati, these offerings being made in the fire; in the water-pot offerings are made to Parjanya, the waters, and earth; to Dhātṛ and Vidhatṛ at the doorposts, and further offerings are prescribed for the deities of the quarters, Vāyu, Brahman, the atmosphere, the sun, the Viśve Devās and all beings, Usas, and the lord of beings. At the harnessing of the plough we find offerings made to Indra, Parjanya, the Aśvins, the Maruts, Udala-kaśyapa, Svātikāri-perhaps Sphātiṁkārī, 'she who gives abun- dance '-Sītā, and Anumati. The Yava, barley, is invoked to ward off enemies, possibly an idea evoked by the apparent connexion of the word with the root yu.1 
+the house, Kaśyapa, Anumati, these offerings being made in the fire; in the water-pot offerings are made to Parjanya, the waters, and earth; to Dhātṛ and Vidhatṛ at the doorposts, and further offerings are prescribed for the deities of the quarters, Vāyu, Brahman, the atmosphere, the sun, the Viśve Devās and all beings, Usas, and the lord of beings. At the harnessing of the plough we find offerings made to Indra, Parjanya, the Aśvins, the Maruts, Udala-kaśyapa, Svātikāri-perhaps Sphātiṁkārī, 'she who gives abundance '-Sītā, and Anumati. The Yava, barley, is invoked to ward off enemies, possibly an idea evoked by the apparent connexion of the word with the root yu.1 
 
 5 
 
 3 
 
-We hear also in the Kauśika Sūtra 2 of an enumeration such as Agni, Brahman, Udañkya, Śūlvāṇa, Śatrumjaya, Kṣātrāṇa, Mārtyamjaya, Mārty- ava, Aghora, Takṣaka, Vaiśãleya, Hāhāhūhū, &c. Of these some have obviously reality of some kind or another: Takṣaka is a famous snake, and Hāhāhūhū seem to be two Gandharvas. We learn also of goddesses who weave, spin, spread out, and draw the threads of a garment, of night walkers and day walkers,a of divine hosts and hosts not divine; in the funeral ritual * Khyātṛ, Apākhyātṛ, Abhilālapant, and Apalālapant are addressed; and the list of some more or less abstract figures which are addressed as in some degree sacred might be considerably lengthened both from Vedic times and later on, such as the Ghoṣiṇi, who guards the cattle at pasture, or Dhanvantari, who in the epic becomes the physician of the gods, and who is possibly 1o an old cloud deity, whose boat is the cloud island'. 
+We hear also in the Kauśika Sūtra 2 of an enumeration such as Agni, Brahman, Udañkya, Śūlvāṇa, Śatrumjaya, Kṣātrāṇa, Mārtyamjaya, Mārtyava, Aghora, Takṣaka, Vaiśãleya, Hāhāhūhū, &c. Of these some have obviously reality of some kind or another: Takṣaka is a famous snake, and Hāhāhūhū seem to be two Gandharvas. We learn also of goddesses who weave, spin, spread out, and draw the threads of a garment, of night walkers and day walkers,a of divine hosts and hosts not divine; in the funeral ritual * Khyātṛ, Apākhyātṛ, Abhilālapant, and Apalālapant are addressed; and the list of some more or less abstract figures which are addressed as in some degree sacred might be considerably lengthened both from Vedic times and later on, such as the Ghoṣiṇi, who guards the cattle at pasture, or Dhanvantari, who in the epic becomes the physician of the gods, and who is possibly 1o an old cloud deity, whose boat is the cloud island'. 
 
 + 
 
@@ -141,7 +141,7 @@ We hear also in the Kauśika Sūtra 2 of an enumeration such as Agni, Brahman, U
 
 8 
 
-One collective class is found early, the Bhūtas, beings, whence Rudra derives his style of Bhutapati, lord of beings. The generality of the term is certain for the Vedic literature; the Bhútayajña, offering to beings, is generic in character," and there is not the slightest reason to doubt that this was its early sense. The theory 12 that there was originally a Bhūtayajña confined to certain inferior divine figures, which, owing to the ambiguity of the term, and the tendency of the priests to idealize the popular religion, came to be made into a sacrifice for all beings, is wholly unsupported and most im- plausible. The term Bhut in modern usage has come to denote a malevolent spirit of the dead, one who has existed, and has ceased to exist, but this is palpably not its early meaning; indeed even in modern usage it is applied to nature spirits as well as to ghosts, 13 and it is impossible to show that in the 
+One collective class is found early, the Bhūtas, beings, whence Rudra derives his style of Bhutapati, lord of beings. The generality of the term is certain for the Vedic literature; the Bhútayajña, offering to beings, is generic in character," and there is not the slightest reason to doubt that this was its early sense. The theory 12 that there was originally a Bhūtayajña confined to certain inferior divine figures, which, owing to the ambiguity of the term, and the tendency of the priests to idealize the popular religion, came to be made into a sacrifice for all beings, is wholly unsupported and most implausible. The term Bhut in modern usage has come to denote a malevolent spirit of the dead, one who has existed, and has ceased to exist, but this is palpably not its early meaning; indeed even in modern usage it is applied to nature spirits as well as to ghosts, 13 and it is impossible to show that in the 
 
 1 Hillebrandt, Ved. Myth. iii. 407. 
 
@@ -155,7 +155,7 @@ One collective class is found early, the Bhūtas, beings, whence Rudra derives h
 
 • Hillebrandt, Ved. Myth. iii. 407. 
 
-7 Caland, Todten- und Bestattungsgebrāuche, 
+7 Caland, Todtenund Bestattungsgebrāuche, 
 
 p. 62. 
 
@@ -167,7 +167,7 @@ p. 62.
 
 10 Louis H. Gray, JAOS. xlii. 328 ff. "ŚGS. ii. 14; AGS. i. 2. 8; PGS. ii. 9; GGS. i. 4; KhGS. i. 5. 20 ff.; also decisively ŚGS. iv. 9; AŚS. iii. 4. 1. 
 
-1a Arbman, Rudra, pp. 198 ff. His render- ing of TS. vi, 2. 8. 8; MS. iii. 8. 5; KS. xxv. 6 (p. 213) is impossible. 
+1a Arbman, Rudra, pp. 198 ff. His rendering of TS. vi, 2. 8. 8; MS. iii. 8. 5; KS. xxv. 6 (p. 213) is impossible. 
 
 " Arbman, pp. 168 ff. 
 
@@ -179,6 +179,6 @@ Deified States or Conditions
 
 Vedic period it had any specific sense 1 referring to inferior or hostile demons. The wide sense of beings is natural enough for a religion which saw divinity readily on every side, and is probably merely a recognition of popular belief. It is a striking fact that in the medical literature 2 the Bhūtavidya is by no means confined to evils brought about by evil spirits, but includes those caused by the gods. The tendency of the term to become narrowed down to hostile beings in later literature is interesting, but not surprising in view of the much more remarkable history of Asura. The origin of the limitation can be traced to the domestic ritual, in which the Bhútayajña was artifically differentiated so as to create a distinct Devayajña, with the result that there seemed to be some opposition between Bhutas and Devas, though the original Bhūtayajña covered all those beings to whom it was deemed wise to make offering when man partook of food. 
 
-We have traces of classes of Sondergötter in the long enumerations in the Śatarudriya, whether we assume that these classes are assimilated to Rudra or treated as independent objects of devotion. In either case we have, as in the Roman Indigitamenta, priestly ingenuity working on primitive con- ceptions. A similar spirit is seen in the elaborate discrimination of aspects of gods, as when the Maruts are separately invoked as Svatavas, Samtapana, Gṛhamedhin and Kridin, differences which are obviously rather hieratic than popular. 
+We have traces of classes of Sondergötter in the long enumerations in the Śatarudriya, whether we assume that these classes are assimilated to Rudra or treated as independent objects of devotion. In either case we have, as in the Roman Indigitamenta, priestly ingenuity working on primitive conceptions. A similar spirit is seen in the elaborate discrimination of aspects of gods, as when the Maruts are separately invoked as Svatavas, Samtapana, Gṛhamedhin and Kridin, differences which are obviously rather hieratic than popular. 
 
 5 
