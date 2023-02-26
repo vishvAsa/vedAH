@@ -3,6 +3,20 @@ title = "०१ रेवतीर्नः सधमाद"
 
 +++
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**रेवत्यः** धनवत्यः सर्वधनसाधनभूताः । पूर्ववत्पूर्वसवार्णदीर्घत्वम् । **नो** ऽस्माकं **सधमादः** अस्माभिस्सह माद्यन्तः । मद तृप्तियोगे, चुरादिः ततो ण्यन्तात्क्विप्, 'सधमादस्थयोः' इति सहस्य सधादेशः । आपश्चोच्यन्ते ।  
+**तुवि-वाजाः** बह्वन्नं चरुपुरोडाशादिबह्वन्नसम्पादिन्यः अस्माकं इन्द्रे इन्द्रनिमित्तं सन्तु याभीर्विषयं **क्षुमन्तः** इन्द्रमेन स्तुवन्तो मदेम माद्येम । व्यत्ययेन शप् । क्षौतेः क्विपि छान्दसस्तुगभावः, 'ह्रस्वनुङ्भ्याम्मतुप्' इति मतुप उदात्तत्वम् ॥
+</details>
+
+<details><summary>Keith</summary>
+
+Rich banquets be ours with Indra,  
+With mighty strength,  
+Wherewith fed we may be glad.
+</details>
+
+
 <details><summary>Griffith</summary>
 
 With Indra splendid feasts be ours enriched with ample spoil, wherewith, Wealthy in food, we may rejoice.
