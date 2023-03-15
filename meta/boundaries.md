@@ -37,9 +37,17 @@ As, such, Apastamba's quote do not perclude AraNyaka-s from being considered par
 ### Closedness
 A and S did not have some "open" definition in mind - they were obviously referring to mantra-s and brAhmaNa-s which were already canonical by the time they wrote; and which are relevant to the rites and thoughts they describe. They did not cherry pick either - "This is Original Vedic Religion TM. That is not."
 
+## Linguistic view
+>  "Vedic Sanskrit" is a modern western concept. I think, and many academicians would agree, that the linguistic intelligibility gap between the early Rigvedic language and the late Brāhmaṇa texts is bigger than that between the Brāhmaṇas and the earliest Upaniṣads (or even Mahābhārata). The chandas of Pāṇini does not include Brāhmaṇas (as is clear from छन्दोब्राह्मणानि च तद्विषयाणि, 4.2.66).
+> 
+> - उज्ज्वलः
+
+
+
 ## Sectarian views
 > "चार वेद संहिता अपौरुषेय हैं  
 और ब्राह्मण,आरण्यक, षड्दर्शन,उपनिषद् और अष्टाध्यायी वगैरह ऋषियों के बनाये ग्रन्थ हैं।"  
 Arya-samAja founder dayAnanda-sarasvatI paraphrased
-  
+
 - Certain sects consider a few other works as equal to the veda-s.
+

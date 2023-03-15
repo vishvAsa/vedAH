@@ -18,3 +18,6 @@ title = "आचारः"
 
 ## रजस्वला
 - तै.सं. २.५.१
+
+## भाषा
+> The Brā́hmaṇa-s even contain injunctions against speaking foreign languages (tásmān ná Brāhmaṇó mlechet, ŞB 3.2.1.24). The Māitrāyaṇa-saṁhitā́ discusses how the language of the Gods slightly differs from men's language (1.5.12.3), for example in Their pronunciation of rā́trī. - निखिलः

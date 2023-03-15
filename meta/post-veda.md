@@ -3,7 +3,16 @@ title: Post-veda vs veda
 ---
 
 ## सारः
-पुराणेतिहासान् पञ्चमवेदं वा कथयतु, पञ्चमानाम् वेद इति वाऽपि :-)। नाम्नि किम्? स्थितिस् त्वेवमस्ति, पुरण-वेद-वाक्ययोर् विरोधे सति, वेद-वाक्यम् एव ग्राह्यम् भवति प्रायेण - विशिष्य धर्म्मे विषये। एवं पौराणिकागमिकाचारान् एव पुरस्कृत्य वेदोक्त-कर्माण्य् अकुर्वन्तः, वेदान् अपठन्तो वा पुराणान्येव पठन्तो ब्रह्मबन्धवो धर्म्माद् व्यभिचरन्तीति न संशयः।
+पुराणेतिहासान् पञ्चमवेदं वा कथयतु, पञ्चमानाम् वेद इति वाऽपि :-)। नाम्नि किम्?  
+स्थितिस् त्वेवमस्ति, पुरण-वेद-वाक्ययोर् विरोधे सति, वेद-वाक्यम् एव ग्राह्यम् भवति प्रायेण - विशिष्य धर्म्मे विषये।  
+एवं पौराणिकागमिकाचारान् एव पुरस्कृत्य वेदोक्त-कर्माण्य् अकुर्वन्तः, वेदान् अपठन्तो वा पुराणान्येव पठन्तो ब्रह्मबन्धवो धर्म्माद् व्यभिचरन्तीति न संशयः।
+
+## Incompleteness of veda-s
+Where do the Vedas say that the religion ends there and then? For Islam, you can make that claim because the Quran specifically says that Allah has completed Islam in 5:3 [^5-3]. There is no equivalent in the Vedas.
+
+[^5-3]: "This day I have perfected for you your religion and completed My favor upon you and have approved for you Islam as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allah is Forgiving and Merciful."
+
+Rather, the veda-s say  "अनन्ता वै वेदाः" (TB 3.10.11.4) . 
 
 ## General consonance with the veda-s of smRti-s
 - "अनादिम् अव्यवच्छिन्नां श्रुतिम् आहुर् अकर्तृकाम् /शिष्टैर् निबध्यमाना तु न व्यवच्छिद्यते स्मृतिः // वाक्य_१।१७२ //   
