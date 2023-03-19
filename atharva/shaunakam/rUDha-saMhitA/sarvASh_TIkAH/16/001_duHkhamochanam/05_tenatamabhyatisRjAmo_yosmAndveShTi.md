@@ -28,7 +28,7 @@ With this we let him loose who hates us and whom we hate.
 
 <details><summary>पदपाठः</summary>
 
-तेन॑। तम्। अ॒॒भिऽअति॑सृजामः। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १.५। 
+तेन॑। तम्। अ॒भिऽअति॑सृजामः। यः। अ॒स्मान्। द्वेष्टि॑। यम्। व॒यम्। द्वि॒ष्मः। १.५। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>

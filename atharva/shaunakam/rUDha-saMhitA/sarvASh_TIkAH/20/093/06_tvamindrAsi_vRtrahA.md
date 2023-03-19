@@ -10,7 +10,7 @@ Thou art the Vritra-slayer, thou, Indra, hast spread the firmament: Thou hast wi
 
 <details><summary>पदपाठः</summary>
 
-त्वम्। इ॒न्द्र॒। अ॒सि॒। वृत्र॒ऽहा। वि। अ॒न्तरि॑क्षम्। अ॒ति॒रः॒। उत्। द्याम्। अ॒स्त॒भ्ना॒ ः। ओजसा। ९३.६। 
+त्वम्। इ॒न्द्र॒। अ॒सि॒। वृत्र॒ऽहा। वि। अ॒न्तरि॑क्षम्। अ॒ति॒रः॒। उत्। द्याम्। अ॒स्त॒भ्ना॒ः। ओजसा। ९३.६। 
 </details>
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
