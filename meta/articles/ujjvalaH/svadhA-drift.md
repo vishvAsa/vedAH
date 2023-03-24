@@ -57,4 +57,31 @@ Translators like Griffith and Jamison sometimes use the correct meaning or give 
 > "But sadly it seems the Brāhmaṇa-s had built so much of sacrificial detail and practices based on the misunderstood meanings of a word so simple and useful and common, which is meant to simply express "naturally" or "as you please" etc."
 
 इति +अनुपपन्नम्। यतः, ब्राह्मणसप्रदाय ऋग्रचनावेलायाम् अपि, ततः प्राग् अपि च वर्तमानो हि कर्मसङ्गतोद्गारान् अरक्षद् इति तत्-स्वभावावेक्षणेन सिध्यति।
+
+स्वधाशब्दस्य यौगिको ऽर्थः स्पष्ट एव यस्मै कस्मैचित् - "पुरोहित"वत्। तथा सत्य् अत्र रूढार्था ब्राह्मणोक्ता यौगिकार्थान् आच्छादयन्तीति कथम्?
+
+अपि च "स्व-धा" इत्य् अस्मिन् "धा" इति नानार्थच्छाया बोधयितुं समर्थ इति 
+न कवीनां तिरोहितो विषय आसीत्, येन क्वचित् करणं सूचयेत्, क्वचित् क्रियाम् …
 </details>
+
+Consider all 12 occurrences of svadhā with mad
+
+mádhye diváḥ svadháyā mādáyethe 01.108.12 (indrāgnī́)
+ákṣīyamāṇā svadháyā mádanti 01.154.04 (trī́ padā́ni)
+saptá pṛkṣā́saḥ svadháyā madanti 03.004.07 (pṛkṣā́saḥ = áśvāḥ)
+tiyáṃ cid eṣāṃ svadháyā mádantam 05.032.04 (dānavásya bhā́maṃ)
+šatápavitrāḥ svadháyā mádantīr 07.047.03 (síndhavaḥ)
+svā́ha' anyé svadháyānyé madanti 10.014.03 (pitáraḥ)
+ubhā́ rā́jānā svadháyā mádantā 10.014.07 (yamó váruṇaś ca)
+svadhā́bhir devi pitṛ́bhir mádantī 10.017.08 (sárasvatī)
+tā́ īm ā́ kṣeti svadháyā mádantīḥ 10.124.08 (síndhavaḥ)
+
+## Punning
+> I would only contest your use of the word "misinterpretation".  As you mentioned, the sense of "drink" is used in the Mántra-s contemporaneously with the sense of "self-will", the two not being incompatible; and in the Brā́hmaṇa period there are many such fossilizations of abstract words, which seem to be purposeful ...
+
+The subjects are mixture of Gods, rivers, horses, places and slayed demons. For someone whose is naive to the Brā́hmaṇa interpretation, the original meaning of svadhā́ makes sense for all these verses. In 10.14.3, we can see what the poet has done there. The word play with svā́hā, and the contrast nicely presented through that makes it poetic and enjoyable. Overall, with the original meaning of svadhā́, the Ṛgvedá is coherent, simple and beautiful.
+
+Then comes the Brā́hmaṇa literature. Now in the verses above, neither the meaning "sacrificial drink", nor "shout" fits subjects like horses, demon etc. Yet, the meaning in 10.14.3 is clearly "shout" - that is what they say - svā́ha for Gods and svadhā́ for forefathers. But this is the only verse with pitáraḥ, making this verse a place of abrupt meaning change. It is incoherent with other uses of the word (even in the same hymn (10.14.7)), it is complicated and makes the verse non-poetic (rather a simple statement of fact). And this should not be compared with "svā́ me" type pun. There are reasons for which it might have been misunderstood. One does not drag a pun all along. There is no evident original-meaning use of the word in Brā́hmaṇa-s. And I believe the authors of Brā́hmaṇa-s respected the forefathers to not intentionally ruin their poetic efforts. That the efforts have been effectively ruined is clear from the fact that the original meaning of the word was lost from all posterior Sanskrit literature. Even scholars in the tradition like Sāyaṇa were not aware of it and clumsily retrofitted the later interpretations.
+
+Also, if the original Ṛgvedic poets intended some other meaning of their verses, and the later Brāhmaṇa literature interprets some of them in a totally different way (through newly invented meaning or whatever), what is real Vedism?
+
