@@ -30,3 +30,8 @@ MuzhTagh Ata, near Tajikistan
 > the Ṛgveda mentions the mountain Mūjavant (“Having Mūja”), from where the best soma comes. A Muža tribe is also found in the Avesta in an eastern area that has Vedic-like names. The name seems to survive as the impressive 7,549-meter-high Muzh Tagh Ata Mountain in the Kirghiz and Sariqoli (Saka) lands of southwestern Xinjiang.
 > 
 > - M Witzel
+
+## आक्रमणस्मृतिः
+> prajā́ dakṣiṇā́ 'bhi-jáyantīr yanti (MS 4.7.9)  
+> "their descendants go southward, conquering."
+
