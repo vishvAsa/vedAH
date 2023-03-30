@@ -1,5 +1,5 @@
 +++
-title = "INDEX"
+title = "Word INDEX"
 
 +++
 [ Prepared by Di G U. THITE ] 
