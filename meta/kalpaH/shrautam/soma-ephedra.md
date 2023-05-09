@@ -15,18 +15,6 @@ The nambUtiri-s, who used to use sarcostemma, have long returned to ephedra, sou
 
 सोमरसग्रहस्थाने आलये कैङ्कर्यकर्तृभ्यः  स्वतन्त्रनाम्ना प्रसादो वस्त्रे निक्षिप्यते। यागे तत्तद्देवताभ्यो मन्त्रपूर्वकं दीयते, आलये कैङ्कर्यकर्तृभ्यो नामनिर्देशपूर्वकं दीयते। 
 
- SOMAlatA
-
-SomalatA is a perennial, leafless shrub with green, cylindrical, fleshy, twining branches having a milky white latex. The leaves of this plant are reduced to scales which are arranged oppositely. Flowers are white or pale greenish white and fragrant. Fruits are follicles, tapering at both ends. Seeds are flat and ovate.
-
-The botanical name of SomalatA is Sarcostemma ascidum. It belongs to the family Asclepiadaceae. It is found in Bihar, Bengal and part of South India in rocky places upto an elevation of 1,350 meters. The whole plant is useful. It is bitter, cooling, narcotic, antiviral and rejuvenating. It is useful in viral infections, hydrophobia, general debility, etc.
-
-The divine Soma is believed to possess powers to overcome old age and even death. But that is not quite certain nor has it been proved beyond doubt.
-
-Twenty four varieties of SomalatA have been described in "Sushrutha Samhitha" with their characteristics and properties. The most superior of all these is "Chandramaa" which floats like algae in River Sindhu. The Soma which is in use today (Sarcostemma ascidum) does not conform to the characteristics described by Sushruthan.
-
-There are some who regard species of Ephedra and also Ceropegia tuberosa as Soma. Thus, we are still in the dark regarding the identity of true Soma. Probably, the true Soma might have disappeared from the face of the earth, or it might not have reached the notice of the researchers.
-
 <details><summary>Sarcostemma ascidum confusion</summary>
 
 Source: [TW](https://www.namboothiri.com/articles/somalatA.htm)
