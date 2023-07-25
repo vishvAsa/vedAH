@@ -61,7 +61,15 @@ title = "नित्यत्वापौरुषेयत्वे"
 
 
 ## वेदान्त-देशिकः
-This shlokArdha from vedAnta-deshika's mImAMsA pAduka indicates that nityatva he understood very literally - the exact same letters are repeated in the exact same order every kalpa (पूर्वयैवाऽऽनुपूर्व्या)
+vedAnta-deshika's mImAMsA pAduka indicates that nityatva he understood very literally - the exact same letters are repeated in the exact same order every kalpa (पूर्वयैवाऽऽनुपूर्व्या)
+
+> कल्पेकल्पे दयालुः स्थिरचरकृद् अधिष्ठाय रूपं कठाद्यं  
+शाखा-भेदान् विचित्रान् समतनुत ततोऽध्यापयामास चर्षीन् ।  
+...  
+वेदाद् द्वेधा ऽप्रधृष्यात् भवति विमृशतां वेद-नित्यत्व-सिद्धिर्  
+मन्वादीनां च वाक्यैर् अवितथ-वचसां बाध-दोषातिवृत्तैः ।
+...  
+प्रादुर्भावादि-मात्रं प्रजनयति विभुस् सोऽपि पारम्य-रम्यः ॥ १६३ ॥
 
 > कल्पादाव् एवम् ईशः कथयति निगमान् पूर्वयैवाऽऽनुपूर्व्या  
 तद्वन् मन्वन्तरादिष्व् अपि शिथिल-समाधान-मात्रं क्रमैः स्यात् ।
@@ -69,6 +77,10 @@ This shlokArdha from vedAnta-deshika's mImAMsA pAduka indicates that nityatva he
 
 However, shAkha division is anitya:
 
+> वेदानां यच् च शाखा-विभजनम् उदितं द्वापरान्ते चतुर्णां  
+नानित्यत्वं ततः स्यात् समुदित-पृथग्-आम्नान-मात्र-प्रवृत्तेः ।  
+कृत्स्नाम्नान-क्षमाणाम् उपचिततपसां गोचरः कृत्स्नम् आदौ,  
+पश्चात् तु ज्ञान-शक्त्योर् अपचय-नियमाद् व्यास-कॢप्तिस् समीची ॥ १६२ ॥
 
 ## पूर्व-मीमांसकाः
 
