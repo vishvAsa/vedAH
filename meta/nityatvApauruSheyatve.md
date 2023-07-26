@@ -75,7 +75,7 @@ vedAnta-deshika's mImAMsA pAduka indicates that nityatva he understood very lite
 तद्वन् मन्वन्तरादिष्व् अपि शिथिल-समाधान-मात्रं क्रमैः स्यात् ।
 
 
-However, shAkha division can be anitya:
+However, shAkhA division can be anitya:
 
 > वेदानां यच् च शाखा-विभजनम् उदितं द्वापरान्ते चतुर्णां  
 नानित्यत्वं ततः स्यात् समुदित-पृथग्-आम्नान-मात्र-प्रवृत्तेः ।  
