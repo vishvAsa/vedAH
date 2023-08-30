@@ -3,7 +3,7 @@ title = "यज्ञतत्त्वप्रकाशः"
 unicode_script = "devanagari"
 +++
 
-
+Source: [TW](https://archive.org/details/in.ernet.dli.2015.326741)
 
 PRINTED AT THE MADRAS LAW JOURNAL PRESS, MADRAS 4. 
 ॥ श्रीः॥ ॥ ओं नमश्शिवाभ्याम् ॥ ॥ओं नमस्सरस्वत्यै ॥ 
