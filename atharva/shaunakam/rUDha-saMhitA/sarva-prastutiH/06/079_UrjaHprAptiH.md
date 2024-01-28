@@ -2,7 +2,7 @@
 title = "०७९ ऊर्जःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/_index.md">
 <details open><summary><h2>०७९ ऊर्जःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for seasonable rain and prosperity
 </div>
 
 ## ०१ अयं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/01_ayaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु।  
 अस॑मातिं गृ॒हेषु॑ नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/01_ayaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for seasonable rain and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/01_ayaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/01_ayaM_no.md">
 <details open><summary><h3>०१ अयं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 </div>
 
 ## ०२ त्वं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/02_tvaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वं नो॒ नभ॑सस्पत॒ ऊर्जं॑ गृ॒हेषु॑ धारय।  
 आ पु॒ष्टमे॒त्वा वसु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/02_tvaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ May this our Lord of Cloudy Sky, bedewed with liquid drops preserve unequalled r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/02_tvaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/02_tvaM_no.md">
 <details open><summary><h3>०२ त्वं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 </div>
 
 ## ०३ देव संस्फान
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 देव॑ सं॒स्फान॑ सहस्रापो॒षस्ये॑शिषे।  
 तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Lord of the Cloudy Sky, bestow vigour and strength on our abodes. Let wealth and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/079_UrjaHprAptiH/03_deva_saMsphAna.md">
 <details open><summary><h3>०३ देव संस्फान ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

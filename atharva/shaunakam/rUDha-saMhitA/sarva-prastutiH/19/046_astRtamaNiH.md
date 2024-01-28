@@ -2,7 +2,7 @@
 title = "०४६ अस्तृतमणिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/_index.md">
 <details open><summary><h2>०४६ अस्तृतमणिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm accompanying investiture with an amulet that ensures safety and victory
 </div>
 
 ## ०१ प्रजापतिष्ट्वा बध्नात्प्रथममस्तृतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑तिष्ट्वा बध्नात्प्रथ॒ममस्तृ॑तं वी॒र्या᳡य॒ कम्।  
 तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑स॒ ओज॑से च॒ बला॑य॒ चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm accompanying investiture with an amulet that ensures safety and victory
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/01_prajApatiShTvA_badhnAtprathamamastRtam.md">
 <details open><summary><h3>०१ प्रजापतिष्ट्वा बध्नात्प्रथममस्तृतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ For manly strength Prajapati bound thee on first, invincible. This for long life
 </div>
 
 ## ०२ ऊर्ध्वस्तिष्ठतु रक्षन्नप्रमादमस्तृतेमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्ध्वस्ति॑ष्ठतु॒ रक्ष॒न्नप्र॑माद॒मस्तृ॑ते॒मं मा त्वा॑ दभन्प॒णयो॑ यातु॒धानाः॑।  
 इन्द्र॑ इव॒ दस्यू॒नव॑ धूनुष्व पृतन्य॒तः सर्वा॒ञ्छत्रू॒न्वि ष॑ह॒स्वास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ For manly strength Prajapati bound thee on first, invincible. This for long life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/02_UrdhvastiShThatu_raxannapramAdamastRtemam.md">
 <details open><summary><h3>०२ ऊर्ध्वस्तिष्ठतु रक्षन्नप्रमादमस्तृतेमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -186,14 +186,14 @@ Erect, invincible, be this man's watchful keeper: let not the Panis or the sorce
 </div>
 
 ## ०३ शतं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/03_shataM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/03_shataM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तं च॑ न प्र॒हर॑न्तो नि॒घ्नन्तो॒ न त॑स्ति॒रे।  
 तस्मि॒न्निन्द्रः॒ पर्य॑दत्त॒ चक्षुः॑ प्रा॒णमथो॒ बल॒मस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/03_shataM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/03_shataM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -202,7 +202,7 @@ Erect, invincible, be this man's watchful keeper: let not the Panis or the sorce
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/03_shataM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/03_shataM_cha.md">
 <details open><summary><h3>०३ शतं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -267,14 +267,14 @@ Indra hath lent the power of sight, and vital breath and strength to this. Whom 
 </div>
 
 ## ०४ इन्द्रस्य त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/04_indrasya_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/04_indrasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य त्वा॒ वर्म॑णा॒ परि॑ धापयामो॒ यो दे॒वाना॑मधिरा॒जो ब॒भूव॑।  
 पुन॑स्त्वा दे॒वाः प्र ण॑यन्तु॒ सर्वेऽस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/04_indrasya_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/04_indrasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -283,7 +283,7 @@ Indra hath lent the power of sight, and vital breath and strength to this. Whom 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/04_indrasya_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/04_indrasya_tvA.md">
 <details open><summary><h3>०४ इन्द्रस्य त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -332,14 +332,14 @@ Around thy limbs I place the mail of Indra who hath become the Gods' imperial So
 </div>
 
 ## ०५ अस्मिन्मणावेकशतं वीर्याणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्मिन्म॒णावेक॑शतं वी॒र्या᳡णि स॒हस्रं॑ प्रा॒णा अ॑स्मि॒न्नस्तृ॑ते।  
 व्या॒घ्रः शत्रू॑न॒भि ति॑ष्ठ॒ सर्वा॒न्यस्त्वा॑ पृतन्या॒दध॑रः॒ सो अ॒स्त्वस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -348,7 +348,7 @@ Around thy limbs I place the mail of Indra who hath become the Gods' imperial So
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/05_asminmaNAvekashataM_vIryANi.md">
 <details open><summary><h3>०५ अस्मिन्मणावेकशतं वीर्याणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -399,14 +399,14 @@ One and a hundred manly powers, a thousand lives hath this Amulet, unconquered e
 </div>
 
 ## ०६ घृतादुल्लुप्तो मधुमान्पयस्वान्त्सहस्रप्राणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्त्स॒हस्र॑प्राणः श॒तयो॑निर्वयो॒धाः।  
 श॒म्भूश्च॑ मयो॒भूश्चोर्ज॑स्वांश्च॒ पय॑स्वां॒श्चास्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -415,7 +415,7 @@ One and a hundred manly powers, a thousand lives hath this Amulet, unconquered e
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/06_ghRtAdullupto_madhumAnpayasvAntsahasraprANaH.md">
 <details open><summary><h3>०६ घृतादुल्लुप्तो मधुमान्पयस्वान्त्सहस्रप्राणः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -480,14 +480,14 @@ Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-ho
 </div>
 
 ## ०७ यथा त्वमुत्तरोऽसो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ त्वमु॑त्त॒रोऽसो॑ असप॒त्नः स॑पत्न॒हा।  
 स॑जा॒ताना॑मसद्व॒शी तथा॑ त्वा सवि॒ता क॑र॒दस्तृ॑तस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -496,7 +496,7 @@ Drawn forth from butter, rich in milk and sweetness, hundred- lived, thousand-ho
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/046_astRtamaNiH/07_yathA_tvamuttaro-so.md">
 <details open><summary><h3>०७ यथा त्वमुत्तरोऽसो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

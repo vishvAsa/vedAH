@@ -2,7 +2,7 @@
 title = "०१२ शान्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/_index.md">
 <details open><summary><h2>०१२ शान्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Ushas or Dawn for wealth and long life
 </div>
 
 ## ०१ उषा अप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/012_shAntiH/01_uShA_apa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/012_shAntiH/01_uShA_apa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑।  
 अ॒या वाजं॑ दे॒वहि॑तं सनेम॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/012_shAntiH/01_uShA_apa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/012_shAntiH/01_uShA_apa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Ushas or Dawn for wealth and long life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/01_uShA_apa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/012_shAntiH/01_uShA_apa.md">
 <details open><summary><h3>०१ उषा अप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

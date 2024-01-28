@@ -2,7 +2,7 @@
 title = "०१३ विद्युत्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/_index.md">
 <details open><summary><h2>०१३ विद्युत् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Lightning, for happiness
 </div>
 
 ## ०१ नमस्ते अस्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/01_namaste_astu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/01_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे॑।  
 नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/01_namaste_astu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/01_namaste_astu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Lightning, for happiness
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/01_namaste_astu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/01_namaste_astu.md">
 <details open><summary><h3>०१ नमस्ते अस्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 </div>
 
 ## ०२ नमस्ते प्रवतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/02_namaste_pravato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/02_namaste_pravato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि।  
 मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/02_namaste_pravato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/02_namaste_pravato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Homage to thee, the Lightning's flash, homage to thee, the Thunder's roar! Homag
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/02_namaste_pravato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/02_namaste_pravato.md">
 <details open><summary><h3>०२ नमस्ते प्रवतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 </div>
 
 ## ०३ प्रवतो नपान्नम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/03_pravato_napAnnama.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/03_pravato_napAnnama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः।  
 वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत्स॑मु॒द्रे अ॒न्तर्निहि॑तासि॒ नाभिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/03_pravato_napAnnama.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/03_pravato_napAnnama.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Homage to thee, Child of the Flood whence thou collectest fer- vent heat! Be gra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/03_pravato_napAnnama.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/03_pravato_napAnnama.md">
 <details open><summary><h3>०३ प्रवतो नपान्नम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -239,14 +239,14 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 </div>
 
 ## ०४ यां त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/04_yAM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/013_vidyut/04_yAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्।  
 सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/04_yAM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/013_vidyut/04_yAM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -255,7 +255,7 @@ Yea, homage be to thee, O Offspring of the Flood! Homage we pay to thee, the dar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/04_yAM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/013_vidyut/04_yAM_tvA.md">
 <details open><summary><h3>०४ यां त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

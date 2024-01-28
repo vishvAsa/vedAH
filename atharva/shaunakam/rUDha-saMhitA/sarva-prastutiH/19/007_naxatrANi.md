@@ -2,7 +2,7 @@
 title = "००७ नक्षत्राणि"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/_index.md">
 <details open><summary><h2>००७ नक्षत्राणि ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 </div>
 
 ## ०१ चित्राणि साकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/01_chitrANi_sAkam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चि॒त्राणि॑ सा॒कं दि॒वि रो॑च॒नानि॑ सरीसृ॒पाणि॒ भुव॑ने ज॒वानि॑।  
 तु॒र्मिशं॑ सुम॒तिमि॒च्छमा॑नो॒ अहा॑नि गी॒र्भिः स॑पर्यामि॒ नाक॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/01_chitrANi_sAkam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A Prayer to the Lunar Mansions and other Powers for protection and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/01_chitrANi_sAkam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/01_chitrANi_sAkam.md">
 <details open><summary><h3>०१ चित्राणि साकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ The brilliant lights shining in heaven together, which through the world glide o
 </div>
 
 ## ०२ सुहवमग्ने कृत्तिका
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॒हव॑मग्ने॒ कृत्ति॑का॒ रोहि॑णी॒ चास्तु॑ भ॒द्रं मृ॒गशि॑रः॒ शमा॒र्द्रा।  
 पुन॑र्वसू सू॒नृता॒ चारु॒ पुष्यो॑ भा॒नुरा॑श्ले॒षा अय॑नं म॒घा मे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ The brilliant lights shining in heaven together, which through the world glide o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/02_suhavamagne_kRttikA.md">
 <details open><summary><h3>०२ सुहवमग्ने कृत्तिका ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -184,14 +184,14 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 </div>
 
 ## ०३ पुण्यं पूर्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुण्यं॒ पूर्वा॒ फल्गु॑न्यौ॒ चात्र॒ हस्त॑श्चि॒त्रा शि॒वा स्वा॒ति सु॒खो मे॑ अस्तु।  
 राधे॑ वि॒शाखे॑ सु॒हवा॑नुरा॒धा ज्येष्ठा॑ सु॒नक्ष॑त्र॒मरि॑ष्ट॒ मूल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/03_puNyaM_pUrvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -200,7 +200,7 @@ Krittikas, Rohini be swift to hear me! Let Mrigasiras bless me, help me Ardra! P
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/03_puNyaM_pUrvA.md">
 <details open><summary><h3>०३ पुण्यं पूर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -276,14 +276,14 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 </div>
 
 ## ०४ अन्नं पूर्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/04_annaM_pUrvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अन्नं॒ पूर्वा॑ रासतां मे अषा॒ढा ऊर्जं॑ दे॒व्युत्त॑रा॒ आ व॑हन्तु।  
 अ॑भि॒जिन्मे॑ रासतां॒ पुण्य॑मे॒व श्रव॑णः॒ श्रवि॑ष्ठाः कुर्वतां सुपु॒ष्टिम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/04_annaM_pUrvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -292,7 +292,7 @@ My bliss be Svati and benignant Chitra, my right First Phalgunis and present Has
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/04_annaM_pUrvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/04_annaM_pUrvA.md">
 <details open><summary><h3>०४ अन्नं पूर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -399,14 +399,14 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 </div>
 
 ## ०५ आ मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/05_A_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/007_naxatrANi/05_A_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ मे॑ म॒हच्छ॒तभि॑ष॒ग्वरी॑य॒ आ मे॑ द्व॒या प्रोष्ठ॑पदा सु॒शर्म॑।  
 आ रे॒वती॑ चाश्व॒युजौ॒ भगं॑ म॒ आ मे॑ र॒यिं भर॑ण्य॒ आ व॑हन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/05_A_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/007_naxatrANi/05_A_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -415,7 +415,7 @@ Food shall be earlier Ashadhas grant me; let those that follow bring me strength
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/05_A_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/007_naxatrANi/05_A_me.md">
 <details open><summary><h3>०५ आ मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

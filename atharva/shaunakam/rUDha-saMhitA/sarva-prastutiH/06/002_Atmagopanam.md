@@ -2,7 +2,7 @@
 title = "००२ आत्मगोपनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/_index.md">
 <details open><summary><h2>००२ आत्मगोपनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In praise of Indra
 </div>
 
 ## ०१ इन्द्राय सोममृत्विजः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत।  
 स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In praise of Indra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/01_indrAya_somamRtvijaH.md">
 <details open><summary><h3>०१ इन्द्राय सोममृत्विजः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 </div>
 
 ## ०२ आ यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/02_A_yam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/02_A_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः।  
 विर॑प्शि॒न्वि मृधो॑ जहि रक्ष॒स्विनीः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/02_A_yam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/02_A_yam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ For Indra, ministering priests! run ye and press the Soma juice, That he may hea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/02_A_yam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/02_A_yam.md">
 <details open><summary><h3>०२ आ यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 </div>
 
 ## ०३ सुनोता सोमपाव्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिन्द्रा॑य व॒ज्रिणे॑।  
 युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/03_sunotA_somapAvne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Thou into whom the drops find way as sap pours life into a tree, Drive off in th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/002_Atmagopanam/03_sunotA_somapAvne.md">
 <details open><summary><h3>०३ सुनोता सोमपाव्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

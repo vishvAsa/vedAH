@@ -2,7 +2,7 @@
 title = "०३८ वर्चस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/_index.md">
 <details open><summary><h2>०३८ वर्चस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for surpassing strength and energy
 </div>
 
 ## ०१ सिंहे व्याघ्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/01_siMhe_vyAghra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/01_siMhe_vyAghra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिं॒हे व्या॒घ्र उ॒त या पृदा॑कौ॒ त्विषि॑र॒ग्नौ ब्रा॑ह्म॒णे सूर्ये॒ या।  
 इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/01_siMhe_vyAghra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/01_siMhe_vyAghra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for surpassing strength and energy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/01_siMhe_vyAghra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/01_siMhe_vyAghra.md">
 <details open><summary><h3>०१ सिंहे व्याघ्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya
 </div>
 
 ## ०२ या हस्तिनि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/02_yA_hastini.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/02_yA_hastini.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या ह॒स्तिनि॑ द्वी॒पिनि॒ या हिर॑ण्ये॒ त्विषि॑र॒प्सु गोषु॒ या पुरु॑षेषु।  
 इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/02_yA_hastini.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/02_yA_hastini.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ What energy the lion hath, the tiger, adder, and burning fire, Brahman, or Surya
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/02_yA_hastini.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/02_yA_hastini.md">
 <details open><summary><h3>०२ या हस्तिनि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -148,14 +148,14 @@ All energy of elephant and panther, all energy of gold, men, kine, and waters, A
 </div>
 
 ## ०३ रथे अक्षेष्वृषभस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रथे॑ अ॒क्षेष्वृ॑ष॒भस्य॒ वाजे॒ वाते॑ प॒र्जन्ये॒ वरु॑णस्य॒ शुष्मे॑।  
 इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -164,7 +164,7 @@ All energy of elephant and panther, all energy of gold, men, kine, and waters, A
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/03_rathe_axeShvRShabhasya.md">
 <details open><summary><h3>०३ रथे अक्षेष्वृषभस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -200,14 +200,14 @@ Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, 
 </div>
 
 ## ०४ राजन्ये दुन्दुभावायतायामश्वस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रा॑ज॒न्ये᳡ दुन्दु॒भावाय॑ताया॒मश्व॑स्य॒ वाजे॒ पुरु॑षस्य मा॒यौ।  
 इन्द्रं॒ या दे॒वी सु॒भगा॑ ज॒जान॒ सा न॒ ऐतु॒ वर्च॑सा संविदा॒ना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -216,7 +216,7 @@ Might in car, axles, in the strong bull's courage, in Varuna's breath, in Vata, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/038_varchasyam/04_rAjanye_dundubhAvAyatAyAmashvasya.md">
 <details open><summary><h3>०४ राजन्ये दुन्दुभावायतायामश्वस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

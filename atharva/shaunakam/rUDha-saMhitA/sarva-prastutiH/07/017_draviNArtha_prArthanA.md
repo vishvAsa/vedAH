@@ -2,7 +2,7 @@
 title = "०१७ द्रविणार्थ प्रार्थना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/_index.md">
 <details open><summary><h2>०१७ द्रविणार्थ प्रार्थना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ A prayer for wealth and children
 </div>
 
 ## ०१ धाता दधातु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑।  
 स नः॑ पू॒र्णेन॑ यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ A prayer for wealth and children
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/01_dhAtA_dadhAtu.md">
 <details open><summary><h3>०१ धाता दधातु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 </div>
 
 ## ०२ धाता दधातु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒मक्षि॑ताम्।  
 व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ May the Ordainer give us wealth, Lord, ruler of the world of life: with full han
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/02_dhAtA_dadhAtu.md">
 <details open><summary><h3>०२ धाता दधातु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 </div>
 
 ## ०३ धाता विश्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे।  
 तस्मै॑ दे॒वा अ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ May Dhatar grant the worshipper henceforth imperishable life. May we obtain the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/03_dhAtA_vishvA.md">
 <details open><summary><h3>०३ धाता विश्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ To him may Dhatar grant all kinds of blessings who, craving children, serves him
 </div>
 
 ## ०४ धाता रातिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः।  
 त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ To him may Dhatar grant all kinds of blessings who, craving children, serves him
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/017_draviNArtha_prArthanA/04_dhAtA_rAtiH.md">
 <details open><summary><h3>०४ धाता रातिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

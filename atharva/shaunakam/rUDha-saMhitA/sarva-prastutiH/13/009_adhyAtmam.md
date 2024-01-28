@@ -2,7 +2,7 @@
 title = "००९ अध्यात्मम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/_index.md">
 <details open><summary><h2>००९ अध्यात्मम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -21,13 +21,13 @@ title = "००९ अध्यात्मम्"
 </div>
 
 ## ०१ उरुः पृथुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/01_uruH_pRthuH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒रुः पृ॒थुः सु॒भूर्भुव॒ इति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/01_uruH_pRthuH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -35,7 +35,7 @@ title = "००९ अध्यात्मम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/01_uruH_pRthuH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/01_uruH_pRthuH.md">
 <details open><summary><h3>०१ उरुः पृथुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -85,13 +85,13 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </div>
 
 ## ०२ प्रथो वरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/02_pratho_varo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/02_pratho_varo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रथो॒ वरो॒ व्यचो॑ लो॒क इति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/02_pratho_varo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/02_pratho_varo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -99,7 +99,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/02_pratho_varo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/02_pratho_varo.md">
 <details open><summary><h3>०२ प्रथो वरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -143,13 +143,13 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </div>
 
 ## ०३ भवद्वसुरिदद्वसुः संयद्वसुरायद्वसुरिति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भव॑द्वसुरि॒दद्व॑सुः सं॒यद्व॑सुरा॒यद्व॑सु॒रिति॒ त्वोपा॑स्महे व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -157,7 +157,7 @@ noun-forms and adjective-forms in vss. 52-53.⌋
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/03_bhavadvasuridadvasuH_saMyadvasurAyadvasuriti.md">
 <details open><summary><h3>०३ भवद्वसुरिदद्वसुः संयद्वसुरायद्वसुरिति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -211,13 +211,13 @@ possessive.
 </div>
 
 ## ०४ नमस्ते अस्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/04_namaste_astu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/04_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते अस्तु पश्यत॒ पश्य॑ मा पश्यत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/04_namaste_astu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/04_namaste_astu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -225,7 +225,7 @@ possessive.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/04_namaste_astu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/04_namaste_astu.md">
 <details open><summary><h3>०४ नमस्ते अस्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -269,13 +269,13 @@ possessive.
 </div>
 
 ## ०५ अन्नाद्येन यशसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्नाद्ये॑न॒ यश॑सा॒ तेज॑सा ब्राह्मणवर्च॒सेन॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/05_annAdyena_yashasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -283,7 +283,7 @@ possessive.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/009_adhyAtmam/05_annAdyena_yashasA.md">
 <details open><summary><h3>०५ अन्नाद्येन यशसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

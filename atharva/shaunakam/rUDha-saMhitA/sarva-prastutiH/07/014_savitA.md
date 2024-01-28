@@ -2,7 +2,7 @@
 title = "०१४ सविता"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/_index.md">
 <details open><summary><h2>०१४ सविता ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Savitar for prosperity
 </div>
 
 ## ०१ अभि त्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/01_abhi_tyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/01_abhi_tyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः᳡ क॒विक्र॑तुम्।  
 अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/01_abhi_tyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/01_abhi_tyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Savitar for prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/01_abhi_tyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/01_abhi_tyam.md">
 <details open><summary><h3>०१ अभि त्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ I praise this God, parent of heaven and earth, exceeding wiser possessed of real
 </div>
 
 ## ०२ उर्ध्वा यस्यामतिर्भा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त्सवी॑मनि।  
 हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात्स्वः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ I praise this God, parent of heaven and earth, exceeding wiser possessed of real
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/02_urdhvA_yasyAmatirbhA.md">
 <details open><summary><h3>०२ उर्ध्वा यस्यामतिर्भा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 </div>
 
 ## ०३ सावीर्हि देव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/03_sAvIrhi_deva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/03_sAvIrhi_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै।  
 अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/03_sAvIrhi_deva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/03_sAvIrhi_deva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Whose splendour is sublime, whose light shone brilliant in crea- tion, who, wise
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/03_sAvIrhi_deva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/03_sAvIrhi_deva.md">
 <details open><summary><h3>०३ सावीर्हि देव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -242,14 +242,14 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 </div>
 
 ## ०४ दमूना देवः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/04_damUnA_devaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/014_savitA/04_damUnA_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द्रत्नं॑ पि॒तृभ्य॒ आयूं॑षि।  
 पिबा॒त्सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित्क्रमते अस्य॒ धर्म॑णि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/04_damUnA_devaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/014_savitA/04_damUnA_devaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -258,7 +258,7 @@ As thou, God! quickening, for our ancient father, sentest him height above and r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/04_damUnA_devaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/014_savitA/04_damUnA_devaH.md">
 <details open><summary><h3>०४ दमूना देवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

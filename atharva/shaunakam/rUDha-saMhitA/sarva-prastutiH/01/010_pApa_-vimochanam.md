@@ -2,7 +2,7 @@
 title = "०१० पाप -विमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/_index.md">
 <details open><summary><h2>०१० पाप -विमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Absolution of a sinner after intercession with Varuna
 </div>
 
 ## ०१ अयं देवानामसुरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑।  
 तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Absolution of a sinner after intercession with Varuna
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/01_ayaM_devAnAmasuro.md">
 <details open><summary><h3>०१ अयं देवानामसुरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ This Lord is the Gods' ruler; for the wishes of Varuna the King must be accompli
 </div>
 
 ## ०२ नमस्ते राजन्वरुणास्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते राजन्वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॑ग्र निचि॒केषि॑ द्रु॒ग्धम्।  
 स॒हस्र॑म॒न्यान्प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ This Lord is the Gods' ruler; for the wishes of Varuna the King must be accompli
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/02_namaste_rAjanvaruNAstu.md">
 <details open><summary><h3>०२ नमस्ते राजन्वरुणास्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest ever
 </div>
 
 ## ०३ यदुवक्थानृतम्जिह्वया वृजिनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदु॒वक्थानृ॑तम्जि॒ह्वया॑ वृजि॒नं ब॒हु।  
 राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Homage be paid, King Varuna, to thine anger; for thou, dread God, detectest ever
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/03_yaduvakthAnRtamjihvayA_vRjinam.md">
 <details open><summary><h3>०३ यदुवक्थानृतम्जिह्वया वृजिनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 </div>
 
 ## ०४ मुञ्चामि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑।  
 स॑जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ Whatever falsehood thou hast told, much evil spoken with the tongue, I liberate 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/010_pApa_-vimochanam/04_munchAmi_tvA.md">
 <details open><summary><h3>०४ मुञ्चामि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

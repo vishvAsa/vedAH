@@ -2,7 +2,7 @@
 title = "०५७ सरस्वती"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/_index.md">
 <details open><summary><h2>०५७ सरस्वती ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for some physical disorder
 </div>
 
 ## ०१ यदाशसा वदतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/01_yadAshasA_vadato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद्याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑।  
 यदा॒त्मनि॑ त॒न्वो᳡ मे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद्घृ॒तेन॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/01_yadAshasA_vadato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for some physical disorder
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/01_yadAshasA_vadato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/01_yadAshasA_vadato.md">
 <details open><summary><h3>०१ यदाशसा वदतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Whatever trouble hath disturbed and shaken me--I speak with hope, I move, implor
 </div>
 
 ## ०२ सप्त क्षरन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/02_sapta_xaranti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/057_sarasvatI/02_sapta_xaranti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑।  
 उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अ॑स्य पुष्यतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/02_sapta_xaranti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/057_sarasvatI/02_sapta_xaranti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Whatever trouble hath disturbed and shaken me--I speak with hope, I move, implor
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/02_sapta_xaranti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/057_sarasvatI/02_sapta_xaranti.md">
 <details open><summary><h3>०२ सप्त क्षरन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

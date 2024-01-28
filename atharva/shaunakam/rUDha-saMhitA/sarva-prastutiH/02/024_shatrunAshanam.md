@@ -2,7 +2,7 @@
 title = "०२४ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/_index.md">
 <details open><summary><h2>०२४ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm against the magic arts of fiends
 </div>
 
 ## ०१ शेरभक शेरभ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm against the magic arts of fiends
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/01_sherabhaka_sherabha.md">
 <details open><summary><h3>०१ शेरभक शेरभ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 </div>
 
 ## ०२ शेवृधक शेवृध
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ O Serabhaka, Serabha, back fall your arts of witchery! Back, Kimidins! let your 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/02_shevRdhaka_shevRdha.md">
 <details open><summary><h3>०२ शेवृधक शेवृध ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 </div>
 
 ## ०३ म्रोकानुम्रोक पुनर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ Srvridhaka, O Sevridha, back fall your arts of witchery! Back, Kimidins! let you
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/03_mrokAnumroka_punarvo.md">
 <details open><summary><h3>०३ म्रोकानुम्रोक पुनर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -223,14 +223,14 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 </div>
 
 ## ०४ सर्पानुसर्प पुनर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -239,7 +239,7 @@ O Mroka, Anumroka, back return your arts of witchery! Back, Kimidins! let your w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/04_sarpAnusarpa_punarvo.md">
 <details open><summary><h3>०४ सर्पानुसर्प पुनर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -283,14 +283,14 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 </div>
 
 ## ०५ जूर्णि पुनर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -299,7 +299,7 @@ O Sarpa, Anusarpa, back return your arts of witchery! Back, 'i Kimidins! let you
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/05_jUrNi_punarvo.md">
 <details open><summary><h3>०५ जूर्णि पुनर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -344,14 +344,14 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 </div>
 
 ## ०६ उपब्दे पुनर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/06_upabde_punarvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/06_upabde_punarvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -360,7 +360,7 @@ Back fall your witcheries, Jurni! back your weapon, ye Kimidinis, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/06_upabde_punarvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/06_upabde_punarvo.md">
 <details open><summary><h3>०६ उपब्दे पुनर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 </div>
 
 ## ०७ अर्जुनि पुनर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/07_arjuni_punarvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ Back fall your spells, Upabdi! back your weapon, ye Kimidinis, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/07_arjuni_punarvo.md">
 <details open><summary><h3>०७ अर्जुनि पुनर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -464,14 +464,14 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 </div>
 
 ## ०८ भरूजि पुनर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भरू॑जि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः।  
 यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त्तम॑त्त॒ स्वा मां॒सान्य॑त्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/08_bharUji_punarvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -480,7 +480,7 @@ Back fall your witchcrafts, Arjuni! your weapon, ye Kimidinis, etc,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/024_shatrunAshanam/08_bharUji_punarvo.md">
 <details open><summary><h3>०८ भरूजि पुनर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

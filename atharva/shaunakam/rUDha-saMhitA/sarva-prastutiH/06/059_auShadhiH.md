@@ -2,7 +2,7 @@
 title = "०५९ औषधिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/_index.md">
 <details open><summary><h2>०५९ औषधिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to protect cattle and men
 </div>
 
 ## ०१ अनडुद्भ्यस्त्वं प्रथमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति।  
 अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to protect cattle and men
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/01_anaDudbhyastvaM_prathamam.md">
 <details open><summary><h3>०१ अनडुद्भ्यस्त्वं प्रथमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ First, O Arundhati, protect our oxen and milky kine: Protect each one that is in
 </div>
 
 ## ०२ शर्म यच्छत्वोषधिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती।  
 कर॒त्पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्माँ उ॒त पूरु॑षान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ First, O Arundhati, protect our oxen and milky kine: Protect each one that is in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/02_sharma_yachChatvoShadhiH.md">
 <details open><summary><h3>०२ शर्म यच्छत्वोषधिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 </div>
 
 ## ०३ विश्वरूपां सुभगामच्छावदामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒श्वरू॑पां सु॒भगा॑म॒च्छाव॑दामि जीव॒लाम्।  
 सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Let the Plant give us sheltering aid, Arundhati allied with Gods; Avert Consumpt
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/059_auShadhiH/03_vishvarUpAM_subhagAmachChAvadAmi.md">
 <details open><summary><h3>०३ विश्वरूपां सुभगामच्छावदामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

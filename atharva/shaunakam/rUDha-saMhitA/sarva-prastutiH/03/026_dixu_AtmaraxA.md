@@ -2,7 +2,7 @@
 title = "०२६ दिक्षु आत्मरक्षा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/_index.md">
 <details open><summary><h2>०२६ दिक्षु आत्मरक्षा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm to win the favour of all serpents
 </div>
 
 ## ०१ येस्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑स्यां स्थ प्राच्यां॑ दि॒शि हे॒तयो॒ नाम॑ दे॒वास्तेषां॑ वो अ॒ग्निरि॑षवः।  
 ते नो॑ मृडत॒ ते नो ऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm to win the favour of all serpents
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/01_yesyAM_stha.md">
 <details open><summary><h3>०१ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your
 </div>
 
 ## ०२ येस्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑स्यां स्थ दक्षि॑णायां दि॒श्य॑वि॒ष्यवो॒ नाम॑ दे॒वास्तेषां॑ वः॒ काम॒ इष॑वः।  
 ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Ye Gods who dwell within this eastward region, entitled Weapons, Agni forms your
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/02_yesyAM_stha.md">
 <details open><summary><h3>०२ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Ye Gods who dwell within this southward region, entitled Eager, Kama forms your 
 </div>
 
 ## ०३ येस्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑स्यां स्थ प्र॒तीच्यां॑ दि॒शि वै॑रा॒जा नाम॑ दे॒वास्तेषां॑ व॒ आप॒ इष॑वः।  
 ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Ye Gods who dwell within this southward region, entitled Eager, Kama forms your 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/03_yesyAM_stha.md">
 <details open><summary><h3>०३ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ Ye Gods who dwell within this westward region, whose name is Radiant, Water form
 </div>
 
 ## ०४ येस्यां स्थोदीच्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑स्यां स्थोदी॑च्यां दि॒शि प्र॒विध्य॑न्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ वात॒ इष॑वः।  
 ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ Ye Gods who dwell within this westward region, whose name is Radiant, Water form
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/04_yesyAM_sthodIchyAm.md">
 <details open><summary><h3>०४ येस्यां स्थोदीच्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -295,14 +295,14 @@ Ye Gods who dwell within this northward region, whose name is Piercers, Vata for
 </div>
 
 ## ०५ येस्यां स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑स्यां स्थ ध्रु॒वायां॑ दि॒शि नि॑लि॒म्पा नाम॑ दे॒वास्तेषां॑ व॒ ओष॑धी॒रिष॑वः।  
 ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -311,7 +311,7 @@ Ye Gods who dwell within this northward region, whose name is Piercers, Vata for
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/05_yesyAM_stha.md">
 <details open><summary><h3>०५ येस्यां स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -360,14 +360,14 @@ Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are
 </div>
 
 ## ०६ येस्यां स्थोर्ध्वायाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑स्यां स्थोर्ध्वायां॑ दि॒श्यव॑स्वन्तो॒ नाम॑ दे॒वास्तेषां॑ वो॒ बृह॒स्पति॒रिष॑वः।  
 ते नो॑ मृडत॒ ते नोऽधि॑ ब्रूत॒ तेभ्यो॑ वो॒ नम॒स्तेभ्यो॑ वः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -376,7 +376,7 @@ Ye Gods whose home is in this firm-set region--Nilimpas is your name--Plants are
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/026_dixu_AtmaraxA/06_yesyAM_sthordhvAyAm.md">
 <details open><summary><h3>०६ येस्यां स्थोर्ध्वायाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

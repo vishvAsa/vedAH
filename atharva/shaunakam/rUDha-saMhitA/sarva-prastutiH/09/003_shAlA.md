@@ -2,7 +2,7 @@
 title = "००३ शाला"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/_index.md">
 <details open><summary><h2>००३ शाला ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -36,14 +36,14 @@ On the consecration of a newly built house
 </div>
 
 ## ०१ उपमितां प्रतिमितामथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॒मितां॑ प्रति॒मिता॒मथो॑ परि॒मिता॑मु॒त।  
 शाला॑या वि॒श्ववा॑राया न॒द्धानि॒ वि चृ॑तामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -52,7 +52,7 @@ On the consecration of a newly built house
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/01_upamitAM_pratimitAmatho.md">
 <details open><summary><h3>०१ उपमितां प्रतिमितामथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ We loose the ties and fastenings of the house that holds all precious things, Th
 </div>
 
 ## ०२ यत्ते नद्धम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/02_yatte_naddham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/02_yatte_naddham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ न॒द्धं वि॑श्ववारे॒ पाशो॑ ग्र॒न्थिश्च॒ यः कृ॒तः।  
 बृह॒स्पति॑रिवा॒हं ब॒लं वा॒चा वि स्रं॑सयामि॒ तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/02_yatte_naddham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/02_yatte_naddham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ We loose the ties and fastenings of the house that holds all precious things, Th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/02_yatte_naddham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/02_yatte_naddham.md">
 <details open><summary><h3>०२ यत्ते नद्धम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ All-wealthy House! each knot and band, each cord that is attached to thee I with
 </div>
 
 ## ०३ आ ययाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/03_A_yayAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/03_A_yayAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ य॑याम॒ सं ब॑बर्ह ग्र॒न्थींश्च॑कार ते दृ॒ढान्।  
 परूं॑षि वि॒द्वाञ्छस्ते॒वेन्द्रे॑ण॒ वि चृ॑तामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/03_A_yayAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/03_A_yayAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ All-wealthy House! each knot and band, each cord that is attached to thee I with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/03_A_yayAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/03_A_yayAma.md">
 <details open><summary><h3>०३ आ ययाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ He drew them close, he pressed them fast, he made thy knotted. bands secure: Wit
 </div>
 
 ## ०४ वंशानां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/04_vaMshAnAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/04_vaMshAnAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वं॒शानां॑ ते॒ नह॑नानां प्राणा॒हस्य॒ तृण॑स्य च।  
 प॒क्षाणां॑ विश्ववारे ते न॒द्धानि॒ वि चृ॑तामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/04_vaMshAnAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/04_vaMshAnAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ He drew them close, he pressed them fast, he made thy knotted. bands secure: Wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/04_vaMshAnAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/04_vaMshAnAM_te.md">
 <details open><summary><h3>०४ वंशानां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -298,14 +298,14 @@ We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose t
 </div>
 
 ## ०५ सन्दंशानां पलदानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॑दं॒शानां॑ पल॒दानां॒ परि॑ष्वञ्जल्यस्य च।  
 इ॒दं मान॑स्य॒ पत्न्या॑ न॒द्धानि॒ वि चृ॑तामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -314,7 +314,7 @@ We loose the bands of thy bamboos, of bolts, of fastening, of thatch, We loose t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/05_sandaMshAnAM_paladAnAm.md">
 <details open><summary><h3>०५ सन्दंशानां पलदानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -362,14 +362,14 @@ We loosen here the ties and bands of straw in bundles, and of clamps, Of all tha
 </div>
 
 ## ०६ यानि तेऽन्तः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/06_yAni_te-ntaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/06_yAni_te-ntaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यानि॑ ते॒ऽन्तः शि॒क्या᳡न्याबे॒धू र॒ण्या॑य॒ कम्।  
 प्र ते॒ तानि॑ चृतामसि शि॒वा मा॑नस्य पत्नी न॒ उद्धि॑ता त॒न्वे᳡ भव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/06_yAni_te-ntaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/06_yAni_te-ntaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -378,7 +378,7 @@ We loosen here the ties and bands of straw in bundles, and of clamps, Of all tha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/06_yAni_te-ntaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/06_yAni_te-ntaH.md">
 <details open><summary><h3>०६ यानि तेऽन्तः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -437,14 +437,14 @@ We loose the loops which men have bound within thee, loops to tie and hold. Be g
 </div>
 
 ## ०७ हविर्धानमग्निशालं पत्नीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॑वि॒र्धान॑मग्नि॒शालं॒ पत्नी॑नां॒ सद॑नं॒ सदः॑।  
 सदो॑ दे॒वाना॑मसि देवि शाले ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -453,7 +453,7 @@ We loose the loops which men have bound within thee, loops to tie and hold. Be g
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/07_havirdhAnamagnishAlaM_patnInAm.md">
 <details open><summary><h3>०७ हविर्धानमग्निशालं पत्नीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -500,14 +500,14 @@ Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat o
 </div>
 
 ## ०८ अक्षुमोपशं विततम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/08_axumopashaM_vitatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/08_axumopashaM_vitatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अक्षु॒मोप॒शं वित॑तं सहस्रा॒क्षं वि॑षू॒वति॑।  
 अव॑नद्धम॒भिहि॑तं॒ ब्रह्म॑णा॒ वि चृ॑तामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/08_axumopashaM_vitatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/08_axumopashaM_vitatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -516,7 +516,7 @@ Store-house of Soma, Agni's hall, the ladies' bower, the resi- dence, The seat o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/08_axumopashaM_vitatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/08_axumopashaM_vitatam.md">
 <details open><summary><h3>०८ अक्षुमोपशं विततम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -567,14 +567,14 @@ We with our incantation loose the net that hath a thousand. eyes. The diadem, se
 </div>
 
 ## ०९ यस्त्वा शाले
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/09_yastvA_shAle.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/09_yastvA_shAle.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्त्वा॑ शाले प्रतिगृ॒ह्णाति॒ येन॒ चासि॑ मि॒ता त्वम्।  
 उ॒भौ मा॑नस्य पत्नि॒ तौ जीव॑तां ज॒रद॑ष्टी ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/09_yastvA_shAle.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/09_yastvA_shAle.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -583,7 +583,7 @@ We with our incantation loose the net that hath a thousand. eyes. The diadem, se
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/09_yastvA_shAle.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/09_yastvA_shAle.md">
 <details open><summary><h3>०९ यस्त्वा शाले ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -632,14 +632,14 @@ The man who takes thee as his own, and he who was thy builder,. House! Both thes
 </div>
 
 ## १० अमुत्रैनमा गच्छताद्दृढा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मुत्रै॑न॒मा ग॑च्छताद्दृ॒ढा न॒द्धा परि॑ष्कृता।  
 यस्या॑स्ते विचृ॒ताम॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -648,7 +648,7 @@ The man who takes thee as his own, and he who was thy builder,. House! Both thes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/10_amutrainamA_gachChatAddRDhA.md">
 <details open><summary><h3>१० अमुत्रैनमा गच्छताद्दृढा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -698,14 +698,14 @@ There let her come to meet this man. Firm, strongly fastened,. and prepared Art 
 </div>
 
 ## ११ यस्त्वा शाले
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/11_yastvA_shAle.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/11_yastvA_shAle.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्त्वा॑ शाले निमि॒माय॑ संज॒भार॒ वन॒स्पती॑न्।  
 प्र॒जायै॑ चक्रे त्वा शाले परमे॒ष्ठी प्र॒जाप॑तिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/11_yastvA_shAle.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/11_yastvA_shAle.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -714,7 +714,7 @@ There let her come to meet this man. Firm, strongly fastened,. and prepared Art 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/11_yastvA_shAle.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/11_yastvA_shAle.md">
 <details open><summary><h3>११ यस्त्वा शाले ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -761,14 +761,14 @@ He who collected timber for the work and built thee up, O House, Made thee for c
 </div>
 
 ## १२ नमस्तस्मै नमो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/12_namastasmai_namo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/12_namastasmai_namo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॒स्तस्मै॒ नमो॑ दा॒त्रे शाला॑पतये च कृण्मः।  
 नमो॒ऽग्नये॑ प्र॒चर॑ते॒ पुरु॑षाय च ते॒ नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/12_namastasmai_namo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/12_namastasmai_namo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -777,7 +777,7 @@ He who collected timber for the work and built thee up, O House, Made thee for c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/12_namastasmai_namo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/12_namastasmai_namo.md">
 <details open><summary><h3>१२ नमस्तस्मै नमो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -824,14 +824,14 @@ Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! 
 </div>
 
 ## १३ गोभ्यो अश्वेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/13_gobhyo_ashvebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/13_gobhyo_ashvebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गोभ्यो॒ अश्वे॑भ्यो॒ नमो॒ यच्छाला॑यां वि॒जाय॑ते।  
 विजा॑वति॒ प्रजा॑वति॒ वि ते॒ पाशां॑श्चृतामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/13_gobhyo_ashvebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/13_gobhyo_ashvebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -840,7 +840,7 @@ Homage to him! We worship too the giver and the Mansion's lord: Homage to Agni! 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/13_gobhyo_ashvebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/13_gobhyo_ashvebhyo.md">
 <details open><summary><h3>१३ गोभ्यो अश्वेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -887,14 +887,14 @@ Homage to kine and steeds! to all that shall be born within the house We loose t
 </div>
 
 ## १४ अग्निमन्तश्छादयसि पुरुषान्पशुभिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निम॒न्तश्छा॑दयसि॒ पुरु॑षान्प॒शुभिः॑ स॒ह।  
 विजा॑वति॒ प्रजा॑वति॒ वि ते॒ पाशां॑श्चृतामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -903,7 +903,7 @@ Homage to kine and steeds! to all that shall be born within the house We loose t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/14_agnimantashChAdayasi_puruShAnpashubhiH.md">
 <details open><summary><h3>१४ अग्निमन्तश्छादयसि पुरुषान्पशुभिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -948,7 +948,7 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 </div>
 
 ## १५ अन्तरा द्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/15_antarA_dyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/15_antarA_dyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑न्त॒रा द्यां च॑ पृथि॒वीं च॒ यद्व्यच॒स्तेन॒ शालां॒ प्रति॑ गृह्णामि त इ॒माम्।  
@@ -956,7 +956,7 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 तेन॒ शालां॒ प्रति॑ गृह्णामि॒ तस्मै॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/15_antarA_dyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/15_antarA_dyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -966,7 +966,7 @@ Agni thou shelterest within, and people with domestic beasts. We loose the bonds
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/15_antarA_dyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/15_antarA_dyAm.md">
 <details open><summary><h3>१५ अन्तरा द्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1019,14 +1019,14 @@ All space that lies between the earth and heaven, therewith I take this house fo
 </div>
 
 ## १६ ऊर्जस्वती पयस्वती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/16_UrjasvatI_payasvatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/16_UrjasvatI_payasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊर्ज॑स्वती॒ पय॑स्वती पृथि॒व्यां निमि॑ता मि॒ता।  
 वि॑श्वा॒न्नं बिभ्र॑ती शाले॒ मा हिं॑सीः प्रतिगृह्ण॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/16_UrjasvatI_payasvatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/16_UrjasvatI_payasvatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1035,7 +1035,7 @@ All space that lies between the earth and heaven, therewith I take this house fo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/16_UrjasvatI_payasvatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/16_UrjasvatI_payasvatI.md">
 <details open><summary><h3>१६ ऊर्जस्वती पयस्वती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1081,14 +1081,14 @@ Rich in prosperity, rich in milk, founded and built upon the earth, Injure not t
 </div>
 
 ## १७ तृणैरावृता पलदान्वसाना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृणै॒रावृ॑ता पल॒दान्वसा॑ना॒ रात्री॑व॒ शाला॒ जग॑तो नि॒वेश॑नी।  
 मि॒ता पृ॑थि॒व्यां ति॑ष्ठसि ह॒स्तिनी॑व प॒द्वती॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1097,7 +1097,7 @@ Rich in prosperity, rich in milk, founded and built upon the earth, Injure not t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/17_tRNairAvRtA_paladAnvasAnA.md">
 <details open><summary><h3>१७ तृणैरावृता पलदान्वसाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1148,14 +1148,14 @@ Grass-covered, clad with straw, the house, like Night, gives rest to man and bea
 </div>
 
 ## १८ इटस्य ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/18_iTasya_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/18_iTasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इट॑स्य ते॒ वि चृ॑ता॒म्यपि॑नद्धमपोर्णु॒वन्।  
 वरु॑णेन॒ समु॑ब्जितां मि॒त्रः प्रा॒तर्व्यु᳡ब्जतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/18_iTasya_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/18_iTasya_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1164,7 +1164,7 @@ Grass-covered, clad with straw, the house, like Night, gives rest to man and bea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/18_iTasya_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/18_iTasya_te.md">
 <details open><summary><h3>१८ इटस्य ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1211,14 +1211,14 @@ I loosen and remove from thee thy covering formed by mats of reed. What Varuna h
 </div>
 
 ## १९ ब्रह्मणा शालाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/19_brahmaNA_shAlAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/19_brahmaNA_shAlAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॑णा॒ शालां॒ निमि॑तां क॒विभि॒र्निमि॑तां मि॒ताम्।  
 इ॑न्द्रा॒ग्नी र॑क्षतां॒ शाला॑म॒मृतौ॑ सो॒म्यं सदः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/19_brahmaNA_shAlAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/19_brahmaNA_shAlAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1227,7 +1227,7 @@ I loosen and remove from thee thy covering formed by mats of reed. What Varuna h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/19_brahmaNA_shAlAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/19_brahmaNA_shAlAm.md">
 <details open><summary><h3>१९ ब्रह्मणा शालाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1276,14 +1276,14 @@ May Indra, Agni, deathless Gods, protect the house where Soma dwells, House that
 </div>
 
 ## २० कुलायेऽधि कुलायम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कु॒लायेऽधि॑ कु॒लायं॒ कोशे॒ कोशः॒ समु॑ब्जितः।  
 तत्र॒ मर्तो॒ वि जा॑यते॒ यस्मा॒द्विश्वं॑ प्र॒जाय॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1292,7 +1292,7 @@ May Indra, Agni, deathless Gods, protect the house where Soma dwells, House that
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/20_kulAye-dhi_kulAyam.md">
 <details open><summary><h3>२० कुलायेऽधि कुलायम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1339,14 +1339,14 @@ Nest upon nest hath been imposed, compartment on compart- ment laid: There man s
 </div>
 
 ## २१ या द्विपक्षा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/21_yA_dvipaxA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/21_yA_dvipaxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या द्विप॑क्षा॒ चतु॑ष्पक्षा॒ षट्प॑क्षा॒ या नि॑मी॒यते॑।  
 अ॒ष्टाप॑क्षां॒ दश॑पक्षां॒ शालां॒ मान॑स्य॒ पत्नी॑म॒ग्निर्गर्भ॑ इ॒वा श॑ये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/21_yA_dvipaxA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/21_yA_dvipaxA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1355,7 +1355,7 @@ Nest upon nest hath been imposed, compartment on compart- ment laid: There man s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/21_yA_dvipaxA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/21_yA_dvipaxA.md">
 <details open><summary><h3>२१ या द्विपक्षा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1406,14 +1406,14 @@ Within the house constructed with two side-posts, or with four, or six. Built wi
 </div>
 
 ## २२ प्रतीचीं त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/22_pratIchIM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/22_pratIchIM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒तीचीं॑ त्वा प्रती॒चीनः॒ शाले॒ प्रैम्यहिं॑सतीम्।  
 अ॒ग्निर्ह्य१॒॑न्तराप॑श्च॒र्तस्य॑ प्रथ॒मा द्वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/22_pratIchIM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/22_pratIchIM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1422,7 +1422,7 @@ Within the house constructed with two side-posts, or with four, or six. Built wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/22_pratIchIM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/22_pratIchIM_tvA.md">
 <details open><summary><h3>२२ प्रतीचीं त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1471,14 +1471,14 @@ Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire 
 </div>
 
 ## २३ इमा आपः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/23_imA_ApaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/23_imA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा आपः॒ प्र भ॑राम्यय॒क्ष्मा य॑क्ष्म॒नाश॑नीः।  
 गृ॒हानुप॒ प्र सी॑दाम्य॒मृते॑न स॒हाग्निना॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/23_imA_ApaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/23_imA_ApaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1487,7 +1487,7 @@ Turned to thee, House! I come to thee, innocent, turned to welcome me: For Fire 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/23_imA_ApaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/23_imA_ApaH.md">
 <details open><summary><h3>२३ इमा आपः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1534,14 +1534,14 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 </div>
 
 ## २४ मा नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/24_mA_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/24_mA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा नः॒ पाशं॒ प्रति॑ मुचो गु॒रुर्भा॒रो ल॒घुर्भ॑व।  
 व॒धूमि॑व त्वा शाले यत्र॒कामं॑ भरामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/24_mA_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/24_mA_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1550,7 +1550,7 @@ Water that kills Consumption, free from all Consumption, here I bring. With Agni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/24_mA_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/24_mA_naH.md">
 <details open><summary><h3>२४ मा नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1597,13 +1597,13 @@ Lay thou no cord or noose on us: a weighty burthen, still be light! Withersoever
 </div>
 
 ## २५ प्राच्या दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/25_prAchyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/25_prAchyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राच्या॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/25_prAchyA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/25_prAchyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1611,7 +1611,7 @@ Lay thou no cord or noose on us: a weighty burthen, still be light! Withersoever
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/25_prAchyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/25_prAchyA_dishaH.md">
 <details open><summary><h3>२५ प्राच्या दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1658,13 +1658,13 @@ Now from the east side of the house to the Great Power be homage paid! Hail to t
 </div>
 
 ## २६ दक्षिणाया दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/26_daxiNAyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/26_daxiNAyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दक्षि॑णाया दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/26_daxiNAyA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/26_daxiNAyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1672,7 +1672,7 @@ Now from the east side of the house to the Great Power be homage paid! Hail to t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/26_daxiNAyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/26_daxiNAyA_dishaH.md">
 <details open><summary><h3>२६ दक्षिणाया दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1716,13 +1716,13 @@ Now from the south side of the house, etc.
 </div>
 
 ## २७ प्रतीच्या दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/27_pratIchyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/27_pratIchyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒तीच्या॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/27_pratIchyA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/27_pratIchyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1730,7 +1730,7 @@ Now from the south side of the house, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/27_pratIchyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/27_pratIchyA_dishaH.md">
 <details open><summary><h3>२७ प्रतीच्या दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1774,13 +1774,13 @@ Now from the west side of the house, etc.
 </div>
 
 ## २८ उदीच्या दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/28_udIchyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/28_udIchyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदी॑च्या दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/28_udIchyA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/28_udIchyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1788,7 +1788,7 @@ Now from the west side of the house, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/28_udIchyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/28_udIchyA_dishaH.md">
 <details open><summary><h3>२८ उदीच्या दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1832,13 +1832,13 @@ Now from the north side of the house, etc.
 </div>
 
 ## २९ ध्रुवाया दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/29_dhruvAyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/29_dhruvAyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ध्रु॒वाया॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/29_dhruvAyA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/29_dhruvAyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1846,7 +1846,7 @@ Now from the north side of the house, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/29_dhruvAyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/29_dhruvAyA_dishaH.md">
 <details open><summary><h3>२९ ध्रुवाया दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1890,13 +1890,13 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 </div>
 
 ## ३० ऊर्ध्वाया दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/30_UrdhvAyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/30_UrdhvAyA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्ध्वाया॑ दि॒शः शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/30_UrdhvAyA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/30_UrdhvAyA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1904,7 +1904,7 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/30_UrdhvAyA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/30_UrdhvAyA_dishaH.md">
 <details open><summary><h3>३० ऊर्ध्वाया दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1948,13 +1948,13 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 </div>
 
 ## ३१ दिशोदिशः शालाया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/31_dishodishaH_shAlAyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/003_shAlA/31_dishodishaH_shAlAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒शोदि॑शः॒ शाला॑या॒ नमो॑ महि॒म्ने स्वाहा॑ दे॒वेभ्यः॑ स्वा॒ह्ये᳡भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/31_dishodishaH_shAlAyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/003_shAlA/31_dishodishaH_shAlAyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1962,7 +1962,7 @@ So from the mansion's every side to the Great Power be homage paid! Hail to the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/31_dishodishaH_shAlAyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/003_shAlA/31_dishodishaH_shAlAyA.md">
 <details open><summary><h3>३१ दिशोदिशः शालाया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

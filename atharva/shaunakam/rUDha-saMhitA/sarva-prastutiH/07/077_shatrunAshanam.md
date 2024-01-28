@@ -2,7 +2,7 @@
 title = "०७७ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/_index.md">
 <details open><summary><h2>०७७ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ An incantation against an enemy
 </div>
 
 ## ०१ सान्तपना इदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन।  
 अ॒स्माको॒ती रि॑शादसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/01_sAntapanA_idam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/01_sAntapanA_idam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ An incantation against an enemy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/01_sAntapanA_idam.md">
 <details open><summary><h3>०१ सान्तपना इदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 </div>
 
 ## ०२ यो नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/02_yo_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति।  
 द्रु॒हः पाशा॒न्प्रति॑ मुञ्चतां॒ स तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/02_yo_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/02_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Ye Maruts, full of fiery heat, accept this offering brought for you To help us, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/02_yo_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/02_yo_no.md">
 <details open><summary><h3>०२ यो नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ Maruts, the man who filled with rage against us beyond our thoughts would harm u
 </div>
 
 ## ०३ संवत्सरीणा मरुतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒व॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः।  
 ते अ॒स्मत्पाशा॒न्प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ Maruts, the man who filled with rage against us beyond our thoughts would harm u
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/077_shatrunAshanam/03_saMvatsarINA_marutaH.md">
 <details open><summary><h3>०३ संवत्सरीणा मरुतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२५ अश्वः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/_index.md">
 <details open><summary><h2>०२५ अश्वः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to be used when a young ox is first yoked
 </div>
 
 ## ०१ अश्रान्तस्य त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/025_ashvaH/01_ashrAntasya_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्रा॑न्तस्य त्वा॒ मन॑सा यु॒नज्मि॑ प्रथ॒मस्य॑ च।  
 उत्कू॑लमुद्व॒हो भ॑वो॒दुह्य॒ प्रति॑ धावतात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/025_ashvaH/01_ashrAntasya_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to be used when a young ox is first yoked
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/01_ashrAntasya_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/025_ashvaH/01_ashrAntasya_tvA.md">
 <details open><summary><h3>०१ अश्रान्तस्य त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

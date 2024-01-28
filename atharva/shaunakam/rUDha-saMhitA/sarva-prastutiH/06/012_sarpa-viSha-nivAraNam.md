@@ -2,7 +2,7 @@
 title = "०१२ सर्प-विष-निवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/_index.md">
 <details open><summary><h2>०१२ सर्प-विष-निवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against venomous serpents
 </div>
 
 ## ०१ परि द्यामिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्।  
 रात्री॒ जग॑दिवा॒न्यद्धं॒सात्तेना॑ ते वारये वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against venomous serpents
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/01_pari_dyAmiva.md">
 <details open><summary><h3>०१ परि द्यामिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 </div>
 
 ## ०२ यद्ब्रह्मभिर्यदृषिभिर्यद्देवैर्विदितं पुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद्दे॒वैर्वि॑दि॒तं पु॒रा।  
 यद्भू॒तं भव्य॑मास॒न्वत्तेना॑ ते वारये वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ I, As the Sun goes round the heaven, have travelled round the Serpents' race. I 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/02_yadbrahmabhiryadRShibhiryaddevairviditaM_purA.md">
 <details open><summary><h3>०२ यद्ब्रह्मभिर्यदृषिभिर्यद्देवैर्विदितं पुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 </div>
 
 ## ०३ मध्वा पृञ्चे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मध्वा॑ पृञ्चे न॒द्यः१॒॑ पर्व॑ता गि॒रयो॒ मधु॑।  
 मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ With this, discovered in the days of old by Brahmans, Rishis, Gods, With this I 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/012_sarpa-viSha-nivAraNam/03_madhvA_pRnche.md">
 <details open><summary><h3>०३ मध्वा पृञ्चे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३६ पतिवेदनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/_index.md">
 <details open><summary><h2>०३६ पतिवेदनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to secure a husband for a marriageable girl
 </div>
 
 ## ०१ आ नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/01_A_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/01_A_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ नो॑ अग्ने सुम॒तिं सं॑भ॒लो ग॑मेदि॒मां कु॑मा॒रीं स॒ह नो॒ भगे॑न।  
 जु॒ष्टा व॒रेषु॒ सम॑नेषु व॒ल्गुरो॒षं पत्या॒ सौभ॑गमस्त्व॒स्यै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/01_A_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/01_A_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to secure a husband for a marriageable girl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/01_A_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/01_A_no.md">
 <details open><summary><h3>०१ आ नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 </div>
 
 ## ०२ सोमजुष्टं ब्रह्मजुष्टमर्यम्णा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोम॑जुष्टं॒ ब्रह्म॑जुष्टमर्य॒म्णा संभृ॑तं॒ भग॑म्।  
 धा॒तुर्दे॒वस्य॑ स॒त्येन॑ कृ॒णोमि॑ पति॒वेद॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ To please us may the suitor come, O Agni, seeking this maid and bringing us good
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/02_somajuShTaM_brahmajuShTamaryamNA.md">
 <details open><summary><h3>०२ सोमजुष्टं ब्रह्मजुष्टमर्यम्णा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,14 +181,14 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 </div>
 
 ## ०३ इयमग्ने नारी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/03_iyamagne_nArI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/03_iyamagne_nArI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒यम॑ग्ने॒ नारी॒ पतिं॑ विदेष्ट॒ सोमो॒ हि राजा॑ सु॒भगां॑ कृ॒णोति॑।  
 सुवा॑ना पु॒त्रान्महि॑षी भवाति ग॒त्वा पतिं॑ सु॒भगा॒ वि रा॑जतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/03_iyamagne_nArI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/03_iyamagne_nArI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -197,7 +197,7 @@ As bliss beloved by Soma, dear to Prayer, and stored by Arya- man, With the God 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/03_iyamagne_nArI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/03_iyamagne_nArI.md">
 <details open><summary><h3>०३ इयमग्ने नारी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -255,14 +255,14 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 </div>
 
 ## ०४ यथाखरो मघवंश्चारुरेष
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ख॒रो म॑घवं॒श्चारु॑रे॒ष प्रि॒यो मृ॒गाणां॑ सु॒षदा॑ ब॒भूव॑।  
 ए॒वा भग॑स्य जु॒ष्टेयम॑स्तु॒ नारी॒ संप्रि॑या॒ पत्यावि॑राधयन्ती ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -271,7 +271,7 @@ O Agni, may this woman find a husband. Then verily King Soma makes her happy. Ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/04_yathAkharo_maghavaMshchArureSha.md">
 <details open><summary><h3>०४ यथाखरो मघवंश्चारुरेष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -338,14 +338,14 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 </div>
 
 ## ०५ भगस्य नावमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/05_bhagasya_nAvamA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भग॑स्य॒ नाव॒मा रो॑ह पू॒र्णामनु॑पदस्वतीम्।  
 तयो॑प॒प्रता॑रय॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/05_bhagasya_nAvamA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -354,7 +354,7 @@ As this lair, Maghavan! that is fair to look on was dear to wild things as a ple
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/05_bhagasya_nAvamA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/05_bhagasya_nAvamA.md">
 <details open><summary><h3>०५ भगस्य नावमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 </div>
 
 ## ०६ आ क्रन्दय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/06_A_krandaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/06_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ क्र॑न्दय धनपते व॒रमाम॑नसं कृणु।  
 सर्वं॑ प्रदक्षि॒णं कृ॑णु॒ यो व॒रः प्र॑तिका॒म्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/06_A_krandaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/06_A_krandaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ Mount up, embark on Bhaga's ship, the full, the inexhaustible, Thereon bring hit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/06_A_krandaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/06_A_krandaya.md">
 <details open><summary><h3>०६ आ क्रन्दय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -470,14 +470,14 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 </div>
 
 ## ०७ इदं हिरण्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/07_idaM_hiraNyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं हिर॑ण्यं॒ गुल्गु॑ल्व॒यमौ॒क्षो अ॑थो॒ भगः॑।  
 ए॒ते पति॑भ्य॒स्त्वाम॑दुः प्रतिका॒माय॒ वेत्त॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/07_idaM_hiraNyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -486,7 +486,7 @@ Call out to him, O Lord of Wealth! Make thou the lover well- inclined. Set each 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/07_idaM_hiraNyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/07_idaM_hiraNyam.md">
 <details open><summary><h3>०७ इदं हिरण्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -547,14 +547,14 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 </div>
 
 ## ०८ आ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/08_A_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/036_pativedanam/08_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ ते॑ नयतु सवि॒ता न॑यतु॒ पति॒र्यः प्र॑तिका॒म्यः॑।  
 त्वम॑स्यै धेहि ओषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/08_A_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/036_pativedanam/08_A_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -563,7 +563,7 @@ Here is the Bdellium and the gold, the Auksha and the bliss are here: These brin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/08_A_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/036_pativedanam/08_A_te.md">
 <details open><summary><h3>०८ आ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०५८ यशः प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/_index.md">
 <details open><summary><h2>०५८ यशः प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A priest's prayer for power and glory
 </div>
 
 ## ०१ यशसं मेन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒शसं॒ मेन्द्रो॑ म॒घवा॑न्कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
 य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A priest's prayer for power and glory
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/01_yashasaM_mendro.md">
 <details open><summary><h3>०१ यशसं मेन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 </div>
 
 ## ०२ यथेन्द्रो द्यावापृथिव्योर्यशस्वान्यथाप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न्यथाप॒ ओष॑धीषु॒ यश॑स्वतीः।  
 ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ May Indra Maghavan give me name and glory. May Heaven and Earth, this couple, ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/02_yathendro_dyAvApRthivyoryashasvAnyathApa.md">
 <details open><summary><h3>०२ यथेन्द्रो द्यावापृथिव्योर्यशस्वान्यथाप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 </div>
 
 ## ०३ यशा इन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
 य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/03_yashA_indro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Indra from Heaven and Earth receiveth glory among the plants the Waters have the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/03_yashA_indro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/058_yashaH_prAptiH/03_yashA_indro.md">
 <details open><summary><h3>०३ यशा इन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

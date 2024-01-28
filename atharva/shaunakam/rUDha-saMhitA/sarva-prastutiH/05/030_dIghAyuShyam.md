@@ -2,7 +2,7 @@
 title = "०३० दीघायुष्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/_index.md">
 <details open><summary><h2>०३० दीघायुष्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to restore life and health
 </div>
 
 ## ०१ आवतस्त आवतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒वत॑स्त आ॒वतः॑ परा॒वत॑स्त आ॒वतः॑।  
 इ॒हैव भ॑व॒ मा नु गा॒ मा पूर्वा॒ननु॑ गाः पि॒तॄनसुं॑ बध्नामि ते दृ॒ढम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to restore life and health
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/01_Avatasta_AvataH.md">
 <details open><summary><h3>०१ आवतस्त आवतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ From thy vicinity I call, from near, from far, from night at hand. Stay here: de
 </div>
 
 ## ०२ यत्त्वाभिचेरुः पुरुषः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्त्वा॑भिचे॒रुः पुरु॑षः॒ स्वो यदर॑णो॒ जनः॑।  
 उ॑न्मोचनप्रमोच॒ने उ॒भे वा॒चा व॑दामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ From thy vicinity I call, from near, from far, from night at hand. Stay here: de
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/02_yattvAbhicheruH_puruShaH.md">
 <details open><summary><h3>०२ यत्त्वाभिचेरुः पुरुषः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ If any man, a stranger or akin, hath cast a spell on thee, I with my voice to th
 </div>
 
 ## ०३ यद्दुद्रोहिथ शेपिषे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्दु॒द्रोहि॑थ शेपि॒षे स्त्रि॒यै पुं॒से अचि॑त्त्या।  
 उ॑न्मोचनप्रमोच॒ने उ॒भे वा॒चा व॑दामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ If any man, a stranger or akin, hath cast a spell on thee, I with my voice to th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/03_yaddudrohitha_shepiShe.md">
 <details open><summary><h3>०३ यद्दुद्रोहिथ शेपिषे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -228,14 +228,14 @@ If in thy folly thou hast lied or cursed a woman or a man, I with my voice decla
 </div>
 
 ## ०४ यदेनसो मातृकृताच्छेषे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदेन॑सो मा॒तृकृ॑ता॒च्छेषे॑ पि॒तृकृ॑ताच्च॒ यत्।  
 उ॑न्मोचनप्रमोच॒ने उ॒भे वा॒चा व॑दामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -244,7 +244,7 @@ If in thy folly thou hast lied or cursed a woman or a man, I with my voice decla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/04_yadenaso_mAtRkRtAchCheShe.md">
 <details open><summary><h3>०४ यदेनसो मातृकृताच्छेषे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -291,14 +291,14 @@ If thou art lying there because of mother's or of father's sin, I with my voice 
 </div>
 
 ## ०५ यत्ते माता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/05_yatte_mAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/05_yatte_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ मा॒ता यत्ते॑ पि॒ता जा॒मिर्भ्राता॑ च॒ सर्ज॑तः।  
 प्र॒त्यक्से॑वस्व भेष॒जं ज॒रद॑ष्टिं कृणोमि त्वा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/05_yatte_mAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/05_yatte_mAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -307,7 +307,7 @@ If thou art lying there because of mother's or of father's sin, I with my voice 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/05_yatte_mAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/05_yatte_mAtA.md">
 <details open><summary><h3>०५ यत्ते माता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -358,14 +358,14 @@ Accept the healing medicine, the balm thy mother and thy sire, Thy sister and th
 </div>
 
 ## ०६ इहैधि पुरुष
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैधि॑ पुरुष॒ सर्वे॑ण॒ मन॑सा स॒ह।  
 दू॒तौ य॒मस्य॒ मानु॑ गा॒ अधि॑ जीवपु॒रा इ॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -374,7 +374,7 @@ Accept the healing medicine, the balm thy mother and thy sire, Thy sister and th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/06_ihaidhi_puruSha.md">
 <details open><summary><h3>०६ इहैधि पुरुष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -423,14 +423,14 @@ O man, stay here among us; stay with all thy spirit: follow not Yama's two messe
 </div>
 
 ## ०७ अनुहूतः पुनरेहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑हूतः॒ पुन॒रेहि॑ वि॒द्वानु॒दय॑नं प॒थः।  
 आ॒रोह॑णमा॒क्रम॑णं॒ जीव॑तोजीव॒तोऽय॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -439,7 +439,7 @@ O man, stay here among us; stay with all thy spirit: follow not Yama's two messe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/07_anuhUtaH_punarehi.md">
 <details open><summary><h3>०७ अनुहूतः पुनरेहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -485,14 +485,14 @@ Come back as thou art called to come, knowing the outlet of the path, And the Ap
 </div>
 
 ## ०८ मा बिभेर्न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/08_mA_bibherna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/08_mA_bibherna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा बि॑भे॒र्न म॑रिष्यसि ज॒रद॑ष्टिं कृणोमि त्वा।  
 निर॑वोचम॒हं यक्ष्म॒मङ्गे॑भ्यो अङ्गज्व॒रं तव॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/08_mA_bibherna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/08_mA_bibherna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -501,7 +501,7 @@ Come back as thou art called to come, knowing the outlet of the path, And the Ap
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/08_mA_bibherna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/08_mA_bibherna.md">
 <details open><summary><h3>०८ मा बिभेर्न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -548,14 +548,14 @@ Be not alarmed: thou wilt not die. I give thee lengthened years of life. Forth f
 </div>
 
 ## ०९ अङ्गभेदो अङ्गज्वरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ङ्गभे॒दो अ॑ङ्गज्व॒रो यश्च॑ ते हृदयाम॒यः।  
 यक्ष्मः॑ श्ये॒न इ॑व॒ प्राप॑प्तद्व॒चा सा॒ढः प॑रस्त॒राम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -564,7 +564,7 @@ Be not alarmed: thou wilt not die. I give thee lengthened years of life. Forth f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/09_angabhedo_angajvaro.md">
 <details open><summary><h3>०९ अङ्गभेदो अङ्गज्वरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -614,14 +614,14 @@ Gone is the pain that racked thee, gone thy fever, gone thy heart's disease. Con
 </div>
 
 ## १० ऋषी बोधप्रतीबोधावस्वप्नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋषी॑ बोधप्रतीबो॒धाव॑स्व॒प्नो यश्च॒ जागृ॑विः।  
 तौ ते॑ प्रा॒णस्य॑ गो॒प्तारौ॒ दिवा॒ नक्तं॑ च जागृताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -630,7 +630,7 @@ Gone is the pain that racked thee, gone thy fever, gone thy heart's disease. Con
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/10_RShI_bodhapratIbodhAvasvapno.md">
 <details open><summary><h3>१० ऋषी बोधप्रतीबोधावस्वप्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -679,14 +679,14 @@ Two sages, Sense and Vigilance, the sleepless and the watchful one, These, the p
 </div>
 
 ## ११ अयमग्निरुपसद्य इह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यम॒ग्निरु॑प॒सद्य॑ इ॒ह सूर्य॒ उदे॑तु ते।  
 उ॒देहि॑ मृ॒त्योर्ग॑म्भी॒रात्कृ॒ष्णाच्चि॒त्तम॑स॒स्परि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -695,7 +695,7 @@ Two sages, Sense and Vigilance, the sleepless and the watchful one, These, the p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/11_ayamagnirupasadya_iha.md">
 <details open><summary><h3>११ अयमग्निरुपसद्य इह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -742,14 +742,14 @@ This Agni must be waited on. Here let the Sun mount up for thee. Rise from deep 
 </div>
 
 ## १२ नमो यमाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/12_namo_yamAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/12_namo_yamAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमो॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॒ नमः॑ पि॒तृभ्य॑ उ॒त ये नय॑न्ति।  
 उ॒त्पार॑णस्य॒ यो वेद॒ तम॒ग्निं पु॒रो द॑धे॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/12_namo_yamAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/12_namo_yamAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -758,7 +758,7 @@ This Agni must be waited on. Here let the Sun mount up for thee. Rise from deep 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/12_namo_yamAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/12_namo_yamAya.md">
 <details open><summary><h3>१२ नमो यमाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -810,14 +810,14 @@ Homage be paid to Yama, to Mrityu, and to the Fathers, and to those who guide us
 </div>
 
 ## १३ ऐतु प्राण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/13_aitu_prANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/13_aitu_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऐतु॑ प्रा॒ण ऐतु॒ मन॒ ऐतु॒ चक्षु॒रथो॒ बल॑म्।  
 शरी॑रमस्य॒ सम्वि॑दां॒ तत्प॒द्भ्यां प्रति॑ तिष्ठतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/13_aitu_prANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/13_aitu_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -826,7 +826,7 @@ Homage be paid to Yama, to Mrityu, and to the Fathers, and to those who guide us
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/13_aitu_prANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/13_aitu_prANa.md">
 <details open><summary><h3>१३ ऐतु प्राण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -876,14 +876,14 @@ Let breath and mind return to him, let sight and vigour come again Let all his b
 </div>
 
 ## १४ प्राणेनाग्ने चक्षुषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णेना॑ग्ने॒ चक्षु॑षा॒ सं सृ॑जे॒मं समी॑रय त॒न्वा॒३॒॑ सं बले॑न।  
 वेत्था॒मृत॑स्य॒ मा नु गा॒न्मा नु भूमि॑गृहो भुवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -892,7 +892,7 @@ Let breath and mind return to him, let sight and vigour come again Let all his b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/14_prANenAgne_chaxuShA.md">
 <details open><summary><h3>१४ प्राणेनाग्ने चक्षुषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -941,14 +941,14 @@ Provide this man with breath and sight, O Agni, and with his body and his streng
 </div>
 
 ## १५ मा ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/15_mA_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/15_mA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा ते॑ प्रा॒ण उप॑ दस॒न्मो अ॑पा॒नोऽपि॑ धायि ते।  
 सूर्य॒स्त्वाधि॑पतिर्मृ॒त्योरु॒दाय॑च्छतु र॒श्मिभिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/15_mA_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/15_mA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -957,7 +957,7 @@ Provide this man with breath and sight, O Agni, and with his body and his streng
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/15_mA_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/15_mA_te.md">
 <details open><summary><h3>१५ मा ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1003,14 +1003,14 @@ Let not thine inward breathing fail, let not thine outward breath be lost. Let S
 </div>
 
 ## १६ इयमन्तर्वदति जिह्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒यम॒न्तर्व॑दति जि॒ह्वा ब॒द्धा प॑निष्प॒दा।  
 त्वया॒ यक्ष्मं निर॑वोचं श॒तं रोपी॑श्च त॒क्मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1019,7 +1019,7 @@ Let not thine inward breathing fail, let not thine outward breath be lost. Let S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/16_iyamantarvadati_jihvA.md">
 <details open><summary><h3>१६ इयमन्तर्वदति जिह्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1069,7 +1069,7 @@ Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I 
 </div>
 
 ## १७ अयं लोकः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं लो॒कः प्रि॒यत॑मो दे॒वाना॒मप॑राजितः।  
@@ -1077,7 +1077,7 @@ Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I 
 स च॒ त्वानु॑ ह्वयामसि॒ मा पु॒रा ज॒रसो॑ मृथाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1087,7 +1087,7 @@ Tied, tremulously moving, here the tongue is speaking in the mouth. With thee I 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/030_dIghAyuShyam/17_ayaM_lokaH.md">
 <details open><summary><h3>१७ अयं लोकः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

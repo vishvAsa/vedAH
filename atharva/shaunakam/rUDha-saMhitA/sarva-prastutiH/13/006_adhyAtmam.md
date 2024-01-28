@@ -2,7 +2,7 @@
 title = "००६ अध्यात्मम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/_index.md">
 <details open><summary><h2>००६ अध्यात्मम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -22,13 +22,13 @@ title = "००६ अध्यात्मम्"
 </div>
 
 ## ०१ ब्रह्म च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/01_brahma_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/01_brahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॑ च॒ तप॑श्च की॒र्तिश्च॒ यश॑श्चाम्भश्च॒ नभ॑श्च ब्राह्मणवर्च॒सं चान्नं॑ चा॒न्नाद्यं॑ च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/01_brahma_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/01_brahma_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -36,7 +36,7 @@ title = "००६ अध्यात्मम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/01_brahma_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/01_brahma_cha.md">
 <details open><summary><h3>०१ ब्रह्म च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -83,13 +83,13 @@ This is vs. 14 over again, with two more items prefixed.
 </div>
 
 ## ०२ भूतं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/02_bhUtaM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/02_bhUtaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भू॒तं च॒ भव्यं॑ च श्र॒द्धा च॒ रुचि॑श्च स्व॒र्गश्च॑ स्व॒धा च॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/02_bhUtaM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/02_bhUtaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -97,7 +97,7 @@ This is vs. 14 over again, with two more items prefixed.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/02_bhUtaM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/02_bhUtaM_cha.md">
 <details open><summary><h3>०२ भूतं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -146,13 +146,13 @@ evidently called for.
 </div>
 
 ## ०३ य एतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/03_ya_etam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/03_ya_etam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ए॒तं दे॒वमे॑क॒वृतं॒ वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/03_ya_etam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/03_ya_etam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -160,7 +160,7 @@ evidently called for.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/03_ya_etam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/03_ya_etam.md">
 <details open><summary><h3>०३ य एतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -206,13 +206,13 @@ separately described by the Anukr.
 </div>
 
 ## ०४ स एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/04_sa_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/04_sa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स ए॒व मृ॒त्युः सो॒३॒॑मृतं॒ सो॒३॒॑भ्वं१॒॑ स रक्षः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/04_sa_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/04_sa_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -220,7 +220,7 @@ separately described by the Anukr.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/04_sa_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/04_sa_eva.md">
 <details open><summary><h3>०४ स एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -268,13 +268,13 @@ read *só amṛ́taṁ só abhvàm.*
 </div>
 
 ## ०५ स रुद्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/05_sa_rudro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/05_sa_rudro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स रु॒द्रो व॑सु॒वनि॑र्वसु॒देये॑ नमोवा॒के व॑षट्का॒रोऽनु॒ संहि॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/05_sa_rudro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/05_sa_rudro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -282,7 +282,7 @@ read *só amṛ́taṁ só abhvàm.*
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/05_sa_rudro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/05_sa_rudro.md">
 <details open><summary><h3>०५ स रुद्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -336,13 +336,13 @@ we restore *-kāró ánu*.
 </div>
 
 ## ०६ तस्येमे सर्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/06_tasyeme_sarve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/06_tasyeme_sarve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्ये॒मे सर्वे॑ या॒तव॒ उप॑ प्र॒शिष॑मासते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/06_tasyeme_sarve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/06_tasyeme_sarve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -350,7 +350,7 @@ we restore *-kāró ánu*.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/06_tasyeme_sarve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/06_tasyeme_sarve.md">
 <details open><summary><h3>०६ तस्येमे सर्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -395,13 +395,13 @@ we restore *-kāró ánu*.
 </div>
 
 ## ०७ तस्यामू सर्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॒मू सर्वा॒ नक्ष॑त्रा॒ वशे॑ च॒न्द्रम॑सा स॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -409,7 +409,7 @@ we restore *-kāró ánu*.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/006_adhyAtmam/07_tasyAmU_sarvA.md">
 <details open><summary><h3>०७ तस्यामू सर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

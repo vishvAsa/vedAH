@@ -2,7 +2,7 @@
 title = "०१९ प्रजाः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/_index.md">
 <details open><summary><h2>०१९ प्रजाः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for prosperity
 </div>
 
 ## ०१ प्रजापतिर्जनयति प्रजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑तिर्जनयति प्र॒जा इ॒मा धा॒ता द॑धातु सुमन॒स्यमा॑नः।  
 सं॑जाना॒नाः संम॑नसः॒ सयो॑नयो॒ मयि॑ पु॒ष्टं पु॑ष्ट॒पति॑र्दधातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/019_prajAH/01_prajApatirjanayati_prajA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/019_prajAH/01_prajApatirjanayati_prajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/019_prajAH/01_prajApatirjanayati_prajA.md">
 <details open><summary><h3>०१ प्रजापतिर्जनयति प्रजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

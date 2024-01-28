@@ -2,7 +2,7 @@
 title = "०३३ यक्ष्मविबर्हणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/_index.md">
 <details open><summary><h2>०३३ यक्ष्मविबर्हणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ I
 </div>
 
 ## ०१ अक्षीभ्यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां॒ छुबु॑का॒दधि॑।  
 यक्ष्मं॑ शीर्ष॒ण्यं॑ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ I
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/01_axIbhyAM_te.md">
 <details open><summary><h3>०१ अक्षीभ्यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ From both thy nostrils, from both eyes, from both thine ears, and from thy chin,
 </div>
 
 ## ०२ ग्रीवाभ्यस्त उष्णिहाभ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्या॑त्।  
 यक्ष्मं॑ दोष॒ण्य१॒॑मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ From both thy nostrils, from both eyes, from both thine ears, and from thy chin,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/02_grIvAbhyasta_uShNihAbhyaH.md">
 <details open><summary><h3>०२ ग्रीवाभ्यस्त उष्णिहाभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Forth from the neck and from the nape, from dorsal vertebrae and spine. From arm
 </div>
 
 ## ०३ हृदयात्ते परि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हृद॑यात्ते॒ परि॑ क्लो॒म्नो हली॑क्ष्णात्पा॒र्श्वाभ्या॑म्।  
 यक्ष्मं॒ मत॑स्नाभ्यां प्ली॒ह्नो य॒क्नस्ते॒ वि वृ॑हामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Forth from the neck and from the nape, from dorsal vertebrae and spine. From arm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/03_hRdayAtte_pari.md">
 <details open><summary><h3>०३ हृदयात्ते परि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -225,14 +225,14 @@ Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, Fr
 </div>
 
 ## ०४ आन्त्रेभ्यस्ते गुदाभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोरु॒दरा॒दधि॑।  
 यक्ष्मं॑ कु॒क्षिभ्या॑म्प्ला॒शेर्नाभ्या॒ वि वृ॑हामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -241,7 +241,7 @@ Forth from thy heart and from thy lungs, from thy gall-bladder and thy sides, Fr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/04_Antrebhyaste_gudAbhyo.md">
 <details open><summary><h3>०४ आन्त्रेभ्यस्ते गुदाभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -294,14 +294,14 @@ From bowels and intestines, from the rectum and the belly, I Extirpate thy Consu
 </div>
 
 ## ०५ ऊरुभ्यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒रुभ्यां॑ ते अष्ठी॒वद्भ्यां॒ पार्ष्णि॑भ्यां॒ प्रप॑दाभ्याम्।  
 यक्ष्मं॑ भस॒द्यं१॒॑ श्रोणि॑भ्यां॒ भास॑दं॒ भंस॑सो॒ वि वृ॑हामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -310,7 +310,7 @@ From bowels and intestines, from the rectum and the belly, I Extirpate thy Consu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/05_UrubhyAM_te.md">
 <details open><summary><h3>०५ ऊरुभ्यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -364,14 +364,14 @@ Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet.
 </div>
 
 ## ०६ अस्थिभ्यस्ते मज्जभ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्थिभ्य॑स्ते म॒ज्जभ्यः॒ स्नाव॑भ्यो ध॒मनि॑भ्यः।  
 यक्ष्म॑म्पा॒णिभ्या॑म॒ङ्गुलि॑भ्यो न॒खेभ्यो॒ वि वृ॑हामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -380,7 +380,7 @@ Forth from thy thighs and from thy knees, heels and the fore- parts of thy feet.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/06_asthibhyaste_majjabhyaH.md">
 <details open><summary><h3>०६ अस्थिभ्यस्ते मज्जभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -430,14 +430,14 @@ Forth from thy marrows and thy bones, forth from thy tendons and thy veins I ban
 </div>
 
 ## ०७ अङ्गेअङ्गे लोम्निलोम्नि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अङ्गेअ॑ङ्गे॒ लोम्नि॑लोम्नि॒ यस्ते॒ पर्व॑णिपर्वणि।  
 यक्ष्मं॑ त्वच॒स्यं॑ ते व॒यं क॒श्यप॑स्य वीब॒र्हेण॒ विष्व॑ञ्चं॒ वि वृ॑हामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -446,7 +446,7 @@ Forth from thy marrows and thy bones, forth from thy tendons and thy veins I ban
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/033_yaxmavibarhaNam/07_angeange_lomnilomni.md">
 <details open><summary><h3>०७ अङ्गेअङ्गे लोम्निलोम्नि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

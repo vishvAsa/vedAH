@@ -2,7 +2,7 @@
 title = "०२५ ज्वर-नाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/_index.md">
 <details open><summary><h2>०२५ ज्वर-नाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to fever, as a charm against his attacks
 </div>
 
 ## ०१ यदग्निरापो अदहत्प्रविश्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒ग्निरापो॒ अद॑हत्प्र॒विश्य॒ यत्राकृ॑ण्वन्धर्म॒धृतो॒ नमां॑सि।  
 तत्र॑ त आहुः पर॒मं ज॒नित्रं॒ स नः॑ संवि॒द्वान्परि॑ वृङ्ग्धि तक्मन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to fever, as a charm against his attacks
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/01_yadagnirApo_adahatpravishya.md">
 <details open><summary><h3>०१ यदग्निरापो अदहत्प्रविश्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ When Agni blazed when he had pierced the Waters, whereat the Law-observers paid 
 </div>
 
 ## ०२ यद्यर्चिर्यदि वासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्य॒र्चिर्यदि॒ वासि॑ शो॒चिः श॑कल्ये॒षि यदि॑ वा ते ज॒नित्र॑म्।  
 ह्रूडु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान्परि॑ वृङ्ग्धि तक्मन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ When Agni blazed when he had pierced the Waters, whereat the Law-observers paid 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/02_yadyarchiryadi_vAsi.md">
 <details open><summary><h3>०२ यद्यर्चिर्यदि वासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -187,14 +187,14 @@ If thou be fiery glow, or inflammation, or if thy birthplace call for chips of f
 </div>
 
 ## ०३ यदि शोको
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/03_yadi_shoko.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/03_yadi_shoko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ शो॒को यदि॑ वाभिशो॒को यदि॑ वा॒ राज्ञो॒ वरु॑ण॒स्यासि॑ पु॒त्रः।  
 ह्रूडु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान्परि॑ वृङ्ग्धि तक्मन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/03_yadi_shoko.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/03_yadi_shoko.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -203,7 +203,7 @@ If thou be fiery glow, or inflammation, or if thy birthplace call for chips of f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/03_yadi_shoko.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/03_yadi_shoko.md">
 <details open><summary><h3>०३ यदि शोको ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -250,14 +250,14 @@ Be thou distress, or agonizing torment, be thou the son King Varuna hath begotte
 </div>
 
 ## ०४ नमः शीताय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/04_namaH_shItAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/025_jvara-nAshanam/04_namaH_shItAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमः॑ शी॒ताय॑ त॒क्मने॒ नमो॑ रू॒राय॑ शो॒चिषे॑ कृणोमि।  
 यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येति॒ तृती॑यकाय॒ नमो॑ अस्तु त॒क्मने॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/04_namaH_shItAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/025_jvara-nAshanam/04_namaH_shItAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -266,7 +266,7 @@ Be thou distress, or agonizing torment, be thou the son King Varuna hath begotte
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/04_namaH_shItAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/025_jvara-nAshanam/04_namaH_shItAya.md">
 <details open><summary><h3>०४ नमः शीताय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१८ दवृष्टिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/_index.md">
 <details open><summary><h2>०१८ दवृष्टिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A prayer for rain
 </div>
 
 ## ०१ प्र नभस्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/01_pra_nabhasva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/01_pra_nabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र न॑भस्व पृथिवि भि॒न्द्धी॒३॒॑दं दि॒व्यं नभः॑।  
 उ॒द्नो दि॒व्यस्य॑ नो धात॒रीशा॑नो॒ वि ष्या॒ दृति॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/01_pra_nabhasva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/01_pra_nabhasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A prayer for rain
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/01_pra_nabhasva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/01_pra_nabhasva.md">
 <details open><summary><h3>०१ प्र नभस्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 </div>
 
 ## ०२ न घ्रंस्तताप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/02_na_ghraMstatApa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न घ्रंस्त॑ताप॒ न हि॒मो ज॑घान॒ प्र न॑भतां पृथि॒वी जी॒रदा॑नुः।  
 आप॑श्चिदस्मै घृ॒तमित्क्ष॑रन्ति॒ यत्र॒ सोमः॒ सद॒मित्तत्र॑ भ॒द्रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/02_na_ghraMstatApa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ Burst open, Prithvi, and cleave asunder this celestial cloud. Untie, O Dhatar--f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/02_na_ghraMstatApa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/018_davRShTiH/02_na_ghraMstatApa.md">
 <details open><summary><h3>०२ न घ्रंस्तताप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

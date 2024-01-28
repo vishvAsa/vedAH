@@ -2,7 +2,7 @@
 title = "०४० अभयम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/_index.md">
 <details open><summary><h2>०४० अभयम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for peace and security
 </div>
 
 ## ०१ अभयं द्यावापृथिवी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु।  
 अभ॑यं नोऽस्तू॒र्व१॒॑न्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for peace and security
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/01_abhayaM_dyAvApRthivI.md">
 <details open><summary><h3>०१ अभयं द्यावापृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us s
 </div>
 
 ## ०२ अस्मै ग्रामाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/02_asmai_grAmAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/02_asmai_grAmAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु।  
 अ॑श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/02_asmai_grAmAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/02_asmai_grAmAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Here may we dwell, O Heaven and Earth, in safety. May Savitar and Soma send us s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/02_asmai_grAmAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/02_asmai_grAmAya.md">
 <details open><summary><h3>०२ अस्मै ग्रामाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ May the Four Quarters give this hamlet power: Savitar favour us and make us happ
 </div>
 
 ## ०३ अनमित्रं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/03_anamitraM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/040_abhayam/03_anamitraM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नमि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्।  
 इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/03_anamitraM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/040_abhayam/03_anamitraM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ May the Four Quarters give this hamlet power: Savitar favour us and make us happ
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/03_anamitraM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/040_abhayam/03_anamitraM_no.md">
 <details open><summary><h3>०३ अनमित्रं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

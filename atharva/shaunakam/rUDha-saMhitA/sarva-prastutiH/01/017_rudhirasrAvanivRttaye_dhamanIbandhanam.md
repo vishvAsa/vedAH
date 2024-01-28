@@ -2,7 +2,7 @@
 title = "०१७ रुधिरस्रावनिवृत्तये धमनीबन्धनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/_index.md">
 <details open><summary><h2>०१७ रुधिरस्रावनिवृत्तये धमनीबन्धनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to be used at venesection
 </div>
 
 ## ०१ अमूर्या यन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः।  
 अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to be used at venesection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/01_amUryA_yanti.md">
 <details open><summary><h3>०१ अमूर्या यन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 </div>
 
 ## ०२ तिष्ठावरे तिष्ठ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे।  
 क॑निष्ठि॒का च॒ तिष्ठ॑ति तिष्ठा॒दिद्ध॒मनि॑र्म॒ही ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Those maidens there, the veins, who run their course in robes of ruddy hue, Must
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/02_tiShThAvare_tiShTha.md">
 <details open><summary><h3>०२ तिष्ठावरे तिष्ठ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 </div>
 
 ## ०३ शतस्य धमनीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्।  
 अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Stay still, thou upper vein, stay still, thou lower, stay, thou midmost one, The
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/03_shatasya_dhamanInAm.md">
 <details open><summary><h3>०३ शतस्य धमनीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -229,14 +229,14 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 </div>
 
 ## ०४ परि वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्य॑क्रमीत्।  
 तिष्ठ॑ते॒लय॑ता॒ सु क॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -245,7 +245,7 @@ Among a thousand vessels charged with blood, among a thousand veins, Even these 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/017_rudhirasrAvanivRttaye_dhamanIbandhanam/04_pari_vaH.md">
 <details open><summary><h3>०४ परि वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

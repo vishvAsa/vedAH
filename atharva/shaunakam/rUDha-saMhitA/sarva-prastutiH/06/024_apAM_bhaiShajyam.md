@@ -2,7 +2,7 @@
 title = "०२४ अपां भैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/_index.md">
 <details open><summary><h2>०२४ अपां भैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To the Rivers
 </div>
 
 ## ०१ हिमवतः प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः।  
 आपो॑ ह॒ मह्यं॒ तद्दे॒वीर्दद॑न्हृ॒द्द्योत॑भेष॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To the Rivers
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/01_himavataH_pra.md">
 <details open><summary><h3>०१ हिमवतः प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 </div>
 
 ## ०२ यन्मे अक्ष्योरादिद्योत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्।  
 आप॒स्तत्सर्वं॒ निष्क॑रन्भि॒षजां॒ सुभि॑षक्तमाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Forth from the Hills of Snow they stream, and meet in Sindhu here or there. To m
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/02_yanme_axyorAdidyota.md">
 <details open><summary><h3>०२ यन्मे अक्ष्योरादिद्योत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 </div>
 
 ## ०३ सिन्धुपत्नीः सिन्धुराज्ञीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सि॑न्धुपत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य१॒॑ स्थन॑।  
 द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Whatever rupture I have had that injured eyes or heels or toes. All this the Wat
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/024_apAM_bhaiShajyam/03_sindhupatnIH_sindhurAjnIH.md">
 <details open><summary><h3>०३ सिन्धुपत्नीः सिन्धुराज्ञीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

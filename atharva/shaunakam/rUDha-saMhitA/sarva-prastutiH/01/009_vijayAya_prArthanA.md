@@ -2,7 +2,7 @@
 title = "००९ विजयाय प्रार्थना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/_index.md">
 <details open><summary><h2>००९ विजयाय प्रार्थना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Benediction on a King at his inauguration
 </div>
 
 ## ०१ अस्मिन्वसु वसवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्मिन्वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः।  
 इ॒ममा॑दि॒त्या उ॒त विश्वे॑ च दे॒वा उत्त॑रस्मि॒ञ्ज्योति॑षि धारयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Benediction on a King at his inauguration
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/01_asminvasu_vasavo.md">
 <details open><summary><h3>०१ अस्मिन्वसु वसवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in ri
 </div>
 
 ## ०२ अस्य देवाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्य दे॑वाः प्र॒दिशि॒ ज्योति॑रस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्।  
 स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/02_asya_devAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ May Indra, Pushan, Varuria, Mitra, Agni, benignant Gods, maintain this man in ri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/02_asya_devAH.md">
 <details open><summary><h3>०२ अस्य देवाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and
 </div>
 
 ## ०३ येनेन्द्राय समभरः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः।  
 तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ May light, O Gods, be under his dominion, Agni, the Sun, all; that is bright and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/03_yenendrAya_samabharaH.md">
 <details open><summary><h3>०३ येनेन्द्राय समभरः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to
 </div>
 
 ## ०४ ऐषां यज्ञमुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने।  
 स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ Through that most mighty prayer, O Jatavedas, wherewith thou. broughtest milk to
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/009_vijayAya_prArthanA/04_aiShAM_yajnamuta.md">
 <details open><summary><h3>०४ ऐषां यज्ञमुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

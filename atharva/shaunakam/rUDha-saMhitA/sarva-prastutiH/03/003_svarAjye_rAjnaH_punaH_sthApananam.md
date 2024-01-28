@@ -2,7 +2,7 @@
 title = "००३ स्वराज्ये राज्ञः पुनः स्थापननम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/_index.md">
 <details open><summary><h2>००३ स्वराज्ये राज्ञः पुनः स्थापननम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the restoration of an expelled king
 </div>
 
 ## ०१ अचिक्रदत्स्वपा इह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अचि॑क्रदत्स्व॒पा इ॒ह भु॑व॒दग्ने॒ व्य॑चस्व॒ रोद॑सी उरू॒ची।  
 यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आमुं न॑य॒ नम॑सा रा॒तह॑व्यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the restoration of an expelled king
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/01_achikradatsvapA_iha.md">
 <details open><summary><h3>०१ अचिक्रदत्स्वपा इह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -119,14 +119,14 @@ Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth 
 </div>
 
 ## ०२ दूरे चित्सन्तमरुषास
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दू॒रे चि॒त्सन्त॑मरु॒षास॒ इन्द्र॒मा च्या॑वयन्तु स॒ख्याय॒ विप्र॑म्।  
 यद्गा॑य॒त्रीं बृ॑ह॒तीम॒र्कम॑स्मै सौत्राम॒ण्या दधृ॑षन्त दे॒वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -135,7 +135,7 @@ Loudly he roared. Here let him labour deftly. Spread, Agni, over spacious earth 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/02_dUre_chitsantamaruShAsa.md">
 <details open><summary><h3>०२ दूरे चित्सन्तमरुषास ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -194,14 +194,14 @@ Though he be far away, let the red horses bring Indra, bring the sage to us and 
 </div>
 
 ## ०३ अद्भ्यस्त्वा राज
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒द्भ्यस्त्वा॒ राज॒ वरु॑णो ह्वयतु॒ सोम॑स्त्वा ह्वयतु॒ पर्व॑तेभ्यः।  
 इन्द्र॑स्त्वा ह्वयतु वि॒ड्भ्य आ॒भ्यः श्ये॒नो भू॒त्वा विश॒ आ प॑ते॒माः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -210,7 +210,7 @@ Though he be far away, let the red horses bring Indra, bring the sage to us and 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/03_adbhyastvA_rAja.md">
 <details open><summary><h3>०३ अद्भ्यस्त्वा राज ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -262,14 +262,14 @@ King Varuna call thee hither from the waters! From hills and mountains Soma call
 </div>
 
 ## ०४ श्येनो हव्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्ये॒नो ह॒व्यं न॑य॒त्वा पर॑स्मादन्यक्षे॒त्रे अप॑रुद्धं॒ चर॑न्तम्।  
 अ॒श्विना॒ पन्थां॑ कृणुतां सु॒गं त॑ इ॒मं स॑जाता अभि॒संवि॑शध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -278,7 +278,7 @@ King Varuna call thee hither from the waters! From hills and mountains Soma call
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/04_shyeno_havyam.md">
 <details open><summary><h3>०४ श्येनो हव्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -331,14 +331,14 @@ May the hawk bring the man who must be summoned, from far away, in alien land, a
 </div>
 
 ## ०५ ह्वयन्तु त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह्वय॑न्तु त्वा प्रतिज॒नाः प्रति॑ मि॒त्रा अ॑वृषत।  
 इ॑न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते॑ वि॒शि क्षेम॑मदीधरन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -347,7 +347,7 @@ May the hawk bring the man who must be summoned, from far away, in alien land, a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/05_hvayantu_tvA.md">
 <details open><summary><h3>०५ ह्वयन्तु त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ Let thine opponents call thee back. Thy friends have chosen, thee again. Indra a
 </div>
 
 ## ०६ यस्ते हवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॒ हवं॑ वि॒वद॑त्सजा॒तो यश्च॒ निष्ट्यः॑।  
 अपा॑ञ्चमिन्द्र॒ तं कृ॒त्वाथे॒ममि॒हाव॑ गमय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ Let thine opponents call thee back. Thy friends have chosen, thee again. Indra a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/003_svarAjye_rAjnaH_punaH_sthApananam/06_yaste_havam.md">
 <details open><summary><h3>०६ यस्ते हवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "१२१ सुकृतलोकप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/_index.md">
 <details open><summary><h2>१२१ सुकृतलोकप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 442; Zimmer, p. 182 (3 vss.); Griffith, i. 311.
 </div>
 
 ## ०१ विषाणा पाशान्वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒षाणा॒ पाशा॒न्वि ष्याध्य॒स्मद्य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये।  
 दु॒ष्वप्न्यं॑ दुरि॒तं निःष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 442; Zimmer, p. 182 (3 vss.); Griffith, i. 311.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/01_viShANA_pAshAnvi.md">
 <details open><summary><h3>०१ विषाणा पाशान्वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and
 </div>
 
 ## ०२ यद्दारुणि बध्यसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद्भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा।  
 अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ Spreading them out, untie the snares that hold us, Varuna's bonds, the upper and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/02_yaddAruNi_badhyase.md">
 <details open><summary><h3>०२ यद्दारुणि बध्यसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ If thou art bound with cord or tied to timber, fixt in the earth, or by a word i
 </div>
 
 ## ०३ उदगातां भगवती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
 प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ If thou art bound with cord or tied to timber, fixt in the earth, or by a word i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/03_udagAtAM_bhagavatI.md">
 <details open><summary><h3>०३ उदगातां भगवती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -240,14 +240,14 @@ The two auspicious stars whose name is called Releasers have gone up. Send Amrit
 </div>
 
 ## ०४ वि जिहीष्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्।  
 योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वाँ॒ अनु॑ क्षिय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -256,7 +256,7 @@ The two auspicious stars whose name is called Releasers have gone up. Send Amrit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/121_sukRtalokaprAptiH/04_vi_jihIShva.md">
 <details open><summary><h3>०४ वि जिहीष्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

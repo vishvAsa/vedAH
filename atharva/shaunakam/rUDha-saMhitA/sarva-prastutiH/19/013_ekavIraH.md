@@ -2,7 +2,7 @@
 title = "०१३ एकवीरः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/_index.md">
 <details open><summary><h2>०१३ एकवीरः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for aid and victory in battle
 </div>
 
 ## ०१ इन्द्रस्य बाहू
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/01_indrasya_bAhU.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/01_indrasya_bAhU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य बा॒हू स्थवि॑रौ॒ वृषा॑णौ चि॒त्रा इ॒मा वृ॑ष॒भौ पा॑रयि॒ष्णू।  
 तौ यो॑क्षे प्रथ॒मो योग॒ आग॑ते॒ याभ्यां॑ जि॒तमसु॑राणां॒ स्व१॒॑र्यत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/01_indrasya_bAhU.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/01_indrasya_bAhU.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for aid and victory in battle
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/01_indrasya_bAhU.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/01_indrasya_bAhU.md">
 <details open><summary><h3>०१ इन्द्रस्य बाहू ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -119,14 +119,14 @@ These the two sturdy, manly arms of Indra, these that are won- drous, mighty, an
 </div>
 
 ## ०२ आशुः शिशानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/02_AshuH_shishAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/02_AshuH_shishAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षनीनाम्।  
 सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/02_AshuH_shishAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/02_AshuH_shishAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -135,7 +135,7 @@ These the two sturdy, manly arms of Indra, these that are won- drous, mighty, an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/02_AshuH_shishAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/02_AshuH_shishAno.md">
 <details open><summary><h3>०२ आशुः शिशानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -186,14 +186,14 @@ Swift, like a dread bull sharpening his weapons, rapidly striking, stirring up t
 </div>
 
 ## ०३ सङ्क्रन्दनेनानिमिषेण जिष्णुनाऽयोध्येन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒क्रन्द॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ऽयो॒ध्येन॑ दुश्च्यव॒नेन॑ धृ॒ष्णुना॑।  
 तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -202,7 +202,7 @@ Swift, like a dread bull sharpening his weapons, rapidly striking, stirring up t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/03_sankrandanenAnimiSheNa_jiShNunA-yodhyena.md">
 <details open><summary><h3>०३ सङ्क्रन्दनेनानिमिषेण जिष्णुनाऽयोध्येन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -253,14 +253,14 @@ With him loud-roaring, ever watchful, victor bold, hard to over- throw, whom non
 </div>
 
 ## ०४ स इषुहस्तैः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/04_sa_iShuhastaiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/04_sa_iShuhastaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स इषु॑हस्तैः॒ स नि॑ष॒ङ्गिभि॑र्व॒शी संस्र॑ष्टा॒ स युध॒ इन्द्रो॑ ग॒णेन॑।  
 सं॑सृष्ट॒जित्सो॑म॒पा बा॑हुश॒र्ध्यु१॒॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/04_sa_iShuhastaiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/04_sa_iShuhastaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -269,7 +269,7 @@ With him loud-roaring, ever watchful, victor bold, hard to over- throw, whom non
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/04_sa_iShuhastaiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/04_sa_iShuhastaiH.md">
 <details open><summary><h3>०४ स इषुहस्तैः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -327,14 +327,14 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 </div>
 
 ## ०५ बलविज्ञायः स्थविरः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब॑लविज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः।  
 अ॒भिवी॑रो अ॒भिष॑त्वा सहो॒जिज्जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒विद॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -343,7 +343,7 @@ He rules with those who carry shafts and quivers, Indra who with his hand brings
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/05_balavijnAyaH_sthaviraH.md">
 <details open><summary><h3>०५ बलविज्ञायः स्थविरः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -406,14 +406,14 @@ Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorio
 </div>
 
 ## ०६ इमं वीरमनु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/06_imaM_vIramanu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/06_imaM_vIramanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
 ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/06_imaM_vIramanu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/06_imaM_vIramanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -422,7 +422,7 @@ Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorio
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/06_imaM_vIramanu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/06_imaM_vIramanu.md">
 <details open><summary><h3>०६ इमं वीरमनु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -475,14 +475,14 @@ Troop-vanquisher, kine-winner, armed with thunder, who quells an army and with m
 </div>
 
 ## ०७ अभि गोत्राणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/07_abhi_gotrANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/07_abhi_gotrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽदा॒य उ॒ग्रः श॒तम॑न्यु॒रिन्द्रः॑।  
 दु॑श्च्यव॒नः पृ॑तना॒षाड॑यो॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/07_abhi_gotrANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/07_abhi_gotrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -491,7 +491,7 @@ Troop-vanquisher, kine-winner, armed with thunder, who quells an army and with m
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/07_abhi_gotrANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/07_abhi_gotrANi.md">
 <details open><summary><h3>०७ अभि गोत्राणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -550,14 +550,14 @@ Piercing the cow-stalls with surpassing vigour, Indra the pitiless hero, wild wi
 </div>
 
 ## ०८ बृहस्पते परि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/08_bRhaspate_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/08_bRhaspate_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्राँ॑ अप॒बाध॑मानः।  
 प्र॑भ॒ञ्जञ्छत्रू॑न्प्रमृ॒णन्न॒मित्रा॑न॒स्माक॑मेध्यवि॒ता त॒नूना॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/08_bRhaspate_pari.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/08_bRhaspate_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -566,7 +566,7 @@ Piercing the cow-stalls with surpassing vigour, Indra the pitiless hero, wild wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/08_bRhaspate_pari.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/08_bRhaspate_pari.md">
 <details open><summary><h3>०८ बृहस्पते परि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -619,14 +619,14 @@ Brihaspati, fly with thy chariot hither, slayer of demons, driving. off our foem
 </div>
 
 ## ०९ इन्द्र एषाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/09_indra_eShAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/09_indra_eShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ एषां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑।  
 दे॑वसे॒नाना॑मभिभञ्जती॒नां जय॑न्तीनां म॒रुतो॑ यन्तु॒ मध्ये॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/09_indra_eShAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/09_indra_eShAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -635,7 +635,7 @@ Brihaspati, fly with thy chariot hither, slayer of demons, driving. off our foem
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/09_indra_eShAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/09_indra_eShAm.md">
 <details open><summary><h3>०९ इन्द्र एषाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -690,14 +690,14 @@ Indra guide these! Brihaspati, the Guerdon, and Soma, and the Sacrifice precede 
 </div>
 
 ## १० इन्द्रस्य वृष्णो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/10_indrasya_vRShNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/10_indrasya_vRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑ उ॒ग्रम्।  
 म॒हाम॑नसां भुवनच्य॒वानां॒ घोषो॑ दे॒वानां॒ जय॑ता॒मुद॑स्थात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/10_indrasya_vRShNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/10_indrasya_vRShNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -706,7 +706,7 @@ Indra guide these! Brihaspati, the Guerdon, and Soma, and the Sacrifice precede 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/10_indrasya_vRShNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/10_indrasya_vRShNo.md">
 <details open><summary><h3>१० इन्द्रस्य वृष्णो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -753,14 +753,14 @@ Ours be the potent host of mighty Indra, King Varuna, and Maruts and Adityas. Up
 </div>
 
 ## ११ अस्माकमिन्द्रः समृतेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्माक॒मिन्द्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यन्तु।  
 अ॒स्माकं॑ वी॒रा उत्त॑रे भवन्त्व॒स्मान्दे॑वासोऽवता॒ हवे॑षु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -769,7 +769,7 @@ Ours be the potent host of mighty Indra, King Varuna, and Maruts and Adityas. Up
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/013_ekavIraH/11_asmAkamindraH_samRteShu.md">
 <details open><summary><h3>११ अस्माकमिन्द्रः समृतेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

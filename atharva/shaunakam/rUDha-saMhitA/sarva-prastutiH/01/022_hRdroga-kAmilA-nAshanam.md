@@ -2,7 +2,7 @@
 title = "०२२ हृद्रोग-कामिला-नाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/_index.md">
 <details open><summary><h2>०२२ हृद्रोग-कामिला-नाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm against jaundice
 </div>
 
 ## ०१ अनु सूर्यमुदयताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॒ सूर्य॒मुद॑यतां हृद्द्यो॒तो ह॑रि॒मा च॑ ते।  
 गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm against jaundice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/01_anu_sUryamudayatAm.md">
 <details open><summary><h3>०१ अनु सूर्यमुदयताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 </div>
 
 ## ०२ परि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि।  
 यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ As the Sun rises, let thy sore disease and yellowness depart. We compass and sur
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/02_pari_tvA.md">
 <details open><summary><h3>०२ परि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Ppp. has a different second half-verse: *yathā tvam arapā 'so atho
 </div>
 
 ## ०३ या रोहिणीर्देवत्या३
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या रोहि॑णीर्देव॒त्या॑३ गावो॒ या उ॒त रोहि॑णीः।  
 रू॒पंरू॑पं॒ वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Ppp. has a different second half-verse: *yathā tvam arapā 'so atho
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/03_yA_rohiNIrdevatyA3.md">
 <details open><summary><h3>०३ या रोहिणीर्देवत्या३ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Rohiṇī, our Aldebaran. Ppp. reads *rohiṇīr devatyā*, and in **b**
 </div>
 
 ## ०४ सुकेषु ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि।  
 अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Rohiṇī, our Aldebaran. Ppp. reads *rohiṇīr devatyā*, and in **b**
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/022_hRdroga-kAmilA-nAshanam/04_sukeShu_te.md">
 <details open><summary><h3>०४ सुकेषु ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

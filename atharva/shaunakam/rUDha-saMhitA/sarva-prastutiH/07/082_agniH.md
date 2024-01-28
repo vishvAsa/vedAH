@@ -2,7 +2,7 @@
 title = "०८२ अग्निः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/_index.md">
 <details open><summary><h2>०८२ अग्निः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In praise of Agni
 </div>
 
 ## ०१ अभ्यर्चत सुष्टुतिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/01_abhyarchata_suShTutim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भ्य᳡र्चत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त।  
 इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवन्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/01_abhyarchata_suShTutim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In praise of Agni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/01_abhyarchata_suShTutim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/01_abhyarchata_suShTutim.md">
 <details open><summary><h3>०१ अभ्यर्चत सुष्टुतिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 </div>
 
 ## ०२ मय्यग्रे अग्निम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/02_mayyagre_agnim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/02_mayyagre_agnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मय्यग्रे॑ अ॒ग्निं गृ॑ह्णामि स॒ह क्ष॒त्रेण॒ वर्च॑सा॒ बले॑न।  
 मयि॑ प्र॒जां मय्यायु॑र्दधामि॒ स्वाहा॒ मय्य॒ग्निम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/02_mayyagre_agnim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/02_mayyagre_agnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Sing with fair laud the combat for the cattle. Bestow upon us excellent possessi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/02_mayyagre_agnim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/02_mayyagre_agnim.md">
 <details open><summary><h3>०२ मय्यग्रे अग्निम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 </div>
 
 ## ०३ इहैवाग्ने अधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/03_ihaivAgne_adhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/03_ihaivAgne_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैवाग्ने॒ अधि॑ धारया र॒यिं मा त्वा॒ नि क्र॒न्पूर्व॑चित्ता निका॒रिणः॑।  
 क्ष॒त्रेणा॑ग्ने सु॒यम॑मस्तु॒ तुभ्य॑मुपस॒त्ता व॑र्धतां ते॒ अनि॑ष्टृतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/03_ihaivAgne_adhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/03_ihaivAgne_adhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Agni I first appropriate with power, with splendour, and with might. I give myse
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/03_ihaivAgne_adhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/03_ihaivAgne_adhi.md">
 <details open><summary><h3>०३ इहैवाग्ने अधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -248,14 +248,14 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 </div>
 
 ## ०४ अन्वग्निरुषसामग्रमख्यदन्वहानि प्रथमो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अन्व॒ग्निरु॒षसा॒मग्र॑मख्य॒दन्वहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
 अनु॒ सूर्य॑ उ॒षसो॒ अनु॑ र॒श्मीननु॒ द्यावा॑पृथि॒वी आ वि॑वेश ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -264,7 +264,7 @@ Even here do thou, O Agni, stablish wealth: let not oppressors injure thee by th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/04_anvagniruShasAmagramakhyadanvahAni_prathamo.md">
 <details open><summary><h3>०४ अन्वग्निरुषसामग्रमख्यदन्वहानि प्रथमो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -318,14 +318,14 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 </div>
 
 ## ०५ प्रत्यग्निरुषसामग्रमख्यत्प्रति अहानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्य॒त्प्रति॒ अहा॑नि प्रथ॒मो जा॒तवे॑दाः।  
 प्रति॒ सूर्य॑स्य पुरु॒धा च॑ र॒श्मीन्प्रति॒ द्यावा॑पृथि॒वी आ त॑तान ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -334,7 +334,7 @@ Agni hath looked upon the spring of Morning, looked on the days, the earliest Ja
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/05_pratyagniruShasAmagramakhyatprati_ahAni.md">
 <details open><summary><h3>०५ प्रत्यग्निरुषसामग्रमख्यत्प्रति अहानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -385,14 +385,14 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 </div>
 
 ## ०६ घृतं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/06_ghRtaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/082_agniH/06_ghRtaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तं ते॑ अग्ने दि॒व्ये स॒धस्थे॑ घृ॒तेन॒ त्वां मनु॑र॒द्या समि॑न्धे।  
 घृ॒तं ते॑ दे॒वीर्न॒प्त्य१॒॑ आ व॑हन्तु घृ॒तं तुभ्यं॑ दुह्रतां॒ गावो॑ अग्ने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/06_ghRtaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/082_agniH/06_ghRtaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -401,7 +401,7 @@ Agni hath looked upon the spring of Mornings, looked on the days, the earliest J
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/06_ghRtaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/082_agniH/06_ghRtaM_te.md">
 <details open><summary><h3>०६ घृतं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "१०३ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/_index.md">
 <details open><summary><h2>१०३ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 518; Griffith, i. 301.
 </div>
 
 ## ०१ सन्दानं वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/01_sandAnaM_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/01_sandAnaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्।  
 सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/01_sandAnaM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/01_sandAnaM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 518; Griffith, i. 301.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/01_sandAnaM_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/01_sandAnaM_vo.md">
 <details open><summary><h3>०१ सन्दानं वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryama
 </div>
 
 ## ०२ सं परमान्त्समवमानथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्।  
 इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ Brihaspati and Savitar prepare a rope to bind you fast! Let Bhaga, Mitra, Aryama
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/02_saM_paramAntsamavamAnatho.md">
 <details open><summary><h3>०२ सं परमान्त्समवमानथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ I bind together all of them, the first, the last, the middlemost. Indra hath gir
 </div>
 
 ## ०३ अमी ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/03_amI_ye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/103_shatrunAshanam/03_amI_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मी ये युध॑मा॒यन्ति॑ के॒तून्कृ॒त्वानी॑क॒शः।  
 इन्द्र॒स्तान्पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/03_amI_ye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/103_shatrunAshanam/03_amI_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ I bind together all of them, the first, the last, the middlemost. Indra hath gir
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/03_amI_ye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/103_shatrunAshanam/03_amI_ye.md">
 <details open><summary><h3>०३ अमी ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

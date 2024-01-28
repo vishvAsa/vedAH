@@ -2,7 +2,7 @@
 title = "०२२ तक्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/_index.md">
 <details open><summary><h2>०२२ तक्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against fever
 </div>
 
 ## ०१ अग्निस्तक्मानमप बाधतामितः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निस्त॒क्मान॒मप॑ बाधतामि॒तः सोमो॒ ग्रावा॒ वरु॑णः पू॒तद॑क्षाः।  
 वेदि॑र्ब॒र्हिः स॒मिधः॒ शोशु॑चाना॒ अप॒ द्वेषां॑स्यमु॒या भ॑वन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against fever
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/01_agnistakmAnamapa_bAdhatAmitaH.md">
 <details open><summary><h3>०१ अग्निस्तक्मानमप बाधतामितः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, an
 </div>
 
 ## ०२ अयं यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/02_ayaM_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/02_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं यो विश्वा॒न्हरि॑तान्कृ॒णोष्यु॑च्छो॒चय॑न्न॒ग्निरि॑वाभिदु॒न्वन्।  
 अधा॒ हि त॑क्मन्नर॒सो हि भू॒या अधा॒ न्य॑ङ्ङध॒राङ् वा॒ परे॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/02_ayaM_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/02_ayaM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Hence, filled with holy strength let Agni, Soma, and Varuna, the Press-stone, an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/02_ayaM_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/02_ayaM_yo.md">
 <details open><summary><h3>०२ अयं यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ And thou thyself who makest all men yellow, consuming them with burning heat lik
 </div>
 
 ## ०३ यः परुषः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/03_yaH_paruShaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/03_yaH_paruShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः प॑रु॒षः पा॑रुषे॒योऽव॑ध्वं॒स इ॑वारु॒णः।  
 त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुवा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/03_yaH_paruShaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/03_yaH_paruShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ And thou thyself who makest all men yellow, consuming them with burning heat lik
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/03_yaH_paruShaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/03_yaH_paruShaH.md">
 <details open><summary><h3>०३ यः परुषः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Endowed with universal power! send Fever down-ward, far away, The spotty, like r
 </div>
 
 ## ०४ अधराञ्चं प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ध॒राञ्चं॒ प्र हि॑णो॒मि नमः॑ कृ॒त्वा त॒क्मने॑।  
 श॑कम्भ॒रस्य॑ मुष्टि॒हा पुन॑रेतु महावृ॒षान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/04_adharAnchaM_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/04_adharAnchaM_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Endowed with universal power! send Fever down-ward, far away, The spotty, like r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/04_adharAnchaM_pra.md">
 <details open><summary><h3>०४ अधराञ्चं प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -303,14 +303,14 @@ When I have paid obeisance to Fever I send him downward forth. So let Sakambhara
 </div>
 
 ## ०५ ओको अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/05_oko_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/05_oko_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओको॑ अस्य॒ मूज॑वन्त॒ ओको॑ अस्य महावृ॒षाः।  
 याव॑ज्जा॒तस्त॑क्मं॒स्तावा॑नसि॒ बल्हि॑केषु न्योच॒रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/05_oko_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/05_oko_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -319,7 +319,7 @@ When I have paid obeisance to Fever I send him downward forth. So let Sakambhara
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/05_oko_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/05_oko_asya.md">
 <details open><summary><h3>०५ ओको अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -373,14 +373,14 @@ His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever s
 </div>
 
 ## ०६ तक्मन्व्याल वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तक्म॒न्व्या॑ल॒ वि ग॑द॒ व्य॑ङ्ग॒ भूरि॑ यावय।  
 दा॒सीं नि॒ष्टक्व॑रीमिच्छ॒ तां वज्रे॑ण॒ सम॑र्पय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/06_takmanvyAla_vi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/06_takmanvyAla_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -389,7 +389,7 @@ His mansions are the Mujavans, and the Mahavrishas his home, Thou, Fever, ever s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/06_takmanvyAla_vi.md">
 <details open><summary><h3>०६ तक्मन्व्याल वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -443,14 +443,14 @@ Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou
 </div>
 
 ## ०७ तक्मन्मूजवतो गच्छ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तक्म॒न्मूज॑वतो गच्छ॒ बल्हि॑कान्वा परस्त॒राम्।  
 शू॒द्रामि॑च्छ प्रप॒र्व्यं॑१॒॑ तां त॑क्म॒न्वीव॑ धूनुहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -459,7 +459,7 @@ Fever, snake, limbless one, speak out! Keep thyself far away fi om us. Seek thou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/07_takmanmUjavato_gachCha.md">
 <details open><summary><h3>०७ तक्मन्मूजवतो गच्छ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -507,14 +507,14 @@ Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara
 </div>
 
 ## ०८ महावृषान्मूजवतो बन्ध्वद्धि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॑हावृ॒षान्मूज॑वतो॒ बन्ध्व॑द्धि प॒रेत्य॑।  
 प्रैतानि॑ त॒क्मने॑ ब्रूमो अन्यक्षे॒त्राणि॒ वा इ॒मा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -523,7 +523,7 @@ Go, Fever, to the Mujavans, or, farther, to the Bahlikas. Seek a lascivious Sara
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/08_mahAvRShAnmUjavato_bandhvaddhi.md">
 <details open><summary><h3>०८ महावृषान्मूजवतो बन्ध्वद्धि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -576,14 +576,14 @@ Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreig
 </div>
 
 ## ०९ अन्यक्षेत्रे न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/09_anyaxetre_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/09_anyaxetre_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑न्यक्षे॒त्रे न र॑मसे व॒शी सन्मृ॑डयासि नः।  
 अभू॑दु॒ प्रार्थ॑स्त॒क्मा स ग॑मिष्यति॒ बल्हि॑कान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/09_anyaxetre_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/09_anyaxetre_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -592,7 +592,7 @@ Go hence and eat thy kinsmen the Mahavrishas and Mujavans. These or those foreig
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/09_anyaxetre_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/09_anyaxetre_na.md">
 <details open><summary><h3>०९ अन्यक्षेत्रे न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -643,14 +643,14 @@ In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is ea
 </div>
 
 ## १० यत्त्वं शीतोऽथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्त्वं शी॒तोऽथो॑ रू॒रः स॒ह का॒सावे॑पयः।  
 भी॒मास्ते॑ तक्मन्हे॒तय॒स्ताभिः॑ स्म॒ परि॑ वृङ्ग्धि नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -659,7 +659,7 @@ In a strange land thou joyest not; subdued, thou wilt be kind to us. Fever is ea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/10_yattvaM_shIto-tho.md">
 <details open><summary><h3>१० यत्त्वं शीतोऽथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -712,14 +712,14 @@ Since thou now cold, now burning hot, with cough besides, hast made us shake, Te
 </div>
 
 ## ११ मा स्मैतान्त्सखीन्कुरुथा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा स्मै॒तान्त्सखी॑न्कुरुथा ब॒लासं॑ का॒समु॑द्यु॒गम्।  
 मा स्मातो॒ऽर्वाङैः पुन॒स्तत्त्वा॑ तक्म॒न्नुप॑ ब्रुवे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -728,7 +728,7 @@ Since thou now cold, now burning hot, with cough besides, hast made us shake, Te
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/11_mA_smaitAntsakhInkuruthA.md">
 <details open><summary><h3>११ मा स्मैतान्त्सखीन्कुरुथा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -780,14 +780,14 @@ Take none of these to be thy friends, Cough, or Consumption or Decline: Never co
 </div>
 
 ## १२ तक्मन्भ्रात्रा बलासेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तक्म॒न्भ्रात्रा॑ ब॒लासे॑न॒ स्वस्रा॒ कासि॑कया स॒ह।  
 पा॒प्मा भ्रातृ॑व्येण स॒ह गच्छा॒मुमर॑णं॒ जन॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -796,7 +796,7 @@ Take none of these to be thy friends, Cough, or Consumption or Decline: Never co
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/12_takmanbhrAtrA_balAsena.md">
 <details open><summary><h3>१२ तक्मन्भ्रात्रा बलासेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -850,14 +850,14 @@ Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with t
 </div>
 
 ## १३ तृतीयकं वितृतीयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृती॑यकं वितृती॒यं स॑द॒न्दिमु॒त शा॑र॒दम्।  
 त॒क्मानं॑ शी॒तं रू॒रं ग्रैष्मं॑ नाशय॒ वार्षि॑कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -866,7 +866,7 @@ Go, Fever, with Consumption, thy brother, and with thy sister, Cough. And with t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/13_tRtIyakaM_vitRtIyam.md">
 <details open><summary><h3>१३ तृतीयकं वितृतीयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -917,14 +917,14 @@ Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, in
 </div>
 
 ## १४ गन्धारिभ्यो मूजवद्भ्योऽङ्गेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ग॒न्धारि॑भ्यो॒ मूज॑व॒द्भ्योऽङ्गे॑भ्यो म॒गधे॑भ्यः।  
 प्रै॒ष्यन् जन॑मिव शेव॒धिं त॒क्मानं॒ परि॑ दद्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -933,7 +933,7 @@ Chase Fever whether cold or hot, brought by the summer or the rains, Tertian, in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/022_takmanAshanam/14_gandhAribhyo_mUjavadbhyo-ngebhyo.md">
 <details open><summary><h3>१४ गन्धारिभ्यो मूजवद्भ्योऽङ्गेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

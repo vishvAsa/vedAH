@@ -2,7 +2,7 @@
 title = "१३७ केशवर्धनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/_index.md">
 <details open><summary><h2>१३७ केशवर्धनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 512; Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Blo
 </div>
 
 ## ०१ यां जमदग्निरखनद्दुहित्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ज॒मद॑ग्नि॒रख॑नद्दुहि॒त्रे के॑श॒वर्ध॑नीम्।  
 तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 512; Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Blo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/01_yAM_jamadagnirakhanadduhitre.md">
 <details open><summary><h3>०१ यां जमदग्निरखनद्दुहित्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -94,14 +94,14 @@ The Plant which Jamadagni dug to make his daughter's locks. grow long, This same
 </div>
 
 ## ०२ अभीशुना मेया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भीशु॑ना॒ मेया॑ आसन्व्या॒मेना॑नु॒मेयाः॑।  
 केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/02_abhIshunA_meyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -110,7 +110,7 @@ The Plant which Jamadagni dug to make his daughter's locks. grow long, This same
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/02_abhIshunA_meyA.md">
 <details open><summary><h3>०२ अभीशुना मेया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,14 +161,14 @@ They might be measured with a rein, meted with both extended arms. Let the black
 </div>
 
 ## ०३ दृंह मूलमाग्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दृंह॒ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे।  
 केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -177,7 +177,7 @@ They might be measured with a rein, meted with both extended arms. Let the black
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/137_keshavardhanam/03_dRMha_mUlamAgram.md">
 <details open><summary><h3>०३ दृंह मूलमाग्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

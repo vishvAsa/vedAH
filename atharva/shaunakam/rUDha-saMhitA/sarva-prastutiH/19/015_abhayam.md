@@ -2,7 +2,7 @@
 title = "०१५ अभयम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/_index.md">
 <details open><summary><h2>०१५ अभयम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for peace and security
 </div>
 
 ## ०१ यत इन्द्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/01_yata_indra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/01_yata_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत॑ इन्द्र॒ भया॑महे॒ ततो॑ नो॒ अभ॑यं कृधि।  
 मघ॑वञ्छ॒ग्धि तव॒ त्वं न॑ ऊ॒तिभि॒र्वि द्विषो॒ वि मृधो॑ जहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/01_yata_indra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/01_yata_indra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for peace and security
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/01_yata_indra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/01_yata_indra.md">
 <details open><summary><h3>०१ यत इन्द्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ Indra, give us security from that whereof we are afraid. Help us, O Maghavan, le
 </div>
 
 ## ०२ इन्द्रं वयमनूराधम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रं॑ व॒यम॑नूरा॒धं ह॑वाम॒हेऽनु॑ राध्यास्म द्वि॒पदा॒ चतु॑ष्पदा।  
 मा नः॒ सेना॒ अर॑रुषी॒रुप॑ गु॒र्विषू॑चीरिन्द्र द्रु॒हो वि ना॑शय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/02_indraM_vayamanUrAdham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Indra, give us security from that whereof we are afraid. Help us, O Maghavan, le
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/02_indraM_vayamanUrAdham.md">
 <details open><summary><h3>०२ इन्द्रं वयमनूराधम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ We call on Indra, on the liberal giver: we will be prosperous in men and cattle.
 </div>
 
 ## ०३ इन्द्रस्त्रातोत वृत्रहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्त्रा॒तोत वृ॑त्र॒हा प॑र॒स्फानो॒ वरे॑ण्यः।  
 स र॑क्षि॒ता च॑रम॒तः स म॑ध्य॒तः स प॒श्चात्स पु॒रस्ता॑न्नो अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ We call on Indra, on the liberal giver: we will be prosperous in men and cattle.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/03_indrastrAtota_vRtrahA.md">
 <details open><summary><h3>०३ इन्द्रस्त्रातोत वृत्रहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -248,14 +248,14 @@ Best, making household wealth increase. Indra our saviour, kills the foe. May he
 </div>
 
 ## ०४ उरुं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/04_uruM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/04_uruM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व१॒॑र्यज्ज्योति॒रभ॑यं स्व॒स्ति।  
 उ॒ग्रा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ क्षयेम शर॒णा बृ॒हन्ता॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/04_uruM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/04_uruM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -264,7 +264,7 @@ Best, making household wealth increase. Indra our saviour, kills the foe. May he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/04_uruM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/04_uruM_no.md">
 <details open><summary><h3>०४ उरुं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -318,14 +318,14 @@ Lead us to ample room. O thou who knowest, to happiness security, and sunlight. 
 </div>
 
 ## ०५ अभयं नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/05_abhayaM_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/05_abhayaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अभ॑यं नः करत्य॒न्तरि॑क्ष॒मभ॑यं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे।  
 अभ॑यं प॒श्चादभ॑यं पु॒रस्ता॑दुत्त॒राद॑ध॒रादभ॑यं नो अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/05_abhayaM_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/05_abhayaM_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -334,7 +334,7 @@ Lead us to ample room. O thou who knowest, to happiness security, and sunlight. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/05_abhayaM_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/05_abhayaM_naH.md">
 <details open><summary><h3>०५ अभयं नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -384,14 +384,14 @@ May air's mid-region give us peace and safety, safety may both these, Heaven and
 </div>
 
 ## ०६ अभयं मित्रादभयममित्रादभयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अभ॑यं मि॒त्रादभ॑यम॒मित्रा॒दभ॑यं ज्ञा॒तादभ॑यं पु॒रो यः।  
 अभ॑यं॒ नक्त॒मभ॑यं दिवा नः॒ सर्वा॒ आशा॒ मम॑ मि॒त्रं भ॑वन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -400,7 +400,7 @@ May air's mid-region give us peace and safety, safety may both these, Heaven and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/015_abhayam/06_abhayaM_mitrAdabhayamamitrAdabhayam.md">
 <details open><summary><h3>०६ अभयं मित्रादभयममित्रादभयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

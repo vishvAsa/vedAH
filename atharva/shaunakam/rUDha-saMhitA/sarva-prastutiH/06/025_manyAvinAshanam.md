@@ -2,7 +2,7 @@
 title = "०२५ मन्याविनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/_index.md">
 <details open><summary><h2>०२५ मन्याविनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to remove pustules or scrofulous swellings (apachitas)
 </div>
 
 ## ०१ पञ्च च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/01_pancha_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि।  
 इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/01_pancha_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to remove pustules or scrofulous swellings (apachitas)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/01_pancha_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/01_pancha_cha.md">
 <details open><summary><h3>०१ पञ्च च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 </div>
 
 ## ०२ सप्त च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/02_sapta_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि।  
 इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/02_sapta_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ May all the five-and-fifty which meet round the tendons of the neck. Depart and 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/02_sapta_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/02_sapta_cha.md">
 <details open><summary><h3>०२ सप्त च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 </div>
 
 ## ०३ नव च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/03_nava_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/025_manyAvinAshanam/03_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि।  
 इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/03_nava_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/025_manyAvinAshanam/03_nava_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Those seventy-and-seven which meet round the upper vertebrae, Let them all vanis
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/03_nava_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/025_manyAvinAshanam/03_nava_cha.md">
 <details open><summary><h3>०३ नव च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

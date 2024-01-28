@@ -2,7 +2,7 @@
 title = "०२७ अरिष्टक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/_index.md">
 <details open><summary><h2>०२७ अरिष्टक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm to avert misfortune foreshown by the coming of a dove
 </div>
 
 ## ०१ देवाः कपोत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 देवाः॑ क॒पोत॑ इषि॒तो यदि॒छन्दू॒तो निरृ॑त्या इ॒दमा॑ज॒गाम॑।  
 तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/01_devAH_kapota.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/01_devAH_kapota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm to avert misfortune foreshown by the coming of a dove
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/01_devAH_kapota.md">
 <details open><summary><h3>०१ देवाः कपोत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Gods! whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destru
 </div>
 
 ## ०२ शिवः कपोत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॒वः क॒पोत॑ इषि॒तो नो॑ अस्त्वना॒गा दे॒वाः श॑कु॒नो गृ॒हं नः॑।  
 अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Gods! whatsoe'er the Dove came hither seeking, sent to us as the envoy of Destru
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/02_shivaH_kapota.md">
 <details open><summary><h3>०२ शिवः कपोत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -159,14 +159,14 @@ Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that see
 </div>
 
 ## ०३ हेतिः पक्षिणी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्री प॒दं कृ॑णुते अग्नि॒धाने॑।  
 शि॒वो गोभ्य॑ उ॒त पुरु॑षेभ्यो नो अस्तु॒ मा नो॑ देवा इ॒ह हिं॑सीत्क॒पोतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -175,7 +175,7 @@ Auspicious be the Dove that hath been sent us, a harmless bird, O Gods, that see
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/027_ariShTaxayaNam/03_hetiH_paxiNI.md">
 <details open><summary><h3>०३ हेतिः पक्षिणी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

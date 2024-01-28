@@ -2,7 +2,7 @@
 title = "०१२ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/_index.md">
 <details open><summary><h2>०१२ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ A prayer for vengeance on a malicious rival worshipper
 </div>
 
 ## ०१ द्यावापृथिवी उर्व१न्तरिक्षम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यावा॑पृथि॒वी उ॒र्व॑१न्तरि॑क्षं॒ क्षेत्र॑स्य॒ पत्न्यु॑रुगा॒योऽद्भु॑तः।  
 उ॑ता॒न्तरि॑क्षमु॒रु वात॑गोपं॒ त इ॒ह त॑प्यन्तां॒ मयि॑ त॒प्यमा॑ने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ A prayer for vengeance on a malicious rival worshipper
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/01_dyAvApRthivI_urva1ntarixam.md">
 <details open><summary><h3>०१ द्यावापृथिवी उर्व१न्तरिक्षम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ The spacious Firmament, and Earth and Heaven, the Field's Queen, and the wonderf
 </div>
 
 ## ०२ इदं देवाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/02_idaM_devAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/02_idaM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं दे॑वाः शृणुत॒ ये य॒ज्ञिया॒ स्थ भ॒रद्वा॑जो॒ मह्य॑मु॒क्थानि॑ शंसति।  
 पाशे॒ स ब॒द्धो दु॑रि॒ते नि यु॑ज्यतां॒ यो अ॒स्माकं॒ मन॑ इ॒दं हि॒नस्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/02_idaM_devAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/02_idaM_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ The spacious Firmament, and Earth and Heaven, the Field's Queen, and the wonderf
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/02_idaM_devAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/02_idaM_devAH.md">
 <details open><summary><h3>०२ इदं देवाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ Listen to this, ye Gods who merit worship. Hymns here are sung for me by Bharadv
 </div>
 
 ## ०३ इदमिन्द्र शृणुहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमि॑न्द्र शृणुहि सोमप॒ यत्त्वा॑ हृ॒दा शोच॑ता॒ जोह॑वीमि।  
 वृ॒श्चामि॒ तं कुलि॑शेनेव वृ॒क्षं यो अ॒स्माकं॒ मन॑ इ॒दं हि॒नस्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ Listen to this, ye Gods who merit worship. Hymns here are sung for me by Bharadv
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/03_idamindra_shRNuhi.md">
 <details open><summary><h3>०३ इदमिन्द्र शृणुहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -241,14 +241,14 @@ Hear this my call, O Indra, Soma-drinker, as with a burning heart I oft invoke t
 </div>
 
 ## ०४ अशीतिभिस्तिसृभिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑शी॒तिभि॑स्ति॒सृभिः॑ साम॒गेभि॑रादि॒त्येभि॒र्वसु॑भि॒रङ्गि॑रोभिः।  
 इ॑ष्टापू॒र्तम॑वतु नः पितॄ॒णामामुं द॑दे॒ हर॑सा॒ दैव्ये॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -257,7 +257,7 @@ Hear this my call, O Indra, Soma-drinker, as with a burning heart I oft invoke t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/04_ashItibhistisRbhiH.md">
 <details open><summary><h3>०४ अशीतिभिस्तिसृभिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -310,14 +310,14 @@ Together with thrice-eighty Sama-singers, Angirases, and Vasus, and Adityas, May
 </div>
 
 ## ०५ द्यावापृथिवी अनु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यावा॑पृथिवी॒ अनु॒ मा दी॑धीथां॒ विश्वे॑ देवासो॒ अनु॒ मा र॑भध्वम्।  
 अङ्गि॑रसः॒ पित॑रः॒ सोम्या॑सः पा॒पमार्छ॑त्वपका॒मस्य॑ क॒र्ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -326,7 +326,7 @@ Together with thrice-eighty Sama-singers, Angirases, and Vasus, and Adityas, May
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/05_dyAvApRthivI_anu.md">
 <details open><summary><h3>०५ द्यावापृथिवी अनु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -377,14 +377,14 @@ O Heaven and Earth, regard me with your favour, and, all ye Gods, stand on my si
 </div>
 
 ## ०६ अतीव यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/06_atIva_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/06_atIva_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अती॑व॒ यो म॑रुतो॒ मन्य॑ते नो॒ ब्रह्म॑ वा॒ यो निन्दि॑षत्क्रि॒यमा॑णम्।  
 तपूं॑षि॒ तस्मै॑ वृजि॒नानि॑ सन्तु ब्रह्म॒द्विषं॒ द्यौर॑भि॒संत॑पाति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/06_atIva_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/06_atIva_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -393,7 +393,7 @@ O Heaven and Earth, regard me with your favour, and, all ye Gods, stand on my si
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/06_atIva_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/06_atIva_yo.md">
 <details open><summary><h3>०६ अतीव यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -445,14 +445,14 @@ Whoever either scorns us, O ye Maruts, or blames devotion which we now are payin
 </div>
 
 ## ०७ सप्त प्राणानष्टौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त प्रा॒णान॒ष्टौ म॒न्यस्तांस्ते॑ वृश्चामि॒ ब्रह्म॑णा।  
 अया॑ य॒मस्य॒ साद॑नम॒ग्निदू॑तो॒ अरं॑कृतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -461,7 +461,7 @@ Whoever either scorns us, O ye Maruts, or blames devotion which we now are payin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/07_sapta_prANAnaShTau.md">
 <details open><summary><h3>०७ सप्त प्राणानष्टौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -522,14 +522,14 @@ Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Ag
 </div>
 
 ## ०८ आ दधामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/08_A_dadhAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/012_shatrunAshanam/08_A_dadhAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ द॑धामि ते प॒दं समि॑द्धे जा॒तवे॑दसि।  
 अ॒ग्निः शरी॑रं वेवे॒ष्ट्वसुं॒ वागपि॑ गच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/08_A_dadhAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/012_shatrunAshanam/08_A_dadhAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -538,7 +538,7 @@ Thy sevenfold vital breath, thine eight marrows I rend away with prayer. With Ag
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/08_A_dadhAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/012_shatrunAshanam/08_A_dadhAmi.md">
 <details open><summary><h3>०८ आ दधामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००२ रोगोपशमनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/_index.md">
 <details open><summary><h2>००२ रोगोपशमनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm against dysentery
 </div>
 
 ## ०१ विद्मा शरस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/01_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भूरि॑धायसम्।  
 वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/01_vidmA_sharasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm against dysentery
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/01_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/01_vidmA_sharasya.md">
 <details open><summary><h3>०१ विद्मा शरस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 </div>
 
 ## ०२ ज्याके परि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/02_jyAke_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/02_jyAke_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज्या॑के॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि।  
 वी॒डुर्वरी॒यो ऽरा॑ती॒रप॒ द्वेषां॒स्या कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/02_jyAke_pari.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/02_jyAke_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ We know the father of the shaft, Parjanya, liberal nourisher, Know well his moth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/02_jyAke_pari.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/02_jyAke_pari.md">
 <details open><summary><h3>०२ ज्याके परि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 </div>
 
 ## ०३ वृक्षं यद्गावः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्।  
 शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ Do thou, O Bowstring, bend thyself around us: make my body stone. Firm in thy st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/03_vRxaM_yadgAvaH.md">
 <details open><summary><h3>०३ वृक्षं यद्गावः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -224,14 +224,14 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 </div>
 
 ## ०४ यथा द्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/04_yathA_dyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/002_rogopashamanam/04_yathA_dyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ द्यां च॑ पृथि॒वीं चा॒न्तस्तिष्ठ॑ति॒ तेज॑नम्।  
 ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/04_yathA_dyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/002_rogopashamanam/04_yathA_dyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -240,7 +240,7 @@ When, closely clinging round the wood, the bowstring sings triumph to the swift 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/04_yathA_dyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/002_rogopashamanam/04_yathA_dyAm.md">
 <details open><summary><h3>०४ यथा द्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

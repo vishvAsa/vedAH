@@ -2,7 +2,7 @@
 title = "०३४ मधुविद्या"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/_index.md">
 <details open><summary><h2>०३४ मधुविद्या ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A young man's love-charm
 </div>
 
 ## ०१ इयं वीरुन्मधुजाता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि।  
 मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A young man's love-charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/01_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>०१ इयं वीरुन्मधुजाता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 </div>
 
 ## ०२ जिह्वाया अग्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/02_jihvAyA_agre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/02_jihvAyA_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्।  
 ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/02_jihvAyA_agre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/02_jihvAyA_agre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ From honey sprang this Plant to life; with honey now we dig thee up. Make us as 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/02_jihvAyA_agre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/02_jihvAyA_agre.md">
 <details open><summary><h3>०२ जिह्वाया अग्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 </div>
 
 ## ०३ मधुमन्मे निक्रमणम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्।  
 वा॒चा व॑दामि॒ मधु॑मद्भू॒यासं॒ मधु॑संदृशः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ My tongue hath honey at the tip, and sweetest honey at the root: Thou yieldest t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/03_madhumanme_nikramaNam.md">
 <details open><summary><h3>०३ मधुमन्मे निक्रमणम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 </div>
 
 ## ०४ मधोरस्मि मधुतरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः।  
 मामित्किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ My coming in is honey-sweet and honey-sweet, my going forth: My voice and words 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/04_madhorasmi_madhutaro.md">
 <details open><summary><h3>०४ मधोरस्मि मधुतरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,14 +304,14 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 </div>
 
 ## ०५ परि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/05_pari_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/034_madhuvidyA/05_pari_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे।  
 यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/05_pari_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/034_madhuvidyA/05_pari_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -320,7 +320,7 @@ Sweeter am I than honey, yet more full of sweets than licorice: So mayst thou lo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/05_pari_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/034_madhuvidyA/05_pari_tvA.md">
 <details open><summary><h3>०५ परि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

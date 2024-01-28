@@ -2,7 +2,7 @@
 title = "०२४ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/_index.md">
 <details open><summary><h2>०२४ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn of prayer and praise to Indra
 </div>
 
 ## ०१ इन्द्रस्य मन्महे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/01_indrasya_manmahe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑।  
 यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/01_indrasya_manmahe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn of prayer and praise to Indra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/01_indrasya_manmahe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/01_indrasya_manmahe.md">
 <details open><summary><h3>०१ इन्द्रस्य मन्महे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come 
 </div>
 
 ## ०२ य उग्रीणामुग्रबाहुर्ययुर्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑।  
 येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ I think of Indra, only him for ever, fiend-slayer, May these lauds of mine come 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/02_ya_ugrINAmugrabAhuryayuryo.md">
 <details open><summary><h3>०२ य उग्रीणामुग्रबाहुर्ययुर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Who with strong arms o'ercame his strong opponents, who broke and crushed the po
 </div>
 
 ## ०३ यश्चर्षणिप्रो वृषभः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद्यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्।  
 यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Who with strong arms o'ercame his strong opponents, who broke and crushed the po
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/03_yashcharShaNipro_vRShabhaH.md">
 <details open><summary><h3>०३ यश्चर्षणिप्रो वृषभः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Ruler of men, finder of light, the hero: the pressing-stones declare his valour,
 </div>
 
 ## ०४ यस्य वशास
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/04_yasya_vashAsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्वर॑वः स्व॒र्विदे॑।  
 यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/04_yasya_vashAsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Ruler of men, finder of light, the hero: the pressing-stones declare his valour,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/04_yasya_vashAsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/04_yasya_vashAsa.md">
 <details open><summary><h3>०४ यस्य वशास ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -303,14 +303,14 @@ The lord of barren cows and bulls and oxen, finder of light for whom the posts a
 </div>
 
 ## ०५ यस्य जुष्टिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/05_yasya_juShTim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/05_yasya_juShTim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ।  
 यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/05_yasya_juShTim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/05_yasya_juShTim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -319,7 +319,7 @@ The lord of barren cows and bulls and oxen, finder of light for whom the posts a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/05_yasya_juShTim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/05_yasya_juShTim.md">
 <details open><summary><h3>०५ यस्य जुष्टिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -368,14 +368,14 @@ Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in batt
 </div>
 
 ## ०६ यः प्रथमः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/06_yaH_prathamaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यं प्रथ॒मस्यानु॑बुद्धम्।  
 येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/06_yaH_prathamaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -384,7 +384,7 @@ Whose favour those desire who offer Soma, whom, arrow-bearer, men invoke in batt
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/06_yaH_prathamaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/06_yaH_prathamaH.md">
 <details open><summary><h3>०६ यः प्रथमः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -439,14 +439,14 @@ Why was born, first, for active operation, whose valour as the first hath been a
 </div>
 
 ## ०७ यः सङ्ग्रामान्नयति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः सं॑ग्रा॒मान्न॑यति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑।  
 स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -455,7 +455,7 @@ Why was born, first, for active operation, whose valour as the first hath been a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/024_pApamochanam/07_yaH_sangrAmAnnayati.md">
 <details open><summary><h3>०७ यः सङ्ग्रामान्नयति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

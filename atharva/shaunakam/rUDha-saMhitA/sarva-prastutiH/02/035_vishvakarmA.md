@@ -2,7 +2,7 @@
 title = "०३५ विश्वकर्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/_index.md">
 <details open><summary><h2>०३५ विश्वकर्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Expiation for an imperfectly performed sacrifice
 </div>
 
 ## ०१ ये भक्षयन्तो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये भ॒क्षय॑न्तो॒ न वसू॑न्यानृ॒धुर्यान॒ग्नयो॑ अ॒न्वत॑प्यन्त॒ धिष्ण्याः॑।  
 या तेषा॑मव॒या दुरि॑ष्टिः॒ स्वि॑ष्टिं न॒स्तां कृ॑णवद्वि॒श्वक॑र्मा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/01_ye_bhaxayanto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Expiation for an imperfectly performed sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/01_ye_bhaxayanto.md">
 <details open><summary><h3>०१ ये भक्षयन्तो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -118,14 +118,14 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 </div>
 
 ## ०२ यज्ञपतिमृषयः एनसाहुर्निर्भक्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञप॑ति॒मृष॑यः॒ एन॑साहु॒र्निर्भ॑क्तं प्र॒जा अ॑नुत॒प्यमा॑नम्।  
 म॑थ॒व्या॑न्त्स्तो॒कानप॒ यान्र॒राध॒ सं न॒ष्टेभिः॑ सृजतु वि॒श्वक॑र्मा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -134,7 +134,7 @@ We who enjoying it have grown no richer, for whom the sacred altar-fires have so
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/02_yajnapatimRShayaH_enasAhurnirbhaktam.md">
 <details open><summary><h3>०२ यज्ञपतिमृषयः एनसाहुर्निर्भक्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -203,14 +203,14 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 </div>
 
 ## ०३ अदान्यान्त्सोमपान्मन्यमानो यज्ञस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑दा॒न्यान्त्सो॑म॒पान्मन्य॑मानो य॒ज्ञस्य॑ वि॒द्वान्त्स॑म॒ये न धीरः॑।  
 यदेन॑श्चकृ॒वान्ब॒द्ध ए॒ष तं वि॑श्वकर्म॒न्प्र मु॑ञ्चा स्व॒स्तये॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -219,7 +219,7 @@ Rishis have called the sacrifice's patron amerced through sin, sorrowing for his
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/03_adAnyAntsomapAnmanyamAno_yajnasya.md">
 <details open><summary><h3>०३ अदान्यान्त्सोमपान्मन्यमानो यज्ञस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -279,14 +279,14 @@ Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the mee
 </div>
 
 ## ०४ घोरा ऋषयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/04_ghorA_RShayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/04_ghorA_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घो॒रा ऋष॑यो॒ नमो॑ अस्त्वेभ्य॒श्चक्षु॒र्यदे॑षां॒ मन॑सश्च स॒त्यम्।  
 बृह॒स्पत॑ये महिष द्यु॒मन्नमो॒ विश्व॑कर्म॒न्नम॑स्ते पा॒ह्य१॒॑स्मान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/04_ghorA_RShayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/04_ghorA_RShayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -295,7 +295,7 @@ Regarding niggard churls as Soma-drinkers, skilful in sacrifice, weak at the mee
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/04_ghorA_RShayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/04_ghorA_RShayo.md">
 <details open><summary><h3>०४ घोरा ऋषयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -355,14 +355,14 @@ Awful are Rishis: unto them be homage, and to their eye and truthfulness of spir
 </div>
 
 ## ०५ यज्ञस्य चक्षुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञस्य॒ चक्षुः॒ प्रभृ॑ति॒र्मुखं॑ च वा॒चा श्रोत्रे॑ण॒ मन॑सा जुहोमि।  
 इ॒मं य॒ज्ञं वित॑तं वि॒श्वक॑र्म॒णा दे॒वा य॑न्तु सुमन॒स्यमा॑नाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -371,7 +371,7 @@ Awful are Rishis: unto them be homage, and to their eye and truthfulness of spir
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/035_vishvakarmA/05_yajnasya_chaxuH.md">
 <details open><summary><h3>०५ यज्ञस्य चक्षुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

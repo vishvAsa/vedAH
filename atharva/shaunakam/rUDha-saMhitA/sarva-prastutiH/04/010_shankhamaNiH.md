@@ -2,7 +2,7 @@
 title = "०१० शङ्खमणिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/_index.md">
 <details open><summary><h2>०१० शङ्खमणिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -37,14 +37,14 @@ A charm accompanying investiture with an amulet of shell
 </div>
 
 ## ०१ वाताज्जातो अन्तरिक्षाद्विद्युतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वाता॑ज्जा॒तो अ॒न्तरि॑क्षाद्वि॒द्युतो॒ ज्योति॑ष॒स्परि॑।  
 स नो॑ हिरण्य॒जाः श॒ङ्खः कृश॑नः पा॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -53,7 +53,7 @@ A charm accompanying investiture with an amulet of shell
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/01_vAtAjjAto_antarixAdvidyuto.md">
 <details open><summary><h3>०१ वाताज्जातो अन्तरिक्षाद्विद्युतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Child of the wind firmament, sprung from the lightning and the light, May this t
 </div>
 
 ## ०२ यो अग्रतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/02_yo_agrato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/02_yo_agrato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑ग्र॒तो रो॑च॒नानां॑ समु॒द्रादधि॑ जज्ञि॒षे।  
 श॒ङ्खेन॑ ह॒त्वा रक्षां॑स्य॒त्त्रिणो॒ वि ष॑हामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/02_yo_agrato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/02_yo_agrato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Child of the wind firmament, sprung from the lightning and the light, May this t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/02_yo_agrato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/02_yo_agrato.md">
 <details open><summary><h3>०२ यो अग्रतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Shell that wast born from out the sea, set at the head of things that shine! Wit
 </div>
 
 ## ०३ शङ्खेनामीवाममतिं शङ्खेनोत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒ङ्खेनामी॑वा॒मम॑तिं श॒ङ्खेनो॒त स॒दान्वाः॑।  
 श॒ङ्खो नो॑ वि॒श्वभे॑षजः॒ कृश॑नः पा॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Shell that wast born from out the sea, set at the head of things that shine! Wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/03_shankhenAmIvAmamatiM_shankhenota.md">
 <details open><summary><h3>०३ शङ्खेनामीवाममतिं शङ्खेनोत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ We stay disease and indigence, and chase Sadanvas with the Shell. May the all-he
 </div>
 
 ## ०४ दिवि जातः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/04_divi_jAtaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/04_divi_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वि जा॒तः स॑मुद्र॒जः सि॑न्धु॒तस्पर्याभृ॑तः।  
 स नो॑ हिरण्य॒जाः श॒ङ्ख आ॑युष्प्र॒तर॑णो म॒णिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/04_divi_jAtaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/04_divi_jAtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ We stay disease and indigence, and chase Sadanvas with the Shell. May the all-he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/04_divi_jAtaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/04_divi_jAtaH.md">
 <details open><summary><h3>०४ दिवि जातः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,14 +304,14 @@ Born in the heaven, sprung from the sea, brought to us hither from the flood. Th
 </div>
 
 ## ०५ समुद्राज्जातो मणिर्वृत्राज्जातो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑मु॒द्राज्जा॒तो म॒णिर्वृ॒त्राज्जा॒तो दि॑वाक॒रः।  
 सो अ॒स्मान्त्स॒र्वतः॑ पातु हे॒त्या दे॑वासु॒रेभ्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -320,7 +320,7 @@ Born in the heaven, sprung from the sea, brought to us hither from the flood. Th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/05_samudrAjjAto_maNirvRtrAjjAto.md">
 <details open><summary><h3>०५ समुद्राज्जातो मणिर्वृत्राज्जातो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -374,14 +374,14 @@ From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this prote
 </div>
 
 ## ०६ हिरण्यानामेकोऽसि सोमात्त्वमधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हिर॑ण्याना॒मेको॑ऽसि॒ सोमा॒त्त्वमधि॑ जज्ञिषे।  
 रथे॒ त्वम॑सि दर्श॒त इ॑षु॒धौ रो॑च॒नस्त्वं प्र ण॒ आयूं॑षि तारिषत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -390,7 +390,7 @@ From ocean sprang the Amulet, from Vritra sprang the Lord of Day: May this prote
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/06_hiraNyAnAmeko-si_somAttvamadhi.md">
 <details open><summary><h3>०६ हिरण्यानामेकोऽसि सोमात्त्वमधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -447,14 +447,14 @@ Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest
 </div>
 
 ## ०७ देवानामस्थि कृशनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वाना॒मस्थि॒ कृश॑नं बभूव॒ तदा॑त्म॒न्वच्च॑रत्य॒प्स्व१॒॑न्तः।  
 तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय कार्श॒नस्त्वा॒भि र॑क्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -463,7 +463,7 @@ Peerless 'mid golden ornaments art thou: from Soma wast thou born. Thou gleamest
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/010_shankhamaNiH/07_devAnAmasthi_kRshanam.md">
 <details open><summary><h3>०७ देवानामस्थि कृशनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

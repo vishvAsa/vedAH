@@ -2,7 +2,7 @@
 title = "०३९ आपः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/039_ApaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/039_ApaH/_index.md">
 <details open><summary><h2>०३९ आपः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A sacrificial charm for rain and prosperity
 </div>
 
 ## ०१ दिव्यं सुपर्णम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/039_ApaH/01_divyaM_suparNam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/039_ApaH/01_divyaM_suparNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्।  
 अ॑भीप॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/039_ApaH/01_divyaM_suparNam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/039_ApaH/01_divyaM_suparNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A sacrificial charm for rain and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/039_ApaH/01_divyaM_suparNam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/039_ApaH/01_divyaM_suparNam.md">
 <details open><summary><h3>०१ दिव्यं सुपर्णम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

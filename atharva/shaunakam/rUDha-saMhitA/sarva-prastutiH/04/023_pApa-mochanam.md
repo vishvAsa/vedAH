@@ -2,7 +2,7 @@
 title = "०२३ पाप-मोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/_index.md">
 <details open><summary><h2>०२३ पाप-मोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Magnification of Agni and prayer for his protection
 </div>
 
 ## ०१ अग्नेर्मन्वे प्रथमस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्नेर्म॑न्वे प्रथ॒मस्य॒ प्रचे॑तसः॒ पाञ्च॑जन्यस्य बहु॒धा यमि॒न्धते॑।  
 विशो॑विशः प्रविशि॒वांस॑मीमहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Magnification of Agni and prayer for his protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/01_agnermanve_prathamasya.md">
 <details open><summary><h3>०१ अग्नेर्मन्वे प्रथमस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 </div>
 
 ## ०२ यथा हव्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/02_yathA_havyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ ह॒व्यं वह॑सि जातवेदो॒ यथा॑ य॒ज्ञं क॒ल्पय॑सि प्रजा॒नन्।  
 ए॒वा दे॒वेभ्यः॑ सुम॒तिं न॒ आ व॑ह॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/02_yathA_havyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ I fix my heart on wise and ancient Agni, the Five Tribes' Lord, in many a place 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/02_yathA_havyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/02_yathA_havyam.md">
 <details open><summary><h3>०२ यथा हव्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 </div>
 
 ## ०३ यामन्यामन्नुपयुक्तं वहिष्ठम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याम॑न्याम॒न्नुप॑युक्तं॒ वहि॑ष्ठं॒ कर्म॑ङ्कर्म॒न्नाभ॑गम॒ग्निमी॑डे।  
 र॑क्षो॒हणं॑ यज्ञ॒वृधं॑ घृ॒ताहु॑तं॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ As thou conveyest offerings, Jatavedas! and fashionest the sacri- fice with know
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/03_yAmanyAmannupayuktaM_vahiShTham.md">
 <details open><summary><h3>०३ यामन्यामन्नुपयुक्तं वहिष्ठम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -244,14 +244,14 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 </div>
 
 ## ०४ सुजातं जातवेदसमग्निम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सुजा॑तं जा॒तवे॑दसम॒ग्निं वै॑श्वान॒रं वि॒भुम्।  
 ह॑व्य॒वाहं॑ हवामहे॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -260,7 +260,7 @@ I pray to Agni in each act successful, employed in every sacrifice, the stronges
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/04_sujAtaM_jAtavedasamagnim.md">
 <details open><summary><h3>०४ सुजातं जातवेदसमग्निम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -308,14 +308,14 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 </div>
 
 ## ०५ येन ऋषयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/05_yena_RShayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॒ ऋष॑यो ब॒लमद्यो॑तयन्यु॒जा येनासु॑राणा॒मयु॑वन्त मा॒याः।  
 येना॒ग्निना॑ प॒णीनिन्द्रो॑ जि॒गाय॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/05_yena_RShayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -324,7 +324,7 @@ We invoke the oblation-bearer, well-born Agni Jatavedas, Him, Vaisvanara, almigh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/05_yena_RShayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/05_yena_RShayo.md">
 <details open><summary><h3>०५ येन ऋषयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -374,14 +374,14 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 </div>
 
 ## ०६ येन देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/06_yena_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/06_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ दे॒वा अ॒मृत॑म॒न्ववि॑न्द॒न्येनौष॑धी॒र्मधु॑मती॒रकृ॑ण्वन्।  
 येन॑ दे॒वाः स्व१॒॑राभ॑र॒न्त्स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/06_yena_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/06_yena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -390,7 +390,7 @@ With whom as friend the Rishis gave their power new splendour, with whom they ke
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/06_yena_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/06_yena_devA.md">
 <details open><summary><h3>०६ येन देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -438,14 +438,14 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 </div>
 
 ## ०७ यस्येदं प्रदिशि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ यज्जा॒तं ज॑नित॒व्यं॑ च॒ केव॑लम्।  
 स्तौम्य॒ग्निं ना॑थि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -454,7 +454,7 @@ Through whom the Gods discovered life eternal, through whom they stored the plan
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/023_pApa-mochanam/07_yasyedaM_pradishi.md">
 <details open><summary><h3>०७ यस्येदं प्रदिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

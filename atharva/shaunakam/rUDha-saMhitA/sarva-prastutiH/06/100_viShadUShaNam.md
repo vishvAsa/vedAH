@@ -2,7 +2,7 @@
 title = "१०० विषदूषणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/_index.md">
 <details open><summary><h2>१०० विषदूषणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Be
 </div>
 
 ## ०१ देवा अदुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/01_devA_aduH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/01_devA_aduH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा अ॑दुः॒ सूर्यो॒ द्यौर॑दात्पृथि॒व्य᳡दात्।  
 ति॒स्रः सर॑स्वतिरदुः॒ सचि॑त्ता विष॒दूष॑णम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/01_devA_aduH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/01_devA_aduH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 511; Griffith, i. 300; Bloomfield, 27, 511.—See also Be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/01_devA_aduH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/01_devA_aduH.md">
 <details open><summary><h3>०१ देवा अदुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 </div>
 
 ## ०२ यद्वो देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/02_yadvo_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वो॑ दे॒वा उ॑पजीका॒ आसि॑ञ्च॒न्धन्व॑न्युद॒कम्।  
 तेन॑ दे॒वप्र॑सूतेने॒दं दू॑षयता वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/02_yadvo_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ The Gods and Surya gave the gift, the Earth and Heaven best- owed the boon. The 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/02_yadvo_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/02_yadvo_devA.md">
 <details open><summary><h3>०२ यद्वो देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 </div>
 
 ## ०३ असुराणां दुहितासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 असु॑राणां दुहि॒तासि॒ सा दे॒वाना॑मसि॒ स्वसा॑।  
 दि॒वस्पृ॑थि॒व्याः संभू॑ता॒ सा च॑कर्थार॒सं वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ That water, Upajikas! which Gods poured for you on thirsty land, With that same 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/100_viShadUShaNam/03_asurANAM_duhitAsi.md">
 <details open><summary><h3>०३ असुराणां दुहितासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

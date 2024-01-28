@@ -2,7 +2,7 @@
 title = "०६४ सांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/_index.md">
 <details open><summary><h2>०६४ सांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To promote unanimity in an assembly
 </div>
 
 ## ०१ सं जानीध्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्।  
 दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To promote unanimity in an assembly
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/01_saM_jAnIdhvam.md">
 <details open><summary><h3>०१ सं जानीध्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 </div>
 
 ## ०२ समानो मन्त्रः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्।  
 स॑मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/02_samAno_mantraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Agree and be united: let your minds be all of one accord, Even as the Gods of an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/02_samAno_mantraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/02_samAno_mantraH.md">
 <details open><summary><h3>०२ समानो मन्त्रः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 </div>
 
 ## ०३ समानी व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः।  
 स॑मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/03_samAnI_va.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/064_sAMmanasyam/03_samAnI_va.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ The rede is common, common the assembly, common the law, so be their thoughts un
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/03_samAnI_va.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/064_sAMmanasyam/03_samAnI_va.md">
 <details open><summary><h3>०३ समानी व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

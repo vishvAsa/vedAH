@@ -2,7 +2,7 @@
 title = "०५३ सर्वतो रक्षणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/_index.md">
 <details open><summary><h2>०५३ सर्वतो रक्षणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for recovery and preservation of health and security
 </div>
 
 ## ०१ द्यौश्च म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन्दक्षि॑णया पिपर्तु।  
 अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for recovery and preservation of health and security
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/01_dyaushcha_ma.md">
 <details open><summary><h3>०१ द्यौश्च म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ May Heaven and Earth, wise pair, may lofty Sukra grant me this thing by reason o
 </div>
 
 ## ०२ पुनः प्राणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑।  
 वै॑श्वान॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ May Heaven and Earth, wise pair, may lofty Sukra grant me this thing by reason o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/02_punaH_prANaH.md">
 <details open><summary><h3>०२ पुनः प्राणः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -178,14 +178,14 @@ Again return to us our breath and spirit, again come back to us our life and vis
 </div>
 
 ## ०३ सं वर्चसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑।  
 त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३॒॑ यद्विरि॑ष्टम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/03_saM_varchasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/053_sarvato_raxaNam/03_saM_varchasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -194,7 +194,7 @@ Again return to us our breath and spirit, again come back to us our life and vis
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/053_sarvato_raxaNam/03_saM_varchasA.md">
 <details open><summary><h3>०३ सं वर्चसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

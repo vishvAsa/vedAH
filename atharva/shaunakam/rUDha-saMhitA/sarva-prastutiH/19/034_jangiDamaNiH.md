@@ -2,7 +2,7 @@
 title = "०३४ जङ्गिडमणिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/_index.md">
 <details open><summary><h2>०३४ जङ्गिडमणिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A protective charm addressed to the panacea called A Jangida
 </div>
 
 ## ०१ जाङ्गिडोऽसि जङ्गिडो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जा॑ङ्गि॒डो᳡ऽसि॑ जङ्गि॒डो रक्षि॑तासि जङ्गि॒डः।  
 द्वि॒पाच्चतु॑ष्पाद॒स्माकं॒ सर्वं॑ रक्षतु जङ्गि॒डः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A protective charm addressed to the panacea called A Jangida
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/01_jAngiDo-si_jangiDo.md">
 <details open><summary><h3>०१ जाङ्गिडोऽसि जङ्गिडो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safel
 </div>
 
 ## ०२ या गृत्स्यस्त्रिपञ्चाशीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या गृत्स्य॑स्त्रिपञ्चा॒शीः श॒तं कृ॑त्या॒कृत॑श्च॒ ये।  
 सर्वा॑न्विनक्तु॒ तेज॑सोऽर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ Jangida, thou art Angiras: thou art a guardian, Jangida. Let Jangida, keep safel
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/02_yA_gRtsyastripanchAshIH.md">
 <details open><summary><h3>०२ या गृत्स्यस्त्रिपञ्चाशीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -223,14 +223,14 @@ Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All thes
 </div>
 
 ## ०३ अरसं कृत्रिमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑र॒सं कृ॒त्रिमं॑ ना॒दम॑रसाः स॒प्त विस्र॑सः।  
 अपे॒तो ज॑ङ्गि॒डाम॑ति॒मिषु॒मस्ते॑व शातय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -239,7 +239,7 @@ Dice-witcheries, the fifty-threes, the hundred witchcraft-practi- sers, All thes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/03_arasaM_kRtrimam.md">
 <details open><summary><h3>०३ अरसं कृत्रिमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ Baffle the loud factitious howl, make impotent the seven decays. As when an arch
 </div>
 
 ## ०४ कृत्यादूषण एवायमथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॑त्या॒दूष॑ण ए॒वायमथो॑ अराति॒दूष॑णः।  
 अथो॒ सह॑स्वाञ्जङ्गि॒डः प्र ण॒ आयूं॑षि तारिषत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ Baffle the loud factitious howl, make impotent the seven decays. As when an arch
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/04_kRtyAdUShaNa_evAyamatho.md">
 <details open><summary><h3>०४ कृत्यादूषण एवायमथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -365,14 +365,14 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 </div>
 
 ## ०५ स जङ्गिडस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स ज॑ङ्गि॒डस्य॑ महि॒मा परि॑ णः पातु वि॒श्वतः॑।  
 विष्क॑न्धं॒ येन॑ सा॒सह॒ संस्क॑न्ध॒मोज॒ ओज॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -381,7 +381,7 @@ This counteracts the sorceress, this banishes malignity: Then may victorious Jan
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/05_sa_jangiDasya.md">
 <details open><summary><h3>०५ स जङ्गिडस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -438,14 +438,14 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 </div>
 
 ## ०६ त्रिष्ट्वा देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रिष्ट्वा॑ दे॒वा अ॑जनय॒न्निष्ठि॑तं॒ भूम्या॒मधि॑।  
 तमु॒ त्वाङ्गि॑रा॒ इति॑ ब्राह्म॒णाः पू॒र्व्या वि॑दुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/06_triShTvA_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -454,7 +454,7 @@ Let Jangida's protecting might encompass us on every side. Wherewith he quells V
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/06_triShTvA_devA.md">
 <details open><summary><h3>०६ त्रिष्ट्वा देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -504,14 +504,14 @@ Three times the Gods engendered thee fixt on the surface of the earth; The Brahm
 </div>
 
 ## ०७ न त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/07_na_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/07_na_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न त्वा॒ पूर्वा॒ ओष॑धयो॒ न त्वा॑ तरन्ति॒ या नवाः॑।  
 विबा॑ध उ॒ग्रो ज॑ङ्गि॒डः प॑रि॒पाणः॑ सुम॒ङ्गलः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/07_na_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/07_na_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -520,7 +520,7 @@ Three times the Gods engendered thee fixt on the surface of the earth; The Brahm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/07_na_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/07_na_tvA.md">
 <details open><summary><h3>०७ न त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -569,14 +569,14 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 </div>
 
 ## ०८ अथोपदान भगवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अथो॑पदान भगवो॒ जाङ्गि॒डामि॑तवीर्य।  
 पु॒रा त॑ उ॒ग्रा ग्र॑सत॒ उपेन्द्रो॑ वी॒र्यं᳡ ददौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -585,7 +585,7 @@ The ancient plants surpass thee not, nor any herbs of recent days. A potent char
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/08_athopadAna_bhagavo.md">
 <details open><summary><h3>०८ अथोपदान भगवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -648,14 +648,14 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 </div>
 
 ## ०९ उग्र इत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/09_ugra_itte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒ग्र इत्ते॑ वनस्पत॒ इन्द्र॑ ओ॒ज्मान॒मा द॑धौ।  
 अमी॑वाः॒ सर्वा॑श्चा॒तयं॑ ज॒हि रक्षां॑स्योषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/09_ugra_itte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -664,7 +664,7 @@ Then when thou sprangest into life, Jangida of un-measured strength, Indra, O mi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/09_ugra_itte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/09_ugra_itte.md">
 <details open><summary><h3>०९ उग्र इत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -714,14 +714,14 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 </div>
 
 ## १० आशरीकं विशरीकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आश॑रीकं॒ विश॑रीकं ब॒लासं॑ पृष्ट्याम॒यम्।  
 त॒क्मानं॑ वि॒श्वशा॑रदमर॒सान् ज॑ङ्गि॒डस्क॑रत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -730,7 +730,7 @@ To thee in truth, O Forest Tree, Indra the mighty One gave strength. Driving awa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/034_jangiDamaNiH/10_AsharIkaM_visharIkam.md">
 <details open><summary><h3>१० आशरीकं विशरीकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०७२ वाजीकरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/_index.md">
 <details open><summary><h2>०७२ वाजीकरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to restore or increase virile power
 </div>
 
 ## ०१ यथासितः प्रथयते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑।  
 ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to restore or increase virile power
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/01_yathAsitaH_prathayate.md">
 <details open><summary><h3>०१ यथासितः प्रथयते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas 
 </div>
 
 ## ०२ यथा पसस्तायादरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ पस॑स्तायाद॒रं वाते॑न स्थूल॒भं कृ॒तम्।  
 याव॑त्पर॒स्वतः॒ पस॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Sicut anguis niger ad voluntatem se extendit, Asurarum arte magica formas novas 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/02_yathA_pasastAyAdaram.md">
 <details open><summary><h3>०२ यथा पसस्तायादरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 </div>
 
 ## ०३ यावदङ्गीनं पारस्वतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याव॑द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्।  
 याव॒दश्व॑स्य वा॒जिन॒स्ताव॑त्ते वर्धतां॒ पसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Velut penis (tayadarus quem ventus permagnum fecit, quantus. est onagri penis, t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/072_vAjIkaraNam/03_yAvadangInaM_pArasvatam.md">
 <details open><summary><h3>०३ यावदङ्गीनं पारस्वतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०८४ निर्ऋतिमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/_index.md">
 <details open><summary><h2>०८४ निर्ऋतिमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to accompany the symbolical loosing of sacrificial victims
 </div>
 
 ## ०१ यस्यास्त आसनि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्या॑स्त आ॒सनि॑ घो॒रे जु॒होम्ये॒षां ब॒द्धाना॑मव॒सर्ज॑नाय॒ कम्।  
 भूमि॒रिति॑ त्वाभि॒प्रम॑न्वते॒ जना॒ निरृ॑ति॒रिति॑ त्वा॒हं परि॑ वेद स॒र्वतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to accompany the symbolical loosing of sacrificial victims
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/01_yasyAsta_Asani.md">
 <details open><summary><h3>०१ यस्यास्त आसनि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -113,14 +113,14 @@ Thou in whose dread mouth I present oblation, that these bound victims may obtai
 </div>
 
 ## ०२ भूते हविष्मती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भूते॑ ह॒विष्म॑ती भवै॒ष ते॑ भा॒गो यो अ॒स्मासु॑।  
 मु॒ञ्चेमान॒मूनेन॑सः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -129,7 +129,7 @@ Thou in whose dread mouth I present oblation, that these bound victims may obtai
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/02_bhUte_haviShmatI.md">
 <details open><summary><h3>०२ भूते हविष्मती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ Be thou enriched, O Welfare, with oblations, here among us is thine allotted por
 </div>
 
 ## ०३ एवो ष्वस्मन्निरृतेऽनेहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒वो ष्व१॒॑स्मन्नि॑रृतेऽने॒हा त्वम॑य॒स्मया॒न्वि चृ॑ता बन्धपा॒शान्।  
 य॒मो मह्यं॒ पुन॒रित्त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Be thou enriched, O Welfare, with oblations, here among us is thine allotted por
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/03_evo_ShvasmannirRte-nehA.md">
 <details open><summary><h3>०३ एवो ष्वस्मन्निरृतेऽनेहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -241,14 +241,14 @@ Do thou, Destruction, thus, without a rival, release us from the iron bonds that
 </div>
 
 ## ०४ अयस्मये द्रुपदे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
 य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -257,7 +257,7 @@ Do thou, Destruction, thus, without a rival, release us from the iron bonds that
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/084_nirRtimochanam/04_ayasmaye_drupade.md">
 <details open><summary><h3>०४ अयस्मये द्रुपदे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

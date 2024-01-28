@@ -2,7 +2,7 @@
 title = "०९६ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/_index.md">
 <details open><summary><h2>०९६ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 39, iii; Griffith, i. 376.
 </div>
 
 ## ०१ असदन्गावः सदनेऽपप्तद्वसतिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अस॑द॒न्गावः॒ सद॒नेऽप॑प्तद्वस॒तिं वयः॑।  
 आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 39, iii; Griffith, i. 376.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/096_shatrunAshanam/01_asadangAvaH_sadane-paptadvasatim.md">
 <details open><summary><h3>०१ असदन्गावः सदनेऽपप्तद्वसतिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

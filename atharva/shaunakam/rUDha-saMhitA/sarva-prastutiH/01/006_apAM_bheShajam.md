@@ -2,7 +2,7 @@
 title = "००६ अपां भेषजम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/_index.md">
 <details open><summary><h2>००६ अपां भेषजम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,9 +34,9 @@ To the waters, for health and wealth
 </div>
 
 ## ०१ शं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/01_shaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/009/04_shaM_no.md">
 <details open><summary><h5>०४ शं नो ...{Loading}...</h5></summary>
 
 
@@ -48,7 +48,7 @@ To the waters, for health and wealth
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/01_shaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/01_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -57,7 +57,7 @@ To the waters, for health and wealth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/01_shaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/01_shaM_no.md">
 <details open><summary><h3>०१ शं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream
 </div>
 
 ## ०२ अप्सु मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/02_apsu_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/02_apsu_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।  
 अ॒ग्निं च॑ वि॒श्वशं॑भुवम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/02_apsu_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/02_apsu_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ The Waters be to us for drink, Goddesses, for our aid and bliss: Let them stream
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/02_apsu_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/02_apsu_me.md">
 <details open><summary><h3>०२ अप्सु मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, 
 </div>
 
 ## ०३ आपः पृणीत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॑३ मम॑।  
 ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Within the Waters--Soma thus hath told me--dwell all balms that heal, And Agni, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/03_ApaH_pRNIta.md">
 <details open><summary><h3>०३ आपः पृणीत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,7 +234,7 @@ O Waters, teem with medicine to keep my body safe from harm, So that I long may 
 </div>
 
 ## ०४ शं न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/04_shaM_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/006_apAM_bheShajam/04_shaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं न॒ आपो॑ धन्व॒न्या॑३॒॑ शमु॑ सन्त्वनू॒प्याः॑।  
@@ -242,7 +242,7 @@ O Waters, teem with medicine to keep my body safe from harm, So that I long may 
 शि॒वा नः॑ सन्तु॒ वार्षि॑कीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/04_shaM_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/006_apAM_bheShajam/04_shaM_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ O Waters, teem with medicine to keep my body safe from harm, So that I long may 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/04_shaM_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/006_apAM_bheShajam/04_shaM_na.md">
 <details open><summary><h3>०४ शं न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

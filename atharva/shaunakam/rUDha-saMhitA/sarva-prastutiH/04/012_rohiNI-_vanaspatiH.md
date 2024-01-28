@@ -2,7 +2,7 @@
 title = "०१२ रोहिणी- वनस्पतिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/_index.md">
 <details open><summary><h2>०१२ रोहिणी- वनस्पतिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to mend a broken bone
 </div>
 
 ## ०१ रोहण्यसि रोहण्यस्थ्नश्छिन्नस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रोह॑ण्यसि॒ रोह॑ण्य॒स्थ्नश्छि॒न्नस्य॒ रोह॑णी।  
 रो॒हये॒दम॑रुन्धति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to mend a broken bone
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/01_rohaNyasi_rohaNyasthnashChinnasya.md">
 <details open><summary><h3>०१ रोहण्यसि रोहण्यस्थ्नश्छिन्नस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ Thou art the healer, making whole, the healer of the broken bone: Make thou this
 </div>
 
 ## ०२ यत्ते रिष्टम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ रि॒ष्टं यत्ते॑ द्यु॒त्तमस्ति॒ पेष्ट्रं॑ त आ॒त्मनि॑।  
 धा॒ता तद्भ॒द्रया॒ पुनः॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ Thou art the healer, making whole, the healer of the broken bone: Make thou this
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/02_yatte_riShTam.md">
 <details open><summary><h3>०२ यत्ते रिष्टम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar
 </div>
 
 ## ०३ सं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं ते॑ म॒ज्जा म॒ज्ज्ञा भ॑वतु॒ समु॑ ते॒ परु॑षा॒ परुः॑।  
 सं ते॑ मां॒सस्य॒ विस्र॑स्तं॒ समस्थ्यपि॑ रोहतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Whatever bone of thine within thy body hath been wrenched or cracked, May Dhatar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/03_saM_te.md">
 <details open><summary><h3>०३ सं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -248,14 +248,14 @@ With marrow be the marrow joined, thy limb united with the limb. Let what hath f
 </div>
 
 ## ०४ मज्जा मज्ज्ञा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒ज्जा म॒ज्ज्ञा सं धी॑यतां॒ चर्म॑णा॒ चर्म॑ रोहतु।  
 असृ॑क्ते॒ अस्थि॑ रोहतु मां॒सं मां॒सेन॑ रोहतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -264,7 +264,7 @@ With marrow be the marrow joined, thy limb united with the limb. Let what hath f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/04_majjA_majjnA.md">
 <details open><summary><h3>०४ मज्जा मज्ज्ञा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -315,14 +315,14 @@ Let marrow close with marrow, let skin grow united with the skin. Let blood and 
 </div>
 
 ## ०५ लोम लोम्ना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 लोम॒ लोम्ना॒ सं क॑ल्पया त्व॒चा सं क॑ल्पया॒ त्वच॑म्।  
 असृ॑क्ते॒ अस्थि॑ रोहतु छि॒न्नं सं धे॑ह्योषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -331,7 +331,7 @@ Let marrow close with marrow, let skin grow united with the skin. Let blood and 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/05_loma_lomnA.md">
 <details open><summary><h3>०५ लोम लोम्ना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -381,14 +381,14 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 </div>
 
 ## ०६ स उत्तिष्ठ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उत्ति॑ष्ठ॒ प्रेहि॒ प्र द्र॑व॒ रथः॑ सुच॒क्रः सु॑प॒विः सु॒नाभिः॒।  
 प्रति॑ तिष्ठो॒र्ध्वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -397,7 +397,7 @@ Join thou together hair with hair, join thou together skin with skin. Let blood 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/06_sa_uttiShTha.md">
 <details open><summary><h3>०६ स उत्तिष्ठ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -446,14 +446,14 @@ Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! St
 </div>
 
 ## ०७ यदि कर्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ क॒र्तं प॑ति॒त्वा सं॑श॒श्रे यदि॒ वाश्मा॒ प्रहृ॑तो ज॒घान॑।  
 ऋ॒भू रथ॑स्ये॒वाङ्गा॑नि॒ सं द॑ध॒त्परु॑षा॒ परुः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -462,7 +462,7 @@ Arise, advance, speed forth; the car hath goodly fellies, naves, and wheels!! St
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/012_rohiNI-_vanaspatiH/07_yadi_kartam.md">
 <details open><summary><h3>०७ यदि कर्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

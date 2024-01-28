@@ -2,7 +2,7 @@
 title = "०८८ ध्रुवो राजा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/_index.md">
 <details open><summary><h2>०८८ ध्रुवो राजा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction addressed to a newly elected King
 </div>
 
 ## ०१ ध्रुवा द्यौर्ध्रुवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वं विश्व॑मि॒दं जग॑त्।  
 ध्रु॒वासः॒ पर्व॑ता इ॒मे ध्रु॒वो राजा॑ वि॒शाम॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction addressed to a newly elected King
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/01_dhruvA_dyaurdhruvA.md">
 <details open><summary><h3>०१ ध्रुवा द्यौर्ध्रुवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 </div>
 
 ## ०२ ध्रुवं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वम्दे॒वो बृह॒स्पतिः॑।  
 ध्रु॒वं त॒ इन्द्र॒श्चाग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Firm is the sky, firm is the earth, and firm is all this living world; Firm are 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/02_dhruvaM_te.md">
 <details open><summary><h3>०२ ध्रुवं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,14 +161,14 @@ Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra st
 </div>
 
 ## ०३ ध्रुवोऽच्युतः प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ध्रु॒वोऽच्यु॑तः॒ प्र मृ॑णीहि॒ शत्रू॑न्छत्रूय॒तोऽध॑रान्पादयस्व।  
 सर्वा॒ दिशः॒ संम॑नसः स॒ध्रीची॑र्ध्रु॒वाय॑ ते॒ समि॑तिः कल्पतामि॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -177,7 +177,7 @@ Stedfast may Varuna the King, stedfast the God Brihaspati, Stedfast may Indra st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/088_dhruvo_rAjA/03_dhruvo-chyutaH_pra.md">
 <details open><summary><h3>०३ ध्रुवोऽच्युतः प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

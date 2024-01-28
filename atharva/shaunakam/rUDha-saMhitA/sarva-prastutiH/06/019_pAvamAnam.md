@@ -2,7 +2,7 @@
 title = "०१९ पावमानम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/_index.md">
 <details open><summary><h2>०१९ पावमानम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for purification
 </div>
 
 ## ०१ पुनन्तु मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/01_punantu_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/01_punantu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या।  
 पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/01_punantu_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/01_punantu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for purification
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/01_punantu_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/01_punantu_mA.md">
 <details open><summary><h3>०१ पुनन्तु मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 </div>
 
 ## ०२ पवमानः पुनातु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑।  
 अथो॑ अरि॒ष्टता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Let the Gods purify me, let men purify me with a prayer. Cleanse me all creature
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/02_pavamAnaH_punAtu.md">
 <details open><summary><h3>०२ पवमानः पुनातु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 </div>
 
 ## ०३ उभाभ्यां देव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च।  
 अ॒स्मान्पु॑नीहि॒ चक्ष॑से ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ May Pavamana make me pure for wisdom and for power and life, and unassailed secu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/019_pAvamAnam/03_ubhAbhyAM_deva.md">
 <details open><summary><h3>०३ उभाभ्यां देव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

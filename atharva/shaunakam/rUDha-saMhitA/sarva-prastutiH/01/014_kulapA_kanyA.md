@@ -2,7 +2,7 @@
 title = "०१४ कुलपा कन्या"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/_index.md">
 <details open><summary><h2>०१४ कुलपा कन्या ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A woman's incantation against a rival
 </div>
 
 ## ०१ भगमस्या वर्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भग॑मस्या॒ वर्च॒ आदि॒ष्यधि॑ वृ॒क्षादि॑व॒ स्रज॑म्।  
 म॒हाबु॑ध्न इव॒ पर्व॑तो॒ ज्योक्पि॒तृष्वा॑स्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A woman's incantation against a rival
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/01_bhagamasyA_varcha.md">
 <details open><summary><h3>०१ भगमस्या वर्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 </div>
 
 ## ०२ एषा ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/02_eShA_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/02_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒षा ते॑ राजन्क॒न्या॑ व॒धूर्नि धू॑यतां यम।  
 सा मा॒तुर्ब॑ध्यतां गृ॒हे ऽथो॒ भ्रातु॒रथो॑ पि॒तुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/02_eShA_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/02_eShA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ As from the tree a wreath, have I assumed her fortune and her fame: Among her ki
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/02_eShA_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/02_eShA_te.md">
 <details open><summary><h3>०२ एषा ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -178,14 +178,14 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 </div>
 
 ## ०३ एषा ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/03_eShA_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/03_eShA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒षा ते॑ कुल॒पा रा॑ज॒न्तामु॑ ते॒ परि॑ दद्मसि।  
 ज्योक्पि॒तृष्वा॑साता॒ आ शी॒र्ष्णः स॒मोप्या॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/03_eShA_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/03_eShA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -194,7 +194,7 @@ King Yama, let this maiden be surrendered as a wife to thee: Bound let her be me
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/03_eShA_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/03_eShA_te.md">
 <details open><summary><h3>०३ एषा ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -253,7 +253,7 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 </div>
 
 ## ०४ असितस्य ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/04_asitasya_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 असि॑तस्य ते॒ ब्रह्म॑णा क॒श्यप॑स्य॒ गय॑स्य च।  
@@ -263,7 +263,7 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 ।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/04_asitasya_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -275,7 +275,7 @@ Queen of thy race is she, O King: to thee do we deliver her. Long with her kinsf
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/04_asitasya_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/014_kulapA_kanyA/04_asitasya_te.md">
 <details open><summary><h3>०४ असितस्य ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

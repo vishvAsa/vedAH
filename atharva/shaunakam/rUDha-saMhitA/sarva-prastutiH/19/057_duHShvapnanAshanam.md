@@ -2,7 +2,7 @@
 title = "०५७ दुःष्वप्ननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/_index.md">
 <details open><summary><h2>०५७ दुःष्वप्ननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A charm against evil dreams
 </div>
 
 ## ०१ यथा कलाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
 ए॒वा दुः॒ष्वप्न्यं॒ सर्व॒मप्रि॑ये॒ सं न॑यामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A charm against evil dreams
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/01_yathA_kalAm.md">
 <details open><summary><h3>०१ यथा कलाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 </div>
 
 ## ०२ सं राजानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं राजा॑नो अगुः॒ समृ॒णान्य॑गुः॒ सं कु॒ष्ठा अ॑गुः॒ सं क॒ला अ॑गुः।  
 सम॒स्मासु॒ यद्दुः॒ष्वप्न्यं॒ निर्द्वि॑ष॒ते दुः॒ष्वप्न्यं॑ सुवाम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ As men discharge the utmost debt, collect the eighth and sixteenth part, So to t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/02_saM_rAjAno.md">
 <details open><summary><h3>०२ सं राजानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -178,7 +178,7 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 </div>
 
 ## ०३ देवानां पत्नीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 देवा॑नां पत्नीनां गर्भ॒ यम॑स्य कर॒ यो भ॒द्रः स्व॑प्न।  
@@ -186,7 +186,7 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 मा तृ॒ष्टाना॑मसि कृष्णशकु॒नेर्मुख॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Princes came together, debts came together, Kushthas came to- gether, Sixteenths
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/03_devAnAM_patnInAm.md">
 <details open><summary><h3>०३ देवानां पत्नीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -259,14 +259,14 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 </div>
 
 ## ०४ तं त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स त्वं स्व॒प्नाश्व॑ इव का॒यमश्व॑ इव नीना॒हम्।  
 अ॑नास्मा॒कं दे॑वपी॒युं पिया॑रुं वप॒ यद॒स्मासु॑ दुः॒ष्वप्न्यं॒ यद्गोषु॒ यच्च॑ नो गृ॒हे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/04_taM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/04_taM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -275,7 +275,7 @@ Child of Gods' Consorts, minister of Yama is the good Dream: that which is my tr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/04_taM_tvA.md">
 <details open><summary><h3>०४ तं त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -351,7 +351,7 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 </div>
 
 ## ०५ अनास्माकस्तद्देवपीयुः पियारुर्निष्कमिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नास्मा॒कस्तद्दे॑वपी॒युः पिया॑रुर्नि॒ष्कमि॑व॒ प्रति॑ मुञ्चताम्।  
@@ -359,7 +359,7 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते निर्द॑यामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -369,7 +369,7 @@ Thou whose name is Rough art the mouth of the Black Bird. As such we know thee, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/057_duHShvapnanAshanam/05_anAsmAkastaddevapIyuH_piyArurniShkamiva.md">
 <details open><summary><h3>०५ अनास्माकस्तद्देवपीयुः पियारुर्निष्कमिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०६२ पावमानम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/_index.md">
 <details open><summary><h2>०६२ पावमानम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for purification and riches
 </div>
 
 ## ०१ वैश्वानरो रश्मिभिर्नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑श्वान॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः।  
 द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री यज्ञिये नः पुनीताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for purification and riches
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/01_vaishvAnaro_rashmibhirnaH.md">
 <details open><summary><h3>०१ वैश्वानरो रश्मिभिर्नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 </div>
 
 ## ०२ वैश्वानरीं सूनृतामा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑श्वान॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वो᳡ वी॒तपृ॑ष्ठाः।  
 तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Cleanse us Vaisvanara with rays of splendour! With breath and clouds let quicken
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/02_vaishvAnarIM_sUnRtAmA.md">
 <details open><summary><h3>०२ वैश्वानरीं सूनृतामा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 </div>
 
 ## ०३ वैश्वानरीं वर्चस
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑श्वान॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः।  
 इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक्प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Lay hold on Sunrita whose forms and regions have fair smooth backs, her who is a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/062_pAvamAnam/03_vaishvAnarIM_varchasa.md">
 <details open><summary><h3>०३ वैश्वानरीं वर्चस ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

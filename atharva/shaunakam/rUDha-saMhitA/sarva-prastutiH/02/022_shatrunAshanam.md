@@ -2,7 +2,7 @@
 title = "०२२ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/_index.md">
 <details open><summary><h2>०२२ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>VH anukramaṇī</summary>
 
@@ -13,13 +13,13 @@ title = "०२२ शत्रुनाशनम्"
 </div>
 
 ## ०१ चन्द्र यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/01_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/01_chandra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चन्द्र॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/01_chandra_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/01_chandra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -27,7 +27,7 @@ title = "०२२ शत्रुनाशनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/01_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/01_chandra_yatte.md">
 <details open><summary><h3>०१ चन्द्र यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -72,13 +72,13 @@ title = "०२२ शत्रुनाशनम्"
 </div>
 
 ## ०२ चन्द्र यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/02_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/02_chandra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चन्द्र॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/02_chandra_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/02_chandra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -86,7 +86,7 @@ title = "०२२ शत्रुनाशनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/02_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/02_chandra_yatte.md">
 <details open><summary><h3>०२ चन्द्र यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -115,13 +115,13 @@ title = "०२२ शत्रुनाशनम्"
 </div>
 
 ## ०३ चन्द्र यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/03_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/03_chandra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चन्द्र॒ यत्ते॒ ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/03_chandra_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/03_chandra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -129,7 +129,7 @@ title = "०२२ शत्रुनाशनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/03_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/03_chandra_yatte.md">
 <details open><summary><h3>०३ चन्द्र यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,13 +158,13 @@ title = "०२२ शत्रुनाशनम्"
 </div>
 
 ## ०४ चन्द्र यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/04_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/04_chandra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चन्द्र॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/04_chandra_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/04_chandra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -172,7 +172,7 @@ title = "०२२ शत्रुनाशनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/04_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/04_chandra_yatte.md">
 <details open><summary><h3>०४ चन्द्र यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -201,13 +201,13 @@ title = "०२२ शत्रुनाशनम्"
 </div>
 
 ## ०५ चन्द्र यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/05_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/022_shatrunAshanam/05_chandra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चन्द्र॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/05_chandra_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/022_shatrunAshanam/05_chandra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -215,7 +215,7 @@ title = "०२२ शत्रुनाशनम्"
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/05_chandra_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/022_shatrunAshanam/05_chandra_yatte.md">
 <details open><summary><h3>०५ चन्द्र यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

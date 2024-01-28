@@ -2,7 +2,7 @@
 title = "००८ क्षेत्रियरोगनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/_index.md">
 <details open><summary><h2>००८ क्षेत्रियरोगनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against hereditary disease (kshetriya)
 </div>
 
 ## ०१ उदगातां भगवती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के।  
 वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against hereditary disease (kshetriya)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/01_udagAtAM_bhagavatI.md">
 <details open><summary><h3>०१ उदगातां भगवती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -115,14 +115,14 @@ Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inhe
 </div>
 
 ## ०२ अपेयं रात्र्युच्छत्वपोच्छन्त्वभिकृत्वरीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपे॒यं रात्र्यु॑च्छ॒त्वपो॑च्छन्त्वभि॒कृत्व॑रीः।  
 वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -131,7 +131,7 @@ Twin Stars of happy omen, named Releasers, have gone up. May they Loose, of inhe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/02_apeyaM_rAtryuchChatvapochChantvabhikRtvarIH.md">
 <details open><summary><h3>०२ अपेयं रात्र्युच्छत्वपोच्छन्त्वभिकृत्वरीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -183,14 +183,14 @@ Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So 
 </div>
 
 ## ०३ बभ्रोरर्जुनकाण्डस्य यवस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब॒भ्रोरर्जु॑नकाण्डस्य॒ यव॑स्य ते पला॒ल्या तिल॑स्य तिलपि॒ञ्ज्या।  
 वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -199,7 +199,7 @@ Vanish this Night, extinct in Dawn! Let those who weave their spells depart. So 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/03_babhrorarjunakANDasya_yavasya.md">
 <details open><summary><h3>०३ बभ्रोरर्जुनकाण्डस्य यवस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -250,14 +250,14 @@ With straw of barley tawny-brown in colour with its silvery ears, with stalk and
 </div>
 
 ## ०४ नमस्ते लाङ्गलेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते॒ लाङ्ग॑लेभ्यो॒ नम॑ ईषायु॒गेभ्यः॑।  
 वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -266,7 +266,7 @@ With straw of barley tawny-brown in colour with its silvery ears, with stalk and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/04_namaste_lAngalebhyo.md">
 <details open><summary><h3>०४ नमस्ते लाङ्गलेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -317,14 +317,14 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 </div>
 
 ## ०५ नमः सनिस्रसाक्षेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमः॑ सनिस्रसा॒क्षेभ्यो॒ नमः॑ संदे॒श्ये॑भ्यः।  
 नमः॒ क्षेत्र॑स्य॒ पत॑ये वी॒रुत्क्षे॑त्रिय॒नाश॒न्यप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -333,7 +333,7 @@ Let homage to thy ploughs be paid, our homage to the pole and yokes. So let the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/008_xetriyaroganAshanam/05_namaH_sanisrasAxebhyo.md">
 <details open><summary><h3>०५ नमः सनिस्रसाक्षेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३३ पाप-नाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/_index.md">
 <details open><summary><h2>०३३ पाप-नाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Agni for protection and prosperity
 </div>
 
 ## ०१ अप नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/01_apa_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/01_apa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑ नः॒ शोशु॑चद॒घमग्ने॑ शुशु॒ग्ध्या र॒यिम्।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/01_apa_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/01_apa_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Agni for protection and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/01_apa_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/01_apa_naH.md">
 <details open><summary><h3>०१ अप नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 </div>
 
 ## ०२ सुक्षेत्रिया सुगातुया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॑क्षेत्रि॒या सु॑गातु॒या व॑सू॒या च॑ यजामहे।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Chasing our pain with splendid light, O Agni, shine thou wealth on us. His lustr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/02_suxetriyA_sugAtuyA.md">
 <details open><summary><h3>०२ सुक्षेत्रिया सुगातुया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,14 +161,14 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 </div>
 
 ## ०३ प्र यद्भन्दिष्ठ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र यद्भन्दि॑ष्ठ एषां॒ प्रास्माका॑सश्च सू॒रयः॑।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -177,7 +177,7 @@ For goodly fields, for pleasant homes, for wealth we sacrifice to thee. His lust
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/03_pra_yadbhandiShTha.md">
 <details open><summary><h3>०३ प्र यद्भन्दिष्ठ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -222,14 +222,14 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 </div>
 
 ## ०४ प्र यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/04_pra_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र यत्ते॑ अग्ने सू॒रयो॒ जाये॑महि॒ प्र ते॑ व॒यम्।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/04_pra_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -238,7 +238,7 @@ Best praiser of all these be he, and foremost be our noble chiefs. His lustre fl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/04_pra_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/04_pra_yatte.md">
 <details open><summary><h3>०४ प्र यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -283,14 +283,14 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 </div>
 
 ## ०५ प्र यदग्नेः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/05_pra_yadagneH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -299,7 +299,7 @@ So that thy worshipper and we, thine, Agni! in our sons may live. His lustre fla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/05_pra_yadagneH.md">
 <details open><summary><h3>०५ प्र यदग्नेः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -354,14 +354,14 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 </div>
 
 ## ०६ त्वं हि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/06_tvaM_hi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वं हि वि॑श्वतोमुख वि॒श्वतः॑ परि॒भूर॑सि।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/06_tvaM_hi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -370,7 +370,7 @@ As ever conquering Agni's beams of splendour go to every side, His lustre flash 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/06_tvaM_hi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/06_tvaM_hi.md">
 <details open><summary><h3>०६ त्वं हि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -415,14 +415,14 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 </div>
 
 ## ०७ द्विषो नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/07_dviSho_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्विषो॑ नो विश्वतोमु॒खाति॑ ना॒वेव॑ पारय।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/07_dviSho_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -431,7 +431,7 @@ To every side thy face is turned, thou art triumphant everywhere. His lustre fla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/07_dviSho_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/07_dviSho_no.md">
 <details open><summary><h3>०७ द्विषो नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -476,14 +476,14 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 </div>
 
 ## ०८ स नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/08_sa_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/033_pApa-nAshanam/08_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स नः॒ सिन्धु॑मिव ना॒वाति॑ पर्षा स्व॒स्तये॑।  
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/08_sa_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/033_pApa-nAshanam/08_sa_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -492,7 +492,7 @@ O thou whose face looks every way, bear off our foes as in a ship. His lustre fl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/08_sa_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/033_pApa-nAshanam/08_sa_naH.md">
 <details open><summary><h3>०८ स नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

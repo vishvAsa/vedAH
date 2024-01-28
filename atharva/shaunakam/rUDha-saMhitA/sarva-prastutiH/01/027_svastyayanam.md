@@ -2,7 +2,7 @@
 title = "०२७ स्वस्त्ययनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/_index.md">
 <details open><summary><h2>०२७ स्वस्त्ययनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to obtain invisibility
 </div>
 
 ## ०१ अमूः पारे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/01_amUH_pAre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/01_amUH_pAre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मूः पा॒रे पृ॑दा॒क्व॑स्त्रिष॒प्ता निर्ज॑रायवः।  
 तासा॑म्ज॒रायु॑भिर्व॒यम॒क्ष्या॒३॒॑वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/01_amUH_pAre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/01_amUH_pAre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to obtain invisibility
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/01_amUH_pAre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/01_amUH_pAre.md">
 <details open><summary><h3>०१ अमूः पारे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ There on the bank those Vipers lie, thrice-seven, having cast their skins: Now w
 </div>
 
 ## ०२ विषूच्येतु कृन्तती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती।  
 विष्व॑क्पुन॒र्भुवा॒ मनो ऽस॑मृद्धा अघा॒यवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ There on the bank those Vipers lie, thrice-seven, having cast their skins: Now w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/02_viShUchyetu_kRntatI.md">
 <details open><summary><h3>०२ विषूच्येतु कृन्तती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 </div>
 
 ## ०३ न बहवः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/03_na_bahavaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/03_na_bahavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न ब॒हवः॒ सम॑शक॒न्नार्भ॒का अ॒भि दा॑धृषुः।  
 वे॒णोरद्गा॑ इवा॒भितो ऽस॑मृद्धा अघा॒यवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/03_na_bahavaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/03_na_bahavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Far let her go, cutting her way, brandishing, as it were, a club: Diverted be th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/03_na_bahavaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/03_na_bahavaH.md">
 <details open><summary><h3>०३ न बहवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -241,14 +241,14 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 </div>
 
 ## ०४ प्रेतं पादौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/04_pretaM_pAdau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/027_svastyayanam/04_pretaM_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्।  
 इ॑न्द्रा॒ण्ये॑तु प्रथ॒माजी॒तामु॑षिता पु॒रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/04_pretaM_pAdau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/027_svastyayanam/04_pretaM_pAdau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -257,7 +257,7 @@ Not many have had power enough; the feeble ones have not prevailed, Like scatter
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/04_pretaM_pAdau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/027_svastyayanam/04_pretaM_pAdau.md">
 <details open><summary><h3>०४ प्रेतं पादौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

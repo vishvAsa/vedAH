@@ -2,7 +2,7 @@
 title = "००८ राज्याभिषेकः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/_index.md">
 <details open><summary><h2>००८ राज्याभिषेकः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A benediction at the consecration of a King
 </div>
 
 ## ०१ भूतो भूतेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भू॒तो भू॒तेषु॒ पय॒ आ द॑धाति॒ स भू॒ताना॒मधि॑पतिर्बभूव।  
 तस्य॑ मृ॒त्युश्च॑रति राज॒सूयं॒ स राजा॒ रा॒ज्यमनु॑ मन्यतामि॒दम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A benediction at the consecration of a King
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/01_bhUto_bhUteShu.md">
 <details open><summary><h3>०१ भूतो भूतेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ The Being lays the sap of life in beings: he hath become the sovran Lord of crea
 </div>
 
 ## ०२ अभि प्रेहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि प्रेहि॒ माप॑ वेन उ॒ग्रश्चे॒त्ता स॑पत्न॒हा।  
 आ ति॑ष्ठ मित्रवर्धन॒ तुभ्यं॑ दे॒वा अधि॑ ब्रुवन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ The Being lays the sap of life in beings: he hath become the sovran Lord of crea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/02_abhi_prehi.md">
 <details open><summary><h3>०२ अभि प्रेहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -185,14 +185,14 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 </div>
 
 ## ०३ आतिष्ठन्तं परि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूषं॒ छ्रियं॒ वसा॑नश्चरति॒ स्वरो॑चिः।  
 म॒हत्तद्वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -201,7 +201,7 @@ Come forward, turn not back in scorn, strong guardian, slayer of the foes. Appro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/03_AtiShThantaM_pari.md">
 <details open><summary><h3>०३ आतिष्ठन्तं परि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -260,14 +260,14 @@ All waited on him as he came to meet them. He self-resplendent moves endued with
 </div>
 
 ## ०४ व्याघ्रो अधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्या॒घ्रो अधि॒ वैया॑घ्रे॒ वि क्र॑मस्व॒ दिशो॑ म॒हीः।  
 विश॑स्त्वा॒ सर्वा॑ वाञ्छ॒न्त्वापो॑ दि॒व्याः पय॑स्वतीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -276,7 +276,7 @@ All waited on him as he came to meet them. He self-resplendent moves endued with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/04_vyAghro_adhi.md">
 <details open><summary><h3>०४ व्याघ्रो अधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -328,14 +328,14 @@ Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all
 </div>
 
 ## ०५ या आपो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या आपो॑ दि॒व्याः पय॑सा॒ मद॑न्त्य॒न्तरि॑क्ष उ॒त वा॑ पृथि॒व्याम्।  
 तासां॑ त्वा॒ सर्वा॑साम॒पाम॒भि षि॑ञ्चामि॒ वर्च॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -344,7 +344,7 @@ Stride forth to heaven's broad regions, thou, a tiger on a tiger's skin. Let all
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/05_yA_Apo.md">
 <details open><summary><h3>०५ या आपो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -412,14 +412,14 @@ Heaven's waters joyous in their milk, the waters of middle air, and those that e
 </div>
 
 ## ०६ अभि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि त्वा॒ वर्च॑सासिच॒न्नापो॑ दि॒व्याः पय॑स्वतीः।  
 यथासो॑ मित्र॒वर्ध॑न॒स्तथा॑ त्वा सवि॒ता क॑रत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -428,7 +428,7 @@ Heaven's waters joyous in their milk, the waters of middle air, and those that e
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/06_abhi_tvA.md">
 <details open><summary><h3>०६ अभि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -481,14 +481,14 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 </div>
 
 ## ०७ एना व्याघ्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒ना व्या॒घ्रं प॑रिषस्वजा॒नाः सिं॒हं हि॑न्वन्ति मह॒ते सौभ॑गाय।  
 स॑मु॒द्रं न॑ सु॒भुव॑स्तस्थि॒वांसं॑ मर्मृ॒ज्यन्ते॑ द्वी॒पिन॑म॒प्स्व१॒॑न्तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -497,7 +497,7 @@ The heavenly waters rich in milk have sprinkled thee with power and might. To be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/008_rAjyAbhiShekaH/07_enA_vyAghram.md">
 <details open><summary><h3>०७ एना व्याघ्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

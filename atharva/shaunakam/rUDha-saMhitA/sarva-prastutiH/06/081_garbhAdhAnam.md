@@ -2,7 +2,7 @@
 title = "०८१ गर्भाधानम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/_index.md">
 <details open><summary><h2>०८१ गर्भाधानम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to facilitate child-birth
 </div>
 
 ## ०१ यन्तासि यच्छसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒न्तासि॒ यच्छ॑से॒ हस्ता॒वप॒ रक्षां॑सि सेधसि।  
 प्र॒जां धनं॑ च गृह्णा॒नः प॑रिह॒स्तो अ॑भूद॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to facilitate child-birth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/01_yantAsi_yachChase.md">
 <details open><summary><h3>०१ यन्तासि यच्छसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 </div>
 
 ## ०२ परिहस्त वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/02_parihasta_vi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑हस्त॒ वि धा॑रय॒ योनिं॒ गर्भा॑य॒ धात॑वे।  
 मर्या॑दे पु॒त्रमा धे॑हि॒ तं त्वमा ग॑मयागमे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/02_parihasta_vi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Thou art a grasper, holding fast both hands: drivest fiends away. A holder both 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/02_parihasta_vi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/02_parihasta_vi.md">
 <details open><summary><h3>०२ परिहस्त वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 </div>
 
 ## ०३ यं परिहस्तमबिभरदितिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं प॑रिह॒स्तमबि॑भ॒रदि॑तिः पुत्रका॒म्या।  
 त्वष्टा॒ तम॑स्या॒ आ ब॑ध्ना॒द्यथा॑ पु॒त्रं जना॑दिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ Prepare accordantly, O Ring, the mother for the infant's birth. On the right way
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/081_garbhAdhAnam/03_yaM_parihastamabibharaditiH.md">
 <details open><summary><h3>०३ यं परिहस्तमबिभरदितिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

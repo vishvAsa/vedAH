@@ -2,7 +2,7 @@
 title = "०३६ अञ्जनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/_index.md">
 <details open><summary><h2>०३६ अञ्जनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to be pronounced by bride and bridegroom
 </div>
 
 ## ०१ अक्ष्यौ नौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/036_anjanam/01_axyau_nau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/036_anjanam/01_axyau_nau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒क्ष्यौ᳡ नौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्।  
 अ॒न्तः कृ॑णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/036_anjanam/01_axyau_nau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/036_anjanam/01_axyau_nau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to be pronounced by bride and bridegroom
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/01_axyau_nau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/036_anjanam/01_axyau_nau.md">
 <details open><summary><h3>०१ अक्ष्यौ नौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

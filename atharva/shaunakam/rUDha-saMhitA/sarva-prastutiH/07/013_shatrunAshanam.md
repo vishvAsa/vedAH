@@ -2,7 +2,7 @@
 title = "०१३ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/_index.md">
 <details open><summary><h2>०१३ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to win superiority over foes and rivals
 </div>
 
 ## ०१ यथा सूर्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/01_yathA_sUryo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/01_yathA_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सूर्यो॒ नक्ष॑त्राणामु॒द्यंस्तेजां॑स्याद॒दे।  
 ए॒वा स्त्री॒णां च॑ पुं॒सां च॑ द्विष॒तां वर्च॒ आ द॑दे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/01_yathA_sUryo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/01_yathA_sUryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to win superiority over foes and rivals
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/01_yathA_sUryo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/01_yathA_sUryo.md">
 <details open><summary><h3>०१ यथा सूर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 </div>
 
 ## ०२ यावन्तो मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/02_yAvanto_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याव॑न्तो मा स॒पत्ना॑नामा॒यन्तं॑ प्रति॒पश्य॑थ।  
 उ॒द्यन्त्सूर्य॑ इव सु॒प्तानां॑ द्विष॒तां वर्च॒ आ द॑दे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/02_yAvanto_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ As the Sun, rising, taketh to himself the brightness of the stars,. So I assume 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/02_yAvanto_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/013_shatrunAshanam/02_yAvanto_mA.md">
 <details open><summary><h3>०२ यावन्तो मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

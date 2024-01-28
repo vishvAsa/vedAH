@@ -2,7 +2,7 @@
 title = "०३३ दर्भः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/_index.md">
 <details open><summary><h2>०३३ दर्भः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A protective and benedictive charm
 </div>
 
 ## ०१ सहस्रार्घः शतकाण्डः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑हस्रा॒र्घः श॒तका॑ण्डः॒ पय॑स्वान॒पाम॒ग्निर्वी॒रुधां॑ राज॒सूय॑म्।  
 स नो॒ऽयं द॒र्भः परि॑ पातु वि॒श्वतो॑ दे॒वो म॒णिरायु॑षा॒ सं सृ॑जाति नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A protective and benedictive charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/01_sahasrArghaH_shatakANDaH.md">
 <details open><summary><h3>०१ सहस्रार्घः शतकाण्डः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 </div>
 
 ## ०२ घृतादुल्लुप्तो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/02_ghRtAdullupto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/02_ghRtAdullupto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तादुल्लु॑प्तो॒ मधु॑मा॒न्पय॑स्वान्भूमिदृं॒होऽच्यु॑तश्च्यावयि॒ष्णुः।  
 नु॒दन्त्स॒पत्ना॒नध॑रांश्च कृ॒ण्वन्दर्भा रो॑ह मह॒तामि॑न्द्रि॒येण॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/02_ghRtAdullupto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/02_ghRtAdullupto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Hundred stemmed, succulent, and worth a thousand, the Royal Rite of plants, the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/02_ghRtAdullupto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/02_ghRtAdullupto.md">
 <details open><summary><h3>०२ घृतादुल्लुप्तो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 </div>
 
 ## ०३ त्वं भूमिमत्येष्योजसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वं भू॑मि॒मत्ये॒ष्योज॑सा॒ त्वं वेद्यां॑ सीदसि॒ चारु॑रध्व॒रे।  
 त्वां प॒वित्र॒मृष॑योऽभरन्त॒ त्वं पु॑नीहि दुरि॒तान्य॒स्मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ Drawn forth from butter, juicy, sweetly-flavoured, firm as the earth, unshaken, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/03_tvaM_bhUmimatyeShyojasA.md">
 <details open><summary><h3>०३ त्वं भूमिमत्येष्योजसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -250,14 +250,14 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 </div>
 
 ## ०४ तीक्ष्णो राजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/04_tIxNo_rAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ती॒क्ष्णो राजा॑ विषास॒ही र॑क्षो॒हा वि॒श्वच॑र्षणिः।  
 ओजो॑ दे॒वानां॒ बल॑मु॒ग्रमे॒तत्तं ते॑ बध्नामि ज॒रसे॑ स्व॒स्तये॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/04_tIxNo_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -266,7 +266,7 @@ Thou movest o'er the earth with vigour: lovely in sacrifice thou sittest on the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/04_tIxNo_rAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/04_tIxNo_rAjA.md">
 <details open><summary><h3>०४ तीक्ष्णो राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -313,14 +313,14 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 </div>
 
 ## ०५ दर्भेण त्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/05_darbheNa_tvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/033_darbhaH/05_darbheNa_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द॒र्भेण॒ त्वं कृ॑णवद्वी॒र्या᳡णि द॒र्भं बिभ्र॑दा॒त्मना॒ मा व्य॑थिष्ठाः।  
 अ॑ति॒ष्ठाय॒ वर्च॒साधा॒न्यान्त्सूर्य॑ इ॒वा भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/05_darbheNa_tvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/033_darbhaH/05_darbheNa_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -329,7 +329,7 @@ A stern and all-victorious king, foe-queller, dear to every man-- That energy of
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/05_darbheNa_tvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/033_darbhaH/05_darbheNa_tvam.md">
 <details open><summary><h3>०५ दर्भेण त्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

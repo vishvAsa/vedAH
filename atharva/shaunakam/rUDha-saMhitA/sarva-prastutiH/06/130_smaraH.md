@@ -2,7 +2,7 @@
 title = "१३० स्मरः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/_index.md">
 <details open><summary><h2>१३० स्मरः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 </div>
 
 ## ०१ रथजितां राथजितेयीनामप्सरसामयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 र॑थ॒जितां॑ राथजिते॒यीना॑मप्स॒रसा॑म॒यं स्म॒रः।  
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, Ind. Stud. v. 244; Ludwig, p. 515; Grill, 58, 174; Griffith, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/01_rathajitAM_rAthajiteyInAmapsarasAmayam.md">
 <details open><summary><h3>०१ रथजितां राथजितेयीनामप्सरसामयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 </div>
 
 ## ०२ असौ मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/02_asau_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/02_asau_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒सौ मे॑ स्मरता॒दिति॑ प्रि॒यो मे॑ स्मरता॒दिति॑।  
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/02_asau_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/02_asau_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ This is the Apsarases' love-spell, the conquering, resistless ones'. Send the sp
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/02_asau_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/02_asau_me.md">
 <details open><summary><h3>०२ असौ मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 </div>
 
 ## ०३ यथा मम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/03_yathA_mama.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/03_yathA_mama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ मम॒ स्मरा॑द॒सौ नामुष्या॒हं क॒दा च॒न।  
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/03_yathA_mama.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/03_yathA_mama.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ I pray, may he remember me, think of me, loving and beloved. Send forth the spel
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/03_yathA_mama.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/03_yathA_mama.md">
 <details open><summary><h3>०३ यथा मम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 </div>
 
 ## ०४ उन्मादयत मरुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/04_unmAdayata_maruta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/130_smaraH/04_unmAdayata_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उन्मा॑दयत मरुत॒ उद॑न्तरिक्ष मादय।  
 अग्न॒ उन्मा॑दया॒ त्वम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/04_unmAdayata_maruta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/130_smaraH/04_unmAdayata_maruta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ That he may think of me, that I may never, never think of him,. Send forth the s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/04_unmAdayata_maruta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/130_smaraH/04_unmAdayata_maruta.md">
 <details open><summary><h3>०४ उन्मादयत मरुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

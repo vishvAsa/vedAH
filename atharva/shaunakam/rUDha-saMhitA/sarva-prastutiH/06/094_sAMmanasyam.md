@@ -2,7 +2,7 @@
 title = "०९४ सांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/_index.md">
 <details open><summary><h2>०९४ सांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 </div>
 
 ## ०१ सं वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/01_saM_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं वो॒ मनां॑सि॒ सं व्र॒ता समाकू॑तीर्नमामसि।  
 अ॒मी ये विव्र॑ता॒ स्थन॒ तान्वः॒ सं न॑मयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/01_saM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/01_saM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 514; Griffith, i. 296; Bloomfield, 138, 508.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/01_saM_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/01_saM_vo.md">
 <details open><summary><h3>०१ सं वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 </div>
 
 ## ०२ अहं गृभ्णामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हं गृ॑भ्णामि॒ मन॑सा॒ मनां॑सि॒ मम॑ चि॒त्तमनु॑ चि॒त्तेभि॒रेत॑।  
 मम॒ वशे॑षु॒ हृद॑यानि वः कृणोमि॒ मम॑ या॒तमनु॑वर्त्मान॒ एत॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ We bend your minds in union, bend in harmony your hopes and plans: You there, wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/02_ahaM_gRbhNAmi.md">
 <details open><summary><h3>०२ अहं गृभ्णामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 </div>
 
 ## ०३ ओते मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/03_ote_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/094_sAMmanasyam/03_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
 ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒र्ध्यास्मे॒दं स॑रस्वति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/03_ote_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/094_sAMmanasyam/03_ote_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ I with my spirit make your spirits captive: these with their thoughts follow my 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/03_ote_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/094_sAMmanasyam/03_ote_me.md">
 <details open><summary><h3>०३ ओते मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

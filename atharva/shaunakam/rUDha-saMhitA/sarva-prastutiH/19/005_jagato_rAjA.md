@@ -2,7 +2,7 @@
 title = "००५ जगतो राजा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/_index.md">
 <details open><summary><h2>००५ जगतो राजा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for riches
 </div>
 
 ## ०१ इन्द्रो राजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/005_jagato_rAjA/01_indro_rAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/005_jagato_rAjA/01_indro_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॑ क्षमि॒ विषु॑रूपं॒ यद॑स्ति।  
 ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द्राध॒ उप॑स्तुतश्चिद॒र्वाक् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/005_jagato_rAjA/01_indro_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/005_jagato_rAjA/01_indro_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for riches
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/01_indro_rAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/005_jagato_rAjA/01_indro_rAjA.md">
 <details open><summary><h3>०१ इन्द्रो राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

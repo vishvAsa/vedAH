@@ -2,7 +2,7 @@
 title = "०४१ राष्ट्रं बलमोजश्च"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/_index.md">
 <details open><summary><h2>०४१ राष्ट्रं बलमोजश्च ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction on a newly elected king
 </div>
 
 ## ०१ भद्रमिच्छन्त ऋषयः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ॒द्रमि॒च्छन्त॒ ऋष॑यः स्व॒र्विद॒स्तपो॑ दी॒क्षामु॑प॒निषे॑दु॒रग्रे॑।  
 ततो॑ रा॒ष्ट्रं बल॒मोज॑श्च जा॒तं तद॑स्मै दे॒वा उ॑प॒संन॑मन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction on a newly elected king
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/041_rAShTraM_balamojashcha/01_bhadramichChanta_RShayaH.md">
 <details open><summary><h3>०१ भद्रमिच्छन्त ऋषयः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

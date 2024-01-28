@@ -2,7 +2,7 @@
 title = "००९ आत्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/_index.md">
 <details open><summary><h2>००९ आत्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A prayer to Heaven and Earth for protection and assistance
 </div>
 
 ## ०१ दिवे स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/01_dive_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/01_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिवे॒ स्वाहा॑ ॥१॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/01_dive_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/01_dive_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A prayer to Heaven and Earth for protection and assistance
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/01_dive_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/01_dive_svAhA.md">
 <details open><summary><h3>०१ दिवे स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -80,13 +80,13 @@ All hail to Heaven!
 </div>
 
 ## ०२ पृथिव्यै स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/02_pRthivyai_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॒थि॒व्यै स्वाहा॑ ॥२॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/02_pRthivyai_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -94,7 +94,7 @@ All hail to Heaven!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/02_pRthivyai_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/02_pRthivyai_svAhA.md">
 <details open><summary><h3>०२ पृथिव्यै स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -126,13 +126,13 @@ All hail to Earth!
 </div>
 
 ## ०३ अन्तरिक्षाय स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/03_antarixAya_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/03_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/03_antarixAya_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/03_antarixAya_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -140,7 +140,7 @@ All hail to Earth!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/03_antarixAya_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/03_antarixAya_svAhA.md">
 <details open><summary><h3>०३ अन्तरिक्षाय स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,13 +172,13 @@ All hail to Air!
 </div>
 
 ## ०४ अन्तरिक्षाय स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/04_antarixAya_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/04_antarixAya_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षाय॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/04_antarixAya_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/04_antarixAya_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ All hail to Air!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/04_antarixAya_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/04_antarixAya_svAhA.md">
 <details open><summary><h3>०४ अन्तरिक्षाय स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -218,13 +218,13 @@ All hail to Air!
 </div>
 
 ## ०५ दिवे स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/05_dive_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/05_dive_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वे स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/05_dive_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/05_dive_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -232,7 +232,7 @@ All hail to Air!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/05_dive_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/05_dive_svAhA.md">
 <details open><summary><h3>०५ दिवे स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -264,13 +264,13 @@ All hail to Heaven!
 </div>
 
 ## ०६ पृथिव्यै स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/06_pRthivyai_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॒थि॒व्यै स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/06_pRthivyai_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -278,7 +278,7 @@ All hail to Heaven!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/06_pRthivyai_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/06_pRthivyai_svAhA.md">
 <details open><summary><h3>०६ पृथिव्यै स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -311,14 +311,14 @@ All hail to Eartht!
 </div>
 
 ## ०७ सूर्यो मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/07_sUryo_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/07_sUryo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूर्यो॑ मे॒ चक्षु॒र्वातः॑ प्रा॒णो॒३॒॑न्तरि॑क्षमा॒त्मा पृ॑थि॒वी शरी॑रम्।  
 अ॒स्तृ॒तो नामा॒हम॒यम॑स्मि॒ स आ॒त्मानं॒ नि द॑धे॒ द्यावा॑पृथि॒वीभ्यां॑ गोपी॒थाय॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/07_sUryo_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/07_sUryo_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -327,7 +327,7 @@ All hail to Eartht!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/07_sUryo_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/07_sUryo_me.md">
 <details open><summary><h3>०७ सूर्यो मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -373,7 +373,7 @@ N/A
 </div>
 
 ## ०८ उदायुरुद्बलमुत्कृतमुत्कृत्यामुन्मनीषामुदिन्द्रियम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदायु॒रुद्बल॒मुत्कृ॒तमुत्कृ॒त्यामुन्म॑नी॒षामुदि॑न्द्रि॒यम्।  
@@ -381,7 +381,7 @@ N/A
 आ॒त्म॒सदौ॑ मे स्तं॒ मा मा॑ हिंसिष्टम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -391,7 +391,7 @@ N/A
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/009_AtmA/08_udAyurudbalamutkRtamutkRtyAmunmanIShAmudindriya.md">
 <details open><summary><h3>०८ उदायुरुद्बलमुत्कृतमुत्कृत्यामुन्मनीषामुदिन्द्रियम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०९८ हविः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/_index.md">
 <details open><summary><h2>०९८ हविः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 40, 112; Griffith, i. 377.
 </div>
 
 ## ०१ सं बर्हिरक्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/098_haviH/01_saM_barhiraktam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/098_haviH/01_saM_barhiraktam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं ब॒र्हिर॒क्तं ह॒विषा॑ घृ॒तेन॒ समिन्द्रे॑ण॒ वसु॑ना॒ सं म॒रुद्भिः॑।  
 सं दे॒वैर्वि॒श्वदे॑वेभिर॒क्तमिन्द्रं॑ गछतु ह॒विः स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/098_haviH/01_saM_barhiraktam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/098_haviH/01_saM_barhiraktam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 40, 112; Griffith, i. 377.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/01_saM_barhiraktam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/098_haviH/01_saM_barhiraktam.md">
 <details open><summary><h3>०१ सं बर्हिरक्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०९२ सुत्रामा इन्द्रः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/_index.md">
 <details open><summary><h2>०९२ सुत्रामा इन्द्रः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 </div>
 
 ## ०१ स सुत्रामा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मदा॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु।  
 तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 38, 108; Griffith, i. 374.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/092_sutrAmA_indraH/01_sa_sutrAmA.md">
 <details open><summary><h3>०१ स सुत्रामा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

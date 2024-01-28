@@ -2,7 +2,7 @@
 title = "०१६ सविता"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/_index.md">
 <details open><summary><h2>०१६ सविता ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for prosperity
 </div>
 
 ## ०१ बृहस्पते सवितर्वर्धयैनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय।  
 संशि॑तं चित्संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/016_savitA/01_bRhaspate_savitarvardhayainam.md">
 <details open><summary><h3>०१ बृहस्पते सवितर्वर्धयैनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

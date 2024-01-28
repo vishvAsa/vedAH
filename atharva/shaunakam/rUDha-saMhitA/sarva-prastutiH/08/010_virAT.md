@@ -2,7 +2,7 @@
 title = "०१० विराट्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/_index.md">
 <details open><summary><h2>०१० विराट् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -60,14 +60,14 @@ A glorification of the mystical abstraction Viraj
 </div>
 
 ## ०१ विराड्वा इदमग्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/01_virADvA_idamagra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/01_virADvA_idamagra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒राड्वा इ॒दमग्र॑ आसी॒त्तस्या॑ जा॒तायाः॒।  
 सर्व॑मबिभेदि॒यमे॒वेदं भ॑वि॒ष्यतीति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/01_virADvA_idamagra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/01_virADvA_idamagra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -76,7 +76,7 @@ A glorification of the mystical abstraction Viraj
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/01_virADvA_idamagra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/01_virADvA_idamagra.md">
 <details open><summary><h3>०१ विराड्वा इदमग्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -124,13 +124,13 @@ Viraj at first was This. At birth all feared her; the thought, She will become t
 </div>
 
 ## ०२ सोदक्रामत्सा गार्हपत्ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/02_sodakrAmatsA_gArhapatye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/02_sodakrAmatsA_gArhapatye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा गार्ह॑पत्ये॒ न्य᳡क्रामत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/02_sodakrAmatsA_gArhapatye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/02_sodakrAmatsA_gArhapatye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -138,7 +138,7 @@ Viraj at first was This. At birth all feared her; the thought, She will become t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/02_sodakrAmatsA_gArhapatye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/02_sodakrAmatsA_gArhapatye.md">
 <details open><summary><h3>०२ सोदक्रामत्सा गार्हपत्ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -185,13 +185,13 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 </div>
 
 ## ०३ गृहमेधी गृहपतिर्भवति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गृ॑हमे॒धी गृ॒हप॑तिर्भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -199,7 +199,7 @@ She rose, the Garhapatya fire she entered. He who knows this becomes lord of a h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/03_gRhamedhI_gRhapatirbhavati.md">
 <details open><summary><h3>०३ गृहमेधी गृहपतिर्भवति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -256,13 +256,13 @@ She mounted up, the Eastward fire she entered. He who knows this becomes the God
 </div>
 
 ## ०४ सोदक्रामत्साहवनीये न्यक्रामत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/04_sodakrAmatsAhavanIye_nyakrAmat.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/04_sodakrAmatsAhavanIye_nyakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्साह॑व॒नीये॒ न्य᳡क्रामत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/04_sodakrAmatsAhavanIye_nyakrAmat.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/04_sodakrAmatsAhavanIye_nyakrAmat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -270,7 +270,7 @@ She mounted up, the Eastward fire she entered. He who knows this becomes the God
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/04_sodakrAmatsAhavanIye_nyakrAmat.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/04_sodakrAmatsAhavanIye_nyakrAmat.md">
 <details open><summary><h3>०४ सोदक्रामत्साहवनीये न्यक्रामत् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -321,13 +321,13 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 </div>
 
 ## ०५ यन्त्यस्य देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/05_yantyasya_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/05_yantyasya_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्त्य॑स्य दे॒वा दे॒वहू॑तिं प्रि॒यो दे॒वानां॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/05_yantyasya_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/05_yantyasya_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -335,7 +335,7 @@ She mounted up, the Southward fire she entered. He who knows this becomes a fit 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/05_yantyasya_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/05_yantyasya_devA.md">
 <details open><summary><h3>०५ यन्त्यस्य देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -380,13 +380,13 @@ She mounted up, she entered the Assembly. He who knows this becomes polite and c
 </div>
 
 ## ०६ सोदक्रामत्सा दक्षिणाग्नौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/06_sodakrAmatsA_daxiNAgnau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/06_sodakrAmatsA_daxiNAgnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा द॑क्षिणा॒ग्नौ न्य᳡क्रामत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/06_sodakrAmatsA_daxiNAgnau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/06_sodakrAmatsA_daxiNAgnau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -394,7 +394,7 @@ She mounted up, she entered the Assembly. He who knows this becomes polite and c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/06_sodakrAmatsA_daxiNAgnau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/06_sodakrAmatsA_daxiNAgnau.md">
 <details open><summary><h3>०६ सोदक्रामत्सा दक्षिणाग्नौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -440,13 +440,13 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 </div>
 
 ## ०७ यज्ञर्तो दक्षिणीयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/07_yajnarto_daxiNIyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/07_yajnarto_daxiNIyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञर्तो॑ दक्षि॒णीयो॒ वास॑तेयो भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/07_yajnarto_daxiNIyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/07_yajnarto_daxiNIyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -454,7 +454,7 @@ She mounted up, she passed within the meeting. He who knows this becomes fit for
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/07_yajnarto_daxiNIyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/07_yajnarto_daxiNIyo.md">
 <details open><summary><h3>०७ यज्ञर्तो दक्षिणीयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -509,13 +509,13 @@ She mounted up, she entered Consultation. Whoso knows this is fit to be consulte
 </div>
 
 ## ०८ सोदक्रामत्सा सभायाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/08_sodakrAmatsA_sabhAyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/08_sodakrAmatsA_sabhAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा स॒भायां॒ न्य᳡क्रामत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/08_sodakrAmatsA_sabhAyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/08_sodakrAmatsA_sabhAyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -523,7 +523,7 @@ She mounted up, she entered Consultation. Whoso knows this is fit to be consulte
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/08_sodakrAmatsA_sabhAyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/08_sodakrAmatsA_sabhAyAm.md">
 <details open><summary><h3>०८ सोदक्रामत्सा सभायाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -570,13 +570,13 @@ She mounted up, and, into four divided, she took her station in the air's mid-re
 </div>
 
 ## ०९ यन्त्यस्य सभाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/09_yantyasya_sabhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/09_yantyasya_sabhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्त्य॑स्य स॒भां सभ्यो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/09_yantyasya_sabhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/09_yantyasya_sabhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -584,7 +584,7 @@ She mounted up, and, into four divided, she took her station in the air's mid-re
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/09_yantyasya_sabhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/09_yantyasya_sabhAm.md">
 <details open><summary><h3>०९ यन्त्यस्य सभाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -630,13 +630,13 @@ Of her the Gods and men said, This she knoweth. That we may both have life let u
 </div>
 
 ## १० सोदक्रामत्सा समितौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/10_sodakrAmatsA_samitau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/10_sodakrAmatsA_samitau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा समि॑तौ॒ न्य᳡क्रामत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/10_sodakrAmatsA_samitau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/10_sodakrAmatsA_samitau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -644,7 +644,7 @@ Of her the Gods and men said, This she knoweth. That we may both have life let u
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/10_sodakrAmatsA_samitau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/10_sodakrAmatsA_samitau.md">
 <details open><summary><h3>१० सोदक्रामत्सा समितौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -688,13 +688,13 @@ Thus did they cry to her:
 </div>
 
 ## ११ यन्त्यस्य समितिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/11_yantyasya_samitim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/11_yantyasya_samitim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्त्य॑स्य॒ समि॑तिं सामि॒त्यो भ॑वति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/11_yantyasya_samitim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/11_yantyasya_samitim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -702,7 +702,7 @@ Thus did they cry to her:
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/11_yantyasya_samitim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/11_yantyasya_samitim.md">
 <details open><summary><h3>११ यन्त्यस्य समितिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -749,13 +749,13 @@ Come, Strength! come, Food! come, Charmer! come, Free- giver!
 </div>
 
 ## १२ सोदक्रामत्सामन्त्रणे न्यक्रामत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/12_sodakrAmatsAmantraNe_nyakrAmat.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/12_sodakrAmatsAmantraNe_nyakrAmat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सामन्त्र॑णे॒ न्य᳡क्रामत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/12_sodakrAmatsAmantraNe_nyakrAmat.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/12_sodakrAmatsAmantraNe_nyakrAmat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -763,7 +763,7 @@ Come, Strength! come, Food! come, Charmer! come, Free- giver!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/12_sodakrAmatsAmantraNe_nyakrAmat.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/12_sodakrAmatsAmantraNe_nyakrAmat.md">
 <details open><summary><h3>१२ सोदक्रामत्सामन्त्रणे न्यक्रामत् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -810,13 +810,13 @@ Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her 
 </div>
 
 ## १३ यन्त्यस्यामन्त्रणमामन्त्रणीयो भवति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/13_yantyasyAmantraNamAmantraNIyo_bhavati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/13_yantyasyAmantraNamAmantraNIyo_bhavati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्त्य॑स्या॒मन्त्र॑णमामन्त्र॒णीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/13_yantyasyAmantraNamAmantraNIyo_bhavati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/13_yantyasyAmantraNamAmantraNIyo_bhavati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -824,7 +824,7 @@ Her calf, her well-beloved calf, was Indra: Gayatri was her rope, the cloud her 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/13_yantyasyAmantraNamAmantraNIyo_bhavati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/13_yantyasyAmantraNamAmantraNIyo_bhavati.md">
 <details open><summary><h3>१३ यन्त्यस्यामन्त्रणमामन्त्रणीयो भवति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -871,13 +871,13 @@ Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 </div>
 
 ## १४ सोदक्रामत्सान्तरिक्षे चतुर्धा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/14_sodakrAmatsAntarixe_chaturdhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/14_sodakrAmatsAntarixe_chaturdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सान्तरि॑क्षे चतु॒र्धा विक्रा॑न्तातिष्ठत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/14_sodakrAmatsAntarixe_chaturdhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/14_sodakrAmatsAntarixe_chaturdhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -885,7 +885,7 @@ Two teats she had, Rathantara and Brihat, two, Yajnayajniya and Vamadevya.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/14_sodakrAmatsAntarixe_chaturdhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/14_sodakrAmatsAntarixe_chaturdhA.md">
 <details open><summary><h3>१४ सोदक्रामत्सान्तरिक्षे चतुर्धा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -930,13 +930,13 @@ With the Rathantara the Gods milked from her the Plants, and all the wide expans
 </div>
 
 ## १५ तां देवमनुष्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/15_tAM_devamanuShyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/15_tAM_devamanuShyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां दे॑वमनु॒ष्या᳡ अब्रुवन्नि॒यमे॒व तद्वे॑द॒ यदु॒भय॑ उप॒जीवे॑मे॒मामुप॑ ह्वयामहा॒ इति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/15_tAM_devamanuShyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/15_tAM_devamanuShyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -944,7 +944,7 @@ With the Rathantara the Gods milked from her the Plants, and all the wide expans
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/15_tAM_devamanuShyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/15_tAM_devamanuShyA.md">
 <details open><summary><h3>१५ तां देवमनुष्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -988,13 +988,13 @@ They drew the Waters forth with Vamadevya, with Yajnayaj- niya they milked out w
 </div>
 
 ## १६ तामुपाह्वयन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/16_tAmupAhvayanta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/16_tAmupAhvayanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तामुपा॑ह्वयन्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/16_tAmupAhvayanta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/16_tAmupAhvayanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1002,7 +1002,7 @@ They drew the Waters forth with Vamadevya, with Yajnayaj- niya they milked out w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/16_tAmupAhvayanta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/16_tAmupAhvayanta.md">
 <details open><summary><h3>१६ तामुपाह्वयन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1046,13 +1046,13 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 </div>
 
 ## १७ ऊर्ज एहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/17_Urja_ehi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/17_Urja_ehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊर्ज॒ एहि॒ स्वध॑ एहि॒ सूनृ॑त॒ एहीरा॑व॒त्येहीति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/17_Urja_ehi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/17_Urja_ehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1060,7 +1060,7 @@ For him who knoweth this, Rathantara poureth out Plants, and Brihat yieldeth wid
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/17_Urja_ehi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/17_Urja_ehi.md">
 <details open><summary><h3>१७ ऊर्ज एहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1113,13 +1113,13 @@ Waters from Vamdevya come, from Yajnayajniya sacrifice.
 </div>
 
 ## १८ तस्या इन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/18_tasyA_indro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/18_tasyA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॒ इन्द्रो॑ व॒त्स आसी॑द्गाय॒त्र्य᳡भि॒धान्य॒भ्रमूधः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/18_tasyA_indro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/18_tasyA_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1127,7 +1127,7 @@ Waters from Vamdevya come, from Yajnayajniya sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/18_tasyA_indro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/18_tasyA_indro.md">
 <details open><summary><h3>१८ तस्या इन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1177,13 +1177,13 @@ She rose, she came unto the tress: they killed her. A year went by and she again
 </div>
 
 ## १९ बृहच्च रथन्तरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/19_bRhachcha_rathantaram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/19_bRhachcha_rathantaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृ॒हच्च॑ रथन्त॒रं च॒ द्वौ स्तना॒वास्तां॑ यज्ञाय॒ज्ञियं॑ च वामदे॒व्यं च॒ द्वौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/19_bRhachcha_rathantaram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/19_bRhachcha_rathantaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1191,7 +1191,7 @@ She rose, she came unto the tress: they killed her. A year went by and she again
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/19_bRhachcha_rathantaram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/19_bRhachcha_rathantaram.md">
 <details open><summary><h3>१९ बृहच्च रथन्तरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1241,13 +1241,13 @@ She mounted up, she came unto the Fathers: they killed her: in a month she re-ex
 </div>
 
 ## २० ओषधीरेव रथन्तरेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/20_oShadhIreva_rathantareNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/20_oShadhIreva_rathantareNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओष॑धीरे॒व र॑थन्त॒रेण॑ दे॒वा अ॑दुह्र॒न्व्यचो॑ बृ॒हता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/20_oShadhIreva_rathantareNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/20_oShadhIreva_rathantareNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1255,7 +1255,7 @@ She mounted up, she came unto the Fathers: they killed her: in a month she re-ex
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/20_oShadhIreva_rathantareNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/20_oShadhIreva_rathantareNa.md">
 <details open><summary><h3>२० ओषधीरेव रथन्तरेण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1304,13 +1304,13 @@ She rose, she came unto the Gods: they killed her: but in a fortnight she again 
 </div>
 
 ## २१ अपो वामदेव्येन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/21_apo_vAmadevyena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/21_apo_vAmadevyena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पो वा॑मदे॒व्येन॑ य॒ज्ञं य॑ज्ञाय॒ज्ञिये॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/21_apo_vAmadevyena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/21_apo_vAmadevyena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1318,7 +1318,7 @@ She rose, she came unto the Gods: they killed her: but in a fortnight she again 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/21_apo_vAmadevyena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/21_apo_vAmadevyena.md">
 <details open><summary><h3>२१ अपो वामदेव्येन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1398,13 +1398,13 @@ She mounted up, she came to men: they killed her Presently she regained her life
 </div>
 
 ## २२ ओषधीरेवास्मै रथन्तरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/22_oShadhIrevAsmai_rathantaram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/22_oShadhIrevAsmai_rathantaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओष॑धीरे॒वास्मै॑ रथन्त॒रं दु॑हे॒ व्यचो॑ बृ॒हत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/22_oShadhIrevAsmai_rathantaram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/22_oShadhIrevAsmai_rathantaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1412,7 +1412,7 @@ She mounted up, she came to men: they killed her Presently she regained her life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/22_oShadhIrevAsmai_rathantaram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/22_oShadhIrevAsmai_rathantaram.md">
 <details open><summary><h3>२२ ओषधीरेवास्मै रथन्तरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1465,13 +1465,13 @@ She rose, approached the Asuras: they called her: their cry was, Come, O Maya, c
 </div>
 
 ## २३ अपो वामदेव्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/23_apo_vAmadevyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/23_apo_vAmadevyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पो वा॑मदे॒व्यं य॒ज्ञं य॑ज्ञाय॒ज्ञियं॒ य वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/23_apo_vAmadevyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/23_apo_vAmadevyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1479,7 +1479,7 @@ She rose, approached the Asuras: they called her: their cry was, Come, O Maya, c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/23_apo_vAmadevyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/23_apo_vAmadevyam.md">
 <details open><summary><h3>२३ अपो वामदेव्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1531,13 +1531,13 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 </div>
 
 ## २४ सोदक्रामत्सा वनस्पतीनागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/24_sodakrAmatsA_vanaspatInAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/24_sodakrAmatsA_vanaspatInAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा वन॒स्पती॒नाग॑च्छ॒त्तां वन॒स्पत॑योऽघ्नत॒ सा सं॑वत्स॒रे सम॑भवत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/24_sodakrAmatsA_vanaspatInAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/24_sodakrAmatsA_vanaspatInAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1545,7 +1545,7 @@ She mounted up, she came unto the Fathers. The Fathers called. to her, O Food, c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/24_sodakrAmatsA_vanaspatInAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/24_sodakrAmatsA_vanaspatInAgachChattAm.md">
 <details open><summary><h3>२४ सोदक्रामत्सा वनस्पतीनागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1599,13 +1599,13 @@ She mounted up, she came to men. They called her, Come unto- us, come hither tho
 </div>
 
 ## २५ तस्माद्वनस्पतीनां संवत्सरे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/25_tasmAdvanaspatInAM_saMvatsare.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/25_tasmAdvanaspatInAM_saMvatsare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॒द्वन॒स्पती॑नां संवत्स॒रे वृ॒क्णमपि॑ रोहति वृ॒श्चते॒ऽस्याप्रि॑यो॒ भ्रातृ॑व्यो॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/25_tasmAdvanaspatInAM_saMvatsare.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/25_tasmAdvanaspatInAM_saMvatsare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1613,7 +1613,7 @@ She mounted up, she came to men. They called her, Come unto- us, come hither tho
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/25_tasmAdvanaspatInAM_saMvatsare.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/25_tasmAdvanaspatInAM_saMvatsare.md">
 <details open><summary><h3>२५ तस्माद्वनस्पतीनां संवत्सरे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1664,13 +1664,13 @@ She rose, she came unto the Seven Rishis. They called her,. Come, Rich in Devoti
 </div>
 
 ## २६ सोदक्रामत्सा पितॄनागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/26_sodakrAmatsA_pitRRnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/26_sodakrAmatsA_pitRRnAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा पि॒तॄनाग॑च्छ॒त्तां पि॒तरो॑ऽघ्नत॒ सा मा॒सि सम॑भवत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/26_sodakrAmatsA_pitRRnAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/26_sodakrAmatsA_pitRRnAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1678,7 +1678,7 @@ She rose, she came unto the Seven Rishis. They called her,. Come, Rich in Devoti
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/26_sodakrAmatsA_pitRRnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/26_sodakrAmatsA_pitRRnAgachChattAm.md">
 <details open><summary><h3>२६ सोदक्रामत्सा पितॄनागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1728,13 +1728,13 @@ She rose, she came unto the Gods. They called her, crying, O Vigour, come to us,
 </div>
 
 ## २७ तस्मात्पितृभ्यो मास्युपमास्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/27_tasmAtpitRbhyo_mAsyupamAsyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/27_tasmAtpitRbhyo_mAsyupamAsyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॑त्पि॒तृभ्यो॑ मा॒स्युप॑मास्यं ददति॒ प्र पि॑तृ॒याणं॒ पन्थां॑ जानाति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/27_tasmAtpitRbhyo_mAsyupamAsyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/27_tasmAtpitRbhyo_mAsyupamAsyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1742,7 +1742,7 @@ She rose, she came unto the Gods. They called her, crying, O Vigour, come to us,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/27_tasmAtpitRbhyo_mAsyupamAsyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/27_tasmAtpitRbhyo_mAsyupamAsyam.md">
 <details open><summary><h3>२७ तस्मात्पितृभ्यो मास्युपमास्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1795,13 +1795,13 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 </div>
 
 ## २८ सोदक्रामत्सा देवानागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/28_sodakrAmatsA_devAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/28_sodakrAmatsA_devAnAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा दे॒वानाग॑च्छ॒त्तां दे॒वा अ॑घ्नत॒ सार्ध॑मा॒से सम॑भवत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/28_sodakrAmatsA_devAnAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/28_sodakrAmatsA_devAnAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1809,7 +1809,7 @@ She rose approached the Apsarases and Gandharvas. They called her, Come to us, O
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/28_sodakrAmatsA_devAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/28_sodakrAmatsA_devAnAgachChattAm.md">
 <details open><summary><h3>२८ सोदक्रामत्सा देवानागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1862,13 +1862,13 @@ She mounted up, she came to Other People. They called her, crying, Come, Conceal
 </div>
 
 ## २९ तस्माद्देवेभ्योऽर्धमासे वषट्कुर्वन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/29_tasmAddevebhyo-rdhamAse_vaShaTkurvanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/29_tasmAddevebhyo-rdhamAse_vaShaTkurvanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॑द्दे॒वेभ्यो॑ऽर्धमा॒से वष॑ट्कुर्वन्ति॒ प्र दे॑व॒यानं॒ पन्थां॑ जानाति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/29_tasmAddevebhyo-rdhamAse_vaShaTkurvanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/29_tasmAddevebhyo-rdhamAse_vaShaTkurvanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1876,7 +1876,7 @@ She mounted up, she came to Other People. They called her, crying, Come, Conceal
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/29_tasmAddevebhyo-rdhamAse_vaShaTkurvanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/29_tasmAddevebhyo-rdhamAse_vaShaTkurvanti.md">
 <details open><summary><h3>२९ तस्माद्देवेभ्योऽर्धमासे वषट्कुर्वन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1935,13 +1935,13 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 </div>
 
 ## ३० सोदक्रामत्सा मनुष्याशनागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा म॑नु॒ष्याश॒३॒॑नाग॑च्छ॒त्तां म॑नु॒ष्या᳡ अघ्नत॒ सा स॒द्यः सम॑भवत्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1949,7 +1949,7 @@ She mounted up, she came unto the Serpents. The Serpents called her, Venomous! c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/30_sodakrAmatsA_manuShyAshanAgachChattAm.md">
 <details open><summary><h3>३० सोदक्रामत्सा मनुष्याशनागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2000,13 +2000,13 @@ One would ward off, for him who hath this knowledge, if with a bottle-gourd he s
 </div>
 
 ## ३१ तस्मान्मनुष्येभ्य उभयद्युरुप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/31_tasmAnmanuShyebhya_ubhayadyurupa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/31_tasmAnmanuShyebhya_ubhayadyurupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॑न्मनु॒ष्ये᳡भ्य उभय॒द्युरुप॑ हर॒न्त्युपा॑स्य गृ॒हे ह॑रन्ति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/31_tasmAnmanuShyebhya_ubhayadyurupa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/31_tasmAnmanuShyebhya_ubhayadyurupa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2014,7 +2014,7 @@ One would ward off, for him who hath this knowledge, if with a bottle-gourd he s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/31_tasmAnmanuShyebhya_ubhayadyurupa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/31_tasmAnmanuShyebhya_ubhayadyurupa.md">
 <details open><summary><h3>३१ तस्मान्मनुष्येभ्य उभयद्युरुप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2059,13 +2059,13 @@ And did he not repel, if in his spirit he said, I drive thee back, he would repe
 </div>
 
 ## ३२ सोदक्रामत्सासुरानागच्छत्तामसुरा उपाह्वयन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/32_sodakrAmatsAsurAnAgachChattAmasurA_upAhvayanta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/32_sodakrAmatsAsurAnAgachChattAmasurA_upAhvayanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सासु॑रा॒नाग॑च्छ॒त्तामसु॑रा॒ उपा॑ह्वयन्त॒ माय॒ एहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/32_sodakrAmatsAsurAnAgachChattAmasurA_upAhvayanta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/32_sodakrAmatsAsurAnAgachChattAmasurA_upAhvayanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2073,7 +2073,7 @@ And did he not repel, if in his spirit he said, I drive thee back, he would repe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/32_sodakrAmatsAsurAnAgachChattAmasurA_upAhvayanta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/32_sodakrAmatsAsurAnAgachChattAmasurA_upAhvayanta.md">
 <details open><summary><h3>३२ सोदक्रामत्सासुरानागच्छत्तामसुरा उपाह्वयन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2117,13 +2117,13 @@ The poison that it drives away, that poison verily repels.
 </div>
 
 ## ३३ तस्या विरोचनः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/33_tasyA_virochanaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/33_tasyA_virochanaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॑ वि॒रोच॑नः॒ प्राह्रा॑दिर्व॒त्स आसी॑दयस्पा॒त्रं पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/33_tasyA_virochanaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/33_tasyA_virochanaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2131,7 +2131,7 @@ The poison that it drives away, that poison verily repels.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/33_tasyA_virochanaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/33_tasyA_virochanaH.md">
 <details open><summary><h3>३३ तस्या विरोचनः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2208,13 +2208,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ३४ तां द्विमूर्धार्त्व्योधोक्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/34_tAM_dvimUrdhArtvyodhoktAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/34_tAM_dvimUrdhArtvyodhoktAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां द्विमू॑र्धा॒र्त्व्यो᳡धो॒क्तां मा॒यामे॒वाधो॑क्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/34_tAM_dvimUrdhArtvyodhoktAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/34_tAM_dvimUrdhArtvyodhoktAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2222,7 +2222,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/34_tAM_dvimUrdhArtvyodhoktAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/34_tAM_dvimUrdhArtvyodhoktAm.md">
 <details open><summary><h3>३४ तां द्विमूर्धार्त्व्योधोक्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2263,13 +2263,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ३५ तां मायामसुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/35_tAM_mAyAmasurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/35_tAM_mAyAmasurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां मा॒यामसु॑रा॒ उप॑ जीवन्त्युपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/35_tAM_mAyAmasurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/35_tAM_mAyAmasurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2277,7 +2277,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/35_tAM_mAyAmasurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/35_tAM_mAyAmasurA.md">
 <details open><summary><h3>३५ तां मायामसुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2318,13 +2318,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ३६ सोदक्रामत्सा पितॄनागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/36_sodakrAmatsA_pitRRnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/36_sodakrAmatsA_pitRRnAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा पि॒तॄनाग॑च्छ॒त्तां पि॒तर॒ उपा॑ह्वयन्त॒ स्वध॒ एहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/36_sodakrAmatsA_pitRRnAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/36_sodakrAmatsA_pitRRnAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2332,7 +2332,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/36_sodakrAmatsA_pitRRnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/36_sodakrAmatsA_pitRRnAgachChattAm.md">
 <details open><summary><h3>३६ सोदक्रामत्सा पितॄनागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2373,13 +2373,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ३७ तस्या यमो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/37_tasyA_yamo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/37_tasyA_yamo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॑ य॒मो राजा॑ व॒त्स आसी॑द्रजतपा॒त्रं पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/37_tasyA_yamo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/37_tasyA_yamo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2387,7 +2387,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/37_tasyA_yamo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/37_tasyA_yamo.md">
 <details open><summary><h3>३७ तस्या यमो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2428,13 +2428,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ३८ तामन्तको मार्त्यवोऽधोक्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/38_tAmantako_mArtyavo-dhoktAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/38_tAmantako_mArtyavo-dhoktAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तामन्त॑को मार्त्य॒वोऽधो॒क्तां स्व॒धामे॒वाधो॑क्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/38_tAmantako_mArtyavo-dhoktAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/38_tAmantako_mArtyavo-dhoktAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2442,7 +2442,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/38_tAmantako_mArtyavo-dhoktAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/38_tAmantako_mArtyavo-dhoktAm.md">
 <details open><summary><h3>३८ तामन्तको मार्त्यवोऽधोक्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2483,13 +2483,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ३९ तां स्वधाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/39_tAM_svadhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/39_tAM_svadhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां स्व॒धां पि॒तर॒ उप॑ जीवन्त्युपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/39_tAM_svadhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/39_tAM_svadhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2497,7 +2497,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/39_tAM_svadhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/39_tAM_svadhAm.md">
 <details open><summary><h3>३९ तां स्वधाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2538,13 +2538,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४० सोदक्रामत्सा मनुष्यानागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/40_sodakrAmatsA_manuShyAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/40_sodakrAmatsA_manuShyAnAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा म॑नु॒ष्या॒३॒॑नाग॑च्छ॒त्तां म॑नु॒ष्या॒३॒॑ उपा॑ह्वय॒न्तेरा॑व॒त्येहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/40_sodakrAmatsA_manuShyAnAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/40_sodakrAmatsA_manuShyAnAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2552,7 +2552,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/40_sodakrAmatsA_manuShyAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/40_sodakrAmatsA_manuShyAnAgachChattAm.md">
 <details open><summary><h3>४० सोदक्रामत्सा मनुष्यानागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2593,13 +2593,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४१ तस्या मनुर्वैवस्वतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/41_tasyA_manurvaivasvato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/41_tasyA_manurvaivasvato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॒ मनु॑र्वैवस्व॒तो व॒त्स आसी॑त्पृथि॒वी पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/41_tasyA_manurvaivasvato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/41_tasyA_manurvaivasvato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2607,7 +2607,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/41_tasyA_manurvaivasvato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/41_tasyA_manurvaivasvato.md">
 <details open><summary><h3>४१ तस्या मनुर्वैवस्वतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2648,13 +2648,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४२ तां पृथी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/42_tAM_pRthI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/42_tAM_pRthI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां पृथी॑ वै॒न्यो᳡धो॒क्तां कृ॒षिं च॑ स॒स्यं चा॑धोक्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/42_tAM_pRthI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/42_tAM_pRthI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2662,7 +2662,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/42_tAM_pRthI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/42_tAM_pRthI.md">
 <details open><summary><h3>४२ तां पृथी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2703,13 +2703,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४३ ते कृषिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/43_te_kRShim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/43_te_kRShim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ते कृ॒षिं च॑ स॒स्यं च॑ मनु॒ष्या॒३॒॑ उप॑ जीवन्ति कृ॒ष्टरा॑धिरुपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/43_te_kRShim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/43_te_kRShim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2717,7 +2717,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/43_te_kRShim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/43_te_kRShim.md">
 <details open><summary><h3>४३ ते कृषिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2758,13 +2758,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४४ सोदक्रामत्सा सप्तऋषीनागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/44_sodakrAmatsA_saptaRShInAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/44_sodakrAmatsA_saptaRShInAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा स॑प्तऋ॒षीनाग॑च्छ॒त्तां स॑प्तऋ॒षय॒ उपा॑ह्वयन्त॒ ब्रह्म॑ण्व॒त्येहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/44_sodakrAmatsA_saptaRShInAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/44_sodakrAmatsA_saptaRShInAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2772,7 +2772,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/44_sodakrAmatsA_saptaRShInAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/44_sodakrAmatsA_saptaRShInAgachChattAm.md">
 <details open><summary><h3>४४ सोदक्रामत्सा सप्तऋषीनागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2813,13 +2813,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४५ तस्याः सोमो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/45_tasyAH_somo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/45_tasyAH_somo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्याः॒ सोमो॒ राजा॑ व॒त्स आसी॒च्छन्दः॒ पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/45_tasyAH_somo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/45_tasyAH_somo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2827,7 +2827,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/45_tasyAH_somo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/45_tasyAH_somo.md">
 <details open><summary><h3>४५ तस्याः सोमो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2868,13 +2868,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४६ तां बृहस्पतिराङ्गिरसोधोक्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/46_tAM_bRhaspatirAngirasodhoktAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/46_tAM_bRhaspatirAngirasodhoktAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां बृह॒स्पति॑राङ्गिर॒सो᳡धो॒क्तां ब्रह्म॑ च॒ तप॑श्चाधोक्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/46_tAM_bRhaspatirAngirasodhoktAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/46_tAM_bRhaspatirAngirasodhoktAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2882,7 +2882,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/46_tAM_bRhaspatirAngirasodhoktAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/46_tAM_bRhaspatirAngirasodhoktAm.md">
 <details open><summary><h3>४६ तां बृहस्पतिराङ्गिरसोधोक्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2923,13 +2923,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४७ तद्ब्रह्म च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/47_tadbrahma_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/47_tadbrahma_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तद्ब्रह्म॑ च॒ तप॑श्च सप्तऋ॒षय॒ उप॑ जीवन्ति ब्रह्मवर्च॒स्यु᳡पजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/47_tadbrahma_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/47_tadbrahma_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2937,7 +2937,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/47_tadbrahma_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/47_tadbrahma_cha.md">
 <details open><summary><h3>४७ तद्ब्रह्म च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2978,13 +2978,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४८ सोदक्रामत्सा देवानागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/48_sodakrAmatsA_devAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/48_sodakrAmatsA_devAnAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा दे॒वानाग॑च्छ॒त्तां दे॒वा उपा॑ह्वय॒न्तोर्ज॒ एहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/48_sodakrAmatsA_devAnAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/48_sodakrAmatsA_devAnAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2992,7 +2992,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/48_sodakrAmatsA_devAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/48_sodakrAmatsA_devAnAgachChattAm.md">
 <details open><summary><h3>४८ सोदक्रामत्सा देवानागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3035,13 +3035,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ४९ तस्या इन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/49_tasyA_indro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/49_tasyA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॒ इन्द्रो॑ व॒त्स आसी॑च्चम॒सः पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/49_tasyA_indro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/49_tasyA_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3049,7 +3049,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/49_tasyA_indro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/49_tasyA_indro.md">
 <details open><summary><h3>४९ तस्या इन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3090,13 +3090,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५० तां देवः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/50_tAM_devaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/50_tAM_devaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां दे॒वः स॑वि॒ताधो॒क्तामू॒र्जामे॒वाधो॑क्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/50_tAM_devaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/50_tAM_devaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3104,7 +3104,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/50_tAM_devaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/50_tAM_devaH.md">
 <details open><summary><h3>५० तां देवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3145,13 +3145,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५१ तामूर्जां देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/51_tAmUrjAM_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/51_tAmUrjAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तामू॒र्जां दे॒वा उप॑ जीवन्त्युपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/51_tAmUrjAM_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/51_tAmUrjAM_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3159,7 +3159,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/51_tAmUrjAM_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/51_tAmUrjAM_devA.md">
 <details open><summary><h3>५१ तामूर्जां देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3200,13 +3200,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५२ सोदक्रामत्सा गन्धर्वाप्सरस
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/52_sodakrAmatsA_gandharvApsarasa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/52_sodakrAmatsA_gandharvApsarasa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा ग॑न्धर्वाप्स॒रस॒ आग॑च्छ॒त्तां ग॑न्धर्वाप्स॒रस॒ उपा॑ह्वयन्त॒ पुण्य॑गन्ध॒ एहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/52_sodakrAmatsA_gandharvApsarasa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/52_sodakrAmatsA_gandharvApsarasa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3214,7 +3214,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/52_sodakrAmatsA_gandharvApsarasa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/52_sodakrAmatsA_gandharvApsarasa.md">
 <details open><summary><h3>५२ सोदक्रामत्सा गन्धर्वाप्सरस ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3255,13 +3255,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५३ तस्याश्चित्ररथः सौर्यवर्चसो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/53_tasyAshchitrarathaH_sauryavarchaso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/53_tasyAshchitrarathaH_sauryavarchaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॑श्चि॒त्रर॑थः सौर्यवर्च॒सो व॒त्स आसी॑त्पुष्करप॒र्णं पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/53_tasyAshchitrarathaH_sauryavarchaso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/53_tasyAshchitrarathaH_sauryavarchaso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3269,7 +3269,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/53_tasyAshchitrarathaH_sauryavarchaso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/53_tasyAshchitrarathaH_sauryavarchaso.md">
 <details open><summary><h3>५३ तस्याश्चित्ररथः सौर्यवर्चसो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3310,13 +3310,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५४ तां वसुरुचिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/54_tAM_vasuruchiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/54_tAM_vasuruchiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां वसु॑रुचिः सौर्यवर्च॒सो᳡धो॒क्तां पुण्य॑मे॒व ग॒न्धम॑धोक्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/54_tAM_vasuruchiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/54_tAM_vasuruchiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3324,7 +3324,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/54_tAM_vasuruchiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/54_tAM_vasuruchiH.md">
 <details open><summary><h3>५४ तां वसुरुचिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3365,13 +3365,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५५ तं पुण्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/55_taM_puNyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/55_taM_puNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तं पुण्यं॑ गन्धं ग॑न्धर्वाप्स॒रस॒ उप॑ जीवन्ति॒ पुण्य॑गन्धिरुपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/55_taM_puNyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/55_taM_puNyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3379,7 +3379,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/55_taM_puNyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/55_taM_puNyam.md">
 <details open><summary><h3>५५ तं पुण्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3420,13 +3420,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५६ सोदक्रामत्सेतरजनानागच्छत्तामितरजना उपाह्वयन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/56_sodakrAmatsetarajanAnAgachChattAmitarajanA_upAh.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/56_sodakrAmatsetarajanAnAgachChattAmitarajanA_upAh.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सेत॑रज॒नानाग॑च्छ॒त्तामि॑तरज॒ना उपा॑ह्वयन्त॒ तिरो॑ध॒ एहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/56_sodakrAmatsetarajanAnAgachChattAmitarajanA_upAh.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/56_sodakrAmatsetarajanAnAgachChattAmitarajanA_upAh.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3434,7 +3434,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/56_sodakrAmatsetarajanAnAgachChattAmitarajanA_upAh.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/56_sodakrAmatsetarajanAnAgachChattAmitarajanA_upAh.md">
 <details open><summary><h3>५६ सोदक्रामत्सेतरजनानागच्छत्तामितरजना उपाह्वयन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3475,13 +3475,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५७ तस्याः कुबेरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/57_tasyAH_kubero.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/57_tasyAH_kubero.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्याः॒ कुबे॑रो वैश्रव॒णो व॒त्स आसी॑दामपा॒त्रं पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/57_tasyAH_kubero.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/57_tasyAH_kubero.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3489,7 +3489,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/57_tasyAH_kubero.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/57_tasyAH_kubero.md">
 <details open><summary><h3>५७ तस्याः कुबेरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3530,13 +3530,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५८ तां रजतनाभिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/58_tAM_rajatanAbhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/58_tAM_rajatanAbhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां र॑ज॒तना॑भिः काबेर॒को᳡धो॒क्तां ति॑रो॒धामे॒वाधो॑क्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/58_tAM_rajatanAbhiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/58_tAM_rajatanAbhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3544,7 +3544,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/58_tAM_rajatanAbhiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/58_tAM_rajatanAbhiH.md">
 <details open><summary><h3>५८ तां रजतनाभिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3585,13 +3585,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ५९ तां तिरोधामितरजना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/59_tAM_tirodhAmitarajanA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/59_tAM_tirodhAmitarajanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां ति॑रो॒धामि॑तरज॒ना उप॑ जीवन्ति ति॒रो ध॑त्ते॒ सर्वं॑ पा॒प्मान॑मुपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/59_tAM_tirodhAmitarajanA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/59_tAM_tirodhAmitarajanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3599,7 +3599,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/59_tAM_tirodhAmitarajanA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/59_tAM_tirodhAmitarajanA.md">
 <details open><summary><h3>५९ तां तिरोधामितरजना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3640,13 +3640,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६० सोदक्रामत्सा सर्पानागच्छत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/60_sodakrAmatsA_sarpAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/60_sodakrAmatsA_sarpAnAgachChattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोद॑क्राम॒त्सा स॒र्पानाग॑च्छ॒त्तां स॒र्पा उपा॑ह्वयन्त॒ विष॑व॒त्येहीति॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/60_sodakrAmatsA_sarpAnAgachChattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/60_sodakrAmatsA_sarpAnAgachChattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3654,7 +3654,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/60_sodakrAmatsA_sarpAnAgachChattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/60_sodakrAmatsA_sarpAnAgachChattAm.md">
 <details open><summary><h3>६० सोदक्रामत्सा सर्पानागच्छत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3695,13 +3695,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६१ तस्यास्तक्षको वैशालेयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/61_tasyAstaxako_vaishAleyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/61_tasyAstaxako_vaishAleyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॑स्तक्ष॒को वै॑शाले॒यो व॒त्स आसी॑दलाबुपा॒त्रं पात्र॑म्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/61_tasyAstaxako_vaishAleyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/61_tasyAstaxako_vaishAleyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3709,7 +3709,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/61_tasyAstaxako_vaishAleyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/61_tasyAstaxako_vaishAleyo.md">
 <details open><summary><h3>६१ तस्यास्तक्षको वैशालेयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3750,13 +3750,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६२ तां धृतराष्ट्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/62_tAM_dhRtarAShTra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/62_tAM_dhRtarAShTra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां धृ॒तरा॑ष्ट्र ऐराव॒तो᳡धो॒क्तां वि॒षमे॒वाधो॑क्।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/62_tAM_dhRtarAShTra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/62_tAM_dhRtarAShTra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3764,7 +3764,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/62_tAM_dhRtarAShTra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/62_tAM_dhRtarAShTra.md">
 <details open><summary><h3>६२ तां धृतराष्ट्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3805,13 +3805,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६३ तद्विषं सर्पा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/63_tadviShaM_sarpA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/63_tadviShaM_sarpA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तद्वि॒षं स॒र्पा उप॑ जीवन्त्युपजीव॒नीयो॑ भवति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/63_tadviShaM_sarpA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/63_tadviShaM_sarpA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3819,7 +3819,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/63_tadviShaM_sarpA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/63_tadviShaM_sarpA.md">
 <details open><summary><h3>६३ तद्विषं सर्पा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3860,13 +3860,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६४ तद्यस्मा एवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/64_tadyasmA_evam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/64_tadyasmA_evam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तद्यस्मा॑ ए॒वं वि॒दुषे॒ऽलाबु॑नाभिषि॒ञ्चेत्प्र॒त्याह॑न्यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/64_tadyasmA_evam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/64_tadyasmA_evam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3874,7 +3874,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/64_tadyasmA_evam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/64_tadyasmA_evam.md">
 <details open><summary><h3>६४ तद्यस्मा एवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3921,13 +3921,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६५ न च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/65_na_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/65_na_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न च॑ प्रत्याह॒न्यान्मन॑सा॒ त्वा प्र॒त्याह॒न्मीति॑ प्र॒त्याह॑न्यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/65_na_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/65_na_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3935,7 +3935,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/65_na_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/65_na_cha.md">
 <details open><summary><h3>६५ न च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3976,13 +3976,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६६ यत्प्रत्याहन्ति विषमेव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/66_yatpratyAhanti_viShameva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/66_yatpratyAhanti_viShameva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्प्र॑त्या॒हन्ति॑ वि॒षमे॒व तत्प्र॒त्याह॑न्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/66_yatpratyAhanti_viShameva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/66_yatpratyAhanti_viShameva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3990,7 +3990,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/66_yatpratyAhanti_viShameva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/66_yatpratyAhanti_viShameva.md">
 <details open><summary><h3>६६ यत्प्रत्याहन्ति विषमेव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -4031,13 +4031,13 @@ The man who hath this knowledge pours its venom on his hated foe.
 </div>
 
 ## ६७ विषमेवास्याप्रियं भ्रातृव्यमनुविषिच्यते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/67_viShamevAsyApriyaM_bhrAtRvyamanuviShichyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/010_virAT/67_viShamevAsyApriyaM_bhrAtRvyamanuviShichyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒षमे॒वास्याप्रि॑यं॒ भ्रातृ॑व्यमनु॒विषि॑च्यते॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/67_viShamevAsyApriyaM_bhrAtRvyamanuviShichyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/010_virAT/67_viShamevAsyApriyaM_bhrAtRvyamanuviShichyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -4045,7 +4045,7 @@ The man who hath this knowledge pours its venom on his hated foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/67_viShamevAsyApriyaM_bhrAtRvyamanuviShichyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/010_virAT/67_viShamevAsyApriyaM_bhrAtRvyamanuviShichyate.md">
 <details open><summary><h3>६७ विषमेवास्याप्रियं भ्रातृव्यमनुविषिच्यते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

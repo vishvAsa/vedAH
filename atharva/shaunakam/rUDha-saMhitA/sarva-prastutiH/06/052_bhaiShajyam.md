@@ -2,7 +2,7 @@
 title = "०५२ भैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/_index.md">
 <details open><summary><h2>०५२ भैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against noxious reptiles and insects
 </div>
 
 ## ०१ उत्सूर्यो दिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/01_utsUryo_diva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्।  
 आ॑दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/01_utsUryo_diva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against noxious reptiles and insects
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/01_utsUryo_diva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/01_utsUryo_diva.md">
 <details open><summary><h3>०१ उत्सूर्यो दिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 </div>
 
 ## ०२ नि गावो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/02_ni_gAvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नि गावो॑ गो॒ष्ठे अ॑सद॒न्नि मृ॒गासो॑ अविक्षत।  
 न्यू॒३॒॑र्मयो॑ न॒दीनं॒ न्य१॒॑दृष्टा॑ अलिप्सत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/02_ni_gAvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Slaying the Rakshasas, the Sun mounts upward in the front of heaven, Aditya, fro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/02_ni_gAvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/02_ni_gAvo.md">
 <details open><summary><h3>०२ नि गावो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 </div>
 
 ## ०३ आयुर्ददं विपश्चितम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्।  
 आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न्नि श॑मयत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ The kine had settled in their pen, wild animals sought their lairs The wavelets 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/052_bhaiShajyam/03_AyurdadaM_vipashchitam.md">
 <details open><summary><h3>०३ आयुर्ददं विपश्चितम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

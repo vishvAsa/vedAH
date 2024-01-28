@@ -2,7 +2,7 @@
 title = "०१५ अभय प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/_index.md">
 <details open><summary><h2>०१५ अभय प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, xiii. 179; Griffith, i. 59.
 </div>
 
 ## ०१ यथा द्यौश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ द्यौश्च॑ पृथि॒वी च॒ न बि॑भी॒तो न रिष्य॑तः।  
 ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, xiii. 179; Griffith, i. 59.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/01_yathA_dyaushcha.md">
 <details open><summary><h3>०१ यथा द्यौश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ riṣaḥ.*⌋
 </div>
 
 ## ०२ यथाहश्च रात्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथाह॑श्च॒ रात्री॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
 ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ riṣaḥ.*⌋
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/02_yathAhashcha_rAtrI.md">
 <details open><summary><h3>०२ यथाहश्च रात्री ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -155,14 +155,14 @@ sentences, correspondent but with elements in part different.
 </div>
 
 ## ०३ यथा सूर्यश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सूर्य॑श्च च॒न्द्रश्च॒ न बि॑भी॒तो न रिष्य॑तः।  
 ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -171,7 +171,7 @@ sentences, correspondent but with elements in part different.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/03_yathA_sUryashcha.md">
 <details open><summary><h3>०३ यथा सूर्यश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -215,14 +215,14 @@ sentences, correspondent but with elements in part different.
 </div>
 
 ## ०४ यथा ब्रह्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ ब्रह्म॑ च क्ष॒त्रं च॒ न बि॑भी॒तो न रिष्य॑तः।  
 ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/04_yathA_brahma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -231,7 +231,7 @@ sentences, correspondent but with elements in part different.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/04_yathA_brahma.md">
 <details open><summary><h3>०४ यथा ब्रह्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -279,14 +279,14 @@ translated.
 </div>
 
 ## ०५ यथा सत्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ स॒त्यं चानृ॑तं च॒ न बि॑भी॒तो न रिष्य॑तः।  
 ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/05_yathA_satyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -295,7 +295,7 @@ translated.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/05_yathA_satyam.md">
 <details open><summary><h3>०५ यथा सत्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -339,14 +339,14 @@ translated.
 </div>
 
 ## ०६ यथा भूतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ भू॒तं च॒ भव्यं॑ च॒ न बि॑भी॒तो न रिष्य॑तः।  
 ए॒वा मे॑ प्राण॒ मा बि॑भेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -355,7 +355,7 @@ translated.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/015_abhaya_prAptiH/06_yathA_bhUtam.md">
 <details open><summary><h3>०६ यथा भूतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

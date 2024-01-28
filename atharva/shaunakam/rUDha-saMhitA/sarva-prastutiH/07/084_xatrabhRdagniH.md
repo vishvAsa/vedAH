@@ -2,7 +2,7 @@
 title = "०८४ क्षत्रभृदग्निः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/_index.md">
 <details open><summary><h2>०८४ क्षत्रभृदग्निः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for protection
 </div>
 
 ## ०१ अनाधृष्यो जातवेदा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नाधृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद्दी॑दिही॒ह।  
 विश्वा॒ अमी॑वाः प्रमु॒ञ्चन्मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/01_anAdhRShyo_jAtavedA.md">
 <details open><summary><h3>०१ अनाधृष्यो जातवेदा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 </div>
 
 ## ०२ इन्द्र क्षत्रमभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्।  
 अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ Holder of sway, shine here refulgent, Agni! invincible immortal Jatavedas. With 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/02_indra_xatramabhi.md">
 <details open><summary><h3>०२ इन्द्र क्षत्रमभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -184,14 +184,14 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 </div>
 
 ## ०३ मृगो न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/03_mRgo_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मृ॒गो न॑ भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः।  
 सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताढि॒ वि मृधो॑ नुदस्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/03_mRgo_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -200,7 +200,7 @@ Thou, Indra, lord and leader of the people, wast born for lovely strength and hi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/03_mRgo_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/084_xatrabhRdagniH/03_mRgo_na.md">
 <details open><summary><h3>०३ मृगो न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

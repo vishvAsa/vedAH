@@ -2,7 +2,7 @@
 title = "१११ आत्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/111_AtmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/111_AtmA/_index.md">
 <details open><summary><h2>१११ आत्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 </div>
 
 ## ०१ इन्द्रस्य कुक्षिरसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/111_AtmA/01_indrasya_kuxirasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/111_AtmA/01_indrasya_kuxirasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य कु॒क्षिर॑सि सोम॒धान॑ आ॒त्मा दे॒वाना॑मु॒त मानु॑षाणाम्।  
 इ॒ह प्र॒जा ज॑नय॒ यास्त॑ आ॒सु या अ॒न्यत्रे॒ह तास्ते॑ रमन्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/111_AtmA/01_indrasya_kuxirasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/111_AtmA/01_indrasya_kuxirasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 44, 122; Griffith, i. 382.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/111_AtmA/01_indrasya_kuxirasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/111_AtmA/01_indrasya_kuxirasi.md">
 <details open><summary><h3>०१ इन्द्रस्य कुक्षिरसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

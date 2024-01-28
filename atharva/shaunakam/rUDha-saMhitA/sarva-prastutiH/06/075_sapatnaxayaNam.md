@@ -2,7 +2,7 @@
 title = "०७५ सपत्नक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/_index.md">
 <details open><summary><h2>०७५ सपत्नक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to effect the removal of an enemy
 </div>
 
 ## ०१ निरमुं नुद
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर॒मुं नु॑द॒ ओक॑सः स॒पत्नो॒ यः पृ॑त॒न्यति॑।  
 नै॑र्बा॒ध्ये᳡न ह॒विषेन्द्र॑ एनं॒ परा॑शरीत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to effect the removal of an enemy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/01_niramuM_nuda.md">
 <details open><summary><h3>०१ निरमुं नुद ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </div>
 
 ## ०२ परमां तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॑र॒मां तं प॑रा॒वत॒मिन्द्रो॑ नुदतु वृत्र॒हा।  
 यतो॒ न पुन॒राय॑ति शश्व॒तीभ्यः॒ समा॑भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/02_paramAM_tam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Forth from his dwelling drive that man, the foeman who assaileth us: Through the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/02_paramAM_tam.md">
 <details open><summary><h3>०२ परमां तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,7 +163,7 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 </div>
 
 ## ०३ एतु तिस्रः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एतु॑ ति॒स्रः प॑रा॒वत॒ एतु॒ पञ्च॒ जनाँ॒ अति॑।  
@@ -171,7 +171,7 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 श॑श्व॒तीभ्यः॒ समा॑भ्यो॒ याव॒त्सूर्यो॒ अस॑द्दि॒वि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/03_etu_tisraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Indra, Foe-Slayer, drive him forth into the distance most remote, Whence never m
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/075_sapatnaxayaNam/03_etu_tisraH.md">
 <details open><summary><h3>०३ एतु तिस्रः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

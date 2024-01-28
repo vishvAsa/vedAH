@@ -2,7 +2,7 @@
 title = "०११ दीर्घायुः प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/_index.md">
 <details open><summary><h2>०११ दीर्घायुः प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the recovery of a dangerously sick man
 </div>
 
 ## ०१ मुञ्चामि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मु॒ञ्चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा॑जय॒क्ष्मात्।  
 ग्राहि॑र्ज॒ग्राह॒ यद्ये॒तदे॑नं॒ तस्या॑ इन्द्राग्नी॒ प्र मु॑मुक्तमेनम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the recovery of a dangerously sick man
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/01_munchAmi_tvA.md">
 <details open><summary><h3>०१ मुञ्चामि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ For life I set thee free by this oblation both from unmarked'. decline and from 
 </div>
 
 ## ०२ यदि क्षितायुर्यदि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे॑तो॒ यदि॑ मृ॒त्योर॑न्ति॒कं नी॑त ए॒व।  
 तमा ह॑रामि॒ निरृ॑तेरु॒पस्था॒दस्पा॑र्षमेनं श॒तशा॑रदाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ For life I set thee free by this oblation both from unmarked'. decline and from 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/02_yadi_xitAyuryadi.md">
 <details open><summary><h3>०२ यदि क्षितायुर्यदि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Be his days ended, be he now departed, be he brought very near to death already,
 </div>
 
 ## ०३ सहस्राक्षेण शतवीर्येण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑हस्रा॒क्षेण॑ श॒तवी॑र्येण श॒तायु॑षा ह॒विषाहा॑र्षमेनम्।  
 इन्द्रो॒ यथै॑नं श॒रदो॒ नया॒त्यति॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Be his days ended, be he now departed, be he brought very near to death already,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/03_sahasrAxeNa_shatavIryeNa.md">
 <details open><summary><h3>०३ सहस्राक्षेण शतवीर्येण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have
 </div>
 
 ## ०४ शतं जीव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तं जी॑व श॒रदो॒ वर्ध॑मानः श॒तं हे॑म॒न्तान्छ॒तमु॑ वस॒न्तान्।  
 श॒तं त॒ इन्द्रो॑ अ॒ग्निः स॑वि॒ता बृह॒स्पतिः॑ श॒तायु॑षा ह॒विषाहा॑र्षमेनम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ With sacrifice thousand-eyed and hundred-powered, bringing a hundred lives, have
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/04_shataM_jIva.md">
 <details open><summary><h3>०४ शतं जीव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,14 +304,14 @@ Live, waxing in thy strength a hundred autumns, live through a hundred springs, 
 </div>
 
 ## ०५ प्र विशतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र वि॑शतं प्राणापानावन॒ड्वाहा॑विव व्र॒जम्।  
 व्य॒न्ये य॑न्तु मृ॒त्यवो॒ याना॒हुरित॑रान्छ॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -320,7 +320,7 @@ Live, waxing in thy strength a hundred autumns, live through a hundred springs, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/05_pra_vishatam.md">
 <details open><summary><h3>०५ प्र विशतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -378,14 +378,14 @@ Breath, Respiration, come to him, as two car-oxen to their stall! Let all the ot
 </div>
 
 ## ०६ इहैव स्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव स्तं॑ प्राणापानौ॒ माप॑ गातमि॒तो यु॒वम्।  
 शरी॑रम॒स्याङ्गा॑नि ज॒रसे॑ वहतं॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -394,7 +394,7 @@ Breath, Respiration, come to him, as two car-oxen to their stall! Let all the ot
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/06_ihaiva_stam.md">
 <details open><summary><h3>०६ इहैव स्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -442,14 +442,14 @@ Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that
 </div>
 
 ## ०७ जरायै त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज॒रायै॑ त्वा॒ परि॑ ददामि ज॒रायै॒ नि धु॑वामि त्वा।  
 ज॒रा त्वा॑ भ॒द्रा ने॑ष्ट॒ व्य॒न्ये य॑न्तु मृ॒त्यवो॒ याना॒हुरित॑रान्छ॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -458,7 +458,7 @@ Breath, Respiration, stay ye here. Go ye not hence away from him, Bring, so that
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/07_jarAyai_tvA.md">
 <details open><summary><h3>०७ जरायै त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -506,7 +506,7 @@ I give thee over to old age, make thee the subject of old age. Let kindly old ag
 </div>
 
 ## ०८ अभि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि त्वा॑ जरि॒माहि॑त॒ गामु॒क्षण॑मिव॒ रज्ज्वा॑।  
@@ -514,7 +514,7 @@ I give thee over to old age, make thee the subject of old age. Let kindly old ag
 तं ते॑ स॒त्यस्य॒ हस्ता॑भ्या॒मुद॑मुञ्च॒द्बृह॒स्पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -524,7 +524,7 @@ I give thee over to old age, make thee the subject of old age. Let kindly old ag
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/011_dIrghAyuH_prAptiH/08_abhi_tvA.md">
 <details open><summary><h3>०८ अभि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

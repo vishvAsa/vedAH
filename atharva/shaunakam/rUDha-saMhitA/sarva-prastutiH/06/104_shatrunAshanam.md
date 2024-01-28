@@ -2,7 +2,7 @@
 title = "१०४ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/_index.md">
 <details open><summary><h2>१०४ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 518; Griffith, i. 302.
 </div>
 
 ## ०१ आदानेन सन्दानेनामित्राना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि।  
 अ॑पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 518; Griffith, i. 302.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/01_AdAnena_sandAnenAmitrAnA.md">
 <details open><summary><h3>०१ आदानेन सन्दानेनामित्राना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 </div>
 
 ## ०२ इदमादानमकरं तपसेन्द्रेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्।  
 अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ We bind our foemen with a bond that binds them close and holds them fast. Their 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/02_idamAdAnamakaraM_tapasendreNa.md">
 <details open><summary><h3>०२ इदमादानमकरं तपसेन्द्रेण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -159,14 +159,14 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 </div>
 
 ## ०३ ऐनान्द्यतामिन्द्राग्नी सोमो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऐना॑न्द्यतामिन्द्रा॒ग्नी सोमो॒ राजा॑ च मे॒दिनौ॑।  
 इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -175,7 +175,7 @@ This bond, made keen by Indra, I have formed with heat of holy zeal. Securely bi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/104_shatrunAshanam/03_ainAndyatAmindrAgnI_somo.md">
 <details open><summary><h3>०३ ऐनान्द्यतामिन्द्राग्नी सोमो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

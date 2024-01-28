@@ -2,7 +2,7 @@
 title = "०६६ ब्रह्म"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/_index.md">
 <details open><summary><h2>०६६ ब्रह्म ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Vak
 </div>
 
 ## ०१ यद्यन्तरिक्षे यदि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/066_brahma/01_yadyantarixe_yadi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/066_brahma/01_yadyantarixe_yadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु।  
 यदश्र॑वन्प॒शव॑ उ॒द्यमा॑नं॒ तद्ब्राह्म॒णं पुन॑र॒स्मानु॒पैतु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/066_brahma/01_yadyantarixe_yadi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/066_brahma/01_yadyantarixe_yadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Vak
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/01_yadyantarixe_yadi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/066_brahma/01_yadyantarixe_yadi.md">
 <details open><summary><h3>०१ यद्यन्तरिक्षे यदि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

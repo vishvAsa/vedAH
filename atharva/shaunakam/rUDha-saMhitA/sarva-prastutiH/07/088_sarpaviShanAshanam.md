@@ -2,7 +2,7 @@
 title = "०८८ सर्पविषनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/_index.md">
 <details open><summary><h2>०८८ सर्पविषनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to cure a snake-bite
 </div>
 
 ## ०१ अपेह्यरिरस्यरिर्वा असि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपे॒ह्यरि॑र॒स्यरि॒र्वा अ॑सि वि॒षे वि॒षम॑पृक्था वि॒षमिद्वा अ॑पृक्थाः।  
 अहि॑मे॒वाभ्यपे॑हि॒ तं ज॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to cure a snake-bite
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/088_sarpaviShanAshanam/01_apehyarirasyarirvA_asi.md">
 <details open><summary><h3>०१ अपेह्यरिरस्यरिर्वा असि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२६ विष्णुः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/_index.md">
 <details open><summary><h2>०२६ विष्णुः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Praise of Vishnu
 </div>
 
 ## ०१ विष्णोर्नु कम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/01_viShNornu_kam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/01_viShNornu_kam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विष्णो॒र्नु कं॒ प्रा वो॑चं वी॒र्या᳡णि॒ यः पार्थि॑वानि विम॒मे रजां॑सि।  
 यो अस्क॑भाय॒दुत्त॑रं स॒धस्थं॑ विचक्रमा॒णस्त्रे॒धोरु॑गा॒यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/01_viShNornu_kam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/01_viShNornu_kam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Praise of Vishnu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/01_viShNornu_kam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/01_viShNornu_kam.md">
 <details open><summary><h3>०१ विष्णोर्नु कम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ I will declare the mighty deeds of Vishnu, of him who measured out the earthly r
 </div>
 
 ## ०२ प्र तद्विष्णु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/02_pra_tadviShNu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/02_pra_tadviShNu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र तद्विष्णु॑ स्तवते वी॒र्या᳡णि मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः।  
 प॑रा॒वत॒ आ ज॑गम्या॒त्पर॑स्याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/02_pra_tadviShNu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/02_pra_tadviShNu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ I will declare the mighty deeds of Vishnu, of him who measured out the earthly r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/02_pra_tadviShNu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/02_pra_tadviShNu.md">
 <details open><summary><h3>०२ प्र तद्विष्णु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -182,7 +182,7 @@ Loud boast doth Vishnu make of this achievement, like some wild beast, dread, pr
 </div>
 
 ## ०३ यस्योरुषु त्रिषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/03_yasyoruShu_triShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/03_yasyoruShu_triShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑।  
@@ -190,7 +190,7 @@ Loud boast doth Vishnu make of this achievement, like some wild beast, dread, pr
 घृ॒तं घृ॑तयोने पिब॒ प्रप्र॑ य॒ज्ञप॑तिं तिर ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/03_yasyoruShu_triShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/03_yasyoruShu_triShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -200,7 +200,7 @@ Loud boast doth Vishnu make of this achievement, like some wild beast, dread, pr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/03_yasyoruShu_triShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/03_yasyoruShu_triShu.md">
 <details open><summary><h3>०३ यस्योरुषु त्रिषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -259,14 +259,14 @@ Thou within whose three wide-extended paces all worlds and creatures have their 
 </div>
 
 ## ०४ इदं विष्णुर्वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/04_idaM_viShNurvi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/04_idaM_viShNurvi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दा।  
 समू॑ढमस्य पांसु॒रे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/04_idaM_viShNurvi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/04_idaM_viShNurvi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -275,7 +275,7 @@ Thou within whose three wide-extended paces all worlds and creatures have their 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/04_idaM_viShNurvi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/04_idaM_viShNurvi.md">
 <details open><summary><h3>०४ इदं विष्णुर्वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -329,14 +329,14 @@ Through all this world strode Vishnu: thrice his foot he planted, and the whole 
 </div>
 
 ## ०५ त्रीणि पदा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/05_trINi_padA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/05_trINi_padA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रीणि॑ प॒दा वि च॑क्रमे॒ विष्णु॑र्गो॒पा अदा॑भ्यः।  
 इ॒तो धर्मा॑णि धा॒रय॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/05_trINi_padA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/05_trINi_padA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -345,7 +345,7 @@ Through all this world strode Vishnu: thrice his foot he planted, and the whole 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/05_trINi_padA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/05_trINi_padA.md">
 <details open><summary><h3>०५ त्रीणि पदा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -394,14 +394,14 @@ Vishnu the guardian, he whom none deceiveth, made three steps, thenceforth. Esta
 </div>
 
 ## ०६ विष्णोः कर्माणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/06_viShNoH_karmANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/06_viShNoH_karmANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विष्णोः॒ कर्मा॑णि पश्यत॒ यतो॑ व्र॒तानि॑ पस्प॒शे।  
 इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/06_viShNoH_karmANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/06_viShNoH_karmANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -410,7 +410,7 @@ Vishnu the guardian, he whom none deceiveth, made three steps, thenceforth. Esta
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/06_viShNoH_karmANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/06_viShNoH_karmANi.md">
 <details open><summary><h3>०६ विष्णोः कर्माणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -480,14 +480,14 @@ Look ye on Vishnu's works, whereby the friend of Indra, close- allied, Hath let 
 </div>
 
 ## ०७ तद्विष्णोः परमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/07_tadviShNoH_paramam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/07_tadviShNoH_paramam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तद्विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑।  
 दि॒वी᳡व॒ चक्षु॒रात॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/07_tadviShNoH_paramam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/07_tadviShNoH_paramam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -496,7 +496,7 @@ Look ye on Vishnu's works, whereby the friend of Indra, close- allied, Hath let 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/07_tadviShNoH_paramam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/07_tadviShNoH_paramam.md">
 <details open><summary><h3>०७ तद्विष्णोः परमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -546,14 +546,14 @@ The princes evermore behold that loftiest place where Vishnu is, Like an extende
 </div>
 
 ## ०८ दिवो विष्ण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/08_divo_viShNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/026_viShNuH/08_divo_viShNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वो वि॑ष्ण उ॒त वा॑ पृ॑थि॒व्या म॒हो वि॑ष्ण उ॒रोर॒न्तरि॑क्षात्।  
 हस्तौ॑ पृणस्व ब॒हुभि॑र्वस॒व्यैरा॒प्रय॑च्छ॒ दक्षि॑णा॒दोत स॒व्यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/08_divo_viShNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/026_viShNuH/08_divo_viShNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -562,7 +562,7 @@ The princes evermore behold that loftiest place where Vishnu is, Like an extende
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/08_divo_viShNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/026_viShNuH/08_divo_viShNa.md">
 <details open><summary><h3>०८ दिवो विष्ण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

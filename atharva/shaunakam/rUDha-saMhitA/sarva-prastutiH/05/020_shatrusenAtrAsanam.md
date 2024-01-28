@@ -2,7 +2,7 @@
 title = "०२० शत्रुसेनात्रासनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/_index.md">
 <details open><summary><h2>०२० शत्रुसेनात्रासनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to the War-drum to secure victory
 </div>
 
 ## ०१ उच्चैर्घोषो दुन्दुभिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒च्चैर्घो॑षो दुन्दु॒भिः स॑त्वना॒यन्वा॑नस्प॒त्यः संभृ॑त उ॒स्रिया॑भिः।  
 वाचं॑ क्षुणुवा॒नो द॒मय॑न्त्स॒पत्ना॑न्त्सिं॒ह इ॑व जे॒ष्यन्न॒भि तं॑स्तनीहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to the War-drum to secure victory
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/01_uchchairghoSho_dundubhiH.md">
 <details open><summary><h3>०१ उच्चैर्घोषो दुन्दुभिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -112,14 +112,14 @@ Formed out of wood, compact with straps of leather, loud is the: War-drum as he 
 </div>
 
 ## ०२ सिंह इवास्तानीद्द्रुवयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिं॒ह इ॑वास्तानीद्द्रु॒वयो॒ विब॑द्धोऽभि॒क्रन्द॑न्नृष॒भो वा॑सि॒तामि॑व।  
 वृषा॒ त्वं वध्र॑यस्ते स॒पत्ना॑ ऐ॒न्द्रस्ते॒ शुष्मो॑ अभिमातिषा॒हः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -128,7 +128,7 @@ Formed out of wood, compact with straps of leather, loud is the: War-drum as he 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/02_siMha_ivAstAnIddruvayo.md">
 <details open><summary><h3>०२ सिंह इवास्तानीद्द्रुवयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -185,14 +185,14 @@ The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet
 </div>
 
 ## ०३ वृषेव यूथे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृषे॑व यू॒थे सह॑सा विदा॒नो ग॒व्यन्न॒भि रु॑व संधनाजित्।  
 शु॒चा वि॑ध्य॒ हृद॑यं॒ परे॑षां हि॒त्वा ग्रामा॒न्प्रच्यु॑ता यन्तु॒ शत्र॑वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -201,7 +201,7 @@ The fastened frame hath roared as 'twere a lion, like a bull bel- lowing to meet
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/03_vRSheva_yUthe.md">
 <details open><summary><h3>०३ वृषेव यूथे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ Like a bull marked by strength among the cattle, roar seeking kine and gathering
 </div>
 
 ## ०४ सञ्जयन्पृतना ऊर्ध्वमायुर्गृह्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒जय॒न्पृत॑ना ऊ॒र्ध्वमा॑यु॒र्गृह्या॑ गृह्णा॒नो ब॑हु॒धा वि च॑क्ष्व।  
 दैवीं॒ वाचं॑ दुन्दुभ॒ आ गु॑रस्व वे॒धाः शत्रू॑णा॒मुप॑ भरस्व॒ वेदः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ Like a bull marked by strength among the cattle, roar seeking kine and gathering
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/04_sanjayanpRtanA_UrdhvamAyurgRhyA.md">
 <details open><summary><h3>०४ सञ्जयन्पृतना ऊर्ध्वमायुर्गृह्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -321,14 +321,14 @@ Victorious in the battle, loudly roaring, seizing what may be seized, look all a
 </div>
 
 ## ०५ दुन्दुभेर्वाचं प्रयताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दु॑न्दु॒भेर्वाचं॒ प्रय॑तां॒ वद॑न्तीमाशृण्व॒ती ना॑थि॒ता घोष॑बुद्धा।  
 नारी॑ पु॒त्रं धा॑वतु हस्त॒गृह्या॑मि॒त्री भी॒ता स॑म॒रे व॒धाना॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -337,7 +337,7 @@ Victorious in the battle, loudly roaring, seizing what may be seized, look all a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/05_dundubhervAchaM_prayatAm.md">
 <details open><summary><h3>०५ दुन्दुभेर्वाचं प्रयताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -385,14 +385,14 @@ Hearing the Drum's far-reaching voice resounding, let the foe's dame, waked by t
 </div>
 
 ## ०६ पूर्वो दुन्दुभे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पूर्वो॑ दुन्दुभे॒ प्र व॑दासि॒ वाचं॒ भूम्याः॑ पृ॒ष्ठे व॑द॒ रोच॑मानः।  
 अ॑मित्रसे॒नाम॑भि॒जञ्ज॑भानो द्यु॒मद्व॑द दुन्दुभे सू॒नृता॑वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -401,7 +401,7 @@ Hearing the Drum's far-reaching voice resounding, let the foe's dame, waked by t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/06_pUrvo_dundubhe.md">
 <details open><summary><h3>०६ पूर्वो दुन्दुभे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -457,14 +457,14 @@ Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak
 </div>
 
 ## ०७ अन्तरेमे नभसी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑न्त॒रेमे नभ॑सी॒ घोषो॑ अस्तु॒ पृथ॑क्ते ध्व॒नयो॑ यन्तु॒ शीभ॑म्।  
 अ॒भि क्र॑न्द स्त॒नयो॒त्पिपा॑नः श्लोक॒कृन्मि॑त्र॒तूर्या॑य स्व॒र्धी ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -473,7 +473,7 @@ Thou, first of all, O Drum, thy voice shalt utter: over the ridge of earth speak
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/07_antareme_nabhasI.md">
 <details open><summary><h3>०७ अन्तरेमे नभसी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -524,14 +524,14 @@ Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in 
 </div>
 
 ## ०८ धीभिः कृतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धी॒भिः कृ॒तः प्र व॑दाति॒ वाच॒मुद्ध॑र्षय॒ सत्व॑ना॒मायु॑धानि।  
 इन्द्र॑मेदी॒ सत्व॑नो॒ नि ह्व॑यस्व मि॒त्रैर॒मित्राँ॒ अव॑ जङ्घनीहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -540,7 +540,7 @@ Loud be thy roar between the earth and heaven. Swift let thy sounds go forth in 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/08_dhIbhiH_kRtaH.md">
 <details open><summary><h3>०८ धीभिः कृतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -590,14 +590,14 @@ He shall send forth his voice whom art hath fashioned. Make thou the weapons of 
 </div>
 
 ## ०९ सङ्क्रन्दनः प्रवदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒क्रन्द॑नः प्रव॒दो धृ॒ष्णुषे॑णः प्रवेद॒कृद्ब॑हु॒धा ग्रा॑मघो॒षी।  
 श्रेयो॑ वन्व॒नो व॒युना॑नि वि॒द्वान्की॒र्तिं ब॒हुभ्यो॒ वि ह॑र द्विरा॒जे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -606,7 +606,7 @@ He shall send forth his voice whom art hath fashioned. Make thou the weapons of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/09_sankrandanaH_pravado.md">
 <details open><summary><h3>०९ सङ्क्रन्दनः प्रवदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -657,14 +657,14 @@ Resonant, roaring, with thy powerful weapons, warning, and heard by troops in ma
 </div>
 
 ## १० श्रेयःकेतो वसुजित्सहीयान्त्सङ्ग्रामजित्संशितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रेयः॑केतो वसु॒जित्सही॑यान्त्संग्राम॒जित्संशि॑तो॒ ब्रह्म॑णासि।  
 अं॒शूनि॑व॒ ग्रावा॑धि॒षव॑णे॒ अद्रि॑र्ग॒व्यन्दु॑न्दु॒भेऽधि॑ नृत्य॒ वेदः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -673,7 +673,7 @@ Resonant, roaring, with thy powerful weapons, warning, and heard by troops in ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/10_shreyaHketo_vasujitsahIyAntsangrAmajitsaMshito.md">
 <details open><summary><h3>१० श्रेयःकेतो वसुजित्सहीयान्त्सङ्ग्रामजित्संशितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -729,14 +729,14 @@ Bent on advantage, mightier, gaining treasures, victor in war, the spell hath ma
 </div>
 
 ## ११ शत्रूषाण्नीषाडभिमातिषाहो गवेषणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शत्रू॑षाण्नी॒षाड॑भिमातिषा॒हो ग॒वेष॑णः॒ सह॑मान उ॒द्भित्।  
 वा॒ग्वीव॒ मन्त्रं॒ प्र भ॑रस्व॒ वाचं सांग्रा॑मजित्या॒येष॒मुद्व॑दे॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -745,7 +745,7 @@ Bent on advantage, mightier, gaining treasures, victor in war, the spell hath ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/11_shatrUShANnIShADabhimAtiShAho_gaveShaNaH.md">
 <details open><summary><h3>११ शत्रूषाण्नीषाडभिमातिषाहो गवेषणः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -797,14 +797,14 @@ Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destro
 </div>
 
 ## १२ अच्युतच्युत्समदो गमिष्ठो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑च्युत॒च्युत्स॒मदो॒ गमि॑ष्ठो॒ मृधो॒ जेता॑ पुरए॒तायो॒ध्यः।  
 इन्द्रे॑ण गु॒प्तो वि॒दथा॑ निचिक्यद्धृ॒द्द्योत॑नो द्विष॒तां या॑हि॒ शीभ॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -813,7 +813,7 @@ Foe-conqueror, victor, vanquishing opponents, seeker of booty, mastering, destro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/020_shatrusenAtrAsanam/12_achyutachyutsamado_gamiShTho.md">
 <details open><summary><h3>१२ अच्युतच्युत्समदो गमिष्ठो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

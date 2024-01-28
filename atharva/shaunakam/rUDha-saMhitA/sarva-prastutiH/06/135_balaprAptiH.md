@@ -2,7 +2,7 @@
 title = "१३५ बलप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/_index.md">
 <details open><summary><h2>१३५ बलप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Griffith, i. 321.
 </div>
 
 ## ०१ यदश्नामि बलम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे।  
 स्क॒न्धान॒मुष्य॑ शा॒तय॑न्वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/01_yadashnAmi_balam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Griffith, i. 321.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/01_yadashnAmi_balam.md">
 <details open><summary><h3>०१ यदश्नामि बलम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 </div>
 
 ## ०२ यत्पिबामि सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः।  
 प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/02_yatpibAmi_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Whate'er I eat I turn to strength, and thus I grasp the Thunder- bolt, Rending t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/02_yatpibAmi_sam.md">
 <details open><summary><h3>०२ यत्पिबामि सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 </div>
 
 ## ०३ यद्गिरामि सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्गिरा॑मि॒ सं गिरा॑मि समु॒द्र इ॑व संगि॒रः।  
 प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/03_yadgirAmi_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ I drink together what I drink, even as the sea that swallows all. Drinking the l
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/135_balaprAptiH/03_yadgirAmi_sam.md">
 <details open><summary><h3>०३ यद्गिरामि सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

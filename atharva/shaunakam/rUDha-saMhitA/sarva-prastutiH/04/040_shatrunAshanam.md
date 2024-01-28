@@ -2,7 +2,7 @@
 title = "०४० शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/_index.md">
 <details open><summary><h2>०४० शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A charm against rival worshippers
 </div>
 
 ## ०१ ये पुरस्ताज्जुह्वति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A charm against rival worshippers
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/01_ye_purastAjjuhvati.md">
 <details open><summary><h3>०१ ये पुरस्ताज्जुह्वति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. M
 </div>
 
 ## ०२ ये दक्षिणतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/02_ye_daxiNato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/02_ye_daxiNato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये द॑क्षिण॒तो जुह्व॑ति जातवेदो॒ दक्षि॑णाया दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/02_ye_daxiNato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/02_ye_daxiNato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ O Jatavedas, eastward sacrificers, as foes assail us from the eastern quarter. M
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/02_ye_daxiNato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/02_ye_daxiNato.md">
 <details open><summary><h3>०२ ये दक्षिणतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -156,14 +156,14 @@ O Jatavedas, southward sacrificers as foes assail us from the southern quarter. 
 </div>
 
 ## ०३ ये पश्चाज्जुह्वति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -172,7 +172,7 @@ O Jatavedas, southward sacrificers as foes assail us from the southern quarter. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/03_ye_pashchAjjuhvati.md">
 <details open><summary><h3>०३ ये पश्चाज्जुह्वति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -206,14 +206,14 @@ O Jatavedas, westward sacrificers as foes assail us from the western quarter. Fo
 </div>
 
 ## ०४ य उत्तरतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/04_ya_uttarato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/04_ya_uttarato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॑त्तर॒तो जुह्व॑ति जातवेद॒ उदी॑च्या दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/04_ya_uttarato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/04_ya_uttarato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -222,7 +222,7 @@ O Jatavedas, westward sacrificers as foes assail us from the western quarter. Fo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/04_ya_uttarato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/04_ya_uttarato.md">
 <details open><summary><h3>०४ य उत्तरतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 </div>
 
 ## ०५ येधस्ताज्जुह्वति जातवेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॒३॒॑धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ Jatavedas, northward sacrificers as foes assail us from the northern quarter. Fo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/05_yedhastAjjuhvati_jAtavedo.md">
 <details open><summary><h3>०५ येधस्ताज्जुह्वति जातवेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -305,14 +305,14 @@ O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter.
 </div>
 
 ## ०६ येऽन्तरिक्षाज्जुह्वति जातवेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये॑३॒॑ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -321,7 +321,7 @@ O Jatavedas, nether sacrificers, as foes assail us from the stead- fast quarter.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/06_ye-ntarixAjjuhvati_jAtavedo.md">
 <details open><summary><h3>०६ येऽन्तरिक्षाज्जुह्वति जातवेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -357,14 +357,14 @@ Those who pay sacrifice, O Jatavedas, from air assail us from the midway quarter
 </div>
 
 ## ०७ य उपरिष्टाज्जुह्वति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॒परि॑ष्टा॒ज्जुह्व॑ति जातवेद ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्।  
 सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -373,7 +373,7 @@ Those who pay sacrifice, O Jatavedas, from air assail us from the midway quarter
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/07_ya_upariShTAjjuhvati.md">
 <details open><summary><h3>०७ य उपरिष्टाज्जुह्वति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -407,14 +407,14 @@ The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For w
 </div>
 
 ## ०८ ये दिशामन्तर्देशेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः॒ सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्।  
 ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान्प्रतिस॒रेण॑ हन्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -423,7 +423,7 @@ The sacrificers from above assail us, O Jatavedas, from the lofty quarter. For w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/040_shatrunAshanam/08_ye_dishAmantardeshebhyo.md">
 <details open><summary><h3>०८ ये दिशामन्तर्देशेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

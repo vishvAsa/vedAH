@@ -2,7 +2,7 @@
 title = "०४७ दीर्घायुः प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/_index.md">
 <details open><summary><h2>०४७ दीर्घायुः प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To accompany the three daily libations
 </div>
 
 ## ०१ अग्निः प्रातःसवने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निः प्रा॑तःसव॒ने पा॑त्व॒स्मान्वै॑श्वान॒रो वि॑श्व॒कृद्वि॒श्वशं॑भूः।  
 स नः॑ पाव॒को द्रवि॑णे दधा॒त्वायु॑ष्मन्तः स॒हभ॑क्षाः स्याम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To accompany the three daily libations
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/01_agniH_prAtaHsavane.md">
 <details open><summary><h3>०१ अग्निः प्रातःसवने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's 
 </div>
 
 ## ०२ विश्वे देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विश्वे॑ दे॒वा म॒रुत॒ इन्द्रो॑ अ॒स्मान॒स्मिन्द्वि॒तीये॒ सव॑ने॒ न ज॑ह्युः।  
 आयु॑ष्मन्तः प्रि॒यमे॑षां॒ वद॑न्तो व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Dear to all men, all-prosperer, all-creating, may Agni, guard us* at the morn's 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/02_vishve_devA.md">
 <details open><summary><h3>०२ विश्वे देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ At this our second offering may Indra, Maruts, and Visve Devas never fail us. St
 </div>
 
 ## ०३ इदं तृतीयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं तृ॒तीयं॒ सव॑नं कवी॒नामृ॒तेन॒ ये च॑म॒समैर॑यन्त।  
 ते सौ॑धन्व॒नाः स्व᳡रानशा॒नाः स्वि᳡ष्टिं नो अ॒भि वस्यो॑ नयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ At this our second offering may Indra, Maruts, and Visve Devas never fail us. St
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/047_dIrghAyuH_prAptiH/03_idaM_tRtIyam.md">
 <details open><summary><h3>०३ इदं तृतीयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

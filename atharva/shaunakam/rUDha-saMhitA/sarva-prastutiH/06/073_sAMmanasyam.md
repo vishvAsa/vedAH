@@ -2,7 +2,7 @@
 title = "०७३ सांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/_index.md">
 <details open><summary><h2>०७३ सांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A King's charm to conciliate his discontented kinsmen
 </div>
 
 ## ०१ एह यातु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/01_eha_yAtu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/01_eha_yAtu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एह या॑तु॒ वरु॑णः॒ सोमो॑ अ॒ग्निर्बृह॒स्पति॒र्वसु॑भि॒रेह या॑तु।  
 अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/01_eha_yAtu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/01_eha_yAtu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A King's charm to conciliate his discontented kinsmen
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/01_eha_yAtu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/01_eha_yAtu.md">
 <details open><summary><h3>०१ एह यातु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 </div>
 
 ## ०२ यो वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/02_yo_vaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/02_yo_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो वः॒ शुष्मो॒ हृद॑येष्व॒न्तराकू॑ति॒र्या वो॒ मन॑सि॒ प्रवि॑ष्टा।  
 तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/02_yo_vaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/02_yo_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Let Varuna come hither, Soma, Agni, Brihaspati come hither with the Vasus! Unani
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/02_yo_vaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/02_yo_vaH.md">
 <details open><summary><h3>०२ यो वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 </div>
 
 ## ०३ इहैव स्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/03_ihaiva_sta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/073_sAMmanasyam/03_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव स्त॒ माप॑ या॒ताध्य॒स्मत्पू॒षा प॒रस्ता॒दप॑थं वः कृणोतु।  
 वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/03_ihaiva_sta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/073_sAMmanasyam/03_ihaiva_sta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ The inclination which your hearts have harboured, the purpose which hath occupie
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/03_ihaiva_sta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/073_sAMmanasyam/03_ihaiva_sta.md">
 <details open><summary><h3>०३ इहैव स्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

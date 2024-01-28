@@ -2,7 +2,7 @@
 title = "११८ आनृण्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/_index.md">
 <details open><summary><h2>११८ आनृण्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 455; Griffith, i. 310.
 </div>
 
 ## ०१ यद्धस्ताभ्यां चकृम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षाणां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः।  
 उ॑ग्रंप॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 455; Griffith, i. 310.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/01_yaddhastAbhyAM_chakRma.md">
 <details open><summary><h3>०१ यद्धस्ताभ्यां चकृम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 </div>
 
 ## ०२ उग्रम्पश्ये राष्ट्रभृत्किल्बिषाणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त्किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्।  
 ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒राय॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ If we have sinned with both our hands, desiring to take the host of dice for our
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/02_ugrampashye_rAShTrabhRtkilbiShANi.md">
 <details open><summary><h3>०२ उग्रम्पश्ये राष्ट्रभृत्किल्बिषाणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -193,14 +193,14 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 </div>
 
 ## ०३ यस्मा ऋणम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/03_yasmA_RNam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/118_AnRNyam/03_yasmA_RNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः।  
 ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/03_yasmA_RNam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/118_AnRNyam/03_yasmA_RNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -209,7 +209,7 @@ Stern viewers of their sins who rule the people, forgive us what hash happened a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/03_yasmA_RNam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/118_AnRNyam/03_yasmA_RNam.md">
 <details open><summary><h3>०३ यस्मा ऋणम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

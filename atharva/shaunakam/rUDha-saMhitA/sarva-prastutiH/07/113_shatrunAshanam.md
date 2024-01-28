@@ -2,7 +2,7 @@
 title = "११३ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/_index.md">
 <details open><summary><h2>११३ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 </div>
 
 ## ०१ तृष्टिके तृष्टवन्दन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके।  
 यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ Translated: Weber, Ind. Stud. v. 250; Henry, 44, 122; Griffith, i. 382.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/01_tRShTike_tRShTavandana.md">
 <details open><summary><h3>०१ तृष्टिके तृष्टवन्दन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That
 </div>
 
 ## ०२ तृष्टासि तृष्टिका
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्य᳡सि।  
 परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Rough Plant, thou rough rude parasite, cut thou that man, O Rough and Rude, That
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/113_shatrunAshanam/02_tRShTAsi_tRShTikA.md">
 <details open><summary><h3>०२ तृष्टासि तृष्टिका ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

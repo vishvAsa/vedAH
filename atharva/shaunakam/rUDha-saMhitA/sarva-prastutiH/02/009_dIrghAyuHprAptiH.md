@@ -2,7 +2,7 @@
 title = "००९ दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>००९ दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to cure dangerous disease
 </div>
 
 ## ०१ दशवृक्ष मुञ्चेमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु।  
 अथो॑ एनं वनस्पते जी॒वानां॑ लो॒कमुन्न॑य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to cure dangerous disease
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/01_dashavRxa_munchemam.md">
 <details open><summary><h3>०१ दशवृक्ष मुञ्चेमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joint
 </div>
 
 ## ०२ आगादुदगादयं जीवानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्।  
 अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Free this man, Dasavriksha! from the demon, from Grahi who hath seized his joint
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/02_AgAdudagAdayaM_jIvAnAm.md">
 <details open><summary><h3>०२ आगादुदगादयं जीवानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ He hath arisen and come once more, rejoined the band of those who live. May he b
 </div>
 
 ## ०३ अधीतीरध्यगादयमधि जीवपुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गन्।  
 श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ He hath arisen and come once more, rejoined the band of those who live. May he b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/03_adhItIradhyagAdayamadhi_jIvapurA.md">
 <details open><summary><h3>०३ अधीतीरध्यगादयमधि जीवपुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ He hath returned to consciousness, rejoined the living's firm abodes, For hundre
 </div>
 
 ## ०४ देवास्ते चीतिमविदन्ब्रह्माण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वास्ते॑ ची॒तिम॑विदन्ब्र॒ह्माण॑ उ॒त वी॒रुधः॑।  
 ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न्भूम्या॒मधि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ He hath returned to consciousness, rejoined the living's firm abodes, For hundre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/04_devAste_chItimavidanbrahmANa.md">
 <details open><summary><h3>०४ देवास्ते चीतिमविदन्ब्रह्माण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,14 +304,14 @@ The Gods, the Brahman-priests, and plants observed the way to gather thee: All d
 </div>
 
 ## ०५ यश्चकार स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॒कार॒ स निष्क॑र॒त्स ए॒व सुभि॑षक्तमः।  
 स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द्भि॒षजा॒ शुचिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -320,7 +320,7 @@ The Gods, the Brahman-priests, and plants observed the way to gather thee: All d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/009_dIrghAyuHprAptiH/05_yashchakAra_sa.md">
 <details open><summary><h3>०५ यश्चकार स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

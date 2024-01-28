@@ -2,7 +2,7 @@
 title = "०२७ शत्रुपराजयः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/_index.md">
 <details open><summary><h2>०२७ शत्रुपराजयः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against an opponent in debate
 </div>
 
 ## ०१ नेच्छत्रुः प्राशम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि।  
 प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against an opponent in debate
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/01_nechChatruH_prAsham.md">
 <details open><summary><h3>०१ नेच्छत्रुः प्राशम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 </div>
 
 ## ०२ सुपर्णस्त्वान्वविन्दत्सूकरस्त्वाखनन्नसा प्राशम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा।  
 प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Let not the enemy win the cause! Strong and predominant art thou. Refute mine ad
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/02_suparNastvAnvavindatsUkarastvAkhanannasA_prAsha.md">
 <details open><summary><h3>०२ सुपर्णस्त्वान्वविन्दत्सूकरस्त्वाखनन्नसा प्राशम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ The strong-winged bird discovered thee, the boar unearthed thee with his snout. 
 </div>
 
 ## ०३ इन्द्रो ह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/03_indro_ha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/03_indro_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे।  
 प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/03_indro_ha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/03_indro_ha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ The strong-winged bird discovered thee, the boar unearthed thee with his snout. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/03_indro_ha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/03_indro_ha.md">
 <details open><summary><h3>०३ इन्द्रो ह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine a
 </div>
 
 ## ०४ पाटामिन्द्रो व्याश्नादसुरेभ्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पा॒टामिन्द्रो॒ व्या॑श्ना॒दसु॑रेभ्य॒ स्तरी॑तवे।  
 प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Yea, Indra laid thee on his arm, to cast the Asuras to the ground. Refute mine a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/04_pATAmindro_vyAshnAdasurebhya.md">
 <details open><summary><h3>०४ पाटामिन्द्रो व्याश्नादसुरेभ्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -313,14 +313,14 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 </div>
 
 ## ०५ तयाहं शत्रून्त्साक्ष
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व।  
 प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -329,7 +329,7 @@ Indra devoured the Pata plant that he might lay the Asuras low. Refute mine adve
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/05_tayAhaM_shatrUntsAxa.md">
 <details open><summary><h3>०५ तयाहं शत्रून्त्साक्ष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -386,14 +386,14 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 </div>
 
 ## ०६ रुद्र जलाषभेषज
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्।  
 प्राशं॒ प्रति॑प्राशो जह्यर॒सान्कृ॑ण्वोषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -402,7 +402,7 @@ With this I overcome my foes as Indra overcame the wolves. Refute mine adversary
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/06_rudra_jalAShabheShaja.md">
 <details open><summary><h3>०६ रुद्र जलाषभेषज ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -453,14 +453,14 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 </div>
 
 ## ०७ तस्य प्राशम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति।  
 अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/07_tasya_prAsham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -469,7 +469,7 @@ O Rudra, Lord of Healing Balms, dark-crested, skilful in thy work!-- Refute mine
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/027_shatruparAjayaH/07_tasya_prAsham.md">
 <details open><summary><h3>०७ तस्य प्राशम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

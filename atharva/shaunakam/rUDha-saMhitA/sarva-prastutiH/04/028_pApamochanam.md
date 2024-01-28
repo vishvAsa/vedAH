@@ -2,7 +2,7 @@
 title = "०२८ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/_index.md">
 <details open><summary><h2>०२८ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Bhava and Sarva
 </div>
 
 ## ०१ भवाशर्वौ मन्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भवा॑शर्वौ म॒न्वे वां॒ तस्य॑ वित्तं॒ ययो॑र्वामि॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते।  
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/01_bhavAsharvau_manve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Bhava and Sarva
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/01_bhavAsharvau_manve.md">
 <details open><summary><h3>०१ भवाशर्वौ मन्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 </div>
 
 ## ०२ ययोरभ्यध्व उत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ययो॑रभ्य॒ध्व उ॒त यद्दू॒रे चि॒द्यौ वि॑दि॒तावि॑षु॒भृता॒मसि॑ष्ठौ।  
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ I Reverence you--mark this--Bhava and Sarva, ye under whose control is this that
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/02_yayorabhyadhva_uta.md">
 <details open><summary><h3>०२ ययोरभ्यध्व उत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 </div>
 
 ## ०३ सहस्राक्षौ वृत्रहणा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑हस्रा॒क्षौ वृ॑त्र॒हणा॑ हुवे॒हं दू॒रेग॑व्यूती स्तु॒वन्ने॑म्यु॒ग्रौ।  
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Lords of all near and even of what is distant, famed as the best and skilfullest
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/03_sahasrAxau_vRtrahaNA.md">
 <details open><summary><h3>०३ सहस्राक्षौ वृत्रहणा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 </div>
 
 ## ०४ यावारेभाथे बहु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यावा॑रे॒भाथे॑ ब॒हु सा॒कमग्रे॒ प्र चेदस्रा॑ष्ट्रमभि॒भां जने॑षु।  
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Thousand-eyed foe-destroyers, I invoke you, still praising you the strong, of wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/04_yAvArebhAthe_bahu.md">
 <details open><summary><h3>०४ यावारेभाथे बहु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,14 +304,14 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 </div>
 
 ## ०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ययो॑र्व॒धान्नाप॒पद्य॑ते॒ कश्च॒नान्तर्दे॒वेषू॒त मानु॑षेषु।  
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -320,7 +320,7 @@ Ye who of old wrought many a deed in concert, and showed among mankind unhappy o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/05_yayorvadhAnnApapadyate_kashchanAntardeveShUta.md">
 <details open><summary><h3>०५ ययोर्वधान्नापपद्यते कश्चनान्तर्देवेषूत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -366,14 +366,14 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 </div>
 
 ## ०६ यः कृत्याकृन्मूलकृद्यातुधानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः कृ॑त्या॒कृन्मू॑ल॒कृद्या॑तु॒धानो॒ नि तस्मि॑न्धत्तं॒ वज्र॑मु॒ग्रौ।  
 याव॒स्येशा॑थे द्वि॒पदो॒ यौ चतु॑ष्पद॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -382,7 +382,7 @@ Ye from the stroke of whose destroying weapon not one among the Gods or men esca
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/06_yaH_kRtyAkRnmUlakRdyAtudhAno.md">
 <details open><summary><h3>०६ यः कृत्याकृन्मूलकृद्यातुधानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -434,14 +434,14 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 </div>
 
 ## ०७ अधि नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/07_adhi_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/028_pApamochanam/07_adhi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अधि॑ नो ब्रूतं॒ पृत॑नासूग्रौ॒ सं वज्रे॑ण सृजतं॒ यः कि॑मी॒दी।  
 स्तौमि॑ भवाश॒र्वौ ना॑थि॒तो जो॑हवीमि॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/07_adhi_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/028_pApamochanam/07_adhi_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -450,7 +450,7 @@ Hurl your bolt, strong Gods, at the Yatudhana, him who makes ready roots and dea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/07_adhi_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/028_pApamochanam/07_adhi_no.md">
 <details open><summary><h3>०७ अधि नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

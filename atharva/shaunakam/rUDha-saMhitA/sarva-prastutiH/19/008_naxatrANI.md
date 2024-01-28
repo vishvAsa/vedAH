@@ -2,7 +2,7 @@
 title = "००८ नक्षत्राणी"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/_index.md">
 <details open><summary><h2>००८ नक्षत्राणी ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -26,14 +26,14 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 </div>
 
 ## ०१ यानि नक्षत्राणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/01_yAni_naxatrANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यानि॒ नक्ष॑त्राणि दि॒व्य१॒॑न्तरि॑क्षे अ॒प्सु भूमौ॒ यानि॒ नगे॑षु दि॒क्षु।  
 प्र॑क॒ल्पयं॑श्च॒न्द्रमा॒ यान्येति॒ सर्वा॑णि॒ ममै॒तानि॑ शि॒वानि॑ सन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/01_yAni_naxatrANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -42,7 +42,7 @@ The mss., and so SPP., have the incorrect accent prákalpayan in c; it is emende
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/01_yAni_naxatrANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/01_yAni_naxatrANi.md">
 <details open><summary><h3>०१ यानि नक्षत्राणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -91,14 +91,14 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 </div>
 
 ## ०२ अष्टाविंशानि शिवानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ष्टाविं॒शानि॑ शि॒वानि॑ श॒ग्मानि॑ स॒ह योगं॑ भजन्तु मे।  
 योगं॒ प्र प॑द्ये॒ क्षेमं॑ च॒ क्षेमं॒ प्र प॑द्ये॒ योगं॑ च॒ नमो॑ऽहोरा॒त्राभ्या॑मस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -107,7 +107,7 @@ Benign to me be all those Lunar Mansions to which the Moon as he moves on doth h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/02_aShTAviMshAni_shivAni.md">
 <details open><summary><h3>०२ अष्टाविंशानि शिवानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 </div>
 
 ## ०३ स्वस्तितं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/03_svastitaM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/03_svastitaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वस्ति॑तं मे सुप्रा॒तः सु॑सा॒यं सु॑दि॒वं सु॑मृ॒गं सु॑शकु॒नं मे॑ अस्तु।  
 सु॒हव॑मग्ने स्व॒स्त्य१॒॑म॒र्त्यं ग॒त्वा पुन॒राया॑भि॒नन्द॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/03_svastitaM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/03_svastitaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Propitious, mighty, let the eight-and-twenty together deal me out my share of pr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/03_svastitaM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/03_svastitaM_me.md">
 <details open><summary><h3>०३ स्वस्तितं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -244,14 +244,14 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 </div>
 
 ## ०४ अनुहवं परिहवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नुह॒वं प॑रिह॒वं प॑रिवा॒दं प॑रिक्ष॒वम्।  
 सर्वै॑र्मे रिक्तकु॒म्भान्परा॒ तान्त्सवि॑तः सुव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/04_anuhavaM_parihavam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -260,7 +260,7 @@ Fair be my sunset, fair my morn and evening and day with. lucky chase and happy 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/04_anuhavaM_parihavam.md">
 <details open><summary><h3>०४ अनुहवं परिहवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -351,14 +351,14 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 </div>
 
 ## ०५ अपपापं परिक्षवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/05_apapApaM_parixavam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑पा॒पं प॑रिक्ष॒वं पुण्यं॑ भक्षी॒महि॒ क्षव॑म्।  
 शि॒वा ते॑ पाप॒ नासि॑कां॒ पुण्य॑गश्चा॒भि मे॑हताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/05_apapApaM_parixavam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -367,7 +367,7 @@ Excitement and invoking cry, ill-omened sneezing and reproof, All sounds of empt
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/05_apapApaM_parixavam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/05_apapApaM_parixavam.md">
 <details open><summary><h3>०५ अपपापं परिक्षवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -430,14 +430,14 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 </div>
 
 ## ०६ इमा या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/06_imA_yA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/06_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा या ब्र॑ह्मणस्पते॒ विषु॑ची॒र्वात॒ ईर॑ते।  
 स॒ध्रीची॑रिन्द्र॒ ताः कृ॒त्वा मह्यं॑ शि॒वत॑मास्कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/06_imA_yA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/06_imA_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -446,7 +446,7 @@ May we escape an evil sneeze, enjoy the sneeze of happy luck, And may our nostri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/06_imA_yA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/06_imA_yA.md">
 <details open><summary><h3>०६ इमा या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -505,13 +505,13 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 </div>
 
 ## ०७ स्वस्ति नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/07_svasti_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/008_naxatrANI/07_svasti_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व॒स्ति नो॑ अ॒स्त्वभ॑यं नो अस्तु॒ नमो॑ऽहोर॒त्राभ्या॑मस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/07_svasti_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/008_naxatrANI/07_svasti_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -519,7 +519,7 @@ These flames of Brahmanaspati borne to all quarters in the- wind, Turn them all 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/07_svasti_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/008_naxatrANI/07_svasti_no.md">
 <details open><summary><h3>०७ स्वस्ति नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

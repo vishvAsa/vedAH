@@ -2,7 +2,7 @@
 title = "१०५ दैव्यं वचः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/_index.md">
 <details open><summary><h2>१०५ दैव्यं वचः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 </div>
 
 ## ०१ अपक्रामन्पौरुषेयाद्वृणानो दैव्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑प॒क्राम॒न्पौरु॑षेयाद्वृणा॒नो दैव्यं॒ वचः॑।  
 प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 41, 117; Griffith, i. 379.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/105_daivyaM_vachaH/01_apakrAmanpauruSheyAdvRNAno_daivyam.md">
 <details open><summary><h3>०१ अपक्रामन्पौरुषेयाद्वृणानो दैव्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

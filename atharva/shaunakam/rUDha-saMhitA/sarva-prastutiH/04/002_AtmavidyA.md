@@ -2,7 +2,7 @@
 title = "००२ आत्मविद्या"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/_index.md">
 <details open><summary><h2>००२ आत्मविद्या ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: as a RV. hymn, by Max Müller, Ancient Sanskrit Literature (1859), p
 </div>
 
 ## ०१ य आत्मदा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/01_ya_AtmadA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः।  
 यो३॒॑ऽस्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/01_ya_AtmadA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: as a RV. hymn, by Max Müller, Ancient Sanskrit Literature (1859), p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/01_ya_AtmadA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/01_ya_AtmadA.md">
 <details open><summary><h3>०१ य आत्मदा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -112,14 +112,14 @@ oblation?'⌋
 </div>
 
 ## ०२ यः प्राणतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/02_yaH_prANato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/02_yaH_prANato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैको॒ राजा॒ जग॑तो ब॒भूव॑।  
 यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/02_yaH_prANato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/02_yaH_prANato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -128,7 +128,7 @@ oblation?'⌋
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/02_yaH_prANato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/02_yaH_prANato.md">
 <details open><summary><h3>०२ यः प्राणतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,14 +181,14 @@ control. The Anukr. passes without notice the deficiency in **b**.
 </div>
 
 ## ०३ यं क्रन्दसी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/03_yaM_krandasI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/03_yaM_krandasI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं क्रन्द॑सी॒ अव॑तश्चस्कभा॒ने भि॒यसा॑ने॒ रोद॑सी॒ अह्व॑येथाम्।  
 यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/03_yaM_krandasI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/03_yaM_krandasI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -197,7 +197,7 @@ control. The Anukr. passes without notice the deficiency in **b**.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/03_yaM_krandasI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/03_yaM_krandasI.md">
 <details open><summary><h3>०३ यं क्रन्दसी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -258,14 +258,14 @@ but calls it simply *dyulokasthaḥ*.
 </div>
 
 ## ०४ यस्य द्यौरुर्वी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॒न्तरि॑क्षम्।  
 यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/04_yasya_dyaururvI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -274,7 +274,7 @@ but calls it simply *dyulokasthaḥ*.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/04_yasya_dyaururvI.md">
 <details open><summary><h3>०४ यस्य द्यौरुर्वी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -334,14 +334,14 @@ irregularity of **b**.
 </div>
 
 ## ०५ यस्य विश्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/05_yasya_vishve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/05_yasya_vishve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः।  
 इ॒माश्च॑ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/05_yasya_vishve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/05_yasya_vishve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -350,7 +350,7 @@ irregularity of **b**.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/05_yasya_vishve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/05_yasya_vishve.md">
 <details open><summary><h3>०५ यस्य विश्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -410,14 +410,14 @@ make harsh and difficult resolutions.
 </div>
 
 ## ०६ आपो अग्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/06_Apo_agre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/06_Apo_agre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ अग्रे॒ विश्व॑माव॒न्गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः।  
 यासु॑ दे॒वीष्वधि॑ दे॒व आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/06_Apo_agre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/06_Apo_agre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -426,7 +426,7 @@ make harsh and difficult resolutions.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/06_Apo_agre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/06_Apo_agre.md">
 <details open><summary><h3>०६ आपो अग्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -490,14 +490,14 @@ of RV.⌋
 </div>
 
 ## ०७ हिरण्यगर्भः समवर्तताग्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॑रण्यग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्।  
 स दा॑धार पृथि॒वीमु॒त द्यां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -506,7 +506,7 @@ of RV.⌋
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/07_hiraNyagarbhaH_samavartatAgre.md">
 <details open><summary><h3>०७ हिरण्यगर्भः समवर्तताग्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -565,14 +565,14 @@ syllable in **c**.
 </div>
 
 ## ०८ आपो वत्सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/08_Apo_vatsam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/002_AtmavidyA/08_Apo_vatsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॑ व॒त्सं ज॒नय॑न्ती॒र्गर्भ॒मग्रे॒ समै॑रयन्।  
 तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/08_Apo_vatsam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/002_AtmavidyA/08_Apo_vatsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -581,7 +581,7 @@ syllable in **c**.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/08_Apo_vatsam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/002_AtmavidyA/08_Apo_vatsam.md">
 <details open><summary><h3>०८ आपो वत्सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

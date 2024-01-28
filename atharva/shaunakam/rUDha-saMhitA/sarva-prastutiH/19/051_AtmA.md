@@ -2,7 +2,7 @@
 title = "०५१ आत्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/_index.md">
 <details open><summary><h2>०५१ आत्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A sacrificial formula
 </div>
 
 ## ०१ अयुतोऽहमयुतो म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अयु॑तो॒ऽहमयु॑तो म आ॒त्मायु॑तं मे॒ चक्षु॒रयु॑तं मे॒ श्रोत्र॑मयु॑तो मे प्रा॒णोऽयु॑तो मेऽपा॒नोऽयु॑तो मे व्या॒नोऽयु॑तो॒ऽहं सर्वः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/01_ayuto-hamayuto_ma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/01_ayuto-hamayuto_ma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A sacrificial formula
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/01_ayuto-hamayuto_ma.md">
 <details open><summary><h3>०१ अयुतोऽहमयुतो म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,13 +99,13 @@ Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine
 </div>
 
 ## ०२ देवस्य त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/02_devasya_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/051_AtmA/02_devasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वस्य॑ त्वा सवि॒तुः प्र॑स॒वेऽश्विनो॑र्बा॒हुभ्यां॑ पू॒ष्णो हस्ता॑भ्यां॒ प्रसू॑त॒ आ र॑भे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/02_devasya_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/051_AtmA/02_devasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Undisturbed am I, undisturbed is my soul, undisturbed mine eye, undisturbed mine
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/02_devasya_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/051_AtmA/02_devasya_tvA.md">
 <details open><summary><h3>०२ देवस्य त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

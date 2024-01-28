@@ -2,7 +2,7 @@
 title = "०२७ सुरक्षा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/_index.md">
 <details open><summary><h2>०२७ सुरक्षा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A benedictory hymn
 </div>
 
 ## ०१ गोभिष्ट्वा पात्वृषभो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गोभि॑ष्ट्वा पात्वृष॒भो वृषा॑ त्वा पातु वा॒जिभिः॑।  
 वा॒युष्ट्वा॒ ब्रह्म॑णा पा॒त्विन्द्र॑स्त्वा पात्विन्द्रि॒यैः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A benedictory hymn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/01_gobhiShTvA_pAtvRShabho.md">
 <details open><summary><h3>०१ गोभिष्ट्वा पात्वृषभो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds.
 </div>
 
 ## ०२ सोमस्त्वा पात्वोषधीभिर्नक्षत्रैः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोम॑स्त्वा पा॒त्वोष॑धीभि॒र्नक्ष॑त्रैः पातु॒ सूर्यः॑।  
 मा॒द्भ्यस्त्वा॑ च॒न्द्रो वृ॑त्र॒हा वातः॑ प्रा॒णेन॑ रक्षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Let the Bull guard thee with the kine, the Stallien with the fleet- foot steeds.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/02_somastvA_pAtvoShadhIbhirnaxatraiH.md">
 <details open><summary><h3>०२ सोमस्त्वा पात्वोषधीभिर्नक्षत्रैः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 </div>
 
 ## ०३ तिस्रो दिवस्तिस्रः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/03_tisro_divastisraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/03_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीस्त्रीण्य॒न्तरि॑क्षाणि च॒तुरः॑ समु॒द्रान्।  
 त्रि॒वृतं॒ स्तोमं॑ त्रि॒वृत॒ आप॑ आहु॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/03_tisro_divastisraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/03_tisro_divastisraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Let Soma guard thee with the plants, Surya protect thee with the stars; With bre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/03_tisro_divastisraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/03_tisro_divastisraH.md">
 <details open><summary><h3>०३ तिस्रो दिवस्तिस्रः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -246,14 +246,14 @@ Three are the earths, they say, and three the heavens, three are the atmospheres
 </div>
 
 ## ०४ त्रीन्नाकांस्त्रीन्समुद्रांस्त्रीन्ब्रध्नांस्त्रीन्वैष्टपान्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रीन्नाकां॒स्त्रीन्स॑मु॒द्रांस्त्रीन्ब्र॒ध्नांस्त्रीन्वै॑ष्ट॒पान्।  
 त्रीन्मा॑त॒रिश्व॑न॒स्त्रीन्त्सूर्या॑न्गो॒प्तॄन्क॑ल्पयामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -262,7 +262,7 @@ Three are the earths, they say, and three the heavens, three are the atmospheres
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/04_trInnAkAMstrInsamudrAMstrInbradhnAMstrInvaiShTa.md">
 <details open><summary><h3>०४ त्रीन्नाकांस्त्रीन्समुद्रांस्त्रीन्ब्रध्नांस्त्रीन्वैष्टपान् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -322,14 +322,14 @@ Three vaults of heaven, and three seas, three bright, three stationary ones, Thr
 </div>
 
 ## ०५ घृतेन त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/05_ghRtena_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/05_ghRtena_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तेन॑ त्वा॒ समु॑क्षा॒म्यग्न॒ आज्ये॑न व॒र्धय॑न्।  
 अ॒ग्नेश्च॒न्द्रस्य॒ सूर्य॑स्य॒ मा प्रा॒णं मा॒यिनो॑ दभन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/05_ghRtena_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/05_ghRtena_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -338,7 +338,7 @@ Three vaults of heaven, and three seas, three bright, three stationary ones, Thr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/05_ghRtena_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/05_ghRtena_tvA.md">
 <details open><summary><h3>०५ घृतेन त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -388,14 +388,14 @@ Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicia
 </div>
 
 ## ०६ मा वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/06_mA_vaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/06_mA_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा वः॑ प्रा॒णं मा वो॑ऽपा॒नं मा हरो॑ मा॒यिनो॑ दभन्।  
 भ्रा॑जन्तो वि॒श्ववे॑दसो दे॒वा दैव्ये॑न धावत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/06_mA_vaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/06_mA_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -404,7 +404,7 @@ Increasing thee with butter I, Agni! with fatness sprinkle thee. Let not magicia
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/06_mA_vaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/06_mA_vaH.md">
 <details open><summary><h3>०६ मा वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -457,14 +457,14 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 </div>
 
 ## ०७ प्राणेनाग्निं सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/07_prANenAgniM_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/07_prANenAgniM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णेना॒ग्निं सं सृ॑जति॒ वातः॑ प्रा॒णेन॒ संहि॑तः।  
 प्रा॒णेन॑ वि॒श्वतो॑मुखं॒ सूर्यं॑ दे॒वा अ॑जनयन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/07_prANenAgniM_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/07_prANenAgniM_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -473,7 +473,7 @@ Let not magicians mar your heat, your vital or diffusive breath. Brilliant and a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/07_prANenAgniM_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/07_prANenAgniM_sam.md">
 <details open><summary><h3>०७ प्राणेनाग्निं सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -523,14 +523,14 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 </div>
 
 ## ०८ आयुषायुष्कृतां जीवायुष्माञ्जीव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयु॑षायु॒ष्कृतां॑ जी॒वायु॑ष्माञ्जीव॒ मा मृ॑थाः।  
 प्रा॒णेना॑त्म॒न्वतां॑ जीव मा मृ॒त्योरुद॑गा॒ वश॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -539,7 +539,7 @@ Fire they endow with vital breath, Wind is compact, with vital breath: With vita
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/08_AyuShAyuShkRtAM_jIvAyuShmAnjIva.md">
 <details open><summary><h3>०८ आयुषायुष्कृतां जीवायुष्माञ्जीव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -595,14 +595,14 @@ Live with the Life-Creators' life. Die not, live on to lengthened age. Live with
 </div>
 
 ## ०९ देवानां निहितम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/09_devAnAM_nihitam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/09_devAnAM_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वानां॒ निहि॑तं नि॒धिं यमिन्द्रो॒ऽन्ववि॑न्दत्प॒थिभि॑र्देव॒यानैः॑।  
 आपो॒ हिर॑ण्यं जुगुपुस्त्रि॒वृद्भि॒स्तास्त्वा॑ रक्षन्तु त्रि॒वृता॑ त्रि॒वृद्भिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/09_devAnAM_nihitam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/09_devAnAM_nihitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -611,7 +611,7 @@ Live with the Life-Creators' life. Die not, live on to lengthened age. Live with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/09_devAnAM_nihitam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/09_devAnAM_nihitam.md">
 <details open><summary><h3>०९ देवानां निहितम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -668,14 +668,14 @@ The secret treasure of the Gods which Indra, by pathways travelled by the Gods, 
 </div>
 
 ## १० त्रयस्त्रिंशद्देवतास्त्रीणि च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रय॑स्त्रिंशद्दे॒वता॒स्त्रीणि॑ च वी॒र्या᳡णि प्रिया॒यमा॑णा जुगुपुर॒प्स्व॑१॒॑न्तः।  
 अ॒स्मिंश्च॒न्द्रे अधि॒ यद्धिर॑ण्यं॒ तेना॒यं कृ॑णवद्वी॒र्या॑णि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -684,7 +684,7 @@ The secret treasure of the Gods which Indra, by pathways travelled by the Gods, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/10_trayastriMshaddevatAstrINi_cha.md">
 <details open><summary><h3>१० त्रयस्त्रिंशद्देवतास्त्रीणि च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -744,13 +744,13 @@ With friendly thoughts the Deities, three-and thirty, and three great Powers pre
 </div>
 
 ## ११ ये देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/11_ye_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/11_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॑वा दि॒व्येका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/11_ye_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/11_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -758,7 +758,7 @@ With friendly thoughts the Deities, three-and thirty, and three great Powers pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/11_ye_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/11_ye_devA.md">
 <details open><summary><h3>११ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -803,13 +803,13 @@ O ye eleven Gods who are in heaven, accept this sacrifice.
 </div>
 
 ## १२ ये देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/12_ye_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॑वा अ॒न्तरि॑क्ष॒ एका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/12_ye_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/12_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -817,7 +817,7 @@ O ye eleven Gods who are in heaven, accept this sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/12_ye_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/12_ye_devA.md">
 <details open><summary><h3>१२ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -862,13 +862,13 @@ O ye eleven Gods who are in air, accept this sacrifice.
 </div>
 
 ## १३ ये देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/13_ye_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/13_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॑वा पृथि॒व्यामेका॑दश॒ स्थ ते॑ देवासो ह॒विरि॒दं जु॑षध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/13_ye_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/13_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -876,7 +876,7 @@ O ye eleven Gods who are in air, accept this sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/13_ye_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/13_ye_devA.md">
 <details open><summary><h3>१३ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -927,14 +927,14 @@ O ye eleven Gods who are on earth, accept this sacrifice.
 </div>
 
 ## १४ असपत्नं पुरस्तात्पश्चान्नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑सप॒त्नं पु॒रस्ता॑त्प॒श्चान्नो॒ अभ॑यं कृतम्।  
 स॑वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॑ शची॒पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -943,7 +943,7 @@ O ye eleven Gods who are on earth, accept this sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/14_asapatnaM_purastAtpashchAnno.md">
 <details open><summary><h3>१४ असपत्नं पुरस्तात्पश्चान्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -988,7 +988,7 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 </div>
 
 ## १५ दिवो मादित्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/15_divo_mAdityA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/027_suraxA/15_divo_mAdityA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑।  
@@ -996,7 +996,7 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 ति॑र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/15_divo_mAdityA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/027_suraxA/15_divo_mAdityA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1006,7 +1006,7 @@ Peace hath been given us from the east, and from the west security. Savitar guar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/15_divo_mAdityA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/027_suraxA/15_divo_mAdityA.md">
 <details open><summary><h3>१५ दिवो मादित्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

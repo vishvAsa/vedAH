@@ -2,7 +2,7 @@
 title = "०९५ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/_index.md">
 <details open><summary><h2>०९५ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 </div>
 
 ## ०१ उदस्य श्यावौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः।  
 उ॑च्छोचनप्रशोच॒नाव॒स्योच्छोच॑नौ हृ॒दः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/01_udasya_shyAvau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 517; Henry, 38, 109; Griffith, i. 375.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/01_udasya_shyAvau.md">
 <details open><summary><h3>०१ उदस्य श्यावौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 </div>
 
 ## ०२ अहमेनावुदतिष्ठिपं गावौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हमे॑ना॒वुद॑तिष्ठिपं॒ गावौ॑ श्रान्त॒सदा॑विव।  
 कु॑र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ To heaven, as 'twere, have soared this man's two vultures, staggering, dusky hue
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/02_ahamenAvudatiShThipaM_gAvau.md">
 <details open><summary><h3>०२ अहमेनावुदतिष्ठिपं गावौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 </div>
 
 ## ०३ आतोदिनौ नितोदिनावथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त।  
 अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑ञ्ज॒भार॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ I verily have stirred them up like oxen resting after toil. Like two loud-snarli
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/095_shatrunAshanam/03_Atodinau_nitodinAvatho.md">
 <details open><summary><h3>०३ आतोदिनौ नितोदिनावथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००३ जातवेदाः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/_index.md">
 <details open><summary><h2>००३ जातवेदाः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Agni for protection and prosperity
 </div>
 
 ## ०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्वनस्पतिभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द्वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः।  
 यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Agni for protection and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/01_divaspRthivyAH_paryantarixAdvanaspatibhyo.md">
 <details open><summary><h3>०१ दिवस्पृथिव्याः पर्यन्तरिक्षाद्वनस्पतिभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 </div>
 
 ## ०२ यस्ते अप्सु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/02_yaste_apsu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/02_yaste_apsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
 अग्ने॒ सर्वा॑स्त॒न्वः१॒॑ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/02_yaste_apsu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/02_yaste_apsu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ Whithersoe'er, from sky, earth, air's mid-regions from plants ands herbs, from t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/02_yaste_apsu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/02_yaste_apsu.md">
 <details open><summary><h3>०२ यस्ते अप्सु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -184,14 +184,14 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 </div>
 
 ## ०३ यस्ते देवेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/03_yaste_deveShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑।  
 पुष्टि॒र्या ते॑ मनु॒ष्ये᳡षु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/03_yaste_deveShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -200,7 +200,7 @@ All majesty of thine in floods, in forest, in plants, in cattle, in the depths o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/03_yaste_deveShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/03_yaste_deveShu.md">
 <details open><summary><h3>०३ यस्ते देवेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -254,14 +254,14 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 </div>
 
 ## ०४ श्रुत्कर्णाय कवये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रुत्क॑र्णाय क॒वये॒ वेद्या॑य॒ वचो॑भिर्वा॒कैरुप॑ यामि रा॒तिम्।  
 यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -270,7 +270,7 @@ Thy majesty among the Gods in Svarga, thy body which hath past into the Fathers.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/003_jAtavedAH/04_shrutkarNAya_kavaye.md">
 <details open><summary><h3>०४ श्रुत्कर्णाय कवये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

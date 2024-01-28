@@ -2,7 +2,7 @@
 title = "१०७ विश्वजित्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/_index.md">
 <details open><summary><h2>१०७ विश्वजित् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Griffith, i. 303.
 </div>
 
 ## ०१ विश्वजित्त्रायमाणायै मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विश्व॑जित्त्रायमा॒णायै॑ मा॒ परि॑ देहि।  
 त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Griffith, i. 303.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/01_vishvajittrAyamANAyai_mA.md">
 <details open><summary><h3>०१ विश्वजित्त्रायमाणायै मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 </div>
 
 ## ०२ त्रायमाणे विश्वजिते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि।  
 विश्व॑जिद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/02_trAyamANe_vishvajite.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Entrust me, Visvajit, to Trayamana. Guard, Trayamana, all our men, guard all our
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/02_trAyamANe_vishvajite.md">
 <details open><summary><h3>०२ त्रायमाणे विश्वजिते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </div>
 
 ## ०३ विश्वजित्कल्याण्यै मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विश्व॑जित्कल्या॒ण्यै᳡ मा॒ परि॑ देहि।  
 कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ To Visvajit entrust me, Trayamana. O Visvajit, guard all our men, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/03_vishvajitkalyANyai_mA.md">
 <details open><summary><h3>०३ विश्वजित्कल्याण्यै मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -220,14 +220,14 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </div>
 
 ## ०४ कल्याणि सर्वविदे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/04_kalyANi_sarvavide.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि।  
 सर्व॑विद्द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द्यच्च॑ नः॒ स्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/04_kalyANi_sarvavide.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -236,7 +236,7 @@ To Visvajit entrust me, O Kalyani. Guard, O Kalyani, all our men, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/04_kalyANi_sarvavide.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/107_vishvajit/04_kalyANi_sarvavide.md">
 <details open><summary><h3>०४ कल्याणि सर्वविदे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "११३ पापनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/_index.md">
 <details open><summary><h2>११३ पापनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -26,14 +26,14 @@ In Pāipp. ⌊i.⌋ is found only the first half-verse, much corrupted. It is em
 </div>
 
 ## ०१ त्रिते देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/01_trite_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/01_trite_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्ये᳡षु ममृजे।  
 ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/01_trite_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/01_trite_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -42,7 +42,7 @@ In Pāipp. ⌊i.⌋ is found only the first half-verse, much corrupted. It is em
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/01_trite_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/01_trite_devA.md">
 <details open><summary><h3>०१ त्रिते देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human b
 </div>
 
 ## ०२ मरीचीर्धूमान्प्र विशानु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मरी॑चीर्धू॒मान्प्र वि॒शानु॑ पाप्मन्नुदा॒रान्ग॑च्छो॒त वा॑ नीहा॒रान्।  
 न॒दीनां॒ फेनाँ॒ अनु॒ तान्वि न॑श्य भ्रूण॒घ्नि पू॑षन्दुरि॒तानि॑ मृक्ष्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ This sin the Gods wiped off and laid on Trita, and Trita wiped it off on human b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/02_marIchIrdhUmAnpra_vishAnu.md">
 <details open><summary><h3>०२ मरीचीर्धूमान्प्र विशानु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 </div>
 
 ## ०३ द्वादशधा निहितम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्वा॑दश॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑।  
 ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Enter the particles of light and vapours, go to the rising fogs or mists, O Evil
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/113_pApanAshanam/03_dvAdashadhA_nihitam.md">
 <details open><summary><h3>०३ द्वादशधा निहितम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०४८ स्वस्तिवाचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/_index.md">
 <details open><summary><h2>०४८ स्वस्तिवाचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Formulas to be used at the three daily libations
 </div>
 
 ## ०१ श्येनोऽसि गायत्रच्छन्दा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्ये॒नो᳡ऽसि॑ गाय॒त्रच्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
 स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Formulas to be used at the three daily libations
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/01_shyeno-si_gAyatrachChandA.md">
 <details open><summary><h3>०१ श्येनोऽसि गायत्रच्छन्दा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 </div>
 
 ## ०२ ऋभुरसि जगच्छन्दा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे।  
 स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Thou art the Hawk, Gayatri's lord: I hold thee fast. Happily bear me to the goal
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/02_Rbhurasi_jagachChandA.md">
 <details open><summary><h3>०२ ऋभुरसि जगच्छन्दा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 </div>
 
 ## ०३ वृषासि त्रिष्टुप्छन्दा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे।  
 स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Thou art the Ribhu, lord of Jagati: I hold thee fast. Happily bear me to the goa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/048_svastivAchanam/03_vRShAsi_triShTupChandA.md">
 <details open><summary><h3>०३ वृषासि त्रिष्टुप्छन्दा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

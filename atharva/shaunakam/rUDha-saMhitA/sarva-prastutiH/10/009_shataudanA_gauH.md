@@ -2,7 +2,7 @@
 title = "००९ शतौदना गौः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/_index.md">
 <details open><summary><h2>००९ शतौदना गौः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ The Sataudana or Hundredfold Oblation
 </div>
 
 ## ०१ अघायतामपि नह्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अघाय॒तामपि॑ नह्या॒ मुखा॑नि स॒पत्ने॑षु॒ वज्र॑मर्पयै॒तम्।  
 इन्द्रे॑ण द॒त्ता प्र॑थ॒मा श॒तौद॑ना भ्रातृव्य॒घ्नी यज॑मानस्य गा॒तुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ The Sataudana or Hundredfold Oblation
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/01_aghAyatAmapi_nahyA.md">
 <details open><summary><h3>०१ अघायतामपि नह्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Binding the mouths of those who threaten mischief, against my rivals cast this b
 </div>
 
 ## ०२ वेदिष्टे चर्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/02_vediShTe_charma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/02_vediShTe_charma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वेदि॑ष्टे॒ चर्म॑ भवतु ब॒र्हिर्लोमा॑नि॒ यानि॑ ते।  
 ए॒षा त्वा॑ रश॒नाग्र॑भी॒द्ग्रावा॑ त्वै॒षोऽधि॑ नृत्यतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/02_vediShTe_charma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/02_vediShTe_charma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Binding the mouths of those who threaten mischief, against my rivals cast this b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/02_vediShTe_charma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/02_vediShTe_charma.md">
 <details open><summary><h3>०२ वेदिष्टे चर्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Thy skin shall be the Altar; let thine hair become the Sacred Grass. This cord h
 </div>
 
 ## ०३ बालास्ते प्रोक्षणीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बाला॑स्ते॒ प्रोक्ष॑णीः सन्तु जि॒ह्वा सं मा॑र्ष्ट्वघ्न्ये।  
 शु॒द्धा त्वं य॒ज्ञिया॑ भू॒त्वा दिवं॒ प्रेहि॑ शतौदने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Thy skin shall be the Altar; let thine hair become the Sacred Grass. This cord h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/03_bAlAste_proxaNIH.md">
 <details open><summary><h3>०३ बालास्ते प्रोक्षणीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ The holy water be thy hair: let thy tongue make thee clean, O Cow. Go, Hundredfo
 </div>
 
 ## ०४ यः शतौदनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः श॒तौद॑नां॒ पच॑ति काम॒प्रेण॒ स क॑ल्पते।  
 प्री॒ता ह्य᳡स्य ऋ॒त्विजः॒ सर्वे॒ यन्ति॑ यथाय॒थम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ The holy water be thy hair: let thy tongue make thee clean, O Cow. Go, Hundredfo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/04_yaH_shataudanAm.md">
 <details open><summary><h3>०४ यः शतौदनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -296,14 +296,14 @@ He who prepares the Hundredfold Oblation gains each wish thereby: For all his mi
 </div>
 
 ## ०५ स स्वर्गमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/05_sa_svargamA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/05_sa_svargamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स स्व॒र्गमा रो॑हति॒ यत्रा॒दस्त्रि॑दि॒वं दि॒वः।  
 अ॑पू॒पना॑भिं कृ॒त्वा यो ददा॑ति श॒तौद॑नाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/05_sa_svargamA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/05_sa_svargamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -312,7 +312,7 @@ He who prepares the Hundredfold Oblation gains each wish thereby: For all his mi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/05_sa_svargamA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/05_sa_svargamA.md">
 <details open><summary><h3>०५ स स्वर्गमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -365,14 +365,14 @@ He rises up to heaven, ascends to younder third celestial height. Whoever gives 
 </div>
 
 ## ०६ स तांल्लोकान्त्समाप्नोति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स तांल्लो॒कान्त्समा॑प्नोति॒ ये दि॒व्या ये च॒ पार्थि॑वाः।  
 हिर॑ण्यज्योतिषं कृ॒त्वा यो ददा॑ति श॒तौद॑नाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -381,7 +381,7 @@ He rises up to heaven, ascends to younder third celestial height. Whoever gives 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/06_sa_tAMllokAntsamApnoti.md">
 <details open><summary><h3>०६ स तांल्लोकान्त्समाप्नोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -429,14 +429,14 @@ That man completely wins those worlds, both of the heavens and of the earth, Who
 </div>
 
 ## ०७ ये ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/07_ye_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/07_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ते॑ देवि शमि॒तारः॑ प॒क्तारो॒ ये च॑ ते॒ जनाः॑।  
 ते त्वा॒ सर्वे॑ गोप्स्यन्ति॒ मैभ्यो॑ भैषीः शतौदने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/07_ye_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/07_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -445,7 +445,7 @@ That man completely wins those worlds, both of the heavens and of the earth, Who
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/07_ye_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/07_ye_te.md">
 <details open><summary><h3>०७ ये ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -492,14 +492,14 @@ Thine Immolators, Goddess! and the men who dress thee for the feast, all these w
 </div>
 
 ## ०८ वसवस्त्वा दक्षिणत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वस॑वस्त्वा दक्षिण॒त उ॑त्त॒रान्म॒रुत॑स्त्वा।  
 आ॑दि॒त्याः प॒श्चाद्गो॑प्स्यन्ति॒ साग्नि॑ष्टो॒ममति॑ द्रव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -508,7 +508,7 @@ Thine Immolators, Goddess! and the men who dress thee for the feast, all these w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/08_vasavastvA_daxiNata.md">
 <details open><summary><h3>०८ वसवस्त्वा दक्षिणत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -554,14 +554,14 @@ The Vasus from the South will be thy guards, the Maruts from the North, Adityas 
 </div>
 
 ## ०९ देवाः पितरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/09_devAH_pitaro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/09_devAH_pitaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ गन्धर्वाप्स॒रस॑श्च॒ ये।  
 ते त्वा॒ सर्वे॑ गोप्स्यन्ति॒ साति॑रा॒त्रमति॑ द्रव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/09_devAH_pitaro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/09_devAH_pitaro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -570,7 +570,7 @@ The Vasus from the South will be thy guards, the Maruts from the North, Adityas 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/09_devAH_pitaro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/09_devAH_pitaro.md">
 <details open><summary><h3>०९ देवाः पितरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -618,14 +618,14 @@ The Gods, the Fathers, mortal men, Gandharvas, and Apsara- ses, All these will b
 </div>
 
 ## १० अन्तरिक्षं दिवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/10_antarixaM_divam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/10_antarixaM_divam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षं॒ दिवं॒ भूमि॑मादि॒त्यान्म॒रुतो॒ दिशः॑।  
 लो॒कान्त्स सर्वा॑नाप्नोति॒ यो ददा॑ति श॒तौद॑नाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/10_antarixaM_divam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/10_antarixaM_divam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -634,7 +634,7 @@ The Gods, the Fathers, mortal men, Gandharvas, and Apsara- ses, All these will b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/10_antarixaM_divam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/10_antarixaM_divam.md">
 <details open><summary><h3>१० अन्तरिक्षं दिवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -680,14 +680,14 @@ The man who pays the Hundredfold Oblation winneth all the worlds, Air, heaven, a
 </div>
 
 ## ११ घृतं प्रोक्षन्ती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तं प्रो॒क्षन्ती॑ सु॒भगा॑ दे॒वी दे॒वान्ग॑मिष्यति।  
 प॒क्तार॑मघ्न्ये॒ मा हिं॑सी॒र्दिवं॒ प्रेहि॑ शतौदने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -696,7 +696,7 @@ The man who pays the Hundredfold Oblation winneth all the worlds, Air, heaven, a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/11_ghRtaM_proxantI.md">
 <details open><summary><h3>११ घृतं प्रोक्षन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -743,14 +743,14 @@ Sprinkling down fatness, to the Gods will the beneficent God- dess go. Harm not 
 </div>
 
 ## १२ ये देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/12_ye_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/12_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॒वा दि॑वि॒षदो॑ अन्तरिक्ष॒सद॑श्च॒ ये ये चे॒मे भूम्या॒मधि॑।  
 तेभ्य॒स्त्वं धु॑क्ष्व सर्व॒दा क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/12_ye_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/12_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -759,7 +759,7 @@ Sprinkling down fatness, to the Gods will the beneficent God- dess go. Harm not 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/12_ye_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/12_ye_devA.md">
 <details open><summary><h3>१२ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -809,14 +809,14 @@ From all the Gods enthroned in heaven, in air, from those who dwell on earth, Dr
 </div>
 
 ## १३ यत्ते शिरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/13_yatte_shiro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/13_yatte_shiro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॒ शिरो॒ यत्ते॒ मुखं॒ यौ कर्णौ॒ ये च॑ ते॒ हनू॑।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/13_yatte_shiro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/13_yatte_shiro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -825,7 +825,7 @@ From all the Gods enthroned in heaven, in air, from those who dwell on earth, Dr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/13_yatte_shiro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/13_yatte_shiro.md">
 <details open><summary><h3>१३ यत्ते शिरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -872,14 +872,14 @@ Let thy head, let thy mouth, let both thine ears, and those two jaws of thine. P
 </div>
 
 ## १४ यौ त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/14_yau_ta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/14_yau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ त॒ ओष्ठौ॒ ये नासि॑के॒ ये शृङ्गे॒ ये च॒ तेऽक्षि॑णी।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/14_yau_ta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/14_yau_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -888,7 +888,7 @@ Let thy head, let thy mouth, let both thine ears, and those two jaws of thine. P
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/14_yau_ta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/14_yau_ta.md">
 <details open><summary><h3>१४ यौ त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -934,14 +934,14 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 </div>
 
 ## १५ यत्ते क्लोमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/15_yatte_klomA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/15_yatte_klomA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ क्लो॒मा यद्धृद॑यं पुरी॒तत्स॒हक॑ण्ठिका।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/15_yatte_klomA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/15_yatte_klomA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -950,7 +950,7 @@ Let both thy lips, thy nostrils, both thy horns, and these two eyes of thine. Po
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/15_yatte_klomA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/15_yatte_klomA.md">
 <details open><summary><h3>१५ यत्ते क्लोमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -997,14 +997,14 @@ Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.
 </div>
 
 ## १६ यत्ते यकृद्ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॒ यकृ॒द्ये मत॑स्ने॒ यदा॒न्त्रं याश्च॑ ते॒ गुदाः॑।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1013,7 +1013,7 @@ Let heart and pericardium, let thy lungs with all the bronchial tubes, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/16_yatte_yakRdye.md">
 <details open><summary><h3>१६ यत्ते यकृद्ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1059,14 +1059,14 @@ Let liver, and let kidneys, let thine entrails, and the parts within, etc.
 </div>
 
 ## १७ यस्ते प्लाशिर्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॑ प्ला॒शिर्यो व॑नि॒ष्ठुर्यौ कु॒क्षी यच्च॒ चर्म॑ ते।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1075,7 +1075,7 @@ Let liver, and let kidneys, let thine entrails, and the parts within, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/17_yaste_plAshiryo.md">
 <details open><summary><h3>१७ यस्ते प्लाशिर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1120,14 +1120,14 @@ Let rectum and omentum, let thy belly's hollows, and thy skin, etc.
 </div>
 
 ## १८ यत्ते मज्जा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/18_yatte_majjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/18_yatte_majjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ म॒ज्जा यदस्थि॒ यन्मां॒सं यच्च॒ लोहि॑तम्।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/18_yatte_majjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/18_yatte_majjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1136,7 +1136,7 @@ Let rectum and omentum, let thy belly's hollows, and thy skin, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/18_yatte_majjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/18_yatte_majjA.md">
 <details open><summary><h3>१८ यत्ते मज्जा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1185,14 +1185,14 @@ Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.
 </div>
 
 ## १९ यौ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/19_yau_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/19_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ ते॑ बा॒हू ये दो॒षणी॒ यावंसौ॒ या च॑ ते क॒कुत्।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/19_yau_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/19_yau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1201,7 +1201,7 @@ Let all thy marrow, every bone, let all thy flesh, and all thy blood, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/19_yau_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/19_yau_te.md">
 <details open><summary><h3>१९ यौ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1247,14 +1247,14 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 </div>
 
 ## २० यास्ते ग्रीवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/20_yAste_grIvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/20_yAste_grIvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यास्ते॑ ग्री॒वा ये स्क॒न्धा याः पृ॒ष्टीर्याश्च॒ पर्श॑वः।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/20_yAste_grIvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/20_yAste_grIvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1263,7 +1263,7 @@ Let both thy shoulders and thy hump, thy forelegs, and their lower parts, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/20_yAste_grIvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/20_yAste_grIvA.md">
 <details open><summary><h3>२० यास्ते ग्रीवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1310,14 +1310,14 @@ Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 </div>
 
 ## २१ यौ त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/21_yau_ta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/21_yau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ त॑ उ॒रू अ॑ष्ठी॒वन्तौ॒ ये श्रोणी॒ या च॑ ते भ॒सत्।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/21_yau_ta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/21_yau_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1326,7 +1326,7 @@ Let neck and nape and shoulder-joints, thy ribs and inter-costal parts, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/21_yau_ta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/21_yau_ta.md">
 <details open><summary><h3>२१ यौ त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1371,14 +1371,14 @@ So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.
 </div>
 
 ## २२ यत्ते पुच्छम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/22_yatte_puchCham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/22_yatte_puchCham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॒ पुच्छं॒ ये ते॒ बाला॒ यदूधो॒ ये च॑ ते॒ स्तनाः॑।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/22_yatte_puchCham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/22_yatte_puchCham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1387,7 +1387,7 @@ So let thy thighs and thy knee-bones, thy hinder quarters, and thy hips, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/22_yatte_puchCham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/22_yatte_puchCham.md">
 <details open><summary><h3>२२ यत्ते पुच्छम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1432,14 +1432,14 @@ So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.
 </div>
 
 ## २३ यास्ते जङ्घा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/23_yAste_janghA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/23_yAste_janghA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यास्ते॒ जङ्घा॒ याः कुष्ठि॑का ऋ॒च्छरा॒ ये च॑ ते श॒फाः।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/23_yAste_janghA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/23_yAste_janghA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1448,7 +1448,7 @@ So let thy tail and all the hairs thereof, thine udder, and thy teats, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/23_yAste_janghA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/23_yAste_janghA.md">
 <details open><summary><h3>२३ यास्ते जङ्घा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1504,14 +1504,14 @@ Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour fo
 </div>
 
 ## २४ यत्ते चर्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/24_yatte_charma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/24_yatte_charma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॒ चर्म॑ शतौदने॒ यानि॒ लोमा॑न्यघ्न्ये।  
 आ॒मिक्षां॑ दुह्रतां दा॒त्रे क्षी॒रं स॒र्पिरथो॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/24_yatte_charma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/24_yatte_charma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1520,7 +1520,7 @@ Let all thy legs, the refuse of thy feet, thy heelropes, and thy hooves. Pour fo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/24_yatte_charma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/24_yatte_charma.md">
 <details open><summary><h3>२४ यत्ते चर्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1565,14 +1565,14 @@ Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver
 </div>
 
 ## २५ क्रोडौ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/25_kroDau_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/25_kroDau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्रो॒डौ ते॑ स्तां पुरो॒डाशा॒वाज्ये॑ना॒भिघा॑रितौ।  
 तौ प॒क्षौ दे॑वि कृ॒त्वा सा प॒क्तारं॒ दिवं॑ वह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/25_kroDau_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/25_kroDau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1581,7 +1581,7 @@ Let all thy skin, Sataudana! let every hair thou hast, O Cow, Pour for the giver
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/25_kroDau_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/25_kroDau_te.md">
 <details open><summary><h3>२५ क्रोडौ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1629,14 +1629,14 @@ Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make the
 </div>
 
 ## २६ उलूखले मुसले
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒लूख॑ले॒ मुस॑ले॒ यश्च॒ चर्म॑णि॒ यो वा॒ शूर्पे॑ तण्डु॒लः कणः॑।  
 यं वा॒ वातो॑ मात॒रिश्वा॒ पव॑मानो म॒माथा॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1645,7 +1645,7 @@ Sprinkled with molten butter, let the two meal-cakes be sport for thee. Make the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/26_ulUkhale_musale.md">
 <details open><summary><h3>२६ उलूखले मुसले ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1704,14 +1704,14 @@ Each grain of rice in mortar or on pestle, all on the skin or in the winnowing-b
 </div>
 
 ## २७ अपो देवीर्मधुमतीर्घृतश्चुतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पो दे॒वीर्मधु॑मतीर्घृत॒श्चुतो॑ ब्र॒ह्मणां॒ हस्ते॑षु प्रपृ॒थक्सा॑दयामि।  
 यत्का॑म इ॒दम॑भिषि॒ञ्चामि॑ वो॒ऽहं तन्मे॒ सर्वं॒ सं प॑द्यतां व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1720,7 +1720,7 @@ Each grain of rice in mortar or on pestle, all on the skin or in the winnowing-b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/009_shataudanA_gauH/27_apo_devIrmadhumatIrghRtashchuto.md">
 <details open><summary><h3>२७ अपो देवीर्मधुमतीर्घृतश्चुतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

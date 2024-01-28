@@ -2,7 +2,7 @@
 title = "०६४ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/_index.md">
 <details open><summary><h2>०६४ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to avert an evil omen
 </div>
 
 ## ०१ इदं यत्कृष्णः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं यत्कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्।  
 आपो॑ मा॒ तस्मा॒त्सर्व॑स्माद्दुरि॒तात्पा॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to avert an evil omen
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/01_idaM_yatkRShNaH.md">
 <details open><summary><h3>०१ इदं यत्कृष्णः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ From all that woe and trouble may the Waters save and rescue me, Whate'er the Ra
 </div>
 
 ## ०२ इदं यत्कृष्णः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं यत्कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न।  
 अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ From all that woe and trouble may the Waters save and rescue me, Whate'er the Ra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/064_pApamochanam/02_idaM_yatkRShNaH.md">
 <details open><summary><h3>०२ इदं यत्कृष्णः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

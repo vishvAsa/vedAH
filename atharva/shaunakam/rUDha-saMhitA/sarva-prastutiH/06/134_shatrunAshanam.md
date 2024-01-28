@@ -2,7 +2,7 @@
 title = "१३४ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/_index.md">
 <details open><summary><h2>१३४ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 448; Griffith, i. 320.
 </div>
 
 ## ०१ अयं वज्रस्तर्पयतामृतस्यावास्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं वज्र॑स्तर्पयतामृ॒तस्या॑वास्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्।  
 शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 448; Griffith, i. 320.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/01_ayaM_vajrastarpayatAmRtasyAvAsya.md">
 <details open><summary><h3>०१ अयं वज्रस्तर्पयतामृतस्यावास्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 </div>
 
 ## ०२ अधरोऽधर उत्तरेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत्सृ॑पत्।  
 वज्रे॒णाव॑हतः शयाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ This Thunderbolt shall take its fill of Order, scare life away and overthrow the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/02_adharo-dhara_uttarebhyo.md">
 <details open><summary><h3>०२ अधरोऽधर उत्तरेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 </div>
 
 ## ०३ यो जिनाति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/03_yo_jinAti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो जि॒नाति॒ तमन्वि॑च्छ॒ यो जि॒नाति॒ तमिज्ज॑हि।  
 जि॑न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/03_yo_jinAti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Down, down beneath the conquerors, let him not rise, concealed in earth, but lie
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/03_yo_jinAti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/134_shatrunAshanam/03_yo_jinAti.md">
 <details open><summary><h3>०३ यो जिनाति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

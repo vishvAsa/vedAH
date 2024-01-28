@@ -2,7 +2,7 @@
 title = "०६५ अवनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/_index.md">
 <details open><summary><h2>०६५ अवनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Agni identified with the Sun
 </div>
 
 ## ०१ हरिः सुपर्णो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/065_avanam/01_hariH_suparNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/065_avanam/01_hariH_suparNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हरिः॑ सुप॒र्णो दिव॒मारु॑हो॒ऽर्चिषा॒ ये त्वा॒ दिप्स॑न्ति॒ दिव॑मु॒त्पत॑न्तम्।  
 अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/065_avanam/01_hariH_suparNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/065_avanam/01_hariH_suparNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Agni identified with the Sun
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/01_hariH_suparNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/065_avanam/01_hariH_suparNo.md">
 <details open><summary><h3>०१ हरिः सुपर्णो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

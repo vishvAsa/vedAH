@@ -2,7 +2,7 @@
 title = "०१६ सत्यानृतसमीक्षकः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/_index.md">
 <details open><summary><h2>०१६ सत्यानृतसमीक्षकः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -36,14 +36,14 @@ On the omnipresence and omniscience of Varuna
 </div>
 
 ## ०१ बृहन्नेषामधिष्ठाता अन्तिकादिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृ॒हन्नेषामधिष्ठा॒ता अ॑न्ति॒कादि॑व पश्यति।  
 यस्ता॒यन्मन्य॑ते॒ चर॒न्त्सर्वं॑ दे॒वा इ॒दं वि॑दुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -52,7 +52,7 @@ On the omnipresence and omniscience of Varuna
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/01_bRhanneShAmadhiShThAtA_antikAdiva.md">
 <details open><summary><h3>०१ बृहन्नेषामधिष्ठाता अन्तिकादिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -114,14 +114,14 @@ The mighty Ruler of these worlds beholds as though from close at hand, The man w
 </div>
 
 ## ०२ यस्तिष्ठति चरति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्तिष्ठ॑ति॒ चर॑ति॒ यश्च॑ वञ्चति॒ यो नि॒लायं॒ चर॑ति॒ यः प्र॒तङ्क॑म्।  
 द्वौ सं॑नि॒षद्य॒ यन्म॒न्त्रये॑ते॒ राजा॒ तद्वे॑द॒ वरु॑णस्तृ॒तीयः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -130,7 +130,7 @@ The mighty Ruler of these worlds beholds as though from close at hand, The man w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/02_yastiShThati_charati.md">
 <details open><summary><h3>०२ यस्तिष्ठति चरति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -191,14 +191,14 @@ If a man stands or walks or moves in secret, goes to his lying- down or his upri
 </div>
 
 ## ०३ उतेयं भूमिर्वरुणस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒तेयं भूमि॒र्वरु॑णस्य॒ राज्ञ॑ उ॒तासौ द्यौर्बृ॑ह॒ती दूरेअन्ता।  
 उ॒तो स॑मु॒द्रौ वरु॑णस्य कु॒क्षी उ॒तास्मिन्नल्प॑ उद॒के निली॑नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -207,7 +207,7 @@ If a man stands or walks or moves in secret, goes to his lying- down or his upri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/03_uteyaM_bhUmirvaruNasya.md">
 <details open><summary><h3>०३ उतेयं भूमिर्वरुणस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -258,14 +258,14 @@ This earth, too, is King Varuna's possession, and the high heaven whose ends are
 </div>
 
 ## ०४ उत यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒त यो द्याम॑ति॒सर्पा॑त्प॒रस्ता॒न्न स मु॑च्यातै॒ वरु॑णस्य॒ राज्ञः॑।  
 दि॒व स्पशः॒ प्र च॑रन्ती॒दम॑स्य सहस्रा॒क्षा अति॑ पश्यन्ति॒ भूमि॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -274,7 +274,7 @@ This earth, too, is King Varuna's possession, and the high heaven whose ends are
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/04_uta_yo.md">
 <details open><summary><h3>०४ उत यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -325,14 +325,14 @@ If one should flee afar beyond the heaven, King Varuna would still be round abou
 </div>
 
 ## ०५ सर्वं तद्राजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वं॒ तद्राजा॒ वरु॑णो॒ वि च॑ष्टे॒ यद॑न्त॒रा रोद॑सी॒ यत्प॒रस्ता॑त्।  
 संख्या॑ता अस्य नि॒मिषो॒ जना॑नाम॒क्षानि॑व श्व॒घ्नी नि मि॑नोति॒ तानि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -341,7 +341,7 @@ If one should flee afar beyond the heaven, King Varuna would still be round abou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/05_sarvaM_tadrAjA.md">
 <details open><summary><h3>०५ सर्वं तद्राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -398,14 +398,14 @@ All this the royal Varuna beholdeth, all between heaven and earth and all beyond
 </div>
 
 ## ०६ ये ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ते॒ पाशा॑ वरुण स॒प्तस॑प्त त्रे॒धा तिष्ठ॑न्ति॒ विषि॑ता॒ रुष॑न्तः।  
 छि॒नन्तु॒ सर्वे॒ अनृ॑तं॒ वद॑न्तं॒ यः स॑त्यवा॒द्यति॒ तं सृ॑जन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/06_ye_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -414,7 +414,7 @@ All this the royal Varuna beholdeth, all between heaven and earth and all beyond
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/06_ye_te.md">
 <details open><summary><h3>०६ ये ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -473,14 +473,14 @@ Those fatal snares of thine which stand extended, threefold, O Varuna, seven by 
 </div>
 
 ## ०७ शतेन पाशैरभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तेन॒ पाशै॑र॒भि धे॑हि वरुणैनं॒ मा ते॑ मोच्यनृत॒वाङ्नृ॑चक्षः।  
 आस्तां॑ जा॒ल्म उ॒दरं॑ श्रंसयि॒त्वा कोश॑ इवाब॒न्धः प॑रिकृ॒त्यमा॑नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -489,7 +489,7 @@ Those fatal snares of thine which stand extended, threefold, O Varuna, seven by 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/07_shatena_pAshairabhi.md">
 <details open><summary><h3>०७ शतेन पाशैरभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -551,14 +551,14 @@ Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies esc
 </div>
 
 ## ०८ यः समाम्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः स॑मा॒म्यो॒३॒॑ वरु॑णो॒ यो व्या॒म्यो॒३॒॑ यः सं॑दे॒श्यो॒३॒॑ वरु॑णो॒ यो वि॑दे॒श्यः।  
 यो दै॒वो वरु॑णो॒ यश्च॒ मानु॑षः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -567,7 +567,7 @@ Varuna, snare him with a hundred nooses! Man's watcher! let not him who lies esc
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/08_yaH_samAmyo.md">
 <details open><summary><h3>०८ यः समाम्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -627,14 +627,14 @@ Varuna sends, and drives away, diseases: Varuna is both native and a stranger, V
 </div>
 
 ## ०९ तैस्त्वा सर्वैरभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तैस्त्वा॒ सर्वै॑र॒भि ष्या॑मि॒ पाशै॑रसावामुष्यायणामुष्याः पुत्र।  
 तानु॑ ते॒ सर्वा॑ननु॒संदि॑शामि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -643,7 +643,7 @@ Varuna sends, and drives away, diseases: Varuna is both native and a stranger, V
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/016_satyAnRtasamIxakaH/09_taistvA_sarvairabhi.md">
 <details open><summary><h3>०९ तैस्त्वा सर्वैरभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

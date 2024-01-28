@@ -2,7 +2,7 @@
 title = "११५ पापलक्षणनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/_index.md">
 <details open><summary><h2>११५ पापलक्षणनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -26,14 +26,14 @@ The first two verses are found also in Pāipp. xx. It is used by Kāuś. (18. 16
 </div>
 
 ## ०१ प्र पतेतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र प॑ते॒तः पा॑पि लक्ष्मि॒ नश्ये॒तः प्रामुतः॑ पत।  
 अ॑य॒स्मये॑ना॒ङ्केन॑ द्विष॒ते त्वा स॑जामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -42,7 +42,7 @@ The first two verses are found also in Pāipp. xx. It is used by Kāuś. (18. 16
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/01_pra_patetaH.md">
 <details open><summary><h3>०१ प्र पतेतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 </div>
 
 ## ०२ या मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या मा॑ ल॒क्ष्मीः प॑तया॒लूरजु॑ष्टाभिच॒स्कन्द॒ वन्द॑नेव वृ॒क्षम्।  
 अ॒न्यत्रा॒स्मत्स॑वित॒स्तामि॒तो धा॒ हिर॑ण्यहस्तो॒ वसु॑ नो॒ ररा॑णः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/02_yA_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/02_yA_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ Hence. Evil Fortune! fly away, vanish from this place and from that. We fix thee
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/02_yA_mA.md">
 <details open><summary><h3>०२ या मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ Granting us riches, Savitar! golden-banded, send thou away from us to other regi
 </div>
 
 ## ०३ एकशतं लक्ष्म्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एक॑शतं ल॒क्ष्म्यो॒३॒॑ मर्त्य॑स्य सा॒कं त॒न्वा᳡ ज॒नुषोऽधि॑ जा॒ताः।  
 तासां॒ पापि॑ष्ठा॒ निरि॒तः प्र हि॑ण्मः शि॒वा अ॒स्मभ्यं॑ जातवेदो॒ नि य॑च्छ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ Granting us riches, Savitar! golden-banded, send thou away from us to other regi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/03_ekashataM_laxmyo.md">
 <details open><summary><h3>०३ एकशतं लक्ष्म्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -228,14 +228,14 @@ One and a hundred Fortunes all together are at his birth born with a mortal's bo
 </div>
 
 ## ०४ एता एना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒ता ए॑ना॒ व्याक॑रं खि॒ले गा विष्ठि॑ता इव।  
 रम॑न्तां॒ पुण्या॑ ल॒क्ष्मीर्याः पा॒पीस्ता अ॑नीनशम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/04_etA_enA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -244,7 +244,7 @@ One and a hundred Fortunes all together are at his birth born with a mortal's bo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/115_pApalaxaNanAshanam/04_etA_enA.md">
 <details open><summary><h3>०४ एता एना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

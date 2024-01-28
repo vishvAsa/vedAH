@@ -2,7 +2,7 @@
 title = "०४२ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/_index.md">
 <details open><summary><h2>०४२ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for delivery from sin and sickness
 </div>
 
 ## ०१ सोमारुद्रा वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/01_somArudrA_vi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/01_somArudrA_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोमा॑रुद्रा॒ वि वृ॑हतं विषूची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑।  
 बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/01_somArudrA_vi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/01_somArudrA_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for delivery from sin and sickness
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/01_somArudrA_vi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/01_somArudrA_vi.md">
 <details open><summary><h3>०१ सोमारुद्रा वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 </div>
 
 ## ०२ सोमारुद्रा युवमेतान्यस्मद्विश्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद्विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्।  
 अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त्त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Scatter and drive away, Soma and Rudra, the sickness that hath come within our d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/042_pApamochanam/02_somArudrA_yuvametAnyasmadvishvA.md">
 <details open><summary><h3>०२ सोमारुद्रा युवमेतान्यस्मद्विश्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

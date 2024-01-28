@@ -2,7 +2,7 @@
 title = "१३९ सौभाग्यवर्धनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/_index.md">
 <details open><summary><h2>१३९ सौभाग्यवर्धनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -26,7 +26,7 @@ The hymn is wanting in Pāipp. Kāuś. (36. 12) uses it in a women's rite, with 
 </div>
 
 ## ०१ न्यस्तिका रुरोहिथ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न्य॑स्ति॒का रु॑रोहिथ सुभगं॒कर॑णी॒ मम॑।  
@@ -34,7 +34,7 @@ The hymn is wanting in Pāipp. Kāuś. (36. 12) uses it in a women's rite, with 
 तया॑ सहस्रप॒र्ण्या हृद॑यं शोषयामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -44,7 +44,7 @@ The hymn is wanting in Pāipp. Kāuś. (36. 12) uses it in a women's rite, with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/01_nyastikA_rurohitha.md">
 <details open><summary><h3>०१ न्यस्तिका रुरोहिथ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are
 </div>
 
 ## ०२ शुष्यतु मयि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शुष्य॑तु॒ मयि॑ ते॒ हृद॑य॒मथो॑ शुष्यत्वा॒स्य᳡म्।  
 अथो॒ नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Thou hast grown up, a source of joy to bless me with pros- perity. A hundred are
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/02_shuShyatu_mayi.md">
 <details open><summary><h3>०२ शुष्यतु मयि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Let thy heart wither for my love and let thy month be dry for me. Parch and dry 
 </div>
 
 ## ०३ संवननी समुष्पला
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒वन॑नी समुष्प॒ला बभ्रु॒ कल्या॑णि॒ सं नु॑द।  
 अ॒मूं च॒ मां च॒ सं नु॑द समा॒नं हृद॑यं कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Let thy heart wither for my love and let thy month be dry for me. Parch and dry 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/03_saMvananI_samuShpalA.md">
 <details open><summary><h3>०३ संवननी समुष्पला ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ Drive us together, tawny! fair! a go-between who wakens love. Drive us together,
 </div>
 
 ## ०४ यथोदकमपपुषोऽपशुष्यत्यास्यम् एवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथो॑द॒कमप॑पुषोऽप॒शुष्य॑त्या॒स्य᳡म्।  
 ए॒वा नि शु॑ष्य॒ मां कामे॒नाथो॒ शुष्का॑स्या चर ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ Drive us together, tawny! fair! a go-between who wakens love. Drive us together,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/04_yathodakamapapuSho-pashuShyatyAsyam_evA.md">
 <details open><summary><h3>०४ यथोदकमपपुषोऽपशुष्यत्यास्यम् एवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -298,14 +298,14 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 </div>
 
 ## ०५ यथा नकुलो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ नकु॒लो वि॒च्छिद्य॑ सं॒दधा॒त्यहिं॒ पुनः॑।  
 ए॒वा काम॑स्य॒ विच्छि॑न्नं॒ सं धे॑हि वीर्यावति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -314,7 +314,7 @@ Even as his mouth is parched who finds no water for his burn- ing thirst, So par
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/139_saubhAgyavardhanam/05_yathA_nakulo.md">
 <details open><summary><h3>०५ यथा नकुलो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००८ यातुधाननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/_index.md">
 <details open><summary><h2>००८ यातुधाननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 </div>
 
 ## ०१ इदं हविर्यातुधानान्नदी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं ह॒विर्या॑तु॒धाना॑न्न॒दी फेन॑मि॒वा व॑हत्।  
 य इ॒दं स्त्री पुमा॒नक॑रि॒ह स स्तु॑वतां॒ जनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/01_idaM_haviryAtudhAnAnnadI.md">
 <details open><summary><h3>०१ इदं हविर्यातुधानान्नदी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 </div>
 
 ## ०२ अयं स्तुवान
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं स्तु॑वा॒न आग॑मदि॒मं स्म॒ प्रति॑ हर्यत।  
 बृह॑स्पते॒ वशे॑ ल॒ब्ध्वाग्नी॑षोमा॒ वि वि॑ध्यतम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ This sacrifice shall bring the Yatudhanas as the flood brings foam: Here let the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/02_ayaM_stuvAna.md">
 <details open><summary><h3>०२ अयं स्तुवान ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 </div>
 
 ## ०३ यातुधानस्य सोमप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या॑तु॒धान॑स्य सोमप ज॒हि प्र॒जां नय॑स्व च।  
 नि स्तु॑वा॒नस्य॑ पातय॒ पर॒मक्ष्यु॒ताव॑रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ This one hath come confessing all: do ye receive him eagerly. Master him thou, B
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/03_yAtudhAnasya_somapa.md">
 <details open><summary><h3>०३ यातुधानस्य सोमप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 </div>
 
 ## ०४ यत्रैषामग्ने जनिमानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्रै॑षामग्ने॒ जनि॑मानि॒ वेत्थ॒ गुहा॑ स॒ताम॒त्त्रिणां॑ जातवेदः।  
 तांस्त्वं ब्रह्म॑णा वावृधा॒नो ज॒ह्ये॑षां शत॒तर्ह॑मग्ने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ O Soma-drinker, strike and bring the Yatudhana's progeny: Make the confessing si
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/008_yAtudhAnanAshanam/04_yatraiShAmagne_janimAni.md">
 <details open><summary><h3>०४ यत्रैषामग्ने जनिमानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

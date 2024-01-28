@@ -2,7 +2,7 @@
 title = "०३३ दीर्घायुः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/_index.md">
 <details open><summary><h2>०३३ दीर्घायुः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for long life, children, and riches
 </div>
 
 ## ०१ सं मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/033_dIrghAyuH/01_saM_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/033_dIrghAyuH/01_saM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॑ष॒ सं बृह॒स्पतिः॑।  
 सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/033_dIrghAyuH/01_saM_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/033_dIrghAyuH/01_saM_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for long life, children, and riches
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/01_saM_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/033_dIrghAyuH/01_saM_mA.md">
 <details open><summary><h3>०१ सं मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

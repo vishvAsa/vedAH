@@ -2,7 +2,7 @@
 title = "००९ आञ्जनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/_index.md">
 <details open><summary><h2>००९ आञ्जनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm addressed to a precious ointment for safety and wealth
 </div>
 
 ## ०१ एहि जीवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/01_ehi_jIvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/01_ehi_jIvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एहि॑ जी॒वं त्राय॑माणं॒ पर्व॑तस्या॒स्यक्ष्य॑म्।  
 विश्वे॑भिर्दे॒वैर्द॒त्तं प॑रि॒धिर्जीव॑नाय॒ कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/01_ehi_jIvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/01_ehi_jIvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm addressed to a precious ointment for safety and wealth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/01_ehi_jIvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/01_ehi_jIvam.md">
 <details open><summary><h3>०१ एहि जीवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 </div>
 
 ## ०२ परिपाणं पुरुषाणाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॑रि॒पाणं॒ पुरु॑षाणां परि॒पाणं॒ गवा॑मसि।  
 अश्वा॑ना॒मर्व॑तां परि॒पाणा॑य तस्थिषे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/02_paripANaM_puruShANAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Approach! thou art the mountain's eye, the living thing that saveth us; A gift b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/02_paripANaM_puruShANAm.md">
 <details open><summary><h3>०२ परिपाणं पुरुषाणाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 </div>
 
 ## ०३ उतासि परिपाणम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/03_utAsi_paripANam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/03_utAsi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒तासि॑ परि॒पाणं॑ यातु॒जम्भ॑नमाञ्जन।  
 उ॒तामृत॑स्य॒ त्वं वे॒त्थाथो॑ असि जीव॒भोज॑न॒मथो॑ हरितभेष॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/03_utAsi_paripANam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/03_utAsi_paripANam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Thou art the safeguard of the men, thou art the safeguard of the kine, Thou stan
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/03_utAsi_paripANam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/03_utAsi_paripANam.md">
 <details open><summary><h3>०३ उतासि परिपाणम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -242,14 +242,14 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 </div>
 
 ## ०४ यस्याञ्जन प्रसर्पस्यङ्गमङ्गम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्या॑ञ्जन प्र॒सर्प॒स्यङ्ग॑मङ्गं॒ परु॑ष्परुः।  
 ततो॒ यक्ष्मं॒ वि बा॑धस उ॒ग्रो म॑ध्यम॒शीरि॑व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -258,7 +258,7 @@ Thou, also, Salve! art a defence that rends and crushes sorcerers. Thou knowest,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/04_yasyAnjana_prasarpasyangamangam.md">
 <details open><summary><h3>०४ यस्याञ्जन प्रसर्पस्यङ्गमङ्गम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -325,14 +325,14 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 </div>
 
 ## ०५ नैनं प्राप्नोति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/05_nainaM_prApnoti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नैनं॒ प्राप्नो॑ति श॒पथो॒ न कृ॒त्या नाभि॒शोच॑नम्।  
 नैनं॒ विष्क॑न्धमश्नुते॒ यस्त्वा॒ बिभ॑र्त्याञ्जन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/05_nainaM_prApnoti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -341,7 +341,7 @@ Whomso thou creepest over, Salve! member by member, joint by joint, From him, li
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/05_nainaM_prApnoti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/05_nainaM_prApnoti.md">
 <details open><summary><h3>०५ नैनं प्राप्नोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -389,14 +389,14 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 </div>
 
 ## ०६ असन्मन्त्राद्दुष्वप्न्याद्दुष्कृताच्छमलादुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑सन्म॒न्त्राद्दु॒ष्वप्न्या॑द्दुष्कृ॒ताच्छम॑लादु॒त।  
 दु॒र्हार्द॒श्चक्षु॑षो घो॒रात्तस्मा॑न्नः पाह्याञ्जन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -405,7 +405,7 @@ No imprecation reaches him, no magic, no tormenting fiend, O Salve, Vishkandha s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/06_asanmantrAdduShvapnyAdduShkRtAchChamalAduta.md">
 <details open><summary><h3>०६ असन्मन्त्राद्दुष्वप्न्याद्दुष्कृताच्छमलादुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -455,14 +455,14 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 </div>
 
 ## ०७ इदं विद्वानाञ्जन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं वि॒द्वाना॑ञ्जन स॒त्यं व॑क्ष्यामि॒ नानृ॑तम्।  
 स॒नेय॒मश्वं॒ गाम॒हमा॒त्मानं॒ तव॑ पूरुष ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -471,7 +471,7 @@ From lying speech, from evil dream, from wicked act and sinfulness, From hostile
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/07_idaM_vidvAnAnjana.md">
 <details open><summary><h3>०७ इदं विद्वानाञ्जन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -530,14 +530,14 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 </div>
 
 ## ०८ त्रयो दासा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/08_trayo_dAsA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/08_trayo_dAsA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रयो॑ दा॒सा आञ्ज॑नस्य त॒क्मा ब॒लास॒ आदहिः॑।  
 वर्षि॑ष्ठः॒ पर्व॑तानां त्रिक॒कुन्नाम॑ ते पि॒ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/08_trayo_dAsA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/08_trayo_dAsA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -546,7 +546,7 @@ I, knowing this, O Salve, will speak the very truth and not a lie: May I obtain 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/08_trayo_dAsA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/08_trayo_dAsA.md">
 <details open><summary><h3>०८ त्रयो दासा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -596,14 +596,14 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 </div>
 
 ## ०९ यदाञ्जनं त्रैककुदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदाञ्ज॑नं त्रैककु॒दं जा॒तं हि॒मव॑त॒स्परि॑।  
 या॒तूंश्च॒ सर्वा॑ञ्ज॒म्भय॒त्सर्वा॑श्च यातुधा॒न्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -612,7 +612,7 @@ Three are the slaves that serve the Salve, Fever, Consumption, and the Snake. Th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/09_yadAnjanaM_traikakudam.md">
 <details open><summary><h3>०९ यदाञ्जनं त्रैककुदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -674,14 +674,14 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 </div>
 
 ## १० यदि वासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/10_yadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/009_Anjanam/10_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ वासि॑ त्रैककु॒दं यदि॑ यामु॒नमु॒च्यसे॑।  
 उ॒भे ते॑ भ॒द्रे नाम्नी॒ ताभ्यां॑ नः पाह्याञ्जन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/10_yadi_vAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/009_Anjanam/10_yadi_vAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -690,7 +690,7 @@ Sprung from the Snowy Mountain's side, this Ointment of the Three-peaked hill. C
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/10_yadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/009_Anjanam/10_yadi_vAsi.md">
 <details open><summary><h3>१० यदि वासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

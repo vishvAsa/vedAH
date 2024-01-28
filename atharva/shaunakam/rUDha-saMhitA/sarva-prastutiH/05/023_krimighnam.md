@@ -2,7 +2,7 @@
 title = "०२३ क्रिमिघ्नम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/_index.md">
 <details open><summary><h2>०२३ क्रिमिघ्नम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against parasitic worms
 </div>
 
 ## ०१ ओते मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/01_ote_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/01_ote_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओते॑ मे॒ द्यावा॑पृथि॒वी ओता॑ दे॒वी सर॑स्वती।  
 ओतौ॑ म॒ इन्द्र॑श्चा॒ग्निश्च॒ क्रिमिं॑ जम्भयता॒मिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/01_ote_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/01_ote_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against parasitic worms
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/01_ote_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/01_ote_me.md">
 <details open><summary><h3>०१ ओते मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and A
 </div>
 
 ## ०२ अस्येन्द्र कुमारस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/02_asyendra_kumArasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/02_asyendra_kumArasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्येन्द्र॑ कुमा॒रस्य॒ क्रिमी॑न्धनपते जहि।  
 ह॒ता विश्वा॒ अरा॑तय उ॒ग्रेण॒ वच॑सा॒ मम॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/02_asyendra_kumArasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/02_asyendra_kumArasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ I have called Heaven and Earth to aid, have called divine Sarasvati, Indra and A
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/02_asyendra_kumArasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/02_asyendra_kumArasya.md">
 <details open><summary><h3>०२ अस्येन्द्र कुमारस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 </div>
 
 ## ०३ यो अक्ष्यौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/03_yo_axyau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/03_yo_axyau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒क्ष्यौ॑ परि॒सर्प॑ति॒ यो नासे॑ परि॒सर्प॑ति।  
 द॒तां यो मद्यं॒ गच्छ॑ति॒ तं क्रिमिं॑ जम्भयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/03_yo_axyau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/03_yo_axyau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ O Indra, Lord of Treasures, kill the worms that prey upon this boy. All the mali
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/03_yo_axyau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/03_yo_axyau.md">
 <details open><summary><h3>०३ यो अक्ष्यौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ Two of like colour, two unlike, two coloured black, two coloured red. The tawny 
 </div>
 
 ## ०४ सरूपौ द्वौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/04_sarUpau_dvau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/04_sarUpau_dvau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सरू॑पौ॒ द्वौ विरू॑पौ॒ द्वौ कृ॒ष्णौ द्वौ रोहि॑तौ॒ द्वौ।  
 ब॒भ्रुश्च॑ ब॒भ्रुक॑र्णश्च॒ गृध्रः॒ कोक॑श्च॒ ते ह॒ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/04_sarUpau_dvau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/04_sarUpau_dvau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ Two of like colour, two unlike, two coloured black, two coloured red. The tawny 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/04_sarUpau_dvau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/04_sarUpau_dvau.md">
 <details open><summary><h3>०४ सरूपौ द्वौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -297,14 +297,14 @@ Worms that are white about the sides, those that are black with black-hued arms,
 </div>
 
 ## ०५ ये क्रिमयः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/05_ye_krimayaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये क्रिम॑यः शिति॒कक्षा॒ ये कृ॒ष्णाः शि॑ति॒बाह॑वः।  
 ये के च॑ वि॒श्वरू॑पा॒स्तान्क्रिमी॑न् जम्भयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/05_ye_krimayaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/05_ye_krimayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -313,7 +313,7 @@ Worms that are white about the sides, those that are black with black-hued arms,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/05_ye_krimayaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/05_ye_krimayaH.md">
 <details open><summary><h3>०५ ये क्रिमयः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -360,14 +360,14 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 </div>
 
 ## ०६ उत्पुरस्तात्सूर्य एति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्पु॒रस्ता॒त्सूर्य॑ एति वि॒श्वदृ॑ष्टो अदृष्ट॒हा।  
 दृ॒ष्टांश्च॒ घ्नन्न॒दृष्टां॑श्च॒ सर्वां॑श्च प्रमृ॒णन्क्रिमी॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -376,7 +376,7 @@ Eastward the Sun is mounting, seen of all, destroying thing unseen, Crushing and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/06_utpurastAtsUrya_eti.md">
 <details open><summary><h3>०६ उत्पुरस्तात्सूर्य एति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -424,14 +424,14 @@ Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we ca
 </div>
 
 ## ०७ येवाषासः कष्कषास
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येवा॑षासः॒ कष्क॑षास एज॒त्काः शि॑पवित्नु॒काः।  
 दृ॒ष्टश्च॑ ह॒न्यतां॒ क्रिमि॑रु॒तादृष्ट॑श्च हन्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -440,7 +440,7 @@ Let the Yevashas, Kaskashas, Ejatkas, Sipavitnukas, Let both the worm that we ca
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/07_yevAShAsaH_kaShkaShAsa.md">
 <details open><summary><h3>०७ येवाषासः कष्कषास ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -492,14 +492,14 @@ Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them 
 </div>
 
 ## ०८ हतो येवाषः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/08_hato_yevAShaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/08_hato_yevAShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॒तो येवा॑षः॒ क्रिमी॑णां ह॒तो न॑दनि॒मोत।  
 सर्वा॒न्नि म॑ष्म॒षाक॑रं दृ॒षदा॒ खल्वाँ॑ इव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/08_hato_yevAShaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/08_hato_yevAShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -508,7 +508,7 @@ Slain the Yevasha of the worms, slain too is the Nadaniman. I have reduced them 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/08_hato_yevAShaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/08_hato_yevAShaH.md">
 <details open><summary><h3>०८ हतो येवाषः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -566,14 +566,14 @@ The worm Saranga, white of hue, three-headed, with a triple hump, I split and te
 </div>
 
 ## ०९ त्रिशीर्षाणं त्रिककुदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रि॑शी॒र्षाणं॑ त्रिक॒कुदं॒ क्रिमिं॑ सा॒रङ्ग॒मर्जु॑नम्।  
 शृ॒णाम्य॑स्य पृ॒ष्टीरपि॑ वृश्चामि॒ यच्छिरः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -582,7 +582,7 @@ The worm Saranga, white of hue, three-headed, with a triple hump, I split and te
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/09_trishIrShANaM_trikakudam.md">
 <details open><summary><h3>०९ त्रिशीर्षाणं त्रिककुदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -634,14 +634,14 @@ I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to 
 </div>
 
 ## १० अत्रिवद्वः क्रिमयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑त्रि॒वद्वः॑ क्रिमयो हन्मि कण्व॒वज्ज॑मदग्नि॒वत्।  
 अ॒गस्त्य॑स्य॒ ब्रह्म॑णा॒ सं पि॑नष्म्य॒हं क्रिमी॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/10_atrivadvaH_krimayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/10_atrivadvaH_krimayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -650,7 +650,7 @@ I kill you, worms, as Atri, as Kanva and Jamadagni killed. I crush the worms to 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/10_atrivadvaH_krimayo.md">
 <details open><summary><h3>१० अत्रिवद्वः क्रिमयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -695,14 +695,14 @@ The King of worms hath been destroyed, he who was lord of these is slain. Slain 
 </div>
 
 ## ११ हतो राजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/11_hato_rAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/11_hato_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॒तो राजा॒ क्रिमी॑णामु॒तैषां॑ स्थ॒पति॑र्ह॒तः।  
 ह॒तो ह॒तमा॑ता॒ क्रिमि॑र्ह॒तभ्रा॑ता ह॒तस्व॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/11_hato_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/11_hato_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -711,7 +711,7 @@ The King of worms hath been destroyed, he who was lord of these is slain. Slain 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/11_hato_rAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/11_hato_rAjA.md">
 <details open><summary><h3>११ हतो राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -757,14 +757,14 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 </div>
 
 ## १२ हतासो अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/12_hatAso_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/12_hatAso_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॒तासो॑ अस्य वे॒शसो॑ ह॒तासः॒ परि॑वेशसः।  
 अथो॒ ये क्षु॑ल्ल॒का इ॑व॒ सर्वे॒ ते क्रिम॑यो ह॒ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/12_hatAso_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/12_hatAso_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -773,7 +773,7 @@ Destroyed are his dependants, who those dwell around him are destroyed, And all 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/12_hatAso_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/12_hatAso_asya.md">
 <details open><summary><h3>१२ हतासो अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -818,14 +818,14 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 </div>
 
 ## १३ सर्वेषां च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/13_sarveShAM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/023_krimighnam/13_sarveShAM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वे॑षां च॒ क्रिमी॑णां॒ सर्वा॑सां च क्रि॒मीना॑म्।  
 भि॒नद्म्यश्म॑ना॒ शिरो॒ दहा॑म्य॒ग्निना॒ मुख॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/13_sarveShAM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/023_krimighnam/13_sarveShAM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -834,7 +834,7 @@ Of every worm and insect, of the female and the male alike, I crush the head to 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/13_sarveShAM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/023_krimighnam/13_sarveShAM_cha.md">
 <details open><summary><h3>१३ सर्वेषां च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

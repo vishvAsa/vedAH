@@ -2,7 +2,7 @@
 title = "०१७ ब्रह्मजाया"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/_index.md">
 <details open><summary><h2>०१७ ब्रह्मजाया ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ The abduction and restoration of a Brahman's wife
 </div>
 
 ## ०१ तेऽवदन्प्रथमा ब्रह्मकिल्बिषेऽकूपारः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तेऽव॒दन्प्र॑थ॒मा ब्र॑ह्मकिल्बि॒षेऽकू॑पारः सलि॒लो मा॑तरिश्वा।  
 वी॒डुह॑रा॒स्तप॑ उ॒ग्रं म॑यो॒भूरापो॑ दे॒वीः प्र॑थम॒जा ऋ॒तस्य॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ The abduction and restoration of a Brahman's wife
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/01_te-vadanprathamA_brahmakilbiShe-kUpAraH.md">
 <details open><summary><h3>०१ तेऽवदन्प्रथमा ब्रह्मकिल्बिषेऽकूपारः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ These first, the boundless Sea, and Matarisvan, fierce glowing Fire, the Strong,
 </div>
 
 ## ०२ सोमो राजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/02_somo_rAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/02_somo_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोमो॒ राजा॑ प्रथ॒मो ब्र॑ह्मजा॒यां पुनः॒ प्राय॑च्छ॒दहृ॑णीयमानः।  
 अ॑न्वर्ति॒ता वरु॑णो मि॒त्र आ॑सीद॒ग्निर्होता॑ हस्त॒गृह्या नि॑नाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/02_somo_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/02_somo_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ These first, the boundless Sea, and Matarisvan, fierce glowing Fire, the Strong,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/02_somo_rAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/02_somo_rAjA.md">
 <details open><summary><h3>०२ सोमो राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,14 +161,14 @@ King Soma first of all, without reluctance, made restitution of the Brahman's co
 </div>
 
 ## ०३ हस्तेनैव ग्राह्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हस्ते॑नै॒व ग्रा॒ह्य॑ आ॒धिर॑स्या ब्रह्मजा॒येति॒ चेदवो॑चत्।  
 न दू॒ताय॑ प्र॒हेया॑ तस्थ ए॒षा तथा॑ रा॒ष्ट्रं गु॑पि॒तं क्ष॒त्रिय॑स्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -177,7 +177,7 @@ King Soma first of all, without reluctance, made restitution of the Brahman's co
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/03_hastenaiva_grAhya.md">
 <details open><summary><h3>०३ हस्तेनैव ग्राह्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ The man, her pledge, must by the hand be taken when he hath cried, She is a Brah
 </div>
 
 ## ०४ यामाहुस्तारकैषा विकेशीति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यामा॒हुस्तार॑कै॒षा वि॑के॒शीति॑ दु॒च्छुनां॒ ग्राम॑मव॒पद्य॑मानाम्।  
 सा ब्र॑ह्मजा॒या वि दु॑नोति रा॒ष्ट्रं यत्र॒ प्रापा॑दि श॒श उ॑ल्कु॒षीमा॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ The man, her pledge, must by the hand be taken when he hath cried, She is a Brah
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/04_yAmAhustArakaiShA_vikeshIti.md">
 <details open><summary><h3>०४ यामाहुस्तारकैषा विकेशीति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -301,14 +301,14 @@ She whom they call the star with loosened tresses, descending as. misfortune on 
 </div>
 
 ## ०५ ब्रह्मचारी चरति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/05_brahmachArI_charati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/05_brahmachArI_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्र॑ह्मचा॒री च॑रति॒ वेवि॑ष॒द्विषः॒ स दे॒वानां॑ भव॒त्येक॒मङ्ग॑म्।  
 तेन॑ जा॒यामन्व॑विन्द॒द्बृह॒स्पतिः॒ सोमे॑न नी॒तां जु॒ह्वं१॒॑ न दे॑वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/05_brahmachArI_charati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/05_brahmachArI_charati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -317,7 +317,7 @@ She whom they call the star with loosened tresses, descending as. misfortune on 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/05_brahmachArI_charati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/05_brahmachArI_charati.md">
 <details open><summary><h3>०५ ब्रह्मचारी चरति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -366,14 +366,14 @@ Active in duty serves the Brahmachari: he is a member of the Gods' own body. Thr
 </div>
 
 ## ०६ देवा वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/06_devA_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/06_devA_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा वा ए॒तस्या॑मवदन्त॒ पूर्वे॑ सप्तऋ॒षय॒स्तप॑सा॒ ये नि॑षे॒दुः।  
 भी॒मा जा॒या ब्रा॑ह्म॒णस्योप॑नीता दु॒र्धां द॑धाति पर॒मे व्यो॑मन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/06_devA_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/06_devA_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -382,7 +382,7 @@ Active in duty serves the Brahmachari: he is a member of the Gods' own body. Thr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/06_devA_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/06_devA_vA.md">
 <details open><summary><h3>०६ देवा वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -442,14 +442,14 @@ Thus spake of her those Gods of old, Seven Rishis, who sate them down to their a
 </div>
 
 ## ०७ ये गर्भा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/07_ye_garbhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/07_ye_garbhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये गर्भा॑ अव॒पद्य॑न्ते॒ जग॒द्यच्चा॑पलु॒प्यते॑।  
 वी॒रा ये तृ॒ह्यन्ते॑ मि॒थो ब्र॑ह्मजा॒या हि॑नस्ति॒ तान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/07_ye_garbhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/07_ye_garbhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -458,7 +458,7 @@ Thus spake of her those Gods of old, Seven Rishis, who sate them down to their a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/07_ye_garbhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/07_ye_garbhA.md">
 <details open><summary><h3>०७ ये गर्भा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -508,14 +508,14 @@ When infants die, untimely born, when herds of cattle waste away, When heroes st
 </div>
 
 ## ०८ उत यत्पतयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/08_uta_yatpatayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/08_uta_yatpatayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒त यत्पत॑यो॒ दश॑ स्त्रि॒याः पूर्वे॒ अब्रा॑ह्मणाः।  
 ब्र॒ह्मा चे॒द्धस्त॒मग्र॑ही॒त्स ए॒व पति॑रेक॒धा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/08_uta_yatpatayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/08_uta_yatpatayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -524,7 +524,7 @@ When infants die, untimely born, when herds of cattle waste away, When heroes st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/08_uta_yatpatayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/08_uta_yatpatayo.md">
 <details open><summary><h3>०८ उत यत्पतयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -571,14 +571,14 @@ Even if ten former husbands--none a Brahman--had espoused a dame, And then a Bra
 </div>
 
 ## ०९ ब्राह्मण एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/09_brAhmaNa_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/09_brAhmaNa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रा॑ह्म॒ण ए॒व पति॒र्न रा॑ज॒न्यो॒३॒॑ न वैश्यः॑।  
 तत्सूर्यः॑ प्रब्रु॒वन्ने॑ति प॒ञ्चभ्यो॑ मान॒वेभ्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/09_brAhmaNa_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/09_brAhmaNa_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -587,7 +587,7 @@ Even if ten former husbands--none a Brahman--had espoused a dame, And then a Bra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/09_brAhmaNa_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/09_brAhmaNa_eva.md">
 <details open><summary><h3>०९ ब्राह्मण एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -636,14 +636,14 @@ Not Vaisya, not Rajanya, no, the Brahman is indeed her lord: This Surya in his c
 </div>
 
 ## १० पुनर्वै देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/10_punarvai_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/10_punarvai_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुन॒र्वै दे॒वा अ॑ददुः॒ पुन॑र्मनु॒ष्या॑ अददुः।  
 राजा॑नः स॒त्यं गृ॑ह्णा॒ना ब्र॑ह्मजा॒यां पुन॑र्ददुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/10_punarvai_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/10_punarvai_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -652,7 +652,7 @@ Not Vaisya, not Rajanya, no, the Brahman is indeed her lord: This Surya in his c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/10_punarvai_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/10_punarvai_devA.md">
 <details open><summary><h3>१० पुनर्वै देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -700,14 +700,14 @@ So then the Gods restored her, so men gave the woman back again. Princes who kep
 </div>
 
 ## ११ पुनर्दाय ब्रह्मजायाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॑न॒र्दाय॑ ब्रह्मजा॒यां कृ॒त्वा दे॒वैर्नि॑किल्बि॒षम्।  
 ऊर्जं॑ पृथि॒व्या भ॒क्त्वोरु॑गा॒यमुपा॑सते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -716,7 +716,7 @@ So then the Gods restored her, so men gave the woman back again. Princes who kep
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/11_punardAya_brahmajAyAm.md">
 <details open><summary><h3>११ पुनर्दाय ब्रह्मजायाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -764,14 +764,14 @@ Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, Th
 </div>
 
 ## १२ नास्य जाया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/12_nAsya_jAyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/12_nAsya_jAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नास्य॑ जा॒या श॑तवा॒ही क॑ल्या॒णी तल्प॒मा श॑ये।  
 यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/12_nAsya_jAyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/12_nAsya_jAyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -780,7 +780,7 @@ Having restored the Brahman's wife, and freed them, with Gods' aid, from sin, Th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/12_nAsya_jAyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/12_nAsya_jAyA.md">
 <details open><summary><h3>१२ नास्य जाया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -828,14 +828,14 @@ No lovely wife who brings her dower in hundreds rests upon his bed, Within whose
 </div>
 
 ## १३ न विकर्णः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/13_na_vikarNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/13_na_vikarNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न वि॑क॒र्णः पृ॒थुशि॑रा॒स्तस्मि॒न्वेश्म॑नि जायते।  
 यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/13_na_vikarNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/13_na_vikarNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -844,7 +844,7 @@ No lovely wife who brings her dower in hundreds rests upon his bed, Within whose
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/13_na_vikarNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/13_na_vikarNaH.md">
 <details open><summary><h3>१३ न विकर्णः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -890,14 +890,14 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 </div>
 
 ## १४ नास्य क्षत्ता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/14_nAsya_xattA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/14_nAsya_xattA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नास्य॑ क्ष॒त्ता नि॒ष्कग्री॑वः सू॒नाना॑मेत्यग्र॒तः।  
 यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/14_nAsya_xattA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/14_nAsya_xattA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -906,7 +906,7 @@ No broad-browed calf with wide-set ears is ever in his homestead born. Within wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/14_nAsya_xattA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/14_nAsya_xattA.md">
 <details open><summary><h3>१४ नास्य क्षत्ता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -953,14 +953,14 @@ No steward, golden-necklaced, goes before the meat-trays of the man. Within whos
 </div>
 
 ## १५ नास्य श्वेतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/15_nAsya_shvetaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/15_nAsya_shvetaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नास्य॑ श्वे॒तः कृ॑ष्ण॒कर्णो॑ धु॒रि यु॒क्तो म॑हीयते।  
 यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/15_nAsya_shvetaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/15_nAsya_shvetaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -969,7 +969,7 @@ No steward, golden-necklaced, goes before the meat-trays of the man. Within whos
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/15_nAsya_shvetaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/15_nAsya_shvetaH.md">
 <details open><summary><h3>१५ नास्य श्वेतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1014,14 +1014,14 @@ No black-eared courser, white of hue, moves proudly, harnessed to his car, In wh
 </div>
 
 ## १६ नास्य क्षेत्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/16_nAsya_xetre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/16_nAsya_xetre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नास्य॒ क्षेत्रे॑ पुष्क॒रिणी॑ ना॒ण्डीकं॑ जायते॒ बिस॑म्।  
 यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/16_nAsya_xetre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/16_nAsya_xetre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1030,7 +1030,7 @@ No black-eared courser, white of hue, moves proudly, harnessed to his car, In wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/16_nAsya_xetre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/16_nAsya_xetre.md">
 <details open><summary><h3>१६ नास्य क्षेत्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1077,14 +1077,14 @@ No lily grows with oval bulbs, no lotus-pool is in his field, In whose dominion 
 </div>
 
 ## १७ नास्मै पृश्निम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नास्मै॒ पृश्निं॒ वि दु॑हन्ति॒ येऽस्या॒ दोह॑मु॒पास॑ते।  
 यस्मि॑न्रा॒ष्ट्रे नि॑रु॒ध्यते॑ ब्रह्मजा॒याचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1093,7 +1093,7 @@ No lily grows with oval bulbs, no lotus-pool is in his field, In whose dominion 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/17_nAsmai_pRshnim.md">
 <details open><summary><h3>१७ नास्मै पृश्निम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1139,14 +1139,14 @@ The men whose task it is to milk drain not the brindled cow for him, In whose do
 </div>
 
 ## १८ नास्य धेनुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/18_nAsya_dhenuH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/017_brahmajAyA/18_nAsya_dhenuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नास्य॑ धे॒नुः क॑ल्या॒णी नान॒ड्वान्त्स॑हते॒ धुर॑म्।  
 विजा॑नि॒र्यत्र॑ ब्राह्म॒णो रात्रिं॒ वस॑ति पा॒पया॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/18_nAsya_dhenuH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/017_brahmajAyA/18_nAsya_dhenuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1155,7 +1155,7 @@ The men whose task it is to milk drain not the brindled cow for him, In whose do
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/18_nAsya_dhenuH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/017_brahmajAyA/18_nAsya_dhenuH.md">
 <details open><summary><h3>१८ नास्य धेनुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

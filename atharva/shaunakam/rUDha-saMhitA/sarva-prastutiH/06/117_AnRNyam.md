@@ -2,7 +2,7 @@
 title = "११७ आनृण्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/_index.md">
 <details open><summary><h2>११७ आनृण्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 </div>
 
 ## ०१ अपमित्यमप्रतीत्तं यदस्मि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि।  
 इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न्वि॒चृतं॑ वेत्थ॒ सर्वा॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 444; Griffith, i. 309.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/01_apamityamapratIttaM_yadasmi.md">
 <details open><summary><h3>०१ अपमित्यमप्रतीत्तं यदस्मि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -117,14 +117,14 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 </div>
 
 ## ०२ इहैव सन्तः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/02_ihaiva_santaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्।  
 अ॑प॒मित्य॑ धा॒न्य१॒॑ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/02_ihaiva_santaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -133,7 +133,7 @@ That which I eat, a debt which still is owing, the tribute due to Yama, which su
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/02_ihaiva_santaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/02_ihaiva_santaH.md">
 <details open><summary><h3>०२ इहैव सन्तः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -187,14 +187,14 @@ Still dwelling here we give again this present; we send it forth, the living fro
 </div>
 
 ## ०३ अनृणा अस्मिन्ननृणाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन्तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म।  
 ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न्प॒थो अ॑नृ॒णा आ क्षि॑येम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -203,7 +203,7 @@ Still dwelling here we give again this present; we send it forth, the living fro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/117_AnRNyam/03_anRNA_asminnanRNAH.md">
 <details open><summary><h3>०३ अनृणा अस्मिन्ननृणाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

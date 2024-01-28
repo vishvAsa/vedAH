@@ -2,7 +2,7 @@
 title = "१०४ गौः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/_index.md">
 <details open><summary><h2>१०४ गौः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 </div>
 
 ## ०१ कः पृश्निम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/104_gauH/01_kaH_pRshnim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/104_gauH/01_kaH_pRshnim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कः पृश्निं॑ धे॒नुं वरु॑णेन द॒त्तामथ॑र्वणे सु॒दुघां॒ नित्य॑वत्साम्।  
 बृह॒स्पति॑ना स॒ख्यं᳡ जुषा॒णो य॑थाव॒शं त॒न्वः᳡ कल्पयाति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/104_gauH/01_kaH_pRshnim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/104_gauH/01_kaH_pRshnim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 41, 116; Griffith, i. 379.—Cf. above, v. 11, introduction.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/01_kaH_pRshnim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/104_gauH/01_kaH_pRshnim.md">
 <details open><summary><h3>०१ कः पृश्निम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

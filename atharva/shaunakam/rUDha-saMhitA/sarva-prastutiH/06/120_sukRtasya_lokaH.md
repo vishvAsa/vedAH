@@ -2,7 +2,7 @@
 title = "१२० सुकृतस्य लोकः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/_index.md">
 <details open><summary><h2>१२० सुकृतस्य लोकः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 442; Grill, 72, 173; Griffith, i. 311; Bloomfield, 165, 5
 </div>
 
 ## ०१ यदन्तरिक्षं पृथिवीमुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒न्तरि॑क्षं पृथि॒वीमु॒त द्यां यन्मा॒तरं॑ पि॒तरं॑ वा जिहिंसि॒म।  
 अ॒यं तस्मा॒द्गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 442; Grill, 72, 173; Griffith, i. 311; Bloomfield, 165, 5
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/01_yadantarixaM_pRthivImuta.md">
 <details open><summary><h3>०१ यदन्तरिक्षं पृथिवीमुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or ou
 </div>
 
 ## ०२ भूमिर्मातादितिर्नो जनित्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः।  
 द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ If we have injured Air, or Earth, or Heaven, if we have wronged our Mother or ou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/02_bhUmirmAtAditirno_janitram.md">
 <details open><summary><h3>०२ भूमिर्मातादितिर्नो जनित्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Earth is our Mother, Aditi our birth-place: our brother Air save us from impreca
 </div>
 
 ## ०३ यत्रा सुहार्दः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
 अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Earth is our Mother, Aditi our birth-place: our brother Air save us from impreca
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/120_sukRtasya_lokaH/03_yatrA_suhArdaH.md">
 <details open><summary><h3>०३ यत्रा सुहार्दः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

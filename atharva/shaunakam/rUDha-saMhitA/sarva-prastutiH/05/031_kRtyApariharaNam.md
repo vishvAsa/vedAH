@@ -2,7 +2,7 @@
 title = "०३१ कृत्यापरिहरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/_index.md">
 <details open><summary><h2>०३१ कृत्यापरिहरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A counter-charm against the incantations of an enemy
 </div>
 
 ## ०१ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/01_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्मि॒श्रधा॑न्ये।  
 आ॒मे मां॒से कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/01_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/01_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A counter-charm against the incantations of an enemy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/01_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/01_yAM_te.md">
 <details open><summary><h3>०१ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ The spell that they have cast for thee on unbaked dish or ming- led meal, The wi
 </div>
 
 ## ०२ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/02_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/02_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुः कृ॑क॒वाका॑व॒जे वा॒ यां कु॑री॒रिणि॑।  
 अव्यां॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/02_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/02_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ The spell that they have cast for thee on unbaked dish or ming- led meal, The wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/02_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/02_yAM_te.md">
 <details open><summary><h3>०२ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 </div>
 
 ## ०३ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/03_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/03_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुरेक॑शफे पशू॒नामु॑भ॒याद॑ति।  
 ग॑र्द॒भे कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/03_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/03_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ The spell that they have cast for thee on jungle-cock, goat, horned ram, The wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/03_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/03_yAM_te.md">
 <details open><summary><h3>०३ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -224,14 +224,14 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 </div>
 
 ## ०४ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/04_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/04_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुर॑मू॒लायां॑ वल॒गं वा॑ नरा॒च्याम्।  
 क्षेत्रे॑ ते कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/04_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/04_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -240,7 +240,7 @@ The spell that they have cast upon thy beast that hath uncloven hooves, The ass 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/04_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/04_yAM_te.md">
 <details open><summary><h3>०४ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -287,14 +287,14 @@ The secret spell upon thy plants Amula or Narachi, spell That they have cast upo
 </div>
 
 ## ०५ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/05_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/05_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुर्गार्ह॑पत्ये पूर्वा॒ग्नावु॒त दु॒श्चितः॑।  
 शाला॑यां कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/05_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/05_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -303,7 +303,7 @@ The secret spell upon thy plants Amula or Narachi, spell That they have cast upo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/05_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/05_yAM_te.md">
 <details open><summary><h3>०५ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -349,14 +349,14 @@ The spell that wicked men have cast on thine original household- fire, And on th
 </div>
 
 ## ०६ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/06_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/06_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुः स॒भायां॒ यां च॒क्रुर॑धि॒देव॑ने।  
 अ॒क्षेषु॑ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/06_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/06_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -365,7 +365,7 @@ The spell that wicked men have cast on thine original household- fire, And on th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/06_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/06_yAM_te.md">
 <details open><summary><h3>०६ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -411,14 +411,14 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 </div>
 
 ## ०७ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/07_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/07_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुः सेना॑यां॒ यां च॒क्रुरि॑ष्वायु॒धे।  
 दु॑न्दु॒भौ कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/07_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/07_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -427,7 +427,7 @@ The spell that they have cast upon thy public room thy gambl- ing-board, Spell t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/07_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/07_yAM_te.md">
 <details open><summary><h3>०७ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -475,14 +475,14 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 </div>
 
 ## ०८ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/08_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/08_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ कृ॒त्यां कूपे॑ऽवद॒धुः श्म॑शा॒ने वा॑ निच॒ख्नुः।  
 सद्म॑नि कृ॒त्यां यां च॒क्रुः पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/08_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/08_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -491,7 +491,7 @@ The spell that they have cast upon thine army or thy shafts and arms, Spell they
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/08_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/08_yAM_te.md">
 <details open><summary><h3>०८ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -540,14 +540,14 @@ Charm they have laid within thy well or buried in the burning- ground, Charm the
 </div>
 
 ## ०९ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/09_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/09_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुः पु॑रुषा॒स्थे अ॒ग्नौ संक॑सुके च॒ याम्।  
 म्रो॒कं नि॑र्दा॒हं क्र॒व्यादं॒ पुनः॒ प्रति॑ हरामि॒ ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/09_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/09_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -556,7 +556,7 @@ Charm they have laid within thy well or buried in the burning- ground, Charm the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/09_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/09_yAM_te.md">
 <details open><summary><h3>०९ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -605,14 +605,14 @@ The spell that they have wrought for thee in flickering fire of human bones,-- M
 </div>
 
 ## १० अपथेना जभारैणाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑थे॒ना ज॑भारैणां॒ तां प॒थेतः प्र हि॑ण्मसि।  
 अधी॑रो मर्या॒धीरे॑भ्यः॒ सं ज॑भा॒राचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -621,7 +621,7 @@ The spell that they have wrought for thee in flickering fire of human bones,-- M
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/10_apathenA_jabhAraiNAm.md">
 <details open><summary><h3>१० अपथेना जभारैणाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -674,14 +674,14 @@ He brought this by no proper path, by the right path we drive it back. The fool 
 </div>
 
 ## ११ यश्चकार न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
 च॒कार॑ भ॒द्रम॒स्मभ्य॑मभ॒गो भग॑वद्भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -690,7 +690,7 @@ He brought this by no proper path, by the right path we drive it back. The fool 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/11_yashchakAra_na.md">
 <details open><summary><h3>११ यश्चकार न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -740,14 +740,14 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 </div>
 
 ## १२ कृत्याकृतं वलगिनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॑त्या॒कृतं वल॒गिनं॑ मू॒लिनं॑ शपथे॒य्य॑म्।  
 इन्द्र॒स्तं ह॑न्तु मह॒ता व॒धेना॒ग्निर्वि॑ध्यत्व॒स्तया॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -756,7 +756,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. Unluc
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/031_kRtyApariharaNam/12_kRtyAkRtaM_valaginam.md">
 <details open><summary><h3>१२ कृत्याकृतं वलगिनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

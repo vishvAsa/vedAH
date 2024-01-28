@@ -2,7 +2,7 @@
 title = "०१८ सुरक्षा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/_index.md">
 <details open><summary><h2>०१८ सुरक्षा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for security and peace on all sides
 </div>
 
 ## ०१ अग्निं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/01_agniM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/01_agniM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निं ते वसु॑वन्तमृच्छन्तु।  
 ये मा॑ऽघा॒यवः॒ प्राच्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/01_agniM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/01_agniM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for security and peace on all sides
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/01_agniM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/01_agniM_te.md">
 <details open><summary><h3>०१ अग्निं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 </div>
 
 ## ०२ वायुं तेन्तरिक्षवन्तमृच्छन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॒युं ते॒३॒॑न्तरि॑क्षवन्तमृच्छन्तु।  
 ये मा॑घा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Let those who vex me from the eastern region, sinners, praise Agni followed by t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/02_vAyuM_tentarixavantamRchChantu.md">
 <details open><summary><h3>०२ वायुं तेन्तरिक्षवन्तमृच्छन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 </div>
 
 ## ०३ सोमं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/03_somaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/03_somaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोमं॒ ते रु॒द्रव॑न्तमृच्छन्तु।  
 ये मा॑ऽघा॒यवो॒ दक्षि॑णाया दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/03_somaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/03_somaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Let those who vex me from this quarter, sinners, praise Vayu compassed by the Ai
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/03_somaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/03_somaM_te.md">
 <details open><summary><h3>०३ सोमं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -226,14 +226,14 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 </div>
 
 ## ०४ वरुणं त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/04_varuNaM_ta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/04_varuNaM_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वरु॑णं॒ त आ॑दि॒त्यव॑न्तमृच्छन्तु।  
 ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/04_varuNaM_ta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/04_varuNaM_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -242,7 +242,7 @@ Let those who vex me from the southern quarter, sinners, sing praise to Soma wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/04_varuNaM_ta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/04_varuNaM_ta.md">
 <details open><summary><h3>०४ वरुणं त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -288,14 +288,14 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 </div>
 
 ## ०५ सूर्यं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/05_sUryaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/05_sUryaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूर्यं॒ ते द्यावा॑पृथि॒वीव॑न्तमृच्छन्तु।  
 ये मा॑ऽघा॒यव॑ प्र॒तीच्याः॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/05_sUryaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/05_sUryaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -304,7 +304,7 @@ Let those who vex me from this quarter, sinners, praise Varuna connected with Ad
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/05_sUryaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/05_sUryaM_te.md">
 <details open><summary><h3>०५ सूर्यं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -350,14 +350,14 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 </div>
 
 ## ०६ अपस्त ओषधीमतीरृच्छन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पस्त ओष॑धीमतीरृच्छन्तु।  
 ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -366,7 +366,7 @@ Let those who vex me from the western quarter, sinners, praise Surya linked with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/06_apasta_oShadhImatIrRchChantu.md">
 <details open><summary><h3>०६ अपस्त ओषधीमतीरृच्छन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -411,14 +411,14 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 </div>
 
 ## ०७ विश्वकर्माणं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/07_vishvakarmANaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒श्वक॑र्माणं॒ ते स॑प्तऋ॒षिव॑न्तमृच्छन्तु।  
 ये मा॑ऽघा॒यव॒ उदी॑च्या दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/07_vishvakarmANaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -427,7 +427,7 @@ Let those who vex me from this quarter, sinners give praise to plants' associate
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/07_vishvakarmANaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/07_vishvakarmANaM_te.md">
 <details open><summary><h3>०७ विश्वकर्माणं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -474,14 +474,14 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 </div>
 
 ## ०८ इन्द्रं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/08_indraM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/08_indraM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रं॒ ते म॒रुत्व॑न्तमृच्छन्तु।  
 ये मा॑ऽघा॒यव॑ ए॒तस्या॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/08_indraM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/08_indraM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -490,7 +490,7 @@ Let those who from the north side vex me, sinners, praise Visvakarman with the S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/08_indraM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/08_indraM_te.md">
 <details open><summary><h3>०८ इन्द्रं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -535,14 +535,14 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 </div>
 
 ## ०९ प्रजापतिं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/09_prajApatiM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/09_prajApatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑तिं॒ ते प्र॒जन॑नवन्तमृच्छन्तु।  
 ये मा॑ऽघा॒यवो॑ ध्रु॒वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/09_prajApatiM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/09_prajApatiM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -551,7 +551,7 @@ Let those who vex me from this quarter, sinners, praise Indra with the Marut hos
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/09_prajApatiM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/09_prajApatiM_te.md">
 <details open><summary><h3>०९ प्रजापतिं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -596,14 +596,14 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </div>
 
 ## १० बृहस्पतिं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/10_bRhaspatiM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/018_suraxA/10_bRhaspatiM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पतिं॒ ते वि॒श्वदे॑ववन्तमृच्छन्तु।  
 ये मा॑ऽघा॒यव॑ ऊ॒र्ध्वाया॑ दि॒शो᳡ऽभि॒दासा॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/10_bRhaspatiM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/018_suraxA/10_bRhaspatiM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -612,7 +612,7 @@ Let those who vex me from the nadir, sinners, extol Prajapati of genial power.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/10_bRhaspatiM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/018_suraxA/10_bRhaspatiM_te.md">
 <details open><summary><h3>१० बृहस्पतिं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

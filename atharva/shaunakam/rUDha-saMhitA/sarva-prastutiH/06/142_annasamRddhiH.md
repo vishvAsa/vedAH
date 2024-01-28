@@ -2,7 +2,7 @@
 title = "१४२ अन्नसमृद्धिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/_index.md">
 <details open><summary><h2>१४२ अन्नसमृद्धिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 463; Zimmer, p. 237; Grill, 66, 177; Griffith, i. 324; Bl
 </div>
 
 ## ०१ उच्छ्रयस्व बहुर्भव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उच्छ्र॑यस्व ब॒हुर्भ॑व॒ स्वेन॒ मह॑सा यव।  
 मृ॑णी॒हि विश्वा॒ पात्रा॑णि॒ मा त्वा॑ दि॒व्याशनि॑र्वधीत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 463; Zimmer, p. 237; Grill, 66, 177; Griffith, i. 324; Bl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/01_uchChrayasva_bahurbhava.md">
 <details open><summary><h3>०१ उच्छ्रयस्व बहुर्भव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 </div>
 
 ## ०२ आशृण्वन्तं यवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑शृ॒ण्वन्तं॒ यवं॑ दे॒वं यत्र॑ त्वाच्छा॒वदा॑मसि।  
 तदुच्छ्र॑यस्व॒ द्यौरि॑व समु॒द्र इ॑वै॒ध्यक्षि॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Spring high, O Barley, and become much through thine own magnificence: Burst all
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/02_AshRNvantaM_yavam.md">
 <details open><summary><h3>०२ आशृण्वन्तं यवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -159,14 +159,14 @@ As we invite and call to thee, Barley, a God who heareth us, Raise thyself up li
 </div>
 
 ## ०३ अक्षितास्त उपसदोऽक्षिताः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अक्षि॑तास्त उप॒सदोऽक्षि॑ताः सन्तु रा॒शयः॑।  
 पृ॒णन्तो॒ अक्षि॑ताः सन्त्व॒त्तारः॑ स॒न्त्वक्षि॑ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -175,7 +175,7 @@ As we invite and call to thee, Barley, a God who heareth us, Raise thyself up li
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/142_annasamRddhiH/03_axitAsta_upasado-xitAH.md">
 <details open><summary><h3>०३ अक्षितास्त उपसदोऽक्षिताः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

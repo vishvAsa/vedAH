@@ -2,7 +2,7 @@
 title = "००८ कामात्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/_index.md">
 <details open><summary><h2>००८ कामात्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A man's love-charm
 </div>
 
 ## ०१ यथा वृक्षम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/01_yathA_vRxam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/01_yathA_vRxam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ वृ॒क्षं लिबु॑जा सम॒न्तं प॑रिषस्व॒जे।  
 ए॒वा परि॑ ष्वजस्व॒ मां यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/01_yathA_vRxam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/01_yathA_vRxam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A man's love-charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/01_yathA_vRxam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/01_yathA_vRxam.md">
 <details open><summary><h3>०१ यथा वृक्षम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Like as the creeper throws, her arms on every side around the tree, So hold thou
 </div>
 
 ## ०२ यथा सुपर्णः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/02_yathA_suparNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/02_yathA_suparNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ सुप॒र्णः प्र॒पत॑न्प॒क्षौ नि॒हन्ति॒ भूम्या॑म्।  
 ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/02_yathA_suparNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/02_yathA_suparNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Like as the creeper throws, her arms on every side around the tree, So hold thou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/02_yathA_suparNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/02_yathA_suparNaH.md">
 <details open><summary><h3>०२ यथा सुपर्णः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ As, when he mounts, the eagle strikes his pinions downward on the earth, So do I
 </div>
 
 ## ०३ यथेमे द्यावापृथिवी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑।  
 ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ As, when he mounts, the eagle strikes his pinions downward on the earth, So do I
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/008_kAmAtmA/03_yatheme_dyAvApRthivI.md">
 <details open><summary><h3>०३ यथेमे द्यावापृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

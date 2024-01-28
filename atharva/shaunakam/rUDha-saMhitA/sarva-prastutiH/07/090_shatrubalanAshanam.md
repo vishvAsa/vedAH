@@ -2,7 +2,7 @@
 title = "०९० शत्रुबलनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/_index.md">
 <details open><summary><h2>०९० शत्रुबलनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 </div>
 
 ## ०१ अपि वृश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपि॑ वृश्च पुराण॒वद्व्र॒तते॑रिव गुष्पि॒तम्।  
 ओजो॑ दा॒स्यस्य॑ दम्भय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/01_api_vRshcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 37, 107; Griffith, i. 374 and 475.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/01_api_vRshcha.md">
 <details open><summary><h3>०१ अपि वृश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 </div>
 
 ## ०२ वयं तदस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै।  
 म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Tear thou asunder, as of old, like tangles of a creeping plant. Demolish thou th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/02_vayaM_tadasya.md">
 <details open><summary><h3>०२ वयं तदस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,7 +173,7 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 </div>
 
 ## ०३ यथा शेपो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ शेपो॑ अ॒पाया॑तै स्त्री॒षु चास॒दना॑वयाः ।  
@@ -181,7 +181,7 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 यदात॑त॒मव॒ तत् त॑नु॒ यदुत्त॑तं॒ नि तत् त॑नु ॥३॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/03_yathA_shepo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/090_shatrubalanAshanam/03_yathA_shepo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ May we with Indra's help divide the gathered treasure of the foe. I, by the law 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/090_shatrubalanAshanam/03_yathA_shepo.md">
 <details open><summary><h3>०३ यथा शेपो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

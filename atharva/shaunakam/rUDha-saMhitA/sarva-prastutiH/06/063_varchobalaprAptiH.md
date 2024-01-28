@@ -2,7 +2,7 @@
 title = "०६३ वर्चोबलप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/_index.md">
 <details open><summary><h2>०६३ वर्चोबलप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ The symbolical liberation of a sacrificial victim
 </div>
 
 ## ०१ यत्ते देवी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/01_yatte_devI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/01_yatte_devI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ दे॒वी निरृ॑तिराब॒बन्ध॒ दाम॑ ग्री॒वास्व॑विमो॒क्यं यत्।  
 तत्ते॒ वि ष्या॒म्यायु॑षे॒ वर्च॑से॒ बला॑यादोम॒दमन्न॑मद्धि॒ प्रसू॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/01_yatte_devI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/01_yatte_devI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ The symbolical liberation of a sacrificial victim
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/01_yatte_devI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/01_yatte_devI.md">
 <details open><summary><h3>०१ यत्ते देवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ That collar round thy neck, not to be loosened, which Nirriti the Goddess bound 
 </div>
 
 ## ०२ नमोऽस्तु ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/02_namo-stu_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/02_namo-stu_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमो॑ऽस्तु ते निरृते तिग्मतेजोऽय॒स्मया॒न्वि चृ॑ता बन्धपा॒शान्।  
 य॒मो मह्यं॒ पुन॒रित्त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/02_namo-stu_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/02_namo-stu_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ That collar round thy neck, not to be loosened, which Nirriti the Goddess bound 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/02_namo-stu_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/02_namo-stu_te.md">
 <details open><summary><h3>०२ नमोऽस्तु ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,14 +181,14 @@ To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrough
 </div>
 
 ## ०३ अयस्मये द्रुपदे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्।  
 य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -197,7 +197,7 @@ To thee, sharp-pointed Nirriti, be homage! Loose thou the binding fetters wrough
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/03_ayasmaye_drupade.md">
 <details open><summary><h3>०३ अयस्मये द्रुपदे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ Compassed by death which comes in thousand manners, here art thou fastened to th
 </div>
 
 ## ०४ संसमिद्युवसे वृषन्नग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 संस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ।  
 इ॒डस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ Compassed by death which comes in thousand manners, here art thou fastened to th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/063_varchobalaprAptiH/04_saMsamidyuvase_vRShannagne.md">
 <details open><summary><h3>०४ संसमिद्युवसे वृषन्नग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

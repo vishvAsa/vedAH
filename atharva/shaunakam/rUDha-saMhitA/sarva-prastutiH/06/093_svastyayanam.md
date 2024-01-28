@@ -2,7 +2,7 @@
 title = "०९३ स्वस्त्ययनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/_index.md">
 <details open><summary><h2>०९३ स्वस्त्ययनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ Translated: Muir, iv2. 333; Ludwig, p. 322; Griffith, i. 296.
 </div>
 
 ## ०१ यमो मृत्युरघमारो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒मो मृ॒त्युर॑घमा॒रो नि॑रृ॒थो ब॒भ्रुः श॒र्वोऽस्ता॒ नील॑शिखण्डः।  
 दे॑वज॒नाः सेन॑योत्तस्थि॒वांस॒स्ते अ॒स्माकं॒ परि॑ वृञ्जन्तु वी॒रान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ Translated: Muir, iv2. 333; Ludwig, p. 322; Griffith, i. 296.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/01_yamo_mRtyuraghamAro.md">
 <details open><summary><h3>०१ यमो मृत्युरघमारो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Yama, Death direly fatal, the Destroyer, with his black crest, Sarva the tawny a
 </div>
 
 ## ०२ मनसा होमैर्हरसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/02_manasA_homairharasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/02_manasA_homairharasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मन॑सा॒ होमै॒र्हर॑सा घृ॒तेन॑ श॒र्वायास्त्र॑ उ॒त राज्ञे॑ भ॒वाय॑।  
 न॑म॒स्ये᳡भ्यो॒ नम॑ एभ्यः कृणोम्य॒न्यत्रा॒स्मद॒घवि॑षा नयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/02_manasA_homairharasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/02_manasA_homairharasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Yama, Death direly fatal, the Destroyer, with his black crest, Sarva the tawny a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/02_manasA_homairharasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/02_manasA_homairharasA.md">
 <details open><summary><h3>०२ मनसा होमैर्हरसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ With mind, burnt offerings, butter, and libation, to royal Bhava and the archer 
 </div>
 
 ## ०३ त्रायध्वं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/03_trAyadhvaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/093_svastyayanam/03_trAyadhvaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद्विश्वे॑ देवा मरुतो विश्ववेदसः।  
 अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/03_trAyadhvaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/093_svastyayanam/03_trAyadhvaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ With mind, burnt offerings, butter, and libation, to royal Bhava and the archer 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/03_trAyadhvaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/093_svastyayanam/03_trAyadhvaM_no.md">
 <details open><summary><h3>०३ त्रायध्वं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

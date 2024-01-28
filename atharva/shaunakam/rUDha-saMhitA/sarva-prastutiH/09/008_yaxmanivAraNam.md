@@ -2,7 +2,7 @@
 title = "००८ यक्ष्मनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/_index.md">
 <details open><summary><h2>००८ यक्ष्मनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A charm for the cure of various diseases connected with Consumption
 </div>
 
 ## ०१ शीर्षक्तिं शीर्षामयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शीर्ष॒क्तिं शी॑र्षाम॒यं क॑र्णशू॒लं वि॑लोहि॒तम्।  
 सर्वं॑ शीर्ष॒ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A charm for the cure of various diseases connected with Consumption
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/01_shIrShaktiM_shIrShAmayam.md">
 <details open><summary><h3>०१ शीर्षक्तिं शीर्षामयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Each pain and ache that racks the head, earache, and erysipelas,. All malady tha
 </div>
 
 ## ०२ कर्णाभ्यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कर्णा॑भ्यां ते॒ कङ्कू॑षेभ्यः कर्णशू॒लं वि॒सल्प॑कम्।  
 सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Each pain and ache that racks the head, earache, and erysipelas,. All malady tha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/02_karNAbhyAM_te.md">
 <details open><summary><h3>०२ कर्णाभ्यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ From both thine ears, from parts thereof, thine earache, and the throbbing pain,
 </div>
 
 ## ०३ यस्य हेतोः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ हे॒तोः प्र॒च्यव॑ते॒ यक्ष्मः॑ कर्ण॒त आ॑स्य॒तः।  
 सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ From both thine ears, from parts thereof, thine earache, and the throbbing pain,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/03_yasya_hetoH.md">
 <details open><summary><h3>०३ यस्य हेतोः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -225,14 +225,14 @@ So that Consumption may depart forth from thine ears and from. thy mouth, All ma
 </div>
 
 ## ०४ यः कृणोति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः कृ॒णोति॑ प्र॒मोत॑म॒न्धं कृ॒णोति॒ पूरु॑षम्।  
 सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -241,7 +241,7 @@ So that Consumption may depart forth from thine ears and from. thy mouth, All ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/04_yaH_kRNoti.md">
 <details open><summary><h3>०४ यः कृणोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -290,14 +290,14 @@ The malady that makes one deaf, the malady that makes one blind, All malady that
 </div>
 
 ## ०५ अङ्गभेदमङ्गज्वरं विश्वाङ्ग्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ङ्गभे॒दम॑ङ्गज्व॒रं वि॑श्वा॒ङ्ग्यं᳡ वि॒सल्प॑कम्।  
 सर्वं॑ शीर्ष॒र्ण्यं᳡ ते॒ रोगं॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -306,7 +306,7 @@ The malady that makes one deaf, the malady that makes one blind, All malady that
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/05_angabhedamangajvaraM_vishvAngyam.md">
 <details open><summary><h3>०५ अङ्गभेदमङ्गज्वरं विश्वाङ्ग्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -354,14 +354,14 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 </div>
 
 ## ०६ यस्य भीमः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ भी॒मः प्र॑तीका॒श उ॑द्वे॒पय॑ति॒ पूरु॑षम्।  
 त॒क्मानं॑ वि॒श्वशा॑रदं ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -370,7 +370,7 @@ The throbbing pain in all thy limbs that rends thy frame with fever-throes, All 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/06_yasya_bhImaH.md">
 <details open><summary><h3>०६ यस्य भीमः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -417,14 +417,14 @@ The malady whose awful look makes a man quiver with alarm, Fever whom every Autu
 </div>
 
 ## ०७ य ऊरू
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/07_ya_UrU.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/07_ya_UrU.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ऊ॒रू अ॑नु॒सर्प॒त्यथो॒ एति॑ ग॒वीनि॑के।  
 यक्ष्मं॑ ते अ॒न्तरङ्गे॑भ्यो ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/07_ya_UrU.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/07_ya_UrU.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -433,7 +433,7 @@ The malady whose awful look makes a man quiver with alarm, Fever whom every Autu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/07_ya_UrU.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/07_ya_UrU.md">
 <details open><summary><h3>०७ य ऊरू ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -480,14 +480,14 @@ Disease that creeps about the thighs and, after, reaches both the groins, Consum
 </div>
 
 ## ०८ यदि कामादपकामाद्धृदयाज्जायते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ कामा॑दपका॒माद्धृद॑या॒ज्जाय॑ते॒ परि॑।  
 हृ॒दो ब॒लास॒मङ्गे॑भ्यो ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -496,7 +496,7 @@ Disease that creeps about the thighs and, after, reaches both the groins, Consum
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/08_yadi_kAmAdapakAmAddhRdayAjjAyate.md">
 <details open><summary><h3>०८ यदि कामादपकामाद्धृदयाज्जायते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -541,14 +541,14 @@ If the disease originates from love, from hatred, from the heart, Forth from the
 </div>
 
 ## ०९ हरिमाणं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/09_harimANaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/09_harimANaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॑रि॒माणं॑ ते॒ अङ्गे॑भ्यो॒ऽप्वाम॑न्त॒रोदरा॑त्।  
 य॑क्ष्मो॒धाम॒न्तरा॒त्मनो॑ ब॒हिर्निर्म॑न्त्रयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/09_harimANaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/09_harimANaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -557,7 +557,7 @@ If the disease originates from love, from hatred, from the heart, Forth from the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/09_harimANaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/09_harimANaM_te.md">
 <details open><summary><h3>०९ हरिमाणं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -607,14 +607,14 @@ The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisi
 </div>
 
 ## १० आसो बलासो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/10_Aso_balAso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/10_Aso_balAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आसो॑ ब॒लासो॒ भव॑तु॒ मूत्रं॑ भवत्वा॒मय॑त्।  
 यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/10_Aso_balAso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/10_Aso_balAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -623,7 +623,7 @@ The yellow Jaundice from thy limbs, and Colic from the parts within, And Phthisi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/10_Aso_balAso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/10_Aso_balAso.md">
 <details open><summary><h3>१० आसो बलासो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -668,14 +668,14 @@ Let wasting malady turn to dust, become the water of disease. I have evoked the 
 </div>
 
 ## ११ बहिर्बिलं निर्द्रवतु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब॒हिर्बिलं॒ निर्द्र॑वतु॒ काहा॑बाहं॒ तवो॒दरा॑त्।  
 यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -684,7 +684,7 @@ Let wasting malady turn to dust, become the water of disease. I have evoked the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/11_bahirbilaM_nirdravatu.md">
 <details open><summary><h3>११ बहिर्बिलं निर्द्रवतु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -734,14 +734,14 @@ Forth from the hollow let it run, and rumbling sounds from thine inside. I have 
 </div>
 
 ## १२ उदरात्ते क्लोम्नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒दरा॑त्ते क्लो॒म्नो नाभ्या॒ हृद॑या॒दधि॑।  
 यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -750,7 +750,7 @@ Forth from the hollow let it run, and rumbling sounds from thine inside. I have 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/12_udarAtte_klomno.md">
 <details open><summary><h3>१२ उदरात्ते क्लोम्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -798,14 +798,14 @@ Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have e
 </div>
 
 ## १३ याः सीमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याः सी॒मानं॑ विरु॒जन्ति॑ मू॒र्धानं॒ प्रत्य॑र्ष॒णीः।  
 अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -814,7 +814,7 @@ Forth from thy belly and thy lungs, forth from thy navel and thy heart. I have e
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/13_yAH_sImAnam.md">
 <details open><summary><h3>१३ याः सीमानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -863,14 +863,14 @@ The penetrating stabs of pain which rend asunder crown and head, Let them depart
 </div>
 
 ## १४ या हृदयमुपर्षन्त्यनुतन्वन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या हृद॑यमुप॒र्षन्त्य॑नुत॒न्वन्ति॒ कीक॑साः।  
 अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -879,7 +879,7 @@ The penetrating stabs of pain which rend asunder crown and head, Let them depart
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/14_yA_hRdayamuparShantyanutanvanti.md">
 <details open><summary><h3>१४ या हृदयमुपर्षन्त्यनुतन्वन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -927,14 +927,14 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 </div>
 
 ## १५ याः पार्श्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याः पा॒र्श्वे उ॑प॒र्षन्त्य॑नु॒निक्ष॑न्ति पृ॒ष्टीः।  
 अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -943,7 +943,7 @@ The pangs that stab the heart and reach the breast-bone and connected parts, Let
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/15_yAH_pArshve.md">
 <details open><summary><h3>१५ याः पार्श्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -989,14 +989,14 @@ The stabs that penetrate the sides and pierce their way along the ribs, Let them
 </div>
 
 ## १६ यास्तिरश्चीः उपर्षन्त्यर्षणीर्वक्षणासु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यास्ति॒रश्चीः॑ उप॒र्षन्त्य॑र्ष॒णीर्व॒क्षणा॑सु ते।  
 अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1005,7 +1005,7 @@ The stabs that penetrate the sides and pierce their way along the ribs, Let them
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/16_yAstirashchIH_uparShantyarShaNIrvaxaNAsu.md">
 <details open><summary><h3>१६ यास्तिरश्चीः उपर्षन्त्यर्षणीर्वक्षणासु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1051,14 +1051,14 @@ The penetrating pangs that pierce thy stomach as they shoot across, Let them dep
 </div>
 
 ## १७ या गुदा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/17_yA_gudA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/17_yA_gudA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या गुदा॑ अनु॒सर्प॑न्त्या॒न्त्राणि॑ मो॒हय॑न्ति च।  
 अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/17_yA_gudA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/17_yA_gudA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1067,7 +1067,7 @@ The penetrating pangs that pierce thy stomach as they shoot across, Let them dep
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/17_yA_gudA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/17_yA_gudA.md">
 <details open><summary><h3>१७ या गुदा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1116,14 +1116,14 @@ The pains that through the bowels creep, disordering the inward parts, Let them 
 </div>
 
 ## १८ या मज्ज्ञो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/18_yA_majjno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/18_yA_majjno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या म॒ज्ज्ञो नि॒र्धय॑न्ति॒ परूं॑षि विरु॒जन्ति॑ च।  
 अहिं॑सन्तीरनाम॒या निर्द्र॑वन्तु ब॒हिर्बिल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/18_yA_majjno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/18_yA_majjno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1132,7 +1132,7 @@ The pains that through the bowels creep, disordering the inward parts, Let them 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/18_yA_majjno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/18_yA_majjno.md">
 <details open><summary><h3>१८ या मज्ज्ञो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1179,14 +1179,14 @@ The pains that suck the marrow out, and rend and tear the bones apart, May they 
 </div>
 
 ## १९ ये अङ्गानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/19_ye_angAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/19_ye_angAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये अङ्गा॑नि म॒दय॑न्ति॒ यक्ष्मा॑सो रोप॒णास्तव॑।  
 यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/19_ye_angAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/19_ye_angAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1195,7 +1195,7 @@ The pains that suck the marrow out, and rend and tear the bones apart, May they 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/19_ye_angAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/19_ye_angAni.md">
 <details open><summary><h3>१९ ये अङ्गानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1242,14 +1242,14 @@ Consumptions with their Colic pains which make thy limbs insensible I have evoke
 </div>
 
 ## २० विसल्पस्य विद्रधस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑स॒ल्पस्य॑ विद्र॒धस्य॑ वातीका॒रस्य॑ वाल॒जेः।  
 यक्ष्मा॑णां॒ सर्वे॑षां वि॒षं निर॑वोचम॒हं त्वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1258,7 +1258,7 @@ Consumptions with their Colic pains which make thy limbs insensible I have evoke
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/20_visalpasya_vidradhasya.md">
 <details open><summary><h3>२० विसल्पस्य विद्रधस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1305,14 +1305,14 @@ Of piercing pain, of abscesses, rheumatic ache, ophthalmia-- I have evoked the p
 </div>
 
 ## २१ पादाभ्यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पादा॑भ्यां ते॒ जानु॑भ्यां॒ श्रोणि॑भ्यां॒ परि॒ भंस॑सः।  
 अनू॑कादर्ष॒णीरु॒ष्णिहा॑भ्यः शी॒र्ष्णो रोग॑मनीनशम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1321,7 +1321,7 @@ Of piercing pain, of abscesses, rheumatic ache, ophthalmia-- I have evoked the p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/21_pAdAbhyAM_te.md">
 <details open><summary><h3>२१ पादाभ्यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1370,14 +1370,14 @@ I have dispelled the piercing pains from feet, knees, hips, and hinder parts, An
 </div>
 
 ## २२ सं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/22_saM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/008_yaxmanivAraNam/22_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं ते॑ शी॒र्ष्णः क॒पाला॑नि॒ हृद॑यस्य च॒ यो वि॒धुः।  
 उ॒द्यन्ना॑दित्य र॒श्मिभिः॑ शी॒र्ष्णो रोग॑मनीनशोऽङ्गभे॒दम॑शीशमः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/22_saM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/008_yaxmanivAraNam/22_saM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1386,7 +1386,7 @@ I have dispelled the piercing pains from feet, knees, hips, and hinder parts, An
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/22_saM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/008_yaxmanivAraNam/22_saM_te.md">
 <details open><summary><h3>२२ सं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

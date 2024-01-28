@@ -2,7 +2,7 @@
 title = "+१२"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/_index.md">
 <details open><summary><h2>XII. Book the twelfth ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३० सांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/_index.md">
 <details open><summary><h2>०३० सांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ On the means to obtain immunity from taxation in the next world
 </div>
 
 ## ०१ सहृदयं साम्मनस्यमविद्वेषम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सहृ॑दयं सांमन॒स्यमवि॑द्वेषं कृणोमि वः।  
 अ॒न्यो अ॒न्यम॒भि ह॑र्यत व॒त्सं जा॒तमि॑वा॒घ्न्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ On the means to obtain immunity from taxation in the next world
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/01_sahRdayaM_sAmmanasyamavidveSham.md">
 <details open><summary><h3>०१ सहृदयं साम्मनस्यमविद्वेषम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 </div>
 
 ## ०२ अनुव्रतः पितुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑व्रतः पि॒तुः पु॒त्रो मा॒त्रा भ॑वतु॒ संम॑नाः।  
 जा॒या पत्ये॒ मधु॑मतीं॒ वाचं॑ वदतु शन्ति॒वाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Freedom from hate I bring to you, concord and unanimity. Love one another as the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/02_anuvrataH_pituH.md">
 <details open><summary><h3>०२ अनुव्रतः पितुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 </div>
 
 ## ०३ मा भ्राता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा भ्राता॒ भ्रात॑रं द्विक्ष॒न्मा स्वसा॑रमु॒त स्वसा॑।  
 स॒म्यञ्चः॒ सव्र॑ता भू॒त्वा वाचं॑ वदत भ॒द्रया॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/03_mA_bhrAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ One-minded with his mother let the son be loyal to his sire. Let the wife, calm 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/03_mA_bhrAtA.md">
 <details open><summary><h3>०३ मा भ्राता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -226,14 +226,14 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 </div>
 
 ## ०४ येन देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/04_yena_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/04_yena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ दे॒वा न वि॒यन्ति॒ नो च॑ विद्वि॒षते॑ मि॒थः।  
 तत्कृ॑ण्मो॒ ब्रह्म॑ वो गृ॒हे सं॒ज्ञानं॒ पुरु॑षेभ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/04_yena_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/04_yena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -242,7 +242,7 @@ No brother hate his brother, no sister to sister be unkind. Unanimous, with one 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/04_yena_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/04_yena_devA.md">
 <details open><summary><h3>०४ येन देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -291,14 +291,14 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 </div>
 
 ## ०५ ज्यायस्वन्तश्चित्तिनो मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज्याय॑स्वन्तश्चि॒त्तिनो॒ मा वि यौ॑ष्ट संरा॒धय॑न्तः॒ सधु॑रा॒श्चर॑न्तः।  
 अ॒न्यो अ॒न्यस्मै॑ व॒ल्गु वद॑न्त॒ एत॑ सध्री॒चीना॑न्वः॒ संम॑नसस्कृणोमि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -307,7 +307,7 @@ That spell through which Gods sever not, nor ever bear each other hate, That spe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/05_jyAyasvantashchittino_mA.md">
 <details open><summary><h3>०५ ज्यायस्वन्तश्चित्तिनो मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -367,14 +367,14 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 </div>
 
 ## ०६ समानी प्रपा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/06_samAnI_prapA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑मा॒नी प्र॒पा स॒ह वो॑ऽन्नभा॒गः स॑मा॒ने योक्त्रे॑ स॒ह वो॑ युनज्मि।  
 स॒म्यञ्चो॒ऽग्निं स॑पर्यता॒रा नाभि॑मिवा॒भितः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/06_samAnI_prapA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -383,7 +383,7 @@ Intelligent, submissive, rest united, friendly and kind, bearing the yoke togeth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/06_samAnI_prapA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/06_samAnI_prapA.md">
 <details open><summary><h3>०६ समानी प्रपा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -434,14 +434,14 @@ Let what you drink, your share of food be common together, with one common bond 
 </div>
 
 ## ०७ सध्रीचीनान्वः सम्मनसस्कृणोम्येकश्नुष्टीन्त्संवननेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑ध्री॒चीना॑न्वः॒ संम॑नसस्कृणो॒म्येक॑श्नुष्टीन्त्सं॒वन॑नेन॒ सर्वा॑न्।  
 दे॒वा इ॑वा॒मृतं॒ रक्ष॑माणाः सा॒यंप्रा॑तः सौमन॒सो वो॑ अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -450,7 +450,7 @@ Let what you drink, your share of food be common together, with one common bond 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/030_sAMmanasyam/07_sadhrIchInAnvaH_sammanasaskRNomyekashnuShTIntsa.md">
 <details open><summary><h3>०७ सध्रीचीनान्वः सम्मनसस्कृणोम्येकश्नुष्टीन्त्संवननेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

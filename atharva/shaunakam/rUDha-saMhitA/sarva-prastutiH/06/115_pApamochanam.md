@@ -2,7 +2,7 @@
 title = "११५ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/_index.md">
 <details open><summary><h2>११५ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith
 </div>
 
 ## ०१ यद्विद्वांसो यदविद्वांस
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्।  
 यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 443; Zimmer, p. 182 (vss. 2, 3); Grill, 46, 172; Griffith
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/01_yadvidvAMso_yadavidvAMsa.md">
 <details open><summary><h3>०१ यद्विद्वांसो यदविद्वांस ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 </div>
 
 ## ०२ यदि जाग्रद्यदि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ जाग्र॒द्यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्।  
 भू॒तं मा॒ तस्मा॒द्भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/02_yadi_jAgradyadi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/02_yadi_jAgradyadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ Whatever wrong we wittingly or in our ignorance have done, Do ye deliver us ther
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/02_yadi_jAgradyadi.md">
 <details open><summary><h3>०२ यदि जाग्रद्यदि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 </div>
 
 ## ०३ द्रुपदादिव मुमुचानः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्रु॑प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव।  
 पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ If I, a sinner, when awake or sleeping have committed sin, Free me therefrom as 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/115_pApamochanam/03_drupadAdiva_mumuchAnaH.md">
 <details open><summary><h3>०३ द्रुपदादिव मुमुचानः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

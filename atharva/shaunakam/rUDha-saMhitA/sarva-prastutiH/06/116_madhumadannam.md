@@ -2,7 +2,7 @@
 title = "११६ मधुमदन्नम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/_index.md">
 <details open><summary><h2>११६ मधुमदन्नम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 443; Griffith, i. 309.
 </div>
 
 ## ०१ यद्यामं चक्रुर्निखनन्तो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑।  
 वै॑वस्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 443; Griffith, i. 309.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/01_yadyAmaM_chakrurnikhananto.md">
 <details open><summary><h3>०१ यद्यामं चक्रुर्निखनन्तो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ The wealth which husbandmen aforetime, digging, like men who find their food wit
 </div>
 
 ## ०२ वैवस्वतः कृणवद्भागधेयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑वस्व॒तः कृ॑णवद्भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति।  
 मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न्यद्वा॑ पि॒ताऽप॑राद्धो जिही॒डे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ The wealth which husbandmen aforetime, digging, like men who find their food wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/02_vaivasvataH_kRNavadbhAgadheyam.md">
 <details open><summary><h3>०२ वैवस्वतः कृणवद्भागधेयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ May he, Vaivasvata, prepare our portion; May he whose share is mead with mead be
 </div>
 
 ## ०३ यदीदं मातुर्यदि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्।  
 याव॑न्तो अ॒स्मान्पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ May he, Vaivasvata, prepare our portion; May he whose share is mead with mead be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/116_madhumadannam/03_yadIdaM_mAturyadi.md">
 <details open><summary><h3>०३ यदीदं मातुर्यदि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "१२६ दुन्दुभिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/_index.md">
 <details open><summary><h2>१२६ दुन्दुभिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: by the RV. translators; and Griffith, 1.315—See also Bergaigne-Hen
 </div>
 
 ## ०१ उप श्वासय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/01_upa_shvAsaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/01_upa_shvAsaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं॒ जग॑त्।  
 स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/01_upa_shvAsaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/01_upa_shvAsaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: by the RV. translators; and Griffith, 1.315—See also Bergaigne-Hen
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/01_upa_shvAsaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/01_upa_shvAsaya.md">
 <details open><summary><h3>०१ उप श्वासय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Send forth thy voice aloud through earth and heaven, and let the world in all it
 </div>
 
 ## ०२ आ क्रन्दय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/02_A_krandaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/02_A_krandaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्टन दुरि॒ता बाध॑मानः।  
 अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/02_A_krandaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/02_A_krandaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Send forth thy voice aloud through earth and heaven, and let the world in all it
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/02_A_krandaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/02_A_krandaya.md">
 <details open><summary><h3>०२ आ क्रन्दय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ Thunder out strength and fill us full of vigour, yea, thunder forth and drive aw
 </div>
 
 ## ०३ प्रामूं जयाभीमे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रामूं ज॑या॒भी॒३॒॑मे ज॑यन्तु केतु॒मद्दु॑न्दु॒भिर्वा॑वदीतु।  
 समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ Thunder out strength and fill us full of vigour, yea, thunder forth and drive aw
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/126_dundubhiH/03_prAmUM_jayAbhIme.md">
 <details open><summary><h3>०३ प्रामूं जयाभीमे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१३ दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>०१३ दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A youth's Investiture ceremony (godanam)
 </div>
 
 ## ०१ आयुर्दा अग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑यु॒र्दा अ॑ग्ने ज॒रसं॑ वृणा॒नो घृ॒तप्र॑तीको घृ॒तपृ॑ष्ठो अग्ने।  
 घृ॒तं पी॒त्वा मधु॒ चारु॒ गव्यं॑ पि॒तेव॑ पु॒त्रान॒भि र॑क्षतादि॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A youth's Investiture ceremony (godanam)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/01_AyurdA_agne.md">
 <details open><summary><h3>०१ आयुर्दा अग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -122,14 +122,14 @@ Strength-giver, winning lengthened life, O Agni, with face and back shining with
 </div>
 
 ## ०२ परि धत्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ धत्त ध॒त्त नो॒ वर्च॑से॒मं ज॒रामृ॑त्युं कृणुत दी॒र्घमायुः॑।  
 बृह॒स्पतिः॒ प्राय॑छ॒द्वास॑ ए॒तत्सोमा॑य॒ राज्ञे॒ परि॑धात॒वा उ॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -138,7 +138,7 @@ Strength-giver, winning lengthened life, O Agni, with face and back shining with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/02_pari_dhatta.md">
 <details open><summary><h3>०२ परि धत्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -194,14 +194,14 @@ For us surround him, cover him with splendour, give him long life, and death whe
 </div>
 
 ## ०३ परीदं वासो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परी॒दं वासो॑ अधिथाः स्व॒स्तयेऽभू॑र्गृष्टी॒नाम॑भिशस्ति॒पा उ॑।  
 श॒तं च॒ जीव॑ श॒रदः॑ पुरू॒ची रा॒यश्च॒ पोष॑मुप॒संव्य॑यस्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -210,7 +210,7 @@ For us surround him, cover him with splendour, give him long life, and death whe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/03_parIdaM_vAso.md">
 <details open><summary><h3>०३ परीदं वासो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -274,14 +274,14 @@ Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers
 </div>
 
 ## ०४ एह्यश्मानमा तिष्ठाश्मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एह्यश्मा॑न॒मा ति॒ष्ठाश्मा॑ भवतु ते त॒नूः।  
 कृ॒ण्वन्तु॒ विश्वे॑ दे॒वा आयु॑ष्टे श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -290,7 +290,7 @@ Thou for our w eal hast clothed thee in the mantle: thou hast become our heifers
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/04_ehyashmAnamA_tiShThAshmA.md">
 <details open><summary><h3>०४ एह्यश्मानमा तिष्ठाश्मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -342,14 +342,14 @@ Come hither, stand upon the stone: thy body shall become a stone. The Universal 
 </div>
 
 ## ०५ यस्य ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ ते॒ वासः॑ प्रथमवा॒स्यं॑१ हरा॑म॒स्तं त्वा॒ विश्वे॑ऽवन्तु दे॒वाः।  
 तं त्वा॒ भ्रात॑रः सु॒वृधा॒ वर्ध॑मान॒मनु॑ जायन्तां ब॒हवः॒ सुजा॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -358,7 +358,7 @@ Come hither, stand upon the stone: thy body shall become a stone. The Universal 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/013_dIrghAyuHprAptiH/05_yasya_te.md">
 <details open><summary><h3>०५ यस्य ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

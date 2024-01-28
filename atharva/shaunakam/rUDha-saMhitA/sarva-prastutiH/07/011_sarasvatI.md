@@ -2,7 +2,7 @@
 title = "०११ सरस्वती"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/_index.md">
 <details open><summary><h2>०११ सरस्वती ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A prayer to protect corn from lightning and drought
 </div>
 
 ## ०१ यस्ते पृथु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/011_sarasvatI/01_yaste_pRthu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/011_sarasvatI/01_yaste_pRthu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॑ पृ॒थु स्त॑नयि॒त्नुर्य ऋ॒ष्वो दैवः॑ के॒तुर्विश्व॑मा॒भूष॑ती॒दम्।  
 मा नो॑ वधीर्वि॒द्युता॑ देव स॒स्यं मोत व॑धी र॒श्मिभिः॒ सूर्य॑स्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/011_sarasvatI/01_yaste_pRthu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/011_sarasvatI/01_yaste_pRthu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A prayer to protect corn from lightning and drought
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/01_yaste_pRthu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/011_sarasvatI/01_yaste_pRthu.md">
 <details open><summary><h3>०१ यस्ते पृथु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०११ श्रेयःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/_index.md">
 <details open><summary><h2>०११ श्रेयःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Counter-charm, with an amulet, against an enemy's spell
 </div>
 
 ## ०१ दूष्या दूषिरसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दूष्या॒ दूषि॑रसि हे॒त्या हे॒तिर॑सि मे॒न्या मे॒निर॑सि।  
 आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Counter-charm, with an amulet, against an enemy's spell
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/01_dUShyA_dUShirasi.md">
 <details open><summary><h3>०१ दूष्या दूषिरसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 </div>
 
 ## ०२ स्रक्त्योऽसि प्रतिसरोऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्र॒क्त्योऽसि॑ प्रतिस॒रोऽसि॑ प्रत्यभि॒चर॑णोऽसि।  
 आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Dart against dart, destroyer of destruction, thou art the missile sent to meet t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/02_sraktyo-si_pratisaro-si.md">
 <details open><summary><h3>०२ स्रक्त्योऽसि प्रतिसरोऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 </div>
 
 ## ०३ प्रति तमभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रति॒ तम॒भि च॑र॒ यो ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः।  
 आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Sraktya art thou, an Amulet art thou, a counter-charm of spells, Reach thy super
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/03_prati_tamabhi.md">
 <details open><summary><h3>०३ प्रति तमभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -230,14 +230,14 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 </div>
 
 ## ०४ सूरिरसि वर्चोधा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सू॒रिर॑सि वर्चो॒धा अ॑सि तनू॒पानो॑ ऽसि।  
 आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -246,7 +246,7 @@ Use spells against the man we hate, against the man who hateth us. Reach thy sup
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/04_sUrirasi_varchodhA.md">
 <details open><summary><h3>०४ सूरिरसि वर्चोधा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -293,14 +293,14 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 </div>
 
 ## ०५ शुक्रोऽसि भ्राजोऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शु॒क्रोऽसि॑ भ्रा॒जोऽसि॒ स्व॑रसि॒ ज्योति॑रसि।  
 आ॑प्नु॒हि श्रेयां॑स॒मति॑ स॒मं क्रा॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -309,7 +309,7 @@ A prince art thou, giver of speech, thou art our bodies' strong defence. Reach t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/011_shreyaHprAptiH/05_shukro-si_bhrAjo-si.md">
 <details open><summary><h3>०५ शुक्रोऽसि भ्राजोऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०८२ जायाकामना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/_index.md">
 <details open><summary><h2>०८२ जायाकामना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to win a bride
 </div>
 
 ## ०१ आगच्छत आगतस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒गच्छ॑त॒ आग॑तस्य॒ नाम॑ गृह्णाम्याय॒तः।  
 इन्द्र॑स्य वृत्र॒घ्नो व॑न्वे वास॒वस्य॑ श॒तक्र॑तोः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to win a bride
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/01_AgachChata_Agatasya.md">
 <details open><summary><h3>०१ आगच्छत आगतस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 </div>
 
 ## ०२ येन सूर्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ सू॒र्यां सा॑वि॒त्रीम॒श्विनो॒हतुः॑ प॒था।  
 तेन॒ माम॑ब्रवी॒द्भगो॑ जा॒यामा व॑हता॒दिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/02_yena_sUryAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/02_yena_sUryAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ I call the name of him who comes, hath come, and still draws- nigh to us. Foe-sl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/02_yena_sUryAm.md">
 <details open><summary><h3>०२ येन सूर्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the As
 </div>
 
 ## ०३ यस्तेऽङ्कुशो वसुदानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॑ऽङ्कु॒शो व॑सु॒दानो॑ बृ॒हन्नि॑न्द्र हिर॒ण्ययः॑।  
 तेना॑ जनीय॒ते जा॒यां मह्यं॑ धेहि शचीपते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Thus Bhaga spake to me: Let him bring thee a consort by the path. Whereon the As
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/082_jAyAkAmanA/03_yaste-nkusho_vasudAno.md">
 <details open><summary><h3>०३ यस्तेऽङ्कुशो वसुदानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

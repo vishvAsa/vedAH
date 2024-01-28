@@ -2,7 +2,7 @@
 title = "०१६ शत्रुबाधनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/_index.md">
 <details open><summary><h2>०१६ शत्रुबाधनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer and charm against demons
 </div>
 
 ## ०१ ये ऽमावास्यां३
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ऽमा॑वा॒स्यां॑३ रात्रि॑मु॒दस्थु॑र्व्रा॒जम॒त्त्रिणः॑।  
 अ॒ग्निस्तु॒रीयो॑ यातु॒हा सो अ॒स्मभ्य॒मधि॑ ब्रवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer and charm against demons
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/01_ye-mAvAsyAM3.md">
 <details open><summary><h3>०१ ये ऽमावास्यां३ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ May potent Agni who destroys the demons bless and shelter us. From greedy fiends
 </div>
 
 ## ०२ सीसायाध्याह वरुणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सीसा॒याध्या॑ह॒ वरु॑णः॒ सीसा॑या॒ग्निरुपा॑वति।  
 सीसं॑ म॒ इन्द्रः॒ प्राय॑च्छ॒त्तद॒ङ्ग या॑तु॒चात॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ May potent Agni who destroys the demons bless and shelter us. From greedy fiends
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/02_sIsAyAdhyAha_varuNaH.md">
 <details open><summary><h3>०२ सीसायाध्याह वरुणः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 </div>
 
 ## ०३ इदं विष्कन्धम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं विष्क॑न्धं सहत इ॒दं बा॑धते अ॒त्त्रिणः॑।  
 अ॒नेन॒ विश्वा॑ ससहे॒ या जा॒तानि॑ पिशा॒च्याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Varuna's benison hath blessed the lead, and Agni strengthens it. Indra hath give
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/03_idaM_viShkandham.md">
 <details open><summary><h3>०३ इदं विष्कन्धम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -243,14 +243,14 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 </div>
 
 ## ०४ यदि नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/04_yadi_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/016_shatrubAdhanam/04_yadi_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ नो॒ गां हंसि॒ यद्यश्वं॒ यदि॒ पूरु॑षम्।  
 तं त्वा॒ सीसे॑न विध्यामो॒ यथा॒ नो ऽसो॒ अवी॑रहा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/04_yadi_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/016_shatrubAdhanam/04_yadi_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -259,7 +259,7 @@ This overcomes Vishkandha, -this drives the voracious fiends away: By means of t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/04_yadi_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/016_shatrubAdhanam/04_yadi_no.md">
 <details open><summary><h3>०४ यदि नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

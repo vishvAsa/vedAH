@@ -2,7 +2,7 @@
 title = "०२९ राष्ट्राभिवर्धनम्, सपत्नक्षयणं च"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/_index.md">
 <details open><summary><h2>०२९ राष्ट्राभिवर्धनम्, सपत्नक्षयणं च ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to secure the supremacy of a dethroned King
 </div>
 
 ## ०१ अभीवर्तेन मणिना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑भीव॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे।  
 तेना॒स्मान्ब्र॑ह्मणस्पते॒ ऽभि रा॒ष्ट्राय॑ वर्धय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to secure the supremacy of a dethroned King
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/01_abhIvartena_maNinA.md">
 <details open><summary><h3>०१ अभीवर्तेन मणिना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 </div>
 
 ## ०२ अभिवृत्य सपत्नानभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः।  
 अ॒भि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ With that victorious Amulet which strengthened Indra's power- and might Do thou,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/02_abhivRtya_sapatnAnabhi.md">
 <details open><summary><h3>०२ अभिवृत्य सपत्नानभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 </div>
 
 ## ०३ अभि त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्।  
 अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ Subduing those who rival us, subduing all malignities, Withstand the man who men
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/03_abhi_tvA.md">
 <details open><summary><h3>०३ अभि त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 </div>
 
 ## ०४ अभीवर्तो अभिभवः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑भीव॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः।  
 रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ Soma and Savitar the God have strengthened and exalted thee: All elements have a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/04_abhIvarto_abhibhavaH.md">
 <details open><summary><h3>०४ अभीवर्तो अभिभवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -297,14 +297,14 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 </div>
 
 ## ०५ उदसौ सूर्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑।  
 यथा॒हं श॑त्रु॒हो ऽसा॑न्यसप॒त्नः स॑पत्न॒हा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -313,7 +313,7 @@ Slayer of rivals, vanquisher, may that victorious Amulet Be bound on me for rega
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/05_udasau_sUryo.md">
 <details open><summary><h3>०५ उदसौ सूर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -361,14 +361,14 @@ Yon Sun hath mounted up on high, and this my word hath mounted up That I may smi
 </div>
 
 ## ०६ सपत्नक्षयणो वृषाभिराष्ट्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑पत्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः।  
 यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -377,7 +377,7 @@ Yon Sun hath mounted up on high, and this my word hath mounted up That I may smi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/029_rAShTrAbhivardhanam_sapatnaxayaNaM_cha/06_sapatnaxayaNo_vRShAbhirAShTro.md">
 <details open><summary><h3>०६ सपत्नक्षयणो वृषाभिराष्ट्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

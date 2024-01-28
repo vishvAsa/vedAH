@@ -2,7 +2,7 @@
 title = "०४८ रात्रिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/_index.md">
 <details open><summary><h2>०४८ रात्रिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Night for protection
 </div>
 
 ## ०१ अथो यानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/01_atho_yAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/01_atho_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अथो॒ यानि॑ च॒ यस्मा॑ ह॒ यानि॑ चा॒न्तः प॑री॒णहि॑।  
 तानि॑ ते॒ परि॑ दद्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/01_atho_yAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/01_atho_yAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Night for protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/01_atho_yAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/01_atho_yAni.md">
 <details open><summary><h3>०१ अथो यानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -122,14 +122,14 @@ Then all that we accumulate, all that the treasure-chest contains,. All this do 
 </div>
 
 ## ०२ रात्रि मातरुषसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रात्रि॒ मात॑रु॒षसे॑ नः॒ परि॑ देहि।  
 उ॒षो नो॒ अह्ने॒ परि॑ ददा॒त्वह॒स्तुभ्यं॑ विभावरि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/02_rAtri_mAtaruShase.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -138,7 +138,7 @@ Then all that we accumulate, all that the treasure-chest contains,. All this do 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/02_rAtri_mAtaruShase.md">
 <details open><summary><h3>०२ रात्रि मातरुषसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -188,14 +188,14 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 </div>
 
 ## ०३ यत्किं चेदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/03_yatkiM_chedam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/03_yatkiM_chedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्किं चे॒दं प॒तय॑ति॒ यत्किं चे॒दं स॑रीसृ॒पम्।  
 यत्किं च॒ पर्व॑ताया॒सत्वं॒ तस्मा॒त्त्वं रा॑त्रि पाहि नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/03_yatkiM_chedam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/03_yatkiM_chedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -204,7 +204,7 @@ Entrust thou us to Dawn, O Mother Night. May Dawn entrust us to the Day, and Day
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/03_yatkiM_chedam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/03_yatkiM_chedam.md">
 <details open><summary><h3>०३ यत्किं चेदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -267,14 +267,14 @@ Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever 
 </div>
 
 ## ०४ सा पश्चात्पाहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सा प॒श्चात्पा॑हि॒ सा पु॒रः सोत्त॒राद॑ध॒रादु॒त।  
 गो॑पा॒य नो॑ विभावरि स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/04_sA_pashchAtpAhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/04_sA_pashchAtpAhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -283,7 +283,7 @@ Whatever flying thing be here, whatever thing that creeps and. crawls. Whatever 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/04_sA_pashchAtpAhi.md">
 <details open><summary><h3>०४ सा पश्चात्पाहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -328,14 +328,14 @@ So guard thou us from west and east, protect us from the north and south. O sple
 </div>
 
 ## ०५ ये रात्रिमनुतिष्ठन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये रात्रि॑मनु॒तिष्ठ॑न्ति॒ ये च॑ भू॒तेषु॒ जाग्र॑ति।  
 प॒शून्ये सर्वा॒न्रक्ष॑न्ति॒ ते न॑ आ॒त्मसु॑ जाग्रति॒ ते नः॑ प॒शुषु॑ जाग्रति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -344,7 +344,7 @@ So guard thou us from west and east, protect us from the north and south. O sple
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/05_ye_rAtrimanutiShThanti.md">
 <details open><summary><h3>०५ ये रात्रिमनुतिष्ठन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -403,14 +403,14 @@ They who are followers of Night, and they who watch o'er living things. They who
 </div>
 
 ## ०६ वेद वै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/06_veda_vai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/048_rAtriH/06_veda_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वेद॒ वै रा॑त्रि ते॒ नाम॑ घृ॒ताची॒ नाम॒ वा अ॑सि।  
 तां त्वां भ॒रद्वा॑जो वेद॒ सा नो॑ वि॒त्तेऽधि॑ जाग्रति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/06_veda_vai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/048_rAtriH/06_veda_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -419,7 +419,7 @@ They who are followers of Night, and they who watch o'er living things. They who
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/06_veda_vai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/048_rAtriH/06_veda_vai.md">
 <details open><summary><h3>०६ वेद वै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

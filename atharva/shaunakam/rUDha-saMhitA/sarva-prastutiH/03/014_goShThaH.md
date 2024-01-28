@@ -2,7 +2,7 @@
 title = "०१४ गोष्ठः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/_index.md">
 <details open><summary><h2>०१४ गोष्ठः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction on a cattle pen
 </div>
 
 ## ०१ सं वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/01_saM_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/01_saM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं वो॑ गो॒ष्ठेन॑ सु॒षदा॒ सं र॒य्या सं सुभू॑त्या।  
 अह॑र्जातस्य॒ यन्नाम॒ तेना॑ वः॒ सं सृ॑जामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/01_saM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/01_saM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction on a cattle pen
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/01_saM_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/01_saM_vo.md">
 <details open><summary><h3>०१ सं वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the
 </div>
 
 ## ०२ सं वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/02_saM_vaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/02_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं वः॑ सृजत्वर्य॒मा सं पू॒षा सं बृह॒स्पतिः॑।  
 समिन्द्रो॒ यो ध॑नंज॒यो मयि॑ पुष्यत॒ यद्वसु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/02_saM_vaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/02_saM_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ A Pen wherein to dwell at ease, abundance and prosperity, Whate'er is called the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/02_saM_vaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/02_saM_vaH.md">
 <details open><summary><h3>०२ सं वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of
 </div>
 
 ## ०३ सञ्जग्माना अबिभ्युषीरस्मिन्गोष्ठे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॑जग्मा॒ना अबि॑भ्युषीर॒स्मिन्गो॒ष्ठे क॑री॒षिणीः॑।  
 बिभ्र॑तीः सो॒म्यं मध्व॑नमी॒वा उ॒पेत॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ May Aryaman pour gifts on you, and Pushan, land Brihaspati, And Indra, winner of
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/03_sanjagmAnA_abibhyuShIrasmingoShThe.md">
 <details open><summary><h3>०३ सञ्जग्माना अबिभ्युषीरस्मिन्गोष्ठे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -248,14 +248,14 @@ Moving together, free from fear, with plenteous droppings in this pen, Bearing s
 </div>
 
 ## ०४ इहैव गाव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/04_ihaiva_gAva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/04_ihaiva_gAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव गा॑व॒ एत॑ने॒हो शके॑व पुष्यत।  
 इ॒हैवोत प्र जा॑यध्वं॒ मयि॑ सं॒ज्ञान॑मस्तु वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/04_ihaiva_gAva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/04_ihaiva_gAva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -264,7 +264,7 @@ Moving together, free from fear, with plenteous droppings in this pen, Bearing s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/04_ihaiva_gAva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/04_ihaiva_gAva.md">
 <details open><summary><h3>०४ इहैव गाव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -321,14 +321,14 @@ Come hither, to this place, O Cows: here thrive as though ye were manured. Even 
 </div>
 
 ## ०५ शिवो वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/05_shivo_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/05_shivo_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॒वो वो॑ गो॒ष्ठो भ॑वतु शारि॒शाके॑व पुष्यत।  
 इ॒हैवोत प्र जा॑यध्वं॒ मया॑ वः॒ सं सृ॑जामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/05_shivo_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/05_shivo_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -337,7 +337,7 @@ Come hither, to this place, O Cows: here thrive as though ye were manured. Even 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/05_shivo_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/05_shivo_vo.md">
 <details open><summary><h3>०५ शिवो वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -398,14 +398,14 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 </div>
 
 ## ०६ मया गावो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/06_mayA_gAvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/014_goShThaH/06_mayA_gAvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मया॑ गावो॒ गोप॑तिना सचध्वम॒यं वो॑ गो॒ष्ठ इ॒ह पो॑षयि॒ष्णुः।  
 रा॒यस्पोषे॑ण बहु॒ला भव॑न्तीर्जी॒वा जीव॑न्ती॒रुप॑ वः सदेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/06_mayA_gAvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/014_goShThaH/06_mayA_gAvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -414,7 +414,7 @@ Auspicious be this stall to you. Prosper like cultivated rice. Even here increas
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/06_mayA_gAvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/014_goShThaH/06_mayA_gAvo.md">
 <details open><summary><h3>०६ मया गावो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

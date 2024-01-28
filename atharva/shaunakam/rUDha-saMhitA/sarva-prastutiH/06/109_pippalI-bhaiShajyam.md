@@ -2,7 +2,7 @@
 title = "१०९ पिप्पली-भैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/_index.md">
 <details open><summary><h2>१०९ पिप्पली-भैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 </div>
 
 ## ०१ पिप्पली क्षिप्तभेषज्युतातिविद्धभेषजी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॑प्प॒ली क्षि॑प्तभेष॒ज्यु॒३॒॑ताति॑विद्धभेष॒जी।  
 तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 509; Zimmer, p. 389; Griffith, i. 305; Bloomfield, 21, 51
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/01_pippalI_xiptabheShajyutAtividdhabheShajI.md">
 <details open><summary><h3>०१ पिप्पली क्षिप्तभेषज्युतातिविद्धभेषजी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 </div>
 
 ## ०२ पिप्पल्यः समवदन्तायतीर्जननादधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॑प्प॒ल्यः१॒॑ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑।  
 यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ The Berry heals the missile's rent, it heals the deeply-piercing wound. The Gods
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/02_pippalyaH_samavadantAyatIrjananAdadhi.md">
 <details open><summary><h3>०२ पिप्पल्यः समवदन्तायतीर्जननादधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ When from their origin they came, the Berries spake among themselves: The man wh
 </div>
 
 ## ०३ असुरास्त्वा न्यखनन्देवास्त्वोदवपन्पुनः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 असु॑रास्त्वा॒ न्य᳡खनन्दे॒वास्त्वोद॑वप॒न्पुनः॑।  
 वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ When from their origin they came, the Berries spake among themselves: The man wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/109_pippalI-bhaiShajyam/03_asurAstvA_nyakhanandevAstvodavapanpunaH.md">
 <details open><summary><h3>०३ असुरास्त्वा न्यखनन्देवास्त्वोदवपन्पुनः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

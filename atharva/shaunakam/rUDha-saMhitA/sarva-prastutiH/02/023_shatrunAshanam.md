@@ -2,7 +2,7 @@
 title = "०२३ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/_index.md">
 <details open><summary><h2>०२३ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>VH anukramaṇī</summary>
 
@@ -17,13 +17,13 @@ It appears that hymns 20-23 were omitted--JBH
 </div>
 
 ## ०१ आपो यद्वस्तपस्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ यद्व॒स्तप॒स्तेन॒ तं प्र॑ति तपत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -31,7 +31,7 @@ It appears that hymns 20-23 were omitted--JBH
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/01_Apo_yadvastapastena.md">
 <details open><summary><h3>०१ आपो यद्वस्तपस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -75,13 +75,13 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </div>
 
 ## ०२ आपो यद्वस्हरस्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ यद्व॒स्हर॒स्तेन॒ तं प्र॑ति हरत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -89,7 +89,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/02_Apo_yadvasharastena.md">
 <details open><summary><h3>०२ आपो यद्वस्हरस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -118,13 +118,13 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </div>
 
 ## ०३ आपो यद्वोऽर्चिस्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ यद्वो॒ऽर्चिस्तेन॒ तं प्र॑त्यर्चत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -132,7 +132,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/03_Apo_yadvo-rchistena.md">
 <details open><summary><h3>०३ आपो यद्वोऽर्चिस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,13 +161,13 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </div>
 
 ## ०४ आपो यद्वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ यद्वः॑ शो॒चिस्तेन॒ तं प्र॑ति शोचत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/04_Apo_yadvaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/04_Apo_yadvaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -175,7 +175,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/04_Apo_yadvaH.md">
 <details open><summary><h3>०४ आपो यद्वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -204,13 +204,13 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </div>
 
 ## ०५ आपो यद्वस्तेजस्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ यद्व॒स्तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणुत॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -218,7 +218,7 @@ syllables in excess ⌊*svarāḍ-viṣamā*⌋.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/023_shatrunAshanam/05_Apo_yadvastejastena.md">
 <details open><summary><h3>०५ आपो यद्वस्तेजस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

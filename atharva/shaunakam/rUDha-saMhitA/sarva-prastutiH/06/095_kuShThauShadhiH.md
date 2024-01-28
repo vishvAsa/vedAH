@@ -2,7 +2,7 @@
 title = "०९५ कुष्ठौषधिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/_index.md">
 <details open><summary><h2>०९५ कुष्ठौषधिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Griffith, i. 297.
 </div>
 
 ## ०१ अश्वत्थो देवसदनस्तृतीयस्यामितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
 तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Griffith, i. 297.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/01_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>०१ अश्वत्थो देवसदनस्तृतीयस्यामितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -91,14 +91,14 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </div>
 
 ## ०२ हिरण्ययी नौरचरद्धिरण्यबन्धना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
 तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -107,7 +107,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/02_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>०२ हिरण्ययी नौरचरद्धिरण्यबन्धना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,14 +157,14 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 </div>
 
 ## ०३ गर्भो अस्योषधीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त।  
 गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -173,7 +173,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold. T
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/095_kuShThauShadhiH/03_garbho_asyoShadhInAm.md">
 <details open><summary><h3>०३ गर्भो अस्योषधीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३१ क्रिमिजम्भनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/_index.md">
 <details open><summary><h2>०३१ क्रिमिजम्भनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against all sorts of worms
 </div>
 
 ## ०१ इन्द्रस्य या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/01_indrasya_yA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/01_indrasya_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य॒ या म॒ही दृ॒षत्क्रिमे॒र्विश्व॑स्य॒ तर्ह॑णी।  
 तया॑ पिनष्मि॒ सं क्रिमी॑न्दृ॒षदा॒ खल्वाँ॑ इव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/01_indrasya_yA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/01_indrasya_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against all sorts of worms
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/01_indrasya_yA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/01_indrasya_yA.md">
 <details open><summary><h3>०१ इन्द्रस्य या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 </div>
 
 ## ०२ दृष्टमदृष्टमतृहमथो कुरूरुमतृहम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दृ॒ष्टम॒दृष्ट॑मतृह॒मथो॑ कु॒रूरु॑मतृहम्।  
 अ॒ल्गण्डू॒न्त्सर्वा॑न्छ॒लुना॒न्क्रिमी॒न्वच॑सा जम्भयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ With Indra's mighty millstone, that which crushes worms of every sort, I bray an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/02_dRShTamadRShTamatRhamatho_kurUrumatRham.md">
 <details open><summary><h3>०२ दृष्टमदृष्टमतृहमथो कुरूरुमतृहम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -178,14 +178,14 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 </div>
 
 ## ०३ अल्गण्डून्हन्मि महता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ल्गण्डू॑न्हन्मि मह॒ता व॒धेन॑ दू॒ना अदू॑ना अर॒सा अ॑भूवन्।  
 शि॒ष्टानशि॑ष्टा॒न्नि ति॑रामि वा॒चा यथा॒ क्रिमी॑णां॒ नकि॑रु॒च्छिषा॑तै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -194,7 +194,7 @@ The Seen and the Invisible, and the Kururu have I crushed: Alandus, and all Chha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/03_algaNDUnhanmi_mahatA.md">
 <details open><summary><h3>०३ अल्गण्डून्हन्मि महता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -243,14 +243,14 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 </div>
 
 ## ०४ अन्वान्त्र्यं शीर्षण्य१मथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अन्वा॑न्त्र्यं॒ शीर्ष॒ण्य॑१मथो॒ पार्ष्टे॑यं॒ क्रिमी॑न्।  
 अ॑वस्क॒वं व्य॑ध्व॒रं क्रिमी॒न्वच॑सा जम्भयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -259,7 +259,7 @@ I kill Alandus with a mighty weapon: burnt or not burnt they now have lost their
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/04_anvAntryaM_shIrShaNya1matho.md">
 <details open><summary><h3>०४ अन्वान्त्र्यं शीर्षण्य१मथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -320,14 +320,14 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 </div>
 
 ## ०५ ये क्रिमयः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/05_ye_krimayaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये क्रिम॑यः॒ पर्व॑तेषु॒ वने॒ष्वोष॑धीषु प॒शुष्व॒प्स्व॑१न्तः।  
 ये अ॒स्माकं॑ त॒न्व॑माविवि॒शुः सर्वं॒ तद्ध॑न्मि॒ जनि॑म॒ क्रिमी॑णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/05_ye_krimayaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -336,7 +336,7 @@ The worm that lives within the ribs, within the bowels, in the head. Avaskava an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/05_ye_krimayaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/031_krimijambhanam/05_ye_krimayaH.md">
 <details open><summary><h3>०५ ये क्रिमयः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

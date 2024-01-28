@@ -2,7 +2,7 @@
 title = "१०० दुःष्वप्ननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/_index.md">
 <details open><summary><h2>१०० दुःष्वप्ननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 </div>
 
 ## ०१ पर्यावर्ते दुःष्वप्न्यात्पापात्स्वप्न्यादभूत्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒र्याव॑र्ते दुः॒ष्वप्न्या॑त्पा॒पात्स्वप्न्या॒दभू॑त्याः।  
 ब्रह्मा॒हमन्त॑रं कृण्वे॒ परा॒ स्वप्न॑मुखाः॒ शुचः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 498; Henry, 40, 115; Griffith, i. 378.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/100_duHShvapnanAshanam/01_paryAvarte_duHShvapnyAtpApAtsvapnyAdabhUtyAH.md">
 <details open><summary><h3>०१ पर्यावर्ते दुःष्वप्न्यात्पापात्स्वप्न्यादभूत्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

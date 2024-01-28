@@ -2,7 +2,7 @@
 title = "००५ स्वापनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/_index.md">
 <details open><summary><h2>००५ स्वापनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A lover's sleep-charm
 </div>
 
 ## ०१ सहस्रशृङ्गो वृषभो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत्।  
 तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A lover's sleep-charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/01_sahasrashRngo_vRShabho.md">
 <details open><summary><h3>०१ सहस्रशृङ्गो वृषभो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 </div>
 
 ## ०२ न भूमिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/02_na_bhUmim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/02_na_bhUmim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न भूमिं॒ वातो॒ अति॑ वाति॒ नाति॑ पश्यति॒ कश्च॒न।  
 स्त्रिय॑श्च॒ सर्वाः॑ स्वा॒पय॒ शुन॒श्चेन्द्र॑सखा॒ चर॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/02_na_bhUmim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/02_na_bhUmim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ The Bull who hath a thousand horns, who rises up from out the sea, By him the st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/02_na_bhUmim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/02_na_bhUmim.md">
 <details open><summary><h3>०२ न भूमिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 </div>
 
 ## ०३ प्रोष्ठेशयास्तल्पेशया नारीर्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रो॑ष्ठेश॒यास्त॑ल्पेश॒या नारी॒र्या व॑ह्य॒शीव॑रीः।  
 स्त्रियो॒ याः पुण्य॑गन्धय॒स्ताः सर्वाः॑ स्वापयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Over the surface of the earth there breathes no wind, there looks. no eye. Lull 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/03_proShTheshayAstalpeshayA_nArIryA.md">
 <details open><summary><h3>०३ प्रोष्ठेशयास्तल्पेशया नारीर्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 </div>
 
 ## ०४ एजदेजदजग्रभं चक्षुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एज॑देजदजग्रभं॒ चक्षुः॑ प्रा॒णम॑जग्रभम्।  
 अङ्गा॑न्यजग्रभं॒ सर्वा॒ रात्री॑णामतिशर्व॒रे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ The woman sleeping in the court, lying without, or stretched on beds, The matron
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/04_ejadejadajagrabhaM_chaxuH.md">
 <details open><summary><h3>०४ एजदेजदजग्रभं चक्षुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 </div>
 
 ## ०५ य आस्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/05_ya_Aste.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/05_ya_Aste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आस्ते॒ यश्चर॑ति॒ यश्च॒ तिष्ठ॑न्वि॒पश्य॑ति।  
 तेषां॒ सं द॑ध्मो॒ अक्षी॑णि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/05_ya_Aste.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/05_ya_Aste.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ Each moving thing have I secured, have held and held the eye and breath. Each li
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/05_ya_Aste.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/05_ya_Aste.md">
 <details open><summary><h3>०५ य आस्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -372,14 +372,14 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 </div>
 
 ## ०६ स्वप्तु माता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/06_svaptu_mAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/06_svaptu_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वप्तु॑ मा॒ता स्वप्तु॑ पि॒ता स्वप्तु॒ श्वा स्वप्तु॑ वि॒श्पतिः॑।  
 स्वप॑न्त्वस्यै ज्ञा॒तयः॒ स्वप्त्व॒यम॒भितो॒ जनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/06_svaptu_mAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/06_svaptu_mAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -388,7 +388,7 @@ The man who sits, the man who walks, whoever stands and clearly sees Of these we
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/06_svaptu_mAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/06_svaptu_mAtA.md">
 <details open><summary><h3>०६ स्वप्तु माता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -441,14 +441,14 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 </div>
 
 ## ०७ स्वप्न स्वप्नाभिकरणेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वप्न॑ स्वप्नाभि॒कर॑णेन॒ सर्वं॒ नि ष्वा॑पया॒ जन॑म्।  
 ओ॑त्सू॒र्यम॒न्यान्त्स्वा॒पया॑व्यु॒षं जा॑गृताद॒हमिन्द्र॑ इ॒वारि॑ष्टो॒ अक्षि॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -457,7 +457,7 @@ Sleep mother, let the father sleep, sleep dog, and master of the home. Let all h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/005_svApanam/07_svapna_svapnAbhikaraNena.md">
 <details open><summary><h3>०७ स्वप्न स्वप्नाभिकरणेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

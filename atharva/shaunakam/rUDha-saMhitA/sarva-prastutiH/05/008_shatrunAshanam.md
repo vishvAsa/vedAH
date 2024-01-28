@@ -2,7 +2,7 @@
 title = "००८ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/_index.md">
 <details open><summary><h2>००८ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the discomfiture and destruction of hostile priests
 </div>
 
 ## ०१ वैकङ्कतेनेध्मेन देवेभ्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑कङ्क॒तेने॒ध्मेन॑ दे॒वेभ्य॒ आज्यं॑ वह।  
 अग्ने॒ ताँ इ॒ह मा॑दय॒ सर्व॒ आ य॑न्तु मे॒ हव॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the discomfiture and destruction of hostile priests
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/01_vaikankatenedhmena_devebhya.md">
 <details open><summary><h3>०१ वैकङ्कतेनेध्मेन देवेभ्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,7 +98,7 @@ With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful
 </div>
 
 ## ०२ इन्द्रा याहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/02_indrA_yAhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/02_indrA_yAhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒न्द्रा या॑हि मे॒ हव॑मि॒दं क॑रिष्यामि॒ तच्छृ॑णु।  
@@ -106,7 +106,7 @@ With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful
 तेभिः॑ शकेम वी॒र्यं१॒॑ जात॑वेद॒स्तनू॑वशिन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/02_indrA_yAhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/02_indrA_yAhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ With fuel of Vikankata bring molten butter to the Gods. O Agni, make them joyful
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/02_indrA_yAhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/02_indrA_yAhi.md">
 <details open><summary><h3>०२ इन्द्रा याहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ O Indra, come unto my call, This will I do. So hear it thou. Let these exertions
 </div>
 
 ## ०३ यदसावमुतो देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒साव॒मुतो॑ देवा अदे॒वः संश्चिकी॑र्षति।  
 मा तस्या॒ग्निर्ह॒व्यं वा॑क्षी॒द्धवं॑ दे॒वा अ॑स्य॒ मोप॒ गुर्ममै॒व हव॒मेत॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ O Indra, come unto my call, This will I do. So hear it thou. Let these exertions
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/03_yadasAvamuto_devA.md">
 <details open><summary><h3>०३ यदसावमुतो देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ Whatever plot from yonder, O ye Gods, that godless man would frame, Let not the 
 </div>
 
 ## ०४ अति धावतातिसरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अति॑ धावतातिसरा॒ इन्द्र॑स्य॒ वच॑सा हत।  
 अविं॒ वृक॑ इव मथ्नीत॒ स वो॒ जीव॒न्मा मो॑चि प्रा॒णम॒स्यापि॑ नह्यत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ Whatever plot from yonder, O ye Gods, that godless man would frame, Let not the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/04_ati_dhAvatAtisarA.md">
 <details open><summary><h3>०४ अति धावतातिसरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -301,14 +301,14 @@ Run, ye Fxertions, farther on By Indra's order smite and slay. As a wolf worriet
 </div>
 
 ## ०५ यममी पुरोदधिरे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यम॒मी पु॑रोदधि॒रे ब्र॒ह्माण॒मप॑भूतये।  
 इन्द्र॒ स ते॑ अधस्प॒दं तं प्रत्य॑स्यामि मृ॒त्यवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -317,7 +317,7 @@ Run, ye Fxertions, farther on By Indra's order smite and slay. As a wolf worriet
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/05_yamamI_purodadhire.md">
 <details open><summary><h3>०५ यममी पुरोदधिरे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -364,14 +364,14 @@ The Brahman whom those yonder have appointed priest, for injury, He, Indra! is b
 </div>
 
 ## ०६ यदि प्रेयुर्देवपुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ प्रे॒युर्दे॑वपु॒रा ब्रह्म॒ वर्मा॑णि चक्रि॒रे।  
 त॑नू॒पानं॑ परि॒पाणं॑ कृण्वा॒ना यदु॑पोचि॒रे सर्वं॒ तद॑र॒सं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -380,7 +380,7 @@ The Brahman whom those yonder have appointed priest, for injury, He, Indra! is b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/06_yadi_preyurdevapurA.md">
 <details open><summary><h3>०६ यदि प्रेयुर्देवपुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -435,14 +435,14 @@ If they have issued forth, strongholds of Gods, and made their shield of prayer,
 </div>
 
 ## ०७ यानसावतिसरांश्चकार कृणवच्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यान॒साव॑तिस॒रांश्च॒कार॑ कृ॒णव॑च्च॒ यान्।  
 त्वं तानि॑न्द्र वृत्रहन्प्र॒तीचः॒ पुन॒रा कृ॑धि॒ यथा॒मुं तृ॒णहा॒ञ्जन॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -451,7 +451,7 @@ If they have issued forth, strongholds of Gods, and made their shield of prayer,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/07_yAnasAvatisarAMshchakAra_kRNavachcha.md">
 <details open><summary><h3>०७ यानसावतिसरांश्चकार कृणवच्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -498,14 +498,14 @@ Exertions which that man hath made, Exertions which he yet will make Turn them, 
 </div>
 
 ## ०८ यथेन्द्र उद्वाचनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथेन्द्र॑ उ॒द्वाच॑नं ल॒ब्ध्वा च॒क्रे अ॑धस्प॒दम्।  
 कृ॒ण्वे॒३॒॑हमध॑रा॒न्तथा॒मूञ्छ॑श्व॒तीभ्यः॒ समा॑भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -514,7 +514,7 @@ Exertions which that man hath made, Exertions which he yet will make Turn them, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/08_yathendra_udvAchanam.md">
 <details open><summary><h3>०८ यथेन्द्र उद्वाचनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -571,7 +571,7 @@ As Indra, having seized him, set his foot upon Udvachana, Even so for all the co
 </div>
 
 ## ०९ अत्रैनानिन्द्र वृत्रहन्नुग्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अत्रै॑नानिन्द्र वृत्रहन्नु॒ग्रो मर्म॑णि विध्य।  
@@ -579,7 +579,7 @@ As Indra, having seized him, set his foot upon Udvachana, Even so for all the co
 अनु॑ त्वे॒न्द्रा र॑भामहे॒ स्याम॑ सुम॒तौ तव॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -589,7 +589,7 @@ As Indra, having seized him, set his foot upon Udvachana, Even so for all the co
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/008_shatrunAshanam/09_atrainAnindra_vRtrahannugro.md">
 <details open><summary><h3>०९ अत्रैनानिन्द्र वृत्रहन्नुग्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०७१ वेदमाता"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/_index.md">
 <details open><summary><h2>०७१ वेदमाता ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,7 +34,7 @@ A hymn, accompanying libations, for wealth and prosperity
 </div>
 
 ## ०१ स्तुता मया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/071_vedamAtA/01_stutA_mayA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/071_vedamAtA/01_stutA_mayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्तु॒ता मया॑ वर॒दा वे॑दमा॒ता प्र चो॑दयन्तां पावमा॒नी द्वि॒जाना॑म्।  
@@ -42,7 +42,7 @@ A hymn, accompanying libations, for wealth and prosperity
 मह्यं॑ द॒त्त्वा व्र॑जत ब्रह्मलो॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/071_vedamAtA/01_stutA_mayA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/071_vedamAtA/01_stutA_mayA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -52,7 +52,7 @@ A hymn, accompanying libations, for wealth and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/01_stutA_mayA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/071_vedamAtA/01_stutA_mayA.md">
 <details open><summary><h3>०१ स्तुता मया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०६५ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/_index.md">
 <details open><summary><h2>०६५ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A sacrificial charm against enemies
 </div>
 
 ## ०१ अव मन्युरवायताव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॑ म॒न्युरवाय॒ताव॑ बा॒हू म॑नो॒युजा॑।  
 परा॑शर॒ त्वं तेषां॒ परा॑ञ्चं॒ शुष्म॑मर्द॒याधा॑ नो र॒यिमा कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A sacrificial charm against enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/01_ava_manyuravAyatAva.md">
 <details open><summary><h3>०१ अव मन्युरवायताव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, d
 </div>
 
 ## ०२ निर्हस्तेभ्यो नैर्हस्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर्ह॑स्तेभ्यो नैर्ह॒स्तं यं दे॑वाः॒ शरु॒मस्य॑थ।  
 वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒ऽहम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ The angry spirit hath relaxed: loose are the arms that act with mind. Do thou, d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/02_nirhastebhyo_nairhastam.md">
 <details open><summary><h3>०२ निर्हस्तेभ्यो नैर्हस्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ The shaft for handless fiends which, Gods! ye cast against the handless ones, Wi
 </div>
 
 ## ०३ इन्द्रश्चकार प्रथमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑श्चकार प्रथ॒मं नै॑र्ह॒स्तमसु॑रेभ्यः।  
 जय॑न्तु॒ सत्वा॑नो॒ मम॑ स्थि॒रेणेन्द्रे॑ण मे॒दिना॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ The shaft for handless fiends which, Gods! ye cast against the handless ones, Wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/065_shatrunAshanam/03_indrashchakAra_prathamam.md">
 <details open><summary><h3>०३ इन्द्रश्चकार प्रथमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

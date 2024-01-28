@@ -2,7 +2,7 @@
 title = "००२ शत्रुसेनासंमोहनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/_index.md">
 <details open><summary><h2>००२ शत्रुसेनासंमोहनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A rifaccimento or recension of I
 </div>
 
 ## ०१ अग्निर्नो दूतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निर्नो॑ दू॒तः प्र॒त्येतु॑ वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
 स चि॒त्तानि॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A rifaccimento or recension of I
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/01_agnirno_dUtaH.md">
 <details open><summary><h3>०१ अग्निर्नो दूतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 </div>
 
 ## ०२ अयमग्निरमूमुहद्यानि चित्तानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यम॒ग्निर॑मूमुह॒द्यानि॑ चि॒त्तानि॑ वो हृ॒दि।  
 वि वो॑ धम॒त्वोक॑सः॒ प्र वो॑ धमतु स॒र्वतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ May Agni, he who knows, our envoy, meet them, burning against ill-will and impre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/02_ayamagniramUmuhadyAni_chittAni.md">
 <details open><summary><h3>०२ अयमग्निरमूमुहद्यानि चित्तानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 </div>
 
 ## ०३ इन्द्र चित्तानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ चि॒त्तानि॑ मो॒हय॑न्न॒र्वाङाकू॑त्या चर।  
 अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ This Agni hath bewildered all the senses that were in your hearts: Now let him b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/03_indra_chittAni.md">
 <details open><summary><h3>०३ इन्द्र चित्तानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 </div>
 
 ## ०४ व्याकूतय एषामिताथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्या॑कूतय एषामि॒ताथो॑ चि॒त्तानि॑ मुह्यत।  
 अथो॒ यद॒द्यैषां॑ हृ॒दि तदे॑षां॒ परि॒ निर्ज॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ Dazing their senses, Indra, come hitherward with the wish and will. With Agni's,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/04_vyAkUtaya_eShAmitAtho.md">
 <details open><summary><h3>०४ व्याकूतय एषामिताथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -300,14 +300,14 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 </div>
 
 ## ०५ अमीषां चित्तानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मीषां॑ चि॒त्तानि॑ प्रतिमो॒हय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि।  
 अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॒र्ग्राह्या॒मित्रां॒स्तम॑सा विध्य॒ शत्रू॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -316,7 +316,7 @@ Vanish, ye hopes and plans of theirs, be ye confounded, all their thoughts! What
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/05_amIShAM_chittAni.md">
 <details open><summary><h3>०५ अमीषां चित्तानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -378,14 +378,14 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! 
 </div>
 
 ## ०६ असौ या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒सौ या सेना॑ मरुतः॒ परे॑षाम॒स्मानैत्य॒भ्योज॑सा॒ स्पर्ध॑माना।  
 तां वि॑ध्यत॒ तम॒साप॑व्रतेन॒ यथै॑षाम॒न्यो अ॒न्यं न जा॒नात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -394,7 +394,7 @@ Bewildering the senses of our foemen, seize on their bodies and depart, O Apva! 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/002_shatrusenAsaMmohanam/06_asau_yA.md">
 <details open><summary><h3>०६ असौ या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००७ विषनाषनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/_index.md">
 <details open><summary><h2>००७ विषनाषनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to make a poisonous plant innocuous
 </div>
 
 ## ०१ वारिदम्वारयातै वरणावत्यामधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वारि॒दम्वा॑रयातै वर॒णाव॑त्या॒मधि॑।  
 तत्रा॒मृत॒स्यासि॑क्तं॒ तेना॑ ते वारये वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to make a poisonous plant innocuous
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/01_vAridamvArayAtai_varaNAvatyAmadhi.md">
 <details open><summary><h3>०१ वारिदम्वारयातै वरणावत्यामधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ So may this water guard us on the bank of Varanavati. Therein hath Amrit been in
 </div>
 
 ## ०२ अरसं प्राच्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/02_arasaM_prAchyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/02_arasaM_prAchyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑र॒सं प्रा॒च्यं॑ वि॒षम॑र॒सं यदु॑दी॒च्य॑म्।  
 अथे॒दम॑धरा॒च्यं॑ कर॒म्भेण॒ वि क॑ल्पते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/02_arasaM_prAchyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/02_arasaM_prAchyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ So may this water guard us on the bank of Varanavati. Therein hath Amrit been in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/02_arasaM_prAchyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/02_arasaM_prAchyam.md">
 <details open><summary><h3>०२ अरसं प्राच्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Weak is the poison of the East, weak is the poison of the North, So too this poi
 </div>
 
 ## ०३ करम्भं कृत्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क॑र॒म्भं कृ॒त्वा ति॒र्यं॑ पीबस्पा॒कमु॑दार॒थिम्।  
 क्षु॒धा किल॑ त्वा दुष्टनो जक्षि॒वान्त्स न रू॑रुपः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Weak is the poison of the East, weak is the poison of the North, So too this poi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/03_karambhaM_kRtvA.md">
 <details open><summary><h3>०३ करम्भं कृत्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -267,14 +267,14 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 </div>
 
 ## ०४ वि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/04_vi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/04_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि ते॒ मदं॑ मदावति श॒रमि॑व पातयामसि।  
 प्र त्वा॑ च॒रुमि॑व॒ येष॑न्तं॒ वच॑सा स्थापयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/04_vi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/04_vi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -283,7 +283,7 @@ When he hath made of thee a cake, broad, steaming, swelling up with fat, And eve
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/04_vi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/04_vi_te.md">
 <details open><summary><h3>०४ वि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -338,14 +338,14 @@ Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the
 </div>
 
 ## ०५ परि ग्राममिवाचितम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ ग्राम॑मि॒वाचि॑तं॒ वच॑सा स्थापयामसि।  
 तिष्ठा॑ वृ॒क्ष इ॑व॒ स्थाम्न्यभ्रि॑खाते॒ न रू॑रुपः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -354,7 +354,7 @@ Intoxicater! like a shaft we make thy spirit fly away, Like a pot boiling on the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/05_pari_grAmamivAchitam.md">
 <details open><summary><h3>०५ परि ग्राममिवाचितम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -406,14 +406,14 @@ We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet li
 </div>
 
 ## ०६ पवस्तैस्त्वा पर्यक्रीणन्दूर्शेभिरजिनैरुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒वस्तै॑स्त्वा॒ पर्य॑क्रीणन्दू॒र्शेभि॑र॒जिनै॑रु॒त।  
 प्र॒क्रीर॑सि॒ त्वमो॑ष॒धेऽभ्रि॑खाते॒ न रू॑रुपः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -422,7 +422,7 @@ We set around thee with the spell as 'twere a gathered arma- ment. Stay quiet li
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/06_pavastaistvA_paryakrINandUrshebhirajinairuta.md">
 <details open><summary><h3>०६ पवस्तैस्त्वा पर्यक्रीणन्दूर्शेभिरजिनैरुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -472,14 +472,14 @@ For coverings men have bartered thee, for skins of deer and woven cloths. Thou a
 </div>
 
 ## ०७ अनाप्ता ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/07_anAptA_ye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/007_viShanAShanam/07_anAptA_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अना॑प्ता॒ ये वः॑ प्रथ॒मा यानि॒ कर्मा॑णि चक्रि॒रे।  
 वी॒रान्नो॒ अत्र॒ मा द॑भ॒न्तद्व॑ ए॒तत्पु॒रो द॑धे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/07_anAptA_ye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/007_viShanAShanam/07_anAptA_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -488,7 +488,7 @@ For coverings men have bartered thee, for skins of deer and woven cloths. Thou a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/07_anAptA_ye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/007_viShanAShanam/07_anAptA_ye.md">
 <details open><summary><h3>०७ अनाप्ता ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०११ नारी–सुखप्रसूतिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/_index.md">
 <details open><summary><h2>०११ नारी–सुखप्रसूतिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to be used at child-birth
 </div>
 
 ## ०१ वषट्ते पूषन्नस्मिन्त्सूतावर्यमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वष॑ट्ते पूषन्न॒स्मिन्त्सूता॑वर्य॒मा होता॑ कृणोतु वे॒धाः।  
 सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां सूत॒वा उ॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to be used at child-birth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/01_vaShaTte_pUShannasmintsUtAvaryamA.md">
 <details open><summary><h3>०१ वषट्ते पूषन्नस्मिन्त्सूतावर्यमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -112,14 +112,14 @@ Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-pri
 </div>
 
 ## ०२ चतस्रो दिवः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॑ उ॒त।  
 दे॒वा गर्भं॒ समै॑रय॒न्तं व्यू॑र्णुवन्तु॒ सूत॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -128,7 +128,7 @@ Vashat to thee. O Pushan At this birth let Aryaman the Sage perform as Hotar-pri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/02_chatasro_divaH.md">
 <details open><summary><h3>०२ चतस्रो दिवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -182,14 +182,14 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 </div>
 
 ## ०३ सूषा व्यूर्णोतु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि।  
 श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -198,7 +198,7 @@ Four are the regions of the sky, and four the regions of the earth: The Gods hav
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/03_sUShA_vyUrNotu.md">
 <details open><summary><h3>०३ सूषा व्यूर्णोतु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -258,14 +258,14 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 </div>
 
 ## ०४ नेव मांसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नेव॑ मां॒से न पीव॑सि॒ नेव॑ म॒ज्जस्वाह॑तम्।  
 अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -274,7 +274,7 @@ Puerpera (infatem) detegat: nos uterum aperimus. Lexa teipsam, puerpera. Tu, par
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/04_neva_mAMse.md">
 <details open><summary><h3>०४ नेव मांसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -338,14 +338,14 @@ Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 </div>
 
 ## ०५ वि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के।  
 वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/05_vi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -354,7 +354,7 @@ Descendat viscosa placenta, cani, comedenda placenta; decidat placenta.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/05_vi_te.md">
 <details open><summary><h3>०५ वि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque
 </div>
 
 ## ०६ यथा वातो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षिणः॑।  
 ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ Diffindo tuum urinae ductum, diffindo vaginam, diffindo inguina. Matrem natumque
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/011_nArIsukhaprasUtiH/06_yathA_vAto.md">
 <details open><summary><h3>०६ यथा वातो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

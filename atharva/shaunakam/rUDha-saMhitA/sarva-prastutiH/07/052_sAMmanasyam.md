@@ -2,7 +2,7 @@
 title = "०५२ सांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/_index.md">
 <details open><summary><h2>०५२ सांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for peace and concord
 </div>
 
 ## ०१ सञ्ज्ञानं नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः।  
 सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for peace and concord
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/01_sanjnAnaM_naH.md">
 <details open><summary><h3>०१ सञ्ज्ञानं नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, i
 </div>
 
 ## ०२ सं जानामहै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न।  
 मा घोषा॒ उत्स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Give us agreement with our own, with strangers give us unity: Do ye, O Asvins, i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/052_sAMmanasyam/02_saM_jAnAmahai.md">
 <details open><summary><h3>०२ सं जानामहै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

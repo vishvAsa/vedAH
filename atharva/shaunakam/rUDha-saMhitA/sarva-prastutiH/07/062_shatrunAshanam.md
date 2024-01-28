@@ -2,7 +2,7 @@
 title = "०६२ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/_index.md">
 <details open><summary><h2>०६२ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for the overthrow of enemies
 </div>
 
 ## ०१ अयमग्निः सत्पतिर्वृद्धवृष्णो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत्पु॒रोहि॑तः।  
 नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for the overthrow of enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/062_shatrunAshanam/01_ayamagniH_satpatirvRddhavRShNo.md">
 <details open><summary><h3>०१ अयमग्निः सत्पतिर्वृद्धवृष्णो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

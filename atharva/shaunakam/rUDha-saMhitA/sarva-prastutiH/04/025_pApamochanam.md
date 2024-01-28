@@ -2,7 +2,7 @@
 title = "०२५ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/_index.md">
 <details open><summary><h2>०२५ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn of prayer and praise to Vayu and Savitar
 </div>
 
 ## ०१ वायोः सवितुर्विदथानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद्वि॒शथो॒ यौ च॒ रक्ष॑थः।  
 यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn of prayer and praise to Vayu and Savitar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/01_vAyoH_saviturvidathAni.md">
 <details open><summary><h3>०१ वायोः सवितुर्विदथानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the
 </div>
 
 ## ०२ ययोः सङ्ख्याता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे।  
 ययोः॑ प्रा॒यं नान्वा॑नशे॒ कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ I think on Vayu's and Savitar's holy rites, ye twain who penetrate and guard the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/02_yayoH_sankhyAtA.md">
 <details open><summary><h3>०२ ययोः सङ्ख्याता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Ye who have counted up the earth's expanses, and in the sky smoothed out the air
 </div>
 
 ## ०३ तव व्रते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/03_tava_vrate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/03_tava_vrate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो।  
 यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/03_tava_vrate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/03_tava_vrate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Ye who have counted up the earth's expanses, and in the sky smoothed out the air
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/03_tava_vrate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/03_tava_vrate.md">
 <details open><summary><h3>०३ तव व्रते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -239,14 +239,14 @@ Beauteously bright! men rest in thy dominion when thou hast risen up and hastene
 </div>
 
 ## ०४ अपेतो वायो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/04_apeto_vAyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/04_apeto_vAyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्।  
 सं ह्यू॒३॒॑र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/04_apeto_vAyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/04_apeto_vAyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -255,7 +255,7 @@ Beauteously bright! men rest in thy dominion when thou hast risen up and hastene
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/04_apeto_vAyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/04_apeto_vAyo.md">
 <details open><summary><h3>०४ अपेतो वायो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -307,14 +307,14 @@ Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons.
 </div>
 
 ## ०५ रयिं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/05_rayiM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/05_rayiM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्।  
 अ॑य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/05_rayiM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/05_rayiM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -323,7 +323,7 @@ Hence, Vayu, Savitar drive evil action, chase Simida away, drive off the demons.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/05_rayiM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/05_rayiM_me.md">
 <details open><summary><h3>०५ रयिं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -374,14 +374,14 @@ Of their own selves let Savitar and Vayu send favourable strength and wealth and
 </div>
 
 ## ०६ प्र सुमतिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/06_pra_sumatim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/06_pra_sumatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः।  
 अ॒र्वाग्वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/06_pra_sumatim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/06_pra_sumatim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -390,7 +390,7 @@ Of their own selves let Savitar and Vayu send favourable strength and wealth and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/06_pra_sumatim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/06_pra_sumatim.md">
 <details open><summary><h3>०६ प्र सुमतिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -444,14 +444,14 @@ Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. C
 </div>
 
 ## ०७ उप श्रेष्ठा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/07_upa_shreShThA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/025_pApamochanam/07_upa_shreShThA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒प श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्।  
 स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/07_upa_shreShThA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/025_pApamochanam/07_upa_shreShThA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -460,7 +460,7 @@ Ye, Savitar and Vayu, to assist us, enjoy the hymn and the delightful cheerer. C
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/07_upa_shreShThA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/025_pApamochanam/07_upa_shreShThA.md">
 <details open><summary><h3>०७ उप श्रेष्ठा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

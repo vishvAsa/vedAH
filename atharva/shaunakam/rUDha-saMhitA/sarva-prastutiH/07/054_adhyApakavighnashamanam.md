@@ -2,7 +2,7 @@
 title = "०५४ अध्यापकविघ्नशमनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/_index.md">
 <details open><summary><h2>०५४ अध्यापकविघ्नशमनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to obtain knowledge of the Veda
 </div>
 
 ## ०१ ऋचं साम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑।  
 ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to obtain knowledge of the Veda
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/01_RchaM_sAma.md">
 <details open><summary><h3>०१ ऋचं साम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -123,14 +123,14 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 </div>
 
 ## ०२ ऋचं साम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॒ यजु॒र्बल॑म्।  
 ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द्वेदः॑ पृ॒ष्टः श॑चीपते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -139,7 +139,7 @@ We worship holy Verse and Song, by which they carry out their acts, Shining in o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/054_adhyApakavighnashamanam/02_RchaM_sAma.md">
 <details open><summary><h3>०२ ऋचं साम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

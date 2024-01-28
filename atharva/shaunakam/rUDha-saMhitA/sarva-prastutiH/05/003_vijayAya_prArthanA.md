@@ -2,7 +2,7 @@
 title = "००३ विजयाय प्रार्थना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/_index.md">
 <details open><summary><h2>००३ विजयाय प्रार्थना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A prayer to Agni, Indra, and other deities for victory and prosperity
 </div>
 
 ## ०१ ममाग्ने वर्चो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेन्धा॑नास्त॒न्वं॑ पुषेम।  
 मह्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्र॒स्त्वयाध्य॑क्षेण॒ पृत॑ना जयेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A prayer to Agni, Indra, and other deities for victory and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/01_mamAgne_varcho.md">
 <details open><summary><h3>०१ ममाग्ने वर्चो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -94,14 +94,14 @@ Let strength be mine while I invoke thee, Agni! enkindling thee may we support o
 </div>
 
 ## ०२ अग्ने मन्युम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/02_agne_manyum.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/02_agne_manyum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॑ म॒न्युं प्र॑तिनु॒दन्परे॑षां॒ त्वं नो॑ गो॒पाः परि॑ पाहि वि॒श्वतः॑।  
 अपा॑ञ्चो यन्तु नि॒वता॑ दुर॒स्यवो॒ऽमैषां॑ चि॒त्तं प्र॒बुधां॒ वि ने॑शत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/02_agne_manyum.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/02_agne_manyum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -110,7 +110,7 @@ Let strength be mine while I invoke thee, Agni! enkindling thee may we support o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/02_agne_manyum.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/02_agne_manyum.md">
 <details open><summary><h3>०२ अग्ने मन्युम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ Baffling the range of our opponents, Agni! guard us as our protector round about
 </div>
 
 ## ०३ मम देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/03_mama_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/03_mama_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मम॑ दे॒वा वि॑ह॒वे स॑न्तु॒ सर्व॒ इन्द्र॑वन्तो म॒रुतो॒ विष्णु॑र॒ग्निः।  
 ममा॒न्तरि॑क्षमु॒रुलो॑कमस्तु॒ मह्यं॒ वातः॑ पवतां॒ कामा॑या॒स्मै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/03_mama_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/03_mama_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ Baffling the range of our opponents, Agni! guard us as our protector round about
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/03_mama_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/03_mama_devA.md">
 <details open><summary><h3>०३ मम देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -229,14 +229,14 @@ May all the Gods be on my side in battle, the Maruts led by Indra, Vishnu, Agni.
 </div>
 
 ## ०४ मह्यं यजन्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मह्यं॑ यजन्तां॒ मम॒ यानी॒ष्टाकू॑तिः स॒त्या मन॑सो मे अस्तु।  
 एनो॒ मा नि गां॑ कत॒मच्च॑ना॒हं विश्वे॑ दे॒वा अ॒भि र॑क्षन्तु मे॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -245,7 +245,7 @@ May all the Gods be on my side in battle, the Maruts led by Indra, Vishnu, Agni.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/04_mahyaM_yajantAm.md">
 <details open><summary><h3>०४ मह्यं यजन्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -294,14 +294,14 @@ For me let them present all mine oblations, and let my mind's intention be accom
 </div>
 
 ## ०५ मयि देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/05_mayi_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/05_mayi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मयि॑ दे॒वा द्रवि॑ण॒मा य॑जन्तां॒ मय्या॒शीर॑स्तु॒ मयि॑ दे॒वहू॑तिः।  
 दै॒वा होता॑रः सनिषन्न ए॒तदरि॑ष्टाः स्याम त॒न्वा॑ सु॒वीराः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/05_mayi_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/05_mayi_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -310,7 +310,7 @@ For me let them present all mine oblations, and let my mind's intention be accom
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/05_mayi_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/05_mayi_devA.md">
 <details open><summary><h3>०५ मयि देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -361,14 +361,14 @@ May the Gods grant me riches, may the blessing and invocation of the Gods assist
 </div>
 
 ## ०६ दैवीः षडुर्वीरुरु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दैवीः॑ षडुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह मा॑दयध्वम्।  
 मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -377,7 +377,7 @@ May the Gods grant me riches, may the blessing and invocation of the Gods assist
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/06_daivIH_ShaDurvIruru.md">
 <details open><summary><h3>०६ दैवीः षडुर्वीरुरु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -438,14 +438,14 @@ Ye six divine Expanses, give us freedom. Here, all ye Gods, acquit yourselves li
 </div>
 
 ## ०७ तिस्रो देवीर्महि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तिस्रो॑ देवी॒र्महि॑ नः॒ शर्म॑ यच्छत प्र॒जायै॑ नस्त॒न्वे॒३॒॑ यच्च॑ पु॒ष्टम्।  
 मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -454,7 +454,7 @@ Ye six divine Expanses, give us freedom. Here, all ye Gods, acquit yourselves li
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/07_tisro_devIrmahi.md">
 <details open><summary><h3>०७ तिस्रो देवीर्महि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -508,14 +508,14 @@ Do ye three Goddesses give ample shelter and all success to us ourselves and chi
 </div>
 
 ## ०८ उरुव्यचा नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑रु॒व्यचा॑ नो महि॒षः शर्म॑ यच्छत्व॒स्मिन्हवे॑ पुरुहू॒तः पु॑रु॒क्षु।  
 स नः॑ प्र॒जायै॑ हर्यश्व मृ॒डेन्द्र॒ मा नो॑ रीरिषो॒ मा परा॑ दाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -524,7 +524,7 @@ Do ye three Goddesses give ample shelter and all success to us ourselves and chi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/08_uruvyachA_no.md">
 <details open><summary><h3>०८ उरुव्यचा नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -576,14 +576,14 @@ Foodful and much-invoked, at this our calling may the far- reaching Bull grant u
 </div>
 
 ## ०९ धाता विधाता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता वि॑धा॒ता भुव॑नस्य॒ यस्पति॑र्दे॒वः स॑वि॒ताभि॑मातिषा॒हः।  
 आ॑दि॒त्या रु॒द्रा अ॒श्विनो॒भा दे॒वाः पा॑न्तु॒ यज॑मानं निरृ॒थात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -592,7 +592,7 @@ Foodful and much-invoked, at this our calling may the far- reaching Bull grant u
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/09_dhAtA_vidhAtA.md">
 <details open><summary><h3>०९ धाता विधाता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -647,14 +647,14 @@ Lord of the world, Creator and Disposer, may the God Savitar who quells assailan
 </div>
 
 ## १० ये नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/10_ye_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/10_ye_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये नः॑ स॒पत्ना॒ अप॒ ते भ॑वन्त्विन्द्रा॒ग्निभ्या॒मव॑ बाधामह एनान्।  
 आ॑दि॒त्या रु॒द्रा उ॑परि॒स्पृशो॑ नो उ॒ग्रं चे॒त्तार॑मधिरा॒जम॑क्रत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/10_ye_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/10_ye_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -663,7 +663,7 @@ Lord of the world, Creator and Disposer, may the God Savitar who quells assailan
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/10_ye_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/10_ye_naH.md">
 <details open><summary><h3>१० ये नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -720,14 +720,14 @@ Let those who are our foemen stay afar from us: with Indra and with Agni we will
 </div>
 
 ## ११ अर्वाञ्चमिन्द्रममुतो हवामहे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे॒ यो गो॒जिद्ध॑न॒जिद॑श्व॒जिद्यः।  
 इ॒मं नो॑ य॒ज्ञं वि॑ह॒वे शृ॑णोत्व॒स्माक॑मभूर्हर्यश्व मे॒दी ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -736,7 +736,7 @@ Let those who are our foemen stay afar from us: with Indra and with Agni we will
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/003_vijayAya_prArthanA/11_arvAnchamindramamuto_havAmahe.md">
 <details open><summary><h3>११ अर्वाञ्चमिन्द्रममुतो हवामहे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

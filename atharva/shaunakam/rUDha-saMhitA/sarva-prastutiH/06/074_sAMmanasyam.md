@@ -2,7 +2,7 @@
 title = "०७४ सांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/_index.md">
 <details open><summary><h2>०७४ सांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A King's charm to secure the fidelity of his people
 </div>
 
 ## ०१ सं वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/01_saM_vaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/01_saM_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं वः॑ पृच्यन्तां त॒न्वः१॒॑ सं मनां॑सि॒ समु॑ व्र॒ता।  
 सं वो॒ऽयं ब्रह्म॑ण॒स्पति॒र्भगः॒ सं वो॑ अजीगमत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/01_saM_vaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/01_saM_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A King's charm to secure the fidelity of his people
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/01_saM_vaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/01_saM_vaH.md">
 <details open><summary><h3>०१ सं वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 </div>
 
 ## ०२ सञ्ज्ञपनं वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ संज्ञप॑नं हृ॒दः।  
 अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Close gathered be your bodies: be your minds and vows in. unison! Here present B
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/02_sanjnapanaM_vo.md">
 <details open><summary><h3>०२ सञ्ज्ञपनं वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ Let there be union of your minds, let there be union of your hearts: All that is
 </div>
 
 ## ०३ यथादित्या वसुभिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑दि॒त्या वसु॑भिः सम्बभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः।  
 ए॒वा त्रि॑णाम॒न्नहृ॑णीयमान इ॒माञ्जना॒न्त्संम॑नसस्कृधी॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ Let there be union of your minds, let there be union of your hearts: All that is
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/074_sAMmanasyam/03_yathAdityA_vasubhiH.md">
 <details open><summary><h3>०३ यथादित्या वसुभिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

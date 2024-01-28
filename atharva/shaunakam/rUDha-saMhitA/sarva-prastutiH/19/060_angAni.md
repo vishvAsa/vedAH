@@ -2,7 +2,7 @@
 title = "०६० अङ्गानि"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/_index.md">
 <details open><summary><h2>०६० अङ्गानि ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for perfect bodily and mental health and vigour
 </div>
 
 ## ०१ वाङ्म आसन्नसोः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/01_vA~Nma_AsannasoH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वाङ्म॑ आ॒सन्न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः।  
 अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/01_vA~Nma_AsannasoH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for perfect bodily and mental health and vigour
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/01_vA~Nma_AsannasoH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/01_vA~Nma_AsannasoH.md">
 <details open><summary><h3>०१ वाङ्म आसन्नसोः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -112,14 +112,14 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 </div>
 
 ## ०२ ऊर्वोरोजो जङ्घयोर्जवः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः।  
 प्र॑ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -128,7 +128,7 @@ May I have voice in my mouth, breath in my nostrils, sight in mine eyes, hearing
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/060_angAni/02_Urvorojo_janghayorjavaH.md">
 <details open><summary><h3>०२ ऊर्वोरोजो जङ्घयोर्जवः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०६९ वर्चःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/_index.md">
 <details open><summary><h2>०६९ वर्चःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A priest's prayer for power and glory
 </div>
 
 ## ०१ गिरावरगराटेषु हिरण्ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गि॒राव॑र॒गरा॑टेषु॒ हिर॑ण्ये॒ गोषु॒ यद्यशः॑।  
 सुरा॑यां सि॒च्यमा॑नायां की॒लाले॒ मधु॒ तन्मयि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A priest's prayer for power and glory
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/01_girAvaragarATeShu_hiraNye.md">
 <details open><summary><h3>०१ गिरावरगराटेषु हिरण्ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the swe
 </div>
 
 ## ०२ अश्विना सारघेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्वि॑ना सार॒घेण॑ मा॒ मधु॑नाङ्क्तं शुभस्पती।  
 यथा॒ भर्ग॑स्वतीं॒ वाच॑मा॒वदा॑नि॒ जनाँ॒ अनु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Mine be the glory in the hill, in vales, in cattle, and in gold, Mine be the swe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/02_ashvinA_sAragheNa.md">
 <details open><summary><h3>०२ अश्विना सारघेण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ With your delicious honey balm me, Asvins, Lords of splendid light! That clear a
 </div>
 
 ## ०३ मयि वर्चो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/03_mayi_varcho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/069_varchaHprAptiH/03_mayi_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मयि॒ वर्चो॒ अथो॒ यशोऽथो॑ य॒ज्ञस्य॒ यत्पयः॑।  
 तन्मयि॑ प्र॒जाप॑तिर्दि॒वि द्यामि॑व दृंहतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/03_mayi_varcho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/069_varchaHprAptiH/03_mayi_varcho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ With your delicious honey balm me, Asvins, Lords of splendid light! That clear a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/03_mayi_varcho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/069_varchaHprAptiH/03_mayi_varcho.md">
 <details open><summary><h3>०३ मयि वर्चो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

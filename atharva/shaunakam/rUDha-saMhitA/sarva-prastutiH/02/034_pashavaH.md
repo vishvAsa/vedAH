@@ -2,7 +2,7 @@
 title = "०३४ पशवः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/_index.md">
 <details open><summary><h2>०३४ पशवः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer accompanying an animal sacrifice
 </div>
 
 ## ०१ य ईशे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/01_ya_Ishe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/01_ya_Ishe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ईशे॑ पशु॒पतिः॑ पशू॒नां चतु॑ष्पदामु॒त यो द्वि॒पदा॑म्।  
 निष्क्री॑तः॒ स य॒ज्ञियं॑ भा॒गमे॑तु रा॒यस्पोषा॒ यज॑मानं सचन्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/01_ya_Ishe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/01_ya_Ishe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer accompanying an animal sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/01_ya_Ishe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/01_ya_Ishe.md">
 <details open><summary><h3>०१ य ईशे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -116,14 +116,14 @@ May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and
 </div>
 
 ## ०२ प्रमुञ्चन्तो भुवनस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑मु॒ञ्चन्तो॒ भुव॑नस्य॒ रेतो॑ गा॒तुं ध॑त्त॒ यज॑मानाय देवाः।  
 उ॒पाकृ॑तं शशमा॒नं यदस्था॑त्प्रि॒यम्दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -132,7 +132,7 @@ May this, of all the beasts that Pasupati rules, Lord of animals,. quadruped and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/02_pramunchanto_bhuvanasya.md">
 <details open><summary><h3>०२ प्रमुञ्चन्तो भुवनस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -190,14 +190,14 @@ Loosing the seed of future-time existence, give good success, O Gods, to him who
 </div>
 
 ## ०३ ये बध्यमानमनु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ब॒ध्यमा॑न॒मनु॒ दीध्या॑ना अ॒न्वैक्ष॑न्त॒ मन॑सा॒ चक्षु॑षा च।  
 अ॒ग्निष्टानग्रे॒ प्र मु॑मोक्तु दे॒वो वि॒श्वक॑र्मा प्र॒जया॑ संररा॒णः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/03_ye_badhyamAnamanu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/03_ye_badhyamAnamanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -206,7 +206,7 @@ Loosing the seed of future-time existence, give good success, O Gods, to him who
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/03_ye_badhyamAnamanu.md">
 <details open><summary><h3>०३ ये बध्यमानमनु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -265,14 +265,14 @@ Those who are looking, deep in meditation, on the bound ani- mal with eye and sp
 </div>
 
 ## ०४ ये ग्राम्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/04_ye_grAmyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/04_ye_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒ विरू॑पाः॒ सन्तो॑ बहु॒धैक॑रूपाः।  
 वा॒युष्टानग्रे॒ प्र मु॑मोक्तु दे॒वः प्र॒जाप॑तिः प्र॒जया॑ संररा॒णः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/04_ye_grAmyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/04_ye_grAmyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -281,7 +281,7 @@ Those who are looking, deep in meditation, on the bound ani- mal with eye and sp
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/04_ye_grAmyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/04_ye_grAmyAH.md">
 <details open><summary><h3>०४ ये ग्राम्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -333,14 +333,14 @@ Tame animals of every shape, though varied in colour, manifold. alike in nature 
 </div>
 
 ## ०५ प्रजानन्तः प्रति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/05_prajAnantaH_prati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑जा॒नन्तः॒ प्रति॑ गृह्णन्तु॒ पूर्वे॑ प्रा॒णमङ्गे॑भ्यः॒ पर्या॒चर॑न्तम्।  
 दिवं॑ गछ॒ प्रति॑ तिष्ठा॒ शरी॑रैः स्व॒र्गं या॑हि प॒थिभि॑र्देव॒यानैः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/05_prajAnantaH_prati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -349,7 +349,7 @@ Tame animals of every shape, though varied in colour, manifold. alike in nature 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/05_prajAnantaH_prati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/034_pashavaH/05_prajAnantaH_prati.md">
 <details open><summary><h3>०५ प्रजानन्तः प्रति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

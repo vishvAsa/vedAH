@@ -2,7 +2,7 @@
 title = "०३९ वर्चस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/_index.md">
 <details open><summary><h2>०३९ वर्चस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A priest's prayer for power and glory
 </div>
 
 ## ०१ यशो हविर्वर्धतामिन्द्रजूतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यशो॑ ह॒विर्व॑र्धता॒मिन्द्र॑जूतं स॒हस्र॑वीर्यं॒ सुभृ॑तं॒ सह॑स्कृतम्।  
 प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A priest's prayer for power and glory
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/01_yasho_havirvardhatAmindrajUtam.md">
 <details open><summary><h3>०१ यशो हविर्वर्धतामिन्द्रजूतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a 
 </div>
 
 ## ०२ अच्छा न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/02_achChA_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/02_achChA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम।  
 स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/02_achChA_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/02_achChA_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ Let sacrifice, like fame, thrive sped by Indra, inspired, well- ordered, with a 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/02_achChA_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/02_achChA_na.md">
 <details open><summary><h3>०२ अच्छा न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ We will pay sacrifice and serve with worship our glorious Indra, famous for his 
 </div>
 
 ## ०३ यशा इन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/03_yashA_indro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/039_varchasyam/03_yashA_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत।  
 य॒शा विश्व॑स्य भू॒त्स्या॒हम॑स्मि य॒शस्त॑मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/03_yashA_indro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/039_varchasyam/03_yashA_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ We will pay sacrifice and serve with worship our glorious Indra, famous for his 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/03_yashA_indro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/039_varchasyam/03_yashA_indro.md">
 <details open><summary><h3>०३ यशा इन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

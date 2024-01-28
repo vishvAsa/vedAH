@@ -2,7 +2,7 @@
 title = "०२७ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/_index.md">
 <details open><summary><h2>०२७ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to the Maruts
 </div>
 
 ## ०१ मरुतां मन्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/01_marutAM_manve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/01_marutAM_manve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒रुतां॑ मन्वे॒ अधि॑ मे ब्रुवन्तु॒ प्रेमं वाजं॒ वाज॑साते अवन्तु।  
 आ॒शूनि॑व सु॒यमा॑नह्व ऊ॒तये॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/01_marutAM_manve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/01_marutAM_manve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to the Maruts
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/01_marutAM_manve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/01_marutAM_manve.md">
 <details open><summary><h3>०१ मरुतां मन्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ I think upon the Maruts: may they bless me, may they assist me to this wealth in
 </div>
 
 ## ०२ उत्समक्षितं व्यचन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्स॒मक्षि॑तं॒ व्यच॑न्ति॒ ये सदा॒ य आ॑सि॒ञ्चन्ति॒ रस॒मोष॑धीषु।  
 पु॒रो द॑धे म॒रुतः॒ पृश्नि॑मातॄं॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ I think upon the Maruts: may they bless me, may they assist me to this wealth in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/02_utsamaxitaM_vyachanti.md">
 <details open><summary><h3>०२ उत्समक्षितं व्यचन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Those who surround the never-failing fountain for ever, and bedew the plants wit
 </div>
 
 ## ०३ पयो धेनूनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/03_payo_dhenUnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/03_payo_dhenUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पयो॑ धेनू॒नां रस॒मोष॑धीनां ज॒वमर्व॑तां कवयो॒ य इन्व॑थ।  
 श॒ग्मा भ॑वन्तु म॒रुतो॑ नः स्यो॒नास्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/03_payo_dhenUnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/03_payo_dhenUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Those who surround the never-failing fountain for ever, and bedew the plants wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/03_payo_dhenUnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/03_payo_dhenUnAm.md">
 <details open><summary><h3>०३ पयो धेनूनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ Bards, who invigorate the milk of milch-kine, the sap of growing plants, the spe
 </div>
 
 ## ०४ अपः समुद्राद्दिवमुद्वहन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पः स॑मु॒द्राद्दिव॒मुद्व॑हन्ति दि॒वस्पृ॑थि॒वीम॒भि ये सृ॒जन्ति॑।  
 ये अ॒द्भिरीशा॑ना म॒रुत॑श्चरन्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ Bards, who invigorate the milk of milch-kine, the sap of growing plants, the spe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/04_apaH_samudrAddivamudvahanti.md">
 <details open><summary><h3>०४ अपः समुद्राद्दिवमुद्वहन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -301,14 +301,14 @@ They who raised water from the sea to heaven and send it from the sky to earth i
 </div>
 
 ## ०५ ये कीलालेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/05_ye_kIlAlena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/05_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये की॒लाले॑न त॒र्पय॑न्ति॒ ये घृ॒तेन॒ ये वा॒ वयो॒ मेद॑सा संसृ॒जन्ति॑।  
 ये अ॒द्भिरीशा॑ना म॒रुतो॑ व॒र्षय॑न्ति॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/05_ye_kIlAlena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/05_ye_kIlAlena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -317,7 +317,7 @@ They who raised water from the sea to heaven and send it from the sky to earth i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/05_ye_kIlAlena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/05_ye_kIlAlena.md">
 <details open><summary><h3>०५ ये कीलालेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -366,14 +366,14 @@ They who delight in nectar and in fatness, they who bestow upon us health and vi
 </div>
 
 ## ०६ यदीदिदं मरुतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदीदि॒दं म॑रुतो॒ मारु॑तेन॒ यदि॑ देवा॒ दैव्ये॑ने॒दृगार॑।  
 यू॒यमी॑शिध्वे वसव॒स्तस्य॒ निष्कृ॑ते॒स्ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/06_yadIdidaM_maruto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/06_yadIdidaM_maruto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -382,7 +382,7 @@ They who delight in nectar and in fatness, they who bestow upon us health and vi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/06_yadIdidaM_maruto.md">
 <details open><summary><h3>०६ यदीदिदं मरुतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -439,14 +439,14 @@ Whether with stormy might the Maruts established this All, or Gods with their ce
 </div>
 
 ## ०७ तिग्ममनीकं विदितम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒ग्ममनी॑कं विदि॒तं सह॑स्व॒न्मारु॑तं॒ शर्धः॒ पृत॑नासू॒ग्रम्।  
 स्तौमि॑ म॒रुतो॑ नाथि॒तो जो॑हवीमि॒ ते नो॑ मुञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -455,7 +455,7 @@ Whether with stormy might the Maruts established this All, or Gods with their ce
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/027_pApamochanam/07_tigmamanIkaM_viditam.md">
 <details open><summary><h3>०७ तिग्ममनीकं विदितम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

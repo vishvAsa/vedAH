@@ -2,7 +2,7 @@
 title = "१०२ आत्मनोऽहिंसनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/_index.md">
 <details open><summary><h2>१०२ आत्मनोऽहिंसनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 41, 115; Griffith, i. 378.
 </div>
 
 ## ०१ नमस्कृत्य द्यावापृथिवीभ्यामन्तरिक्षाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न॑म॒स्कृत्य॒ द्यावा॑पृथि॒वीभ्या॑म॒न्तरि॑क्षाय मृ॒त्यवे॑।  
 मे॒क्षाम्यू॒र्ध्वस्तिष्ठ॒न्मा मा॑ हिंसिषुरीश्व॒राः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 41, 115; Griffith, i. 378.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/102_Atmano_ahiMsanam/01_namaskRtya_dyAvApRthivIbhyAmantarixAya.md">
 <details open><summary><h3>०१ नमस्कृत्य द्यावापृथिवीभ्यामन्तरिक्षाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

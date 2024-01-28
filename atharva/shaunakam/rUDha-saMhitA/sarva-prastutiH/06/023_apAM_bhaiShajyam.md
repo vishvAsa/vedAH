@@ -2,7 +2,7 @@
 title = "०२३ अपां भैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/_index.md">
 <details open><summary><h2>०२३ अपां भैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To the Waters
 </div>
 
 ## ०१ सस्रुषीस्तदपसो दिवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒स्रुषी॒स्तद॒पसो॒ दिवा॒ नक्तं॑ च स॒स्रुषीः॑।  
 वरे॑ण्यक्रतुर॒हम॒पो दे॒वीरुप॑ ह्वये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To the Waters
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/01_sasruShIstadapaso_divA.md">
 <details open><summary><h3>०१ सस्रुषीस्तदपसो दिवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 </div>
 
 ## ०२ ओता आपः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओता॒ आपः॑ कर्म॒ण्या॑ मु॒ञ्चन्त्वि॒तः प्रणी॑तये।  
 स॒द्यः कृ॑ण्व॒न्त्वेत॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Here flow the restless ones, they flow unceasing through the day and night, Most
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/02_otA_ApaH.md">
 <details open><summary><h3>०२ ओता आपः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 </div>
 
 ## ०३ देवस्य सवितुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वस्य॑ सवि॒तुः स॒वे कर्म॑ कृण्वन्तु॒ मानु॑षाः।  
 शं नो॑ भवन्त्व॒प ओष॑धीः शि॒वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Let the deft Waters, summoned, give permission that we bear them off, And quickl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/023_apAM_bhaiShajyam/03_devasya_savituH.md">
 <details open><summary><h3>०३ देवस्य सवितुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

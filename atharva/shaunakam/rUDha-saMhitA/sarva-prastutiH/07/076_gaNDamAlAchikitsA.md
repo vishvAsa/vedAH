@@ -2,7 +2,7 @@
 title = "०७६ गण्डमालाचिकित्सा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/_index.md">
 <details open><summary><h2>०७६ गण्डमालाचिकित्सा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to cure scrofulous pustules and scrofula
 </div>
 
 ## ०१ आ सुस्रसः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ सु॒स्रसः॑ सु॒स्रसो॒ अस॑तीभ्यो॒ अस॑त्तराः।  
 सेहो॑रर॒सत॑रा लव॒णाद्विक्ले॑दीयसीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to cure scrofulous pustules and scrofula
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/01_A_susrasaH.md">
 <details open><summary><h3>०१ आ सुस्रसः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 </div>
 
 ## ०२ या ग्रैव्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या ग्रैव्या॑ अप॒चितोऽथो॒ या उ॑पप॒क्ष्याः᳡।  
 वि॒जाम्नि॒ या अ॑प॒चितः॑ स्वयं॒स्रसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ Rapidly dropping, quick to drop, more evil than the evil ones, More sapless than
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/02_yA_graivyA.md">
 <details open><summary><h3>०२ या ग्रैव्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 </div>
 
 ## ०३ यः कीकसाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः कीक॑साः प्रशृ॒णाति॑ तली॒द्य᳡मव॒तिष्ठ॑ति।  
 निर्हा॒स्तं सर्वं॑ जा॒यान्यं यः कश्च॑ क॒कुदि॑ श्रि॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Pustules that rise upon the neck, Pustules upon the shoulder- joints, Pustules t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/03_yaH_kIkasAH.md">
 <details open><summary><h3>०३ यः कीकसाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -262,14 +262,14 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 </div>
 
 ## ०४ पक्षी जायान्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒क्षी जा॒यान्यः॑ पतति॒ स आ वि॑शति॒ पूरु॑षम्।  
 तदक्षि॑तस्य भेष॒जमु॒भयोः॒ सुक्ष॑तस्य च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -278,7 +278,7 @@ I have expelled and banished all Scrofula harboured in the head, And that which 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/04_paxI_jAyAnyaH.md">
 <details open><summary><h3>०४ पक्षी जायान्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -343,14 +343,14 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 </div>
 
 ## ०५ विद्म वै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्म वै ते॑ जायान्य॒ जानं॒ यतो॑ जायान्य॒ जाय॑से।  
 क॒थं ह॒ तत्र॒ त्वं ह॑नो॒ यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -359,7 +359,7 @@ Scrofula flies borne on by wings: it penerates and holds the man. Here is the cu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/05_vidma_vai.md">
 <details open><summary><h3>०५ विद्म वै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -413,14 +413,14 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 </div>
 
 ## ०६ धृषत्पिब कलशे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धृ॒षत्पि॑ब क॒लशे॒ सोम॑मिन्द्र वृत्र॒हा शू॑र सम॒रे वसू॑नाम्।  
 माध्य॑न्दिने॒ सव॑न॒ आ वृ॑षस्व रयि॒ष्ठानो॑ र॒यिम॒स्मासु॑ धेहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -429,7 +429,7 @@ We know thine origin, Scrofula! know whence thou, Scrofula, art born. How hast t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/076_gaNDamAlAchikitsA/06_dhRShatpiba_kalashe.md">
 <details open><summary><h3>०६ धृषत्पिब कलशे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

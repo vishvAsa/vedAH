@@ -2,7 +2,7 @@
 title = "००७ यातुधाननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/_index.md">
 <details open><summary><h2>००७ यातुधाननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To Indra and Agni, for the detection and destruction of evil spirits
 </div>
 
 ## ०१ स्तुवानमग्न आ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्तु॑वा॒नम॑ग्न॒ आ व॑ह यातु॒धानं॑ किमी॒दिन॑म्।  
 त्वं हि दे॑व वन्दि॒तो ह॒न्ता दस्यो॑र्ब॒भूवि॑थ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To Indra and Agni, for the detection and destruction of evil spirits
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/01_stuvAnamagna_A.md">
 <details open><summary><h3>०१ स्तुवानमग्न आ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Bring the Kimidin hither, bring the Yatudhana self-declared For Agni, God, thou,
 </div>
 
 ## ०२ आज्यस्य परमेष्ठिञ्जातवेदस्तनूवशिन्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आज्य॑स्य परमेष्ठि॒ञ्जात॑वेद॒स्तनू॑वशिन्।  
 अग्ने॑ तौ॒लस्य॒ प्राशा॑न यातु॒धाना॒न्वि ला॑पय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Bring the Kimidin hither, bring the Yatudhana self-declared For Agni, God, thou,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/02_Ajyasya_parameShThinjAtavedastanUvashin.md">
 <details open><summary><h3>०२ आज्यस्य परमेष्ठिञ्जातवेदस्तनूवशिन् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -179,14 +179,14 @@ O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, tas
 </div>
 
 ## ०३ वि लपन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि ल॑पन्तु यातु॒धाना॑ अ॒त्त्रिणो॒ ये कि॑मी॒दिनः॑।  
 अथे॒दम॑ग्ने नो ह॒विरिन्द्र॑श्च॒ प्रति॑ हर्यतम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -195,7 +195,7 @@ O Jatavedas, Lord Supreme, controller of our bodies, taste The butter, Agni, tas
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/03_vi_lapantu.md">
 <details open><summary><h3>०३ वि लपन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -244,14 +244,14 @@ Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, m
 </div>
 
 ## ०४ अग्निः पूर्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निः पूर्व॒ आ र॑भतां॒ प्रेन्द्रो॑ नुदतु बाहु॒मान्।  
 ब्रवी॑तु॒ सर्वो॑ यातु॒मान॒यम॒स्मीत्येत्य॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -260,7 +260,7 @@ Let Yatudhanas mourn, let all greedy Kimidins weep and wail: And, Agni, Indra, m
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/04_agniH_pUrva.md">
 <details open><summary><h3>०४ अग्निः पूर्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -309,14 +309,14 @@ May Agni seize upon them first, may strong-armed Indra drive them forth: Let eve
 </div>
 
 ## ०५ पश्याम ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पश्या॑म ते वी॒र्यं॑ जातवेदः॒ प्र णो॑ ब्रूहि यातु॒धाना॑न्नृचक्षः।  
 त्वया॒ सर्वे॒ परि॑तप्ताः पु॒रस्ता॒त्त आ य॑न्तु प्रब्रुवा॒णा उपे॒दम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -325,7 +325,7 @@ May Agni seize upon them first, may strong-armed Indra drive them forth: Let eve
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/05_pashyAma_te.md">
 <details open><summary><h3>०५ पश्याम ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -375,14 +375,14 @@ Let us behold thy strength, O Jatavedas. Viewer of men, tell us the Yatudhanas. 
 </div>
 
 ## ०६ आ रभस्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ र॑भस्व जातवेदो॒ ऽस्माकार्था॑य जज्ञिषे।  
 दू॒तो नो॑ अग्ने भू॒त्वा या॑तु॒धाना॒न्वि ला॑पय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -391,7 +391,7 @@ Let us behold thy strength, O Jatavedas. Viewer of men, tell us the Yatudhanas. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/06_A_rabhasva.md">
 <details open><summary><h3>०६ आ रभस्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -441,14 +441,14 @@ O Jatavedas, seize, on them: for our advantage art thou born: Agni, be thou our 
 </div>
 
 ## ०७ त्वमग्ने यातुधानानुपबद्धाँ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वम॑ग्ने यातु॒धाना॒नुप॑बद्धाँ इ॒हा व॑ह।  
 अथै॑षा॒मिन्द्रो॒ वज्रे॒णापि॑ शी॒र्षाणि॑ वृश्चतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -457,7 +457,7 @@ O Jatavedas, seize, on them: for our advantage art thou born: Agni, be thou our 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/007_yAtudhAnanAshanam/07_tvamagne_yAtudhAnAnupabaddhA.N.md">
 <details open><summary><h3>०७ त्वमग्ने यातुधानानुपबद्धाँ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१३ रोगनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/_index.md">
 <details open><summary><h2>०१३ रोगनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to restore a sick man to health
 </div>
 
 ## ०१ उत देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/01_uta_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/01_uta_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒त दे॑वा॒ अव॑हितं॒ देवा॒ उन्न॑यथा॒ पुनः॑।  
 उ॒ताग॑श्च॒क्रुषं॑ देवा॒ देवा॑ जी॒वय॑था॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/01_uta_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/01_uta_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to restore a sick man to health
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/01_uta_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/01_uta_devA.md">
 <details open><summary><h3>०१ उत देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods
 </div>
 
 ## ०२ द्वाविमौ वातौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्वावि॒मौ वातौ॑ वात॒ आ सिन्धो॒रा प॑रा॒वतः॑।  
 दक्षं॑ ते अ॒न्य आ॒वातु॒ व्य॒न्यो वा॑तु॒ यद्रपः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Gods, raise again the man whom ye, O Gods, have humbled and brought low. Ye Gods
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/02_dvAvimau_vAtau.md">
 <details open><summary><h3>०२ द्वाविमौ वातौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ Here these two winds are blowing far as Sindhu from a distant land. May one brea
 </div>
 
 ## ०३ आ वात
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/03_A_vAta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/03_A_vAta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ वा॑त वाहि भेष॒जं वि वा॑त वाहि॒ यद्रपः॑।  
 त्वं हि वि॑श्वभेषज दे॒वानां॑ दू॒त ईय॑से ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/03_A_vAta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/03_A_vAta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ Here these two winds are blowing far as Sindhu from a distant land. May one brea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/03_A_vAta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/03_A_vAta.md">
 <details open><summary><h3>०३ आ वात ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -245,14 +245,14 @@ Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou wh
 </div>
 
 ## ०४ त्रायन्तामिमं देवास्त्रायन्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्राय॑न्तामि॒मं दे॒वास्त्राय॑न्तां म॒रुतां॑ ग॒णाः।  
 त्राय॑न्तां॒ विश्वा॑ भू॒तानि॒ यथा॒यम॑र॒पा अस॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -261,7 +261,7 @@ Hither, O Wind, blow healing balm, blow every fault away, thou Wind! For thou wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/04_trAyantAmimaM_devAstrAyantAm.md">
 <details open><summary><h3>०४ त्रायन्तामिमं देवास्त्रायन्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -311,14 +311,14 @@ May the Gods keep and save this man, the Maruts' host deliver him. All things th
 </div>
 
 ## ०५ आ त्वागमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/05_A_tvAgamam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/05_A_tvAgamam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ त्वा॑गमं॒ शंता॑तिभि॒रथो॑ अरि॒ष्टता॑तिभिः।  
 दक्षं॑ त उ॒ग्रमाभा॑रिषं॒ परा॒ यक्ष्मं॑ सुवामि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/05_A_tvAgamam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/05_A_tvAgamam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -327,7 +327,7 @@ May the Gods keep and save this man, the Maruts' host deliver him. All things th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/05_A_tvAgamam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/05_A_tvAgamam.md">
 <details open><summary><h3>०५ आ त्वागमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -379,14 +379,14 @@ I am come nigh to thee with balms to give thee rest and keep thee safe. I bring 
 </div>
 
 ## ०६ अयं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/06_ayaM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/06_ayaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं मे॒ हस्तो॒ भग॑वान॒यं मे॒ भग॑वत्तरः।  
 अ॒यं मे॑ वि॒श्वभे॑षजो॒ऽयं शि॒वाभि॑मर्शनः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/06_ayaM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/06_ayaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -395,7 +395,7 @@ I am come nigh to thee with balms to give thee rest and keep thee safe. I bring 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/06_ayaM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/06_ayaM_me.md">
 <details open><summary><h3>०६ अयं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -442,14 +442,14 @@ Felicitous is this my hand, yet more felicitous is this. This hand contains all 
 </div>
 
 ## ०७ हस्ताभ्यां दशशाखाभ्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हस्ता॑भ्यां॒ दश॑शाखाभ्यां जि॒ह्वा वा॒चः पु॑रोग॒वी।  
 अ॑नामयि॒त्नुभ्यां॒ हस्ता॑भ्यां॒ ताभ्यां॑ त्वा॒भि मृ॑शामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -458,7 +458,7 @@ Felicitous is this my hand, yet more felicitous is this. This hand contains all 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/013_roganivAraNam/07_hastAbhyAM_dashashAkhAbhyAm.md">
 <details open><summary><h3>०७ हस्ताभ्यां दशशाखाभ्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

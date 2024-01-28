@@ -2,7 +2,7 @@
 title = "०२८ रक्षोघ्नम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/_index.md">
 <details open><summary><h2>०२८ रक्षोघ्नम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Agni for the destruction of evil spirits
 </div>
 
 ## ०१ उप प्रागाद्देवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/01_upa_prAgAddevo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॒ प्रागा॑द्दे॒वो अ॒ग्नी र॑क्षो॒हामी॑व॒चात॑नः।  
 दह॒न्नप॑ द्वया॒विनो॑ यातु॒धाना॑न्किमी॒दिनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/01_upa_prAgAddevo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Agni for the destruction of evil spirits
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/01_upa_prAgAddevo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/01_upa_prAgAddevo.md">
 <details open><summary><h3>०१ उप प्रागाद्देवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 </div>
 
 ## ०२ प्रति दह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/02_prati_daha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/02_prati_daha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रति॑ दह यातु॒धाना॒न्प्रति॑ देव किमी॒दिनः॑।  
 प्र॒तीचीः॑ कृष्णवर्तने॒ सं द॑ह यातुधा॒न्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/02_prati_daha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/02_prati_daha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ God Agni hath come forth to us, fiend-slayer, chaser of disease, Burning the Yat
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/02_prati_daha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/02_prati_daha.md">
 <details open><summary><h3>०२ प्रति दह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,14 +161,14 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 </div>
 
 ## ०३ या शशाप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/03_yA_shashApa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/03_yA_shashApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
 या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/03_yA_shashApa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/03_yA_shashApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -177,7 +177,7 @@ Consume the Yatudhanas, God! meet the Kimidins with thy flame: Burn up the Yatud
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/03_yA_shashApa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/03_yA_shashApa.md">
 <details open><summary><h3>०३ या शशाप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 </div>
 
 ## ०४ पुत्रमत्तु यातुधानीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॒त्रम॑त्तु यातुधा॒नीः स्वसा॑रमु॒त न॒प्त्य॑म्।  
 अधा॑ मि॒थो वि॑के॒श्यो॑३ वि घ्न॑तां यातुधा॒न्यो॑३ वि तृ॑ह्यन्तामरा॒य्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin; Or seize
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/028_raxoghnam/04_putramattu_yAtudhAnIH.md">
 <details open><summary><h3>०४ पुत्रमत्तु यातुधानीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०५५ रायस्पोषप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/_index.md">
 <details open><summary><h2>०५५ रायस्पोषप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Agni for protection and prosperity
 </div>
 
 ## ०१ रात्रिंरात्रिमप्रयातं भरन्तोऽश्वायेव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रात्रिं॑रात्रि॒मप्र॑यातं॒ भर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॒स्मै।  
 रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Agni for protection and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/01_rAtriMrAtrimaprayAtaM_bharanto-shvAyeva.md">
 <details open><summary><h3>०१ रात्रिंरात्रिमप्रयातं भरन्तोऽश्वायेव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,14 +157,14 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 </div>
 
 ## ०२ या ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या ते॒ वसो॒र्वात॒ इषुः॒ सा त॑ ए॒षा तया॑ नो मृड।  
 रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/02_yA_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -173,7 +173,7 @@ Bringing, as 'twere, with care unceasing fodder night after night to feed this s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/02_yA_te.md">
 <details open><summary><h3>०२ या ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -215,14 +215,14 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 </div>
 
 ## ०३ सायंसायं गृहपतिर्नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सा॒यंसा॑यं गृ॒हप॑तिर्नो अ॒ग्निः प्रा॒तःप्रा॑तः सौमन॒सस्य॑ दा॒ता।  
 वसो॑र्वसोर्वसु॒दान॑ एधि व॒यं त्वेन्धा॑नास्त॒न्वं᳡ पुषेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -231,7 +231,7 @@ Here is thine own desire for wealth: through this be gracious unto us. Joying in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/03_sAyaMsAyaM_gRhapatirno.md">
 <details open><summary><h3>०३ सायंसायं गृहपतिर्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -282,14 +282,14 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 </div>
 
 ## ०४ प्रातःप्रातर्गृहपतिर्नो अग्निः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒तःप्रा॑तर्गृ॒हप॑तिर्नो अ॒ग्निः सा॒यंसा॑यं सौमन॒सस्य॑ दा॒ता।  
 वसो॑र्वसोर्वसु॒दान॑ ए॒धीन्धा॑नास्त्वा श॒तंहि॑मा ऋधेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -298,7 +298,7 @@ Each eve that comes our household's Lord is Agni, showing his. loving-kindness e
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/04_prAtaHprAtargRhapatirno_agniH.md">
 <details open><summary><h3>०४ प्रातःप्रातर्गृहपतिर्नो अग्निः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -347,7 +347,7 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 </div>
 
 ## ०५ अपश्चा दग्धान्नस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑श्चा द॒ग्धान्न॑स्य भूयासम्।  
@@ -355,7 +355,7 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 स॒भ्यः स॒भां मे॑ पाहि॒ ये च॑ स॒भ्याः स॑भा॒सदः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -365,7 +365,7 @@ Each morn that comes our household's Lord is Agni, showing. his loving-kindness 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/05_apashchA_dagdhAnnasya.md">
 <details open><summary><h3>०५ अपश्चा दग्धान्नस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -442,14 +442,14 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 </div>
 
 ## ०६ त्वमिन्द्रा पुरुहूत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वमि॑न्द्रा पुरुहूत॒ विश्व॒मायु॒र्व्य᳡श्नवत्।  
 अह॑रहर्ब॒लिमित्ते॒ हर॒न्तोऽश्वा॑येव॒ तिष्ठ॑ते घा॒सम॑ग्ने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -458,7 +458,7 @@ Never may I come short of food to feed me. Glory to Agni, Rudra, the consumer an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/055_rAyaspoShaprAptiH/06_tvamindrA_puruhUta.md">
 <details open><summary><h3>०६ त्वमिन्द्रा पुरुहूत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

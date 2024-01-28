@@ -2,7 +2,7 @@
 title = "०७० अघ्न्याः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/_index.md">
 <details open><summary><h2>०७० अघ्न्याः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,7 +34,7 @@ A benediction on cow and calf
 </div>
 
 ## ०१ यथा मांसम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/01_yathA_mAMsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ मां॒सं यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने।  
@@ -42,7 +42,7 @@ A benediction on cow and calf
 ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/01_yathA_mAMsam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/01_yathA_mAMsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -52,7 +52,7 @@ A benediction on cow and calf
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/01_yathA_mAMsam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/01_yathA_mAMsam.md">
 <details open><summary><h3>०१ यथा मांसम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,7 +100,7 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 </div>
 
 ## ०२ यथा हस्ती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/02_yathA_hastI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/02_yathA_hastI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे।  
@@ -108,7 +108,7 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/02_yathA_hastI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/02_yathA_hastI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ As wine associates with flesh, as dice attend the gaming-board, As an enamoured 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/02_yathA_hastI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/02_yathA_hastI.md">
 <details open><summary><h3>०२ यथा हस्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,7 +167,7 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 </div>
 
 ## ०३ यथा प्रधिर्यथोपधिर्यथा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑।  
@@ -175,7 +175,7 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ As the male elephant pursues with eager step his female's track, As an enamoured
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/070_aghnyAH/03_yathA_pradhiryathopadhiryathA.md">
 <details open><summary><h3>०३ यथा प्रधिर्यथोपधिर्यथा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

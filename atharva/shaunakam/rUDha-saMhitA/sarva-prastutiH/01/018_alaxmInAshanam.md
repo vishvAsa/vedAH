@@ -2,7 +2,7 @@
 title = "०१८ अलक्ष्मीनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/_index.md">
 <details open><summary><h2>०१८ अलक्ष्मीनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to avert evil spirits of misfortune and to secure prosperity
 </div>
 
 ## ०१ निर्लक्ष्म्यं ललाम्यं१
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर्ल॒क्ष्म्यं॑ लला॒म्यं॑१ निररा॑तिं सुवामसि।  
 अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to avert evil spirits of misfortune and to secure prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/01_nirlaxmyaM_lalAmyaM1.md">
 <details open><summary><h3>०१ निर्लक्ष्म्यं ललाम्यं१ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 </div>
 
 ## ०२ निररणिं सविता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निरर॑णिं सवि॒ता सा॑विषक्प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा।  
 निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ We drive away the Spotted Hag, Misfortune, and Malignity: All blessings to our c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/02_niraraNiM_savitA.md">
 <details open><summary><h3>०२ निररणिं सविता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hand
 </div>
 
 ## ०३ यत्त आत्मनि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्त॑ आ॒त्मनि॑ त॒न्वां॑ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा।  
 सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/03_yatta_Atmani.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Let Savitar, Mitra, Varuna, and Aryaman drive away Stinginess from both the hand
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/03_yatta_Atmani.md">
 <details open><summary><h3>०३ यत्त आत्मनि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -247,14 +247,14 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 </div>
 
 ## ०४ रिश्यपदीं वृषदतीम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त।  
 वि॑ली॒ढ्यं॑ लला॒म्यं१॒॑ ता अ॒स्मन्ना॑शयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -263,7 +263,7 @@ Each fearful sign upon thy body, in thyself, each inauspicious mark seen in thy 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/018_alaxmInAshanam/04_rishyapadIM_vRShadatIm.md">
 <details open><summary><h3>०४ रिश्यपदीं वृषदतीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०५१ परिपाणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/_index.md">
 <details open><summary><h2>०५१ परिपाणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -33,14 +33,14 @@ A prayer for Brihaspati's and Indra's protection
 </div>
 
 ## ०१ बृहस्पतिर्नः परि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः।  
 इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/051_paripANam/01_bRhaspatirnaH_pari.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -49,7 +49,7 @@ A prayer for Brihaspati's and Indra's protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/051_paripANam/01_bRhaspatirnaH_pari.md">
 <details open><summary><h3>०१ बृहस्पतिर्नः परि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

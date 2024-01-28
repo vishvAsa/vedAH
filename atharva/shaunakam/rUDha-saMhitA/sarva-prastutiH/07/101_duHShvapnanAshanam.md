@@ -2,7 +2,7 @@
 title = "१०१ दुःष्वप्ननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/_index.md">
 <details open><summary><h2>१०१ दुःष्वप्ननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaig
 </div>
 
 ## ०१ यत्स्वप्ने अन्नमश्नामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्स्वप्ने॒ अन्न॑म॒श्नामि॒ न प्रा॒तर॑धिग॒म्यते॑।  
 सर्वं॒ तद॑स्तु मे शि॒वं न॒हि तद्दृ॒ष्यते॒ दिवा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 444; Henry, 40, 115; Griffith, i. 378.—Given by Bergaig
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/101_duHShvapnanAshanam/01_yatsvapne_annamashnAmi.md">
 <details open><summary><h3>०१ यत्स्वप्ने अन्नमश्नामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

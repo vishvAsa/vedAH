@@ -2,7 +2,7 @@
 title = "०३६ वैश्वानरः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/_index.md">
 <details open><summary><h2>०३६ वैश्वानरः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,7 +34,7 @@ In praise of Agni Vaisvanara
 </div>
 
 ## ०१ ऋतावानं वैश्वानरमृतस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒तावा॑नं वैश्वान॒रम्  
@@ -42,7 +42,7 @@ In praise of Agni Vaisvanara
 अज॑स्रं **घ॒र्मम् ई॑महे** ॥१॥  
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ In praise of Agni Vaisvanara
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/01_RtAvAnaM_vaishvAnaramRtasya.md">
 <details open><summary><h3>०१ ऋतावानं वैश्वानरमृतस्य ...{Loading}...</h3></summary>
 <details><summary>भट्टभास्करटीका</summary>
 
@@ -109,14 +109,14 @@ The immortal cauldron we seek.
 </div>
 
 ## ०२ स विश्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/02_sa_vishvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स विश्वा॒ प्रति॑ चाक्लृप ऋ॒तूंरुत्सृ॑जते व॒शी।  
 य॒ज्ञस्य॒ वय॑ उत्ति॒रन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/02_sa_vishvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ The immortal cauldron we seek.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/02_sa_vishvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/02_sa_vishvA.md">
 <details open><summary><h3>०२ स विश्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,14 +181,14 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 </div>
 
 ## ०३ अग्निः परेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निः परे॑षु॒ धाम॑सु॒ कामो॑ भू॒तस्य॒ भव्य॑स्य।  
 स॒म्राडेको॒ वि रा॑जति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/03_agniH_pareShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -197,7 +197,7 @@ He hath directed all things; he sends forth the Seasons in his might, furthering
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/036_vaishvAnaraH/03_agniH_pareShu.md">
 <details open><summary><h3>०३ अग्निः परेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

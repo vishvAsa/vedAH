@@ -2,7 +2,7 @@
 title = "१२७ यक्ष्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/_index.md">
 <details open><summary><h2>१२७ यक्ष्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Zimmer, p. 386 (with comment on the diseases); Griffith, i. 315; Blo
 </div>
 
 ## ०१ विद्रधस्य बलासस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते।  
 वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Zimmer, p. 386 (with comment on the diseases); Griffith, i. 315; Blo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/01_vidradhasya_balAsasya.md">
 <details open><summary><h3>०१ विद्रधस्य बलासस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 </div>
 
 ## ०२ यौ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/02_yau_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ।  
 वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/02_yau_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/02_yau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Of abscess, of decline, of inflammation of the eyes. O Plant, Of penetrating pai
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/02_yau_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/02_yau_te.md">
 <details open><summary><h3>०२ यौ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,7 +174,7 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 </div>
 
 ## ०३ यो अङ्ग्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/03_yo_angyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः।  
@@ -182,7 +182,7 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/03_yo_angyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Those nerves of thine, Consumption! which stand closely hidden in thy groin I kn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/03_yo_angyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/127_yaxmanAshanam/03_yo_angyo.md">
 <details open><summary><h3>०३ यो अङ्ग्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

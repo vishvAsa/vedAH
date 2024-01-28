@@ -2,7 +2,7 @@
 title = "००५ लाक्षा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/_index.md">
 <details open><summary><h2>००५ लाक्षा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to mend a broken bone
 </div>
 
 ## ०१ रात्री माता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/01_rAtrI_mAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/01_rAtrI_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रात्री॑ मा॒ता नभः॑ पि॒तार्य॒मा ते॑ पिताम॒हः।  
 सि॑ला॒ची नाम॒ वा अ॑सि॒ सा दे॒वाना॑मसि॒ स्वसा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/01_rAtrI_mAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/01_rAtrI_mAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to mend a broken bone
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/01_rAtrI_mAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/01_rAtrI_mAtA.md">
 <details open><summary><h3>०१ रात्री माता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is 
 </div>
 
 ## ०२ यस्त्वा पिबति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/02_yastvA_pibati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/02_yastvA_pibati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्त्वा॒ पिब॑ति॒ जीव॑ति॒ त्राय॑से॒ पुरु॑षं॒ त्वम्।  
 भ॒र्त्री हि शश्व॑ता॒मसि॒ जना॑नां च॒ न्यञ्च॑नी ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/02_yastvA_pibati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/02_yastvA_pibati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Aryaman is thy grandsire, Night thy mother, and the Cloud thy sire. Thy name is 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/02_yastvA_pibati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/02_yastvA_pibati.md">
 <details open><summary><h3>०२ यस्त्वा पिबति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Whoever drinketh thee hath life: thou savest and protectest man. As nursing moth
 </div>
 
 ## ०३ वृक्षंवृक्षमा रोहसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृ॒क्षंवृ॑क्ष॒मा रो॑हसि वृष॒ण्यन्ती॑व क॒न्यला॑।  
 जय॑न्ती प्रत्या॒तिष्ठ॑न्ती॒ स्पर॑णी॒ नाम॒ वा अ॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Whoever drinketh thee hath life: thou savest and protectest man. As nursing moth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/03_vRxaMvRxamA_rohasi.md">
 <details open><summary><h3>०३ वृक्षंवृक्षमा रोहसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is
 </div>
 
 ## ०४ यद्दण्डेन यदिष्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्द॒ण्डेन॒ यदिष्वा॒ यद्वारु॒र्हर॑सा कृ॒तम्।  
 तस्य॒ त्वम॑सि॒ निष्कृ॑तिः॒ सेमं निष्कृ॑धि॒ पूरु॑षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ Thou clingest close to every tree, as a fond damsel clasps her love. Thy name is
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/04_yaddaNDena_yadiShvA.md">
 <details open><summary><h3>०४ यद्दण्डेन यदिष्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -295,14 +295,14 @@ Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art t
 </div>
 
 ## ०५ भद्रात्प्लक्षान्निस्तिष्ठस्यश्वत्थात्खदिराद्धवात्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ॒द्रात्प्ल॒क्षान्निस्ति॑ष्ठस्यश्व॒त्थात्ख॑दि॒राद्ध॒वात्।  
 भ॒द्रान्न्य॒ग्रोधा॑त्प॒र्णात्सा न॒ एह्य॑रुन्धति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -311,7 +311,7 @@ Whatever wound the arrow, or the staff, or violence inflicts, Thereof thou art t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/05_bhadrAtplaxAnnistiShThasyashvatthAtkhadirAddhav.md">
 <details open><summary><h3>०५ भद्रात्प्लक्षान्निस्तिष्ठस्यश्वत्थात्खदिराद्धवात् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -358,14 +358,14 @@ Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Ny
 </div>
 
 ## ०६ हिरण्यवर्णे सुभगे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हिर॑ण्यवर्णे॒ सुभ॑गे॒ सूर्य॑वर्णे॒ वपु॑ष्टमे।  
 रु॒तं ग॑च्छासि निष्कृते॒ निष्कृ॑ति॒र्नाम॒ वा अ॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/06_hiraNyavarNe_subhage.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/06_hiraNyavarNe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -374,7 +374,7 @@ Thou springest from blest Plaxa, or Asvattha, Dhava, Khadira, Parna, or blest Ny
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/06_hiraNyavarNe_subhage.md">
 <details open><summary><h3>०६ हिरण्यवर्णे सुभगे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -425,14 +425,14 @@ Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst tho
 </div>
 
 ## ०७ हिरण्यवर्णे सुभगे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हिर॑ण्यवर्णे॒ सुभ॑गे॒ शुष्मे॒ लोम॑शवक्षणे।  
 अ॒पाम॑सि॒ स्वसा॑ लाक्षे॒ वातो॑ हा॒त्मा ब॑भूव ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/07_hiraNyavarNe_subhage.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/07_hiraNyavarNe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -441,7 +441,7 @@ Gold-coloured, bringing happy fate, most lovely, brilliant as the Sun, Mayst tho
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/07_hiraNyavarNe_subhage.md">
 <details open><summary><h3>०७ हिरण्यवर्णे सुभगे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -490,14 +490,14 @@ Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the
 </div>
 
 ## ०८ सिलाची नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/08_silAchI_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/08_silAchI_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सि॑ला॒ची नाम॑ कानी॒नोऽज॑बभ्रु पि॒ता तव॑।  
 अश्वो॑ य॒मस्य॒ यः श्या॒वस्तस्य॑ हा॒स्नास्यु॑क्षि॒ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/08_silAchI_nAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/08_silAchI_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -506,7 +506,7 @@ Gold-coloured, bringing happy fate, odorous, hairy-bodied one, The sister of the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/08_silAchI_nAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/08_silAchI_nAma.md">
 <details open><summary><h3>०८ सिलाची नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -558,14 +558,14 @@ Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been s
 </div>
 
 ## ०९ अश्वस्यास्नः सम्पतिता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्व॑स्या॒स्नः संप॑तिता॒ सा वृ॒क्षाँ अ॒भि सि॑ष्यदे।  
 स॒रा प॑तत्रिणी भू॒त्वा सा न॒ एह्य॑रुन्धति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -574,7 +574,7 @@ Silachi is thy name: thy sire, O goat-brown! is a damsel's son. Thou hast been s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/005_lAxA/09_ashvasyAsnaH_sampatitA.md">
 <details open><summary><h3>०९ अश्वस्यास्नः सम्पतिता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

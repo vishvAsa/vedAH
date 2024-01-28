@@ -2,7 +2,7 @@
 title = "०५६ विषभैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/_index.md">
 <details open><summary><h2>०५६ विषभैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against poisonous bites and stings
 </div>
 
 ## ०१ तिरश्चिराजेरसितात्पृदाकोः परि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तिर॑श्चिराजेरसि॒तात्पृदा॑कोः॒ परि॒ संभृ॑तम्।  
 तत्क॒ङ्कप॑र्वणो वि॒षमि॒यं वी॒रुद॑नीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against poisonous bites and stings
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/01_tirashchirAjerasitAtpRdAkoH_pari.md">
 <details open><summary><h3>०१ तिरश्चिराजेरसितात्पृदाकोः परि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 </div>
 
 ## ०२ इयं वीरुन्मधुजाता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒यं वी॒रुन्मधु॑जाता मधु॒श्चुन्म॑धु॒ला म॒धूः।  
 सा विह्रु॑तस्य भेष॒ज्यथो॑ मशक॒जम्भ॑नी ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Whether it came from viper, from black snake or snake with transverse stripes, O
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/02_iyaM_vIrunmadhujAtA.md">
 <details open><summary><h3>०२ इयं वीरुन्मधुजाता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine th
 </div>
 
 ## ०३ यतो दष्टम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यतो॑ द॒ष्टं यतो॑ धी॒तं तत॑स्ते॒ निर्ह्व॑यामसि।  
 अ॒र्भस्य॑ तृप्रदं॒शिनो॑ म॒शक॑स्यार॒सं वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/03_yato_daShTam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/03_yato_daShTam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ Honey-born, honey-dropping, rich in honey, honeysweet, this herb, Is medicine th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/03_yato_daShTam.md">
 <details open><summary><h3>०३ यतो दष्टम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectu
 </div>
 
 ## ०४ अयं यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं यो व॒क्रो विप॑रु॒र्व्य᳡ङ्गो॒ मुखा॑नि व॒क्रा वृ॑जि॒ना कृ॒णोषि॑।  
 तानि॒ त्वं ब्र॑ह्मणस्पत इ॒षीका॑मिव॒ सं न॑मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/04_ayaM_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/04_ayaM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ Whatever bit, or sucked thy blood, we summon thence away from thee The ineffectu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/04_ayaM_yo.md">
 <details open><summary><h3>०४ अयं यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -301,14 +301,14 @@ Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, Th
 </div>
 
 ## ०५ अरसस्य शर्कोटस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑र॒सस्य॑ श॒र्कोट॑स्य नी॒चीन॑स्योप॒सर्प॑तः।  
 वि॒षं ह्य१॒॑स्यादि॒ष्यथो॑ एनमजीजभम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -317,7 +317,7 @@ Thou here who crookest wicked jaws, thou tortuous, jointless, limbless thing, Th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/05_arasasya_sharkoTasya.md">
 <details open><summary><h3>०५ अरसस्य शर्कोटस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -365,14 +365,14 @@ This scorpion here that creeps along, low on the ground and powerless-- I have r
 </div>
 
 ## ०६ न ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/06_na_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/06_na_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न ते॑ बा॒ह्वोर्बल॑मस्ति॒ न शी॒र्षे नोत म॑ध्य॒तः।  
 अथ॒ किं पा॒पया॑ऽमु॒या पुच्छे॑ बिभर्ष्यर्भ॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/06_na_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/06_na_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -381,7 +381,7 @@ This scorpion here that creeps along, low on the ground and powerless-- I have r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/06_na_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/06_na_te.md">
 <details open><summary><h3>०६ न ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -430,14 +430,14 @@ No strength in thy two arms hast thou, nor in thy head, nor in thy waist: Then w
 </div>
 
 ## ०७ अदन्ति त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒दन्ति॑ त्वा पि॒पीलि॑का॒ वि वृ॑श्चन्ति मयू॒र्यः᳡।  
 सर्वे॑ भल ब्रवाथ॒ शार्को॑टमर॒सं वि॒षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/07_adanti_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/07_adanti_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -446,7 +446,7 @@ No strength in thy two arms hast thou, nor in thy head, nor in thy waist: Then w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/07_adanti_tvA.md">
 <details open><summary><h3>०७ अदन्ति त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -496,14 +496,14 @@ The emmets make a meal of thee and peahens tear and mangle thee: All ye are cryi
 </div>
 
 ## ०८ य उभाभ्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॒भाभ्यां॑ प्र॒हर॑सि॒ पुच्छे॑न चा॒स्ये᳡न च।  
 आ॒स्ये॒३॒॑ न ते॑ वि॒षं किमु॑ ते पुच्छ॒धाव॑सत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -512,7 +512,7 @@ The emmets make a meal of thee and peahens tear and mangle thee: All ye are cryi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/056_viShabhaiShajyam/08_ya_ubhAbhyAm.md">
 <details open><summary><h3>०८ य उभाभ्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

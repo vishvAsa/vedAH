@@ -2,7 +2,7 @@
 title = "०२८ दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>०२८ दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for a boy's long and happy life
 </div>
 
 ## ०१ तुभ्यमेव जरिमन्वर्धतामयम्मेममन्ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तुभ्य॑मे॒व ज॑रिमन्वर्धताम॒यम्मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये।  
 मा॒तेव॑ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त्पा॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for a boy's long and happy life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/01_tubhyameva_jarimanvardhatAmayammemamanye.md">
 <details open><summary><h3>०१ तुभ्यमेव जरिमन्वर्धतामयम्मेममन्ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ This Child, Old Age! shall grow to meet thee only: none of the hundred other dea
 </div>
 
 ## ०२ मित्र एनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मि॒त्र ए॑नं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ।  
 तद॒ग्निर्होता॑ व॒युना॑नि वि॒द्वान्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ This Child, Old Age! shall grow to meet thee only: none of the hundred other dea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/02_mitra_enam.md">
 <details open><summary><h3>०२ मित्र एनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ Mitra or Varuna the foe-destroyer, accordant, grant him death in course of natur
 </div>
 
 ## ०३ त्वमीशिषे पशूनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑।  
 मेमं प्रा॒णो हा॑सीन्मो अपा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Mitra or Varuna the foe-destroyer, accordant, grant him death in course of natur
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/03_tvamIshiShe_pashUnAm.md">
 <details open><summary><h3>०३ त्वमीशिषे पशूनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -248,14 +248,14 @@ Thou art the Lord of all terrestrial cattle, of cattle born and to be born herea
 </div>
 
 ## ०४ द्यौष्ट्वा पिता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने।  
 यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -264,7 +264,7 @@ Thou art the Lord of all terrestrial cattle, of cattle born and to be born herea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/04_dyauShTvA_pitA.md">
 <details open><summary><h3>०४ द्यौष्ट्वा पिता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -318,14 +318,14 @@ Let Heaven thy father and let Earth thy mother, accordant, give thee death in co
 </div>
 
 ## ०५ इममग्न आयुषे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मम॒ग्न आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्र राजन्।  
 मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्यथास॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -334,7 +334,7 @@ Let Heaven thy father and let Earth thy mother, accordant, give thee death in co
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/028_dIrghAyuHprAptiH/05_imamagna_AyuShe.md">
 <details open><summary><h3>०५ इममग्न आयुषे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

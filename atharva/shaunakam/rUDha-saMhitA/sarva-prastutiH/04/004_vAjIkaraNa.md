@@ -2,7 +2,7 @@
 title = "००४ वाजीकरण"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/_index.md">
 <details open><summary><h2>००४ वाजीकरण ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to restore virile power
 </div>
 
 ## ०१ य त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/01_ya_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य त्वा॑ गन्ध॒र्वो अख॑न॒द्वरु॑णाय मृ॒तभ्र॑जे।  
 तां त्वा॑ व॒यं ख॑नाम॒स्योष॑धिं शेप॒हर्ष॑णीम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/01_ya_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to restore virile power
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/01_ya_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/01_ya_tvA.md">
 <details open><summary><h3>०१ य त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 </div>
 
 ## ०२ उदुषा उदु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/02_uduShA_udu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदु॒षा उदु॒ सूर्य॒ उदि॒दं मा॑म॒कं वचः॑।  
 उदे॑जतु प्र॒जाप॑ति॒र्वृषा॒ शुष्मे॑ण वा॒जिना॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/02_uduShA_udu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ We dig thee from the earth, the Plant which strengthens and exalts the nerves, T
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/02_uduShA_udu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/02_uduShA_udu.md">
 <details open><summary><h3>०२ उदुषा उदु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -178,14 +178,14 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 </div>
 
 ## ०३ यथा स्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/03_yathA_sma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ स्म ते वि॒रोह॑तो॒ऽभित॑प्तमि॒वान॑ति।  
 तत॑स्ते॒ शुष्म॑वत्तरमि॒यं कृ॑णो॒त्वोष॑धिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/03_yathA_sma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -194,7 +194,7 @@ Let Ushas and let Surya rise, let this the speech I utter rise. Let the strong m
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/03_yathA_sma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/03_yathA_sma.md">
 <details open><summary><h3>०३ यथा स्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 </div>
 
 ## ०४ उच्छुष्मौषधीनां सार
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उच्छुष्मौष॑धीनां॒ सार॑ ऋष॒भाणा॑म्।  
 सं पुं॒सामि॑न्द्र॒ वृष्ण्य॑म॒स्मिन्धे॑हि तनूवशिन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ Sicut tui surgentis (membrum virile) tanquam inflammatum palpitat, hoc illud tui
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/04_uchChuShmauShadhInAM_sAra.md">
 <details open><summary><h3>०४ उच्छुष्मौषधीनां सार ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -325,14 +325,14 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 </div>
 
 ## ०५ अपां रसः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पां रसः॑ प्रथम॒जोऽथो॒ वन॒स्पती॑नाम्।  
 उ॒त सोम॑स्य॒ भ्राता॑स्यु॒तार्शम॑सि॒ वृष्ण्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/05_apAM_rasaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/05_apAM_rasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -341,7 +341,7 @@ Sursum (estote) herbarum vires, taurorum vigor. Tu, Indra, corporis potens, viro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/05_apAM_rasaH.md">
 <details open><summary><h3>०५ अपां रसः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -392,14 +392,14 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 </div>
 
 ## ०६ अद्याग्ने अद्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒द्याग्ने॑ अ॒द्य स॑वितर॒द्य दे॑वि सरस्वति।  
 अ॒द्यास्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/06_adyAgne_adya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -408,7 +408,7 @@ Ros aquarum primigenitus atque arborum, Somae etiam frater es, vatum sacrorum ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/06_adyAgne_adya.md">
 <details open><summary><h3>०६ अद्याग्ने अद्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -489,14 +489,14 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 </div>
 
 ## ०७ आहं तनोमि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
 क्रम॒स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -505,7 +505,7 @@ Hodie, Agnis! hodie Savitar! hodie dea Sarasvatis! hodie Brahmanaspatis! hujus f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/07_AhaM_tanomi.md">
 <details open><summary><h3>०७ आहं तनोमि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -547,14 +547,14 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 </div>
 
 ## ०८ अश्वस्याश्वतरस्याजस्य पेत्वस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्व॑स्याश्वत॒रस्या॒जस्य॒ पेत्व॑स्य च।  
 अथ॑ ऋष॒भस्य॒ ये वाजा॒स्तान॒स्मिन्धे॑हि तनूवशिन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -563,7 +563,7 @@ Velut nervum in arcu ego tuum fascinum extendo. Aggredere (mulierem) semper inde
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/004_vAjIkaraNa/08_ashvasyAshvatarasyAjasya_petvasya.md">
 <details open><summary><h3>०८ अश्वस्याश्वतरस्याजस्य पेत्वस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

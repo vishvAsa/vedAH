@@ -2,7 +2,7 @@
 title = "०१७ बलप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/_index.md">
 <details open><summary><h2>०१७ बलप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A prayer to an amulet for health and strength
 </div>
 
 ## ०१ ओजोऽस्योजो मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/01_ojo-syojo_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ओजो॒ऽस्योजो॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/01_ojo-syojo_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A prayer to an amulet for health and strength
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/01_ojo-syojo_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/01_ojo-syojo_me.md">
 <details open><summary><h3>०१ ओजोऽस्योजो मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,13 +98,13 @@ Power art thou, give me power. All hail!
 </div>
 
 ## ०२ सहो ऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/02_saho-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/02_saho-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सहो॑ ऽसि॒ सहो॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/02_saho-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/02_saho-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ Power art thou, give me power. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/02_saho-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/02_saho-si.md">
 <details open><summary><h3>०२ सहो ऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,13 +157,13 @@ Might art thou, give me might. All hail!
 </div>
 
 ## ०३ बलमसि बलम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/03_balamasi_balam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/03_balamasi_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बल॑मसि॒ बलं॑ दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/03_balamasi_balam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/03_balamasi_balam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -171,7 +171,7 @@ Might art thou, give me might. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/03_balamasi_balam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/03_balamasi_balam.md">
 <details open><summary><h3>०३ बलमसि बलम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -216,13 +216,13 @@ Strength art thou, give me strength. All hail!
 </div>
 
 ## ०४ आयुरस्यायुर्मे दाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयु॑र॒स्यायु॑र्मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -230,7 +230,7 @@ Strength art thou, give me strength. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/04_AyurasyAyurme_dAH.md">
 <details open><summary><h3>०४ आयुरस्यायुर्मे दाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -275,13 +275,13 @@ Life art thou, give me life. All hail!
 </div>
 
 ## ०५ श्रोत्रमसि श्रोत्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रोत्र॑मसि॒ श्रोत्रं॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -289,7 +289,7 @@ Life art thou, give me life. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/05_shrotramasi_shrotram.md">
 <details open><summary><h3>०५ श्रोत्रमसि श्रोत्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -335,13 +335,13 @@ Ear art thou, give me hearing! Hail!
 </div>
 
 ## ०६ चक्षुरसि चक्षुर्मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चक्षु॑रसि॒ चक्षु॑र्मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -349,7 +349,7 @@ Ear art thou, give me hearing! Hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/06_chaxurasi_chaxurme.md">
 <details open><summary><h3>०६ चक्षुरसि चक्षुर्मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -393,13 +393,13 @@ Eye art thou, give me eyes. All hail!
 </div>
 
 ## ०७ परिपाणमसि परिपाणम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॑रि॒पाण॑मसि परि॒पाणं॑ मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -407,7 +407,7 @@ Eye art thou, give me eyes. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/017_balaprAptiH/07_paripANamasi_paripANam.md">
 <details open><summary><h3>०७ परिपाणमसि परिपाणम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

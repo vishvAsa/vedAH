@@ -2,7 +2,7 @@
 title = "०६६ असुरक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/_index.md">
 <details open><summary><h2>०६६ असुरक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Agni as the Sun
 </div>
 
 ## ०१ अयोजाला असुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अयो॑जाला॒ असु॑रा मा॒यिनो॑ऽय॒स्मयैः॒ पाशै॑र॒ङ्किनो॒ ये चर॑न्ति।  
 तांस्ते॑ रन्धयामि॒ हर॑सा जातवेदः स॒हस्रऋ॑ष्टिः स॒पत्ना॑न्प्रमृ॒णन्पा॑हि॒ वज्रः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Agni as the Sun
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/066_asuraxayaNam/01_ayojAlA_asurA.md">
 <details open><summary><h3>०१ अयोजाला असुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

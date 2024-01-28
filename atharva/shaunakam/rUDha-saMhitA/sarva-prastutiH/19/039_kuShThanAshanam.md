@@ -2,7 +2,7 @@
 title = "०३९ कुष्ठनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/_index.md">
 <details open><summary><h2>०३९ कुष्ठनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A protective charm
 </div>
 
 ## ०१ ऐतु देवस्त्रायमाणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऐतु॑ दे॒वस्त्रा॑यमाणः॒ कुष्ठो॑ हि॒मव॑त॒स्परि॑।  
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡  ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A protective charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/01_aitu_devastrAyamANaH.md">
 <details open><summary><h3>०१ ऐतु देवस्त्रायमाणः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,7 +100,7 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 </div>
 
 ## ०२ त्रीणि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/02_trINi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/02_trINi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रीणि॑ ते कुष्ठ॒ नामा॑नि नद्यमा॒रो न॒द्यारि॑षः।  
@@ -108,7 +108,7 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/02_trINi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/02_trINi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Let Kushtha from the Hill of Snow come, a divine deliverer. Banish thou all Cons
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/02_trINi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/02_trINi_te.md">
 <details open><summary><h3>०२ त्रीणि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -202,7 +202,7 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 </div>
 
 ## ०३ जीवला नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जी॑व॒ला नाम॑ ते मा॒ता जी॑व॒न्तो नाम॑ ते पि॒ता।  
@@ -210,7 +210,7 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॒ दिवा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -220,7 +220,7 @@ Kushtha, three several names hast thou, Naghamara, Nagharisha: let not mishap be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/03_jIvalA_nAma.md">
 <details open><summary><h3>०३ जीवला नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -269,7 +269,7 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 </div>
 
 ## ०४ उत्तमो अस्योषधीनामनड्वाञ्जगतामिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑त्त॒मो अ॒स्योष॑धीनामन॒ड्वाञ्जग॑तामिव व्या॒घ्रः श्वप॑दामिव।  
@@ -277,7 +277,7 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 यस्मै॑ परि॒ब्रवी॑मि त्वा सा॒यंप्रा॑त॒रथो॑ दिवा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -287,7 +287,7 @@ Jivala is thy mother's name, thy father's name is Jivala; let not mishap, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/04_uttamo_asyoShadhInAmanaDvAnjagatAmiva.md">
 <details open><summary><h3>०४ उत्तमो अस्योषधीनामनड्वाञ्जगतामिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -336,7 +336,7 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 </div>
 
 ## ०५ त्रिः शाम्बुभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रिः शाम्बु॑भ्यो॒ अङ्गि॑रेभ्य॒स्त्रिरा॑दि॒त्येभ्य॒स्परि॑।  
@@ -345,7 +345,7 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -356,7 +356,7 @@ Thou art the best amid the plants, even as the ox is best of tame, the tiger of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/05_triH_shAmbubhyo.md">
 <details open><summary><h3>०५ त्रिः शाम्बुभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -416,7 +416,7 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 </div>
 
 ## ०६ अश्वत्थो देवसदनस्तृतीयस्यामितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
@@ -425,7 +425,7 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -436,7 +436,7 @@ Born thrice from the Adityas, thrice from Bhrigus, thrice from Angiras' sons, bo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/06_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>०६ अश्वत्थो देवसदनस्तृतीयस्यामितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -491,7 +491,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 </div>
 
 ## ०७ हिरण्ययी नौरचरद्धिरण्यबन्धना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
@@ -500,7 +500,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -511,7 +511,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods: There i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/07_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>०७ हिरण्ययी नौरचरद्धिरण्यबन्धना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -558,7 +558,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 </div>
 
 ## ०८ यत्र नावप्रभ्रंशनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॒ नाव॑प्र॒भ्रंश॑नं॒ यत्र॑ हि॒मव॑तः॒ शिरः॑।  
@@ -567,7 +567,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 त॒क्मानं॒ सर्वं॑ नाशय॒ सर्वा॑श्च यातुधा॒न्यः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -578,7 +578,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of gold: T
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/08_yatra_nAvaprabhraMshanam.md">
 <details open><summary><h3>०८ यत्र नावप्रभ्रंशनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -644,14 +644,14 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 </div>
 
 ## ०९ यं त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/09_yaM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं त्वा॒ वेद॒ पूर्व॒ इक्ष्वा॑को॒ यं वा॑ त्वा कुष्ठ का॒म्यः᳡।  
 यं वा॒ वसो॒ यमात्स्य॒स्तेना॑सि वि॒श्वभे॑षजः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/09_yaM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -660,7 +660,7 @@ Where is the Sinking of the Ship, the summit of the Hill of Snow, There is embod
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/09_yaM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/09_yaM_tvA.md">
 <details open><summary><h3>०९ यं त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -717,14 +717,14 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 </div>
 
 ## १० शीर्षलोकं तृतीयकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शी॑र्षलो॒कं तृती॑यकं सद॒न्दिर्यश्च॑ हाय॒नः।  
 त॒क्मानं॑ विश्वधावीर्याध॒राञ्चं॒ परा॑ सुव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -733,7 +733,7 @@ Thou whom Ikshvaku's ancestor, whom he who well-loved Kushtha, knew, Whom Vayasa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/039_kuShThanAshanam/10_shIrShalokaM_tRtIyakam.md">
 <details open><summary><h3>१० शीर्षलोकं तृतीयकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

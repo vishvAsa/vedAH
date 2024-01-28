@@ -2,7 +2,7 @@
 title = "०२० पिशाचक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/_index.md">
 <details open><summary><h2>०२० पिशाचक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the acquisition of superhuman powers of sight
 </div>
 
 ## ०१ आ पश्यति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/01_A_pashyati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ प॑श्यति॒ प्रति॑ पश्यति॒ परा॑ पश्यति॒ पश्य॑ति।  
 दिव॑म॒न्तरि॑क्ष॒माद्भूमिं॒ सर्वं॒ तद्दे॑वि पश्यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/01_A_pashyati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the acquisition of superhuman powers of sight
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/01_A_pashyati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/01_A_pashyati.md">
 <details open><summary><h3>०१ आ पश्यति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ It sees in front, it sees behind, it sees afar away, it sees The sky, the firmam
 </div>
 
 ## ०२ तिस्रो दिवस्तिस्रः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒स्रो दिव॑स्ति॒स्रः पृ॑थि॒वीः षट्चे॒माः प्र॒दिशः॒ पृथ॑क्।  
 त्वया॒हं सर्वा॑ भू॒तानि॒ पश्या॑नि देव्योषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ It sees in front, it sees behind, it sees afar away, it sees The sky, the firmam
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/02_tisro_divastisraH.md">
 <details open><summary><h3>०२ तिस्रो दिवस्तिस्रः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Through thee, O godlike Plant, may I behold all creatures that exist, Three seve
 </div>
 
 ## ०३ दिव्यस्य सुपर्णस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒व्यस्य॑ सुप॒र्णस्य॒ तस्य॑ हासि क॒नीनि॑का।  
 सा भूमि॒मा रु॑रोहिथ व॒ह्यं श्रा॒न्ता व॒धूरि॑व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Through thee, O godlike Plant, may I behold all creatures that exist, Three seve
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/03_divyasya_suparNasya.md">
 <details open><summary><h3>०३ दिव्यस्य सुपर्णस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 </div>
 
 ## ०४ तां मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/04_tAM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/04_tAM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां मे॑ सहस्रा॒क्षो दे॒वो दक्षि॑णे॒ हस्त॒ आ द॑धत्।  
 तया॒हं सर्वं॑ पश्यामि॒ यश्च॑ शू॒द्र उ॒तार्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/04_tAM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/04_tAM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ The pupil, verily, art thou of that celestial Engle's eye. On earth hast thou al
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/04_tAM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/04_tAM_me.md">
 <details open><summary><h3>०४ तां मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -298,14 +298,14 @@ The God who hath a thousand eyes give me this Plant in my right hand! I look on 
 </div>
 
 ## ०५ आविष्कृणुष्व रूपाणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒विष्कृ॑णुष्व रू॒पाणि॒ मात्मान॒मप॑ गूहथाः।  
 अथो॑ सहस्रचक्षो॒ त्वं प्रति॑ पश्याः किमी॒दिनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -314,7 +314,7 @@ The God who hath a thousand eyes give me this Plant in my right hand! I look on 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/05_AviShkRNuShva_rUpANi.md">
 <details open><summary><h3>०५ आविष्कृणुष्व रूपाणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -363,14 +363,14 @@ Make manifest the forms of things; hide not their essences from sight. And, thou
 </div>
 
 ## ०६ दर्शय मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द॒र्शय॑ मा यातु॒धाना॑न्द॒र्शय॑ यातुधा॒न्यः॑।  
 पि॑शा॒चान्त्सर्वा॑न्दर्श॒येति॒ त्वा र॑भ ओषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/06_darshaya_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -379,7 +379,7 @@ Make manifest the forms of things; hide not their essences from sight. And, thou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/06_darshaya_mA.md">
 <details open><summary><h3>०६ दर्शय मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -426,14 +426,14 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 </div>
 
 ## ०७ कश्यपस्य चक्षुरसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क॒श्यप॑स्य॒ चक्षु॑रसि शु॒न्याश्च॑ चतुर॒क्ष्याः।  
 वी॒ध्रे सूर्य॑मिव॒ सर्प॑न्तं॒ मा पि॑शा॒चं ति॒रस्क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -442,7 +442,7 @@ Make me see Yatudhanas, make thou Yatudhanis visible. Make me see all Pisachas W
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/07_kashyapasya_chaxurasi.md">
 <details open><summary><h3>०७ कश्यपस्य चक्षुरसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -503,14 +503,14 @@ Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisa
 </div>
 
 ## ०८ उदग्रभं परिपाणाद्यातुधानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑ग्रभं परि॒पाणा॑द्यातु॒धानं॑ किमी॒दिन॑म्।  
 तेना॒हं सर्वं॑ पश्याम्यु॒त शू॒द्रमु॒तार्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -519,7 +519,7 @@ Thou art the sight of Kasyapa and of the hound who hath four eyes. Make the Pisa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/08_udagrabhaM_paripANAdyAtudhAnam.md">
 <details open><summary><h3>०८ उदग्रभं परिपाणाद्यातुधानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -568,14 +568,14 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 </div>
 
 ## ०९ यो अन्तरिक्षेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒न्तरि॑क्षेण॒ पत॑ति॒ दिवं॒ यश्चा॑ति॒सर्प॑ति।  
 भूमिं॒ यो मन्य॑ते ना॒थं तं पि॑शा॒चं प्र द॑र्शय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -584,7 +584,7 @@ Kimidin, Yatudhana from their hiding-places have I dragged. I look on every one 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/020_pishAchaxayaNam/09_yo_antarixeNa.md">
 <details open><summary><h3>०९ यो अन्तरिक्षेण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

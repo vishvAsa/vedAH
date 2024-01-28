@@ -2,7 +2,7 @@
 title = "०२५ कामस्य इषुः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/_index.md">
 <details open><summary><h2>०२५ कामस्य इषुः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A man's love-charm
 </div>
 
 ## ०१ उत्तुदस्त्वोत्तुदतु मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑त्तु॒दस्त्वोत्तु॑दतु॒ मा धृ॑थाः॒ शय॑ने॒ स्वे।  
 इषुः॒ काम॑स्य॒ या भी॒मा तया॑ विध्यामि त्वा हृ॒दि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A man's love-charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/01_uttudastvottudatu_mA.md">
 <details open><summary><h3>०१ उत्तुदस्त्वोत्तुदतु मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -88,14 +88,14 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 </div>
 
 ## ०२ आधीपर्णां कामशल्यामिषुम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒धीप॑र्णां॒ काम॑शल्या॒मिषुं॑ संक॒ल्पकु॑ल्मलाम्।  
 तां सुसं॑नतां कृ॒त्वा कामो॑ विध्यतु त्वा हृ॒दि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -104,7 +104,7 @@ Let the Impeller goad thee on. Rest not in peace upon thy bed. Terrible is the s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/02_AdhIparNAM_kAmashalyAmiShum.md">
 <details open><summary><h3>०२ आधीपर्णां कामशल्यामिषुम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -155,14 +155,14 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 </div>
 
 ## ०३ या प्लीहानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या प्ली॒हानं॑ शो॒षय॑ति॒ काम॒स्येषुः॒ सुसं॑नता।  
 प्रा॒चीन॑पक्षा॒ व्यो॑षा॒ तया॑ विध्यामि त्वा हृ॒दि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -171,7 +171,7 @@ That arrow winged with longing thought, its stem Desire, its neck, Resolve, Let 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/03_yA_plIhAnam.md">
 <details open><summary><h3>०३ या प्लीहानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -221,14 +221,14 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 </div>
 
 ## ०४ शुचा विद्धा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शु॒चा वि॒द्धा व्यो॑षया॒ शुष्का॑स्या॒भि स॑र्प मा।  
 मृ॒दुर्निम॑न्युः॒ केव॑ली प्रियवा॒दिन्यनु॑व्रता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -237,7 +237,7 @@ The shaft of Kama, pointed well, that withers and consumes the spleen. With hast
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/04_shuchA_viddhA.md">
 <details open><summary><h3>०४ शुचा विद्धा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -288,14 +288,14 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 </div>
 
 ## ०५ आजामि त्वाजन्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आजा॑मि॒ त्वाज॑न्या॒ परि॑ मा॒तुरथो॑ पि॒तुः।  
 यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -304,7 +304,7 @@ Pierced through with fiercely-burning heat, steal to me with thy parching lips, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/05_AjAmi_tvAjanyA.md">
 <details open><summary><h3>०५ आजामि त्वाजन्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -352,14 +352,14 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 </div>
 
 ## ०६ व्यस्यै मित्रावरुणौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्य॑स्यै मित्रावरुणौ हृ॒दश्चि॒त्तान्य॑स्यतम्।  
 अथै॑नामक्र॒तुं कृ॒त्वा ममै॒व कृ॑णुतं॒ वशे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -368,7 +368,7 @@ Away Lfrom mother and from sire I drive thee hither with a whip, That thou mayst
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/025_kAmasya_iShuH/06_vyasyai_mitrAvaruNau.md">
 <details open><summary><h3>०६ व्यस्यै मित्रावरुणौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

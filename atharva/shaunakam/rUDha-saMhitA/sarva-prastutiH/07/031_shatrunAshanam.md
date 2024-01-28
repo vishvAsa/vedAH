@@ -2,7 +2,7 @@
 title = "०३१ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/_index.md">
 <details open><summary><h2>०३१ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for the overthrow of enemies
 </div>
 
 ## ०१ इन्द्रोतिभिर्बहुलाभिर्नो अद्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑वच्छ्रे॒ष्ठाभि॑र्मघवन्छूर जिन्व।  
 यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for the overthrow of enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/031_shatrunAshanam/01_indrotibhirbahulAbhirno_adya.md">
 <details open><summary><h3>०१ इन्द्रोतिभिर्बहुलाभिर्नो अद्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

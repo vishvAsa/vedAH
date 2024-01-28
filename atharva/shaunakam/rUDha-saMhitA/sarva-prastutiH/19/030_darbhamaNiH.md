@@ -2,7 +2,7 @@
 title = "०३० दर्भमणिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/_index.md">
 <details open><summary><h2>०३० दर्भमणिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A protective charm accompanying investiture with an amulet of Darbha grass
 </div>
 
 ## ०१ यत्ते दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/01_yatte_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ दर्भ ज॒रामृ॑त्युः श॒तं वर्म॑सु॒ वर्म॑ ते।  
 तेने॒मं व॒र्मिणं॑ कृ॒त्वा स॒पत्नां॑ ज॒हि वी॒र्यैः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/01_yatte_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A protective charm accompanying investiture with an amulet of Darbha grass
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/01_yatte_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/01_yatte_darbha.md">
 <details open><summary><h3>०१ यत्ते दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm
 </div>
 
 ## ०२ शतं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/02_shataM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/02_shataM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तं ते॑ दर्भ॒ वर्मा॑णि स॒हस्रं॑ वी॒र्या᳡णि ते।  
 तम॒स्मै विश्वे॒ त्वां दे॑वा ज॒रसे॒ भर्त॒वा अ॑दुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/02_shataM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/02_shataM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Darbha, with that good shield of thine, of hundred guards tilt death in eld, Arm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/02_shataM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/02_shataM_te.md">
 <details open><summary><h3>०२ शतं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All God
 </div>
 
 ## ०३ त्वामाहुर्देववर्म त्वाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वामा॑हुर्देव॒वर्म॒ त्वां द॑र्भ॒ ब्रह्म॑ण॒स्पति॑म्।  
 त्वामिन्द्र॑स्याहु॒र्वर्म॒ त्वं रा॒ष्ट्राणि॑ रक्षसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ Darbha, thou hast a hundred shields, thou hast a thousand. manly powers. All God
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/03_tvAmAhurdevavarma_tvAm.md">
 <details open><summary><h3>०३ त्वामाहुर्देववर्म त्वाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They cal
 </div>
 
 ## ०४ सपत्नक्षयणं दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑पत्न॒क्षय॑णं दर्भ द्विष॒तस्तप॑नं हृ॒दः।  
 म॒णिं क्ष॒त्रस्य॒ वर्ध॑नं तनू॒पानं॑ कृणोमि ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ They call thee, 'Darbha, shield of Gods, they call the Brahmanas- pati. They cal
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/04_sapatnaxayaNaM_darbha.md">
 <details open><summary><h3>०४ सपत्नक्षयणं दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -303,14 +303,14 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 </div>
 
 ## ०५ यत्समुद्रो अभ्यक्रन्दत्पर्जन्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्स॑मु॒द्रो अ॒भ्यक्र॑न्दत्प॒र्जन्यो॑ वि॒द्युता॑ स॒ह।  
 ततो॑ हिर॒ण्ययो॑ बि॒न्दुस्ततो॑ द॒र्भो अ॑जायत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -319,7 +319,7 @@ Darbha, destroyer of the foe, vexing the hearts of enemies, An Amulet that stren
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/030_darbhamaNiH/05_yatsamudro_abhyakrandatparjanyo.md">
 <details open><summary><h3>०५ यत्समुद्रो अभ्यक्रन्दत्पर्जन्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "११४ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/_index.md">
 <details open><summary><h2>११४ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 </div>
 
 ## ०१ आ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/01_A_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/01_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद्ददे।  
 आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त्सर्वं॑ ते॒ वर्च॒ आ द॑दे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/01_A_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/01_A_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, Ind. Stud. v. 265; Henry, 45, 123; Griffith, i. 383.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/01_A_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/01_A_te.md">
 <details open><summary><h3>०१ आ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 </div>
 
 ## ०२ प्रेतो यन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/02_preto_yantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/114_shatrunAshanam/02_preto_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रेतो य॑न्तु॒ व्या᳡ध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः।  
 अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/02_preto_yantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/114_shatrunAshanam/02_preto_yantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ I have extracted from thy sides, I have extracted from thy heart, I have extract
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/02_preto_yantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/114_shatrunAshanam/02_preto_yantu.md">
 <details open><summary><h3>०२ प्रेतो यन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

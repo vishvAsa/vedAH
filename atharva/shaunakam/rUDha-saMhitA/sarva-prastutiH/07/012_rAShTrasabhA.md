@@ -2,7 +2,7 @@
 title = "०१२ राष्ट्रसभा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/_index.md">
 <details open><summary><h2>०१२ राष्ट्रसभा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for influence at deliberative and religious meetings
 </div>
 
 ## ०१ सभा च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/01_sabhA_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/01_sabhA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने।  
 येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/01_sabhA_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/01_sabhA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for influence at deliberative and religious meetings
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/01_sabhA_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/01_sabhA_cha.md">
 <details open><summary><h3>०१ सभा च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ In concord may Prajapati's two daughters, Gathering and As- sembly, both protect
 </div>
 
 ## ०२ विद्म ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/02_vidma_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि।  
 ये ते॒ के च॑ सभा॒सद॑स्ते मे सन्तु॒ सवा॑चसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/02_vidma_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/02_vidma_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ In concord may Prajapati's two daughters, Gathering and As- sembly, both protect
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/02_vidma_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/02_vidma_te.md">
 <details open><summary><h3>०२ विद्म ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 </div>
 
 ## ०३ एषामहं समासीनानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे।  
 अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ We know thy name, O Conference: thy name is interchange of talk. Let all the com
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/03_eShAmahaM_samAsInAnAm.md">
 <details open><summary><h3>०३ एषामहं समासीनानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ Of these men seated here I make the splendour and the lore mine own. Indra, make
 </div>
 
 ## ०४ यद्वो मनः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वो॒ मनः॒ परा॑गतं॒ यद्ब॒द्धमि॒ह वे॒ह वा॑।  
 तद्व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/04_yadvo_manaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ Of these men seated here I make the splendour and the lore mine own. Indra, make
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/012_rAShTrasabhA/04_yadvo_manaH.md">
 <details open><summary><h3>०४ यद्वो मनः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

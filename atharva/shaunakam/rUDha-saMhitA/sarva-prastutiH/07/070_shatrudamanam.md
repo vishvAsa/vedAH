@@ -2,7 +2,7 @@
 title = "०७० शत्रुदमनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/_index.md">
 <details open><summary><h2>०७० शत्रुदमनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to frustrate an enemy's sacrifice
 </div>
 
 ## ०१ यत्किं चासौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्किं चा॒सौ मन॑सा॒ यच्च॑ वा॒चा य॒ज्ञैर्जु॒होति॑ ह॒विषा॒ यजु॑षा।  
 तन्मृ॒त्युना॒ निरृ॑तिः संविदा॒ना पु॒रा स॒त्यादाहु॑तिं हन्त्वस्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/01_yatkiM_chAsau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to frustrate an enemy's sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/01_yatkiM_chAsau.md">
 <details open><summary><h3>०१ यत्किं चासौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Whatever sacrifice that man performeth with voice, mind, sacred formula, oblatio
 </div>
 
 ## ०२ यातुधाना निरृतिरादु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या॑तु॒धाना॒ निरृ॑ति॒रादु॒ रक्ष॒स्ते अ॑स्य घ्न॒न्त्वनृ॑तेन स॒त्यम्।  
 इन्द्रे॑षिता दे॒वा आज॑मस्य मथ्नन्तु॒ मा तत्सं पा॑दि॒ यद॒सौ जु॒होति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Whatever sacrifice that man performeth with voice, mind, sacred formula, oblatio
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/02_yAtudhAnA_nirRtirAdu.md">
 <details open><summary><h3>०२ यातुधाना निरृतिरादु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ For him may sorcerers, Destruction, demons strike and prevent fulfilment through
 </div>
 
 ## ०३ अजिराधिराजौ श्येनौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑जिराधिरा॒जौ श्ये॒नौ सं॑पा॒तिना॑विव।  
 आज्यं॑ पृतन्य॒तो ह॑तां॒ यो नः॒ कश्चा॑भ्यघा॒यति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ For him may sorcerers, Destruction, demons strike and prevent fulfilment through
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/03_ajirAdhirAjau_shyenau.md">
 <details open><summary><h3>०३ अजिराधिराजौ श्येनौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 </div>
 
 ## ०४ अपाञ्चौ त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/04_apAnchau_ta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपा॑ञ्चौ त उ॒भौ बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
 अ॒ग्नेर्दे॒वस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/04_apAnchau_ta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ Let the two Sovrans, swift to come, like falcons swooping on their prey, Destroy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/04_apAnchau_ta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/04_apAnchau_ta.md">
 <details open><summary><h3>०४ अपाञ्चौ त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -301,14 +301,14 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 </div>
 
 ## ०५ अपि नह्यामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/05_api_nahyAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपि॑ नह्यामि ते बा॒हू अपि॑ नह्याम्या॒स्य᳡म्।  
 अ॒ग्नेर्घो॒रस्य॑ म॒न्युना॒ तेन॑ तेऽवधिषं ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/05_api_nahyAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -317,7 +317,7 @@ I seize thine arms and draw them back, I bind a bandage on thy mouth. I with the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/05_api_nahyAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/070_shatrudamanam/05_api_nahyAmi.md">
 <details open><summary><h3>०५ अपि नह्यामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

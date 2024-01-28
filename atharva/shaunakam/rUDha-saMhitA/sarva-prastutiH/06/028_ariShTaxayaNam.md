@@ -2,7 +2,7 @@
 title = "०२८ अरिष्टक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/_index.md">
 <details open><summary><h2>०२८ अरिष्टक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to avert misfortune foreshown by the coming of a dove
 </div>
 
 ## ०१ ऋचा कपोतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यामः।  
 सं॑लो॒भय॑न्तो दुरि॒ता प॒दानि॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑दा॒त्पथि॑ष्ठः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to avert misfortune foreshown by the coming of a dove
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/01_RchA_kapotam.md">
 <details open><summary><h3>०१ ऋचा कपोतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 </div>
 
 ## ०२ परीमेग्निमर्षत परीमे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परी॒मे॒३॒॑ग्निम॑र्षत॒ परी॒मे गाम॑नेषत।  
 दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Drive forth the Dove, chase it with holy verses: rejoicing bring we hither food 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/02_parImegnimarShata_parIme.md">
 <details open><summary><h3>०२ परीमेग्निमर्षत परीमे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 </div>
 
 ## ०३ यः प्रथमः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः प्र॑थ॒मः प्र॒वत॑मास॒साद॑ ब॒हुभ्यः॒ पन्था॑मनुपस्पशा॒नः।  
 यो॒३॒॑स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ These men have strengthened Agni's might, these men have brought the kine to us.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/028_ariShTaxayaNam/03_yaH_prathamaH.md">
 <details open><summary><h3>०३ यः प्रथमः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

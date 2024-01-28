@@ -2,7 +2,7 @@
 title = "०३५ वैश्वानरः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/_index.md">
 <details open><summary><h2>०३५ वैश्वानरः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ To Agni Vaisvanara
 </div>
 
 ## ०१ वैश्वानरो न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑श्वान॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑।  
 अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ To Agni Vaisvanara
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/01_vaishvAnaro_na.md">
 <details open><summary><h3>०१ वैश्वानरो न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 </div>
 
 ## ०२ वैश्वानरो न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑श्वान॒रो न॒ आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑।  
 अ॒ग्निरु॒क्थेष्वंह॑सु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Forth from the distance far away Vaisvanara come to succour us! Agni approach ou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/02_vaishvAnaro_na.md">
 <details open><summary><h3>०२ वैश्वानरो न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 </div>
 
 ## ०३ वैश्वानरोऽङ्गिरसां स्तोममुक्थम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वै॑श्वान॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्।  
 एषु॑ द्यु॒म्नं स्व᳡र्यमत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Vaisvanara with friendly thoughts hath come to this our sacrifice, Agni who save
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/035_vaishvAnaraH/03_vaishvAnaro-ngirasAM_stomamuktham.md">
 <details open><summary><h3>०३ वैश्वानरोऽङ्गिरसां स्तोममुक्थम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

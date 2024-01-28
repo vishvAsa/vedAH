@@ -2,7 +2,7 @@
 title = "०२३ दुःस्वप्ननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/_index.md">
 <details open><summary><h2>०२३ दुःस्वप्ननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to banish fiends and troubles
 </div>
 
 ## ०१ दौष्वप्न्यं दौर्जीवित्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑।  
 दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to banish fiends and troubles
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/023_duHsvapnanAshanam/01_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>०१ दौष्वप्न्यं दौर्जीवित्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

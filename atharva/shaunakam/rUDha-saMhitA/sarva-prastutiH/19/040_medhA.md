@@ -2,7 +2,7 @@
 title = "०४० मेधा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/_index.md">
 <details open><summary><h2>०४० मेधा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 </div>
 
 ## ०१ यन्मे छिद्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/01_yanme_Chidram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/01_yanme_Chidram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑।  
 विश्वै॒स्तद्दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/01_yanme_Chidram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/01_yanme_Chidram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for pardon of error in sacrifice, and for wisdom, strength, and life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/01_yanme_Chidram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/01_yanme_Chidram.md">
 <details open><summary><h3>०१ यन्मे छिद्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 </div>
 
 ## ०२ मा न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/02_mA_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/02_mA_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा न॑ आपो मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन।  
 सु॑ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/02_mA_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/02_mA_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ For each defect of mine in voice and spirit I have approached One vehement and a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/02_mA_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/02_mA_na.md">
 <details open><summary><h3>०२ मा न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -187,14 +187,14 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 </div>
 
 ## ०३ मा नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/03_mA_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत्तपः॑।  
 शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/03_mA_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/03_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -203,7 +203,7 @@ Disturb ye not our intellect, O Waters, nor the power of prayer_ Glide on your w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/03_mA_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/03_mA_no.md">
 <details open><summary><h3>०३ मा नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -265,14 +265,14 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 </div>
 
 ## ०४ या नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/04_yA_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/040_medhA/04_yA_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः।  
 ताम॒स्मे रा॑सता॒मिष॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/04_yA_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/040_medhA/04_yA_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -281,7 +281,7 @@ Mar not our consecrating rite, our intellect, or fervent zeal. Gracious to us fo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/04_yA_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/040_medhA/04_yA_naH.md">
 <details open><summary><h3>०४ या नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

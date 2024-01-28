@@ -2,7 +2,7 @@
 title = "०३० राष्ट्रदेवी"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/_index.md">
 <details open><summary><h2>०३० राष्ट्रदेवी ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -36,9 +36,9 @@ A glorification of vak or speech
 </div>
 
 ## ०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
 <details open><summary><h5>०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत ...{Loading}...</h5></summary>
 
 
@@ -51,7 +51,7 @@ A glorification of vak or speech
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -60,7 +60,7 @@ A glorification of vak or speech
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/01_ahaM_rudrebhirvasubhishcharAmyahamAdityairuta.md">
 <details open><summary><h3>०१ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,9 +108,9 @@ I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. 
 </div>
 
 ## ०२ अहं राष्ट्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/03_ahaM_rAShTrI.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/03_ahaM_rAShTrI.md">
 <details open><summary><h5>०३ अहं राष्ट्री ...{Loading}...</h5></summary>
 
 
@@ -123,7 +123,7 @@ I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. 
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -132,7 +132,7 @@ I travel with the Rudras and the Vasus, with the Adityas and All-Gods I wander. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/02_ahaM_rAShTrI.md">
 <details open><summary><h3>०२ अहं राष्ट्री ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,9 +181,9 @@ I am the Queen, the gatherer-up of treasures, most thoughtful, first of those wh
 </div>
 
 ## ०३ अहमेव स्वयमिदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/03_ahameva_svayamidam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/03_ahameva_svayamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/05_ahameva_svayamidaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/05_ahameva_svayamidaM.md">
 <details open><summary><h5>०५ अहमेव स्वयमिदं ...{Loading}...</h5></summary>
 
 
@@ -196,7 +196,7 @@ I am the Queen, the gatherer-up of treasures, most thoughtful, first of those wh
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/03_ahameva_svayamidam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/03_ahameva_svayamidam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -205,7 +205,7 @@ I am the Queen, the gatherer-up of treasures, most thoughtful, first of those wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/03_ahameva_svayamidam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/03_ahameva_svayamidam.md">
 <details open><summary><h3>०३ अहमेव स्वयमिदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -253,9 +253,9 @@ I, verily, myself announce and utter the word that Gods, and men alike shall wel
 </div>
 
 ## ०४ मया सोऽन्नमत्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/04_mayA_so.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/04_mayA_so.md">
 <details open><summary><h5>०४ मया सो ...{Loading}...</h5></summary>
 
 
@@ -268,7 +268,7 @@ I, verily, myself announce and utter the word that Gods, and men alike shall wel
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -277,7 +277,7 @@ I, verily, myself announce and utter the word that Gods, and men alike shall wel
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/04_mayA_so-nnamatti.md">
 <details open><summary><h3>०४ मया सोऽन्नमत्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -337,9 +337,9 @@ Through me alone all eat the food that feeds them, each man who sees, breathes, 
 </div>
 
 ## ०५ अहं रुद्राय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/05_ahaM_rudrAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/05_ahaM_rudrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/06_ahaM_rudrAya.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/06_ahaM_rudrAya.md">
 <details open><summary><h5>०६ अहं रुद्राय ...{Loading}...</h5></summary>
 
 
@@ -352,7 +352,7 @@ Through me alone all eat the food that feeds them, each man who sees, breathes, 
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/05_ahaM_rudrAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/05_ahaM_rudrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -361,7 +361,7 @@ Through me alone all eat the food that feeds them, each man who sees, breathes, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/05_ahaM_rudrAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/05_ahaM_rudrAya.md">
 <details open><summary><h3>०५ अहं रुद्राय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -409,9 +409,9 @@ I bend the bow for Rudra that his arrow may strike and slay the hater of devotio
 </div>
 
 ## ०६ अहं सोममाहनसम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/02_ahaM_somamAhanasaM.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/02_ahaM_somamAhanasaM.md">
 <details open><summary><h5>०२ अहं सोममाहनसं ...{Loading}...</h5></summary>
 
 
@@ -425,7 +425,7 @@ I bend the bow for Rudra that his arrow may strike and slay the hater of devotio
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -434,7 +434,7 @@ I bend the bow for Rudra that his arrow may strike and slay the hater of devotio
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/06_ahaM_somamAhanasam.md">
 <details open><summary><h3>०६ अहं सोममाहनसम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -487,9 +487,9 @@ I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bh
 </div>
 
 ## ०७ अहं सुवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/07_ahaM_suve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/07_ahaM_suve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/07_ahaM_suve.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/07_ahaM_suve.md">
 <details open><summary><h5>०७ अहं सुवे ...{Loading}...</h5></summary>
 
 
@@ -502,7 +502,7 @@ I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bh
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/07_ahaM_suve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/07_ahaM_suve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -511,7 +511,7 @@ I cherish and sustain high-swelling Soma, and Tvashtar I support, Pashan, and Bh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/07_ahaM_suve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/07_ahaM_suve.md">
 <details open><summary><h3>०७ अहं सुवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -561,9 +561,9 @@ On the world's summit I bring forth the Father: my home is in the waters, in the
 </div>
 
 ## ०८ अहमेव वातइव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/08_ahameva_vAta.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/125/08_ahameva_vAta.md">
 <details open><summary><h5>०८ अहमेव वात ...{Loading}...</h5></summary>
 
 
@@ -576,7 +576,7 @@ On the world's summit I bring forth the Father: my home is in the waters, in the
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -585,7 +585,7 @@ On the world's summit I bring forth the Father: my home is in the waters, in the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/030_rAShTradevI/08_ahameva_vAtaiva.md">
 <details open><summary><h3>०८ अहमेव वातइव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

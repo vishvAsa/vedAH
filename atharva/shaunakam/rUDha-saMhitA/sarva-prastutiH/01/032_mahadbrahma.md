@@ -2,7 +2,7 @@
 title = "०३२ महद्ब्रह्म"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/_index.md">
 <details open><summary><h2>०३२ महद्ब्रह्म ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In praise of Heaven and Earth
 </div>
 
 ## ०१ इदं जनासो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/01_idaM_janAso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/01_idaM_janAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं ज॒नासो॑ वि॒दथ॑ म॒हद्ब्रह्म॑ वदिष्यति।  
 न तत्पृ॑थि॒व्यां नो॑ दि॒वि येन॑ प्रा॒णन्ति॑ वी॒रुधः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/01_idaM_janAso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/01_idaM_janAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In praise of Heaven and Earth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/01_idaM_janAso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/01_idaM_janAso.md">
 <details open><summary><h3>०१ इदं जनासो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Ye people, hear and mark this well: he will pronounce a mighty prayer: That whic
 </div>
 
 ## ०२ अन्तरिक्ष आसाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/02_antarixa_AsAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/02_antarixa_AsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्ष आसां॒ स्थाम॑ श्रान्त॒सदा॑मिव।  
 आ॒स्थान॑म॒स्य भू॒तस्य॑ वि॒दुष्टद्वे॒धसो॒ न वा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/02_antarixa_AsAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/02_antarixa_AsAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Ye people, hear and mark this well: he will pronounce a mighty prayer: That whic
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/02_antarixa_AsAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/02_antarixa_AsAm.md">
 <details open><summary><h3>०२ अन्तरिक्ष आसाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ Their station, as of those who rest when weary, is in midmost air: The base wher
 </div>
 
 ## ०३ यद्रोदसी रेजमाने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्रोद॑सी॒ रेज॑माने॒ भूमि॑श्च नि॒रत॑क्षतम्।  
 आ॒र्द्रं तद॒द्य स॑र्व॒दा स॑मु॒द्रस्ये॑व स्रो॒त्याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ Their station, as of those who rest when weary, is in midmost air: The base wher
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/03_yadrodasI_rejamAne.md">
 <details open><summary><h3>०३ यद्रोदसी रेजमाने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -246,14 +246,14 @@ What the two trembling hemispheres and ground produced and fashioned forth. This
 </div>
 
 ## ०४ विश्वमन्यामभीवार तदन्यस्यामधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विश्व॑म॒न्याम॑भी॒वार॒ तद॒न्यस्या॒मधि॑ श्रि॒तम्।  
 दि॒वे च॑ वि॒श्ववे॑दसे पृथि॒व्यै चा॑करं॒ नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -262,7 +262,7 @@ What the two trembling hemispheres and ground produced and fashioned forth. This
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/032_mahadbrahma/04_vishvamanyAmabhIvAra_tadanyasyAmadhi.md">
 <details open><summary><h3>०४ विश्वमन्यामभीवार तदन्यस्यामधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

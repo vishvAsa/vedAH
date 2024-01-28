@@ -2,7 +2,7 @@
 title = "०६६ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/_index.md">
 <details open><summary><h2>०६६ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the destruction and plunder of enemies
 </div>
 
 ## ०१ निर्हस्तः शत्रुरभिदासन्नस्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर्ह॑स्तः॒ शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्।  
 सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the destruction and plunder of enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/01_nirhastaH_shatrurabhidAsannastu.md">
 <details open><summary><h3>०१ निर्हस्तः शत्रुरभिदासन्नस्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 </div>
 
 ## ०२ आतन्वाना आयच्छन्तोऽस्यन्तो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑तन्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ।  
 निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वो॒ऽद्य परा॑शरीत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Handless be every foeman who assaileth, they who with missiles come to fight aga
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/02_AtanvAnA_AyachChanto-syanto.md">
 <details open><summary><h3>०२ आतन्वाना आयच्छन्तोऽस्यन्तो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 </div>
 
 ## ०३ निर्हस्ताः सन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि।  
 अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/03_nirhastAH_santu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Ye who run hither bending bows, brandishing swords and cast- ing darts. Handless
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/066_shatrunAshanam/03_nirhastAH_santu.md">
 <details open><summary><h3>०३ निर्हस्ताः सन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०९९ संग्रामजयः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/_index.md">
 <details open><summary><h2>०९९ संग्रामजयः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 </div>
 
 ## ०१ अभि त्वेन्द्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि त्वे॑न्द्र॒ वरि॑मतः पु॒रा त्वां॑हूर॒णाद्धु॑वे।  
 ह्वया॑म्यु॒ग्रं चे॒त्तारं॑ पु॒रुणा॑मानमेक॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Grill, 18, 168; Griffith, i. 299; Bloomfield, 123, 510.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/01_abhi_tvendra.md">
 <details open><summary><h3>०१ अभि त्वेन्द्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 </div>
 
 ## ०२ यो अद्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/02_yo_adya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒द्य सेन्यो॑ व॒धो जिघां॑सन्न उ॒दीर॑ते।  
 इन्द्र॑स्य॒ तत्र॑ बा॒हू स॑म॒न्तं परि॑ दद्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/02_yo_adya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Indra, before affliction comes, I call thee from the wide expanse. The mighty gu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/02_yo_adya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/02_yo_adya.md">
 <details open><summary><h3>०२ यो अद्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 </div>
 
 ## ०३ परि दद्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/03_pari_dadma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ दद्म॒ इन्द्र॑स्य बा॒हू स॑म॒न्तं त्रा॒तुस्त्राय॑तां नः।  
 देव॑ सवितः॒ सोम॑ राजन्सु॒मन॑सं मा कृणु स्व॒स्तये॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/03_pari_dadma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Whatever deadly missile launched to-day flies forth to slaughter us. We take bot
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/03_pari_dadma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/099_saMgrAmajayaH/03_pari_dadma.md">
 <details open><summary><h3>०३ परि दद्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

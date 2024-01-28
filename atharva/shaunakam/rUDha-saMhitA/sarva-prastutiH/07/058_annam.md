@@ -2,7 +2,7 @@
 title = "०५८ अन्नम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/_index.md">
 <details open><summary><h2>०५८ अन्नम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ An invitation to Indra and Varuna
 </div>
 
 ## ०१ इन्द्रावरुणा सुतपाविमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रा॑वरुणा सुतपावि॒मं सु॒तं सोमं॑ पिबतं॒ मद्यं॑ धृतव्रतौ।  
 यु॒वो रथो॑ अध्व॒रो दे॒ववी॑तये॒ प्रति॒ स्वस॑र॒मुप॑ यातु पी॒तये॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ An invitation to Indra and Varuna
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/01_indrAvaruNA_sutapAvimam.md">
 <details open><summary><h3>०१ इन्द्रावरुणा सुतपाविमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 </div>
 
 ## ०२ इन्द्रावरुणा मधुमत्तमस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रा॑वरुणा मधुमत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम्।  
 इ॒दं वा॒मन्धः॒ परि॑षिक्तमा॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ True to laws, Indra Varuna, drinkers of the juice, quaff this pressed Soma which
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/058_annam/02_indrAvaruNA_madhumattamasya.md">
 <details open><summary><h3>०२ इन्द्रावरुणा मधुमत्तमस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०९१ यक्ष्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/_index.md">
 <details open><summary><h2>०९१ यक्ष्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 </div>
 
 ## ०१ इमं यवमष्टायोगैः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः।  
 तेना॑ ते त॒न्वो॒३॒॑ रपो॑ऽपा॒चीन॒मप॑ व्यये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Grill, 14, 168; Griffith, i. 295; Bloomfield, 40, 507.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/01_imaM_yavamaShTAyogaiH.md">
 <details open><summary><h3>०१ इमं यवमष्टायोगैः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 </div>
 
 ## ०२ न्यग्वातो वाति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न्य१॒॑ग्वातो॑ वाति॒ न्य᳡क्तपति॒ सूर्यः॑।  
 नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य᳡ग्भवतु ते॒ रपः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ They made this barley ready with a team of eight, a team of six. With this I dri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/02_nyagvAto_vAti.md">
 <details open><summary><h3>०२ न्यग्वातो वाति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 </div>
 
 ## ०३ आप इद्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/03_Apa_idvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
 आपो॒ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/03_Apa_idvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ Vita breathes downward from above, and downward Surya sends his heat: Downward i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/03_Apa_idvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/091_yaxmanAshanam/03_Apa_idvA.md">
 <details open><summary><h3>०३ आप इद्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

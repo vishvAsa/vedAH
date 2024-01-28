@@ -2,7 +2,7 @@
 title = "०४२ परस्परचित्तैकीकरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/_index.md">
 <details open><summary><h2>०४२ परस्परचित्तैकीकरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to reconcile estranged friends
 </div>
 
 ## ०१ अव ज्यामिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॒ ज्यामि॑व॒ धन्व॑नो म॒न्युं त॑नोमि ते हृ॒दः।  
 यथा॒ संम॑नसौ भू॒त्वा सखा॑याविव॒ सचा॑वहै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to reconcile estranged friends
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/01_ava_jyAmiva.md">
 <details open><summary><h3>०१ अव ज्यामिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 </div>
 
 ## ०२ सखायाविव सचावहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सखा॑याविव सचावहा॒ अव॑ म॒न्युं त॑नोमि ते।  
 अ॒धस्ते॒ अश्म॑नो म॒न्युमुपा॑स्यामसि॒ यो गु॒रुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ I loose the anger from thy heart as 'twere the bowstring from a bow, That we, on
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/02_sakhAyAviva_sachAvahA.md">
 <details open><summary><h3>०२ सखायाविव सचावहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 </div>
 
 ## ०३ अभि तिष्ठामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि ति॑ष्ठामि ते म॒न्युं पार्ष्ण्या॒ प्रप॑देन च।  
 यथा॑व॒शो न वादि॑षो॒ मम॑ चित्तमु॒पाय॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Together let us walk as friends: thy wrathful feeling I remove. Beneath a heavy 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/042_parasparachittaikIkaraNam/03_abhi_tiShThAmi.md">
 <details open><summary><h3>०३ अभि तिष्ठामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२५ पृश्निपर्णी"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/_index.md">
 <details open><summary><h2>०२५ पृश्निपर्णी ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against fiends who cause abortion
 </div>
 
 ## ०१ शं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/01_shaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/01_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं नो॑ दे॒वी पृ॑श्निप॒र्ण्यशं॒ निरृ॑त्या अकः।  
 उ॒ग्रा हि क॑ण्व॒जम्भ॑नी॒ ताम॑भक्षि॒ सह॑स्वतीम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/01_shaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/01_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against fiends who cause abortion
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/01_shaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/01_shaM_no.md">
 <details open><summary><h3>०१ शं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -116,14 +116,14 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 </div>
 
 ## ०२ सहमानेयं प्रथमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सह॑माने॒यं प्र॑थ॒मा पृ॑श्निप॒र्ण्य॑जायत।  
 तया॒हं दु॒र्णाम्नां॒ शिरो॑ वृ॒श्चामि॑ श॒कुने॑रिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -132,7 +132,7 @@ The Goddess Prisniparni hath blest us, and troubled Nirriti. Fierce crusher of t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/02_sahamAneyaM_prathamA.md">
 <details open><summary><h3>०२ सहमानेयं प्रथमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -187,14 +187,14 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 </div>
 
 ## ०३ अरायमसृक्पावानं यश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒राय॑मसृ॒क्पावा॑नं॒ यश्च॑ स्फा॒तिं जिही॑र्षति।  
 ग॑र्भा॒दं कण्वं॑ नाशय॒ पृश्नि॑पर्णि॒ सह॑स्व च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -203,7 +203,7 @@ Victorious in the olden time this Prisniparni was brought forth: With her I clea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/03_arAyamasRkpAvAnaM_yashcha.md">
 <details open><summary><h3>०३ अरायमसृक्पावानं यश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 </div>
 
 ## ०४ गिरिमेनाँ आ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/04_girimenA.N_A.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गि॒रिमे॑नाँ॒ आ वे॑शय॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
 तांस्त्वं दे॑वि॒ पृश्नि॑पर्ण्य॒ग्निरि॑वानु॒दह॑न्निहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/04_girimenA.N_A.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ One or two of our mss. (W.I.), and several of SPP's, read in **b**
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/04_girimenA.N_A.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/04_girimenA.N_A.md">
 <details open><summary><h3>०४ गिरिमेनाँ आ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -319,14 +319,14 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 </div>
 
 ## ०५ पराच एनान्प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परा॑च एना॒न्प्र णु॑द॒ कण्वा॑ञ्जीवित॒योप॑नान्।  
 तमां॑सि॒ यत्र॒ गछ॑न्ति॒ तत्क्र॒व्यादो॑ अजीगमम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/05_parAcha_enAnpra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -335,7 +335,7 @@ The hateful fiend who drinks the blood, and him who take away the growth, The Ka
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/025_pRshniparNI/05_parAcha_enAnpra.md">
 <details open><summary><h3>०५ पराच एनान्प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

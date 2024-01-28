@@ -2,7 +2,7 @@
 title = "००४ आकूतिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/_index.md">
 <details open><summary><h2>००४ आकूतिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer, accompanying sacrifice, for the attainment of a wish
 </div>
 
 ## ०१ यामाहुतिं प्रथमामथर्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः।  
 तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer, accompanying sacrifice, for the attainment of a wish
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/01_yAmAhutiM_prathamAmatharvA.md">
 <details open><summary><h3>०१ यामाहुतिं प्रथमामथर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -115,14 +115,14 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 </div>
 
 ## ०२ आकूतिं देवीम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/02_AkUtiM_devIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
 यामा॒शामेमि॒ केव॑ली॒ सा मे॑ अस्तु वि॒देय॑मेनां॒ मन॑सि॒ प्रवि॑ष्टाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/02_AkUtiM_devIm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -131,7 +131,7 @@ The first oblation that Atharvan oared, earliest sacrifice paid by Jatavedas, Ev
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/02_AkUtiM_devIm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/02_AkUtiM_devIm.md">
 <details open><summary><h3>०२ आकूतिं देवीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -188,14 +188,14 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 </div>
 
 ## ०३ आकूत्या नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/03_AkUtyA_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/03_AkUtyA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि।  
 अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/03_AkUtyA_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/03_AkUtyA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -204,7 +204,7 @@ In front I set Intention, blessed Goddess. Mother of thought, may she be prompt 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/03_AkUtyA_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/03_AkUtyA_no.md">
 <details open><summary><h3>०३ आकूत्या नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 </div>
 
 ## ०४ बृहस्पतिर्म आकूतिमाङ्गिरसः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पति॑र्म॒ आकू॑तिमाङ्गिर॒सः प्रति॑ जानातु॒ वाच॑मे॒ताम्।  
 यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ With Purpose, O Prajapati, with Purpose come thou near to us. Bestow on us a sha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/004_AkUtiH/04_bRhaspatirma_AkUtimAngirasaH.md">
 <details open><summary><h3>०४ बृहस्पतिर्म आकूतिमाङ्गिरसः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

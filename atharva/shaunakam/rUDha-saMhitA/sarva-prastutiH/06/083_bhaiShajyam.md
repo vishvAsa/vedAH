@@ -2,7 +2,7 @@
 title = "०८३ भैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/_index.md">
 <details open><summary><h2>०८३ भैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm against sores and pustules (apachitas)
 </div>
 
 ## ०१ अपचितः प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/01_apachitaH_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व।  
 सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/01_apachitaH_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm against sores and pustules (apachitas)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/01_apachitaH_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/01_apachitaH_pra.md">
 <details open><summary><h3>०१ अपचितः प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 </div>
 
 ## ०२ एन्येका श्येन्येका
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे।  
 सर्वा॑सा॒मग्र॑भं॒ नामावी॑रघ्नी॒रपे॑तन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Hence, Sores and Pustules, fly away even as the eagle from his home. Let Surya b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/02_enyekA_shyenyekA.md">
 <details open><summary><h3>०२ एन्येका श्येन्येका ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ One bright with variegated tints, one white, one black, a couple red:-- The'name
 </div>
 
 ## ०३ असूतिका रामायण्यपचित्प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒सूति॑का रामाय॒ण्य᳡प॒चित्प्र प॑तिष्यति।  
 ग्लौरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ One bright with variegated tints, one white, one black, a couple red:-- The'name
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/03_asUtikA_rAmAyaNyapachitpra.md">
 <details open><summary><h3>०३ असूतिका रामायण्यपचित्प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,13 +232,13 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 </div>
 
 ## ०४ वीहि स्वामाहुतिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वी॒हि स्वामाहु॑तिं जुषा॒णो मन॑सा॒ स्वाहा॒ मन॑सा॒ यदि॒दं जु॒होमि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -246,7 +246,7 @@ Hence, childless, shall the Pustule flee, grand-daughter of the dusky one. The B
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/083_bhaiShajyam/04_vIhi_svAmAhutim.md">
 <details open><summary><h3>०४ वीहि स्वामाहुतिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

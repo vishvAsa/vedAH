@@ -2,7 +2,7 @@
 title = "०३८ यक्षमनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/_index.md">
 <details open><summary><h2>०३८ यक्षमनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A protective charm
 </div>
 
 ## ०१ न तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/01_na_tam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/01_na_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते।  
 यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/01_na_tam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/01_na_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A protective charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/01_na_tam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/01_na_tam.md">
 <details open><summary><h3>०१ न तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Never Consumption, never curse touches the man, Arundhati! Whom the delicious od
 </div>
 
 ## ०२ विष्वञ्चस्तस्माद्यक्ष्मा मृगा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विष्व॑ञ्च॒स्तस्मा॒द्यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते।  
 यद्गु॑ल्गु॒लु सै॑न्ध॒वं यद्वाप्यसि॑ समु॒द्रिय॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Never Consumption, never curse touches the man, Arundhati! Whom the delicious od
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/02_viShvanchastasmAdyaxmA_mRgA.md">
 <details open><summary><h3>०२ विष्वञ्चस्तस्माद्यक्ष्मा मृगा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -199,13 +199,13 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 </div>
 
 ## ०३ उभयोरग्रभं नामास्मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -213,7 +213,7 @@ Consumptions flee apart from it as from a wild beast fly the deer. If thou, O Bd
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/038_yaxamanAshanam/03_ubhayoragrabhaM_nAmAsmA.md">
 <details open><summary><h3>०३ उभयोरग्रभं नामास्मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

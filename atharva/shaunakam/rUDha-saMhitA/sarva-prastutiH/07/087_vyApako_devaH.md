@@ -2,7 +2,7 @@
 title = "०८७ व्यापको देवः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/_index.md">
 <details open><summary><h2>०८७ व्यापको देवः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Rudra as Agni
 </div>
 
 ## ०१ यो अग्नौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/087_vyApako_devaH/01_yo_agnau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/087_vyApako_devaH/01_yo_agnau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒ग्नौ रु॒द्रो यो अ॒प्स्व१॒॑न्तर्य ओष॑धीर्वी॒रुध॑ आवि॒वेश॑।  
 य इ॒मा विश्वा॒ भुव॑नानि चा॒क्लृ॒पे तस्मै॑ रु॒द्राय॒ नमो॑ अस्त्व॒ग्नये॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/087_vyApako_devaH/01_yo_agnau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/087_vyApako_devaH/01_yo_agnau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Rudra as Agni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/01_yo_agnau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/087_vyApako_devaH/01_yo_agnau.md">
 <details open><summary><h3>०१ यो अग्नौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

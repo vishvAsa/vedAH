@@ -2,7 +2,7 @@
 title = "०१७ अपामार्गः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/_index.md">
 <details open><summary><h2>०१७ अपामार्गः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to secure freedom from various evils
 </div>
 
 ## ०१ ईशाणां त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/01_IshANAM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/01_IshANAM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ईशा॑णां त्वा भेष॒जाना॒मुज्जे॑ष॒ आ र॑भामहे।  
 च॒क्रे स॒हस्र॑वीर्यं॒ सर्व॑स्मा ओषधे त्वा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/01_IshANAM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/01_IshANAM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to secure freedom from various evils
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/01_IshANAM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/01_IshANAM_tvA.md">
 <details open><summary><h3>०१ ईशाणां त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Pl
 </div>
 
 ## ०२ सत्यजितं शपथयावनीम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑त्य॒जितं॑ शपथ॒याव॑नीं॒ सह॑मानां पुनःस॒राम्।  
 सर्वाः॒ सम॒ह्व्योष॑धीरि॒तो नः॑ पारया॒दिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ We seize and hold thee, Conquering One! the queen of medi- cines that heal. O Pl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/02_satyajitaM_shapathayAvanIm.md">
 <details open><summary><h3>०२ सत्यजितं शपथयावनीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee an
 </div>
 
 ## ०३ या शशाप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/03_yA_shashApa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/03_yA_shashApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या श॒शाप॒ शप॑नेन॒ याघं मूर॑माद॒धे।  
 या रस॑स्य॒ हर॑णाय जा॒तमा॑रे॒भे तो॒कम॑त्तु॒ सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/03_yA_shashApa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/03_yA_shashApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Still conquering, banishing the curse, mighty, with thy reverted. bloom. Thee an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/03_yA_shashApa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/03_yA_shashApa.md">
 <details open><summary><h3>०३ या शशाप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -246,14 +246,14 @@ She who hath cursed us with a curse, or hath conceived a murderous sin, Or seize
 </div>
 
 ## ०४ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/04_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/04_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ च॒क्रुरा॒मे पात्रे॒ यां च॒क्रुर्नी॑ललोहि॒ते।  
 आ॒मे मां॒से कृ॒त्यां यां च॒क्रुस्तया॑ कृत्या॒कृतो॑ जहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/04_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/04_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -262,7 +262,7 @@ She who hath cursed us with a curse, or hath conceived a murderous sin, Or seize
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/04_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/04_yAM_te.md">
 <details open><summary><h3>०४ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -328,14 +328,14 @@ What magic they have wrought for thee in dish unbaked or burnt dark-red, What th
 </div>
 
 ## ०५ दौष्वप्न्यं दौर्जीवित्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दौष्व॑प्न्यं॒ दौर्जी॑वित्यं॒ रक्षो॑ अ॒भ्व॑मरा॒य्यः॑।  
 दु॒र्णाम्नीः॒ सर्वा॑ दु॒र्वाच॒स्ता अ॒स्मन्ना॑शयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -344,7 +344,7 @@ What magic they have wrought for thee in dish unbaked or burnt dark-red, What th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/05_dauShvapnyaM_daurjIvityam.md">
 <details open><summary><h3>०५ दौष्वप्न्यं दौर्जीवित्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -397,14 +397,14 @@ Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-
 </div>
 
 ## ०६ क्षुधामारं तृष्णामारमगोतामनपत्यताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षु॑धामा॒रं तृ॑ष्णामा॒रम॒गोता॑मनप॒त्यता॑म्।  
 अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -413,7 +413,7 @@ Ill dream and wretchedness of life, Rakshasa, monster, stingy hags, All the she-
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/06_xudhAmAraM_tRShNAmAramagotAmanapatyatAm.md">
 <details open><summary><h3>०६ क्षुधामारं तृष्णामारमगोतामनपत्यताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -470,14 +470,14 @@ Death caused by famine, caused by thirst, failure of children,. loss of kine, Wi
 </div>
 
 ## ०७ तृष्णामारं क्षुधामारम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तृ॑ष्णामा॒रं क्षु॑धामा॒रं अथो॑ अक्षपराज॒यम्।  
 अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -486,7 +486,7 @@ Death caused by famine, caused by thirst, failure of children,. loss of kine, Wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/07_tRShNAmAraM_xudhAmAram.md">
 <details open><summary><h3>०७ तृष्णामारं क्षुधामारम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -532,14 +532,14 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 </div>
 
 ## ०८ अपामार्ग ओषधीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑पामा॒र्ग ओष॑धीनां॒ सर्वा॑सा॒मेक॒ इद्व॒शी।  
 तेन॑ ते मृज्म॒ आस्थि॑त॒मथ॒ त्वम॑ग॒दश्च॑र ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -548,7 +548,7 @@ Death caused by thirst, death caused by stress of hunger, loss at play with dice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/017_apAmArgaH/08_apAmArga_oShadhInAm.md">
 <details open><summary><h3>०८ अपामार्ग ओषधीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१० रायस्पोषप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/_index.md">
 <details open><summary><h2>०१० रायस्पोषप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A new year prayer
 </div>
 
 ## ०१ प्रथमा ह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑थ॒मा ह॒ व्यु॑वास॒ सा धे॒नुर॑भवद्य॒मे।  
 सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A new year prayer
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/01_prathamA_ha.md">
 <details open><summary><h3>०१ प्रथमा ह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 </div>
 
 ## ०२ यां देवाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां दे॒वाः प्र॑ति॒नन्द॑न्ति॒ रात्रिं॑ धे॒नुमु॑पाय॒तीम्।  
 सं॑वत्स॒रस्य॒ या पत्नी॒ सा नो॑ अस्तु सुमङ्ग॒ली ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ The First hath dawned. With Yama may it be a cow to pour forth milk. May she be 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/02_yAM_devAH.md">
 <details open><summary><h3>०२ यां देवाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ May she whom Gods accept with joy, Night who approacheth. as a cow, She who is C
 </div>
 
 ## ०३ संवत्सरस्य प्रतिमाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॑वत्स॒रस्य॑ प्रति॒मां यां त्वा॑ रात्र्यु॒पास्म॑हे।  
 सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ May she whom Gods accept with joy, Night who approacheth. as a cow, She who is C
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/03_saMvatsarasya_pratimAm.md">
 <details open><summary><h3>०३ संवत्सरस्य प्रतिमाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -244,14 +244,14 @@ Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. 
 </div>
 
 ## ०४ इयमेव सा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒यमे॒व सा या प्र॑थ॒मा व्यौच्छ॑दा॒स्वित॑रासु चरति॒ प्रवि॑ष्टा।  
 म॒हान्तो॑ अस्यां महि॒मानो॑ अ॒न्तर्व॒धूर्जि॑गाय नव॒गज्जनि॑त्री ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -260,7 +260,7 @@ Thou whom with reverence we approach, O Night, as model of the Year, Vouchsafe. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/04_iyameva_sA.md">
 <details open><summary><h3>०४ इयमेव सा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -328,14 +328,14 @@ This same is she whose light first dawned upon us: she moves established in the 
 </div>
 
 ## ०५ वानस्पत्या ग्रावाणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॑नस्प॒त्या ग्रावा॑णो॒ घोष॑मक्रत ह॒विष्कृ॒ण्वन्तः॑ परिवत्स॒रीण॑म्।  
 एका॑ष्टके सुप्र॒जसः॑ सु॒वीरा॑ व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -344,7 +344,7 @@ This same is she whose light first dawned upon us: she moves established in the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/05_vAnaspatyA_grAvANo.md">
 <details open><summary><h3>०५ वानस्पत्या ग्रावाणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -408,14 +408,14 @@ Loud was the wooden pass-gear's ring and rattle, as it made annual oblation read
 </div>
 
 ## ०६ इडायास्पदं घृतवत्सरीसृपम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इडा॑यास्प॒दं घृ॒तव॑त्सरीसृ॒पं जात॑वेदः॒ प्रति॑ ह॒व्या गृ॑भाय।  
 ये ग्रा॒म्याः प॒शवो॑ वि॒श्वरू॑पा॒स्तेषां॑ सप्ता॒नां मयि॒ रन्ति॑रस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -424,7 +424,7 @@ Loud was the wooden pass-gear's ring and rattle, as it made annual oblation read
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/06_iDAyAspadaM_ghRtavatsarIsRpam.md">
 <details open><summary><h3>०६ इडायास्पदं घृतवत्सरीसृपम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -485,7 +485,7 @@ The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations
 </div>
 
 ## ०७ आ मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ मा॑ पु॒ष्टे च॒ पोषे॑ च॒ रात्रि॑ दे॒वानां॑ सुम॒तौ स्या॑म।  
@@ -493,7 +493,7 @@ The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations
 सर्वा॑न्य॒ज्ञान्त्सं॑भुञ्ज॒तीष॒मूर्जं॑ न॒ आ भ॑र ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/07_A_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/07_A_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -503,7 +503,7 @@ The shrine of Ila flows with oil and fatness: accept, O Jatavedas, our oblations
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/07_A_mA.md">
 <details open><summary><h3>०७ आ मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -574,14 +574,14 @@ Come thou to nourish me and make me prosper. Night! may the favour of the Gods a
 </div>
 
 ## ०८ आयमगन्त्संवत्सरः पतिरेकाष्टके
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयम॑गन्त्संवत्स॒रः पति॑रेकाष्टके॒ तव॑।  
 सा न॒ आयु॑ष्मतीं प्र॒जां रा॒यस्पोषे॑ण॒ सं सृ॑ज ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -590,7 +590,7 @@ Come thou to nourish me and make me prosper. Night! may the favour of the Gods a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/08_AyamagantsaMvatsaraH_patirekAShTake.md">
 <details open><summary><h3>०८ आयमगन्त्संवत्सरः पतिरेकाष्टके ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -639,14 +639,14 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 </div>
 
 ## ०९ ऋतून्यज ऋतुपतीनार्तवानुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒तून्य॑ज ऋतु॒पती॑नार्त॒वानु॒त हा॑य॒नान्।  
 समाः॑ संवत्स॒रान्मासा॑न्भू॒तस्य॒ पत॑ये यजे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -655,7 +655,7 @@ This Year hath come to us, thy lord and consort, O Ekashtaka. Vouchsafe us child
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/09_RtUnyaja_RtupatInArtavAnuta.md">
 <details open><summary><h3>०९ ऋतून्यज ऋतुपतीनार्तवानुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -709,14 +709,14 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 </div>
 
 ## १० ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
 धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -725,7 +725,7 @@ The Seasons, and the Seasons' Lords I worship, annual parts and groups. Half yea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/10_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>१० ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -782,14 +782,14 @@ I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vi
 </div>
 
 ## ११ इडया जुह्वतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इड॑या॒ जुह्व॑तो व॒यं दे॒वान्घृ॒तव॑ता यजे।  
 गृ॒हानलु॑भ्यतो व॒यं सं॑ विशे॒मोप॒ गोम॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -798,7 +798,7 @@ I offer to the Seasons, to their several groups, to Months, to Years. Dhatar, Vi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/11_iDayA_juhvato.md">
 <details open><summary><h3>११ इडया जुह्वतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -851,14 +851,14 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 </div>
 
 ## १२ एकाष्टका तपसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॑काष्ट॒का तप॑सा त॒प्यमा॑ना ज॒जान॒ गर्भं॑ महि॒मान॒मिन्द्र॑म्।  
 तेन॑ दे॒वा व्य॑षहन्त॒ शत्रू॑न्ह॒न्ता दस्यू॑नामभव॒च्छची॒पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -867,7 +867,7 @@ With fatness and libation we sacrifice and adore the Gods. Wealthy in kine may w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/12_ekAShTakA_tapasA.md">
 <details open><summary><h3>१२ एकाष्टका तपसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -928,14 +928,14 @@ Ekashtaka, burning with zealous fervour, brought forth her babe the great and gl
 </div>
 
 ## १३ इन्द्रपुत्रे सोमपुत्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑पुत्रे॒ सोम॑पुत्रे दुहि॒तासि॑ प्र॒जाप॑तेः।  
 कामा॑न॒स्माकं॑ पूरय॒ प्रति॑ गृह्णाहि नो ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -944,7 +944,7 @@ Ekashtaka, burning with zealous fervour, brought forth her babe the great and gl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/010_rAyaspoShaprAptiH/13_indraputre_somaputre.md">
 <details open><summary><h3>१३ इन्द्रपुत्रे सोमपुत्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

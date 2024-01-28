@@ -2,7 +2,7 @@
 title = "०७४ गण्डमालाचिकित्सा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/_index.md">
 <details open><summary><h2>०७४ गण्डमालाचिकित्सा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm to cure pustules, sores, or scrofulous swellings (apachitas)
 </div>
 
 ## ०१ अपचितां लोहिनीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम।  
 मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm to cure pustules, sores, or scrofulous swellings (apachitas)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/01_apachitAM_lohinInAm.md">
 <details open><summary><h3>०१ अपचितां लोहिनीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 </div>
 
 ## ०२ विध्याम्यासां प्रथमाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विध्या॑म्यासां प्रथ॒मां वि॑ध्याम्यु॒त म॑ध्य॒माम्।  
 इ॒दं ज॑घ॒न्या᳡मासा॒मा छि॑नद्मि॒ स्तुका॑मिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Black is the mother, we have heard, from whom the red-hued Pustules sprang. With
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/02_vidhyAmyAsAM_prathamAm.md">
 <details open><summary><h3>०२ विध्याम्यासां प्रथमाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 </div>
 
 ## ०३ त्वाष्ट्रेणाहं वचसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्।  
 अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ I pierce the foremost one of these, I perforate the middlemost, And here I cut t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/03_tvAShTreNAhaM_vachasA.md">
 <details open><summary><h3>०३ त्वाष्ट्रेणाहं वचसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -226,14 +226,14 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 </div>
 
 ## ०४ व्रतेन त्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्र॒तेन॒ त्वं व्र॑तपते॒ सम॑क्तो वि॒श्वाहा॑ सु॒मना॑ दीदिही॒ह।  
 तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -242,7 +242,7 @@ With spell that Tvashtar sent to us I have dispelled thy jealousy. We mitigate a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/074_gaNDamAlAchikitsA/04_vratena_tvam.md">
 <details open><summary><h3>०४ व्रतेन त्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

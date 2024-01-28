@@ -2,7 +2,7 @@
 title = "०९७ अभिभूर्वीरः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/_index.md">
 <details open><summary><h2>०९७ अभिभूर्वीरः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 </div>
 
 ## ०१ अभिभूर्यज्ञो अभिभूरग्निरभिभूः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑।  
 अ॒भ्य१॒॑हं वि॑श्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 460; Griffith, i. 298; Bloomfield, 122, 510.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/01_abhibhUryajno_abhibhUragnirabhibhUH.md">
 <details open><summary><h3>०१ अभिभूर्यज्ञो अभिभूरग्निरभिभूः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -94,14 +94,14 @@ The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So wil
 </div>
 
 ## ०२ स्वधास्तु मित्रावरुणा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त्क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्।  
 बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -110,7 +110,7 @@ The sacrifice is victor, Agni victor, victorious is Soma, Indra conquers: So wil
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/02_svadhAstu_mitrAvaruNA.md">
 <details open><summary><h3>०२ स्वधास्तु मित्रावरुणा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ omits it, prefixing instead *āré* to *bādhasva*. The comm. takes
 </div>
 
 ## ०३ इमं वीरमनु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्।  
 ग्रा॑म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ omits it, prefixing instead *āré* to *bādhasva*. The comm. takes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/097_abhibhUrvIraH/03_imaM_vIramanu.md">
 <details open><summary><h3>०३ इमं वीरमनु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

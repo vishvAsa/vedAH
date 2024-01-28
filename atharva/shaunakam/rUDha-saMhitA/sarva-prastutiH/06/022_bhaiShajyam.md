@@ -2,7 +2,7 @@
 title = "०२२ भैषज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/_index.md">
 <details open><summary><h2>०२२ भैषज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To the Maruts or Storm-Gods
 </div>
 
 ## ०१ कृष्णं नियानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत्प॑तन्ति।  
 त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद्घृ॒तेन॑ पृथि॒वीं व्यू॑दुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To the Maruts or Storm-Gods
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/01_kRShNaM_niyAnam.md">
 <details open><summary><h3>०१ कृष्णं नियानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 </div>
 
 ## ०२ पयस्वतीः कृणुथाप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः।  
 ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Dark the descent; the strong-winged birds are golden: they fly aloft to heaven, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/02_payasvatIH_kRNuthApa.md">
 <details open><summary><h3>०२ पयस्वतीः कृणुथाप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 </div>
 
 ## ०३ उदप्रुतो मरुतस्ताँ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑द॒प्रुतो॑ म॒रुत॒स्ताँ इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑।  
 एजा॑ति॒ ग्लहा॑ क॒न्ये॑व तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Ye make floods rich in milk, make plants propitious, what time ye stir, O golden
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/022_bhaiShajyam/03_udapruto_marutastA.N.md">
 <details open><summary><h3>०३ उदप्रुतो मरुतस्ताँ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

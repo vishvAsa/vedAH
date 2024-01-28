@@ -2,7 +2,7 @@
 title = "०९८ अजरं क्षत्रम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/_index.md">
 <details open><summary><h2>०९८ अजरं क्षत्रम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Griffith, i. 299.
 </div>
 
 ## ०१ इन्द्रो जयाति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/01_indro_jayAti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रो॑ जयाति॒ न परा॑ जयाता अधिरा॒जो राज॑सु राजयातै।  
 च॒र्कृत्य॒ ईड्यो॒ वन्द्य॑श्चोप॒सद्यो॑ नमस्यो᳡ भवे॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/01_indro_jayAti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Griffith, i. 299.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/01_indro_jayAti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/01_indro_jayAti.md">
 <details open><summary><h3>०१ इन्द्रो जयाति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 </div>
 
 ## ०२ त्वमिन्द्राधिराजः श्रवस्युस्त्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वमि॑न्द्राधिरा॒जः श्र॑व॒स्युस्त्वं भू॑र॒भिभू॑ति॒र्जना॑नाम्।  
 त्वं दैवी॑र्विश इ॒मा वि रा॒जायु॑ष्मत्क्ष॒त्रम॒जरं॑ ते अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Indra be victor, never to be vanquished, to reign among the Kings as sovran rule
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/02_tvamindrAdhirAjaH_shravasyustvam.md">
 <details open><summary><h3>०२ त्वमिन्द्राधिराजः श्रवस्युस्त्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of 
 </div>
 
 ## ०३ प्राच्या दिशस्त्वमिन्द्रासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राच्या॑ दि॒शस्त्वमि॑न्द्रासि॒ राजो॒तोदी॑च्या दि॒शो वृ॑त्रहञ्छत्रु॒हो᳡सि॑।  
 यत्र॒ यन्ति॑ स्रो॒त्यास्तज्जि॒तं ते॑ दक्षिण॒तो वृ॑ष॒भ ए॑षि॒ हव्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ Thou fain for glory, an imperial ruler, hast won dominion over men, O Indra, Of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/098_ajaraM_xatram/03_prAchyA_dishastvamindrAsi.md">
 <details open><summary><h3>०३ प्राच्या दिशस्त्वमिन्द्रासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

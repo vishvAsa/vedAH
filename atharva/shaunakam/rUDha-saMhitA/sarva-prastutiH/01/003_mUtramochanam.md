@@ -2,7 +2,7 @@
 title = "००३ मूत्रमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/_index.md">
 <details open><summary><h2>००३ मूत्रमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against constipation and suppression of urine
 </div>
 
 ## ०१ विद्मा शरस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/01_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/01_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम्।  
 तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/01_vidmA_sharasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/01_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against constipation and suppression of urine
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/01_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/01_vidmA_sharasya.md">
 <details open><summary><h3>०१ विद्मा शरस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ We know the father of the shaft, Parjanya strong with hundred powers: By this ma
 </div>
 
 ## ०२ विद्मा शरस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/02_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/02_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम्।  
 तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/02_vidmA_sharasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/02_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ We know the father of the shaft, Parjanya strong with hundred powers: By this ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/02_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/02_vidmA_sharasya.md">
 <details open><summary><h3>०२ विद्मा शरस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -159,14 +159,14 @@ We know the father of the shaft, Mitra, the Lord of hundred powers: By this, etc
 </div>
 
 ## ०३ विद्मा शरस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/03_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/03_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम्।  
 तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/03_vidmA_sharasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/03_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -175,7 +175,7 @@ We know the father of the shaft, Mitra, the Lord of hundred powers: By this, etc
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/03_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/03_vidmA_sharasya.md">
 <details open><summary><h3>०३ विद्मा शरस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -219,14 +219,14 @@ We know the father of the shaft, Varuna, strong with hundred powers: By this, et
 </div>
 
 ## ०४ विद्मा शरस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/04_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/04_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम्।  
 तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/04_vidmA_sharasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/04_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -235,7 +235,7 @@ We know the father of the shaft, Varuna, strong with hundred powers: By this, et
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/04_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/04_vidmA_sharasya.md">
 <details open><summary><h3>०४ विद्मा शरस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -279,14 +279,14 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 </div>
 
 ## ०५ विद्मा शरस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/05_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/05_vidmA_sharasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम्।  
 तेना॑ ते त॒न्वे॑३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/05_vidmA_sharasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/05_vidmA_sharasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -295,7 +295,7 @@ We know the father of the shaft, the Moon endowed with hundred powers: By this, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/05_vidmA_sharasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/05_vidmA_sharasya.md">
 <details open><summary><h3>०५ विद्मा शरस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -339,14 +339,14 @@ We know the father of the shaft, the Sun endowed with hundred powers: By this ma
 </div>
 
 ## ०६ यदान्त्रेषु गवीन्योर्यद्वस्तावधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम्।  
 ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -355,7 +355,7 @@ We know the father of the shaft, the Sun endowed with hundred powers: By this ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/06_yadAntreShu_gavInyoryadvastAvadhi.md">
 <details open><summary><h3>०६ यदान्त्रेषु गवीन्योर्यद्वस्तावधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let
 </div>
 
 ## ०७ प्र ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/07_pra_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/07_pra_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व।  
 ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/07_pra_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/07_pra_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ Whate'er hath gathered, as it flowed, in bowels, bladder, or in groins, Thus let
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/07_pra_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/07_pra_te.md">
 <details open><summary><h3>०७ प्र ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -467,14 +467,14 @@ I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 </div>
 
 ## ०८ विषितं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/08_viShitaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/08_viShitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व।  
 ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/08_viShitaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/08_viShitaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -483,7 +483,7 @@ I lay the passage open as one cleaves the dam that bars the lake: Thus let, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/08_viShitaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/08_viShitaM_te.md">
 <details open><summary><h3>०८ विषितं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -529,14 +529,14 @@ Now hath the portal been unclosed as, of the sea that holds the flood: Thus let,
 </div>
 
 ## ०९ यथेषुका परापतदवसृष्टाधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः।  
 ए॒वा ते॒ मूत्रं॑ मुच्यतां बहि॒र्बालिति॑ सर्व॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -545,7 +545,7 @@ Now hath the portal been unclosed as, of the sea that holds the flood: Thus let,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/003_mUtramochanam/09_yatheShukA_parApatadavasRShTAdhi.md">
 <details open><summary><h3>०९ यथेषुका परापतदवसृष्टाधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

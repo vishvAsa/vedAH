@@ -2,7 +2,7 @@
 title = "१०६ दूर्वाशाला"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/_index.md">
 <details open><summary><h2>१०६ दूर्वाशाला ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, Der Rigveda, iv. 422; Grill, 63, 170; Bloomfield, AJP. xi. 3
 </div>
 
 ## ०१ आयने ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/01_Ayane_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑।  
 उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्र॒दो वा॑ पु॒ण्डरी॑कवान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/01_Ayane_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, Der Rigveda, iv. 422; Grill, 63, 170; Bloomfield, AJP. xi. 3
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/01_Ayane_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/01_Ayane_te.md">
 <details open><summary><h3>०१ आयने ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 </div>
 
 ## ०२ अपामिदं न्ययनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्।  
 मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Let flowery Durva grass grow up about thine exit and approach. There let a sprin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/02_apAmidaM_nyayanam.md">
 <details open><summary><h3>०२ अपामिदं न्ययनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 </div>
 
 ## ०३ हिमस्य त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/03_himasya_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/106_dUrvAshAlA/03_himasya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि।  
 शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/03_himasya_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/106_dUrvAshAlA/03_himasya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ This is the place where waters meet, here is the gathering of the flood. Our hom
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/03_himasya_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/106_dUrvAshAlA/03_himasya_tvA.md">
 <details open><summary><h3>०३ हिमस्य त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००४ प्राणः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/_index.md">
 <details open><summary><h2>००४ प्राणः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A glorification of Prana, Breath or Vital Spirit
 </div>
 
 ## ०१ प्राणाय नमो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/01_prANAya_namo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/01_prANAya_namo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णाय॒ नमो॒ यस्य॒ सर्व॑मि॒दं वशे॑।  
 यो भू॒तः सर्व॑स्येश्व॒रो यस्मि॒न्त्सर्वं॒ प्रति॑ष्ठितम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/01_prANAya_namo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/01_prANAya_namo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A glorification of Prana, Breath or Vital Spirit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/01_prANAya_namo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/01_prANAya_namo.md">
 <details open><summary><h3>०१ प्राणाय नमो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Homage to Prana, him who hath dominion o'er the universe, Who hath become the So
 </div>
 
 ## ०२ नमस्ते प्राण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/02_namaste_prANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/02_namaste_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते प्राण॒ क्रन्दा॑य॒ नम॑स्ते स्तनयि॒त्नवे॑।  
 नम॑स्ते प्राण वि॒द्युते॒ नम॑स्ते प्राण॒ वर्ष॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/02_namaste_prANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/02_namaste_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Homage to Prana, him who hath dominion o'er the universe, Who hath become the So
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/02_namaste_prANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/02_namaste_prANa.md">
 <details open><summary><h3>०२ नमस्ते प्राण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,14 +157,14 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 </div>
 
 ## ०३ यत्प्राण स्तनयित्नुनाभिक्रन्दत्योषधीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्प्रा॒ण स्त॑नयि॒त्नुना॑भि॒क्रन्द॒त्योष॑धीः।  
 प्र वी॑यन्ते॒ गर्भा॑न्दध॒तेऽथो॑ ब॒ह्वीर्वि जा॑यन्ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -173,7 +173,7 @@ Homage, O Prana, to thy roar, to thunder-peal and lightning flash! Homage, O Pra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/03_yatprANa_stanayitnunAbhikrandatyoShadhIH.md">
 <details open><summary><h3>०३ यत्प्राण स्तनयित्नुनाभिक्रन्दत्योषधीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -223,14 +223,14 @@ When Prana with a thunderous voice shouts his loud message to the plants, They s
 </div>
 
 ## ०४ यत्प्राण ऋतावागतेऽभिक्रन्दत्योषधीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्प्रा॒ण ऋ॒तावाग॑तेऽभि॒क्रन्द॒त्योष॑धीः।  
 सर्वं॑ त॒दा प्र मो॑दते॒ यत्किं च॒ भूम्या॒मधि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -239,7 +239,7 @@ When Prana with a thunderous voice shouts his loud message to the plants, They s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/04_yatprANa_RtAvAgate-bhikrandatyoShadhIH.md">
 <details open><summary><h3>०४ यत्प्राण ऋतावागतेऽभिक्रन्दत्योषधीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -286,14 +286,14 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 </div>
 
 ## ०५ यदा प्राणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/05_yadA_prANo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/05_yadA_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
 प॒शव॒स्तत्प्र मो॑दन्ते॒ महो॒ वै नो॑ भविष्यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/05_yadA_prANo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/05_yadA_prANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -302,7 +302,7 @@ When the due season hath arrived and Prana shouteth to herbs, Then all is joyful
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/05_yadA_prANo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/05_yadA_prANo.md">
 <details open><summary><h3>०५ यदा प्राणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -350,14 +350,14 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 </div>
 
 ## ०६ अभिवृष्टा ओषधयः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भिवृ॑ष्टा॒ ओष॑धयः प्रा॒णेन॒ सम॑वादिरन्।  
 आयु॒र्वै नः॒ प्राती॑तरः॒ सर्वा॑ नः सुर॒भीर॑कः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -366,7 +366,7 @@ When Prana hath poured down his flood of rain upon the mighty land. Cattle and b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/06_abhivRShTA_oShadhayaH.md">
 <details open><summary><h3>०६ अभिवृष्टा ओषधयः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -412,14 +412,14 @@ Watered by Prana's rain the plants have raised their voices in accord: Thou hast
 </div>
 
 ## ०७ नमस्ते अस्त्वायते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/07_namaste_astvAyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/07_namaste_astvAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते अस्त्वाय॒ते नमो॑ अस्तु पराय॒ते।  
 नम॑स्ते प्राण॒ तिष्ठ॑त॒ आसी॑नायो॒त ते॒ नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/07_namaste_astvAyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/07_namaste_astvAyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -428,7 +428,7 @@ Watered by Prana's rain the plants have raised their voices in accord: Thou hast
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/07_namaste_astvAyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/07_namaste_astvAyate.md">
 <details open><summary><h3>०७ नमस्ते अस्त्वायते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -476,14 +476,14 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 </div>
 
 ## ०८ नमस्ते प्राण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/08_namaste_prANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/08_namaste_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते प्राण प्राण॒ते नमो॑ अस्त्वपान॒ते।  
 प॑रा॒चीना॑य ते॒ नमः॑ प्रती॒चीना॑य ते॒ नमः॒ सर्व॑स्मै त इ॒दं नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/08_namaste_prANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/08_namaste_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -492,7 +492,7 @@ Homage to thee when coming nigh, homage to thee departing hence! Homage, O Prana
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/08_namaste_prANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/08_namaste_prANa.md">
 <details open><summary><h3>०८ नमस्ते प्राण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -540,14 +540,14 @@ Homage to thee at every breath thou drawest in and sendest forth! Homage to thee
 </div>
 
 ## ०९ या ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/09_yA_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/09_yA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या ते॑ प्राण प्रि॒या त॒नूर्यो ते॑ प्राण॒ प्रेय॑सी।  
 अथो॒ यद्भे॑ष॒जं तव॒ तस्य॑ नो धेहि जी॒वसे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/09_yA_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/09_yA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -556,7 +556,7 @@ Homage to thee at every breath thou drawest in and sendest forth! Homage to thee
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/09_yA_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/09_yA_te.md">
 <details open><summary><h3>०९ या ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -604,14 +604,14 @@ Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm 
 </div>
 
 ## १० प्राणः प्रजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/10_prANaH_prajA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/10_prANaH_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णः प्र॒जा अनु॑ वस्ते पि॒ता पु॒त्रमि॑व प्रि॒यम्।  
 प्रा॒णो ह॒ सर्व॑स्येश्व॒रो यच्च॑ प्रा॒णति॒ यच्च॒ न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/10_prANaH_prajA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/10_prANaH_prajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -620,7 +620,7 @@ Prana, communicate to us thy dear, thy very dearest form. Whatever healing balm 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/10_prANaH_prajA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/10_prANaH_prajA.md">
 <details open><summary><h3>१० प्राणः प्रजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -668,14 +668,14 @@ Prana robes living creatures as a father his beloved son. Prana is sovran Lord o
 </div>
 
 ## ११ प्राणो मृत्युः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/11_prANo_mRtyuH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/11_prANo_mRtyuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णो मृ॒त्युः प्रा॒णस्त॒क्मा प्रा॒णं दे॒वा उपा॑सते।  
 प्रा॒णो ह॑ सत्यवा॒दिन॑मुत्त॒मे लो॒क आ द॑धत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/11_prANo_mRtyuH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/11_prANo_mRtyuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -684,7 +684,7 @@ Prana robes living creatures as a father his beloved son. Prana is sovran Lord o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/11_prANo_mRtyuH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/11_prANo_mRtyuH.md">
 <details open><summary><h3>११ प्राणो मृत्युः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -731,14 +731,14 @@ Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the 
 </div>
 
 ## १२ प्राणो विराट्प्राणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/12_prANo_virATprANo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/12_prANo_virATprANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णो वि॒राट्प्रा॒णो देष्ट्री॑ प्रा॒णं सर्व॒ उपा॑सते।  
 प्रा॒णो ह॒ सूर्य॑श्च॒न्द्रमाः॑ प्रा॒णमा॑हुः प्र॒जाप॑तिम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/12_prANo_virATprANo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/12_prANo_virATprANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -747,7 +747,7 @@ Prana is Fever, he is Death. Prana is worshipped by the Gods. Prana sets in the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/12_prANo_virATprANo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/12_prANo_virATprANo.md">
 <details open><summary><h3>१२ प्राणो विराट्प्राणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -795,14 +795,14 @@ Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the
 </div>
 
 ## १३ प्राणापानौ व्रीहियवावनड्वान्प्राण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॑णापा॒नौ व्री॑हिय॒वाव॑न॒ड्वान्प्रा॒ण उ॑च्यते।  
 यवे॑ ह प्रा॒ण आहि॑तोऽपा॒नो व्री॒हिरु॑च्यते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -811,7 +811,7 @@ Prana is Deshtri, and Viraj Prana is reverenced by all. He is the Sun, he is the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/13_prANApAnau_vrIhiyavAvanaDvAnprANa.md">
 <details open><summary><h3>१३ प्राणापानौ व्रीहियवावनड्वान्प्राण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -858,14 +858,14 @@ Both breaths are rice and barley, and Prana is called the toiling ox: In barley 
 </div>
 
 ## १४ अपानति प्राणति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/14_apAnati_prANati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/14_apAnati_prANati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपा॑नति॒ प्राण॑ति॒ पुरु॑षो॒ गर्भे॑ अन्त॒रा।  
 य॒दा त्वं प्रा॑ण॒ जिन्व॒स्यथ॒ स जा॑यते॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/14_apAnati_prANati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/14_apAnati_prANati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -874,7 +874,7 @@ Both breaths are rice and barley, and Prana is called the toiling ox: In barley 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/14_apAnati_prANati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/14_apAnati_prANati.md">
 <details open><summary><h3>१४ अपानति प्राणति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -921,14 +921,14 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 </div>
 
 ## १५ प्राणमाहुर्मातरिश्वानं वातो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णमा॑हुर्मात॒रिश्वा॑नं॒ वातो॑ ह प्रा॒ण उ॑च्यते।  
 प्रा॒णे ह॑ भू॒तं भव्यं॑ च प्रा॒णे सर्वं॒ प्रति॑ष्ठितम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -937,7 +937,7 @@ The human infant in the womb draws vital breath and sends it Lout: When thou, O 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/15_prANamAhurmAtarishvAnaM_vAto.md">
 <details open><summary><h3>१५ प्राणमाहुर्मातरिश्वानं वातो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -984,14 +984,14 @@ The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and futu
 </div>
 
 ## १६ आथर्वणीराङ्गिरसीर्दैवीर्मनुष्यजा उत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑थर्व॒णीरा॑ङ्गिर॒सीर्दै॒वीर्म॑नुष्य॒जा उ॒त।  
 ओष॑धयः॒ प्र जा॑यन्ते य॒दा त्वं प्रा॑ण॒ जिन्व॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1000,7 +1000,7 @@ The name of Prana is bestowed on Matarisvan and on Wind. On Prana, past and futu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/16_AtharvaNIrAngirasIrdaivIrmanuShyajA_uta.md">
 <details open><summary><h3>१६ आथर्वणीराङ्गिरसीर्दैवीर्मनुष्यजा उत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1049,14 +1049,14 @@ All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants
 </div>
 
 ## १७ यदा प्राणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/17_yadA_prANo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/17_yadA_prANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒दा प्रा॒णो अ॒भ्यव॑र्षीद्व॒र्षेण॑ पृथि॒वीं म॒हीम्।  
 ओष॑धयः॒ प्र जा॑य॒न्तेऽथो॒ याः काश्च॑ वी॒रुधः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/17_yadA_prANo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/17_yadA_prANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1065,7 +1065,7 @@ All herbs and plants spring forth and grow when thou, O Prana quickenest, Plants
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/17_yadA_prANo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/17_yadA_prANo.md">
 <details open><summary><h3>१७ यदा प्राणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1114,14 +1114,14 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 </div>
 
 ## १८ यस्ते प्राणेदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/18_yaste_prANedam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/18_yaste_prANedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॑ प्राणे॒दं वे॑द॒ यस्मिं॑श्चासि॒ प्रति॑ष्ठितः।  
 सर्वे॒ तस्मै॑ ब॒लिं ह॑रान॒मुष्मिं॑ल्लो॒क उ॑त्त॒मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/18_yaste_prANedam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/18_yaste_prANedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1130,7 +1130,7 @@ When Prana hath poured down his flood of rain upon the mighty earth, The plants 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/18_yaste_prANedam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/18_yaste_prANedam.md">
 <details open><summary><h3>१८ यस्ते प्राणेदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1176,14 +1176,14 @@ The man who knows this truth of thee, O Prana, and what bears thee up To him wil
 </div>
 
 ## १९ यथा प्राण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/19_yathA_prANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/19_yathA_prANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ प्राण बलि॒हृत॒स्तुभ्यं॒ सर्वाः॑ प्र॒जा इ॒माः।  
 ए॒वा तस्मै॑ ब॒लिं ह॑रा॒न्यस्त्वा॑ शृ॒णव॑त्सुश्रवः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/19_yathA_prANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/19_yathA_prANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1192,7 +1192,7 @@ The man who knows this truth of thee, O Prana, and what bears thee up To him wil
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/19_yathA_prANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/19_yathA_prANa.md">
 <details open><summary><h3>१९ यथा प्राण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1240,14 +1240,14 @@ As all these living creatures are thy tributaries, Prana, so Shall they bring tr
 </div>
 
 ## २० अन्तर्गर्भश्चरति देवतास्वाभूतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तर्गर्भ॑श्चरति दे॒वता॒स्वाभू॑तो भू॒तः स उ॑ जायते॒ पुनः॑।  
 स भू॒तो भव्यं॑ भवि॒ष्यत्पि॒ता पु॒त्रं प्र वि॑वेशा॒ शची॑भिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1256,7 +1256,7 @@ As all these living creatures are thy tributaries, Prana, so Shall they bring tr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/20_antargarbhashcharati_devatAsvAbhUto.md">
 <details open><summary><h3>२० अन्तर्गर्भश्चरति देवतास्वाभूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1307,14 +1307,14 @@ Filled with a babe, mid deities he wanders: grown; near at hand, he springs agai
 </div>
 
 ## २१ एकं पादम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/21_ekaM_pAdam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/21_ekaM_pAdam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एकं॒ पादं॒ नोत्खि॑दति सलि॒लाद्धं॒स उ॒च्चर॑न्।  
 यद॒ङ्ग स तमु॑त्खि॒देन्नैवाद्य न श्वः स्या॑न्न रात्री॒ नाहः॑ स्या॒न्न व्यु᳡च्छेत्क॒दा च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/21_ekaM_pAdam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/21_ekaM_pAdam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1323,7 +1323,7 @@ Filled with a babe, mid deities he wanders: grown; near at hand, he springs agai
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/21_ekaM_pAdam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/21_ekaM_pAdam.md">
 <details open><summary><h3>२१ एकं पादम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1377,14 +1377,14 @@ Hansa, what time he rises up, leaves in the flood one foot un- moved. If he with
 </div>
 
 ## २२ अष्टाचक्रं वर्तत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/22_aShTAchakraM_vartata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/22_aShTAchakraM_vartata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ष्टाच॑क्रं वर्तत॒ एक॑नेमि स॒हस्रा॑क्षरं॒ प्र पु॒रो नि प॒श्चा।  
 अ॒र्धेन॒ विश्वं॒ भुव॑नं ज॒जान॒ यद॑स्या॒र्धं क॑त॒मः स के॒तुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/22_aShTAchakraM_vartata.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/22_aShTAchakraM_vartata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1393,7 +1393,7 @@ Hansa, what time he rises up, leaves in the flood one foot un- moved. If he with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/22_aShTAchakraM_vartata.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/22_aShTAchakraM_vartata.md">
 <details open><summary><h3>२२ अष्टाचक्रं वर्तत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1448,14 +1448,14 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 </div>
 
 ## २३ यो अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/23_yo_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/23_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒स्य वि॒श्वज॑न्मन॒ ईशे॒ विश्व॑स्य॒ चेष्ट॑तः।  
 अन्ये॑षु क्षि॒प्रध॑न्वने॒ तस्मै॑ प्राण॒ नमो॑ऽस्तु ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/23_yo_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/23_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1464,7 +1464,7 @@ It rolleth on, eight-wheeled and single-fellied, and with a thousand eyes, forwa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/23_yo_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/23_yo_asya.md">
 <details open><summary><h3>२३ यो अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1517,14 +1517,14 @@ Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion
 </div>
 
 ## २४ यो अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/24_yo_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/24_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒स्य स॒र्वज॑न्मन॒ ईशे॒ सर्व॑स्य॒ चेष्ट॑तः।  
 अत॑न्द्रो॒ ब्रह्म॑णा॒ धीरः॑ प्रा॒णो मानु॑ तिष्ठतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/24_yo_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/24_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1533,7 +1533,7 @@ Homage, O Prana unto thee armed with swift bow among the rest, In whose dominion
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/24_yo_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/24_yo_asya.md">
 <details open><summary><h3>२४ यो अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1581,14 +1581,14 @@ May he who rules this Universe of varied sort, that stirs and works, Prana, aler
 </div>
 
 ## २५ ऊर्ध्वः सुप्तेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/25_UrdhvaH_supteShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/25_UrdhvaH_supteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्ध्वः सु॒प्तेषु॑ जागार न॒नु ति॒र्यङ्नि प॑द्यते।  
 न सु॒प्तम॑स्य सु॒प्तेष्वनु॑ शुश्राव॒ कश्च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/25_UrdhvaH_supteShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/25_UrdhvaH_supteShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1597,7 +1597,7 @@ May he who rules this Universe of varied sort, that stirs and works, Prana, aler
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/25_UrdhvaH_supteShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/25_UrdhvaH_supteShu.md">
 <details open><summary><h3>२५ ऊर्ध्वः सुप्तेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1650,14 +1650,14 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 </div>
 
 ## २६ प्राण मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/26_prANa_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/004_prANaH/26_prANa_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राण॒ मा मत्प॒र्यावृ॑तो॒ न मद॒न्यो भ॑विष्यसि।  
 अ॒पां गर्भ॑मिव जी॒वसे॒ प्राण॑ ब॒ध्नामि॑ त्वा॒ मयि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/26_prANa_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/004_prANaH/26_prANa_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1666,7 +1666,7 @@ Erect among the sleepers he wakes, and is never laid at length, No one hath ever
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/26_prANa_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/004_prANaH/26_prANa_mA.md">
 <details open><summary><h3>२६ प्राण मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

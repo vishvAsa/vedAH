@@ -2,7 +2,7 @@
 title = "०३६ शतवारो मणिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/_index.md">
 <details open><summary><h2>०३६ शतवारो मणिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against disease and evil spirits
 </div>
 
 ## ०१ शतवारो अनीनशद्यक्ष्मान्रक्षांसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तवा॑रो अनीनश॒द्यक्ष्मा॒न्रक्षां॑सि॒ तेज॑सा।  
 आ॒रोह॒न्वर्च॑सा स॒ह म॒णिर्दु॑र्णाम॒चात॑नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against disease and evil spirits
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/01_shatavAro_anInashadyaxmAnraxAMsi.md">
 <details open><summary><h3>०१ शतवारो अनीनशद्यक्ष्मान्रक्षांसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 </div>
 
 ## ०२ शृङ्गाभ्यां रक्षो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शृङ्गा॑भ्यां॒ रक्षो॑ नुदते॒ मूले॑न यातुधा॒न्यः᳡।  
 मध्ये॑न॒ यक्ष्मं॑ बाधते॒ नैनं॑ पा॒प्माति॑ तत्रति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ The Hundred-haired hath banished hence fiends and Consump- tions by its might. W
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/02_shRngAbhyAM_raxo.md">
 <details open><summary><h3>०२ शृङ्गाभ्यां रक्षो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 </div>
 
 ## ०३ ये यक्ष्मासो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये यक्ष्मा॑सो अर्भ॒का म॒हान्तो॒ ये च॑ श॒ब्दिनः॑।  
 सर्वा॑न् दुर्णाम॒हा म॒णिः श॒तवा॑रो अनीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ It drives off demons with its horns and sorceresses with its root, It stays Cons
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/03_ye_yaxmAso.md">
 <details open><summary><h3>०३ ये यक्ष्मासो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -239,14 +239,14 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 </div>
 
 ## ०४ शतं वीरानजनयच्छतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तं वी॒रान॑जनयच्छ॒तं यक्ष्मा॒नपा॑वपत्।  
 दु॒र्णाम्नः॒ सर्वा॑न्ह॒त्वाव॒ रक्षां॑सि धूनुते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -255,7 +255,7 @@ Consumptions, light and serious, and those which sounds accompany, All these the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/04_shataM_vIrAnajanayachChatam.md">
 <details open><summary><h3>०४ शतं वीरानजनयच्छतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -306,14 +306,14 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 </div>
 
 ## ०५ हिरण्यशृङ्ग ऋषभः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हिर॑ण्यशृङ्ग ऋष॒भः शा॑तवा॒रो अ॒यं म॒णिः।  
 दु॒र्णाम्नः॒ सर्वां॑स्तृ॒ड्ढ्वाव॒ रक्षां॑स्यक्रमीत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -322,7 +322,7 @@ A hundred men hath it produced, hundred Consumptions chased away, All fiends of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/05_hiraNyashRnga_RShabhaH.md">
 <details open><summary><h3>०५ हिरण्यशृङ्ग ऋषभः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -375,14 +375,14 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 </div>
 
 ## ०६ शतमहं दुर्णाम्नीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तम॒हं दु॒र्णाम्नी॑नां गन्धर्वाप्स॒रसां॑ श॒तम्।  
 श॒तं श॒श्व॒न्वती॑नां श॒तवा॑रेण वारये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -391,7 +391,7 @@ The Bull that weareth horns of gold, this Amulet with hundred hairs, Hath cleft 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/036_shatavAro_maNiH/06_shatamahaM_durNAmnInAm.md">
 <details open><summary><h3>०६ शतमहं दुर्णाम्नीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

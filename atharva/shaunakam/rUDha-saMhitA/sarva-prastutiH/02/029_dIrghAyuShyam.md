@@ -2,7 +2,7 @@
 title = "०२९ दीर्घायुष्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/_index.md">
 <details open><summary><h2>०२९ दीर्घायुष्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A benediction on a sick man
 </div>
 
 ## ०१ पार्थिवस्य रसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पार्थि॑वस्य॒ रसे॑ देवा॒ भग॑स्य त॒न्वो॑३ बले॑।  
 आ॑यु॒ष्य॑म॒स्मा अ॒ग्निः सूर्यो॒ वर्च॒ आ धा॒द्बृह॒स्पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A benediction on a sick man
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/01_pArthivasya_rase.md">
 <details open><summary><h3>०१ पार्थिवस्य रसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Gods, give him all that earth hath best with bodily strength and happy fate. Agn
 </div>
 
 ## ०२ आयुरस्मै धेहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयु॑र॒स्मै धे॑हि जातवेदः प्र॒जां त्व॑ष्टरधि॒निधे॑ह्य॒स्मै।  
 रा॒यस्पोषं॑ सवित॒रा सु॑वा॒स्मै श॒तं जी॒वाति॑ श॒रद॒स्तवा॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Gods, give him all that earth hath best with bodily strength and happy fate. Agn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/02_Ayurasmai_dhehi.md">
 <details open><summary><h3>०२ आयुरस्मै धेहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar.
 </div>
 
 ## ०३ आशीर्ण ऊर्जमुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒शीर्ण॒ ऊर्ज॑मु॒त सौ॑प्रजा॒स्त्वं दक्षं॑ धत्तं॒ द्रवि॑णं॒ सचे॑तसौ।  
 जयं॒ क्षेत्रा॑णि॒ सह॑सा॒यमि॑न्द्र कृण्वा॒नो अ॒न्यानध॑रान्त्स॒पत्ना॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Bestow thou life on him, O Jatavedas. Store him with future progeny, O Tvashtar.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/03_AshIrNa_Urjamuta.md">
 <details open><summary><h3>०३ आशीर्ण ऊर्जमुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -254,14 +254,14 @@ May this our prayer bring strength and goodly offspring. Give, both of you one-m
 </div>
 
 ## ०४ इन्द्रेण दत्तो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रे॑ण द॒त्तो वरु॑णेन शि॒ष्टो म॒रुद्भि॑रु॒ग्रः प्रहि॑तो नो॒ आग॑न्।  
 ए॒ष वां॑ द्यावापृथिवी उ॒पस्थे॒ मा क्षु॑ध॒न्मा तृ॑षत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/04_indreNa_datto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/04_indreNa_datto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -270,7 +270,7 @@ May this our prayer bring strength and goodly offspring. Give, both of you one-m
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/04_indreNa_datto.md">
 <details open><summary><h3>०४ इन्द्रेण दत्तो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -322,14 +322,14 @@ As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maru
 </div>
 
 ## ०५ ऊर्जमस्मा ऊर्जस्वती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊर्ज॑मस्मा ऊर्जस्वती धत्तं॒ पयो॑ अस्मै पयस्वती धत्तम्।  
 ऊर्ज॑म॒स्मै द्याव॑पृथि॒वी अ॑धातां॒ विश्वे॑ दे॒वा म॒रुत॒ ऊर्ज॒मापः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -338,7 +338,7 @@ As Indra's gift, by Varuna instructed the fierce one came to us sent by the Maru
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/05_UrjamasmA_UrjasvatI.md">
 <details open><summary><h3>०५ ऊर्जमस्मा ऊर्जस्वती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -395,14 +395,14 @@ Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give mi
 </div>
 
 ## ०६ शिवाभिष्टे हृदयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॒वाभि॑ष्टे॒ हृद॑यं तर्पयाम्यनमी॒वो मो॑दिषीष्ठाः सु॒वर्चाः॑।  
 स॑वा॒सिनौ॑ पिबतां म॒न्थमे॒तम॒श्विनो॑ रू॒पं प॑रि॒धाय॑ मा॒याम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -411,7 +411,7 @@ Ye twain endowed with vigour, grant him vigour. Ye who are rich in milk, give mi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/06_shivAbhiShTe_hRdayam.md">
 <details open><summary><h3>०६ शिवाभिष्टे हृदयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -465,14 +465,14 @@ With health-bestowing drops thine heart I comfort: all-bright again, and undisea
 </div>
 
 ## ०७ इन्द्र एताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/07_indra_etAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/029_dIrghAyuShyam/07_indra_etAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ ए॒तां स॑सृजे वि॒द्धो अग्र॑ ऊ॒र्जां स्व॒धाम॒जरां॒ सा त॑ ए॒षा।  
 तया॒ त्वं जी॑व श॒रदः॑ सु॒वर्चा॒ मा त॒ आ सु॒स्रोद्भि॒षज॑स्ते अक्रन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/07_indra_etAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/029_dIrghAyuShyam/07_indra_etAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -481,7 +481,7 @@ With health-bestowing drops thine heart I comfort: all-bright again, and undisea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/07_indra_etAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/029_dIrghAyuShyam/07_indra_etAm.md">
 <details open><summary><h3>०७ इन्द्र एताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

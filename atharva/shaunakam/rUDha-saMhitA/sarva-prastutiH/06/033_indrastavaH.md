@@ -2,7 +2,7 @@
 title = "०३३ इन्द्रस्तवः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/_index.md">
 <details open><summary><h2>०३३ इन्द्रस्तवः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Indra for riches
 </div>
 
 ## ०१ यस्येदमा रजो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/01_yasyedamA_rajo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ये॒दमा रजो॒ युज॑स्तु॒जे जना॒ वनं॒ स्वः॑᳡।  
 इन्द्र॑स्य॒ रन्त्यं॑ बृ॒हत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/01_yasyedamA_rajo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Indra for riches
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/01_yasyedamA_rajo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/01_yasyedamA_rajo.md">
 <details open><summary><h3>०१ यस्येदमा रजो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 </div>
 
 ## ०२ नाधृष आ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/02_nAdhRSha_A.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नाधृ॑ष॒ आ द॑धृषते धृषा॒णो धृ॑षि॒तः शवः॑।  
 पु॒रा यथा॑ व्य॒थिः श्रव॒ इन्द्र॑स्य॒ नाधृ॑षे॒ शवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/02_nAdhRSha_A.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ He who controls this air and men who aid his strength, and wood, and heaven, the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/02_nAdhRSha_A.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/02_nAdhRSha_A.md">
 <details open><summary><h3>०२ नाधृष आ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 </div>
 
 ## ०३ स नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/03_sa_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/033_indrastavaH/03_sa_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स नो॑ ददातु॒ तां र॒यिमु॒रुं पि॒शङ्ग॑संदृशम्।  
 इन्द्रः॒ पति॑स्तु॒विष्ट॑मो॒ जने॒ष्वा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/03_sa_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/033_indrastavaH/03_sa_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ The bold whose overpowering might the boldest never hath defied,-- As erst still
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/03_sa_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/033_indrastavaH/03_sa_no.md">
 <details open><summary><h3>०३ स नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

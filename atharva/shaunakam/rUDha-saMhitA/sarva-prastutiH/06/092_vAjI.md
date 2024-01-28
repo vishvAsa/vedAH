@@ -2,7 +2,7 @@
 title = "०९२ वाजी"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/_index.md">
 <details open><summary><h2>०९२ वाजी ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 </div>
 
 ## ०१ वातरंहा भव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/01_vAtaraMhA_bhava.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वात॑रंहा भव वाजिन्यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः।  
 यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा प॒त्सु ज॒वं द॑धातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/01_vAtaraMhA_bhava.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 459; Griffith, i. 295; Bloomfield, 145, 507.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/01_vAtaraMhA_bhava.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/01_vAtaraMhA_bhava.md">
 <details open><summary><h3>०१ वातरंहा भव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 </div>
 
 ## ०२ जवस्ते अर्वन्निहितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/02_javaste_arvannihito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/02_javaste_arvannihito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज॒वस्ते॑ अर्व॒न्निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त्परी॑त्तः।  
 तेन॒ त्वं वा॑जि॒न्बल॑वा॒न्बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/02_javaste_arvannihito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/02_javaste_arvannihito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Be fleet as wind, Strong Steed, when thou art harnessed; go forth as swift as th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/02_javaste_arvannihito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/02_javaste_arvannihito.md">
 <details open><summary><h3>०२ जवस्ते अर्वन्निहितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 </div>
 
 ## ०३ तनूष्टे वाजिन्तन्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त॒नूष्टे॑ वाजिन्त॒न्वं१॒॑ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्।  
 अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वी᳡व॒ ज्योतिः॒ स्वमा मि॑मीयात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ That speed, that lies concealed in thee, O Charger, speed granted to the hawk or
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/092_vAjI/03_tanUShTe_vAjintanvam.md">
 <details open><summary><h3>०३ तनूष्टे वाजिन्तन्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

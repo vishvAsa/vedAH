@@ -2,7 +2,7 @@
 title = "०९७ यज्ञः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/_index.md">
 <details open><summary><h2>०९७ यज्ञः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ Translated: Ludwig, p. 429; Henry, 39, 111; Griffith, i. 376.
 </div>
 
 ## ०१ यदद्य त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/01_yadadya_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/01_yadadya_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒द्य त्वा॑ प्रय॒ति य॒ज्ञे अ॒स्मिन्होत॑श्चिकित्व॒न्नवृ॑णीमही॒ह।  
 ध्रु॒वम॑यो ध्रु॒वमु॒ता श॑विष्ठैप्रवि॒द्वान्य॒ज्ञमुप॑ याहि॒ सोम॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/01_yadadya_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/01_yadadya_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ Translated: Ludwig, p. 429; Henry, 39, 111; Griffith, i. 376.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/01_yadadya_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/01_yadadya_tvA.md">
 <details open><summary><h3>०१ यदद्य त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ As we have here elected thee, skilled Hotar! to-day as this our sacrifice procee
 </div>
 
 ## ०२ समिन्द्र नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/02_samindra_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/02_samindra_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समि॑न्द्र नो॒ मन॑सा नेष॒ गोभिः॒ सं सू॒रिभि॑र्हरिव॒न्त्सं स्व॒स्त्या।  
 सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒तौ य॒ज्ञिया॑नाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/02_samindra_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/02_samindra_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ As we have here elected thee, skilled Hotar! to-day as this our sacrifice procee
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/02_samindra_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/02_samindra_no.md">
 <details open><summary><h3>०२ समिन्द्र नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -182,14 +182,14 @@ With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes a
 </div>
 
 ## ०३ यानावह उशतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/03_yAnAvaha_ushato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/03_yAnAvaha_ushato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यानाव॑ह उश॒तो दे॑व दे॒वांस्तान्प्रेर॑य॒ स्वे अ॑ग्ने स॒धस्थे॑।  
 ज॑क्षि॒वांसः॑ पपि॒वांसो॒ मधू॑न्य॒स्मै ध॑त्त वसवो॒ वसू॑नि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/03_yAnAvaha_ushato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/03_yAnAvaha_ushato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -198,7 +198,7 @@ With kine connect us, and with spirit, Indra! Lord of Bay Steeds, with princes a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/03_yAnAvaha_ushato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/03_yAnAvaha_ushato.md">
 <details open><summary><h3>०३ यानावह उशतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -255,14 +255,14 @@ The willing Gods whom, God, thou hast brought hither, send thou to their own dwe
 </div>
 
 ## ०४ सुगा वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/04_sugA_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/04_sugA_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॒गा वो॑ देवाः॒ सद॑ना अकर्म॒ य आ॑ज॒ग्म सव॑ने मा जुषा॒णाः।  
 वह॑माना॒ भर॑माणाः॒ स्वा वसू॑नि॒ वसुं॑ घ॒र्मं दिव॒मा रो॑ह॒तानु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/04_sugA_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/04_sugA_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -271,7 +271,7 @@ The willing Gods whom, God, thou hast brought hither, send thou to their own dwe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/04_sugA_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/04_sugA_vo.md">
 <details open><summary><h3>०४ सुगा वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -337,14 +337,14 @@ Gods, we have made your seats of easy access, who, pleased with me, have come to
 </div>
 
 ## ०५ यज्ञ यज्ञम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/05_yajna_yajnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/05_yajna_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यज्ञ॑ य॒ज्ञं ग॑च्छ य॒ज्ञप॑तिं गच्छ।  
 स्वां योनिं॑ गच्छ॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/05_yajna_yajnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/05_yajna_yajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -353,7 +353,7 @@ Gods, we have made your seats of easy access, who, pleased with me, have come to
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/05_yajna_yajnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/05_yajna_yajnam.md">
 <details open><summary><h3>०५ यज्ञ यज्ञम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -403,14 +403,14 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 </div>
 
 ## ०६ एष ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/06_eSha_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/06_eSha_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒ष ते॑ य॒ज्ञो य॑ज्ञपते स॒हसू॑क्तवाकः।  
 सु॒वीर्यः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/06_eSha_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/06_eSha_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -419,7 +419,7 @@ Go to the sacrifiee, go to its master, Sacrifice! To thy birth- place go with Sv
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/06_eSha_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/06_eSha_te.md">
 <details open><summary><h3>०६ एष ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -472,14 +472,14 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 </div>
 
 ## ०७ वषड्ढुतेभ्यो वषडहुतेभ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वष॑ड्ढु॒तेभ्यो॒ वष॒डहु॑तेभ्यः।  
 देवा॑ गातुविदो गा॒तुं वि॒त्त्वा गा॒तुमि॑त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -488,7 +488,7 @@ This is thy sacrifice with hole hymnal, Lord of the Rite, Svaha! and fraught wit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/07_vaShaDDhutebhyo_vaShaDahutebhyaH.md">
 <details open><summary><h3>०७ वषड्ढुतेभ्यो वषडहुतेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -536,14 +536,14 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 </div>
 
 ## ०८ मनसस्पत इमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/08_manasaspata_imam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/097_yajnaH/08_manasaspata_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मन॑सस्पत इ॒मं नो॑ दि॒वि दे॒वेषु॑ य॒ज्ञम्।  
 स्वाहा॑ दि॒वि स्वाहा॑ पृथि॒व्यां स्वाहा॒न्तरि॑क्षे॒ स्वाहा॒ वाते॑ धां॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/08_manasaspata_imam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/097_yajnaH/08_manasaspata_imam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -552,7 +552,7 @@ Vashat to paid and yet unpaid oblations! Ye Gods who know the way, find and purs
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/08_manasaspata_imam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/097_yajnaH/08_manasaspata_imam.md">
 <details open><summary><h3>०८ मनसस्पत इमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

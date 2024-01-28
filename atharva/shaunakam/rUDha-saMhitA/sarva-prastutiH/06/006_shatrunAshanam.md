@@ -2,7 +2,7 @@
 title = "००६ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/_index.md">
 <details open><summary><h2>००६ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Brahmanaspati for protection from wicked men
 </div>
 
 ## ०१ योस्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो॒३॒॑स्मान्ब्र॑ह्मणस्प॒तेऽदे॑वो अभि॒मन्य॑ते।  
 सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Brahmanaspati for protection from wicked men
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/01_yosmAnbrahmaNaspate-devo_abhimanyate.md">
 <details open><summary><h3>०१ योस्मान्ब्रह्मणस्पतेऽदेवो अभिमन्यते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as p
 </div>
 
 ## ०२ यो नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/02_yo_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नः॑ सोम सुशं॒सिनो॑ दुः॒शंस॑ आ॒दिदे॑शति।  
 वज्रे॑णास्य॒ मुखे॑ जहि॒ स संपि॑ष्टो॒ अपा॑यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/02_yo_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/02_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ The godless man whoever plots against us, Brahmanaspati, Thou shalt give up as p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/02_yo_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>०२ यो नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ If, Soma, any spiteful man hath aimed at us whose thoughts are kind, Smite with 
 </div>
 
 ## ०३ यो नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/03_yo_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/006_shatrunAshanam/03_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नः॑ सोमाभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑।  
 अप॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौर्व॑ध॒त्मना॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/03_yo_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/006_shatrunAshanam/03_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ If, Soma, any spiteful man hath aimed at us whose thoughts are kind, Smite with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/03_yo_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/006_shatrunAshanam/03_yo_naH.md">
 <details open><summary><h3>०३ यो नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

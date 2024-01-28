@@ -2,7 +2,7 @@
 title = "०२२ अमित्रक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/_index.md">
 <details open><summary><h2>०२२ अमित्रक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction on a newly consecrated king
 </div>
 
 ## ०१ इममिन्द्र वर्धय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒ममि॑न्द्र वर्धय क्ष॒त्रियं॑ म इ॒मं वि॒शामे॑कवृ॒षं कृ॑णु॒ त्वम्।  
 निर॒मित्रा॑नक्ष्णुह्यस्य॒ सर्वां॒स्तान्र॑न्धयास्मा अहमुत्त॒रेषु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction on a newly consecrated king
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/01_imamindra_vardhaya.md">
 <details open><summary><h3>०१ इममिन्द्र वर्धय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of t
 </div>
 
 ## ०२ एमं भज
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/02_emaM_bhaja.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/02_emaM_bhaja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एमं भ॑ज॒ ग्रामे॒ अश्वे॑षु॒ गोषु॒ निष्टं भ॑ज॒ यो अ॒मित्रो॑ अ॒स्य।  
 वर्ष्म॑ क्ष॒त्राणा॑म॒यम॑स्तु॒ राजेन्द्र॒ शत्रुं॑ रन्धय॒ सर्व॑म॒स्मै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/02_emaM_bhaja.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/02_emaM_bhaja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Exalt and strengthen this my Prince, O Indra, Make him sole lord and leader of t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/02_emaM_bhaja.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/02_emaM_bhaja.md">
 <details open><summary><h3>०२ एमं भज ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ Give him a share in village, kine, and horses, and leave his enemy without a por
 </div>
 
 ## ०३ अयमस्तु धनपतिर्धनानामयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यम॑स्तु॒ धन॑पति॒र्धना॑नाम॒यं वि॒शां वि॒श्पति॑रस्तु॒ राजा॑।  
 अ॒स्मिन्नि॑न्द्र॒ महि॒ वर्चां॑सि धेह्यव॒र्चसं॑ कृणुहि॒ शत्रु॑मस्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ Give him a share in village, kine, and horses, and leave his enemy without a por
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/03_ayamastu_dhanapatirdhanAnAmayam.md">
 <details open><summary><h3>०३ अयमस्तु धनपतिर्धनानामयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -243,14 +243,14 @@ Let him be treasure-lord of goodly treasures, let him as King be master of the p
 </div>
 
 ## ०४ अस्मै द्यावापृथिवी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्मै द्या॑वापृथिवी॒ भूरि॑ वा॒मं दु॑हाथां घर्म॒दुघे॑ इ॒व धे॒नू।  
 अ॒यं राजा॑ प्रि॒य इन्द्र॑स्य भूयात्प्रि॒यो गवा॒मोष॑धीनां पशू॒नाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -259,7 +259,7 @@ Let him be treasure-lord of goodly treasures, let him as King be master of the p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/04_asmai_dyAvApRthivI.md">
 <details open><summary><h3>०४ अस्मै द्यावापृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -314,14 +314,14 @@ Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him
 </div>
 
 ## ०५ युनज्मि त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/05_yunajmi_ta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यु॒नज्मि॑ त उत्त॒राव॑न्त॒मिन्द्रं॒ येन॒ जय॑न्ति॒ न प॑रा॒जय॑न्ते।  
 यस्त्वा॒ कर॑देकवृ॒षं जना॑नामु॒त राज्ञा॑मुत्त॒मं मा॑न॒वाना॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/05_yunajmi_ta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -330,7 +330,7 @@ Like milch-kine yielding milk for warm libations, pour, Heaven and Earth! on him
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/05_yunajmi_ta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/05_yunajmi_ta.md">
 <details open><summary><h3>०५ युनज्मि त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -380,14 +380,14 @@ I join in league with thee victorious Indra, with whom men conquer and are ne'er
 </div>
 
 ## ०६ उत्तरस्त्वमधरे ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्त॑र॒स्त्वमध॑रे ते स॒पत्ना॒ ये के च॑ राज॒न्प्रति॑शत्रवस्ते।  
 ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -396,7 +396,7 @@ I join in league with thee victorious Indra, with whom men conquer and are ne'er
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/06_uttarastvamadhare_te.md">
 <details open><summary><h3>०६ उत्तरस्त्वमधरे ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -448,14 +448,14 @@ Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine a
 </div>
 
 ## ०७ सिंहप्रतीको विशो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिं॒हप्र॑तीको॒ विशो॑ अद्धि॒ सर्वा॑ व्या॒घ्रप्र॑ती॒कोऽव॑ बाधस्व॒ शत्रू॑न्।  
 ए॑कवृ॒ष इन्द्र॑सखा जिगी॒वां छ॑त्रूय॒तामा खि॑दा॒ भोज॑नानि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -464,7 +464,7 @@ Supreme art thou, beneath thee are thy rivals, and all, O King, who were thine a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/022_amitraxayaNam/07_siMhapratIko_visho.md">
 <details open><summary><h3>०७ सिंहप्रतीको विशो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

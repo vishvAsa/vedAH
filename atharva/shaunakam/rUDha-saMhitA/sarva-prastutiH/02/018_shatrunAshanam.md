@@ -2,7 +2,7 @@
 title = "०१८ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/_index.md">
 <details open><summary><h2>०१८ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A charm against enemies, goblins, and other evil creatures
 </div>
 
 ## ०१ भ्रातृव्यक्षयणमसि भ्रातृव्यचातनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ्रा॑तृव्य॒क्षय॑णमसि भ्रातृव्य॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A charm against enemies, goblins, and other evil creatures
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/01_bhrAtRvyaxayaNamasi_bhrAtRvyachAtanam.md">
 <details open><summary><h3>०१ भ्रातृव्यक्षयणमसि भ्रातृव्यचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,13 +100,13 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </div>
 
 ## ०२ सपत्नक्षयणमसि सपत्नचातनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑पत्न॒क्षय॑णमसि सपत्न॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Destruction of the foe art thou, give me the scaring of my foes. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/02_sapatnaxayaNamasi_sapatnachAtanam.md">
 <details open><summary><h3>०२ सपत्नक्षयणमसि सपत्नचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,13 +158,13 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </div>
 
 ## ०३ अरायक्षयणमस्यरायचातनं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑राय॒क्षय॑णमस्यराय॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -172,7 +172,7 @@ The rival's ruiner art thou, give me to drive my rivals off. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/03_arAyaxayaNamasyarAyachAtanaM_me.md">
 <details open><summary><h3>०३ अरायक्षयणमस्यरायचातनं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -217,13 +217,13 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </div>
 
 ## ०४ पिशाचक्षयणमसि पिशाचचातनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॑शाच॒क्षय॑णमसि पिशाच॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -231,7 +231,7 @@ Arayis' ruiner art thou, give me to drive Arayis off. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/04_pishAchaxayaNamasi_pishAchachAtanam.md">
 <details open><summary><h3>०४ पिशाचक्षयणमसि पिशाचचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -276,13 +276,13 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 </div>
 
 ## ०५ सदान्वाक्षयणमसि सदान्वाचातनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑दान्वा॒क्षय॑णमसि सदान्वा॒चात॑नं मे दाः॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -290,7 +290,7 @@ Pisa-chas' ruiner art thou, give me to drive Pisachas off. All hail!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/018_shatrunAshanam/05_sadAnvAxayaNamasi_sadAnvAchAtanam.md">
 <details open><summary><h3>०५ सदान्वाक्षयणमसि सदान्वाचातनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

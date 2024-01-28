@@ -2,7 +2,7 @@
 title = "००७ आदित्याः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/_index.md">
 <details open><summary><h2>००७ आदित्याः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Praise of the Adityas
 </div>
 
 ## ०१ दितेः पुत्राणामदितेरकारिषमव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्।  
 तेषां॒ हि धाम॑ गभि॒षक्स॑मु॒द्रियं॒ नैना॒न्नम॑सा प॒रो अ॑स्ति॒ कश्च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Praise of the Adityas
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/007_AdityAH/01_diteH_putrANAmaditerakAriShamava.md">
 <details open><summary><h3>०१ दितेः पुत्राणामदितेरकारिषमव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

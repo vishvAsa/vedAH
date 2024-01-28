@@ -2,7 +2,7 @@
 title = "००६ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/_index.md">
 <details open><summary><h2>००६ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Address to an amulet which is to secure the defeat of the wearer's enemies
 </div>
 
 ## ०१ पुमान्पुंसः परिजातोऽश्वत्थः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुमा॑न्पुं॒सः परि॑जातोऽश्व॒त्थः ख॑दि॒रादधि॑।  
 स ह॑न्तु॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Address to an amulet which is to secure the defeat of the wearer's enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/01_pumAnpuMsaH_parijAto-shvatthaH.md">
 <details open><summary><h3>०१ पुमान्पुंसः परिजातोऽश्वत्थः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy 
 </div>
 
 ## ०२ तानश्वत्थ निः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तान॑श्वत्थ॒ निः शृ॑णीहि॒ शत्रू॑न्वैबाध॒दोध॑तः।  
 इन्द्रे॑ण वृत्र॒घ्ना मे॒दी मि॒त्रेण॒ वरु॑णेन च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Masculine springs from masculine, Asvattha grows from Kha- dira, May it destroy 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/02_tAnashvattha_niH.md">
 <details open><summary><h3>०२ तानश्वत्थ निः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With In
 </div>
 
 ## ०३ यथाश्वत्थ निरभनोऽन्तर्महत्यर्णवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑श्वत्थ नि॒रभ॑नो॒ऽन्तर्म॑ह॒त्य॑र्ण॒वे।  
 ए॒वा तान्त्सर्वा॒न्निर्भ॑ङ्ग्धि॒ यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Crush down my foes, Asvattha! Rend, O Burster, those who storm and rage, With In
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/03_yathAshvattha_nirabhano-ntarmahatyarNave.md">
 <details open><summary><h3>०३ यथाश्वत्थ निरभनोऽन्तर्महत्यर्णवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -242,14 +242,14 @@ As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar a
 </div>
 
 ## ०४ यः सहमानश्चरसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः सह॑मान॒श्चर॑सि सासहा॒न इ॑व ऋष॒भः।  
 तेना॑श्वत्थ॒ त्वया॑ व॒यं स॒पत्ना॑न्त्सहिषीमहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -258,7 +258,7 @@ As thou hast rent and torn apart, Asvattha! in the mighty sea, So rend asundar a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/04_yaH_sahamAnashcharasi.md">
 <details open><summary><h3>०४ यः सहमानश्चरसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -307,14 +307,14 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 </div>
 
 ## ०५ सिनात्वेनान्निरृतिर्मृत्योः पाशैरमोक्यैः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सि॒नात्वे॑ना॒न्निरृ॑तिर्मृ॒त्योः पाशै॑रमो॒क्यैः।  
 अश्व॑त्थ॒ शत्रू॑न्माम॒कान्यान॒हं द्वेष्मि॒ ये च॒ माम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -323,7 +323,7 @@ Thou who like some victorious bull displayest thy surpassing might, With thee, w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/05_sinAtvenAnnirRtirmRtyoH_pAshairamokyaiH.md">
 <details open><summary><h3>०५ सिनात्वेनान्निरृतिर्मृत्योः पाशैरमोक्यैः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -371,14 +371,14 @@ Nirriti bind them with the bonds of Death which never may be loosed. Mine enemie
 </div>
 
 ## ०६ यथाश्वत्थ वानस्पत्यानारोहन्कृणुषेऽधरान्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑श्वत्थ वानस्प॒त्याना॒रोह॑न्कृणु॒षेऽध॑रान्।  
 ए॒वा मे॒ शत्रो॑र्मू॒र्धानं॒ विष्व॑ग्भिन्द्धि॒ सह॑स्व च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -387,7 +387,7 @@ Nirriti bind them with the bonds of Death which never may be loosed. Mine enemie
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/06_yathAshvattha_vAnaspatyAnArohankRNuShe-dharAn.md">
 <details open><summary><h3>०६ यथाश्वत्थ वानस्पत्यानारोहन्कृणुषेऽधरान् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -446,14 +446,14 @@ As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou brea
 </div>
 
 ## ०७ तेऽधराञ्चः प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तेऽध॒राञ्चः॒ प्र प्ल॑वन्तां छि॒न्ना नौरि॑व॒ बन्ध॑नात्।  
 न वै॑बा॒धप्र॑णुत्तानां॒ पुन॑रस्ति नि॒वर्त॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -462,7 +462,7 @@ As thou, Asvastha!, mountest on the trees and overthrowest them, So do thou brea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/07_te-dharAnchaH_pra.md">
 <details open><summary><h3>०७ तेऽधराञ्चः प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -513,14 +513,14 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 </div>
 
 ## ०८ प्रैणान्नुदे मनसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रैणा॑न्नुदे॒ मन॑सा॒ प्र चि॒त्तेनो॒त ब्रह्म॑णा।  
 प्रैणा॑न्वृ॒क्षस्य॒ शाख॑याश्व॒त्थस्य॑ नुदामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -529,7 +529,7 @@ Let them drift downward like a boat torn from the rope that fastened it. There i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/006_shatrunAshanam/08_praiNAnnude_manasA.md">
 <details open><summary><h3>०८ प्रैणान्नुदे मनसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

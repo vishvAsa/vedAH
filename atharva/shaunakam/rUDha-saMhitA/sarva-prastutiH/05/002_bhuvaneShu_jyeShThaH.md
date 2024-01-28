@@ -2,7 +2,7 @@
 title = "००२ भुवनेषु ज्येष्ठः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/_index.md">
 <details open><summary><h2>००२ भुवनेषु ज्येष्ठः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A glorification of Indra
 </div>
 
 ## ०१ तदिदास भुवनेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तदिदा॑स॒ भुव॑नेषु॒ ज्येष्ठं॒ यतो॑ य॒ज्ञ उ॒ग्रस्त्वे॒षनृ॑म्णः।  
 स॒द्यो ज॑ज्ञा॒नो नि रि॑णाति॒ शत्रू॒ननु॒ यदे॑नं॒ मद॑न्ति॒ विश्व॒ ऊमाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A glorification of Indra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/01_tadidAsa_bhuvaneShu.md">
 <details open><summary><h3>०१ तदिदास भुवनेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ In all the worlds That was the best and highest whence sprang the Mighty One of 
 </div>
 
 ## ०२ वावृधानः शवसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॒वृ॒धा॒नः शव॑सा॒ भूर्यो॑जाः॒ शत्रु॑र्दा॒साय॑ भि॒यसं॑ दधाति।  
 अव्य॑नच्च व्य॒नच्च॒ सस्नि॒ सं ते॑ नवन्त॒ प्रभृ॑ता॒ मदे॑षु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ In all the worlds That was the best and highest whence sprang the Mighty One of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/02_vAvRdhAnaH_shavasA.md">
 <details open><summary><h3>०२ वावृधानः शवसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 </div>
 
 ## ०३ त्वे क्रतुमपि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वे क्रतु॒मपि॑ पृञ्चन्ति॒ भूरि॒ द्विर्यदे॒ते त्रिर्भ॑व॒न्त्यूमाः॑।  
 स्वा॒दोः स्वादी॑यः स्वा॒दुना॑ सृजा॒ सम॒दः सु मधु॒ मधु॑ना॒भि यो॑धीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ Grown mighty in his strength, with ample vigour, he as a foe strikes fear into t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/03_tve_kratumapi.md">
 <details open><summary><h3>०३ त्वे क्रतुमपि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ All concentrate on thee their mental vigour what time these, twice or thrice, ar
 </div>
 
 ## ०४ यदि चिन्नु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ चि॒न्नु त्वा॒ धना॒ जय॑न्तं॒ रणे॑रणे अनु॒मद॑न्ति विप्राः।  
 ओजी॑यः शुष्मिन्त्स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन्दु॒रेवा॑सः क॒शोकाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ All concentrate on thee their mental vigour what time these, twice or thrice, ar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/04_yadi_chinnu.md">
 <details open><summary><h3>०४ यदि चिन्नु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ If verily in every war the sages joy and exult in thee who win- nest treasures, 
 </div>
 
 ## ०५ त्वया वयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वया॑ व॒यं शा॑शद्महे॒ रणे॑षु प्र॒पश्य॑न्तो यु॒धेन्या॑नि॒ भूरि॑।  
 चो॒दया॑मि त॒ आयु॑धा॒ वचो॑भिः॒ सं ते॑ शिशामि॒ ब्रह्म॑णा॒ वयां॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ If verily in every war the sages joy and exult in thee who win- nest treasures, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/05_tvayA_vayam.md">
 <details open><summary><h3>०५ त्वया वयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -363,14 +363,14 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 </div>
 
 ## ०६ नि तद्दधिषेऽवरे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नि तद्द॑धि॒षेऽव॑रे॒ परे॑ च॒ यस्मि॒न्नावि॒थाव॑सा दुरो॒णे।  
 आ स्था॑पयत मा॒तरं॑ जिग॒त्नुमत॑ इन्वत॒ कर्व॑राणि॒ भूरि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -379,7 +379,7 @@ Proudly we put our trust in thee in battles, when we behold great wealth the pri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/06_ni_taddadhiShe-vare.md">
 <details open><summary><h3>०६ नि तद्दधिषेऽवरे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -430,14 +430,14 @@ Thou in that house, the highest or the lowest, which thy protec- tion guards, be
 </div>
 
 ## ०७ स्तुष्व वर्ष्मन्पुरुवर्त्मानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्तु॒ष्व व॑र्ष्मन्पुरु॒वर्त्मा॑नं॒ समृभ्वा॑णमि॒नत॑ममा॒प्तमा॒प्त्याना॑म्।  
 आ द॑र्शति॒ शव॑सा॒ भूर्यो॑जाः॒ प्र स॑क्षति प्रति॒मानं॑ पृथि॒व्याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -446,7 +446,7 @@ Thou in that house, the highest or the lowest, which thy protec- tion guards, be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/07_stuShva_varShmanpuruvartmAnam.md">
 <details open><summary><h3>०७ स्तुष्व वर्ष्मन्पुरुवर्त्मानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -499,14 +499,14 @@ Praise in the height Him who hath many pathways, courageous, strongest, Aptya of
 </div>
 
 ## ०८ इमा ब्रह्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा ब्रह्म॑ बृ॒हद्दि॑वः कृणव॒दिन्द्रा॑य शू॒षम॑ग्रि॒यः स्व॒र्षाः।  
 म॒हो गो॒त्रस्य॑ क्षयति स्व॒राजा॒ तुर॑श्चि॒द्विश्व॑मर्णव॒त्तप॑स्वान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -515,7 +515,7 @@ Praise in the height Him who hath many pathways, courageous, strongest, Aptya of
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/08_imA_brahma.md">
 <details open><summary><h3>०८ इमा ब्रह्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -567,14 +567,14 @@ Brihaddiva, the foremost of light-winners, hath made these holy prayers, this st
 </div>
 
 ## ०९ एवा महान्बृहद्दिवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒वा म॒हान्बृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त्स्वां त॒न्व१॒॑मिन्द्र॑मे॒व।  
 स्वसा॑रौ मात॒रिभ्व॑री अरि॒प्रे हि॒न्वन्ति॑ चैने॒ शव॑सा व॒र्धय॑न्ति च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -583,7 +583,7 @@ Brihaddiva, the foremost of light-winners, hath made these holy prayers, this st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/002_bhuvaneShu_jyeShThaH/09_evA_mahAnbRhaddivo.md">
 <details open><summary><h3>०९ एवा महान्बृहद्दिवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

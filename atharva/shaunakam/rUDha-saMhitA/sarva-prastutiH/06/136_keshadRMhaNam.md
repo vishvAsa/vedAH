@@ -2,7 +2,7 @@
 title = "१३६ केशदृंहणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/_index.md">
 <details open><summary><h2>१३६ केशदृंहणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 536
 </div>
 
 ## ०१ देवी देव्यामधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे।  
 तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Zimmer, p. 68; Grill, 50, 176; Griffith, i. 321; Bloomfield, 31, 536
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/01_devI_devyAmadhi.md">
 <details open><summary><h3>०१ देवी देव्यामधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -94,13 +94,13 @@ Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, N
 </div>
 
 ## ०२ दृंह प्रत्नान्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -108,7 +108,7 @@ Born from the bosom of wide Earth the Goddess, godlike Plant, art thou: So we, N
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/02_dRMha_pratnAn.md">
 <details open><summary><h3>०२ दृंह प्रत्नान् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -156,14 +156,14 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 </div>
 
 ## ०३ यस्ते केशोऽवपद्यते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑।  
 इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -172,7 +172,7 @@ Make the old firm, make new hair spring, lengthen what has already grown.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/136_keshadRMhaNam/03_yaste_kesho-vapadyate.md">
 <details open><summary><h3>०३ यस्ते केशोऽवपद्यते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

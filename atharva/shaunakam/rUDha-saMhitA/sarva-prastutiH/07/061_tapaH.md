@@ -2,7 +2,7 @@
 title = "०६१ तपः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/_index.md">
 <details open><summary><h2>०६१ तपः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for sacred knowledge and its fruits
 </div>
 
 ## ०१ यदग्ने तपसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/01_yadagne_tapasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/01_yadagne_tapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑।  
 प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/01_yadagne_tapasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/01_yadagne_tapasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for sacred knowledge and its fruits
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/01_yadagne_tapasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/01_yadagne_tapasA.md">
 <details open><summary><h3>०१ यदग्ने तपसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 </div>
 
 ## ०२ अग्ने तपस्तप्यामह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/02_agne_tapastapyAmaha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑।  
 श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/02_agne_tapastapyAmaha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Since, Agni, with our fervent zeal we undergo austerity, May we be dear to Sacre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/02_agne_tapastapyAmaha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/061_tapaH/02_agne_tapastapyAmaha.md">
 <details open><summary><h3>०२ अग्ने तपस्तप्यामह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

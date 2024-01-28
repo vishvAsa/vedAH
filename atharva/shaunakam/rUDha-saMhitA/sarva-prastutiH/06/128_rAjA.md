@@ -2,7 +2,7 @@
 title = "१२८ राजा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/_index.md">
 <details open><summary><h2>१२८ राजा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 </div>
 
 ## ०१ शकधूमं नक्षत्राणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॑क॒धूमं॒ नक्ष॑त्राणि॒ यद्राजा॑न॒मकु॑र्वत।  
 भ॑द्रा॒हम॑स्मै॒ प्राय॑च्छन्नि॒दं रा॒ष्ट्रमसा॒दिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, Omina und Portenta (1858), p. 363; Zimmer, p. 353; Griffith, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/01_shakadhUmaM_naxatrANi.md">
 <details open><summary><h3>०१ शकधूमं नक्षत्राणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 </div>
 
 ## ०२ भद्राहं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ॑द्रा॒हं नो॑ म॒ध्यन्दि॑ने भद्रा॒हं सा॒यम॑स्तु नः।  
 भ॑द्रा॒हं नो॒ अह्नां॑ प्रा॒ता रात्री॑ भद्रा॒हम॑स्तु नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/02_bhadrAhaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/02_bhadrAhaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ What time the heavenly bodies chose the Weather Prophet as their King, They brou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/02_bhadrAhaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/02_bhadrAhaM_no.md">
 <details open><summary><h3>०२ भद्राहं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 </div>
 
 ## ०३ अहोरात्राभ्यां नक्षत्रेभ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑होरा॒त्राभ्यां॒ नक्ष॑त्रेभ्यः सूर्याचन्द्र॒मसा॑भ्याम्।  
 भ॑द्रा॒हम॒स्मभ्यं॑ राज॒ञ्छक॑धूम॒ त्वं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ May we have weather fair at noon, May we have weather fair at eve, Fair weather 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/03_ahorAtrAbhyAM_naxatrebhyaH.md">
 <details open><summary><h3>०३ अहोरात्राभ्यां नक्षत्रेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -240,14 +240,14 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 </div>
 
 ## ०४ यो नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/04_yo_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/128_rAjA/04_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नो॑ भद्रा॒हमक॑रः सा॒यं नक्त॑मथो॒ दिवा॑।  
 तस्मै॑ ते नक्षत्रराज॒ शक॑धूम॒ सदा॒ नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/04_yo_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/128_rAjA/04_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -256,7 +256,7 @@ Fair weather to the day and night, and to the stars and sun and moon. Give favou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/04_yo_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/128_rAjA/04_yo_no.md">
 <details open><summary><h3>०४ यो नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

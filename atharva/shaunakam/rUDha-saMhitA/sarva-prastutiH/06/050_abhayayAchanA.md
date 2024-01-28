@@ -2,7 +2,7 @@
 title = "०५० अभययाचना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/_index.md">
 <details open><summary><h2>०५० अभययाचना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the destruction of vermin
 </div>
 
 ## ०१ हतं तर्दम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/01_hataM_tardam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुम॑श्विना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्।  
 यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्या᳡य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/01_hataM_tardam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the destruction of vermin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/01_hataM_tardam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/01_hataM_tardam.md">
 <details open><summary><h3>०१ हतं तर्दम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ Destroy the rat, the mole, the boring beetle, cut off their heads and crush thei
 </div>
 
 ## ०२ तर्द है
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/02_tarda_hai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/02_tarda_hai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस।  
 ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान्यवा॒नहिं॑सन्तो अ॒पोदि॑त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/02_tarda_hai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/02_tarda_hai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ Destroy the rat, the mole, the boring beetle, cut off their heads and crush thei
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/02_tarda_hai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/02_tarda_hai.md">
 <details open><summary><h3>०२ तर्द है ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest 
 </div>
 
 ## ०३ तर्दापते वघापते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे।  
 य आ॑र॒ण्या व्य᳡द्व॒रा ये के च॒ स्थ व्य᳡द्व॒रास्तान्त्सर्वा॑ञ्जम्भयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Ho! boring beetle, ho! thou worm, ho! noxious grub and grasshopper! As a priest 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/050_abhayayAchanA/03_tardApate_vaghApate.md">
 <details open><summary><h3>०३ तर्दापते वघापते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

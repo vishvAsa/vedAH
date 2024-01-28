@@ -2,7 +2,7 @@
 title = "०६७ दीर्घायुत्वम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/_index.md">
 <details open><summary><h2>०६७ दीर्घायुत्वम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A prayer for long life
 </div>
 
 ## ०१ पश्येम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पश्ये॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A prayer for long life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/01_pashyema_sharadaH.md">
 <details open><summary><h3>०१ पश्येम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -92,13 +92,13 @@ A hundred autumns may we see.
 </div>
 
 ## ०२ जीवेम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जीवे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -106,7 +106,7 @@ A hundred autumns may we see.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/02_jIvema_sharadaH.md">
 <details open><summary><h3>०२ जीवेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -150,13 +150,13 @@ A hundred autumns may we live.
 </div>
 
 ## ०३ बुध्येम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बुध्ये॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -164,7 +164,7 @@ A hundred autumns may we live.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/03_budhyema_sharadaH.md">
 <details open><summary><h3>०३ बुध्येम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -208,13 +208,13 @@ A hundred autumns may we know.
 </div>
 
 ## ०४ रोहेम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रोहे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -222,7 +222,7 @@ A hundred autumns may we know.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/04_rohema_sharadaH.md">
 <details open><summary><h3>०४ रोहेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -266,13 +266,13 @@ A hundred autumns may we grow.
 </div>
 
 ## ०५ पूषेम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पूषे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -280,7 +280,7 @@ A hundred autumns may we grow.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/05_pUShema_sharadaH.md">
 <details open><summary><h3>०५ पूषेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -324,13 +324,13 @@ A hundred autumns may we thrive.
 </div>
 
 ## ०६ भवेम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भवे॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -338,7 +338,7 @@ A hundred autumns may we thrive.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/06_bhavema_sharadaH.md">
 <details open><summary><h3>०६ भवेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -382,13 +382,13 @@ A hundred autumns may we be.
 </div>
 
 ## ०७ भूयेम शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भूये॑म श॒रदः॑ श॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -396,7 +396,7 @@ A hundred autumns may we be.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/07_bhUyema_sharadaH.md">
 <details open><summary><h3>०७ भूयेम शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -440,13 +440,13 @@ A hundred autumns may we bide.
 </div>
 
 ## ०८ भूयसीः शरदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भूय॑सीः श॒रदः॑ श॒तात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -454,7 +454,7 @@ A hundred autumns may we bide.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/067_dIrghAyutvam/08_bhUyasIH_sharadaH.md">
 <details open><summary><h3>०८ भूयसीः शरदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

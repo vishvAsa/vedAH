@@ -2,7 +2,7 @@
 title = "०१० पाशमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/_index.md">
 <details open><summary><h2>०१० पाशमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Absolution and benediction
 </div>
 
 ## ०१ क्षेत्रियात्त्वा निरृत्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षे॑त्रि॒यात्त्वा॒ निरृ॑त्या जामिशं॒साद्द्रु॒हो मु॑ञ्चामि॒ वरु॑णस्य॒ पाशा॑त्।  
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Absolution and benediction
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/01_xetriyAttvA_nirRtyA.md">
 <details open><summary><h3>०१ क्षेत्रियात्त्वा निरृत्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,7 +100,7 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 </div>
 
 ## ०२ शं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/02_shaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/02_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं ते॑ अ॒ग्निः स॒हाद्भिर॑स्तु॒ शं सोमः॑ स॒हौष॑धीभिः।  
@@ -108,7 +108,7 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/02_shaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/02_shaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ From family sickness, kinsmen's curse, Destruction, from Druh, from Varuna's noo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/02_shaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/02_shaM_te.md">
 <details open><summary><h3>०२ शं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -186,7 +186,7 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 </div>
 
 ## ०३ शं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/03_shaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/03_shaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं ते॒ वातो॑ अ॒न्तरि॑क्षे॒ वयो॑ धा॒च्छं ते॑ भ॒वन्तु॑ प्र॒दिश॒श्चत॑स्रः।  
@@ -194,7 +194,7 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/03_shaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/03_shaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -204,7 +204,7 @@ Gracious to thee be Agni with the Waters, let Soma with the Plants be kind and b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/03_shaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/03_shaM_te.md">
 <details open><summary><h3>०३ शं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -254,7 +254,7 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 </div>
 
 ## ०४ इमा या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/04_imA_yA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/04_imA_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा या दे॒वीः प्र॒दिश॒श्चत॑स्रो॒ वात॑पत्नीर॒भि सूर्यो॑ वि॒चष्टे॑।  
@@ -262,7 +262,7 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/04_imA_yA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/04_imA_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -272,7 +272,7 @@ May kind Wind strengthen thee in air's mid-region, to thee may heaven's four qua
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/04_imA_yA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/04_imA_yA.md">
 <details open><summary><h3>०४ इमा या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -321,7 +321,7 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 </div>
 
 ## ०५ तासु त्वान्तर्जरस्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तासु॑ त्वा॒न्तर्ज॒रस्या द॒धामि॒ प्र यक्ष्म॑ एतु॒ निरृ॑तिः परा॒चैः।  
@@ -329,7 +329,7 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -339,7 +339,7 @@ These Goddesses, four regions of the heavens, on whom the Sun looks kindly, wive
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/05_tAsu_tvAntarjarasyA.md">
 <details open><summary><h3>०५ तासु त्वान्तर्जरस्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -386,7 +386,7 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 </div>
 
 ## ०६ अमुक्था यक्ष्माद्दुरितादवद्याद्द्रुहः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अमु॑क्था॒ यक्ष्मा॑द्दुरि॒ताद॑व॒द्याद्द्रु॒हः पाशा॒द्ग्राह्या॒श्चोद॑मुक्थाः।  
@@ -394,7 +394,7 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -404,7 +404,7 @@ For long life, in the midst of these I set thee. Away pass Nirriti, away Consump
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/06_amukthA_yaxmAdduritAdavadyAddruhaH.md">
 <details open><summary><h3>०६ अमुक्था यक्ष्माद्दुरितादवद्याद्द्रुहः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -456,7 +456,7 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 </div>
 
 ## ०७ अहा अरातिमविदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अहा॒ अरा॑ति॒मवि॑दः स्यो॒नमप्य॑भूर्भ॒द्रे सु॑कृ॒तस्य॑ लो॒के।  
@@ -464,7 +464,7 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -474,7 +474,7 @@ Thou hast been freed from Phthisis and from trouble, from shame, and from the sn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/07_ahA_arAtimavidaH.md">
 <details open><summary><h3>०७ अहा अरातिमविदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -525,7 +525,7 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 </div>
 
 ## ०८ सूर्यमृतं तमसो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूर्य॑मृ॒तं तम॑सो॒ ग्राह्या॒ अधि॑ दे॒वा मु॒ञ्चन्तो॑ असृज॒न्निरेण॑सः।  
@@ -533,7 +533,7 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 अ॑ना॒गसं॒ ब्रह्म॑णा त्वा कृणोमि शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -543,7 +543,7 @@ Joy hast thou found, and left ill-will behind thee: thou hast attained the happy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/010_pAshamochanam/08_sUryamRtaM_tamaso.md">
 <details open><summary><h3>०८ सूर्यमृतं तमसो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

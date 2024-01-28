@@ -2,7 +2,7 @@
 title = "००५ वर्चः प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/_index.md">
 <details open><summary><h2>००५ वर्चः प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Agni and Indra for the well being of a princely patron
 </div>
 
 ## ०१ उदेनमुत्तरं नयाग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदे॑नमुत्त॒रं न॒याग्ने॑ घृ॒तेना॑हुत।  
 समे॑नं॒ वर्च॑सा सृज प्र॒जया॑ च ब॒हुं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Agni and Indra for the well being of a princely patron
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/01_udenamuttaraM_nayAgne.md">
 <details open><summary><h3>०१ उदेनमुत्तरं नयाग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 </div>
 
 ## ०२ इन्द्रेमं प्रतरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रे॒मं प्र॑त॒रं कृ॑धि सजा॒ताना॑मसद्व॒शी।  
 रा॒यस्पोषे॑ण॒ सं सृ॑ज जी॒वात॑वे ज॒रसे॑ नय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ Agni, adored with sacred oil, lift up this man to high estate. Endow him with fu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/02_indremaM_prataram.md">
 <details open><summary><h3>०२ इन्द्रेमं प्रतरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 </div>
 
 ## ०३ यस्य कृण्मो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ कृ॒ण्मो ह॒विर्गृ॒हे तम॑ग्ने वर्धया॒ त्वम्।  
 तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Advance him, Indra! Let him be ruler of all akin to him. Grant him sufficiency o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/005_varchaH_prAptiH/03_yasya_kRNmo.md">
 <details open><summary><h3>०३ यस्य कृण्मो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

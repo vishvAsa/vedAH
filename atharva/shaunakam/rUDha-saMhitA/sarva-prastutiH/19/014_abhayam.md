@@ -2,7 +2,7 @@
 title = "०१४ अभयम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/_index.md">
 <details open><summary><h2>०१४ अभयम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn after victory
 </div>
 
 ## ०१ इदमुच्छ्रेयोऽवसानमागां शिवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमु॒च्छ्रेयो॑ऽव॒सान॒मागां॑ शि॒वे मे॒ द्यावा॑पृथि॒वी अ॑भूताम्।  
 अ॑सप॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn after victory
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/014_abhayam/01_idamuchChreyo-vasAnamAgAM_shive.md">
 <details open><summary><h3>०१ इदमुच्छ्रेयोऽवसानमागां शिवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

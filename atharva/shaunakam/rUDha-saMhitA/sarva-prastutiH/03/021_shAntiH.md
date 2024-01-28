@@ -2,7 +2,7 @@
 title = "०२१ शान्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/_index.md">
 <details open><summary><h2>०२१ शान्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In honour of fire in all shapes, to appease Agni of the funeral pile and to quen
 </div>
 
 ## ०१ ये अग्नयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/01_ye_agnayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/01_ye_agnayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये अ॒ग्नयो॑ अ॒प्स्व१॒॑न्तर्ये वृ॒त्रे ये पुरु॑षे॒ ये अश्म॑सु।  
 य आ॑वि॒वेशौष॑धी॒र्यो वन॒स्पतीं॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/01_ye_agnayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/01_ye_agnayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In honour of fire in all shapes, to appease Agni of the funeral pile and to quen
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/01_ye_agnayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/01_ye_agnayo.md">
 <details open><summary><h3>०१ ये अग्नयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -114,14 +114,14 @@ All Fires that are in water and in Vritra, all those that man and stones contain
 </div>
 
 ## ०२ यः सोमे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/02_yaH_some.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/02_yaH_some.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः सोमे॑ अ॒न्तर्यो गोष्व॒न्तर्य आवि॑ष्टो॒ वयः॑सु॒ यो मृ॒गेषु॑।  
 य आ॑वि॒वेश॑ द्वि॒पदो॒ यश्चतु॑ष्पद॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/02_yaH_some.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/02_yaH_some.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -130,7 +130,7 @@ All Fires that are in water and in Vritra, all those that man and stones contain
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/02_yaH_some.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/02_yaH_some.md">
 <details open><summary><h3>०२ यः सोमे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -185,14 +185,14 @@ That which abides in Soma and in cattle, that which lies deep in birds and sylva
 </div>
 
 ## ०३ य इन्द्रेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/03_ya_indreNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/03_ya_indreNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य इन्द्रे॑ण स॒रथं॒ याति॑ दे॒वो वै॑श्वान॒र उ॒त वि॑श्वदा॒व्यः॑।  
 यं जोह॑वीमि॒ पृत॑नासु सास॒हिं तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/03_ya_indreNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/03_ya_indreNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -201,7 +201,7 @@ That which abides in Soma and in cattle, that which lies deep in birds and sylva
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/03_ya_indreNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/03_ya_indreNa.md">
 <details open><summary><h3>०३ य इन्द्रेण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -256,14 +256,14 @@ The Fire that rideth by the side of Indra, the God Vaisvanara,. yea all-consumin
 </div>
 
 ## ०४ यो देवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/04_yo_devo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/04_yo_devo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो दे॒वो वि॒श्वाद्यमु॒ काम॑मा॒हुर्यं दा॒तारं॑ प्रतिगृ॒ह्णन्त॑मा॒हुः।  
 यो धीरः॑ श॒क्रः प॑रि॒भूरदा॑भ्य॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/04_yo_devo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/04_yo_devo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -272,7 +272,7 @@ The Fire that rideth by the side of Indra, the God Vaisvanara,. yea all-consumin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/04_yo_devo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/04_yo_devo.md">
 <details open><summary><h3>०४ यो देवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -326,14 +326,14 @@ The all-devouring God whom men call Kama, he whom they call the Giver and Receiv
 </div>
 
 ## ०५ यं त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/05_yaM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/05_yaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं त्वा॒ होता॑रं॒ मन॑सा॒भि सं॑वि॒दुस्त्रयो॑दश भौव॒नाः पञ्च॑ मान॒वाः।  
 व॑र्चो॒धसे॑ य॒शसे॑ सू॒नृता॑वते॒ तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/05_yaM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/05_yaM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -342,7 +342,7 @@ The all-devouring God whom men call Kama, he whom they call the Giver and Receiv
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/05_yaM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/05_yaM_tvA.md">
 <details open><summary><h3>०५ यं त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -397,14 +397,14 @@ To thee, strength-giver, glorious, rich in pleasant strains, whom. in their mind
 </div>
 
 ## ०६ उक्षान्नाय वशान्नाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑।  
 वै॑श्वान॒रज्ये॑ष्ठेभ्य॒स्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -413,7 +413,7 @@ To thee, strength-giver, glorious, rich in pleasant strains, whom. in their mind
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/06_uxAnnAya_vashAnnAya.md">
 <details open><summary><h3>०६ उक्षान्नाय वशान्नाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -464,14 +464,14 @@ To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanar
 </div>
 
 ## ०७ दिवं पृथिवीमन्वन्तरिक्षम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिवं॑ पृथि॒वीमन्व॒न्तरि॑क्षं॒ ये वि॒द्युत॑मनुसं॒चर॑न्ति।  
 ये दि॒क्ष्व॑१न्तर्ये वाते॑ अ॒न्तस्तेभ्यो॑ अ॒ग्निभ्यो॑ हु॒तम॑स्त्वे॒तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -480,7 +480,7 @@ To him who feeds on ox and cow, sage, bearing Soma on his back, To all Vaisvanar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/07_divaM_pRthivImanvantarixam.md">
 <details open><summary><h3>०७ दिवं पृथिवीमन्वन्तरिक्षम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -537,14 +537,14 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 </div>
 
 ## ०८ हिरण्यपाणिं सवितारमिन्द्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हिर॑ण्यपाणिं सवि॒तार॒मिन्द्रं॒ बृह॒स्पतिं॒ वरु॑णं मि॒त्रम॒ग्निम्।  
 विश्वा॑न्दे॒वानङ्गि॑रसो हवामह इ॒मं क्र॒व्यादं॑ शमयन्त्व॒ग्निम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -553,7 +553,7 @@ All fiery flames that follow after lightning, flashing o'er earth, through firma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/08_hiraNyapANiM_savitAramindram.md">
 <details open><summary><h3>०८ हिरण्यपाणिं सवितारमिन्द्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -604,14 +604,14 @@ The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The An
 </div>
 
 ## ०९ शान्तो अग्निः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/09_shAnto_agniH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/09_shAnto_agniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शा॒न्तो अ॒ग्निः क्र॒व्याच्छा॒न्तः पु॑रुष॒रेष॑णः।  
 अथो॒ यो वि॑श्वदा॒व्य॑१स्तं क्र॒व्याद॑मशीशमम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/09_shAnto_agniH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/09_shAnto_agniH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -620,7 +620,7 @@ The golden-handed Savitar and Indra, Brihaspati, Varuna, Mitra, and Agni, The An
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/09_shAnto_agniH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/09_shAnto_agniH.md">
 <details open><summary><h3>०९ शान्तो अग्निः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -668,14 +668,14 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 </div>
 
 ## १० ये पर्वताः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/10_ye_parvatAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/021_shAntiH/10_ye_parvatAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये पर्व॑ताः॒ सोम॑पृष्ठा॒ आप॑ उत्तान॒शीव॑रीः।  
 वातः॑ प॒र्जन्य॒ आद॒ग्निस्ते क्र॒व्याद॑मशीशमन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/10_ye_parvatAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/021_shAntiH/10_ye_parvatAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -684,7 +684,7 @@ Flesh-eating Agni is appeased, appeased is he who hurteth men. Now him who burne
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/10_ye_parvatAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/021_shAntiH/10_ye_parvatAH.md">
 <details open><summary><h3>१० ये पर्वताः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

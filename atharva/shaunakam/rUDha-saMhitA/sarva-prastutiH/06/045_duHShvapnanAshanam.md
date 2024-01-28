@@ -2,7 +2,7 @@
 title = "०४५ दुःष्वप्ननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/_index.md">
 <details open><summary><h2>०४५ दुःष्वप्ननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for preservation from mental sin and evil promptings
 </div>
 
 ## ०१ परोऽपेहि मनस्पाप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि।  
 परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॒ गोषु॑ मे॒ मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for preservation from mental sin and evil promptings
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/01_paro-pehi_manaspApa.md">
 <details open><summary><h3>०१ परोऽपेहि मनस्पाप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 </div>
 
 ## ०२ अवशसा निःशसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑व॒शसा॑ निः॒शसा॒ यत्प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पन्तः॑।  
 अ॒ग्निर्विश्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Sin of the Mind, avaunt! begone! Why sayest thou what none should say? Go hence 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/02_avashasA_niHshasA.md">
 <details open><summary><h3>०२ अवशसा निःशसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 </div>
 
 ## ०३ यदिन्द्र ब्रह्मणस्पतेऽपि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि।  
 प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात्पा॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ Whatever wrong we have committed, sleeping or waking, by ill-wish, dislike, or s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/045_duHShvapnanAshanam/03_yadindra_brahmaNaspate-pi.md">
 <details open><summary><h3>०३ यदिन्द्र ब्रह्मणस्पतेऽपि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

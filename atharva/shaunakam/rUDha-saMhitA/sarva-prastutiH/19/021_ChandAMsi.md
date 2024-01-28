@@ -2,7 +2,7 @@
 title = "०२१ छन्दांसि"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/_index.md">
 <details open><summary><h2>०२१ छन्दांसि ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A single line giving the names of the chief Vedic metres
 </div>
 
 ## ०१ गायत्र्युष्णिगनुष्टुब्बृहती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गा॑य॒त्र्यु१॒॑ष्णिग॑नु॒ष्टुब्बृ॑ह॒ती प॒ङ्क्तिस्त्रि॒ष्टुब्जग॑त्यै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A single line giving the names of the chief Vedic metres
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/021_ChandAMsi/01_gAyatryuShNiganuShTubbRhatI.md">
 <details open><summary><h3>०१ गायत्र्युष्णिगनुष्टुब्बृहती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

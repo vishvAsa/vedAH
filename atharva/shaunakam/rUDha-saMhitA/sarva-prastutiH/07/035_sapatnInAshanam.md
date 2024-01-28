@@ -2,7 +2,7 @@
 title = "०३५ सपत्नीनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/_index.md">
 <details open><summary><h2>०३५ सपत्नीनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for the prosperity of a King and his kingdom
 </div>
 
 ## ०१ प्रान्यान्त्सपत्नान्त्सहसा सहस्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑ताञ्जातवेदो नुदस्व।  
 इ॒दं रा॒ष्ट्रं पि॑पृहि॒ सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for the prosperity of a King and his kingdom
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/01_prAnyAntsapatnAntsahasA_sahasva.md">
 <details open><summary><h3>०१ प्रान्यान्त्सपत्नान्त्सहसा सहस्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Subdue with conquering might his other rivals, those yet unborn repel, O Jataved
 </div>
 
 ## ०२ इमा यास्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/02_imA_yAste.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/02_imA_yAste.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा यास्ते॑ श॒तं हि॒राः स॒हस्रं॑ ध॒मनी॑रु॒त।  
 तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/02_imA_yAste.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/02_imA_yAste.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Subdue with conquering might his other rivals, those yet unborn repel, O Jataved
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/02_imA_yAste.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/02_imA_yAste.md">
 <details open><summary><h3>०२ इमा यास्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 </div>
 
 ## ०३ परं योनेरवरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑।  
 अ॒स्वं१॒॑ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं॑ कृणोमि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Hae quot tibi sunt venae atque arteriae harum omnium os tibi lapide occlusi.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/035_sapatnInAshanam/03_paraM_yoneravaram.md">
 <details open><summary><h3>०३ परं योनेरवरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

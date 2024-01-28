@@ -2,7 +2,7 @@
 title = "१०५ कासशमनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/_index.md">
 <details open><summary><h2>१०५ कासशमनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 510; Zimmer, p. 385; Griffith, i.302; Bloomfield, 8, 513.
 </div>
 
 ## ०१ यथा मनो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/01_yathA_mano.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/01_yathA_mano.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ मनो॑ मनस्के॒तैः प॑रा॒पत॑त्याशु॒मत्।  
 ए॒वा त्वं का॑से॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्य᳡म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/01_yathA_mano.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/01_yathA_mano.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 510; Zimmer, p. 385; Griffith, i.302; Bloomfield, 8, 513.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/01_yathA_mano.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/01_yathA_mano.md">
 <details open><summary><h3>०१ यथा मनो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -112,14 +112,14 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 </div>
 
 ## ०२ यथा बाणः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/02_yathA_bANaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/02_yathA_bANaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ बाणः॒ सुसं॑शितः परा॒पत॑त्याशु॒मत्।  
 ए॒वा त्वं का॑से॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/02_yathA_bANaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/02_yathA_bANaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -128,7 +128,7 @@ Rapidly as the fancy flies forth with conceptions of the mind. So following the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/02_yathA_bANaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/02_yathA_bANaH.md">
 <details open><summary><h3>०२ यथा बाणः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 </div>
 
 ## ०३ यथा सूर्यस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/03_yathA_sUryasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/105_kAsashamanam/03_yathA_sUryasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्।  
 ए॒वा त्वं का॑से॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/03_yathA_sUryasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/105_kAsashamanam/03_yathA_sUryasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ Rapidly as an arrow flies away with keenly-sharpened point, So swiftly flee away
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/03_yathA_sUryasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/105_kAsashamanam/03_yathA_sUryasya.md">
 <details open><summary><h3>०३ यथा सूर्यस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३० अञ्जनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/_index.md">
 <details open><summary><h2>०३० अञ्जनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to be used when the eyes are anointed
 </div>
 
 ## ०१ स्वाक्तं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/030_anjanam/01_svAktaM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/030_anjanam/01_svAktaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वाक्तं॑ मे॒ द्यावा॑पृथि॒वी स्वाक्तं॑ मि॒त्रो अ॑कर॒यम्।  
 स्वाक्तं॑ मे॒ ब्रह्म॑ण॒स्पतिः॒ स्वाक्तं॑ सवि॒ता क॑रत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/030_anjanam/01_svAktaM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/030_anjanam/01_svAktaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to be used when the eyes are anointed
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/01_svAktaM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/030_anjanam/01_svAktaM_me.md">
 <details open><summary><h3>०१ स्वाक्तं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०७९ अमावास्या"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/_index.md">
 <details open><summary><h2>०७९ अमावास्या ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to the New Moon
 </div>
 
 ## ०१ यत्ते देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/01_yatte_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/01_yatte_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॑ दे॒वा अकृ॑ण्वन्भाग॒धेय॒ममा॑वास्ये सं॒वस॑न्तो महि॒त्वा।  
 तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/01_yatte_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/01_yatte_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to the New Moon
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/01_yatte_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/01_yatte_devA.md">
 <details open><summary><h3>०१ यत्ते देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 </div>
 
 ## ०२ अहमेवास्म्यमावास्या मामा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हमे॒वास्म्य॑मावा॒स्या॒३॒॑ मामा व॑सन्ति सु॒कृतो॒ मयी॒मे।  
 मयि॑ दे॒वा उ॒भये॑ सा॒ध्याश्चेन्द्र॑ज्येष्ठाः॒ सम॑गच्छन्त॒ सर्वे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Night of the New-born Moon, whatever fortune the Gods who dwell with greatness h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/02_ahamevAsmyamAvAsyA_mAmA.md">
 <details open><summary><h3>०२ अहमेवास्म्यमावास्या मामा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 </div>
 
 ## ०३ आगन्रात्री सङ्गमनी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आग॒न्रात्री॑ स॒ङ्गम॑नी॒ वसू॑ना॒मूर्जं॑ पु॒ष्टं वस्वा॑वे॒शय॑न्ती।  
 अ॑मावा॒स्या᳡यै ह॒विषा॑ विधे॒मोर्जं॒ दुहा॑ना॒ पय॑सा न॒ आग॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ I am the New Moon's Night, the good and pious are my in- habitants, these dwell 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/03_AganrAtrI_sangamanI.md">
 <details open><summary><h3>०३ आगन्रात्री सङ्गमनी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -242,14 +242,14 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 </div>
 
 ## ०४ अमावास्ये न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/04_amAvAsye_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अमा॑वास्ये॒ न त्वदे॒तान्य॒न्यो विश्वा॑ रू॒पाणि॑ परि॒भूर्ज॑जान।  
 यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/04_amAvAsye_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -258,7 +258,7 @@ The Night hath come, the gatherer of treasures, bestowing strength, prosperity, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/04_amAvAsye_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/079_amAvAsyA/04_amAvAsye_na.md">
 <details open><summary><h3>०४ अमावास्ये न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

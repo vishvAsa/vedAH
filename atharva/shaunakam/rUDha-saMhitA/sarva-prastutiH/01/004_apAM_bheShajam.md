@@ -2,7 +2,7 @@
 title = "००४ अपां भेषजम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/_index.md">
 <details open><summary><h2>००४ अपां भेषजम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To the waters, for the prosperity of cattle
 </div>
 
 ## ०१ अम्बयो यन्त्यध्वभिर्जामयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्।  
 पृ॑ञ्च॒तीर्मधु॑ना॒ पयः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To the waters, for the prosperity of cattle
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/01_ambayo_yantyadhvabhirjAmayo.md">
 <details open><summary><h3>०१ अम्बयो यन्त्यध्वभिर्जामयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Along their paths the Mothers go, sisters of priestly ministrants, Blending thei
 </div>
 
 ## ०२ अमूर्या उप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/02_amUryA_upa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/02_amUryA_upa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह।  
 ता नो॑ हिन्वन्त्वध्व॒रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/02_amUryA_upa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/02_amUryA_upa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Along their paths the Mothers go, sisters of priestly ministrants, Blending thei
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/02_amUryA_upa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/02_amUryA_upa.md">
 <details open><summary><h3>०२ अमूर्या उप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,14 +157,14 @@ May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth
 </div>
 
 ## ०३ अपो देवीरुप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः।  
 सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/03_apo_devIrupa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/03_apo_devIrupa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -173,7 +173,7 @@ May yonder Waters near the Sun, or those wherewith the Sun is joined, Send forth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/03_apo_devIrupa.md">
 <details open><summary><h3>०३ अपो देवीरुप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -219,14 +219,14 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 </div>
 
 ## ०४ अप्स्व१न्तरमृतमप्सु भेषजम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्।  
 अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -235,7 +235,7 @@ I call the Waters, Goddesses, hitherward where our cattle drink: The streams mus
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/004_apAM_bheShajam/04_apsva1ntaramRtamapsu_bheShajam.md">
 <details open><summary><h3>०४ अप्स्व१न्तरमृतमप्सु भेषजम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

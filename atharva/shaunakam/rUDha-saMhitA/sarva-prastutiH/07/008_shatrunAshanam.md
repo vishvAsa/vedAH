@@ -2,7 +2,7 @@
 title = "००८ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/008_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/008_shatrunAshanam/_index.md">
 <details open><summary><h2>००८ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Godspeed to a departing traveller
 </div>
 
 ## ०१ भद्रादधि श्रेयः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु।  
 अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Godspeed to a departing traveller
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/008_shatrunAshanam/01_bhadrAdadhi_shreyaH.md">
 <details open><summary><h3>०१ भद्रादधि श्रेयः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

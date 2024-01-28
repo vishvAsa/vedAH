@@ -2,7 +2,7 @@
 title = "०३१ पाशमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/_index.md">
 <details open><summary><h2>०३१ पाशमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for protection and general prosperity
 </div>
 
 ## ०१ आशानामाशापालेभ्यश्चतुर्भ्यो अमृतेभ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः।  
 इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for protection and general prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/01_AshAnAmAshApAlebhyashchaturbhyo_amRtebhyaH.md">
 <details open><summary><h3>०१ आशानामाशापालेभ्यश्चतुर्भ्यो अमृतेभ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 </div>
 
 ## ०२ य आशानामाशापालाश्चत्वार
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः।  
 ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सोअंहसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Here will we serve with sacrifice the great Controllers of the world, The four i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/02_ya_AshAnAmAshApAlAshchatvAra.md">
 <details open><summary><h3>०२ य आशानामाशापालाश्चत्वार ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 </div>
 
 ## ०३ अस्रामस्त्वा हविषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि।  
 य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमे॒ह व॑क्षत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Ye, Guardians of the regions, Gods who keep the quarters of the heavens, Rescue 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/03_asrAmastvA_haviShA.md">
 <details open><summary><h3>०३ अस्रामस्त्वा हविषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oi
 </div>
 
 ## ०४ स्वस्ति मात्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/04_svasti_mAtra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः।  
 विश्व॑म्सुभू॒तम्सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/04_svasti_mAtra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ I, free from stiffness, serve thee with oblation, not lame I sacri- fice with oi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/04_svasti_mAtra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/031_pAshamochanam/04_svasti_mAtra.md">
 <details open><summary><h3>०४ स्वस्ति मात्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

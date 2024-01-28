@@ -2,7 +2,7 @@
 title = "००७ शापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/_index.md">
 <details open><summary><h2>००७ शापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A counter-charm against imprecation and malignity
 </div>
 
 ## ०१ अघद्विष्टा देवजाता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒घद्वि॑ष्टा दे॒वजा॑ता वी॒रुच्छ॑पथ॒योप॑नी।  
 आपो॒ मल॑मिव॒ प्राणै॑क्षी॒त्सर्वा॒न्मच्छ॒पथाँ॒ अधि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A counter-charm against imprecation and malignity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/01_aghadviShTA_devajAtA.md">
 <details open><summary><h3>०१ अघद्विष्टा देवजाता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 </div>
 
 ## ०२ यश्च सापत्नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॑ साप॒त्नः श॒पथो॑ जा॒म्याः श॒पथ॑श्च॒ यः।  
 ब्र॒ह्मा यन्म॑न्यु॒तः शपा॒त्सर्वं॒ तन्नो॑ अधस्प॒दम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/02_yashcha_sApatnaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Hated by sinners, sprung from Gods, this Plant that turns the curse away Hath wa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/02_yashcha_sApatnaH.md">
 <details open><summary><h3>०२ यश्च सापत्नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 </div>
 
 ## ०३ दिवो मूलमवततम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वो मूल॒मव॑ततं पृथि॒व्या अध्युत्त॑तम्।  
 तेन॑ स॒हस्र॑काण्डेन॒ परि॑ णः पाहि वि॒श्वतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/03_divo_mUlamavatatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/03_divo_mUlamavatatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ All curses of a rival, each curse of a female relative, Curse uttered by an augr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/03_divo_mUlamavatatam.md">
 <details open><summary><h3>०३ दिवो मूलमवततम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 </div>
 
 ## ०४ परि माम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/04_pari_mAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/04_pari_mAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ मां परि॑ मे प्र॒जां परि॑ णः पाहि॒ यद्धन॑म्।  
 अरा॑तिर्नो॒ मा ता॑री॒न्मा न॑स्तारि॒शुर॒भिमा॑तयः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/04_pari_mAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/04_pari_mAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ Spread on the surface of the earth, downward from heaven thy root depends: With 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/04_pari_mAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/04_pari_mAm.md">
 <details open><summary><h3>०४ परि माम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -303,14 +303,14 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 </div>
 
 ## ०५ शप्तारमेतु शपथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒प्तार॑मेतु श॒पथो॒ यः सु॒हार्त्तेन॑ नः स॒ह।  
 चक्षु॑र्मन्त्रस्य दु॒र्हार्दः॑ पृ॒ष्टीरपि॑ शृणीमसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/05_shaptArametu_shapatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -319,7 +319,7 @@ Guard on all sides this woman, guard my children, us, and all our wealth! Let no
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/007_shApamochanam/05_shaptArametu_shapatho.md">
 <details open><summary><h3>०५ शप्तारमेतु शपथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

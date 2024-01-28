@@ -2,7 +2,7 @@
 title = "०१९ अजरं क्षत्रम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/_index.md">
 <details open><summary><h2>०१९ अजरं क्षत्रम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A glorification of the office of a king's household priest
 </div>
 
 ## ०१ संशितं म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 संशि॑तं म इ॒दं ब्रह्म॒ संशि॑तं वी॒र्यं१॒॑ बल॑म्।  
 संशि॑तं क्ष॒त्रम॒जर॑मस्तु जि॒ष्णुर्येषा॑मस्मि पु॒रोहि॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A glorification of the office of a king's household priest
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/01_saMshitaM_ma.md">
 <details open><summary><h3>०१ संशितं म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ Quickened is this my priest rank, quickened is manly strength and force, Quicken
 </div>
 
 ## ०२ समहमेषां राष्ट्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सम॒हमे॒षां रा॒ष्ट्रं स्या॑मि॒ समोजो॑ वी॒र्यं१॒॑ बल॑म्।  
 वृ॒श्चामि॒ शत्रू॑णां बा॒हून॒नेन॑ ह॒विषा॒हम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ Quickened is this my priest rank, quickened is manly strength and force, Quicken
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/02_samahameShAM_rAShTram.md">
 <details open><summary><h3>०२ समहमेषां राष्ट्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ I quicken these men's princely sway, the might, the manly strength and force; I 
 </div>
 
 ## ०३ नीचैः पद्यन्तामधरे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नी॒चैः प॑द्यन्ता॒मध॑रे भवन्तु॒ ये नः॑ सू॒रिं म॒घवा॑नं पृत॒न्यान्।  
 क्षि॒णामि॒ ब्रह्म॑णा॒मित्रा॒नुन्न॑यामि॒ स्वान॒हम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ I quicken these men's princely sway, the might, the manly strength and force; I 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/03_nIchaiH_padyantAmadhare.md">
 <details open><summary><h3>०३ नीचैः पद्यन्तामधरे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -244,14 +244,14 @@ Down fall the men, low let them lie, who fight against our mighty prince, I ruin
 </div>
 
 ## ०४ तीक्ष्णीयांसः परशोरग्नेस्तीक्ष्णतरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तीक्ष्णी॑यांसः पर॒शोर॒ग्नेस्ती॒क्ष्णत॑रा उ॒त।  
 इन्द्र॑स्य॒ वज्रा॒त्तीक्ष्णी॑यांसो॒ येषा॒मस्मि॑ पु॒रोहि॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -260,7 +260,7 @@ Down fall the men, low let them lie, who fight against our mighty prince, I ruin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/04_tIxNIyAMsaH_parashoragnestIxNatarA.md">
 <details open><summary><h3>०४ तीक्ष्णीयांसः परशोरग्नेस्तीक्ष्णतरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -308,14 +308,14 @@ Keener than is the axe's edge, keener than Agni's self are they, Keener than Ind
 </div>
 
 ## ०५ एषामहमायुधा सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒षाम॒हमायु॑धा॒ सं स्या॑म्ये॒षां रा॒ष्ट्रं सु॒वीरं॑ वर्धयामि।  
 ए॒षां क्ष॒त्रम॒जर॑मस्तु जि॒ष्ण्वे॒३॒॑षां चि॒त्तं विश्वे॑ऽवन्तु दे॒वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -324,7 +324,7 @@ Keener than is the axe's edge, keener than Agni's self are they, Keener than Ind
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/05_eShAmahamAyudhA_sam.md">
 <details open><summary><h3>०५ एषामहमायुधा सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -380,7 +380,7 @@ The weapons of these men I whet and sharpen, with valiant heroes I increase thei
 </div>
 
 ## ०६ उद्धर्षन्तां मघवन्वाजिनान्युद्वीराणाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद्ध॑र्षन्तां मघव॒न्वाजि॑ना॒न्युद्वी॒राणां॒ जय॑तामेतु॒ घोषः॑।  
@@ -388,7 +388,7 @@ The weapons of these men I whet and sharpen, with valiant heroes I increase thei
 दे॒वा इन्द्र॑ज्येष्ठा म॒रुतो॑ यन्तु॒ सेन॑या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -398,7 +398,7 @@ The weapons of these men I whet and sharpen, with valiant heroes I increase thei
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/06_uddharShantAM_maghavanvAjinAnyudvIrANAm.md">
 <details open><summary><h3>०६ उद्धर्षन्तां मघवन्वाजिनान्युद्वीराणाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -460,14 +460,14 @@ ketumantu udīratām;* with **e** and **f** as in our text.
 </div>
 
 ## ०७ प्रेता जयता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/07_pretA_jayatA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/07_pretA_jayatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रेता॒ जय॑ता नर उ॒ग्रा वः॑ सन्तु बा॒हवः॑।  
 ती॒क्ष्णेष॑वोऽब॒लध॑न्वनो हतो॒ग्रायु॑धा अब॒लानु॒ग्रबा॑हवः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/07_pretA_jayatA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/07_pretA_jayatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -476,7 +476,7 @@ ketumantu udīratām;* with **e** and **f** as in our text.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/07_pretA_jayatA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/07_pretA_jayatA.md">
 <details open><summary><h3>०७ प्रेता जयता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -528,14 +528,14 @@ Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp
 </div>
 
 ## ०८ अवसृष्टा परा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑संशिते।  
 जया॒मित्रा॒न्प्र प॑द्यस्व ज॒ह्ये॑षां॒ वरं॑वरं॒ मामीषां॑ मोचि॒ कश्च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -544,7 +544,7 @@ Advance and be victorious, men I Exceeding mighty be your arms! Smite with sharp
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/019_ajaraM_xatram/08_avasRShTA_parA.md">
 <details open><summary><h3>०८ अवसृष्टा परा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

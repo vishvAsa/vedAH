@@ -2,7 +2,7 @@
 title = "११८ वर्मधारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/_index.md">
 <details open><summary><h2>११८ वर्मधारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 </div>
 
 ## ०१ मर्माणि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/118_varmadhAraNam/01_marmANi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/118_varmadhAraNam/01_marmANi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम्।  
 उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/118_varmadhAraNam/01_marmANi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/118_varmadhAraNam/01_marmANi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 46, 125; Griffith, i. 384.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/01_marmANi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/118_varmadhAraNam/01_marmANi_te.md">
 <details open><summary><h3>०१ मर्माणि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

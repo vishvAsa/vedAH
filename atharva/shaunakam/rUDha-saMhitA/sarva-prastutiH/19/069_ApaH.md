@@ -2,7 +2,7 @@
 title = "०६९ आपः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/_index.md">
 <details open><summary><h2>०६९ आपः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A prayer or charm for long life
 </div>
 
 ## ०१ जीवा स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/01_jIvA_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/01_jIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जी॒वा स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/01_jIvA_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/01_jIvA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A prayer or charm for long life
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/01_jIvA_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/01_jIvA_stha.md">
 <details open><summary><h3>०१ जीवा स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -92,13 +92,13 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 </div>
 
 ## ०२ उपजीवा स्थोप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/02_upajIvA_sthopa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/02_upajIvA_sthopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑पजी॒वा स्थोप॑ जीव्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/02_upajIvA_sthopa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/02_upajIvA_sthopa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -106,7 +106,7 @@ Ye are alive. I fain would live. I fain would live my complete term of life.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/02_upajIvA_sthopa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/02_upajIvA_sthopa.md">
 <details open><summary><h3>०२ उपजीवा स्थोप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -150,13 +150,13 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 </div>
 
 ## ०३ सञ्जीवा स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/03_sanjIvA_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/03_sanjIvA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॑जी॒वा स्थ॒ सं जी॑व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/03_sanjIvA_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/03_sanjIvA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -164,7 +164,7 @@ Ye live dependent. I fain would live dependent. I fain would live my complete te
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/03_sanjIvA_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/03_sanjIvA_stha.md">
 <details open><summary><h3>०३ सञ्जीवा स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -209,13 +209,13 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 </div>
 
 ## ०४ जीवला स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/04_jIvalA_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/069_ApaH/04_jIvalA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जी॑व॒ला स्थ॑ जी॒व्यासं॒ सर्व॒मायु॑र्जीव्यासम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/04_jIvalA_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/069_ApaH/04_jIvalA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -223,7 +223,7 @@ Ye remain alive. I fain would remain alive. I fain would live my complete term o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/04_jIvalA_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/069_ApaH/04_jIvalA_stha.md">
 <details open><summary><h3>०४ जीवला स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

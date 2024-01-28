@@ -2,7 +2,7 @@
 title = "००६ गर्भदोषनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/_index.md">
 <details open><summary><h2>००६ गर्भदोषनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ A charm to exercise evil spirits who beset women
 </div>
 
 ## ०१ यौ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/01_yau_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/01_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ ते॑ मा॒तोन्म॒मार्ज॑ जा॒तायाः॑ पति॒वेद॑नौ।  
 दु॒र्णामा॒ तत्र॒ मा गृ॑धद॒लिंश॑ उ॒त व॒त्सपः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/01_yau_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/01_yau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ A charm to exercise evil spirits who beset women
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/01_yau_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/01_yau_te.md">
 <details open><summary><h3>०१ यौ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Let neither fiend of evil name, Alinsa, Vatsapa, desire Thy pair of husband-wooe
 </div>
 
 ## ०२ पलालानुपलालौ शर्कुम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॑लालानुपला॒लौ शर्कुं॒ कोकं॑ मलिम्लु॒चं प॒लीज॑कम्।  
 आ॒श्रेषं॑ व॒व्रिवा॑सस॒मृक्ष॑ग्रीवं प्रमी॒लिन॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Let neither fiend of evil name, Alinsa, Vatsapa, desire Thy pair of husband-wooe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/02_palAlAnupalAlau_sharkum.md">
 <details open><summary><h3>०२ पलालानुपलालौ शर्कुम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Palala, Anupalala, Sarku, Koka, Malimlucha, Palijaka Vavri- vasas and Asresha, R
 </div>
 
 ## ०३ मा सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/03_mA_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/03_mA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा सं वृ॑तो॒ मोप॑ सृप ऊ॒रू माव॑ सृपोऽन्त॒रा।  
 कृ॒णोम्य॑स्यै भेष॒जं ब॒जं दु॑र्णाम॒चात॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/03_mA_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/03_mA_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Palala, Anupalala, Sarku, Koka, Malimlucha, Palijaka Vavri- vasas and Asresha, R
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/03_mA_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/03_mA_sam.md">
 <details open><summary><h3>०३ मा सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ Approach not, come not hitherward: creep not thou in-between her thighs. I set, 
 </div>
 
 ## ०४ दुर्णामा च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दु॒र्णामा॑ च सु॒नामा॑ चो॒भा सं॒वृत॑मिच्छतः।  
 अ॒राया॒नप॑ हन्मः सु॒नामा॒ स्त्रैण॑मिच्छताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ Approach not, come not hitherward: creep not thou in-between her thighs. I set, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/04_durNAmA_cha.md">
 <details open><summary><h3>०४ दुर्णामा च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ Durnama and Sunama both are eager to converse with her. We drive away Arayas: le
 </div>
 
 ## ०५ यः कृष्णः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः कृ॒ष्णः के॒श्यसु॑र स्तम्ब॒ज उ॒त तुण्डि॑कः।  
 अ॒राया॑नस्या मु॒ष्काभ्यां॒ भंस॒सोऽप॑ हन्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ Durnama and Sunama both are eager to converse with her. We drive away Arayas: le
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/05_yaH_kRShNaH.md">
 <details open><summary><h3>०५ यः कृष्णः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -362,14 +362,14 @@ The black and hairy Asura, and Stambaja and Tundika, Arayas from this girl we dr
 </div>
 
 ## ०६ अनुजिघ्रं प्रमृशन्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नुजि॒घ्रं प्र॑मृ॒शन्तं॑ क्र॒व्याद॑मु॒त रे॑रि॒हम्।  
 अ॒रायां॑छ्वकि॒ष्किणो॑ ब॒जः पि॒ङ्गो अ॑नीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -378,7 +378,7 @@ The black and hairy Asura, and Stambaja and Tundika, Arayas from this girl we dr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/06_anujighraM_pramRshantam.md">
 <details open><summary><h3>०६ अनुजिघ्रं प्रमृशन्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -427,14 +427,14 @@ Sniffer, and Feeler, him who eats raw flesh, and him who licks his lips, Arayas 
 </div>
 
 ## ०७ यस्त्वा स्वप्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्त्वा॒ स्वप्ने॑ नि॒पद्य॑ते॒ भ्राता॑ भू॒त्वा पि॒तेव॑ च।  
 ब॒जस्तान्त्स॑हतामि॒तः क्ली॒बरू॑पांस्तिरी॒टिनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -443,7 +443,7 @@ Sniffer, and Feeler, him who eats raw flesh, and him who licks his lips, Arayas 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/07_yastvA_svapne.md">
 <details open><summary><h3>०७ यस्त्वा स्वप्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -494,14 +494,14 @@ Whoever, in thy brother's shape or father's comes to thee in sleep, Let Baja rou
 </div>
 
 ## ०८ यस्त्वा स्वपन्तीम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्त्वा॑ स्व॒पन्तीं॒ त्सर॑ति॒ यस्त्वा॒ दिप्स॑ति॒ जाग्र॑तीम्।  
 छा॒यामि॑व॒ प्र तान्त्सूर्यः॑ परि॒क्राम॑न्ननीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -510,7 +510,7 @@ Whoever, in thy brother's shape or father's comes to thee in sleep, Let Baja rou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/08_yastvA_svapantIm.md">
 <details open><summary><h3>०८ यस्त्वा स्वपन्तीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -564,14 +564,14 @@ Whoever steals to thee asleep or thinks to harm thee when awake,-- These hath it
 </div>
 
 ## ०९ यः कृणोति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः कृ॒णोति॑ मृ॒तव॑त्सा॒मव॑तोकामि॒मां स्त्रिय॑म्।  
 तमो॑षधे॒ त्वं ना॑शया॒स्याः क॒मल॑मञ्जि॒वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -580,7 +580,7 @@ Whoever steals to thee asleep or thinks to harm thee when awake,-- These hath it
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/09_yaH_kRNoti.md">
 <details open><summary><h3>०९ यः कृणोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -634,7 +634,7 @@ Whoever causeth her to lose her child or bear untimely fruit,-- Destroy him, O t
 </div>
 
 ## १० ये शालाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये शालाः॑ परि॒नृत्य॑न्ति सा॒यं ग॑र्दभना॒दिनः॑।  
@@ -642,7 +642,7 @@ Whoever causeth her to lose her child or bear untimely fruit,-- Destroy him, O t
 तानो॑षधे॒ त्वं ग॒न्धेन॑ विषू॒चीना॒न्वि ना॑शय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -652,7 +652,7 @@ Whoever causeth her to lose her child or bear untimely fruit,-- Destroy him, O t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/10_ye_shAlAH.md">
 <details open><summary><h3>१० ये शालाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -706,14 +706,14 @@ Those who at evening, with the bray of asses, dance around the house, Kukshilas,
 </div>
 
 ## ११ ये कुकुन्धाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये कु॒कुन्धाः॑ कु॒कूर॑भाः॒ कृत्ती॑र्दू॒र्शानि॒ बिभ्र॑ति।  
 क्ली॒बा इ॑व प्र॒नृत्य॑न्तो॒ वने॒ ये कु॒र्वते॒ घोषं॒ तानि॒तो ना॑शयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -722,7 +722,7 @@ Those who at evening, with the bray of asses, dance around the house, Kukshilas,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/11_ye_kukundhAH.md">
 <details open><summary><h3>११ ये कुकुन्धाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -771,14 +771,14 @@ Kukundhas and Kukurabhas who dress themselves in hides and skins, Who dance abou
 </div>
 
 ## १२ ये सूर्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये सूर्यं॒ न तिति॑क्षन्त आ॒तप॑न्तम॒मुं दि॒वः।  
 अ॒राया॑न्बस्तवा॒सिनो॑ दु॒र्गन्धीं॒ल्लोहि॑तास्या॒न्मक॑कान्नाशयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -787,7 +787,7 @@ Kukundhas and Kukurabhas who dress themselves in hides and skins, Who dance abou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/12_ye_sUryam.md">
 <details open><summary><h3>१२ ये सूर्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -843,14 +843,14 @@ All those who cannot bear the Sun who warms us yonder from the sky, Arayas with 
 </div>
 
 ## १३ य आत्मानमतिमात्रमंस
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आ॒त्मान॑मतिमा॒त्रमंस॑ आ॒धाय॒ बिभ्र॑ति।  
 स्त्री॒णां श्रो॑णिप्रतो॒दिन॒ इन्द्र॒ रक्षां॑सि नाशय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -859,7 +859,7 @@ All those who cannot bear the Sun who warms us yonder from the sky, Arayas with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/13_ya_AtmAnamatimAtramaMsa.md">
 <details open><summary><h3>१३ य आत्मानमतिमात्रमंस ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -908,14 +908,14 @@ All those who on their shoulders bear a head of monstrous magnitude, Who pierce 
 </div>
 
 ## १४ ये पूर्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये पूर्वे॑ व॒ध्वो॒३॒॑ यन्ति॒ हस्ते॒ शृङ्गा॑णि॒ बिभ्र॑तः।  
 आ॑पाके॒स्थाः प्र॑हा॒सिन॑ स्त॒म्बे ये कु॒र्वते॒ ज्योति॒स्तानि॒तो ना॑शयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -924,7 +924,7 @@ All those who on their shoulders bear a head of monstrous magnitude, Who pierce 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/14_ye_pUrve.md">
 <details open><summary><h3>१४ ये पूर्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -975,7 +975,7 @@ Those, bearing horns upon their hands, who first of all approach the brides; Sta
 </div>
 
 ## १५ येषां पश्चात्प्रपदानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येषां॑ प॒श्चात्प्रप॑दानि पु॒रः पार्ष्णीः॑ पु॒रो मुखा॑।  
@@ -983,7 +983,7 @@ Those, bearing horns upon their hands, who first of all approach the brides; Sta
 तान॒स्या ब्र॑ह्मणस्पते प्रतीबो॒धेन॑ नाशय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -993,7 +993,7 @@ Those, bearing horns upon their hands, who first of all approach the brides; Sta
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/15_yeShAM_pashchAtprapadAni.md">
 <details open><summary><h3>१५ येषां पश्चात्प्रपदानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1044,14 +1044,14 @@ Those who have retroverted toes, and heels and faces in the front, Khalajas, Sak
 </div>
 
 ## १६ पर्यस्ताक्षा अप्रचङ्कशा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॑र्यस्ता॒क्षा अप्र॑चङ्कशा अस्त्रै॒णाः स॑न्तु॒ पण्ड॑गाः।  
 अव॑ भेषज पादय॒ य इ॒मां सं॒विवृ॑त्स॒त्यप॑तिः स्वप॒तिं स्त्रिय॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1060,7 +1060,7 @@ Those who have retroverted toes, and heels and faces in the front, Khalajas, Sak
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/16_paryastAxA_aprachankashA.md">
 <details open><summary><h3>१६ पर्यस्ताक्षा अप्रचङ्कशा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1110,7 +1110,7 @@ Sightless and with distorted eyes, impotent. woman less be they. O Healing Plant
 </div>
 
 ## १७ उद्धर्षिणं मुनिकेशम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑द्ध॒र्षिणं॒ मुनि॑केशं ज॒म्भय॑न्तं मरी॒मृशम्।  
@@ -1118,7 +1118,7 @@ Sightless and with distorted eyes, impotent. woman less be they. O Healing Plant
 प॒दा प्र वि॑ध्य॒ पार्ष्ण्या॑ स्था॒लीं गौरि॑व स्पन्द॒ना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1128,7 +1128,7 @@ Sightless and with distorted eyes, impotent. woman less be they. O Healing Plant
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/17_uddharShiNaM_munikesham.md">
 <details open><summary><h3>१७ उद्धर्षिणं मुनिकेशम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1188,14 +1188,14 @@ The Bristly-haired, the Maniac-haired, the Biter, and the Groper-fiend, The Cree
 </div>
 
 ## १८ यस्ते गर्भम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॒ गर्भं॑ प्रतिमृ॒शाज्जा॒तं वा॑ मा॒रया॑ति ते।  
 पि॒ङ्गस्तमु॒ग्रध॑न्वा कृ॒णोतु॑ हृदया॒विध॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1204,7 +1204,7 @@ The Bristly-haired, the Maniac-haired, the Biter, and the Groper-fiend, The Cree
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/18_yaste_garbham.md">
 <details open><summary><h3>१८ यस्ते गर्भम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1252,14 +1252,14 @@ If one should touch thy coming babe or kill thine infant newly born, The yellow 
 </div>
 
 ## १९ ये अम्नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/19_ye_amno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/19_ye_amno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये अ॒म्नो ज॒तान्मा॒रय॑न्ति॒ सूति॑का अनु॒शेर॑ते।  
 स्त्रीभा॑गान्पि॒ङ्गो ग॑न्ध॒र्वान्वातो॑ अ॒भ्रमि॑वाजतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/19_ye_amno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/19_ye_amno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1268,7 +1268,7 @@ If one should touch thy coming babe or kill thine infant newly born, The yellow 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/19_ye_amno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/19_ye_amno.md">
 <details open><summary><h3>१९ ये अम्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1319,14 +1319,14 @@ Those who kill infants unawares, and near the new-made mothers lie, Let Pinga ch
 </div>
 
 ## २० परिसृष्टं धारयतु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑सृष्टं धारयतु॒ यद्धि॒तं माव॑ पादि॒ तत्।  
 गर्भं॑ त उ॒ग्रौ र॑क्षतां भेष॒जौ नी॑विभा॒र्यौ᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1335,7 +1335,7 @@ Those who kill infants unawares, and near the new-made mothers lie, Let Pinga ch
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/20_parisRShTaM_dhArayatu.md">
 <details open><summary><h3>२० परिसृष्टं धारयतु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1393,14 +1393,14 @@ Let it maintain the genial seed: let the laid embryo rest secure. Let both stron
 </div>
 
 ## २१ पवीनसात्तङ्गल्वा च्छायकादुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पवीन॒सात्त॑ङ्ग॒ल्वा॒३॒॑ च्छाय॑कादु॒त नग्न॑कात्।  
 प्र॒जायै॒ पत्ये॑ त्वा पि॒ङ्गः परि॑ पातु किमी॒दिनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1409,7 +1409,7 @@ Let it maintain the genial seed: let the laid embryo rest secure. Let both stron
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/21_pavInasAttangalvA_chChAyakAduta.md">
 <details open><summary><h3>२१ पवीनसात्तङ्गल्वा च्छायकादुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1458,14 +1458,14 @@ From the Kimidin, for thy lord and children, Pinga shield thee well, From Sayaka
 </div>
 
 ## २२ द्व्यास्याच्चतुरक्षात्पञ्चपादादनङ्गुरेः वृन्तादभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्व्या᳡स्याच्चतुर॒क्षात्पञ्च॑पादादनङ्गु॒रेः।  
 वृन्ता॑द॒भि प्र॒सर्प॑तः॒ परि॑ पाहि वरीवृ॒तात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1474,7 +1474,7 @@ From the Kimidin, for thy lord and children, Pinga shield thee well, From Sayaka
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/22_dvyAsyAchchaturaxAtpanchapAdAdanangureH_vRntAda.md">
 <details open><summary><h3>२२ द्व्यास्याच्चतुरक्षात्पञ्चपादादनङ्गुरेः वृन्तादभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1524,14 +1524,14 @@ From the five-footed, fingerless, from the four-eyed, the double- faced, From th
 </div>
 
 ## २३ य आमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आ॒मं मां॒समदन्ति॒ पौरु॑षेयं च॒ ये क्र॒विः।  
 गर्भा॒न्खाद॑न्ति केश॒वास्तानि॒तो ना॑शयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1540,7 +1540,7 @@ From the five-footed, fingerless, from the four-eyed, the double- faced, From th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/23_ya_Amam.md">
 <details open><summary><h3>२३ य आमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1589,14 +1589,14 @@ Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feede
 </div>
 
 ## २४ ये सूर्यात्परिसर्पन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये सूर्या॑त्परि॒सर्प॑न्ति स्नु॒षेव॒ श्वशु॑रा॒दधि॑।  
 ब॒जश्च॒ तेषां॑ पि॒ङ्गश्च॒ हृद॒येऽधि॒ नि वि॑ध्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1605,7 +1605,7 @@ Those who eat flesh uncooked, and those who eat the bleeding flesh of men, Feede
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/24_ye_sUryAtparisarpanti.md">
 <details open><summary><h3>२४ ये सूर्यात्परिसर्पन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1654,14 +1654,14 @@ Shy slinkers from the Sun, as slinks a woman from her husband's sire, Deep down 
 </div>
 
 ## २५ पिङ्ग रक्ष
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पिङ्ग॒ रक्ष॒ जाय॑मानं॒ मा पुमां॑सं॒ स्त्रियं॑ क्रन्।  
 आ॒ण्डादो॒ गर्भा॒न्मा द॑भ॒न्बाध॑स्वे॒तः कि॑मी॒दिनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1670,7 +1670,7 @@ Shy slinkers from the Sun, as slinks a woman from her husband's sire, Deep down 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/25_pinga_raxa.md">
 <details open><summary><h3>२५ पिङ्ग रक्ष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1718,14 +1718,14 @@ Pinga, preserve the babe at birth, make not the boy a female child. Let not Egg-
 </div>
 
 ## २६ अप्रजास्त्वं मार्तवत्समाद्रोदमघमावयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑प्र॒जास्त्वं॒ मार्त॑वत्स॒माद्रोद॑म॒घमा॑व॒यम्।  
 वृ॒क्षादि॑व॒ स्रजं॑ कृ॒त्वाप्रि॑ये॒ प्रति॑ मुञ्च॒ तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1734,7 +1734,7 @@ Pinga, preserve the babe at birth, make not the boy a female child. Let not Egg-
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/006_garbhadoShanivAraNam/26_aprajAstvaM_mArtavatsamAdrodamaghamAvayam.md">
 <details open><summary><h3>२६ अप्रजास्त्वं मार्तवत्समाद्रोदमघमावयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

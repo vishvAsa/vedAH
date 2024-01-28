@@ -2,7 +2,7 @@
 title = "०१४ वस्युनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/_index.md">
 <details open><summary><h2>०१४ वस्युनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A charm to banish vermin and noxious creatures
 </div>
 
 ## ०१ निःसालां धृष्णुम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निः॑सा॒लां धृ॒ष्णुं धि॒षण॑मेकवा॒द्यां जि॑घ॒त्स्व॑म्।  
 सर्वा॒श्चण्ड॑स्य न॒प्त्यो॑ ना॒शया॑मः स॒दान्वाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A charm to banish vermin and noxious creatures
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/01_niHsAlAM_dhRShNum.md">
 <details open><summary><h3>०१ निःसालां धृष्णुम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 </div>
 
 ## ०२ निर्वो गोष्ठादजामसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर्वो॑ गो॒ष्ठाद॑जामसि॒ निरक्षा॒न्निरु॑पान॒शात्।  
 निर्वो॑ मगुन्द्या दुहितरो गृ॒हेभ्य॑श्चातयामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Forth from the hall the bold, the sharp, the greedy one, the single-voiced, Sada
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/02_nirvo_goShThAdajAmasi.md">
 <details open><summary><h3>०२ निर्वो गोष्ठादजामसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 </div>
 
 ## ०३ असौ यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/03_asau_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/03_asau_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒सौ यो अ॑ध॒राद्गृ॒हस्तत्र॑ सन्त्वरा॒य्यः॑।  
 तत्र॒ सेदि॒र्न्यु॑च्यतु॒ सर्वा॑श्च यातुधा॒न्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/03_asau_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/03_asau_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ We drive you forth from cattle-shed, from axle, from within the wain, Ye daughte
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/03_asau_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/03_asau_yo.md">
 <details open><summary><h3>०३ असौ यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -246,14 +246,14 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 </div>
 
 ## ०४ भूतपतिर्निरजत्विन्द्रश्चेतः सदान्वाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भू॑त॒पति॒र्निर॑ज॒त्विन्द्र॑श्चे॒तः स॒दान्वाः॑।  
 गृ॒हस्य॑ बु॒ध्न आसी॑नास्ता॒ इन्द्रो॒ वज्रे॒णाधि॑ तिष्ठतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -262,7 +262,7 @@ Yonder let the Arayis dwell, there where that house is down below. Let utter ind
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/04_bhUtapatirnirajatvindrashchetaH_sadAnvAH.md">
 <details open><summary><h3>०४ भूतपतिर्निरजत्विन्द्रश्चेतः सदान्वाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -321,14 +321,14 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 </div>
 
 ## ०५ यदि स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/05_yadi_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/05_yadi_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ स्थ क्षे॑त्रि॒याणां॒ यदि॑ वा॒ पुरु॑षेषिताः।  
 यदि॒ स्थ दस्यु॑भ्यो जा॒ता नश्य॑ते॒तः स॒दान्वाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/05_yadi_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/05_yadi_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -337,7 +337,7 @@ May Bhutapati drive away, and Indra, the Sadanvas hence. Let Indra with his bolt
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/05_yadi_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/05_yadi_stha.md">
 <details open><summary><h3>०५ यदि स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -388,14 +388,14 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 </div>
 
 ## ०६ परि धामान्यासामाशुर्गाष्ठामिवासरन्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ धामा॑न्यासामा॒शुर्गाष्ठा॑मिवासरन्।  
 अजै॑षं॒ सर्वा॑ना॒जीन्वो॒ नश्य॑ते॒तः स॒दान्वाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -404,7 +404,7 @@ Whether ye be of farm and field, or whether ye be sent by men, Or be ye sprung f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/014_vasyunAshanam/06_pari_dhAmAnyAsAmAshurgAShThAmivAsaran.md">
 <details open><summary><h3>०६ परि धामान्यासामाशुर्गाष्ठामिवासरन् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

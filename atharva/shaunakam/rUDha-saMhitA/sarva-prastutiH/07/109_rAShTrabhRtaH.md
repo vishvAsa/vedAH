@@ -2,7 +2,7 @@
 title = "१०९ राष्ट्रभृतः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/_index.md">
 <details open><summary><h2>१०९ राष्ट्रभृतः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i
 </div>
 
 ## ०१ इदमुग्राय बभ्रवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमु॒ग्राय॑ ब॒भ्रवे॒ नमो॒ यो अ॒क्षेषु॑ तनूव॒शी।  
 घृ॒तेन॒ कलिं॑ शिक्षामि॒ स नो॑ मृडाती॒दृशे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Muir, v. 429 (vss. 1-4); Ludwig, p. 456; Henry, 42, 118; Griffith, i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/01_idamugrAya_babhrave.md">
 <details open><summary><h3>०१ इदमुग्राय बभ्रवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ My homage to the strong, the brown, the sovran lord among the dice! Butter on Ka
 </div>
 
 ## ०२ घृतमप्सराभ्यो वह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तम॑प्स॒राभ्यो॑ वह॒ त्वम॑ग्ने पां॒सून॒क्षेभ्यः॒ सिक॑ता अ॒पश्च॑।  
 य॑थाभा॒गं ह॒व्यदा॑तिं जुषा॒णा मद॑न्ति दे॒वा उ॒भया॑नि ह॒व्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ My homage to the strong, the brown, the sovran lord among the dice! Butter on Ka
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/02_ghRtamapsarAbhyo_vaha.md">
 <details open><summary><h3>०२ घृतमप्सराभ्यो वह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and wat
 </div>
 
 ## ०३ अप्सरसः सधमादम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑प्स॒रसः॑ सध॒मादं॑ मदन्ति हवि॒र्धान॑मन्त॒रा सूर्यं॑ च।  
 ता मे॒ हस्तौ॒ सं सृ॑जन्तु घृ॒तेन॑ स॒पत्नं॑ मे कित॒वं र॑न्धयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Bear butter to the Apsarases, O Agni, and to the Dice bear dust and sand and wat
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/03_apsarasaH_sadhamAdam.md">
 <details open><summary><h3>०३ अप्सरसः सधमादम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ The Apsarases take pleasure in the banquet between the Sun and. the libation-hol
 </div>
 
 ## ०४ आदिनवं प्रतिदीव्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑दिन॒वं प्र॑ति॒दीव्ने॑ घृ॒तेना॒स्माँ अ॒भि क्ष॑र।  
 वृ॒क्षमि॑वा॒शन्या॑ जहि॒ यो अ॒स्मान्प्र॑ति॒दीव्य॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ The Apsarases take pleasure in the banquet between the Sun and. the libation-hol
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/04_AdinavaM_pratidIvne.md">
 <details open><summary><h3>०४ आदिनवं प्रतिदीव्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -306,14 +306,14 @@ Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree wi
 </div>
 
 ## ०५ यो नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/05_yo_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/05_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नो॑ द्यु॒वे धन॑मि॒दं च॒कार॒ यो अ॒क्षाणां॒ ग्लह॑नं॒ शेष॑णं च।  
 स नो॑ दे॒वो ह॒विरि॒दं जु॑षा॒णो ग॑न्ध॒र्वेभिः॑ सध॒मादं॑ मदेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/05_yo_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/05_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -322,7 +322,7 @@ Evil be mine opponent's luck! Sprinkle thou butter over us. Strike, as a tree wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/05_yo_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/05_yo_no.md">
 <details open><summary><h3>०५ यो नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -373,14 +373,14 @@ The God who found for us this wealth for gambling, to cast the dice and count th
 </div>
 
 ## ०६ संवसव इति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 संव॑सव॒ इति॑ वो नाम॒धेय॑मुग्रंप॒श्या रा॑ष्ट्र॒भृतो॒ ह्य१॒॑क्षाः।  
 तेभ्यो॑ व इन्दवो ह॒विषा॑ विधेम व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -389,7 +389,7 @@ The God who found for us this wealth for gambling, to cast the dice and count th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/06_saMvasava_iti.md">
 <details open><summary><h3>०६ संवसव इति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -450,14 +450,14 @@ Fellow-inhabitants, such is your title, for Dice with looks of power support dom
 </div>
 
 ## ०७ देवान्यन्नाथितो हुवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वान्यन्ना॑थि॒तो हु॒वे ब्र॑ह्म॒चर्यं॒ यदू॑षि॒म।  
 अ॒क्षान्यद्ब॒भ्रूना॒लभे॒ ते नो॑ मृडन्त्वी॒दृशे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -466,7 +466,7 @@ Fellow-inhabitants, such is your title, for Dice with looks of power support dom
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/109_rAShTrabhRtaH/07_devAnyannAthito_huve.md">
 <details open><summary><h3>०७ देवान्यन्नाथितो हुवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

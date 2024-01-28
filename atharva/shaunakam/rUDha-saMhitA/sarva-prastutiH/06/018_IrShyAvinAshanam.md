@@ -2,7 +2,7 @@
 title = "०१८ ईर्ष्याविनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/_index.md">
 <details open><summary><h2>०१८ ईर्ष्याविनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to banish jealousy
 </div>
 
 ## ०१ ईर्ष्याया ध्राजिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्।  
 अ॒ग्निं हृ॑द॒य्यं१॒॑ शोकं॒ तं ते॒ निर्वा॑पयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to banish jealousy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/01_IrShyAyA_dhrAjim.md">
 <details open><summary><h3>०१ ईर्ष्याया ध्राजिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 </div>
 
 ## ०२ यथा भूमिर्मृतमना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा।  
 यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ The first approach of Jealousy, and that which followeth the first, The pain, th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/02_yathA_bhUmirmRtamanA.md">
 <details open><summary><h3>०२ यथा भूमिर्मृतमना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 </div>
 
 ## ०३ अदो यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒दो यत्ते॑ हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्।  
 तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/03_ado_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ Even as the earth is dead to sense, yea, more unconscious than the dead, Even as
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/018_IrShyAvinAshanam/03_ado_yatte.md">
 <details open><summary><h3>०३ अदो यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०५६ सर्पेभ्यो रक्षणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/_index.md">
 <details open><summary><h2>०५६ सर्पेभ्यो रक्षणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against snakes
 </div>
 
 ## ०१ मा नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा नो॑ देवा॒ अहि॑र्वधी॒त्सतो॑कान्त्स॒हपू॑रुषान्।  
 संय॑तं॒ न वि ष्प॑र॒द्व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/01_mA_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against snakes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/01_mA_no.md">
 <details open><summary><h3>०१ मा नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Let not the serpent slay us, O Gods, with our children and our folk. Let it not 
 </div>
 
 ## ०२ नमोऽस्त्वसिताय नमस्तिरश्चिराजये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये।  
 स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Let not the serpent slay us, O Gods, with our children and our folk. Let it not 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/02_namo-stvasitAya_namastirashchirAjaye.md">
 <details open><summary><h3>०२ नमोऽस्त्वसिताय नमस्तिरश्चिराजये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 </div>
 
 ## ०३ सं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑।  
 सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्य᳡म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/03_saM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ Be worship paid unto the black, worship to that with stripes across! To the brow
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/056_sarpebhyo_raxaNam/03_saM_te.md">
 <details open><summary><h3>०३ सं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

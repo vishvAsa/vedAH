@@ -2,7 +2,7 @@
 title = "०७१ अन्नम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/_index.md">
 <details open><summary><h2>०७१ अन्नम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A priest's benediction after meat
 </div>
 
 ## ०१ यदन्नमद्मि बहुधा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/01_yadannamadmi_bahudhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/01_yadannamadmi_bahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्।  
 यदे॒व किं च॑ प्रतिज॒ग्रहा॒हम॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/01_yadannamadmi_bahudhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/01_yadannamadmi_bahudhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A priest's benediction after meat
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/01_yadannamadmi_bahudhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/01_yadannamadmi_bahudhA.md">
 <details open><summary><h3>०१ यदन्नमद्मि बहुधा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 </div>
 
 ## ०२ यन्मा हुतमहुतमाजगाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः᳡।  
 यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ What food I eat of varied form and nature, food whether gold, or horse, sheep, g
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/02_yanmA_hutamahutamAjagAma.md">
 <details open><summary><h3>०२ यन्मा हुतमहुतमाजगाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 </div>
 
 ## ०३ यदन्नमद्म्यनृतेन देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/03_yadannamadmyanRtena_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑।  
 वै॑श्वान॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/03_yadannamadmyanRtena_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Whatever, sacrificed or not, hath reached me, bestowed by men and sanctioned by 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/03_yadannamadmyanRtena_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/071_annam/03_yadannamadmyanRtena_devA.md">
 <details open><summary><h3>०३ यदन्नमद्म्यनृतेन देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

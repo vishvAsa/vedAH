@@ -2,7 +2,7 @@
 title = "००४ ऋषभः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/_index.md">
 <details open><summary><h2>००४ ऋषभः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A glorification of the typical sacrificial bull
 </div>
 
 ## ०१ साहस्रस्त्वेष ऋषभः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 साह॒स्रस्त्वे॒ष ऋ॑ष॒भः पय॑स्वा॒न्विश्वा॑ रू॒पाणि॑ व॒क्षणा॑सु॒ बिभ्र॑त्।  
 भ॒द्रं दा॒त्रे यज॑मानाय शिक्षन्बार्हस्प॒त्य उ॒स्रिय॒स्तन्तु॒माता॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A glorification of the typical sacrificial bull
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/01_sAhasrastveSha_RShabhaH.md">
 <details open><summary><h3>०१ साहस्रस्त्वेष ऋषभः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ The Bull, fierce, thousandfold, filled full of vigour, bearing within his flanks
 </div>
 
 ## ०२ अपां यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/02_apAM_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/02_apAM_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पां यो अग्ने॑ प्रति॒मा ब॒भूव॑ प्र॒भूः सर्व॑स्मै पृथि॒वीव॑ दे॒वी।  
 पि॒ता व॒त्सानां॒ पति॑र॒घ्न्यानां॑ साह॒स्रे पोषे॒ अपि॑ नः कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/02_apAM_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/02_apAM_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ The Bull, fierce, thousandfold, filled full of vigour, bearing within his flanks
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/02_apAM_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/02_apAM_yo.md">
 <details open><summary><h3>०२ अपां यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ He who at first became the Waters' model, a match for everyone, like Earth the G
 </div>
 
 ## ०३ पुमानन्तर्वान्त्स्थविरः पयस्वान्वसोः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुमा॑न॒न्तर्वा॒न्त्स्थवि॑रः॒ पय॑स्वा॒न्वसोः॒ कब॑न्धमृष॒भो बि॑भर्ति।  
 तमिन्द्रा॑य प॒थिभि॑र्देव॒यानै॑र्हु॒तम॒ग्निर्व॑हतु जा॒तवे॑दाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ He who at first became the Waters' model, a match for everyone, like Earth the G
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/03_pumAnantarvAntsthaviraH_payasvAnvasoH.md">
 <details open><summary><h3>०३ पुमानन्तर्वान्त्स्थविरः पयस्वान्वसोः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -225,14 +225,14 @@ Masculine, pregnant, stedfast. full of vigour, the Bull sustains a trunk of good
 </div>
 
 ## ०४ पिता वत्सानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/04_pitA_vatsAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/04_pitA_vatsAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॒ता व॒त्सानां॒ पति॑र॒घ्न्याना॒मथो॑ पि॒ता म॑ह॒तां गर्ग॑राणाम्।  
 व॒त्सो ज॒रायु॑ प्रति॒धुक्पी॒यूष॑ आ॒मिक्षा॑ घृ॒तं तद्व॑स्य॒ रेतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/04_pitA_vatsAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/04_pitA_vatsAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -241,7 +241,7 @@ Masculine, pregnant, stedfast. full of vigour, the Bull sustains a trunk of good
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/04_pitA_vatsAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/04_pitA_vatsAnAm.md">
 <details open><summary><h3>०४ पिता वत्सानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -291,14 +291,14 @@ The husband of the cows, the young calves' father, father is he of mighty water-
 </div>
 
 ## ०५ देवानां भाग
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/05_devAnAM_bhAga.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/05_devAnAM_bhAga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वानां॑ भा॒ग उ॑पना॒ह ए॒षो॒३॒॑पां रस॒ ओष॑धीनां घृ॒तस्य॑।  
 सोम॑स्य भ॒क्षम॑वृणीत श॒क्रो बृ॒हन्नद्रि॑रभव॒द्यच्छरी॑रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/05_devAnAM_bhAga.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/05_devAnAM_bhAga.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -307,7 +307,7 @@ The husband of the cows, the young calves' father, father is he of mighty water-
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/05_devAnAM_bhAga.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/05_devAnAM_bhAga.md">
 <details open><summary><h3>०५ देवानां भाग ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -360,14 +360,14 @@ He is the Gods' allotted share and bundle, essence of waters, and of plants, and
 </div>
 
 ## ०६ सोमेन पूर्णम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/06_somena_pUrNam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/06_somena_pUrNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोमे॑न पू॒र्णं क॒लशं॑ बिभर्षि॒ त्वष्टा॑ रू॒पाणां॑ जनि॒ता प॑शू॒नाम्।  
 शि॒वास्ते॑ सन्तु प्रज॒न्व᳡ इ॒ह या इ॒मा न्य१॒॑स्मभ्यं॑ स्वधिते यच्छ॒ या अ॒मूः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/06_somena_pUrNam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/06_somena_pUrNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -376,7 +376,7 @@ He is the Gods' allotted share and bundle, essence of waters, and of plants, and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/06_somena_pUrNam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/06_somena_pUrNam.md">
 <details open><summary><h3>०६ सोमेन पूर्णम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -425,14 +425,14 @@ A beaker filled with Soma juice thou bearest. framer of forms, begetter of the c
 </div>
 
 ## ०७ आज्यं बिभर्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/07_AjyaM_bibharti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/07_AjyaM_bibharti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आज्यं॑ बिभर्ति घृ॒तम॑स्य॒ रेतः॑ साह॒स्रः पोष॒स्तमु॑ य॒ज्ञमा॑हुः।  
 इन्द्र॑स्य रू॒पमृ॑ष॒भो वसा॑नः॒ सो अ॒स्मान्दे॑वाः शि॒व ऐतु॑ द॒त्तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/07_AjyaM_bibharti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/07_AjyaM_bibharti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -441,7 +441,7 @@ A beaker filled with Soma juice thou bearest. framer of forms, begetter of the c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/07_AjyaM_bibharti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/07_AjyaM_bibharti.md">
 <details open><summary><h3>०७ आज्यं बिभर्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -488,14 +488,14 @@ He bears oblation, and his seed is butter. Thousand-fold plenty; sacrifice they 
 </div>
 
 ## ०८ इन्द्रस्यौजो वरुणस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॒स्यौजो॒ वरु॑णस्य बा॒हू अ॒श्विनो॒रंसौ॑ म॒रुता॑मि॒यं क॒कुत्।  
 बृह॒स्पतिं॒ संभृ॑तमे॒तमा॑हु॒र्ये धीरा॑सः क॒वयो॒ ये म॑नी॒षिणः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -504,7 +504,7 @@ He bears oblation, and his seed is butter. Thousand-fold plenty; sacrifice they 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/08_indrasyaujo_varuNasya.md">
 <details open><summary><h3>०८ इन्द्रस्यौजो वरुणस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -552,14 +552,14 @@ Both arms of Varuna, and Indra's vigour, the Maruts' hump is he, the Asvins' sho
 </div>
 
 ## ०९ दैवीर्विशः पयस्वाना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दैवी॒र्विशः॒ पय॑स्वा॒ना त॑नोषि॒ त्वामिन्द्रं॒ त्वां सर॑स्वन्तमाहुः।  
 स॒हस्रं॒ स एक॑मुखा ददाति॒ यो ब्रा॑ह्म॒ण ऋ॑ष॒भमा॑जु॒होति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -568,7 +568,7 @@ Both arms of Varuna, and Indra's vigour, the Maruts' hump is he, the Asvins' sho
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/09_daivIrvishaH_payasvAnA.md">
 <details open><summary><h3>०९ दैवीर्विशः पयस्वाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -615,14 +615,14 @@ Thou, vigorous, reachest to the tribes of heaven. Thee they call Indra, thee the
 </div>
 
 ## १० बृहस्पतिः सविता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पतिः॑ सवि॒ता ते॒ वयो॑ दधौ॒ त्वष्टु॑र्वा॒योः पर्या॒त्मा त॒ आभृ॑तः।  
 अ॒न्तरि॑क्षे॒ मन॑सा त्वा जुहोमि ब॒र्हिष्टे॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -631,7 +631,7 @@ Thou, vigorous, reachest to the tribes of heaven. Thee they call Indra, thee the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/10_bRhaspatiH_savitA.md">
 <details open><summary><h3>१० बृहस्पतिः सविता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -680,14 +680,14 @@ Brihaspati, Savitar gave thee vital vigour: thy breath was brought from Tvashtar
 </div>
 
 ## ११ य इन्द्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/11_ya_indra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/11_ya_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य इन्द्र॑ इव दे॒वेषु॒ गोष्वे॑ति वि॒वाव॑दत्।  
 तस्य॑ ऋष॒भस्याङ्गा॑नि ब्र॒ह्मा सं स्तौ॑तु भ॒द्रया॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/11_ya_indra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/11_ya_indra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -696,7 +696,7 @@ Brihaspati, Savitar gave thee vital vigour: thy breath was brought from Tvashtar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/11_ya_indra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/11_ya_indra.md">
 <details open><summary><h3>११ य इन्द्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -747,14 +747,14 @@ Let the priest joyfully extol the limbs and members of the Bull Who moved and ro
 </div>
 
 ## १२ पार्श्वे आस्तामनुमत्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पा॒र्श्वे आ॑स्ता॒मनु॑मत्या॒ भग॑स्यास्तामनू॒वृजौ॑।  
 अ॑ष्ठी॒वन्ता॑वब्रवीन्मि॒त्रो ममै॒तौ केव॑ला॒विति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -763,7 +763,7 @@ Let the priest joyfully extol the limbs and members of the Bull Who moved and ro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/12_pArshve_AstAmanumatyA.md">
 <details open><summary><h3>१२ पार्श्वे आस्तामनुमत्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -811,14 +811,14 @@ The sides must be Anumati's, and both rib-pieces Bhaga's share, Of the knee-bone
 </div>
 
 ## १३ भसदासीदादित्यानां श्रोणी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ॒सदा॑सीदादि॒त्यानां॒ श्रोणी॑ आस्तां॒ बृह॒स्पतेः॑।  
 पुच्छं॒ वात॑स्य दे॒वस्य॒ तेन॑ धूनो॒त्योष॑धीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -827,7 +827,7 @@ The sides must be Anumati's, and both rib-pieces Bhaga's share, Of the knee-bone
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/13_bhasadAsIdAdityAnAM_shroNI.md">
 <details open><summary><h3>१३ भसदासीदादित्यानां श्रोणी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -873,14 +873,14 @@ The Adityas claim the hinder parts, the loins must be Brihas- pati's. Vata, the 
 </div>
 
 ## १४ गुदा आसन्त्सिनीवाल्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गुदा॑ आसन्त्सिनीवा॒ल्याः सू॒र्याया॒स्त्वच॑मब्रुवन्।  
 उ॑त्था॒तुर॑ब्रुवन्प॒द ऋ॑ष॒भं यदक॑ल्पयन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -889,7 +889,7 @@ The Adityas claim the hinder parts, the loins must be Brihas- pati's. Vata, the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/14_gudA_AsantsinIvAlyAH.md">
 <details open><summary><h3>१४ गुदा आसन्त्सिनीवाल्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -931,14 +931,14 @@ To Surya they assigned the skin, to Sinivali inward parts. The Slaughterer hath 
 </div>
 
 ## १५ क्रोड आसीज्जामिशंसस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्रो॒ड आ॑सीज्जामिशं॒सस्य॒ सोम॑स्य॒ क॒लशो॑ धृ॒तः।  
 दे॒वाः सं॒गत्य॒ यत्सर्व॑ ऋष॒भं व्यक॑ल्पयन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -947,7 +947,7 @@ To Surya they assigned the skin, to Sinivali inward parts. The Slaughterer hath 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/15_kroDa_AsIjjAmishaMsasya.md">
 <details open><summary><h3>१५ क्रोड आसीज्जामिशंसस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -996,14 +996,14 @@ They made a jest of kindred's curse: a jar of Soma juice was set, What time the 
 </div>
 
 ## १६ ते कुष्ठिकाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/16_te_kuShThikAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/16_te_kuShThikAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ते कुष्ठि॑काः स॒रमा॑यै कु॒र्मेभ्यो॑ अदधुः श॒फान्।  
 ऊब॑ध्यमस्य की॒टेभ्यः॑ श्वव॒र्तेभ्यो॑ अधारयन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/16_te_kuShThikAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/16_te_kuShThikAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1012,7 +1012,7 @@ They made a jest of kindred's curse: a jar of Soma juice was set, What time the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/16_te_kuShThikAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/16_te_kuShThikAH.md">
 <details open><summary><h3>१६ ते कुष्ठिकाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1067,14 +1067,14 @@ They gave the hooves to tortoises, to Sarama scraps of the feet: His undigested 
 </div>
 
 ## १७ शृङ्गाभ्यां रक्ष
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शृङ्गा॑भ्यां॒ रक्ष॑ ऋष॒त्यव॑र्तिं हन्ति॒ चक्षु॑षा।  
 शृ॒णोति॑ भ॒द्रं कर्णा॑भ्यां॒ गवां॒ यः पति॑र॒घ्न्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1083,7 +1083,7 @@ They gave the hooves to tortoises, to Sarama scraps of the feet: His undigested 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/17_shRngAbhyAM_raxa.md">
 <details open><summary><h3>१७ शृङ्गाभ्यां रक्ष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1132,14 +1132,14 @@ That Bull, the husband of the kine, pierces the demons with his horns, Banishes 
 </div>
 
 ## १८ शतयाजं स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/18_shatayAjaM_sa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/18_shatayAjaM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॑त॒याजं॒ स य॑जते॒ नैनं॑ दुन्वन्त्य॒ग्नयः॑।  
 जिन्व॑न्ति॒ विश्वे॒ तं दे॒वा यो ब्रा॑ह्म॒ण ऋ॑ष॒भमा॑जु॒होति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/18_shatayAjaM_sa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/18_shatayAjaM_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1148,7 +1148,7 @@ That Bull, the husband of the kine, pierces the demons with his horns, Banishes 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/18_shatayAjaM_sa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/18_shatayAjaM_sa.md">
 <details open><summary><h3>१८ शतयाजं स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1195,14 +1195,14 @@ With hundred sacrifices he worships: the fires consume him not: All Gods promote
 </div>
 
 ## १९ ब्राह्मणेभ्य ऋषभम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रा॑ह्म॒णेभ्य॑ ऋष॒भं द॒त्त्वा वरी॑यः कृणुते॒ मनः॑।  
 पुष्टिं॒ सो अ॒घ्न्यानां॒ स्वे गो॒ष्ठेऽव॑ पश्यते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1211,7 +1211,7 @@ With hundred sacrifices he worships: the fires consume him not: All Gods promote
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/19_brAhmaNebhya_RShabham.md">
 <details open><summary><h3>१९ ब्राह्मणेभ्य ऋषभम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1264,14 +1264,14 @@ He who hath given away the Bull to Brahmans frees and cheers his soul. In his ow
 </div>
 
 ## २० गावः सन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/20_gAvaH_santu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/20_gAvaH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गावः॑ सन्तु प्र॒जाः स॒न्त्वथो॑ अस्तु तनूब॒लम्।  
 तत्सर्व॒मनु॑ मन्यन्तां दे॒वा ऋ॑षभदा॒यिने॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/20_gAvaH_santu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/20_gAvaH_santu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1280,7 +1280,7 @@ He who hath given away the Bull to Brahmans frees and cheers his soul. In his ow
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/20_gAvaH_santu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/20_gAvaH_santu.md">
 <details open><summary><h3>२० गावः सन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1326,14 +1326,14 @@ Let there be cattle, let there be bodily strength and progeny: All this may the 
 </div>
 
 ## २१ अयं पिपान
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/21_ayaM_pipAna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/21_ayaM_pipAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं पि॑पान॒ इन्द्र॒ इद्र॒यिं द॑धातु चेत॒नीम्।  
 अ॒यं धे॒नुं सु॒दुघां॒ नित्य॑वत्सां॒ वशं॑ दुहां विप॒श्चितं॑ प॒रो दि॒वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/21_ayaM_pipAna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/21_ayaM_pipAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1342,7 +1342,7 @@ Let there be cattle, let there be bodily strength and progeny: All this may the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/21_ayaM_pipAna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/21_ayaM_pipAna.md">
 <details open><summary><h3>२१ अयं पिपान ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1392,14 +1392,14 @@ Indra here verily hath rejoiced: let him bestow conspicuous wealth. May he draw 
 </div>
 
 ## २२ पिशङ्गरूपो नभसो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॒शङ्ग॑रूपो नभ॒सो व॑यो॒धा ऐ॒न्द्रः शुष्मो॑ वि॒श्वरू॑पो न॒ आग॑न्।  
 आयु॑र॒स्मभ्यं॒ दध॑त्प्र॒जां च॑ रा॒यश्च॒ पोषै॑र॒भि नः॑ सचताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1408,7 +1408,7 @@ Indra here verily hath rejoiced: let him bestow conspicuous wealth. May he draw 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/22_pishangarUpo_nabhaso.md">
 <details open><summary><h3>२२ पिशङ्गरूपो नभसो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1463,14 +1463,14 @@ With close connexion mingle with the cows in this our cattle- pen: Mingle, the B
 </div>
 
 ## २३ उपेहोपपर्चनास्मिन्गोष्ठ उप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उपे॒होप॑पर्चना॒स्मिन्गो॒ष्ठ उप॑ पृञ्च नः।  
 उप॑ ऋष॒भस्य॒ यद्रेत॒ उपे॑न्द्र॒ तव॑ वी॒र्य᳡म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1479,7 +1479,7 @@ With close connexion mingle with the cows in this our cattle- pen: Mingle, the B
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/23_upehopaparchanAsmingoShTha_upa.md">
 <details open><summary><h3>२३ उपेहोपपर्चनास्मिन्गोष्ठ उप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1532,14 +1532,14 @@ Here we restore this Bull, your youthful leader: sporting with him, go, wander a
 </div>
 
 ## २४ एतं वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/24_etaM_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/004_RShabhaH/24_etaM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तं वो॒ युवा॑नं॒ प्रति॑ दध्मो॒ अत्र॒ तेन॒ क्रीड॑न्तीश्चरत॒ वशाँ॒ अनु॑।  
 मा नो॑ हासिष्ट ज॒नुषा॑ सुभागा रा॒यश्च॒ पोषै॑र॒भि नः॑ सचध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/24_etaM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/004_RShabhaH/24_etaM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1548,7 +1548,7 @@ Here we restore this Bull, your youthful leader: sporting with him, go, wander a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/24_etaM_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/004_RShabhaH/24_etaM_vo.md">
 <details open><summary><h3>२४ एतं वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

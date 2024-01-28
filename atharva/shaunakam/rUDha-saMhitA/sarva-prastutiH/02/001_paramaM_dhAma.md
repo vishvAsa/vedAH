@@ -2,7 +2,7 @@
 title = "००१ परमं धाम"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/_index.md">
 <details open><summary><h2>००१ परमं धाम ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Glorification of the prime cause of all things
 </div>
 
 ## ०१ वेनस्तत्पश्यत्परमं गुहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वे॒नस्तत्प॑श्यत्पर॒मं गुहा॒ यद्यत्र॒ विश्वं॒ भव॒त्येक॑रूपम्।  
 इ॒दं पृश्नि॑रदुह॒ज्जाय॑मानाः स्व॒र्विदो॑ अ॒भ्य॑नूषत॒ व्राः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Glorification of the prime cause of all things
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/01_venastatpashyatparamaM_guhA.md">
 <details open><summary><h3>०१ वेनस्तत्पश्यत्परमं गुहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Vena beholds That Highest which lies hidden, wherein this All resumes one form a
 </div>
 
 ## ०२ प्र तद्वोचेदमृतस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र तद्वो॑चेद॒मृत॑स्य वि॒द्वान् ग॑न्ध॒र्वो धाम॑ पर॒मं गुहा॒ यत्।  
 त्रीणि॑ प॒दानि॒ निहि॑ता॒ गुहा॑स्य॒ यस्तानि॒ वेद॒ स पि॒तुष्पि॒तास॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Vena beholds That Highest which lies hidden, wherein this All resumes one form a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/02_pra_tadvochedamRtasya.md">
 <details open><summary><h3>०२ प्र तद्वोचेदमृतस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Knowing Eternity, may the Gandharva declare to us that highest secret station. T
 </div>
 
 ## ०३ स नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/03_sa_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/03_sa_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स नः॑ पि॒ता ज॑नि॒ता स उ॒त बन्धु॒र्धामा॑नि वेद॒ भुव॑नानि॒ विश्वा॑।  
 यो दे॒वानां॑ नाम॒ध एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना यन्ति॒ सर्वा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/03_sa_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/03_sa_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Knowing Eternity, may the Gandharva declare to us that highest secret station. T
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/03_sa_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/03_sa_naH.md">
 <details open><summary><h3>०३ स नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -251,14 +251,14 @@ He is our kinsman, father, and begetter: he knows all beings and all Ordinances.
 </div>
 
 ## ०४ परि द्यावापृथिवी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ द्यावा॑पृथि॒वी स॒द्य आ॑य॒मुपा॑तिष्ठे प्रथम॒जामृ॒तस्य॑।  
 वाच॑मिव व॒क्तरि॑ भुवने॒ष्ठा धा॒स्युरे॒ष न॒न्वे॑३षो अ॒ग्निः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -267,7 +267,7 @@ He is our kinsman, father, and begetter: he knows all beings and all Ordinances.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/04_pari_dyAvApRthivI.md">
 <details open><summary><h3>०४ परि द्यावापृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -327,14 +327,14 @@ I have gone forth around the earth and heaven, I have approached the first-born 
 </div>
 
 ## ०५ परि विश्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/05_pari_vishvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/001_paramaM_dhAma/05_pari_vishvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ विश्वा॒ भुव॑नान्यायमृ॒तस्य॒ तन्तुं॒ वित॑तं दृ॒शे कम्।  
 यत्र॑ दे॒वा अ॒मृत॑मानशा॒नाः स॑मा॒ने योना॒वध्यैर॑यन्त ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/05_pari_vishvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/001_paramaM_dhAma/05_pari_vishvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -343,7 +343,7 @@ I have gone forth around the earth and heaven, I have approached the first-born 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/05_pari_vishvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/001_paramaM_dhAma/05_pari_vishvA.md">
 <details open><summary><h3>०५ परि विश्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

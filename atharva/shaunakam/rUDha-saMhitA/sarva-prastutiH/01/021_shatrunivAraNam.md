@@ -2,7 +2,7 @@
 title = "०२१ शत्रुनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/_index.md">
 <details open><summary><h2>०२१ शत्रुनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Indra for protection
 </div>
 
 ## ०१ स्वस्तिदा विशाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व॑स्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी।  
 वृषेन्द्रः॑ पु॒र ए॑तु॒ नः सो॑म॒पा अ॑भयंक॒रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Indra for protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/01_svastidA_vishAm.md">
 <details open><summary><h3>०१ स्वस्तिदा विशाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 </div>
 
 ## ०२ वि न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/02_vi_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/02_vi_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि न॒ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः।  
 अ॑ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/02_vi_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/02_vi_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Lord of the clans, giver of bliss, fiend-slayer, mighty o'er the foe, May Indra,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/02_vi_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/02_vi_na.md">
 <details open><summary><h3>०२ वि न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Indra, subdue our enemies, lay low the men who fight with us: Down into nether d
 </div>
 
 ## ०३ वि रक्षो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/03_vi_raxo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज।  
 वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/03_vi_raxo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Indra, subdue our enemies, lay low the men who fight with us: Down into nether d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/03_vi_raxo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/03_vi_raxo.md">
 <details open><summary><h3>०३ वि रक्षो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ O Indra, Vritra slayer, quell the wrath of the assailing foe.
 </div>
 
 ## ०४ अपेन्द्र द्विषतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपे॑न्द्र द्विष॒तो मनो॑ ऽप॒ जिज्या॑सतो व॒धम्।  
 वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/04_apendra_dviShato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ O Indra, Vritra slayer, quell the wrath of the assailing foe.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/021_shatrunivAraNam/04_apendra_dviShato.md">
 <details open><summary><h3>०४ अपेन्द्र द्विषतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

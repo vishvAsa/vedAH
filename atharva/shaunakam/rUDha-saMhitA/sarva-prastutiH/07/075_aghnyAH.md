@@ -2,7 +2,7 @@
 title = "०७५ अघ्न्याः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/_index.md">
 <details open><summary><h2>०७५ अघ्न्याः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A blessing on cows
 </div>
 
 ## ०१ प्रजावतीः सूयवसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः।  
 मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A blessing on cows
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/01_prajAvatIH_sUyavase.md">
 <details open><summary><h3>०१ प्रजावतीः सूयवसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,7 +98,7 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 </div>
 
 ## ०२ पदज्ञा स्थ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/02_padajnA_stha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/075_aghnyAH/02_padajnA_stha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॑द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः।  
@@ -106,7 +106,7 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/02_padajnA_stha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/075_aghnyAH/02_padajnA_stha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Let not a thief or wicked man possess you: let not the dart of Rudra come anear 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/02_padajnA_stha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/075_aghnyAH/02_padajnA_stha.md">
 <details open><summary><h3>०२ पदज्ञा स्थ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

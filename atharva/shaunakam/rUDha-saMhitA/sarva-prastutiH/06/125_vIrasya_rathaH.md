@@ -2,7 +2,7 @@
 title = "१२५ वीरस्य रथः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/_index.md">
 <details open><summary><h2>१२५ वीरस्य रथः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: by the RV. translators; and, as AV. hymn, by Ludwig again, p. 459; G
 </div>
 
 ## ०१ वनस्पते वीड्वङ्गो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वन॑स्पते वी॒ड्व᳡ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑।  
 गोभिः॒ संन॑द्धो असि वी॒डय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: by the RV. translators; and, as AV. hymn, by Ludwig again, p. 459; G
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/01_vanaspate_vIDvango.md">
 <details open><summary><h3>०१ वनस्पते वीड्वङ्गो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -88,14 +88,14 @@ Mayst thou, O Tree, be firm indeed in body, our friend that furthers us, a goodl
 </div>
 
 ## ०२ दिवस्पृथिव्याः पर्योज
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑।  
 अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑तमिन्द्रस्य॒ वज्रं॑ हविषा॒ रथं॑ यज ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -104,7 +104,7 @@ Mayst thou, O Tree, be firm indeed in body, our friend that furthers us, a goodl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/02_divaspRthivyAH_paryoja.md">
 <details open><summary><h3>०२ दिवस्पृथिव्याः पर्योज ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -160,14 +160,14 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 </div>
 
 ## ०३ इन्द्रस्यौजो मरुतामनीकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॒स्यौजो॑ म॒रुता॒मनी॑कं मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑।  
 स इ॒मां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -176,7 +176,7 @@ Its mighty strength was borrowed from the heaven and earth: its conquering force
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/125_vIrasya_rathaH/03_indrasyaujo_marutAmanIkam.md">
 <details open><summary><h3>०३ इन्द्रस्यौजो मरुतामनीकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

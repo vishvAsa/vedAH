@@ -2,7 +2,7 @@
 title = "१३१ स्मरः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/_index.md">
 <details open><summary><h2>१३१ स्मरः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfie
 </div>
 
 ## ०१ नि शीर्षतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/01_ni_shIrShato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/01_ni_shIrShato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नि शी॑र्ष॒तो नि प॑त्त॒त आ॒ध्यो॒३॒॑ नि ति॑रामि ते।  
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/01_ni_shIrShato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/01_ni_shIrShato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, Ind. Stud. v. 244; Grill, 58, 175; Griffith, i. 318; Bloomfie
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/01_ni_shIrShato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/01_ni_shIrShato.md">
 <details open><summary><h3>०१ नि शीर्षतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -93,14 +93,14 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 </div>
 
 ## ०२ अनुमतेऽन्विदं मन्यस्वाकूते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑मतेऽन्वि॒दं म॑न्य॒स्वाकू॑ते॒ समि॒दं नमः॑।  
 देवाः॒ प्र हि॑णुत स्म॒रम॒सौ मामनु॑ शोचतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ Down upon thee, from head to foot, I draw the pangs of long- ing love. Send fort
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/02_anumate-nvidaM_manyasvAkUte.md">
 <details open><summary><h3>०२ अनुमतेऽन्विदं मन्यस्वाकूते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -160,14 +160,14 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 </div>
 
 ## ०३ यद्धावसि त्रियोजनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्धाव॑सि त्रियोज॒नं प॑ञ्चयोज॒नमाश्वि॑नम्।  
 तत॒स्त्वं पुन॒राय॑सि पु॒त्राणां॑ नो असः पि॒ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -176,7 +176,7 @@ Assent to this, O Heavenly Grace! Celestial Purpose, guide it well! Send forth t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/131_smaraH/03_yaddhAvasi_triyojanam.md">
 <details open><summary><h3>०३ यद्धावसि त्रियोजनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

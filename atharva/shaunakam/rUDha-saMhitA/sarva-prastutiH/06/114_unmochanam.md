@@ -2,7 +2,7 @@
 title = "११४ उन्मोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/_index.md">
 <details open><summary><h2>११४ उन्मोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -26,14 +26,14 @@ The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the on
 </div>
 
 ## ०१ यद्देवा देवहेडनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्दे॑वा देव॒हेड॑नं॒ देवा॑सश्चकृमा व॒यम्।  
 आदि॑त्या॒स्तस्मा॑न्नो यू॒यमृ॒तस्य॒र्तेन॑ मुञ्चत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/01_yaddevA_devaheDanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -42,7 +42,7 @@ The whole hymn is found in TB. (in ii. 4. 48-9), with mā for nas in c as the on
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/01_yaddevA_devaheDanam.md">
 <details open><summary><h3>०१ यद्देवा देवहेडनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 </div>
 
 ## ०२ ऋतस्यर्तेनादित्या यजत्रा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒तस्य॒र्तेना॑दित्या॒ यज॑त्रा मु॒ञ्चते॒ह नः॑।  
 य॒ज्ञं यद्य॑ज्ञवाहसः शिक्षन्तो॒ नोप॑शेकि॒म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Whatever God-provoking wrong we priests have done, O Deities. Therefrom do ye de
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/02_RtasyartenAdityA_yajatrA.md">
 <details open><summary><h3>०२ ऋतस्यर्तेनादित्या यजत्रा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 </div>
 
 ## ०३ मेदस्वता यजमानाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मेद॑स्वता॒ यज॑मानाः स्रु॒चाज्या॑नि॒ जुह्व॑तः।  
 अ॑का॒मा वि॑श्वे वो देवाः॒ शिक्ष॑न्तो॒ नोप॑ शेकिम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Here set us free, O holy ones, Adityas, by the right of Law. When striving, brin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/114_unmochanam/03_medasvatA_yajamAnAH.md">
 <details open><summary><h3>०३ मेदस्वता यजमानाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

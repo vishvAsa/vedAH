@@ -2,7 +2,7 @@
 title = "०३८ वाजिनीवान् ऋषभः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/_index.md">
 <details open><summary><h2>०३८ वाजिनीवान् ऋषभः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for success in gambling
 </div>
 
 ## ०१ उद्भिन्दतीं सञ्जयन्तीमप्सराम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑द्भिन्द॒तीं सं॒जय॑न्तीमप्स॒रां सा॑धुदे॒विनी॑म्।  
 ग्लहे॑ कृ॒तानि॑ कृण्वा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for success in gambling
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/01_udbhindatIM_sanjayantImapsarAm.md">
 <details open><summary><h3>०१ उद्भिन्दतीं सञ्जयन्तीमप्सराम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Hither I call the Apsaras, victorious, who plays with skill, Her who comes freel
 </div>
 
 ## ०२ विचिन्वतीमाकिरन्तीमप्सरां साधुदेविनीम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑चिन्व॒तीमा॑कि॒रन्ती॑मप्स॒रां सा॑धुदे॒विनी॑म्।  
 ग्लहे॑ कृ॒तानि॑ गृह्णा॒नाम॑प्स॒रां तामि॒ह हु॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Hither I call the Apsaras, victorious, who plays with skill, Her who comes freel
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/02_vichinvatImAkirantImapsarAM_sAdhudevinIm.md">
 <details open><summary><h3>०२ विचिन्वतीमाकिरन्तीमप्सरां साधुदेविनीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,7 +169,7 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 </div>
 
 ## ०३ यायैः परिनृत्यत्याददाना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यायैः॑ परि॒नृत्य॑त्या॒ददा॑ना कृ॒तं ग्लहा॑त्।  
@@ -177,7 +177,7 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 सा नः॒ पय॑स्व॒त्यैतु॒ मा नो॑ जैषुरि॒दं धन॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Hither I call that Apsaras who scatters and who gathers up. The Apsaras who play
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/03_yAyaiH_parinRtyatyAdadAnA.md">
 <details open><summary><h3>०३ यायैः परिनृत्यत्याददाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -251,14 +251,14 @@ Dancing around us with the dice, winning the wager by her play. May she obtain t
 </div>
 
 ## ०४ या अक्षेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या अ॒क्षेषु॑ प्र॒मोद॑न्ते॒ शुचं॒ क्रोधं॑ च॒ बिभ्र॑ती।  
 आ॑न॒न्दिनीं॑ प्रमो॒दिनी॑मप्स॒रां तामि॒ह हु॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -267,7 +267,7 @@ Dancing around us with the dice, winning the wager by her play. May she obtain t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/04_yA_axeShu.md">
 <details open><summary><h3>०४ या अक्षेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -320,7 +320,7 @@ Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who re
 </div>
 
 ## ०५ सूर्यस्य रश्मीननु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूर्य॑स्य र॒श्मीननु॒ याः स॒ञ्चर॑न्ति॒ मरी॑चीर्वा॒ या अ॑नुस॒ञ्चर॑न्ति।  
@@ -328,7 +328,7 @@ Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who re
 स न॒ ऐतु॒ होम॑मि॒मं जु॑षाणो॑३ऽन्तरि॑क्षेण स॒ह वा॒जिनी॑वान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -338,7 +338,7 @@ Hither I call that Apsaras, the joyous, the delightful one-- Those nymphs who re
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/05_sUryasya_rashmInanu.md">
 <details open><summary><h3>०५ सूर्यस्य रश्मीननु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ Who follow in their course the rays of Surya, or as a particle of light attend h
 </div>
 
 ## ०६ अन्तरिक्षेण सह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षेण स॒ह वा॑जिनीवन्क॒र्कीं व॒त्सामि॒ह र॑क्ष वाजिन्।  
 इ॒मे ते॑ स्तो॒का ब॑हु॒ला एह्य॒र्वाङि॒यं ते॑ क॒र्कीह ते॒ मनो॑ऽस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ Who follow in their course the rays of Surya, or as a particle of light attend h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/06_antarixeNa_saha.md">
 <details open><summary><h3>०६ अन्तरिक्षेण सह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -475,7 +475,7 @@ Together with the Air, O rich in treasure, guard here the white cow and the calf
 </div>
 
 ## ०७ अन्तरिक्षेण सह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षेण स॒ह वा॑जिनीवन्क॒र्कीं व॒त्सामि॒ह र॑क्ष वाजिन्।  
@@ -483,7 +483,7 @@ Together with the Air, O rich in treasure, guard here the white cow and the calf
 य॑थाना॒म व॑ ईश्महे॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -493,7 +493,7 @@ Together with the Air, O rich in treasure, guard here the white cow and the calf
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/038_vAjinIvAn_RShabhaH/07_antarixeNa_saha.md">
 <details open><summary><h3>०७ अन्तरिक्षेण सह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

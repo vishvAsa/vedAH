@@ -2,7 +2,7 @@
 title = "०४७ कुहूः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/_index.md">
 <details open><summary><h2>०४७ कुहूः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for wealth and birth of a son
 </div>
 
 ## ०१ कुहूं देवीम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/01_kuhUM_devIm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/01_kuhUM_devIm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन्य॒ज्ञे सु॒हवा॑ जोहवीमि।  
 सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि य॑च्छा॒द्ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्य᳡म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/01_kuhUM_devIm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/01_kuhUM_devIm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for wealth and birth of a son
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/01_kuhUM_devIm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/01_kuhUM_devIm.md">
 <details open><summary><h3>०१ कुहूं देवीम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled
 </div>
 
 ## ०२ कुहूर्देवानाममृतस्य पत्नी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत।  
 शृ॑णोतु य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Oft in this sacrifice with favoured cry I call Kuhu, beneficent Goddess, skilled
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/047_kuhUH/02_kuhUrdevAnAmamRtasya_patnI.md">
 <details open><summary><h3>०२ कुहूर्देवानाममृतस्य पत्नी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०४९ रात्रिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/_index.md">
 <details open><summary><h2>०४९ रात्रिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn of Praise and prayer to Night
 </div>
 
 ## ०१ इषिरा योषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/01_iShirA_yoShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/01_iShirA_yoShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॑षि॒रा योषा॑ युव॒तिर्दमू॑ना॒ रात्री॑ दे॒वस्य॑ सवि॒तुर्भग॑स्य।  
 अ॑श्वक्ष॒भा सु॒हवा॒ संभृ॑तश्री॒रा प॑प्रौ॒ द्यावा॑पृथि॒वी म॑हि॒त्वा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/01_iShirA_yoShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/01_iShirA_yoShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn of Praise and prayer to Night
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/01_iShirA_yoShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/01_iShirA_yoShA.md">
 <details open><summary><h3>०१ इषिरा योषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 </div>
 
 ## ०२ अति विश्वान्यरुहद्गम्भीरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अति॒ विश्वा॑न्यरुहद्गम्भी॒रो वर्षि॑ष्ठमरुहन्त॒ श्रवि॑ष्ठाः।  
 उ॑श॒ती रात्र्यनु॒ सा भ॑द्रा॒भि ति॑ष्ठते मि॒त्र इ॑व स्व॒धाभिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ Friend of the home, the strong and youthful maiden, Night, dear to Savitar the G
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/02_ati_vishvAnyaruhadgambhIro.md">
 <details open><summary><h3>०२ अति विश्वान्यरुहद्गम्भीरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 </div>
 
 ## ०३ वर्ये वन्दे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/03_varye_vande.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/03_varye_vande.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वर्ये॒ वन्दे॒ सुभ॑गे॒ सुजा॑त॒ आज॑ग॒न्रात्रि॑ सु॒मना॑ इ॒ह स्या॑म्।  
 अ॒स्मांस्त्रा॑यस्व॒ नर्या॑णि जा॒ता अथो॒ यानि॒ गव्या॑नि पु॒ष्ठ्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/03_varye_vande.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/03_varye_vande.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Over all depths hath she gone up, and mounted, most mighty One, the sky's exalte
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/03_varye_vande.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/03_varye_vande.md">
 <details open><summary><h3>०३ वर्ये वन्दे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -323,14 +323,14 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 </div>
 
 ## ०४ सिंहस्य रात्र्युशती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिं॒हस्य॒ रात्र्यु॑श॒ती पीं॒षस्य॑ व्या॒घ्रस्य॑ द्वी॒पिनो॒ वर्च॒ आ द॑दे।  
 अश्व॑स्य ब्र॒ध्नं पुरु॑षस्य मा॒युं पु॒रु रू॒पाणि॑ कृणुषे विभा॒ती ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -339,7 +339,7 @@ Excellent, high-born, blissful, meet for worship, Night, thou hast come: stay he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/04_siMhasya_rAtryushatI.md">
 <details open><summary><h3>०४ सिंहस्य रात्र्युशती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -401,14 +401,14 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 </div>
 
 ## ०५ शिवां रात्रिमनुसूर्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॒वां रात्रि॑मनु॒सूर्यं॑ च हि॒मस्य॑ मा॒ता सु॒हवा॑ नो अस्तु।  
 अ॒स्य स्तोम॑स्य सुभगे॒ नि बो॑ध॒ येन॑ त्वा॒ वन्दे॒ विश्वा॑सु दि॒क्षु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -417,7 +417,7 @@ With eager haste hath Night assumed the vigour of leopard,. tiger, or of tawny l
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/05_shivAM_rAtrimanusUryam.md">
 <details open><summary><h3>०५ शिवां रात्रिमनुसूर्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -478,14 +478,14 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 </div>
 
 ## ०६ स्तोमस्य नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/06_stomasya_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/06_stomasya_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्तोम॑स्य नो विभावरि॒ रात्रि॒ राजे॑व जोषसे।  
 असा॑म॒ सर्व॑वीरा॒ भवा॑म॒ सर्व॑वेदसो व्यु॒च्छन्ती॒रनू॒षसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/06_stomasya_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/06_stomasya_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -494,7 +494,7 @@ Kind through the Night be absence of the sunshine: Mother of Frost, may she be s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/06_stomasya_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/06_stomasya_no.md">
 <details open><summary><h3>०६ स्तोमस्य नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -544,14 +544,14 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 </div>
 
 ## ०७ शम्या ह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/07_shamyA_ha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/07_shamyA_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शम्या॑ ह॒ नाम॑ दधि॒षे मम॒ दिप्स॑न्ति॒ ये धना॑।  
 रात्री॒हि तान॑सुत॒पा य स्ते॒नो न वि॒द्यते॒ यत्पुन॒र्न वि॒द्यते॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/07_shamyA_ha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/07_shamyA_ha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -560,7 +560,7 @@ Even as a King, O splendid Night, thou takest pleasure in our hymn. May we throu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/07_shamyA_ha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/07_shamyA_ha.md">
 <details open><summary><h3>०७ शम्या ह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -629,14 +629,14 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 </div>
 
 ## ०८ भद्रासि रात्रि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भ॒द्रासि॑ रात्रि चम॒सो न वि॒ष्टो विष्व॒ङ्गोरू॑पं युव॒तिर्बि॑भर्षि।  
 चक्षु॑ष्मती मे उश॒ती वपूं॑षि॒ प्रति॒ त्वं दि॒व्या न क्षा॑ममुक्थाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/08_bhadrAsi_rAtri.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/08_bhadrAsi_rAtri.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -645,7 +645,7 @@ Yes, Ramya is the name thou hast assumed. The men who fain. would spoil. My weal
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/08_bhadrAsi_rAtri.md">
 <details open><summary><h3>०८ भद्रासि रात्रि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -723,14 +723,14 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 </div>
 
 ## ०९ यो अद्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/09_yo_adya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/09_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒द्य स्ते॒न आय॑त्यघा॒युर्मर्त्यो॑ रि॒पुः।  
 रात्री॒ तस्य॑ प्र॒तीत्य॒ प्र ग्री॒वाः प्र शिरो॑ हनत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/09_yo_adya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/09_yo_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -739,7 +739,7 @@ Thou like a well-wrought cup, O Night, art lovely: thou, a. young maid, art form
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/09_yo_adya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/09_yo_adya.md">
 <details open><summary><h3>०९ यो अद्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -795,7 +795,7 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 </div>
 
 ## १० प्र पादौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/10_pra_pAdau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/049_rAtriH/10_pra_pAdau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र पा॑दौ॒ न यथाय॑ति॒ प्र हस्तौ॒ न यथाशि॑षत्।  
@@ -803,7 +803,7 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 अपा॑यति॒ स्वपा॑यति॒ शुष्के॑ स्था॒णावपा॑यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/10_pra_pAdau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/049_rAtriH/10_pra_pAdau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -813,7 +813,7 @@ Whatever robber comes to-day, mischievous mortal enemy. Let Night go forth, enco
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/10_pra_pAdau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/049_rAtriH/10_pra_pAdau.md">
 <details open><summary><h3>१० प्र पादौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०६८ वेदोक्तं कर्म"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/_index.md">
 <details open><summary><h2>०६८ वेदोक्तं कर्म ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A preliminary sacrificial formula
 </div>
 
 ## ०१ अव्यसश्च व्यचसश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑।  
 ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A preliminary sacrificial formula
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/068_vedoktaM_karma/01_avyasashcha_vyachasashcha.md">
 <details open><summary><h3>०१ अव्यसश्च व्यचसश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

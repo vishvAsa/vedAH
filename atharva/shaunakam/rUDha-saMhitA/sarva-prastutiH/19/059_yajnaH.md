@@ -2,7 +2,7 @@
 title = "०५९ यज्ञः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/_index.md">
 <details open><summary><h2>०५९ यज्ञः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ An expiatory hymn accompanying sacrifice
 </div>
 
 ## ०१ त्वमग्ने व्रतपा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/01_tvamagne_vratapA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा।  
 त्वं य॒ज्ञेष्वीड्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/01_tvamagne_vratapA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ An expiatory hymn accompanying sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/01_tvamagne_vratapA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/01_tvamagne_vratapA.md">
 <details open><summary><h3>०१ त्वमग्ने व्रतपा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -111,14 +111,14 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 </div>
 
 ## ०२ यद्वो वयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/02_yadvo_vayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/02_yadvo_vayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः।  
 अ॒ग्निष्टद्वि॒श्वादा पृ॑णातु वि॒द्वान्त्सोम॑स्य॒ यो ब्रा॑ह्म॒णाँ आ॑वि॒वेश॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/02_yadvo_vayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/02_yadvo_vayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -127,7 +127,7 @@ God among mortals, Agni, thou art guard of holy Law, thou art To be adored in sa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/02_yadvo_vayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/02_yadvo_vayam.md">
 <details open><summary><h3>०२ यद्वो वयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -182,14 +182,14 @@ When, ignorant, we violate the statutes of you, O Deities, with whom is knowledg
 </div>
 
 ## ०३ आ देवानामपि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/03_A_devAnAmapi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/059_yajnaH/03_A_devAnAmapi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ दे॒वाना॒मपि॒ पन्था॑मगन्म॒ यच्छ॒क्नवा॑म॒ तद॑नु॒प्रवो॑ढुम्।  
 अ॒ग्निर्वि॒द्वान्त्स य॑जा॒त्स इद्धोता॒ सोऽध्व॒रान्त्स ऋ॒तून्क॑ल्पयाति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/03_A_devAnAmapi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/059_yajnaH/03_A_devAnAmapi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -198,7 +198,7 @@ When, ignorant, we violate the statutes of you, O Deities, with whom is knowledg
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/03_A_devAnAmapi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/059_yajnaH/03_A_devAnAmapi.md">
 <details open><summary><h3>०३ आ देवानामपि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

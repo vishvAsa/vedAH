@@ -2,7 +2,7 @@
 title = "०६१ विश्वस्रष्टा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/_index.md">
 <details open><summary><h2>०६१ विश्वस्रष्टा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for prosperity and greatness
 </div>
 
 ## ०१ मह्यमापो मधुमदेरयन्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मह्य॒मापो॒ मधु॑म॒देर॑यन्तां॒ मह्यं॒ सूरो॑ अभर॒ज्ज्योति॑षे॒ कम्।  
 मह्यं॑ दे॒वा उ॒त विश्वे॑ तपो॒जा मह्यं॑ दे॒वः स॑वि॒ता व्यचो॑ धात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for prosperity and greatness
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/01_mahyamApo_madhumaderayantAm.md">
 <details open><summary><h3>०१ मह्यमापो मधुमदेरयन्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ The Waters send me what is sweet and pleasant, Sura bring all I need for light a
 </div>
 
 ## ०२ अहं विवेच
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/02_ahaM_vivecha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/02_ahaM_vivecha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हं वि॑वेच पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सा॒कम्।  
 अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑म्य॒हं दैवीं॒ परि॒ वाचं॒ विश॑श्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/02_ahaM_vivecha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/02_ahaM_vivecha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ The Waters send me what is sweet and pleasant, Sura bring all I need for light a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/02_ahaM_vivecha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/02_ahaM_vivecha.md">
 <details open><summary><h3>०२ अहं विवेच ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ I set the heaven and the earth asunder, I brought all seven sea- sons into being
 </div>
 
 ## ०३ अहं जजान
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/03_ahaM_jajAna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/061_vishvasraShTA/03_ahaM_jajAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हं ज॑जान पृथि॒वीमु॒त द्याम॒हमृ॒तूंर॑जनयं स॒प्त सिन्धू॑न्।  
 अ॒हं स॒त्यमनृ॑तं॒ यद्वदा॑मि॒ यो अ॑ग्नीषो॒मावजु॑षे॒ सखा॑या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/03_ahaM_jajAna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/061_vishvasraShTA/03_ahaM_jajAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ I set the heaven and the earth asunder, I brought all seven sea- sons into being
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/03_ahaM_jajAna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/061_vishvasraShTA/03_ahaM_jajAna.md">
 <details open><summary><h3>०३ अहं जजान ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

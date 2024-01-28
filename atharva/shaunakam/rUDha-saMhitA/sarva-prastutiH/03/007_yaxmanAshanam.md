@@ -2,7 +2,7 @@
 title = "००७ यक्ष्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/_index.md">
 <details open><summary><h2>००७ यक्ष्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm with an amulet of buck horn to drive away hereditary disease
 </div>
 
 ## ०१ हरिणस्य रघुष्यदोऽधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ह॑रि॒णस्य॑ रघु॒ष्यदोऽधि॑ शी॒र्षणि॑ भेष॒जम्।  
 स क्षे॑त्रि॒यं वि॒षाण॑या विषू॒चीन॑मनीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm with an amulet of buck horn to drive away hereditary disease
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/01_hariNasya_raghuShyado-dhi.md">
 <details open><summary><h3>०१ हरिणस्य रघुष्यदोऽधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 </div>
 
 ## ०२ अनु त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/02_anu_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/02_anu_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑ त्वा हरि॒णो वृषा॑ प॒द्भिश्च॒तुर्भि॑रक्रमीत्।  
 विषा॑णे॒ वि ष्य॑ गुष्पि॒तं यद॑स्य क्षेत्रि॒यं हृ॒दि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/02_anu_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/02_anu_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ The fleet-foot Roebuck wears upon his head a healing remedy. Innate disease he d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/02_anu_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/02_anu_tvA.md">
 <details open><summary><h3>०२ अनु त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -179,14 +179,14 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 </div>
 
 ## ०३ अदो यदवरोचते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒दो यद॑व॒रोच॑ते॒ चतु॑ष्पक्षमिव छ॒दिः।  
 तेना॑ ते॒ सर्वं॑ क्षेत्रि॒यमङ्गे॑भ्यो नाशयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -195,7 +195,7 @@ With his four feet the vigorous Buck hath bounded in pursuit of thee. Unbind the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/03_ado_yadavarochate.md">
 <details open><summary><h3>०३ अदो यदवरोचते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 </div>
 
 ## ०४ अमू ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/04_amU_ye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/04_amU_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मू ये दि॒वि सु॒भगे॑ वि॒चृतौ॒ नाम॒ तार॑के।  
 वि क्षे॑त्रि॒यस्य॑ मुञ्चतामध॒मं पाश॑मुत्त॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/04_amU_ye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/04_amU_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ That which shines younder, like a roof resting on four walls, down on us,-- Ther
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/04_amU_ye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/04_amU_ye.md">
 <details open><summary><h3>०४ अमू ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -320,14 +320,14 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 </div>
 
 ## ०५ आप इद्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/05_Apa_idvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः।  
 आपो॒ विश्व॑स्य भेष॒जीस्तास्त्वा॑ मुञ्चन्तु क्षेत्रि॒यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/05_Apa_idvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -336,7 +336,7 @@ May those twin stars, auspicious, named Releasers, up in yonder sky. Loose of th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/05_Apa_idvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/05_Apa_idvA.md">
 <details open><summary><h3>०५ आप इद्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -384,14 +384,14 @@ Water, indeed, hath power to heal, Water drives malady away. May water--for it h
 </div>
 
 ## ०६ यदासुतेः क्रियमाणायाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदा॑सु॒तेः क्रि॒यमा॑णायाः क्षेत्रि॒यं त्वा॑ व्यान॒शे।  
 वेदा॒हं तस्य॑ भेष॒जं क्षे॑त्रि॒यं ना॑शयामि॒ त्वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -400,7 +400,7 @@ Water, indeed, hath power to heal, Water drives malady away. May water--for it h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/06_yadAsuteH_kriyamANAyAH.md">
 <details open><summary><h3>०६ यदासुतेः क्रियमाणायाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -450,14 +450,14 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 </div>
 
 ## ०७ अपवासे नक्षत्राणामपवास
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑पवा॒से नक्ष॑त्राणामपवा॒स उ॒षसा॑मु॒त।  
 अपा॒स्मत्सर्वं॑ दुर्भू॒तमप॑ क्षेत्रि॒यमु॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -466,7 +466,7 @@ Hath some prepared decoction brought inveterate disease on thee, I know the balm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/007_yaxmanAshanam/07_apavAse_naxatrANAmapavAsa.md">
 <details open><summary><h3>०७ अपवासे नक्षत्राणामपवास ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

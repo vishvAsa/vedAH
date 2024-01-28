@@ -2,7 +2,7 @@
 title = "०७७ प्रतिष्ठापनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/_index.md">
 <details open><summary><h2>०७७ प्रतिष्ठापनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to bring the cattle home
 </div>
 
 ## ०१ अस्थाद् द्यौरस्थात्पृथिव्यस्थाद्विश्वमिदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अस्था॒द् द्यौरस्था॑त्पृथि॒व्यस्था॒द्विश्व॑मि॒दं जग॑त्।  
 आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वाँ॑ अतिष्ठिपम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to bring the cattle home
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/01_asthAd_dyaurasthAtpRthivyasthAdvishvamidam.md">
 <details open><summary><h3>०१ अस्थाद् द्यौरस्थात्पृथिव्यस्थाद्विश्वमिदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 </div>
 
 ## ०२ य उदानट्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/02_ya_udAnaT.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण्न्याय॑नम्।  
 आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/02_ya_udAnaT.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Firm stands the heaven, firm stands the earth, firm stands this universal world,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/02_ya_udAnaT.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/02_ya_udAnaT.md">
 <details open><summary><h3>०२ य उदानट् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 </div>
 
 ## ०३ जातवेदो नि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वृतः॑।  
 स॒हस्रं॑ त उपा॒वृत॒स्ताभि॑र्नः॒ पुन॒रा कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/03_jAtavedo_ni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ I call the Herdsman, him who knows the way to drive the cattle forth, Who knows 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/077_pratiShThApanam/03_jAtavedo_ni.md">
 <details open><summary><h3>०३ जातवेदो नि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

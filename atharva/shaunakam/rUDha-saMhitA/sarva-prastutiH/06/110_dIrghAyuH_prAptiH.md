@@ -2,7 +2,7 @@
 title = "११० दीर्घायुः प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/_index.md">
 <details open><summary><h2>११० दीर्घायुः प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 5
 </div>
 
 ## ०१ प्रत्नो हि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒त्नो हि कमीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑।  
 स्वां चा॑ग्ने त॒न्वं᳡ पि॒प्राय॑स्वा॒स्मभ्यं॑ च॒ सौभ॑ग॒मा य॑जस्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 431; Zimmer, p. 321; Griffith, i. 305; Bloomfield, 109, 5
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/01_pratno_hi.md">
 <details open><summary><h3>०१ प्रत्नो हि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as H
 </div>
 
 ## ०२ ज्येष्ठघ्न्यां जातो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज्ये॑ष्ठ॒घ्न्यां जा॒तो वि॒चृतो॑र्य॒मस्य॑ मूल॒बर्ह॑णा॒त्परि॑ पाह्येनम्।  
 अत्ये॑नं नेषद्दुरि॒तानि॒ विश्वा॑ दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Yea, ancient, meet for praise at sacrifices, ever and now thou sittest down as H
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/02_jyeShThaghnyAM_jAto.md">
 <details open><summary><h3>०२ ज्येष्ठघ्न्यां जातो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him f
 </div>
 
 ## ०३ व्याघ्रेऽह्न्यजनिष्ट वीरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्या॒घ्रेऽह्न्य॑जनिष्ट वी॒रो न॑क्षत्र॒जा जाय॑मानः सु॒वीरः॑।  
 स मा व॑धीत्पि॒तरं॒ वर्ध॑मानो॒ मा मा॒तरं॒ प्र मि॑नी॒ज्जनि॑त्रीम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Neath Jyaishthaghni and Yama's Two Releasers this child was born: preserve him f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/110_dIrghAyuH_prAptiH/03_vyAghre-hnyajaniShTa_vIro.md">
 <details open><summary><h3>०३ व्याघ्रेऽह्न्यजनिष्ट वीरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

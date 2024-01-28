@@ -2,7 +2,7 @@
 title = "०३६ सत्यौजा अग्निः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/_index.md">
 <details open><summary><h2>०३६ सत्यौजा अग्निः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against fiends, human enemies, and other pests
 </div>
 
 ## ०१ तान्त्सत्यौजाः प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तान्त्स॒त्यौजाः॒ प्र द॑हत्व॒ग्निर्वै॑श्वान॒रो वृषा॑।  
 यो नो॑ दुर॒स्याद्दिप्सा॒च्चाथो॒ यो नो॑ अराति॒यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against fiends, human enemies, and other pests
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/01_tAntsatyaujAH_pra.md">
 <details open><summary><h3>०१ तान्त्सत्यौजाः प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who
 </div>
 
 ## ०२ यो नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/02_yo_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/02_yo_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नो॑ दि॒प्सददि॑प्सतो॒ दिप्स॑तो॒ यश्च॒ दिप्स॑ति।  
 वै॑श्वान॒रस्य॒ दंष्ट्र॑योर॒ग्नेरपि॑ दधामि॒ तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/02_yo_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/02_yo_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Endowed with true strength, let the Bull, Agni Vaisvanara, burn them up. Him who
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/02_yo_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/02_yo_no.md">
 <details open><summary><h3>०२ यो नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay
 </div>
 
 ## ०३ य आगरे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/03_ya_Agare.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/03_ya_Agare.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आ॑ग॒रे मृ॒गय॑न्ते प्रतिक्रो॒शेऽमा॑वा॒स्ये॑।  
 क्र॒व्यादो॑ अ॒न्यान्दिप्स॑तः॒ सर्वां॒स्तान्त्सह॑सा सहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/03_ya_Agare.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/03_ya_Agare.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Him who, unharmed, would injure us, and him who, harmed, would do us harm, I lay
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/03_ya_Agare.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/03_ya_Agare.md">
 <details open><summary><h3>०३ य आगरे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -239,14 +239,14 @@ Those who, what time the moon is dark, hunt with loud cry and answering shout, F
 </div>
 
 ## ०४ सहे पिशाचान्त्सहसैषाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सहे॑ पिशा॒चान्त्सह॒सैषां॒ द्रवि॑णं ददे।  
 सर्वा॑न्दुरस्य॒तो ह॑न्मि॒ सं म॒ आकू॑तिरृध्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -255,7 +255,7 @@ Those who, what time the moon is dark, hunt with loud cry and answering shout, F
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/04_sahe_pishAchAntsahasaiShAm.md">
 <details open><summary><h3>०४ सहे पिशाचान्त्सहसैषाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -308,14 +308,14 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 </div>
 
 ## ०५ ये देवास्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/05_ye_devAstena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/05_ye_devAstena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॒वास्तेन॒ हास॑न्ते॒ सूर्ये॑ण मिमते ज॒वम्।  
 न॒दीषु॒ पर्व॑तेषु॒ ये सं तैः प॒शुभि॑र्विदे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/05_ye_devAstena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/05_ye_devAstena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -324,7 +324,7 @@ I conquer the Pisachas with my power, and take their wealth away. All who would 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/05_ye_devAstena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/05_ye_devAstena.md">
 <details open><summary><h3>०५ ये देवास्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -380,14 +380,14 @@ With Gods who flee with him, and match their rapid motion with the Sun, I with t
 </div>
 
 ## ०६ तपनो अस्मि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/06_tapano_asmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/06_tapano_asmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तप॑नो अस्मि पिशा॒चानां॑ व्या॒घ्रो गोम॑तामिव।  
 श्वानः॑ सिं॒हमि॑व दृ॒ष्ट्वा ते न वि॑न्दन्ते॒ न्यञ्च॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/06_tapano_asmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/06_tapano_asmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -396,7 +396,7 @@ With Gods who flee with him, and match their rapid motion with the Sun, I with t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/06_tapano_asmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/06_tapano_asmi.md">
 <details open><summary><h3>०६ तपनो अस्मि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -444,14 +444,14 @@ I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs
 </div>
 
 ## ०७ न पिशाचैः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न पि॑शा॒चैः सं श॑क्नोमि॒ न स्ते॒नैर्न व॑न॒र्गुभिः॑।  
 पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ यम॒हं ग्राम॑मावि॒शे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -460,7 +460,7 @@ I trouble the Pisachas as the tiger plagues men rich in kine. They, even as dogs
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/07_na_pishAchaiH.md">
 <details open><summary><h3>०७ न पिशाचैः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -508,14 +508,14 @@ Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas 
 </div>
 
 ## ०८ यं ग्राममाविशत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं ग्राम॑मावि॒शत॑ इ॒दमु॒ग्रं सहो॒ मम॑।  
 पि॑शा॒चास्तस्मा॑न्नश्यन्ति॒ न पा॒पमुप॑ जानते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -524,7 +524,7 @@ Naught with Pisachas can I do, with thieves, with roamers of the wood. Pisachas 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/08_yaM_grAmamAvishata.md">
 <details open><summary><h3>०८ यं ग्राममाविशत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -571,14 +571,14 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 </div>
 
 ## ०९ ये मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/09_ye_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/09_ye_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये मा॑ क्रो॒धय॑न्ति लपि॒ता ह॒स्तिनं॑ म॒शका॑ इव।  
 तान॒हं म॑न्ये॒ दुर्हि॑ता॒ञ्जने॒ अल्प॑शयूनिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/09_ye_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/09_ye_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -587,7 +587,7 @@ Into whatever village this mine awful power penetrates, Thence the Pisachas flee
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/09_ye_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/09_ye_mA.md">
 <details open><summary><h3>०९ ये मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -643,14 +643,14 @@ Those who enrage me with their prate, as flies torment an elephant, I deem unhap
 </div>
 
 ## १० अभि तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/10_abhi_tam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/036_satyaujA_agniH/10_abhi_tam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि तं निरृ॑तिर्धत्ता॒मश्व॑मिवाश्वाभि॒धान्या॑।  
 म॒ल्वो यो मह्यं॒ क्रुध्य॑ति॒ स उ॒ पाशा॒न्न मु॑च्यते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/10_abhi_tam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/036_satyaujA_agniH/10_abhi_tam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -659,7 +659,7 @@ Those who enrage me with their prate, as flies torment an elephant, I deem unhap
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/10_abhi_tam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/036_satyaujA_agniH/10_abhi_tam.md">
 <details open><summary><h3>१० अभि तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

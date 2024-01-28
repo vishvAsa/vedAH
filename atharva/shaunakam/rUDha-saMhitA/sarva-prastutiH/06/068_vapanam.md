@@ -2,7 +2,7 @@
 title = "०६८ वपनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/_index.md">
 <details open><summary><h2>०६८ वपनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to accompany the shaving of the beard
 </div>
 
 ## ०१ आयमगन्त्सविता क्षुरेणोष्णेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑।  
 आ॑दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to accompany the shaving of the beard
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/01_AyamagantsavitA_xureNoShNena.md">
 <details open><summary><h3>०१ आयमगन्त्सविता क्षुरेणोष्णेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 </div>
 
 ## ०२ अदितिः श्मश्रु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/02_aditiH_shmashru.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/02_aditiH_shmashru.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा।  
 चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/02_aditiH_shmashru.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/02_aditiH_shmashru.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Savitar hath come hither with the razor: come thou, O Vayu, with the heated wate
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/02_aditiH_shmashru.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/02_aditiH_shmashru.md">
 <details open><summary><h3>०२ अदितिः श्मश्रु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 </div>
 
 ## ०३ येनावपत्सविता क्षुरेण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येनाव॑पत्सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्।  
 तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Let Aditi shave the beard, and let the Waters bathe it with their strength: Praj
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/068_vapanam/03_yenAvapatsavitA_xureNa.md">
 <details open><summary><h3>०३ येनावपत्सविता क्षुरेण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

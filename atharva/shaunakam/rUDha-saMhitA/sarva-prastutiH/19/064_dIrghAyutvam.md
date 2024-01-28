@@ -2,7 +2,7 @@
 title = "०६४ दीर्घायुत्वम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/_index.md">
 <details open><summary><h2>०६४ दीर्घायुत्वम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Agni for children, long life, and various blessings
 </div>
 
 ## ०१ अग्ने समिधमाहार्षम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे।  
 स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Agni for children, long life, and various blessings
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/01_agne_samidhamAhArSham.md">
 <details open><summary><h3>०१ अग्ने समिधमाहार्षम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all
 </div>
 
 ## ०२ इध्मेन त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि।  
 तथा॒ त्वम॒स्मान्व॑र्धय प्र॒जया॑ च॒ धने॑न च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/02_idhmena_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/02_idhmena_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ For lofty Jatavedas I have brought the fuel hither first. May he who knoweth all
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/02_idhmena_tvA.md">
 <details open><summary><h3>०२ इध्मेन त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou stren
 </div>
 
 ## ०३ यदग्ने यानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑।  
 सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/03_yadagne_yAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/03_yadagne_yAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ With fuel and with flaming wood we, Jatavedas, strengthen thee; So do thou stren
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/03_yadagne_yAni.md">
 <details open><summary><h3>०३ यदग्ने यानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -245,14 +245,14 @@ Whatever even be the logs which, Agni, we lay down for thee, propitious be it al
 </div>
 
 ## ०४ एतास्ते अग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/04_etAste_agne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/064_dIrghAyutvam/04_etAste_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद्भ॑व।  
 आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्या᳡य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/04_etAste_agne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/064_dIrghAyutvam/04_etAste_agne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -261,7 +261,7 @@ Whatever even be the logs which, Agni, we lay down for thee, propitious be it al
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/04_etAste_agne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/064_dIrghAyutvam/04_etAste_agne.md">
 <details open><summary><h3>०४ एतास्ते अग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

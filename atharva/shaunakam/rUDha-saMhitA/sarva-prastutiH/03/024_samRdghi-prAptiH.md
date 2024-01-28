@@ -2,7 +2,7 @@
 title = "०२४ समृद्घि-प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/_index.md">
 <details open><summary><h2>०२४ समृद्घि-प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A song of harvest
 </div>
 
 ## ०१ पयस्वतीरोषधयः पयस्वन्मामकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑।  
 अथो॒ पय॑स्वतीना॒मा भ॑रे॒ऽहं स॑हस्र॒शः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A song of harvest
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/01_payasvatIroShadhayaH_payasvanmAmakam.md">
 <details open><summary><h3>०१ पयस्वतीरोषधयः पयस्वन्मामकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 </div>
 
 ## ०२ वेदाहं पयस्वन्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वेदा॒हं पय॑स्वन्तं च॒कार॑ धा॒न्यं॑ ब॒हु।  
 सं॒भृत्वा॒ नाम॒ यो दे॒वस्तं व॒यं ह॑वामहे॒ योयो॒ अय॑ज्वनो गृ॒हे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ The plants of earth are rich in milk, and rich in milk is this my word, So from 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/02_vedAhaM_payasvantam.md">
 <details open><summary><h3>०२ वेदाहं पयस्वन्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 </div>
 
 ## ०३ इमा याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मा याः पञ्च॑ प्र॒दिशो॑ मान॒वीः पञ्च॑ कृ॒ष्टयः॑।  
 वृ॒ष्टे शापं॑ न॒दीरि॑वे॒ह स्फा॒तिं स॒माव॑हान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/03_imA_yAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/03_imA_yAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Him who is rich in milk I know. Abundant hath he made our corn. The God whose na
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/03_imA_yAH.md">
 <details open><summary><h3>०३ इमा याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -235,14 +235,14 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 </div>
 
 ## ०४ उदुत्सं शतधारम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदुत्सं॑ श॒तधा॑रं स॒हस्र॑धार॒मक्षि॑तम्।  
 ए॒वास्माके॒दं धा॒न्यं॑ स॒हस्र॑धार॒मक्षि॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -251,7 +251,7 @@ All the five regions of the heavens, all the five races of man- kind, As after r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/04_udutsaM_shatadhAram.md">
 <details open><summary><h3>०४ उदुत्सं शतधारम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -306,14 +306,14 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 </div>
 
 ## ०५ शतहस्त समाहर
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शत॑हस्त स॒माह॑र॒ सह॑स्रहस्त॒ सं कि॑र।  
 कृ॒तस्य॑ का॒र्य॑स्य चे॒ह स्फा॒तिं स॒माव॑ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -322,7 +322,7 @@ Open the well with hundred streams, exhaustless, with a thousand streams. So cau
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/05_shatahasta_samAhara.md">
 <details open><summary><h3>०५ शतहस्त समाहर ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -373,14 +373,14 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 </div>
 
 ## ०६ तिस्रो मात्रा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒स्रो मात्रा॑ गन्ध॒र्वाणां॒ चत॑स्रो गृ॒हप॑त्न्याः।  
 तासां॒ या स्फा॒ति॒मत्त॑मा॒ तया॑ त्वा॒भि मृ॑शामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -389,7 +389,7 @@ O Hundred-handed, gather up. O Thousand-handed, pour thou forth. Bring hither in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/06_tisro_mAtrA.md">
 <details open><summary><h3>०६ तिस्रो मात्रा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -441,14 +441,14 @@ Three sheaves are the Gandharvas' claim, the lady of the house hath four. We tou
 </div>
 
 ## ०७ उपोहश्च समूहश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑पो॒हश्च॑ समू॒हश्च॑ क्ष॒त्तारौ॑ ते प्रजापते।  
 तावि॒हा व॑हतां स्फा॒तिं ब॒हुं भू॒मान॒मक्षि॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -457,7 +457,7 @@ Three sheaves are the Gandharvas' claim, the lady of the house hath four. We tou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/024_samRdghi-prAptiH/07_upohashcha_samUhashcha.md">
 <details open><summary><h3>०७ उपोहश्च समूहश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

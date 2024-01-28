@@ -2,7 +2,7 @@
 title = "०२९ रक्षोघ्नम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/_index.md">
 <details open><summary><h2>०२९ रक्षोघ्नम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the destruction of malignant goblins
 </div>
 
 ## ०१ पुरस्ताद्युक्तो वह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/01_purastAdyukto_vaha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/01_purastAdyukto_vaha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॒रस्ता॑द्यु॒क्तो व॑ह जातवे॒दोऽग्ने॑ वि॒द्धि क्रि॒यमा॑णं॒ यथे॒दम्।  
 त्वं भि॒षग्भे॑ष॒जस्या॑सि क॒र्ता त्वया॒ गामश्वं॒ पुरु॑षं सनेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/01_purastAdyukto_vaha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/01_purastAdyukto_vaha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the destruction of malignant goblins
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/01_purastAdyukto_vaha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/01_purastAdyukto_vaha.md">
 <details open><summary><h3>०१ पुरस्ताद्युक्तो वह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Made ready in the east drive forth, take notice of what is hap- pening here, omn
 </div>
 
 ## ०२ तथा तदग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/02_tathA_tadagne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/02_tathA_tadagne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तथा॒ तद॑ग्ने कृणु जातवेदो॒ विश्वे॑भिर्दे॒वैः स॒ह सं॑विदा॒नः।  
 यो नो॑ दि॒देव॑ यत॒मो ज॒घास॒ यथा॒ सो अ॒स्य प॑रि॒धिष्पता॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/02_tathA_tadagne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/02_tathA_tadagne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Made ready in the east drive forth, take notice of what is hap- pening here, omn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/02_tathA_tadagne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/02_tathA_tadagne.md">
 <details open><summary><h3>०२ तथा तदग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Accordant with all Gods, O Jatavedas Agni, perform this work as we beseech thee,
 </div>
 
 ## ०३ यथा सो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/03_yathA_so.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/03_yathA_so.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सो अ॒स्य प॑रि॒धिष्पता॑ति॒ तथा॒ तद॑ग्ने कृणु जातवेदः।  
 विश्वे॑भिर्दे॒वैः स॒ह सं॑विदा॒नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/03_yathA_so.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/03_yathA_so.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Accordant with all Gods, O Jatavedas Agni, perform this work as we beseech thee,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/03_yathA_so.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/03_yathA_so.md">
 <details open><summary><h3>०३ यथा सो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -235,14 +235,14 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 </div>
 
 ## ०४ अक्ष्यौ नि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/04_axyau_ni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/04_axyau_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒क्ष्यौ॒३॒॑ नि वि॑ध्य॒ हृद॑यं॒ नि वि॑ध्य जि॒ह्वां नि तृ॑न्द्धि॒ प्र द॒तो मृ॑णीहि।  
 पि॑शा॒चो अ॒स्य य॑त॒मो ज॒घासाग्ने॑ यविष्ठ॒ प्रति॑ तं शृणीहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/04_axyau_ni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/04_axyau_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -251,7 +251,7 @@ Unanimous, with all the Gods together, so do this thing O Agni Jatavedas, that t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/04_axyau_ni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/04_axyau_ni.md">
 <details open><summary><h3>०४ अक्ष्यौ नि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -300,14 +300,14 @@ Pierce both his eyes, pierce thou the heart within him, crush thou his teeth and
 </div>
 
 ## ०५ यदस्य हृतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/05_yadasya_hRtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/05_yadasya_hRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑स्य हृ॒तं विहृ॑तं॒ यत्परा॑भृतमा॒त्मनो॑ ज॒ग्धं य॑त॒मत्पि॑शा॒चैः।  
 तद॑ग्ने वि॒द्वान्पुन॒रा भ॑र॒ त्वं शरी॑रे मां॒समसु॒मेर॑यामः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/05_yadasya_hRtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/05_yadasya_hRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -316,7 +316,7 @@ Pierce both his eyes, pierce thou the heart within him, crush thou his teeth and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/05_yadasya_hRtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/05_yadasya_hRtam.md">
 <details open><summary><h3>०५ यदस्य हृतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -365,14 +365,14 @@ Whatever of his body hath been taken, plundered, borne off, or eaten by Pisachas
 </div>
 
 ## ०६ आमे सुपक्वे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/06_Ame_supakve.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/06_Ame_supakve.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒मे सुप॑क्वे श॒बले॒ विप॑क्वे॒ यो मा॑ पिशा॒चो अश॑ने द॒दम्भ॑।  
 तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो३॒॑यम॑स्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/06_Ame_supakve.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/06_Ame_supakve.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -381,7 +381,7 @@ Whatever of his body hath been taken, plundered, borne off, or eaten by Pisachas
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/06_Ame_supakve.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/06_Ame_supakve.md">
 <details open><summary><h3>०६ आमे सुपक्वे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -432,14 +432,14 @@ If some Pisacha in my food raw, ready, thoroughly cooked, or, spotty, hath decei
 </div>
 
 ## ०७ क्षीरे मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/07_xIre_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/07_xIre_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्षी॒रे मा॑ म॒न्थे य॑त॒मो द॒दम्भा॑कृष्टप॒च्ये अश॑ने धा॒न्ये॒३॒॑ यः।  
 तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३॒॑यम॑स्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/07_xIre_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/07_xIre_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -448,7 +448,7 @@ If some Pisacha in my food raw, ready, thoroughly cooked, or, spotty, hath decei
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/07_xIre_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/07_xIre_mA.md">
 <details open><summary><h3>०७ क्षीरे मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -495,14 +495,14 @@ If one hath cheated me in milk or porridge, in food from grain or plants that ne
 </div>
 
 ## ०८ अपां मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/08_apAM_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/08_apAM_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पां मा॒ पाने॑ यत॒मो द॒दम्भ॑ क्र॒व्याद्या॑तू॒नां शय॑ने॒ शया॑नम्।  
 तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३॒॑यम॑स्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/08_apAM_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/08_apAM_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -511,7 +511,7 @@ If one hath cheated me in milk or porridge, in food from grain or plants that ne
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/08_apAM_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/08_apAM_mA.md">
 <details open><summary><h3>०८ अपां मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -549,14 +549,14 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 </div>
 
 ## ०९ दिवा मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/09_divA_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/09_divA_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिवा॑ मा॒ नक्तं॑ यत॒मो द॒दम्भ॑ क्र॒व्याद्या॑तू॒नां शय॑ने॒ शया॑नम्।  
 तदा॒त्मना॑ प्र॒जया॑ पिशा॒चा वि या॑तयन्तामग॒दो॒३॒॑यम॑स्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/09_divA_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/09_divA_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -565,7 +565,7 @@ If one, flesh eater, in a draught of water have wronged me lying in the bed of g
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/09_divA_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/09_divA_mA.md">
 <details open><summary><h3>०९ दिवा मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -614,14 +614,14 @@ If one, flesh-eater, in the day or night-time have wronged me lying in the bed o
 </div>
 
 ## १० क्रव्यादमग्ने रुधिरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्र॒व्याद॑मग्ने रुधि॒रं पि॑शा॒चं म॑नो॒हनं॑ जहि जातवेदः।  
 तमिन्द्रो॑ वा॒जी वज्रे॑ण हन्तु छि॒नत्तु॒ सोमः॒ शिरो॑ अस्य धृ॒ष्णुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -630,7 +630,7 @@ If one, flesh-eater, in the day or night-time have wronged me lying in the bed o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/10_kravyAdamagne_rudhiram.md">
 <details open><summary><h3>१० क्रव्यादमग्ने रुधिरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -679,14 +679,14 @@ O Agni Jatavedas, slay the bloody Pisacha, flesh-devourer, mind- destroyer, Stro
 </div>
 
 ## ११ सनादग्ने मृणसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒नाद॑ग्ने मृणसि यातु॒धाना॒न्न त्वा॒ रक्षां॑सि॒ पृत॑नासु जिग्युः।  
 स॒हमू॑रा॒ननु॑ दह क्र॒व्यादो॒ मा ते॑ हे॒त्या मु॑क्षत॒ दैव्या॑याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -695,7 +695,7 @@ O Agni Jatavedas, slay the bloody Pisacha, flesh-devourer, mind- destroyer, Stro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/11_sanAdagne_mRNasi.md">
 <details open><summary><h3>११ सनादग्ने मृणसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -743,14 +743,14 @@ Thou, Agni, ever slayest Yatudhanas, the fiends have never con- quered thee in b
 </div>
 
 ## १२ समाहर जातवेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/12_samAhara_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/12_samAhara_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒माह॑र जातवेदो॒ यद्धृ॒तं यत्परा॑भृतम्।  
 गात्रा॑ण्यस्य वर्धन्तामं॒शुरि॒वा प्या॑यताम॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/12_samAhara_jAtavedo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/12_samAhara_jAtavedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -759,7 +759,7 @@ Thou, Agni, ever slayest Yatudhanas, the fiends have never con- quered thee in b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/12_samAhara_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/12_samAhara_jAtavedo.md">
 <details open><summary><h3>१२ समाहर जातवेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -806,14 +806,14 @@ Collect, O Jatavedas, what hath been removed and borne away. Let this man's memb
 </div>
 
 ## १३ सोमस्येव जातवेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोम॑स्येव जातवेदो अं॒शुरा प्या॑यताम॒यम्।  
 अग्ने॑ विर॒प्शिनं॒ मेध्य॑मय॒क्ष्मं कृ॑णु॒ जीव॑तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -822,7 +822,7 @@ Collect, O Jatavedas, what hath been removed and borne away. Let this man's memb
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/13_somasyeva_jAtavedo.md">
 <details open><summary><h3>१३ सोमस्येव जातवेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -871,14 +871,14 @@ Like as the Soma's tendril, thus, O Jatavedas let him swell, Let him live, Agni 
 </div>
 
 ## १४ एतास्ते अग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/14_etAste_agne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/14_etAste_agne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तास्ते॑ अग्ने स॒मिधः॑ पिशाच॒जम्भ॑नीः।  
 तास्त्वं जु॑षस्व॒ प्रति॑ चैना गृहाण जातवेदः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/14_etAste_agne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/14_etAste_agne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -887,7 +887,7 @@ Like as the Soma's tendril, thus, O Jatavedas let him swell, Let him live, Agni 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/14_etAste_agne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/14_etAste_agne.md">
 <details open><summary><h3>१४ एतास्ते अग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -935,14 +935,14 @@ Here, Agni, is the fuel, here are logs that crush Pisachas down. O Jatavedas, wi
 </div>
 
 ## १५ तार्ष्टाघीरग्ने समिधः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ता॑र्ष्टा॒घीर॑ग्ने स॒मिधः॒ प्रति॑ गृह्णाह्य॒र्चिषा॑।  
 जहा॑तु क्र॒व्याद्रू॒पं यो अ॑स्य मां॒सं जिही॑र्षति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -951,7 +951,7 @@ Here, Agni, is the fuel, here are logs that crush Pisachas down. O Jatavedas, wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/029_raxoghnam/15_tArShTAghIragne_samidhaH.md">
 <details open><summary><h3>१५ तार्ष्टाघीरग्ने समिधः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

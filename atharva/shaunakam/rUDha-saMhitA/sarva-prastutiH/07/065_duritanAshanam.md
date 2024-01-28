@@ -2,7 +2,7 @@
 title = "०६५ दुरितनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/_index.md">
 <details open><summary><h2>०६५ दुरितनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against imprecation and threatened evils
 </div>
 
 ## ०१ प्रतीचीनफलो हि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ।  
 सर्वा॒न्मच्छ॒पथाँ॒ अधि॒ वरी॑यो यावया इ॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against imprecation and threatened evils
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/01_pratIchInaphalo_hi.md">
 <details open><summary><h3>०१ प्रतीचीनफलो हि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into dista
 </div>
 
 ## ०२ यद्दुष्कृतं यच्छमलम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्दु॑ष्कृ॒तं यच्छम॑लं॒ यद्वा॑ चेरिम पा॒पया॑।  
 त्वया॒ तद्वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ With retroverted fruit hast thou, O Apamarga, sprung and grown. Hence into dista
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/02_yadduShkRtaM_yachChamalam.md">
 <details open><summary><h3>०२ यद्दुष्कृतं यच्छमलम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, 
 </div>
 
 ## ०३ श्यावदता कुनखिना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत्स॒हासि॒म।  
 अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Whatever evil we have done, whatever vile or sinful act, With thee, O Apamarga, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/065_duritanAshanam/03_shyAvadatA_kunakhinA.md">
 <details open><summary><h3>०३ श्यावदता कुनखिना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

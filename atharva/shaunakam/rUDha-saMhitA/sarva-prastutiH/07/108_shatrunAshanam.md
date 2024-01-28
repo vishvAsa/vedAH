@@ -2,7 +2,7 @@
 title = "१०८ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/_index.md">
 <details open><summary><h2>१०८ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 </div>
 
 ## ०१ यो नस्तायद्दिप्सति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो न॑स्ता॒यद्दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने।  
 प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान्मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 517; Henry, 42, 118; Griffith, i. 380.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/01_yo_nastAyaddipsati.md">
 <details open><summary><h3>०१ यो नस्तायद्दिप्सति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 </div>
 
 ## ०२ यो नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/02_yo_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/108_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नः॑ सु॒प्ताञ्जाग्र॑तो वाभि॒दासा॒त्तिष्ठ॑तो वा॒ चर॑तो जातवेदः।  
 वै॑श्वान॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान्प्र॒तीचो॒ निर्द॑ह जातवेदः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/02_yo_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/108_shatrunAshanam/02_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ Whoso by stealth or openly would harm us, a friend who knows us, or a stranger, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/02_yo_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/108_shatrunAshanam/02_yo_naH.md">
 <details open><summary><h3>०२ यो नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

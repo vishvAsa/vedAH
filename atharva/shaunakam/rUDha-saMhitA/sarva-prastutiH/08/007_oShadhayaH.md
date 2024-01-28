@@ -2,7 +2,7 @@
 title = "००७ ओषधयः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/_index.md">
 <details open><summary><h2>००७ ओषधयः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -39,14 +39,14 @@ A charm to restore a sick man to health
 </div>
 
 ## ०१ या बभ्रवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/01_yA_babhravo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/01_yA_babhravo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या ब॒भ्रवो॒ याश्च॑ शु॒क्रा रोहि॑णीरु॒त पृश्न॑यः।  
 असि॑क्नीः कृ॒ष्णा ओष॑धीः॒ सर्वा॑ अ॒च्छाव॑दामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/01_yA_babhravo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/01_yA_babhravo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -55,7 +55,7 @@ A charm to restore a sick man to health
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/01_yA_babhravo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/01_yA_babhravo.md">
 <details open><summary><h3>०१ या बभ्रवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, 
 </div>
 
 ## ०२ त्रायन्तामिमं पुरुषम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्राय॑न्तामि॒मं पुरु॑षं॒ यक्ष्मा॑द्दे॒वेषि॑ता॒दधि॑।  
 यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ The tawny-coloured, and the pale, the variegated and the red, The dusky-tinted, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/02_trAyantAmimaM_puruSham.md">
 <details open><summary><h3>०२ त्रायन्तामिमं पुरुषम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ This man let them deliver from Consumption which the Gods have sent. The father 
 </div>
 
 ## ०३ आपो अग्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/03_Apo_agram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/03_Apo_agram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॒ अग्रं॑ दि॒व्या ओष॑धयः।  
 तास्ते॒ यक्ष्म॑मेन॒स्य१॒॑मङ्गा॑दङ्गादनीनशन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/03_Apo_agram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/03_Apo_agram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ This man let them deliver from Consumption which the Gods have sent. The father 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/03_Apo_agram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/03_Apo_agram.md">
 <details open><summary><h3>०३ आपो अग्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 </div>
 
 ## ०४ प्रस्तृणती स्तम्बिनीरेकशुङ्गाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑स्तृण॒ती स्त॒म्बिनी॒रेक॑शुङ्गाः प्रतन्व॒तीरोष॑धी॒रा व॑दामि।  
 अं॑शु॒मतीः॑ का॒ण्डिनी॒र्या विशा॑खा॒ ह्वया॑मि ते वी॒रुधो॑ वैश्वदे॒वीरु॒ग्राः पु॑रुष॒जीव॑नीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ The Waters are the best, and heavenly Plants. From every limb of thine have they
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/04_prastRNatI_stambinIrekashungAH.md">
 <details open><summary><h3>०४ प्रस्तृणती स्तम्बिनीरेकशुङ्गाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -296,14 +296,14 @@ I speak to Healing Herbs spreading, and bushy, to creepers, and to those whose s
 </div>
 
 ## ०५ यद्वः सहः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/05_yadvaH_sahaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/05_yadvaH_sahaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वः॒ सहः॑ सहमाना वी॒र्यं१॒॑ यच्च॑ वो॒ बल॑म्।  
 तेने॒मम॒स्माद्यक्ष्मा॒त्पुरु॑षं मुञ्चतौषधी॒रथो॑ कृणोमि भेष॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/05_yadvaH_sahaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/05_yadvaH_sahaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -312,7 +312,7 @@ I speak to Healing Herbs spreading, and bushy, to creepers, and to those whose s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/05_yadvaH_sahaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/05_yadvaH_sahaH.md">
 <details open><summary><h3>०५ यद्वः सहः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -359,14 +359,14 @@ The conquering strength, the power and might which ye, victo- rious Plants, poss
 </div>
 
 ## ०६ जीवलां नघारिषाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जी॑व॒लां न॑घारि॒षां जी॑व॒न्तीमोष॑धीम॒हम्।  
 अ॑रुन्ध॒तीमु॒न्नय॑न्तीं पु॒ष्पां मधु॑मतीमि॒ह हु॑वे॒ऽस्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -375,7 +375,7 @@ The conquering strength, the power and might which ye, victo- rious Plants, poss
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/06_jIvalAM_naghAriShAm.md">
 <details open><summary><h3>०६ जीवलां नघारिषाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -428,14 +428,14 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 </div>
 
 ## ०७ इहा यन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/07_ihA_yantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/07_ihA_yantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हा य॑न्तु॒ प्रचे॑तसो मे॒दिनी॒र्वच॑सो॒ मम॑।  
 यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/07_ihA_yantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/07_ihA_yantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -444,7 +444,7 @@ The living Plant that giveth life, that driveth malady away, Arundhatr, the resc
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/07_ihA_yantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/07_ihA_yantu.md">
 <details open><summary><h3>०७ इहा यन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -491,14 +491,14 @@ Hitherward let the sapient come, the friendly sharers o f my speech. That we may
 </div>
 
 ## ०८ अग्नेर्घासो अपाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/08_agnerghAso_apAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/08_agnerghAso_apAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्नेर्घा॒सो अ॒पां गर्भो॒ या रोह॑न्ति॒ पुन॑र्णवाः।  
 ध्रु॒वाः स॒हस्र॑ना॒म्नीर्भे॑ष॒जीः स॒न्त्वाभृ॑ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/08_agnerghAso_apAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/08_agnerghAso_apAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -507,7 +507,7 @@ Hitherward let the sapient come, the friendly sharers o f my speech. That we may
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/08_agnerghAso_apAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/08_agnerghAso_apAm.md">
 <details open><summary><h3>०८ अग्नेर्घासो अपाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -552,14 +552,14 @@ Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healin
 </div>
 
 ## ०९ अवकोल्बा उदकात्मान
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒वको॑ल्बा उ॒दका॑त्मान॒ ओष॑धयः।  
 व्यृ᳡षन्तु दुरि॒तं ती॑क्ष्णशृ॒ङ्ग्यः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -568,7 +568,7 @@ Germ of the Waters, Agni's food, Plants ever growing fresh and new, Sure, healin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/09_avakolbA_udakAtmAna.md">
 <details open><summary><h3>०९ अवकोल्बा उदकात्मान ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -614,14 +614,14 @@ Let Plants whose soul is water, girt with Avakas, piercing with their sharp horn
 </div>
 
 ## १० उन्मुञ्चन्तीर्विवरुणा उग्रा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑न्मु॒ञ्चन्ती॑र्विवरु॒णा उ॒ग्रा या वि॑ष॒दूष॑णीः।  
 अथो॑ बलास॒नाश॑नीः कृत्या॒दूष॑णीश्च॒ यास्ता इ॒हा य॒न्त्वोष॑धीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -630,7 +630,7 @@ Let Plants whose soul is water, girt with Avakas, piercing with their sharp horn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/10_unmunchantIrvivaruNA_ugrA.md">
 <details open><summary><h3>१० उन्मुञ्चन्तीर्विवरुणा उग्रा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -680,14 +680,14 @@ Strong, antidotes of poison, those releasers, free from Varuna, And those that d
 </div>
 
 ## ११ अपक्रीताः सहीयसीर्वीरुधो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अपक्री॒ताः सही॑यसीर्वी॒रुधो॒ या अ॒भिष्टु॑ताः।  
 त्राय॑न्ताम॒स्मिन्ग्रामे॒ गामश्वं॒ पुरु॑षं प॒शुम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -696,7 +696,7 @@ Strong, antidotes of poison, those releasers, free from Varuna, And those that d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/11_apakrItAH_sahIyasIrvIrudho.md">
 <details open><summary><h3>११ अपक्रीताः सहीयसीर्वीरुधो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -743,14 +743,14 @@ Let purchased Plants of mightier power, Plants that are praised for excellence. 
 </div>
 
 ## १२ मधुमन्मूलं मधुमदग्रमासाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मधु॑म॒न्मूलं॒ मधु॑म॒दग्र॑मासां॒ मधु॑म॒न्मध्यं॑ वी॒रुधां॑ बभूव।  
 मधु॑मत्प॒र्णं मधु॑म॒त्पुष्प॑मासां॒ मधोः॒ सम्भ॑क्ता अ॒मृत॑स्य भ॒क्षो घृ॒तमन्नं॑ दुह्रतां॒ गोपु॑रोगवम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -759,7 +759,7 @@ Let purchased Plants of mightier power, Plants that are praised for excellence. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/12_madhumanmUlaM_madhumadagramAsAm.md">
 <details open><summary><h3>१२ मधुमन्मूलं मधुमदग्रमासाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -810,14 +810,14 @@ Sweet is their root, sweet are these Plants' top branches, sweet also is their i
 </div>
 
 ## १३ यावतीः कियतीश्चेमाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याव॑तीः॒ किय॑तीश्चे॒माः पृ॑थि॒व्यामध्योष॑धीः।  
 ता मा॑ सहस्रप॒र्ण्यो᳡ मृ॒त्योर्मु॑ञ्च॒न्त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -826,7 +826,7 @@ Sweet is their root, sweet are these Plants' top branches, sweet also is their i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/13_yAvatIH_kiyatIshchemAH.md">
 <details open><summary><h3>१३ यावतीः कियतीश्चेमाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -874,14 +874,14 @@ These Plants that grow upon the earth, whate'er their number and their size, Let
 </div>
 
 ## १४ वैयाघ्रो मणिर्वीरुधाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वैया॑घ्रो म॒णिर्वी॒रुधां॒ त्राय॑माणोऽभिशस्ति॒पाः।  
 अमी॑वाः॒ सर्वा॒ रक्षां॒स्यप॑ ह॒न्त्वधि॑ दू॒रम॒स्मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -890,7 +890,7 @@ These Plants that grow upon the earth, whate'er their number and their size, Let
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/14_vaiyAghro_maNirvIrudhAm.md">
 <details open><summary><h3>१४ वैयाघ्रो मणिर्वीरुधाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -938,14 +938,14 @@ May the Plants' Tiger-amulet, protective, guardian from the curse, Beat off the 
 </div>
 
 ## १५ सिंहस्येव स्तनथोः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सिंह॑स्येव स्त॒नथोः॒ सं वि॑जन्ते॒ऽग्नेरि॑व विजन्ते॒ आभृ॑ताभ्यः।  
 गवां॒ यक्ष्मः॒ पुरु॑षाणां वी॒रुद्भि॒रति॑नुत्तो ना॒व्या᳡ एतु स्रो॒त्याः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -954,7 +954,7 @@ May the Plants' Tiger-amulet, protective, guardian from the curse, Beat off the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/15_siMhasyeva_stanathoH.md">
 <details open><summary><h3>१५ सिंहस्येव स्तनथोः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1004,14 +1004,14 @@ Before the gathered Plants they fly and scatter, as though a lion's roar or fire
 </div>
 
 ## १६ मुमुचाना ओषधयोऽग्नेर्वैश्वानरादधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मु॑मुचा॒ना ओष॑धयो॒ऽग्नेर्वै॑श्वान॒रादधि॑।  
 भूमिं॑ सन्तन्व॒तीरि॑त॒ यासां॒ राजा॒ वन॒स्पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1020,7 +1020,7 @@ Before the gathered Plants they fly and scatter, as though a lion's roar or fire
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/16_mumuchAnA_oShadhayo-gnervaishvAnarAdadhi.md">
 <details open><summary><h3>१६ मुमुचाना ओषधयोऽग्नेर्वैश्वानरादधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1066,14 +1066,14 @@ Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Pla
 </div>
 
 ## १७ या रोहन्त्याङ्गिरसीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या रोह॑न्त्याङ्गिर॒सीः पर्व॑तेषु स॒मेषु॑ च।  
 ता नः॒ पय॑स्वतीः शि॒वा ओष॑धीः सन्तु॒ शं हृ॒दे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1082,7 +1082,7 @@ Emancipated from the sway of Agni, of Vaisvanara, go, covering the earth, ye Pla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/17_yA_rohantyAngirasIH.md">
 <details open><summary><h3>१७ या रोहन्त्याङ्गिरसीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1130,14 +1130,14 @@ May these be pleasant to our heart, auspicious, rich in store of milk, These Pla
 </div>
 
 ## १८ याश्चाहं वेद
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याश्चा॒हं वेद॑ वी॒रुधो॒ याश्च॒ पश्या॑मि॒ चक्षु॑षा।  
 अज्ञा॑ता जानी॒मश्च॒ या यासु॑ वि॒द्म च॒ संभृ॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1146,7 +1146,7 @@ May these be pleasant to our heart, auspicious, rich in store of milk, These Pla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/18_yAshchAhaM_veda.md">
 <details open><summary><h3>१८ याश्चाहं वेद ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1196,14 +1196,14 @@ The Plants I know myself, the plants that with mine eye I look upon, Plants yet 
 </div>
 
 ## १९ सर्वाः समग्रा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/19_sarvAH_samagrA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/19_sarvAH_samagrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वाः॑ सम॒ग्रा ओष॑धी॒र्बोध॑न्तु॒ वच॑सो॒ मम॑।  
 यथे॒मं पा॒रया॑मसि॒ पुरु॑षं दुरि॒तादधि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/19_sarvAH_samagrA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/19_sarvAH_samagrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1212,7 +1212,7 @@ The Plants I know myself, the plants that with mine eye I look upon, Plants yet 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/19_sarvAH_samagrA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/19_sarvAH_samagrA.md">
 <details open><summary><h3>१९ सर्वाः समग्रा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1259,14 +1259,14 @@ Let all the congregated Plants attend and mark mine utterance, That we may rescu
 </div>
 
 ## २० अश्वत्थो दर्भो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/20_ashvattho_darbho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/20_ashvattho_darbho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्व॒त्थो द॒र्भो वी॒रुधां॒ सोमो॒ राजा॒मृतं॑ ह॒विः।  
 व्री॒हिर्यव॑श्च भेष॒जौ दि॒व॒स्पु॒त्रावम॑र्त्यौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/20_ashvattho_darbho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/20_ashvattho_darbho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1275,7 +1275,7 @@ Let all the congregated Plants attend and mark mine utterance, That we may rescu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/20_ashvattho_darbho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/20_ashvattho_darbho.md">
 <details open><summary><h3>२० अश्वत्थो दर्भो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1321,14 +1321,14 @@ Asvattha, Darbha, King of Plants, is Soma, deathless sacrifice Barley and Rice a
 </div>
 
 ## २१ उज्जिहीध्वे स्तनयत्यभिक्रन्दत्योषधीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उज्जि॑हीध्वे स्त॒नय॑त्यभि॒क्रन्द॑त्योषधीः।  
 य॒दा वः॑ पृश्निमातरः प॒र्जन्यो॒ रेत॒साव॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1337,7 +1337,7 @@ Asvattha, Darbha, King of Plants, is Soma, deathless sacrifice Barley and Rice a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/21_ujjihIdhve_stanayatyabhikrandatyoShadhIH.md">
 <details open><summary><h3>२१ उज्जिहीध्वे स्तनयत्यभिक्रन्दत्योषधीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1386,14 +1386,14 @@ Lift yourselves up, ye Healing Plants, loud is the thunder's crash and roar. Whe
 </div>
 
 ## २२ तस्यामृतस्येमं बलम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्या॒मृत॑स्ये॒मं बलं॒ पुरु॑षं पाययामसि।  
 अथो॑ कृणोमि भेष॒जं यथास॑च्छ॒तहा॑यनः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1402,7 +1402,7 @@ Lift yourselves up, ye Healing Plants, loud is the thunder's crash and roar. Whe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/22_tasyAmRtasyemaM_balam.md">
 <details open><summary><h3>२२ तस्यामृतस्येमं बलम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1449,14 +1449,14 @@ We give the essence of that stream of nectar of this man to drink: So I prepare 
 </div>
 
 ## २३ वराहो वेद
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/23_varAho_veda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/23_varAho_veda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व॑रा॒हो वे॑द वी॒रुधं॑ नकु॒लो वे॑द भेष॒जीम्।  
 स॒र्पा ग॑न्ध॒र्वा या वि॒दुस्ता अ॒स्मा अव॑से हुवे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/23_varAho_veda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/23_varAho_veda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1465,7 +1465,7 @@ We give the essence of that stream of nectar of this man to drink: So I prepare 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/23_varAho_veda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/23_varAho_veda.md">
 <details open><summary><h3>२३ वराहो वेद ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1514,7 +1514,7 @@ Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I cal
 </div>
 
 ## २४ याः सुपर्णा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/24_yAH_suparNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/24_yAH_suparNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याः सु॑प॒र्णा आ॑ङ्गिर॒सीर्दि॒व्या या र॒घटो॑ वि॒दुः।  
@@ -1522,7 +1522,7 @@ Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I cal
 मृ॒गा या वि॒दुरोष॑धी॒स्ता अ॒स्मा अव॑से हुवे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/24_yAH_suparNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/24_yAH_suparNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1532,7 +1532,7 @@ Well doth the wild boar know a Plant, the mungoose knows the Healing Herb. I cal
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/24_yAH_suparNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/24_yAH_suparNA.md">
 <details open><summary><h3>२४ याः सुपर्णा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1586,14 +1586,14 @@ Plants of Angirases which hawks, celestial Plants which eagles. know; Plants kno
 </div>
 
 ## २५ यावतीनामोषधीनां गावः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याव॑तीना॒मोष॑धीनां॒ गावः॑ प्रा॒श्नन्त्य॒घ्न्या याव॑तीनामजा॒वयः॑।  
 ताव॑ती॒स्तुभ्य॒मोष॑धीः॒ शर्म॒ यच्छ॒न्त्वाभृ॑ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1602,7 +1602,7 @@ Plants of Angirases which hawks, celestial Plants which eagles. know; Plants kno
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/25_yAvatInAmoShadhInAM_gAvaH.md">
 <details open><summary><h3>२५ यावतीनामोषधीनां गावः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1650,14 +1650,14 @@ The multitude of herbs whereon the Cows whom none may slaughter feed, all that a
 </div>
 
 ## २६ यावतीषु मनुष्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याव॑तीषु मनु॒ष्या᳡ भेष॒जं भि॒षजो॑ वि॒दुः।  
 ताव॑तीर्वि॒श्वभे॑षजी॒रा भ॑रामि॒ त्वाम॒भि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1666,7 +1666,7 @@ The multitude of herbs whereon the Cows whom none may slaughter feed, all that a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/26_yAvatIShu_manuShyA.md">
 <details open><summary><h3>२६ यावतीषु मनुष्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1712,14 +1712,14 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 </div>
 
 ## २७ पुष्पवतीः प्रसूमतीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुष्प॑वतीः प्र॒सूम॑तीः फ॒लिनी॑रफ॒ला उ॒त।  
 सं॑मा॒तर॑ इव दुह्राम॒स्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1728,7 +1728,7 @@ Hitherward unto thee I bring the Plants that cure all maladies, All Plants where
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/27_puShpavatIH_prasUmatIH.md">
 <details open><summary><h3>२७ पुष्पवतीः प्रसूमतीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1776,14 +1776,14 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 </div>
 
 ## २८ उत्त्वाहार्षं पञ्चशलादथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्त्वा॑हार्षं॒ पञ्च॑शला॒दथो॒ दश॑शलादु॒त।  
 अथो॒ यम॑स्य॒ पड्वी॑शा॒द्विश्व॑स्माद्देवकिल्बि॒षात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1792,7 +1792,7 @@ Let Plants with flower and Plants with bud, the fruitful and the fruitless, all,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/08/007_oShadhayaH/28_uttvAhArShaM_panchashalAdatho.md">
 <details open><summary><h3>२८ उत्त्वाहार्षं पञ्चशलादथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३४ ब्रह्मौदनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/_index.md">
 <details open><summary><h2>०३४ ब्रह्मौदनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -33,14 +33,14 @@ Glorification of the Vishtari sacrifice
 </div>
 
 ## ०१ ब्रह्मास्य शीर्षम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्मा॑स्य शी॒र्षं बृ॒हद॑स्य पृ॒ष्ठं वा॑मदे॒व्यमु॒दर॑मोद॒नस्य॑।  
 छन्दां॑सि प॒क्षौ मुख॑मस्य स॒त्यं वि॑ष्टा॒री जा॒तस्तप॑सोऽधि य॒ज्ञः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -49,7 +49,7 @@ Glorification of the Vishtari sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/01_brahmAsya_shIrSham.md">
 <details open><summary><h3>०१ ब्रह्मास्य शीर्षम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 </div>
 
 ## ०२ अनस्थाः पूताः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑न॒स्थाः पू॒ताः पव॑नेन शु॒द्धाः शुच॑यः॒ शुचि॒मपि॑ यन्ति लो॒कम्।  
 नैषां॑ शि॒श्नं प्र द॑हति जा॒तवे॑दाः स्व॒र्गे लो॒के ब॒हु स्त्रैण॑मेषाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ The head of this is prayer, its back the Brihat, Odanas's belly is the Vamadevya
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/02_anasthAH_pUtAH.md">
 <details open><summary><h3>०२ अनस्थाः पूताः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 </div>
 
 ## ०३ विष्टारिणमोदनं ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॒नव॑र्तिः सचते क॒दा च॒न।  
 आस्ते॑ य॒म उप॑ याति दे॒वान्त्सं ग॑न्ध॒र्वैर्म॑दते सो॒म्येभिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Boneless, cleansed, purified by him who cleanseth, they go res- plendent to the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/03_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>०३ विष्टारिणमोदनं ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -240,14 +240,14 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 </div>
 
 ## ०४ विष्टारिणमोदनं ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑ष्टा॒रिण॑मोद॒नं ये पच॑न्ति॒ नैना॑न्य॒मः परि॑ मुष्णाति॒ रेतः॑।  
 र॒थी ह॑ भू॒त्वा र॑थ॒यान॑ ईयते प॒क्षी ह॑ भू॒त्वाति॒ दिवः॒ समे॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -256,7 +256,7 @@ Never doth want or evil fortune visit those who prepare oblation called Vishtari
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/04_viShTAriNamodanaM_ye.md">
 <details open><summary><h3>०४ विष्टारिणमोदनं ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,7 +304,7 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 </div>
 
 ## ०५ एष यज्ञानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒ष य॒ज्ञानां॒ वित॑तो॒ वहि॑ष्ठो विष्टा॒रिणं॑ प॒क्त्वा दिव॒मा वि॑वेश।  
@@ -312,7 +312,7 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -322,7 +322,7 @@ Yama robs not of generative vigour the men who dress oblation called Vishtari. B
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/05_eSha_yajnAnAm.md">
 <details open><summary><h3>०५ एष यज्ञानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -398,14 +398,14 @@ Strongest is this, performed, of sacrifices: he hath reached heaven who hath pre
 </div>
 
 ## ०६ घृतह्रदा मधुकूलाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घृ॒तह्र॑दा॒ मधु॑कूलाः॒ सुरो॑दकाः क्षी॒रेण॑ पू॒र्णा उ॑द॒केन॑ द॒ध्ना।  
 ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -414,7 +414,7 @@ Strongest is this, performed, of sacrifices: he hath reached heaven who hath pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/06_ghRtahradA_madhukUlAH.md">
 <details open><summary><h3>०६ घृतह्रदा मधुकूलाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -469,14 +469,14 @@ Full lakes of butter with their banks of honey, flowing with wine, and milk and 
 </div>
 
 ## ०७ चतुरः कुम्भांश्चतुर्धा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 च॒तुरः॑ कु॒म्भांश्च॑तु॒र्धा द॑दामि क्षी॒रेण॑ पू॒र्णाँ उ॑द॒केन॑ द॒ध्ना।  
 ए॒तास्त्वा॒ धारा॒ उप॑ यन्तु॒ सर्वाः॑ स्व॒र्गे लो॒के मधु॑म॒त्पिन्व॑माना॒ उप॑ त्वा तिष्ठन्तु पुष्क॒रिणीः॒ सम॑न्ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -485,7 +485,7 @@ Full lakes of butter with their banks of honey, flowing with wine, and milk and 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/07_chaturaH_kumbhAMshchaturdhA.md">
 <details open><summary><h3>०७ चतुरः कुम्भांश्चतुर्धा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -536,14 +536,14 @@ I give four pitchers, in four several places, filled to the brim with milk and c
 </div>
 
 ## ०८ इममोदनं नि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/08_imamodanaM_ni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒ममो॑द॒नं नि द॑धे ब्राह्म॒णेषु॑ विष्टा॒रिणं॑ लोक॒जितं॑ स्व॒र्गम्।  
 स मे॒ मा क्षे॑ष्ट स्व॒धया॒ पिन्व॑मानो वि॒श्वरू॑पा धे॒नुः का॑म॒दुघा॑ मे अस्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/08_imamodanaM_ni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -552,7 +552,7 @@ I give four pitchers, in four several places, filled to the brim with milk and c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/08_imamodanaM_ni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/034_brahmaudanam/08_imamodanaM_ni.md">
 <details open><summary><h3>०८ इममोदनं नि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

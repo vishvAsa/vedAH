@@ -2,7 +2,7 @@
 title = "१२३ सौमनसम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/_index.md">
 <details open><summary><h2>१२३ सौमनसम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -31,14 +31,14 @@ Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 </div>
 
 ## ०१ एतं सधस्थाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/01_etaM_sadhasthAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तं स॑धस्थाः॒ परि॑ वो ददामि॒ यं शे॑व॒धिमा॒वहा॑ज्जा॒तवे॑दाः।  
 अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ति तं स्म॑ जानीत पर॒मे व्यो᳡मन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/01_etaM_sadhasthAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -47,7 +47,7 @@ Translated: Muir, v. 293 (vss. 2,4,5); Ludwig, p. 302; Griffith, i. 313.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/01_etaM_sadhasthAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/01_etaM_sadhasthAH.md">
 <details open><summary><h3>०१ एतं सधस्थाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Ye who are present, unto you I offer this treasure brought to us by Jatavedas Ha
 </div>
 
 ## ०२ जानीत स्मैनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/02_jAnIta_smainam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/02_jAnIta_smainam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जा॑नी॒त स्मै॑नं पर॒मे व्यो᳡म॒न्देवाः॒ सध॑स्था वि॒द लो॒कमत्र॑।  
 अ॑न्वाग॒न्ता यज॑मानः स्व॒स्ती᳡ष्टा॑पू॒र्तं स्म॑ कृणुता॒विर॑स्मै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/02_jAnIta_smainam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/02_jAnIta_smainam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Ye who are present, unto you I offer this treasure brought to us by Jatavedas Ha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/02_jAnIta_smainam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/02_jAnIta_smainam.md">
 <details open><summary><h3>०२ जानीत स्मैनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Do ye acknowledge him in highest heaven: ye know the world here present in assem
 </div>
 
 ## ०३ देवाः पितरः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/03_devAH_pitaraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/03_devAH_pitaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 देवाः॒ पित॑रः॒ पित॑रो॒ देवाः॑।  
 यो अस्मि॒ सो अ॑स्मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/03_devAH_pitaraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/03_devAH_pitaraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Do ye acknowledge him in highest heaven: ye know the world here present in assem
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/03_devAH_pitaraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/03_devAH_pitaraH.md">
 <details open><summary><h3>०३ देवाः पितरः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 </div>
 
 ## ०४ स पचामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/04_sa_pachAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/04_sa_pachAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स प॑चामि॒ स द॑दामि।  
 स य॑जे॒ स द॒त्तान्मा यू॑षम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/04_sa_pachAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/04_sa_pachAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ Gods are the Fathers, and the Fathers Gods. I am the very man I am.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/04_sa_pachAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/04_sa_pachAmi.md">
 <details open><summary><h3>०४ स पचामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -298,14 +298,14 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 </div>
 
 ## ०५ नाके राजन्प्रति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/05_nAke_rAjanprati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नाके॑ राज॒न्प्रति॑ तिष्ठ॒ तत्रै॒तत्प्रति॑ तिष्ठतु।  
 वि॒द्धि पू॒र्तस्य॑ नो राज॒न्त्स दे॑व सु॒मना॑ भव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/05_nAke_rAjanprati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -314,7 +314,7 @@ I cook, I give, I offer up oblation. From what I gave let me not be disparted.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/05_nAke_rAjanprati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/123_saumanasam/05_nAke_rAjanprati.md">
 <details open><summary><h3>०५ नाके राजन्प्रति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००५ आत्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/_index.md">
 <details open><summary><h2>००५ आत्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,9 +34,9 @@ A glorification of sacrifice
 </div>
 
 ## ०१ यज्ञेन यज्ञमयजन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
 <details open><summary><h8>१६ यज्ञेन यज्ञमयजन्त ...{Loading}...</h8></summary>
 
 
@@ -49,7 +49,7 @@ A glorification of sacrifice
 </div>
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/01_yajnena_yajnamayajanta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -58,9 +58,9 @@ A glorification of sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/01_yajnena_yajnamayajanta.md">
 <details open><summary><h3>०१ यज्ञेन यज्ञमयजन्त ...{Loading}...</h3></summary>
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/16_yajnena_yajnamayajanta.md">
+<div class="js_include" includetitle="false" newlevelforh1="6" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/090/16_yajnena_yajnamayajanta.md">
 <details open><summary><h8>१६ यज्ञेन यज्ञमयजन्त ...{Loading}...</h8></summary>
 <details><summary>Thomson & Solcum</summary>
 
@@ -346,14 +346,14 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 </div>
 
 ## ०२ यज्ञो बभूव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/02_yajno_babhUva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/02_yajno_babhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञो ब॑भूव॒ स आ ब॑भूव॒ स प्र ज॑ज्ञे॒ स उ॑ वावृधे॒ पुनः॑।  
 स दे॒वाना॒मधि॑पतिर्बभूव॒ सो अ॒स्मासु॒ द्रवि॑ण॒मा द॑धातु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/02_yajno_babhUva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/02_yajno_babhUva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -362,7 +362,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/02_yajno_babhUva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/02_yajno_babhUva.md">
 <details open><summary><h3>०२ यज्ञो बभूव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -415,14 +415,14 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 </div>
 
 ## ०३ यद्देवा देवान्हविषाऽयजन्तामर्त्यान्मनसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्दे॒वा दे॒वान्ह॒विषा॑ऽयज॒न्ताम॑र्त्या॒न्मन॒सा म॑र्त्येन।  
 मदे॑म॒ तत्र॑ पर॒मे व्यो᳡म॒न्पश्ये॑म॒ तदुदि॑तौ॒ सूर्य॑स्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -431,7 +431,7 @@ Sacrifice was, was manifest among us: it sprang to life and then in time grew st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/03_yaddevA_devAnhaviShA-yajantAmartyAnmanasA.md">
 <details open><summary><h3>०३ यद्देवा देवान्हविषाऽयजन्तामर्त्यान्मनसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -478,14 +478,14 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 </div>
 
 ## ०४ यत्पुरुषेण हविषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्पुरु॑षेण ह॒विषा॑ य॒ज्ञं दे॒वा अत॑न्वत।  
 अ॑स्ति॒ नु तस्मा॒दोजी॑यो॒ यद्वि॒हव्ये॑नेजि॒रे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -494,7 +494,7 @@ Where the Gods worshipped Gods with their oblation, worship- ped immortals with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/04_yatpuruSheNa_haviShA.md">
 <details open><summary><h3>०४ यत्पुरुषेण हविषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -549,14 +549,14 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 </div>
 
 ## ०५ मुग्धा देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/05_mugdhA_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/005_AtmA/05_mugdhA_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मु॒ग्धा दे॒वा उ॒त शुनाऽय॑जन्तो॒त गोरङ्गैः॑ पुरु॒धाऽय॑जन्त।  
 य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/05_mugdhA_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/005_AtmA/05_mugdhA_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -565,7 +565,7 @@ With their oblation, Purusha, the Gods performed a sacrifice. A sacrifice more p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/05_mugdhA_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/005_AtmA/05_mugdhA_devA.md">
 <details open><summary><h3>०५ मुग्धा देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

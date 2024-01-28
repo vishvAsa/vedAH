@@ -2,7 +2,7 @@
 title = "०२० शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/_index.md">
 <details open><summary><h2>०२० शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>VH anukramaṇī</summary>
 
@@ -18,13 +18,13 @@ This and the three following hymns are mechanical variations of the one next pre
 </div>
 
 ## ०१ वायो यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/01_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/01_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वायो॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/01_vAyo_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/01_vAyo_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -32,7 +32,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/01_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/01_vAyo_yatte.md">
 <details open><summary><h3>०१ वायो यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -77,13 +77,13 @@ This and the three following hymns are mechanical variations of the one next pre
 </div>
 
 ## ०२ वायो यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/02_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/02_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वायो॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/02_vAyo_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/02_vAyo_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -91,7 +91,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/02_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/02_vAyo_yatte.md">
 <details open><summary><h3>०२ वायो यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -132,13 +132,13 @@ This and the three following hymns are mechanical variations of the one next pre
 </div>
 
 ## ०३ वायो यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/03_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/03_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वायो॒ यत्ते॒ ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/03_vAyo_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/03_vAyo_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -146,7 +146,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/03_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/03_vAyo_yatte.md">
 <details open><summary><h3>०३ वायो यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -187,13 +187,13 @@ This and the three following hymns are mechanical variations of the one next pre
 </div>
 
 ## ०४ वायो यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/04_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/04_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वायो॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/04_vAyo_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/04_vAyo_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -201,7 +201,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/04_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/04_vAyo_yatte.md">
 <details open><summary><h3>०४ वायो यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -242,13 +242,13 @@ This and the three following hymns are mechanical variations of the one next pre
 </div>
 
 ## ०५ वायो यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/05_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/020_shatrunAshanam/05_vAyo_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वायो॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/05_vAyo_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/020_shatrunAshanam/05_vAyo_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -256,7 +256,7 @@ This and the three following hymns are mechanical variations of the one next pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/05_vAyo_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/020_shatrunAshanam/05_vAyo_yatte.md">
 <details open><summary><h3>०५ वायो यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२० अनुमतिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/_index.md">
 <details open><summary><h2>०२० अनुमतिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for prosperity and happiness
 </div>
 
 ## ०१ अन्वद्य नोऽनुमतिर्यज्ञम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अन्व॒द्य नोऽनु॑मतिर्य॒ज्ञं दे॒वेषु॑ मन्यताम्।  
 अ॒ग्निश्च॑ हव्य॒वाह॑नो॒ भव॑तां दा॒शुषे॒ मम॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for prosperity and happiness
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/01_anvadya_no-numatiryajnam.md">
 <details open><summary><h3>०१ अन्वद्य नोऽनुमतिर्यज्ञम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 </div>
 
 ## ०२ अन्विदनुमते त्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/02_anvidanumate_tvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अन्विद॑नुमते॒ त्वं मंस॑से॒ शं च॑ नस्कृधि।  
 जुषस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/02_anvidanumate_tvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ Anumati approve to-day our sacrifice among the Gods! May Agni bear mine offering
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/02_anvidanumate_tvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/02_anvidanumate_tvam.md">
 <details open><summary><h3>०२ अन्विदनुमते त्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 </div>
 
 ## ०३ अनु मन्यतामनुमन्यमानः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑ मन्यतामनु॒मन्य॑मानः प्र॒जाव॑न्तं र॒यिमक्षी॑यमाणम्।  
 तस्य॑ व॒यं हेड॑सि॒ मापि॑ भूम सुमृडी॒के अ॑स्य सुम॒तौ स्या॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Do thou, Anumati! approve, and grant us health and happiness. Accept the offered
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/03_anu_manyatAmanumanyamAnaH.md">
 <details open><summary><h3>०३ अनु मन्यतामनुमन्यमानः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -250,14 +250,14 @@ May he approving in return accord us wealth inexhaustible with store of children
 </div>
 
 ## ०४ यत्ते नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/04_yatte_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/04_yatte_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्ते॒ नाम॑ सु॒हवं॑ सुप्रणी॒तेऽनु॑मते॒ अनु॑मतं सु॒दानु॑।  
 तेना॑ नो य॒ज्ञं पि॑पृहि विश्ववारे र॒यिं नो॑ धेहि सुभगे सु॒वीर॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/04_yatte_nAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/04_yatte_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -266,7 +266,7 @@ May he approving in return accord us wealth inexhaustible with store of children
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/04_yatte_nAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/04_yatte_nAma.md">
 <details open><summary><h3>०४ यत्ते नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -316,14 +316,14 @@ Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. S
 </div>
 
 ## ०५ एमं यज्ञमनुमतिर्जगाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एमं य॒ज्ञमनु॑मतिर्जगाम सुक्षे॒त्रता॑यै सुवी॒रता॑यै॒ सुजा॑तम्।  
 भ॒द्रा ह्य᳡स्याः॒ प्रम॑तिर्ब॒भूव॒ सेमं य॒ज्ञम॑वतु दे॒वगो॑पा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -332,7 +332,7 @@ Thy name is easy to invoke, good leader! approved, Anumati and rich in bounty. S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/05_emaM_yajnamanumatirjagAma.md">
 <details open><summary><h3>०५ एमं यज्ञमनुमतिर्जगाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -385,14 +385,14 @@ Anumati hath come to this our worship well-formed to give good lands and valiant
 </div>
 
 ## ०६ अनुमतिः सर्वमिदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अनु॑मतिः॒ सर्व॑मि॒दं ब॑भूव॒ यत्तिष्ठ॑ति॒ चर॑ति॒ यदु॑ च॒ विश्व॒मेज॑ति।  
 तस्या॑स्ते देवि सुम॒तौ स्या॒मानु॑मते॒ अनु॒ हि मंस॑से नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/06_anumatiH_sarvamidam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -401,7 +401,7 @@ Anumati hath come to this our worship well-formed to give good lands and valiant
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/020_anumatiH/06_anumatiH_sarvamidam.md">
 <details open><summary><h3>०६ अनुमतिः सर्वमिदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

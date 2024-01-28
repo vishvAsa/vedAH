@@ -2,7 +2,7 @@
 title = "१०२ अभिसांमनस्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/_index.md">
 <details open><summary><h2>१०२ अभिसांमनस्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield,
 </div>
 
 ## ०१ यथायं वाहो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते।  
 ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, Ind. Stud. 243; Grill, 54, 169; Griffith, i. 301; Bloomfield,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/01_yathAyaM_vAho.md">
 <details open><summary><h3>०१ यथायं वाहो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 </div>
 
 ## ०२ आहं खिदामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व।  
 रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Even as this ox, O Asvins, steps and turns together with his mate, So let thy fa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/02_AhaM_khidAmi.md">
 <details open><summary><h3>०२ आहं खिदामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 </div>
 
 ## ०३ आञ्जनस्य मदुघस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च।  
 तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद्भ॑रे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ I, as the shaft-horse draws the mare beside him, draw thee to myself. Like grass
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/102_abhisAMmanasyam/03_Anjanasya_madughasya.md">
 <details open><summary><h3>०३ आञ्जनस्य मदुघस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

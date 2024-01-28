@@ -2,7 +2,7 @@
 title = "०६३ दुरितनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/_index.md">
 <details open><summary><h2>०६३ दुरितनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for deliverance from affliction
 </div>
 
 ## ०१ पृतनाजितं सहमानमग्निमुक्थ्यैर्हवामहे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॑तना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात्स॒धस्था॑त्।  
 स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वोऽति॑ दुरि॒तान्य॒ग्निः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for deliverance from affliction
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/063_duritanAshanam/01_pRtanAjitaM_sahamAnamagnimukthyairhavAmahe.md">
 <details open><summary><h3>०१ पृतनाजितं सहमानमग्निमुक्थ्यैर्हवामहे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

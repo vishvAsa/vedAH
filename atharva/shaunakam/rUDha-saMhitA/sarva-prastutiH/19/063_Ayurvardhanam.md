@@ -2,7 +2,7 @@
 title = "०६३ आयुर्वर्धनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/_index.md">
 <details open><summary><h2>०६३ आयुर्वर्धनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer, with sacrifice, for long life and prosperity
 </div>
 
 ## ०१ उत्तिष्ठ ब्रह्मणस्पते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्ति॑ष्ठ ब्रह्मणस्पते दे॒वान्य॒ज्ञेन॑ बोधय।  
 आयुः॑ प्रा॒णं प्र॒जां प॒शून्की॒र्तिं यज॑मानं च वर्धय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer, with sacrifice, for long life and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/063_Ayurvardhanam/01_uttiShTha_brahmaNaspate.md">
 <details open><summary><h3>०१ उत्तिष्ठ ब्रह्मणस्पते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

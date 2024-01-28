@@ -2,7 +2,7 @@
 title = "०१० संप्रोक्षणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/_index.md">
 <details open><summary><h2>०१० संप्रोक्षणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A thanksgiving for life, hearing, and sight
 </div>
 
 ## ०१ पृथिव्यै श्रोत्राय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॑थि॒व्यै श्रोत्रा॑य॒ वन॒स्पति॑भ्यो॒ऽग्नयेऽधि॑पतये॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A thanksgiving for life, hearing, and sight
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/01_pRthivyai_shrotrAya.md">
 <details open><summary><h3>०१ पृथिव्यै श्रोत्राय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -94,13 +94,13 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 </div>
 
 ## ०२ प्राणायान्तरिक्षाय वयोभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णाया॒न्तरि॑क्षाय॒ वयो॑भ्यो वा॒यवेऽधि॑पतये॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -108,7 +108,7 @@ All hail for hearing to the Earth, to Trees, to Agni, sovran Lord!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/02_prANAyAntarixAya_vayobhyo.md">
 <details open><summary><h3>०२ प्राणायान्तरिक्षाय वयोभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -155,13 +155,13 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 </div>
 
 ## ०३ दिवे चक्षुषे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/03_dive_chaxuShe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वे चक्षु॑षे॒ नक्ष॑त्रेभ्यः॒ सूर्या॒याधि॑पतये॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/03_dive_chaxuShe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -169,7 +169,7 @@ All hail for breath to Air, for power to life to Vayu, sovran Lord!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/03_dive_chaxuShe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/010_saMproxaNam/03_dive_chaxuShe.md">
 <details open><summary><h3>०३ दिवे चक्षुषे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

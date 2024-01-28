@@ -2,7 +2,7 @@
 title = "०७२ परमात्मा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/_index.md">
 <details open><summary><h2>०७२ परमात्मा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A sacrificial formula
 </div>
 
 ## ०१ यस्मात्कोशादुदभराम वेदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्मा॒त्कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्।  
 कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्ये᳡ण॒ तेन॑ मा देवा॒स्तप॑सावते॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A sacrificial formula
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/072_paramAtmA/01_yasmAtkoshAdudabharAma_vedam.md">
 <details open><summary><h3>०१ यस्मात्कोशादुदभराम वेदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

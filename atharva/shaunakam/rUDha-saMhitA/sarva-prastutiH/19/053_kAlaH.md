@@ -2,7 +2,7 @@
 title = "०५३ कालः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/_index.md">
 <details open><summary><h2>०५३ कालः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Kama or Time
 </div>
 
 ## ०१ कालो अश्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/01_kAlo_ashvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/01_kAlo_ashvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लो अश्वो॑ वहति स॒प्तर॑श्मिः सहस्रा॒क्षो अ॒जरो॒ भूरि॑रेताः।  
 तमा रो॑हन्ति क॒वयो॑ विप॒श्चित॒स्तस्य॑ च॒क्रा भुव॑नानि॒ विश्वा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/01_kAlo_ashvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/01_kAlo_ashvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Kama or Time
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/01_kAlo_ashvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/01_kAlo_ashvo.md">
 <details open><summary><h3>०१ कालो अश्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Prolific, thousand-eyed, and undecaying, a horse with seven reins Time bears us 
 </div>
 
 ## ०२ सप्त चक्रान्वहति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/02_sapta_chakrAnvahati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/02_sapta_chakrAnvahati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त च॒क्रान्व॑हति का॒ल ए॒ष स॒प्तास्य॒ नाभी॑र॒मृतं॒ न्वक्षः॑।  
 स इ॒मा विश्वा॒ भुव॑नान्यञ्जत्का॒लः स ई॑यते प्रथ॒मो नु दे॒वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/02_sapta_chakrAnvahati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/02_sapta_chakrAnvahati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Prolific, thousand-eyed, and undecaying, a horse with seven reins Time bears us 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/02_sapta_chakrAnvahati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/02_sapta_chakrAnvahati.md">
 <details open><summary><h3>०२ सप्त चक्रान्वहति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -188,14 +188,14 @@ This Time hath seven rolling wheels and seven naves immorality is the chariot's 
 </div>
 
 ## ०३ पूर्णः कुम्भोऽधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पू॒र्णः कु॒म्भोऽधि॑ का॒ल आहि॑त॒स्तं वै पश्या॑मो बहु॒धा नु सन्तः॑।  
 स इ॒मा विश्वा॒ भुव॑नानि प्र॒त्यङ्का॒लं तमा॒हुः प॑र॒मे व्यो᳡मन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -204,7 +204,7 @@ This Time hath seven rolling wheels and seven naves immorality is the chariot's 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/03_pUrNaH_kumbho-dhi.md">
 <details open><summary><h3>०३ पूर्णः कुम्भोऽधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -260,14 +260,14 @@ On Time is laid an overflowing beaker: this we behold in many a place appearing.
 </div>
 
 ## ०४ स एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/04_sa_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/04_sa_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स ए॒व सं भुव॑ना॒न्याभ॑र॒त्स ए॒व सं भुव॑नानि॒ पर्यै॑त्।  
 पि॒ता सन्न॑भवत्पु॒त्र ए॑षां॒ तस्मा॒द्वै नान्यत्पर॑मस्ति॒ तेजः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/04_sa_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/04_sa_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -276,7 +276,7 @@ On Time is laid an overflowing beaker: this we behold in many a place appearing.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/04_sa_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/04_sa_eva.md">
 <details open><summary><h3>०४ स एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -330,14 +330,14 @@ He only made the worlds of life, he only gathered the worlds of living things to
 </div>
 
 ## ०५ कालोऽमूं दिवमजनयत्काल
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लोऽमूं दिव॑मजनयत्का॒ल इ॒माः पृ॑थि॒वीरु॒त।  
 का॒ले ह॑ भू॒तं भव्यं॑ चेषि॒तं ह॒ वि ति॑ष्ठते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -346,7 +346,7 @@ He only made the worlds of life, he only gathered the worlds of living things to
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/05_kAlo-mUM_divamajanayatkAla.md">
 <details open><summary><h3>०५ कालोऽमूं दिवमजनयत्काल ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -400,14 +400,14 @@ Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirre
 </div>
 
 ## ०६ कालो भूतिमसृजत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लो भू॒तिम॑सृजत का॒ले तप॑ति॒ सूर्यः॑।  
 का॒ले ह॒ विश्वा॑ भू॒तानि॑ का॒ले चक्षु॒र्वि प॑श्यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -416,7 +416,7 @@ Kala created yonder heaven, and Kala made these realms of earth. By Kala, stirre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/06_kAlo_bhUtimasRjata.md">
 <details open><summary><h3>०६ कालो भूतिमसृजत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -464,14 +464,14 @@ Kala created land; the Sun in Kala hath his light and heat. In Kala rest all thi
 </div>
 
 ## ०७ काले मनः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/07_kAle_manaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/07_kAle_manaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒ले मनः॑ का॒ले प्रा॒णः का॒ले नाम॑ स॒माहि॑तम्।  
 का॒लेन॒ सर्वा॑ नन्द॒न्त्याग॑तेन प्र॒जा इ॒माः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/07_kAle_manaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/07_kAle_manaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -480,7 +480,7 @@ Kala created land; the Sun in Kala hath his light and heat. In Kala rest all thi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/07_kAle_manaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/07_kAle_manaH.md">
 <details open><summary><h3>०७ काले मनः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -528,14 +528,14 @@ In Kala mind, in Kala breath, in Kala name are fixt and joined. These living cre
 </div>
 
 ## ०८ काले तपः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/08_kAle_tapaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/08_kAle_tapaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒ले तपः॑ का॒ले ज्येष्ठं॑ का॒ले ब्रह्म॑ स॒माहि॑तम्।  
 का॒लो ह॒ सर्व॑स्येश्व॒रो यः पि॒तासी॑त्प्र॒जाप॑तेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/08_kAle_tapaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/08_kAle_tapaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -544,7 +544,7 @@ In Kala mind, in Kala breath, in Kala name are fixt and joined. These living cre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/08_kAle_tapaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/08_kAle_tapaH.md">
 <details open><summary><h3>०८ काले तपः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -596,14 +596,14 @@ Kala embraces Holy Fire, the Highest, Brahma in himself. Yea, Kala, who was fath
 </div>
 
 ## ०९ तेनेषितं तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/09_teneShitaM_tena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/09_teneShitaM_tena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तेने॑षि॒तं तेन॑ जा॒तं तदु॒ तस्मि॒न्प्रति॑ष्ठितम्।  
 का॒लो ह॒ ब्रह्म॑ भू॒त्वा बिभ॑र्ति परमे॒ष्ठिन॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/09_teneShitaM_tena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/09_teneShitaM_tena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -612,7 +612,7 @@ Kala embraces Holy Fire, the Highest, Brahma in himself. Yea, Kala, who was fath
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/09_teneShitaM_tena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/09_teneShitaM_tena.md">
 <details open><summary><h3>०९ तेनेषितं तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -659,14 +659,14 @@ He made, he stirred this universe to motion, and on him it rests. He, Kala, havi
 </div>
 
 ## १० कालः प्रजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/10_kAlaH_prajA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/053_kAlaH/10_kAlaH_prajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लः प्र॒जा अ॑सृजत का॒लो अग्रे॑ प्र॒जाप॑तिम्।  
 स्व॑यं॒भूः क॒श्यपः॑ का॒लात्तपः॑ का॒लाद॑जायत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/10_kAlaH_prajA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/053_kAlaH/10_kAlaH_prajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -675,7 +675,7 @@ He made, he stirred this universe to motion, and on him it rests. He, Kala, havi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/10_kAlaH_prajA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/053_kAlaH/10_kAlaH_prajA.md">
 <details open><summary><h3>१० कालः प्रजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

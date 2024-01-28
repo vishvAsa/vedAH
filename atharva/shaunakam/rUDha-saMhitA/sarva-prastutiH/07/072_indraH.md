@@ -2,7 +2,7 @@
 title = "०७२ इन्द्रः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/_index.md">
 <details open><summary><h2>०७२ इन्द्रः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ An invitation to Indra
 </div>
 
 ## ०१ उत्तिष्ठताव पश्यतेन्द्रस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्ति॑ष्ठ॒ताव॑ पश्य॒तेन्द्र॑स्य भा॒गमृ॒त्विय॑म्।  
 यदि॑ श्रा॒तं जु॒होत॑न॒ यद्यश्रा॑तं म॒मत्त॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ An invitation to Indra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/01_uttiShThatAva_pashyatendrasya.md">
 <details open><summary><h3>०१ उत्तिष्ठताव पश्यतेन्द्रस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 </div>
 
 ## ०२ श्रातं हविरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/02_shrAtaM_haviro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/02_shrAtaM_haviro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ वि मध्य॑म्।  
 परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॑जप॒त चर॑न्तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/02_shrAtaM_haviro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/02_shrAtaM_haviro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Rise up and look upon the share of Indra fixt by ritual use. Whether ye poured l
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/02_shrAtaM_haviro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/02_shrAtaM_haviro.md">
 <details open><summary><h3>०२ श्रातं हविरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 </div>
 
 ## ०३ श्रातं मन्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/03_shrAtaM_manya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/072_indraH/03_shrAtaM_manya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुशृ॑तं मन्ये॒ तदृ॒तं नवी॑यः।  
 माध्य॑न्दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरु॒कृज्जु॑षा॒णः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/03_shrAtaM_manya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/072_indraH/03_shrAtaM_manya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ Libation is prepared. Come to us, Indra: the Sun hath travelled over half his jo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/03_shrAtaM_manya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/072_indraH/03_shrAtaM_manya.md">
 <details open><summary><h3>०३ श्रातं मन्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

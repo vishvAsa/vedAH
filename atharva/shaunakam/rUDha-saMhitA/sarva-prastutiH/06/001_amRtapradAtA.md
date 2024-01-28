@@ -2,7 +2,7 @@
 title = "००१ अमृतप्रदाता"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/_index.md">
 <details open><summary><h2>००१ अमृतप्रदाता ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ In praise of Savitar
 </div>
 
 ## ०१ दोषो गाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/01_doSho_gAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/01_doSho_gAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दो॒षो गा॑य बृ॒हद्गा॑य द्यु॒मद्धे॑ह्याथ॑र्वण।  
 स्तु॒हि दे॒वं स॑वि॒तार॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/01_doSho_gAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/01_doSho_gAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ In praise of Savitar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/01_doSho_gAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/01_doSho_gAya.md">
 <details open><summary><h3>०१ दोषो गाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar
 </div>
 
 ## ०२ तमु ष्टुहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः स॒त्यस्य॒ युवा॑न॒म्।  
 अद्रो॑घवाचं सु॒शेव॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Sing, Atharvana, at eve, sing loudly, bring a splendid present: hymn God Savitar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/02_tamu_ShTuhi.md">
 <details open><summary><h3>०२ तमु ष्टुहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious
 </div>
 
 ## ०३ स घा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/03_sa_ghA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/001_amRtapradAtA/03_sa_ghA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑।  
 उ॒भे सु॑ष्टु॒ती सु॒गात॑वे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/03_sa_ghA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/001_amRtapradAtA/03_sa_ghA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ Yea, praise him whose home is in the river, Son of Truth, the youthful, gracious
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/03_sa_ghA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/001_amRtapradAtA/03_sa_ghA.md">
 <details open><summary><h3>०३ स घा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

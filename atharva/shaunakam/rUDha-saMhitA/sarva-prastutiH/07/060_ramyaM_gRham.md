@@ -2,7 +2,7 @@
 title = "०६० रम्यं गृहम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/_index.md">
 <details open><summary><h2>०६० रम्यं गृहम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A parting traveller's address to the houses of his village
 </div>
 
 ## ०१ ऊर्जं बिभ्रद्वसुवनिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊर्जं॒ बिभ्र॑द्वसु॒वनिः॑ सुमे॒धा अघो॑रेण॒ चक्षु॑षा मि॒त्रिये॑ण।  
 गृ॒हानैमि॑ सु॒मना॒ वन्द॑मानो॒ रम॑ध्वं॒ मा बि॑भीत॒ मत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A parting traveller's address to the houses of his village
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/01_UrjaM_bibhradvasuvaniH.md">
 <details open><summary><h3>०१ ऊर्जं बिभ्रद्वसुवनिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no
 </div>
 
 ## ०२ इमे गृहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/02_ime_gRhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मे गृ॒हा म॑यो॒भुव॒ ऊर्ज॑स्वन्तः॒ पय॑स्वन्तः।  
 पू॒र्णा वा॒मेन॒ तिष्ठ॑न्त॒स्ते नो॑ जानन्त्वाय॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/02_ime_gRhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ I, prudent, bringing power, a treasure-winner, with amicable eye that strikes no
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/02_ime_gRhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/02_ime_gRhA.md">
 <details open><summary><h3>०२ इमे गृहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 </div>
 
 ## ०३ येषामध्येति प्रवसन्येषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येषा॑म॒ध्येति॑ प्र॒वस॒न्येषु॑ सौमन॒सो ब॒हुः।  
 गृ॒हानुप॑ ह्वयामहे॒ ते नो॑ जानन्त्वाय॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ Let these delightful Houses that are rich in power and store of milk, Replete wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/03_yeShAmadhyeti_pravasanyeShu.md">
 <details open><summary><h3>०३ येषामध्येति प्रवसन्येषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -233,14 +233,14 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 </div>
 
 ## ०४ उपहूता भूरिधनाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑हूता॒ भूरि॑धनाः॒ सखा॑यः स्वा॒दुसं॑मुदः।  
 अ॑क्षु॒ध्या अ॑तृ॒ष्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -249,7 +249,7 @@ These Houses we invoke, whereon the distant exile sets his thought, Wherein dwel
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/04_upahUtA_bhUridhanAH.md">
 <details open><summary><h3>०४ उपहूता भूरिधनाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -298,14 +298,14 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 </div>
 
 ## ०५ उपहूता इह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑हूता इ॒ह गाव॒ उप॑हूता अजा॒वयः॑।  
 अथो॒ अन्न॑स्य की॒लाल॒ उप॑हूतो गृ॒हेषु॑ नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/05_upahUtA_iha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -314,7 +314,7 @@ Thus greeted, ye of ample wealth, friends who enjoy delightful sweets. Be ever f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/05_upahUtA_iha.md">
 <details open><summary><h3>०५ उपहूता इह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -363,14 +363,14 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 </div>
 
 ## ०६ सूनृतावन्तः सुभगा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सू॒नृता॑वन्तः सु॒भगा॒ इरा॑वन्तो हसामु॒दाः।  
 अ॑तृ॒ष्या अ॑क्षु॒ध्या स्त॒ गृहा॒ मास्मद्बि॑भीतन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -379,7 +379,7 @@ Kind greeting to the cattle here, kind greeting to the goats and sheep! Then, of
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/06_sUnRtAvantaH_subhagA.md">
 <details open><summary><h3>०६ सूनृतावन्तः सुभगा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -430,14 +430,14 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 </div>
 
 ## ०७ इहैव स्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव॑ स्त॒ मानु॑ गात॒ विश्वा॑ रू॒पाणि॑ पुष्यत।  
 ऐष्या॑मि भ॒द्रेणा॑ स॒ह भूयां॑सो भवता॒ मया॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/07_ihaiva_sta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -446,7 +446,7 @@ Full of refreshment, full of charms, of laughter and felicity, Be ever free from
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/060_ramyaM_gRham/07_ihaiva_sta.md">
 <details open><summary><h3>०७ इहैव स्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०३४ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/_index.md">
 <details open><summary><h2>०३४ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To Agni for protection from enemies
 </div>
 
 ## ०१ प्राग्नये वाचमीरय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राग्नये॒ वाच॑मीरय वृष॒भाय॑ क्षिती॒नाम्।  
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To Agni for protection from enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/01_prAgnaye_vAchamIraya.md">
 <details open><summary><h3>०१ प्राग्नये वाचमीरय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 </div>
 
 ## ०२ यो रक्षांसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो रक्षां॑सि नि॒जूर्व॑त्य॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॑।  
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/02_yo_raxAMsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Send forth thy voice to Agni, to the manly hero of our homes, So may he bear us 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/02_yo_raxAMsi.md">
 <details open><summary><h3>०२ यो रक्षांसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,14 +157,14 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 </div>
 
 ## ०३ यः परस्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः पर॑स्याः परा॒वत॑स्ति॒रो धन्वा॑ति॒रोच॑ते।  
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/03_yaH_parasyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -173,7 +173,7 @@ That Agni who with sharpened flame of fire consumes the Rakshasas, So may he bea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/03_yaH_parasyAH.md">
 <details open><summary><h3>०३ यः परस्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -219,14 +219,14 @@ He who from distance far remote shineth across the tracts of land, May he transp
 </div>
 
 ## ०४ यो विश्वाभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो विश्वा॒भि वि॒पश्य॑ति॒ भुव॑ना॒ सं च॒ पश्य॑ति।  
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -235,7 +235,7 @@ He who from distance far remote shineth across the tracts of land, May he transp
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/04_yo_vishvAbhi.md">
 <details open><summary><h3>०४ यो विश्वाभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -281,14 +281,14 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 </div>
 
 ## ०५ यो अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/034_shatrunAshanam/05_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒स्य पा॒रे रज॑सः शु॒क्रो अ॒ग्निरजा॑यत।  
 स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/05_yo_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/034_shatrunAshanam/05_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -297,7 +297,7 @@ He who beholds all creatures, who observes them with a careful eye, May he trans
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/05_yo_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/034_shatrunAshanam/05_yo_asya.md">
 <details open><summary><h3>०५ यो अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

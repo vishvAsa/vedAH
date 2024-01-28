@@ -2,7 +2,7 @@
 title = "०८५ अरिष्टनेमिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/_index.md">
 <details open><summary><h2>०८५ अरिष्टनेमिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to ensure victory in battle
 </div>
 
 ## ०१ त्यमू षु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/085_ariShTanemiH/01_tyamU_Shu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/085_ariShTanemiH/01_tyamU_Shu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं॒ सहो॑वानं तरु॒तारं॒ रथा॑नाम्।  
 अरि॑ष्टनेमिं पृतना॒जिमा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/085_ariShTanemiH/01_tyamU_Shu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/085_ariShTanemiH/01_tyamU_Shu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to ensure victory in battle
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/01_tyamU_Shu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/085_ariShTanemiH/01_tyamU_Shu.md">
 <details open><summary><h3>०१ त्यमू षु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

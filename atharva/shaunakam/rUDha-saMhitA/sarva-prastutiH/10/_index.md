@@ -2,7 +2,7 @@
 title = "+१०"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/10/_index.md">
 <details open><summary><h2>X. Book the tenth ...{Loading}...</h2></summary>
 <details><summary>Whitney</summary>
 

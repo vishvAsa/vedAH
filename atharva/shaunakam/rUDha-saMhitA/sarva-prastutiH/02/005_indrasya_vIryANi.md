@@ -2,7 +2,7 @@
 title = "००५ इन्द्रस्य वीर्याणि"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/_index.md">
 <details open><summary><h2>००५ इन्द्रस्य वीर्याणि ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Invitation to, and praise of Indra
 </div>
 
 ## ०१ इन्द्र जुषस्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/01_indra_juShasva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/01_indra_juShasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ जु॒षस्व॒ प्र व॒हा या॑हि शूर॒ हरि॑भ्याम्।  
 पिबा॑ सु॒तस्य॑ म॒तेरि॒ह म॒धोश्च॑का॒नश्चारु॒र्मदा॑य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/01_indra_juShasva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/01_indra_juShasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Invitation to, and praise of Indra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/01_indra_juShasva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/01_indra_juShasva.md">
 <details open><summary><h3>०१ इन्द्र जुषस्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste
 </div>
 
 ## ०२ इन्द्र जठरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑ ज॒ठरं॑ न॒व्यो न पृ॒णस्व॒ मधो॑र्दि॒वो न।  
 अ॒स्य सु॒तस्य॒ स्व॑१र्णोप॑ त्वा॒ मदाः॑ सु॒वाचो॑ अगुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ Indra, be gracious, drive thou forth, come, Hero, with thy two bay steeds. Taste
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/02_indra_jaTharam.md">
 <details open><summary><h3>०२ इन्द्र जठरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -186,14 +186,14 @@ O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-
 </div>
 
 ## ०३ इन्द्रस्तुराषाण्मित्रो वृत्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्तुरा॒षाण्मि॒त्रो वृ॒त्रं यो ज॒घान॑ य॒तीर्न।  
 बि॒भेद॑ व॒लं भृगु॒र्न स॑सहे॒ शत्रू॒न्मदे॒ सोम॑स्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -202,7 +202,7 @@ O Indra, even as one athirst, fill thee with meath as 'twere from heaven. Sweet-
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/03_indrasturAShANmitro_vRtram.md">
 <details open><summary><h3>०३ इन्द्रस्तुराषाण्मित्रो वृत्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -266,14 +266,14 @@ Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu h
 </div>
 
 ## ०४ आ त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/04_A_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/04_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ त्वा॑ विशन्तु सु॒तास॑ इन्द्र पृ॒णस्व॑ कु॒क्षी वि॒ड्ढि श॑क्र धि॒येह्या नः॑।  
 श्रु॒धी हवं॒ गिरो॑ मे जुष॒स्वेन्द्र॑ स्व॒युग्भि॒र्मत्स्वे॒ह म॒हे रणा॑य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/04_A_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/04_A_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -282,7 +282,7 @@ Swift-conquering Indra, Mitra like, smote, as a Yati, Vritra dead. Like Bhrigu h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/04_A_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/04_A_tvA.md">
 <details open><summary><h3>०४ आ त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -356,14 +356,14 @@ O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! 
 </div>
 
 ## ०५ इन्द्रस्य नु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑स्य॒ नु प्रा वो॑चं वी॒र्या॑णि॒ यानि॑ च॒कार॑ प्रथ॒मानि॑ व॒ज्री।  
 अह॒न्नहि॒मन्व॒पस्त॑तर्द॒ प्र व॒क्षणा॑ अभिन॒त्पर्व॑तानाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/05_indrasya_nu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/05_indrasya_nu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -372,7 +372,7 @@ O Indra, let the juices enter thee. Fill full thy belly, sate thee, mighty one! 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/05_indrasya_nu.md">
 <details open><summary><h3>०५ इन्द्रस्य नु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -426,14 +426,14 @@ Now will I tell the manly deeds of Indra, the first that he achieved, the thunde
 </div>
 
 ## ०६ अहन्नहिं पर्वते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अह॒न्नहिं॒ पर्व॑ते शिश्रिया॒णं त्वष्टा॑स्मै॒ वज्रं॑ स्व॒र्यं॑ ततक्ष।  
 वा॒श्रा इ॑व धे॒नवः॒ स्यन्द॑माना॒ अञ्जः॑ समु॒द्रमव॑ जग्मु॒रापः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -442,7 +442,7 @@ Now will I tell the manly deeds of Indra, the first that he achieved, the thunde
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/06_ahannahiM_parvate.md">
 <details open><summary><h3>०६ अहन्नहिं पर्वते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -491,14 +491,14 @@ He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar 
 </div>
 
 ## ०७ वृषायमाणो अवृणीत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृ॑षा॒यमा॑णो अवृणीत॒ सोमं॒ त्रिक॑द्रुकेषु अपिबत्सु॒तस्य॑।  
 आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -507,7 +507,7 @@ He slew the Dragon lying on the mountain: his heavenly bolt of thunder Tvashtar 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/005_indrasya_vIryANi/07_vRShAyamANo_avRNIta.md">
 <details open><summary><h3>०७ वृषायमाणो अवृणीत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

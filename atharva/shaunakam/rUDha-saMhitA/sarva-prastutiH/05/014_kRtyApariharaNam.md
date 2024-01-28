@@ -2,7 +2,7 @@
 title = "०१४ कृत्यापरिहरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/_index.md">
 <details open><summary><h2>०१४ कृत्यापरिहरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against witchcraft
 </div>
 
 ## ०१ सुपर्णस्त्वान्वविन्दत्सूकरस्त्वाखनन्नसा दिप्सौषधे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॑प॒र्णस्त्वान्व॑विन्दत्सूक॒रस्त्वा॑खनन्न॒सा।  
 दिप्सौ॑षधे॒ त्वं दिप्स॑न्त॒मव॑ कृत्या॒कृतं॑ जहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against witchcraft
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/01_suparNastvAnvavindatsUkarastvAkhanannasA_dipsau.md">
 <details open><summary><h3>०१ सुपर्णस्त्वान्वविन्दत्सूकरस्त्वाखनन्नसा दिप्सौषधे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ An eagle found thee: with his snout a wild boar dug thee from the earth. Harm th
 </div>
 
 ## ०२ अव जहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/02_ava_jahi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/02_ava_jahi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॑ जहि यातु॒धाना॒नव॑ कृत्या॒कृतं॑ जहि।  
 अथो॒ यो अ॒स्मान्दिप्स॑ति॒ तमु॒ त्वं ज॑ह्योषधे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/02_ava_jahi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/02_ava_jahi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ An eagle found thee: with his snout a wild boar dug thee from the earth. Harm th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/02_ava_jahi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/02_ava_jahi.md">
 <details open><summary><h3>०२ अव जहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -160,14 +160,14 @@ Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O P
 </div>
 
 ## ०३ रिश्यस्येव परीशासम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रि॑श्यस्येव परीशा॒सं प॑रि॒कृत्य॒ परि॑ त्व॒चः।  
 कृ॒त्यां कृ॑त्या॒कृते॑ देवा नि॒ष्कमि॑व॒ प्रति॑ मुञ्चत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -176,7 +176,7 @@ Beat thou the Yatudhanas back, drive thou away the sorcerer; And chase afar, O P
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/03_rishyasyeva_parIshAsam.md">
 <details open><summary><h3>०३ रिश्यस्येव परीशासम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -229,14 +229,14 @@ As 'twere a strip cut round from skin of a white-footed an- telope, Bind, like a
 </div>
 
 ## ०४ पुनः कृत्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ हस्त॒गृह्य॒ परा॑ णय।  
 स॑म॒क्षम॑स्मा॒ आ धे॑हि॒ यथा॑ कृत्या॒कृतं॒ हन॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -245,7 +245,7 @@ As 'twere a strip cut round from skin of a white-footed an- telope, Bind, like a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/04_punaH_kRtyAm.md">
 <details open><summary><h3>०४ पुनः कृत्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -293,14 +293,14 @@ Take thou his sorcery by the hand, and to the sorcerer lead it back. Lay it befo
 </div>
 
 ## ०५ कृत्याः सन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॒त्याः स॑न्तु कृत्या॒कृते॑ श॒पथः॑ शपथीय॒ते।  
 सु॒खो रथ॑ इव वर्ततां कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -309,7 +309,7 @@ Take thou his sorcery by the hand, and to the sorcerer lead it back. Lay it befo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/05_kRtyAH_santu.md">
 <details open><summary><h3>०५ कृत्याः सन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -355,14 +355,14 @@ Back on the wizard fall his craft, upon the curser light his curse! Let witchcra
 </div>
 
 ## ०६ यदि स्त्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/06_yadi_strI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/06_yadi_strI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ स्त्री यदि॑ वा॒ पुमा॑न्कृ॒त्यां च॒कार॑ पा॒प्मने॑।  
 तामु॒ तस्मै॑ नयाम॒स्यश्व॑मिवाश्वाभि॒धान्या॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/06_yadi_strI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/06_yadi_strI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -371,7 +371,7 @@ Back on the wizard fall his craft, upon the curser light his curse! Let witchcra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/06_yadi_strI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/06_yadi_strI.md">
 <details open><summary><h3>०६ यदि स्त्री ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -418,14 +418,14 @@ Whoso, for other's harm hath dealt-woman or man-in magic arts, To him we lead th
 </div>
 
 ## ०७ यदि वासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ वासि॑ दे॒वकृ॑ता॒ यदि॑ वा॒ पुरु॑षैः कृ॒ता।  
 तां त्वा॒ पुन॑र्णयाम॒सीन्द्रे॑ण स॒युजा॑ व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -434,7 +434,7 @@ Whoso, for other's harm hath dealt-woman or man-in magic arts, To him we lead th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/07_yadi_vAsi.md">
 <details open><summary><h3>०७ यदि वासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -483,14 +483,14 @@ Now whether thou hast been prepared by Gods or been pre- pared by men, We, with 
 </div>
 
 ## ०८ अग्ने पृतनाषाट्पृतनाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॑ पृतनाषा॒ट्पृत॑नाः सहस्व।  
 पुनः॑ कृ॒त्यां कृ॑त्या॒कृते॑ प्रति॒हर॑णेन हरामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -499,7 +499,7 @@ Now whether thou hast been prepared by Gods or been pre- pared by men, We, with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/08_agne_pRtanAShATpRtanAH.md">
 <details open><summary><h3>०८ अग्ने पृतनाषाट्पृतनाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -548,14 +548,14 @@ Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer w
 </div>
 
 ## ०९ कृतव्यधनि विद्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृत॑व्यधनि॒ विद्य॒ तं यश्च॒कार॒ तमिज्ज॑हि।  
 न त्वामच॑क्रुषे व॒यं व॒धाय॒ सं शि॑शीमहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -564,7 +564,7 @@ Agni, victorious in fight, subdue the armies of our foes! Back on the sorcerer w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/09_kRtavyadhani_vidya.md">
 <details open><summary><h3>०९ कृतव्यधनि विद्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -614,14 +614,14 @@ Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We 
 </div>
 
 ## १० पुत्र इव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/10_putra_iva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/10_putra_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॒त्र इ॑व पि॒तरं॑ गच्छ स्व॒ज इ॑वा॒भिष्ठि॑तो दश।  
 ब॒न्धमि॑वावक्रा॒मी ग॑च्छ॒ कृत्ये॑ कृत्या॒कृतं॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/10_putra_iva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/10_putra_iva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -630,7 +630,7 @@ Thou who hast piercing weapons, pierce him who hath wrought it; conquer him. We 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/10_putra_iva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/10_putra_iva.md">
 <details open><summary><h3>१० पुत्र इव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -681,14 +681,14 @@ Go as a son goes to his sire: bite as a trampled viper bites. As one who flies f
 </div>
 
 ## ११ उदेणीव वारण्यभिस्कन्धम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदे॒णीव॑ वार॒ण्य॑भि॒स्कन्धं॑ मृ॒गीव॑।  
 कृ॒त्या क॒र्तार॑मृच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -697,7 +697,7 @@ Go as a son goes to his sire: bite as a trampled viper bites. As one who flies f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/11_udeNIva_vAraNyabhiskandham.md">
 <details open><summary><h3>११ उदेणीव वारण्यभिस्कन्धम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -845,14 +845,14 @@ Even as the timid antelope or hind from her assailant flees, So swiftly let the 
 </div>
 
 ## १२ इष्वा ऋजीयः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इष्वा॒ ऋजी॑यः पततु॒ द्यावा॑पृथिवी॒ तं प्रति॑।  
 सा तं मृ॒गमि॑व गृह्णातु कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -861,7 +861,7 @@ Even as the timid antelope or hind from her assailant flees, So swiftly let the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/12_iShvA_RjIyaH.md">
 <details open><summary><h3>१२ इष्वा ऋजीयः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -903,14 +903,14 @@ Straighter than any arrow let it fly against him, Heaven and Earth. So let that 
 </div>
 
 ## १३ अग्निरिवैतु प्रतिकूलमनुकूलमिवोदकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निरि॑वैतु प्रति॒कूल॑मनु॒कूल॑मिवोद॒कम्।  
 सु॒खो रथ॑ इव वर्ततां कृ॒त्या कृ॑त्या॒कृतं॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -919,7 +919,7 @@ Straighter than any arrow let it fly against him, Heaven and Earth. So let that 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/014_kRtyApariharaNam/13_agnirivaitu_pratikUlamanukUlamivodakam.md">
 <details open><summary><h3>१३ अग्निरिवैतु प्रतिकूलमनुकूलमिवोदकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

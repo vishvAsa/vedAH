@@ -2,7 +2,7 @@
 title = "०३१ सेनानिरीक्षणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/_index.md">
 <details open><summary><h2>०३१ सेनानिरीक्षणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A hymn to Manyu or Wrath
 </div>
 
 ## ०१ त्वया मन्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वया॑ मन्यो स॒रथ॑मारु॒जन्तो॒ हर्ष॑माणा हृषि॒तासो॑ मरुत्वन्।  
 ति॒ग्मेष॑व॒ आयु॑धा सं॒शिशा॑ना॒ उप॒ प्र य॑न्तु॒ नरो॑ अ॒ग्निरू॑पाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/01_tvayA_manyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/01_tvayA_manyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A hymn to Manyu or Wrath
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/01_tvayA_manyo.md">
 <details open><summary><h3>०१ त्वया मन्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursti
 </div>
 
 ## ०२ अग्निरिव मन्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निरि॑व मन्यो त्विषि॒तः स॑हस्व सेना॒नीर्नः॑ सहुरे हू॒त ए॑धि।  
 ह॒त्वाय॒ शत्रू॒न्वि भ॑जस्व॒ वेद॒ ओजो॒ मिमा॑नो॒ वि मृधो॑ नुदस्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/02_agniriva_manyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/02_agniriva_manyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ Borne on with thee, O Manyu girt by Maruts, let our brave men, impetuous, bursti
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/02_agniriva_manyo.md">
 <details open><summary><h3>०२ अग्निरिव मन्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army'
 </div>
 
 ## ०३ सहस्व मन्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सह॑स्व मन्यो अ॒भिमा॑तिम॒स्मै रु॒जन्मृ॒णन्प्र॑मृ॒णन्प्रेहि॒ शत्रू॑न्।  
 उ॒ग्रं ते॒ पाजो॑ न॒न्वा रु॑रुध्रे व॒शी वशं॑ नयासा एकज॒ त्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/03_sahasva_manyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/03_sahasva_manyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ Flashing like fire, be thou, O conquering Manyu, invoked, O victor, as our army'
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/03_sahasva_manyo.md">
 <details open><summary><h3>०३ सहस्व मन्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -243,14 +243,14 @@ O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the 
 </div>
 
 ## ०४ एको बहूनामसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एको॑ बहू॒नाम॑सि मन्य ईडि॒ता विशं॑विशं यु॒द्धाय॒ सं शि॑शाधि।  
 अकृ॑त्तरु॒क्त्वया॑ यु॒जा व॒यं द्यु॒मन्तं॒ घोषं॑ विज॒याय॑ कृण्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -259,7 +259,7 @@ O Manyu, overcome those who assail us. On! breaking, slaying, crushing down the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/04_eko_bahUnAmasi.md">
 <details open><summary><h3>०४ एको बहूनामसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -314,14 +314,14 @@ Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for co
 </div>
 
 ## ०५ विजेषकृदिन्द्र इवानवब्रवोस्माकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑जेष॒कृदिन्द्र॑ इवानवब्र॒वो३॒॑स्माकं॑ मन्यो अधि॒पा भ॑वे॒ह।  
 प्रि॒यं ते॒ नाम॑ सहुरे गृणीमसि वि॒द्मा तमुत्सं॒ यत॑ आब॒भूथ॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -330,7 +330,7 @@ Alone of many thou art worshipped, Manyu: sharpen the spirit of each clan for co
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/05_vijeShakRdindra_ivAnavabravosmAkam.md">
 <details open><summary><h3>०५ विजेषकृदिन्द्र इवानवब्रवोस्माकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -379,14 +379,14 @@ Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. 
 </div>
 
 ## ०६ आभूत्या सहजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आभू॑त्या सह॒जा व॑ज्र सायक॒ सहो॑ बिभर्षि सहभूत॒ उत्त॑रम्।  
 क्रत्वा॑ नो मन्यो स॒ह मे॒द्ये॑धि महाध॒नस्य॑ पुरुहूत सं॒सृजि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -395,7 +395,7 @@ Unyielding, bringing victory like Indra, O Manyu be thou here our sovran ruler. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/06_AbhUtyA_sahajA.md">
 <details open><summary><h3>०६ आभूत्या सहजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -446,14 +446,14 @@ Twin-borne with power, destructive bolt of thunder the highest conquering might 
 </div>
 
 ## ०७ संसृष्टं धनमुभयम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 संसृ॑ष्टं॒ धन॑मु॒भयं॑ स॒माकृ॑तम॒स्मभ्यं॑ धत्तां॒ वरु॑णश्च म॒न्युः।  
 भियो॒ दधा॑ना॒ हृद॑येषु॒ शत्र॑वः॒ परा॑जितासो॒ अप॒ नि ल॑यन्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -462,7 +462,7 @@ Twin-borne with power, destructive bolt of thunder the highest conquering might 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/031_senAnirIxaNam/07_saMsRShTaM_dhanamubhayam.md">
 <details open><summary><h3>०७ संसृष्टं धनमुभयम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

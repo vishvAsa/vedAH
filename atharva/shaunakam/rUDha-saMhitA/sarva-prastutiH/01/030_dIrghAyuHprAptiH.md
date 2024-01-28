@@ -2,7 +2,7 @@
 title = "०३० दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>०३० दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction on a King at his consecration
 </div>
 
 ## ०१ विश्वे देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॒त्या जा॑गृ॒त यू॒यम॒स्मिन्।  
 मेमं सना॑भिरु॒त वान्यना॑भि॒र्मेमं प्राप॒त्पौरु॑षेयो व॒धो यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction on a King at his consecration
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/01_vishve_devA.md">
 <details open><summary><h3>०१ विश्वे देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward
 </div>
 
 ## ०२ ये वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्।  
 सर्वे॑भ्यो वः॒ परि॑ ददाम्ये॒तं स्व॒स्त्ये॑नं ज॒रसे॑ वहाथ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Guard and protect this man, all Gods and Vasus. Over him keep- ye watch and ward
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/02_ye_vo.md">
 <details open><summary><h3>०२ ये वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the f
 </div>
 
 ## ०३ ये देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्व१॒॑न्तः।  
 ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान्परि॑ वृणक्तु मृ॒त्यून् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ Listen, one-minded, to the word I, utter, the sons, O Gods, among you, and the f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/03_ye_devA.md">
 <details open><summary><h3>०३ ये देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ All Gods who dwell on earth or in the heavens, in air, within. the plants, the b
 </div>
 
 ## ०४ येषां प्रयाजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः।  
 येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान्वो॑ अ॒स्मै स॑त्र॒सदः॑ कृणोमि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ All Gods who dwell on earth or in the heavens, in air, within. the plants, the b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/030_dIrghAyuHprAptiH/04_yeShAM_prayAjA.md">
 <details open><summary><h3>०४ येषां प्रयाजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

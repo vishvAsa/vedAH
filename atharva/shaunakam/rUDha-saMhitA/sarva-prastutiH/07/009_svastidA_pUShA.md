@@ -2,7 +2,7 @@
 title = "००९ स्वस्तिदा पूषा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/_index.md">
 <details open><summary><h2>००९ स्वस्तिदा पूषा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Pushan for protection and the recovery of lost property
 </div>
 
 ## ०१ प्रपथे पथामजनिष्ट
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः।  
 उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Pushan for protection and the recovery of lost property
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/01_prapathe_pathAmajaniShTa.md">
 <details open><summary><h3>०१ प्रपथे पथामजनिष्ट ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Pushan was born to move on distant pathways, on roads remote from earth, remote 
 </div>
 
 ## ०२ पूषेमा आशा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत्।  
 स्व॑स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Pushan was born to move on distant pathways, on roads remote from earth, remote 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/02_pUShemA_AshA.md">
 <details open><summary><h3>०२ पूषेमा आशा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ Pushan knows all these realms: may he conduct us by ways that are most free from
 </div>
 
 ## ०३ पूषन्तव व्रते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पूष॒न्तव॑ व्र॒ते व॒यं न रि॑ष्येम क॒दा च॒न।  
 स्तो॒तार॑स्त इ॒ह स्म॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ Pushan knows all these realms: may he conduct us by ways that are most free from
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/03_pUShantava_vrate.md">
 <details open><summary><h3>०३ पूषन्तव व्रते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -228,14 +228,14 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 </div>
 
 ## ०४ परि पूषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/04_pari_pUShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/009_svastidA_pUShA/04_pari_pUShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॑ पू॒षा प॒रस्ता॒द्धस्तं॑ दधातु॒ दक्षि॑णम्।  
 पुन॑र्नो न॒ष्टमाज॑तु॒ सं न॒ष्टेन॑ गमेमहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/04_pari_pUShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/009_svastidA_pUShA/04_pari_pUShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -244,7 +244,7 @@ We are thy praisers here, O Pushan: never let us be injured under thy protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/04_pari_pUShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/009_svastidA_pUShA/04_pari_pUShA.md">
 <details open><summary><h3>०४ परि पूषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१९ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/_index.md">
 <details open><summary><h2>०१९ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A prayer to Agni for aid against an enemy
 </div>
 
 ## ०१ अग्ने यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/01_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/01_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ यत्ते॒ तप॒स्तेन॒ तं प्रति॑ तप॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/01_agne_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/01_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A prayer to Agni for aid against an enemy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/01_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/01_agne_yatte.md">
 <details open><summary><h3>०१ अग्ने यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,13 +95,13 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 </div>
 
 ## ०२ अग्ने यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/02_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/02_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ यत्ते॒ हर॒स्तेन॒ तं प्रति॑ हर॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/02_agne_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/02_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -109,7 +109,7 @@ Burn thou, O Agni, with that heat of thine against the man who hates us, whom we
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/02_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/02_agne_yatte.md">
 <details open><summary><h3>०२ अग्ने यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,13 +157,13 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 </div>
 
 ## ०३ अग्ने यत्तेऽर्चिस्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ यत्ते॒ऽर्चिस्तेन॒ तं प्रत्य॑र्च॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -171,7 +171,7 @@ Flame thou, O Agni, with that flame of thine against the man who hates us, whom 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/03_agne_yatte-rchistena.md">
 <details open><summary><h3>०३ अग्ने यत्तेऽर्चिस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -216,13 +216,13 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 </div>
 
 ## ०४ अग्ने यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/04_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/04_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ यत्ते॑ शो॒चिस्तेन॒ तं प्रति॑ शोच॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/04_agne_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/04_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -230,7 +230,7 @@ Shine out, O Agni, with that sheen of thine against the man who hates us, whom w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/04_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/04_agne_yatte.md">
 <details open><summary><h3>०४ अग्ने यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -275,13 +275,13 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 </div>
 
 ## ०५ अग्ने यत्ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/05_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/019_shatrunAshanam/05_agne_yatte.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ यत्ते॒ तेज॒स्तेन॒ तम॑ते॒जसं॑ कृणु॒ यो॑३ ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/05_agne_yatte.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/019_shatrunAshanam/05_agne_yatte.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -289,7 +289,7 @@ Blaze thou, O Agni, with that blaze of thine against the man who hates us, whom 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/05_agne_yatte.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/019_shatrunAshanam/05_agne_yatte.md">
 <details open><summary><h3>०५ अग्ने यत्ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

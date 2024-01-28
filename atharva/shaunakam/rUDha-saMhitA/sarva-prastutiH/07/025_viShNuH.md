@@ -2,7 +2,7 @@
 title = "०२५ विष्णुः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/_index.md">
 <details open><summary><h2>०२५ विष्णुः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Praise of Vishnu and Varuna
 </div>
 
 ## ०१ ययोरोजसा स्कभिता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वी॒र्यै᳡र्वी॒रत॑मा॒ शवि॑ष्ठा।  
 यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/01_yayorojasA_skabhitA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Praise of Vishnu and Varuna
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/01_yayorojasA_skabhitA.md">
 <details open><summary><h3>०१ ययोरोजसा स्कभिता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ The early morning prayer hath come to Vishnu and Varuna, Lords through might, wh
 </div>
 
 ## ०२ यस्येदं प्रदिशि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/02_yasyedaM_pradishi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ये॒दं प्र॒दिशि॒ यद्वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः।  
 पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न्वरु॑णं पू॒र्वहू॑तिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/02_yasyedaM_pradishi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ The early morning prayer hath come to Vishnu and Varuna, Lords through might, wh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/02_yasyedaM_pradishi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/025_viShNuH/02_yasyedaM_pradishi.md">
 <details open><summary><h3>०२ यस्येदं प्रदिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

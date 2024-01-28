@@ -2,7 +2,7 @@
 title = "१२४ निर्ऋत्यपस्तरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/_index.md">
 <details open><summary><h2>१२४ निर्ऋत्यपस्तरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 498; Griffith, i. 314.
 </div>
 
 ## ०१ दिवो नु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/01_divo_nu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वो नु मां बृ॑ह॒तो अ॒न्तरि॑क्षाद॒पां स्तो॒को अ॒भ्य᳡पप्त॒द्रसे॑न।  
 समि॑न्द्रि॒येण॒ पय॑सा॒हम॑ग्ने॒ छन्दो॑भिर्य॒ज्ञैः सु॒कृतां॑ कृ॒तेन॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/01_divo_nu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 498; Griffith, i. 314.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/01_divo_nu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/01_divo_nu.md">
 <details open><summary><h3>०१ दिवो नु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ From the high firmament, yea, out of heaven a water-drop with dew on me hath fal
 </div>
 
 ## ०२ यदि वृक्षादभ्यपप्तत्पलम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ वृ॒क्षाद॒भ्यप॑प्त॒त्पलं॒ तद्यद्य॒न्तरि॑क्षा॒त्स उ॑ वा॒युरे॒व।  
 यत्रास्पृ॑क्षत्त॒न्वो॒३॒॑ यच्च॒ वास॑स॒ आपो॑ नुदन्तु॒ निरृ॑तिं परा॒चैः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ From the high firmament, yea, out of heaven a water-drop with dew on me hath fal
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/02_yadi_vRxAdabhyapaptatpalam.md">
 <details open><summary><h3>०२ यदि वृक्षादभ्यपप्तत्पलम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ If from a tree that fruit hath fallen downward if, aught from air that is vayu. 
 </div>
 
 ## ०३ अभ्यञ्जनं सुरभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भ्यञ्ज॑नं सुर॒भि सा समृ॑द्धि॒र्हिर॑ण्यं॒ वर्च॒स्तदु॑ पू॒त्रिम॑मे॒व।  
 सर्वा॑ प॒वित्रा॒ वित॒ताध्य॒स्मत्तन्मा ता॑री॒न्निरृ॑ति॒र्मो अरा॑तिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ If from a tree that fruit hath fallen downward if, aught from air that is vayu. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/124_nirRtyapastaraNam/03_abhyanjanaM_surabhi.md">
 <details open><summary><h3>०३ अभ्यञ्जनं सुरभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

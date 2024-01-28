@@ -2,7 +2,7 @@
 title = "००२ अध्यात्मम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/_index.md">
 <details open><summary><h2>००२ अध्यात्मम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -38,14 +38,14 @@ The glorification of the Sun as Aditya, Surya and Rohita
 </div>
 
 ## ०१ उदस्य केतवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/01_udasya_ketavo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/01_udasya_ketavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑स्य के॒तवो॑ दि॒वि शु॒क्रा भ्राज॑न्त ईरते।  
 आ॑दि॒त्यस्य॑ नृ॒चक्ष॑सो॒ महि॑व्रतस्य मी॒ढुषः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/01_udasya_ketavo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/01_udasya_ketavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -54,7 +54,7 @@ The glorification of the Sun as Aditya, Surya and Rohita
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/01_udasya_ketavo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/01_udasya_ketavo.md">
 <details open><summary><h3>०१ उदस्य केतवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Radiant, refulgent in the sky are reared the banners of his light, Aditya's, who
 </div>
 
 ## ०२ दिशां प्रज्ञानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/02_dishAM_prajnAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/02_dishAM_prajnAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒शां प्र॒ज्ञानां॑ स्व॒रय॑न्तम॒र्चिषा॑ सुप॒क्षमा॒शुं प॒तय॑न्तमर्ण॒वे।  
 स्तवा॑म॒ सूर्यं॒ भुव॑नस्य गो॒पां यो र॒श्मिभि॒र्दिश॑ आ॒भाति॒ सर्वाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/02_dishAM_prajnAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/02_dishAM_prajnAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Radiant, refulgent in the sky are reared the banners of his light, Aditya's, who
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/02_dishAM_prajnAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/02_dishAM_prajnAnAm.md">
 <details open><summary><h3>०२ दिशां प्रज्ञानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Let us laud him, the whole world's Herdsman, Surya, who with his rays illumines 
 </div>
 
 ## ०३ यत्प्राङ्प्रत्यङ्स्वधया यासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/03_yatprA~Npratya~NsvadhayA_yAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/03_yatprA~Npratya~NsvadhayA_yAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्प्राङ्प्र॒त्यङ्स्व॒धया॒ यासि॒ शीभं॒ नाना॑रूपे॒ अह॑नी॒ कर्षि॑ मा॒यया॑।  
 तदा॑दित्य॒ महि॒ तत्ते॒ महि॒ श्रवो॒ यदेको॒ विश्वं॒ परि॒ भूम॒ जाय॑से ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/03_yatprA~Npratya~NsvadhayA_yAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/03_yatprA~Npratya~NsvadhayA_yAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Let us laud him, the whole world's Herdsman, Surya, who with his rays illumines 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/03_yatprA~Npratya~NsvadhayA_yAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/03_yatprA~Npratya~NsvadhayA_yAsi.md">
 <details open><summary><h3>०३ यत्प्राङ्प्रत्यङ्स्वधया यासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -238,14 +238,14 @@ From west to east thou speedest freely, making by magic day and night of diverse
 </div>
 
 ## ०४ विपश्चितं तरणिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/04_vipashchitaM_taraNim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/04_vipashchitaM_taraNim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑प॒श्चितं॑ त॒रणिं॒ भ्राज॑मानं॒ वह॑न्ति॒ यं ह॒रितः॑ स॒प्त ब॒ह्वीः।  
 स्रु॒ताद्यमत्त्रि॒र्दिव॑मुन्नि॒नाय॒ तं त्वा॑ पश्यन्ति परि॒यान्त॑मा॒जिम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/04_vipashchitaM_taraNim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/04_vipashchitaM_taraNim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -254,7 +254,7 @@ From west to east thou speedest freely, making by magic day and night of diverse
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/04_vipashchitaM_taraNim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/04_vipashchitaM_taraNim.md">
 <details open><summary><h3>०४ विपश्चितं तरणिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -309,14 +309,14 @@ Victorious, inspired, and brightly shining, whom seven strong tawny-coloured cou
 </div>
 
 ## ०५ मा त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/05_mA_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/05_mA_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा त्वा॑ दभन्परि॒यान्त॑मा॒जिं स्व॒स्ति दु॒र्गाँ अति॑ याहि॒ शीभ॑म्।  
 दिवं॑ च सूर्य पृथि॒वीं च॑ दे॒वीम॑होरा॒त्रे वि॒मिमा॑नो॒ यदेषि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/05_mA_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/05_mA_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -325,7 +325,7 @@ Victorious, inspired, and brightly shining, whom seven strong tawny-coloured cou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/05_mA_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/05_mA_tvA.md">
 <details open><summary><h3>०५ मा त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -375,14 +375,14 @@ Let them not snare thee speeding on thy journey: pass safely, swiftly places har
 </div>
 
 ## ०६ स्वस्ति ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/06_svasti_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/06_svasti_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व॒स्ति ते॑ सूर्य च॒रसे॒ रथा॑य॒ येनो॒भावन्तौ॑ परि॒यासि॑ स॒द्यः।  
 यं ते॒ वह॑न्ति ह॒रितो॒ वहि॑ष्ठाः श॒तमश्वा॒ यदि॑ वा स॒प्त ब॒ह्वीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/06_svasti_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/06_svasti_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -391,7 +391,7 @@ Let them not snare thee speeding on thy journey: pass safely, swiftly places har
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/06_svasti_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/06_svasti_te.md">
 <details open><summary><h3>०६ स्वस्ति ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -445,14 +445,14 @@ Hail to thy rapid car whereon, O Surya, thou circlest in a moment both the limit
 </div>
 
 ## ०७ सुखं सूर्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/07_sukhaM_sUrya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/07_sukhaM_sUrya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॒खं सू॑र्य॒ रथ॑मंशु॒मन्तं॑ स्यो॒नं सु॒वह्नि॒मधि॑ तिष्ठ वा॒जिन॑म्।  
 यं ते॒ वह॑न्ति ह॒रितो॒ वहि॑ष्ठाः श॒तमश्वा॒ यदि॑ वा स॒प्त ब॒ह्वीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/07_sukhaM_sUrya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/07_sukhaM_sUrya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -461,7 +461,7 @@ Hail to thy rapid car whereon, O Surya, thou circlest in a moment both the limit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/07_sukhaM_sUrya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/07_sukhaM_sUrya.md">
 <details open><summary><h3>०७ सुखं सूर्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -511,14 +511,14 @@ Mount thy strong car, O Surya, lightly rolling, drawn by good steeds, propitious
 </div>
 
 ## ०८ सप्त सूर्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/08_sapta_sUryo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/08_sapta_sUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त सूर्यो॑ ह॒रितो॒ यात॑वे॒ रथे॒ हिर॑ण्यत्वचसो बृह॒तीर॑युक्त।  
 अमो॑चि शु॒क्रो रज॑सः प॒रस्ता॑द्वि॒धूय॑ दे॒वस्तमो॒ दिव॒मारु॑हत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/08_sapta_sUryo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/08_sapta_sUryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -527,7 +527,7 @@ Mount thy strong car, O Surya, lightly rolling, drawn by good steeds, propitious
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/08_sapta_sUryo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/08_sapta_sUryo.md">
 <details open><summary><h3>०८ सप्त सूर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -583,14 +583,14 @@ Surya hath harnessed to his car to draw him seven stately bay steeds gay with wo
 </div>
 
 ## ०९ उत्केतुना बृहता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/09_utketunA_bRhatA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/09_utketunA_bRhatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्के॒तुना॑ बृह॒ता दे॒व आग॒न्नपा॑वृ॒क्तमो॒ऽभि ज्योति॑रश्रैत्।  
 दि॒व्यः सु॑प॒र्णः स वी॒रो व्य᳡ख्य॒ददि॑तेः पु॒त्रो भुव॑नानि॒ विश्वा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/09_utketunA_bRhatA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/09_utketunA_bRhatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -599,7 +599,7 @@ Surya hath harnessed to his car to draw him seven stately bay steeds gay with wo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/09_utketunA_bRhatA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/09_utketunA_bRhatA.md">
 <details open><summary><h3>०९ उत्केतुना बृहता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -649,14 +649,14 @@ With lofty banner hath the God gone upward, and introduced the light, expelling 
 </div>
 
 ## १० उद्यन्रश्मीना तनुषे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/10_udyanrashmInA_tanuShe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/10_udyanrashmInA_tanuShe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒द्यन्र॒श्मीना त॑नुषे॒ विश्वा॑ रु॒पाणि॑ पुष्यसि।  
 उ॒भा स॑मु॒द्रौ क्रतु॑ना॒ वि भा॑सि॒ सर्वां॑ल्लो॒कान्प॑रि॒भूर्भ्राज॑मानः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/10_udyanrashmInA_tanuShe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/10_udyanrashmInA_tanuShe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -665,7 +665,7 @@ With lofty banner hath the God gone upward, and introduced the light, expelling 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/10_udyanrashmInA_tanuShe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/10_udyanrashmInA_tanuShe.md">
 <details open><summary><h3>१० उद्यन्रश्मीना तनुषे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -714,14 +714,14 @@ Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou 
 </div>
 
 ## ११ पूर्वापरं चरतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/11_pUrvAparaM_charato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/11_pUrvAparaM_charato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पूर्वाप॒रं च॑रतो मा॒ययै॒तौ शिशू॒ क्रीड॑न्तौ॒ परि॑ यातोऽर्ण॒वम्।  
 विश्वा॒न्यो भुव॑ना वि॒चष्टे॑ हैर॒ण्यैर॒न्यं ह॒रितो॑ वहन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/11_pUrvAparaM_charato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/11_pUrvAparaM_charato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -730,7 +730,7 @@ Rising, thou spreadest out thy rays, thou nourishest all shapes and forms. Thou 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/11_pUrvAparaM_charato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/11_pUrvAparaM_charato.md">
 <details open><summary><h3>११ पूर्वापरं चरतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -785,14 +785,14 @@ Moving by magic power to east and westward, these two young creatures, sporting,
 </div>
 
 ## १२ दिवि त्वात्त्रिरधारयत्सूर्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/12_divi_tvAttriradhArayatsUryA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/12_divi_tvAttriradhArayatsUryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वि त्वात्त्रि॑रधारय॒त्सूर्या॒ मासा॑य॒ कर्त॑वे।  
 स ए॑षि॒ सुधृ॑त॒स्तप॒न्विश्वा॑ भू॒ताव॒चाक॑शत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/12_divi_tvAttriradhArayatsUryA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/12_divi_tvAttriradhArayatsUryA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -801,7 +801,7 @@ Moving by magic power to east and westward, these two young creatures, sporting,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/12_divi_tvAttriradhArayatsUryA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/12_divi_tvAttriradhArayatsUryA.md">
 <details open><summary><h3>१२ दिवि त्वात्त्रिरधारयत्सूर्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -851,14 +851,14 @@ Atri established thee in heaven. O Surya, to create the month. So on thou goest,
 </div>
 
 ## १३ उभावन्तौ समर्षसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/13_ubhAvantau_samarShasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/13_ubhAvantau_samarShasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒भावन्तौ॒ सम॑र्षसि व॒त्सः सं॑मा॒तरा॑विव।  
 न॒न्वे॒३॒॑तदि॒तः पु॒रा ब्रह्म॑ दे॒वा अ॒मी वि॑दुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/13_ubhAvantau_samarShasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/13_ubhAvantau_samarShasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -867,7 +867,7 @@ Atri established thee in heaven. O Surya, to create the month. So on thou goest,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/13_ubhAvantau_samarShasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/13_ubhAvantau_samarShasi.md">
 <details open><summary><h3>१३ उभावन्तौ समर्षसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -916,14 +916,14 @@ As the Calf both his parents so thou joinest both the distant bounds, Surely the
 </div>
 
 ## १४ यत्समुद्रमनु श्रितम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/14_yatsamudramanu_shritam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/14_yatsamudramanu_shritam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्स॑मु॒द्रमनु॑ श्रि॒तं तत्सि॑षासति॒ सूर्यः॑।  
 अध्वा॑स्य॒ वित॑तो म॒हान्पूर्व॒श्चाप॑रश्च॒ यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/14_yatsamudramanu_shritam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/14_yatsamudramanu_shritam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -932,7 +932,7 @@ As the Calf both his parents so thou joinest both the distant bounds, Surely the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/14_yatsamudramanu_shritam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/14_yatsamudramanu_shritam.md">
 <details open><summary><h3>१४ यत्समुद्रमनु श्रितम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -981,14 +981,14 @@ Surya is eager to obtain all wealth that lies along the sea, Great is the course
 </div>
 
 ## १५ तं समाप्नोति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/15_taM_samApnoti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/15_taM_samApnoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तं समा॑प्नोति जू॒तिभि॒स्ततो॒ नाप॑ चिकित्सति।  
 तेना॒मृत॑स्य भ॒क्षं दे॒वानां॒ नाव॑ रुन्धते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/15_taM_samApnoti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/15_taM_samApnoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -997,7 +997,7 @@ Surya is eager to obtain all wealth that lies along the sea, Great is the course
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/15_taM_samApnoti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/15_taM_samApnoti.md">
 <details open><summary><h3>१५ तं समाप्नोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1049,14 +1049,14 @@ He finishes his race with speed and never turns his thought aside, Thereby he ke
 </div>
 
 ## १६ उदु त्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/16_udu_tyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/16_udu_tyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑।  
 दृशे विश्वा॑य॒ सूर्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/16_udu_tyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/16_udu_tyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1065,7 +1065,7 @@ He finishes his race with speed and never turns his thought aside, Thereby he ke
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/16_udu_tyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/16_udu_tyam.md">
 <details open><summary><h3>१६ उदु त्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1121,14 +1121,14 @@ His heralds bear him up aloft, the God who knoweth all that live, Surya, that al
 </div>
 
 ## १७ अप त्ये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/17_apa_tye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/17_apa_tye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॒ त्ये ता॒यवो॑ यथा॒ नक्ष॑त्रा यन्त्य॒क्तुभिः॑।  
 सूरा॑य वि॒श्वच॑क्षसे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/17_apa_tye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/17_apa_tye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1137,7 +1137,7 @@ His heralds bear him up aloft, the God who knoweth all that live, Surya, that al
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/17_apa_tye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/17_apa_tye.md">
 <details open><summary><h3>१७ अप त्ये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1186,14 +1186,14 @@ The Constellations pass away, like thieves, departing in the night. Before the a
 </div>
 
 ## १८ अदृश्रन्नस्य केतवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/18_adRshrannasya_ketavo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/18_adRshrannasya_ketavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अदृ॑श्रन्नस्य के॒तवो॒ वि र॒श्मयो॒ जनाँ॒ अनु॑।  
 भ्राज॑न्तो अ॒ग्नयो॑ यथा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/18_adRshrannasya_ketavo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/18_adRshrannasya_ketavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1202,7 +1202,7 @@ The Constellations pass away, like thieves, departing in the night. Before the a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/18_adRshrannasya_ketavo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/18_adRshrannasya_ketavo.md">
 <details open><summary><h3>१८ अदृश्रन्नस्य केतवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1250,14 +1250,14 @@ His herald rays are seen afar refulgent o'er the world of men, Like flames of fi
 </div>
 
 ## १९ तरणिर्विश्वदर्शतो ज्योतिष्कृदसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/19_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/19_taraNirvishvadarshato_jyotiShkRdasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त॒रणि॑र्वि॒श्वद॑र्शतो ज्योति॒ष्कृद॑सि सूर्य।  
 विश्व॒मा भा॑सि रोचन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/19_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/19_taraNirvishvadarshato_jyotiShkRdasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1266,7 +1266,7 @@ His herald rays are seen afar refulgent o'er the world of men, Like flames of fi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/19_taraNirvishvadarshato_jyotiShkRdasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/19_taraNirvishvadarshato_jyotiShkRdasi.md">
 <details open><summary><h3>१९ तरणिर्विश्वदर्शतो ज्योतिष्कृदसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1316,14 +1316,14 @@ Swift and all-beautiful art thou, O Surya, maker of the light, Illuming all the 
 </div>
 
 ## २० प्रत्यङ्देवानां विशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/20_pratya~NdevAnAM_vishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/20_pratya~NdevAnAM_vishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒त्यङ्दे॒वानां॒ विशः॑ प्र॒त्यङ्ङुदे॑षि॒ मानु॑षीः।  
 प्र॒त्यङ्विश्वं॒ स्व᳡र्दृ॒शे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/20_pratya~NdevAnAM_vishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/20_pratya~NdevAnAM_vishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1332,7 +1332,7 @@ Swift and all-beautiful art thou, O Surya, maker of the light, Illuming all the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/20_pratya~NdevAnAM_vishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/20_pratya~NdevAnAM_vishaH.md">
 <details open><summary><h3>२० प्रत्यङ्देवानां विशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1378,14 +1378,14 @@ Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all ligh
 </div>
 
 ## २१ येना पावक
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/21_yenA_pAvaka.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/21_yenA_pAvaka.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येना॑ पावक॒ चक्ष॑सा भुर॒ण्यन्तं॒ जनाँ॒ अनु॑।  
 त्वं व॑रुण॒ पश्य॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/21_yenA_pAvaka.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/21_yenA_pAvaka.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1394,7 +1394,7 @@ Thou goest to the hosts of Gods, thou comest hither to mankind, Hither, all ligh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/21_yenA_pAvaka.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/21_yenA_pAvaka.md">
 <details open><summary><h3>२१ येना पावक ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1441,14 +1441,14 @@ With that same eye of thine wherewith thou seest, brilliant Varuna. The active o
 </div>
 
 ## २२ वि द्यामेषि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/22_vi_dyAmeShi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/22_vi_dyAmeShi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि द्यामे॑षि॒ रज॑स्पृ॒थ्वह॒र्मिमा॑नो अ॒क्तुभिः॑।  
 पश्य॒ञ्जन्मा॑नि सूर्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/22_vi_dyAmeShi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/22_vi_dyAmeShi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1457,7 +1457,7 @@ With that same eye of thine wherewith thou seest, brilliant Varuna. The active o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/22_vi_dyAmeShi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/22_vi_dyAmeShi.md">
 <details open><summary><h3>२२ वि द्यामेषि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1506,14 +1506,14 @@ Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seein
 </div>
 
 ## २३ सप्त त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/23_sapta_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/23_sapta_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य।  
 शो॒चिष्के॑शं विचक्ष॒णम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/23_sapta_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/23_sapta_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1522,7 +1522,7 @@ Traversing sky and wide mid-air, thou metest with thy beams our days, Sun, seein
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/23_sapta_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/23_sapta_tvA.md">
 <details open><summary><h3>२३ सप्त त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1570,14 +1570,14 @@ Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, Su
 </div>
 
 ## २४ अयुक्त सप्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/24_ayukta_sapta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/24_ayukta_sapta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अयु॑क्त स॒प्त शु॒न्ध्युवः॒ सूरो॒ रथ॑स्य न॒प्त्यः᳡।  
 ताभि॑र्याति॒ स्वयु॑क्तिभिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/24_ayukta_sapta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/24_ayukta_sapta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1586,7 +1586,7 @@ Seven bay steeds harnessed to thy car bear thee, O thou far- seeing One, God, Su
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/24_ayukta_sapta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/24_ayukta_sapta.md">
 <details open><summary><h3>२४ अयुक्त सप्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1637,14 +1637,14 @@ Surya, hath yoked the pure bright seven, the daughters of the car, with these, H
 </div>
 
 ## २५ रोहितो दिवमारुहत्तपसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/25_rohito_divamAruhattapasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/25_rohito_divamAruhattapasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रोहि॑तो दिव॒मारु॑ह॒त्तप॑सा तप॒स्वी।  
 स योनि॒मैति॒ स उ॑ जायते॒ पुनः॒ स दे॒वाना॒मधि॑पतिर्बभूव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/25_rohito_divamAruhattapasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/25_rohito_divamAruhattapasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1653,7 +1653,7 @@ Surya, hath yoked the pure bright seven, the daughters of the car, with these, H
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/25_rohito_divamAruhattapasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/25_rohito_divamAruhattapasA.md">
 <details open><summary><h3>२५ रोहितो दिवमारुहत्तपसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1704,14 +1704,14 @@ Devout, aflame with fervent heat, Rohita hath gone up to heaven. He is re-born, 
 </div>
 
 ## २६ यो विश्वचर्षणिरुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/26_yo_vishvacharShaNiruta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/26_yo_vishvacharShaNiruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो वि॒श्वच॑र्षणिरु॒त वि॒श्वतो॑मुखो॒ यो वि॒श्वत॑स्पाणिरु॒त वि॒श्वत॑स्पृथः।  
 सं बा॒हुभ्यां॑ भरति॒ सं पत॑त्त्रै॒र्द्यावा॑पृथि॒वी ज॒नय॑न्दे॒व एकः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/26_yo_vishvacharShaNiruta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/26_yo_vishvacharShaNiruta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1720,7 +1720,7 @@ Devout, aflame with fervent heat, Rohita hath gone up to heaven. He is re-born, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/26_yo_vishvacharShaNiruta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/26_yo_vishvacharShaNiruta.md">
 <details open><summary><h3>२६ यो विश्वचर्षणिरुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1779,14 +1779,14 @@ Dear unto all men, facing all directions, with hands and palms on every side ext
 </div>
 
 ## २७ एकपाद्द्विपदो भूयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/27_ekapAddvipado_bhUyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/27_ekapAddvipado_bhUyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एक॑पा॒द्द्विप॑दो॒ भूयो॒ वि च॑क्र॒मे द्विपा॒त्त्रिपा॑दम॒भ्ये᳡ति प॒श्चात्।  
 द्विपा॑द्ध॒ षट्प॑दो॒ भूयो॒ वि च॑क्रमे॒ त एक॑पदस्त॒न्वं१॒॑ समा॑सते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/27_ekapAddvipado_bhUyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/27_ekapAddvipado_bhUyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1795,7 +1795,7 @@ Dear unto all men, facing all directions, with hands and palms on every side ext
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/27_ekapAddvipado_bhUyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/27_ekapAddvipado_bhUyo.md">
 <details open><summary><h3>२७ एकपाद्द्विपदो भूयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1852,14 +1852,14 @@ The single-footed hath outstepped the biped, the biped overtakes the triple-foot
 </div>
 
 ## २८ अतन्द्रो यास्यन्हरितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/28_atandro_yAsyanharito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/28_atandro_yAsyanharito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अत॑न्द्रो या॒स्यन्ह॒रितो॒ यदास्था॒द्द्वे रू॒पे कृ॑णुते॒ रोच॑मानः।  
 के॑तु॒मानु॒द्यन्त्सह॑मानो॒ रजां॑सि॒ विश्वा॑ आदित्य प्र॒वतो॒ वि भा॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/28_atandro_yAsyanharito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/28_atandro_yAsyanharito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1868,7 +1868,7 @@ The single-footed hath outstepped the biped, the biped overtakes the triple-foot
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/28_atandro_yAsyanharito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/28_atandro_yAsyanharito.md">
 <details open><summary><h3>२८ अतन्द्रो यास्यन्हरितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1918,14 +1918,14 @@ When he, unwearied, fain to go, hath mounted his bays, he makes two colours, bri
 </div>
 
 ## २९ बण्महाँ असि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/29_baNmahA.N_asi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/29_baNmahA.N_asi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बण्म॒हाँ अ॑सि सूर्य॒ बडा॑दित्य म॒हाँ अ॑सि।  
 म॒हांस्ते॑ मह॒तो म॑हि॒मा त्वमा॑दित्य म॒हाँ अ॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/29_baNmahA.N_asi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/29_baNmahA.N_asi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1934,7 +1934,7 @@ When he, unwearied, fain to go, hath mounted his bays, he makes two colours, bri
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/29_baNmahA.N_asi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/29_baNmahA.N_asi.md">
 <details open><summary><h3>२९ बण्महाँ असि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1987,14 +1987,14 @@ Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grand
 </div>
 
 ## ३० रोचसे दिवि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/30_rochase_divi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/30_rochase_divi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रोच॑से दि॒वि रोच॑से अ॒न्तरि॑क्षे॒ पत॑ङ्ग पृथि॒व्यां रो॑चसे॒ रोच॑से अ॒प्स्व१॒॑न्तः।  
 उ॒भा स॑मु॒द्रौ रुच्या॒ व्या᳡पिथ दे॒वो दे॑वासि महि॒षः स्व॒र्जित् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/30_rochase_divi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/30_rochase_divi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2003,7 +2003,7 @@ Verily, Surya, thou art great: truly, Aditya, thou art great. Great is thy grand
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/30_rochase_divi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/30_rochase_divi.md">
 <details open><summary><h3>३० रोचसे दिवि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2056,14 +2056,14 @@ In heaven, O Bird, and in mid-air thou shinest: thou shinest on the earth and in
 </div>
 
 ## ३१ अर्वाङ्परस्तात्प्रयतो व्यध्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒र्वाङ्प॒रस्ता॒त्प्रय॑तो व्य॒ध्व आ॒शुर्वि॑प॒श्चित्प॒तय॑न्पत॒ङ्गः।  
 विष्णु॒र्विचि॑त्तः॒ शव॑साधि॒तिष्ठ॒न्प्र के॒तुना॑ सहते॒ विश्व॒मेज॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2072,7 +2072,7 @@ In heaven, O Bird, and in mid-air thou shinest: thou shinest on the earth and in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/31_arvA~NparastAtprayato_vyadhva.md">
 <details open><summary><h3>३१ अर्वाङ्परस्तात्प्रयतो व्यध्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2121,14 +2121,14 @@ Soaring in mid-course hither from the distance, fleet and ins- pired, the Bird t
 </div>
 
 ## ३२ चित्रश्चिकित्वान्महिषः सुपर्ण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चि॒त्रश्चि॑कि॒त्वान्म॑हि॒षः सु॑प॒र्ण आ॑रो॒चय॒न्रोद॑सी अ॒न्तरि॑क्षम्।  
 अ॑होरा॒त्रे परि॒ सूर्यं॒ वसा॑ने॒ प्रास्य॒ विश्वा॑ तिरतो वी॒र्या᳡णि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2137,7 +2137,7 @@ Soaring in mid-course hither from the distance, fleet and ins- pired, the Bird t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/32_chitrashchikitvAnmahiShaH_suparNa.md">
 <details open><summary><h3>३२ चित्रश्चिकित्वान्महिषः सुपर्ण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2191,14 +2191,14 @@ Brilliant, observant, mighty Lord, an Eagle illuming both the spheres and air be
 </div>
 
 ## ३३ तिग्मो विभ्राजन्तन्वं
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/33_tigmo_vibhrAjantanvaM.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/33_tigmo_vibhrAjantanvaM.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒ग्मो वि॒भ्राज॑न्त॒न्वं१॒॑ शिशा॑नोऽरंग॒मासः॑ प्र॒वतो॒ ररा॑णः।  
 ज्योति॑ष्मान्प॒क्षी म॑हि॒षो व॑यो॒धा विश्वा॒ आस्था॑त्प्र॒दिशः॒ कल्प॑मानः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/33_tigmo_vibhrAjantanvaM.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/33_tigmo_vibhrAjantanvaM.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2207,7 +2207,7 @@ Brilliant, observant, mighty Lord, an Eagle illuming both the spheres and air be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/33_tigmo_vibhrAjantanvaM.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/33_tigmo_vibhrAjantanvaM.md">
 <details open><summary><h3>३३ तिग्मो विभ्राजन्तन्वं ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2258,14 +2258,14 @@ Flaming and radiant, strengthening his body, bestowing floods that promptly come
 </div>
 
 ## ३४ चित्रं देवानाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/34_chitraM_devAnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/34_chitraM_devAnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चि॒त्रं दे॒वानां॑ के॒तुरनी॑कं॒ ज्योति॑ष्मान्प्र॒दिशः॒ सूर्य॑ उ॒द्यन्।  
 दि॑वाक॒रोऽति॑ द्यु॒म्नैस्तमां॑सि॒ विश्वा॑तारीद्दुरि॒तानि॑ शु॒क्रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/34_chitraM_devAnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/34_chitraM_devAnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2274,7 +2274,7 @@ Flaming and radiant, strengthening his body, bestowing floods that promptly come
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/34_chitraM_devAnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/34_chitraM_devAnAm.md">
 <details open><summary><h3>३४ चित्रं देवानाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2333,14 +2333,14 @@ Bright presence of the Gods, the luminous herald Surya hath mounted the celestia
 </div>
 
 ## ३५ चित्रं देवानामुदगादनीकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/35_chitraM_devAnAmudagAdanIkam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/35_chitraM_devAnAmudagAdanIkam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चि॒त्रं दे॒वाना॒मुद॑गा॒दनी॑कं॒ चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्या॒ग्नेः।  
 आप्रा॒द्द्यावा॑पृथि॒वी अ॒न्तरि॑क्षं॒ सूर्य॑ आ॒त्मा जग॑तस्त॒स्थुष॑श्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/35_chitraM_devAnAmudagAdanIkam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/35_chitraM_devAnAmudagAdanIkam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2349,7 +2349,7 @@ Bright presence of the Gods, the luminous herald Surya hath mounted the celestia
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/35_chitraM_devAnAmudagAdanIkam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/35_chitraM_devAnAmudagAdanIkam.md">
 <details open><summary><h3>३५ चित्रं देवानामुदगादनीकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2405,14 +2405,14 @@ He hath gone up on high, the Gods' bright presence, the eye of Mitra, Varuna and
 </div>
 
 ## ३६ उच्चा पतन्तमरुणम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/36_uchchA_patantamaruNam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/36_uchchA_patantamaruNam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒च्चा पत॑न्तमरु॒णं सु॑प॒र्णं मध्ये॑ दि॒वस्त॒रणिं॒ भ्राज॑मानम्।  
 पश्या॑म त्वा सवि॒तारं॒ यमा॒हुरज॑स्रं॒ ज्योति॒र्यद॑विन्द॒दत्त्रिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/36_uchchA_patantamaruNam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/36_uchchA_patantamaruNam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2421,7 +2421,7 @@ He hath gone up on high, the Gods' bright presence, the eye of Mitra, Varuna and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/36_uchchA_patantamaruNam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/36_uchchA_patantamaruNam.md">
 <details open><summary><h3>३६ उच्चा पतन्तमरुणम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2469,14 +2469,14 @@ High in the midst of heaven may we behold thee whom men call Savitar, the bright
 </div>
 
 ## ३७ दिवस्पृष्ठे धावमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/37_divaspRShThe_dhAvamAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/37_divaspRShThe_dhAvamAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वस्पृ॒ष्ठे धाव॑मानं सुप॒र्णमदि॑त्याः पु॒त्रं ना॒थका॑म॒ उप॑ यामि भी॒तः।  
 स नः॑ सूर्य॒ प्र ति॑र दी॒र्घमायु॒र्मा रि॑षाम सुम॒तौ ते॑ स्याम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/37_divaspRShThe_dhAvamAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/37_divaspRShThe_dhAvamAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2485,7 +2485,7 @@ High in the midst of heaven may we behold thee whom men call Savitar, the bright
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/37_divaspRShThe_dhAvamAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/37_divaspRShThe_dhAvamAnam.md">
 <details open><summary><h3>३७ दिवस्पृष्ठे धावमानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2536,14 +2536,14 @@ Him, Son of Aditi, an Eagle hasting along heaven's height, I supplicate in terro
 </div>
 
 ## ३८ सहस्राह्ण्यं वियतावस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/38_sahasrAhNyaM_viyatAvasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/38_sahasrAhNyaM_viyatAvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑हस्रा॒ह्ण्यं विय॑तावस्य प॒क्षौ हरे॑र्हं॒सस्य॒ पत॑तः स्व॒र्गम्।  
 स दे॒वान्त्सर्वा॒नुर॑स्युप॒दद्य॑ सं॒पश्य॑न्याति॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/38_sahasrAhNyaM_viyatAvasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/38_sahasrAhNyaM_viyatAvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2552,7 +2552,7 @@ Him, Son of Aditi, an Eagle hasting along heaven's height, I supplicate in terro
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/38_sahasrAhNyaM_viyatAvasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/38_sahasrAhNyaM_viyatAvasya.md">
 <details open><summary><h3>३८ सहस्राह्ण्यं वियतावस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2600,14 +2600,14 @@ This gold-hued Hansa's wings, soaring to heaven, spread o'er a thousand days' co
 </div>
 
 ## ३९ रोहितः कालो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/39_rohitaH_kAlo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/39_rohitaH_kAlo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रोहि॑तः का॒लो अ॑भव॒द्रोहि॒तोऽग्रे॑ प्र॒जाप॑तिः।  
 रोहि॑तो य॒ज्ञानां॒ मुखं॒ रोहि॑तः॒ स्व१॒॑राभ॑रत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/39_rohitaH_kAlo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/39_rohitaH_kAlo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2616,7 +2616,7 @@ This gold-hued Hansa's wings, soaring to heaven, spread o'er a thousand days' co
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/39_rohitaH_kAlo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/39_rohitaH_kAlo.md">
 <details open><summary><h3>३९ रोहितः कालो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2664,14 +2664,14 @@ Rohita, in primeval days Prajapati, was, after, Time, Mouth of all sacrifices, h
 </div>
 
 ## ४० रोहितो लोको
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/40_rohito_loko.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/40_rohito_loko.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रोहि॑तो लो॒को अ॑भव॒द्रोहि॒तोऽत्य॑तप॒द्दिव॑म्।  
 रोहि॑तो र॒श्मिभि॒र्भूमिं॑ समु॒द्रमनु॒ सं च॑रत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/40_rohito_loko.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/40_rohito_loko.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2680,7 +2680,7 @@ Rohita, in primeval days Prajapati, was, after, Time, Mouth of all sacrifices, h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/40_rohito_loko.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/40_rohito_loko.md">
 <details open><summary><h3>४० रोहितो लोको ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2728,14 +2728,14 @@ He, Rohita, became the world: Rohita gave the heaven its heat. Rohita with his b
 </div>
 
 ## ४१ सर्वा दिशः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/41_sarvA_dishaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/41_sarvA_dishaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वा॒ दिशः॒ सम॑चर॒द्रोहि॒तोऽधि॑पतिर्दि॒वः।  
 दिवं॑ समु॒द्रमाद्भूमिं॒ सर्वं॑ भू॒तं वि र॑क्षति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/41_sarvA_dishaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/41_sarvA_dishaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2744,7 +2744,7 @@ He, Rohita, became the world: Rohita gave the heaven its heat. Rohita with his b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/41_sarvA_dishaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/41_sarvA_dishaH.md">
 <details open><summary><h3>४१ सर्वा दिशः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2791,14 +2791,14 @@ To all the regions Rohita came, the imperial Lord of heaven. He watches over oce
 </div>
 
 ## ४२ आरोहन्छुक्रो बृहतीरतन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/42_ArohanChukro_bRhatIratandro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/42_ArohanChukro_bRhatIratandro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒रोह॑न्छु॒क्रो बृ॑ह॒तीरत॑न्द्रो॒ द्वे रू॒पे कृ॑णुते॒ रोच॑मानः।  
 चि॒त्रश्चि॑कि॒त्वान्म॑हि॒षो वात॑माया॒ याव॑तो लो॒कान॒भि यद्वि॒भाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/42_ArohanChukro_bRhatIratandro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/42_ArohanChukro_bRhatIratandro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2807,7 +2807,7 @@ To all the regions Rohita came, the imperial Lord of heaven. He watches over oce
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/42_ArohanChukro_bRhatIratandro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/42_ArohanChukro_bRhatIratandro.md">
 <details open><summary><h3>४२ आरोहन्छुक्रो बृहतीरतन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2863,14 +2863,14 @@ Mounting the lofty ones, he, bright, unwearied, splendidly shining, makes two se
 </div>
 
 ## ४३ अभ्यन्यदेति पर्यन्यदस्यतेऽहोरात्राभ्याम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/43_abhyanyadeti_paryanyadasyate-horAtrAbhyAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/43_abhyanyadeti_paryanyadasyate-horAtrAbhyAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भ्य१॒॑न्यदे॑ति॒ पर्य॒न्यद॑स्यतेऽहोरा॒त्राभ्यां॑ महि॒षः कल्प॑मानः।  
 सूर्यं॑ व॒यं रज॑सि क्षि॒यन्तं॑ गातु॒विदं॑ हवामहे॒ नाध॑मानाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/43_abhyanyadeti_paryanyadasyate-horAtrAbhyAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/43_abhyanyadeti_paryanyadasyate-horAtrAbhyAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2879,7 +2879,7 @@ Mounting the lofty ones, he, bright, unwearied, splendidly shining, makes two se
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/43_abhyanyadeti_paryanyadasyate-horAtrAbhyAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/43_abhyanyadeti_paryanyadasyate-horAtrAbhyAm.md">
 <details open><summary><h3>४३ अभ्यन्यदेति पर्यन्यदस्यतेऽहोरात्राभ्याम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2931,14 +2931,14 @@ One form comes on, the other is reverted: to day and night the Strong One shapes
 </div>
 
 ## ४४ पृथिवीप्रो महिषो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/44_pRthivIpro_mahiSho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/44_pRthivIpro_mahiSho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॑थिवी॒प्रो म॑हि॒षो नाध॑मानस्य गा॒तुरद॑ब्धचक्षुः॒ परि॒ विश्वं॑ बभूव।  
 विश्वं॑ सं॒पश्य॑न्त्सुवि॒दत्रो॒ यज॑त्र इ॒दं शृ॑णोतु॒ यद॒हं ब्रवी॑मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/44_pRthivIpro_mahiSho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/44_pRthivIpro_mahiSho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2947,7 +2947,7 @@ One form comes on, the other is reverted: to day and night the Strong One shapes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/44_pRthivIpro_mahiSho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/44_pRthivIpro_mahiSho.md">
 <details open><summary><h3>४४ पृथिवीप्रो महिषो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3001,14 +3001,14 @@ The suppliant's way, filling the earth, the Mighty circleth the world with eye t
 </div>
 
 ## ४५ पर्यस्य महिमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/45_paryasya_mahimA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/45_paryasya_mahimA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पर्य॑स्य महि॒मा पृ॑थि॒वीं स॑मु॒द्रं ज्योति॑षा वि॒भ्राज॒न्परि॒ द्याम॒न्तरि॑क्षम्।  
 सर्वं॑ सं॒पश्य॑न्त्सुवि॒दत्रो॒ यज॑त्र इ॒दं शृ॑णोतु॒ यद॒हं ब्रवी॑मि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/45_paryasya_mahimA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/45_paryasya_mahimA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3017,7 +3017,7 @@ The suppliant's way, filling the earth, the Mighty circleth the world with eye t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/45_paryasya_mahimA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/45_paryasya_mahimA.md">
 <details open><summary><h3>४५ पर्यस्य महिमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3067,14 +3067,14 @@ Blazing with light his majesty hath compassed ocean and earth and heaven and air
 </div>
 
 ## ४६ अबोध्यग्निः समिधा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/46_abodhyagniH_samidhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/13/002_adhyAtmam/46_abodhyagniH_samidhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अबो॑ध्य॒ग्निः स॒मिधा॒ जना॑नां॒ प्रति॑ धे॒नुमि॑वाय॒तीमु॒षास॑म्।  
 य॒ह्वा इ॑व॒ प्र व॒यामु॒ज्जिहा॑नाः॒ प्र भा॒नवः॑ सिस्रते॒ नाक॒मच्छ॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/46_abodhyagniH_samidhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/13/002_adhyAtmam/46_abodhyagniH_samidhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3083,7 +3083,7 @@ Blazing with light his majesty hath compassed ocean and earth and heaven and air
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/46_abodhyagniH_samidhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/13/002_adhyAtmam/46_abodhyagniH_samidhA.md">
 <details open><summary><h3>४६ अबोध्यग्निः समिधा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

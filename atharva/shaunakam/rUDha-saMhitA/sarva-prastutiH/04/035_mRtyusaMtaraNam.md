@@ -2,7 +2,7 @@
 title = "०३५ मृत्युसंतरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/_index.md">
 <details open><summary><h2>०३५ मृत्युसंतरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Magnification of the Odana or oblation of milk and rice
 </div>
 
 ## ०१ यमोदनं प्रथमजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यमो॑द॒नं प्र॑थम॒जा ऋ॒तस्य॑ प्र॒जाप॑ति॒स्तप॑सा ब्र॒ह्मणेऽप॑चत्।  
 यो लो॒कानां॒ विधृ॑ति॒र्नाभि॒रेषा॒त्तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Magnification of the Odana or oblation of milk and rice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/01_yamodanaM_prathamajA.md">
 <details open><summary><h3>०१ यमोदनं प्रथमजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Odana which Prajapati, the firstborn of Order, dressed with fervour for the Brah
 </div>
 
 ## ०२ येनातरन्भूतकृतोऽति मृत्युम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येनात॑रन्भूत॒कृतोऽति॑ मृ॒त्युं यम॒न्ववि॑न्द॒न्तप॑सा॒ श्रमे॑ण।  
 यं प॒पाच॑ ब्र॒ह्मणे॒ ब्रह्म॒ पूर्वं॒ तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Odana which Prajapati, the firstborn of Order, dressed with fervour for the Brah
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/02_yenAtaranbhUtakRto-ti_mRtyum.md">
 <details open><summary><h3>०२ येनातरन्भूतकृतोऽति मृत्युम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Whereby the World-Creators vanquished Mrityu, that which they found by fervour, 
 </div>
 
 ## ०३ यो दाधार
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो दा॒धार॑ पृथि॒वीं वि॒श्वभो॑जसं॒ यो अ॒न्तरि॑क्ष॒मापृ॑णा॒द्रसे॑न।  
 यो अस्त॑भ्ना॒द्दिव॑मू॒र्ध्वो म॑हि॒म्ना ते॑नौद॒नेनाति॑ तराणि मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Whereby the World-Creators vanquished Mrityu, that which they found by fervour, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/03_yo_dAdhAra.md">
 <details open><summary><h3>०३ यो दाधार ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ That which upholds the Earth, the all-sustainer, that which hath filled air's mi
 </div>
 
 ## ०४ यस्मान्मासा निर्मितास्त्रिंशदराः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्मा॒न्मासा॒ निर्मि॑तास्त्रिं॒शद॑राः संवत्स॒रो यस्मा॒न्निर्मि॑तो॒ द्वाद॑शारः।  
 अ॑होरा॒त्रा यं प॑रि॒यन्तो॒ नापुस्तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ That which upholds the Earth, the all-sustainer, that which hath filled air's mi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/04_yasmAnmAsA_nirmitAstriMshadarAH.md">
 <details open><summary><h3>०४ यस्मान्मासा निर्मितास्त्रिंशदराः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ From which the months with thirty spokes were moulded, from which the twelve-spo
 </div>
 
 ## ०५ यः प्राणदः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यः प्रा॑ण॒दः प्रा॑ण॒दवा॑न्ब॒भूव॒ यस्मै॑ लो॒का घृ॒तव॑न्तः॒ क्षर॑न्ति।  
 ज्योति॑ष्मतीः प्र॒दिशो॒ यस्य॒ सर्वा॒स्तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ From which the months with thirty spokes were moulded, from which the twelve-spo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/05_yaH_prANadaH.md">
 <details open><summary><h3>०५ यः प्राणदः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -416,14 +416,14 @@ Which hath become breath-giver, life-bestower; to which the worlds flow full of 
 </div>
 
 ## ०६ यस्मात्पक्वादमृतं सम्बभूव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्मा॑त्प॒क्वाद॒मृतं॑ संब॒भूव॒ यो गा॑य॒त्र्या अधि॑पतिर्ब॒भूव॑।  
 यस्मि॒न्वेदा॒ निहि॑ता वि॒श्वरू॑पा॒स्तेनौ॑द॒नेनाति॑ तराणि मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -432,7 +432,7 @@ Which hath become breath-giver, life-bestower; to which the worlds flow full of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/06_yasmAtpakvAdamRtaM_sambabhUva.md">
 <details open><summary><h3>०६ यस्मात्पक्वादमृतं सम्बभूव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -474,14 +474,14 @@ From which, matured, sprang Amrit into being, which hath become Gayatris lord an
 </div>
 
 ## ०७ अव बाधे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॑ बाधे द्वि॒षन्तं॑ देवपी॒युं स॒पत्ना॒ ये मेऽप॑ ते भवन्तु।  
 ब्र॑ह्मौद॒नं वि॑श्व॒जितं॑ पचामि शृ॒ण्वन्तु॑ मे श्र॒द्दधा॑नस्य दे॒वाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -490,7 +490,7 @@ From which, matured, sprang Amrit into being, which hath become Gayatris lord an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/035_mRtyusaMtaraNam/07_ava_bAdhe.md">
 <details open><summary><h3>०७ अव बाधे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

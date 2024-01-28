@@ -2,7 +2,7 @@
 title = "०८६ त्राता इन्द्रः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/_index.md">
 <details open><summary><h2>०८६ त्राता इन्द्रः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ The same
 </div>
 
 ## ०१ त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्।  
 हु॒वे नु॑ श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न्कृणोतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ The same
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/086_trAtA_indraH/01_trAtAramindramavitAramindraM_havehave.md">
 <details open><summary><h3>०१ त्रातारमिन्द्रमवितारमिन्द्रं हवेहवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

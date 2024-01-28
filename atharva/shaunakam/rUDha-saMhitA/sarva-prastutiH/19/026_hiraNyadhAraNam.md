@@ -2,7 +2,7 @@
 title = "०२६ हिरण्यधारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/_index.md">
 <details open><summary><h2>०२६ हिरण्यधारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn accompanying investiture with an amulet of gold
 </div>
 
 ## ०१ अग्नेः प्रजातम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु।  
 य ए॑न॒द्वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn accompanying investiture with an amulet of gold
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/01_agneH_prajAtam.md">
 <details open><summary><h3>०१ अग्नेः प्रजातम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ Gold that was born from Fire is immortal hath been deposited with mortal creatur
 </div>
 
 ## ०२ यद्धिरण्यं सूर्येण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं॑ प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे।  
 तत्त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान्भवति॒ यो बि॒भर्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Gold that was born from Fire is immortal hath been deposited with mortal creatur
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/02_yaddhiraNyaM_sUryeNa.md">
 <details open><summary><h3>०२ यद्धिरण्यं सूर्येण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ The men of ancient time with children round them longed for this Gold, bright wi
 </div>
 
 ## ०३ आयुषे त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयु॑षे त्वा॒ वर्च॑से॒ त्वौज॑से च॒ बला॑य च।  
 यथा॑ हिरण्य॒तेज॑सा वि॒भासा॑सि॒ जनाँ॒ अनु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ The men of ancient time with children round them longed for this Gold, bright wi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/03_AyuShe_tvA.md">
 <details open><summary><h3>०३ आयुषे त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -257,14 +257,14 @@ Long life and splendour let it bring energy and strength to thee. That thou mays
 </div>
 
 ## ०४ यद्वेद राजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑।  
 इन्द्रो॒ यद्वृ॑त्र॒हा वेद॒ तत्त॑ आयु॒ष्यं॑ भुव॒त्तत्ते॑ वर्च॒स्यं॑ भुवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -273,7 +273,7 @@ Long life and splendour let it bring energy and strength to thee. That thou mays
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/026_hiraNyadhAraNam/04_yadveda_rAjA.md">
 <details open><summary><h3>०४ यद्वेद राजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

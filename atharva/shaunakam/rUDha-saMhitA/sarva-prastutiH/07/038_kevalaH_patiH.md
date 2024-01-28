@@ -2,7 +2,7 @@
 title = "०३८ केवलः पतिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/_index.md">
 <details open><summary><h2>०३८ केवलः पतिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A maiden's love-charm
 </div>
 
 ## ०१ इदं खनामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं ख॑नामि भेष॒जं मां॑प॒श्यम॑भिरोरु॒दम्।  
 प॑राय॒तो नि॒वर्त॑नमाय॒तः प्र॑ति॒नन्द॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A maiden's love-charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/01_idaM_khanAmi.md">
 <details open><summary><h3>०१ इदं खनामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -129,14 +129,14 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 </div>
 
 ## ०२ येना निचक्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येना॑ निच॒क्र आ॑सु॒रीन्द्रं॑ दे॒वेभ्य॒स्परि॑।  
 तेना॒ नि कु॑र्वे॒ त्वाम॒हं यथा॒ तेऽसा॑नि॒ सुप्रि॑या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/02_yenA_nichakra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -145,7 +145,7 @@ I dig this Healing Herb that makes my lover look on me and weep; That bids the p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/02_yenA_nichakra.md">
 <details open><summary><h3>०२ येना निचक्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -194,14 +194,14 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 </div>
 
 ## ०३ प्रतीची सोममसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒तीची॒ सोम॑मसि प्र॒तीच्यु॒त सूर्य॑म्।  
 प्र॒तीची॒ विश्वा॑न्दे॒वान्तां त्वा॒च्छाव॑दामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -210,7 +210,7 @@ This Herb wherewith the Asuri drew Indra downward from the Gods, With this same 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/03_pratIchI_somamasi.md">
 <details open><summary><h3>०३ प्रतीची सोममसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -262,14 +262,14 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 </div>
 
 ## ०४ अहं वदामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒हं व॑दामि॒ नेत्त्वं स॒भाया॒मह॒ त्वं वद॑।  
 ममेदस॒स्त्वं केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -278,7 +278,7 @@ Thou art the peer of Soma, yea, thou art the equal of the Sun, The peer of all t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/04_ahaM_vadAmi.md">
 <details open><summary><h3>०४ अहं वदामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -331,14 +331,14 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 </div>
 
 ## ०५ यदि वासि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॒ वासि॑ तिरोज॒नं यदि॑ वा न॒द्य᳡स्तिरः।  
 इ॒यं ह॒ मह्यं॒ त्वामोष॑धिर्ब॒द्ध्वेव॒ न्यान॑यत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/05_yadi_vAsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -347,7 +347,7 @@ I am the speaker here, not thou: speak thou where the assembly meets. Thou shalt
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/038_kevalaH_patiH/05_yadi_vAsi.md">
 <details open><summary><h3>०५ यदि वासि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

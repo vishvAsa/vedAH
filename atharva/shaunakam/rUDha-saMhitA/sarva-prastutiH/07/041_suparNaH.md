@@ -2,7 +2,7 @@
 title = "०४१ सुपर्णः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/_index.md">
 <details open><summary><h2>०४१ सुपर्णः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for prosperity
 </div>
 
 ## ०१ अति धन्वान्यत्यपस्ततर्द
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अति॒ धन्वा॒न्यत्य॒पस्त॑तर्द श्ये॒नो नृ॒चक्षा॑ अवसानद॒र्शः।  
 तर॒न्विश्वा॒न्यव॑रा॒ रजां॒सीन्द्रे॑ण॒ सख्या॑ शि॒व आ ज॑गम्यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/01_ati_dhanvAnyatyapastatarda.md">
 <details open><summary><h3>०१ अति धन्वान्यत्यपस्ततर्द ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Observing men, and viewing home, the Falcon hath cleft his swift way over wastes
 </div>
 
 ## ०२ श्येनो नृचक्षा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/02_shyeno_nRchaxA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्ये॒नो नृ॒चक्षा॑ दि॒व्यः सु॑प॒र्णः स॒हस्र॑पाच्छ॒तयो॑निर्वयो॒धाः।  
 स नो॒ नि य॑च्छा॒द्वसु॒ यत्परा॑भृतम॒स्माक॑मस्तु पि॒तृषु॑ स्व॒धाव॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/02_shyeno_nRchaxA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Observing men, and viewing home, the Falcon hath cleft his swift way over wastes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/02_shyeno_nRchaxA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/041_suparNaH/02_shyeno_nRchaxA.md">
 <details open><summary><h3>०२ श्येनो नृचक्षा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

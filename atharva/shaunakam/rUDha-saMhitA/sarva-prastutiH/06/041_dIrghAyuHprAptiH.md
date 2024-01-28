@@ -2,7 +2,7 @@
 title = "०४१ दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>०४१ दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for protection, long life, and various blessings
 </div>
 
 ## ०१ मनसे चेतसे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मन॑से॒ चेत॑से धि॒य आकू॑तय उ॒त चित्त॑ये।  
 म॒त्यै श्रु॒ताय॒ चक्ष॑से वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for protection, long life, and various blessings
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/01_manase_chetase.md">
 <details open><summary><h3>०१ मनसे चेतसे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 </div>
 
 ## ०२ अपानाय व्यानाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑पा॒नाय॑ व्या॒नाय॑ प्रा॒णाय॒ भूरि॑धायसे।  
 सर॑स्वत्या उरु॒व्यचे॑ वि॒धेम॑ ह॒विषा॑ व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ For mind, for intellect, for thought, for purpose, for intelligence,. For sense,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/02_apAnAya_vyAnAya.md">
 <details open><summary><h3>०२ अपानाय व्यानाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -160,14 +160,14 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 </div>
 
 ## ०३ मा नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मा नो॑ हासिषु॒रृष॑यो॒ दैव्या॒ ये त॑नू॒पा ये न॑स्त॒न्व᳡स्तनू॒जाः।  
 अम॑र्त्या॒ मर्त्यां॑ अ॒भि नः॑ सचध्व॒मायु॑र्धत्त प्रत॒रं जी॒वसे॑ नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/03_mA_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -176,7 +176,7 @@ For expiration, vital air, and breath that amply nourishes, Let us with sacrific
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/041_dIrghAyuHprAptiH/03_mA_no.md">
 <details open><summary><h3>०३ मा नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

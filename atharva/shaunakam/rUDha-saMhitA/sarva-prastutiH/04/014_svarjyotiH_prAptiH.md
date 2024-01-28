@@ -2,7 +2,7 @@
 title = "०१४ स्वर्ज्योतिः प्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/_index.md">
 <details open><summary><h2>०१४ स्वर्ज्योतिः प्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Accompanying the sacrifice of a he-goat
 </div>
 
 ## ०१ अजो ह्यग्नेरजनिष्ट
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒जो ह्य१॒॑ग्नेरज॑निष्ट॒ शोका॒त्सो अ॑पश्यज्जनि॒तार॒मग्रे॑।  
 तेन॑ दे॒वा दे॒वता॒मग्र॑ आय॒न्तेन॒ रोहा॑न्रुरुहु॒र्मेध्या॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Accompanying the sacrifice of a he-goat
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/01_ajo_hyagnerajaniShTa.md">
 <details open><summary><h3>०१ अजो ह्यग्नेरजनिष्ट ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ The Goat was verily produced from Agni. Through sorrow he beheld, at first, his 
 </div>
 
 ## ०२ क्रमध्वमग्निना नाकमुख्यान्हस्तेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्रम॑ध्वम॒ग्निना॒ नाक॒मुख्या॒न्हस्ते॑षु॒ बिभ्र॑तः।  
 दि॒वस्पृ॒ष्ठं स्व॑र्ग॒त्वा मि॒श्रा दे॒वेभि॑राध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ The Goat was verily produced from Agni. Through sorrow he beheld, at first, his 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/02_kramadhvamagninA_nAkamukhyAnhasteShu.md">
 <details open><summary><h3>०२ क्रमध्वमग्निना नाकमुख्यान्हस्तेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -179,14 +179,14 @@ Bearing in hands seethed viands, go with Agni to the cope of heaven. Reaching th
 </div>
 
 ## ०३ पृष्ठात्पृथिव्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॒ष्ठात्पृ॑थि॒व्या अ॒हम॒न्तरि॑क्ष॒मारु॑हम॒न्तरि॑क्षा॒द्दिव॒मारु॑हम्।  
 दि॒वो नाक॑स्य पृ॒ष्ठात्स्व॑१र्ज्योति॑रगाम॒हम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -195,7 +195,7 @@ Bearing in hands seethed viands, go with Agni to the cope of heaven. Reaching th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/03_pRShThAtpRthivyA.md">
 <details open><summary><h3>०३ पृष्ठात्पृथिव्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -248,14 +248,14 @@ From earth's high ridge to middle air I mounted, and from mid- air ascended up t
 </div>
 
 ## ०४ स्वर्यन्तो नापेक्षन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व१॒॑र्यन्तो॒ नापे॑क्षन्त॒ आ द्यां रो॑हन्ति॒ रोद॑सी।  
 य॒ज्ञं ये वि॒श्वतो॑धारं॒ सुवि॑द्वांसो वितेनि॒रे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -264,7 +264,7 @@ From earth's high ridge to middle air I mounted, and from mid- air ascended up t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/04_svaryanto_nApexanta.md">
 <details open><summary><h3>०४ स्वर्यन्तो नापेक्षन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -314,14 +314,14 @@ Mounting the sky they look not round; they rise to heaven through both the world
 </div>
 
 ## ०५ अग्ने प्रेहि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ प्रेहि॑ प्रथ॒मो दे॒वता॑नां॒ चक्षु॑र्दे॒वाना॑मु॒त मानु॑षाणाम्।  
 इय॑क्षमाणा॒ भृगु॑भिः स॒जोषाः॒ स्व॑र्यन्तु॒ यज॑मानाः स्व॒स्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -330,7 +330,7 @@ Mounting the sky they look not round; they rise to heaven through both the world
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/05_agne_prehi.md">
 <details open><summary><h3>०५ अग्ने प्रेहि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -382,14 +382,14 @@ First among all the deities, come forward, thou who art eye of Gods and men, O A
 </div>
 
 ## ०६ अजमनज्मि पयसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒जम॑नज्मि॒ पय॑सा घृ॒तेन॑ दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म्।  
 तेन॑ गेष्म सुकृ॒तस्य॑ लो॒कं स्व॑रा॒रोह॑न्तो अ॒भि नाक॑मुत्त॒मम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -398,7 +398,7 @@ First among all the deities, come forward, thou who art eye of Gods and men, O A
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/06_ajamanajmi_payasA.md">
 <details open><summary><h3>०६ अजमनज्मि पयसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -458,14 +458,14 @@ With milk and butter I anoint the mighty, celestial Goat, strong- winged, and fu
 </div>
 
 ## ०७ पञ्चौदनं पञ्चभिरङ्गुलिभिर्दर्व्योद्धर
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्चौ॑दनं प॒ञ्चभि॑र॒ङ्गुलि॑भि॒र्दर्व्योद्ध॑र पञ्च॒धैतमो॑द॒नम्।  
 प्राच्यां॑ दि॒शि शिरो॑ अ॒जस्य॑ धेहि॒ दक्षि॑णायां दि॒शि दक्षि॑णं धेहि पा॒र्श्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -474,7 +474,7 @@ With milk and butter I anoint the mighty, celestial Goat, strong- winged, and fu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/07_panchaudanaM_panchabhirangulibhirdarvyoddhara.md">
 <details open><summary><h3>०७ पञ्चौदनं पञ्चभिरङ्गुलिभिर्दर्व्योद्धर ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -531,14 +531,14 @@ Set the Goat's head toward the eastern region, and turn his right side to the so
 </div>
 
 ## ०८ प्रतीच्यां दिशि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒तीच्यां॑ दि॒शि भ॒सद॑मस्य धे॒ह्युत्त॑रस्यां दि॒श्युत्त॑रं धेहि पा॒र्श्वम्।  
 ऊ॒र्ध्वायां॑ दि॒श्य१॒॑जस्यानू॑कं धेहि दि॒शि ध्रु॒वायां॑ धेहि पाज॒स्य॑म॒न्तरि॑क्षे मध्य॒तो मध्य॑मस्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -547,7 +547,7 @@ Set the Goat's head toward the eastern region, and turn his right side to the so
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/08_pratIchyAM_dishi.md">
 <details open><summary><h3>०८ प्रतीच्यां दिशि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -601,14 +601,14 @@ Set the Goat's backbone upmost in the zenith, and lay his belly downward in the 
 </div>
 
 ## ०९ शृतमजं शृतया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शृ॒तम॒जं शृ॒तया॒ प्रोर्णु॑हि त्व॒चा सर्वै॒रङ्गैः॒ संभृ॑तं वि॒श्वरू॑पम्।  
 स उत्ति॑ष्ठे॒तो अ॑भि॒ नाक॑मुत्त॒मं प॒द्भिश्च॒तुर्भिः॒ प्रति॑ तिष्ठ दि॒क्षु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -617,7 +617,7 @@ Set the Goat's backbone upmost in the zenith, and lay his belly downward in the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/014_svarjyotiH_prAptiH/09_shRtamajaM_shRtayA.md">
 <details open><summary><h3>०९ शृतमजं शृतया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

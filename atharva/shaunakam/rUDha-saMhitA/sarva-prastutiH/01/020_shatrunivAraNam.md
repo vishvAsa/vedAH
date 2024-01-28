@@ -2,7 +2,7 @@
 title = "०२० शत्रुनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/_index.md">
 <details open><summary><h2>०२० शत्रुनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Soma, the Maruts, Mitra, and Varuna, for protection
 </div>
 
 ## ०१ अदारसृद्भवतु देव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अदा॑रसृद्भवतु देव सोमा॒स्मिन्य॒ज्ञे म॑रुतो मृ॒डता॑ नः।  
 मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद्वृजि॒ना द्वेष्या॒ या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Soma, the Maruts, Mitra, and Varuna, for protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/01_adArasRdbhavatu_deva.md">
 <details open><summary><h3>०१ अदारसृद्भवतु देव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -109,14 +109,14 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </div>
 
 ## ०२ यो अद्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/02_yo_adya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/02_yo_adya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॒द्य सेन्यो॑ व॒धो ऽघा॒यूना॑मु॒दीर॑ते।  
 यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/02_yo_adya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/02_yo_adya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -125,7 +125,7 @@ May it glide harmless by in this our sacrifice, O Soma, God! Maruts, be gracious
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/02_yo_adya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/02_yo_adya.md">
 <details open><summary><h3>०२ यो अद्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 </div>
 
 ## ०३ इतश्च यदमुतश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒तश्च॒ यद॒मुत॑श्च॒ यद्व॒धं व॑रुण यावय।  
 वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ Mitra and Varuna, ye twain, turn carefully away from us The deadly dart that fli
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/03_itashcha_yadamutashcha.md">
 <details open><summary><h3>०३ इतश्च यदमुतश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -244,14 +244,14 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 </div>
 
 ## ०४ शास इत्था
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः।  
 न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/04_shAsa_itthA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -260,7 +260,7 @@ Ward off from this side and from that, O Varuna, the deadly dart: Give us thy gr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/020_shatrunivAraNam/04_shAsa_itthA.md">
 <details open><summary><h3>०४ शास इत्था ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

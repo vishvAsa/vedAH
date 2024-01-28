@@ -2,7 +2,7 @@
 title = "०४६ दुःष्वप्ननाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/_index.md">
 <details open><summary><h2>०४६ दुःष्वप्ननाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against evil dreams
 </div>
 
 ## ०१ यो न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/01_yo_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/01_yo_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भो᳡ऽसि॑ स्वप्न।  
 व॑रुणा॒नी ते॑ मा॒ता य॒मः पि॒ताररु॒र्नामा॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/01_yo_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/01_yo_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against evil dreams
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/01_yo_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/01_yo_na.md">
 <details open><summary><h3>०१ यो न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,7 +105,7 @@ Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy n
 </div>
 
 ## ०२ विद्म ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/02_vidma_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/02_vidma_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रो᳡ऽसि॑ य॒मस्य॒ कर॑णः।  
@@ -113,7 +113,7 @@ Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy n
 तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दुः॒ष्वप्न्या॑त्पाहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/02_vidma_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/02_vidma_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Thou, neither quick nor dead, O Sleep, art fraught with Amrit of the Gods. Thy n
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/02_vidma_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/02_vidma_te.md">
 <details open><summary><h3>०२ विद्म ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ We know thy birth, O Sleep, thou art son of the sisters of the Gods; the ministe
 </div>
 
 ## ०३ यथा कलाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति।  
 ए॒वा दुः॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ We know thy birth, O Sleep, thou art son of the sisters of the Gods; the ministe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/046_duHShvapnanAshanam/03_yathA_kalAm.md">
 <details open><summary><h3>०३ यथा कलाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

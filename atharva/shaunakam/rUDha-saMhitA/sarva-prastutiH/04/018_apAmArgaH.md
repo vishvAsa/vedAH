@@ -2,7 +2,7 @@
 title = "०१८ अपामार्गः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/_index.md">
 <details open><summary><h2>०१८ अपामार्गः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A counter-charm against the incantations of enemies
 </div>
 
 ## ०१ समं ज्योतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/01_samaM_jyotiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒मं ज्योतिः॒ सूर्ये॒णाह्ना॒ रात्री॑ स॒माव॑ती।  
 कृ॑णोमि स॒त्यमू॒तये॑ऽर॒साः स॑न्तु॒ कृत्व॑रीः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/01_samaM_jyotiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A counter-charm against the incantations of enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/01_samaM_jyotiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/01_samaM_jyotiH.md">
 <details open><summary><h3>०१ समं ज्योतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -108,14 +108,14 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 </div>
 
 ## ०२ यो देवाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/02_yo_devAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/02_yo_devAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो दे॑वाः कृ॒त्यां कृ॒त्वा हरा॒दवि॑दुषो गृ॒हम्।  
 व॒त्सो धा॒रुरि॑व मा॒तरं॒ तं प्र॒त्यगुप॑ पद्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/02_yo_devAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/02_yo_devAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -124,7 +124,7 @@ The moonlight equalleth the sun, night is the rival of the day. I make effectual
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/02_yo_devAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/02_yo_devAH.md">
 <details open><summary><h3>०२ यो देवाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Gods! if one make and bring a spell on some man's house who knows it not, Close 
 </div>
 
 ## ०३ अमा कृत्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/03_amA_kRtvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मा कृ॒त्वा पा॒प्मानं॒ यस्तेना॒न्यं जिघां॑सति।  
 अश्मा॑न॒स्तस्यां॑ द॒ग्धायां॑ बहु॒लाः फट्क॑रिक्रति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/03_amA_kRtvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Gods! if one make and bring a spell on some man's house who knows it not, Close 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/03_amA_kRtvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/03_amA_kRtvA.md">
 <details open><summary><h3>०३ अमा कृत्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 </div>
 
 ## ०४ सहस्रधामन्विशिखान्विग्रीवां छायया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सह॑स्रधाम॒न्विशि॑खा॒न्विग्री॑वां छायया॒ त्वम्।  
 प्रति॑ स्म च॒क्रुषे॑ कृ॒त्यां प्रि॒यां प्रि॒याव॑ते हर ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ When one puts poison in a dish of unbaked clay to kill a man, It cracks when set
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/04_sahasradhAmanvishikhAnvigrIvAM_ChAyayA.md">
 <details open><summary><h3>०४ सहस्रधामन्विशिखान्विग्रीवां छायया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -325,14 +325,14 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 </div>
 
 ## ०५ अनयाहमोषध्या सर्वाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒नया॒हमोष॑ध्या॒ सर्वाः॑ कृ॒त्या अ॑दूदुषम्।  
 यां क्षेत्रे॑ च॒क्रुर्यां गोषु॒ यां वा॑ ते॒ पुरु॑षेषु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -341,7 +341,7 @@ Endowed with thousand powers! adjure the bald and those with necks awry. Back to
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/05_anayAhamoShadhyA_sarvAH.md">
 <details open><summary><h3>०५ अनयाहमोषध्या सर्वाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -391,14 +391,14 @@ I with this Plant have ruined all malignant powers of witchery. The spell which 
 </div>
 
 ## ०६ यश्चकार न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/06_yashchakAra_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/06_yashchakAra_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॒कार॒ न श॒शाक॒ कर्तुं॑ श॒श्रे पाद॑म॒ङ्गुरि॑म्।  
 च॒कार॑ भ॒द्रम॒स्मभ्य॑मा॒त्मने॒ तप॑नं॒ तु सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/06_yashchakAra_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/06_yashchakAra_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -407,7 +407,7 @@ I with this Plant have ruined all malignant powers of witchery. The spell which 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/06_yashchakAra_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/06_yashchakAra_na.md">
 <details open><summary><h3>०६ यश्चकार न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -469,14 +469,14 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 </div>
 
 ## ०७ अपामार्गोऽप मार्ष्टु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑पामा॒र्गोऽप॑ मार्ष्टु क्षेत्रि॒यं श॒पथ॑श्च॒ यः।  
 अपाह॑ यातुधा॒नीरप॒ सर्वा॑ अरा॒य्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -485,7 +485,7 @@ No power had he who wrought the spell: he hurt his foot, he broke his toe. His a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/07_apAmArgo-pa_mArShTu.md">
 <details open><summary><h3>०७ अपामार्गोऽप मार्ष्टु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -533,14 +533,14 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 </div>
 
 ## ०८ अपमृज्य यातुधानानप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑प॒मृज्य॑ यातु॒धाना॒नप॒ सर्वा॑ अरा॒य्यः॑।  
 अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -549,7 +549,7 @@ Let Apamarga sweep away chronic disease and every curse, Sweep sorceresses clean
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/018_apAmArgaH/08_apamRjya_yAtudhAnAnapa.md">
 <details open><summary><h3>०८ अपमृज्य यातुधानानप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१५ पुष्टिकर्म"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/_index.md">
 <details open><summary><h2>०१५ पुष्टिकर्म ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for the prosperity of an institutor of sacrifice
 </div>
 
 ## ०१ सं सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/01_saM_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/01_saM_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑।  
 इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्ये॑ण ह॒विषा॑ जुहोमि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/01_saM_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/01_saM_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for the prosperity of an institutor of sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/01_saM_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/01_saM_sam.md">
 <details open><summary><h3>०१ सं सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 </div>
 
 ## ०२ इहैव हवमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/02_ihaiva_havamA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः।  
 इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन्ति॑ष्ठतु॒ या र॒यिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/02_ihaiva_havamA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Let the streams, flow together, let the winds and birds assembled come. Let this
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/02_ihaiva_havamA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/02_ihaiva_havamA.md">
 <details open><summary><h3>०२ इहैव हवमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -173,14 +173,14 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 </div>
 
 ## ०३ ये नदीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/03_ye_nadInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/03_ye_nadInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः।  
 तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/03_ye_nadInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/03_ye_nadInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -189,7 +189,7 @@ Come to my call, Blent Offerings, come ye very nigh. And, singers, do ye strengt
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/03_ye_nadInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/03_ye_nadInAm.md">
 <details open><summary><h3>०३ ये नदीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 </div>
 
 ## ०४ ये सर्पिषः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/04_ye_sarpiShaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च।  
 तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/04_ye_sarpiShaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ All river founts that blend their streams for ever inexhaustible-- With all thes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/04_ye_sarpiShaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/015_puShTikarma/04_ye_sarpiShaH.md">
 <details open><summary><h3>०४ ये सर्पिषः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

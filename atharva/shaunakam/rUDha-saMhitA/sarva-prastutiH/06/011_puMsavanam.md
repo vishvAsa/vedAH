@@ -2,7 +2,7 @@
 title = "०११ पुंसवनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/_index.md">
 <details open><summary><h2>०११ पुंसवनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ An epithalamian charm to ensure the birth of a boy
 </div>
 
 ## ०१ समीमश्वत्थ आरूढस्तत्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सुव॑नं कृ॒तम्।  
 तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्स्त्री॒ष्वा भ॑रामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ An epithalamian charm to ensure the birth of a boy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/01_samImashvattha_ArUDhastatra.md">
 <details open><summary><h3>०१ समीमश्वत्थ आरूढस्तत्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 </div>
 
 ## ०२ पुंसि वै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/02_puMsi_vai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/02_puMsi_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुं॒सि वै रेतो॑ भवति॒ तत्स्त्रि॒यामनु॑ षिच्यते।  
 तद्वै पु॒त्रस्य॒ वेद॑नं॒ तत्प्र॒जाप॑तिरब्रवीत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/02_puMsi_vai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/02_puMsi_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Asvattha on the Sami-tree. There a male birth is certified. There is the finding
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/02_puMsi_vai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/02_puMsi_vai.md">
 <details open><summary><h3>०२ पुंसि वै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 </div>
 
 ## ०३ प्रजापतिरनुमतिः सिनीवाल्यचीक्लृपत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्य॑चीक्लृपत्।  
 स्त्रैषू॑यम॒न्यत्र॒ दध॒त्पुमां॑समु दधदि॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ The father sows the genial seed, the woman tends and fosters it. This is the fin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/011_puMsavanam/03_prajApatiranumatiH_sinIvAlyachIklRpat.md">
 <details open><summary><h3>०३ प्रजापतिरनुमतिः सिनीवाल्यचीक्लृपत् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

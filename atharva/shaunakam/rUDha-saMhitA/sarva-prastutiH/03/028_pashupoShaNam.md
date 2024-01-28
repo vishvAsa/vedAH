@@ -2,7 +2,7 @@
 title = "०२८ पशुपोषणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/_index.md">
 <details open><summary><h2>०२८ पशुपोषणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
 </div>
 
 ## ०१ एकैकयैषा सृष्ट्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एकै॑कयै॒षा सृष्ट्या॒ सं ब॑भूव॒ यत्र॒ गा असृ॑जन्त भूत॒कृतो॑ वि॒श्वरू॑पाः।  
 यत्र॑ वि॒जाय॑ते य॒मिन्य॑प॒र्तुः सा प॒शून्क्षि॑णाति रिफ॒ती रुश॑ती ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, xvii. 297; Griffith, i. 122; Bloomfield, 145, 359.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/01_ekaikayaiShA_sRShTyA.md">
 <details open><summary><h3>०१ एकैकयैषा सृष्ट्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 </div>
 
 ## ०२ एषा पशून्त्सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒षा प॒शून्त्सं क्षि॑णाति क्र॒व्याद्भू॒त्वा व्यद्व॑री।  
 उ॒तैनां॑ ब्र॒ह्मणे॑ दद्या॒त्तथा॑ स्यो॒ना शि॒वा स्या॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ for *sṛ́ṣṭyā*, not *sṛṣṭvā*.⌋
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/02_eShA_pashUntsam.md">
 <details open><summary><h3>०२ एषा पशून्त्सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -186,14 +186,14 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 </div>
 
 ## ०३ शिवा भव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/03_shivA_bhava.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॒वा भ॑व॒ पुरु॑षेभ्यो॒ गोभ्यो॒ अश्वे॑भ्यः शि॒वा।  
 शि॒वास्मै सर्व॑स्मै॒ क्षेत्रा॑य शि॒वा न॑ इ॒हैधि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/03_shivA_bhava.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -202,7 +202,7 @@ where W. corrects the text to *vyadvará:* accent of masc. and fem.,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/03_shivA_bhava.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/03_shivA_bhava.md">
 <details open><summary><h3>०३ शिवा भव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -251,14 +251,14 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 </div>
 
 ## ०४ इह पुष्टिरिह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒ह पुष्टि॑रि॒ह रस॑ इ॒ह स॑हस्र॒सात॑मा भव।  
 प॒शून्य॑मिनि पोषय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/04_iha_puShTiriha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -267,7 +267,7 @@ propitious to all this field (*kṣétra*); be propitious to us here.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/04_iha_puShTiriha.md">
 <details open><summary><h3>०४ इह पुष्टिरिह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -318,14 +318,14 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 </div>
 
 ## ०५ यत्रा सुहार्दः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः१॒॑ स्वायाः॑।  
 तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -334,7 +334,7 @@ very seldom used by our Anukr. as name of a whole verse ⌊8 + 12: 8⌋.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/05_yatrA_suhArdaH.md">
 <details open><summary><h3>०५ यत्रा सुहार्दः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -384,14 +384,14 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 </div>
 
 ## ०६ यत्रा सुहार्दाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्रा॑ सु॒हार्दां॑ सु॒कृता॑मग्निहोत्र॒हुतां॒ यत्र॑ लो॒कः।  
 तं लो॒कं य॒मिन्य॑भि॒संब॑भूव॒ सा नो॒ मा हिं॑सी॒त्पुरु॑षान्प॒शूंश्च॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -400,7 +400,7 @@ TA.). Some of SPP's mss. write in **b** *tanvā̀s*, protracting the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/028_pashupoShaNam/06_yatrA_suhArdAm.md">
 <details open><summary><h3>०६ यत्रा सुहार्दाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

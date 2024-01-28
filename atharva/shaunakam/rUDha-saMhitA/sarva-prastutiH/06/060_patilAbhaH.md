@@ -2,7 +2,7 @@
 title = "०६० पतिलाभः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/_index.md">
 <details open><summary><h2>०६० पतिलाभः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ The wooing of a bride
 </div>
 
 ## ०१ अयमा यात्यर्यमा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द्विषि॑तस्तुपः।  
 अ॒स्या इ॒च्छन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ The wooing of a bride
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/01_ayamA_yAtyaryamA.md">
 <details open><summary><h3>०१ अयमा यात्यर्यमा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -110,14 +110,14 @@ With forelock loosened o'er his brow here comes the wooer of the bride, Seeking 
 </div>
 
 ## ०२ अश्रमदियमर्यमन्नन्यासां समनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्र॑मदि॒यम॑र्यमन्न॒न्यासां॒ सम॑नं य॒ती।  
 अ॒ङ्गो न्व᳡र्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -126,7 +126,7 @@ With forelock loosened o'er his brow here comes the wooer of the bride, Seeking 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/02_ashramadiyamaryamannanyAsAM_samanam.md">
 <details open><summary><h3>०२ अश्रमदियमर्यमन्नन्यासां समनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -178,14 +178,14 @@ Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wed
 </div>
 
 ## ०३ धाता दाधार
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धा॒ता दा॑धार पृथि॒वीं धा॒ता द्यामु॒त सूर्य॑म्।  
 धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्य᳡म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -194,7 +194,7 @@ Wooer! this girl hath toiled in vain, going to others' marriages. Now to her wed
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/060_patilAbhaH/03_dhAtA_dAdhAra.md">
 <details open><summary><h3>०३ धाता दाधार ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "११० शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/_index.md">
 <details open><summary><h2>११० शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 43, 121; Griffith, i. 381.
 </div>
 
 ## ०१ अग्न इन्द्रश्च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/01_agna_indrashcha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्न॒ इन्द्र॑श्च दा॒शुषे॑ ह॒तो वृ॒त्राण्य॑प्र॒ति।  
 उ॒भा हि वृ॑त्र॒हन्त॑मा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/01_agna_indrashcha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 43, 121; Griffith, i. 381.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/01_agna_indrashcha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/01_agna_indrashcha.md">
 <details open><summary><h3>०१ अग्न इन्द्रश्च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 </div>
 
 ## ०२ याभ्यामजयन्त्स्वरग्र एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याभ्या॒मज॑य॒न्त्स्व१॒॑रग्र॑ ए॒व यावा॑त॒स्थतु॒र्भुव॑नानि॒ विश्वा॑।  
 प्र च॑र्ष॒णी वृष॑णा॒ वज्र॑बाहू अ॒ग्निमिन्द्रं॑ वृत्र॒हणा॑ हुवे॒ऽहम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Resistless, Agni, Indra, smite his foemen for the worshipper, For best foe-slaye
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/02_yAbhyAmajayantsvaragra_eva.md">
 <details open><summary><h3>०२ याभ्यामजयन्त्स्वरग्र एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 </div>
 
 ## ०३ उप त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/03_upa_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/110_shatrunAshanam/03_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ त्वा दे॒वो अ॑ग्रभीच्चम॒सेन॒ बृह॒स्पतिः॑।  
 इन्द्र॑ गी॒र्भिर्न॒ आ वि॑श॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/03_upa_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/110_shatrunAshanam/03_upa_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ Agni I call, and Indra, foe-destroyers, swift moving, heroes, Gods who wield the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/03_upa_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/110_shatrunAshanam/03_upa_tvA.md">
 <details open><summary><h3>०३ उप त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

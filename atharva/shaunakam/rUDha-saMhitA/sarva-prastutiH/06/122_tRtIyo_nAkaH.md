@@ -2,7 +2,7 @@
 title = "१२२ तृतीयो नाकः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/_index.md">
 <details open><summary><h2>१२२ तृतीयो नाकः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 432; Griffith, i. 312.
 </div>
 
 ## ०१ एतं भागम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तं भा॒गं परि॑ ददामि वि॒द्वान्विश्व॑कर्मन्प्रथम॒जा ऋ॒तस्य॑।  
 अ॒स्माभि॑र्द॒त्तं ज॒रसः॑ प॒रस्ता॒दच्छि॑न्नं॒ तन्तु॒मनु॒ सं त॑रेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 432; Griffith, i. 312.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/01_etaM_bhAgam.md">
 <details open><summary><h3>०१ एतं भागम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ This portion I who understand deliver to Visvakarman first-born son of Order. So
 </div>
 
 ## ०२ ततं तन्तुमन्वेके
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त॒तं तन्तु॒मन्वेके॑ तरन्ति॒ येषां॑ द॒त्तं पित्र्य॒माय॑नेन।  
 अ॑ब॒न्ध्वेके॒ दद॑तः प्र॒यच्छ॑न्तो॒ दातुं॒ चेच्छिक्षा॒न्त्स स्व॒र्ग ए॒व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ This portion I who understand deliver to Visvakarman first-born son of Order. So
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/02_tataM_tantumanveke.md">
 <details open><summary><h3>०२ ततं तन्तुमन्वेके ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ This long-drawn thread some follow who have offered in order- ed course oblation
 </div>
 
 ## ०३ अन्वारभेथामनुसंरभेथामेतं लोकम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्वार॑भेथामनु॒संर॑भेथामे॒तं लो॒कं श्र॒द्दधा॑नाः सचन्ते।  
 यद्वां॑ प॒क्वं परि॑विष्टम॒ग्नौ तस्य॒ गुप्त॑ये दम्पती॒ सं श्र॑येथाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ This long-drawn thread some follow who have offered in order- ed course oblation
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/03_anvArabhethAmanusaMrabhethAmetaM_lokam.md">
 <details open><summary><h3>०३ अन्वारभेथामनुसंरभेथामेतं लोकम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -255,14 +255,14 @@ beginning, as xii. 3. 7. It is too irregular to be called a simple
 </div>
 
 ## ०४ यज्ञं यन्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञं यन्तं॒ मन॑सा बृ॒हन्त॑म॒न्वारो॑हामि॒ तप॑सा॒ सयो॑निः।  
 उप॑हूता अग्ने ज॒रसः॑ प॒रस्ता॑त्तृ॒तीये॒ नाके॑ सध॒मादं॑ मदेम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -271,7 +271,7 @@ beginning, as xii. 3. 7. It is too irregular to be called a simple
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/04_yajnaM_yantam.md">
 <details open><summary><h3>०४ यज्ञं यन्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -324,14 +324,14 @@ Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. 
 </div>
 
 ## ०५ शुद्धाः पूता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शु॒द्धाः पू॒ता यो॒षितो॑ य॒ज्ञिया॑ इ॒मा ब्र॒ह्मणां॒ हस्ते॑षु प्रपृ॒थक्सा॑दयामि।  
 यत्का॑म इ॒दं अ॑भिषि॒ञ्चामि॑ वो॒ऽहमिन्द्रो॑ म॒रुत्वा॒न्त्स द॑दातु॒ तन्मे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -340,7 +340,7 @@ Dwelling with zeal I mount in spirit after the lofty sacrifice as it departeth. 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/122_tRtIyo_nAkaH/05_shuddhAH_pUtA.md">
 <details open><summary><h3>०५ शुद्धाः पूता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

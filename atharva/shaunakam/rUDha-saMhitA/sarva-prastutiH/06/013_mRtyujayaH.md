@@ -2,7 +2,7 @@
 title = "०१३ मृत्युजयः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/_index.md">
 <details open><summary><h2>०१३ मृत्युजयः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ Homage to death
 </div>
 
 ## ०१ नमो देववधेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑।  
 अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ Homage to death
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/01_namo_devavadhebhyo.md">
 <details open><summary><h3>०१ नमो देववधेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 </div>
 
 ## ०२ नमस्ते अधिवाकाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑।  
 सु॑म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Worship to weapons of the Gods! worship to weapons of the Kings! Then worship to
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/02_namaste_adhivAkAya.md">
 <details open><summary><h3>०२ नमस्ते अधिवाकाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -160,14 +160,14 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 </div>
 
 ## ०३ नमस्ते यातुधानेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑।  
 नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -176,7 +176,7 @@ Let worship be to thy defence and to thine accusation paid. Death! be this worsh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/013_mRtyujayaH/03_namaste_yAtudhAnebhyo.md">
 <details open><summary><h3>०३ नमस्ते यातुधानेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

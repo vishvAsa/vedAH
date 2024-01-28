@@ -2,7 +2,7 @@
 title = "००४ प्रजाभी राज्ञः संवरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/_index.md">
 <details open><summary><h2>००४ प्रजाभी राज्ञः संवरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction at the election of a king
 </div>
 
 ## ०१ आ त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ त्वा॑ गन्रा॒ष्ट्रं स॒ह वर्च॒सोदि॑हि॒ प्राङ्वि॒शां पति॑रेक॒राट्त्वं वि रा॑ज।  
 सर्वा॑स्त्वा राजन्प्र॒दिशो॑ ह्वयन्तूप॒सद्यो॑ नम॒स्यो॑ भवे॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction at the election of a king
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/01_A_tvA.md">
 <details open><summary><h3>०१ आ त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 </div>
 
 ## ०२ त्वां विशो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वां विशो॑ वृणतां रा॒ज्या॑य॒ त्वामि॒माः प्र॒दिशः॒ पञ्च॑ दे॒वीः।  
 वर्ष्म॑न्रा॒ष्ट्रस्य॑ क॒कुदि॑ श्रयस्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ To thee hath come the kingship with its splendour: On! shine as lord, sole ruler
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/02_tvAM_visho.md">
 <details open><summary><h3>०२ त्वां विशो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -182,14 +182,14 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 </div>
 
 ## ०३ अच्छ त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अच्छ॑ त्वा यन्तु ह॒विनः॑ सजा॒ता अ॒ग्निर्दू॒तो अ॑जि॒रः सं च॑रातै।  
 जा॒याः पु॒त्राः सु॒मन॑सो भवन्तु ब॒हुं ब॒लिं प्रति॑ पश्यासा उ॒ग्रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -198,7 +198,7 @@ The tribesmen shall elect thee for the Kingship, these five celestial regions sh
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/03_achCha_tvA.md">
 <details open><summary><h3>०३ अच्छ त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -247,14 +247,14 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 </div>
 
 ## ०४ अश्विना त्वाग्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्विना॒ त्वाग्रे॑ मि॒त्रावरु॑णो॒भा विश्वे दे॒वा म॒रुत॒स्त्वा ह्व॑यन्तु।  
 अधा॒ मनो॑ वसु॒देया॑य कृणुष्व॒ ततो॑ न उ॒ग्रो वि भ॑जा॒ वसू॑नि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -263,7 +263,7 @@ Kinsmen, inviting thee, shall go to meet thee, with thee go Agni as an active he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/04_ashvinA_tvAgre.md">
 <details open><summary><h3>०४ अश्विना त्वाग्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -315,14 +315,14 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 </div>
 
 ## ०५ आ प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ प्र द्र॑व पर॒मस्याः॑ परा॒वतः॑ शि॒वे ते॒ द्यावा॑पृथि॒वी उ॒भे स्ता॑म्।  
 तद॒यं राजा॒ वरु॑ण॒स्तथा॑ह॒ स त्वा॒यम॑ह्व॒त्स उ॑पे॒दमेहि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -331,7 +331,7 @@ First shall the Asvins, Varuna and Mitra, the Universal Gods, and Maruts call th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/05_A_pra.md">
 <details open><summary><h3>०५ आ प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -386,14 +386,14 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 </div>
 
 ## ०६ इन्द्रेन्द्र मनुष्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रे॑न्द्र मनु॒ष्याः३॒॑ परे॑हि॒ सं ह्यज्ञा॑स्था॒ वरु॑णैः संविदा॒नः।  
 स त्वा॒यम॑ह्व॒त्स्वे स॒धस्थे॒ स दे॒वान्य॑क्ष॒त्स उ॑ कल्पया॒द्विशः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -402,7 +402,7 @@ Speed to us hither from the farthest distance. Propitious unto thee be Earth and
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/06_indrendra_manuShyAH.md">
 <details open><summary><h3>०६ इन्द्रेन्द्र मनुष्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -470,14 +470,14 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 </div>
 
 ## ०७ पथ्या रेवतीर्बहुधा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒थ्या॑ रे॒वती॑र्बहु॒धा विरू॑पाः॒ सर्वाः॑ सं॒गत्य॒ वरी॑यस्ते अक्रन्।  
 तास्त्वा॒ सर्वाः॑ संविदा॒ना ह्व॑यन्तु दश॒मीमु॒ग्रः सु॒मना॑ वशे॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -486,7 +486,7 @@ Pass to the tribes of men. O Indra, Indra. Thou the Varunas hast been found acco
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/004_prajAbhI_rAjnaH_saMvaraNam/07_pathyA_revatIrbahudhA.md">
 <details open><summary><h3>०७ पथ्या रेवतीर्बहुधा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

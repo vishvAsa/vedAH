@@ -2,7 +2,7 @@
 title = "००२ भुवनपतिसूक्तम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/_index.md">
 <details open><summary><h2>००२ भुवनपतिसूक्तम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to ensure success in gambling
 </div>
 
 ## ०१ दिव्यो गन्धर्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒व्यो ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यो॑ वि॒क्ष्वीड्यः॑।  
 तं त्वा॑ यौमि॒ ब्रह्म॑णा दिव्य देव॒ नम॑स्ते अस्तु दि॒वि ते॑ स॒धस्थ॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to ensure success in gambling
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/01_divyo_gandharvo.md">
 <details open><summary><h3>०१ दिव्यो गन्धर्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Lord of the World, divine Gandharva, only he should be honoured in the Tribes an
 </div>
 
 ## ०२ दिवि स्पृष्टो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒वि स्पृ॒ष्टो य॑ज॒तः सूर्य॑त्वगवया॒ता हर॑सो॒ दैव्य॑स्य।  
 मृ॒डाद्ग॑न्ध॒र्वो भुव॑नस्य॒ यस्पति॒रेक॑ ए॒व न॑म॒स्यः॑ सु॒शेवाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Lord of the World, divine Gandharva, only he should be honoured in the Tribes an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/02_divi_spRShTo.md">
 <details open><summary><h3>०२ दिवि स्पृष्टो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' 
 </div>
 
 ## ०३ अनवद्याभिः समु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नव॒द्याभिः॒ समु॑ जग्म आभिरप्स॒रास्वपि॑ गन्ध॒र्व आ॑सीत्।  
 स॑मु॒द्र आ॑सां॒ सद॑नं म आहु॒र्यतः॑ स॒द्य आ च॒ परा॑ च॒ यन्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Sky-reaching, like the Sun in brightness, holy, he who averts from us the Gods' 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/03_anavadyAbhiH_samu.md">
 <details open><summary><h3>०३ अनवद्याभिः समु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -241,14 +241,14 @@ I came, I met these faultless, blameless beings: among the Apsarases was the Gan
 </div>
 
 ## ०४ अभ्रिये दिद्युन्नक्षत्रिये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अभ्रि॑ये॒ दिद्यु॒न्नक्ष॑त्रिये॒ या वि॒श्वाव॑सुं गन्ध॒र्वं सच॑ध्वे।  
 ताभ्यो॑ वो देवी॒र्नम॒ इत्कृ॑णोमि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -257,7 +257,7 @@ I came, I met these faultless, blameless beings: among the Apsarases was the Gan
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/04_abhriye_didyunnaxatriye.md">
 <details open><summary><h3>०४ अभ्रिये दिद्युन्नक्षत्रिये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -307,14 +307,14 @@ Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flas
 </div>
 
 ## ०५ याः क्लन्दास्तमिषीचयोऽक्षकामा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याः क्ल॒न्दास्तमि॑षीचयो॒ऽक्षका॑मा मनो॒मुहः॑।  
 ताभ्यो॑ गन्ध॒र्वभ्यो॑ ऽप्स॒राभ्यो॑ऽकरं॒ नमः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -323,7 +323,7 @@ Thou, Cloudy! ye who follow the Gandharva Visva-vasu, ye, Starry! Lightning-Flas
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/002_bhuvanapatisUktam/05_yAH_klandAstamiShIchayo-xakAmA.md">
 <details open><summary><h3>०५ याः क्लन्दास्तमिषीचयोऽक्षकामा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

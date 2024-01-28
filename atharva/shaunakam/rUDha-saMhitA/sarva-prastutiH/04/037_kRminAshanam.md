@@ -2,7 +2,7 @@
 title = "०३७ कृमिनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/_index.md">
 <details open><summary><h2>०३७ कृमिनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against Gandharvas and Apsarases
 </div>
 
 ## ०१ त्वया पूर्वमथर्वाणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वया॒ पूर्व॒मथ॑र्वाणो ज॒घ्नू रक्षां॑स्योषधे।  
 त्वया॑ जघान क॒श्यप॒स्त्वया॒ कण्वो॑ अ॒गस्त्यः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against Gandharvas and Apsarases
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/01_tvayA_pUrvamatharvANo.md">
 <details open><summary><h3>०१ त्वया पूर्वमथर्वाणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa s
 </div>
 
 ## ०२ त्वया वयमप्सरसो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वया॑ व॒यम॑प्स॒रसो॑ गन्ध॒र्वांश्चा॑तयामहे।  
 अज॑शृ॒ङ्ग्यज॒ रक्षः॒ सर्वा॑न् ग॒न्धेन॑ नाशय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ With thee, O Plant, in olden time Atharvans smote and slew the fiends. Kasyapa s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/02_tvayA_vayamapsaraso.md">
 <details open><summary><h3>०२ त्वया वयमप्सरसो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,7 +164,7 @@ With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase t
 </div>
 
 ## ०३ नदीं यन्त्वप्सरसोऽपाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न॒दीं य॑न्त्वप्स॒रसो॒ऽपां ता॒रम॑वश्व॒सम्।  
@@ -172,7 +172,7 @@ With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase t
 तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ With thee we scare and drive away Gandharvas and Apsarases. O Ajasringi, chase t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/03_nadIM_yantvapsaraso-pAm.md">
 <details open><summary><h3>०३ नदीं यन्त्वप्सरसोऽपाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -256,14 +256,14 @@ Let the Apsarases, puffed away, go to the river, to the ford,-- Guggulu, Pila, N
 </div>
 
 ## ०४ यत्राश्वत्था न्यग्रोधा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्रा॑श्व॒त्था न्य॒ग्रोधा॑ महावृ॒क्षाः शि॑ख॒ण्डिनः॑।  
 तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -272,7 +272,7 @@ Let the Apsarases, puffed away, go to the river, to the ford,-- Guggulu, Pila, N
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/04_yatrAshvatthA_nyagrodhA.md">
 <details open><summary><h3>०४ यत्राश्वत्था न्यग्रोधा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -327,14 +327,14 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 </div>
 
 ## ०५ यत्र वः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/05_yatra_vaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/05_yatra_vaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्र॑ वः प्रे॒ङ्खा हरि॑ता॒ अर्जु॑ना उ॒त यत्रा॑घा॒टाः क॑र्क॒र्यः॑ सं॒वद॑न्ति।  
 तत्परे॑ताप्सरसः॒ प्रति॑बुद्धा अभूतन ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/05_yatra_vaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/05_yatra_vaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -343,7 +343,7 @@ Where great trees are, Asvatthas and Nyagrodhas with their leafy crests, There w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/05_yatra_vaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/05_yatra_vaH.md">
 <details open><summary><h3>०५ यत्र वः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -396,14 +396,14 @@ Hither hath come this one, the most effectual of herbs and plants.
 </div>
 
 ## ०६ एयमगन्नोषधीनां वीरुधाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एयम॑ग॒न्नोष॑धीनां वी॒रुधां॑ वी॒र्या॑वती।  
 अ॑जशृ॒ङ्ग्य॑राट॒की ती॑क्ष्णशृ॒ङ्गी व्यृ॑षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -412,7 +412,7 @@ Hither hath come this one, the most effectual of herbs and plants.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/06_eyamagannoShadhInAM_vIrudhAm.md">
 <details open><summary><h3>०६ एयमगन्नोषधीनां वीरुधाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -462,14 +462,14 @@ Let Ajasringi penetrate, Ara4aki with sharpened horn.
 </div>
 
 ## ०७ आनृत्यतः शिखण्डिनो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒नृत्य॑तः शिख॒ण्डिनो॑ गन्ध॒र्वस्या॑प्सराप॒तेः।  
 भि॒नद्मि॑ मु॒ष्कावपि॑ यामि॒ शेपः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -478,7 +478,7 @@ Let Ajasringi penetrate, Ara4aki with sharpened horn.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/07_AnRtyataH_shikhaNDino.md">
 <details open><summary><h3>०७ आनृत्यतः शिखण्डिनो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -532,14 +532,14 @@ From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of
 </div>
 
 ## ०८ भीमा इन्द्रस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/08_bhImA_indrasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/08_bhImA_indrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भी॒मा इन्द्र॑स्य हे॒तयः॑ श॒तं ऋ॒ष्टीर॑य॒स्मयीः॑।  
 ताभि॑र्हविर॒दान्ग॑न्ध॒र्वान॑वका॒दान्व्यृ॑षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/08_bhImA_indrasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/08_bhImA_indrasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -548,7 +548,7 @@ From the Gandharva, dancing near, the lord of the Apsarases, Wearing the tuft of
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/08_bhImA_indrasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/08_bhImA_indrasya.md">
 <details open><summary><h3>०८ भीमा इन्द्रस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -603,14 +603,14 @@ With those dread hundred iron spears, the darts of Indra, let it pierce. The Bly
 </div>
 
 ## ०९ भीमा इन्द्रस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/09_bhImA_indrasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/09_bhImA_indrasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भी॒मा इन्द्र॑स्य हे॒तयः॑ श॒तं ऋ॒ष्टीर्हि॑र॒ण्ययीः॑।  
 ताभि॑र्हविर॒दान्ग॑न्ध॒र्वान॑वका॒दान्व्यृ॑षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/09_bhImA_indrasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/09_bhImA_indrasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -619,7 +619,7 @@ With those dread hundred iron spears, the darts of Indra, let it pierce. The Bly
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/09_bhImA_indrasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/09_bhImA_indrasya.md">
 <details open><summary><h3>०९ भीमा इन्द्रस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -666,14 +666,14 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 </div>
 
 ## १० अवकादानभिशोचानप्सु ज्योतय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑वका॒दान॑भिशो॒चान॒प्सु ज्यो॑तय माम॒कान्।  
 पि॑शा॒चान्त्सर्वा॑नोषधे॒ प्र मृ॑णीहि॒ सह॑स्व च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -682,7 +682,7 @@ With those dread hundred golden spears, the darts of Indra, let it pierce. The B
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/10_avakAdAnabhishochAnapsu_jyotaya.md">
 <details open><summary><h3>१० अवकादानभिशोचानप्सु ज्योतय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -745,14 +745,14 @@ O Plant, be thou victorious, crush the Pisachas, one and all, Blyxa-fed, shining
 </div>
 
 ## ११ श्वेवैकः कपिरिवैकः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्वेवैकः॑ क॒पिरि॒वैकः॑ कुमा॒रः स॑र्वकेश॒कः।  
 प्रि॒यो दृ॒श इ॑व भू॒त्वा ग॑न्ध॒र्वः स॑चते॒ स्त्रिय॑स्तमि॒तो ना॑शयामसि॒ ब्रह्म॑णा वी॒र्या॑वता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -761,7 +761,7 @@ O Plant, be thou victorious, crush the Pisachas, one and all, Blyxa-fed, shining
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/11_shvevaikaH_kapirivaikaH.md">
 <details open><summary><h3>११ श्वेवैकः कपिरिवैकः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -814,14 +814,14 @@ Youthful, completely decked with hair, one monkey-like, one like a dog,-- So the
 </div>
 
 ## १२ जाया इद्वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/12_jAyA_idvo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/037_kRminAshanam/12_jAyA_idvo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जा॒या इद्वो॑ अप्स॒रसो॒ गन्ध॑र्वाः॒ पत॑यो यू॒यम्।  
 अप॑ धावतामर्त्या॒ मर्त्या॒न्मा स॑चध्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/12_jAyA_idvo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/037_kRminAshanam/12_jAyA_idvo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -830,7 +830,7 @@ Youthful, completely decked with hair, one monkey-like, one like a dog,-- So the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/12_jAyA_idvo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/037_kRminAshanam/12_jAyA_idvo.md">
 <details open><summary><h3>१२ जाया इद्वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

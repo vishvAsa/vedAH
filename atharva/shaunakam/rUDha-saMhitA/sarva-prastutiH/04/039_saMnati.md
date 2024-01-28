@@ -2,7 +2,7 @@
 title = "०३९ संनति"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/_index.md">
 <details open><summary><h2>०३९ संनति ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to various deities for health, wealth, and prosperity
 </div>
 
 ## ०१ पृथिव्यामग्नये समनमन्त्स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॑थि॒व्याम॒ग्नये॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
 यथा॑ पृथि॒व्याम॒ग्नये॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to various deities for health, wealth, and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/01_pRthivyAmagnaye_samanamantsa.md">
 <details open><summary><h3>०१ पृथिव्यामग्नये समनमन्त्स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,7 +104,7 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 </div>
 
 ## ०२ पृथिवी धेनुस्तस्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पृ॑थि॒वी धे॒नुस्तस्या॑ अ॒ग्निर्व॒त्सः।  
@@ -112,7 +112,7 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/02_pRthivI_dhenustasyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ Agni no earth kath had mine homage. May he bless me. As I have bowed me down to 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/02_pRthivI_dhenustasyA.md">
 <details open><summary><h3>०२ पृथिवी धेनुस्तस्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, st
 </div>
 
 ## ०३ अन्तरिक्षे वायवे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/03_antarixe_vAyave.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/03_antarixe_vAyave.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षे वा॒यवे॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
 यथा॒न्तरि॑क्षे वा॒यवे॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/03_antarixe_vAyave.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/03_antarixe_vAyave.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Earth is the Cow, her calf is Agni. May she with her calf Agni yield me food, st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/03_antarixe_vAyave.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/03_antarixe_vAyave.md">
 <details open><summary><h3>०३ अन्तरिक्षे वायवे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,7 +234,7 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 </div>
 
 ## ०४ अन्तरिक्षं धेनुस्तस्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तरि॑क्षं धे॒नुस्तस्या॑ वायुर्व॒त्सः।  
@@ -242,7 +242,7 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/04_antarixaM_dhenustasyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ Vayu in air hath had mine homage. May he bless me. As I have bowed me down to Va
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/04_antarixaM_dhenustasyA.md">
 <details open><summary><h3>०४ अन्तरिक्षं धेनुस्तस्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 </div>
 
 ## ०५ दिव्यादित्याय समनमन्त्स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒व्या॑दि॒त्याय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
 यथा॑ दि॒व्या॑दि॒त्याय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ Air is the Cow, her calf is Vayu. May she with her calf Vayu yield me food, stre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/05_divyAdityAya_samanamantsa.md">
 <details open><summary><h3>०५ दिव्यादित्याय समनमन्त्स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -362,7 +362,7 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 </div>
 
 ## ०६ द्यौर्धेनुस्तस्या आदित्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यौर्धे॒नुस्तस्या॑ आदि॒त्यो व॒त्सः।  
@@ -370,7 +370,7 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -380,7 +380,7 @@ The Sun in heaven hath had my homage. May he bless me. As I have bowed me down u
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/06_dyaurdhenustasyA_Adityo.md">
 <details open><summary><h3>०६ द्यौर्धेनुस्तस्या आदित्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -426,14 +426,14 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 </div>
 
 ## ०७ दिक्षु चन्द्राय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/07_dixu_chandrAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/07_dixu_chandrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दि॒क्षु च॒न्द्राय॒ सम॑नम॒न्त्स आ॑र्ध्नोत्।  
 यथा॑ दि॒क्षु च॒न्द्राय॑ स॒मन॑मन्ने॒वा मह्यं॑ सं॒नमः॒ सं न॑मन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/07_dixu_chandrAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/07_dixu_chandrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -442,7 +442,7 @@ Heaven is the Cow, her calf Aditya. May she yield with her calf the Sun food, st
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/07_dixu_chandrAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/07_dixu_chandrAya.md">
 <details open><summary><h3>०७ दिक्षु चन्द्राय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -491,7 +491,7 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 </div>
 
 ## ०८ दिशो धेनवस्तासाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/08_disho_dhenavastAsAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दिशो॑ धे॒नव॒स्तासां॑ च॒न्द्रो व॒त्सः।  
@@ -499,7 +499,7 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 आयुः॑ प्रथ॒मं प्र॒जां पोषं॑ र॒यिं स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/08_disho_dhenavastAsAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -509,7 +509,7 @@ To Chandra in the quarters have I bowed me. May he bless me. As unto Chandra in 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/08_disho_dhenavastAsAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/08_disho_dhenavastAsAm.md">
 <details open><summary><h3>०८ दिशो धेनवस्तासाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -557,14 +557,14 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 </div>
 
 ## ०९ अग्नावग्निश्चरति प्रविष्ट
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्नाव॒ग्निश्च॑रति॒ प्रवि॑ष्ट॒ ऋषी॑णां पु॒त्रो अ॑भिशस्ति॒पा उ॑।  
 न॑मस्का॒रेण॒ नम॑सा ते जुहोमि॒ मा दे॒वानां॑ मिथु॒या क॑र्म भा॒गम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -573,7 +573,7 @@ The quarters are the Cows, their calf is Chandra. May they yield with their calf
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/09_agnAvagnishcharati_praviShTa.md">
 <details open><summary><h3>०९ अग्नावग्निश्चरति प्रविष्ट ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -642,14 +642,14 @@ Agni moves having entered into Agni, the Rishis' son, who guards from imprecatio
 </div>
 
 ## १० हृदा पूतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/10_hRdA_pUtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/039_saMnati/10_hRdA_pUtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हृ॒दा पू॒तं मन॑सा जातवेदो॒ विश्वा॑नि देव व॒युना॑नि वि॒द्वान्।  
 स॒प्तास्या॑नि॒ तव॑ जातवेद॒स्तेभ्यो॑ जुहोमि॒ स जु॑षस्व ह॒व्यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/10_hRdA_pUtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/039_saMnati/10_hRdA_pUtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -658,7 +658,7 @@ Agni moves having entered into Agni, the Rishis' son, who guards from imprecatio
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/10_hRdA_pUtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/039_saMnati/10_hRdA_pUtam.md">
 <details open><summary><h3>१० हृदा पूतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

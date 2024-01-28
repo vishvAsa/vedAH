@@ -2,7 +2,7 @@
 title = "०१५ रोगोपशमनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/_index.md">
 <details open><summary><h2>०१५ रोगोपशमनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for general prosperity
 </div>
 
 ## ०१ एका च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/01_ekA_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/01_ekA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एका॑ च मे॒ दश॑ च मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/01_ekA_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/01_ekA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for general prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/01_ekA_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/01_ekA_cha.md">
 <details open><summary><h3>०१ एका च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 </div>
 
 ## ०२ द्वे च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/02_dve_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/02_dve_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्वे च॑ मे विंश॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/02_dve_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/02_dve_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Plant! I have those who shall avert the threatened danger, ten and one. O sacred
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/02_dve_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/02_dve_cha.md">
 <details open><summary><h3>०२ द्वे च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </div>
 
 ## ०३ तिस्रश्च मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/03_tisrashcha_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/03_tisrashcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ति॒स्रश्च॑ मे त्रिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/03_tisrashcha_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/03_tisrashcha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/03_tisrashcha_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/03_tisrashcha_me.md">
 <details open><summary><h3>०३ तिस्रश्च मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -219,14 +219,14 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </div>
 
 ## ०४ चतस्रश्च मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/04_chatasrashcha_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/04_chatasrashcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चत॑स्रश्च मे चत्वारिं॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/04_chatasrashcha_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/04_chatasrashcha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -235,7 +235,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/04_chatasrashcha_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/04_chatasrashcha_me.md">
 <details open><summary><h3>०४ चतस्रश्च मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -280,14 +280,14 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </div>
 
 ## ०५ पञ्च च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/05_pancha_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/05_pancha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्च॑ च मे पञ्चा॒शच्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/05_pancha_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/05_pancha_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -296,7 +296,7 @@ Twenty and two, O Plant, have I who shall avert the threatened ill. O sacred Pla
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/05_pancha_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/05_pancha_cha.md">
 <details open><summary><h3>०५ पञ्च च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -343,14 +343,14 @@ edition follows the latter.
 </div>
 
 ## ०६ षट्च मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/06_ShaTcha_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/06_ShaTcha_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 षट्च॑ मे ष॒ष्टिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/06_ShaTcha_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/06_ShaTcha_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -359,7 +359,7 @@ edition follows the latter.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/06_ShaTcha_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/06_ShaTcha_me.md">
 <details open><summary><h3>०६ षट्च मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -406,14 +406,14 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </div>
 
 ## ०७ सप्त च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/07_sapta_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/07_sapta_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒प्त च॑ मे सप्त॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/07_sapta_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/07_sapta_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -422,7 +422,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/07_sapta_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/07_sapta_cha.md">
 <details open><summary><h3>०७ सप्त च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -467,14 +467,14 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </div>
 
 ## ०८ अष्ट च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/08_aShTa_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/08_aShTa_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ष्ट च॑ मेऽशी॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/08_aShTa_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/08_aShTa_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -483,7 +483,7 @@ This verse ought to be reckoned by the Anukr. as *nicṛt*, not less than
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/08_aShTa_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/08_aShTa_cha.md">
 <details open><summary><h3>०८ अष्ट च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -530,14 +530,14 @@ restoration of the elided *a* of *aśītís*.
 </div>
 
 ## ०९ नव च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/09_nava_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/09_nava_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नव॑ च मे नव॒तिश्च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/09_nava_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/09_nava_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -546,7 +546,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/09_nava_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/09_nava_cha.md">
 <details open><summary><h3>०९ नव च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -591,14 +591,14 @@ restoration of the elided *a* of *aśītís*.
 </div>
 
 ## १० दश च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/10_dasha_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/10_dasha_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दश॑ च मे श॒तं च॑ मेऽपव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/10_dasha_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/10_dasha_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -607,7 +607,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/10_dasha_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/10_dasha_cha.md">
 <details open><summary><h3>१० दश च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -652,14 +652,14 @@ restoration of the elided *a* of *aśītís*.
 </div>
 
 ## ११ शतं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/11_shataM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/015_rogopashamanam/11_shataM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तं च॑ मे स॒हस्रं॑ चापव॒क्तार॑ ओषधे।  
 ऋत॑जात॒ ऋता॑वरि॒ मधु॑ मे मधु॒ला क॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/11_shataM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/015_rogopashamanam/11_shataM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -668,7 +668,7 @@ restoration of the elided *a* of *aśītís*.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/11_shataM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/015_rogopashamanam/11_shataM_cha.md">
 <details open><summary><h3>११ शतं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

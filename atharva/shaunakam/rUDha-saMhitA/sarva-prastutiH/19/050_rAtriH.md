@@ -2,7 +2,7 @@
 title = "०५० रात्रिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/_index.md">
 <details open><summary><h2>०५० रात्रिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Night for protection and prosperity
 </div>
 
 ## ०१ अध रात्रि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/01_adha_rAtri.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/01_adha_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अध॑ रात्रि तृ॒ष्टधू॑ममशी॒र्षाण॒महिं॑ कृणु।  
 अ॒क्षौ वृक॑स्य॒ निर्ज॑ह्या॒स्तेन॒ तं द्रु॑प॒दे ज॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/01_adha_rAtri.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/01_adha_rAtri.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Night for protection and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/01_adha_rAtri.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/01_adha_rAtri.md">
 <details open><summary><h3>०१ अध रात्रि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -113,14 +113,14 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 </div>
 
 ## ०२ ये ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/02_ye_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/02_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ते॑ रात्र्यन॒ड्वाह॑स्ती॒क्ष्णशृ॑ङ्गाः स्वा॒शवः॑।  
 तेभि॑र्नो अ॒द्य पा॑र॒याति॑ दु॒र्गाणि॑ वि॒श्वहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/02_ye_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/02_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -129,7 +129,7 @@ Blind him and make him headless, Night! the serpent with the pungent breath. Str
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/02_ye_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/02_ye_te.md">
 <details open><summary><h3>०२ ये ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -211,14 +211,14 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 </div>
 
 ## ०३ रात्रिंरात्रिमरिष्यन्तस्तरेम तन्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रात्रिं॑रात्रि॒मरि॑ष्यन्त॒स्तरे॑म त॒न्वा᳡ व॒यम्।  
 ग॑म्भी॒रमप्ल॑वा इव॒ न त॑रेयु॒ररा॑तयः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -227,7 +227,7 @@ Those oxen that are thine, O Night, with sharpened horns and rapid pace, With th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/03_rAtriMrAtrimariShyantastarema_tanvA.md">
 <details open><summary><h3>०३ रात्रिंरात्रिमरिष्यन्तस्तरेम तन्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -269,14 +269,14 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 </div>
 
 ## ०४ यथा शाम्याकः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ शा॒म्याकः॑ प्र॒पत॑न्नप॒वान्नानु॑वि॒द्यते॑।  
 ए॒वा रा॑त्रि॒ प्र पा॑तय॒ यो अ॒स्माँ अ॑भ्यघा॒यति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/04_yathA_shAmyAkaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -285,7 +285,7 @@ Uninjured in our bodies may we pass through each succeeding night, And let malig
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/04_yathA_shAmyAkaH.md">
 <details open><summary><h3>०४ यथा शाम्याकः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -341,14 +341,14 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 </div>
 
 ## ०५ अप स्तेनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/05_apa_stenam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/05_apa_stenam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अप॑ स्ते॒नं वासो॑ गोअ॒जमु॒त तस्क॑रम्।  
 अथो॒ यो अर्व॑तः॒ शिरो॑ऽभि॒धाय॒ निनी॑षति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/05_apa_stenam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/05_apa_stenam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -357,7 +357,7 @@ As millet hurried through the air before us is beheld no more. So cause the man 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/05_apa_stenam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/05_apa_stenam.md">
 <details open><summary><h3>०५ अप स्तेनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -423,14 +423,14 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 </div>
 
 ## ०६ यदद्या रात्रि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/06_yadadyA_rAtri.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒द्या रा॑त्रि सुभगे वि॒भज॒न्त्ययो॒ वसु॑।  
 यदे॒तद॒स्मान्भोज॑य॒ यथेद॒न्यानु॒पाय॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/06_yadadyA_rAtri.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -439,7 +439,7 @@ The thief hast thou kept far away, the robber driver of our kine. Even him who h
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/06_yadadyA_rAtri.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/06_yadadyA_rAtri.md">
 <details open><summary><h3>०६ यदद्या रात्रि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -501,14 +501,14 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 </div>
 
 ## ०७ उषसे नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/07_uShase_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/050_rAtriH/07_uShase_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒षसे॑ नः॒ परि॑ देहि॒ सर्वा॑न्रात्र्यना॒गसः॑।  
 उ॒षा नो॒ अह्ने॒ आ भ॑जा॒दह॒स्तुभ्यं॑ विभावरि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/07_uShase_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/050_rAtriH/07_uShase_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -517,7 +517,7 @@ If dealing treasure thou hast come to-day, O highly favoured Night. Cause thou u
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/07_uShase_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/050_rAtriH/07_uShase_naH.md">
 <details open><summary><h3>०७ उषसे नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०५७ जलचिकित्सा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/_index.md">
 <details open><summary><h2>०५७ जलचिकित्सा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for a wound or bruise
 </div>
 
 ## ०१ इदमिद्वा उ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/01_idamidvA_u.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/01_idamidvA_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दमिद्वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्।  
 येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/01_idamidvA_u.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/01_idamidvA_u.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for a wound or bruise
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/01_idamidvA_u.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/01_idamidvA_u.md">
 <details open><summary><h3>०१ इदमिद्वा उ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 </div>
 
 ## ०२ जालाषेणाभि षिञ्चत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जा॑ला॒षेणा॒भि षि॑ञ्चत जाला॒षेणोप॑ सिञ्चत।  
 जा॑ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ This is a medicine indeed, Rudra's own medicine is this, Wherewith he warns the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/02_jAlASheNAbhi_Shinchata.md">
 <details open><summary><h3>०२ जालाषेणाभि षिञ्चत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 </div>
 
 ## ०३ शं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/03_shaM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/057_jalachikitsA/03_shaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्।  
 क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/03_shaM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/057_jalachikitsA/03_shaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Besprinkle it with anodyne, bedew it with relieving balm: Strong, soothing is th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/03_shaM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/057_jalachikitsA/03_shaM_cha.md">
 <details open><summary><h3>०३ शं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

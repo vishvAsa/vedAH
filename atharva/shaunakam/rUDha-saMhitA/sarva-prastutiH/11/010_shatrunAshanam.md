@@ -2,7 +2,7 @@
 title = "०१० शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/_index.md">
 <details open><summary><h2>०१० शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 531; Henry, 129, 169; Griffith, ii. 88; Bloomfield, 126, 
 </div>
 
 ## ०१ उत्तिष्ठत सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/01_uttiShThata_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/01_uttiShThata_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्ति॑ष्ठत॒ सं न॑ह्यध्व॒मुदा॑राः के॒तुभिः॑ स॒ह।  
 सर्पा॒ इत॑रजना॒ रक्षां॑स्य॒मित्रा॒ननु॑ धावत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/01_uttiShThata_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/01_uttiShThata_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 531; Henry, 129, 169; Griffith, ii. 88; Bloomfield, 126, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/01_uttiShThata_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/01_uttiShThata_sam.md">
 <details open><summary><h3>०१ उत्तिष्ठत सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -92,7 +92,7 @@ Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Se
 </div>
 
 ## ०२ ईशां वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/02_IshAM_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/02_IshAM_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ई॒शां वो॑ वेद॒ राज्यं॒ त्रिष॑न्धे अरु॒णैः के॒तुभिः॑ स॒ह।  
@@ -100,7 +100,7 @@ Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Se
 त्रिष॑न्धे॒स्ते चेत॑सि दु॒र्णामा॑न॒ उपा॑सताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/02_IshAM_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/02_IshAM_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -110,7 +110,7 @@ Rise up, with all your banners rise; prepare your strength, ye vapoury Forms! Se
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/02_IshAM_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/02_IshAM_vo.md">
 <details open><summary><h3>०२ ईशां वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -167,14 +167,14 @@ Let those who bear an evil name, in air, in heaven on earth, and men, After Tris
 </div>
 
 ## ०३ अयोमुखाः सूचीमुखा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अयो॑मुखाः सू॒चीमु॑खा॒ अथो॑ विकङ्क॒तीमु॑खाः।  
 क्र॒व्यादो॒ वात॑रंहस॒ आ स॑जन्त्व॒मित्रा॒न्वज्रे॑ण॒ त्रिष॑न्धिना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ Let those who bear an evil name, in air, in heaven on earth, and men, After Tris
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/03_ayomukhAH_sUchImukhA.md">
 <details open><summary><h3>०३ अयोमुखाः सूचीमुखा ...{Loading}...</h3></summary>
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
@@ -237,14 +237,14 @@ Let those with iron faces, with faces like needles or like combs, Flesh-eaters, 
 </div>
 
 ## ०४ अन्तर्धेहि जातवेद
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्तर्धे॑हि जातवेद॒ आदि॑त्य॒ कुण॑पं ब॒हु।  
 त्रिष॑न्धेरि॒यं सेना॒ सुहि॑तास्तु मे॒ वशे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Let those with iron faces, with faces like needles or like combs, Flesh-eaters, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/04_antardhehi_jAtaveda.md">
 <details open><summary><h3>०४ अन्तर्धेहि जातवेद ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,14 +304,14 @@ Omniscient Aditya, make full many a corpse to disappear. Let this devoted army o
 </div>
 
 ## ०५ उत्तिष्ठ त्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उत्ति॑ष्ठ॒ त्वं दे॑वज॒नार्बु॑दे॒ सेन॑या स॒ह।  
 अ॒यं ब॒लिर्व॒ आहु॑त॒स्त्रिष॑न्धे॒राहु॑तिः प्रि॒या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -320,7 +320,7 @@ Omniscient Aditya, make full many a corpse to disappear. Let this devoted army o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/05_uttiShTha_tvam.md">
 <details open><summary><h3>०५ उत्तिष्ठ त्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -367,14 +367,14 @@ Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrif
 </div>
 
 ## ०६ शितिपदी सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/06_shitipadI_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/06_shitipadI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॑तिप॒दी सं द्य॑तु शर॒व्ये॒३॒॑यं चतु॑ष्पदी।  
 कृत्ये॒ऽमित्रे॑भ्यो भव॒ त्रिष॑न्धेः स॒ह सेन॑या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/06_shitipadI_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/06_shitipadI_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -383,7 +383,7 @@ Rise up, O Godlike Being, rise, Arbudi, with thine army: this, Tribute is sacrif
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/06_shitipadI_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/06_shitipadI_sam.md">
 <details open><summary><h3>०६ शितिपदी सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -432,14 +432,14 @@ May this four-footed White-foot, may this arrow brace and bind thee fast: Togeth
 </div>
 
 ## ०७ धूमाक्षी सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 धू॑मा॒क्षी सं प॑ततु कृधुक॒र्णी च॑ क्रोशतु।  
 त्रिष॑न्धेः॒ सेन॑या जि॒ते अ॑रु॒णाः स॑न्तु के॒तवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -448,7 +448,7 @@ May this four-footed White-foot, may this arrow brace and bind thee fast: Togeth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/07_dhUmAxI_sam.md">
 <details open><summary><h3>०७ धूमाक्षी सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -499,14 +499,14 @@ Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be th
 </div>
 
 ## ०८ अवायन्तां पक्षिणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अवा॑यन्तां प॒क्षिणो॒ ये वयां॑स्य॒न्तरि॑क्षे दि॒वि ये चर॑न्ति।  
 श्वाप॑दो॒ मक्षि॑काः॒ सं र॑भन्तामा॒मादो॒ गृध्राः॒ कुण॑पे रदन्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -515,7 +515,7 @@ Down let the dim-eyed demon fly, and let her shorteared sister shriek: Red be th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/08_avAyantAM_paxiNo.md">
 <details open><summary><h3>०८ अवायन्तां पक्षिणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -569,14 +569,14 @@ Let all the birds that move on wings come downward, all fowls that roam the heav
 </div>
 
 ## ०९ यामिन्द्रेण सन्धाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यामिन्द्रे॑ण सं॒धां स॒मध॑त्था॒ ब्रह्म॑णा च बृहस्पते।  
 तया॒हमि॑न्द्रसं॒धया॒ सर्वा॑न्दे॒वानि॒ह हु॑व इ॒तो ज॑यत॒ मामुतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -585,7 +585,7 @@ Let all the birds that move on wings come downward, all fowls that roam the heav
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/09_yAmindreNa_sandhAm.md">
 <details open><summary><h3>०९ यामिन्द्रेण सन्धाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -634,14 +634,14 @@ By that same binding treaty which thou madest, Brihaspati! with Indra! and with 
 </div>
 
 ## १० बृहस्पतिराङ्गिरस ऋषयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पति॑राङ्गिर॒स ऋष॑यो॒ ब्रह्म॑संशिताः।  
 अ॑सुर॒क्षय॑णं व॒धं त्रिष॑न्धिं दि॒व्याश्र॑यन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -650,7 +650,7 @@ By that same binding treaty which thou madest, Brihaspati! with Indra! and with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/10_bRhaspatirAngirasa_RShayo.md">
 <details open><summary><h3>१० बृहस्पतिराङ्गिरस ऋषयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -699,14 +699,14 @@ Brihaspati Angirasa, Rishis made strong and keen by prayer, Have set Trishandhi 
 </div>
 
 ## ११ येनासौ गुप्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/11_yenAsau_gupta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/11_yenAsau_gupta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येना॒सौ गु॒प्त आ॑दि॒त्य उ॒भाविन्द्र॑श्च॒ तिष्ठ॑तः।  
 त्रिष॑न्धिं दे॒वा अ॑भज॒न्तौज॑से च॒ बला॑य च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/11_yenAsau_gupta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/11_yenAsau_gupta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -715,7 +715,7 @@ Brihaspati Angirasa, Rishis made strong and keen by prayer, Have set Trishandhi 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/11_yenAsau_gupta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/11_yenAsau_gupta.md">
 <details open><summary><h3>११ येनासौ गुप्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -760,14 +760,14 @@ The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose pr
 </div>
 
 ## १२ सर्वांल्लोकान्त्समजयन्देवा आहुत्यानया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वां॑ल्लो॒कान्त्सम॑जयन्दे॒वा आहु॑त्या॒नया॑।  
 बृह॒स्पति॑राङ्गिर॒सो वज्रं॒ यमसि॑ञ्चतासुर॒क्षय॑णं व॒धम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -776,7 +776,7 @@ The Gods enjoyed Trishandhi for the sake of energy and power, Him under whose pr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/12_sarvAMllokAntsamajayandevA_AhutyAnayA.md">
 <details open><summary><h3>१२ सर्वांल्लोकान्त्समजयन्देवा आहुत्यानया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -824,14 +824,14 @@ The Gods, victorious, won themselves all worlds by this oblation, which Brihaspa
 </div>
 
 ## १३ बृहस्पतिराङ्गिरसो वज्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॒स्पति॑राङ्गिर॒सो वज्रं॒ यमसि॑ञ्चतासुर॒क्षय॑णं व॒धम्।  
 तेना॒हम॒मूं सेनां॒ नि लि॑म्पामि बृहस्पते॒ऽमित्रा॑न्ह॒न्म्योज॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -840,7 +840,7 @@ The Gods, victorious, won themselves all worlds by this oblation, which Brihaspa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/13_bRhaspatirAngiraso_vajram.md">
 <details open><summary><h3>१३ बृहस्पतिराङ्गिरसो वज्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -888,14 +888,14 @@ That fiend-destroying weapon which Brihaspati Angirasa poured out and made a thu
 </div>
 
 ## १४ सर्वे देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/14_sarve_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/14_sarve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वे॑ दे॒वा अ॒त्याय॑न्ति॒ ये अ॒श्नन्ति॒ वष॑ट्कृतम्।  
 इ॒मां जु॑षध्व॒माहु॑तिमि॒तो ज॑यत॒ मामुतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/14_sarve_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/14_sarve_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -904,7 +904,7 @@ That fiend-destroying weapon which Brihaspati Angirasa poured out and made a thu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/14_sarve_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/14_sarve_devA.md">
 <details open><summary><h3>१४ सर्वे देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -950,14 +950,14 @@ Over to us come all the Gods who eat the hallowed sacrifice With this oblation b
 </div>
 
 ## १५ सर्वे देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/15_sarve_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/15_sarve_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वे॑ देवा अ॒त्याय॑न्तु॒ त्रिष॑न्धे॒राहु॑तिः प्रि॒या।  
 सं॒धां म॑ह॒तीं र॑क्षत॒ ययाग्रे॒ असु॑रा जि॒ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/15_sarve_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/15_sarve_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -966,7 +966,7 @@ Over to us come all the Gods who eat the hallowed sacrifice With this oblation b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/15_sarve_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/15_sarve_devA.md">
 <details open><summary><h3>१५ सर्वे देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1014,7 +1014,7 @@ Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pled
 </div>
 
 ## १६ वायुरमित्राणामिष्वग्राण्याञ्चतु इन्द्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॒युर॒मित्रा॑णामिष्व॒ग्राण्याञ्च॑तु।  
@@ -1022,7 +1022,7 @@ Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pled
 आ॑दि॒त्य ए॑षाम॒स्त्रं वि ना॑शयतु च॒न्द्रमा॑ युता॒मग॑तस्य॒ पन्था॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1032,7 +1032,7 @@ Over,to us let all Gods come: dear is Trishandhi's offering. Keen the great pled
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/16_vAyuramitrANAmiShvagrANyAnchatu_indra.md">
 <details open><summary><h3>१६ वायुरमित्राणामिष्वग्राण्याञ्चतु इन्द्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1085,14 +1085,14 @@ Let Vayu bend the arrow-points of those who are our enemies. Let Indra break the
 </div>
 
 ## १७ यदि प्रेयुर्देवपुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ प्रे॒युर्दे॑वपु॒रा ब्रह्म॒ वर्मा॑णि चक्रि॒रे।  
 त॑नू॒पानं॑ परि॒पाणं॑ कृण्वा॒ना यदु॑पोचि॒रे सर्वं॒ तद॑र॒सं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1101,7 +1101,7 @@ Let Vayu bend the arrow-points of those who are our enemies. Let Indra break the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/17_yadi_preyurdevapurA.md">
 <details open><summary><h3>१७ यदि प्रेयुर्देवपुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1150,14 +1150,14 @@ If they have issued forth strongholds of Gods, and made their shields of prayer,
 </div>
 
 ## १८ क्रव्यादानुवर्तयन्मृत्युना च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्र॒व्यादा॑नुव॒र्तय॑न्मृ॒त्युना॑ च पु॒रोहि॑तम्।  
 त्रिष॑न्धे॒ प्रेहि॒ सेन॑या जयामित्रा॒न्प्र प॑द्यस्व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1166,7 +1166,7 @@ If they have issued forth strongholds of Gods, and made their shields of prayer,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/18_kravyAdAnuvartayanmRtyunA_cha.md">
 <details open><summary><h3>१८ क्रव्यादानुवर्तयन्मृत्युना च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1213,14 +1213,14 @@ With the Flesh-eater and with Death, following the Purohita, On! forward with Tr
 </div>
 
 ## १९ त्रिषन्धे तमसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रिष॑न्धे॒ तम॑सा॒ त्वम॒मित्रा॒न्परि॑ वारय।  
 पृ॑षदा॒ज्यप्र॑णुत्तानां॒ मामीषां॑ मोचि॒ कश्च॒न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1229,7 +1229,7 @@ With the Flesh-eater and with Death, following the Purohita, On! forward with Tr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/19_triShandhe_tamasA.md">
 <details open><summary><h3>१९ त्रिषन्धे तमसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1276,14 +1276,14 @@ Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none
 </div>
 
 ## २० शितिपदी सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/20_shitipadI_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/20_shitipadI_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शि॑तिप॒दी सं प॑तत्व॒मित्रा॑नाम॒मूः सिचः॑।  
 मुह्य॑न्त्व॒द्यामूः सेना॑ अ॒मित्रा॑णां न्यर्बुदे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/20_shitipadI_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/20_shitipadI_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1292,7 +1292,7 @@ Do thou, Trishandhi, with the gloom of darkness compass round our foes; Let none
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/20_shitipadI_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/20_shitipadI_sam.md">
 <details open><summary><h3>२० शितिपदी सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1342,14 +1342,14 @@ Let White-foot fall upon those wings of our opponents' arma- ment; Mazed and bew
 </div>
 
 ## २१ मूढा अमित्रा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मू॒ढा अ॒मित्रा॑ न्यर्बुदे ज॒ह्ये᳡षां॒ वरं॑वरम्।  
 अ॒नया॑ जहि॒ सेन॑या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1358,7 +1358,7 @@ Let White-foot fall upon those wings of our opponents' arma- ment; Mazed and bew
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/21_mUDhA_amitrA.md">
 <details open><summary><h3>२१ मूढा अमित्रा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1407,14 +1407,14 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 </div>
 
 ## २२ यश्च कवची
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/22_yashcha_kavachI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/22_yashcha_kavachI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यश्च॑ कव॒ची यश्चा॑कव॒चो॒३॒॑मित्रो॒ यश्चाज्म॑नि।  
 ज्या॑पा॒शैः क॑वचपा॒शैरज्म॑ना॒भिह॑तः शयाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/22_yashcha_kavachI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/22_yashcha_kavachI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1423,7 +1423,7 @@ Mazed are the foemen, Nyarbudi! Slay thou each bravest man of them: with this ou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/22_yashcha_kavachI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/22_yashcha_kavachI.md">
 <details open><summary><h3>२२ यश्च कवची ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1474,14 +1474,14 @@ Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smit
 </div>
 
 ## २३ ये वर्मिणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/23_ye_varmiNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/23_ye_varmiNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये व॒र्मिणो॒ येऽव॒र्माणो॑ अ॒मित्रा॒ ये च॑ व॒र्मिणः॑।  
 सर्वां॒स्ताँ अ॑र्बुदे ह॒ताञ्छ्वानो॑ऽदन्तु॒ भूम्या॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/23_ye_varmiNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/23_ye_varmiNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1490,7 +1490,7 @@ Low lie the warrior, mailed, unmailed, each foeman in the rush of war. Down-smit
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/23_ye_varmiNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/23_ye_varmiNo.md">
 <details open><summary><h3>२३ ये वर्मिणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1537,14 +1537,14 @@ The armour-clad, the armourless, enemies clothed with coats of mail, All these s
 </div>
 
 ## २४ ये रथिनो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/24_ye_rathino.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/24_ye_rathino.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये र॒थिनो॒ ये अ॑र॒था अ॑सा॒दा ये च॑ सा॒दिनः॑।  
 सर्वा॑नदन्तु॒ तान्ह॒तान्गृध्राः॑ श्ये॒नाः प॑त॒त्रिणः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/24_ye_rathino.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/24_ye_rathino.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1553,7 +1553,7 @@ The armour-clad, the armourless, enemies clothed with coats of mail, All these s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/24_ye_rathino.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/24_ye_rathino.md">
 <details open><summary><h3>२४ ये रथिनो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1607,14 +1607,14 @@ Car-borne and carless fighting men, riders and those who go on foot, All these, 
 </div>
 
 ## २५ सहस्रकुणपा शेतामामित्री
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒हस्र॑कुणपा शेतामामि॒त्री सेना॑ सम॒रे व॒धाना॑म्।  
 विवि॑द्धा कक॒जाकृ॑ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1623,7 +1623,7 @@ Car-borne and carless fighting men, riders and those who go on foot, All these, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/25_sahasrakuNapA_shetAmAmitrI.md">
 <details open><summary><h3>२५ सहस्रकुणपा शेतामामित्री ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1672,14 +1672,14 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 </div>
 
 ## २६ मर्माविधं रोरुवतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॑र्मा॒विधं॒ रोरु॑वतं सुप॒र्णैर॒दन्तु॑ दु॒श्चितं॑ मृदि॒तं शया॑नम्।  
 य इ॒मां प्र॒तीची॒माहु॑तिम॒मित्रो॑ नो॒ युयु॑त्सति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1688,7 +1688,7 @@ Low let the hostile army lie, thousands of corpses, on the ground, Pierced throu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/26_marmAvidhaM_roruvatam.md">
 <details open><summary><h3>२६ मर्माविधं रोरुवतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1747,14 +1747,14 @@ With eagles let them eat the evil-hearted, pierced in the vitals, lying crushed 
 </div>
 
 ## २७ यां देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/27_yAM_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/010_shatrunAshanam/27_yAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां दे॒वा अ॑नु॒तिष्ठ॑न्ति॒ यस्या॒ नास्ति॑ वि॒राध॑नम्।  
 तयेन्द्रो॑ हन्तु वृत्र॒हा वज्रे॑ण॒ त्रिष॑न्धिना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/27_yAM_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/010_shatrunAshanam/27_yAM_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1763,7 +1763,7 @@ With eagles let them eat the evil-hearted, pierced in the vitals, lying crushed 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/27_yAM_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/010_shatrunAshanam/27_yAM_devA.md">
 <details open><summary><h3>२७ यां देवा ...{Loading}...</h3></summary>
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 

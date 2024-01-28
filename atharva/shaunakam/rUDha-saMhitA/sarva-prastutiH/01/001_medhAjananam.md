@@ -2,7 +2,7 @@
 title = "००१ मेधाजननम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/_index.md">
 <details open><summary><h2>००१ मेधाजननम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to Vachaspati for divine illumination and help.
 </div>
 
 ## ०१ ये त्रिषप्ताः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/01_ye_triShaptAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/01_ye_triShaptAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये त्रि॑ष॒प्ताः प॑रि॒यन्ति॒ विश्वा॑ रू॒पाणि॒ बिभ्र॑तः।  
 वा॒चस्पति॒र्बला॒ तेषां॑ त॒न्वो॑ अ॒द्य द॑धातु मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/01_ye_triShaptAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/01_ye_triShaptAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to Vachaspati for divine illumination and help.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/01_ye_triShaptAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/01_ye_triShaptAH.md">
 <details open><summary><h3>०१ ये त्रिषप्ताः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -125,14 +125,14 @@ Now may Vachaspati assign to me the strength and powers of Those Who, wearing ev
 </div>
 
 ## ०२ पुनरेहि वाचस्पते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुन॒रेहि॑ वाचस्पते दे॒वेन॒ मन॑सा स॒ह।  
 वसो॑ष्पते॒ नि र॑मय॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/02_punarehi_vAchaspate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/02_punarehi_vAchaspate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -141,7 +141,7 @@ Now may Vachaspati assign to me the strength and powers of Those Who, wearing ev
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/02_punarehi_vAchaspate.md">
 <details open><summary><h3>०२ पुनरेहि वाचस्पते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -192,14 +192,14 @@ Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose t
 </div>
 
 ## ०३ इहैवाभि वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒हैवाभि वि त॑नू॒भे आर्त्नी॑ इव॒ ज्यया॑।  
 वा॒चस्पति॒र्नि य॑च्छतु॒ मय्ये॒वास्तु॒ मयि॑ श्रु॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/03_ihaivAbhi_vi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/03_ihaivAbhi_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -208,7 +208,7 @@ Come thou again, Vachaspati, come with divine intelligence. Vasoshpati, repose t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/03_ihaivAbhi_vi.md">
 <details open><summary><h3>०३ इहैवाभि वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -259,14 +259,14 @@ Here, even here, spread sheltering arms like the two bow-ends strained with cord
 </div>
 
 ## ०४ उपहूतो वाचस्पतिरुपास्मान्वाचस्पतिर्ह्वयताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑हूतो वा॒चस्पति॒रुपा॒स्मान्वा॒चस्पति॑र्ह्वयताम्।  
 सं श्रु॒तेन॑ गमेमहि॒ मा श्रु॒तेन॒ वि रा॑धिषि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -275,7 +275,7 @@ Here, even here, spread sheltering arms like the two bow-ends strained with cord
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/001_medhAjananam/04_upahUto_vAchaspatirupAsmAnvAchaspatirhvayatAm.md">
 <details open><summary><h3>०४ उपहूतो वाचस्पतिरुपास्मान्वाचस्पतिर्ह्वयताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

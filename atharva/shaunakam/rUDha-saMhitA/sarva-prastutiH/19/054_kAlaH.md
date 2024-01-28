@@ -2,7 +2,7 @@
 title = "०५४ कालः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/_index.md">
 <details open><summary><h2>०५४ कालः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Kala; a continuation of the preceding hymn
 </div>
 
 ## ०१ कालादापः समभवन्कालाद्ब्रह्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लादापः॒ सम॑भवन्का॒लाद्ब्रह्म॒ तपो॒ दिशः॑।  
 का॒लेनोदे॑ति॒ सूर्यः॑ का॒ले नि वि॑शते॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Kala; a continuation of the preceding hymn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/01_kAlAdApaH_samabhavankAlAdbrahma.md">
 <details open><summary><h3>०१ कालादापः समभवन्कालाद्ब्रह्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 </div>
 
 ## ०२ कालेन वातः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/02_kAlena_vAtaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/02_kAlena_vAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लेन॒ वातः॑ पवते का॒लेन॑ पृथि॒वी म॒ही।  
 द्यौर्म॒ही का॒ल आहि॑ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/02_kAlena_vAtaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/02_kAlena_vAtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ From Kala sprang the Waters, sprang the regions, Brahma, Holy Fire. The Sun asce
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/02_kAlena_vAtaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/02_kAlena_vAtaH.md">
 <details open><summary><h3>०२ कालेन वातः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 </div>
 
 ## ०३ कालो ह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/03_kAlo_ha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/03_kAlo_ha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लो ह॑ भू॒तं भव्यं॑ च पु॒त्रो अ॑जनयत्पु॒रा।  
 का॒लादृचः॒ सम॑भव॒न्यजुः॑ का॒लाद॑जायत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/03_kAlo_ha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/03_kAlo_ha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ By Kala freshly blows the wind, mighty through Kala is the Earth: on Kala rests 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/03_kAlo_ha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/03_kAlo_ha.md">
 <details open><summary><h3>०३ कालो ह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -250,14 +250,14 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 </div>
 
 ## ०४ कालो यज्ञम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/04_kAlo_yajnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/04_kAlo_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लो य॒ज्ञं समै॑रयद्दे॒वेभ्यो॑ भा॒गमक्षि॑तम्।  
 का॒ले ग॑न्धर्वाप्स॒रसः॑ का॒ले लो॒काः प्रति॑ष्ठिताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/04_kAlo_yajnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/04_kAlo_yajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -266,7 +266,7 @@ In Kala erst the text produced what is and what is yet to be. From Kala sprang t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/04_kAlo_yajnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/04_kAlo_yajnam.md">
 <details open><summary><h3>०४ कालो यज्ञम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -360,7 +360,7 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 </div>
 
 ## ०५ कालेऽयमङ्गिरा देवोऽथर्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 का॒लेऽयमङ्गि॑रा दे॒वोऽथ॑र्वा॒ चाधि॑ तिष्ठतः।  
@@ -368,7 +368,7 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 सर्वां॑ल्लो॒कान॑भि॒जित्य॒ ब्रह्म॑णा का॒लः स ई॑यते पर॒मो नु दे॒वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -378,7 +378,7 @@ They formed in Kala sacrifice, eternal portion for the Gods. In Kala the Gandhar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/054_kAlaH/05_kAle-yamangirA_devo-tharvA.md">
 <details open><summary><h3>०५ कालेऽयमङ्गिरा देवोऽथर्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

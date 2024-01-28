@@ -2,7 +2,7 @@
 title = "०२३ वीर-प्रसूतिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/_index.md">
 <details open><summary><h2>०२३ वीर-प्रसूतिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to remove a woman's sterility, and to assure the birth of boys
 </div>
 
 ## ०१ येन वेहद्बभूविथ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ वे॒हद्ब॒भूवि॑थ ना॒शया॑मसि॒ तत्त्वत्।  
 इ॒दं तद॒न्यत्र॒ त्वदप॑ दू॒रे नि द॑ध्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to remove a woman's sterility, and to assure the birth of boys
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/01_yena_vehadbabhUvitha.md">
 <details open><summary><h3>०१ येन वेहद्बभूविथ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 </div>
 
 ## ०२ आ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/02_A_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/02_A_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ ते॒ योनिं॒ गर्भ॑ एतु॒ पुमा॒न्बाण॑ इवेषु॒धिम्।  
 आ वी॒रोऽत्र॑ जायतां पु॒त्रस्ते॒ दश॑मास्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/02_A_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/02_A_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ From thee we banish and expel the cause of thy sterility. This in another place 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/02_A_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/02_A_te.md">
 <details open><summary><h3>०२ आ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 </div>
 
 ## ०३ पुमांसं पुत्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पुमां॑सं पु॒त्रं ज॑नय॒ तं पुमा॒ननु॑ जायताम्।  
 भवा॑सि पु॒त्राणां॑ मा॒ता जा॒तानां॑ ज॒नया॑श्च॒ यान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ As arrow to the quiver, so let a male embryo enter thee. Then from thy side be b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/03_pumAMsaM_putram.md">
 <details open><summary><h3>०३ पुमांसं पुत्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -235,14 +235,14 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 </div>
 
 ## ०४ यानि भद्राणि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यानि॑ भ॒द्राणि॒ बीजा॑न्यृष॒भा ज॒नय॑न्ति च।  
 तैस्त्वं पु॒त्रं वि॑न्दस्व॒ सा प्र॒सूर्धेनु॑का भव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -251,7 +251,7 @@ Bring forth a male, bring forth a son. Another male shall follow him. The mother
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/04_yAni_bhadrANi.md">
 <details open><summary><h3>०४ यानि भद्राणि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -307,14 +307,14 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 </div>
 
 ## ०५ कृणोमि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॒णोमि॑ ते प्राजाप॒त्यमा योनिं॒ गर्भ॑ एतु ते।  
 वि॒न्दस्व॒ त्वं पु॒त्रं ना॑रि॒ यस्तुभ्यं॒ शमस॒च्छमु॒ तस्मै॒ त्वं भव॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/05_kRNomi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -323,7 +323,7 @@ With that auspicious general flow wherewith steers propagate their kind, Do thou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/05_kRNomi_te.md">
 <details open><summary><h3>०५ कृणोमि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -376,14 +376,14 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 </div>
 
 ## ०६ यासां द्यौष्पिता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यासां॒ द्यौष्पि॒ता पृ॑थि॒वी मा॒ता स॑मु॒द्रो मूलं॑ वी॒रुधां॑ ब॒भूव॑।  
 तास्त्वा॑ पुत्र॒विद्या॑य॒ दैवीः॒ प्राव॒न्त्वोष॑धयः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -392,7 +392,7 @@ I give thee power to bear a child: within, thee pass the germ of life! Obtain a 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/023_vIra-prasUtiH/06_yAsAM_dyauShpitA.md">
 <details open><summary><h3>०६ यासां द्यौष्पिता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

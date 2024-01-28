@@ -2,7 +2,7 @@
 title = "०२९ पापमोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/_index.md">
 <details open><summary><h2>०२९ पापमोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Mitra-Varuna
 </div>
 
 ## ०१ मन्वे वाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/01_manve_vAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒न्वे वां॑ मित्रावरुणावृतावृधौ॒ सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॑।  
 प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/01_manve_vAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/01_manve_vAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Mitra-Varuna
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/01_manve_vAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/01_manve_vAm.md">
 <details open><summary><h3>०१ मन्वे वाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -113,14 +113,14 @@ You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away opp
 </div>
 
 ## ०२ सचेतसौ द्रुह्वणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सचे॑तसौ॒ द्रुह्व॑णो॒ यौ नु॒देथे॒ प्र स॒त्यावा॑न॒मव॑थो॒ भरे॑षु।  
 यौ गच्छ॑थो नृ॒चक्ष॑सौ ब॒भ्रुणा॑ सु॒तं तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -129,7 +129,7 @@ You twain, O Mitra, Varuna, I honour, Lawstrengtheners, wise, who drive away opp
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/02_sachetasau_druhvaNo.md">
 <details open><summary><h3>०२ सचेतसौ द्रुह्वणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -182,14 +182,14 @@ Ye the wise Gods who drive away oppressors, ye who protect the truthful in his b
 </div>
 
 ## ०३ यावङ्गिरसमवथो यावगस्तिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यावङ्गि॑रस॒मव॑थो॒ याव॒गस्तिं॒ मित्रा॑वरुणा ज॒मद॑ग्नि॒मत्त्रि॑म्।  
 यौ क॒श्यप॒मव॑थो॒ यौ वसि॑ष्ठं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -198,7 +198,7 @@ Ye the wise Gods who drive away oppressors, ye who protect the truthful in his b
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/03_yAvangirasamavatho_yAvagastim.md">
 <details open><summary><h3>०३ यावङ्गिरसमवथो यावगस्तिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -246,14 +246,14 @@ Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help 
 </div>
 
 ## ०४ यौ श्यावाश्वमवथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ श्या॒वाश्व॒मव॑थो वध्र्य॒श्वं मित्रा॑वरुणा पुरुमी॒ढमत्त्रि॑म्।  
 यौ वि॑म॒दमव॑थः स॒प्तव॑ध्रिं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -262,7 +262,7 @@ Mitra and Varuna who help Agasti, Atri, and Angiras, and Jamadagni, Ye who help 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/04_yau_shyAvAshvamavatho.md">
 <details open><summary><h3>०४ यौ श्यावाश्वमवथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -309,14 +309,14 @@ Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who
 </div>
 
 ## ०५ यौ भरद्वाजमवथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ भ॒रद्वा॑ज॒मव॑थो॒ यौ गवि॑ष्ठिरं वि॒श्वामि॑त्रं वरुण मित्र॒ कुत्स॑म्।  
 यौ क॒क्षीव॑न्त॒मव॑थः॒ प्रोत कण्वं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -325,7 +325,7 @@ Mitra and Varuna, who help Syavasva, Atri, and Purumilha, and Vadhryasva, Ye who
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/05_yau_bharadvAjamavatho.md">
 <details open><summary><h3>०५ यौ भरद्वाजमवथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -372,14 +372,14 @@ Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, W
 </div>
 
 ## ०६ यौ मेधातिथिमवथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ मेधा॑तिथि॒मव॑थो॒ यौ त्रि॒शोकं॒ मित्रा॑वरुणावु॒शनां॑ का॒व्यं यौ।  
 यौ गोत॑म॒मव॑थः॒ प्रोत मुद्ग॑लं॒ तौ नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -388,7 +388,7 @@ Ye, Varuna, Mitra, who give aid to Kutsa, Gavishthira, Bharadvaja, Visvamitra, W
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/06_yau_medhAtithimavatho.md">
 <details open><summary><h3>०६ यौ मेधातिथिमवथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -437,14 +437,14 @@ Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gota
 </div>
 
 ## ०७ ययो रथः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/07_yayo_rathaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/029_pApamochanam/07_yayo_rathaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ययो॒ रथः॑ स॒त्यव॑र्त्म॒र्जुर॑श्मिर्मिथु॒या चर॑न्तमभि॒याति॑ दू॒षय॑न्।  
 स्तौमि॑ मि॒त्रावरु॑णौ नाथि॒तो जो॑हवीमि तौ नो मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/07_yayo_rathaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/029_pApamochanam/07_yayo_rathaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -453,7 +453,7 @@ Ye, Mitra, Varuna, who help Trisoka, Medhatithi, and Usana son of Kavi, Ye, Gota
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/07_yayo_rathaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/029_pApamochanam/07_yayo_rathaH.md">
 <details open><summary><h3>०७ ययो रथः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

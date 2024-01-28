@@ -2,7 +2,7 @@
 title = "००१ शत्रुसेनासंमोहनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/_index.md">
 <details open><summary><h2>००१ शत्रुसेनासंमोहनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer or charm for the defeat and destruction of enemies in battle
 </div>
 
 ## ०१ अग्निर्नः शत्रून्प्रत्येतु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निर्नः॒ शत्रू॒न्प्रत्ये॑तु वि॒द्वान्प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्।  
 स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer or charm for the defeat and destruction of enemies in battle
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/01_agnirnaH_shatrUnpratyetu.md">
 <details open><summary><h3>०१ अग्निर्नः शत्रून्प्रत्येतु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 </div>
 
 ## ०२ यूयमुग्रा मरुत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्।  
 अमी॑मृण॒न्वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्ये॑षां दू॒तः प्र॒त्येतु॑ वि॒द्वान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Let the wise Agni go against our foemen, burning against ill-will and imprecatio
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/02_yUyamugrA_maruta.md">
 <details open><summary><h3>०२ यूयमुग्रा मरुत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -184,14 +184,14 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 </div>
 
 ## ०३ अमित्रसेनां मघवन्नस्मान्छत्रूयतीमभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑मित्रसे॒नां म॑घवन्न॒स्मान्छ॑त्रूय॒तीम॒भि।  
 यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -200,7 +200,7 @@ Mighty are ye for such a deed, O Maruts. Go forward, overcome them and destroy t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/03_amitrasenAM_maghavannasmAnChatrUyatImabhi.md">
 <details open><summary><h3>०३ अमित्रसेनां मघवन्नस्मान्छत्रूयतीमभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -252,14 +252,14 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 </div>
 
 ## ०४ प्रसूत इन्द्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्।  
 ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क्स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ O Maghavan, O Indra, thou who slayest fiends, and, Agni, thou, Burn, both of you
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/04_prasUta_indra.md">
 <details open><summary><h3>०४ प्रसूत इन्द्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -328,14 +328,14 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 </div>
 
 ## ०५ इन्द्र सेनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्।  
 अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान्विषू॑चो॒ वि ना॑शय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -344,7 +344,7 @@ Shot down the slope, with thy two tawny coursers, forth go thy bolt, destroying 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/05_indra_senAm.md">
 <details open><summary><h3>०५ इन्द्र सेनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -394,14 +394,14 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 </div>
 
 ## ०६ इन्द्रः सेनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा।  
 चक्षूं॑ष्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -410,7 +410,7 @@ Indra, bewilder thou the foemen's army. With Agni's, Vata's furious rush drive t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/001_shatrusenAsaMmohanam/06_indraH_senAm.md">
 <details open><summary><h3>०६ इन्द्रः सेनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

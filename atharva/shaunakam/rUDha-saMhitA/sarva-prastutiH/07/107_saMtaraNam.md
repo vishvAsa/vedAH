@@ -2,7 +2,7 @@
 title = "१०७ संतरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/107_saMtaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/107_saMtaraNam/_index.md">
 <details open><summary><h2>१०७ संतरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Henry, 42, 117; Griffith, i. 379.
 </div>
 
 ## ०१ अव दिवस्तारयन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/107_saMtaraNam/01_ava_divastArayanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/107_saMtaraNam/01_ava_divastArayanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑।  
 आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/107_saMtaraNam/01_ava_divastArayanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/107_saMtaraNam/01_ava_divastArayanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Henry, 42, 117; Griffith, i. 379.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/107_saMtaraNam/01_ava_divastArayanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/107_saMtaraNam/01_ava_divastArayanti.md">
 <details open><summary><h3>०१ अव दिवस्तारयन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

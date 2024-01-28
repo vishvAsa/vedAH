@@ -2,7 +2,7 @@
 title = "०२४ सविता"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/_index.md">
 <details open><summary><h2>०२४ सविता ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for riches
 </div>
 
 ## ०१ यन्न इन्द्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/024_savitA/01_yanna_indro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/024_savitA/01_yanna_indro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्न॒ इन्द्रो॒ अख॑न॒द्यद॒ग्निर्विश्वे॑ दे॒वा म॒रुतो॒ यत्स्व॒र्काः।  
 तद॒स्मभ्यं॑ सवि॒ता स॒त्यध॑र्मा प्र॒जाप॑ति॒रनु॑मति॒र्नि य॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/024_savitA/01_yanna_indro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/024_savitA/01_yanna_indro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for riches
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/01_yanna_indro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/024_savitA/01_yanna_indro.md">
 <details open><summary><h3>०१ यन्न इन्द्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

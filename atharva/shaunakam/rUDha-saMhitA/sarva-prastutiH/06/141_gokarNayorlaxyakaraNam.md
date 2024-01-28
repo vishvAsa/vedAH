@@ -2,7 +2,7 @@
 title = "१४१ गोकर्णयोर्लक्ष्यकरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/_index.md">
 <details open><summary><h2>१४१ गोकर्णयोर्लक्ष्यकरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 </div>
 
 ## ०१ वायुरेनाः समाकरत्त्वष्टा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॒युरे॑नाः स॒माक॑र॒त्त्वष्टा॒ पोषा॑य ध्रियताम्।  
 इन्द्र॑ आभ्यो॒ अधि॑ ब्रवद्रु॒द्रो भू॒म्ने चि॑कित्सतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Ludwig, p. 469; Zimmer, p. 234; Griffith, i. 324.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/01_vAyurenAH_samAkarattvaShTA.md">
 <details open><summary><h3>०१ वायुरेनाः समाकरत्त्वष्टा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 </div>
 
 ## ०२ लोहितेन स्वधितिना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 लोहि॑तेन॒ स्वधि॑तिना मिथु॒नं कर्ण॑योः कृधि।  
 अक॑र्तामश्विना॒ लक्ष्म॒ तद॑स्तु प्र॒जया॑ ब॒हु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Vayu collected these: to find their sustenance be Tvashtar's care: May Indra ble
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/02_lohitena_svadhitinA.md">
 <details open><summary><h3>०२ लोहितेन स्वधितिना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 </div>
 
 ## ०३ यथा चक्रुर्देवासुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ च॒क्रुर्दे॑वासु॒रा यथा॑ मनु॒ष्या᳡ उ॒त।  
 ए॒वा स॑हस्रपो॒षाय॑ कृणु॒तं लक्ष्मा॑श्विना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ Take thou the iron axe and make a pair by marks upon their ears. This sign the A
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/141_gokarNayorlaxyakaraNam/03_yathA_chakrurdevAsurA.md">
 <details open><summary><h3>०३ यथा चक्रुर्देवासुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००७ उच्छिष्ट-ब्रह्म-सूक्तम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/_index.md">
 <details open><summary><h2>००७ उच्छिष्ट ब्रह्म-सूक्तम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A glorification of the Uchchhishta or Residue of Sacrifice
 </div>
 
 ## ०१ उच्छिष्टे नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उच्छि॑ष्टे॒ नाम॑ रू॒पं चोच्छि॑ष्टे लो॒क आहि॑तः।  
 उच्छि॑ष्ट॒ इन्द्र॑श्चा॒ग्निश्च॒ विश्व॑म॒न्तः स॒माहि॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A glorification of the Uchchhishta or Residue of Sacrifice
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/01_uchChiShTe_nAma.md">
 <details open><summary><h3>०१ उच्छिष्टे नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ The Residue of Sacrifice containeth name, and from, and world: Indra and Agni an
 </div>
 
 ## ०२ उच्छिष्टे द्यावापृथिवी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उच्छि॑ष्टे॒ द्यावा॑पृथि॒वी विश्वं॑ भू॒तं स॒माहि॑तम्।  
 आपः॑ समु॒द्र उच्छि॑ष्टे च॒न्द्रमा॒ वात॒ आहि॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ The Residue of Sacrifice containeth name, and from, and world: Indra and Agni an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/02_uchChiShTe_dyAvApRthivI.md">
 <details open><summary><h3>०२ उच्छिष्टे द्यावापृथिवी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -162,14 +162,14 @@ The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of 
 </div>
 
 ## ०३ सन्नुच्छिष्टे असंश्चोभौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सन्नुच्छि॑ष्टे॒ असं॑श्चो॒भौ मृ॒त्युर्वाजः॑ प्र॒जाप॑तिः।  
 लौ॒क्या उच्छि॑ष्ट॒ आय॑त्ता॒ व्रश्च॒ द्रश्चापि॒ श्रीर्मयि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -178,7 +178,7 @@ The Residue of Sacrifice holdeth Earth, Heaven, and all that is: The Residue of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/03_sannuchChiShTe_asaMshchobhau.md">
 <details open><summary><h3>०३ सन्नुच्छिष्टे असंश्चोभौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -232,14 +232,14 @@ Real, non-real, both are there, Prajapati, and Death, and strength: Thereon depe
 </div>
 
 ## ०४ दृढो दृंहस्थिरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दृ॒ढो दृं॑हस्थि॒रो न्यो ब्रह्म॑ विश्व॒सृजो॒ दश॑।  
 नाभि॑मिव स॒र्वत॑श्च॒क्रमुच्छि॑ष्टे दे॒वताः॑ श्रि॒ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -248,7 +248,7 @@ Real, non-real, both are there, Prajapati, and Death, and strength: Thereon depe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/04_dRDho_dRMhasthiro.md">
 <details open><summary><h3>०४ दृढो दृंहस्थिरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -300,14 +300,14 @@ The firm, the fast, the strong, the hard, Brahma, the All-creating Ten. Gods, as
 </div>
 
 ## ०५ ऋक्साम यजुरुच्छिष्ट
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋक्साम॒ यजु॒रुच्छि॑ष्ट उद्गी॒थः प्रस्तु॑तं स्तु॒तम्।  
 हि॑ङ्का॒र उच्छि॑ष्टे॒ स्वरः॒ साम्नो॑ मे॒डिश्च॒ तन्मयि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -316,7 +316,7 @@ The firm, the fast, the strong, the hard, Brahma, the All-creating Ten. Gods, as
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/05_RksAma_yajuruchChiShTa.md">
 <details open><summary><h3>०५ ऋक्साम यजुरुच्छिष्ट ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -368,14 +368,14 @@ Verse, Song, and Sacrificial Text, chanting, the prelude, and the laud, The hum 
 </div>
 
 ## ०६ ऐन्द्राग्नं पावमानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऐ॒न्द्रा॒ग्नं पा॑वमा॒नं म॒हाना॑म्नीर्महाव्र॒तम्।  
 उच्छि॑ष्टे य॒ज्ञस्याङ्गा॑न्य॒न्तर्गर्भ॑ इव मा॒तरि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -384,7 +384,7 @@ Verse, Song, and Sacrificial Text, chanting, the prelude, and the laud, The hum 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/06_aindrAgnaM_pAvamAnam.md">
 <details open><summary><h3>०६ ऐन्द्राग्नं पावमानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -433,14 +433,14 @@ Within the Residue, like babes unborn, the parts of sacrifice, Aindragne Pavaman
 </div>
 
 ## ०७ राजसूयं वाजपेयमग्निष्टोमस्तदध्वरः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रा॑ज॒सूयं॑ वाज॒पेय॑मग्निष्टो॒मस्तद॑ध्व॒रः।  
 अ॑र्काश्वमे॒धावुच्छि॑ष्टे जी॒वब॑र्हिर्म॒दिन्त॑मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -449,7 +449,7 @@ Within the Residue, like babes unborn, the parts of sacrifice, Aindragne Pavaman
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/07_rAjasUyaM_vAjapeyamagniShTomastadadhvaraH.md">
 <details open><summary><h3>०७ राजसूयं वाजपेयमग्निष्टोमस्तदध्वरः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -497,14 +497,14 @@ The Vajapeya, Royal Rite, the Agnishoma and its forms, Hymns, joyfullest with li
 </div>
 
 ## ०८ अग्न्याधेयमथो दीक्षा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ग्न्या॒धेय॒मथो॑ दी॒क्षा का॑म॒प्रश्छन्द॑सा स॒ह।  
 उत्स॑न्ना य॒ज्ञाः स॒त्राण्युच्छि॒ष्टेऽधि॑ स॒माहि॑ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -513,7 +513,7 @@ The Vajapeya, Royal Rite, the Agnishoma and its forms, Hymns, joyfullest with li
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/08_agnyAdheyamatho_dIxA.md">
 <details open><summary><h3>०८ अग्न्याधेयमथो दीक्षा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -567,14 +567,14 @@ Diksha and Agnyadheya rite that sates the wish, with magic- hymn, Suspended rite
 </div>
 
 ## ०९ अग्निहोत्रं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ग्निहो॒त्रं च॑ श्र॒द्धा च॑ वषट्का॒रो व्र॒तं तपः॑।  
 दक्षि॑णे॒ष्टं पू॒र्तं चोच्छि॒ष्टेऽधि॑ स॒माहि॑ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -583,7 +583,7 @@ Diksha and Agnyadheya rite that sates the wish, with magic- hymn, Suspended rite
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/09_agnihotraM_cha.md">
 <details open><summary><h3>०९ अग्निहोत्रं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -638,14 +638,14 @@ Faith fire-oblation, fervent zeal, service, and sacrificial cry, Guerdon, good w
 </div>
 
 ## १० एकरात्रो द्विरात्रः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॑करा॒त्रो द्वि॑रा॒त्रः स॑द्यः॒क्रीः प्र॒क्रीरु॒क्थ्यः᳡।  
 ओतं॒ निहि॑त॒मुच्छि॑ष्टे य॒ज्ञस्या॒णूनि॑ वि॒द्यया॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -654,7 +654,7 @@ Faith fire-oblation, fervent zeal, service, and sacrificial cry, Guerdon, good w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/10_ekarAtro_dvirAtraH.md">
 <details open><summary><h3>१० एकरात्रो द्विरात्रः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -704,14 +704,14 @@ Sacrifice of one night, or two, Sadyaskri, Ukthya, and Prakri, Call, deep-toned 
 </div>
 
 ## ११ चतूरात्रः पञ्चरात्रः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चतूरा॒त्रः प॑ञ्चरा॒त्रः ष॑ड्रा॒त्रश्चो॒भयः॑ स॒ह।  
 षो॑ड॒शी स॑प्तरा॒त्रश्चोच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॒ ये य॒ज्ञा अ॒मृते॑ हि॒ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -720,7 +720,7 @@ Sacrifice of one night, or two, Sadyaskri, Ukthya, and Prakri, Call, deep-toned 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/11_chatUrAtraH_pancharAtraH.md">
 <details open><summary><h3>११ चतूरात्रः पञ्चरात्रः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -771,14 +771,14 @@ Sacrifice of four nights, of five, of six nights, day and night conjoined, Shoda
 </div>
 
 ## १२ प्रतीहारो निधनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑तीहा॒रो नि॒धनं॑ विश्व॒जिच्चा॑भि॒जिच्च॒ यः।  
 सा॑ह्नातिरा॒त्रावुच्छि॑ष्टे द्वादशा॒होऽपि॒ तन्मयि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -787,7 +787,7 @@ Sacrifice of four nights, of five, of six nights, day and night conjoined, Shoda
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/12_pratIhAro_nidhanam.md">
 <details open><summary><h3>१२ प्रतीहारो निधनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -837,14 +837,14 @@ Pratihara and Nidhanam, the Visvajit, the Abhijit, The two Sahnatiratras and Twe
 </div>
 
 ## १३ सूनृता सन्नतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सू॒नृता॒ संन॑तिः॒ क्षेमः॑ स्व॒धोर्जामृतं॒ सहः॑।  
 उच्छि॑ष्टे॒ सर्वे॑ प्र॒त्यञ्चः॒ कामाः॒ कामे॑न तातृपुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -853,7 +853,7 @@ Pratihara and Nidhanam, the Visvajit, the Abhijit, The two Sahnatiratras and Twe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/13_sUnRtA_sannatiH.md">
 <details open><summary><h3>१३ सूनृता सन्नतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -902,14 +902,14 @@ Pleasantness, reverence, peace, and power, strength, vigour, immortality All for
 </div>
 
 ## १४ नव भूमीः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नव॒ भूमीः॑ समु॒द्रा उच्छि॑ष्टेऽधि॑ श्रि॒ता दिवः॑।  
 आ॒ सूर्यो॑ भा॒त्युच्छि॑ष्टेऽहोरा॒त्रे अपि॒ तन्मयि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -918,7 +918,7 @@ Pleasantness, reverence, peace, and power, strength, vigour, immortality All for
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/14_nava_bhUmIH.md">
 <details open><summary><h3>१४ नव भूमीः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -967,14 +967,14 @@ Nine several oceans, earths, and skies are set within, the Residue, Bright shine
 </div>
 
 ## १५ उपहव्यं विषूवन्तम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑प॒हव्यं॑ विषू॒वन्तं॒ ये च॑ य॒ज्ञा गुहा॑ हि॒ताः।  
 बिभ॑र्ति भ॒र्ता विश्व॒स्योच्छि॑ष्टो जनि॒तुः पि॒ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -983,7 +983,7 @@ Nine several oceans, earths, and skies are set within, the Residue, Bright shine
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/15_upahavyaM_viShUvantam.md">
 <details open><summary><h3>१५ उपहव्यं विषूवन्तम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1032,14 +1032,14 @@ The Residue the Father's sire, who bears this universe, supports Vishuvan, Upaha
 </div>
 
 ## १६ पिता जनितुरुच्छिष्टोऽसोः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॒ता ज॑नि॒तुरुच्छि॒ष्टोऽसोः॒ पौत्रः॑ पिताम॒हः।  
 स क्षि॑यति॒ विश्व॒स्येशा॑नो॒ वृषा॒ भूम्या॑मति॒घ्न्यः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1048,7 +1048,7 @@ The Residue the Father's sire, who bears this universe, supports Vishuvan, Upaha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/16_pitA_janituruchChiShTo-soH.md">
 <details open><summary><h3>१६ पिता जनितुरुच्छिष्टोऽसोः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1096,14 +1096,14 @@ The Father's sire, the Residue, grandson of Spirit, primal Sire, Lord of the uni
 </div>
 
 ## १७ ऋतं सत्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒तं स॒त्यं तपो॑ रा॒ष्ट्रं श्रमो॒ धर्म॑श्च॒ कर्म॑ च।  
 भू॒तं भ॑वि॒ष्यदुच्छि॑ष्टे वी॒र्यं᳡ ल॒क्ष्मीर्बलं॒ बले॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1112,7 +1112,7 @@ The Father's sire, the Residue, grandson of Spirit, primal Sire, Lord of the uni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/17_RtaM_satyam.md">
 <details open><summary><h3>१७ ऋतं सत्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1161,14 +1161,14 @@ Right, truth, dominion, fervent zeal, toil, duty, action, future, past, Valour; 
 </div>
 
 ## १८ समृद्धिरोज आकूतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समृ॑द्धि॒रोज॒ आकू॑तिः क्ष॒त्रं रा॒ष्ट्रं षडु॒र्व्यः᳡।  
 सं॑वत्स॒रोऽध्युच्छि॑ष्ट॒ इडा॑ प्रै॒षा ग्रहा॑ ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1177,7 +1177,7 @@ Right, truth, dominion, fervent zeal, toil, duty, action, future, past, Valour; 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/18_samRddhiroja_AkUtiH.md">
 <details open><summary><h3>१८ समृद्धिरोज आकूतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1225,14 +1225,14 @@ Welfare, resolve and energy, the six expanses, kingship, sway, Prayer, and direc
 </div>
 
 ## १९ चतुर्होतार आप्रियश्चातुर्मास्यानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चतु॑र्होतार आ॒प्रिय॑श्चातुर्मा॒स्यानि॑ नी॒विदः॑।  
 उच्छि॑ष्टे य॒ज्ञा होत्राः॑ पशुब॒न्धास्तदिष्ट॑यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1241,7 +1241,7 @@ Welfare, resolve and energy, the six expanses, kingship, sway, Prayer, and direc
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/19_chaturhotAra_ApriyashchAturmAsyAni.md">
 <details open><summary><h3>१९ चतुर्होतार आप्रियश्चातुर्मास्यानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1289,14 +1289,14 @@ And the four Hotars, Apri hymns, the Nivids, and Four- monthly rites, Oblations,
 </div>
 
 ## २० अर्धमासाश्च मासाश्चार्तवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑र्धमा॒साश्च॒ मासा॑श्चार्त॒वा ऋ॒तुभिः॑ स॒ह।  
 उच्छि॑ष्टे घो॒षिणी॒रापः॑ स्तनयि॒त्नुः श्रुति॑र्म॒ही ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1305,7 +1305,7 @@ And the four Hotars, Apri hymns, the Nivids, and Four- monthly rites, Oblations,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/20_ardhamAsAshcha_mAsAshchArtavA.md">
 <details open><summary><h3>२० अर्धमासाश्च मासाश्चार्तवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1353,14 +1353,14 @@ Months, half-months, sections of the year, seasons are in the Residue, The water
 </div>
 
 ## २१ शर्कराः सिकता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शर्क॑राः॒ सिक॑ता॒ अश्मा॑न॒ ओष॑धयो वी॒रुध॒स्तृणा॑।  
 अ॒भ्राणि॑ वि॒द्युतो॑ व॒र्षमुच्छि॑ष्टे॒ संश्रि॑ता श्रि॒ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1369,7 +1369,7 @@ Months, half-months, sections of the year, seasons are in the Residue, The water
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/21_sharkarAH_sikatA.md">
 <details open><summary><h3>२१ शर्कराः सिकता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1415,14 +1415,14 @@ Pebbles, sand, stones, and herbs, and plants, and grass are in the Residue, Clos
 </div>
 
 ## २२ राद्धिः प्राप्तिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 राद्धिः॒ प्राप्तिः॒ समा॑प्ति॒र्व्या᳡प्ति॒र्मह॑ एध॒तुः।  
 अत्या॑प्ति॒रुच्छि॑ष्टे॒ भूति॒श्चाहि॑ता॒ निहि॑ता हि॒ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1431,7 +1431,7 @@ Pebbles, sand, stones, and herbs, and plants, and grass are in the Residue, Clos
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/22_rAddhiH_prAptiH.md">
 <details open><summary><h3>२२ राद्धिः प्राप्तिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1482,14 +1482,14 @@ Gain, acquisition, and success, fulness, complete prosperity. Great gain and wea
 </div>
 
 ## २३ यच्च प्राणति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यच्च॑ प्रा॒णति॑ प्रा॒णेन॒ यच्च॒ पश्य॑ति॒ चक्षु॑षा।  
 उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1498,7 +1498,7 @@ Gain, acquisition, and success, fulness, complete prosperity. Great gain and wea
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/23_yachcha_prANati.md">
 <details open><summary><h3>२३ यच्च प्राणति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1543,14 +1543,14 @@ All things that breathe the breath of life, all creatures that have eyes to see,
 </div>
 
 ## २४ ऋचः सामानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋचः॒ सामा॑नि॒ च्छन्दां॑सि पुरा॒णं यजु॑षा स॒ह।  
 उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1559,7 +1559,7 @@ All things that breathe the breath of life, all creatures that have eyes to see,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/24_RchaH_sAmAni.md">
 <details open><summary><h3>२४ ऋचः सामानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1607,14 +1607,14 @@ Verses, and Songs, and magic hymns, Purana, sacrificial text. All the celestial 
 </div>
 
 ## २५ प्राणापानौ चक्षुः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॑णापा॒नौ चक्षुः॒ श्रोत्र॒मक्षि॑तिश्च॒ क्षिति॑श्च॒ या।  
 उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1623,7 +1623,7 @@ Verses, and Songs, and magic hymns, Purana, sacrificial text. All the celestial 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/25_prANApAnau_chaxuH.md">
 <details open><summary><h3>२५ प्राणापानौ चक्षुः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1670,14 +1670,14 @@ Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celes
 </div>
 
 ## २६ आनन्दा मोदाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑न॒न्दा मोदाः॑ प्र॒मुदो॑ऽभिमोद॒मुद॑श्च॒ ये।  
 उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1686,7 +1686,7 @@ Inbreath and outbreath, eye and ear, decay and freedom from decay, All the celes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/26_AnandA_modAH.md">
 <details open><summary><h3>२६ आनन्दा मोदाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1738,14 +1738,14 @@ All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the ce
 </div>
 
 ## २७ देवाः पितरो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वाः पि॒तरो॑ मनु॒ष्या᳡ गन्धर्वाप्स॒रस॑श्च॒ ये।  
 उच्छि॑ष्टाज्जज्ञिरे॒ सर्वे॑ दि॒वि दे॒वा दि॑वि॒श्रितः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1754,7 +1754,7 @@ All pleasures and enjoyments, all delights and rapturous ecsta- sies, All the ce
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/11/007_uchChiShTa_brahma-sUktam/27_devAH_pitaro.md">
 <details open><summary><h3>२७ देवाः पितरो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

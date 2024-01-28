@@ -2,7 +2,7 @@
 title = "०१५ वाणिज्यम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/_index.md">
 <details open><summary><h2>०१५ वाणिज्यम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A merchant's prayer for success in his business
 </div>
 
 ## ०१ इन्द्रमहं वणिजम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/01_indramahaM_vaNijam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/01_indramahaM_vaNijam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्र॑म॒हं व॒णिजं॑ चोदयामि॒ स न॒ ऐतु॑ पुरए॒ता नो॑ अस्तु।  
 नु॒दन्नरा॑तिं परिप॒न्थिनं॑ मृ॒गं स ईशा॑नो धन॒दा अ॑स्तु॒ मह्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/01_indramahaM_vaNijam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/01_indramahaM_vaNijam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A merchant's prayer for success in his business
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/01_indramahaM_vaNijam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/01_indramahaM_vaNijam.md">
 <details open><summary><h3>०१ इन्द्रमहं वणिजम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ I stir and animate the merchant Indra; may he approach and be our guide and lead
 </div>
 
 ## ०२ ये पन्थानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/02_ye_panthAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/02_ye_panthAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति।  
 ते मा॑ जुषन्तां॒ पय॑सा घृ॒तेन॒ यथा॑ क्री॒त्वा धन॑मा॒हरा॑णि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/02_ye_panthAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/02_ye_panthAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ I stir and animate the merchant Indra; may he approach and be our guide and lead
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/02_ye_panthAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/02_ye_panthAno.md">
 <details open><summary><h3>०२ ये पन्थानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ The many paths which Gods are wont to travel, the paths which go between the ear
 </div>
 
 ## ०३ इध्मेनाग्न इच्छमानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒ध्मेना॑ग्न इ॒च्छमा॑नो घृ॒तेन॑ जु॒होमि॑ ह॒व्यं तर॑से॒ बला॑य।  
 याव॒दीशे॒ ब्रह्म॑णा॒ वन्द॑मान इ॒मां धियं॑ शत॒सेया॑य दे॒वीम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ The many paths which Gods are wont to travel, the paths which go between the ear
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/03_idhmenAgna_ichChamAno.md">
 <details open><summary><h3>०३ इध्मेनाग्न इच्छमानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -245,7 +245,7 @@ With fuel. Agni! and with butter, longing, mine offering I present for strength 
 </div>
 
 ## ०४ इमामग्ने शरणिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/04_imAmagne_sharaNim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/04_imAmagne_sharaNim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒माम॑ग्ने श॒रणिं॑ मीमृषो नो॒ यमध्वा॑न॒मगा॑म दू॒रम्।  
@@ -253,7 +253,7 @@ With fuel. Agni! and with butter, longing, mine offering I present for strength 
 इ॒दं ह॒व्यं सं॑विदा॒नौ जु॑षेथां शु॒नं नो॑ अस्तु चरि॒तमुत्थि॑तं च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/04_imAmagne_sharaNim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/04_imAmagne_sharaNim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -263,7 +263,7 @@ With fuel. Agni! and with butter, longing, mine offering I present for strength 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/04_imAmagne_sharaNim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/04_imAmagne_sharaNim.md">
 <details open><summary><h3>०४ इमामग्ने शरणिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -337,14 +337,14 @@ Pardon this stubbornness of ours. O Agni, the distant pathway which our feet hav
 </div>
 
 ## ०५ येन धनेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/05_yena_dhanena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/05_yena_dhanena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॒ धने॑न प्रप॒णं चरा॑मि॒ धने॑न देवा॒ धन॑मि॒च्छमा॑नः।  
 तन्मे॒ भूयो॑ भवतु॒ मा कनी॒योऽग्ने॑ सात॒घ्नो दे॒वान्ह॒विषा॒ नि षे॑ध ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/05_yena_dhanena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/05_yena_dhanena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -353,7 +353,7 @@ Pardon this stubbornness of ours. O Agni, the distant pathway which our feet hav
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/05_yena_dhanena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/05_yena_dhanena.md">
 <details open><summary><h3>०५ येन धनेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -404,14 +404,14 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 </div>
 
 ## ०६ येन धनेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/06_yena_dhanena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/06_yena_dhanena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॒ धने॑न प्रप॒णं चरा॑मि॒ धने॑न देवा॒ धन॑मि॒च्छमा॑नः।  
 तस्मि॑न्म॒ इन्द्रो॒ रुचि॒मा द॑धातु प्र॒जाप॑तिः सवि॒ता सोमो॑ अ॒ग्निः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/06_yena_dhanena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/06_yena_dhanena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -420,7 +420,7 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/06_yena_dhanena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/06_yena_dhanena.md">
 <details open><summary><h3>०६ येन धनेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -475,14 +475,14 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 </div>
 
 ## ०७ उप त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/07_upa_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/07_upa_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ त्वा॒ नम॑सा व॒यं होत॑र्वैश्वानर स्तु॒मः।  
 स नः॑ प्र॒जास्वा॒त्मसु॒ गोषु॑ प्रा॒णेषु॑ जागृहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/07_upa_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/07_upa_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -491,7 +491,7 @@ The wealth wherewith I carry on my traffic, seeking, ye Gods! wealth with the we
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/07_upa_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/07_upa_tvA.md">
 <details open><summary><h3>०७ उप त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -542,14 +542,14 @@ With reverence we sign thy praise, O Hotar-priest Vaisvanara. Over our children 
 </div>
 
 ## ०८ विश्वाहा ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/08_vishvAhA_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/015_vANijyam/08_vishvAhA_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॒श्वाहा॑ ते॒ सद॒मिद्भ॑रे॒माश्वा॑येव॒ तिष्ठ॑ते जातवेदः।  
 रा॒यस्पोषे॑ण॒ समि॒षा मद॑न्तो॒ मा ते॑ अग्ने॒ प्रति॑वेशा रिषाम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/08_vishvAhA_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/015_vANijyam/08_vishvAhA_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -558,7 +558,7 @@ With reverence we sign thy praise, O Hotar-priest Vaisvanara. Over our children 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/08_vishvAhA_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/015_vANijyam/08_vishvAhA_te.md">
 <details open><summary><h3>०८ विश्वाहा ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२९ अरिष्टक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/_index.md">
 <details open><summary><h2>०२९ अरिष्टक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to avert misfortune foreshown by the coming of a dove and an owl
 </div>
 
 ## ०१ अमून्हेतिः पतत्रिणी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒मून्हे॒तिः प॑त॒त्रिणी॒ न्ये᳡तु॒ यदुलू॑को॒ वद॑ति मो॒घमे॒तत्।  
 यद्वा॑ क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to avert misfortune foreshown by the coming of a dove and an owl
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/01_amUnhetiH_patatriNI.md">
 <details open><summary><h3>०१ अमून्हेतिः पतत्रिणी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 </div>
 
 ## ०२ यौ ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/02_yau_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/02_yau_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यौ ते॑ दू॒तौ नि॑रृत इ॒दमे॒तोऽप्र॑हितौ॒ प्रहि॑तौ वा गृ॒हं नः॑।  
 क॑पोतोलू॒काभ्या॒मप॑दं॒ तद॑स्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/02_yau_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/02_yau_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ On these men yonder fall the winged missile: the screeching of the Owl is ineffe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/02_yau_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/02_yau_te.md">
 <details open><summary><h3>०२ यौ ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,7 +163,7 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 </div>
 
 ## ०३ अवैरहत्यायेदमा पपत्यात्सुवीरताया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑वैरह॒त्याये॒दमा प॑पत्यात्सुवी॒रता॑या इ॒दमा स॑सद्यात्।  
@@ -171,7 +171,7 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 यथा॑ य॒मस्य॑ त्वा गृ॒हेऽर॒सं प्र॑ति॒चाक॑शाना॒भूकं॑ प्रति॒चाक॑शान् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ Thine envoys who came hither, O Destruction, sent or not sent by thee unto our d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/029_ariShTaxayaNam/03_avairahatyAyedamA_papatyAtsuvIratAyA.md">
 <details open><summary><h3>०३ अवैरहत्यायेदमा पपत्यात्सुवीरताया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

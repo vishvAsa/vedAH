@@ -2,7 +2,7 @@
 title = "०१० आत्मरक्षा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/_index.md">
 <details open><summary><h2>०१० आत्मरक्षा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to the presiding deities of the four quarters for protection
 </div>
 
 ## ०१ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/01_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/01_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्राच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/01_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/01_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to the presiding deities of the four quarters for protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/01_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/01_ashmavarma_me-si.md">
 <details open><summary><h3>०१ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ Thou art my wall of stone against the sinner who fights against me from the east
 </div>
 
 ## ०२ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/02_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/02_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ दक्षि॑णाया दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/02_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/02_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ Thou art my wall of stone against the sinner who fights against me from the east
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/02_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/02_ashmavarma_me-si.md">
 <details open><summary><h3>०२ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -144,14 +144,14 @@ Thou art my wall of stone against the sinner who fights against me from the sout
 </div>
 
 ## ०३ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ प्र॒तीच्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/03_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/03_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -160,7 +160,7 @@ Thou art my wall of stone against the sinner who fights against me from the sout
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/03_ashmavarma_me-si.md">
 <details open><summary><h3>०३ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -193,14 +193,14 @@ Thou art my wall of stone against the sinner who fights against me from the west
 </div>
 
 ## ०४ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒श्म॒व॒र्म मे॑ऽसि॒ यो मा॒ मोदी॑च्या॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत् स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/04_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/04_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -209,7 +209,7 @@ Thou art my wall of stone against the sinner who fights against me from the west
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/04_ashmavarma_me-si.md">
 <details open><summary><h3>०४ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -242,14 +242,14 @@ Thou art my wall of stone against the sinner who fights against me from northern
 </div>
 
 ## ०५ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ ध्रु॒वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत्स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/05_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -258,7 +258,7 @@ Thou art my wall of stone against the sinner who fights against me from northern
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/05_ashmavarma_me-si.md">
 <details open><summary><h3>०५ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -290,14 +290,14 @@ Thou art my wall of stone against the sinner who fights against me from the sted
 </div>
 
 ## ०६ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्मव॒र्म मे॑ऽसि॒ यो मो॒र्ध्वाया॑ दि॒शोऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत्स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/06_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -306,7 +306,7 @@ Thou art my wall of stone against the sinner who fights against me from the sted
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/06_ashmavarma_me-si.md">
 <details open><summary><h3>०६ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -341,14 +341,14 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 </div>
 
 ## ०७ अश्मवर्म मेऽसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्मव॒र्म मे॑ऽसि॒ यो मा॑ दि॒शाम॑न्तर्दे॒शेभ्यो॑ऽघा॒युर॑भि॒दासा॑त्।  
 ए॒तत्स ऋ॑च्छात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/07_ashmavarma_me-si.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -357,7 +357,7 @@ It is possible to read these verses as 7 + 12 (or 13 ⌊or 14⌋): 5 = 24
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/07_ashmavarma_me-si.md">
 <details open><summary><h3>०७ अश्मवर्म मेऽसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -406,7 +406,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 </div>
 
 ## ०८ बृहता मन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/08_bRhatA_mana.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृ॑ह॒ता मन॒ उप॑ ह्वये मात॒रिश्व॑ना प्राणापा॒नौ।  
@@ -414,7 +414,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 सर॑स्वत्या॒ वाच॒मुप॑ ह्वयामहे मनो॒युजा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/08_bRhatA_mana.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -424,7 +424,7 @@ Thou art my wall of stone against the sinner who from points intermediate fights
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/08_bRhatA_mana.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/010_AtmaraxA/08_bRhatA_mana.md">
 <details open><summary><h3>०८ बृहता मन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

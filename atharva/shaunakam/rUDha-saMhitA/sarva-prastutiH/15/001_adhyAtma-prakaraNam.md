@@ -2,7 +2,7 @@
 title = "००१ अध्यात्म-प्रकरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/_index.md">
 <details open><summary><h2>००१ अध्यात्म-प्रकरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ The hyperbolical glorification of the Vratya or Aryan Non-conformist
 </div>
 
 ## ०१ व्रात्यआसीदीयमान एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 **व्रात्य॑** आसीत्।  
 ईय॑मान ए॒व स **प्र॒जाप॑तिं॒ समैरयत्**॥१॥  
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -49,7 +49,7 @@ The hyperbolical glorification of the Vratya or Aryan Non-conformist
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/01_vrAtyaAsIdIyamAna_eva.md">
 <details open><summary><h3>०१ व्रात्यआसीदीयमान एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ There was a roaming Vratya. He roused Prajapati to action.
 </div>
 
 ## ०२ स प्रजापतिःसुवर्णमात्मन्नपश्यत्तत्प्राजनयत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स प्र॒जाप॑तिः **सु॒वर्ण॑म्** आ॒त्मन्न् **अ॑पश्यत्**।  
 तत् **प्राज॑नयत्**॥२॥  
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -110,7 +110,7 @@ There was a roaming Vratya. He roused Prajapati to action.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/02_sa_prajApatiHsuvarNamAtmannapashyattatprAjanaya.md">
 <details open><summary><h3>०२ स प्रजापतिःसुवर्णमात्मन्नपश्यत्तत्प्राजनयत् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -155,13 +155,13 @@ Prajapati beheld gold in himself and engendered it.
 </div>
 
 ## ०३ तदेकमभवत्तल्ललाममभवत्तन्महदभवत्तज्ज्येष्ठमभवत्तद्ब्रह्माभवत्तत्तपोऽभवत्तत्सत्यमभवत्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तदेक॑मभव॒त्तल्ल॒लाम॑मभव॒त्तन्म॒हद॑भव॒त्तज्ज्ये॒ष्ठम॑भव॒त्तद्ब्रह्मा॑भव॒त्तत्तपो॑ऽभव॒त्तत्स॒त्यम॑भव॒त्तेन॒ प्राजा॑यत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -169,7 +169,7 @@ Prajapati beheld gold in himself and engendered it.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/03_tadekamabhavattallalAmamabhavattanmahadabhavatt.md">
 <details open><summary><h3>०३ तदेकमभवत्तल्ललाममभवत्तन्महदभवत्तज्ज्येष्ठमभवत्तद्ब्रह्माभवत्तत्तपोऽभवत्तत्सत्यमभवत्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -218,13 +218,13 @@ That became unique, that became distinguished, that became great, that became ex
 </div>
 
 ## ०४ सोऽवर्धत समहानभवत्स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सो᳡ऽव॑र्धत॒ सम॒हान॑भव॒त्स म॑हादे॒वो᳡ऽभ॑वत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -232,7 +232,7 @@ That became unique, that became distinguished, that became great, that became ex
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/04_so-vardhata_samahAnabhavatsa.md">
 <details open><summary><h3>०४ सोऽवर्धत समहानभवत्स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -278,13 +278,13 @@ He grew, he became great, he became Mahadeva.
 </div>
 
 ## ०५ स देवानामीशाम्पर्यैत्स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स दे॒वाना॑मी॒शांपर्यै॒त्स ईशा॑नोऽभवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -292,7 +292,7 @@ He grew, he became great, he became Mahadeva.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/05_sa_devAnAmIshAmparyaitsa.md">
 <details open><summary><h3>०५ स देवानामीशाम्पर्यैत्स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -338,7 +338,7 @@ He gained the lordship of the Gods. He became Lord.
 </div>
 
 ## ०६ स एकव्रात्योऽभवत्स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स ए॑क-व्रा॒त्यो ऽभवत्।  
@@ -346,7 +346,7 @@ He gained the lordship of the Gods. He became Lord.
 तद् ए॒वेन्द्र॑-ध॒नुः ॥६॥  
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -354,7 +354,7 @@ He gained the lordship of the Gods. He became Lord.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/06_sa_ekavrAtyo-bhavatsa.md">
 <details open><summary><h3>०६ स एकव्रात्योऽभवत्स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -401,13 +401,13 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 </div>
 
 ## ०७ नीलमस्योदरंलोहितं पृष्ठम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नील॑मस्यो॒दरं॒लोहि॑तं पृ॒ष्ठम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -415,7 +415,7 @@ He became Chief Vratya. He held a bow, even that Bow of Indra.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/07_nIlamasyodaraMlohitaM_pRShTham.md">
 <details open><summary><h3>०७ नीलमस्योदरंलोहितं पृष्ठम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -461,13 +461,13 @@ His belly is dark-blue, his back is red.
 </div>
 
 ## ०८ नीलेनैवाप्रियं भ्रातृव्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नीले॑नै॒वाप्रि॑यं॒ भ्रातृ॑व्यं॒ प्रोर्णो॑ति॒ लोहि॑तेन द्वि॒षन्तं॑ विध्य॒तीति॑ब्रह्मवा॒दिनो॑ वदन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -475,7 +475,7 @@ His belly is dark-blue, his back is red.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/15/001_adhyAtma-prakaraNam/08_nIlenaivApriyaM_bhrAtRvyam.md">
 <details open><summary><h3>०८ नीलेनैवाप्रियं भ्रातृव्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

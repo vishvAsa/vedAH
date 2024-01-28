@@ -2,7 +2,7 @@
 title = "०२३ शत्रुनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/_index.md">
 <details open><summary><h2>०२३ शत्रुनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against leprosy
 </div>
 
 ## ०१ नक्तञ्जातासि ओषधे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न॑क्तंजा॒तासि॑ ओषधे॒ रामे॒ कृष्णे॒ असि॑क्नि च।  
 इ॒दं र॑जनि रजय कि॒लासं॑ पलि॒तं च॒ यत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against leprosy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/01_naktanjAtAsi_oShadhe.md">
 <details open><summary><h3>०१ नक्तञ्जातासि ओषधे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -106,14 +106,14 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 </div>
 
 ## ०२ किलासं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कि॒लासं॑ च पलि॒तं च॒ निरि॒तो ना॑शया॒ पृष॑त्।  
 आ त्वा॒ स्वो वि॑शतां॒ वर्णः॒ परा॑ शु॒क्लानि॑ पातय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -122,7 +122,7 @@ O Plant, thou sprangest up at night, dusky, dark-coloured, black in hue! So, Raj
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/02_kilAsaM_cha.md">
 <details open><summary><h3>०२ किलासं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 </div>
 
 ## ०३ असितं ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/03_asitaM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 असि॑तं ते प्र॒लय॑नमा॒स्थान॒मसि॑तं॒ तव॑।  
 असि॑क्न्यस्योषधे॒ निरि॒तो ना॑शया॒ पृष॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/03_asitaM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Expel the leprosy, remove from him the spots and ashy hue: Let thine own colour 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/03_asitaM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/03_asitaM_te.md">
 <details open><summary><h3>०३ असितं ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -236,14 +236,14 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 </div>
 
 ## ०४ अस्थिजस्य किलासस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑स्थि॒जस्य॑ कि॒लास॑स्य तनू॒जस्य॑ च॒ यत्त्व॒चि।  
 दूष्या॑ कृ॒तस्य॒ ब्रह्म॑णा॒ लक्ष्म॑ श्वे॒तम॑नीनशम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -252,7 +252,7 @@ Dark is the place of thy repose, dark is the place thou dwellest in: Dusky and d
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/023_shatrunivAraNam/04_asthijasya_kilAsasya.md">
 <details open><summary><h3>०४ अस्थिजस्य किलासस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

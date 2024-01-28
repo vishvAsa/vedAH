@@ -2,7 +2,7 @@
 title = "००१ ब्रह्मविद्या"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/_index.md">
 <details open><summary><h2>००१ ब्रह्मविद्या ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -33,14 +33,14 @@ Cosmogonical and mystico-theological doctrine
 </div>
 
 ## ०१ ब्रह्म जज्ञानम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॒द्वि सी॑म॒तः सु॒रुचो॑ वे॒न आ॑वः।  
 स बु॒ध्न्या॑ उप॒मा अ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि वः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/01_brahma_jajnAnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -49,7 +49,7 @@ Cosmogonical and mystico-theological doctrine
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/01_brahma_jajnAnam.md">
 <details open><summary><h3>०१ ब्रह्म जज्ञानम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -115,14 +115,14 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 </div>
 
 ## ०२ इयं पित्र्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/02_iyaM_pitryA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒यं पित्र्या॒ राष्ट्र्ये॒त्वग्रे॑ प्रथ॒माय॑ ज॒नुषे॑ भुवने॒ष्ठाः।  
 तस्मा॑ ए॒तं सु॒रुचं॑ ह्वा॒रम॑ह्यं घ॒र्मं श्री॑णन्तु प्रथ॒माय॑ धा॒स्यवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/02_iyaM_pitryA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -131,7 +131,7 @@ Eastward at first the prayer was generated: Vena disclosed bright flashes from t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/02_iyaM_pitryA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/02_iyaM_pitryA.md">
 <details open><summary><h3>०२ इयं पित्र्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -194,14 +194,14 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 </div>
 
 ## ०३ प्र यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/03_pra_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/03_pra_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र यो ज॒ज्ञे वि॒द्वान॑स्य॒ बन्धु॒र्विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति।  
 ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चैः स्व॒धा अ॒भि प्र त॑स्थौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/03_pra_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/03_pra_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -210,7 +210,7 @@ Let this Queen come in front, her Father's daughter, found in the worlds for ear
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/03_pra_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/03_pra_yo.md">
 <details open><summary><h3>०३ प्र यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -269,14 +269,14 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 </div>
 
 ## ०४ स हि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/04_sa_hi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/04_sa_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स हि दि॒वः स पृ॑थि॒व्या ऋ॑त॒स्था म॒ही क्षेमं॒ रोद॑सी अस्कभायत्।  
 म॒हान्म॒ही अस्क॑भाय॒द्वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रजः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/04_sa_hi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/04_sa_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -285,7 +285,7 @@ He who was born as his all-knowing kinsman declareth all the deities' generation
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/04_sa_hi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/04_sa_hi.md">
 <details open><summary><h3>०४ स हि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -347,14 +347,14 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 </div>
 
 ## ०५ स बुध्न्यादाष्ट्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स बु॒ध्न्यादा॑ष्ट्र ज॒नुषो॒ऽभ्यग्रं॒ बृह॒स्पति॑र्दे॒वता॒ तस्य॑ स॒म्राट्।  
 अह॒र्यच्छु॒क्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्राः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -363,7 +363,7 @@ For he, true to the law of Earth and Heaven, established both the mighty worlds 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/05_sa_budhnyAdAShTra.md">
 <details open><summary><h3>०५ स बुध्न्यादाष्ट्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -426,14 +426,14 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 </div>
 
 ## ०६ नूनं तदस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नू॒नं तद॑स्य का॒व्यो हि॑नोति म॒हो दे॒वस्य॑ पू॒र्व्यस्य॒ धाम॑।  
 ए॒ष ज॑ज्ञे ब॒हुभिः॑ सा॒कमि॒त्था पूर्वे॒ अर्धे॒ विषि॑ते स॒सन्नु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/06_nUnaM_tadasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -442,7 +442,7 @@ He from the depth hath been reborn for ever, Brihaspati the world's sole Lord an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/06_nUnaM_tadasya.md">
 <details open><summary><h3>०६ नूनं तदस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -498,14 +498,14 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 </div>
 
 ## ०७ योऽथर्वाणं पितरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 योऽथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं॒ बृह॒स्पतिं॒ नम॒साव॑ च॒ गच्छा॑त्।  
 त्वं विश्वे॑षां जनि॒ता यथासः॑ क॒विर्दे॒वो न दभा॑यत्स्व॒धावा॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -514,7 +514,7 @@ The sage and poet verily advanceth the statute of that mighty God primeval. He w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/001_brahmavidyA/07_yo-tharvANaM_pitaram.md">
 <details open><summary><h3>०७ योऽथर्वाणं पितरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

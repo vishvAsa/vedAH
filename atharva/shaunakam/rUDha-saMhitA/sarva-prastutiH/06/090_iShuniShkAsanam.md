@@ -2,7 +2,7 @@
 title = "०९० इषुनिष्कासनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/_index.md">
 <details open><summary><h2>०९० इषुनिष्कासनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Grill, 14, 168; Griffith, i. 294; Bloomfield, 11, 506.
 </div>
 
 ## ०१ यां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/01_yAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च।  
 इ॒दं ताम॒द्य त्वद्व॒यं विषू॑चीं॒ वि वृ॑हामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/01_yAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Grill, 14, 168; Griffith, i. 294; Bloomfield, 11, 506.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/01_yAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/01_yAM_te.md">
 <details open><summary><h3>०१ यां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -94,14 +94,14 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 </div>
 
 ## ०२ यास्ते शतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः।  
 तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/02_yAste_shatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -110,7 +110,7 @@ The shaft that Rudra hath shot forth against thy members and thy heart, Here do 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/02_yAste_shatam.md">
 <details open><summary><h3>०२ यास्ते शतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -158,14 +158,14 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 </div>
 
 ## ०३ नमस्ते रुद्रास्यते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै।  
 नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -174,7 +174,7 @@ From all the hundred vessels spread throughout the members of thy frame. From al
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/090_iShuniShkAsanam/03_namaste_rudrAsyate.md">
 <details open><summary><h3>०३ नमस्ते रुद्रास्यते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

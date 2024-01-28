@@ -2,7 +2,7 @@
 title = "०१८ ब्रह्मरावी"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/_index.md">
 <details open><summary><h2>०१८ ब्रह्मरावी ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ The wickedness of oppressing and robbing Brahmans
 </div>
 
 ## ०१ नैतां ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/01_naitAM_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/01_naitAM_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नैतां ते॑ दे॒वा अ॑ददु॒स्तुभ्यं॑ नृपते॒ अत्त॑वे।  
 मा ब्रा॑ह्म॒णस्य॑ राजन्य॒ गां जि॑घत्सो अना॒द्याम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/01_naitAM_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/01_naitAM_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ The wickedness of oppressing and robbing Brahmans
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/01_naitAM_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/01_naitAM_te.md">
 <details open><summary><h3>०१ नैतां ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not,
 </div>
 
 ## ०२ अक्षद्रुग्धो राजन्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒क्षद्रु॑ग्धो राज॒न्यः॑ पा॒प आ॑त्मपराजि॒तः।  
 स ब्रा॑ह्म॒णस्य॒ गाम॑द्याद॒द्य जी॒वानि॒ मा श्वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ The Gods, O Prince, have not bestowed this cow on thee to eat thereof. Seek not,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/02_axadrugdho_rAjanyaH.md">
 <details open><summary><h3>०२ अक्षद्रुग्धो राजन्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -160,14 +160,14 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 </div>
 
 ## ०३ आविष्टिताघविषा पृदाकूरिव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आवि॑ष्टिता॒घवि॑षा पृदा॒कूरि॑व॒ चर्म॑णा।  
 सा ब्रा॑ह्म॒णस्य॑ राजन्य तृ॒ष्टैषा गौर॑ना॒द्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -176,7 +176,7 @@ A base Rajanya, spoiled at dice, and ruined by himself, may eat. The Brahman's c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/03_AviShTitAghaviShA_pRdAkUriva.md">
 <details open><summary><h3>०३ आविष्टिताघविषा पृदाकूरिव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -223,14 +223,14 @@ The Brahman's cow is like a snake, charged with due poison, clothed with skin. R
 </div>
 
 ## ०४ निर्वै क्षत्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/04_nirvai_xatram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/04_nirvai_xatram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 निर्वै क्ष॒त्रं नय॑ति हन्ति॒ वर्चो॒ऽग्निरि॒वार॑ब्धो॒ वि दु॑नोति॒ सर्व॑म्।  
 यो ब्रा॑ह्म॒णं मन्य॑ते॒ अन्न॑मे॒व स वि॒षस्य॑ पिबति तैमा॒तस्य॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/04_nirvai_xatram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/04_nirvai_xatram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -239,7 +239,7 @@ The Brahman's cow is like a snake, charged with due poison, clothed with skin. R
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/04_nirvai_xatram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/04_nirvai_xatram.md">
 <details open><summary><h3>०४ निर्वै क्षत्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -291,14 +291,14 @@ She takes away his strength, she mars his splendour, she ruins everything like f
 </div>
 
 ## ०५ य एनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/05_ya_enam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/05_ya_enam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ए॑नं॒ हन्ति॑ मृ॒दुं मन्य॑मानो देवपी॒युर्धन॑कामो॒ न चि॒त्तात्।  
 सं तस्येन्द्रो॒ हृद॑ये॒ऽग्निमि॑न्ध उ॒भे ए॑नं द्विष्टो॒ नभ॑सी॒ चर॑न्तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/05_ya_enam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/05_ya_enam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -307,7 +307,7 @@ She takes away his strength, she mars his splendour, she ruins everything like f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/05_ya_enam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/05_ya_enam.md">
 <details open><summary><h3>०५ य एनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -357,14 +357,14 @@ Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth throu
 </div>
 
 ## ०६ न ब्राह्मणो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/06_na_brAhmaNo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/06_na_brAhmaNo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न ब्रा॑ह्म॒णो हिं॑सित॒व्यो॒३॒॑ऽग्निः प्रि॒यत॑नोरिव।  
 सोमो॒ ह्य॑स्य दाया॒द इन्द्रो॑ अस्याभिशस्ति॒पाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/06_na_brAhmaNo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/06_na_brAhmaNo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -373,7 +373,7 @@ Whoever smites him, deeming him a weakling-blasphemer, coveting his wealth throu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/06_na_brAhmaNo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/06_na_brAhmaNo.md">
 <details open><summary><h3>०६ न ब्राह्मणो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -424,14 +424,14 @@ No Brahman must be injured, safe as fire from him who loves himself. For Soma is
 </div>
 
 ## ०७ शतापाष्ठां नि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒तापा॑ष्ठां॒ नि गि॑रति॒ तां न श॑क्नोति निः॒खिद॑न्।  
 अन्नं॒ यो ब्र॒ह्मणां॑ म॒ल्वः स्वा॒द्व१॒॑द्मीति॒ मन्य॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -440,7 +440,7 @@ No Brahman must be injured, safe as fire from him who loves himself. For Soma is
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/07_shatApAShThAM_ni.md">
 <details open><summary><h3>०७ शतापाष्ठां नि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -490,14 +490,14 @@ The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, 
 </div>
 
 ## ०८ जिह्वा ज्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/08_jihvA_jyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/08_jihvA_jyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जि॒ह्वा ज्या भव॑ति॒ कुल्म॑लं॒ वाङ्ना॑डी॒का दन्ता॒स्तप॑सा॒भिदि॑ग्धाः।  
 तेभि॑र्ब्र॒ह्मा वि॑ध्यति देवपी॒यून् हृ॑द्ब॒लैर्धनु॑र्भिर्दे॒वजू॑तैः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/08_jihvA_jyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/08_jihvA_jyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -506,7 +506,7 @@ The fool who eats the Brahmans' food and thinks it pleasant to the taste, Eats, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/08_jihvA_jyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/08_jihvA_jyA.md">
 <details open><summary><h3>०८ जिह्वा ज्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -557,14 +557,14 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 </div>
 
 ## ०९ तीक्ष्णेषवो ब्राह्मणा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ती॒क्ष्णेष॑वो ब्राह्म॒णा हे॑ति॒मन्तो॒ यामस्य॑न्ति शर॒व्यां॒३॒॑ न सा मृषा॑।  
 अ॑नु॒हाय॒ तप॑सा म॒न्युना॑ चो॒त दु॒रादव॑ भिन्दन्त्येनम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -573,7 +573,7 @@ His voice an arrow's neck, his tongue a bowstring, his windpipes fire-enveloped 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/09_tIxNeShavo_brAhmaNA.md">
 <details open><summary><h3>०९ तीक्ष्णेषवो ब्राह्मणा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -621,14 +621,14 @@ Keen arrows have the Brahmans, armed with missiles: the shaft, when they dischar
 </div>
 
 ## १० ये सहस्रमराजन्नासन्दशशता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये स॒हस्र॒मरा॑ज॒न्नास॑न्दशश॒ता उ॒त।  
 ते ब्रा॑ह्म॒णस्य॒ गां ज॒ग्ध्वा वै॑तह॒व्याः परा॑भवन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -637,7 +637,7 @@ Keen arrows have the Brahmans, armed with missiles: the shaft, when they dischar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/10_ye_sahasramarAjannAsandashashatA.md">
 <details open><summary><h3>१० ये सहस्रमराजन्नासन्दशशता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -686,14 +686,14 @@ They who, themselves ten hundred, were the rulers of a thousand men, The Vaitaha
 </div>
 
 ## ११ गौरेव तान्हन्यमाना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 गौरे॒व तान्ह॒न्यमा॑ना वैतह॒व्याँ अवा॑तिरत्।  
 ये केस॑रप्राबन्धायाश्चर॒माजा॒मपे॑चिरन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -702,7 +702,7 @@ They who, themselves ten hundred, were the rulers of a thousand men, The Vaitaha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/11_gaureva_tAnhanyamAnA.md">
 <details open><summary><h3>११ गौरेव तान्हन्यमाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -753,14 +753,14 @@ The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the 
 </div>
 
 ## १२ एकशतं ता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/12_ekashataM_tA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/12_ekashataM_tA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एक॑शतं॒ ता ज॒नता॒ या भूमि॒र्व्य॑धूनुत।  
 प्र॒जां हिं॑सि॒त्वा ब्राह्म॑णीमसंभ॒व्यं परा॑भवन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/12_ekashataM_tA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/12_ekashataM_tA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -769,7 +769,7 @@ The cow, indeed, when she was slain o'erthrew those Vaitahavyas, who Cooked the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/12_ekashataM_tA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/12_ekashataM_tA.md">
 <details open><summary><h3>१२ एकशतं ता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -817,14 +817,14 @@ One and a hundred were the folk, those whom the earth shook off from her: When t
 </div>
 
 ## १३ देवपीयुश्चरति मर्त्येषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॑वपी॒युश्च॑रति॒ मर्त्ये॑षु गरगी॒र्णो भ॑व॒त्यस्थि॑भूयान्।  
 यो ब्रा॑ह्म॒णं दे॒वब॑न्धुं हि॒नस्ति॒ न स पि॑तृ॒याण॒मप्ये॑ति लो॒कम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -833,7 +833,7 @@ One and a hundred were the folk, those whom the earth shook off from her: When t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/13_devapIyushcharati_martyeShu.md">
 <details open><summary><h3>१३ देवपीयुश्चरति मर्त्येषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -884,14 +884,14 @@ Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone i
 </div>
 
 ## १४ अग्निर्वै नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/14_agnirvai_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/14_agnirvai_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निर्वै नः॑ पदवा॒यः सोमो॑ दाया॒द उ॑च्यते।  
 ह॒न्ताभिश॒स्तेन्द्र॒स्तथा॒ तद्वे॒धसो॑ विदुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/14_agnirvai_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/14_agnirvai_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -900,7 +900,7 @@ Among mankind the Gods' despiser moveth: he hath drunk poison, naught but bone i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/14_agnirvai_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/14_agnirvai_naH.md">
 <details open><summary><h3>१४ अग्निर्वै नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -950,14 +950,14 @@ Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quell
 </div>
 
 ## १५ इषुरिव दिग्धा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इषु॑रिव दि॒ग्धा नृ॑पते पृदा॒कूरि॑व गोपते।  
 सा ब्रा॑ह्म॒णस्येषु॑र्घो॒रा तया॑ विध्यति॒ पीय॑तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/15_iShuriva_digdhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/018_brahmarAvI/15_iShuriva_digdhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -966,7 +966,7 @@ Agni, in sooth, is called our guide, Soma is called our next of kin. Indra quell
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/018_brahmarAvI/15_iShuriva_digdhA.md">
 <details open><summary><h3>१५ इषुरिव दिग्धा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

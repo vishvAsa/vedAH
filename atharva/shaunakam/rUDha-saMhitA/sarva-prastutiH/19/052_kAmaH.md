@@ -2,7 +2,7 @@
 title = "०५२ कामः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/_index.md">
 <details open><summary><h2>०५२ कामः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A hymn to Kama or Desire
 </div>
 
 ## ०१ कामस्तदग्रे समवर्तत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 काम॒स्तदग्रे॒ सम॑वर्तत॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त्।  
 स का॑म॒ कामे॑न बृह॒ता सयो॑नी रा॒यस्पोषं॒ यज॑मानाय धेहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/01_kAmastadagre_samavartata.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/01_kAmastadagre_samavartata.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A hymn to Kama or Desire
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/01_kAmastadagre_samavartata.md">
 <details open><summary><h3>०१ कामस्तदग्रे समवर्तत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 </div>
 
 ## ०२ त्वं काम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/02_tvaM_kAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/02_tvaM_kAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वं का॑म॒ सह॑सासि॒ प्रति॑ष्ठितो वि॒भुर्वि॒भावा॑ सख॒ आ स॑खीय॒ते।  
 त्वमु॒ग्रः पृत॑नासु सास॒हिः सह॒ ओजो॒ यज॑मानाय धेहि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/02_tvaM_kAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/02_tvaM_kAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Thereafter rose Desire in the beginning, Desire the primal seed and germ of Spir
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/02_tvaM_kAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/02_tvaM_kAma.md">
 <details open><summary><h3>०२ त्वं काम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 </div>
 
 ## ०३ दूराच्चकमानाय प्रतिपाणायाक्षये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दू॒राच्च॑कमा॒नाय॑ प्रतिपा॒णायाक्ष॑ये।  
 आस्मा॑ अशृण्व॒न्नाशाः॒ कामे॑नाजनय॒न्त्स्वः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ Thou, Kama, art victorious, famous, potent, splendid, a friend. to him who seeks
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/03_dUrAchchakamAnAya_pratipANAyAxaye.md">
 <details open><summary><h3>०३ दूराच्चकमानाय प्रतिपाणायाक्षये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -259,14 +259,14 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 </div>
 
 ## ०४ कामेन मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/04_kAmena_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/04_kAmena_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कामे॑न मा॒ काम॒ आग॒न्हृद॑या॒द्धृद॑यं॒ परि॑।  
 यद॒मीषा॑म॒दो मन॒स्तदैतूप॑ मामि॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/04_kAmena_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/04_kAmena_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -275,7 +275,7 @@ They heard his prayers, and they begot, by Kama, heavenly- light for him. Who fr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/04_kAmena_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/04_kAmena_mA.md">
 <details open><summary><h3>०४ कामेन मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -326,14 +326,14 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 </div>
 
 ## ०५ यत्काम कामयमाना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्का॑म का॒मय॑माना इ॒दं कृ॒ण्मसि॑ ते ह॒विः।  
 तन्नः॒ सर्वं॒ समृ॑ध्यता॒मथै॒तस्य॑ ह॒विषो॑ वीहि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -342,7 +342,7 @@ O Kama, with whatever wish we make this offering to thee, May it be all fulfille
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/052_kAmaH/05_yatkAma_kAmayamAnA.md">
 <details open><summary><h3>०५ यत्काम कामयमाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१५ वृष्टिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/_index.md">
 <details open><summary><h2>०१५ वृष्टिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to hasten the coming of the rains
 </div>
 
 ## ०१ समुत्पतन्तु प्रदिशो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒मुत्प॑तन्तु प्र॒दिशो॒ नभ॑स्वतीः॒ सम॒भ्राणि॒ वात॑जूतानि यन्तु।  
 म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/01_samutpatantu_pradisho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/01_samutpatantu_pradisho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to hasten the coming of the rains
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/01_samutpatantu_pradisho.md">
 <details open><summary><h3>०१ समुत्पतन्तु प्रदिशो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ Let all the misty regions fly together, let all the rain-clouds sped by wind, as
 </div>
 
 ## ०२ समीक्षयन्तु तविषाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समी॑क्षयन्तु तवि॒षाः सु॒दान॑वो॒ऽपां रसा॒ ओष॑धीभिः सचन्ताम्।  
 व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग्जायन्ता॒मोष॑धयो वि॒श्वरू॑पाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ Let all the misty regions fly together, let all the rain-clouds sped by wind, as
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/02_samIxayantu_taviShAH.md">
 <details open><summary><h3>०२ समीक्षयन्तु तविषाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be 
 </div>
 
 ## ०३ समीक्षयस्व गायतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समी॑क्षयस्व॒ गाय॑तो॒ नभां॑स्य॒पां वेगा॑सः॒ पृथ॒गुद्वि॑जन्ताम्।  
 व॒र्षस्य॒ सर्गा॑ महयन्तु॒ भूमिं॒ पृथ॑ग्जायन्तां वी॒रुधो॑ वि॒श्वरू॑पाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/03_samIxayasva_gAyato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/03_samIxayasva_gAyato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Let them show forth, the strong, the bounteous Maruts: let plants and shrubs be 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/03_samIxayasva_gAyato.md">
 <details open><summary><h3>०३ समीक्षयस्व गायतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -243,14 +243,14 @@ Cause us who sing to see the gathering vapours: out burst in many a place the ru
 </div>
 
 ## ०४ गणास्त्वोप गायन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ग॒णास्त्वोप॑ गायन्तु॒ मारु॑ताः पर्जन्य घो॒षिणः॒ पृथ॑क्।  
 सर्गा॑ व॒र्षस्य॒ वर्ष॑तो॒ वर्ष॑न्तु पृथि॒वीमनु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -259,7 +259,7 @@ Cause us who sing to see the gathering vapours: out burst in many a place the ru
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/04_gaNAstvopa_gAyantu.md">
 <details open><summary><h3>०४ गणास्त्वोप गायन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -311,14 +311,14 @@ Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring 
 </div>
 
 ## ०५ उदीरयत मरुतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/05_udIrayata_marutaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/05_udIrayata_marutaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदी॑रयत मरुतः समुद्र॒तस्त्वे॒षो अ॒र्को नभ॒ उत्पा॑तयाथ।  
 म॑हऋष॒भस्य॒ नद॑तो॒ नभ॑स्वतो वा॒श्रा आपः॑ पृथि॒वीं त॑र्पयन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/05_udIrayata_marutaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/05_udIrayata_marutaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -327,7 +327,7 @@ Apart, Parjanya! let the troops of Maruts, roaring, swell the song. Let pouring 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/05_udIrayata_marutaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/05_udIrayata_marutaH.md">
 <details open><summary><h3>०५ उदीरयत मरुतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -386,14 +386,14 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 </div>
 
 ## ०६ अभि क्रन्द
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/06_abhi_kranda.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/06_abhi_kranda.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒भि क्र॑न्द स्त॒नया॒र्दयो॑द॒धिं भूमिं॑ पर्जन्य॒ पय॑सा॒ सम॑ङ्धि।  
 त्वया॑ सृ॒ष्टं ब॑हु॒लमैतु॑ व॒र्षमा॑शारै॒षी कृ॒शगु॑रे॒त्वस्त॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/06_abhi_kranda.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/06_abhi_kranda.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -402,7 +402,7 @@ Up from the sea lift your dread might, ye Maruts: as light and splendour, send t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/06_abhi_kranda.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/06_abhi_kranda.md">
 <details open><summary><h3>०६ अभि क्रन्द ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -459,14 +459,14 @@ Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, P
 </div>
 
 ## ०७ सं वोऽवन्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/07_saM_vo-vantu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/07_saM_vo-vantu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
 म॒रुद्भिः॒ प्रच्यु॑ता मे॒घा वर्ष॑न्तु पृथि॒वीमनु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/07_saM_vo-vantu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/07_saM_vo-vantu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -475,7 +475,7 @@ Roar, thunder, set the sea in agitation, bedew the ground with thy sweet rain, P
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/07_saM_vo-vantu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/07_saM_vo-vantu.md">
 <details open><summary><h3>०७ सं वोऽवन्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -528,14 +528,14 @@ Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged 
 </div>
 
 ## ०८ आशामाशां वि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आशा॑माशां॒ वि द्यो॑ततां॒ वाता॑ वान्तु दि॒शोदि॑शः।  
 म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः सं य॑न्तु पृथि॒वीमनु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/08_AshAmAshAM_vi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/08_AshAmAshAM_vi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -544,7 +544,7 @@ Let the boon Maruts, let the springs and coiling serpents tend! you well. Urged 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/08_AshAmAshAM_vi.md">
 <details open><summary><h3>०८ आशामाशां वि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -594,14 +594,14 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 </div>
 
 ## ०९ आपो विद्युदभ्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/09_Apo_vidyudabhram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/09_Apo_vidyudabhram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आपो॑ वि॒द्युद॒भ्रं व॒र्षं सं वो॑ऽवन्तु सु॒दान॑व॒ उत्सा॑ अजग॒रा उ॒त।  
 म॒रुद्भिः॒ प्रच्यु॑ता मे॒घाः प्राव॑न्तु पृथि॒वीमनु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/09_Apo_vidyudabhram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/09_Apo_vidyudabhram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -610,7 +610,7 @@ Let lightning flash on every side: from all the regions blow the winds! Urged by
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/09_Apo_vidyudabhram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/09_Apo_vidyudabhram.md">
 <details open><summary><h3>०९ आपो विद्युदभ्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -663,14 +663,14 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 </div>
 
 ## १० अपामग्निस्तनूभिः संविदानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पाम॒ग्निस्त॒नूभिः॑ संविदा॒नो य ओष॑धीनामधि॒पा ब॒भूव॑।  
 स नो॑ व॒र्षं व॑नुतां जा॒तवे॑दाः प्रा॒णं प्र॒जाभ्यो॑ अ॒मृतं॑ दि॒वस्परि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -679,7 +679,7 @@ May waters, lightning, cloud, and rain, boon springs and serpents tend you well.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/10_apAmagnistanUbhiH_saMvidAno.md">
 <details open><summary><h3>१० अपामग्निस्तनूभिः संविदानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -727,14 +727,14 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 </div>
 
 ## ११ प्रजापतिः सलिलादाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑तिः सलि॒लादाः स॑मु॒द्रादाप॑ ई॒रय॑न्नुद॒धिम॑र्दयाति।  
 प्र प्या॑यतां॒ वृष्णो॒ अश्व॑स्य॒ रेतो॒ऽर्वाङे॒तेन॑ स्तनयि॒त्नुनेहि॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -743,7 +743,7 @@ May he who hath become the plants' high regent, suiting our bodies, Agni of the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/11_prajApatiH_salilAdAH.md">
 <details open><summary><h3>११ प्रजापतिः सलिलादाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -802,14 +802,14 @@ Sending up waters from the flood and ocean Prajapati move the sea to agitation! 
 </div>
 
 ## १२ अपो निषिञ्चन्नसुरः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॒ श्वस॑न्तु॒ गर्ग॑रा अ॒पां व॑रु॒णाव॒ नीची॑र॒पः सृ॑ज।  
 वद॑न्तु॒ पृश्नि॑बाहवो म॒ण्डूका॒ इरि॒णानु॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -818,7 +818,7 @@ Sending up waters from the flood and ocean Prajapati move the sea to agitation! 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/12_apo_niShinchannasuraH.md">
 <details open><summary><h3>१२ अपो निषिञ्चन्नसुरः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -883,14 +883,14 @@ Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna,
 </div>
 
 ## १३ संवत्सरं शशयाना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं॑वत्स॒रं श॑शया॒ना ब्रा॑ह्म॒णा व्र॑तचा॒रिणः॑।  
 वाचं॑ प॒र्जन्य॑जिन्वितां॒ प्र म॒ण्डूका॑ अवादिषुः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -899,7 +899,7 @@ Our father, Lord divine pouring the torrents. Let the streams breathe, O Varuna,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/13_saMvatsaraM_shashayAnA.md">
 <details open><summary><h3>१३ संवत्सरं शशयाना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -950,14 +950,14 @@ They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, ha
 </div>
 
 ## १४ उपप्रवद मण्डूकि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/14_upapravada_maNDUki.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/14_upapravada_maNDUki.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑प॒प्रव॑द मण्डूकि व॒र्षमा आ व॑द तादुरि।  
 मध्ये॑ ह्र॒दस्य॑ प्लवस्व वि॒गृह्य॑ च॒तुरः॑ प॒दः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/14_upapravada_maNDUki.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/14_upapravada_maNDUki.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -966,7 +966,7 @@ They who lay quiet for a year, the Brahmans who fulfil their vows. The frogs, ha
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/14_upapravada_maNDUki.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/14_upapravada_maNDUki.md">
 <details open><summary><h3>१४ उपप्रवद मण्डूकि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1018,14 +1018,14 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 </div>
 
 ## १५ खण्वखा३इ खैमखा३इ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ख॑ण्व॒खा३इ॑ खैम॒खा३इ॒ मध्ये॑ तदुरि।  
 व॒र्षं व॑नुध्वं पितरो म॒रुतां॒ मन॑ इच्छत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1034,7 +1034,7 @@ Speak forth a welcome, female frog! Do thou O frog, accost the rain. Stretch thy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/15_khaNvakhA3i_khaimakhA3i.md">
 <details open><summary><h3>१५ खण्वखा३इ खैमखा३इ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1108,14 +1108,14 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 </div>
 
 ## १६ महान्तं कोशमुदचाभि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒हान्तं॒ कोश॒मुद॑चा॒भि षि॑ञ्च सविद्यु॒तं भ॑वतु॒ वातु॒ वातः॑।  
 त॒न्वतां॑ य॒ज्ञं ब॑हु॒धा विसृ॑ष्टा आन॒न्दिनी॒रोष॑धयो भवन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1124,7 +1124,7 @@ Khanvakha, ho! Khaimakha, ho! thou in the middle, Taduri! Fathers, enjoy the rai
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/015_vRShTiH/16_mahAntaM_koshamudachAbhi.md">
 <details open><summary><h3>१६ महान्तं कोशमुदचाभि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

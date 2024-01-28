@@ -2,7 +2,7 @@
 title = "१३८ क्लबत्वम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/_index.md">
 <details open><summary><h2>१३८ क्लबत्वम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Weber, Ind. Stud. v. 246; Ludwig, p. 470; Geldner, Ved. Stud. i. 131
 </div>
 
 ## ०१ त्वं वीरुधाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे।  
 इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/01_tvaM_vIrudhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Weber, Ind. Stud. v. 246; Ludwig, p. 470; Geldner, Ved. Stud. i. 131
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/01_tvaM_vIrudhAm.md">
 <details open><summary><h3>०१ त्वं वीरुधाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -95,14 +95,14 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 </div>
 
 ## ०२ क्लीबं कृध्योपशिनमथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि।  
 अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौ᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -111,7 +111,7 @@ O Plant, thy fame is spread abroad as best of all the herbs that grow. Unman for
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/02_klIbaM_kRdhyopashinamatho.md">
 <details open><summary><h3>०२ क्लीबं कृध्योपशिनमथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with
 </div>
 
 ## ०३ क्लीब क्लीबम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/03_klIba_klIbam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/03_klIba_klIbam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्।  
 कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/03_klIba_klIbam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/03_klIba_klIbam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ Make him a eunuch with a horn, set thou the crest upon his- head. Let Indra with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/03_klIba_klIbam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/03_klIba_klIbam.md">
 <details open><summary><h3>०३ क्लीब क्लीबम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 </div>
 
 ## ०४ ये ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/04_ye_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/04_ye_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये ते॑ ना॒ड्यौ᳡ दे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्।  
 ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/04_ye_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/04_ye_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ I have unmanned thee, eunuch! yea, impotent! made thee- impotent, and robbed the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/04_ye_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/04_ye_te.md">
 <details open><summary><h3>०४ ये ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -296,14 +296,14 @@ Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in 
 </div>
 
 ## ०५ यथा नडम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/05_yathA_naDam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/138_klabatvam/05_yathA_naDam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना।  
 ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/05_yathA_naDam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/138_klabatvam/05_yathA_naDam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -312,7 +312,7 @@ Duas tuas venas, a Diis factas, in quibus stat vigor virilis, paxillo ligneo in 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/05_yathA_naDam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/138_klabatvam/05_yathA_naDam.md">
 <details open><summary><h3>०५ यथा नडम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

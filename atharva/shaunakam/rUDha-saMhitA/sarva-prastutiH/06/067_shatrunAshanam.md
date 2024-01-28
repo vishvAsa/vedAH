@@ -2,7 +2,7 @@
 title = "०६७ शत्रुनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/_index.md">
 <details open><summary><h2>०६७ शत्रुनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the destruction and plunder of enemies
 </div>
 
 ## ०१ परि वर्त्मानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/01_pari_vartmAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 परि॒ वर्त्मा॑नि स॒र्वत॒ इन्द्रः॑ पू॒षा च॑ सस्रतुः।  
 मुह्य॑न्त्व॒द्यामूः सेना॑ अमित्राणां परस्त॒राम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/01_pari_vartmAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the destruction and plunder of enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/01_pari_vartmAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/01_pari_vartmAni.md">
 <details open><summary><h3>०१ परि वर्त्मानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 </div>
 
 ## ०२ मूढा अमित्राश्चरताशीर्षाण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मू॒ढा अ॒मित्रा॑श्चरताशी॒र्षाण॑ इ॒वाह॑यः।  
 तेषां॑ वो अ॒ग्निमू॑ढाना॒मिन्द्रो॑ हन्तु॒ वरं॑वरम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Indra and Pushan have gone forth along the ways on every side. To-day those host
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/02_mUDhA_amitrAshcharatAshIrShANa.md">
 <details open><summary><h3>०२ मूढा अमित्राश्चरताशीर्षाण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -168,14 +168,14 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 </div>
 
 ## ०३ ऐषु नह्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/03_aiShu_nahya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऐषु॑ नह्य॒ वृषा॒जिनं॑ हरि॒णस्या॒ भियं॑ कृधि।  
 परा॑ङ॒मित्र॒ एष॑त्व॒र्वाची॒ गौरुपे॑षतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/03_aiShu_nahya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -184,7 +184,7 @@ Ye foes, come hitherward dismayed like serpents when their heads are gone. Let I
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/03_aiShu_nahya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/067_shatrunAshanam/03_aiShu_nahya.md">
 <details open><summary><h3>०३ ऐषु नह्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

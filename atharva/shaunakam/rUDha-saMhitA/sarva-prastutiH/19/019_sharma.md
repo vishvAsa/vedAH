@@ -2,7 +2,7 @@
 title = "०१९ शर्म"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/_index.md">
 <details open><summary><h2>०१९ शर्म ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn recommending the protection of various Gods
 </div>
 
 ## ०१ मित्रः पृथिव्योदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मि॒त्रः पृ॑थि॒व्योद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn recommending the protection of various Gods
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/01_mitraH_pRthivyodakrAmattAm.md">
 <details open><summary><h3>०१ मित्रः पृथिव्योदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it giv
 </div>
 
 ## ०२ वायुरन्तरिक्षेणोदक्रामत्तां पुरम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वा॒युर॒न्तरि॑क्षे॒णोद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Mitra arose with Earth. To that fort I lead you: enter it, occupy it. Let it giv
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/02_vAyurantarixeNodakrAmattAM_puram.md">
 <details open><summary><h3>०२ वायुरन्तरिक्षेणोदक्रामत्तां पुरम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -157,14 +157,14 @@ Vayu arose with Air. To that fort, etc.
 </div>
 
 ## ०३ सूर्यो दिवोदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/03_sUryo_divodakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/03_sUryo_divodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूर्यो॑ दि॒वोद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/03_sUryo_divodakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/03_sUryo_divodakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -173,7 +173,7 @@ Vayu arose with Air. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/03_sUryo_divodakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/03_sUryo_divodakrAmattAm.md">
 <details open><summary><h3>०३ सूर्यो दिवोदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -217,14 +217,14 @@ Surya arose with Heaven. To that fort, etc.
 </div>
 
 ## ०४ चन्द्रमा नक्षत्रैरुदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 च॒न्द्रमा॒ नक्ष॑त्रै॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -233,7 +233,7 @@ Surya arose with Heaven. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/04_chandramA_naxatrairudakrAmattAm.md">
 <details open><summary><h3>०४ चन्द्रमा नक्षत्रैरुदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -277,14 +277,14 @@ Chandramas arose with the Constellation. To that fort, etc.
 </div>
 
 ## ०५ सोम ओषधीभिरुदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोम॒ ओष॑धीभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -293,7 +293,7 @@ Chandramas arose with the Constellation. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/05_soma_oShadhIbhirudakrAmattAm.md">
 <details open><summary><h3>०५ सोम ओषधीभिरुदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -337,14 +337,14 @@ Sacrifice arose with Priestly Fees. To that fort, etc.
 </div>
 
 ## ०६ यज्ञो दक्षिणाभिरुदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य॒ज्ञो दक्षि॑णाभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -353,7 +353,7 @@ Sacrifice arose with Priestly Fees. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/06_yajno_daxiNAbhirudakrAmattAm.md">
 <details open><summary><h3>०६ यज्ञो दक्षिणाभिरुदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -398,14 +398,14 @@ Ocean arose with the Rivers. To that fort, etc.
 </div>
 
 ## ०७ समुद्रो नदीभिरुदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑मु॒द्रो न॒दीभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -414,7 +414,7 @@ Ocean arose with the Rivers. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/07_samudro_nadIbhirudakrAmattAm.md">
 <details open><summary><h3>०७ समुद्रो नदीभिरुदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -458,14 +458,14 @@ Brahma arose with the Brahmacharis. To that fort, etc.
 </div>
 
 ## ०८ ब्रह्म ब्रह्मचारिभिरुदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॑ ब्रह्मचा॒रिभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -474,7 +474,7 @@ Brahma arose with the Brahmacharis. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/08_brahma_brahmachAribhirudakrAmattAm.md">
 <details open><summary><h3>०८ ब्रह्म ब्रह्मचारिभिरुदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -520,14 +520,14 @@ Indra arose with Might. To that fort, etc.
 </div>
 
 ## ०९ इन्द्रो वीर्येणोदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इन्द्रो॑ वी॒र्ये॒३॒॑णोद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -536,7 +536,7 @@ Indra arose with Might. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/09_indro_vIryeNodakrAmattAm.md">
 <details open><summary><h3>०९ इन्द्रो वीर्येणोदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -580,14 +580,14 @@ The Gods arose with Immortality. To that fort, etc.
 </div>
 
 ## १० देवा अमृतेनोदक्रामंस्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा अ॒मृते॒नोद॑क्रामं॒स्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -596,7 +596,7 @@ The Gods arose with Immortality. To that fort, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/10_devA_amRtenodakrAmaMstAm.md">
 <details open><summary><h3>१० देवा अमृतेनोदक्रामंस्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -641,14 +641,14 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 </div>
 
 ## ११ प्रजापतिः प्रजाभिरुदक्रामत्ताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑तिः प्र॒जाभि॒रुद॑क्राम॒त्तां पुरं॒ प्र ण॑यामि वः।  
 तामा वि॑शत॒ तां प्र वि॑शत॒ सा वः॒ शर्म॑ च॒ वर्म॑ च यच्छतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -657,7 +657,7 @@ Prajapati arose with Creatures. To that fort I lead you: enter it, occupy it giv
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/019_sharma/11_prajApatiH_prajAbhirudakrAmattAm.md">
 <details open><summary><h3>११ प्रजापतिः प्रजाभिरुदक्रामत्ताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

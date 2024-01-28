@@ -2,7 +2,7 @@
 title = "०४२ ब्रह्मयज्ञः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/_index.md">
 <details open><summary><h2>०४२ ब्रह्मयज्ञः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In praise of Brahma, Prayer, or Devotion
 </div>
 
 ## ०१ ब्रह्म होता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/01_brahma_hotA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः।  
 अ॑ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/01_brahma_hotA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In praise of Brahma, Prayer, or Devotion
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/01_brahma_hotA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/01_brahma_hotA.md">
 <details open><summary><h3>०१ ब्रह्म होता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -120,7 +120,7 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 </div>
 
 ## ०२ ब्रह्म स्रुचो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/02_brahma_srucho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता।  
@@ -128,7 +128,7 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 श॑मि॒ताय॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/02_brahma_srucho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -138,7 +138,7 @@ Brahma is Hotar, sacrifice: with Brahma are the stakes set up. From Brahma was t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/02_brahma_srucho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/02_brahma_srucho.md">
 <details open><summary><h3>०२ ब्रह्म स्रुचो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -205,14 +205,14 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 </div>
 
 ## ०३ अंहोमुचे प्र
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अं॑हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः।  
 इ॒ममि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॒भाय॑ स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/03_aMhomuche_pra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -221,7 +221,7 @@ Brahma is fatness-dropping scoops: with Brahma was the altar reared. Brahma is w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/03_aMhomuche_pra.md">
 <details open><summary><h3>०३ अंहोमुचे प्र ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -289,14 +289,14 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 </div>
 
 ## ०४ अंहोमुचं वृषभम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राण॑म्।  
 अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -305,7 +305,7 @@ To him who frees from woe mine hymn I offer, to the Good Guardian, as I seek his
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/042_brahmayajnaH/04_aMhomuchaM_vRShabham.md">
 <details open><summary><h3>०४ अंहोमुचं वृषभम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

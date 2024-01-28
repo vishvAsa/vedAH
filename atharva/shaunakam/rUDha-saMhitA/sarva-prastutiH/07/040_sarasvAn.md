@@ -2,7 +2,7 @@
 title = "०४० सरस्वान्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/_index.md">
 <details open><summary><h2>०४० सरस्वान् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer for prosperity
 </div>
 
 ## ०१ यस्य व्रतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/01_yasya_vratam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/01_yasya_vratam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्य॑ व्र॒तं प॒शवो॒ यन्ति॒ सर्वे॒ यस्य॑ व्र॒त उ॑पतिष्ठन्त॒ आपः॑।  
 यस्य॑ व्र॒ते पु॑ष्ट॒पति॒र्निवि॑ष्ट॒स्तं सर॑स्वन्त॒मव॑से हवामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/01_yasya_vratam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/01_yasya_vratam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer for prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/01_yasya_vratam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/01_yasya_vratam.md">
 <details open><summary><h3>०१ यस्य व्रतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,14 +102,14 @@ We call Sarasvan, under whose protection all cattle wander, to preserve and aid 
 </div>
 
 ## ०२ आ प्रत्यञ्चम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/02_A_pratyancham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/040_sarasvAn/02_A_pratyancham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ प्र॒त्यञ्चं॑ दा॒शुषे॑ दा॒श्वंसं॒ सर॑स्वन्तं पुष्ट॒पतिं॑ रयि॒ष्ठाम्।  
 रा॒यस्पोषं॑ श्रव॒स्युं वसा॑ना इ॒ह हु॑वेम सद॑नं रयी॒णाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/02_A_pratyancham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/040_sarasvAn/02_A_pratyancham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -118,7 +118,7 @@ We call Sarasvan, under whose protection all cattle wander, to preserve and aid 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/02_A_pratyancham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/040_sarasvAn/02_A_pratyancham.md">
 <details open><summary><h3>०२ आ प्रत्यञ्चम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

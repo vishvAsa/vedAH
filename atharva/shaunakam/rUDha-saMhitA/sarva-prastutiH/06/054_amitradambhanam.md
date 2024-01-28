@@ -2,7 +2,7 @@
 title = "०५४ अमित्रदम्भनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/_index.md">
 <details open><summary><h2>०५४ अमित्रदम्भनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A benediction on a newly elected King
 </div>
 
 ## ०१ इदं तद्युज
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/01_idaM_tadyuja.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं तद्यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये।  
 अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/01_idaM_tadyuja.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A benediction on a newly elected King
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/01_idaM_tadyuja.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/01_idaM_tadyuja.md">
 <details open><summary><h3>०१ इदं तद्युज ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -113,14 +113,14 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 </div>
 
 ## ०२ अस्मै क्षत्रमग्नीषोमावस्मै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्।  
 इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -129,7 +129,7 @@ Win the love of Indra that his friend may reach yet higher state. Increase, as r
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/02_asmai_xatramagnIShomAvasmai.md">
 <details open><summary><h3>०२ अस्मै क्षत्रमग्नीषोमावस्मै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ Confirm the princely power in him, Agni and Soma! grant him wealth. In all the c
 </div>
 
 ## ०३ सबन्धुश्चासबन्धुश्च यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
 सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Confirm the princely power in him, Agni and Soma! grant him wealth. In all the c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/054_amitradambhanam/03_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>०३ सबन्धुश्चासबन्धुश्च यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

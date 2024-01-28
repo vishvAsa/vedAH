@@ -2,7 +2,7 @@
 title = "००४ कुष्ठतक्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/_index.md">
 <details open><summary><h2>००४ कुष्ठतक्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against fever and other ailments
 </div>
 
 ## ०१ यो गिरिष्वजायथा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो गि॒रिष्वजा॑यथा वी॒रुधां॒ बल॑वत्तमः।  
 कुष्ठेहि॑ तक्मनाशन त॒क्मानं॑ ना॒शय॑न्नि॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against fever and other ailments
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/01_yo_giriShvajAyathA.md">
 <details open><summary><h3>०१ यो गिरिष्वजायथा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 </div>
 
 ## ०२ सुपर्णसुवने गिरौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॑पर्ण॒सुव॑ने गि॒रौ जा॒तं हि॒मव॑त॒स्परि॑।  
 धनै॑र॒भि श्रु॒त्वा य॑न्ति वि॒दुर्हि त॑क्म॒नाश॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Thou who wast born on mountains, thou most mighty of all plants that grow. Thou 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/02_suparNasuvane_girau.md">
 <details open><summary><h3>०२ सुपर्णसुवने गिरौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 </div>
 
 ## ०३ अश्वत्थो देवसदनस्तृतीयस्यामितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि।  
 तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ Brought from the Snowy Mountain, born on the high hill where eagles breed, Men s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/03_ashvattho_devasadanastRtIyasyAmito.md">
 <details open><summary><h3>०३ अश्वत्थो देवसदनस्तृतीयस्यामितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -231,14 +231,14 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </div>
 
 ## ०४ हिरण्ययी नौरचरद्धिरण्यबन्धना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॑र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि।  
 तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -247,7 +247,7 @@ In the third heaven above us stands the Asvattha tree, the seat of Gods. There t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/04_hiraNyayI_nauracharaddhiraNyabandhanA.md">
 <details open><summary><h3>०४ हिरण्ययी नौरचरद्धिरण्यबन्धना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -305,14 +305,14 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 </div>
 
 ## ०५ हिरण्ययाः पन्थान
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॑र॒ण्ययाः॒ पन्था॑न आस॒न्नरि॑त्राणि हिर॒ण्यया॑।  
 नावो॑ हिर॒ण्ययी॑रास॒न्याभिः॒ कुष्ठं॑ नि॒राव॑हन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -321,7 +321,7 @@ There moved through heaven a golden ship, a ship with cordage wrought of Gold. T
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/05_hiraNyayAH_panthAna.md">
 <details open><summary><h3>०५ हिरण्ययाः पन्थान ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -370,14 +370,14 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 </div>
 
 ## ०६ इमं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/06_imaM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/06_imaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं मे॑ कुष्ठ॒ पूरु॑षं॒ तमा व॑ह॒ तं निष्कु॑रु।  
 तमु॑ मे अग॒दं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/06_imaM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/06_imaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -386,7 +386,7 @@ They sailed on pathways paved with gold, the oars they piled were wrought of gol
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/06_imaM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/06_imaM_me.md">
 <details open><summary><h3>०६ इमं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -433,14 +433,14 @@ O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free
 </div>
 
 ## ०७ देवेभ्यो अधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वेभ्यो॒ अधि॑ जा॒तोऽसि॒ सोम॑स्यासि॒ सखा॑ हि॒तः।  
 स प्रा॒णाय॑ व्या॒नाय॒ चक्षु॑षे मे अ॒स्मै मृ॑ड ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -449,7 +449,7 @@ O Kushtha, bring thou hitherward this man of mine, restore his health, Yes, free
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/07_devebhyo_adhi.md">
 <details open><summary><h3>०७ देवेभ्यो अधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -497,14 +497,14 @@ Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my
 </div>
 
 ## ०८ उदङ्जातो हिमवतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उद॑ङ्जा॒तो हि॒मव॑तः॒ स प्रा॒च्यां नी॑यसे॒ जन॑म्।  
 तत्र॒ कुष्ठ॑स्य॒ नामा॑न्युत्त॒मानि॒ वि भे॑जिरे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -513,7 +513,7 @@ Thou art descended from thee Gods, Soma's benignant friend art thou, Befriend my
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/08_uda~NjAto_himavataH.md">
 <details open><summary><h3>०८ उदङ्जातो हिमवतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -562,14 +562,14 @@ Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There t
 </div>
 
 ## ०९ उत्तमो नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑त्त॒मो नाम॑ कुष्ठास्युत्त॒मो नाम॑ ते पि॒ता।  
 यक्ष्मं॑ च॒ सर्वं॑ ना॒शय॑ त॒क्मानं॑ चार॒सं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -578,7 +578,7 @@ Sprung, northward, from the Snowy Hill thou art conveyed to eastern men. There t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/09_uttamo_nAma.md">
 <details open><summary><h3>०९ उत्तमो नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -625,14 +625,14 @@ Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Cons
 </div>
 
 ## १० शीर्षामयमुपहत्यामक्ष्योस्तन्वोरपः कुष्ठस्तत्सर्वम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शी॑र्षाम॒यमु॑पह॒त्याम॒क्ष्योस्त॒न्वो॒३॒॑रपः॑।  
 कुष्ठ॒स्तत्सर्वं॒ निष्क॑र॒द्दैवं॑ समह॒ वृष्ण्य॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -641,7 +641,7 @@ Most excellent, indeed, art thou, Kushtha! most noble is thy sire. Make all Cons
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/004_kuShThatakmanAshanam/10_shIrShAmayamupahatyAmaxyostanvorapaH_kuShThasta.md">
 <details open><summary><h3>१० शीर्षामयमुपहत्यामक्ष्योस्तन्वोरपः कुष्ठस्तत्सर्वम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

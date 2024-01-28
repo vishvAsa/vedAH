@@ -2,7 +2,7 @@
 title = "००३ आत्मगोपनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/_index.md">
 <details open><summary><h2>००३ आत्मगोपनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A prayer to various deities for protection and prosperity
 </div>
 
 ## ०१ पातं न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/01_pAtaM_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/01_pAtaM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पा॒तं न॑ इन्द्रापूष॒णादि॑तिः पान्तु म॒रुतः॑।  
 अपां॑ नपात्सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/01_pAtaM_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/01_pAtaM_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A prayer to various deities for protection and prosperity
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/01_pAtaM_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/01_pAtaM_na.md">
 <details open><summary><h3>०१ पातं न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 </div>
 
 ## ०२ पातां नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/02_pAtAM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/02_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः।  
 पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/02_pAtAM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/02_pAtAM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ Guard us the Maruts! Guard us well, O Indra, Piishan, Aditi. Guard us, O Waters'
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/02_pAtAM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/02_pAtAM_no.md">
 <details open><summary><h3>०२ पातां नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 </div>
 
 ## ०३ पातां नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/03_pAtAM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/003_Atmagopanam/03_pAtAM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्।  
 अपां॑ नपा॒दभि॑ह्रुती॒ गय॑स्य चि॒द्देव॑ त्वष्टर्व॒र्धय॑ स॒र्वता॑तये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/03_pAtAM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/003_Atmagopanam/03_pAtAM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ May Heaven and Earth take care of us for victory, may Pressing- Stone and Soma s
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/03_pAtAM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/003_Atmagopanam/03_pAtAM_no.md">
 <details open><summary><h3>०३ पातां नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

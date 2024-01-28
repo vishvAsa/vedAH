@@ -2,7 +2,7 @@
 title = "०१६ सुरक्षा"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/_index.md">
 <details open><summary><h2>०१६ सुरक्षा ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,13 +34,13 @@ A prayer for general protection
 </div>
 
 ## ०१ प्राणापानौ मृत्योर्मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राणा॑पानौ मृ॒त्योर्मा॑ पातं॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/01_prANApAnau_mRtyormA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/01_prANApAnau_mRtyormA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -48,7 +48,7 @@ A prayer for general protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/01_prANApAnau_mRtyormA.md">
 <details open><summary><h3>०१ प्राणापानौ मृत्योर्मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -102,13 +102,13 @@ Guard me from death, Inhaling and Exhaling! All bliss to you!
 </div>
 
 ## ०२ द्यावापृथिवी उपश्रुत्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्यावा॑पृथिवी॒ उप॑श्रुत्या मा पातं॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Guard me from death, Inhaling and Exhaling! All bliss to you!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/02_dyAvApRthivI_upashrutyA.md">
 <details open><summary><h3>०२ द्यावापृथिवी उपश्रुत्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,13 +169,13 @@ you!
 </div>
 
 ## ०३ सूर्य चक्षुषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/03_sUrya_chaxuShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/03_sUrya_chaxuShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सूर्य॒ चक्षु॑षा मा पाहि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/03_sUrya_chaxuShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/03_sUrya_chaxuShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -183,7 +183,7 @@ you!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/03_sUrya_chaxuShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/03_sUrya_chaxuShA.md">
 <details open><summary><h3>०३ सूर्य चक्षुषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -230,13 +230,13 @@ thee!
 </div>
 
 ## ०४ अग्ने वैश्वानर
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/04_agne_vaishvAnara.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/04_agne_vaishvAnara.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॑ वैश्वानर॒ विश्वै॑र्मा दे॒वैः पा॑हि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/04_agne_vaishvAnara.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/04_agne_vaishvAnara.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -244,7 +244,7 @@ thee!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/04_agne_vaishvAnara.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/04_agne_vaishvAnara.md">
 <details open><summary><h3>०४ अग्ने वैश्वानर ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -292,13 +292,13 @@ Agni Vaisvānara, with all Gods preserve me! All hail to thee!
 </div>
 
 ## ०५ विश्वम्भर विश्वेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/05_vishvambhara_vishvena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/016_suraxA/05_vishvambhara_vishvena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विश्व॑म्भर॒ विश्वे॑न मा॒ भर॑सा पाहि॒ स्वाहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/05_vishvambhara_vishvena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/016_suraxA/05_vishvambhara_vishvena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -306,7 +306,7 @@ Agni Vaisvānara, with all Gods preserve me! All hail to thee!
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/05_vishvambhara_vishvena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/016_suraxA/05_vishvambhara_vishvena.md">
 <details open><summary><h3>०५ विश्वम्भर विश्वेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०८९ प्रीतिसंजननम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/_index.md">
 <details open><summary><h2>०८९ प्रीतिसंजननम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A man's love charm
 </div>
 
 ## ०१ इदं यत्प्रेण्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं यत्प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्।  
 ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A man's love charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/01_idaM_yatpreNyaH.md">
 <details open><summary><h3>०१ इदं यत्प्रेण्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 </div>
 
 ## ०२ शोचयामसि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑।  
 वातं॑ धू॒म इ॑व स॒ध्र्य१॒॑ङ्मामे॒वान्वे॑तु ये॒ मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/02_shochayAmasi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ This strength that Soma hath bestowed, the head of her who gladdeneth,-- With th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/02_shochayAmasi_te.md">
 <details open><summary><h3>०२ शोचयामसि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 </div>
 
 ## ०३ मह्यं त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती।  
 मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/03_mahyaM_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ We make thy spirit sorrowful, we fill thy mind with pain and grief. As smoke acc
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/089_prItisaMjananam/03_mahyaM_tvA.md">
 <details open><summary><h3>०३ मह्यं त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

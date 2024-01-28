@@ -2,7 +2,7 @@
 title = "०४४ इन्द्राविष्णुः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/044_indrAviShNuH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/044_indrAviShNuH/_index.md">
 <details open><summary><h2>०४४ इन्द्राविष्णुः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In praise of Indra and Vishnu
 </div>
 
 ## ०१ उभा जिग्यथुर्न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैन॑योः।  
 इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In praise of Indra and Vishnu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/044_indrAviShNuH/01_ubhA_jigyathurna.md">
 <details open><summary><h3>०१ उभा जिग्यथुर्न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

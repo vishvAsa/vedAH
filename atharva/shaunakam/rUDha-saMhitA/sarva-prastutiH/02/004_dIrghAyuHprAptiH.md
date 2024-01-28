@@ -2,7 +2,7 @@
 title = "००४ दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>००४ दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to ensure health and prosperity by wearing an amulet
 </div>
 
 ## ०१ दीर्घायुत्वाय बृहते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दी॑र्घायु॒त्वाय॑ बृहते रणा॒यारि॑ष्यन्तो॒ दक्ष॑माणाः॒ सदै॒व।  
 म॒णिं वि॑ष्कन्ध॒दूष॑णं जङ्गि॒डं बि॑भृमो व॒यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to ensure health and prosperity by wearing an amulet
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/01_dIrghAyutvAya_bRhate.md">
 <details open><summary><h3>०१ दीर्घायुत्वाय बृहते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 </div>
 
 ## ०२ जङ्गिडो जम्भाद्विशराद्विष्कन्धादभिशोचनात्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज॑ङ्गि॒डो ज॒म्भाद्वि॑श॒राद्विष्क॑न्धादभि॒शोच॑नात्।  
 म॒णिः स॒हस्र॑वीर्यः॒ परि॑ णः पातु वि॒श्वतः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ For length of life, for mighty joy, uninjured, ever showing strength. We wear Vi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/02_jangiDo_jambhAdvisharAdviShkandhAdabhishochanAt.md">
 <details open><summary><h3>०२ जङ्गिडो जम्भाद्विशराद्विष्कन्धादभिशोचनात् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -172,14 +172,14 @@ Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from 
 </div>
 
 ## ०३ अयं विष्कन्धम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒यं विष्क॑न्धं सहते॒ ऽयं बा॑ध॒ते अ॒त्त्रिणः॑।  
 अ॒यं नो॑ वि॒श्वभे॑षजो जङ्गि॒डः पा॒त्वंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -188,7 +188,7 @@ Amulet of a thousand powers, Jangida save us, all around. From Jambha, and from 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/03_ayaM_viShkandham.md">
 <details open><summary><h3>०३ अयं विष्कन्धम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 </div>
 
 ## ०४ देवैर्दत्तेन मणिना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वैर्द॒त्तेन॑ म॒णिना॑ जङ्गि॒डेन॑ मयो॒भुवा॑।  
 विष्क॑न्धं॒ सर्वा॒ रक्षां॑सि व्याया॒मे स॑हामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ This overcomes Vishkandha, this chases the greedy fiends away: May this our pana
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/04_devairdattena_maNinA.md">
 <details open><summary><h3>०४ देवैर्दत्तेन मणिना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -300,14 +300,14 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 </div>
 
 ## ०५ शणश्च मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श॒णश्च॑ मा जङ्गि॒डश्च॒ विष्क॑न्धाद॒भि र॑क्षताम्।  
 अर॑ण्याद॒न्य आभृ॑तः कृ॒ष्या अ॒न्यो रसे॑भ्यः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -316,7 +316,7 @@ With Jangida that brings delight, Amulet given by the Gods, We in the conflict o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/05_shaNashcha_mA.md">
 <details open><summary><h3>०५ शणश्च मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -366,14 +366,14 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 </div>
 
 ## ०६ कृत्यादूषिरयं मणिरथो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॑त्या॒दूषि॑र॒यं म॒णिरथो॑ अराति॒दूषिः॑।  
 अथो॒ सह॑स्वान् जङ्गि॒डः प्र ण॒ आयुं॑षि तारिषत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -382,7 +382,7 @@ May Cannabis and Jangida preserve me from Vishkandha,-- that Brought to us from 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/004_dIrghAyuHprAptiH/06_kRtyAdUShirayaM_maNiratho.md">
 <details open><summary><h3>०६ कृत्यादूषिरयं मणिरथो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

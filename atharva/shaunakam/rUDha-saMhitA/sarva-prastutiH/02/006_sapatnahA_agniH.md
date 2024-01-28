@@ -2,7 +2,7 @@
 title = "००६ सपत्नहाऽग्निः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/_index.md">
 <details open><summary><h2>००६ सपत्नहाऽग्निः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A prayer to Agni for protection
 </div>
 
 ## ०१ समास्त्वाग्न ऋतवो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समा॑स्त्वाग्न ऋ॒तवो॑ वर्धयन्तु संवत्स॒रा ऋष॑यो॒ यानि॑ स॒त्या।  
 सं दि॒व्येन॑ दीदिहि रोच॒नेन॒ विश्वा॒ आ भा॑हि प्र॒दिश॒श्चत॑स्रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A prayer to Agni for protection
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/01_samAstvAgna_Rtavo.md">
 <details open><summary><h3>०१ समास्त्वाग्न ऋतवो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -99,14 +99,14 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 </div>
 
 ## ०२ सं चेध्यस्वाग्ने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सं चे॒ध्यस्वा॑ग्ने॒ प्र च॑ वर्धये॒ममुच्च॑ तिष्ठ मह॒ते सौभ॑गाय।  
 मा ते॑ रिषन्नुपस॒त्तारो॑ अग्ने ब्र॒ह्माण॑स्ते य॒शसः॑ सन्तु॒ मान्ये ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -115,7 +115,7 @@ Half-years and seasons strengthen thee, O Agni, the years, and all the Verities,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/02_saM_chedhyasvAgne.md">
 <details open><summary><h3>०२ सं चेध्यस्वाग्ने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 </div>
 
 ## ०३ त्वामग्ने वृणते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वाम॑ग्ने वृणते ब्राह्म॒णा इ॒मे शि॒वो अ॑ग्ने सं॒वर॑णे भवा नः।  
 स॑पत्न॒हाग्ने॑ अभिमाति॒जिद्भ॑व॒ स्वे गये॑ जागृ॒ह्यप्र॑युछन् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ Kindle thee, Agni, and make this man prosper: rise up erect for high and happy f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/03_tvAmagne_vRNate.md">
 <details open><summary><h3>०३ त्वामग्ने वृणते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -235,14 +235,14 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 </div>
 
 ## ०४ क्षत्रेणाग्ने स्वेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क्ष॒त्रेणा॑ग्ने॒ स्वेन॒ सं र॑भस्व मि॒त्रेणा॑ग्ने मित्र॒धा य॑तस्व।  
 स॑जा॒तानां॑ मध्यमे॒ष्ठा राज्ञा॑मग्ने वि॒हव्यो॑ दीदिही॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -251,7 +251,7 @@ These Brahmans have elected thee, O Agni: be thou propitious in our sacred chamb
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/04_xatreNAgne_svena.md">
 <details open><summary><h3>०४ क्षत्रेणाग्ने स्वेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -308,14 +308,14 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 </div>
 
 ## ०५ अति निहो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/05_ati_niho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अति॒ निहो॒ अति॒ सृधो ऽत्यचि॑त्ती॒रति॒ द्विषः॑।  
 विश्वा॒ ह्य॑ग्ने दुरि॒ता तर॒ त्वमथा॒स्मभ्यं॑ स॒हवी॑रं र॒यिं दाः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/05_ati_niho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -324,7 +324,7 @@ Seize, Agni, on thy power and firmly hold it: contend thou with the Friend by wa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/05_ati_niho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/006_sapatnahA_agniH/05_ati_niho.md">
 <details open><summary><h3>०५ अति निहो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

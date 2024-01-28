@@ -2,7 +2,7 @@
 title = "०४९ अग्निस्तवः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/_index.md">
 <details open><summary><h2>०४९ अग्निस्तवः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ In praise of Agni
 </div>
 
 ## ०१ नहि ते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/01_nahi_te.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/01_nahi_te.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 न॒हि ते॑ अग्ने त॒न्वः॑᳡ क्रू॒रमा॒नंश॒ मर्त्यः॑।  
 क॒पिर्ब॑भस्ति॒ तेज॑नं॒ स्वं ज॒रायु॒ गौरि॑व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/01_nahi_te.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/01_nahi_te.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ In praise of Agni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/01_nahi_te.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/01_nahi_te.md">
 <details open><summary><h3>०१ नहि ते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ O Agni, in thy body man hath never found a wounded part. The Ape devours the arr
 </div>
 
 ## ०२ मेष इव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/02_meSha_iva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/02_meSha_iva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मे॒ष इ॑व॒ वै सं च॒ वि चो॒र्व᳡च्यसे॒ यदु॑त्तर॒द्रावुप॑रश्च॒ खाद॑तः।  
 शी॒र्ष्णा शिरोऽप्स॒साप्सो॑ अ॒र्दय॑न्नं॒शून्ब॑भस्ति॒ हरि॑तेभिरा॒सभिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/02_meSha_iva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/02_meSha_iva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ O Agni, in thy body man hath never found a wounded part. The Ape devours the arr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/02_meSha_iva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/02_meSha_iva.md">
 <details open><summary><h3>०२ मेष इव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -180,14 +180,14 @@ Thou like a fleece contractest and expandest thee what time the upper stone and 
 </div>
 
 ## ०३ सुपर्णा वाचमक्रतोप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॑प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः।  
 नि यन्नि॒यन्ति॒ उप॑रस्य॒ निष्कृ॑तिं पु॒रू रेतो॑ दधिरे सूर्यश्रितः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -196,7 +196,7 @@ Thou like a fleece contractest and expandest thee what time the upper stone and 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/049_agnistavaH/03_suparNA_vAchamakratopa.md">
 <details open><summary><h3>०३ सुपर्णा वाचमक्रतोप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०१५ शत्रुनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/_index.md">
 <details open><summary><h2>०१५ शत्रुनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for power and preeminence
 </div>
 
 ## ०१ उत्तमो अस्योषधीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑।  
 उ॑प॒स्तिर॑स्तु॒ सो॒३॒॑स्माकं॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for power and preeminence
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/01_uttamo_asyoShadhInAm.md">
 <details open><summary><h3>०१ उत्तमो अस्योषधीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Most excellent of all the plants art thou: thy vassals are the trees. Let him be
 </div>
 
 ## ०२ सबन्धुश्चासबन्धुश्च यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्माँ अ॑भि॒दास॑ति।  
 तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Most excellent of all the plants art thou: thy vassals are the trees. Let him be
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/02_sabandhushchAsabandhushcha_yo.md">
 <details open><summary><h3>०२ सबन्धुश्चासबन्धुश्च यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -164,14 +164,14 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 </div>
 
 ## ०३ यथा सोम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/03_yathA_soma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः।  
 त॒लाशा॑ वृ॒क्षाना॑मिवा॒हं भू॑यासमुत्त॒मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/03_yathA_soma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -180,7 +180,7 @@ Whoever seeks to injure us, with kinsmen or no kin to aid, May I be uppermost of
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/03_yathA_soma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/015_shatrunivAraNam/03_yathA_soma.md">
 <details open><summary><h3>०३ यथा सोम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

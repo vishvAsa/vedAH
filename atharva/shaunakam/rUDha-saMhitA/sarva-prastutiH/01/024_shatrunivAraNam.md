@@ -2,7 +2,7 @@
 title = "०२४ शत्रुनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/_index.md">
 <details open><summary><h2>०२४ शत्रुनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against leprosy
 </div>
 
 ## ०१ सुपर्णो जातः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सु॑प॒र्णो जा॒तः प्र॑थ॒मस्तस्य॒ त्वं पि॒त्तमा॑सिथ।  
 तदा॑सु॒री यु॒धा जि॒ता रू॒पं च॑क्रे॒ वन॒स्पती॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against leprosy
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/01_suparNo_jAtaH.md">
 <details open><summary><h3>०१ सुपर्णो जातः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 </div>
 
 ## ०२ आसुरी चक्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॑सु॒री च॑क्रे प्रथ॒मेदं कि॑लासभेष॒जमि॒दं कि॑लास॒नाश॑नम्।  
 अनी॑नशत्कि॒लासं॒ सरू॑पामकर॒त्त्वच॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/02_AsurI_chakre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ First, before all, the strong-winged Bird was born;; thou wast the gall thereof.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/02_AsurI_chakre.md">
 <details open><summary><h3>०२ आसुरी चक्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -169,14 +169,14 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 </div>
 
 ## ०३ सरूपा नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सरू॑पा॒ नाम॑ ते मा॒ता सरू॑पो॒ नाम॑ ते पि॒ता।  
 स॑रूप॒कृत्त्वमो॑षधे॒ सा सरू॑पमि॒दं कृ॑धि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -185,7 +185,7 @@ The Asuri made, first of all, this medicine for leprosy, this banisher of lepros
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/03_sarUpA_nAma.md">
 <details open><summary><h3>०३ सरूपा नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ One-coloured, is thy mother's name, One-coloured is thy father called: One-colou
 </div>
 
 ## ०४ श्यामा सरूपङ्करणी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्या॒मा स॑रूपं॒कर॑णी पृथि॒व्या अध्युद्भृ॑ता।  
 इ॒दमू॑ षु॒ प्र सा॑धय॒ पुना॑ रू॒पाणि॑ कल्पय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ One-coloured, is thy mother's name, One-coloured is thy father called: One-colou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/024_shatrunivAraNam/04_shyAmA_sarUpankaraNI.md">
 <details open><summary><h3>०४ श्यामा सरूपङ्करणी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

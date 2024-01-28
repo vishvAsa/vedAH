@@ -2,7 +2,7 @@
 title = "०१६ स्वस्तये प्रार्थना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/_index.md">
 <details open><summary><h2>०१६ स्वस्तये प्रार्थना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A Rishi's morning prayer
 </div>
 
 ## ०१ प्रातरग्निं प्रातरिन्द्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒तर॒ग्निं प्रा॒तरिन्द्रं॑ हवामहे प्रा॒तर्मि॒त्रावरु॑णा प्रा॒तर॒श्विना॑।  
 प्रा॒तर्भगं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पतिं॑ प्रा॒तः सोम॑मु॒त रु॒द्रं ह॑वामहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A Rishi's morning prayer
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/01_prAtaragniM_prAtarindram.md">
 <details open><summary><h3>०१ प्रातरग्निं प्रातरिन्द्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -97,14 +97,14 @@ Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins 
 </div>
 
 ## ०२ प्रातर्जितं भगमुग्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॑त॒र्जितं॒ भग॑मु॒ग्रं ह॑वामहे व॒यं पु॒त्रमदि॑ते॒र्यो वि॑ध॒र्ता।  
 आ॒ध्रश्चि॒द्यं मन्य॑मानस्तु॒रश्चि॒द्राजा॑ चि॒द्यं भगं॑ भ॒क्षीत्याह॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -113,7 +113,7 @@ Agni at dawn, and Indra we invoke at dawn, and Varuna and Mitra, and the Asvins 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/02_prAtarjitaM_bhagamugram.md">
 <details open><summary><h3>०२ प्रातर्जितं भगमुग्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ We all strong Bhaga, conqueror in the morning, the son of Aditi, the great Dispo
 </div>
 
 ## ०३ भग प्रणेतर्भग
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भग॒ प्रणे॑त॒र्भग॒ सत्य॑राधो॒ भगे॒मां धिय॒मुद॑वा॒ दद॑न्नः।  
 भग॒ प्र णो॑ जनय॒ गोभि॒रश्वै॒र्भग॒ प्र नृभि॑र्नृ॒वन्तः॑ स्याम ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ We all strong Bhaga, conqueror in the morning, the son of Aditi, the great Dispo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/03_bhaga_praNetarbhaga.md">
 <details open><summary><h3>०३ भग प्रणेतर्भग ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -230,14 +230,14 @@ Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us w
 </div>
 
 ## ०४ उतेदानीं भगवन्तः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒तेदानीं॒ भग॑वन्तः स्यामो॒त प्र॑पि॒त्व उ॒त मध्ये॒ अह्ना॑म्।  
 उ॒तोदि॑तौ मघव॒न्त्सूर्य॑स्य व॒यं दे॒वानां॑ सुम॒तौ स्या॑म ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -246,7 +246,7 @@ Bhaga, our guide, Bhaga whose gifts are faithful, favour this hymn and give us w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/04_utedAnIM_bhagavantaH.md">
 <details open><summary><h3>०४ उतेदानीं भगवन्तः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -297,14 +297,14 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 </div>
 
 ## ०५ भग एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/05_bhaga_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/05_bhaga_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भग॑ ए॒व भग॑वाँ अस्तु दे॒वस्तेना॑ व॒यं भग॑वन्तः स्याम।  
 तं त्वा॑ भग॒ सर्व॒ इज्जो॑हवीमि॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/05_bhaga_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/05_bhaga_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -313,7 +313,7 @@ So may felicity be ours at present, and when the Sun advances, and at noontide; 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/05_bhaga_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/05_bhaga_eva.md">
 <details open><summary><h3>०५ भग एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -363,14 +363,14 @@ May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend 
 </div>
 
 ## ०६ समध्वरायोषसो नमन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सम॑ध्व॒रायो॒षसो॑ नमन्त दधि॒क्रावे॑व॒ शुच॑ये प॒दाय॑।  
 अ॑र्वाची॒नं व॑सु॒विदं॒ भगं॑ मे॒ रथ॑मि॒वाश्वा॑ वा॒जिन॒ आ व॑हन्तु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -379,7 +379,7 @@ May Bhaga verily be bliss-bestower, and through him, Gods! may happiness attend 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/06_samadhvarAyoShaso_namanta.md">
 <details open><summary><h3>०६ समध्वरायोषसो नमन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -431,14 +431,14 @@ To this our sacrifice may the Dawns incline them, and come to the pure place lik
 </div>
 
 ## ०७ अश्वावतीर्गोमतीर्न उषासो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अश्वा॑वती॒र्गोम॑तीर्न उ॒षासो॑ वी॒रव॑तीः॒ सद॑मुच्छन्तु भ॒द्राः।  
 घृ॒तं दुहा॑ना वि॒श्वतः॒ प्रपी॑ता यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -447,7 +447,7 @@ To this our sacrifice may the Dawns incline them, and come to the pure place lik
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/016_svastaye_prArthanA/07_ashvAvatIrgomatIrna_uShAso.md">
 <details open><summary><h3>०७ अश्वावतीर्गोमतीर्न उषासो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

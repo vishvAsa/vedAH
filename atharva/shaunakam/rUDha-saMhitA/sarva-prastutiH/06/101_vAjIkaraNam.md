@@ -2,7 +2,7 @@
 title = "१०१ वाजीकरणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/_index.md">
 <details open><summary><h2>१०१ वाजीकरणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Griffith, i. 474.—Cf. iv. 4; vi. 72.
 </div>
 
 ## ०१ आ वृषायस्व
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ वृ॑षायस्व श्वसिहि॒ वर्ध॑स्व प्र॒थय॑स्व च।  
 य॑था॒ङ्गं व॑र्धतां॒ शेप॒स्तेन॑ यो॒षित॒मिज्ज॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Griffith, i. 474.—Cf. iv. 4; vi. 72.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/01_A_vRShAyasva.md">
 <details open><summary><h3>०१ आ वृषायस्व ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -96,14 +96,14 @@ Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat pe
 </div>
 
 ## ०२ येन कृषम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/02_yena_kRSham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/02_yena_kRSham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येन॑ कृ॒षं वा॒जय॑न्ति॒ येन॑ हि॒न्वन्त्यातु॑रम्।  
 तेना॒स्य ब्र॑ह्मणस्पते॒ धनु॑रि॒वा ता॑नया॒ पसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/02_yena_kRSham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/02_yena_kRSham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -112,7 +112,7 @@ Taurum age, palpita, incresce et teipsum extende: per totum membrum increscat pe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/02_yena_kRSham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/02_yena_kRSham.md">
 <details open><summary><h3>०२ येन कृषम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, huj
 </div>
 
 ## ०३ आहं तनोमि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आहं त॑नोमि ते॒ पसो॒ अधि॒ ज्यामि॑व॒ धन्व॑नि।  
 क्रम॑स्वर्श॑ इव रो॒हित॒मन॑वग्लायता॒ सदा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ Quo debilem stimulant, quo aegrum excitant (homines), hoc, O Brahmanaspatis, huj
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/101_vAjIkaraNam/03_AhaM_tanomi.md">
 <details open><summary><h3>०३ आहं तनोमि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

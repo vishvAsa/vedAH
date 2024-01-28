@@ -2,7 +2,7 @@
 title = "००९ दुःखनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/_index.md">
 <details open><summary><h2>००९ दुःखनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against rheumatism (vishkondha)
 </div>
 
 ## ०१ कर्शफस्य विशफस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क॒र्शफ॑स्य विश॒फस्य॒ द्यौः पि॒ता पृ॑थि॒वी मा॒ता।  
 यथा॑भिच॒क्र दे॒वास्तथाप॑ कृणुता॒ पुनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against rheumatism (vishkondha)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/01_karshaphasya_vishaphasya.md">
 <details open><summary><h3>०१ कर्शफस्य विशफस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 </div>
 
 ## ०२ अश्रेष्माणो अधारयन्तथा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑श्रे॒ष्माणो॑ अधारय॒न्तथा॒ तन्मनु॑ना कृ॒तम्।  
 कृ॒णोमि॒ वध्रि॒ विष्क॑न्धं मुष्काब॒र्हो गवा॑मिव ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Heaven is the sire, the mother Earth, of Karsapha and Visapha. As ye have brough
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/02_ashreShmANo_adhArayantathA.md">
 <details open><summary><h3>०२ अश्रेष्माणो अधारयन्तथा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -176,14 +176,14 @@ The bands hold fast without a knot: this is the way that Manu- used. I make Vish
 </div>
 
 ## ०३ पिशङ्गे सूत्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पि॒शङ्गे॒ सूत्रे॒ खृग॑लं॒ तदा ब॑ध्नन्ति वे॒धसः॑।  
 श्र॑व॒स्युं शुष्मं॑ काब॒वं वध्रिं॑ कृण्वन्तु ब॒न्धुरः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/03_pishange_sUtre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/03_pishange_sUtre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -192,7 +192,7 @@ The bands hold fast without a knot: this is the way that Manu- used. I make Vish
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/03_pishange_sUtre.md">
 <details open><summary><h3>०३ पिशङ्गे सूत्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -249,14 +249,14 @@ Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages 
 </div>
 
 ## ०४ येना श्रवस्यवश्चरथ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 येना॑ श्रवस्यव॒श्चर॑थ दे॒वा इ॑वासुरमा॒यया॑।  
 शुनां॑ क॒पिरि॑व॒ दूष॑णो॒ बन्धु॑रा काब॒वस्य॑ च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -265,7 +265,7 @@ Then to a tawny-coloured string the wise and skilful bind a brush. Let bandages 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/04_yenA_shravasyavashcharatha.md">
 <details open><summary><h3>०४ येना श्रवस्यवश्चरथ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -307,14 +307,14 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 </div>
 
 ## ०५ दुष्ट्यै हि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दुष्ट्यै॒ हि त्वा॑ भ॒र्त्स्यामि॑ दूषयि॒ष्यामि॑ काब॒वम्।  
 उदा॒शवो॒ रथा॑ इव श॒पथे॑भिः सरिष्यथ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/05_duShTyai_hi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/05_duShTyai_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -323,7 +323,7 @@ Ye who move active in your strength like Gods with Asuras' magic powers, Even as
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/05_duShTyai_hi.md">
 <details open><summary><h3>०५ दुष्ट्यै हि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -377,14 +377,14 @@ Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impra
 </div>
 
 ## ०६ एकशतं विष्कन्धानि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 एक॑शतं॒ विष्क॑न्धानि॒ विष्ठि॑ता पृथि॒वीमनु॑।  
 तेषां॒ त्वामग्र॒ उज्ज॑हरुर्म॒णिं वि॑ष्कन्ध॒दूष॑णम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -393,7 +393,7 @@ Yea, I will chide thee to thy shame, I will disgrace the Kabava. Under our impra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/009_duHkhanAshanam/06_ekashataM_viShkandhAni.md">
 <details open><summary><h3>०६ एकशतं विष्कन्धानि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

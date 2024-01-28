@@ -2,7 +2,7 @@
 title = "०२७ अग्निः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/_index.md">
 <details open><summary><h2>०२७ अग्निः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -37,14 +37,14 @@ An Apri or Propitiatory hymn
 </div>
 
 ## ०१ ऊर्ध्वा अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/01_UrdhvA_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/01_UrdhvA_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्ध्वा अ॑स्य स॒मिधो॑ भवन्त्यू॒र्ध्वा शु॒क्रा शो॒चींष्य॒ग्नेः।  
 द्यु॒मत्त॑मा सु॒प्रती॑कः॒ ससू॑नु॒स्तनू॒नपा॒दसु॑रो॒ भूरि॑पाणिः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/01_UrdhvA_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/01_UrdhvA_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -53,7 +53,7 @@ An Apri or Propitiatory hymn
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/01_UrdhvA_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/01_UrdhvA_asya.md">
 <details open><summary><h3>०१ ऊर्ध्वा अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -139,13 +139,13 @@ Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! S
 </div>
 
 ## ०२ देवो देवेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/02_devo_deveShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/02_devo_deveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वो दे॒वेषु॑ दे॒वः प॒थो अ॑नक्ति॒ मध्वा॑ घृ॒तेन॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/02_devo_deveShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/02_devo_deveShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -153,7 +153,7 @@ Uplifted be this sacrificer's fuel: lofty and brilliant be the flames of Agni! S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/02_devo_deveShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/02_devo_deveShu.md">
 <details open><summary><h3>०२ देवो देवेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -194,13 +194,13 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 </div>
 
 ## ०३ मध्वा यज्ञम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/03_madhvA_yajnam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/03_madhvA_yajnam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मध्वा॑ य॒ज्ञं न॑क्षति प्रैणा॒नो नरा॒शंसो॑ अ॒ग्निः सु॒कृद्दे॒वः स॑वि॒ता वि॒श्ववा॑रः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/03_madhvA_yajnam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/03_madhvA_yajnam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -208,7 +208,7 @@ God among Gods, the God bedews the paths with fatness and' with mead.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/03_madhvA_yajnam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/03_madhvA_yajnam.md">
 <details open><summary><h3>०३ मध्वा यज्ञम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -261,13 +261,13 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 </div>
 
 ## ०४ अच्छायमेति शवसा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/04_achChAyameti_shavasA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/04_achChAyameti_shavasA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अच्छा॒यमे॑ति॒ शव॑सा घृ॒ता चि॒दीडा॑नो॒ वह्नि॒र्नम॑सा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/04_achChAyameti_shavasA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/04_achChAyameti_shavasA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -275,7 +275,7 @@ With store of mead to sacrifice comes Agni, comes Narasansa Agni, friendly-minde
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/04_achChAyameti_shavasA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/04_achChAyameti_shavasA.md">
 <details open><summary><h3>०४ अच्छायमेति शवसा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -456,13 +456,13 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 </div>
 
 ## ०५ अग्निः स्रुचो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/05_agniH_srucho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/05_agniH_srucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निः स्रुचो॑ अध्व॒रेषु॑ प्र॒यक्षु॒ स य॑क्षदस्य महि॒मान॑म॒ग्नेः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/05_agniH_srucho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/05_agniH_srucho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -470,7 +470,7 @@ Hither he comes with power and fatness also, the luminous,. implored with adorat
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/05_agniH_srucho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/05_agniH_srucho.md">
 <details open><summary><h3>०५ अग्निः स्रुचो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -511,13 +511,13 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 </div>
 
 ## ०६ तरी मन्द्रासु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/06_tarI_mandrAsu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/06_tarI_mandrAsu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त॒री म॒न्द्रासु॑ प्र॒यक्षु॒ वस॑व॒श्चाति॑ष्ठन्वसु॒धात॑रश्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/06_tarI_mandrAsu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/06_tarI_mandrAsu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -525,7 +525,7 @@ At holy rites and offerings Agni loveth the scoops: let this man worship Agni's 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/06_tarI_mandrAsu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/06_tarI_mandrAsu.md">
 <details open><summary><h3>०६ तरी मन्द्रासु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -566,13 +566,13 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 </div>
 
 ## ०७ द्वारो देवीरन्वस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/07_dvAro_devIranvasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/07_dvAro_devIranvasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्वारो॑ दे॒वीरन्व॑स्य॒ विश्वे॑ व्र॒तं र॑क्षन्ति वि॒श्वहा॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/07_dvAro_devIranvasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/07_dvAro_devIranvasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -580,7 +580,7 @@ He is the furtherer at glad oblations: there stood the Vasus and the treasure-gi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/07_dvAro_devIranvasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/07_dvAro_devIranvasya.md">
 <details open><summary><h3>०७ द्वारो देवीरन्वस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -621,14 +621,14 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 </div>
 
 ## ०८ उरुव्यचसाग्नेर्धाम्ना पत्यमाने
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑रु॒व्यच॑सा॒ग्नेर्धाम्ना॒ पत्य॑माने।  
 आ सु॒ष्वय॑न्ती यज॒ते उ॒पाके॑ उ॒षासा॒नक्तेमं य॒ज्ञम॑वतामध्व॒रं नः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -637,7 +637,7 @@ Ever the Doors divine, and all protect this worshipper's holy work.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/08_uruvyachasAgnerdhAmnA_patyamAne.md">
 <details open><summary><h3>०८ उरुव्यचसाग्नेर्धाम्ना पत्यमाने ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -679,14 +679,14 @@ Far-reaching, ruling by the Law of Agni, May Dawn and Night, the holy, speeding 
 </div>
 
 ## ०९ दैवा होतार
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/09_daivA_hotAra.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/09_daivA_hotAra.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दैवा॒ होता॑र ऊ॒र्ध्वम॑ध्व॒रं नो॒ऽग्नेर्जि॒ह्वया॒भि गृ॑णत गृ॒णता॑ नः॒ स्वि॑ष्टये।  
 ति॒स्रो दे॒वीर्ब॒र्हिरेदं स॑दन्ता॒मिडा॒ सर॑स्वती म॒ही भार॑ती गृणा॒ना ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/09_daivA_hotAra.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/09_daivA_hotAra.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -695,7 +695,7 @@ Far-reaching, ruling by the Law of Agni, May Dawn and Night, the holy, speeding 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/09_daivA_hotAra.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/09_daivA_hotAra.md">
 <details open><summary><h3>०९ दैवा होतार ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -737,14 +737,14 @@ Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, 
 </div>
 
 ## १० तन्नस्तुरीपमद्भुतं पुरुक्षु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तन्न॑स्तु॒रीप॒मद्भु॑तं पुरु॒क्षु।  
 देव॑ त्वष्टा रा॒यस्पो॑षं॒ वि ष्य॒ नाभि॑मस्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -753,7 +753,7 @@ Celestial Hotars, with the tongues of Agni praise and extol our lofty ceremony, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/10_tannasturIpamadbhutaM_puruxu.md">
 <details open><summary><h3>१० तन्नस्तुरीपमद्भुतं पुरुक्षु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -808,14 +808,14 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 </div>
 
 ## ११ वनस्पतेऽव सृजा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/11_vanaspate-va_sRjA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वन॑स्प॒तेऽव॑ सृजा॒ ररा॑णः।  
 त्मना॑ दे॒वेभ्यो॑ अ॒ग्निर्ह॒व्यं श॑मि॒ता स्व॑दयतु ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/11_vanaspate-va_sRjA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -824,7 +824,7 @@ Three Goddesses upon this grass, be seated, Ida, Sarasvati, Mahi, and Bharati ad
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/11_vanaspate-va_sRjA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/11_vanaspate-va_sRjA.md">
 <details open><summary><h3>११ वनस्पतेऽव सृजा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -875,14 +875,14 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 </div>
 
 ## १२ अग्ने स्वाहा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/12_agne_svAhA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/05/027_agniH/12_agne_svAhA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑ग्ने॒ स्वाहा॑ कृणुहि जातवेदः।  
 इन्द्रा॑य य॒ज्ञं विश्वे॑ दे॒वा ह॒विरि॒दं जु॑षन्ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/12_agne_svAhA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/05/027_agniH/12_agne_svAhA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -891,7 +891,7 @@ This our nutritious genial flow, God Tvashtar! and growth of wealth, pour down o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/12_agne_svAhA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/05/027_agniH/12_agne_svAhA.md">
 <details open><summary><h3>१२ अग्ने स्वाहा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२६ पाप-मोचनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/_index.md">
 <details open><summary><h2>०२६ पाप-मोचनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to Heaven and Earth
 </div>
 
 ## ०१ मन्वे वाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/01_manve_vAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/01_manve_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि।  
 प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/01_manve_vAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/01_manve_vAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to Heaven and Earth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/01_manve_vAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/01_manve_vAm.md">
 <details open><summary><h3>०१ मन्वे वाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who throu
 </div>
 
 ## ०२ प्रतिष्ठे ह्यभवतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची।  
 द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ O Heaven and Earth, I think on you, wise, givers of abundant gifts, ye who throu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/02_pratiShThe_hyabhavatam.md">
 <details open><summary><h3>०२ प्रतिष्ठे ह्यभवतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, 
 </div>
 
 ## ०३ असन्तापे सुतपसौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑सन्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्ये॑।  
 द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Yea, seats and homes are ye of goodly treasures, grown strong, divine, blessed, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/03_asantApe_sutapasau.md">
 <details open><summary><h3>०३ असन्तापे सुतपसौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -238,14 +238,14 @@ I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by
 </div>
 
 ## ०४ ये अमृतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/04_ye_amRtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्या॑न्।  
 द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/04_ye_amRtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -254,7 +254,7 @@ I call on you who warm and cause no sorrow, deep, spacious, meet to be adored by
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/04_ye_amRtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/04_ye_amRtam.md">
 <details open><summary><h3>०४ ये अमृतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -300,14 +300,14 @@ Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To
 </div>
 
 ## ०५ ये उस्रिया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/05_ye_usriyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये उ॒स्रिया॑ बिभृ॒थो ये वन॒स्पती॒न्ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः।  
 द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/05_ye_usriyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -316,7 +316,7 @@ Ye who maintain Amrit and sacrifices, ye who support rivers and human beings, To
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/05_ye_usriyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/05_ye_usriyA.md">
 <details open><summary><h3>०५ ये उस्रिया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -364,14 +364,14 @@ Ye by whom cows and forest trees are cherished within whose range all creatures 
 </div>
 
 ## ०६ ये कीलालेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति॑।  
 द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/06_ye_kIlAlena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -380,7 +380,7 @@ Ye by whom cows and forest trees are cherished within whose range all creatures 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/06_ye_kIlAlena.md">
 <details open><summary><h3>०६ ये कीलालेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -428,14 +428,14 @@ Ye who delight in nectar and in fatness, ye without whom men have no strength or
 </div>
 
 ## ०७ यन्मेदमभिशोचति येनयेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यन्मेदम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्।  
 स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -444,7 +444,7 @@ Ye who delight in nectar and in fatness, ye without whom men have no strength or
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/04/026_pApa-mochanam/07_yanmedamabhishochati_yenayena.md">
 <details open><summary><h3>०७ यन्मेदमभिशोचति येनयेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०८१ सूर्याचन्द्रमसौ"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/_index.md">
 <details open><summary><h2>०८१ सूर्याचन्द्रमसौ ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A hymn to the New Moon
 </div>
 
 ## ०१ पूर्वापरं चरतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पू॑र्वाप॒रं च॑रतो मा॒ययै॒तौ शिशू॒ क्रीड॑न्तौ॒ परि॑ यातोऽर्ण॒वम्।  
 विश्वा॒न्यो भुव॑ना वि॒चष्ट॑ ऋ॒तूँर॒न्यो वि॒दध॑ज्जायसे॒ नवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A hymn to the New Moon
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/01_pUrvAparaM_charato.md">
 <details open><summary><h3>०१ पूर्वापरं चरतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -113,14 +113,14 @@ Forward and backward by their wondrous power move these two youths, disporting, 
 </div>
 
 ## ०२ नवोनवो भवसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नवो॑नवो भवसि॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒ष्यग्र॑म्।  
 भा॒गं दे॒वेभ्यो॒ वि द॑धास्या॒यन्प्र च॑न्द्रमस्तिरसे दी॒र्घमायुः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -129,7 +129,7 @@ Forward and backward by their wondrous power move these two youths, disporting, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/02_navonavo_bhavasi.md">
 <details open><summary><h3>०२ नवोनवो भवसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,14 +181,14 @@ Thou art re-born for ever new: thou marchest, ensign of days, in forefront of th
 </div>
 
 ## ०३ सोमस्यांशो युधाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सोम॑स्यांशो युधां प॒तेऽनू॑नो॒ नाम॒ वा अ॑सि।  
 अनू॑नं दर्श मा कृधि प्र॒जया॑ च॒ धने॑न च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -197,7 +197,7 @@ Thou art re-born for ever new: thou marchest, ensign of days, in forefront of th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/03_somasyAMsho_yudhAm.md">
 <details open><summary><h3>०३ सोमस्यांशो युधाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -251,14 +251,14 @@ O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect,
 </div>
 
 ## ०४ दर्शोसि दर्शतोसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द॒र्शो᳡सि॑ दर्श॒तो᳡सि॒ सम॑ग्रोऽसि॒ सम॑न्तः।  
 सम॑ग्रः॒ सम॑न्तो भूयासं॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृ॒हैर्धने॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -267,7 +267,7 @@ O spray of Soma, Lord of Wars! all-perfect verily art thou. Make me all-perfect,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/04_darshosi_darshatosi.md">
 <details open><summary><h3>०४ दर्शोसि दर्शतोसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -315,14 +315,14 @@ Thou art the New Moon, fair to see, thou art complete in every part. May I be pe
 </div>
 
 ## ०५ यो३ऽस्मान्द्वेष्टि यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो॑३ऽस्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तस्य॒ त्वं प्रा॒णेना प्या॑यस्व।  
 आ व॒यं प्या॑सिषीमहि॒ गोभि॒रश्वैः॑ प्र॒जया॑ प॒शुभि॑र्गृ॒हैर्धने॑न ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -331,7 +331,7 @@ Thou art the New Moon, fair to see, thou art complete in every part. May I be pe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/05_yo3-smAndveShTi_yam.md">
 <details open><summary><h3>०५ यो३ऽस्मान्द्वेष्टि यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -385,14 +385,14 @@ Inflate thee with his vital breath who hathes us and whom we detest. May we grow
 </div>
 
 ## ०६ यं देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/06_yaM_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/081_sUryAchandramasau/06_yaM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यं दे॒वा अं॒शुमा॑प्या॒यय॑न्ति॒ यमक्षि॑त॒मक्षि॑ता भ॒क्षय॑न्ति।  
 तेना॒स्मानिन्द्रो॒ वरु॑णो॒ बृह॒स्पति॒रा प्या॑ययन्तु॒ भुव॑नस्य गो॒पाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/06_yaM_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/081_sUryAchandramasau/06_yaM_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -401,7 +401,7 @@ Inflate thee with his vital breath who hathes us and whom we detest. May we grow
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/06_yaM_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/081_sUryAchandramasau/06_yaM_devA.md">
 <details open><summary><h3>०६ यं देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०२८ दर्भमणिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/_index.md">
 <details open><summary><h2>०२८ दर्भमणिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -37,14 +37,14 @@ A charm for the destruction of enemies
 </div>
 
 ## ०१ इमं बध्नामि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒मं ब॑ध्नामि ते म॒णिं दी॑र्घायु॒त्वाय॒ तेज॑से।  
 द॒र्भं स॑पत्न॒दम्भ॑नं द्विष॒तस्तप॑नं हृ॒दः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -53,7 +53,7 @@ A charm for the destruction of enemies
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/01_imaM_badhnAmi.md">
 <details open><summary><h3>०१ इमं बध्नामि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -101,14 +101,14 @@ On thee I bind this Amulet for lengthened life and brilliancy. The rival-quellin
 </div>
 
 ## ०२ द्विषतस्तापयन्हृदः शत्रूणाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 द्वि॑ष॒तस्ता॒पय॑न्हृ॒दः शत्रू॑णां ता॒पय॒न्मनः॑।  
 दु॒र्हार्दः॒ सर्वां॒स्त्वं द॑र्भ घ॒र्म इ॑वा॒भीन्त्सं॑ता॒पय॑न् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ On thee I bind this Amulet for lengthened life and brilliancy. The rival-quellin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/02_dviShatastApayanhRdaH_shatrUNAm.md">
 <details open><summary><h3>०२ द्विषतस्तापयन्हृदः शत्रूणाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -184,14 +184,14 @@ Burning the spirit of the foe, vexing the heart of enemies. Darbha, on every sid
 </div>
 
 ## ०३ घर्म इवाभितपन्दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 घ॒र्म इ॑वाभि॒तप॑न्दर्भ द्विष॒तो नि॒तप॑न्मणे।  
 हृ॒दः स॒पत्ना॑नां भि॒न्द्धीन्द्र॑ इव विरु॒जन् ब॒लम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -200,7 +200,7 @@ Burning the spirit of the foe, vexing the heart of enemies. Darbha, on every sid
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/03_gharma_ivAbhitapandarbha.md">
 <details open><summary><h3>०३ घर्म इवाभितपन्दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -261,14 +261,14 @@ O Darbha, burning round like heat, consuming foes, O Amulet,. Like Indra rending
 </div>
 
 ## ०४ भिन्द्धि दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भि॒न्द्धि द॑र्भ स॒पत्ना॑नां॒ हृद॑यं द्विष॒तां म॑णे।  
 उ॒द्यन्त्वच॑मिव॒ भूम्याः॒ शिर॑ ए॒षां वि पा॑तय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -277,7 +277,7 @@ O Darbha, burning round like heat, consuming foes, O Amulet,. Like Indra rending
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/04_bhinddhi_darbha.md">
 <details open><summary><h3>०४ भिन्द्धि दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -328,14 +328,14 @@ Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou 
 </div>
 
 ## ०५ भिन्द्धि दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे भि॒न्द्धि मे॑ पृतनाय॒तः।  
 भि॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ भि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -344,7 +344,7 @@ Cleave through. O Darbha, Amulet, my foes', mine adversaries'. heart. Rise thou 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/05_bhinddhi_darbha.md">
 <details open><summary><h3>०५ भिन्द्धि दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -392,14 +392,14 @@ Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cle
 </div>
 
 ## ०६ छिन्द्धि दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 छि॒न्द्धि द॑र्भ स॒पत्ना॑न्मे छि॒न्द्धि मे॑ पृतनाय॒तः।  
 छि॒न्द्धि मे॒ सर्वा॑न्दु॒र्हार्दो॑ छि॒न्द्धि मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -408,7 +408,7 @@ Cleave thou my rivals, Darbha, cleave the men who fain would, fight with me. Cle
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/06_Chinddhi_darbha.md">
 <details open><summary><h3>०६ छिन्द्धि दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -452,14 +452,14 @@ Wound thou, my rivals, Darbha, etc. (as in 5, substituting. 'wound' for cleave.)
 </div>
 
 ## ०७ वृश्च दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृ॒श्च द॑र्भ स॒पत्ना॑न्मे वृ॒श्च मे॑ पृतनाय॒तः।  
 वृ॒श्च मे॒ सर्वा॑न्दु॒र्हार्दो॑ वृ॒श्च मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/07_vRshcha_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/07_vRshcha_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -468,7 +468,7 @@ Wound thou, my rivals, Darbha, etc. (as in 5, substituting. 'wound' for cleave.)
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/07_vRshcha_darbha.md">
 <details open><summary><h3>०७ वृश्च दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -512,14 +512,14 @@ Tear thou my rivals, Darbha, etc.
 </div>
 
 ## ०८ कृन्त दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/08_kRnta_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/08_kRnta_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कृ॒न्त द॑र्भ स॒पत्ना॑न्मे कृ॒न्त मे॑ पृतनाय॒तः।  
 कृ॒न्त मे॒ सर्वा॑न्दु॒र्हार्दो॑ कृ॒न्त मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/08_kRnta_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/08_kRnta_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -528,7 +528,7 @@ Tear thou my rivals, Darbha, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/08_kRnta_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/08_kRnta_darbha.md">
 <details open><summary><h3>०८ कृन्त दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -575,14 +575,14 @@ How thou my rivals, Darbha, etc.
 </div>
 
 ## ०९ पिंश दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/09_piMsha_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/09_piMsha_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पिं॒श द॑र्भ स॒पत्ना॑न्मे पिं॒श मे॑ पृतनाय॒तः।  
 पिं॒श मे॒ सर्वा॑न्दु॒र्हार्दो॑ पिं॒श मे॑ द्विष॒तो म॑णे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/09_piMsha_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/09_piMsha_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -591,7 +591,7 @@ How thou my rivals, Darbha, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/09_piMsha_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/09_piMsha_darbha.md">
 <details open><summary><h3>०९ पिंश दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -639,14 +639,14 @@ Carve thou my rivals, Darbha, etc.
 </div>
 
 ## १० विध्य दर्भ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/10_vidhya_darbha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/028_darbhamaNiH/10_vidhya_darbha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 विध्य॑ दर्भ स॒पत्ना॑न्मे॒ विध्य॑ मे पृतनाय॒तः।  
 विध्य॑ मे॒ सर्वा॑न्दु॒र्हार्दो॒ विध्य॑ मे द्विष॒तो म॑णे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/10_vidhya_darbha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/028_darbhamaNiH/10_vidhya_darbha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -655,7 +655,7 @@ Carve thou my rivals, Darbha, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/10_vidhya_darbha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/028_darbhamaNiH/10_vidhya_darbha.md">
 <details open><summary><h3>१० विध्य दर्भ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

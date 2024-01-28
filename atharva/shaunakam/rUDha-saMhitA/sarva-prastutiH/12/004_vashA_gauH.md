@@ -2,7 +2,7 @@
 title = "००४ वशा गौः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/_index.md">
 <details open><summary><h2>००४ वशा गौः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ On the duty of giving cows to Brahmans, and the sin and danger of withholding th
 </div>
 
 ## ०१ ददामीत्येव ब्रूयादनु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ददा॒मीत्ये॒व ब्रू॑या॒दनु॑ चैना॒मभु॑त्सत।  
 व॒शां ब्र॒ह्मभ्यो॒ याच॑द्भ्य॒स्तत्प्र॒जाव॒दप॑त्यवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ On the duty of giving cows to Brahmans, and the sin and danger of withholding th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/01_dadAmItyeva_brUyAdanu.md">
 <details open><summary><h3>०१ ददामीत्येव ब्रूयादनु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Give the gift, shall be his word: and straightway they have bound the Cow For Br
 </div>
 
 ## ०२ प्रजया स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/02_prajayA_sa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/02_prajayA_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जया॒ स वि क्री॑णीते प॒शुभि॒श्चोप॑ दस्यति।  
 य आ॑र्षे॒येभ्यो॒ याच॑द्भ्यो दे॒वानां॒ गां न दित्स॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/02_prajayA_sa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/02_prajayA_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Give the gift, shall be his word: and straightway they have bound the Cow For Br
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/02_prajayA_sa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/02_prajayA_sa.md">
 <details open><summary><h3>०२ प्रजया स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -163,14 +163,14 @@ He trades and traffics with his sons, and in his cattle suffers loss. Who will n
 </div>
 
 ## ०३ कूटयास्य सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/03_kUTayAsya_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/03_kUTayAsya_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कू॒टया॑स्य॒ सं शी॑र्यन्ते श्लो॒णया॑ का॒टम॑र्दति।  
 ब॒ण्डया॑ दह्यन्ते गृ॒हाः का॒णया॑ दीयते॒ स्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/03_kUTayAsya_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/03_kUTayAsya_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -179,7 +179,7 @@ He trades and traffics with his sons, and in his cattle suffers loss. Who will n
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/03_kUTayAsya_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/03_kUTayAsya_sam.md">
 <details open><summary><h3>०३ कूटयास्य सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ They perish through a hornless cow, a lame cow sinks them in a pit. Through a ma
 </div>
 
 ## ०४ विलोहितो अधिष्ठानाच्छक्नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑लोहि॒तो अ॑धि॒ष्ठाना॑च्छ॒क्नो वि॑न्दति॒ गोप॑तिम्।  
 तथा॑ व॒शायाः॒ संवि॑द्यं दुरद॒भ्ना ह्यु१॒॑च्यसे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ They perish through a hornless cow, a lame cow sinks them in a pit. Through a ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/04_vilohito_adhiShThAnAchChakno.md">
 <details open><summary><h3>०४ विलोहितो अधिष्ठानाच्छक्नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -312,14 +312,14 @@ Fierce fever where her droppings fall attacks the master of the kine. So have th
 </div>
 
 ## ०५ पदोरस्या अधिष्ठानाद्विक्लिन्दुर्नाम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प॒दोर॑स्या अधि॒ष्ठाना॑द्वि॒क्लिन्दु॒र्नाम॑ विन्दति।  
 अ॑नाम॒नात्सं शी॑र्यन्ते॒ या मुखे॑नोप॒जिघ्र॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -328,7 +328,7 @@ Fierce fever where her droppings fall attacks the master of the kine. So have th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/05_padorasyA_adhiShThAnAdviklindurnAma.md">
 <details open><summary><h3>०५ पदोरस्या अधिष्ठानाद्विक्लिन्दुर्नाम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -382,14 +382,14 @@ The malady Viklindu springs on him from ground whereon she stands, And suddenly,
 </div>
 
 ## ०६ यो अस्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/06_yo_asyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/06_yo_asyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑स्याः॒ कर्णा॑वास्कु॒नोत्या स दे॒वेषु॑ वृश्चते।  
 लक्ष्म॑ कुर्व॒ इति॒ मन्य॑ते॒ कनी॑यः कृणुते॒ स्वम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/06_yo_asyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/06_yo_asyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -398,7 +398,7 @@ The malady Viklindu springs on him from ground whereon she stands, And suddenly,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/06_yo_asyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/06_yo_asyAH.md">
 <details open><summary><h3>०६ यो अस्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -452,14 +452,14 @@ Whoever twitches up her ears is separated from the Gods. He deems he makes a mar
 </div>
 
 ## ०७ यदस्याः कस्मै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑स्याः॒ कस्मै॑ चि॒द्भोगा॑य॒ बाला॒न्कश्चि॑त्प्रकृ॒न्तति॑।  
 ततः॑ किशो॒रा म्रि॑यन्ते व॒त्सांश्च॒ घातु॑को॒ वृकः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -468,7 +468,7 @@ Whoever twitches up her ears is separated from the Gods. He deems he makes a mar
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/07_yadasyAH_kasmai.md">
 <details open><summary><h3>०७ यदस्याः कस्मै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -515,14 +515,14 @@ If to his own advantage one applies the long hair of her tail, His colts, in con
 </div>
 
 ## ०८ यदस्या गोपतौ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/08_yadasyA_gopatau.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/08_yadasyA_gopatau.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑स्या॒ गोप॑तौ स॒त्या लोम॒ ध्वाङ्क्षो॒ अजी॑हिडत्।  
 ततः॑ कुमा॒रा म्रि॑यन्ते॒ यक्ष्मो॑ विन्दत्यनाम॒नात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/08_yadasyA_gopatau.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/08_yadasyA_gopatau.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -531,7 +531,7 @@ If to his own advantage one applies the long hair of her tail, His colts, in con
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/08_yadasyA_gopatau.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/08_yadasyA_gopatau.md">
 <details open><summary><h3>०८ यदस्या गोपतौ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -580,14 +580,14 @@ If, while her master owneth her, a carrion crow hath harmed her hair, His young 
 </div>
 
 ## ०९ यदस्याः पल्पूलनम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑स्याः॒ पल्पू॑लनं॒ शकृ॑द्दा॒सी स॒मस्य॑ति।  
 ततोऽप॑रूपं जायते॒ तस्मा॒दव्ये॑ष्य॒देन॑सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -596,7 +596,7 @@ If, while her master owneth her, a carrion crow hath harmed her hair, His young 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/09_yadasyAH_palpUlanam.md">
 <details open><summary><h3>०९ यदस्याः पल्पूलनम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -647,14 +647,14 @@ What time the Dasi woman throws lye on the droppings of the Cow, Misshapen birth
 </div>
 
 ## १० जायमानाभि जायते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जाय॑माना॒भि जा॑यते दे॒वान्त्सब्रा॑ह्मणान्व॒शा।  
 तस्मा॑द्ब्र॒ह्मभ्यो॒ देयै॒षा तदा॑हुः॒ स्वस्य॒ गोप॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -663,7 +663,7 @@ What time the Dasi woman throws lye on the droppings of the Cow, Misshapen birth
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/10_jAyamAnAbhi_jAyate.md">
 <details open><summary><h3>१० जायमानाभि जायते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -714,14 +714,14 @@ For Gods and Brahmans is the Cow produced when first she springs to life, Hence 
 </div>
 
 ## ११ य एनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/11_ya_enAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/11_ya_enAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ए॑नां व॒निमा॒यन्ति॒ तेषां॑ दे॒वकृ॑ता व॒शा।  
 ब्र॑ह्म॒ज्येयं॒ तद॑ब्रुव॒न्य ए॑नां निप्रिया॒यते॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/11_ya_enAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/11_ya_enAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -730,7 +730,7 @@ For Gods and Brahmans is the Cow produced when first she springs to life, Hence 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/11_ya_enAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/11_ya_enAm.md">
 <details open><summary><h3>११ य एनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -781,14 +781,14 @@ The God-created Cow belongs to those who come to ask for her. They call it outra
 </div>
 
 ## १२ य आर्षेयेभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य आ॑र्षे॒येभ्यो॒ याच॑द्भ्यो दे॒वानां॒ गां न दित्स॑ति।  
 आ स दे॒वेषु॑ वृश्चते ब्राह्म॒णानां॑ च म॒न्यवे॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -797,7 +797,7 @@ The God-created Cow belongs to those who come to ask for her. They call it outra
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/12_ya_ArSheyebhyo.md">
 <details open><summary><h3>१२ य आर्षेयेभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -845,14 +845,14 @@ He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an a
 </div>
 
 ## १३ यो अस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/13_yo_asya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/13_yo_asya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑स्य॒ स्याद्व॑शाभो॒गो अ॒न्यामि॑च्छेत॒ तर्हि॒ सः।  
 हिंस्ते॒ अद॑त्ता॒ पुरु॑षं याचि॒तां च॒ न दित्स॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/13_yo_asya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/13_yo_asya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -861,7 +861,7 @@ He who withholds the Cow of Gods from Rishis' sons who ask the gift Is made an a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/13_yo_asya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/13_yo_asya.md">
 <details open><summary><h3>१३ यो अस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -915,14 +915,14 @@ Then let him seek another Cow, whate'er his profit be in this. The Cow, not give
 </div>
 
 ## १४ यथा शेवधिर्निहितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथा॑ शेव॒धिर्निहि॑तो ब्राह्म॒णानां॒ तथा॑ व॒शा।  
 तामे॒तद॒च्छाय॑न्ति॒ यस्मि॒न्कस्मिं॑श्च॒ जाय॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -931,7 +931,7 @@ Then let him seek another Cow, whate'er his profit be in this. The Cow, not give
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/14_yathA_shevadhirnihito.md">
 <details open><summary><h3>१४ यथा शेवधिर्निहितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -977,14 +977,14 @@ Like a rich treasure stored away in safety is the Brahmans' Cow. Therefore men c
 </div>
 
 ## १५ स्वमेतदच्छायन्ति यद्वशाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वमे॒तद॑च्छायन्ति॒ यद्व॒शां ब्रा॑ह्म॒णा अ॒भि।  
 यथै॑नान॒न्यस्मि॑ञ्जिनी॒यादे॒वास्या॑ नि॒रोध॑नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -993,7 +993,7 @@ Like a rich treasure stored away in safety is the Brahmans' Cow. Therefore men c
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/15_svametadachChAyanti_yadvashAm.md">
 <details open><summary><h3>१५ स्वमेतदच्छायन्ति यद्वशाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1045,14 +1045,14 @@ So when the Brahmans come unto the Cow they come unto their own. For this is her
 </div>
 
 ## १६ चरेदेवा त्रैहायणादविज्ञातगदा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 चरे॑दे॒वा त्रै॑हाय॒णादवि॑ज्ञातगदा स॒ती।  
 व॒शां च॑ वि॒द्यान्ना॑रद ब्राह्म॒णास्तर्ह्ये॒ष्याः᳡ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1061,7 +1061,7 @@ So when the Brahmans come unto the Cow they come unto their own. For this is her
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/16_charedevA_traihAyaNAdavijnAtagadA.md">
 <details open><summary><h3>१६ चरेदेवा त्रैहायणादविज्ञातगदा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1111,14 +1111,14 @@ Thus after three years may she go, speaking what is not under- stood. He, Narads
 </div>
 
 ## १७ य एनामवशामाह
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ए॑ना॒मव॑शा॒माह॑ दे॒वानां॒ निहि॑तं नि॒धिम्।  
 उ॒भौ तस्मै॑ भवाश॒र्वौ प॑रि॒क्रम्येषु॑मस्यतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1127,7 +1127,7 @@ Thus after three years may she go, speaking what is not under- stood. He, Narads
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/17_ya_enAmavashAmAha.md">
 <details open><summary><h3>१७ य एनामवशामाह ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1172,14 +1172,14 @@ Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and S
 </div>
 
 ## १८ यो अस्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/18_yo_asyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/18_yo_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑स्या॒ ऊधो॒ न वे॒दाथो॑ अस्या॒ स्तना॑नु॒त।  
 उ॒भये॑नै॒वास्मै॑ दुहे॒ दातुं॒ चेदश॑कद्व॒शाम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/18_yo_asyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/18_yo_asyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1188,7 +1188,7 @@ Whoso calls her a worthless Cow, the stored-up treasure of the Gods, Bhava and S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/18_yo_asyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/18_yo_asyA.md">
 <details open><summary><h3>१८ यो अस्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1237,14 +1237,14 @@ The man who hath no knowledge of her udder and the teats thereof, She yields him
 </div>
 
 ## १९ दुरदभ्नैनमा शये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दु॑रद॒भ्नैन॒मा श॑ये याचि॒तां च॒ न दित्स॑ति।  
 नास्मै॒ कामाः॒ समृ॑ध्यन्ते॒ यामद॑त्त्वा॒ चिकी॑र्षति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1253,7 +1253,7 @@ The man who hath no knowledge of her udder and the teats thereof, She yields him
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/19_duradabhnainamA_shaye.md">
 <details open><summary><h3>१९ दुरदभ्नैनमा शये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1306,14 +1306,14 @@ If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the
 </div>
 
 ## २० देवा वशामयाचन्मुखम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा व॒शाम॑याच॒न्मुखं॑ कृ॒त्वा ब्राह्म॑णम्।  
 तेषां॒ सर्वे॑षा॒मद॑द॒द्धेडं॒ न्ये᳡ति॒ मानु॑षः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1322,7 +1322,7 @@ If he withholds the Cow they beg, she lies rebellious in his stall. Vain are the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/20_devA_vashAmayAchanmukham.md">
 <details open><summary><h3>२० देवा वशामयाचन्मुखम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1370,14 +1370,14 @@ The Deities have begged the Cow, using the Brahman as their mouth: The man who g
 </div>
 
 ## २१ हेडं पशूनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हेडं॑ पशू॒नां न्ये᳡ति ब्राह्म॒णेभ्योऽद॑दद्व॒शाम्।  
 दे॒वानां॒ निहि॑तं भा॒गं मर्त्य॒श्चेन्नि॑प्रिया॒यते॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1386,7 +1386,7 @@ The Deities have begged the Cow, using the Brahman as their mouth: The man who g
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/21_heDaM_pashUnAm.md">
 <details open><summary><h3>२१ हेडं पशूनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1435,14 +1435,14 @@ Withholding her from Brahmans, he incurs the anger of the beasts, When mortal ma
 </div>
 
 ## २२ यदन्ये शतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/22_yadanye_shatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/22_yadanye_shatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॒न्ये श॒तं याचे॑युर्ब्राह्म॒णा गोप॑तिं व॒शाम्।  
 अथै॑नां दे॒वा अ॑ब्रुवन्ने॒वं ह॑ वि॒दुषो॑ व॒शा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/22_yadanye_shatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/22_yadanye_shatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1451,7 +1451,7 @@ Withholding her from Brahmans, he incurs the anger of the beasts, When mortal ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/22_yadanye_shatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/22_yadanye_shatam.md">
 <details open><summary><h3>२२ यदन्ये शतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1498,14 +1498,14 @@ If hundred other Brahmans beg the Cow of him who owneth her, The Gods have said,
 </div>
 
 ## २३ य एवम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/23_ya_evam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/23_ya_evam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 य ए॒वं वि॒दुषे॑ऽद॒त्त्वाथा॒न्येभ्यो॒ दद॑द्व॒शाम्।  
 दु॒र्गा तस्मा॑ अधि॒ष्ठाने॑ पृथि॒वी स॒हदे॑वता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/23_ya_evam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/23_ya_evam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1514,7 +1514,7 @@ If hundred other Brahmans beg the Cow of him who owneth her, The Gods have said,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/23_ya_evam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/23_ya_evam.md">
 <details open><summary><h3>२३ य एवम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1566,14 +1566,14 @@ Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with 
 </div>
 
 ## २४ देवा वशामयाचन्यस्मिन्नग्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा व॒शाम॑याच॒न्यस्मि॒न्नग्रे॒ अजा॑यत।  
 तामे॒तां वि॑द्या॒न्नार॑दः स॒ह दे॒वैरुदा॑जत ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1582,7 +1582,7 @@ Whoso to others, not to him who hath this knowledge, gives the Cow, Earth, with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/24_devA_vashAmayAchanyasminnagre.md">
 <details open><summary><h3>२४ देवा वशामयाचन्यस्मिन्नग्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1634,14 +1634,14 @@ The Deities begged the Cow from him with whom at first she was produced: Her, th
 </div>
 
 ## २५ अनपत्यमल्पपशुं वशा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑नप॒त्यमल्प॑पशुं व॒शा कृ॑णोति॒ पूरु॑षम्।  
 ब्रा॑ह्म॒णैश्च॑ याचि॒तामथै॑नां निप्रिया॒यते॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1650,7 +1650,7 @@ The Deities begged the Cow from him with whom at first she was produced: Her, th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/25_anapatyamalpapashuM_vashA.md">
 <details open><summary><h3>२५ अनपत्यमल्पपशुं वशा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1699,14 +1699,14 @@ The Cow deprives of progeny and makes him poor in cattle who Retains in his poss
 </div>
 
 ## २६ अग्नीषोमाभ्यां कामाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्नीषो॑माभ्यां॒ कामा॑य मि॒त्राय॒ वरु॑णाय च।  
 तेभ्यो॑ याचन्ति ब्राह्म॒णास्तेष्वा वृ॑श्च॒तेऽद॑दत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1715,7 +1715,7 @@ The Cow deprives of progeny and makes him poor in cattle who Retains in his poss
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/26_agnIShomAbhyAM_kAmAya.md">
 <details open><summary><h3>२६ अग्नीषोमाभ्यां कामाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1760,14 +1760,14 @@ For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: f
 </div>
 
 ## २७ यावदस्या गोपतिर्नोपशृणुयादृचः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 याव॑दस्या॒ गोप॑ति॒र्नोप॑शृणु॒यादृचः॑ स्व॒यम्।  
 चरे॑दस्य॒ ताव॒द्गोषु॒ नास्य॑ श्रु॒त्वा गृ॒हे व॑सेत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1776,7 +1776,7 @@ For Agni and for Soma, for Kama, Mitra and Varuna, For these the Brahmans ask: f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/27_yAvadasyA_gopatirnopashRNuyAdRchaH.md">
 <details open><summary><h3>२७ यावदस्या गोपतिर्नोपशृणुयादृचः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1829,14 +1829,14 @@ Long as her owner hath not heard, himself, the verses, let her move Among his ki
 </div>
 
 ## २८ यो अस्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/28_yo_asyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/28_yo_asyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑स्या॒ ऋच॑ उप॒श्रुत्याथ॒ गोष्वची॑चरत्।  
 आयु॑श्च॒ तस्य॒ भूतिं॑ च दे॒वा वृ॑श्चन्ति हीडि॒ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/28_yo_asyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/28_yo_asyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1845,7 +1845,7 @@ Long as her owner hath not heard, himself, the verses, let her move Among his ki
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/28_yo_asyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/28_yo_asyA.md">
 <details open><summary><h3>२८ यो अस्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1894,14 +1894,14 @@ He who hath heard her verses and still makes her roam among his kine. The Gods i
 </div>
 
 ## २९ वशा चरन्ती
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/29_vashA_charantI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/29_vashA_charantI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व॒शा चर॑न्ती बहु॒धा दे॒वानां॒ निहि॑तो नि॒धिः।  
 आ॒विष्कृ॑णुष्व रू॒पाणि॑ य॒दा स्थाम॒ जिघां॑सति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/29_vashA_charantI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/29_vashA_charantI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1910,7 +1910,7 @@ He who hath heard her verses and still makes her roam among his kine. The Gods i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/29_vashA_charantI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/29_vashA_charantI.md">
 <details open><summary><h3>२९ वशा चरन्ती ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1965,14 +1965,14 @@ Roaming in many a place the Cow is the stored treasure of the Gods, Make manifes
 </div>
 
 ## ३० आविरात्मानं कृणुते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒विरा॒त्मानं॑ कृणुते य॒दा स्थाम॒ जिघां॑सति।  
 अथो॑ ह ब्र॒ह्मभ्यो॑ व॒शा या॒च्ञाय॑ कृणुते॒ मनः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1981,7 +1981,7 @@ Roaming in many a place the Cow is the stored treasure of the Gods, Make manifes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/30_AvirAtmAnaM_kRNute.md">
 <details open><summary><h3>३० आविरात्मानं कृणुते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2032,14 +2032,14 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 </div>
 
 ## ३१ मनसा सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/31_manasA_sam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/31_manasA_sam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मन॑सा॒ सं क॑ल्पयति॒ तद्दे॒वाँ अपि॑ गच्छति।  
 ततो॑ ह ब्र॒ह्माणो॑ व॒शामु॑प॒प्रय॑न्ति॒ याचि॑तुम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/31_manasA_sam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/31_manasA_sam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2048,7 +2048,7 @@ Her shape and form she manifests when she would seek her dwelling-place; Then ve
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/31_manasA_sam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/31_manasA_sam.md">
 <details open><summary><h3>३१ मनसा सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2093,14 +2093,14 @@ This thought he settles in his mind. This safely goeth to the Gods. Then verily 
 </div>
 
 ## ३२ स्वधाकारेण पितृभ्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्व॑धाका॒रेण॑ पि॒तृभ्यो॑ य॒ज्ञेन॑ दे॒वता॑भ्यः।  
 दाने॑न राज॒न्यो᳡ व॒शाया॑ मा॒तुर्हेडं॒ न ग॑च्छति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2109,7 +2109,7 @@ This thought he settles in his mind. This safely goeth to the Gods. Then verily 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/32_svadhAkAreNa_pitRbhyo.md">
 <details open><summary><h3>३२ स्वधाकारेण पितृभ्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2157,14 +2157,14 @@ By Svadha to the Fathers, by sacrifice to the Deities, By giving them the Cow, t
 </div>
 
 ## ३३ वशा माता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/33_vashA_mAtA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/33_vashA_mAtA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व॒शा मा॒ता रा॑ज॒न्य᳡स्य॒ तथा॒ संभू॑तमग्र॒शः।  
 तस्या॑ आहु॒रन॑र्पणं॒ यद्ब्र॒ह्मभ्यः॑ प्रदी॒यते॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/33_vashA_mAtA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/33_vashA_mAtA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2173,7 +2173,7 @@ By Svadha to the Fathers, by sacrifice to the Deities, By giving them the Cow, t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/33_vashA_mAtA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/33_vashA_mAtA.md">
 <details open><summary><h3>३३ वशा माता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2221,14 +2221,14 @@ The Prince's mother is the Cow: so was it ordered from of old. She, when bestowe
 </div>
 
 ## ३४ यथाज्यं प्रगृहीतमालुम्पेत्स्रुचो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यथाज्यं॒ प्रगृ॑हीतमालु॒म्पेत्स्रु॒चो अ॒ग्नये॑।  
 ए॒वा ह॑ ब्र॒ह्मभ्यो॑ व॒शाम॒ग्नय॒ आ वृ॑श्च॒तेऽद॑दत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2237,7 +2237,7 @@ The Prince's mother is the Cow: so was it ordered from of old. She, when bestowe
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/34_yathAjyaM_pragRhItamAlumpetsrucho.md">
 <details open><summary><h3>३४ यथाज्यं प्रगृहीतमालुम्पेत्स्रुचो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2290,14 +2290,14 @@ As molten butter, held at length, drops down to Agni from the scoop, So falls aw
 </div>
 
 ## ३५ पुरोडाशवत्सा सुदुघा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पु॑रो॒डाश॑वत्सा सु॒दुघा॑ लो॒केऽस्मा॒ उप॑ तिष्ठति।  
 सास्मै॒ सर्वा॒न्कामा॑न्व॒शा प्र॑द॒दुषे॑ दुहे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2306,7 +2306,7 @@ As molten butter, held at length, drops down to Agni from the scoop, So falls aw
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/35_puroDAshavatsA_sudughA.md">
 <details open><summary><h3>३५ पुरोडाशवत्सा सुदुघा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2356,14 +2356,14 @@ Good milker, with rice-cake as calf, she in the world comes nigh to him, To him 
 </div>
 
 ## ३६ सर्वान्कामान्यमराज्ये वशा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वा॒न्कामा॑न्यम॒राज्ये॑ व॒शा प्र॑द॒दुषे॑ दुहे।  
 अथा॑हु॒र्नार॑कं लो॒कं नि॑रुन्धा॒नस्य॑ याचि॒ताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2372,7 +2372,7 @@ Good milker, with rice-cake as calf, she in the world comes nigh to him, To him 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/36_sarvAnkAmAnyamarAjye_vashA.md">
 <details open><summary><h3>३६ सर्वान्कामान्यमराज्ये वशा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2420,14 +2420,14 @@ In Yama's realm the Cow fulfils each wish for him who gave her up; But hell, the
 </div>
 
 ## ३७ प्रवीयमाना चरति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॑वी॒यमा॑ना चरति क्रु॒द्धा गोप॑तये व॒शा।  
 वे॒हतं॑ मा॒ मन्य॑मानो मृ॒त्योः पाशे॑षु बध्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2436,7 +2436,7 @@ In Yama's realm the Cow fulfils each wish for him who gave her up; But hell, the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/37_pravIyamAnA_charati.md">
 <details open><summary><h3>३७ प्रवीयमाना चरति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2481,14 +2481,14 @@ Enraged against her owner roams the Cow when she hath been impregned. He deemed 
 </div>
 
 ## ३८ यो वेहतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/38_yo_vehatam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/38_yo_vehatam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो वे॒हतं॒ मन्य॑मानो॒ऽमा च॒ पच॑ते व॒शाम्।  
 अप्य॑स्य पु॒त्रान्पौत्रां॑श्च या॒चय॑ते॒ बृह॒स्पतिः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/38_yo_vehatam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/38_yo_vehatam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2497,7 +2497,7 @@ Enraged against her owner roams the Cow when she hath been impregned. He deemed 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/38_yo_vehatam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/38_yo_vehatam.md">
 <details open><summary><h3>३८ यो वेहतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2546,14 +2546,14 @@ Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati com
 </div>
 
 ## ३९ महदेषाव तपति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 म॒हदे॒षाव॑ तपति॒ चर॑न्ती॒ गोषु॒ गौरपि॑।  
 अथो॑ ह॒ गोप॑तये व॒शाद॑दुषे वि॒षं दु॑हे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2562,7 +2562,7 @@ Whoever looking on the Cow as fruitless, cooks her flesh at home, Brihaspati com
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/39_mahadeShAva_tapati.md">
 <details open><summary><h3>३९ महदेषाव तपति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2613,14 +2613,14 @@ Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she y
 </div>
 
 ## ४० प्रियं पशूनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रि॒यं प॑शू॒नां भ॑वति॒ यद्ब्र॒ह्मभ्यः॑ प्रदी॒यते॑।  
 अथो॑ व॒शाया॒स्तत्प्रि॒यं यद्दे॑व॒त्रा ह॒विः स्यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2629,7 +2629,7 @@ Downward she sends a mighty heat, though amid kine a Cow she roams. Poison she y
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/40_priyaM_pashUnAm.md">
 <details open><summary><h3>४० प्रियं पशूनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2676,14 +2676,14 @@ The animal is happy when it is bestowed upon the priests: But happy is the Cow w
 </div>
 
 ## ४१ या वशा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/41_yA_vashA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/41_yA_vashA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या व॒शा उ॒दक॑ल्पयन्दे॒वा य॒ज्ञादु॒देत्य॑।  
 तासां॑ विलि॒प्त्यं भी॒मामु॒दाकु॑रुत नार॒दः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/41_yA_vashA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/41_yA_vashA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2692,7 +2692,7 @@ The animal is happy when it is bestowed upon the priests: But happy is the Cow w
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/41_yA_vashA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/41_yA_vashA.md">
 <details open><summary><h3>४१ या वशा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2744,14 +2744,14 @@ Narada chose the terrible Vilipti out of all the cows Which the Gods formed and 
 </div>
 
 ## ४२ तां देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/42_tAM_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/42_tAM_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तां दे॒वा अ॑मीमांसन्त व॒शेया३मव॒शेति॑।  
 ताम॑ब्रवीन्नार॒द ए॒षा व॒शानां॑ व॒शत॒मेति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/42_tAM_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/42_tAM_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2760,7 +2760,7 @@ Narada chose the terrible Vilipti out of all the cows Which the Gods formed and 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/42_tAM_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/42_tAM_devA.md">
 <details open><summary><h3>४२ तां देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2815,14 +2815,14 @@ The Gods considered her in doubt whether she were a Cow or not. Mirada spake of 
 </div>
 
 ## ४३ कति नु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/43_kati_nu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/43_kati_nu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 कति॒ नु व॒शा ना॑रद॒ यास्त्वं वे॑त्थ मनुष्य॒जाः।  
 तास्त्वा॑ पृच्छामि वि॒द्वांसं॒ कस्या॒ नाश्नी॑या॒दब्रा॑ह्मणः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/43_kati_nu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/43_kati_nu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2831,7 +2831,7 @@ The Gods considered her in doubt whether she were a Cow or not. Mirada spake of 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/43_kati_nu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/43_kati_nu.md">
 <details open><summary><h3>४३ कति नु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2878,14 +2878,14 @@ How many cows, O Narada, knowest thou, born among man- kind I ask thee who dost 
 </div>
 
 ## ४४ विलिप्त्या बृहस्पते
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑लि॒प्त्या बृ॑हस्पते॒ या च॑ सू॒तव॑शा व॒शा।  
 तस्या॒ नाश्नी॑या॒दब्रा॑ह्मणो॒ य आ॒शंसे॑त॒ भूत्या॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2894,7 +2894,7 @@ How many cows, O Narada, knowest thou, born among man- kind I ask thee who dost 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/44_viliptyA_bRhaspate.md">
 <details open><summary><h3>४४ विलिप्त्या बृहस्पते ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2950,14 +2950,14 @@ Vilipti, cow, and she who drops no second calf, Brihaspati! Of these none not a 
 </div>
 
 ## ४५ नमस्ते अस्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/45_namaste_astu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/45_namaste_astu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नम॑स्ते अस्तु नारदानु॒ष्ठु वि॒दुषे॑ व॒शा।  
 क॑त॒मासां॑ भी॒मत॑मा॒ यामद॑त्त्वा परा॒भवे॑त् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/45_namaste_astu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/45_namaste_astu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2966,7 +2966,7 @@ Vilipti, cow, and she who drops no second calf, Brihaspati! Of these none not a 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/45_namaste_astu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/45_namaste_astu.md">
 <details open><summary><h3>४५ नमस्ते अस्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3015,14 +3015,14 @@ Homage, O Narada, to thee who hast quick knowledge of the cows. Which of these i
 </div>
 
 ## ४६ विलिप्ती या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/46_viliptI_yA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/46_viliptI_yA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि॑लि॒प्ती या बृ॑हस्प॒तेऽथो॑ सू॒तव॑शा व॒शा।  
 तस्या॒ नाश्नी॑या॒दब्रा॑ह्मणो॒ य आ॒शंसे॑त॒ भूत्या॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/46_viliptI_yA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/46_viliptI_yA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3031,7 +3031,7 @@ Homage, O Narada, to thee who hast quick knowledge of the cows. Which of these i
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/46_viliptI_yA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/46_viliptI_yA.md">
 <details open><summary><h3>४६ विलिप्ती या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3079,14 +3079,14 @@ Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahma
 </div>
 
 ## ४७ त्रीणि वै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/47_trINi_vai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/47_trINi_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्रीणि॒ वै व॑शाजा॒तानि॑ विलि॒प्ती सू॒तव॑शा व॒शा।  
 ताः प्र य॑च्छेद्ब्र॒ह्मभ्यः॒ सो᳡ना॑व्र॒स्कः प्र॒जाप॑तौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/47_trINi_vai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/47_trINi_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3095,7 +3095,7 @@ Vilipti, O Brihaspati, cow, mother of no second calf--Of these none not a Brahma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/47_trINi_vai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/47_trINi_vai.md">
 <details open><summary><h3>४७ त्रीणि वै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3147,14 +3147,14 @@ Threefold are kine, Vilipti, cow, the mother of no seeond calf: These one should
 </div>
 
 ## ४८ एतद्वो ब्राह्मणा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तद्वो॑ ब्राह्मणा ह॒विरिति॑ मन्वीत याचि॒तः।  
 व॒शां चेदे॑नं॒ याचे॑यु॒र्या भी॒माद॑दुषो गृ॒हे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3163,7 +3163,7 @@ Threefold are kine, Vilipti, cow, the mother of no seeond calf: These one should
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/48_etadvo_brAhmaNA.md">
 <details open><summary><h3>४८ एतद्वो ब्राह्मणा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3209,14 +3209,14 @@ This Brahmans! is your sacrifice: thus should one think when he is asked, What t
 </div>
 
 ## ४९ देवा वशाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/49_devA_vashAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/49_devA_vashAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा व॒शां पर्य॑वद॒न्न नो॑ऽदा॒दिति॑ हीडि॒ताः।  
 ए॒ताभि॑रृ॒ग्भिर्भे॒दं तस्मा॒द्वै स परा॑भवत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/49_devA_vashAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/49_devA_vashAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3225,7 +3225,7 @@ This Brahmans! is your sacrifice: thus should one think when he is asked, What t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/49_devA_vashAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/49_devA_vashAm.md">
 <details open><summary><h3>४९ देवा वशाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3279,14 +3279,14 @@ He gave her not to us, so spake the Gods, in anger, of the Cow. With these same 
 </div>
 
 ## ५० उतैनां भेदो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/50_utainAM_bhedo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/50_utainAM_bhedo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॒तैनां॑ भे॒दो नाद॑दाद्व॒शामिन्द्रे॑ण याचि॒तः।  
 तस्मा॒त्तं दे॒वा आग॒सोऽवृ॑श्चन्नहमुत्त॒रे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/50_utainAM_bhedo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/50_utainAM_bhedo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3295,7 +3295,7 @@ He gave her not to us, so spake the Gods, in anger, of the Cow. With these same 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/50_utainAM_bhedo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/50_utainAM_bhedo.md">
 <details open><summary><h3>५० उतैनां भेदो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3343,14 +3343,14 @@ Solicited by Indra, still Bheda refused to give this Cow. In strife for victory 
 </div>
 
 ## ५१ ये वशाया
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/51_ye_vashAyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/51_ye_vashAyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये व॒शाया॒ अदा॑नाय॒ वद॑न्ति परिरा॒पिणः॑।  
 इन्द्र॑स्य म॒न्यवे॑ जा॒ल्मा आ वृ॑श्चन्ते॒ अचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/51_ye_vashAyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/51_ye_vashAyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3359,7 +3359,7 @@ Solicited by Indra, still Bheda refused to give this Cow. In strife for victory 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/51_ye_vashAyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/51_ye_vashAyA.md">
 <details open><summary><h3>५१ ये वशाया ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3405,14 +3405,14 @@ The men of evil counsel who advise refusal of the Cow, Miscreants, through their
 </div>
 
 ## ५२ ये गोपतिम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/52_ye_gopatim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/52_ye_gopatim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये गोप॑तिं परा॒णीया॑था॒हुर्मा द॑दा॒ इति॑।  
 रु॒द्रस्या॑स्तां ते हे॒तिं परि॑ य॒न्त्यचि॑त्त्या ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/52_ye_gopatim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/52_ye_gopatim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3421,7 +3421,7 @@ The men of evil counsel who advise refusal of the Cow, Miscreants, through their
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/52_ye_gopatim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/52_ye_gopatim.md">
 <details open><summary><h3>५२ ये गोपतिम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3470,14 +3470,14 @@ They who seduce the owner of the Cow and say, Bestow her not. Encounter through 
 </div>
 
 ## ५३ यदि हुताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/53_yadi_hutAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/12/004_vashA_gauH/53_yadi_hutAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदि॑ हु॒तां यद्यहु॑ताम॒मा च॒ पच॑ते व॒शाम्।  
 दे॒वान्त्सब्रा॑ह्मणानृ॒त्वा जि॒ह्मो लो॒कान्निरृ॑च्छति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/53_yadi_hutAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/12/004_vashA_gauH/53_yadi_hutAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3486,7 +3486,7 @@ They who seduce the owner of the Cow and say, Bestow her not. Encounter through 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/53_yadi_hutAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/12/004_vashA_gauH/53_yadi_hutAm.md">
 <details open><summary><h3>५३ यदि हुताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

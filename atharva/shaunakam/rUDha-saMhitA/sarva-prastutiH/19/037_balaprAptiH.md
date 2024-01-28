@@ -2,7 +2,7 @@
 title = "०३७ बलप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/_index.md">
 <details open><summary><h2>०३७ बलप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to secure long life and dominion to a prince
 </div>
 
 ## ०१ इदं वर्चो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/01_idaM_varcho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/01_idaM_varcho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न्भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्।  
 त्रय॑स्त्रिंश॒द्यानि॑ च वी॒र्या᳡णि॒ तान्य॒ग्निः प्र द॑दातु मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/01_idaM_varcho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/01_idaM_varcho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to secure long life and dominion to a prince
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/01_idaM_varcho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/01_idaM_varcho.md">
 <details open><summary><h3>०१ इदं वर्चो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 </div>
 
 ## ०२ वर्च आ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/02_varcha_A.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/02_varcha_A.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वर्च॒ आ धे॑हि मे त॒न्वां३॒॑ सह॒ ओजो॒ वयो॒ बल॑म्।  
 इ॑न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्या᳡य॒ प्रति॑ गृह्णामि श॒तशा॑रदाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/02_varcha_A.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/02_varcha_A.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ To me hath come this word given by Agni, fame, force and might, and strength, an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/02_varcha_A.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/02_varcha_A.md">
 <details open><summary><h3>०२ वर्च आ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -177,14 +177,14 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 </div>
 
 ## ०३ ऊर्जे त्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/03_Urje_tvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/03_Urje_tvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा।  
 अ॑भि॒भूया॑य त्वा राष्ट्र॒भृत्या॑य॒ पर्यू॑हामि श॒तशा॑रदाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/03_Urje_tvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/03_Urje_tvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -193,7 +193,7 @@ For mighty strength, for action, I receive thee, for manly power, to last a hund
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/03_Urje_tvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/03_Urje_tvA.md">
 <details open><summary><h3>०३ ऊर्जे त्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -246,14 +246,14 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 </div>
 
 ## ०४ ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑।  
 धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -262,7 +262,7 @@ For conquering strength and energy and vigour I fasten thee for chieftainship, f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/19/037_balaprAptiH/04_RtubhyaShTvArtavebhyo_mAdbhyaH.md">
 <details open><summary><h3>०४ ऋतुभ्यष्ट्वार्तवेभ्यो माद्भ्यः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

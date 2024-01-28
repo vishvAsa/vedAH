@@ -2,7 +2,7 @@
 title = "०३५ दीर्घायुःप्राप्तिः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/_index.md">
 <details open><summary><h2>०३५ दीर्घायुःप्राप्तिः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to ensure long life and glory to the wearer of an amulet
 </div>
 
 ## ०१ यदाबध्नन्दाक्षायणा हिरण्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदाब॑ध्नन्दाक्षाय॒णा हिर॑ण्यं श॒तानी॑काय सुमन॒स्यमा॑नाः।  
 तत्ते॑ बध्ना॒म्यायु॑षे॒ वर्च॑से॒ बला॑य दीर्घायु॒त्वाय॑ श॒तशा॑रदाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to ensure long life and glory to the wearer of an amulet
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/01_yadAbadhnandAxAyaNA_hiraNyam.md">
 <details open><summary><h3>०१ यदाबध्नन्दाक्षायणा हिरण्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ This Ornament of Gold which Daksha's children bound, with benevolent thoughts, o
 </div>
 
 ## ०२ नैनं रक्षांसि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नैनं॒ रक्षां॑सि॒ न पि॑शा॒चाः स॑हन्ते दे॒वाना॒मोजः॑ प्रथम॒जं ह्ये॒३॒॑तत्।  
 यो बिभ॑र्ति दाक्षाय॒णं हिर॑ण्यं॒ स जी॒वेषु॑ कृणुते दी॒र्घमायुः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ This Ornament of Gold which Daksha's children bound, with benevolent thoughts, o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/02_nainaM_raxAMsi.md">
 <details open><summary><h3>०२ नैनं रक्षांसि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ This man no fiends may conquer, no Pisachas, for this is might of Gods, their pr
 </div>
 
 ## ०३ अपां तेजो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒पां तेजो॒ ज्योति॒रोजो॒ बलं॑ च॒ वन॒स्पती॑नामु॒त वी॒र्या॑णि।  
 इन्द्र॑ इवेन्द्रि॒याण्यधि॑ धारयामो अ॒स्मिन्तद्दक्ष॑माणो बिभर॒द्धिर॑ण्यम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ This man no fiends may conquer, no Pisachas, for this is might of Gods, their pr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/03_apAM_tejo.md">
 <details open><summary><h3>०३ अपां तेजो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -238,14 +238,14 @@ The light, the power, the lustre of the Waters, the strength of Trees, and all t
 </div>
 
 ## ०४ समानां मासामृतुभिष्ट्वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समा॑नां मा॒सामृ॒तुभि॑ष्ट्वा व॒यं सं॑वत्स॒रस्य॒ पय॑सा पिपर्मि।  
 इ॑न्द्रा॒ग्नी विश्वे॑ दे॒वास्ते ऽनु॑ मन्यन्ता॒महृ॑णीयमानाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -254,7 +254,7 @@ The light, the power, the lustre of the Waters, the strength of Trees, and all t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/035_dIrghAyuHprAptiH/04_samAnAM_mAsAmRtubhiShTvA.md">
 <details open><summary><h3>०४ समानां मासामृतुभिष्ट्वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

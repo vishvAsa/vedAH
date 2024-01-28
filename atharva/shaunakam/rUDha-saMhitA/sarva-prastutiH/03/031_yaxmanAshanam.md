@@ -2,7 +2,7 @@
 title = "०३१ यक्ष्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/_index.md">
 <details open><summary><h2>०३१ यक्ष्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm for the recovery of one dangerously ill
 </div>
 
 ## ०१ वि देवा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/01_vi_devA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/01_vi_devA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि दे॒वा ज॒रसा॑वृत॒न्वि त्वम॑ग्ने॒ अरा॑त्या।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/01_vi_devA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/01_vi_devA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm for the recovery of one dangerously ill
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/01_vi_devA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/01_vi_devA.md">
 <details open><summary><h3>०१ वि देवा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,14 +103,14 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 </div>
 
 ## ०२ व्यार्त्या पवमानो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 व्यार्त्या॒ पव॑मानो॒ वि श॒क्रः पा॑पकृ॒त्यया॑।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -119,7 +119,7 @@ May Gods release from failing strength, thou Agni, from malignity! I free from e
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/02_vyArtyA_pavamAno.md">
 <details open><summary><h3>०२ व्यार्त्या पवमानो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -166,14 +166,14 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 </div>
 
 ## ०३ वि ग्राम्याः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वि ग्रा॒म्याः प॒शव॑ आर॒ण्यैर्व्याप॒स्तृष्ण॑यासरन्।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -182,7 +182,7 @@ May Pavamana free from harm, and Sakra from unrighteous deed. I free from every 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/03_vi_grAmyAH.md">
 <details open><summary><h3>०३ वि ग्राम्याः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 </div>
 
 ## ०४ वी मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/04_vI_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/04_vI_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वी॑३॒॑ मे द्यावा॑पृथि॒वी इ॒तो वि पन्था॑नो॒ दिशं॑दिशम्।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/04_vI_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/04_vI_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ Tame beasts have parted from wild beasts, water and thirst have gone apart I fre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/04_vI_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/04_vI_me.md">
 <details open><summary><h3>०४ वी मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -302,14 +302,14 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 </div>
 
 ## ०५ त्वष्टा दुहित्रे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं यु॑न॒क्तीती॒दं विश्वं॒ भुव॑नं॒ वि या॑ति।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -318,7 +318,7 @@ Parted are heaven and earth, and paths turned to each quarter of the sky. I free
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/05_tvaShTA_duhitre.md">
 <details open><summary><h3>०५ त्वष्टा दुहित्रे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -376,14 +376,14 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 </div>
 
 ## ०६ अग्निः प्राणान्त्सम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒ग्निः प्रा॒णान्त्सं द॑धाति च॒न्द्रः प्रा॒णेन॒ संहि॑तः।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -392,7 +392,7 @@ Tvashtar prepares the bridal of his daughter; then all this world of life depart
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/06_agniH_prANAntsam.md">
 <details open><summary><h3>०६ अग्निः प्राणान्त्सम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -444,14 +444,14 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 </div>
 
 ## ०७ प्राणेन विश्वतोवीर्यम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णेन॑ वि॒श्वतो॑वीर्यं दे॒वाः सूर्यं॒ समै॑रयन्।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -460,7 +460,7 @@ Agni combines the vital airs. The moon is closely joined with breath. I free. et
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/07_prANena_vishvatovIryam.md">
 <details open><summary><h3>०७ प्राणेन विश्वतोवीर्यम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -507,14 +507,14 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 </div>
 
 ## ०८ आयुष्मतामायुष्कृतां प्राणेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आयु॑ष्मतामायु॒ष्कृतां॑ प्रा॒णेन॑ जीव॒ मा मृ॑थाः।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -523,7 +523,7 @@ The Gods have lifted up with breath the Sun whose might is everywhere. I free, e
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/08_AyuShmatAmAyuShkRtAM_prANena.md">
 <details open><summary><h3>०८ आयुष्मतामायुष्कृतां प्राणेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -570,14 +570,14 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 </div>
 
 ## ०९ प्राणेन प्राणताम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॒णेन॑ प्राण॒तां प्राणे॒हैव भ॑व॒ मा मृ॑थाः।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -586,7 +586,7 @@ Die not. Live with the breath of those who make and who enjoy long life. I free,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/09_prANena_prANatAm.md">
 <details open><summary><h3>०९ प्राणेन प्राणताम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -634,14 +634,14 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 </div>
 
 ## १० उदायुषा समायुषोदोषधीनाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदायु॑षा॒ समायु॒षोदोष॑धीनां॒ रसे॑न।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -650,7 +650,7 @@ Die not. Stay here. Breathe with the breath of those who draw the vital air. I f
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/10_udAyuShA_samAyuShodoShadhInAm.md">
 <details open><summary><h3>१० उदायुषा समायुषोदोषधीनाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -701,14 +701,14 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 </div>
 
 ## ११ आ पर्जन्यस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ प॒र्जन्य॑स्य वृ॒ष्ट्योद॑स्थामा॒मृता॑ व॒यम्।  
 व्य१॒॑हं सर्वे॑ण पा॒प्मना॒ वि यक्ष्मे॑ण॒ समायु॑षा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/11_A_parjanyasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -717,7 +717,7 @@ Rise up with life, conjoined with life. Up, with the sap of growing plants! I fr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/031_yaxmanAshanam/11_A_parjanyasya.md">
 <details open><summary><h3>११ आ पर्जन्यस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

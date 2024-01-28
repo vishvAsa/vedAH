@@ -2,7 +2,7 @@
 title = "०१२ यक्ष्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/_index.md">
 <details open><summary><h2>०१२ यक्ष्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ A prayer to Lightning, against fever, headache, and cough
 </div>
 
 ## ०१ जरायुजः प्रथम
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज॑रायु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॑ वातभ्र॒जा स्त॒नय॑न्नेति वृ॒ष्ट्या।  
 स नो॑ मृडाति त॒न्व॑ ऋजु॒गो रु॒जन्य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ A prayer to Lightning, against fever, headache, and cough
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/01_jarAyujaH_prathama.md">
 <details open><summary><h3>०१ जरायुजः प्रथम ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -112,14 +112,14 @@ Born from the womb, brought forth from wind and from the cloud, the first red bu
 </div>
 
 ## ०२ अङ्गेअङ्गे शोचिषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अङ्गेअ॑ङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम।  
 अ॒ङ्कान्त्स॑म॒ङ्कान्ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त्पर्वा॑स्या॒ ग्रभी॑ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -128,7 +128,7 @@ Born from the womb, brought forth from wind and from the cloud, the first red bu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/02_angeange_shochiShA.md">
 <details open><summary><h3>०२ अङ्गेअङ्गे शोचिषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -185,14 +185,14 @@ Bending to thee who clingest to each limb with heat, fain would we worship thee 
 </div>
 
 ## ०३ मुञ्च शीर्षक्त्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य।  
 यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -201,7 +201,7 @@ Bending to thee who clingest to each limb with heat, fain would we worship thee 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/03_muncha_shIrShaktyA.md">
 <details open><summary><h3>०३ मुञ्च शीर्षक्त्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -254,14 +254,14 @@ Do thou release this man from headache, free him from cough which has entered in
 </div>
 
 ## ०४ शं मे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/04_shaM_me.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/01/012_yaxmanAshanam/04_shaM_me.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे।  
 शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॑३ मम॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/04_shaM_me.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/01/012_yaxmanAshanam/04_shaM_me.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -270,7 +270,7 @@ Do thou release this man from headache, free him from cough which has entered in
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/04_shaM_me.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/01/012_yaxmanAshanam/04_shaM_me.md">
 <details open><summary><h3>०४ शं मे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

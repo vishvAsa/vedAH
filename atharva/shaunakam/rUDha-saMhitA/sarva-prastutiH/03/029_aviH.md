@@ -2,7 +2,7 @@
 title = "०२९ अविः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/_index.md">
 <details open><summary><h2>०२९ अविः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ On the means to obtain immunity from taxation in the next world
 </div>
 
 ## ०१ यद्राजानो विभजन्त
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्राजा॑नो वि॒भज॑न्त इष्टापू॒र्तस्य॑ षोड॒शं य॒मस्या॒मी स॑भा॒सदः॑।  
 अवि॒स्तस्मा॒त्प्र मु॑ञ्चति द॒त्तः शि॑ति॒पात्स्व॒धा ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/01_yadrAjAno_vibhajanta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ On the means to obtain immunity from taxation in the next world
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/01_yadrAjAno_vibhajanta.md">
 <details open><summary><h3>०१ यद्राजानो विभजन्त ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 </div>
 
 ## ०२ सर्वान्कामान्पूरयत्याभवन्प्रभवन्भवन्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वा॒न्कामा॑न्पूरयत्या॒भव॑न्प्र॒भव॒न्भव॑न्।  
 आ॑कूति॒प्रोऽवि॑र्द॒त्तः शि॑ति॒पान्नोप॑ दस्यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ When yonder kings who sit beside Yama divide among them- selves the sixteenth pa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/02_sarvAnkAmAnpUrayatyAbhavanprabhavanbhavan.md">
 <details open><summary><h3>०२ सर्वान्कामान्पूरयत्याभवन्प्रभवन्भवन् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -170,14 +170,14 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 </div>
 
 ## ०३ यो ददाति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/03_yo_dadAti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/03_yo_dadAti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो ददा॑ति शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
 स नाक॑म॒भ्यारो॑हति॒ यत्र॑ शु॒ल्को न क्रि॒यते॑ अब॒लेन॒ बली॑यसे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/03_yo_dadAti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/03_yo_dadAti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -186,7 +186,7 @@ He satisfies each hope and want, prevailing, present and pre- pared. The wish-fu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/03_yo_dadAti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/03_yo_dadAti.md">
 <details open><summary><h3>०३ यो ददाति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -234,14 +234,14 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 </div>
 
 ## ०४ पञ्चापूपं शितिपादमविम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
 प्र॑दा॒तोप॑ जीवति पितॄ॒णां लो॒केऽक्षि॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -250,7 +250,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Ascends to th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/04_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>०४ पञ्चापूपं शितिपादमविम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -299,14 +299,14 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 </div>
 
 ## ०५ पञ्चापूपं शितिपादमविम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पञ्चा॑पूपं शिति॒पाद॒मविं॑ लो॒केन॒ संमि॑तम्।  
 प्र॑दा॒तोप॑ जीवति सूर्यामा॒सयो॒रक्षि॑तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -315,7 +315,7 @@ He who bestows a white-hooved ram, adequate to the place he holds. Offered with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/05_panchApUpaM_shitipAdamavim.md">
 <details open><summary><h3>०५ पञ्चापूपं शितिपादमविम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -363,14 +363,14 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 </div>
 
 ## ०६ इरेव नोप
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/06_ireva_nopa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/06_ireva_nopa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इरे॑व॒ नोप॑ दस्यति समु॒द्र इ॑व॒ पयो॑ म॒हत्।  
 दे॒वौ स॑वा॒सिना॑विव शिति॒पान्नोप॑ दस्यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/06_ireva_nopa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/06_ireva_nopa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -379,7 +379,7 @@ He who bestows a white-hooved ram, adequate to the place he holds, Offered with 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/06_ireva_nopa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/06_ireva_nopa.md">
 <details open><summary><h3>०६ इरेव नोप ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -432,7 +432,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 </div>
 
 ## ०७ क इदम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/07_ka_idam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/07_ka_idam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 क इ॒दं कस्मा॑ अदा॒त्कामः॒ कामा॑यादात्।  
@@ -440,7 +440,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 कामे॑न त्वा॒ प्रति॑ गृह्णामि॒ कामै॒तत्ते॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/07_ka_idam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/07_ka_idam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -450,7 +450,7 @@ Like a refreshing draught, like sea, the mighty flood, he faileth not. Like the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/07_ka_idam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/07_ka_idam.md">
 <details open><summary><h3>०७ क इदम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -518,14 +518,14 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 </div>
 
 ## ०८ भूमिष्ट्वा प्रति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/08_bhUmiShTvA_prati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/029_aviH/08_bhUmiShTvA_prati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 भूमि॑ष्ट्वा॒ प्रति॑ गृह्णात्व॒न्तरि॑क्षमि॒दं म॒हत्।  
 माहं प्रा॒णेन॒ मात्मना॒ मा प्र॒जया॑ प्रति॒गृह्य॒ वि रा॑धिषि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/08_bhUmiShTvA_prati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/029_aviH/08_bhUmiShTvA_prati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -534,7 +534,7 @@ Whose gift was this, and given to whom? Kama to Kama gave the gift. Kama is give
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/08_bhUmiShTvA_prati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/029_aviH/08_bhUmiShTvA_prati.md">
 <details open><summary><h3>०८ भूमिष्ट्वा प्रति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

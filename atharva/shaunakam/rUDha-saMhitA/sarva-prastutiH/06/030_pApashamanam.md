@@ -2,7 +2,7 @@
 title = "०३० पापशमनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/_index.md">
 <details open><summary><h2>०३० पापशमनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm to promote the growth of hair
 </div>
 
 ## ०१ देवा इमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/01_devA_imam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/01_devA_imam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः।  
 इन्द्र॑ आसी॒त्सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन्म॒रुतः॑ सु॒दान॑वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/01_devA_imam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/01_devA_imam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm to promote the growth of hair
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/01_devA_imam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/01_devA_imam.md">
 <details open><summary><h3>०१ देवा इमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -107,14 +107,14 @@ Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was 
 </div>
 
 ## ०२ यस्ते मदोऽवकेशो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑।  
 आ॒रात्त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/02_yaste_mado-vakesho.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -123,7 +123,7 @@ Over a magic stone, beside Sarasvati, the Gods Ploughed in this barley that was 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/02_yaste_mado-vakesho.md">
 <details open><summary><h3>०२ यस्ते मदोऽवकेशो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -185,14 +185,14 @@ Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man 
 </div>
 
 ## ०३ बृहत्पलाशे सुभगे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि।  
 मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -201,7 +201,7 @@ Thy joy in hair that falleth or is scattered, wherewith thou sub- jectest a man 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/030_pApashamanam/03_bRhatpalAshe_subhage.md">
 <details open><summary><h3>०३ बृहत्पलाशे सुभगे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

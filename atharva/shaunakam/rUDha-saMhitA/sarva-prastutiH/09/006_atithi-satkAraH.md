@@ -2,7 +2,7 @@
 title = "००६ अतिथि-सत्कारः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/_index.md">
 <details open><summary><h2>००६ अतिथि-सत्कारः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -53,13 +53,13 @@ A glorification of hospitable reception of guests
 </div>
 
 ## ०१ यो विद्याद्ब्रह्म
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो वि॒द्याद्ब्रह्म॑ प्र॒त्यक्षं॒ परूं॑षि॒ यस्य॑ संभा॒रा ऋचो॒ यस्या॑नूक्य᳡म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -67,7 +67,7 @@ A glorification of hospitable reception of guests
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/01_yo_vidyAdbrahma.md">
 <details open><summary><h3>०१ यो विद्याद्ब्रह्म ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -116,13 +116,13 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 </div>
 
 ## ०२ सामानि यस्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सामा॑नि॒ यस्य॒ लोमा॑नि॒ यजु॒र्हृद॑यमु॒च्यते॑ परि॒स्तर॑ण॒मिद्ध॒विः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -130,7 +130,7 @@ Whoso will know Prayer with immediate knowledge, whose mem- bers are the stuff, 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/02_sAmAni_yasya.md">
 <details open><summary><h3>०२ सामानि यस्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -181,13 +181,13 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 </div>
 
 ## ०३ यद्वा अतिथिपतिरतिथीन्प्रतिपश्यति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वा अति॑थिपति॒रति॑थीन्प्रति॒पश्य॑ति देव॒यज॑नं॒ प्रेक्ष॑ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -195,7 +195,7 @@ Whose hairs are psalms, whose heart is called the Yajus, whose coverlet is veril
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/03_yadvA_atithipatiratithInpratipashyati.md">
 <details open><summary><h3>०३ यद्वा अतिथिपतिरतिथीन्प्रतिपश्यति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -243,13 +243,13 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 </div>
 
 ## ०४ यदभिवदति दीक्षामुपैति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑भि॒वद॑ति दी॒क्षामुपै॑ति॒ यदु॑द॒कं याच॑त्य॒पः प्र ण॑यति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -257,7 +257,7 @@ Verily when a host looks at his guests he looks at the place of sacrifice to the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/04_yadabhivadati_dIxAmupaiti.md">
 <details open><summary><h3>०४ यदभिवदति दीक्षामुपैति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -304,13 +304,13 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 </div>
 
 ## ०५ या एव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/05_yA_eva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/05_yA_eva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 या ए॒व य॒ज्ञ आपः॑ प्रणी॒यन्ते॒ ता ए॒व ताः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/05_yA_eva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/05_yA_eva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -318,7 +318,7 @@ When he salutes them reverently he undergoes preparation for a religious ceremon
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/05_yA_eva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/05_yA_eva.md">
 <details open><summary><h3>०५ या एव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -364,13 +364,13 @@ The water that is solemnly brought at a sacrifice is this same water.
 </div>
 
 ## ०६ यत्तर्पणमाहरन्ति य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्तर्प॑णमा॒हर॑न्ति॒ य ए॒वाग्नी॑षो॒मीयः॑ प॒शुर्ब॒ध्यते॒ स ए॒व सः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -378,7 +378,7 @@ The water that is solemnly brought at a sacrifice is this same water.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/06_yattarpaNamAharanti_ya.md">
 <details open><summary><h3>०६ यत्तर्पणमाहरन्ति य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -424,13 +424,13 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 </div>
 
 ## ०७ यदावसथान्कल्पयन्ति सदोहविर्धानान्येव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदा॑वस॒थान्क॒ल्पय॑न्ति सदोहविर्धा॒नान्ये॒व तत्क॑ल्पयन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -438,7 +438,7 @@ The libation which they bring; the sacrificial victim dedicated to Agni and Soma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/07_yadAvasathAnkalpayanti_sadohavirdhAnAnyeva.md">
 <details open><summary><h3>०७ यदावसथान्कल्पयन्ति सदोहविर्धानान्येव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -483,13 +483,13 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 </div>
 
 ## ०८ यदुपस्तृणन्ति बर्हिरेव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदु॑पस्तृ॒णन्ति॑ ब॒र्हिरे॒व तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -497,7 +497,7 @@ When they arrange dwelling-rooms they arrange the sacred chamber and the shed fo
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/08_yadupastRNanti_barhireva.md">
 <details open><summary><h3>०८ यदुपस्तृणन्ति बर्हिरेव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -548,13 +548,13 @@ What they spread upon the floor is just Sacrificial Grass.
 </div>
 
 ## ०९ यदुपरिशयनमाहरन्ति स्वर्गमेव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदु॑परिशय॒नमा॒हर॑न्ति स्व॒र्गमे॒व तेन॑ लो॒कमव॑ रुन्द्धे ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -562,7 +562,7 @@ What they spread upon the floor is just Sacrificial Grass.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/09_yaduparishayanamAharanti_svargameva.md">
 <details open><summary><h3>०९ यदुपरिशयनमाहरन्ति स्वर्गमेव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -610,13 +610,13 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 </div>
 
 ## १० यत्कशिपूपबर्हणमाहरन्ति परिधय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्क॑शिपूपबर्ह॒णमा॒हर॑न्ति परि॒धय॑ ए॒व ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -624,7 +624,7 @@ With the couch that the men bring, he wins for himself the world of Svarga.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/10_yatkashipUpabarhaNamAharanti_paridhaya.md">
 <details open><summary><h3>१० यत्कशिपूपबर्हणमाहरन्ति परिधय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -673,13 +673,13 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 </div>
 
 ## ११ यदाञ्जनाभ्यञ्जनमाहरन्त्याज्यमेव तत्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदा॑ञ्जनाभ्यञ्ज॒नमा॒हर॒न्त्याज्य॑मे॒व तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -687,7 +687,7 @@ The pillow-coverings that they bring are the green sticks that surround the sacr
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/11_yadAnjanAbhyanjanamAharantyAjyameva_tat.md">
 <details open><summary><h3>११ यदाञ्जनाभ्यञ्जनमाहरन्त्याज्यमेव तत् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -736,13 +736,13 @@ The ointment that they bring for injunction is just clarified liquid butter.
 </div>
 
 ## १२ यत्पुरा परिवेषात्खादमाहरन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्पु॒रा प॑रिवे॒षात्खा॒दमा॒हर॑न्ति पुरो॒डाशा॑वे॒व तौ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -750,7 +750,7 @@ The ointment that they bring for injunction is just clarified liquid butter.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/12_yatpurA_pariveShAtkhAdamAharanti.md">
 <details open><summary><h3>१२ यत्पुरा परिवेषात्खादमाहरन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -797,13 +797,13 @@ The food they bring before the general distribution represents the two sacrifici
 </div>
 
 ## १३ यदशनकृतं ह्वयन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद॑शन॒कृतं॒ ह्वय॑न्ति हवि॒ष्कृत॑मे॒व तद्ध्व॑यन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -811,7 +811,7 @@ The food they bring before the general distribution represents the two sacrifici
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/13_yadashanakRtaM_hvayanti.md">
 <details open><summary><h3>१३ यदशनकृतं ह्वयन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -857,13 +857,13 @@ When they call the man who prepares food they summon the preparer of oblation.
 </div>
 
 ## १४ ये व्रीहयो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ये व्री॒हयो॒ यवा॑ निरु॒प्यन्तें॒ऽशव॑ ए॒व ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -871,7 +871,7 @@ When they call the man who prepares food they summon the preparer of oblation.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/14_ye_vrIhayo.md">
 <details open><summary><h3>१४ ये व्रीहयो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -920,13 +920,13 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 </div>
 
 ## १५ यान्युलूखलमुसलानि ग्रावाण
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यान्यु॑लूखलमुस॒लानि॒ ग्रावा॑ण ए॒व ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -934,7 +934,7 @@ The grains of rice and barley that are selected are just filaments of the Soma p
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/15_yAnyulUkhalamusalAni_grAvANa.md">
 <details open><summary><h3>१५ यान्युलूखलमुसलानि ग्रावाण ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -980,13 +980,13 @@ The pestle and mortar are really the stones of the Soma press.
 </div>
 
 ## १६ शूर्पं पवित्रम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शूर्पं॑ प॒वित्रं॒ तुषा॑ ऋजी॒षाभि॒षव॑णी॒रापः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -994,7 +994,7 @@ The pestle and mortar are really the stones of the Soma press.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/16_shUrpaM_pavitram.md">
 <details open><summary><h3>१६ शूर्पं पवित्रम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1044,13 +1044,13 @@ The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pre
 </div>
 
 ## १७ स्रुग्दर्विर्नेक्षणमायवनं द्रोणकलशाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्रुग्दर्वि॒र्नेक्ष॑णमा॒यव॑नं द्रोणकल॒शाः कु॒म्भ्यो᳡ वाय॒व्या᳡नि॒ पात्रा॑णी॒यमे॒व कृ॑ष्णाजि॒नम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1058,7 +1058,7 @@ The winnowing-basket is the filter, the chaff the Soma dregs, the water, the pre
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/17_srugdarvirnexaNamAyavanaM_droNakalashAH.md">
 <details open><summary><h3>१७ स्रुग्दर्विर्नेक्षणमायवनं द्रोणकलशाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1133,13 +1133,13 @@ Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking
 </div>
 
 ## १८ यजमानब्राह्मणं वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यजमानब्राह्म॒णं वा ए॒तदति॑थिपतिः कुरुते॒ यदा॑हा॒र्या᳡णि॒ प्रेक्ष॑त इ॒दं भूया३ इ॒दा३मिति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1147,7 +1147,7 @@ Spoon, ladle, fork, stirring-prong are the wooden Soma tubs; the earthen cooking
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/18_yajamAnabrAhmaNaM_vA.md">
 <details open><summary><h3>१८ यजमानब्राह्मणं वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1204,13 +1204,13 @@ Or the host acts in this way to a Yajamana's Brahman: when he looks at the furni
 </div>
 
 ## १९ यदाह भूय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदाह॒ भूय॒ उद्ध॒रेति॑ प्रा॒णमे॒व तेन॒ वर्षी॑यांसं कुरुते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1218,7 +1218,7 @@ Or the host acts in this way to a Yajamana's Brahman: when he looks at the furni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/19_yadAha_bhUya.md">
 <details open><summary><h3>१९ यदाह भूय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1267,13 +1267,13 @@ When he says, Bring out more, he lengthens his life thereby.
 </div>
 
 ## २० उप हरति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/20_upa_harati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/20_upa_harati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ हरति ह॒वींष्या सा॑दयति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/20_upa_harati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/20_upa_harati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1281,7 +1281,7 @@ When he says, Bring out more, he lengthens his life thereby.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/20_upa_harati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/20_upa_harati.md">
 <details open><summary><h3>२० उप हरति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1325,13 +1325,13 @@ He brings oblations: he makes the men sit down.
 </div>
 
 ## २१ तेषामासन्नानामतिथिरात्मञ्जुहोति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तेषा॒मास॑न्नाना॒मति॑थिरा॒त्मञ्जु॑होति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1339,7 +1339,7 @@ He brings oblations: he makes the men sit down.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/21_teShAmAsannAnAmatithirAtmanjuhoti.md">
 <details open><summary><h3>२१ तेषामासन्नानामतिथिरात्मञ्जुहोति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1383,13 +1383,13 @@ As the guest of the seated company he himself offers up sacrifice.
 </div>
 
 ## २२ स्रुचा हस्तेन
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/22_sruchA_hastena.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/22_sruchA_hastena.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्रु॒चा हस्ते॑न प्रा॒णे यूपे॑ स्रुक्का॒रेण॑ वषट्का॒रेण॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/22_sruchA_hastena.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/22_sruchA_hastena.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1397,7 +1397,7 @@ As the guest of the seated company he himself offers up sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/22_sruchA_hastena.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/22_sruchA_hastena.md">
 <details open><summary><h3>२२ स्रुचा हस्तेन ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1445,13 +1445,13 @@ With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with
 </div>
 
 ## २३ एते वै
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/23_ete_vai.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/23_ete_vai.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒ते वै प्रि॒याश्चाप्रि॑याश्च॒र्त्विजः॑ स्व॒र्गं लो॒कं ग॑मयन्ति॒ यदति॑थयः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/23_ete_vai.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/23_ete_vai.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1459,7 +1459,7 @@ With ladle, with hand, in life, at the sacrificial post, with cry of Ladle! with
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/23_ete_vai.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/23_ete_vai.md">
 <details open><summary><h3>२३ एते वै ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1507,13 +1507,13 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 </div>
 
 ## २४ स य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/24_sa_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/24_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स य ए॒वं वि॒द्वान्न द्वि॒षन्न॑श्नीया॒न्न द्वि॑ष॒तोऽन्न॑मश्नीया॒न्न मी॑मांसि॒तस्य॒ न मी॑मां॒समा॑नस्य ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/24_sa_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/24_sa_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1521,7 +1521,7 @@ Now these guests, as priests beloved or not beloved, bring one to the world of S
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/24_sa_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/24_sa_ya.md">
 <details open><summary><h3>२४ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1576,13 +1576,13 @@ He who hath this knowledge should not eat hating, should not eat the food of one
 </div>
 
 ## २५ सर्वो वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/25_sarvo_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/25_sarvo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वो॒ वा ए॒ष ज॒ग्धपा॑प्मा॒ यस्यान्न॑म॒श्नन्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/25_sarvo_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/25_sarvo_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1590,7 +1590,7 @@ He who hath this knowledge should not eat hating, should not eat the food of one
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/25_sarvo_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/25_sarvo_vA.md">
 <details open><summary><h3>२५ सर्वो वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1635,13 +1635,13 @@ This man whose food they eat hath all his wickedness blotted out.
 </div>
 
 ## २६ सर्वो वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/26_sarvo_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/26_sarvo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सर्वो॒ वा ए॒षोऽज॒ग्धपा॑प्मा॒ यस्यान्नं॒ नाश्नन्ति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/26_sarvo_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/26_sarvo_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1649,7 +1649,7 @@ This man whose food they eat hath all his wickedness blotted out.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/26_sarvo_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/26_sarvo_vA.md">
 <details open><summary><h3>२६ सर्वो वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1700,13 +1700,13 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 </div>
 
 ## २७ सर्वदा वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/27_sarvadA_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/27_sarvadA_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑र्व॒दा वा ए॒ष यु॒क्तग्रा॑वा॒र्द्रप॑वित्रो॒ वित॑ताध्वर॒ आहृ॑तयज्ञक्रतु॒र्य उ॑प॒हर॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/27_sarvadA_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/27_sarvadA_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1714,7 +1714,7 @@ All that man's sin whose food they do not eat remains unblot- ted out.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/27_sarvadA_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/27_sarvadA_vA.md">
 <details open><summary><h3>२७ सर्वदा वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1763,13 +1763,13 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 </div>
 
 ## २८ प्राजापत्यो वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्रा॑जाप॒त्यो वा ए॒तस्य॑ य॒ज्ञो वित॑तो॒ य उ॑प॒हर॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1777,7 +1777,7 @@ The man who supplies food hath always pressing stones adjusted, a wet Soma filte
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/28_prAjApatyo_vA.md">
 <details open><summary><h3>२८ प्राजापत्यो वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1821,13 +1821,13 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 </div>
 
 ## २९ प्रजापतेर्वा एष
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जाप॑ते॒र्वा ए॒ष वि॑क्र॒मान॑नु॒विक्र॑मते॒ य उ॑प॒हर॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1835,7 +1835,7 @@ The arranged sacrifice of the man who offers food is a sacrifice to Prajapati.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/29_prajApatervA_eSha.md">
 <details open><summary><h3>२९ प्रजापतेर्वा एष ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1880,13 +1880,13 @@ The man who offers food follows the steps of Prajapati.
 </div>
 
 ## ३० योऽतिथीनां स
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 योऽति॑थीनां॒ स आ॑हव॒नीयो॒ यो वेश्म॑नि॒ स गार्ह॑पत्यो॒ यस्मि॒न्पच॑न्ति॒ स द॑क्षिणा॒ग्निः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1894,7 +1894,7 @@ The man who offers food follows the steps of Prajapati.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/30_yo-tithInAM_sa.md">
 <details open><summary><h3>३० योऽतिथीनां स ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -1949,13 +1949,13 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 </div>
 
 ## ३१ इष्टं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/31_iShTaM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/31_iShTaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 इ॒ष्टं च॒ वा ए॒ष पू॒र्तं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/31_iShTaM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/31_iShTaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -1963,7 +1963,7 @@ The fire of the guests is the Ahavaniya, the fire in the dwelling is the Garhapa
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/31_iShTaM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/31_iShTaM_cha.md">
 <details open><summary><h3>३१ इष्टं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2012,13 +2012,13 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 </div>
 
 ## ३२ पयश्च वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/32_payashcha_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/32_payashcha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 पय॑श्च॒ वा ए॒ष रसं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/32_payashcha_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/32_payashcha_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2026,7 +2026,7 @@ Now that man who eats before the guest eats up the sacrifice and the merit of th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/32_payashcha_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/32_payashcha_vA.md">
 <details open><summary><h3>३२ पयश्च वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2070,13 +2070,13 @@ He devours the milk and the sap:
 </div>
 
 ## ३३ ऊर्जां च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/33_UrjAM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/33_UrjAM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्जां च॒ वा ए॒ष स्फा॒तिं च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/33_UrjAM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/33_UrjAM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2084,7 +2084,7 @@ He devours the milk and the sap:
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/33_UrjAM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/33_UrjAM_cha.md">
 <details open><summary><h3>३३ ऊर्जां च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2130,13 +2130,13 @@ And the vigour and prosperity.
 </div>
 
 ## ३४ प्रजां च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/34_prajAM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/34_prajAM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒जां च॒ वा ए॒ष प॒शूंश्च॑ गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/34_prajAM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/34_prajAM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2144,7 +2144,7 @@ And the vigour and prosperity.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/34_prajAM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/34_prajAM_cha.md">
 <details open><summary><h3>३४ प्रजां च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2189,13 +2189,13 @@ And the progeny and the cattle:
 </div>
 
 ## ३५ कीर्तिं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 की॒र्तिं च॒ वा ए॒ष यश॑श्च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2203,7 +2203,7 @@ And the progeny and the cattle:
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/35_kIrtiM_cha.md">
 <details open><summary><h3>३५ कीर्तिं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2247,13 +2247,13 @@ And the fame and reputation.
 </div>
 
 ## ३६ श्रियं च
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/36_shriyaM_cha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/36_shriyaM_cha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 श्रियं॒ च॒ वा ए॒ष सं॒विदं॑ च गृ॒हाणा॑मश्नाति॒ यः पूर्वोऽति॑थेर॒श्नाति॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/36_shriyaM_cha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/36_shriyaM_cha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2261,7 +2261,7 @@ And the fame and reputation.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/36_shriyaM_cha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/36_shriyaM_cha.md">
 <details open><summary><h3>३६ श्रियं च ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2307,13 +2307,13 @@ The man who eats before the guest eats up the glory and the understanding of the
 </div>
 
 ## ३७ एष वा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/37_eSha_vA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/37_eSha_vA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒ष वा अति॑थि॒र्यच्छ्रोत्रि॑य॒स्तस्मा॒त्पूर्वो॒ नाश्नी॑यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/37_eSha_vA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/37_eSha_vA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2321,7 +2321,7 @@ The man who eats before the guest eats up the glory and the understanding of the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/37_eSha_vA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/37_eSha_vA.md">
 <details open><summary><h3>३७ एष वा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2369,14 +2369,14 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 </div>
 
 ## ३८ अशितावत्यतिथावश्नीयाद्यज्ञस्य सात्मत्वाय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑शि॒ताव॒त्यति॑थावश्नीयाद्य॒ज्ञस्य॑ सात्म॒त्वाय॑।  
 य॒ज्ञस्यावि॑च्छेदाय॒ तद्व्र॒तम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2385,7 +2385,7 @@ The man should not eat before the guest who is a Brahman versed in holy lore.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/38_ashitAvatyatithAvashnIyAdyajnasya_sAtmatvAya.md">
 <details open><summary><h3>३८ अशितावत्यतिथावश्नीयाद्यज्ञस्य सात्मत्वाय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2436,13 +2436,13 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 </div>
 
 ## ३९ एतद्वा उ
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/39_etadvA_u.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/39_etadvA_u.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ए॒तद्वा उ॒ स्वादी॑यो॒ यद॑धिग॒वं क्षी॒रं वा मां॒सं वा तदे॒व नाश्नी॑यात् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/39_etadvA_u.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/39_etadvA_u.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2450,7 +2450,7 @@ When the guest hath eaten he should eat. This is the rule for the animation of t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/39_etadvA_u.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/39_etadvA_u.md">
 <details open><summary><h3>३९ एतद्वा उ ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2505,7 +2505,7 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 </div>
 
 ## ४० स य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/40_sa_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/40_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स य ए॒वं वि॒द्वान्क्षी॒रमु॑प॒सिच्यो॑प॒हर॑ति।  
@@ -2516,7 +2516,7 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 ४०॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/40_sa_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/40_sa_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2529,7 +2529,7 @@ Now the sweetest portion, the produce of the cow, milk, or flesh, that verily he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/40_sa_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/40_sa_ya.md">
 <details open><summary><h3>४० स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2584,7 +2584,7 @@ The man who having this knowledge pours out milk and offers it wins for himself 
 </div>
 
 ## ४१ स य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/41_sa_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/41_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स य ए॒वं वि॒द्वान्त्स॒र्पिरु॑प॒सिच्यो॑प॒हर॑ति ।  
@@ -2594,7 +2594,7 @@ The man who having this knowledge pours out milk and offers it wins for himself 
 ४१॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/41_sa_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/41_sa_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2606,7 +2606,7 @@ The man who having this knowledge pours out milk and offers it wins for himself 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/41_sa_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/41_sa_ya.md">
 <details open><summary><h3>४१ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2654,7 +2654,7 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 </div>
 
 ## ४२ स य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/42_sa_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/42_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स य ए॒वं वि॒द्वान् मधू॑प॒सिच्यो॑प॒हर॑ति ।  
@@ -2664,7 +2664,7 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 ४२॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/42_sa_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/42_sa_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2676,7 +2676,7 @@ The man who having this knowledge pours out clarified butter and offers it wins 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/42_sa_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/42_sa_ya.md">
 <details open><summary><h3>४२ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2725,7 +2725,7 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 </div>
 
 ## ४३ स य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/43_sa_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/43_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स य ए॒वं वि॒द्वान् मां॒समु॑प॒सिच्यो॑प॒हर॑ति ।  
@@ -2735,7 +2735,7 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 ४३॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/43_sa_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/43_sa_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2747,7 +2747,7 @@ He who pours out mead and offers it wins for himself thereby as much as he gains
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/43_sa_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/43_sa_ya.md">
 <details open><summary><h3>४३ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2794,7 +2794,7 @@ He who having this knowledge besprinkles flesh and offers it wins for himself th
 </div>
 
 ## ४४ स य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/44_sa_ya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/44_sa_ya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स य ए॒वं वि॒द्वानु॑द॒कमु॑प॒सिच्यो॑प॒हर॑ति ।  
@@ -2804,7 +2804,7 @@ He who having this knowledge besprinkles flesh and offers it wins for himself th
 ४४॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/44_sa_ya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/44_sa_ya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2816,7 +2816,7 @@ He who having this knowledge besprinkles flesh and offers it wins for himself th
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/44_sa_ya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/44_sa_ya.md">
 <details open><summary><h3>४४ स य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2876,7 +2876,7 @@ The man who having this knowledge pours out water and offers it obtains a restin
 </div>
 
 ## ४५ तस्मा उषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/45_tasmA_uShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/45_tasmA_uShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॑ उ॒षा हिङ्कृ॑णोति सवि॒ता प्र स्तौ॑ति ।  
@@ -2888,7 +2888,7 @@ The man who having this knowledge pours out water and offers it obtains a restin
 ४५॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/45_tasmA_uShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/45_tasmA_uShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2902,7 +2902,7 @@ The man who having this knowledge pours out water and offers it obtains a restin
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/45_tasmA_uShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/45_tasmA_uShA.md">
 <details open><summary><h3>४५ तस्मा उषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -2967,7 +2967,7 @@ For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vi
 </div>
 
 ## ४६ तस्मा उद्यन्त्सूर्यो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॑ उ॒द्यन्त्सूर्यो॒ हिङ्कृ॑णोति संग॒वः प्र स्तौ॑ति ।  
@@ -2978,7 +2978,7 @@ For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vi
 ४६॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -2991,7 +2991,7 @@ For him Dawn murmurs, and Savitar sings the prelude; Brihas- pati chants with vi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/46_tasmA_udyantsUryo.md">
 <details open><summary><h3>४६ तस्मा उद्यन्त्सूर्यो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3040,7 +3040,7 @@ For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants
 </div>
 
 ## ४७ तस्मा अभ्रो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/47_tasmA_abhro.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/47_tasmA_abhro.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तस्मा॑ अ॒भ्रो भव॒न् हिङ्कृ॑णोति स्त॒नय॒न् प्र स्तौ॑ति ।  
@@ -3053,7 +3053,7 @@ For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants
 ४७॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/47_tasmA_abhro.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/47_tasmA_abhro.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3068,7 +3068,7 @@ For him the rising Sun murmurs, and Early Morning sings the prelude; Noon chants
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/47_tasmA_abhro.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/47_tasmA_abhro.md">
 <details open><summary><h3>४७ तस्मा अभ्रो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3119,7 +3119,7 @@ For him the Rain-cloud murmurs when present, sings the pre- lude when thundering
 </div>
 
 ## ४८ उप हरति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/48_upa_harati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/48_upa_harati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ हरति॒ प्रति॑ हर॒त्युच्छि॑ष्टं नि॒धन॑म्।  
@@ -3129,7 +3129,7 @@ For him the Rain-cloud murmurs when present, sings the pre- lude when thundering
 ४८॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/48_upa_harati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/48_upa_harati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3141,7 +3141,7 @@ For him the Rain-cloud murmurs when present, sings the pre- lude when thundering
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/48_upa_harati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/48_upa_harati.md">
 <details open><summary><h3>४८ उप हरति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3205,13 +3205,13 @@ He looks at the guests, he utters a gentle sound; he speaks, he signs the prelud
 </div>
 
 ## ४९ यत्क्षत्तारं ह्वयत्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्क्ष॒त्तारं॒ ह्वय॒त्या श्रा॑वयत्ये॒व तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3219,7 +3219,7 @@ He looks at the guests, he utters a gentle sound; he speaks, he signs the prelud
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/49_yatxattAraM_hvayatyA.md">
 <details open><summary><h3>४९ यत्क्षत्तारं ह्वयत्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3267,13 +3267,13 @@ When he summons the door-keeper he gives instruction.
 </div>
 
 ## ५० यत्प्रतिशृणोति प्रत्याश्रावयत्येव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्प्र॑तिशृ॒णोति॑ प्र॒त्याश्रा॑वयत्ये॒व तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3281,7 +3281,7 @@ When he summons the door-keeper he gives instruction.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/50_yatpratishRNoti_pratyAshrAvayatyeva.md">
 <details open><summary><h3>५० यत्प्रतिशृणोति प्रत्याश्रावयत्येव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3329,13 +3329,13 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 </div>
 
 ## ५१ यत्परिवेष्टारः पात्रहस्ताः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्प॑रिवे॒ष्टारः॒ पात्र॑हस्ताः॒ पूर्वे॒ चाप॑रे च प्र॒पद्य॑न्ते चम॒साध्व॑र्यव ए॒व ते ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3343,7 +3343,7 @@ He (the door-keeper) pronounces the sacrificial formula in his answer to what he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/51_yatpariveShTAraH_pAtrahastAH.md">
 <details open><summary><h3>५१ यत्परिवेष्टारः पात्रहस्ताः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3391,13 +3391,13 @@ When the attendants with vessels in their hands, foremost and hindmost, come in,
 </div>
 
 ## ५२ तेषां न
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/52_teShAM_na.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/52_teShAM_na.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 तेषां॒ न कश्च॒नाहो॑ता ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/52_teShAM_na.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/52_teShAM_na.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3405,7 +3405,7 @@ When the attendants with vessels in their hands, foremost and hindmost, come in,
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/52_teShAM_na.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/52_teShAM_na.md">
 <details open><summary><h3>५२ तेषां न ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3454,13 +3454,13 @@ Not one of them is incompetent to sacrifice.
 </div>
 
 ## ५३ यद्वा अतिथिपतिरतिथीन्परिविष्य
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यद्वा अति॑थिपति॒रति॑थीन्परि॒विष्य॑ गृ॒हानु॑पो॒दैत्य॑व॒भृथ॑मे॒व तदु॒पावै॑ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3468,7 +3468,7 @@ Not one of them is incompetent to sacrifice.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/53_yadvA_atithipatiratithInpariviShya.md">
 <details open><summary><h3>५३ यद्वा अतिथिपतिरतिथीन्परिविष्य ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3515,13 +3515,13 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 </div>
 
 ## ५४ यत्सभागयति दक्षिणाः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यत्स॑भा॒गय॑ति॒ दक्षि॑णाः सभागयति॒ यद॑नु॒तिष्ठ॑त उ॒दव॑स्यत्ये॒व तत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3529,7 +3529,7 @@ Or if the host, having offered food to his guest, goes up to the house, he virtu
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/54_yatsabhAgayati_daxiNAH.md">
 <details open><summary><h3>५४ यत्सभागयति दक्षिणाः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3576,13 +3576,13 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 </div>
 
 ## ५५ स उपहूतः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उप॑हूतः पृथि॒व्यां भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यत्पृ॑थि॒व्यां वि॒श्वरू॑पम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3590,7 +3590,7 @@ When he distributes food he distributes priestly fees; what he performs he asks 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/55_sa_upahUtaH.md">
 <details open><summary><h3>५५ स उपहूतः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3651,13 +3651,13 @@ He having been invited on earth, regales, invited in that, which wears all vario
 </div>
 
 ## ५६ स उपहूतोऽन्तरिक्षे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उप॑हूतो॒ऽन्तरि॑क्षे भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद॒न्तरि॑क्षे वि॒श्वरू॑पम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3665,7 +3665,7 @@ He having been invited on earth, regales, invited in that, which wears all vario
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/56_sa_upahUto-ntarixe.md">
 <details open><summary><h3>५६ स उपहूतोऽन्तरिक्षे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3711,13 +3711,13 @@ He, having been invited in air, regales, invited, in that which wears all variou
 </div>
 
 ## ५७ स उपहूतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/57_sa_upahUto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/57_sa_upahUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उप॑हूतो दि॒वि भ॑क्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दि॒वि वि॒श्वरू॑पम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/57_sa_upahUto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/57_sa_upahUto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3725,7 +3725,7 @@ He, having been invited in air, regales, invited, in that which wears all variou
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/57_sa_upahUto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/57_sa_upahUto.md">
 <details open><summary><h3>५७ स उपहूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3771,13 +3771,13 @@ He having been invited in the sky, regales, invited, in that which wears all var
 </div>
 
 ## ५८ स उपहूतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/58_sa_upahUto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/58_sa_upahUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उप॑हूतो दे॒वेषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यद्दे॒वेषु॑ वि॒श्वरू॑पम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/58_sa_upahUto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/58_sa_upahUto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3785,7 +3785,7 @@ He having been invited in the sky, regales, invited, in that which wears all var
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/58_sa_upahUto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/58_sa_upahUto.md">
 <details open><summary><h3>५८ स उपहूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3832,13 +3832,13 @@ He, having been invited among the gods, regales, invited in that which wears all
 </div>
 
 ## ५९ स उपहूतो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/59_sa_upahUto.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/59_sa_upahUto.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उप॑हूतो लो॒केषु॑ भक्षय॒त्युप॑हूत॒स्तस्मि॒न्यल्लो॒केषु॑ विश्वरू॑पम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/59_sa_upahUto.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/59_sa_upahUto.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3846,7 +3846,7 @@ He, having been invited among the gods, regales, invited in that which wears all
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/59_sa_upahUto.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/59_sa_upahUto.md">
 <details open><summary><h3>५९ स उपहूतो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3887,13 +3887,13 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 </div>
 
 ## ६० स उपहूत
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/60_sa_upahUta.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/60_sa_upahUta.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स उप॑हूत॒ उप॑हूतः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/60_sa_upahUta.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/60_sa_upahUta.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3901,7 +3901,7 @@ He, having been invited in the worlds, regales, invited, in that which wears all
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/60_sa_upahUta.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/60_sa_upahUta.md">
 <details open><summary><h3>६० स उपहूत ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -3945,13 +3945,13 @@ He, having been invited hath been invited.
 </div>
 
 ## ६१ आप्नोतीमं लोकमाप्नोत्यमुम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आ॒प्नोती॒मं लो॒कमा॒प्नोत्य॒मुम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -3959,7 +3959,7 @@ He, having been invited hath been invited.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/61_ApnotImaM_lokamApnotyamum.md">
 <details open><summary><h3>६१ आप्नोतीमं लोकमाप्नोत्यमुम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -4007,13 +4007,13 @@ He gains this world and the world yonder.
 </div>
 
 ## ६२ ज्योतिष्मतो लोकाञ्जयति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ज्योति॑ष्मतो लो॒काञ्ज॑यति॒ य ए॒वं वेद॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -4021,7 +4021,7 @@ He gains this world and the world yonder.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/09/006_atithi-satkAraH/62_jyotiShmato_lokAnjayati.md">
 <details open><summary><h3>६२ ज्योतिष्मतो लोकाञ्जयति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०८६ वृषकामना"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/_index.md">
 <details open><summary><h2>०८६ वृषकामना ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A glorification of a newly consecrated King
 </div>
 
 ## ०१ वृषेन्द्रस्य वृषा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 वृषेन्द्र॑स्य॒ वृषा॑ दि॒वो वृषा॑ पृथि॒व्या अ॒यम्।  
 वृषा॒ विश्व॑स्य भू॒तस्य॒ त्वमे॑कवृ॒षो भ॑व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A glorification of a newly consecrated King
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/01_vRShendrasya_vRShA.md">
 <details open><summary><h3>०१ वृषेन्द्रस्य वृषा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -98,14 +98,14 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 </div>
 
 ## ०२ समुद्र ईशे
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/02_samudra_Ishe.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/02_samudra_Ishe.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॑मु॒द्र ई॑शे स्र॒वता॑म॒ग्निः पृ॑थि॒व्या व॒शी।  
 च॒न्द्रमा॒ नक्ष॑त्राणामीशे॒ त्वमे॑कवृ॒षो भ॑व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/02_samudra_Ishe.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/02_samudra_Ishe.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -114,7 +114,7 @@ This is the Lord of Indra, this the Lord of Heaven, the Lord of Earth, The Lord 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/02_samudra_Ishe.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/02_samudra_Ishe.md">
 <details open><summary><h3>०२ समुद्र ईशे ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -161,14 +161,14 @@ The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent o
 </div>
 
 ## ०३ सम्राडस्यसुराणां ककुन्मनुष्याणाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स॒म्राड॒स्यसु॑राणां क॒कुन्म॑नु॒ष्या᳡णाम्।  
 दे॒वाना॑मर्ध॒भाग॑सि॒ त्वमे॑कवृ॒षो भ॑व ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -177,7 +177,7 @@ The Sea is regent of the floods, Agni is ruler of the land, The Moon is regent o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/086_vRShakAmanA/03_samrADasyasurANAM_kakunmanuShyANAm.md">
 <details open><summary><h3>०३ सम्राडस्यसुराणां ककुन्मनुष्याणाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

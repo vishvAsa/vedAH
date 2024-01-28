@@ -2,7 +2,7 @@
 title = "०२७ शत्रुनिवारणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/_index.md">
 <details open><summary><h2>०२७ शत्रुनिवारणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,7 +35,7 @@ A charm consigning an enemy to the serpents for punishment
 </div>
 
 ## ०१ प्राची दिगग्निरधिपतिरसितो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्राची॒ दिग॒ग्निरधि॑पतिरसि॒तो र॑क्षि॒तादि॒त्या इष॑वः।  
@@ -43,7 +43,7 @@ A charm consigning an enemy to the serpents for punishment
 यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -53,7 +53,7 @@ A charm consigning an enemy to the serpents for punishment
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/01_prAchI_digagniradhipatirasito.md">
 <details open><summary><h3>०१ प्राची दिगग्निरधिपतिरसितो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -118,7 +118,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 </div>
 
 ## ०२ दक्षिणा दिगिन्द्रोऽधिपतिस्तिरश्चिराजी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 दक्षि॑णा॒ दिगिन्द्रो॑ऽधिपति॒स्तिर॑श्चिराजी रक्षि॒ता पि॒तर॒ इष॑वः।  
@@ -126,7 +126,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -136,7 +136,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/02_daxiNA_digindro-dhipatistirashchirAjI.md">
 <details open><summary><h3>०२ दक्षिणा दिगिन्द्रोऽधिपतिस्तिरश्चिराजी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -184,7 +184,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 </div>
 
 ## ०३ प्रतीची दिग्वरुणोऽधिपतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 प्र॒तीची॒ दिग्वरु॒णोऽधि॑पतिः॒ पृदा॑कू रक्षि॒तान्न॒मिष॑वः।  
@@ -192,7 +192,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -202,7 +202,7 @@ Worship to these the regents, these the warders, and to the arrows, yea, to thes
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/03_pratIchI_digvaruNo-dhipatiH.md">
 <details open><summary><h3>०३ प्रतीची दिग्वरुणोऽधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -250,7 +250,7 @@ Worship, etc.
 </div>
 
 ## ०४ उदीची दिक्सोमोऽधिपतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उदी॑ची॒ दिक्सोमोऽधि॑पतिः स्व॒जो र॑क्षि॒ताशनि॒रिष॑वः।  
@@ -258,7 +258,7 @@ Worship, etc.
 यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -268,7 +268,7 @@ Worship, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/04_udIchI_diksomo-dhipatiH.md">
 <details open><summary><h3>०४ उदीची दिक्सोमोऽधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -320,7 +320,7 @@ Worship, etc.
 </div>
 
 ## ०५ ध्रुवा दिग्विष्णुरधिपतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ध्रु॒वा दिग्विष्णु॒रधि॑पतिः क॒ल्माष॑ग्रीवो रक्षि॒ता वी॒रुध॒ इष॑वः।  
@@ -328,7 +328,7 @@ Worship, etc.
 यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -338,7 +338,7 @@ Worship, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/05_dhruvA_digviShNuradhipatiH.md">
 <details open><summary><h3>०५ ध्रुवा दिग्विष्णुरधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -389,7 +389,7 @@ Worship, etc.
 </div>
 
 ## ०६ ऊर्ध्वा दिग्बृहस्पतिरधिपतिः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 ऊ॒र्ध्वा दिग्बृह॒स्पति॒रधि॑पतिः श्वि॒त्रो र॑क्षि॒ता व॒र्षमिष॑वः।  
@@ -397,7 +397,7 @@ Worship, etc.
 यो॒३॒॑स्मान्द्वेष्टि॒ यं व॒यं द्वि॒ष्मस्तं वो॒ जम्भे॑ दध्मः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -407,7 +407,7 @@ Worship, etc.
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/03/027_shatrunivAraNam/06_UrdhvA_digbRhaspatiradhipatiH.md">
 <details open><summary><h3>०६ ऊर्ध्वा दिग्बृहस्पतिरधिपतिः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

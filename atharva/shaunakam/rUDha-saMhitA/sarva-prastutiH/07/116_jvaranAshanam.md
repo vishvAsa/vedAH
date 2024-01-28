@@ -2,7 +2,7 @@
 title = "११६ ज्वरनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/_index.md">
 <details open><summary><h2>११६ ज्वरनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -30,14 +30,14 @@ Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; G
 </div>
 
 ## ०१ नमो रूराय
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/01_namo_rUrAya.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑।  
 नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/01_namo_rUrAya.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -46,7 +46,7 @@ Translated: Grohmann, Ind. Stud. ix. 386, 414; Zimmer, p. 381; Henry, 45, 124; G
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/01_namo_rUrAya.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/01_namo_rUrAya.md">
 <details open><summary><h3>०१ नमो रूराय ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -103,13 +103,13 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 </div>
 
 ## ०२ यो अन्येद्युरुभयद्युरभ्येतीमम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येती॒मं म॒ण्डूक॑म॒भ्ये᳡त्वव्र॒तः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -117,7 +117,7 @@ Homage to him the burning one, shaker, exciter, violent! Homage to him the cold 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/116_jvaranAshanam/02_yo_anyedyurubhayadyurabhyetImam.md">
 <details open><summary><h3>०२ यो अन्येद्युरुभयद्युरभ्येतीमम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

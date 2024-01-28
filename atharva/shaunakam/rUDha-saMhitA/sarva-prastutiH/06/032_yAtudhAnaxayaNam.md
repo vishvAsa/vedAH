@@ -2,7 +2,7 @@
 title = "०३२ यातुधानक्षयणम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/_index.md">
 <details open><summary><h2>०३२ यातुधानक्षयणम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ A charm against fiends and goblins
 </div>
 
 ## ०१ अन्तर्दावे जुहुता
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑न्तर्दा॒वे जु॑हु॒ता स्वे॒३॒॑तद्या॑तुधान॒क्षय॑णं घृ॒तेन॑।  
 आ॒राद्रक्षां॑सि॒ प्रति॑ दह॒ त्वम॑ग्ने॒ न नो॑ गृ॒हाणा॒मुप॑ तीतपासि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ A charm against fiends and goblins
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/01_antardAve_juhutA.md">
 <details open><summary><h3>०१ अन्तर्दावे जुहुता ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ With butter, in his hall v4here fire is burning, perform that sacri- fice which 
 </div>
 
 ## ०२ रुद्रो वो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 रु॒द्रो वो॑ ग्री॒वा अश॑रैत्पिशाचाः पृ॑ष्टीर्वोऽपि॑ शृणातु यातुधानाः।  
 वी॒रुद्वो॑ वि॒श्वतो॑वीर्या य॒मेन॒ सम॑जीगमत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ With butter, in his hall v4here fire is burning, perform that sacri- fice which 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/02_rudro_vo.md">
 <details open><summary><h3>०२ रुद्रो वो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -175,14 +175,14 @@ Let Rudra break your necks, O ye Pisachas, and split your ribs asunder, Yatudhan
 </div>
 
 ## ०३ अभयं मित्रावरुणाविहास्तु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अभ॑यं मित्रावरुणावि॒हास्तु॑ नो॒ऽर्चिषा॒त्त्रिणो॑ नुदतं प्र॒तीचः॑।  
 मा ज्ञा॒तारं॒ मा प्र॑ति॒ष्ठां वि॑दन्त मि॒थो वि॑घ्ना॒ना उप॑ यन्तु मृ॒त्युम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -191,7 +191,7 @@ Let Rudra break your necks, O ye Pisachas, and split your ribs asunder, Yatudhan
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/032_yAtudhAnaxayaNam/03_abhayaM_mitrAvaruNAvihAstu.md">
 <details open><summary><h3>०३ अभयं मित्रावरुणाविहास्तु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "०७३ घर्मः"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/_index.md">
 <details open><summary><h2>०७३ घर्मः ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ An invitation to the Asvins
 </div>
 
 ## ०१ समिद्धो अग्निर्वृषणा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समि॑द्धो अ॒ग्निर्वृ॑षणा र॒थी दि॒वस्त॒प्तो घ॒र्मो दु॑ह्यते वामि॒षे मधु॑।  
 व॒यं हि वां॑ पुरु॒दमा॑सो अश्विना हवामहे सध॒मादे॑षु का॒रवः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ An invitation to the Asvins
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/01_samiddho_agnirvRShaNA.md">
 <details open><summary><h3>०१ समिद्धो अग्निर्वृषणा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -105,14 +105,14 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 </div>
 
 ## ०२ समिद्धो अग्निरश्विना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 समि॑द्धो अ॒ग्निर॑श्विना त॒प्तो वां॑ घ॒र्म आ ग॑तम्।  
 दु॒ह्यन्ते॑ नू॒नं वृ॑षणे॒ह धे॒नवो॒ दस्रा॒ मद॑न्ति वे॒धसः॑ ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/02_samiddho_agnirashvinA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/02_samiddho_agnirashvinA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -121,7 +121,7 @@ Inflamed is Agni, Heroes! charioteer of heaven. The caldron boils: the meath is 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/02_samiddho_agnirashvinA.md">
 <details open><summary><h3>०२ समिद्धो अग्निरश्विना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -171,14 +171,14 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 </div>
 
 ## ०३ स्वाहाकृतः शुचिर्देवेषु
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 स्वाहा॑कृतः॒ शुचि॑र्दे॒वेषु॑ य॒ज्ञो यो अ॒श्विनो॑श्चम॒सो दे॑व॒पानः॑।  
 तमु॒ विश्वे॑ अ॒मृता॑सो जुषा॒णा ग॑न्ध॒र्वस्य॒ प्रत्या॒स्ना रि॑हन्ति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -187,7 +187,7 @@ Asvins, the fire is all aglow: your caldron hath been heated;. come! Here, even 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/03_svAhAkRtaH_shuchirdeveShu.md">
 <details open><summary><h3>०३ स्वाहाकृतः शुचिर्देवेषु ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -237,14 +237,14 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 </div>
 
 ## ०४ यदुस्रियास्वाहुतं घृतम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यदु॒स्रिया॒स्वाहु॑तं घृ॒तं पयो॒ऽयं स वा॑मश्विना भा॒ग आ ग॑तम्।  
 माध्वी॑ धर्तारा विदथस्य सत्पती त॒प्तं घ॒र्मं पि॑बतं रोचने दि॒वः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -253,7 +253,7 @@ Pure with the Gods is sacrifice with cry of Hail! That is the Asvins' cup whence
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/04_yadusriyAsvAhutaM_ghRtam.md">
 <details open><summary><h3>०४ यदुस्रियास्वाहुतं घृतम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -309,14 +309,14 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 </div>
 
 ## ०५ तप्तो वाम्
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/05_tapto_vAm.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/05_tapto_vAm.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 त॒प्तो वां॑ घ॒र्मो न॑क्षतु॒ स्वहो॑ता॒ प्र वा॑मध्व॒र्युश्च॑रतु॒ पय॑स्वान्।  
 मधो॑र्दु॒ग्धस्या॑श्विना त॒नाया॑ वी॒तं पा॒तं पय॑स उस्रियायाः ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/05_tapto_vAm.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/05_tapto_vAm.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -325,7 +325,7 @@ Milk, molten butter offered when the mornings break,--this is your portion, Asvi
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/05_tapto_vAm.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/05_tapto_vAm.md">
 <details open><summary><h3>०५ तप्तो वाम् ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -383,14 +383,14 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 </div>
 
 ## ०६ उप द्रव
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/06_upa_drava.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/06_upa_drava.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ द्रव॒ पय॑सा गोधुगो॒षमा घ॒र्मे सि॑ञ्च॒ पय॑ उ॒स्रिया॑याः।  
 वि नाक॑मख्यत्सवि॒ता वरे॑ण्योऽनुप्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/06_upa_drava.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/06_upa_drava.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -399,7 +399,7 @@ Let the warm drink approach you with its Hotar-priest: let the Adhvaryu come to 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/06_upa_drava.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/06_upa_drava.md">
 <details open><summary><h3>०६ उप द्रव ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -463,14 +463,14 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 </div>
 
 ## ०७ उप ह्वये
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/07_upa_hvaye.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/07_upa_hvaye.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम्।  
 श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी᳡द्धो॑ घ॒र्मस्तदु॒ षु प्र वो॑चत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/07_upa_hvaye.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/07_upa_hvaye.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -479,7 +479,7 @@ Come hither, quickly come, thou milker of the kine; into the caldron pour milk o
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/07_upa_hvaye.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/07_upa_hvaye.md">
 <details open><summary><h3>०७ उप ह्वये ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -530,14 +530,14 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 </div>
 
 ## ०८ हिङ्कृण्वती वसुपत्नी
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 हि॑ङ्कृण्व॒ती व॑सु॒पत्नी॒ वसू॑नां व॒त्समि॒छन्ती॒ मन॑सा॒ न्याग॑न्।  
 दु॒हाम॒श्विभ्यां॒ पयो॑ अ॒घ्न्येयं सा व॑र्धतां मह॒ते सौभ॑गाय ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -546,7 +546,7 @@ I invocate this milch-cow good for milking, so that the milker, deft of hand, ma
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/08_hinkRNvatI_vasupatnI.md">
 <details open><summary><h3>०८ हिङ्कृण्वती वसुपत्नी ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -598,14 +598,14 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 </div>
 
 ## ०९ जुष्टो दमूना
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/09_juShTo_damUnA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/09_juShTo_damUnA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 जुष्टो॒ दमू॑ना॒ अति॑थिर्दुरो॒ण इ॒मं नो॑ य॒ज्ञमुप॑ याहि वि॒द्वान्।  
 विश्वा॑ अग्ने अभि॒युजो॑ वि॒हत्य॑ शत्रूय॒तामा भ॑रा॒ भोज॑नानि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/09_juShTo_damUnA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/09_juShTo_damUnA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -614,7 +614,7 @@ She, sovran of all treasures, is come hither yearning in spirit for her calf, an
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/09_juShTo_damUnA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/09_juShTo_damUnA.md">
 <details open><summary><h3>०९ जुष्टो दमूना ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -666,14 +666,14 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 </div>
 
 ## १० अग्ने शर्ध
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/10_agne_shardha.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/10_agne_shardha.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अग्ने॒ शर्ध॑ मह॒ते सौभ॑गाय॒ तव॑ द्यु॒म्नान्यु॑त्त॒मानि॑ सन्तु।  
 सं जा॑स्प॒त्यं सु॒यम॒मा कृ॑णुष्व शत्रूय॒ताम॒भि ति॑ष्ठा॒ महां॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/10_agne_shardha.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/10_agne_shardha.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -682,7 +682,7 @@ As dear house-friend, guest welcome in the dwelling, to this our sacrifice come 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/10_agne_shardha.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/10_agne_shardha.md">
 <details open><summary><h3>१० अग्ने शर्ध ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -736,14 +736,14 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 </div>
 
 ## ११ सूयवसाद्भगवती हि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सू॑यव॒साद्भग॑वती॒ हि भू॒या अधा॑ व॒यं भग॑वन्तः स्याम।  
 अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॑ पिब शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -752,7 +752,7 @@ Show thyself strong for mighty bliss, O Agni! Most excellent be thine effulgent 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/07/073_gharmaH/11_sUyavasAdbhagavatI_hi.md">
 <details open><summary><h3>११ सूयवसाद्भगवती हि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

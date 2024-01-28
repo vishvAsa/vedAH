@@ -2,7 +2,7 @@
 title = "०२६ पाप्मनाशनम्"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/_index.md">
 <details open><summary><h2>०२६ पाप्मनाशनम् ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -34,14 +34,14 @@ To Affliction
 </div>
 
 ## ०१ अव मा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/01_ava_mA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/01_ava_mA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अव॑ मा पाप्मन्त्सृज व॒शी सन्मृ॑डयासि नः।  
 आ मा॑ भ॒द्रस्य॑ लो॒के पाप्म॑न्धे॒ह्यवि॑ह्रुतम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/01_ava_mA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/01_ava_mA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -50,7 +50,7 @@ To Affliction
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/01_ava_mA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/01_ava_mA.md">
 <details open><summary><h3>०१ अव मा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -100,14 +100,14 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 </div>
 
 ## ०२ यो नः
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/02_yo_naH.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/02_yo_naH.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 यो नः॑ पाप्म॒न्न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्।  
 प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/02_yo_naH.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/02_yo_naH.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -116,7 +116,7 @@ Let me go free, O Misery: do thou, the mighty, pity us. Set me uninjured in the 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/02_yo_naH.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/02_yo_naH.md">
 <details open><summary><h3>०२ यो नः ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -165,14 +165,14 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 </div>
 
 ## ०३ अन्यत्रास्मन्न्युच्यतु सहस्राक्षो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒न्यत्रा॒स्मन्न्यु᳡च्यतु सहस्रा॒क्षो अम॑र्त्यः।  
 यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -181,7 +181,7 @@ From thee, from thee who fliest not from us, O Misery, we fly. Then at the turni
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/06/026_pApmanAshanam/03_anyatrAsmannyuchyatu_sahasrAxo.md">
 <details open><summary><h3>०३ अन्यत्रास्मन्न्युच्यतु सहस्राक्षो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 

@@ -2,7 +2,7 @@
 title = "००३ आस्रावस्य"
 
 +++
-<div class="js_include" newlevelforh1="2" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/_index.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/_index.md">
 <details open><summary><h2>००३ आस्रावस्य ...{Loading}...</h2></summary>
 <details><summary>Whitney subject</summary>
 
@@ -35,14 +35,14 @@ A water-cure charm
 </div>
 
 ## ०१ अदो यदवधावत्यवत्कमधि
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्।  
 तत्ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -51,7 +51,7 @@ A water-cure charm
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/01_ado_yadavadhAvatyavatkamadhi.md">
 <details open><summary><h3>०१ अदो यदवधावत्यवत्कमधि ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -104,14 +104,14 @@ That little spring of water which is running downward from the hill I turn to he
 </div>
 
 ## ०२ आदङ्गा कुविदङ्गा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते।  
 तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -120,7 +120,7 @@ That little spring of water which is running downward from the hill I turn to he
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/02_AdangA_kuvidangA.md">
 <details open><summary><h3>०२ आदङ्गा कुविदङ्गा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -174,14 +174,14 @@ Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of a
 </div>
 
 ## ०३ नीचैः खनन्त्यसुरा
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्।  
 तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -190,7 +190,7 @@ Hither and onward! Well! Come on! Among thy hundred remedies Most excellent of a
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/03_nIchaiH_khanantyasurA.md">
 <details open><summary><h3>०३ नीचैः खनन्त्यसुरा ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -245,14 +245,14 @@ The Asuras bury deep in earth this mighty thing that healeth wounds. This is the
 </div>
 
 ## ०४ उपजीका उद्भरन्ति
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 उ॑प॒जीका॒ उद्भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्।  
 तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -261,7 +261,7 @@ The Asuras bury deep in earth this mighty thing that healeth wounds. This is the
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/04_upajIkA_udbharanti.md">
 <details open><summary><h3>०४ उपजीका उद्भरन्ति ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -318,14 +318,14 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 </div>
 
 ## ०५ अरुस्राणमिदं महत्पृथिव्या
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अ॑रु॒स्राण॑मि॒दं म॒हत्पृ॑थि॒व्या अध्युद्भृ॑तम्।  
 तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -334,7 +334,7 @@ The emmets from the water-flood produce this healing medicine: This is the cure 
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/05_arusrANamidaM_mahatpRthivyA.md">
 <details open><summary><h3>०५ अरुस्राणमिदं महत्पृथिव्या ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
@@ -381,14 +381,14 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 </div>
 
 ## ०६ शं नो
-<div class="js_include" newlevelforh1="3" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/06_shaM_no.md">
+<div class="js_include" newlevelforh1="6" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/vishvAsa-prastutiH/02/003_AsrAvasya/06_shaM_no.md">
 <details open><summary><h3>विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 शं नो॑ भवन्त्वा॒प ओष॑धयः शि॒वाः।  
 इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद्विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म् ॥
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="4" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/06_shaM_no.md">
+<div class="js_include collapsed" newlevelforh1="6" title="मूलम्" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/mUlam/02/003_AsrAvasya/06_shaM_no.md">
 <details><summary><h4>मूलम् ...{Loading}...</h4></summary>
 <details><summary>मूलम् (VS)</summary>
 
@@ -397,7 +397,7 @@ Mighty is this wound-healing balm: from out the earth was it produced. This is t
 </details>
 </details>
 </div>
-<div class="js_include" newlevelforh1="3" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/06_shaM_no.md">
+<div class="js_include" newlevelforh1="6" unfilled url="/vedAH/atharva/shaunakam/rUDha-saMhitA/sarvASh_TIkAH/02/003_AsrAvasya/06_shaM_no.md">
 <details open><summary><h3>०६ शं नो ...{Loading}...</h3></summary>
 <details><summary>Whitney</summary>
 
